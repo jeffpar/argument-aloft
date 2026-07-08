@@ -1,2 +1,1 @@
-# U.S. Supreme Court Opinion Data
-
+# U.S. Supreme Court Opinions
