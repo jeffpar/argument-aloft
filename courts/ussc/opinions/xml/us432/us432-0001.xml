@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us432-0001.html" citation="432 U.S. 1" title="Nyquist v. Mauclet">
   <opinion type="Opinions &amp; Dissents">
     <n id="p1">1</n>
-    <h>U.S. Supreme Court</h>
-    <h>Nyquist v. Mauclet, <a href="./us432-0001.xml#p1">432 U.S. 1</a> (1977)</h>
-    <h>Nyquist v. Mauclet</h>
-    <h>No. 76-208</h>
-    <h>Argued March 22, 1977</h>
-    <h>Decided June 13, 1977</h>
-    <h><a href="./us432-0001.xml#p1">432 U.S. 1</a></h>
-    <h>APPEAL FROM THE UNITED STATES DISTRICT COURTS</h>
-    <h>FOR THE WESTERN AND EASTERN DISTRICTS OF NEW YORK</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Nyquist v. Mauclet, <a href="./us432-0001.xml#p1">432 U.S. 1</a> (1977)</h1>
+    <h2>Nyquist v. Mauclet</h2>
+    <h2>No. 76-208</h2>
+    <h4>Argued March 22, 1977</h4>
+    <h4>Decided June 13, 1977</h4>
+    <h2>APPEAL FROM THE UNITED STATES DISTRICT COURTS</h2>
+    <h2>FOR THE WESTERN AND EASTERN DISTRICTS OF NEW YORK</h2>
+    <h2>Syllabus</h2>
     <p>New York statutory provision that bars certain resident aliens from state financial assistance for higher education held to violate the Equal Protection Clause of the Fourteenth Amendment. Pp. <a href="./us432-0001.xml#p7">432 U. S. 7</a>-12.</p>
     <p>(a) State classifications based on alienage are "inherently suspect and subject to close judicial scrutiny." Graham v. Richardson, <a href="../us403/us403-0365.xml#p365">403 U. S. 365</a>,3 <a href="../us403/us403-0029.xml#p72">403 U. S. 72</a>. P. <a href="./us432-0001.xml#p7">432 U. S. 7</a>.</p>
     <p>(b) The statute discriminates against a class and is subject to strict scrutiny, since it is directed at aliens and only aliens are harmed by it even though its bar against them is not absolute in that those who have applied for citizenship or those not qualified to apply who have filed statements of intent may participate in the assistance programs. Graham v. Richardson, supra; cf. Mathews v. Lucas, <a href="../us427/us427-0495.xml#p495">427 U. S. 495</a>, <a href="../us427/us427-0495.xml#p504">427 U. S. 504</a>-505, n. 11. Pp. <a href="./us432-0001.xml#p7">432 U. S. 7</a>-9.</p>
@@ -23,7 +23,7 @@
     <p>BLACKMUN, J., delivered the opinion of the Court, in which BRENNAN, WHITE, MARSHALL, and STEVENS, JJ., joined. BURGER, C.J., filed a dissenting opinion, post, <a href="./us432-0001.xml#p12">432 U. S.</a> 12. POWELL, J., filed a dissenting opinion, in which BURGER, C.J., and STEWART, J., joined, post, <a href="./us432-0001.xml#p15">432 U. S.</a> 15. REHNQUIST, J., filed a dissenting opinion, in which BURGER, C.J., joined, post, <a href="./us432-0001.xml#p17">432 U. S.</a> 17.</p>
     <p>MR. JUSTICE BLACKMUN delivered the opinion of the Court.</p>
     <p>New York, by statute, bars certain resident aliens from state financial assistance for higher education. N.Y.Educ.Law § 661(3) (McKinney Supp. 1976). This litigation presents a constitutional challenge to that statute.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>New York provides assistance, primarily in three forms, to students pursuing higher education. The first type is the Regents college scholarship. These are awarded to high school graduates on the basis of performance in a competitive examination. §§ 605(1) and 670. Currently, in the usual case, a recipient is entitled to $250 annually for four years of study without regard to need. §§ 670(2) and (3)(b). [<a id="nf1" href="#fn1">Footnote 1</a>] The</p>
     <n id="p3">3</n>
     <p>second and chief form of aid is the tuition assistance award. These are noncompetitive; they are available to both graduate and undergraduate students "enrolled in approved programs and who demonstrate the ability to complete such courses." §§ 604(1) and 667(1). The amount of the award depends on both tuition and income. The ceiling on assistance was $600, although it has been increased for undergraduates to $1,500. §§ 667(3) and (4). The third form of assistance is the student loan §§ 680-684. The loan is guaranteed by the State; a borrower meeting certain income restrictions is entitled to favorable interest rates and, generally, to an interest-free grace period of at least nine months after he completes or terminates his course of study. §§ 680, 682(2) and (3). [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
@@ -34,7 +34,7 @@
     <p>The statute obviously serves to bar from the assistance programs the participation of all aliens who do not satisfy its terms. Since many aliens, such as those here on student visas, may be precluded by federal law from establishing a permanent residence in this country, see, e.g., 8 U.S.C. § 1101(a)(15)(F)(i); 22 CFR § 41.45 (1976), the bar of § 661(3) is of practical significance only to resident aliens. The Court has observed of this affected group:</p>
     <p>"Resident aliens, like citizens, pay taxes, support the economy, serve in the Armed Forces, and contribute in myriad other ways to our society."</p>
     <p>In re Griffiths, <a href="../us413/us413-0717.xml#p717">413 U. S. 717</a>, <a href="../us413/us413-0717.xml#p722">413 U. S. 722</a> (1973).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Appellee Jean-Marie Mauclet is a citizen of France, and has lived in New York since April, 1969. He has been a permanent resident of the United States since November of that year. He is married to a United States citizen, and has a child by that marriage. The child is also a United States citizen. App. 49. Mauclet by affidavit stated:</p>
     <p>"Although I am presently qualified to apply for citizenship and intend to reside</p>
     <n id="p5">5</n>
@@ -46,7 +46,7 @@
     <p>requirement served to discriminate unconstitutionally against resident aliens. [<a id="nf6" href="#fn6">Footnote 6</a>] <a href="https://law.justia.com/cases/federal/district-courts/FSupp/406/1233/2143986/">406 F. Supp. 1233</a> (WDNY and EDNY 1976). Its enforcement was enjoined in separate judgments. App. 103, 106.</p>
     <p>Appellants -- the various individuals and corporate entities responsible for administering the State's educational assistance programs -- challenge this determination. [<a id="nf7" href="#fn7">Footnote 7</a>] We noted probable jurisdiction. 429 U.S. 917 (1976).</p>
     <n id="p7">7</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>The Court has ruled that classifications by a State that are based on alienage are "inherently suspect and subject to close judicial scrutiny." Graham v. Richardson, <a href="../us403/us403-0365.xml#p365">403 U. S. 365</a>, <a href="../us403/us403-0365.xml#p372">403 U. S. 372</a> (1971). See Examining Board v. Flores de Otero, <a href="../us426/us426-0572.xml#p572">426 U. S. 572</a>, <a href="../us426/us426-0572.xml#p601">426 U. S. 601</a>-602 (1976); In re Griffiths, 413 U.S. at <a href="../us413/us413-0717.xml#p721">413 U. S. 721</a>; Sugarman v. Dougall, <a href="../us413/us413-0634.xml#p634">413 U. S. 634</a>, <a href="../us413/us413-0634.xml#p642">413 U. S. 642</a> (1973). In undertaking this scrutiny,</p>
     <p>"the governmental interest claimed to justify the discrimination is to be carefully examined in order to determine whether that interest is legitimate and substantial, and inquiry must be made whether the means adopted to achieve the goal are necessary and precisely drawn."</p>
     <p>Examining Board v. Flores de Otero, 426 U.S. at <a href="../us426/us426-0572.xml#p605">426 U. S. 605</a>. See In re Griffiths, 413 U.S. at <a href="../us413/us413-0717.xml#p721">413 U. S. 721</a>-722. Alienage classifications by a State that do not withstand this stringent examination cannot stand. [<a id="nf8" href="#fn8">Footnote 8</a>]</p>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us445-0222.html" citation="445 U.S. 222" title="Chiarella v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p222">222</n>
-    <h>U.S. Supreme Court</h>
-    <h>Chiarella v. United States, <a href="./us445-0222.xml#p222">445 U.S. 222</a> (1980)</h>
-    <h>Chiarella v. United States</h>
-    <h>No. 78-1202</h>
-    <h>Argued November 5, 1979</h>
-    <h>Decided March 18, 1980</h>
-    <h><a href="./us445-0222.xml#p222">445 U.S. 222</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SECOND CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Chiarella v. United States, <a href="./us445-0222.xml#p222">445 U.S. 222</a> (1980)</h1>
+    <h2>Chiarella v. United States</h2>
+    <h2>No. 78-1202</h2>
+    <h4>Argued November 5, 1979</h4>
+    <h4>Decided March 18, 1980</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SECOND CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Section 10(b) of the Securities Exchange Act of 1934 prohibits the use</p>
     <p>"in connection with the purchase or sale of any security . . . [of] any manipulative or deceptive device or contrivance in contravention of such rules and regulations as the [Securities and Exchange] Commission may prescribe."</p>
     <p>Rule 10b-5 of the Securities and Exchange Commission (SEC), promulgated under § 10(b), makes it unlawful for any person to "employ any device, scheme, or artifice to defraud," or to</p>
@@ -28,13 +28,13 @@
     <n id="p224">224</n>
     <p>MR. JUSTICE POWELL delivered the opinion of the Court.</p>
     <p>The question in this case is whether a person who learns from the confidential documents of one corporation that it is planning an attempt to secure control of a second corporation violates § 10(b) of the Securities Exchange Act of 1934 if he fails to disclose the impending takeover before trading in the target company's securities.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Petitioner is a printer by trade. In 1975 and 1976, he worked as a "markup man" in the New York composing room of Pandick Press, a financial printer. Among documents that petitioner handled were five announcements of corporate takeover bids. When these documents were delivered to the printer, the identities of the acquiring and target corporations were concealed by blank spaces or false names. The true names were sent to the printer on the night of the final printing.</p>
     <p>The petitioner, however, was able to deduce the names of the target companies before the final printing from other information contained in the documents. Without disclosing his knowledge, petitioner purchased stock in the target companies and sold the shares immediately after the takeover attempts were made public. [<a id="nf1" href="#fn1">Footnote 1</a>] By this method, petitioner realized a gain of slightly more than $30,000 in the course of 14 months. Subsequently, the Securities and Exchange Commission (Commission or SEC) began an investigation of his trading activities. In May, 1977, petitioner entered into a consent decree with the Commission in which he agreed to return his profits to the sellers of the shares. [<a id="nf2" href="#fn2">Footnote 2</a>] On the same day, he was discharged by Pandick Press.</p>
     <n id="p225">225</n>
     <p>In January, 1978, petitioner was indicted on 17 counts of violating § 10(b) of the Securities Exchange Act of 1934 (1934 Act) and SEC Rule 10b-5. [<a id="nf3" href="#fn3">Footnote 3</a>] After petitioner unsuccessfully moved to dismiss the indictment, [<a id="nf4" href="#fn4">Footnote 4</a>] he was brought to trial and convicted on all counts.</p>
     <p>The Court of Appeals for the Second Circuit affirmed petitioner's conviction. 588 F.2d 1358 (1978). We granted certiorari, 441 U.S. 942 (1979), and we now reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Section 10(b) of the 134 Act, 48 Stat. 891, 15 U.S.C. § 78j, prohibits the use</p>
     <p>"in connection with the purchase or sale of any security . . . [of] any manipulative or deceptive device or contrivance in contravention of such rules and regulations as the Commission may prescribe."</p>
     <p>Pursuant to this section, the SEC promulgated Rule 10b-5, which provides in pertinent part: [<a id="nf5" href="#fn5">Footnote 5</a>]</p>
@@ -61,7 +61,7 @@
     <p>Indians selling to non-Indians through the bank and a resale market consisting entirely of non-Indians. Indian sellers charged that the assistant managers had violated § 10(b) and Rule 10b-5 by failing to inform them of the higher prices prevailing in the resale market. The Court recognized that no duty of disclosure would exist if the bank merely had acted as a transfer agent. But the bank also had assumed a duty to act on behalf of the shareholders, and the Indian sellers had relied upon its personnel when they sold their stock. 406 U.S. at <a href="../us406/us406-0128.xml#p152">406 U. S. 152</a>. Because these officers of the bank were charged with a responsibility to the shareholders, they could not act as market makers inducing the Indians to sell their stock without disclosing the existence of the more favorable non-Indian market. Id. at <a href="../us406/us406-0128.xml#p152">406 U. S. 152</a>-153.</p>
     <p>Thus, administrative and judicial interpretations have established that silence in connection with the purchase or sale of securities may operate as a fraud actionable under § 10(b) despite the absence of statutory language or legislative history specifically addressing the legality of nondisclosure. But such liability is premised upon a duty to disclose arising from a relationship of trust and confidence between parties to a transaction. Application of a duty to disclose prior to trading guarantees that corporate insiders, who have an obligation to place the shareholder's welfare before their own, will not benefit personally through fraudulent use of material, nonpublic information. [<a id="nf12" href="#fn12">Footnote 12</a>]</p>
     <n id="p231">231</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>In this case, the petitioner was convicted of violating § 10(b) although he was not a corporate insider and he received no confidential information from the target company. Moreover, the "market information" upon which he relied did not concern the earning power or operations of the target company, but only the plans of the acquiring company. [<a id="nf13" href="#fn13">Footnote 13</a>] Petitioner's use of that information was not a fraud under § 10(b) unless he was subject to an affirmative duty to disclose it before trading. In this case, the jury instructions failed to specify any such duty. In effect, the trial court instructed the jury that petitioner owed a duty to everyone; to all sellers, indeed, to the market as a whole. The jury simply was told to decide whether petitioner used material, nonpublic information at a time when "he knew other people trading in the securities market did not have access to the same information." Record 677.</p>
     <p>The Court of Appeals affirmed the conviction by holding that</p>
     <p>"[a]nyone -- corporate insider or not -- who regularly receives material nonpublic information may not use that information to trade in securities without incurring an affirmative duty to disclose."</p>
@@ -79,7 +79,7 @@
     <p>We see no basis for applying such a new and different theory of liability in this case. As we have emphasized before, the 1934 Act cannot be read "more broadly than its language and the statutory scheme reasonably permit.'" Touche Ross &amp; Co. v. Redington, <a href="../us442/us442-0560.xml#p560">442 U. S. 560</a>, <a href="../us442/us442-0560.xml#p578">442 U. S. 578</a> (1979), quoting SEC v. Sloan, <a href="../us436/us436-0103.xml#p103">436 U. S. 103</a>, <a href="../us436/us436-0103.xml#p116">436 U. S. 116</a> (1978). Section 10(b) is aptly</p>
     <n id="p235">235</n>
     <p>described as a catchall provision, but what it catches must be fraud. When an allegation of fraud is based upon nondisclosure, there can be no fraud absent a duty to speak. We hold that a duty to disclose under § 10(b) does not arise from the mere possession of nonpublic market information. The contrary result is without support in the legislative history of § 10(b), and would be inconsistent with the careful plan that Congress has enacted for regulation of the securities markets. Cf. Santa Fe Industries, Inc. v. Green, 430 U.S. at <a href="../us430/us430-0462.xml#p479">430 U. S. 479</a>. [<a id="nf20" href="#fn20">Footnote 20</a>]</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>In its brief to this Court, the United States offers an alternative theory to support petitioner's conviction. It argues that petitioner breached a duty to the acquiring corporation when he acted upon information that he obtained by virtue of his position as an employee of a printer employed by the corporation. The breach of this duty is said to support a</p>
     <n id="p236">236</n>
     <p>conviction under § 10(b) for fraud perpetrated upon both the acquiring corporation and the sellers.</p>
@@ -148,7 +148,7 @@
       <p>Title 15 U.S.C. § 78m(d)(1) (1976 ed., Supp. II) permits a tender offeror to purchase 5% of the target company's stock prior to disclosure of its plan for acquisition.</p>
     </f>
     <f n="16"><a id="fn16" href="#nf16">Footnote 16</a>
-      <p>Section 11 of the 1934 Act generally forbids a member of a national securities exchange from effecting any transaction on the exchange for its own account. 15 U.S.C. § 78k(a)(1). But Congress has specifically exempted specialists from this prohibition -- broker-dealers who execute orders for customers trading in a specific corporation's stock, while at the same time buying and selling that corporation's stock on their own behalf. § 11(a)(1)(A), 15 U.S.C. § 78k(a)(1)(A); see S.Rep. No. 94-75, p. 99 (1975); Securities and Exchange Commission, Report of Special Study of Securities Markets, H.R. Doc. No. 95, 88th Cong., 1st Sess., pt. , pp. 57-58, 76 (1963). See generally S. Robbins, The Securities Markets 191-193 (1966). The exception is based upon Congress' recognition that specialists contribute to a fair and orderly marketplace at the same time they exploit the informational advantage that comes from their possession of buy and sell orders. H.R. Doc. No. 95, supra at 78-80. Similar concerns with the functioning of the market prompted Congress to exempt market makers, block positioners, registered odd-lot dealers, bona fide arbitrageurs, and risk arbitrageurs from § 11's general prohibition on member trading. 15 U.S.C. §§ 78k(a)(1)(A)-(D); see S.Rep. No. 94-75, supra at 99. See also Securities Exchange Act Release No. 34-9950, 38 Fed.Reg. 3902, 3918 (1973).</p>
+      <p>Section 11 of the 1934 Act generally forbids a member of a national securities exchange from effecting any transaction on the exchange for its own account. 15 U.S.C. § 78k(a)(1). But Congress has specifically exempted specialists from this prohibition -- broker-dealers who execute orders for customers trading in a specific corporation's stock, while at the same time buying and selling that corporation's stock on their own behalf. § 11(a)(1)(A), 15 U.S.C. § 78k(a)(1)(A); see S.Rep. No. 94-75, p. 99 (1975); Securities and Exchange Commission, Report of Special Study of Securities Markets, H.R. Doc. No. 95, 88th Cong., 1st Sess., pt., pp. 57-58, 76 (1963). See generally S. Robbins, The Securities Markets 191-193 (1966). The exception is based upon Congress' recognition that specialists contribute to a fair and orderly marketplace at the same time they exploit the informational advantage that comes from their possession of buy and sell orders. H.R. Doc. No. 95, supra at 78-80. Similar concerns with the functioning of the market prompted Congress to exempt market makers, block positioners, registered odd-lot dealers, bona fide arbitrageurs, and risk arbitrageurs from § 11's general prohibition on member trading. 15 U.S.C. §§ 78k(a)(1)(A)-(D); see S.Rep. No. 94-75, supra at 99. See also Securities Exchange Act Release No. 34-9950, 38 Fed.Reg. 3902, 3918 (1973).</p>
     </f>
     <f n="17"><a id="fn17" href="#nf17">Footnote 17</a>
       <p>Fleischer, Mundheim, &amp; Murphy, supra n. 13, at 811-812.</p>
@@ -184,7 +184,7 @@
       <p>While I agree with Part I of THE CHIEF JUSTICE's dissent, I am unable to agree with <a href="./us445-0222.xml#p243">445 U. S.</a> Rather, I concur in the judgment of the majority because I think it clear that the legal theory sketched by THE CHIEF JUSTICE is not the one presented to the jury. As I read them, the instructions, in effect, permitted the jurors to return a verdict of guilty merely upon a finding of failure to disclose material, nonpublic information in connection with the purchase of stock. I can find no instruction suggesting that one element of the offense was the improper conversion or misappropriation of that nonpublic information. Ambiguous suggestions in the indictment and the prosecutor's opening and closing remarks are no substitute for the proper instructions. And neither reference to the harmless error doctrine nor some post hoc theory of constructive stipulation can cure the defect. The simple fact is that to affirm the conviction without an adequate instruction would be tantamount to directing a verdict of guilty, and that we plainly may not do.</p>
       <p>MR. CHIEF JUSTICE BURGER, dissenting.</p>
       <p>I believe that the jury instructions in this case properly charged a violation of § 10(b) and Rule 10b-5, and I would affirm the conviction.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>As a general rule, neither party to an arm's length business transaction has an obligation to disclose information to the</p>
       <n id="p240">240</n>
       <p>other unless the parties stand in some confidential or fiduciary relation. See W. Prosser, Law of Torts § 106 (2d ed.1955). This rule permits a businessman to capitalize on his experience and skill in securing and evaluating relevant information; it provides incentive for hard work, careful analysis, and astute forecasting. But the policies that underlie the rule also should limit its scope. In particular, the rule should give way when an informational advantage is obtained not by superior experience, foresight, or industry, but by some unlawful means. One commentator has written:</p>
@@ -200,7 +200,7 @@
       <p>Finally, it bears emphasis that this reading of § 10b and Rule 10b-5 would not threaten legitimate business practices. So read, the antifraud provisions would not impose a duty on a tender offeror to disclose its acquisition plans during the period in which it "tests the water" prior to purchasing a full 5% of the target company's stock. Nor would it proscribe "warehousing." See generally SEC, Institutional Investor Study Report, H.R. Doc. No. 92-64, pt. 4, p. 2273 (1971). Likewise, market specialists would not be subject to a disclose-or-refrain requirement in the performance of their every-day</p>
       <n id="p243">243</n>
       <p>market functions. In each of these instances, trading is accomplished on the basis of material, nonpublic information, but the information has not been unlawfully converted for personal gain.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>The Court's opinion, as I read it, leaves open the question whether § 10(b) and Rule 10b-5 prohibit trading on misappropriated nonpublic information. [Footnote 2/4] Instead, the Court apparently concludes that this theory of the case was not submitted to the jury. In the Court's view, the instructions given the jury were premised on the erroneous notion that the mere failure to disclose nonpublic information, however acquired, is a deceptive practice. And because of this premise, the jury was not instructed that the means by which Chiarella acquired his informational advantage -- by violating a duty owed to the acquiring companies -- was an element of the offense. See ante at <a href="./us445-0222.xml#p236">445 U. S. 236</a>.</p>
       <p>The Court's reading of the District Court's charge is unduly restrictive. Fairly read as a whole and in the context of the trial, the instructions required the jury to find that Chiarella obtained his trading advantage by misappropriating the property of his employer's customers. The jury was charged that,</p>
       <p>"[i]n simple terms, the charge is that Chiarella wrongfully took advantage of information he acquired in the course of his confidential position at Pandick Press and secretly used that information when he knew other people trading in the securities market did not have access to the same information</p>

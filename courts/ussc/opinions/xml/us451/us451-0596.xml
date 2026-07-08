@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us451-0596.html" citation="451 U.S. 596" title="Rodriguez v. Compass Shipping Co., Ltd.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p596">596</n>
-    <h>U.S. Supreme Court</h>
-    <h>Rodriguez v. Compass Shipping Co., Ltd., <a href="./us451-0596.xml#p596">451 U.S. 596</a> (1981)</h>
-    <h>Rodriguez v. Compass Shipping Co., Ltd.</h>
-    <h>No. 79-1977</h>
-    <h>Argued January 12, 1981</h>
-    <h>Decided May 18, 1981<a href="./us451-0596.xml#p596">451 U.S. 596</a>ast|&gt;*</h>
-    <h><a href="./us451-0596.xml#p596">451 U.S. 596</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SECOND CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Rodriguez v. Compass Shipping Co., Ltd., <a href="./us451-0596.xml#p596">451 U.S. 596</a> (1981)</h1>
+    <h2>Rodriguez v. Compass Shipping Co., Ltd.</h2>
+    <h4>No. 79-1977</h4>
+    <h4>Argued January 12, 1981</h4>
+    <h4>Decided May 18, 1981<a href="./us451-0596.xml#p596">451 U.S. 596</a>ast|&gt;*</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SECOND CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Section 33(b) of the Longshoremen's and Harbor Workers' Compensation Act provides that a longshoreman's acceptance, pursuant to an award in a compensation order, of compensation from his employer for injuries incurred in the course of employment</p>
     <p>"shall operate as an assignment to the employer of all right of the person entitled to compensation to recover damages against [a person other than the employer] unless [the longshoreman] shall commence an action against such third person within six months after such award."</p>
     <p>Petitioner longshoremen, who had been injured aboard ship in the course of their employment, accepted compensation under such an award from their respective stevedore employers. More than six months after the awards, each petitioner commenced an action in Federal District Court against the shipowner involved, alleging that the shipowner had negligently caused his injury. The District Courts granted summary judgments for the shipowners (respondents) on the ground that, because petitioners failed to bring suit within six months of the compensation awards, their causes of action had been assigned to their employers, who thereafter had the exclusive right to pursue the third-party claims. The Court of Appeals affirmed.</p>
@@ -35,7 +35,7 @@
     <p>to the award belongs entirely to the longshoreman. [<a id="nf9" href="#fn9">Footnote 9</a>] In the latter situation, the stevedore has exclusive control of the litigation; any net recovery -- after the compensation award and the litigation costs have been recouped -- must be shared 80% by the longshoreman and 20% by the employer. [<a id="nf10" href="#fn10">Footnote 10</a>] The question presented by these cases is what right, if any, the longshoreman has against the third-party shipowner if he does not sue within the 6-month period and the employer</p>
     <n id="p602">602</n>
     <p>fails to do so thereafter. Both the plain language of the statute and the history of its amendments dictate the same answer.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Even though the language of § 33(b) is simple and direct, it is appropriate to begin by quoting our description last Term of the context in which it appears:</p>
     <p>"The Act provides a comprehensive scheme governing an injured longshoreman's rights against the stevedore and shipowner. The longshoreman is not required to make an election between the receipt of compensation and a damages action against a third person, 33 U.S.C. § 933(a). After receiving a compensation award from the stevedore, the longshoreman is given six months within which to bring suit against the third party. 33 U.S.C. § 933(b). If he fails to seek relief within that period, the acceptance of the compensation award operates as an assignment to the stevedore of the longshoreman's rights against the third party."</p>
     <p>Bloomer v. Liberty Mutual Ins. Co., <a href="../us445/us445-0074.xml#p74">445 U. S. 74</a>, <a href="../us445/us445-0074.xml#p77">445 U. S. 77</a>-78. As is apparent, § 33(b) plays a central role in this comprehensive legislative scheme.</p>
@@ -48,7 +48,7 @@
     <p>In an attempt to avoid the conclusion mandated by its plain language, petitioners contend that the Act should be construed either to include an unexpressed condition precedent to any effective assignment -- namely, the absence of any possible conflict of interest between the employer stevedore and the employee -- or to grant the employee an implicit right to have the third-party claim reassigned if the employer fails to sue. Normally, these contentions would be foreclosed by the lack of any ambiguity in the statutory language. But the statutory language was also unambiguous in</p>
     <n id="p604">604</n>
     <p>1956 when this Court held, in Czaplicki v. The Hoegh Silvercloud, <a href="../us351/us351-0525.xml#p525">351 U. S. 525</a>, that § 33(b) contained a limited exception. It therefore is appropriate to evaluate petitioners' contentions in the light of the relevant legislative history. In making this evaluation, however, we adhere to the rule that, "[a]bsent a clearly expressed legislative intention to the contrary, [the statutory] language must ordinarily be regarded as conclusive." Consumer Product Safety Comm'n v. GTE Sylvania, Inc., <a href="../us447/us447-0102.xml#p102">447 U. S. 102</a>, <a href="../us447/us447-0102.xml#p108">447 U. S. 108</a>.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>As originally enacted in 1927, the Act gave an injured longshoreman the right to elect between the certain recovery of compensation from his employer without any proof of fault, or the less certain, but probably more generous, remedy of an action for damages against a negligent third party. [<a id="nf13" href="#fn13">Footnote 13</a>] The employee's election to accept compensation under the Act effected an immediate assignment to his employer of his cause of action for negligence. [<a id="nf14" href="#fn14">Footnote 14</a>] Under the original Act, the longshoreman could pursue either remedy, but not both, and nothing more than the acceptance of compensation was required to evidence the employee's election. See, e.g., Toomey v. Waterman S.S. Corp., 123 F.2d 718, 721 (CA2 1941).</p>
     <p>In 1938, Congress amended the Act to provide that the</p>
     <n id="p605">605</n>
@@ -72,14 +72,14 @@
     <n id="p612">612</n>
     <p>that, once the 6-month period expires, the employer possesses complete control of third-party claims. [<a id="nf29" href="#fn29">Footnote 29</a>]</p>
     <p>This history forecloses the argument that Congress did not intend an assignment of a third-party claim to be effective unless there was an absence of any potential conflict of interest between the assignee and the longshoreman. The statutory language provides a different and clearly defined solution to the conflict of interest problem that had been created by Ryan Stevedoring. [<a id="nf30" href="#fn30">Footnote 30</a>] Congress unequivocally made the choice in favor of first giving the employee exclusive control of the cause of action for a 6-month period and then giving the employer exclusive control thereafter, instead of opting for any form of simultaneous joint or partial control. The simple standard set forth in § 33(b) protects the interests of both employees and employers, and is consistent with the general policy of the Act to encourage the prompt and efficient administration of compensation claims. See Potomac Electric Power Co. v. Director, Office of Workers' Compensation Programs, <a href="../us449/us449-0268.xml#p268">449 U. S. 268</a>, <a href="../us449/us449-0268.xml#p282">449 U. S. 282</a>.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Although the assignment at the end of the 6-month period occurs automatically, the Court of Appeals for the Fourth Circuit has held that the employee retains a right after assignment to compel the assignee either to bring a third-party suit or to reassign the cause of action to the employee in response to a formal request to do so. See Caldwell v. Ogden Sea Transport, Inc., 618 F.2d 1037 (1980). The court "readily found" the procedural mechanism for implementing this nonstatutory right to a reassignment, id. at 1046, but we</p>
     <n id="p613">613</n>
     <p>find no evidence that Congress created either the substantive right itself or the procedural rights that the court discerned.</p>
     <p>The predicate for the Fourth Circuit's analysis was an assumption that Congress did not intend to allow the longshoreman to lose his rights against a third party simply because (a) he failed to take any action within six months and (b) his employer decided not to sue the third party thereafter. [<a id="nf31" href="#fn31">Footnote 31</a>] To avoid the "practical problem" presented in such a situation, the court fashioned a "solution" that the Act "does not specifically provide." Id. at 1045. We are persuaded that the reason Congress did not specifically provide the solution which the court readily found is that Congress did indeed intend to require the employee either to act promptly or to accept the consequences of an assignment of</p>
     <n id="p614">614</n>
     <p>his claim to the employer. [<a id="nf32" href="#fn32">Footnote 32</a>] One of the consequences of such an assignment is the risk that the employer will choose not to sue. The comprehensive character of the procedures outlined in the Act precludes the fashioning of an entirely new set of remedies to deal with an aspect of a problem that Congress expressly addressed. [<a id="nf33" href="#fn33">Footnote 33</a>] The fact that parties sometimes fail to assert meritorious claims within the period authorized by law is not a sufficient reason for refusing to enforce an unequivocal statutory bar.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>Finally, relying upon Edmonds v. Compagnie Generale Transatlantique, <a href="../us443/us443-0256.xml#p256">443 U. S. 256</a>, petitioners argue that Congress' failure to amend 33(b) in 1972, when the Act was thoroughly reexamined, evidences implicit congressional approval of the decision of the Court of Appeals for the District of Columbia Circuit in Potomac Electric Power Co. v. Wynn, 120 U.S.App.D.C. 13, 343 F.2d 295 (1965) (per curiam). In that case, the court held that a longshoreman who has accepted compensation under an award may maintain a third-party action whenever it becomes evident that his employer has no intention to file suit on the assigned claim. Id. at 16, 343 F.2d at 298. See also Joyner v. F.&amp; B Enterprises, Inc., 145 U.S.App.D.C. 262, 264, 448 F.2d</p>
     <n id="p615">615</n>
     <p>1185, 1187 (1971). The court construed the 1959 amendments as enlarging the employee's protection, and considered the rationale of Czaplicki to apply whenever a potential conflict of interest is present. In its judgment, the employer's failure to sue was sufficient evidence of a conflict to justify an independent action by the employee, notwithstanding the assignment provisions in the Act. [<a id="nf34" href="#fn34">Footnote 34</a>] 12 U.S.App.D.C. at 16, 343 F.2d at 298.</p>
@@ -89,7 +89,7 @@
     <p>Three of the 1972 Amendments are pertinent. First, the level of benefits was substantially increased, thereby increasing the likelihood that the statutory compensation recoverable without proof of fault would be adequate. [<a id="nf37" href="#fn37">Footnote 37</a>] Second, the shipowner's right to seek indemnity from the stevedore under Ryan Stevedoring was eliminated, thereby removing a category of litigation from the courts, placing more definite limits on the stevedore's insurance costs, and removing a potential source of conflict between the interests of employers and employees. [<a id="nf38" href="#fn38">Footnote 38</a>] Third, the shipowner's nearly absolute liability for unseaworthiness was eliminated, thereby further narrowing the area of potential litigation and increasing the relative importance of statutory awards as the favored method of compensation. [<a id="nf39" href="#fn39">Footnote 39</a>] See generally Scindia Steam Navigation Co.</p>
     <n id="p617">617</n>
     <p>v. De los Santos, ante, at <a href="./us451-0156.xml#p164">451 U. S. 164</a>-165. In making these changes, Congress necessarily balanced the conflicting interests of the vessel owner, the stevedore, and the longshoreman. As with other problems of interpreting the intent of Congress in fashioning various details of this legislative compromise, the wisest course is to adhere closely to what Congress has written. [<a id="nf40" href="#fn40">Footnote 40</a>] The meaning of § 33(b) is plain, and should be respected.</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>In sum, we conclude that the Court of Appeals in these cases correctly held that § 33(b) precludes petitioners from pursuing their third-party claims. Whatever the continued validity of our decision in Czaplicki, a question we need not and do not decide today, [<a id="nf41" href="#fn41">Footnote 41</a>] these cases do not involve "the</p>
     <n id="p618">618</n>
     <p>peculiar facts" on which Czaplicki was based. Rather, petitioners essentially have relied upon conflicts inherent in the statutory scheme and in the relationships among longshoremen, stevedores, and shipowners. The notion adopted in some post-Czaplicki decisions that a conflict of interest may be presumed whenever an employer does not sue on an assigned claim is simply untenable in light of the plain statutory language and the history of the 1959 and 1972 Amendments. We leave for another day the question whether an assignment under § 33(b) will bar a longshoreman's third-party action if there is specific evidence of a serious conflict of interest Congress could not have foreseen when it enacted and amended § 33.</p>

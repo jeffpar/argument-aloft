@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us367-0203.html" citation="367 U.S. 203" title="Scales v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p203">203</n>
-    <h>U.S. Supreme Court</h>
-    <h>Scales v. United States, <a href="./us367-0203.xml#p203">367 U.S. 203</a> (1961)</h>
-    <h>Scales v. United States</h>
-    <h>No. 1</h>
-    <h>Argued April 29, 1959</h>
-    <h>Reargued October 10, 1960</h>
-    <h>Decided June 5, 1961</h>
-    <h><a href="./us367-0203.xml#p203">367 U.S. 203</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE FOURTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Scales v. United States, <a href="./us367-0203.xml#p203">367 U.S. 203</a> (1961)</h1>
+    <h2>Scales v. United States</h2>
+    <h2>No. 1</h2>
+    <h4>Argued April 29, 1959</h4>
+    <h4>Reargued October 10, 1960</h4>
+    <h4>Decided June 5, 1961</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE FOURTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner was convicted of violating the so-called membership clause of the Smith Act, which makes a felony the acquisition or holding of membership in any organization which advocates the overthrow of the Government of the United States by force or violence, knowing the purposes thereof. The indictment charged that from January, 1946, to the date of its filing in 1954, the Communist Party of the United States was such an organization, and that, throughout that period, petitioner was a member thereof with knowledge of the Party's illegal purpose and a specific intent to accomplish overthrow of the Government "as speedily as circumstances would permit." The jury was instructed that it could not convict unless it found that, within the 3-year limitation period, (1) the Party advocated the violent overthrow of the Government, in the sense of present "advocacy of action" to accomplish that end as soon as circumstances were propitious, and (2) petitioner was an "active" member of the Party, and not merely "a nominal, passive, inactive or purely technical" member, with knowledge of the Party's illegal advocacy and a specific intent to bring about violent overthrow "as speedily as circumstances would permit."</p>
     <p>Held: A judgment of the Court of Appeals sustaining the conviction is affirmed. Pp. <a href="./us367-0203.xml#p205">367 U. S. 205</a>-259.</p>
     <p>1. Section 4(f) of the Internal Security Act of 1950, which provides, in part, that neither "the holding of office nor membership in any Communist organization by any person shall constitute per se a violation" of that or any other criminal statute, did not repeal pro tanto the membership clause of the Smith Act by excluding from the reach of that clause membership in any Communist organization. Pp. <a href="./us367-0203.xml#p206">367 U. S. 206</a>-219.</p>
@@ -35,7 +35,7 @@
     <n id="p206">206</n>
     <p>throughout that period was a member thereof, with knowledge of the Party's illegal purpose and a specific intent to accomplish overthrow "as speedily as circumstances would permit."</p>
     <p>The validity of this conviction is challenged on statutory, constitutional, and evidentiary grounds, and further on the basis of certain alleged trial and procedural errors. We decide the issues raised upon the fullest consideration, the case having had an unusually long history in this Court. [<a id="nf2" href="#fn2">Footnote 2</a>] For reasons given in this opinion, we affirm the Court of Appeals.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>STATUTORY CHALLENGE</p>
     <p>Petitioner contends that the indictment fails to state an offense against the United States. The claim is that § 4(f) of the Internal Security Act of 1950, 64 Stat. 987,</p>
     <n id="p207">207</n>
@@ -88,8 +88,8 @@
     <n id="p218">218</n>
     <p>Finally, it is worth noting that, after the conference measure returned to the floor of the Senate, it was attacked by Senator Kefauver on precisely the same grounds as had been urged against it in both Houses prior to conference: that the immunity conferred by the present § 4(f) was too narrowly drawn to save the registration provisions against an attack under Counselman. 96 Cong.Rec. 15198-15199. This same attack was renewed after the President's veto, which was overridden by Congress. [<a id="nf7" href="#fn7">Footnote 7</a>] 96 Cong.Rec. 15553-15554.</p>
     <n id="p219">219</n>
-    <p>The legislative history of § 4(f), therefore, far from weakening the conclusion flowing from analysis of the terms of the statute itself, fortifies that analysis at every point. To conclude that Congress' desire to protect the registration provisions of the Internal Security Act against pleas of self-incrimination should prevail over its advertent failure to assure that result at the expense of wiping out the membership clause of the Smith Act, as applied to Communists, would require a disregard by this Court of the evident congressional purpose. Whatever may be the consequences of that failure upon the Internal Security Act, we are concerned here solely with the question whether Congress ,by § 4(f), intended a partial repeal of the membership clause of the Smith Act. We conclude that it did not, and hold that this prosecution is not barred by § 4(f) of the Internal Security Act of 1950.</p>
-    <h>II</h>
+    <p>The legislative history of § 4(f), therefore, far from weakening the conclusion flowing from analysis of the terms of the statute itself, fortifies that analysis at every point. To conclude that Congress' desire to protect the registration provisions of the Internal Security Act against pleas of self-incrimination should prevail over its advertent failure to assure that result at the expense of wiping out the membership clause of the Smith Act, as applied to Communists, would require a disregard by this Court of the evident congressional purpose. Whatever may be the consequences of that failure upon the Internal Security Act, we are concerned here solely with the question whether Congress,by § 4(f), intended a partial repeal of the membership clause of the Smith Act. We conclude that it did not, and hold that this prosecution is not barred by § 4(f) of the Internal Security Act of 1950.</p>
+    <h2>II</h2>
     <p>CONSTITUTIONAL CHALLENGE TO THE MEMBERSHIP</p>
     <p>CLAUSE ON ITS FACE.</p>
     <p>Petitioner's constitutional attack goes both to the statute on its face and as applied. At this point, we deal with the first aspect of the challenge and with one part</p>
@@ -136,7 +136,7 @@
     <n id="p230">230</n>
     <p>lacks the requisite specific intent "to bring about the overthrow of the government as speedily as circumstances would permit." Such a person may be foolish, deluded, or perhaps merely optimistic, but he is not by this statute made a criminal.</p>
     <p>We conclude that petitioner's constitutional challenge must be overruled. [<a id="nf21" href="#fn21">Footnote 21</a>]</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>EVIDENTIARY CHALLENGE</p>
     <p>Only in rare instances will this Court review the general sufficiency of the evidence to support a criminal conviction, for ordinarily that is a function which properly belongs to and ends with the Court of Appeals. We do so in this case and in No. 9, Noto v. United States, post, p. <a href="./us367-0290.xml#p290">367 U. S. 290</a> -- our first review of convictions under the membership clause of the Smith Act -- not only to make sure that substantive constitutional standards have not been thwarted, but also to provide guidance for the future to the lower courts in an area which borders so closely upon constitutionally protected rights.</p>
     <p>On this phase of the case, petitioner's principal contention is that the evidence was insufficient to establish that the Communist Party was engaged in present advocacy of violent overthrow of the Government in the sense required by the Smith Act, that is, in "advocacy of action" for the accomplishment of such overthrow either immediately or as soon as circumstances proved propitious, and uttered in terms reasonably calculated to "incite" to such action. See Yates v. United States, supra, <a href="./us367-0316.xml#p318">367 U. S. 318</a>-322. This contention rests largely on the proposition that the</p>
@@ -171,7 +171,7 @@
     <p>in Russia should have its counterpart in America in a coalition of workers and Negroes, especially in the South. Following her classes at the National Training School, Mrs. Hartle returned to Washington, where she helped to recruit and organize in "underground fashion" the employees of the Boeing Aircraft Plant in that State. At the same time, Mrs. Hartle was active in Party schools in her area. She testified that she had both been instructed and had herself taught:</p>
     <p>". . . the means by which the ultimate goal might be attained was that those means would be forcible. The teaching was that any teaching, any theory of a peaceful road to socialism, or a growing over from capitalism to socialism was a betrayal of the working class and that the Communist Party leading the working class would have to arm it in the first place with the theory that the workers must know and must be prepared to know that they can only take power forcibly."</p>
     <p>"* * * *"</p>
-    <p>"The action that Communist Party members should take in preparing for the ultimate goal that I was taught and that I taught were to build the Communist Party as the vanguard party of the working class, a theoretically equipped party, equipped with the theory of Marxism-Leninism, a highly organized party that could act as a unit, as a monolithic whole, with democratic centralism, the principle guiding it . . . , and that the Communist Party should be the connection between the vanguard and the working class millions in this preparation by working with and winning the confidence of the working class and allies of the working class, such as, the Negro people, the poor farmers, other national groups, and in this way, in the course of struggle, constant struggle taking the forms of strikes</p>
+    <p>"The action that Communist Party members should take in preparing for the ultimate goal that I was taught and that I taught were to build the Communist Party as the vanguard party of the working class, a theoretically equipped party, equipped with the theory of Marxism-Leninism, a highly organized party that could act as a unit, as a monolithic whole, with democratic centralism, the principle guiding it . . ., and that the Communist Party should be the connection between the vanguard and the working class millions in this preparation by working with and winning the confidence of the working class and allies of the working class, such as, the Negro people, the poor farmers, other national groups, and in this way, in the course of struggle, constant struggle taking the forms of strikes</p>
     <n id="p239">239</n>
     <p>and demonstrations and picket lines and marches and various kinds of activities to train the working class and the people for revolutionary battie."</p>
     <p>The witness Duran, who attended a Party School in Los Angeles in 1951, described what he had been taught by one Moreau, a member of the National Education Commission of the Communist Party:</p>
@@ -195,7 +195,7 @@
     <p>". . . we were discussing the scientific application of Marx and Lenin to the transition period between capitalism and socialism, and he demonstrated this with the kettle of water, that you could put a quantitative amount of water in a kettle and set it somewhere, nothing would happen, just like the masses, nothing does happen."</p>
     <p>". . . [he] said, however, if you get that same amount, same kettle with the same amount of water in it, and put fire underneath it, then you begin to get quantitative changes, and eventually it reaches a nodule point to where it has a qualitative and abrupt transition into steam. He continued, same applied to the development of the revolution in this sense, the American people will not and cannot make a successful change over from capitalism to socialism by themselves, like the fire underneath the water, the Communist Party teaches and leads them to where when the society reaches that nodule point, the Communist people teaches the people before and then leads them to make that abrupt change into the society of socialism."</p>
     <p>"* * * *"</p>
-    <p>"Substantially, within the same explanation of violent overthrow of the Government . . . , he stated</p>
+    <p>"Substantially, within the same explanation of violent overthrow of the Government . . ., he stated</p>
     <n id="p242">242</n>
     <p>that not only would it be that, but that we would have to set up barricades, establish a central point from where we would participate from; he stated the 'we,' literally speaking, 'we,' would have to have a central point, because, during the revolution, it may become necessary to ebb, retreat in certain battles, and we would have to learn to retreat in an organizational way and a correct way. It was essential to learn to ebb as it was to flow on the revolution."</p>
     <p>"In the ebbing, we were to see that we ebb before the enemy wiped everybody out. Ebbing to the central point that had been barricaded, reorganization, and then at the correct time start flowing forward in the revolution."</p>
@@ -240,7 +240,7 @@
     <p>"the revolution basically would come about by combining the forces of what had been already identified as the Negro nation and the working class as the vanguard."</p>
     <p>In line with this strategy, Wilkerson advised Clontz that he should not let his membership in the Communist Party become known, that, by remaining "under cover," he "would be much more helpful to the Party when the revolution came." As part of his undercover activity, Clontz was directed to attempt to infiltrate various organizations of the working class in order to achieve "a background of respectability" and to be able to lead such organizations</p>
     <p>"toward the goal of the Communist Party, . . . the undermining of the Government and overthrowing the Government, bringing communism in the United States."</p>
-    <p>But Clontz was not to lose contact with the Party, for if he "got isolated without Party direction . . . , [his] efforts would be pretty</p>
+    <p>But Clontz was not to lose contact with the Party, for if he "got isolated without Party direction . . ., [his] efforts would be pretty</p>
     <n id="p249">249</n>
     <p>largely wasted." In connection with these instructions, Wilkerson mentioned</p>
     <p>"one of the things that frightened the United States leaders was they knew that not only did they have to contend with China and the other Communist-dominated countries, but that also in every capitalist country the working class party, the Communists, would be working from within."</p>
@@ -273,7 +273,7 @@
     <n id="p255">255</n>
     <p>were entirely adequate. [<a id="nf29" href="#fn29">Footnote 29</a>] The elements of petitioner's "knowledge" and "specific intent" (ante, p. <a href="./us367-0203.xml#p220">367 U. S. 220</a>) require no further discussion of the evidence beyond that already given as to Scales' utterances and activities. Compare Noto v. United States, post at <a href="./us367-0290.xml#p299">367 U. S. 299</a>-300. They bear little resemblance to the fragmentary and equivocal utterances and conduct which were found insufficient in Nowak v. United States, <a href="../us356/us356-0660.xml#p660">356 U. S. 660</a>, <a href="../us356/us356-0660.xml#p666">356 U. S. 666</a>-667, and in Maisenberg v. United States, <a href="../us356/us356-0670.xml#p670">356 U. S. 670</a>, <a href="../us356/us356-0670.xml#p673">356 U. S. 673</a>.</p>
     <p>We hold that this prosecution does not fail for insufficiency of the proof.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>ALLEGED TRIAL ERROR</p>
     <p>Petitioner contends that a number of errors were committed, having the effect of vitiating the fairness of his trial. For reasons substantially similar to those given by the Court of Appeals (260 F.2d 386), we find that none of petitioner's contentions raise points meriting reversal.</p>
     <p>1. Admission of Remote or Prejudicial Evidence</p>
@@ -322,7 +322,7 @@
       <p>". . . [R]egistration would constitute self-incrimination, if not under the terms of this law, then under the terms of the Smith Act."</p>
       <p>96 Cong.Rec. 14190.</p>
       <p>As the debate continued, Senator Long said:</p>
-      <p>"I was under the impression from hearing the Senator from New York yesterday that he said that, under a previous statute, it was unlawful to belong to an organization that advocated the overthrow of the United States government by force . . . , that there was a previous act . . . which made it unlawful for one to be a member of [such] an organization. . . ."</p>
+      <p>"I was under the impression from hearing the Senator from New York yesterday that he said that, under a previous statute, it was unlawful to belong to an organization that advocated the overthrow of the United States government by force . . ., that there was a previous act . . . which made it unlawful for one to be a member of [such] an organization. . . ."</p>
       <p>"* * * *"</p>
       <p>"Senator Ferguson. Is it not true that Judge Medina, in his charge to the jury in the trial of the 11 Communists, told them that mere membership in the Communist Party was not sufficient to warrant the jury in convicting them under the Smith Act? [The petitioner in the present case correctly notes that this reference was to the Dennis case involving an indictment for conspiracy to advocate, not the membership clause of the Smith Act.]"</p>
       <p>"Mr. Mundt [who was one of the proponents of the original bill]. Precisely."</p>
@@ -346,7 +346,7 @@
     </f>
     <f n="7"><a id="fn7" href="#nf7">Footnote 7</a>
       <p>Petitioner makes reference to the legislative history of an amendment to the Communist Control Act of 1954, S. 3706, 83d Cong., 2d Sess., introduced and passed with modifications in a hurried and confused debate in both Houses. The amendment, proposed by Senator Humphrey, provided that it would be criminal knowingly and willfully to become or remain a member of the Communist Party, or any other organization whose purpose is to overthrow the government by force and violence. The amendment was opposed by the proponents of the Internal Security Act of 1950, among others, on the grounds that it would impair the effectiveness of § 4(f) of the 1950 Act, possibly rendering the registration provisions of that Act unconstitutional. But it seems clear that this result was conceived to flow from the fact that the amendment mentioned the Communist Party by name, thus making registration tantamount to an admission of the crime itself. As Representative Halleck, the then majority leader who opposed the amendment, put it:</p>
-      <p>". . . [W]e have the Internal Security Act of 1950, which was worked out after the most careful consideration . . . , and the Smith Act, under which we have had more than 100 indictments and sixty-some convictions, all of Communist leaders. . . . Those acts we have on the books . . . ; they have established themselves."</p>
+      <p>". . . [W]e have the Internal Security Act of 1950, which was worked out after the most careful consideration . . ., and the Smith Act, under which we have had more than 100 indictments and sixty-some convictions, all of Communist leaders. . . . Those acts we have on the books . . . ; they have established themselves."</p>
       <p>". . . [T]he Attorney General . . . [s]peaking of the Internal Security Act . . . said:"</p>
       <p>"Essential to the validity of this careful plan, however, is the provision of section 4(f) of the act. . . . It is apparent that the enactment of legislation making membership in the Communist Party per se a crime would be in direct conflict with these provisions of the Internal Security Act. If membership alone is made criminal, to require him to declare his membership is to require him to give self-incriminating evidence. By nullifying this portion of the act, its entire operation would be jeopardized. . . ."</p>
       <p>"In other words, what we are doing permits outlawing the Communist Party, and maintaining the Internal Security Act, the Smith Act, and all other acts by which we deal realistically with the Communist conspiracy."</p>
@@ -557,7 +557,7 @@
       <n id="p277">277</n>
       <p>Bar Assn. of Balto., 209 Md. 328, 346-347, 121 A.2d 473, 481-482 (disbarment of a lawyer convicted under the Smith Act). The last two of these decisions relied on language in the decision of this Court in Dennis v. United States, <a href="../us341/us341-0494.xml#p494">341 U. S. 494</a>, <a href="../us341/us341-0494.xml#p501">341 U. S. 501</a>:</p>
       <p>"Whatever theoretical merit there may be to the argument that there is a 'right' to rebellion against dictatorial governments is without force where the existing structure of the government provides for peaceful and orderly change."</p>
-      <p>Yet the right of revolution has always meant more than this. "The words . . . ," said the court in Wells v. Bain, supra, 47,</p>
+      <p>Yet the right of revolution has always meant more than this. "The words . . .," said the court in Wells v. Bain, supra, 47,</p>
       <p>"embrace but three known recognised modes by which the whole people, the state, can give their consent to an alteration of an existing lawful frame of government, viz.: "</p>
       <p>"1. The mode provided in the existing constitution."</p>
       <p>"2. A law, as the instrumental process of raising the body for revision and conveying to it the powers of the people."</p>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us366-0696.html" citation="366 U.S. 696" title="United States v. Neustadt">
   <opinion type="Opinions &amp; Dissents">
     <n id="p696">696</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Neustadt, <a href="./us366-0696.xml#p696">366 U.S. 696</a> (1961)</h>
-    <h>United States v. Neustadt</h>
-    <h>No. 533</h>
-    <h>Argued May 2, 1961</h>
-    <h>Decided May 29, 1961</h>
-    <h><a href="./us366-0696.xml#p696">366 U.S. 696</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE FOURTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Neustadt, <a href="./us366-0696.xml#p696">366 U.S. 696</a> (1961)</h1>
+    <h2>United States v. Neustadt</h2>
+    <h2>No. 533</h2>
+    <h4>Argued May 2, 1961</h4>
+    <h4>Decided May 29, 1961</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE FOURTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Under the Federal Tort Claims Act, the United States may not be held liable to a purchaser of a home who has been furnished a statement reporting the results of a negligently inaccurate inspection and appraisal of the property made by the Federal Housing Administration for mortgage insurance purposes pursuant to the National Housing Act of 1934, as amended, and who, in reliance upon such statement, has been induced to pay a purchase price in excess of the fair market value of the property, since such a claim is one "arising out of . . . misrepresentation," within the meaning of 28 U.S.C. § 2680(h), which precludes recovery on claims arising out of negligent, as well as willful, misrepresentation. Pp. <a href="./us366-0696.xml#p696">366 U. S. 696</a>-711.</p>
     <p>281 F.2d 596 reversed.</p>
     <p>MR. JUSTICE WHITTAKER delivered the opinion of the Court.</p>
@@ -54,7 +54,7 @@
     <p>In the instant case, the Fourth Circuit took the opposite view, and held that respondents could recover on the sole basis of the underlying negligence. Although it agreed that § 2680(h) embraces both "negligent" and "willful" misrepresentation, and that respondents' claim "might form the basis of an action for misrepresentation under general common law principles," 281 F.2d at 601, it deemed § 2680(h) inapplicable here for the reason that the misrepresentation was "merely incidental" to the "gravamen" of the claim, i.e., "the careless making of an excessive appraisal so that [respondents were] . . . deceived and suffered substantial loss." Id. at 602.</p>
     <n id="p705">705</n>
     <p>Since § 226 of the National Housing Act [<a id="nf14" href="#fn14">Footnote 14</a>] requires that a seller of property approved for FHA mortgage insurance</p>
-    <p>"shall agree to deliver, prior to the sale of the property, to the person purchasing such [property], a written statement setting forth the amount of the [FHA] appraised value . . . ,"</p>
+    <p>"shall agree to deliver, prior to the sale of the property, to the person purchasing such [property], a written statement setting forth the amount of the [FHA] appraised value . . .,"</p>
     <p>the Fourth Circuit reasoned that the FHA appraisal procedure was designed to protect prospective home purchasers; that the Government (through the FHA) therefore "owed a specific duty" to respondents to make a careful appraisal, and that,</p>
     <p>"if the government assumes a duty and negligently performs it, a party injured thereby may recover damages from the United States even though the careless performance of the duty may have been accompanied by some misrepresentation of fact."</p>
     <p>Id. at 599.</p>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us481-0429.html" citation="481 U.S. 429" title="Burlington No. R. Co. v. Maintenance Emps.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p429">429</n>
-    <h>U.S. Supreme Court</h>
-    <h>Burlington No. R. Co. v. Maintenance Emps., <a href="./us481-0429.xml#p429">481 U.S. 429</a> (1987)</h>
-    <h>Burlington Northern Railroad Co. v. Brotherhood of</h>
-    <h>Maintenance of Way Employes</h>
-    <h>No. 86-39</h>
-    <h>Argued February 23, 1987</h>
-    <h>Decided April 28, 1987</h>
-    <h><a href="./us481-0429.xml#p429">481 U.S. 429</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE SEVENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Burlington No. R. Co. v. Maintenance Emps., <a href="./us481-0429.xml#p429">481 U.S. 429</a> (1987)</h1>
+    <h2>Burlington Northern Railroad Co. v. Brotherhood of</h2>
+    <h2>Maintenance of Way Employes</h2>
+    <h2>No. 86-39</h2>
+    <h4>Argued February 23, 1987</h4>
+    <h4>Decided April 28, 1987</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE SEVENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondent Brotherhood of Maintenance of Way Employes (BMWE), which represents railroad employees nationwide, had a dispute over renewal of a collective bargaining agreement with a small railroad that is a subsidiary of Guilford Transportation Industries, Inc. (Guilford), which also owns other railroads. After exhausting the settlement procedures mandated by the Railway Labor Act (RLA), BMWE instituted a lawful strike against the Guilford railroads. BMWE later extended its picketing to other railroads (including petitioners) with which Guilford interchanged traffic. In petitioners' consolidated actions, the Federal District Court entered a preliminary injunction against BMWE's picketing of any railroads other than those involved in the primary dispute. The court held that the "substantial alignment" test governs interpretation of the Norris-LaGuardia Act, §§ 1 and 4 of which bar federal courts from issuing injunctions against activities "growing out of" a "labor dispute." Under the test, the scope of lawful strike activity is confined to activities that further the union's economic interests in a labor dispute, and that are directed at the primary employer and other substantially aligned employers -- those having an ownership interest in, or providing essential services or facilities to, the primary employer. The court concluded that none of the petitioners were "substantially aligned" with Guilford, and that, thus, BMWE's secondary activity did not grow out of a labor dispute under the Norris-LaGuardia Act, and could be enjoined. The Court of Appeals reversed, concluding that the District Court had no jurisdiction to enter an injunction.</p>
     <p>Held: Under the Norris-LaGuardia Act, a federal court does not have jurisdiction to enjoin secondary picketing in railway labor disputes. Pp. <a href="./us481-0429.xml#p437">481 U. S. 437</a>-453.</p>
     <p>(a) The historical background of the Norris-LaGuardia Act -- particularly the legislative history showing that Congress was responding to what it considered to be unduly restrictive judicial construction of the anti-injunction provisions of § 20 of the Clayton Act -- reveals that Congress intended to preclude courts from enjoining secondary as well as</p>
@@ -29,7 +29,7 @@
     <p>JUSTICE BRENNAN delivered the opinion of the Court.</p>
     <p>What began as a dispute over renewal of a collective bargaining agreement between a small railroad in Maine and some of its employees expanded to picketing and threats of strike activity at railroad facilities around the country. A Federal District Court then enjoined the picketing of any railroads other than those involved in the primary dispute. The question we must decide is whether a federal court has jurisdiction to issue such an injunction.</p>
     <n id="p432">432</n>
-    <h>I</h>
+    <h2>I</h2>
     <p>Respondent Brotherhood of Maintenance of Way Employes (BMWE) represents railroad employees nationwide. Its members include employees of the Maine Central Railroad and the Portland Terminal Company, subsidiaries of Guilford Transportation Industries, Inc. (Guilford). Guilford also owns two other railroads, the Delaware Hudson Railway Company, and the Boston and Maine Corporation. The Guilford system covers some 4,000 miles of track in the northeast United States, east from Buffalo to Maine, and north from Washington, D.C. to Montreal. The Guilford system is not as large, however, as some other railroads, and Guilford depends on other railroads to carry much of its traffic.</p>
     <p>The crux of the dispute between Maine Central and BMWE was Maine Central's decision, following its acquisition by Guilford in 1981, to abolish over a 5-year period the jobs of roughly 300 out of 400 employees represented by BMWE. The collective bargaining agreement between BMWE and Maine Central expired in 1984, before the parties were able to reach agreement either on the problem of job losses or on various questions of wages, hours, and working conditions. A dispute "over the formation of collective agreements or efforts to secure them" is a "major dispute" in the parlance of railway labor law, Elgin, J. &amp; E. R. Co. v. Burley, <a href="../us325/us325-0711.xml#p711">325 U. S. 711</a>, <a href="../us325/us325-0711.xml#p723">325 U. S. 723</a> (1945), and is governed by the Railway Labor Act (RLA), 44 Stat. 577, as amended, 45 U.S.C. § 151 et seq. For over a year, the parties attempted to reach a settlement by following the detailed settlement procedures mandated by the RLA. On March 3, 1986, having exhausted these procedures, BMWE began a lawful strike against Maine Central and Portland Terminal. Two days later, BMWE lawfully extended the strike to Guilford's other two railroad subsidiaries. [<a id="nf1" href="#fn1">Footnote 1</a>]</p>
     <n id="p433">433</n>
@@ -46,7 +46,7 @@
     <p>While these judicial proceedings were pending, Congress and the Executive Branch took steps to resolve the controversy. On May 16, 1986, pursuant to § 10 of the RLA, 45 U.S.C. § 160, the President issued Executive Order No. 12557, 51 Fed.Reg. 18429 (1986). Under this Order, Presidential Emergency Board No. 209 was convened and given the task of investigating the dispute and reporting to the President within 30 days. Section 10 provides that, during this 30-day period, and for 30 days after the report is delivered, the parties to the controversy must return to and maintain the status quo prior to the dispute. The Presidential Emergency Board issued its report and recommendations on June 20, 1986. Its recommendations are not binding, however, and the parties did not accept them. On August 21, 1986, Congress passed a joint resolution establishing an advisory board to perform a second investigation and make a report. Four weeks later, on September 8, this board advised Congress that it should enact legislation binding the parties to the recommendation of Presidential Emergency Board No. 209. Congress promptly passed a joint resolution to this effect on September 23, 1986, and seven days later, the President signed the bill into law. Pub.L. 99-431, 100 Stat. 987. [<a id="nf4" href="#fn4">Footnote 4</a>]</p>
     <p>We granted certiorari, 479 U.S. 812 (1986), to resolve the Circuit conflict over the propriety of using the substantial alignment test to narrow the definition of labor disputes under the Norris-LaGuardia Act, and to address, if necessary, the applicability of the RLA and §§ 1 and 4 of the Norris-LaGuardia Act to secondary picketing.</p>
     <n id="p437">437</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>"The Norris-LaGuardia Act . . . expresses a basic policy against the injunction of activities of labor unions." Machinists v. Street, <a href="../us367/us367-0740.xml#p740">367 U. S. 740</a>, <a href="../us367/us367-0740.xml#p772">367 U. S. 772</a> (1961). Section 1 of the Act states that</p>
     <p>"[n]o court of the United States . . . shall have jurisdiction to issue any restraining order or temporary or permanent injunction in a case involving or growing out of a labor dispute, except in a strict conformity with the provisions of this chapter."</p>
     <p>29 U.S.C. § 101. Section 4 enumerates specific acts that shall not be subject to any restraining order or injunction; these include:</p>
@@ -70,7 +70,7 @@
     <p>Woodwork Manufacturers v. NLRB, <a href="../us386/us386-0612.xml#p612">386 U. S. 612</a>, <a href="../us386/us386-0612.xml#p623">386 U. S. 623</a> (1967) (quoting H.R.Rep. No. 669, 72d Cong., 1st Sess., 8 (1932)). [<a id="nf6" href="#fn6">Footnote 6</a>] Moreover, the legislative history leaves no doubt that Congress intended the Norris-LaGuardia Act to cover the railroads. After lengthy debate, punctuated with numerous references to the notorious Pullman Strike of 1894, the House refused an amendment proposed by Representative</p>
     <n id="p440">440</n>
     <p>Beck that would have exempted railroads from the coverage of the Act. See 75 Cong.Rec. 6471-6480, 5501-5512 (1932). The historical background of the Norris-LaGuardia Act thus reveals that Congress intended to preclude courts from enjoining secondary as well as primary activity, and that the railroads were to be treated no differently from other industries in this regard. [<a id="nf7" href="#fn7">Footnote 7</a>]</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>We first consider petitioners' argument that § 4's ban on injunctions is inapplicable to this case because the controversy is not one "involving or growing out of" a "labor dispute" under § 4 of the Norris-LaGuardia Act.</p>
     <p>Section 13(c) of the Norris-LaGuardia Act states that</p>
     <p>"[t]he term 'labor dispute' includes any controversy concerning terms or conditions of employment . . . regardless of whether or not the disputants stand in the proximate relation of employer and employee."</p>
@@ -96,7 +96,7 @@
     <p>"No cosmic principles announce the existence of secondary conduct, condemn it as an evil, or delimit its boundaries. These tasks were first undertaken by judges, intermixing metaphysics with their notions of social and economic policy. And the common law of labor relations . . . has drawn no lines more arbitrary, tenuous, and shifting than those separating 'primary' from 'secondary' activities."</p>
     <p>For the railway industry, unlike other industries covered by the National Labor Relations Act (NLRA), Congress has provided "neither usable standards nor access to administrative expertise" to facilitate the difficult task of distinguishing primary and secondary activity. Id. at <a href="../us394/us394-0369.xml#p392">394 U. S. 392</a>. Given the inherent indeterminacy of these concepts and the lack of congressional guidance, it is obvious that any judicial attempt to limit the language of § 13 would make "the lawfulness of a strike . . . depend upon judicial views of social and economic policy." Jacksonville Bulk Terminals, Inc., supra, at <a href="../us457/us457-0702.xml#p715">457 U. S. 715</a>. Even if we were confident that our mixture of metaphysics and social policy, unlike that of our predecessors earlier in this century, would produce a construction of § 13(c) that would substantially align with Congress' contemporary views, the fact remains that Congress passed the Norris-LaGuardia Act to forestall judicial attempts to narrow labor's statutory protection. Accordingly, we refuse to narrow the definition of "labor dispute" under § 13(c) to exclude those battles involving secondary activity.</p>
     <n id="p444">444</n>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>In certain limited circumstances, the Norris-LaGuardia Act does not prevent a court from enjoining violations of the specific mandate of another labor statute. Petitioners claim that the injunction here was valid because, under the RLA, it is illegal for a union to resort to secondary picketing after the parties have exhausted the major dispute resolution procedures. To evaluate this argument, we must briefly review the RLA.</p>
     <p>The Railway Labor Act "cannot be appreciated apart from the environment out of which it came and the purposes which it was designed to serve." Elgin, J. &amp; E. R. Co. v. Burley, 326 U.S. 711, 751 (1945) (Frankfurter, J., dissenting). Following decades of labor unrest that persistently revealed the shortcomings of every legislative attempt to address the problems, representatives of railroad labor and management created a system for dispute resolution that Congress enacted as the RLA in 1926. [<a id="nf9" href="#fn9">Footnote 9</a>] The RLA subjects all railway disputes to virtually endless "negotiation, mediation, voluntary arbitration, and conciliation." [<a id="nf10" href="#fn10">Footnote 10</a>] <a href="../us396/us396-0142.xml#p142">Detroit &amp; Toledo</a></p>
     <n id="p445">445</n>
@@ -137,7 +137,7 @@
     <p>at this advanced stage of the RLA's development, to find in it an implied limit on a union's resort to secondary activity. Instead,</p>
     <p>"if Congress should now find that abuses in the nature of secondary activities have arisen in the railroad industry, . . . it is for the Congress, and not the Courts, to strike the balance 'between the uncontrolled power of management and labor to further their respective interests.'"</p>
     <p>Trainmen v. Jacksonville Terminal Co., 394 U.S. at <a href="../us394/us394-0369.xml#p392">394 U. S. 392</a>.</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>"Th[e] judge-made law of the late l9th and early 20th centuries was based on self-mesmerized views of economic and social theory, . . . and on statutory misconstruction."</p>
     <p>Trainmen v. Jacksonville Terminal Co., supra, at <a href="../us394/us394-0369.xml#p382">394 U. S. 382</a>. It may be that the evolution of judicial attitudes toward labor in</p>
     <p>"the decades since the Norris-LaGuardia Act was passed has dissipated any legitimate concern about the impartiality of federal judges in disputes between labor and management."</p>

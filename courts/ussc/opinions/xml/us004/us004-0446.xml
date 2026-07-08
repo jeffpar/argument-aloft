@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us004-0446.html" citation="4 U.S. 446" title="DUTILH v. GATLIFF">
   <opinion type="Opinions &amp; Dissents">
     <n id="p446">446</n>
-    <h>U.S. Supreme Court</h>
-    <h>DUTILH v. GATLIFF, <a href="./us004-0446.xml#p446">4 U.S. 446</a> (1806)</h>
-    <h> <a href="./us004-0446.xml#p446">4 U.S. 446</a> (Dall.)</h>
-    <h>Dutilh v. Gatliff.</h>
-    <h>Supreme Court of Pennsylvania.</h>
-    <h>December Term, 1806</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>DUTILH v. GATLIFF, <a href="./us004-0446.xml#p446">4 U.S. 446</a> (1806)</h1>
+    <h2>Dutilh v. Gatliff.</h2>
+    <h2>Supreme Court of Pennsylvania.</h2>
+    <h4>December Term, 1806</h4>
     <p>THE following case was stated for the opinion of the Court: 'Case. On the 24th of September 1799, the defendant, Samuel Gatliff, underwrote seven hundred and fifty dollars upon a policy of insurance on the schooner Little Will, belonging to John Dutilh and Thomas Lillibridge, for whom the plaintiff was agent, on voyage at and from Philadelphia to Havanna.</p>
     <p>On the 26th of September 1799, the Little Will sailed on her voyage; from Philadelphia for Havanna, and on the 8th day of October following, she was captured by three British privateers, and carried into the port of Nassau, New-Providence, where she arrived on the 13th of the same month.</p>
     <p>Upon her arrival in Nassau, the said schooner was libelled in the Admiralty Court, and on the 9th day of November following, was regularly acquitted; and in the whole, she remained thirty seven days at Nassau, during thirty five of which she was in custody of the captors; but the fact of her acquittal was not known</p>
@@ -17,7 +17,7 @@
     <p>On the 20th November, the said schooner sailed from Nassau for Havanna, where she arrived on the 21st of the same month, and sold her cargo, except three boxes plundered at New-Providence. Afterwards the said schooner sailed from Havanna for Philadelphia, where she arrived on the 26th or 27th of February in the year 1800, with a cargo of sugars, on which freight became due and was received by Stephen Dutilh, for the benefit of those who were entitled to it. Each party refusing to accept the schooner, she was sold for wharfage, and the whole proceeds of sale applied to the payment thereof.</p>
     <p>The schooner Little Will was American property, as warranted.</p>
     <p>The QUESTION for the Court is, whether the plaintiff is entitled to recover as for a total loss?</p>
-    <p>If the Court shall be of opinion that the loss was total, then it shall be referred, in the usual form, to three person , to be appointed by the Court, to ascertain what is due, after the legal and just deductions.</p>
+    <p>If the Court shall be of opinion that the loss was total, then it shall be referred, in the usual form, to three person, to be appointed by the Court, to ascertain what is due, after the legal and just deductions.</p>
     <p>If the Court shall be of opinion it was not a total loss, it shall, in like manner, be referred to three referrees, or any two of them, to be appointed by the Court, to ascertain the partial loss, to which the defendant is liable.</p>
     <p>J. Ingersoll, for the plaintiff.</p>
     <p>W. Lewis, for the defendant.' [447-Continued.]</p>
@@ -40,7 +40,7 @@
     <p>It has been contended by the plaintiff's counsel, that the right to abandon would not have been affected, even if the property had been restored at the time of abandonment, because the restitution was unknown to the plaintiff. As to this, I give no opinion. It is unnecessary; because it is stated that the vessel remained in the custody of the captors at the time of abandonment. The defendant's counsel have urged, that this was the fault of the captain, or of one of the owners, who was at New-Providence; because, after a decree of acquittal, a writ of restitution might have been sued out. But it not being stated, that there was any fault or negligence in the captain or owner, I do not think that the Court can infer it. It being stated that the vessel remained in the custody of the captors, we must presume that the custody was legal. Whether for the purpose of giving the captors an opportunity of entering an appeal, or for what other purpose it was that the restitution was delayed, we are at a loss to determine. But, as restitution was not actually made, and as the plaintiff was ignorant, even of the decree of acquittal, his right to abandon remained unimpaired.</p>
     <p>Upon the whole, we are of opinion, that the plaintiff is entitled to recover for a total loss.</p>
     <p>Judgment for the plaintiff. [<a id="nf1" href="#fn1">Footnote 1</a>]</p>
-    <h>Footnotes</h>
+    <h2>Footnotes</h2>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>
       <p>Since the decision of this case, the case of Rhinelander v. The Insurance Company of Pennsylvania, was argued in the Supreme Court of the United States, at Washington, in February term 1807, upon a writ of error from the Circuit Court of the Pennsylvania district; and that Court ( consisting of MARSHALL, Chief Justice, CHASE, JOHNSTONE, and LIVINGSTONE, Justices) were of opinion, that in the case of neutral, as well as of belligerent, property, the assured has a right to abandon, and to claim for a total loss, as soon as the vessel is arrested, taken possession of, and carried out of the course of her voyage.</p>
     </f>

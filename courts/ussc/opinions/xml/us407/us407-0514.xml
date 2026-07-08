@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us407-0514.html" citation="407 U.S. 514" title="Barker v. Wingo">
   <opinion type="Opinions &amp; Dissents">
     <n id="p514">514</n>
-    <h>U.S. Supreme Court</h>
-    <h>Barker v. Wingo, <a href="./us407-0514.xml#p514">407 U.S. 514</a> (1972)</h>
-    <h>Barker v. Wingo</h>
-    <h>No. 71-5255</h>
-    <h>Argued April 11, 1972</h>
-    <h>Decided June 22, 1972</h>
-    <h><a href="./us407-0514.xml#p514">407 U.S. 514</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SIXTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Barker v. Wingo, <a href="./us407-0514.xml#p514">407 U.S. 514</a> (1972)</h1>
+    <h2>Barker v. Wingo</h2>
+    <h2>No. 71-5255</h2>
+    <h4>Argued April 11, 1972</h4>
+    <h4>Decided June 22, 1972</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SIXTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner was not brought to trial for murder until more than five years after he had been arrested, during which time the prosecution obtained numerous continuances, initially for the purpose of first trying petitioner's alleged accomplice so that his testimony, if conviction resulted, would be available at petitioner's trial. Before the accomplice was finally convicted, he was tried six times. Petitioner made no objection to the continuances until three and one-half years after he was arrested. After the accomplice was finally convicted, petitioner, after further delays because of a key prosecution witness' illness, was tried and convicted. In this habeas corpus proceeding, the Court of Appeals, concluding that petitioner had waived his right to a speedy trial for the period prior to his demand for trial, and, in any event, had not been prejudiced by the delay, affirmed the District Court's judgment against petitioner.</p>
     <p>Held: A defendant's constitutional right to a speedy trial cannot be established by any inflexible rule, but can be determined only on an ad hoc balancing basis in which the conduct of the prosecution and that of the defendant are weighed. The court should assess such factors as the length of and reason for the delay, the defendant's assertion of his right, and prejudice to the defendant. In this case, the lack of any serious prejudice to petitioner and the fact, as disclosed by the record, that he did not want a speedy trial outweigh opposing considerations, and compel the conclusion that petitioner was not deprived of his due process right to a speedy trial. Pp. <a href="./us407-0514.xml#p519">407 U. S. 519</a>-536.</p>
     <p>442 F.2d 1141, affirmed.</p>
@@ -21,7 +21,7 @@
     <p>Although a speedy trial is guaranteed the accused by the Sixth Amendment to the Constitution, [<a id="nf1" href="#fn1">Footnote 1</a>] this Court has dealt with that right on infrequent occasions. See Beavers v. Haubert, <a href="../us198/us198-0077.xml#p77">198 U. S. 77</a> (1905); Pollard v. United States, <a href="../us352/us352-0354.xml#p354">352 U. S. 354</a> (1957); United States v. Ewell, <a href="../us383/us383-0116.xml#p116">383 U. S. 116</a> (1966); United States v. Marion, <a href="../us404/us404-0307.xml#p307">404 U. S. 307</a> (1971). See also United States v. Provoo, 17 F.R.D. 183 (D. Md.), aff'd, 30 U.S. 857 (1955). The Court's opinion in Klopfer v. North Carolina, <a href="../us386/us386-0213.xml#p213">386 U. S. 213</a> (1967), established that the right to a speedy trial is "fundamental," and is imposed by the Due Process Clause of the Fourteenth Amendment on the States. [<a id="nf2" href="#fn2">Footnote 2</a>] See Smith v. Hooey, <a href="../us393/us393-0374.xml#p374">393 U. S. 374</a> (1969); Dickey v. Florida, <a href="../us398/us398-0030.xml#p30">398 U. S. 30</a> (1070). As MR. JUSTICE BRENNAN</p>
     <n id="p516">516</n>
     <p>pointed out in his concurring opinion in Dickey, in none of these cases have we attempted to set out the criteria by which the speedy trial right is to be judged. 398 U.S. at <a href="../us398/us398-0375.xml#p401">398 U. S. 401</a>. This case compels us to make such an attempt.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>On July 20, 1958, in Christian County, Kentucky, an elderly couple was beaten to death by intruders wielding an iron tire tool. Two suspects, Silas Manning and Willie Barker, the petitioner, were arrested shortly thereafter. The grand jury indicted them on September 15. Counsel was appointed on September 17, and Barker's trial was set for October 21. The Commonwealth had a stronger case against Manning, and it believed that Barker could not be convicted unless Manning testified against him. Manning was naturally unwilling to incriminate himself. Accordingly, on October 23, the day Silas Manning was brought to trial, the Commonwealth sought and obtained the first of what was to be a series of 16 continuances of Barker's trial. [<a id="nf3" href="#fn3">Footnote 3</a>] Barker made no objection. By first convicting Manning, the Commonwealth would remove possible problems of self-incrimination, and would be able to assure his testimony against Barker.</p>
     <p>The Commonwealth encountered more than a few difficulties in its prosecution of Manning. The first trial ended in a hung jury. A second trial resulted in a conviction, but the Kentucky Court of Appeals reversed because of the admission of evidence obtained by an illegal search. Manning v. Commonwealth, <a href="https://law.justia.com/cases/kentucky/court-of-appeals/1959/328-s-w-2d-421-1.html">328 S.W.2d 421</a> (1959). At his third trial, Manning was again convicted, and the Court of Appeals again reversed</p>
     <n id="p517">517</n>
@@ -35,7 +35,7 @@
     <p>Barker appealed his conviction to the Kentucky Court of Appeals, relying in part on his speedy trial claim. The court affirmed. Barker v. Commonwealth, <a href="https://law.justia.com/cases/kentucky/court-of-appeals/1964/385-s-w-2d-671-1.html">385 S.W.2d 671</a> (1964). In February, 1970, Barker petitioned for habeas corpus in the United States District Court for the Western District of Kentucky. Although the District Court rejected the petition without holding a hearing, the court granted petitioner leave to appeal in forma pauperis and a certificate of probable cause to appeal. On appeal, the Court of Appeals for the Sixth Circuit affirmed the District Court. 442 F.2d 1141 (1971). It ruled that Barker had waived his speedy trial claim for the entire period before February, 1963, the date on which the court believed he had first objected to the delay by filing a motion to dismiss. In this belief the court was mistaken, for the record reveals</p>
     <n id="p519">519</n>
     <p>that the motion was filed in February, 1962. The Commonwealth so conceded at oral argument before this Court. [<a id="nf6" href="#fn6">Footnote 6</a>] The court held further that the remaining period after the date on which Barker first raised his claim and before his trial -- which it thought was only eight months but which was actually 20 months -- was not unduly long. In addition, the court held that Barker had shown no resulting prejudice, and that the illness of the ex-sheriff was a valid justification for the delay. We granted Barker's petition for certiorari. 404 U.S. 1037 (1972).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The right to a speedy trial is generically different from any of the other rights enshrined in the Constitution for the protection of the accused. In addition to the general concern that all accused persons be treated according to decent and fair procedures, there is a societal interest in providing a speedy trial which exists separate from, and at times in opposition to, the interests of the accused. The inability of courts to provide a prompt trial has contributed to a large backlog of cases in urban courts which, among other things, enables defendants to negotiate more effectively for pleas of guilty to lesser offenses and otherwise manipulate the system. [<a id="nf7" href="#fn7">Footnote 7</a>] In addition, persons released on bond for lengthy periods awaiting trial have an opportunity to commit other crimes. [<a id="nf8" href="#fn8">Footnote 8</a>] It must be of little comfort to the residents of Christian County, Kentucky, to know that Barker was at large on bail for over four years while accused of a vicious</p>
     <n id="p520">520</n>
     <p>and brutal murder of which he was ultimately convicted. Moreover, the longer an accused is free awaiting trial, the more tempting becomes his opportunity to jump bail and escape. [<a id="nf9" href="#fn9">Footnote 9</a>] Finally, delay between arrest and punishment may have a detrimental effect on rehabilitation. [<a id="nf10" href="#fn10">Footnote 10</a>]</p>
@@ -49,7 +49,7 @@
     <p>"The right of a speedy trial is necessarily relative. It is consistent with delays, and depends upon circumstances. It secures rights to a defendant. It does not preclude the rights of public justice."</p>
     <p>198 U.S. at <a href="../us198/us198-0077.xml#p87">198 U. S. 87</a>.</p>
     <p>The amorphous quality of the right also leads to the unsatisfactorily severe remedy of dismissal of the indictment when the right has been deprived. This is indeed a serious consequence, because it means that a defendant who may be guilty of a serious crime will go free, without having been tried. Such a remedy is more serious than an exclusionary rule or a reversal for a new trial, [<a id="nf16" href="#fn16">Footnote 16</a>] but it is the only possible remedy.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Perhaps because the speedy trial right is so slippery, two rigid approaches are urged upon us as ways of eliminating some of the uncertainty which courts experience</p>
     <n id="p523">523</n>
     <p>in protecting the right. The first suggestion is that we hold that the Constitution requires a criminal defendant to be offered a trial within a specified time period. The result of such a ruling would have the virtue of clarifying when the right is infringed and of simplifying courts' application of it. Recognizing this, some legislatures have enacted laws, and some courts have adopted procedural rules which more narrowly define the right. [<a id="nf17" href="#fn17">Footnote 17</a>] The United States Court of Appeals for the Second Circuit has promulgated rules for the district courts in that Circuit establishing that the government must be ready for trial within six months of the date of arrest, except in unusual circumstances, or the charge will be dismissed. [<a id="nf18" href="#fn18">Footnote 18</a>] This type of rule is also recommended by the American Bar Association. [<a id="nf19" href="#fn19">Footnote 19</a>]</p>
@@ -78,7 +78,7 @@
     <p>We therefore reject both of the inflexible approaches -- the fixed-time period because it goes further than the Constitution requires; the demand-waiver rule because it is insensitive to a right which we have deemed</p>
     <n id="p530">530</n>
     <p>fundamental. The approach we accept is a balancing test, in which the conduct of both the prosecution and the defendant are weighed. [<a id="nf29" href="#fn29">Footnote 29</a>]</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>A balancing test necessarily compels courts to approach speedy trial cases on an ad hoc basis. We can do little more than identify some of the factors which courts should assess in determining whether a particular defendant has been deprived of his right. Though some might express them in different ways, we identify four such factors: length of delay, the reason for the delay, the defendant's assertion of his right, and prejudice to the defendant. [<a id="nf30" href="#fn30">Footnote 30</a>]</p>
     <p>The length of the delay is to some extent a triggering mechanism. Until there is some delay which is presumptively prejudicial, there is no necessity for inquiry into the other factors that go into the balance. Nevertheless, because of the imprecision of the right to speedy trial, the length of delay that will provoke such an inquiry is necessarily dependent upon the peculiar</p>
     <n id="p531">531</n>
@@ -92,7 +92,7 @@
     <n id="p533">533</n>
     <p>jail is simply dead time. Moreover, if a defendant is locked up, he is hindered in his ability to gather evidence, contact witnesses, or otherwise prepare his defense. [<a id="nf35" href="#fn35">Footnote 35</a>] Imposing those consequences on anyone who has not yet been convicted is serious. It is especially unfortunate to impose them on those persons who are ultimately found to be innocent. Finally, even if an accused is not incarcerated prior to trial, he is still disadvantaged by restraints on his liberty and by living under a cloud of anxiety, suspicion, and often hostility. See cases cited in <a id="nf33" href="#fn33">n</a> 33, supra.</p>
     <p>We regard none of the four factors identified above as either a necessary or sufficient condition to the finding of a deprivation of the right of speedy trial. Rather, they are related factors, and must be considered together with such other circumstances as may be relevant. In sum, these factors have no talismanic qualities; courts must still engage in a difficult and sensitive balancing process. [<a id="nf36" href="#fn36">Footnote 36</a>] But, because we are dealing with a fundamental right of the accused, this process must be carried out with full recognition that the accused's interest in a speedy trial is specifically affirmed in the Constitution.</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>The difficulty of the task of balancing these factors is illustrated by this case, which we consider to be close. It is clear that the length of delay between arrest and trial -- well over five years -- was extraordinary. Only</p>
     <n id="p534">534</n>
     <p>seven months of that period can be attributed to a strong excuse, the illness of the ex-sheriff who was in charge of the investigation. Perhaps some delay would have been permissible under ordinary circumstances so that Manning could be utilized as a witness in Barker's trial, but more than four years was too long a period, particularly since a good part of that period was attributable to the Commonwealth's failure or inability to try Manning under circumstances that comported with due process.</p>

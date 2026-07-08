@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us471-0419.html" citation="471 U.S. 419" title="Liparota v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p419">419</n>
-    <h>U.S. Supreme Court</h>
-    <h>Liparota v. United States, <a href="./us471-0419.xml#p419">471 U.S. 419</a> (1985)</h>
-    <h>Liparota v. United States</h>
-    <h>No. 84-5108</h>
-    <h>Argued March 19, 1985</h>
-    <h>Decided May 13, 1985</h>
-    <h><a href="./us471-0419.xml#p419">471 U.S. 419</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE</h>
-    <h>SEVENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Liparota v. United States, <a href="./us471-0419.xml#p419">471 U.S. 419</a> (1985)</h1>
+    <h2>Liparota v. United States</h2>
+    <h2>No. 84-5108</h2>
+    <h4>Argued March 19, 1985</h4>
+    <h4>Decided May 13, 1985</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE</h2>
+    <h2>SEVENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>The federal statute governing food stamp fraud provides in 7 U.S.C. § 2024(b)(1) that</p>
     <p>"whoever knowingly uses, transfers, acquires, alters, or possesses coupons or authorization cards in any manner not authorized by [the statute] or the regulations"</p>
     <p>shall be guilty of a criminal offense. Petitioner was indicted for violation of § 2024(b)(1). At a jury trial in Federal District Court, the Government proved that petitioner on three occasions had purchased food stamps from an undercover Department of Agriculture agent for substantially less then their face value. The court refused petitioner's proposed jury instruction that the Government must prove that petitioner knowingly did an act that the law forbids, purposely intending to violate the law. Rather, over petitioner's objection, the court instructed the jury that the Government had to prove that petitioner acquired and possessed the food stamps in a manner not authorized by statute or regulations, and that he knowingly and willfully acquired the stamps. Petitioner was convicted. The Court of Appeals affirmed.</p>
@@ -31,7 +31,7 @@
     <p>is subject to a fine and imprisonment. 78 Stat. 708, as amended, 7 U.S.C. § 2024(b)(1). [<a id="nf1" href="#fn1">Footnote 1</a>] The question presented is whether</p>
     <n id="p421">421</n>
     <p>in a prosecution under this provision, the Government must prove that the defendant knew that he was acting in a manner not authorized by statute or regulations.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Petitioner Frank Liparota was the co-owner with his brother of Moon's Sandwich Shop in Chicago, Illinois. He was indicted for acquiring and possessing food stamps in violation of § 2024(b)(1). The Department of Agriculture had not authorized petitioner's restaurant to accept food stamps. App. 6-7. [<a id="nf2" href="#fn2">Footnote 2</a>] At trial, the Government proved that petitioner on three occasions purchased food stamps from an undercover Department of Agriculture agent for substantially less than their face value. On the first occasion, the agent informed petitioner that she had $195 worth of food stamps to sell. The agent then accepted petitioner's offer of $150 and consummated the transaction in a back room of the restaurant with petitioner's brother. A similar transaction occurred one week later, in which the agent sold $500 worth of coupons for $350. Approximately one month later, petitioner</p>
     <n id="p422">422</n>
     <p>bought $500 worth of food stamps from the agent for $300.</p>
@@ -41,7 +41,7 @@
     <n id="p423">423</n>
     <p>unlawfully." App. 31. The judge did not alter or supplement his instructions, and the jury returned a verdict of guilty.</p>
     <p>Petitioner appealed his conviction to the Court of Appeals for the Seventh Circuit, arguing that the District Court erred in refusing to instruct the jury that "specific intent" is required in a prosecution under 7 U.S.C. § 2024(b)(1). The Court of Appeals rejected petitioner's arguments. 735 F.2d 1044 (1984). Because this decision conflicted with recent decisions of three other Courts of Appeals, [<a id="nf4" href="#fn4">Footnote 4</a>] we granted certiorari. 469 U.S. 930 (1984). We reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The controversy between the parties concerns the mental state, if any, that the Government must show in proving that petitioner acted "in any manner not authorized by [the statute] or the regulations." The Government argues that petitioner violated the statute if he knew that he acquired or possessed food stamps and if in fact that acquisition or possession was in a manner not authorized by statute or regulations. According to the Government, no mens rea, or "evil-meaning mind," Morissette v. United States, <a href="../us342/us342-0246.xml#p246">342 U. S. 246</a>, <a href="../us342/us342-0246.xml#p251">342 U. S. 251</a> (1952), is necessary for conviction. Petitioner claims that the Government's interpretation, by dispensing with mens rea, dispenses with the only morally blameworthy element in the definition of the crime. To avoid this allegedly untoward result, he claims that an individual violates the statute if he knows that he has acquired or possessed food stamps and if he also knows that he has done so in an unauthorized manner. [<a id="nf5" href="#fn5">Footnote 5</a>] Our task is to determine which meaning Congress intended.</p>
     <n id="p424">424</n>
     <p>The definition of the elements of a criminal offense is entrusted to the legislature, particularly in the case of federal crimes, which are solely creatures of statute. <a href="../us011/us011-0032.xml#p32">United States v. Hudson</a>, 7 Cranch 32 (1812). [<a id="nf6" href="#fn6">Footnote 6</a>] With respect to the element at issue in this case, however, Congress has not explicitly spelled out the mental state required. Although Congress certainly intended by use of the word "knowingly" to require some mental state with respect to some element of the crime defined in § 2024(b)(1), the interpretations proffered by both parties accord with congressional intent to this extent. Beyond this, the words themselves provide little guidance. Either interpretation would accord with ordinary usage. [<a id="nf7" href="#fn7">Footnote 7</a>] The legislative history of the statute contains nothing</p>
@@ -78,7 +78,7 @@
     <p>Second, the Government contends that the § 2024(b)(1) offense is a "public welfare" offense, which the Court defined in Morissette v. United States, 342 U.S. at <a href="../us342/us342-0246.xml#p262">342 U. S. 262</a>-253, to "depend on no mental element, but consist only of forbidden acts or omissions." Yet the offense at issue here differs substantially from those "public welfare offenses" we have previously</p>
     <n id="p433">433</n>
     <p>recognized. In most previous instances, Congress has rendered criminal a type of conduct that a reasonable person should know is subject to stringent public regulation and may seriously threaten the community's health or safety. Thus, in United States v. Freed, <a href="../us401/us401-0601.xml#p601">401 U. S. 601</a> (1971), we examined the federal statute making it illegal to receive or possess an unregistered firearm. In holding that the Government did not have to prove that the recipient of unregistered hand grenades knew that they were unregistered, we noted that "one would hardly be surprised to learn that possession of hand grenades is not an innocent act." Id. at <a href="../us401/us401-0601.xml#p609">401 U. S. 609</a>. See also United States v. International Minerals &amp; Chemical Corp., <a href="../us402/us402-0558.xml#p558">402 U. S. 558</a>, <a href="../us402/us402-0558.xml#p564">402 U. S. 564</a>-565 (1971). Similarly, in United States v. Dotterweich, <a href="../us320/us320-0277.xml#p277">320 U. S. 277</a>, <a href="../us320/us320-0277.xml#p284">320 U. S. 284</a> (1943), the Court held that a corporate officer could violate the Food, Drug, and Cosmetic Act when his firm shipped adulterated and misbranded drugs, even "though consciousness of wrongdoing be totally wanting." See also United States v. Balint, <a href="../us258/us258-0250.xml#p250">258 U. S. 250</a> (1922). The distinctions between these cases and the instant case are clear. A food stamp can hardly be compared to a hand grenade, see Freed, nor can the unauthorized acquisition or possession of food stamps be compared to the selling of adulterated drugs, as in Dotterweich.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>We hold that, in a prosecution for violation of § 2024(b)(1), the Government must prove that the defendant knew that his acquisition or possession of food stamps was in a manner unauthorized by statute or regulations. [<a id="nf16" href="#fn16">Footnote 16</a>] This holding does</p>
     <n id="p434">434</n>
     <p>not put an unduly heavy burden on the Government in prosecuting violators of § 2024(b)(1). To prove that petitioner knew that his acquisition or possession of food stamps was unauthorized, for example, the Government need not show that he had knowledge of specific regulations governing food stamp acquisition or possession. Nor must the Government introduce any extraordinary evidence that would conclusively demonstrate petitioner's state of mind. Rather, as in any other criminal prosecution requiring mens rea, the Government may prove by reference to facts and circumstances surrounding the case that petitioner knew that his conduct was unauthorized or illegal. [<a id="nf17" href="#fn17">Footnote 17</a>]</p>
@@ -153,7 +153,7 @@
       <p>In this case, for instance, the Government introduced evidence that petitioner bought food stamps at a substantial discount from face value and that he conducted part of the transaction in a back room of his restaurant to avoid the presence of the other patrons. Moreover, the Government asserts that food stamps themselves are stamped "nontransferable." Brief for United States 34. A jury could have inferred from this evidence that petitioner knew that his acquisition and possession of the stamps were unauthorized.</p>
       <p>JUSTICE WHITE, with whom THE CHIEF JUSTICE joins, dissenting.</p>
       <p>Forsaking reliance on either the language or the history of § 2024(b)(1), the majority bases its result on the absence of an explicit rejection of the general principle that criminal liability requires not only an actus reus, but a mens rea. In my view, the result below is in fact supported by the statute's language and its history, and it is the majority that has ignored general principles of criminal liability.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>The Court views the statutory problem here as being how far down the sentence the term "knowingly" travels. See</p>
       <p>Page 471 U. S. 435</p>
       <p>ante at <a href="./us471-0419.xml#p424">471 U. S. 424</a>-425, n. 7. Accepting for the moment that, if "knowingly" does extend to the "in any manner" language, today's holding would be correct -- a position with which I take issue below -- I doubt that it gets that far. The "in any manner" language is separated from the litany of verbs to which "knowingly" is directly connected by the intervening nouns. We considered an identically phrased statute last Term in United States v. Yermian, <a href="../us468/us468-0063.xml#p63">468 U. S. 63</a> (1984). The predecessor to the statute at issue in that case provided:</p>
@@ -177,14 +177,14 @@
       <p>Finally, the lower court's reading of the statute is consistent with the legislative history. As the majority points out,</p>
       <n id="p440">440</n>
       <p>the history provides little to go on. Significantly, however, the brief discussions of this provision in the relevant congressional Reports do not mention any requirement of knowing illegality. To the contrary, when the Food Stamp Act was rewritten in 1977, the House Report noted that "[a]ny unauthorized use, transfer, acquisition, alteration, or possession of food stamps . . . may be prosecuted under" § 2024(b)(1). H.R.Rep. No. 95-464, p. 376 (1977) (emphasis added).</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>The broad principles of the Court's opinion are easy to live with in a case such as this. But the application of its reasoning might not always be so benign. For example, § 2024(b)(1) is little different from the basic federal prohibition on the manufacture and distribution of controlled substances. Title 21 U.S.C. § 841(a) provides:</p>
       <p>"Except as authorized by this subchapter, it shall be unlawful for any person knowingly or intentionally -- "</p>
       <p>"(1) to manufacture, distribute, or dispense, or possess with intent to manufacture, distribute or dispense, a controlled substance. . . ."</p>
       <p>I am sure that the Members of the majority would agree that a defendant charged under this provision could not defend on the ground that he did not realize his manufacture was unauthorized, or that the particular substance was controlled. See United State v. Balint, <a href="../us258/us258-0250.xml#p250">258 U. S. 250</a> (1922). On the other hand, it would be a defense if he could prove he thought the substance was something other than what it was. By the same token, I think, someone in petitioner's position should not be heard to say that he did not know his purchase of food stamps was unauthorized, though he may certainly argue that he did not know he was buying food stamps. I would not stretch the term "knowingly" to require awareness of the absence of statutory authority in either of these provisions.</p>
       <n id="p441">441</n>
       <p>These provisions might be distinguished because of the different placements of the "except as authorized" and the "in any manner not authorized" clauses in the sentences. But see United States v. Yermian, 468 U.S. at <a href="../us468/us468-0063.xml#p69">468 U. S. 69</a>, and n. 6. However, nothing in the majority's opinion indicates that this difference is relevant. Indeed, the logic of the Court's opinion would require knowledge of illegality for conviction under any statute making it a crime to do something "in any manner not authorized by law" or "unlawfully." I suspect that, if a case arises in the future where such a result is unacceptable, the Court will manage to distinguish today's decision. But I will be interested to see how it does so.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>In relying on the "background assumption of our criminal law" that mens rea is required, ante at <a href="./us471-0419.xml#p426">471 U. S. 426</a>, the Court ignores the equally well-founded assumption that ignorance of the law is no excuse. It is</p>
       <p>"the conventional position that knowledge of the existence, meaning or application of the law determining the elements of an offense is not an element of that offense. . . ."</p>
       <p>Model Penal Code, supra, at 130.</p>
@@ -197,7 +197,7 @@
       <p>In each of these cases, the statutory language lent itself to the approach adopted today, if anything, more readily than does § 2024(b)(1). [Footnote 2/6] I would read § 2024(b)(1) like those statutes,</p>
       <n id="p443">443</n>
       <p>to require awareness of only the relevant aspects of one's conduct rendering it illegal, not the fact of illegality. This reading does not abandon the "background assumption" of mens rea by creating a strict liability offense, [Footnote 2/7] and is consistent with the equally important background assumption that ignorance of the law is not a defense.</p>
-      <h>IV</h>
+      <h2>IV</h2>
       <p>I wholly agree that "[t]he contention that an injury can amount to a crime only when inflicted by intention is no provincial or transient notion." Morissette v. United States, <a href="../us342/us342-0246.xml#p246">342 U. S. 246</a>, <a href="../us342/us342-0246.xml#p250">342 U. S. 250</a> (1952); ante at <a href="./us471-0419.xml#p425">471 U. S. 425</a>. But the holding of the court below is not at all inconsistent with that longstanding and important principle. Petitioner's conduct was intentional; the jury found that petitioner "realized what he was doing, and was aware of the nature of his conduct, and did not act through ignorance, mistake, or accident." App. 33 (trial court's instructions). Whether he knew which regulation he violated is beside the point.</p>
       <p>[Footnote 2/1]</p>
       <p>The majority's efforts to distinguish Yermian are unavailing. First, it points out that, under the statute at issue there, the prosecution had to establish some mens rea because it had to show a knowing falsehood. Ante at <a href="./us471-0419.xml#p431">471 U. S. 431</a>-432. However, as the majority itself points out elsewhere, ante at <a href="./us471-0419.xml#p423">471 U. S. 423</a>-424, n. 5, different mental states can apply to different elements of an offense. The fact that, in Yermian, mens rea had to be proved as to the first element was irrelevant to the Court's holding that it did not with regard to the second. There is no reason to read this statute differently. Second, the majority states that the language in Yermian was "unambiguous." Ante at <a href="./us471-0419.xml#p432">471 U. S. 432</a>. Since it is identical, the language at issue in this case can be no less so. Finally, the majority notes, ibid., that the Court in Yermian did not decide whether the prosecution might have to prove that the defendant "should have known" that his statements were within the agency's jurisdiction. 468 U.S. at <a href="../us468/us468-0063.xml#p75">468 U. S. 75</a>, n. 14. However, that passing statement was irrelevant to the interpretation of the statute's language the Court did undertake.</p>

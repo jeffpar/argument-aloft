@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us447-0010.html" citation="447 U.S. 10" title="Standefer v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p10">10</n>
-    <h>U.S. Supreme Court</h>
-    <h>Standefer v. United States, <a href="./us447-0010.xml#p10">447 U.S. 10</a> (1980)</h>
-    <h>Standefer v. United States</h>
-    <h>No. 79-383</h>
-    <h>Argued April 14, 1980</h>
-    <h>Decided June 9, 1980</h>
-    <h><a href="./us447-0010.xml#p10">447 U.S. 10</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE THIRD CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Standefer v. United States, <a href="./us447-0010.xml#p10">447 U.S. 10</a> (1980)</h1>
+    <h2>Standefer v. United States</h2>
+    <h2>No. 79-383</h2>
+    <h4>Argued April 14, 1980</h4>
+    <h4>Decided June 9, 1980</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE THIRD CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner was indicted for, inter alia, aiding and abetting a named Internal Revenue Service agent in accepting unlawful compensation, in violation of 26 U.S.C. § 7214(a)(2) and 18 U.S.C. § 2, which provides that whoever commits an offense against the United States or aids, abets, counsels, commands, induces or procures its commission, is punishable as a principal. Prior to the indictment, the IRS agent was acquitted of certain of the § 7214(a)(2) violations which petitioner was accused of aiding and abetting. Petitioner moved to dismiss his indictment as to aiding and abetting these violations on the ground that, since the agent had been acquitted of such violations, petitioner could not be convicted of aiding and abetting them. The District Court denied the motion, and after trial petitioner was convicted. The Court of Appeals affirmed.</p>
     <p>Held: A defendant accused of aiding and abetting in the commission of a federal offense may properly be convicted despite the prior acquittal of the alleged actual perpetrator of the offense. Pp. <a href="./us447-0010.xml#p14">447 U. S. 14</a>-26.</p>
     <p>(a) Read against its common law background, 18 U.S.C. § 2 evinces a clear congressional intent to permit such a conviction. The section gives general effect to what had always been the common law rule for second-degree principals (principals who were actually or constructively present at the scene of the crime and aided and abetted its commission) and for all misdemeanants. The legislative history of § 2 confirms this understanding. With the enactment of § 2, all participants in conduct violating a federal criminal statute are "principals," and, as such, they are punishable for their criminal conduct, the fate of other participants being irrelevant. Pp. <a href="./us447-0010.xml#p15">447 U. S. 15</a>-20.</p>
@@ -22,7 +22,7 @@
     <p>BURGER, C.J., delivered the opinion for a unanimous Court.</p>
     <p>MR. CHIEF JUSTICE BURGER delivered the opinion of the Court.</p>
     <p>We granted certiorari in this case to decide whether a defendant accused of aiding and abetting in the commission of a federal offense may be convicted after the named principal has been acquitted of that offense.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In June, 1977, petitioner Standefer was indicted on four counts of making gifts to a public official, in violation of 18 U.S.C. § 201(f), and on five counts of aiding and abetting a revenue official in accepting compensation in addition to that authorized by law, in violation of 26 U.S.C. § 7214(a)(2) and 18 U.S.C. § 2. [<a id="nf1" href="#fn1">Footnote 1</a>] The indictment charged that</p>
     <n id="p12">12</n>
     <p>petitioner, as head of Gulf Oil Corp.'s tax department, had authorized payments for five vacation trips to Cyril Niederberger, who then was the Internal Revenue Service agent in charge of the audits of Gulf's federal income tax returns. [<a id="nf2" href="#fn2">Footnote 2</a>] Specifically, the indictment alleged that Gulf, on petitioner's authorization, had paid for vacations for Niederberger in Pompano Beach (July 1971), Miami (January 1973), Absecon (August-September 1973), Pebble Beach (April 1974), and Las Vegas (June 1974). The four counts under 18 U.S.C. § 201(f) related to the Miami, Absecon, Pebble Beach, and Las Vegas vacations; the five counts under 26 U.S.C. § 7214(a)(2) and 18 U.S.C. § 2 were one for each vacation. [<a id="nf3" href="#fn3">Footnote 3</a>]</p>
@@ -35,7 +35,7 @@
     <n id="p14">14</n>
     <p>be convicted of aiding and abetting a principal, Niederberger, when that principal had been acquitted of the charged offense. By a divided vote, the Court of Appeals, sitting en banc, rejected that contention. 610 F.2d 1076 (1979). It concluded that "the outcome of Niederberger's prosecution has no effect on [petitioner's] conviction." Id. at 1078.</p>
     <p>Because the question presented is one of importance to the administration of criminal justice on which the Courts of Appeals are in conflict, we granted certiorari. [<a id="nf7" href="#fn7">Footnote 7</a>] 444 U.S. 1011. We affirm.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Petitioner makes two main arguments: first, that Congress, in enacting 18 U.S.C. § 2, did not intend to authorize prosecution of an aider and abettor after the principal has been acquitted of the offense charged; second, that, even if § 2 permits such a prosecution, the Government should be barred from relitigating the issue of whether Niederberger accepted unlawful compensation in connection with the Pompano Beach, Miami, and Absecon vacations. [<a id="nf8" href="#fn8">Footnote 8</a>] The first contention relies largely on the common law as it prevailed before the enactment of 18 U.S.C. § 2. The second rests on the contemporary doctrine of nonmutual collateral estoppel</p>
     <n id="p15">15</n>
     <p>A</p>
@@ -82,7 +82,7 @@
     <p>That is not so here. The Court of Appeals opinion put the point well:</p>
     <p>"[T]he purpose of a criminal court is not to provide a forum for the ascertainment of private rights. Rather, it is to vindicate the public interest in the enforcement of the criminal law, while at the same time safeguarding the rights of the individual defendant. The public interest in the accuracy and justice of criminal results is greater than the concern for judicial economy professed in civil cases, and we are thus inclined to reject, at least as a general matter, a rule that would spread the effect of an erroneous acquittal to all those who participated in a particular criminal transaction. To plead crowded dockets as an excuse for not trying criminal defendants is, in our view, neither in the best interests of the courts nor the public."</p>
     <p>610 F.2d at 1093. In short, this criminal case involves "competing policy considerations" that outweigh the economy concerns that undergird the estoppel doctrine. See Restatement (Second) of Judgments § 68.1(e) and comments thereto (Tent. Draft No. 3, 1976); cf. Commissioner v. Sunnen, <a href="../us333/us333-0591.xml#p591">333 U. S. 591</a> (1948).</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>In denying preclusive effect to Niederberger's acquittal, we do not deviate from the sound teaching that "justice must satisfy the appearance of justice." Offutt v. United States, <a href="../us348/us348-0011.xml#p11">348 U. S. 11</a>, <a href="../us348/us348-0011.xml#p14">348 U. S. 14</a> (1954). This case does no more than manifest the simple, if discomforting, reality that "different juries may reach different results under any criminal statute. That is one of the consequences we accept under our jury system." Roth v. United States, <a href="../us354/us354-0476.xml#p476">354 U. S. 476</a>, <a href="../us354/us354-0476.xml#p492">354 U. S. 492</a>, n. 30 (1957). While symmetry of results may be intellectually satisfying, it is not required. See Hamling v. United States, <a href="../us418/us418-0087.xml#p87">418 U. S. 87</a>, <a href="../us418/us418-0087.xml#p101">418 U. S. 101</a> (1974).</p>
     <n id="p26">26</n>
     <p>Here, petitioner received a fair trial at which the Government bore the burden of proving beyond reasonable doubt that Niederberger violated 26 U.S.C. § 7214(a)(2) and that petitioner aided and abetted him in that venture. He was entitled to no less -- and to no more.</p>

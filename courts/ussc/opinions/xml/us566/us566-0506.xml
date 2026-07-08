@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us566-0506.html" citation="566 U.S. 506" title="Hall v. United States">
   <opinion type="Opinion" author="Sotomayor">
     <n id="p506">506</n>
     <p>NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 10–875</p>
-    <p>_________________</p>
     <p>LYNWOOD D. HALL, et ux., PETITIONERS v. UNITED STATES</p>
     <p>on writ of certiorari to the united states court of appeals for the ninth circuit</p>
     <p>[May 14, 2012]</p>
@@ -78,9 +77,7 @@
   </opinion>
   <opinion type="Dissent" author="Breyer">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 10–875</p>
-    <p>_________________</p>
     <p>LYNWOOD D. HALL, et ux., PETITIONERS v. UNITED STATES</p>
     <p>on writ of certiorari to the united states court of appeals for the ninth circuit</p>
     <p>[May 14, 2012]</p>
@@ -135,7 +132,7 @@
     <p>For one thing, the issue is less important in a Chapter 13 case, for the relevant time period—between filing and Plan confirmation—is typically very short. Compare H. R. Rep. No. 95–595, at 276 (“most chapter 13 estates will only remain open for 1 or 2 months until confirmation of the plan”), with Brief for Neil E. Harl et al. as Amici Curiae 32–33 (survey of Chapter 12 bankruptcies found the average time from filing to confirmation in a district ranged from nearly five months to over three years). See also 7 Norton §122:14, at 122–27 (“In Chapter 13, the plan must be filed within 15 days after the filing of the petition, unless the time is extended for cause. A Chapter 12 Plan must be filed no later than 90 days after the order for relief, unless the court finds that an extension is substantially justified” (footnote omitted)).</p>
     <p>For another, the issue arises differently in a Chapter 13 case. That chapter, unlike Chapter 12, contains a special provision that permits the Government to seek §507 priority treatment of all taxes incurred while the bankruptcy case is pending. §1305 (Government can file proof of claim to have postpetition taxes treated as if they had arisen before the petition was filed).</p>
     <p>Finally, if uniformity of interpretation between these two chapters is critical, I do not see the serious harm in treating the relevant taxes as “administrative expenses” in both Chapter 12 and Chapter 13 cases rather than in neither. The majority apparently believes that this would render §1305 (the provision permitting the Government to seek §507 priority treatment) superfluous. Ante, at 10–12. But that is not so. This interpretation would simply limit the scope of operation of §1305 to the period of time after the Chapter 13 Plan is confirmed but while the Chapter 13 case is still pending. And that is likely to be a significant period of time relative to the preconfirmation period. See H. R. Rep. No. 95–595, at 276 (“[M]ost chapter 13 estates will only remain open for 1 or 2 months until confirmation of the plan”); §§1325(b)(1), (4) (debtor must commit all his projected disposable income over a 3-year period (sometimes extended to five) to the Plan, unless all unsecured claims can be paid off over a shorter period). The greatest Chapter 13 harm this interpretation could cause is to re- quire the Government to pursue those tax liabilities as §507 priority administrative expense claims (rather than allow it to choose between §507 priority treatment and pursuing those claims outside bankruptcy) during the relatively brief period of time between the filing of a petition and the Plan’s confirmation.</p>
-    <p>In sum, I would treat a postpetition/preconfirmation tax liability as a tax “incurred by the estate,” hence as an “administrative expense,” hence as a “clai[m] entitled to priority under section 507, unless . . . ,” hence as a claim falling within the scope of the Amendment. Doing so would allow the Amendment to take effect as Congress intended.</p>
+    <p>In sum, I would treat a postpetition/preconfirmation tax liability as a tax “incurred by the estate,” hence as an “administrative expense,” hence as a “clai[m] entitled to priority under section 507, unless . . .,” hence as a claim falling within the scope of the Amendment. Doing so would allow the Amendment to take effect as Congress intended.</p>
     <p>III</p>
     <p>The Government argues that, even if tax liabilities arising during the bankruptcy proceedings are “administrative expenses,” they still do not fall within the Amendment’s scope. It says that neither the Amendment nor anything else in §1222(a) provides for the payment of administrative expenses. Rather, that section and its Amendment provide only for the payment of “claims.” §1222(a)(2) (“The plan shall . . . provide for the full payment . . . of all claims entitled to priority under section 507, unless . . .” (emphasis added)). And administrative expenses, the Government says, like all debts that are incurred postpetition, are not “claims.”</p>
     <p>The Government finds support for its view in the fact that that §1222 deals with the contents of a “plan,” while a later section, §1227(a), says that the provisions of a “confirmed plan bind the debtor, each creditor, [and certain others of no relevance here].” (Emphasis added.) This is because the Code defines “creditor” to include only hold- ers of pre-petition claims, thus excluding holders of post-petition claims, such as administrative expenses. §101(10).</p>

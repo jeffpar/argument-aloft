@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us470-0729.html" citation="470 U.S. 729" title="Florida Power &amp;amp; Light Co. v. Lorion">
   <opinion type="Opinions &amp; Dissents">
     <n id="p729">729</n>
-    <h>U.S. Supreme Court</h>
-    <h>Florida Power &amp; Light Co. v. Lorion, <a href="./us470-0729.xml#p729">470 U.S. 729</a> (1985)</h>
-    <h>Florida Power &amp; Light Co. v. Lorion</h>
-    <h>No. 83-703</h>
-    <h>Argued October 29, 1984</h>
-    <h>Decided March 20, 1985<a href="./us470-0729.xml#p729">470 U.S. 729</a>ast|&gt;*</h>
-    <h><a href="./us470-0729.xml#p729">470 U.S. 729</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE DISTRICT OF COLUMBIA CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Florida Power &amp; Light Co. v. Lorion, <a href="./us470-0729.xml#p729">470 U.S. 729</a> (1985)</h1>
+    <h2>Florida Power &amp; Light Co. v. Lorion</h2>
+    <h2>No. 83-703</h2>
+    <h4>Argued October 29, 1984</h4>
+    <h4>Decided March 20, 1985<a href="./us470-0729.xml#p729">470 U.S. 729</a>ast|&gt;*</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE DISTRICT OF COLUMBIA CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Under 28 U.S.C. § 2342(4), a provision of the Hobbs Act, the courts of appeals have exclusive jurisdiction over petitions for review of "all final orders" of the Nuclear Regulatory Commission "made reviewable by" 42 U.S.C. § 2239. Section 2239(b), in turn, provides that the Hobbs Act governs review of "[a]ny final order entered in any proceeding of the kind specified in subsection (a) of this section." Subsection (a)(1) provides that,</p>
     <p>"[i]n any proceeding under this chapter, for the granting, suspending, revoking, or amending of any license . . . the Commission shall grant a hearing upon the request of any person whose interest may be affected by the proceeding."</p>
     <p>Respondent Lorion (hereafter respondent) wrote a detailed letter to the Commission expressing fears about potential safety threats at Florida Power &amp; Light Co.'s nuclear reactor near her home, and urging the Commission to suspend the reactor's operating license. The Commission treated the letter as a citizen petition, under its rules, requesting the institution of administrative proceedings to suspend the license. After the Commission ultimately denied the request, respondent petitioned the Court of Appeals for review. The court decided sua sponte that it lacked initial subject matter jurisdiction to review the Commission's denial of respondent's citizen petition, concluding that such a denial was not an order in a "proceeding" within the meaning of § 2239(a)(1).</p>
@@ -27,7 +27,7 @@
     <n id="p731">731</n>
     <p>JUSTICE BRENNAN delivered the opinion of the Court.</p>
     <p>These cases require us to decide whether 28 U.S.C. § 2342(4) and 42 U.S.C. § 2239 grant the federal courts of appeals exclusive subject matter jurisdiction initially to review decisions of the Nuclear Regulatory Commission to deny citizen petitions requesting that the Commission "institute a proceeding . . . to modify, suspend or revoke a license. . . ." 10 CFR § 2.206(a) (1984).</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Respondent Joette Lorion, on behalf of the Center for Nuclear Responsibility, wrote the Nuclear Regulatory Commission on September 11, 1981, to express fears about potential safety threats at petitioner Florida Power and Light Company's Turkey Point nuclear reactor near her home outside Miami, Florida. Her detailed letter urged the Commission to suspend Turkey Point's operating license [<a id="nf1" href="#fn1">Footnote 1</a>] and specified several reasons for such action. [<a id="nf2" href="#fn2">Footnote 2</a>] The Commission treated Lorion's letter as a citizen petition for enforcement action pursuant to the authority of § 2.206 of the Commission's rules of practice. This rule provides:</p>
     <p>"Any person may file a request for the Director of Nuclear Reactor Regulation . . . to institute a proceeding pursuant to [10 CFR] § 2.202 to modify, suspend or revoke a license, or for such other action as may be proper. . . . The requests shall specify the action requested</p>
     <n id="p732">732</n>
@@ -46,7 +46,7 @@
     <p>hearing requirement, the court reasoned that Commission action was a § 2239(a)(1) "proceeding" only if an interested person could obtain a hearing. Because the Court of Appeals for the District of Columbia Circuit had earlier held that a § 2.206 petitioner had no right to a hearing, see Poter County Chapter of the Izaak Walton League of America, Inc. v. NRC, 196 U.S.App.D.C. 456, 462, and n. 16, 606 F.2d 1363, 1369, and n. 16 (1979), and because the Commission urged in its brief that,</p>
     <p>""[u]nless and until granted, [Lorion's § 2.206 request] is not a proceeding' where the requester has any right to present evidence,""</p>
     <p>229 U.S.App.D.C. at 446, 712 F.2d at 1478 (citation omitted), the Court of Appeals held that the denial of Lorion's § 2.206 request was not an order entered in a "proceeding" within the meaning of § 2239(a). Section 2239(b) was therefore found not to authorize initial court of appeals review of the order, and the court declined to hear the case. [<a id="nf5" href="#fn5">Footnote 5</a>] This holding arguably departed from precedent within the Circuit, [<a id="nf6" href="#fn6">Footnote 6</a>] and in any event created a direct conflict with the holdings of two other Circuits. [<a id="nf7" href="#fn7">Footnote 7</a>] We granted certiorari to resolve the conflict. 466 U.S. 903 (1984). We reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The issue before us is whether the Commission's denial of a § 2.206 request should be considered a final order initially reviewable exclusively in the court of appeals pursuant to 42</p>
     <n id="p735">735</n>
     <p>U.S.C. § 2239(b) and 28 U.S.C. § 2342(4). [<a id="nf8" href="#fn8">Footnote 8</a>] This issue requires us to decide whether such an order is issued in a "proceeding . . . for the granting, suspending, revoking, or amending of any license." 42 U.S.C. § 2239(a)(1). Enacting § 2239 in 1954, Congress did not focus specifically on this question; the Commission did not establish the § 2.206 citizen petition procedure until 20 years later. See 39 Fed.Reg. 12353 (1974). [<a id="nf9" href="#fn9">Footnote 9</a>] Our task therefore is to decide whether Commission denials of § 2.206 petitions are final orders of the kind Congress intended to be reviewed initially in the court of appeals pursuant to § 2239(b).</p>
@@ -98,7 +98,7 @@
     <p>Institute, supra, at 317, 551 F.2d at 1276. Absent a firm indication that Congress intended to locate initial APA review of agency action in the district courts, we will not presume that Congress intended to depart from the sound policy of placing initial APA review in the courts of appeals.</p>
     <p>These considerations apply with full force in the present cases. Locating initial review in the district court would certainly result in duplication of effort, and probably result in bifurcation of review, in that persons seeking to use § 2.206 petitions to broaden the scope of ongoing Commission proceedings would, if unsuccessful, obtain review in the district court while review of the final order in the proceeding would occur in the court of appeals. [<a id="nf11" href="#fn11">Footnote 11</a>]</p>
     <n id="p746">746</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>Whether initial subject matter jurisdiction lies initially in the courts of appeals must, of course, be governed by the intent of Congress, and not by any views we may have about sound policy. Harrison v. PPG Industries, Inc., supra, at <a href="../us446/us446-0578.xml#p593">446 U. S. 593</a>. In these cases, the indications of legislative intent we have been able to discern suggest that Congress intended to locate initial subject matter jurisdiction in the courts of appeals. This result is in harmony with Congress' choice of Hobbs Act review for Commission licensing proceedings in § 2239(b), and is consistent with basic principles respecting the allocation of judicial review of agency action. We therefore hold that 42 U.S.C. § 2239 vests in the courts of appeals initial subject matter jurisdiction over Commission orders denying § 2.206 citizen petitions. Accordingly, the judgment below is reversed, and the cases are remanded to the Court of Appeals for further proceedings consistent with this opinion.</p>
     <p>It is so ordered.</p>
     <p>* Together with No. 83-1031, United States Nuclear Regulatory Commission et al. v. Lorion, dba Center for Nuclear Responsibility, et al., also on certiorari to the same court.</p>
@@ -144,7 +144,7 @@
       <p>of the controlling statute and the Commission's regulations. It also ignores the settled principle of administrative law that</p>
       <p>"individual decisions [of an administrative agency] not to take enforcement action in response to citizen requests are presumptively not reviewable under the Administrative Procedure Act, 5 U.S.C. §§ 701-706."</p>
       <p>Heckler v. Chaney, post at <a href="./us470-0821.xml#p838">470 U. S. 838</a> (BRENNAN, J., concurring).</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>There is no ambiguity in the language of the relevant statutes. Title 28 U.S.C. § 2342 provides:</p>
       <p>"The court of appeals . . . has exclusive jurisdiction to enjoin, set aside, suspend (in whole or in part), or to determine the validity of -- "</p>
       <p>"* * * *"</p>
@@ -164,7 +164,7 @@
       <p>Because no proceeding of the kind described in § 2239(a) was initiated, the Commission was not required to grant respondent's request for a hearing. [Footnote 2/9] Likewise, under the</p>
       <n id="p750">750</n>
       <p>express language of § 2239(b), the Director's denial of respondent's request was not a "final order entered in any proceeding of the kind specified in subsection (a)" which would be reviewable in the court of appeals.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>The Court rejects the plain and simple construction of the statutory language, observing that "subject matter jurisdiction should [not] turn on such semantic quibbles." Ante at <a href="./us470-0729.xml#p745">470 U. S. 745</a>, n. 11. Proper deference to the powers of Congress, however, requires exactly that result. It is hardly an equivocation to argue that</p>
       <p>"[s]tatutory construction must begin with the language employed by Congress and the assumption that the ordinary meaning of that language accurately expresses the legislative purpose."</p>
       <p>Park 'N Fly, Inc. v. Dollar Park and Fly, Inc., <a href="../us469/us469-0189.xml#p189">469 U. S. 189</a>, <a href="../us469/us469-0189.xml#p194">469 U. S. 194</a> (1985). Even if the Court's tortured effort to generate an ambiguity in the statute were supported by an implicit assumption that the court of appeals is the more efficient forum for review of informal agency decisionmaking, that assumption is debatable at best, and does not justify judicial revision of the statutory text.</p>

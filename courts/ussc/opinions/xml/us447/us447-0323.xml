@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us447-0323.html" citation="447 U.S. 323" title="Brown v. Louisiana">
   <opinion type="Opinions &amp; Dissents">
     <n id="p323">323</n>
-    <h>U.S. Supreme Court</h>
-    <h>Brown v. Louisiana, <a href="./us447-0323.xml#p323">447 U.S. 323</a> (1980)</h>
-    <h>Brown v. Louisiana</h>
-    <h>No. 79-5364</h>
-    <h>Argued March 25, 1980</h>
-    <h>Decided June 16, 1980</h>
-    <h><a href="./us447-0323.xml#p323">447 U.S. 323</a></h>
-    <h>CERTIORARI TO THE SUPREME COURT OF LOUISIANA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Brown v. Louisiana, <a href="./us447-0323.xml#p323">447 U.S. 323</a> (1980)</h1>
+    <h2>Brown v. Louisiana</h2>
+    <h2>No. 79-5364</h2>
+    <h4>Argued March 25, 1980</h4>
+    <h4>Decided June 16, 1980</h4>
+    <h2>CERTIORARI TO THE SUPREME COURT OF LOUISIANA</h2>
+    <h2>Syllabus</h2>
     <p>While petitioner's appeal from his felony conviction -- based on a nonunanimous six-person jury verdict -- was pending in the Louisiana Supreme Court, Burch v. Louisiana, <a href="../us441/us441-0130.xml#p130">441 U. S. 130</a>, was decided, holding unconstitutional those provisions of the Louisiana Constitution and Code of Criminal Procedure that sanctioned conviction of a nonpetty offense by a nonunanimous jury of six. The Louisiana Supreme Court thereafter affirmed petitioner's conviction, holding that the rule of Burch v. Louisiana, supra, should not be applied retroactively to cases tried by juries empaneled prior to the date of that decision.</p>
     <p>Held: The judgment is reversed, and the case is remanded. Pp. <a href="./us447-0323.xml#p327">447 U. S. 327</a>-337; 337.</p>
     <p><a href="https://law.justia.com/cases/louisiana/supreme-court/1979/371-so-2d-746-1.html">371 So. 2d 746</a>, reversed and remanded.</p>
@@ -26,7 +26,7 @@
     <p>Burch v. Louisiana, <a href="../us441/us441-0130.xml#p130">441 U. S. 130</a> (1979), held that conviction of a nonpetty criminal offense by a nonunanimous six-person jury violates the accused's right to trial by jury guaranteed by the Sixth and Fourteenth Amendments. The issue</p>
     <n id="p325">325</n>
     <p>in this case is whether the constitutional principle announced in Burch is to be given retroactive application.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>On July 31, 1978, petitioner Darnell Brown was charged by bill of information in Orleans Parish with simple burglary, a felony punishable by confinement in the parish prison or state penitentiary for a maximum term of 12 years. La.Rev.Stat.Ann. § 14:62 (West Supp. 1979). At the time, the Louisiana Constitution and Code of Criminal Procedure provided that such crimes should be tried by a jury of six persons, five of whom must concur to render a verdict. [<a id="nf1" href="#fn1">Footnote 1</a>] Before trial, petitioner filed a motion to quash pursuant to Art. 532 (9) of the Louisiana Code of Criminal Procedure, arguing that his</p>
     <p>"due</p>
     <n id="p326">326</n>
@@ -36,7 +36,7 @@
     <p>Petitioner appealed his conviction to the Louisiana Supreme Court, assigning as principal error the trial judge's refusal to grant the motion to quash. On April 17, 1979, while petitioner's case was still pending on direct review in the Louisiana courts, Burch v. Louisiana, supra, was decided, holding unconstitutional those provisions of the Louisiana Constitution and Code of Criminal Procedure that sanctioned conviction of a nonpetty offense by a nonunanimous jury of six. Some five weeks later, on May 21, 1979, the Louisiana Supreme Court affirmed petitioner's conviction. Although it implicitly acknowledged that Burch requires unanimous verdicts by six-person juries in all future prosecutions of simple burglary, [<a id="nf3" href="#fn3">Footnote 3</a>] the court nonetheless concluded, without elaboration,</p>
     <n id="p327">327</n>
     <p>that "the rule of Burch, supra, should not be applied retroactively to juries empaneled prior to the date of the Burch decision." <a href="https://law.justia.com/cases/louisiana/supreme-court/1979/371-so-2d-746-1.html">371 So. 2d 746</a>, 748 (1979) (emphasis in original). We granted certiorari. 444 U.S. 990 (1979). We reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Linkletter v. Walker, <a href="../us381/us381-0618.xml#p618">381 U. S. 618</a> (196), was the first instance in which the Court declined to apply a new doctrine respecting one of the provisions of the Bill of Rights retroactively for the benefit of a previously convicted defendant. In the intervening 15 years, we have often considered the question of the retroactivity of decisions expounding new constitutional rules of criminal procedure, and have endeavored to elaborate appropriate standards for determining which rules are to be accorded retrospective and which only prospective effect. From the welter of case law that has developed in this area, several unequivocal principles emerge to guide our analysis in the present case.</p>
     <p>It is by now uncontroverted that "the Constitution neither prohibits nor requires retrospective effect." Id. at <a href="../us381/us381-0618.xml#p629">381 U. S. 629</a>. Thus, although, before Linkletter, new constitutional rules had been applied to cases that had become final before promulgation of the rule, see id. at <a href="../us381/us381-0618.xml#p628">381 U. S. 628</a>, and n. 13, that decision firmly settled that,</p>
     <p>"in appropriate cases, the Court may in the interest of justice make the rule prospective . . . where the exigencies of the situation require such an application."</p>
@@ -55,7 +55,7 @@
     <n id="p329">329</n>
     <p>frequently fashioned to serve multiple ends; while a new standard may marginally implicate the reliability and integrity of the factfinding process, it may have been designed primarily to foster other, equally fundamental values in our system of jurisprudence. [<a id="nf4" href="#fn4">Footnote 4</a>] Not every rule that "tends incidentally" to avoid unfairness at trial must be accorded retroactive effect. Gosa v. Mayden, supra at <a href="../us413/us413-0049.xml#p60">413 U. S. 60</a> (plurality opinion of BLACKMUN, J.). So, too, additional safeguards may already exist that minimize the likelihood of past injustices. [<a id="nf5" href="#fn5">Footnote 5</a>] In short, "[t]he extent to which a condemned practice infects the integrity of the truth-determining process at trial is a question of probabilities.'" Stovall v. Denno, supra, at <a href="../us388/us388-0293.xml#p298">388 U. S. 298</a> (quoting Johnson v. New Jersey, supra, at <a href="../us384/us384-0719.xml#p729">384 U. S. 729</a>). And only when an assessment of those probabilities indicates that the condemned practice casts doubt upon the reliability of the determinations of guilt in past criminal cases must the new procedural rule be applied retroactively. [<a id="nf6" href="#fn6">Footnote 6</a>]</p>
     <n id="p330">330</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>With these principles in mind, then, we turn to consideration of the issue presented by this case: whether the rule of Burch v. Louisiana must be given retroactive effect. We conclude that it must.</p>
     <p>A</p>
     <p>The right to jury trial guaranteed by the Sixth and Fourteenth Amendments "is a fundamental right, essential for preventing miscarriages of justice and for assuring that fair trials are provided for all defendants." Duncan v. Louisiana, <a href="../us391/us391-0145.xml#p145">391 U. S. 145</a>, <a href="../us391/us391-0145.xml#p158">391 U. S. 158</a> (1968). Trial by jury in serious criminal cases has long been regarded as an indispensable protection against the possibility of governmental oppression; the history of the jury's development demonstrates</p>

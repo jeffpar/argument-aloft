@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us457-0085.html" citation="457 U.S. 85" title="Cory v. White">
   <opinion type="Opinions &amp; Dissents">
     <n id="p85">85</n>
-    <h>U.S. Supreme Court</h>
-    <h>Cory v. White, <a href="./us457-0085.xml#p85">457 U.S. 85</a> (1982)</h>
-    <h>Cory v. White</h>
-    <h>No. 80-1556</h>
-    <h>Argued January 18, 1982</h>
-    <h>Decided June 14, 1982</h>
-    <h><a href="./us457-0085.xml#p85">457 U.S. 85</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE FIFTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Cory v. White, <a href="./us457-0085.xml#p85">457 U.S. 85</a> (1982)</h1>
+    <h2>Cory v. White</h2>
+    <h2>No. 80-1556</h2>
+    <h4>Argued January 18, 1982</h4>
+    <h4>Decided June 14, 1982</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE FIFTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Both Texas and California assert the right to levy state death taxes on the estate of Howard Hughes, the taxing officials of each State claiming that Hughes was domiciled in their State at the time of his death. The administrator of the estate filed an action in Federal District Court under the Federal Interpleader Act, alleging that the respective state officials were seeking to tax the estate on the basis of inconsistent claims. The District Court dismissed the action for lack of subject matter jurisdiction because of the failure to satisfy the Act's requirement that there be diversity of citizenship between at least two adverse parties. The Court of Appeals reversed, holding that the requisite diversity was present between the administrator and the County Treasurer of Los Angeles County. The court rejected the State's claim that, although the suit was nominally against state officials, it was in effect a suit against two sovereign States barred by the Eleventh Amendment.</p>
     <p>Held: The Eleventh Amendment bars the statutory interpleader action. Worcester County Trust Co. v. Riley, <a href="../us302/us302-0292.xml#p292">302 U. S. 292</a>. Contrary to the Court of Appeals' view, Edelman v. Jordan, <a href="../us415/us415-0651.xml#p651">415 U. S. 651</a>, did not overrule Worcester County Trust Co. Pp. <a href="./us457-0085.xml#p89">457 U. S. 89</a>-91.</p>
     <p>629 F.2d 397, reversed.</p>
@@ -19,7 +19,7 @@
     <n id="p86">86</n>
     <p>JUSTICE WHITE delivered the opinion of the Court.</p>
     <p>In this case, both Texas and California assert the right to levy state death taxes on the estate of Howard Hughes. The laws of each State impose an inheritance tax on the real and tangible personal property located within its borders, and upon the intangible personalty, wherever situated, of a person domiciled in the State at the time of death. Under the laws of Texas and California, an individual has but one domicile at any time. Taxing officials in each State assert that Howard Hughes was domiciled in their State at the time of his death. The issue before us is whether the Federal Interpleader Act, 28 U.S.C. § 1335, provides a jurisdictional basis for resolution of inconsistent death tax claims by the officials of two States.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>This case is the sequel to California v. Texas, <a href="../us437/us437-0601.xml#p601">437 U. S. 601</a> (1978). There, California petitioned for leave to file a complaint against Texas under this Court's original jurisdiction. At that time, we denied the motion. In concurring opinions, however, four Justices suggested that a determination of Hughes' domicile might be obtained in federal district court pursuant to the Federal Interpleader Act, 28 U.S.C. § 1335. [<a id="nf1" href="#fn1">Footnote 1</a>]</p>
     <n id="p87">87</n>
     <p>Three weeks after the decision in California v. Texas, the administrator of the estate filed a statutory interpleader action in the United States District Court for the Western District of Texas. Asserting that the officials of the two States were seeking to tax the estate on the basis of inconsistent claims that each of their respective States was Howard Hughes' domicile at death, it requested the District Court to adjudicate the issue of domicile. The District Court entered a temporary restraining order prohibiting the California and Texas taxing officials from pursuing domicile-based inheritance tax claims in any other forum, including their own state courts.</p>
@@ -31,7 +31,7 @@
     <p>The California officials petitioned for certiorari and, at the same time, filed a new motion seeking leave to file a complaint</p>
     <n id="p89">89</n>
     <p>against Texas under this Court's original jurisdiction. Because of the troubling issues involving federal court jurisdiction in such disputes, we granted certiorari. 452 U.S. 904.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>In Worcester County Trust Co. v. Riley, supra, the States of California and Massachusetts each claimed to be the domicile of a decedent and to have the right to assess death taxes on his entire intangible estate. A federal interpleader action followed, the estate naming as defendant the revenue officers of California and Massachusetts. This Court unanimously held that the case was, in reality, a suit against the States, and that it was barred by the Eleventh Amendment. In arriving at this conclusion, the Court applied the accepted rules (1) that</p>
     <p>"a suit nominally against individuals, but restraining or otherwise affecting their action as state officers, may be, in substance, a suit against the state, which the Constitution forbids,"</p>
     <p>302 U.S. at <a href="../us302/us302-0292.xml#p296">302 U. S. 296</a>, and (2) that,</p>
@@ -78,13 +78,13 @@
       <n id="p94">94</n>
       <p>case that there is no federal prohibition against two States taxing the Hughes estate on the basis of domicile, the mere assertion of claims by the two States cannot suffice to establish a controversy "between" them. In finding that there is a case ripe for decision, the Court must rely on a double contingency: first, that both States might win judgments in their own courts that Hughes was a domiciliary subject to estate taxation; and second, that, in such a case, the Hughes estate might not be large enough to satisfy both claims. This is too speculative a foundation to support the conclusion that there is a case or controversy appropriately within our original jurisdiction.</p>
       <p>In my view, the Court's decisions in these cases rest on a misconception of the rights and obligations created by our federal system, both in its constitutional and in its statutory aspects. Accordingly I dissent.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>The issues before the Court today are substantially identical to those presented in California v. Texas, <a href="../us437/us437-0601.xml#p601">437 U. S. 601</a> (1978). In that case, the Court unanimously denied California's motion for leave to file an original complaint. The Court's one-sentence order did not explain our decision to decline to exercise our exclusive original jurisdiction over controversies "between" States. Justice Stewart, however, in an opinion that JUSTICE STEVENS and I joined, stated fully his reasons for agreeing that there existed no case or controversy between States. [Footnote 2/4] He argued cogently that California's complaint "contain[ed] the seeds of two distinct lawsuits":</p>
       <p>"One is a dispute between two States as to the proper division of a finite sum of money. The other is a suit in the nature of interpleader to settle the question of a decedent's</p>
       <n id="p95">95</n>
       <p>domicile for purposes of the taxes to be imposed upon his estate. But the suit in the nature of interpleader is not within the original and exclusive jurisdiction of this Court, because it is not a dispute between States. And the dispute between the States, if indeed it is justiciable at all, is certainly not yet a case or controversy within the constitutional meaning of that term."</p>
       <p>Id. at <a href="../us437/us437-0601.xml#p610">437 U. S. 610</a>-611. No material fact has changed since 1978. On the premises of the Court's opinion, there still is no justiciable controversy between Texas and California. See California v. Texas, post at <a href="./us457-0164.xml#p170">457 U. S. 170</a> (POWELL, J., dissenting). [Footnote 2/5] There is, however, a ripe dispute about the estate's tax liability to the two States -- a dispute of the kind for which federal interpleader jurisdiction ought to be available.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>In our 1978 decision in California v. Texas, supra, four Justice of this Court suggested that the administrator of the Hughes estate might invoke the Federal Interpleader Act to protect the estate from taxation based on inconsistent claim of domicile. Contradicting the clear message conveyed by our decision in that case, the Court today finds interpleader unavailable on the ground that a suit against the state taxing official is barred by the Eleventh Amendment.</p>
       <n id="p96">96</n>
       <p>The concurring opinions in California v. Texas, supra, all proposed that the administrator of the Hughes estate might invoke the "fiction" of Ex parte Young, <a href="../us209/us209-0123.xml#p123">209 U. S. 123</a> (1908), as interpreted in Edelman v. Jordan, <a href="../us415/us415-0651.xml#p651">415 U. S. 651</a> (1974), to bring an interpleader action naming as defendants the taxing officials of Texas and California. The Court today holds otherwise. According to the Court, it is the lawful function of the state officials to litigate Hughes' domicile. There is accordingly no colorable claim that they are acting in excess of their authority under state law; no constitutional violation is alleged; and Edelman v. Jordan is read narrowly to retain the Eleventh Amendment bar to injunctive suits against state officials not acting unlawfully, even in this case in which no money damages are sought from the state treasury.</p>
@@ -94,7 +94,7 @@
       <p>In rejecting this interpretation of Edelman, the Court relies at the last on Worcester County Trust Co. v. Riley, <a href="../us302/us302-0292.xml#p292">302 U. S. 292</a> (1937). If this broader view of Edelman "were to be the law," the Court reasons, "Worcester must, in major part, be overruled." Ante at <a href="./us457-0085.xml#p91">457 U. S. 91</a>. In light of Edelman, however, it must be recognized that the law has changed since 1937, and that the legal assumptions on which Worcester County rested no longer are uniformly valid. See California v. Texas, 437 U.S. at <a href="../us427/us427-0539.xml#p601">427 U. S. 601</a> (BRENNAN, J., concurring). If Worcester County cannot be defended on the basis of its internal</p>
       <n id="p97">97</n>
       <p>logic and adherence to constitutional principles, this Court should not be bound by it.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>The Court today continues to reason from the premise, accepted by Worcester County, that multiple taxation on the basis of domicile does not offend the Constitution -- even in a case in which both of the taxing States concede that a person may have but one domicile. [Footnote 2/6] In my view, this premise is wrong. As an alternative to the approach that I embraced in California v. Texas, I now would be prepared to overrule Worcester County on this point, and to hold that multiple taxation on the basis of domicile -- at least insofar as "domicile" is treated as indivisible, so that a person can be the domiciliary of but one State -- is incompatible with the structure of our federal system.</p>
       <p>A</p>
       <p>As Justice Stewart demonstrated in California v. Texas, the Court's conclusion in Texas v. Florida, <a href="../us306/us306-0398.xml#p398">306 U. S. 398</a> (1939) -- that there was a controversy between States, identifiable by analogy to a suit in the nature of interpleader -- can be explained only by its concern for "the plight of the estate, which was indeed confronted with a substantial likelihood' of</p>

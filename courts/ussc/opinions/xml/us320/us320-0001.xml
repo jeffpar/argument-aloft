@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us320-0001.html" citation="320 U.S. 1" title="Marconi Wireless Tel. Co. v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p1">1</n>
-    <h>U.S. Supreme Court</h>
-    <h>Marconi Wireless Tel. Co. v. United States, <a href="./us320-0001.xml#p1">320 U.S. 1</a> (1943)</h>
-    <h>Marconi Wireless Tel. Co. v. United States</h>
-    <h>No. 369</h>
-    <h>Argued April 9, 12, 1943</h>
-    <h>Decided June 21, 1943<a href="./us320-0001.xml#p1">320 U.S. 1</a>ast|&gt;*</h>
-    <h><a href="./us320-0001.xml#p1">320 U.S. 1</a></h>
-    <h>CERTIORARI TO THE COURT OF CLAIMS</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Marconi Wireless Tel. Co. v. United States, <a href="./us320-0001.xml#p1">320 U.S. 1</a> (1943)</h1>
+    <h2>Marconi Wireless Tel. Co. v. United States</h2>
+    <h2>No. 369</h2>
+    <h4>Argued April 9, 12, 1943</h4>
+    <h4>Decided June 21, 1943<a href="./us320-0001.xml#p1">320 U.S. 1</a>ast|&gt;*</h4>
+    <h2>CERTIORARI TO THE COURT OF CLAIMS</h2>
+    <h2>Syllabus</h2>
     <p>1. The broad claims of the Marconi Patent No. 763,772, for improvements in apparatus for wireless telegraphy -- briefly, for a structure and arrangement of four high-frequency circuits with means of independently adjusting each so that all four may be brought into electrical resonance with one another -- held invalid because anticipated. P. <a href="./us320-0001.xml#p38">320 U. S. 38</a>.</p>
     <p>Marconi showed no invention over Stone (Patent No. 714,756) by making the tuning of his antenna circuit adjustable, or by using Lodge's (Patent No. 609, 154) variable inductance for that purpose. Whether Stone's patent involved invention is not here determined.</p>
     <p>2. Merely making a known element of a known combination adjustable by a means of adjustment known to the art, when no new or unexpected result is obtained, is not invention. P. <a href="./us320-0001.xml#p32">320 U. S. 32</a>.</p>
@@ -103,7 +103,7 @@
     <n id="p19">19</n>
     <p>oscillations in a circuit, and to determine their frequency by proper distribution of capacity and self-inductance in the circuit, but also to transfer those oscillations to another circuit and retain their original frequency.</p>
     <p>Stone points out that, in the existing systems of radio transmission, the electric oscillations are "naturally" developed in the antenna circuit by the sudden discharge of accumulated electrical force through a spark gap in that circuit. Such oscillations are "necessarily of a complex character, and consist of a great variety of superimpose simple harmonic vibrations of different frequencies."</p>
-    <p>"Similarly, the vertical conductor at the receiving station is capable of receiving and responding to vibrations of a great variety of frequencies so that the electromagnetic waves which emanate from one vertical conductor used as a transmitter are capable of exciting vibrations in any other vertical wire as a receiver . . . , and the messages from the transmitting station will not be selectively received by the particular receiving station with which it is desirous to communicate, and will interfere with the operation of other receiving stations within its sphere of influence."</p>
+    <p>"Similarly, the vertical conductor at the receiving station is capable of receiving and responding to vibrations of a great variety of frequencies so that the electromagnetic waves which emanate from one vertical conductor used as a transmitter are capable of exciting vibrations in any other vertical wire as a receiver . . ., and the messages from the transmitting station will not be selectively received by the particular receiving station with which it is desirous to communicate, and will interfere with the operation of other receiving stations within its sphere of influence."</p>
     <p>In contrast to the two circuit system whose inadequacies he had thus described, Stone's drawings and specifications disclose a four-circuit system for transmitting and receiving radio waves which was very similar to that later disclosed by Marconi. The transmitter included a source of low frequency oscillating current and a telegraph or signaling key connected in a circuit which was inductively coupled with another closed circuit. This included an induction coil, a condenser, and a spark gap capable of generating high frequency oscillations. It, in turn, was inductively coupled through a transformer with an open antenna circuit connected to an aerial capacity at one end and the earth at the other. The receiver included a similar</p>
     <n id="p20">20</n>
     <p>antenna circuit, inductively coupled with a closed oscillating circuit containing an induction coil, a condenser, and a coherer or other detector of radio waves.</p>
@@ -230,7 +230,7 @@
     <p>Court in an understanding of how the condenser in the Marconi patent operates."</p>
     <p>And, in offering the Fessenden patent, counsel for the Government similarly stated that it was offered "not to show invalidity, but as showing justification for the defendant's use."</p>
     <p>In its exceptions to the Commissioner's report on the accounting, the Government asked the Court of Claims to make certain specific findings as to the mode of operation of the arrangements disclosed in the Pupin and Fessenden patents, and also to find that:</p>
-    <p>"The mode of connecting the primary condenser in parallel with the antenna-to-earth capacity sued by the defendant followed the disclosure of Pupin 640,516 and the Fessenden patent 703,735 . . . , and hence does not infringe the Marconi claim 16, which is based upon a different arrangement, operating in a different manner to obtain a different result."</p>
+    <p>"The mode of connecting the primary condenser in parallel with the antenna-to-earth capacity sued by the defendant followed the disclosure of Pupin 640,516 and the Fessenden patent 703,735 . . ., and hence does not infringe the Marconi claim 16, which is based upon a different arrangement, operating in a different manner to obtain a different result."</p>
     <p>The Government contended that there was no finding of fact that Claim 16 had been infringed, and that the court, in the course of the accounting proceeding, had, by an order of October 22, 1937, reopened the entire subject of infringement. We agree with the court that the Commissioner's finding LXV, which the court adopted as finding LXIII, was a finding of infringement, and we see no reason to question the court's conclusion that its order had not reopened the subject of infringement.</p>
     <p>In view, however, of the Government's apparent misunderstanding of the scope of the issues left open on the accounting, we think that its request for a finding of noninfringement specifically addressed to the Pupin and Fessenden patents was a sufficient request to the court to reconsider its previous decision of infringement. And, while most of the argument on the Government's exceptions to the Commissioner's report was based on evidence taken upon the accounting, the Government's briefs sufficiently</p>
     <n id="p47">47</n>
@@ -440,7 +440,7 @@
       <p>Moreover, and for present purposes this is the important thing, Marconi brought the closed and open circuits into almost complete harmony by placing variable inductance in each. Through this, the periodicity of the open circuit was adjusted automatically to that of the closed one, and, since the circuits of the receiving station were similarly adjustable, the maximum resonance was secured throughout the system. Marconi thus not only solved</p>
       <n id="p71">71</n>
       <p>the dilemma of a single circuit arrangement; he attained the maximum of resonance and selectivity by providing in each circuit independent means of tuning.</p>
-      <p>In 1911, this solution was held inventive, as against Lodge, Marconi's prior patents, Braun, and other references, in Marconi v. British Radio Tel. &amp; Tel. Co., 27 T.L.R. 274. Mr. Justice Parker carefully reviewed the prior art, stated the problem, Marconi's solution, and, in disposing of Braun's specification, concluded it "did not contain even the remotest suggestion of the problem . . . , much less any suggestion bearing on its solution. . . ." As to Lodge, Mr. Justice Parker observed, referring first to Marconi:</p>
+      <p>In 1911, this solution was held inventive, as against Lodge, Marconi's prior patents, Braun, and other references, in Marconi v. British Radio Tel. &amp; Tel. Co., 27 T.L.R. 274. Mr. Justice Parker carefully reviewed the prior art, stated the problem, Marconi's solution, and, in disposing of Braun's specification, concluded it "did not contain even the remotest suggestion of the problem . . ., much less any suggestion bearing on its solution. . . ." As to Lodge, Mr. Justice Parker observed, referring first to Marconi:</p>
       <p>". . . It is important to notice that, in the receiver, the mere introduction of two circuits instead of one was no novelty. A figure in Lodge's 1897 patent shows the open circuit of his receiving aerial linked through a transformer with a closed circuit containing the coherer, his idea being, as he states, to leave his receiving aerial to vibrate electrically without disturbance from attached wires. This secondary circuit, as shown, is not tuned to, nor can it be tuned to, the circuit of the aerial. This, in my opinion, is exceedingly strong evidence that Marconi's 1900 invention was not so obvious as to deprive it of subject matter. In the literature quoted, there is no trace of the idea underlying Mr. Marconi's invention, nor, so far as I can see, a single suggestion from which a competent engineer could arrive at this idea."</p>
       <p>(Emphasis added.)</p>
       <p>It was therefore clearly Mr. Justice Parker's view, in his closer perspective to the origin of the invention and the references he considered, that in none of them, and particularly not in Lodge or Braun, was there anticipation of Marconi's solution.</p>

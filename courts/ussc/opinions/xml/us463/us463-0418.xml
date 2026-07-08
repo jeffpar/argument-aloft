@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us463-0418.html" citation="463 U.S. 418" title="United States v. Sells Engineering, Inc.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p418">418</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Sells Engineering, Inc., <a href="./us463-0418.xml#p418">463 U.S. 418</a> (1983)</h>
-    <h>United States v. Sells Engineering, Inc.</h>
-    <h>No. 81-1032</h>
-    <h>Argued March 2, 1983</h>
-    <h>Decided June 30, 1983</h>
-    <h><a href="./us463-0418.xml#p418">463 U.S. 418</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Sells Engineering, Inc., <a href="./us463-0418.xml#p418">463 U.S. 418</a> (1983)</h1>
+    <h2>United States v. Sells Engineering, Inc.</h2>
+    <h2>No. 81-1032</h2>
+    <h4>Argued March 2, 1983</h4>
+    <h4>Decided June 30, 1983</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>After respondents, a company having contracts with the Navy and company officials, were indicted by a federal grand jury for conspiracy to defraud the United States and tax fraud, the parties reached a plea bargain under which the individual respondents pleaded guilty to a count of conspiracy to defraud the Government by obstructing an Internal Revenue Service investigation, and other counts against respondents were dismissed. Thereafter, the Government moved for disclosure of all grand jury materials to attorneys in the Justice Department's Civil Division, their paralegal and secretarial assistants, and certain Defense Department experts for use in preparing and conducting a possible civil suit against respondents under the False Claims Act. The District Court granted disclosure, concluding that Civil Division attorneys are entitled to disclosure as a matter of right under Federal Rule of Criminal Procedure 6(e)(3)(A)(i) (hereinafter (A)(i)), which authorizes disclosure of grand jury materials without a court order to "an attorney for the government for use in the performance of such attorney's duty." The court also stated that disclosure was warranted because the Government had shown particularized need for disclosure. The Court of Appeals vacated and remanded, holding (1) that Civil Division attorneys could obtain disclosure only by showing particularized need under Rule 6(e)(3)(C)(i) (hereinafter (C)(i)), which authorizes disclosure "when so directed by a court preliminarily to or in connection with a judicial proceeding," and (2) that the District Court had not applied a correct standard of particularized need.</p>
     <p>Held:</p>
     <p>1. Attorneys in the Civil Division of the Justice Department and their assistants and staff may not obtain automatic (A)(i) disclosure of grand jury materials for use in a civil suit, but must instead seek a (C)(i) court order for access to such materials. Pp. <a href="./us463-0418.xml#p427">463 U. S. 427</a>-442.</p>
@@ -25,7 +25,7 @@
     <p>BRENNAN, J., delivered the opinion of the Court, in which WHITE, MARSHALL, BLACKMUN, and STEVENS, JJ., joined. BURGER, C.J., filed a dissenting opinion, in which POWELL, REHNQUIST, and O'CONNOR, JJ., joined, post, p. <a href="./us463-0418.xml#p446">463 U. S. 446</a>.</p>
     <p>JUSTICE BRENNAN delivered the opinion of the Court.</p>
     <p>The question in this case is under what conditions attorneys for the Civil Division of the Justice Department, their paralegal and secretarial staff, and all other necessary assistants, may obtain access to grand jury materials, compiled with the assistance and knowledge of other Justice Department attorneys, for the purpose of preparing and pursuing a civil suit. We hold that such access is permissible only when the Government moves for court-ordered disclosure under Federal Rule of Criminal Procedure 6(e)(3)(C)(i) and makes the showing of particularized need required by that Rule.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Respondents Peter A. Sells and Fred R. Witte were officers of respondent Sells Engineering, Inc. That company</p>
     <n id="p421">421</n>
     <p>had contracts with the United States Navy to produce airborne electronic devices designed to interfere with enemy radar systems. In 1974, a Special Agent of the Internal Revenue Service began a combined criminal and civil administrative investigation of respondents. The Agent issued administrative summonses for certain corporate records of Sells Engineering. When the corporation refused to comply, the Agent obtained a District Court order enforcing the summonses. Enforcement was stayed, however, pending appeal.</p>
@@ -34,7 +34,7 @@
     <n id="p422">422</n>
     <p>and conducting a possible civil suit against respondents under the False Claims Act, 31 U.S.C. § 231 et seq. [<a id="nf4" href="#fn4">Footnote 4</a>] Respondents opposed the disclosure, renewing their allegations of grand jury misuse. The District Court granted the requested disclosure, concluding that attorneys in the Civil Division are entitled to disclosure as a matter of right under Rule 6(e)(3)(A)(i). The court also stated that disclosure to Civil Division attorneys and their nonattorney assistants was warranted because the Government had shown particularized need for disclosure. [<a id="nf5" href="#fn5">Footnote 5</a>] The Court of Appeals vacated and remanded, holding that Civil Division attorneys could obtain disclosure only by showing particularized need under Rule 6(e)(3)(C)(i), and that the District Court had not applied a correct standard of particularized need. In re Grand Jury Investigation No. 78-18 (Sells, Inc.), 642 F.2d 1184 (CA9 1981). [<a id="nf6" href="#fn6">Footnote 6</a>] We granted certiorari, 456 U.S. 960 (1982). We now affirm.</p>
     <n id="p423">423</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>A</p>
     <p>The grand jury has always occupied a high place as an instrument of justice in our system of criminal law -- so much so that it is enshrined in the Constitution. Pittsburgh Plate Glass Co. v. United States, <a href="../us360/us360-0395.xml#p395">360 U. S. 395</a>, <a href="../us360/us360-0395.xml#p399">360 U. S. 399</a> (1959); Costello v. United States, <a href="../us350/us350-0359.xml#p359">350 U. S. 359</a>, <a href="../us350/us350-0359.xml#p361">350 U. S. 361</a>-362 (1956). It serves the</p>
     <p>"dual function of determining if there is probable cause to believe that a crime has been committed and of protecting citizens against unfounded criminal prosecutions."</p>
@@ -57,7 +57,7 @@
     <p>forbidding use of grand jury materials by "government personnel" for any purpose other than assisting an attorney for the Government in his enforcement of criminal law, and requiring that the names of such personnel be provided to the district court.</p>
     <p>Subparagraph 6(e)(3)(C) also authorizes courts to order disclosure. Under subparagraph 6(e)(3)(C)(i), a court may order disclosure "preliminarily to or in connection with a judicial proceeding" (a "(C)(i) order"). [<a id="nf9" href="#fn9">Footnote 9</a>] Under subparagraph 6(e)(3)(C)(ii), a court may order disclosure under certain conditions at the request of a defendant. See also <a id="nf7" href="#fn7">n</a> 7, supra.</p>
     <p>The main issue in this case is whether attorneys in the Justice Department may obtain automatic (A)(i) disclosure of grand jury materials for use in a civil suit, or whether they must seek a (C)(i) court order for access. If a (C)(i) order is necessary, we must address the dependent question of what standards should govern issuance of the order.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The Government contends that all attorneys in the Justice Department qualify for automatic disclosure of grand jury materials under (A)(i), regardless of the nature of the litigation in which they intend to use the materials. We hold that (A)(i) disclosure is limited to use by those attorneys who conduct the criminal matters to which the materials pertain. This conclusion is mandated by the general purposes and policies of grand jury secrecy, by the limited policy reasons why Government attorneys are granted access to grand jury materials for criminal use, and by the legislative history of Rule 6(e).</p>
     <p>A</p>
     <p>The Government correctly contends that attorneys for the Civil Division of the Justice Department are within the class of "attorneys for the government" to whom (A)(i) allows disclosure</p>
@@ -118,7 +118,7 @@
     <n id="p442">442</n>
     <p>use of grand jury materials, at least pursuant to their "duties relating to criminal law enforcement"; but disclosure of "grand-jury-developed evidence for civil law enforcement purposes" requires a (C)(i) court order. [<a id="nf33" href="#fn33">Footnote 33</a>]</p>
     <p>We conclude, then, that Congress did not intend that "attorneys for the government" should be permitted free civil use of grand jury materials. Congress was strongly concerned with assuring that prosecutors would not be free to turn over grand jury materials to others in the Government for civil uses without court supervision, and that statutory limits on civil discovery not be subverted -- concerns that apply to civil use by attorneys within the Justice Department as fully as to similar use by persons in other Government agencies. Both the Advisory Committee Notes and the testimony of the Justice Department's own representative suggested that, even under the old Rule, such disclosure for civil use would not have been permissible; indeed, the latter gave a hypothetical illustration closely similar to this very case. The express addition of a "criminal use" limitation in (A)(ii) appears to have been prompted by an abundance of caution, owing to Congress' special concern that nonattorneys were the ones most likely to pose a danger of unauthorized use.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>Since we conclude that the Government must obtain a (C)(i) court order to secure the disclosure it seeks in this case, [<a id="nf34" href="#fn34">Footnote 34</a>] we must consider what standard should govern the issuance of such an order.</p>
     <p>Rule 6(e)(3)(C)(i) simply authorizes a court to order disclosure "preliminarily to or in connection with a judicial proceeding." Neither the text of the Rule nor the accompanying</p>
     <n id="p443">443</n>
@@ -140,7 +140,7 @@
     <p>In this case, the District Court asserted that it had found particularized need for disclosure, but its explanation of that conclusion amounted to little more than its statement that the grand jury materials sought are rationally related to the civil fraud suit to be brought by the Civil Division. App. to Pet. for Cert. 22a-23a. The Court of Appeals correctly held that this was insufficient under Douglas Oil and remanded</p>
     <n id="p446">446</n>
     <p>for reconsideration under the proper legal standard. 642 F.2d at 1190-1192. [<a id="nf36" href="#fn36">Footnote 36</a>]</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>The Court of Appeals correctly held that disclosure to Government attorneys and their assistants for use in a civil suit is permissible only with a court order under Rule 6(e)(3)(C)(i), and that the District Court did not apply correctly the particularized need standard for issuance of such an order. Accordingly, the judgment of the Court of Appeals is</p>
     <p>Affirmed.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>
@@ -277,7 +277,7 @@
       <p>The Court today holds that attorneys within the Department of Justice who are not assigned to the grand jury investigation or prosecution must seek a court order on a showing of particularized need in order to obtain access, for the purpose of preparing a civil suit, to grand jury materials already in the Government's possession. In my view, this holding is contrary not only to the clear language, but also to the history, of Rule 6(e)(3)(A)(i) of the Federal Rules of Criminal Procedure. In addition, the Court's decision reflects an erroneous assessment of the relevant policies, and provides the courts and the Department of Justice with precious little guidance in an area of great importance. I believe that, when a grand jury is validly convened and conducted on the request of the Government for criminal investigatory purposes, it is proper</p>
       <n id="p447">447</n>
       <p>and entirely consistent with the Federal Rules of Criminal Procedure for any attorney in the Department of Justice to have access to grand jury materials in pursuing inquiry into civil claims involving the same or related matters. I therefore dissent.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>Rule 6(e)(3)(A)(i) (hereinafter (A)(i)) is straightforward and clear. It provides:</p>
       <p>"(A) Disclosure . . . of matters occurring before the grand jury, other than its deliberations and the vote of any grand juror, may be made to -- "</p>
       <p>"(i) an attorney for the government for use in the performance of such attorney's duty."</p>
@@ -300,7 +300,7 @@
       <p>This argument suffers from three major flaws. First, it rests on the assumptions that Government attorneys pursuing civil matters were not entitled to grand jury materials prior to 1977, and that Congress based its 1977 amendments upon such an understanding. Those assumptions are inaccurate, as I will demonstrate.</p>
       <p>Second, the Court appears to believe that Government attorneys pursuing civil matters are in essentially the same position as nonattorney support personnel with respect to both their need for grand jury materials and their likelihood to violate grand jury secrecy. This is clearly not the case, and Congress took the obvious differences into account in 1977 when it chose to adopt different standards for disclosure to Government attorneys, on the one hand, and to support personnel, on the other.</p>
       <p>Finally, the Court overlooks the reality that, in 1977, Congress revised all of Rule 6(e) -- including what is now (A)(i). Under those circumstances, it hardly seems likely that Congress was ignorant of the fact that the standards applicable to Government attorneys in (A)(i) differ from those for nonattorney support personnel in (A)(ii).</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>The Court appears to believe that there is something in the history of Rule 6(e) that gives it license to ignore the Rule's plain language. I disagree. The history of the drafting of a rule can justify a court in deviating from clear language only if that history leaves no question as to the meaning of the rule. See, e.g., Bread Political Action Committee v. FEC, <a href="../us455/us455-0577.xml#p577">455 U. S. 577</a>, <a href="../us455/us455-0577.xml#p580">455 U. S. 580</a>-581 (1982); Consumer Product Safety Comm'n v. GTE Sylvania, Inc., <a href="../us447/us447-0102.xml#p102">447 U. S. 102</a>, <a href="../us447/us447-0102.xml#p108">447 U. S. 108</a> (1980). Even the partial history provided by the Court is, at best, ambiguous and wholly insufficient to overcome the plain language of the Rule. And elements of the Rule's history that are ignored by the Court make clear that (A)(i) means just</p>
       <n id="p451">451</n>
       <p>what it says, i.e., "government attorneys" are entitled to grand jury materials for the full range of their assigned duties, whatever may be their responsibilities.</p>
@@ -380,7 +380,7 @@
       <p>These statements all reflect an awareness of the prevailing practice, under which attorneys throughout the Department of Justice were entitled to use grand jury materials in performing all their responsibilities, but could not turn the material over to another agency for that agency's use except by</p>
       <n id="p465">465</n>
       <p>court order. To me, there can be no doubt that Congress understood that, under Rule 6(e), all attorneys in the Department of Justice were authorized to use grand jury materials in the full range of their duties -- including civil matters -- and chose to leave that standard unchanged. This is in marked contrast to the treatment of assisting personnel, including personnel of other agencies, to whom automatic disclosure is permitted under (A)(ii) only for criminal purposes. History thus conclusively buttresses the plain language of the Rule, compelling the conclusion that Government attorneys, as defined in Rule 54(c), are entitled to grand jury materials in pursuing civil matters, regardless of whether they themselves were assigned to the grand jury investigation or prosecution. [Footnote 2/9]</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>The Court relies heavily upon perceived policy considerations that the Court seems to think favor its approach. The language and the history of the Rule are so clear that reference to policy considerations should be wholly unnecessary. Congress, in adopting (A)(i), already has made the relevant policy choices. In any event, however, the Court has erred gravely in its assessment of the policy implications of the standard it sets forth and of the standard which I believe actually appears in (A)(i).</p>
       <p>The Court asserts that disclosure for civil use would do "affirmative mischief" in three ways. See ante at <a href="./us463-0418.xml#p431">463 U. S. 431</a>-434. First, it is argued that "disclosure to Government bodies raises much the same concerns that underlie the rule of secrecy in other contexts." Ante at <a href="./us463-0418.xml#p432">463 U. S. 432</a>. Presumably, the</p>
       <n id="p466">466</n>
@@ -419,7 +419,7 @@
       <p>mean that any attorney assigned by the Attorney General to assist in a criminal fraud investigation or prosecution may use the grand jury materials for subsequent civil fraud litigation. The Court deliberately chooses to avoid these issues, however, on the ground that they are not squarely presented by this case. Ante at <a href="./us463-0418.xml#p431">463 U. S. 431</a>, n. 15. See also e.g., ante at <a href="./us463-0418.xml#p429">463 U. S. 429</a>, n. 11, <a href="./us463-0418.xml#p434">463 U. S. 434</a>, n.19, <a href="./us463-0418.xml#p441">463 U. S. 441</a>-442, and n. 33.</p>
       <p>In addition, I assume that, if a grand jury turns up plain evidence of fraud that properly should be pursued by Government lawyers, the Court would allow a prosecutor to disclose the substance of the violations to his colleagues, so that those attorneys might file a civil complaint -- if they have not already done so -- and commence civil discovery. And when a grand jury discovers fraud, the prosecutor surely should be able to seek a court order under Rule 6(e)(3)(C)(i) enabling him to disclose the relevant portions of the actual grand jury transcripts and materials to other attorneys for prosecution of the civil fraud claims. Here again, the Court plainly is aware of the issues, see ante at <a href="./us463-0418.xml#p441">463 U. S. 441</a>-442, but fails to provide any guidance on their proper resolution.</p>
       <p>Of course, the job of this Court is to decide the case before it, and not to issue advisory opinions on matters far afield. But to my mind, when the Court announces a standard that appears nowhere in the relevant Rule, that overturns more than 30 years of established practice, and that will force a complete reevaluation and restructuring of Justice Department procedures regarding use of grand jury materials, the Court has an obligation to provide some guidance to the Department and to other courts on vitally important issues that are fairly embraced by the decision. I find it curious that a majority of this Court feels no such duty.</p>
-      <h>IV</h>
+      <h2>IV</h2>
       <p>The opinion of the Court today upsets longstanding practice of the Justice Department regarding disclosure of grand jury materials for civil use, without affording that Department</p>
       <n id="p475">475</n>
       <p>or the courts meaningful guidance on the permissible limits of disclosure to other attorneys within the Department in the future. Although the bounds of today's decision are wholly undefined, it is clear that the decision will greatly limit disclosure of grand jury materials for civil use; and it is inevitable that countless meritorious civil actions will never be investigated or prosecuted, unless the Attorney General routinely assigns civil fraud lawyers to help work up criminal fraud cases. On its face, this process will be a wasteful practice in terms of use of the time of Department lawyers. This result is contrary to the plain language and history of Rule 6(e)(3)(A)(i), and to elementary considerations of sound policy. I therefore dissent.</p>

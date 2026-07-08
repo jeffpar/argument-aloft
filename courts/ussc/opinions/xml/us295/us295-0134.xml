@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us295-0134.html" citation="295 U.S. 134" title="Snyder v. Commissioner">
   <opinion type="Opinions &amp; Dissents">
     <n id="p134">134</n>
-    <h>U.S. Supreme Court</h>
-    <h>Snyder v. Commissioner, <a href="./us295-0134.xml#p134">295 U.S. 134</a> (1935)</h>
-    <h>Snyder v. Commissioner of Internal Revenue</h>
-    <h>No. 663</h>
-    <h>Argued March 15, 1935</h>
-    <h>Decided April 29, 1935</h>
-    <h><a href="./us295-0134.xml#p134">295 U.S. 134</a></h>
-    <h>CERTIORARI TO THE CIRCUIT COURT OF APPEALS</h>
-    <h>FOR THE THIRD CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Snyder v. Commissioner, <a href="./us295-0134.xml#p134">295 U.S. 134</a> (1935)</h1>
+    <h2>Snyder v. Commissioner of Internal Revenue</h2>
+    <h2>No. 663</h2>
+    <h4>Argued March 15, 1935</h4>
+    <h4>Decided April 29, 1935</h4>
+    <h2>CERTIORARI TO THE CIRCUIT COURT OF APPEALS</h2>
+    <h2>FOR THE THIRD CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>1. Shares traded in on margin are capable of identification for the purposes of the "first-in, first-out" rule of the Treasury (Reg. No. 74, Art. 58) but the mere intention of the trader to sell particular shares, without further designation, does not constitute sufficient identification. Helvering v. Rankin, ante, p. <a href="./us295-0123.xml#p123">295 U. S. 123</a>. P. <a href="./us295-0134.xml#p137">295 U. S. 137</a>.</p>
     <p>2. A person who devotes no substantial part of his business day to stock transactions, who is not a trader on the exchange making a living in buying and selling securities, but who deals merely with the object of increasing, as far as his margin will permit, his holdings of a particular stock carried for his account by his brokers, is not engaged in market operations as a trade or business within the meaning of § 22 of the Revenue Act of 1928. P. <a href="./us295-0134.xml#p137">295 U. S. 137</a>.</p>
     <n id="p135">135</n>
@@ -32,7 +32,7 @@
     <p>First. Snyder contends, in the alternative, that his intention to sell the last acquired stock first constituted sufficient identification to make the "first-in, first-out" rule inapplicable; or else that the regulation as applied to marginal transactions on the stock exchange is invalid because there is no possible means, other than the trader's intentions, of identifying the shares sold. What has already been said in Helvering v. Rankin is enough to dispose of both of these contentions. It is there determined that shares traded on margin are capable of identification for the purposes of the regulation, but that the mere intention of the trader to sell particular shares, without further designation, does not constitute sufficient identification.</p>
     <p>Second. Snyder contends that the "first-in, first-out" regulation may not, consistently with the provisions of the Revenue Act of 1928, be applied to the facts of this case. The argument is that his market operations constituted a trade or business as those terms are used in § 22(a) of the Act; that, according to that section, and the applicable decisions of this Court, Burnet v. Sanford &amp; Brooks Co., <a href="../us282/us282-0359.xml#p359">282 U. S. 359</a>, Woolford Realty Co. v. Rose, <a href="../us286/us286-0319.xml#p319">286 U. S. 319</a>, gross income from such business, as well as net income</p>
     <n id="p138">138</n>
-    <p>under § 23 of the Act , must be computed entirely with respect to transactions within the taxable year, and that §§ 111-113, upon which the government relies, are not applicable because they relate only to "sales of property, including securities, held for investment," and have no application to sales made in the course of a "business of trading on the stock exchange." On this assumption, Snyder argues that the income realized during the taxable year from his stock transactions is not the aggregate of the gains and losses on each sale of securities, measured by the difference between the sale and cost prices of the securities sold, but the profit or loss realized as a result of all market operations, purchases as well as sales, made during the taxable year. Such profit or loss, he now suggests, must be computed</p>
+    <p>under § 23 of the Act, must be computed entirely with respect to transactions within the taxable year, and that §§ 111-113, upon which the government relies, are not applicable because they relate only to "sales of property, including securities, held for investment," and have no application to sales made in the course of a "business of trading on the stock exchange." On this assumption, Snyder argues that the income realized during the taxable year from his stock transactions is not the aggregate of the gains and losses on each sale of securities, measured by the difference between the sale and cost prices of the securities sold, but the profit or loss realized as a result of all market operations, purchases as well as sales, made during the taxable year. Such profit or loss, he now suggests, must be computed</p>
     <p>"by taking the difference between the purchase price and the sales price of shares bought and sold during the year, deducting expenses, such as commissions, taxes and interest."</p>
     <p>Thus, computed, he concludes, his market operations resulted in a gross income of $43,692, and adding his salary, insurance commissions and dividends, and deducting the expenses of his stock operations (interest paid brokers), his net taxable income was $39,682, and his total tax $1,897.77.</p>
     <p>Third. Neither in the findings of the Board of Tax Appeals nor in the facts upon which the case was submitted to it is there any support for the controverted allegation in Snyder's petition that his market operations constituted a "business regularly carried on for profit." [<a id="nf1" href="#fn1">Footnote 1</a>] It is true that a taxpayer may be engaged in more than one trade or business, as those terms are used in various</p>

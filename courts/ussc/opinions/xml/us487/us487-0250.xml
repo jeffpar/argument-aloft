@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us487-0250.html" citation="487 U.S. 250" title="Bank of Nova Scotia v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p250">250</n>
-    <h>U.S. Supreme Court</h>
-    <h>Bank of Nova Scotia v. United States, <a href="./us487-0250.xml#p250">487 U.S. 250</a> (1988)</h>
-    <h>Bank of Nova Scotia v. United States</h>
-    <h>No. 87-578</h>
-    <h>Argued April 27, 1988</h>
-    <h>Decided June 22, 1988<a href="./us487-0250.xml#p250">487 U.S. 250</a>ast|&gt;*</h>
-    <h><a href="./us487-0250.xml#p250">487 U.S. 250</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE TENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Bank of Nova Scotia v. United States, <a href="./us487-0250.xml#p250">487 U.S. 250</a> (1988)</h1>
+    <h2>Bank of Nova Scotia v. United States</h2>
+    <h2>No. 87-578</h2>
+    <h4>Argued April 27, 1988</h4>
+    <h4>Decided June 22, 1988<a href="./us487-0250.xml#p250">487 U.S. 250</a>ast|&gt;*</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE TENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>The District Court dismissed an indictment against petitioners and others on the basis of prosecutorial misconduct and irregularities in the grand jury proceedings, finding that dismissal was proper due to violations of Federal Rule of Criminal Procedure 6 and under the "totality of the circumstances," including "numerous" violations of Rules 6(d) and (e); violations of 18 U.S.C. §§ 6002 and 6003 and of the Fifth and Sixth Amendments to the Federal Constitution; and the prosecution's knowing presentation of misinformation to the grand jury and mistreatment of witnesses. In an apparent alternative holding, the District Court also ruled that dismissal, pursuant to its supervisory authority, was necessary in order to deter future conduct of this sort. The Court of Appeals reversed, ruling that petitioners were not prejudiced by the Government's conduct, and that, absent prejudice, the District Court lacked the authority to invoke its supervisory power to dismiss the indictment.</p>
     <p>Held:</p>
     <p>1. As a general matter, a district court may not dismiss an indictment for errors in grand jury proceedings unless such errors prejudiced the defendants. Pp. <a href="./us487-0250.xml#p254">487 U. S. 254</a>-257.</p>
@@ -25,7 +25,7 @@
     <n id="p252">252</n>
     <p>JUSTICE KENNEDY delivered the opinion of the Court.</p>
     <p>The issue presented is whether a district court may invoke its supervisory power to dismiss an indictment for prosecutorial misconduct in a grand jury investigation, where the misconduct does not prejudice the defendants.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In 1982, after a 20-month investigation conducted before two successive grand juries, eight defendants, including petitioners William A. Kilpatrick, Declan J. O'Donnell, Sheila C. Lerner, and The Bank of Nova Scotia, were indicted on 27 counts. The first 26 counts charged all defendants with conspiracy and some of them with mail and tax fraud. Count 27 charged Kilpatrick with obstruction of justice. The United States District Court for the District of Colorado initially dismissed the first 26 counts for failure to charge a crime, improper pleading, and, as to charges against the bank, for failure to allege that the bank or its agents had the requisite knowledge and criminal intent. Kilpatrick was tried and convicted on the obstruction of justice count.</p>
     <p>The Government appealed the dismissal of the first 26 counts. Before oral argument, however, the Court of Appeals granted a defense motion to remand the case to the District Court for a hearing on whether prosecutorial misconduct and irregularities in the grand jury proceedings were additional grounds for dismissal. United States District Judge Fred M. Winner first presided over the post-trial motions and granted a new trial to Kilpatrick on the obstruction of justice count. The cases were later reassigned to United</p>
     <n id="p253">253</n>
@@ -46,7 +46,7 @@
     <p>"view of the majority that prejudice to the defendant must be shown before a court can exercise its supervisory powers to dismiss an indictment on the basis of egregious prosecutorial misconduct."</p>
     <p>Id. at 1476. In her view, the instances of prosecutorial misconduct relied on by the District Court pervaded the grand jury proceedings, rendering the remedy of dismissal necessary to safeguard the integrity of the judicial process notwithstanding the absence of prejudice to the defendants. Id. at 1479-1480.</p>
     <p>We hold that, as a general matter, a district court may not dismiss an indictment for errors in grand jury proceedings unless such errors prejudiced the defendants.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>In the exercise of its supervisory authority, a federal court "may, within limits, formulate procedural rules not specifically required by the Constitution or the Congress." United States v. Hasting, <a href="../us461/us461-0499.xml#p499">461 U. S. 499</a>, <a href="../us461/us461-0499.xml#p505">461 U. S. 505</a> (1983). Nevertheless, it is well established that "[e]ven a sensible and efficient use of the supervisory power . . . is invalid if it conflicts with constitutional or statutory provisions." Thomas v. Arn, <a href="../us474/us474-0140.xml#p140">474 U. S. 140</a>, <a href="../us474/us474-0140.xml#p148">474 U. S. 148</a> (1985). To allow otherwise "would confer on the judiciary discretionary power to disregard the considered limitations of the law it is charged with enforcing." United States v. Payner, <a href="../us447/us447-0727.xml#p727">447 U. S. 727</a>, <a href="../us447/us447-0727.xml#p737">447 U. S. 737</a> (1980). Our previous cases have not addressed explicitly whether this rationale bars exercise of a supervisory authority where, as here, dismissal of the indictment would conflict with the harmless error inquiry mandated by the Federal Rules of Criminal Procedure.</p>
     <p>We now hold that a federal court may not invoke supervisory power to circumvent the harmless error inquiry prescribed by Federal Rule of Criminal Procedure 52(a). Rule</p>
     <n id="p255">255</n>
@@ -64,7 +64,7 @@
     <p>To be distinguished from the cases before us are a class of cases in which indictments are dismissed, without a particular assessment of the prejudicial impact of the errors in each case, because the errors are deemed fundamental. These cases may be explained as isolated exceptions to the harmless error rule. We think, however, that an alternative and</p>
     <n id="p257">257</n>
     <p>more clear explanation is that these cases are ones in which the structural protections of the grand jury have been so compromised as to render the proceedings fundamentally unfair, allowing the presumption of prejudice. See Rose v. Clark, <a href="../us478/us478-0570.xml#p570">478 U. S. 570</a>, <a href="../us478/us478-0570.xml#p577">478 U. S. 577</a>-578 (1986). These cases are exemplified by Vasquez v. Hillery, <a href="../us474/us474-0254.xml#p254">474 U. S. 254</a>, <a href="../us474/us474-0254.xml#p260">474 U. S. 260</a>-264 (1986), where we held that racial discrimination in selection of grand jurors compelled dismissal of the indictment. In addition to involving an error of constitutional magnitude, other remedies were impractical, and it could be presumed that a discriminatorily selected grand jury would treat defendants unfairly. See United States v. Mechanik, supra, at <a href="../us475/us475-0066.xml#p70">475 U. S. 70</a>-71, n. 1. We reached a like conclusion in Ballard v. United States, <a href="../us329/us329-0187.xml#p187">329 U. S. 187</a> (1946), where women had been excluded from the grand jury. The nature of the violation allowed a presumption that the defendant was prejudiced, and any inquiry into harmless error would have required unguided speculation. Such considerations are not presented here, and we review the alleged errors to assess their influence, if any, on the grand jury's decision to indict in the factual context of the cases before us.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Though the standard we have articulated differs from that used by the Court of Appeals, we reach the same conclusion, and affirm its decision reversing the order of dismissal. We review the record to set forth the basis of our agreement with the Court of Appeals that prejudice has not been established.</p>
     <p>The District Court found that the Government had violated Federal Rule of Criminal Procedure 6(e) by: (1) disclosing grand jury materials to Internal Revenue Service employees having civil tax enforcement responsibilities; (2) failing to give the court prompt notice of such disclosures; (3) disclosing to potential witnesses the names of targets of the investigation; and (4) instructing two grand jury witnesses, who had represented some of the defendants in a separate investigation</p>
     <n id="p258">258</n>
@@ -92,7 +92,7 @@
     <p>instructed not to answer any questions during the readings. There is no evidence that the agents' reading in tandem enhanced the credibility of the testimony or otherwise allowed the agents to exercise undue influence.</p>
     <p>In considering the prejudicial effect of the foregoing instances of alleged misconduct, we note that these incidents occurred as isolated episodes in the course of a 20-month investigation, an investigation involving dozens of witnesses and thousands of documents. In view of this context, those violations that did occur do not, even when considered cumulatively, raise a substantial question, much less a grave doubt, as to whether they had a substantial effect on the grand jury's decision to charge.</p>
     <p>Errors of the kind alleged in these cases can be remedied adequately by means other than dismissal. For example, a knowing violation of Rule 6 may be punished as a contempt of court. See Fed.Rule Crim.Proc. 6(e)(2). In addition, the court may direct a prosecutor to show cause why he should not be disciplined, and request the bar or the Department of Justice to initiate disciplinary proceedings against him. The court may also chastise the prosecutor in a published opinion. Such remedies allow the court to focus on the culpable individual, rather than granting a windfall to the unprejudiced defendant.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>We conclude that the District Court had no authority to dismiss the indictment on the basis of prosecutorial misconduct absent a finding that petitioners were prejudiced by such misconduct. The prejudicial inquiry must focus on whether any violations had an effect on the grand jury's decision to indict. If violations did substantially influence this decision, or if there is grave doubt that the decision to indict was free from such substantial influence, the violations cannot be deemed harmless. The record will not support the</p>
     <n id="p264">264</n>
     <p>conclusion that petitioners can meet this standard. The judgment of the Court of Appeals is affirmed.</p>

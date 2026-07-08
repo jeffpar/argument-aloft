@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us412-0735.html" citation="412 U.S. 735" title="Gaffney v. Cummings">
   <opinion type="Opinions &amp; Dissents">
     <n id="p735">735</n>
-    <h>U.S. Supreme Court</h>
-    <h>Gaffney v. Cummings, <a href="./us412-0735.xml#p735">412 U.S. 735</a> (1973)</h>
-    <h>Gaffney v. Cummings</h>
-    <h>No. 71-1476</h>
-    <h>Argued February 26-27, 1973</h>
-    <h>Decided June 18, 1973</h>
-    <h><a href="./us412-0735.xml#p735">412 U.S. 735</a></h>
-    <h>APPEAL FROM THE UNITED STATES DISTRICT COURT</h>
-    <h>FOR THE DISTRICT OF CONNECTICUT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Gaffney v. Cummings, <a href="./us412-0735.xml#p735">412 U.S. 735</a> (1973)</h1>
+    <h2>Gaffney v. Cummings</h2>
+    <h2>No. 71-1476</h2>
+    <h4>Argued February 26-27, 1973</h4>
+    <h4>Decided June 18, 1973</h4>
+    <h2>APPEAL FROM THE UNITED STATES DISTRICT COURT</h2>
+    <h2>FOR THE DISTRICT OF CONNECTICUT</h2>
+    <h2>Syllabus</h2>
     <p>Connecticut's legislative apportionment plan was held by the District Court to be unconstitutional because partisan political structuring had resulted in excessive population deviations in the House districting.</p>
     <p>Held:</p>
     <p>1. Minor deviations from mathematical equality among state legislative districts do not make out a prima facie case of invidious discrimination under the Equal Protection Clause of the Fourteenth Amendment, and in this case, where the House districts deviated on the average by 1.9% and the maximum deviation was 7.83%, a prima facie case was not made out. Pp. <a href="./us412-0735.xml#p740">412 U. S. 740</a>-751.</p>
@@ -22,7 +22,7 @@
     <p>The questions in this case are whether the population variations among the election districts provided by a reapportionment plan for the Connecticut General Assembly, proposed in 1971, made out a prima facie</p>
     <n id="p736">736</n>
     <p>case of invidious discrimination under the Equal Protection Clause and whether an otherwise acceptable reapportionment plan is constitutionally vulnerable where its purpose is to provide districts that would achieve "political fairness" between the political parties.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The reapportionment plan for the Connecticut General Assembly became law when published by Connecticut's Secretary of State in December, 1971. Under the State's Constitution, the legislature is given the initial opportunity to reapportion itself in the months immediately following the completion of a decennial census of the United States. Conn.Const., Art. III, § 6(b). In the present case, the legislature was unable to agree on a plan by the state constitutional deadline of April 1, 1971. The task was therefore transferred, as required by the constitution, to an eight-member bipartisan commission. Ibid. The Democratic and Republican Party leaders in the legislature each appointed four commissioners. The commission was given until July 1, 1971, to devise a reapportionment plan, id., § 6(c); but, although the commission approached agreement, it too was unable to adopt a plan within the deadline. Accordingly, as a final step in the constitutional process, a three-man bipartisan Board was constituted. Id., § 6(d). The Speaker of the House of Representatives, a Democrat, and the Republican Minority Leader of the House each chose a judge of the State Superior Court to be a Board member, and the two judges in turn designated a third Board member, who was a justice of the State Supreme Court. Ibid.</p>
     <p>This Apportionment Board, using the census data available during the summer of 1971, and relying heavily on the legislative commission's tentative plans, filed a</p>
     <n id="p737">737</n>
@@ -42,7 +42,7 @@
     <p>from equality of populations of the Senate and House districts are not justified by any sufficient state interest, and that the Plan denies equal protection of the law to voters in the districts of greater population. . . ."</p>
     <p>Id. at 148. The court relied in part on Kirkpatrick v. Preisler, <a href="../us394/us394-0526.xml#p526">394 U. S. 526</a> (1969). More particularly, the court found that the policy of "partisan political structuring," 341 F. Supp. at 150, "cannot be approved as a legitimate reason for violating the requirement of numerical equality of population in districting." Id. at 149. The court therefore required that a plan reflecting "closer adherence to the constitutional guidelines" be adopted. Jurisdiction over the case was retained for all purposes, and the court announced that it "will appoint a master . . . to devise a plan conforming to federal and state constitutional requirements. . . ." Id. at 150.</p>
     <p>On June 12, 1972, after a motion to expedite consideration of the appeal had been denied (406 U.S. 942), this Court granted appellant's motion for a stay of the District Court's judgment. <a href="../us407/us407-0902.xml#p902">407 U. S. 902</a>. On the basis of that stay, and a subsequent supportive state order, [<a id="nf8" href="#fn8">Footnote 8</a>] the 1972 fall elections for the State Assembly were held under the Board's reapportionment plan. When this Court convened in October, 1972, we noted probable jurisdiction over the appeal. <a href="../us409/us409-0824.xml#p839">409 U. S. 839</a>. By this time, a Special Master had been appointed by the District Court and had prepared a reapportionment plan.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>We think that appellees' showing of numerical deviations from population equality among the Senate and</p>
     <n id="p741">741</n>
     <p>House districts in this case failed to make out a prima facie violation of the Equal Protection Clause of the Fourteenth Amendment, whether those deviations are considered alone or in combination with the additional fact that another plan could be conceived with lower deviations among the State's legislative districts. Put another way, the allegations and proof of population deviations among the districts fail in size and quality to amount to an invidious discrimination under the Fourteenth Amendment which would entitle appellees to relief, absent some countervailing showing by the State.</p>
@@ -95,7 +95,7 @@
     <n id="p751">751</n>
     <p>who litigate need only produce a plan that is marginally "better" when measured against a rigid and unyielding population equality standard.</p>
     <p>The point is, that such involvements should never begin. We have repeatedly recognized that state reapportionment is the task of local legislatures or of those organs of state government selected to perform it. Their work should not be invalidated under the Equal Protection Clause when only minor population variations among districts are proved. Here, the proof at trial demonstrated that the House districts under the State Apportionment Board's plan varied in population from one another by a maximum of only about 8%, and that the average deviation from the ideal House district was only about 2%. The Senate districts had even less variations. On such a showing, we are quite sure that a prima facie case of invidious discrimination under the Fourteenth Amendment was not made out.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>State legislative districts may be equal or substantially equal in population and still be vulnerable under the Fourteenth Amendment. A districting statute, otherwise acceptable, may be invalid because it fences out a racial group so as to deprive them of their preexisting municipal vote. Gomillion v. Lightfoot, <a href="../us364/us364-0339.xml#p339">364 U. S. 339</a> (1960). A districting plan may create multi-member districts perfectly acceptable under equal population standards, but invidiously discriminatory because they are employed "to minimize or cancel out the voting strength of racial or political elements of the voting population." Fortson v. Dorsey, <a href="../us379/us379-0433.xml#p433">379 U. S. 433</a>, <a href="../us379/us379-0433.xml#p439">379 U. S. 439</a> (1965). See White v. Regester, post, p. <a href="./us412-0755.xml#p755">412 U. S. 755</a>; Whitcomb v. Chavis, <a href="../us403/us403-0124.xml#p124">403 U. S. 124</a> (1971); Abate v. Mundt, 403 U.S. at <a href="../us403/us403-0182.xml#p184">403 U. S. 184</a> n. 2; Burns v. Richardson, 384 U.S. at <a href="../us384/us384-0073.xml#p88">384 U. S. 88</a>-89. We must, therefore, respond to appellees' claims in this case</p>
     <n id="p752">752</n>
     <p>that, even if acceptable population-wise, the Apportionment Board's plan was invidiously discriminatory because a "political fairness principle" was followed in making up the districts in both the House and Senate.</p>

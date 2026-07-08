@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us478-0310.html" citation="478 U.S. 310" title="Library of Congress v. Shaw">
   <opinion type="Opinions &amp; Dissents">
     <n id="p310">310</n>
-    <h>U.S. Supreme Court</h>
-    <h>Library of Congress v. Shaw, <a href="./us478-0310.xml#p310">478 U.S. 310</a> (1986)</h>
-    <h>Library of Congress v. Shaw</h>
-    <h>No. 85-54</h>
-    <h>Argued February 24, 1986</h>
-    <h>Decided July 1, 1986</h>
-    <h><a href="./us478-0310.xml#p310">478 U.S. 310</a></h>
-    <h>CERTIORARI TO THE COURT OF APPEALS FOR THE DISTRICT</h>
-    <h>OF COLUMBIA CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Library of Congress v. Shaw, <a href="./us478-0310.xml#p310">478 U.S. 310</a> (1986)</h1>
+    <h2>Library of Congress v. Shaw</h2>
+    <h2>No. 85-54</h2>
+    <h4>Argued February 24, 1986</h4>
+    <h4>Decided July 1, 1986</h4>
+    <h2>CERTIORARI TO THE COURT OF APPEALS FOR THE DISTRICT</h2>
+    <h2>OF COLUMBIA CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>After petitioner Library of Congress had rejected respondent black employee's complaints alleging job-related racial discrimination, respondent's counsel pursued administrative relief and settlement negotiations, and eventually reached a settlement with the Library. The latter agreed to promote respondent retroactively with backpay if the Comptroller General determined that the Library was authorized to do so in the absence of a specific finding of racial discrimination. The Comptroller General ruled that the Library, under the Back Pay Act, lacked such authority. Respondent then filed suit in Federal District Court, alleging that Title VII of the Civil Rights Act of 1964 authorized the relief. The court agreed, and therefore authorized the Library to promote respondent with backpay, and to pay a reasonable attorney's fee and costs pursuant to § 706(k) of the Act, which provides that, in any Title VII action, the court may allow the prevailing party a "reasonable attorney's fee as part of the costs," and that "the United States shall be liable for costs the same as a private person." In calculating the attorney's fee, the District Court increased the lodestar amount by 30 percent to compensate counsel for the delay in receiving payment for his services. The Court of Appeals affirmed, holding that, although the no-interest rule -- under which no recovery can be had against the Government for interest in the absence of an express waiver of sovereign immunity from an award of interest -- applied, since compensation for delay is functionally equivalent to interest, Congress waived the Government's immunity from interest by making it liable "the same as a private person."</p>
     <p>Held: The no-interest rule applies here, so as to preclude the award of increased compensation to respondent's counsel for the delay in receiving payment for his services. Pp. <a href="./us478-0310.xml#p314">478 U. S. 314</a>-323.</p>
     <p>(a) Section 706(k)'s provision making the United States liable "the same as a private person" waives the Government's immunity from attorney's fees, but not interest. The statute, as well as its history, contains no reference to interest, and thus precludes reading it as the requisite waiver of the Government's immunity from interest. <a href="./us478-0310.xml#p318">478 U. S.</a> 318-320.</p>
@@ -25,9 +25,9 @@
     <p>JUSTICE BLACKMUN delivered the opinion of the Court.</p>
     <p>The no-interest rule is to the effect that interest cannot be recovered in a suit against the Government in the absence of an express waiver of sovereign immunity from an award of interest. In this case, attorney's fees, as well as interest on those fees, were awarded to a plaintiff who prevailed against petitioner Library of Congress in a suit brought under Title VII of the Civil Rights Act of 1964, 78 Stat. 253, as amended, 42 U.S.C. § 2000e et seq. We therefore must decide whether Congress, in enacting Title VII, expressly waived the Government's immunity from interest</p>
     <n id="p312">312</n>
-    <h>I</h>
+    <h2>I</h2>
     <p>Respondent Tommy Shaw is an employee of the Library of Congress. He is black. During 1976 and 1977, he filed three complaints with the Library's Equal Employment Office, alleging job-related racial discrimination. Following an investigation, Library officials rejected his complaints. Thereafter, respondent's counsel pursued administrative relief and settlement negotiations, and eventually reached a settlement with the Library. The latter agreed to promote Shaw retroactively, with backpay, provided that the Comptroller General first determined that the Library had authority to do so in the absence of a specific finding of racial discrimination. The Comptroller General ruled that the Library, under the Back Pay Act, 5 U.S.C. §§ 5595, 5596, lacked that power; he did not address whether such relief was authorized under Title VII.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Respondent then filed suit in the United States District Court for the District of Columbia, contending that Title VII authorized the Library to accord the relief specified in the settlement agreement. On cross-motions for summary judgment, the court agreed with respondent that the Library had the power under Title VII to settle his claim by awarding him a retroactive promotion with backpay without a formal finding of discrimination. <a href="https://law.justia.com/cases/federal/district-courts/FSupp/479/945/2264079/">479 F. Supp. 945</a> (1979). The Library therefore was authorized to promote Shaw with backpay, and to pay a reasonable attorney's fee and costs pursuant to § 706(k) of the Civil Rights Act 42 U.S.C. § 2000e-5(k). 479 F. Supp. at 949-950.</p>
     <p>In a separate opinion calculating the attorney's fee, the District Court began with a lodestar of $8,435, [<a id="nf1" href="#fn1">Footnote 1</a>] based on 99 hours of work at $85 per hour. App. to Pet. for Cert. 57a, 62a-66a. The court then reduced the lodestar by 20 percent to reflect the quality of counsel's representation. Id. at</p>
     <n id="p313">313</n>
@@ -39,7 +39,7 @@
     <p>Court of Appeals reasoned, in making the United States liable "the same as a private person," Congress waived the United States' immunity from interest. In the alternative, the Court of Appeals held that, even if the "same as a private person" provision was not an express waiver, the District Court's adjustment was proper; when a statute measures the liability of the United States by that of a private person, the "traditional rigor of the sovereign-immunity doctrine" is relaxed. 241 U.S.App.D.C. at 365, 747 F.2d at 1479.</p>
     <p>Judge Ginsburg dissented. Id. at 371, 747 F.2d at 1485. She found no express waiver of immunity from interest, and declined to join what she considered to be a judicial termination of the no-interest rule. She viewed the increase for delay in this case as an award of interest, based on the manner and timing of its computation. She indicated, however, that use of current, rather than historical hourly, rates in order to compensate for delay, or use of historical rates that were based on expected delay, see Murray v. Weinberger, 239 U.S.App.D.C. 264, 741 F.2d 1423 (1984), would not run afoul of the no-interest rule.</p>
     <p>We granted certiorari to address the question whether the Court of Appeals' decision conflicts with this Court's repeated holdings that interest may not be awarded against the Government in the absence of express statutory or contractual consent. 474 U.S. 815 (1985).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>In the absence of express congressional consent to the award of interest separate from a general waiver of immunity to suit, the United States is immune from an interest award. This requirement of a separate waiver reflects the historical view that interest is an element of damages separate from damages on the substantive claim. C. McCormick, Law of Damages § 50, p. 205 (1935). Because interest was generally presumed not to be within the contemplation of the parties, common law courts in England allowed interest by way of</p>
     <n id="p315">315</n>
     <p>damages only when founded upon agreement of the parties. [<a id="nf2" href="#fn2">Footnote 2</a>] See De Havilland v. Bowerbank, 1 Camp. 50, 51, 170 Eng.Rep. 872, 873 (N.P.1807); Calton v. Bragg, 15 East. 223, 226-227, 104 Eng.Rep. 828, 830 (K. B. 1812); H. McGregor, Mayne and McGregor On Damages 281 (1961). In turn, the agreement-basis of interest was adopted by American courts. See Reid v. Rensselaer Glass Factory, 3 Cow. 393 (N.Y. 1824) (reviewing treatment of interest in state courts); C. McCormick, Law of Damages § 51, p. 208 (1935). Gradually, in suits between private parties, the necessity of an agreement faded. See id. at 210.</p>
@@ -51,7 +51,7 @@
     <p>In creating the Court of Claims, Congress retained the Government's immunity from awards of interest, permitting it only where expressly agreed to under contract or statute. Court of Claims Act, § 7, 12 Stat. 766 (current version at 28 U.S.C. § 2516(a)). Although the Act, by its terms, addresses only those cases brought in the Court of Claims, this Court repeatedly has made clear that the Act merely codifies the traditional legal rule regarding the immunity of the United States from interest. See, e.g., Tillson v. United States, <a href="../us100/us100-0043.xml#p43">100 U. S. 43</a>, <a href="../us100/us100-0047.xml#p47">100 U. S. 47</a> (1879); United States v. N.Y. Rayon Importing Co., <a href="../us329/us329-0654.xml#p654">329 U. S. 654</a>, <a href="../us329/us329-0654.xml#p658">329 U. S. 658</a> (1947); United States v. Tillamooks, <a href="../us341/us341-0048.xml#p48">341 U. S. 48</a>, <a href="../us341/us341-0048.xml#p49">341 U. S. 49</a> (1951). In cases not in the Court of Claims, this Court has reaffirmed the notion:</p>
     <p>"Apart from constitutional requirements, in the absence of specific provision by contract or statute, or 'express consent . . . by Congress,' interest does not run on a claim against the United States."</p>
     <p>United States v. Louisiana, <a href="../us446/us446-0253.xml#p253">446 U. S. 253</a>, <a href="../us446/us446-0253.xml#p264">446 U. S. 264</a>-265 (1980), quoting Smyth v. United States, <a href="../us302/us302-0329.xml#p329">302 U. S. 329</a>, <a href="../us302/us302-0329.xml#p353">302 U. S. 353</a> (1937). [<a id="nf5" href="#fn5">Footnote 5</a>] See United States v. Sioux Nation of Indians, <a href="../us448/us448-0371.xml#p371">448 U. S. 371</a>, <a href="../us448/us448-0371.xml#p387">448 U. S. 387</a>, n. 17 (1980).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Respondent acknowledges the longstanding no-interest rule, but argues that Congress, by § 706(k), waived the Government's</p>
     <n id="p318">318</n>
     <p>immunity from interest in making the United States liable "the same as a private person" for "costs," including "a reasonable attorney's fee."</p>
@@ -76,7 +76,7 @@
     <p>United States v. N.Y. Rayon Importing Co., 329 U.S. at <a href="../us329/us329-0663.xml#p663">329 U. S. 663</a>.</p>
     <p>C</p>
     <p>Finally, we note that the provision makes the United States liable for "costs," and includes as an element of "costs" a reasonable attorney's fee. Prejudgment interest, however, is considered as damages, not a component of "costs." See 10 C. Wright, A. Miller, &amp; M. Kane, Federal Practice and Procedure § 2664, pp. 159-160 (2d ed.1983); 2 A. Sedgwick &amp; G. Van Nest, Sedgwick on Damages 157-158 (7th ed. 1880). Indeed, the term "costs" has never been understood to include any interest component. See 28 U.S.C. § 1920; see also Wright, Miller, &amp; Kane, supra, §§ 2666 and 2670. A statute allowing costs, and within that category, attorney's fees, does not provide the clear affirmative intent of Congress to waive the sovereign's immunity.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>In the alternative, respondent argues that the no-interest rule does not prohibit the award of compensation for delay. But the force of the no-interest rule cannot be avoided simply by devising a new name for an old institution:</p>
     <p>"[T]he character or nature of 'interest' cannot be changed by calling it 'damages,' 'loss,' 'earned increment,' 'just compensation,' 'discount,' 'offset,' or 'penalty,' or any other term, because it is still interest, and the no-interest rule applies to it."</p>
     <p>United States v. Mescalero Apache Tribe, 207 Ct.Cl. 369, 389, 518 F.2d 1309, 1322 (1975), cert. denied, 425 U.S. 911 (1976).</p>
@@ -86,7 +86,7 @@
     <p>That interest and compensation for delay are functionally equivalent also is supported by Title VII decisions concerning private employers. Private sector decisions, when they adjust for the time of payment, grant interest or a delay factor, but not both. See, e.g., Brown v. Gillette Co., 536 F.Supp.</p>
     <n id="p323">323</n>
     <p>113 (Mass.1982); Black Gold, Ltd. v. Rockwool Industries, Inc., <a href="https://law.justia.com/cases/federal/district-courts/FSupp/529/272/2355016/">529 F. Supp. 272</a> (Colo.1981); Kennelly v. Lemoi, <a href="https://law.justia.com/cases/federal/district-courts/FSupp/529/140/2354749/">529 F. Supp. 140</a> (RI 1981).</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>In making the Government liable as a defendant under Title VII, Congress effected a waiver of the Government's immunity from suit, and from costs including reasonable attorney's fees. Congress did not waive the Government's traditional immunity from interest. Accordingly, the judgment of the Court of Appeals is reversed, and the case is remanded for further proceedings consistent with this opinion.</p>
     <p>It is so ordered.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>

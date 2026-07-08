@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us475-0469.html" citation="475 U.S. 469" title="Pembaur v. City of Cincinnati">
   <opinion type="Opinions &amp; Dissents">
     <n id="p469">469</n>
-    <h>U.S. Supreme Court</h>
-    <h>Pembaur v. City of Cincinnati, <a href="./us475-0469.xml#p469">475 U.S. 469</a> (1986)</h>
-    <h>Pembaur v. City of Cincinnati</h>
-    <h>No. 84-1160</h>
-    <h>Argued December 2, 1985</h>
-    <h>Decided March 25, 1986</h>
-    <h><a href="./us475-0469.xml#p469">475 U.S. 469</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE SIXTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Pembaur v. City of Cincinnati, <a href="./us475-0469.xml#p469">475 U.S. 469</a> (1986)</h1>
+    <h2>Pembaur v. City of Cincinnati</h2>
+    <h2>No. 84-1160</h2>
+    <h4>Argued December 2, 1985</h4>
+    <h4>Decided March 25, 1986</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE SIXTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner, a physician and the proprietor of a clinic in Cincinnati, Ohio, that provided medical services primarily to welfare recipients, was indicted by a grand jury for fraudulently accepting payments from state welfare agencies. During the grand jury investigation, subpoenas were issued for the appearance of two of petitioner's employees. When the employees failed to appear, the Assistant County Prosecutor obtained capiases for their detention. But when two County Deputy Sheriffs attempted to serve the capiases at petitioner's clinic, he barred the door and refused to let them enter the part of the clinic where the employees presumably were located. Thereafter, Cincinnati police officers, whom petitioner had called, appeared and told petitioner to allow the Deputy Sheriffs to enter. Petitioner continued to refuse. The Deputy Sheriffs then called their superior, who told them to call the County Prosecutor's Office and to follow his instructions. The Deputy Sheriffs spoke to the Assistant Prosecutor assigned to the case. He in turn conferred with the County Prosecutor, who told him to instruct the Deputy Sheriffs to "go in and get" the employees. The Assistant Prosecutor relayed these instructions to the Deputy Sheriffs. After the Deputy Sheriffs tried unsuccessfully to force the door, city police officers obtained an axe and chopped down the door. The Deputy Sheriffs then entered and searched the clinic, but were unable to locate the employees sought. Although petitioner was acquitted of the fraud charges, he was indicted and convicted for obstructing police in the performance of an authorized act. His conviction was upheld by the Ohio Supreme Court. Petitioner then filed a damages action in Federal District Court under 42 U.S.C. § 1983 against the county, among other defendants, alleging that the county had violated his rights under the Fourth and Fourteenth Amendments. The District Court dismissed the claim against the county on the ground that the individual officers were not acting pursuant to the kind of "official policy" that is the predicate for municipal liability under Monell v. New York City Dept. of Social Services, <a href="../us436/us436-0658.xml#p658">436 U. S. 658</a>. The Court of Appeals affirmed, holding that petitioner had failed to prove the existence of a county policy because he had shown nothing more than that, on "this one occasion," the Prosecutor and the Sheriff decided to force entry into petitioner's clinic.</p>
     <n id="p470">470</n>
     <p>Held: The judgment is reversed, and the case is remanded. 746 F.2d 337, reversed and remanded.</p>
@@ -24,7 +24,7 @@
     <p>O'CONNOR (except for Part II-C), JJ., joined, and an opinion with respect to Part II-B, in which WHITE, MARSHALL, and BLACKMUN, JJ., joined. WHITE, J., filed a concurring opinion, post, p. <a href="./us475-0469.xml#p485">475 U. S. 485</a>. STEVENS, J., post, p. <a href="./us475-0469.xml#p487">475 U. S. 487</a>, and O'CONNOR, J., post, p. <a href="./us475-0469.xml#p491">475 U. S. 491</a>, filed opinions concurring in part and concurring in the judgment. POWELL, J., filed a dissenting opinion, in which BURGER, C.J., and REHNQUIST, J., joined, post, p. <a href="./us475-0469.xml#p492">475 U. S. 492</a>.</p>
     <p>JUSTICE BRENNAN delivered the opinion of the Court, except as to Part II-B.</p>
     <p>In Monell v. New York City Dept. of Social Services, <a href="../us436/us436-0658.xml#p658">436 U. S. 658</a> (1978), the Court concluded that municipal liability under 42 U.S.C. § 1983 is limited to deprivations of federally protected rights caused by action taken "pursuant to official municipal policy of some nature. . . ." Id. at <a href="../us436/us436-0658.xml#p691">436 U. S. 691</a>. The question presented is whether, and in what circumstances, a decision by municipal policymakers on a single occasion may satisfy this requirement.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Bertold Pembaur is a licensed Ohio physician and the sole proprietor of the Rockdale Medical Center, located in the city of Cincinnati in Hamilton County. Most of Pembaur's patients are welfare recipients who rely on government assistance to pay for medical care. During the spring of 1977, Simon Leis, the Hamilton County Prosecutor, began investigating charges that Pembaur fraudulently had accepted payments from state welfare agencies for services not actually provided to patients. A grand jury was convened, and the case was assigned to Assistant Prosecutor William Whalen.</p>
     <n id="p472">472</n>
     <p>In April, the grand jury charged Pembaur in a six-count indictment.</p>
@@ -56,7 +56,7 @@
     <p>by itself, to establish that the Prosecutor, the Sheriff, or both were implementing a governmental policy."</p>
     <p>Ibid. (footnote omitted) (emphasis in original).</p>
     <p>Pembaur petitioned for certiorari to review only the dismissal of his claim against Hamilton County. The decision of the Court of Appeals conflicts with holdings in several other Courts of Appeals, [<a id="nf4" href="#fn4">Footnote 4</a>] and we granted the petition to resolve the conflict. 472 U.S. 1016 (1985). We reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>A</p>
     <p>Our analysis must begin with the proposition that</p>
     <p>"Congress did not intend municipalities to be held liable unless action pursuant to official municipal policy of some nature caused a constitutional tort."</p>
@@ -182,7 +182,7 @@
       <p>JUSTICE POWELL, with whom THE CHIEF JUSTICE and JUSTICE REHNQUIST join, dissenting.</p>
       <p>The Court today holds Hamilton County liable for the forcible entry in May, 1977, by Deputy Sheriffs into petitioner's office. The entry and subsequent search were pursuant to capiases for third parties -- petitioner's employees -- who had failed to answer a summons to appear as witnesses before a grand jury investigating petitioner. When petitioner refused to allow the Sheriffs to enter, one of them, at the request of his supervisor, called the office of the County Prosecutor for instructions. The Assistant County Prosecutor received the call, and apparently was in doubt as to what advice to give. He referred the question to the County Prosecutor, who advised the Deputy Sheriffs to "go in and get them [the witnesses]" pursuant to the capiases.</p>
       <p>This five-word response to a single question over the phone is now found by this Court to have created an official county policy for which Hamilton County is liable under § 1983. This holding is wrong for at least two reasons. First, the Prosecutor's response and the Deputies' subsequent actions did not violate any constitutional right that existed at the time of the forcible entry. Second, no official county policy could have been created solely by an off-hand telephone response from a busy County Prosecutor.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>Petitioner's allegation of a constitutional violation rests exclusively on Steagald v. United States, <a href="../us451/us451-0204.xml#p204">451 U. S. 204</a> (1981), decided four years after the entry here. In Steagald, we held that an officer may not search for the subject of an arrest warrant in a third party's home without first obtaining a search warrant, unless the search is consensual or justified by exigent circumstances. In 1977, the law in the Sixth Circuit was that a search warrant was not required in such situations if the police had an arrest warrant and reason to believe that the person to be arrested was within the home to be</p>
       <n id="p493">493</n>
       <p>searched. United States v. McKinney, 379 F.2d 259, 262-263 (1967). That view was shared by at least two other Circuits. See United States v. Gaultney, 606 F.2d 540, 544-545 (CA5 1979); United States v. Harper, 550 F.2d 610, 612-614 (CA10), cert. denied, 434 U.S. 837 (1977). Another Circuit had favored that view in dicta. See United States v. Manley, 632 F.2d 978, 983 (CA2 1980). Thus, under the governing law in the applicable Circuit, uncontradicted by any opinion of this Court, the entry into petitioner's office pursuant to an arrest warrant was not a violation of petitioner's Fourth Amendment rights.</p>
@@ -201,7 +201,7 @@
       <p>Moreover, there is a significant cost to unwarranted deterrence of law enforcement officials. We recognized in Imbler a strong state interest in "vigorous and fearless" prosecution, and found that to be "essential to the proper functioning of the criminal justice system." 424 U.S. at <a href="../us424/us424-0409.xml#p427">424 U. S. 427</a>-428. Those same general concerns apply to other law enforcement officials. Unwarranted deterrence has the undesirable effect of discouraging conduct that is essential to our justice system and protects the State's interest in public safety. In that sense, this case is different from Owen. It is no answer to say that some officials are entitled either to absolute or qualified immunity. It ignores reality to say that, if petitioner is successful in his $20-million suit, it will not have a chilling effect on law enforcement practices in Hamilton County. [Footnote 3/4]</p>
       <p>For these reasons, Steagald should not be applied retroactively. Consequently, petitioner has no constitutional violation of which to complain. I therefore would affirm the decision of the Court of Appeals. [Footnote 3/5]</p>
       <n id="p497">497</n>
-      <h>II</h>
+      <h2>II</h2>
       <p>Even if Steagald is applied retroactively, petitioner has failed to demonstrate the existence of an official policy for which Hamilton County can be liable. The action said to have created policy here was nothing more than a brief response to a single question over the telephone. The Deputy Sheriffs sought instructions concerning a situation that had never occurred before, at least in the memory of the participants. Ante at <a href="./us475-0469.xml#p474">475 U. S. 474</a>-475. That in itself, and the fact that the Assistant Prosecutor had to obtain advice from the County Prosecutor, strongly indicate that no prior policy had been formed. Petitioner therefore argues that the County Prosecutor's reaction in this case formed county policy. The sparse facts supporting petitioner's theory -- adopted by the Court today -- do not satisfy the requirement in Monell v. New York City Dept. of Social Services, <a href="../us436/us436-0658.xml#p658">436 U. S. 658</a>, <a href="../us436/us436-0658.xml#p691">436 U. S. 691</a> (1978), that local government liability under § 1983 be imposed only when the injury is caused by government policy.</p>
       <p>A</p>
       <p>Under Monell, local government units may be liable only when</p>
@@ -211,7 +211,7 @@
       <p>created. The Court today does not do this, but instead focuses almost exclusively on the status of the decisionmaker. Its reasoning is circular: it contends that policy is what policymakers make, and policymakers are those who have authority to make policy.</p>
       <p>The Court variously notes that, if a decision</p>
       <p>"is properly made by that government's authorized decisionmakers, it surely represents an act of official government 'policy' as that term is commonly understood,"</p>
-      <p>ante at <a href="./us475-0469.xml#p481">475 U. S. 481</a>, and that, "where action is directed by those who establish governmental policy, the municipality is equally responsible . . . ," ibid. Thus, the Court's test for determining the existence of policy focuses only on whether a decision was made "by the official or officials responsible for establishing final policy with respect to the subject matter in question." Ante at <a href="./us475-0469.xml#p483">475 U. S. 483</a>-484.</p>
+      <p>ante at <a href="./us475-0469.xml#p481">475 U. S. 481</a>, and that, "where action is directed by those who establish governmental policy, the municipality is equally responsible . . .," ibid. Thus, the Court's test for determining the existence of policy focuses only on whether a decision was made "by the official or officials responsible for establishing final policy with respect to the subject matter in question." Ante at <a href="./us475-0469.xml#p483">475 U. S. 483</a>-484.</p>
       <p>In my view, the question whether official policy -- in any normal sense of the term -- has been made in a particular case is not answered by explaining who has final authority to make policy. The question here is not "could the County Prosecutor make policy?" but rather, "did he make policy?" By focusing on the authority granted to the official under state law, the Court's test fails to answer the key federal question presented. The Court instead turns the question into one of state law. Under a test that focuses on the authority of the decisionmaker, the Court has only to look to state law for the resolution of this case. Here the Court of Appeals found that</p>
       <p>"both the County Sheriff and the County Prosecutor [had authority under Ohio law to] establish county policy under appropriate circumstances."</p>
       <p>Ante at <a href="./us475-0469.xml#p484">475 U. S. 484</a>. Apparently that recitation of authority is all that is needed under the Court's test, because no discussion is offered to demonstrate that the Sheriff or the Prosecutor actually used that authority to establish official county policy in this case.</p>

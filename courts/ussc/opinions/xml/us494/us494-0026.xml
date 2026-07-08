@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us494-0026.html" citation="494 U.S. 26" title="Dole v. United Steelworkers">
   <opinion type="Opinions &amp; Dissents">
     <n id="p26">26</n>
-    <h>U.S. Supreme Court</h>
-    <h>Dole v. United Steelworkers, <a href="./us494-0026.xml#p26">494 U.S. 26</a> (1990)</h>
-    <h>Dole v. United Steelworkers of America</h>
-    <h>No. 88-1434</h>
-    <h>Argued Nov. 6, 1989</h>
-    <h>Decided Feb. 21, 1990</h>
-    <h><a href="./us494-0026.xml#p26">494 U.S. 26</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE THIRD CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Dole v. United Steelworkers, <a href="./us494-0026.xml#p26">494 U.S. 26</a> (1990)</h1>
+    <h2>Dole v. United Steelworkers of America</h2>
+    <h2>No. 88-1434</h2>
+    <h4>Argued Nov. 6, 1989</h4>
+    <h4>Decided Feb. 21, 1990</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE THIRD CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Pursuant to the Occupational Safety and Health Act of 1970, petitioner Department of Labor (DOL) promulgated a Hazard Communications Standard, which imposed disclosure requirements on manufacturers aimed at ensuring that their employees were informed of the potential hazards posed by chemicals in the workplace. Among other things, the Standard required the manufacturers to label hazardous chemical containers, conduct training on the chemicals' dangers, and make available to employees safety data sheets on the chemicals. Respondents and others challenged the Standard in the Court of Appeals. The court held that the Occupational Safety and Health Administration (OSHA) had not adequately explained why the Standard was limited to the manufacturing sector, and twice directed OSHA either to apply it to workplaces in other sectors of the economy or to state why such application would be infeasible. Ultimately, DOL issued a revised Standard that applied to worksites in all sectors, and submitted it to the Office of Management and Budget (OMB) for review under the Paperwork Reduction Act of 1980 (Act). That Act sets forth a comprehensive scheme to reduce the federal paperwork burden on the public by requiring, inter alia, an agency to submit any instrument for the "collection of information" -- termed an "information collection request" -- to the OMB for approval before it may collect the information. OMB disapproved three of the Standard's provisions on the ground that their requirements were not necessary to protect employees, and DOL published notice withdrawing the provisions. Respondents sought further relief from the Court of Appeals, which ordered DOL to reinstate the disapproved provisions. The court reasoned that the provisions represented good faith compliance by DOL with the court's prior orders, that OMB lacked the authority under the Act to disapprove the provisions, and that, therefore, DOL had no legitimate basis for withdrawing them.</p>
     <p>Held: The Act does not authorize OMB to review and countermand agency regulations mandating disclosure by regulated entities directly to third parties. Pp. <a href="./us494-0026.xml#p32">494 U. S. 32</a>-43.</p>
     <p>(a) The Act's language indicates that the terms "information collection request" and "collection of information" -- which is defined as "the obtaining</p>
@@ -26,7 +26,7 @@
     <n id="p28">28</n>
     <p>Justice BRENNAN delivered the opinion of the Court.</p>
     <p>Among the regulatory tools available to government agencies charged with protecting public health and safety are rules which require regulated entities to disclose information directly to employees, consumers, or others. Disclosure rules protect by providing access to information about what dangers exist and how these dangers can be avoided. Today we decide whether the Office of Management and Budget (OMB) has the authority under the Paperwork Reduction Act of 1980 (Act), 44 U.S.C. § 3501 et seq. (1982 ed. and Supp. V), to review such regulations.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In 1983, pursuant to the Occupational Safety and Health Act of 1970 (OSH Act), 84 Stat. 1590, 29 U.S.C. § 651 et seq. (1982 ed.), which authorizes the Department of Labor (DOL) to set health and safety standards for workplaces, DOL</p>
     <n id="p29">29</n>
     <p>promulgated a Hazard Communications Standard. 29 CFR § 1910.1200 (1984). The Standard imposed various requirements on manufacturers aimed at ensuring that their employees were informed of the potential hazards posed by chemicals found at their workplace. Specifically, the Standard required chemical manufacturers to label containers of hazardous chemicals with appropriate warnings. "Downstream" manufacturers -- commercial purchasers who used the chemicals in their manufacturing plants -- were obliged to keep the original labels intact or else transfer the information onto any substitute containers. The Standard also required chemical manufacturers to provide "material safety data sheets" to downstream manufacturers. The data sheets were to list the physical characteristics and hazards of each chemical, the symptoms caused by overexposure, and any preexisting medical conditions aggravated by exposure. In addition, the data sheets were to recommend safety precautions and first aid and emergency procedures in case of overexposure, and provide a source for additional information. Both chemical manufacturers and downstream manufacturers were required to make the data sheets available to their employees and to provide training on the dangers of the particular hazardous chemicals found at each workplace.</p>
@@ -42,7 +42,7 @@
     <n id="p32">32</n>
     <p>OMB lacked authority under the Paperwork Reduction Act to disapprove the provisions and that, therefore, DOL had no legitimate basis for withdrawing them. United Steelworkers of America v. Pendergrass, 855 F.2d 108 (CA3 1988).</p>
     <p>The United States sought review in this Court. We granted certiorari to answer the important question whether the Paperwork Reduction Act authorizes OMB to review and countermand agency regulations mandating disclosure by regulated entities directly to third parties. 490 U.S. 1064 (1989). We hold that the Paperwork Reduction Act does not give OMB that authority, and therefore affirm.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The Paperwork Reduction Act was enacted in response to one of the less auspicious aspects of the enormous growth of our federal bureaucracy: its seemingly insatiable appetite for data. Outcries from small businesses, individuals, and state and local governments that they were being buried under demands for paperwork led Congress to institute controls. [<a id="nf3" href="#fn3">Footnote 3</a>] Congress designated OMB the overseer of other agencies with respect to paperwork, and set forth a comprehensive scheme designed to reduce the paperwork burden. The Act charges OMB with developing uniform policies for efficient information processing, storage and transmittal systems, both within and among agencies. OMB is directed to reduce federal collection of all information by set percentages, establish a Federal Information Locator System, and develop and implement procedures for guarding the privacy of those providing confidential information. See 44 U.S.C. §§ 3504, 3505, 3511 (1982 ed. and Supp. V).</p>
     <p>The Act prohibits any federal agency from adopting regulations which impose paperwork requirements on the public unless the information is not available to the agency from another source within the Federal Government, and the agency</p>
     <n id="p33">33</n>
@@ -102,7 +102,7 @@
     <p>Ibid. (emphasis added).</p>
     <p>While the grammar of this text can be faulted, its meaning is clear: the public is protected under the Paperwork Reduction Act from paperwork regulations not issued in compliance with the Act, only when those regulations dictate that a person maintain information for an agency or provide information to an agency. By its very terms, the statute's enforcement mechanism does not apply to rules which require disclosure to a third party rather than to a federal agency. Thus either Congress intended the Paperwork Reduction Act to cover information-gathering rules only, or Congress intended the Act to cover disclosure rules, but intended to exempt them from this agency compliance mechanism. Because the latter is counterintuitive and contrary to clear legislative history, [<a id="nf7" href="#fn7">Footnote 7</a>] § 3512 is further evidence that Congress did not intend the Act to cover disclosure rules.</p>
     <n id="p41">41</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>For the foregoing reasons, we find that the terms "collection of information" and "information collection request," when considered in light of the language and structure of the Act as a whole, refer solely to the collection of information by, or for the use of, a federal agency; they cannot reasonably be interpreted to cover rules mandating disclosure of information to a third party. In addition, we find unpersuasive petitioners' claims that there is a "clearly expressed legislative intention [to the] contrary," see INS v. Cardoza-Fonseca, <a href="../us480/us480-0421.xml#p421">480 U. S. 421</a>, <a href="../us480/us480-0421.xml#p432">480 U. S. 432</a>, n. 12 (1987).</p>
     <p>Petitioner relies on statements from various stages of the Act's legislative history as evidence that Congress intended "collection of information" to include disclosure rules. [<a id="nf8" href="#fn8">Footnote 8</a>] However, the statements show merely that the Act was intended</p>
     <n id="p42">42</n>

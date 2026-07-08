@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us488-0299.html" citation="488 U.S. 299" title="Duquesne Light Co. v. Barasch">
   <opinion type="Opinions &amp; Dissents">
     <n id="p299">299</n>
-    <h>U.S. Supreme Court</h>
-    <h>Duquesne Light Co. v. Barasch, <a href="./us488-0299.xml#p299">488 U.S. 299</a> (1989)</h>
-    <h>Duquesne Light Co. v. Barasch</h>
-    <h>No. 87-1160</h>
-    <h>Argued November 7, 1988</h>
-    <h>Decided January 11, 1989</h>
-    <h><a href="./us488-0299.xml#p299">488 U.S. 299</a></h>
-    <h>APPEAL FROM THE SUPREME COURT OF PENNSYLVANIA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Duquesne Light Co. v. Barasch, <a href="./us488-0299.xml#p299">488 U.S. 299</a> (1989)</h1>
+    <h2>Duquesne Light Co. v. Barasch</h2>
+    <h2>No. 87-1160</h2>
+    <h4>Argued November 7, 1988</h4>
+    <h4>Decided January 11, 1989</h4>
+    <h2>APPEAL FROM THE SUPREME COURT OF PENNSYLVANIA</h2>
+    <h2>Syllabus</h2>
     <p>In 1967, appellant Pennsylvania electric utilities joined a venture to construct seven nuclear generating units. But in 1980, because of intervening events, including the Arab oil embargo and the accident at Three Mile Island, the participants canceled plans for construction of four of the plants. Thereafter appellant Duquesne Light Co. applied to the Pennsylvania Public Utility Commission (PUC) to obtain a rate increase and to amortize its expenditures on the canceled plants over 10 years. The PUC granted a rate increase that included an amount representing the first payment of the 10-year amortized recovery of Duquesne's costs in the aborted plants. Shortly before the close of the rate proceeding, a state law (Act 335) was enacted that provided that an electric utility's cost of construction of a generating facility shall not be made part of a ratebase nor otherwise included in rates charged until such time as the facility "is used and useful in service to the public." The State Office of the Consumer Advocate moved the PUC to reconsider in light of this law, but the PUC, on reconsideration, affirmed its original rate order, reading the new law as excluding the costs of canceled plants from the ratebase, but not as preventing their recovery through amortization. Meanwhile, the PUC similarly granted appellant Pennsylvania Power Co. a rate increase, and authorized it to amortize its share of the canceled plants over a 10-year period. The Consumer Advocate appealed both PUC decisions to the Pennsylvania Commonwealth Court, which held that the PUC had correctly construed Act 336. The Pennsylvania Supreme Court reversed, holding that Act 336 prohibited recovery of the costs in question either by inclusion in the ratebase or by amortization, and that the statute did not take appellants' property in violation of the Takings Clause of the Fifth Amendment, applicable to the States under the Fourteenth Amendment. The court remanded the case to the PUC for further proceedings to correct its rate orders, giving effect to the exclusion required by Act 336.</p>
     <p>Held:</p>
     <p>1. This Court has jurisdiction to decide the case under 28 U.S.C. § 1267(2), which authorizes the Court to review by appeal</p>
@@ -30,7 +30,7 @@
     <p>Pennsylvania law required that rates for electricity be fixed without consideration of a utility's expenditures for electrical generating facilities which were planned but never built, even though the expenditures were prudent and reasonable when made. The Supreme Court of Pennsylvania held that such a law did not take the utilities' property in violation of the Fifth Amendment to the United States Constitution. We agree with that conclusion, and hold that a</p>
     <n id="p302">302</n>
     <p>state scheme of utility regulation does not "take" property simply because it disallows recovery of capital investments that are not "used and useful in service to the public." 66 Pa.Cons.Stat. § 1315 (Supp.1988).</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In response to predictions of increased demand for electricity, Duquesne Light Company (Duquesne) and Pennsylvania Power Company (Penn Power) joined a venture in 1967 to build more generating capacity. The project, known as the Central Area Power Coordination Group (CAPCO), involved three other electric utilities and had as its objective the construction of seven large nuclear generating units. In 1980, the participants canceled plans for construction of four of the plants. Intervening events, including the Arab oil embargo and the accident at Three Mile Island, had radically changed the outlook both for growth in the demand for electricity and for nuclear energy as a desirable way of meeting that demand. At the time of the cancellation, Duquesne's share of the preliminary construction costs associated with the four halted plants was $34,697,389. Penn Power had invested $9,569,665.</p>
     <p>In 1980, and again in 1981, Duquesne sought permission from the Pennsylvania Public Utility Commission (PUC) [<a id="nf1" href="#fn1">Footnote 1</a>] to recoup its expenditures for the unbuilt plants over a 10-year period. The Commission deferred ruling on the request until it received the report from its investigation of the CAPCO construction. That report was issued in late 1982. The report found that Duquesne and Penn Power could not be faulted for initiating the construction of more nuclear generating capacity at the time they joined the CAPCO project in 1967. The projections at that time indicated a growing demand</p>
     <n id="p303">303</n>
@@ -48,7 +48,7 @@
     <p>"[t]he 'just compensation' safeguarded to a utility by the fourteenth amendment of the federal constitution is a reasonable return on the fair value of its property at the time it is being used for public service."</p>
     <p>Id. at 163, 532 A.2d at 335. Since the instant CAPCO investment was not serving the public and did not constitute an operating expense, no constitutional rights to recovery attached to it. The court remanded to the PUC for further proceedings to correct its rate order, giving effect to the exclusion required by Act 335. [<a id="nf3" href="#fn3">Footnote 3</a>] Duquesne and Penn Power appealed to this Court, arguing that the effect of Act 335 excluding their prudently incurred costs from the rate violated the Takings Clause of the Fifth Amendment, applicable to the States under the Fourteenth Amendment. We noted probable jurisdiction. 485 U.S. 933 (1988).</p>
     <n id="p306">306</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>Although the parties have not discussed it, we must first inquire into our jurisdiction to decide this case. See <a href="../us033/us033-0148.xml#p148">Jackson v. Ashton</a>, 8 Pet. 148 (1834); Mansfield C. &amp; L. M. R. Co. v. Swan, <a href="../us111/us111-0379.xml#p379">111 U. S. 379</a> (1884). Our jurisdiction here rests on 28 U.S.C. § 1257(2), which authorizes this Court to review</p>
     <p>"[f]inal judgments or decrees rendered by the highest Court of a State in which a decision could be had . . . [b]y appeal, where is drawn in question the validity of a statute of any state on the ground of its being repugnant to the Constitution . . . and the decision is in favor of its validity."</p>
     <p>Although this case has been remanded for further proceedings to revise the relevant rate orders, we hold that, for purposes of our appellate jurisdiction, the judgment of the Pennsylvania Supreme Court is final.</p>
@@ -56,7 +56,7 @@
     <p>This case falls into the first of the four categories. The Pennsylvania Supreme Court has finally adjudicated the constitutionality of Act 335 in the context of otherwise completed rate proceedings, and so has left "the outcome of further proceedings preordained." Cox, supra, at <a href="../us420/us420-0469.xml#p479">420 U. S. 479</a>. We do not think that the PUC might undo the effects of Act 335 on remand by allowing recovery of the disputed costs in some other way consistent with state law. The Pennsylvania Supreme Court's interpretation of the Act does not leave its</p>
     <n id="p307">307</n>
     <p>effect in doubt; the CAPCO related costs may not be "otherwise included in the rates charged." 66 Pa. Cons.Stat. § 1316 (1986). [<a id="nf4" href="#fn4">Footnote 4</a>] We are satisfied that we are presented with the State's last word on the constitutionality of Act 335, and that all that remains is the straightforward application of its clear directive to otherwise complete rate Orders. We therefore have jurisdiction. See Cox, supra, at <a href="../us420/us420-0469.xml#p479">420 U. S. 479</a>; Mills v. Alabama, <a href="../us384/us384-0214.xml#p214">384 U. S. 214</a> (1966).</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>As public utilities, both Duquesne and Penn Power are under a state statutory duty to serve the public. A Pennsylvania statute provides that "[e]very public utility shall furnish and maintain adequate, efficient, safe, and reasonable service and facilities" and that "[s]uch service also shall be reasonably continuous and without unreasonable interruptions or delay." 66 Pa.Cons.Stat. § 1501 (1986). Although their assets are employed in the public interest to provide consumers of the State with electric power, they are owned and operated by private investors. This partly public, partly private status of utility property creates its own set of questions under the Takings Clause of the Fifth Amendment.</p>
     <p>The guiding principle has been that the Constitution protects utilities from being limited to a charge for their property serving the public which is so "unjust" as to be confiscatory. Covington &amp; Lexington Turnpike Road Co. v. Sandford, <a href="../us164/us164-0578.xml#p578">164 U. S. 578</a>, <a href="../us164/us164-0578.xml#p597">164 U. S. 597</a> (1896) (A rate is too low if it is "so unjust as to destroy the value of [the] property for all the purposes for which it was acquired," and in so doing "practically</p>
     <n id="p308">308</n>

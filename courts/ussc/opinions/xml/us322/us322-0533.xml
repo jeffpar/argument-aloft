@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us322-0533.html" citation="322 U.S. 533" title="United States v. South-Eastern Underwriters">
   <opinion type="Opinions &amp; Dissents">
     <n id="p533">533</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. South-Eastern Underwriters, <a href="./us322-0533.xml#p533">322 U.S. 533</a> (1944)</h>
-    <h>United States v. South-Eastern Underwriters Association</h>
-    <h>No. 354</h>
-    <h>Argued January 11, 1944</h>
-    <h>Decided June 5, 1944</h>
-    <h><a href="./us322-0533.xml#p533">322 U.S. 533</a></h>
-    <h>APPEAL FROM THE DISTRICT COURT OF THE UNITED STATES</h>
-    <h>FOR THE NORTHERN DISTRICT OF GEORGIA</h>
-    <h>1. A fire insurance company which conducts a substantial part of its business transactions across state lines is engaged in "commerce among the several States," and subject to regulation by Congress under the Commerce Clause. P. <a href="./us322-0533.xml#p539">322 U. S. 539</a>.</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. South-Eastern Underwriters, <a href="./us322-0533.xml#p533">322 U.S. 533</a> (1944)</h1>
+    <h2>United States v. South-Eastern Underwriters Association</h2>
+    <h2>No. 354</h2>
+    <h4>Argued January 11, 1944</h4>
+    <h4>Decided June 5, 1944</h4>
+    <h2>APPEAL FROM THE DISTRICT COURT OF THE UNITED STATES</h2>
+    <h2>FOR THE NORTHERN DISTRICT OF GEORGIA</h2>
+    <h2>1. A fire insurance company which conducts a substantial part of its business transactions across state lines is engaged in "commerce among the several States," and subject to regulation by Congress under the Commerce Clause. P. <a href="./us322-0533.xml#p539">322 U. S. 539</a>.</h2>
     <p>2. A conspiracy to restrain interstate trade and commerce by fixing and maintaining arbitrary and noncompetitive premium rates on fire and allied lines of insurance, and a conspiracy to monopolize interstate trade and commerce in such lines of insurance, held violations of the Sherman Antitrust Act. P. <a href="./us322-0533.xml#p553">322 U. S. 553</a>.</p>
     <p>3. Congress did not intend that the business of insurance should be exempt from the operation of the Sherman Act. Pp. <a href="./us322-0533.xml#p553">322 U. S. 553</a>, <a href="./us322-0533.xml#p560">322 U. S. 560</a>.</p>
     <p><a href="https://law.justia.com/cases/federal/district-courts/FSupp/51/712/1583029/">51 F. Supp. 712</a>, reversed.</p>
@@ -36,7 +36,7 @@
     <p>The record, then, presents two questions and no others: (1) Was the Sherman Act intended to prohibit conduct of fire insurance companies which restrains or monopolizes the interstate fire insurance trade? (2) If so, do fire insurance transactions which stretch across state lines constitute "Commerce among the several States" so as to make them subject to regulation by Congress under the</p>
     <n id="p539">539</n>
     <p>Commerce Clause? Since it is our conclusion that the Sherman Act was intended to apply to the fire insurance business, we shall, for convenience of discussion, first consider the latter question.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Ordinarily courts do not construe words used in the Constitution so as to give them a meaning more narrow than one which they had in the common parlance of the times in which the Constitution was written. To hold that the word "commerce," as used in the Commerce Clause, does not include a business such as insurance would do just that. Whatever other meanings "commerce" may have included in 1787, the dictionaries, encyclopedias, and other books of the period show that it included trade: business in which persons bought and sold, bargained and contracted. [<a id="nf8" href="#fn8">Footnote 8</a>] And this meaning has persisted to modern times. Surely, therefore, a heavy burden is on him who asserts that the plenary power which the Commerce Clause grants to Congress to regulate "Commerce among the several States" does not include the power to regulate trading in insurance to the same extent that it includes power to regulate other trades or businesses conducted across state lines. [<a id="nf9" href="#fn9">Footnote 9</a>]</p>
     <p>The modern insurance business holds a commanding position in the trade and commerce of our Nation. Built</p>
     <n id="p540">540</n>
@@ -81,7 +81,7 @@
     <p>Our basic responsibility in interpreting the Commerce Clause is to make certain that the power to govern intercourse among the states remains where the Constitution placed it. That power, as held by this Court from the beginning, is vested in the Congress, available to be exercised</p>
     <n id="p553">553</n>
     <p>for the national welfare as Congress shall deem necessary. No commercial enterprise of any kind which conducts its activities across state lines has been held to be wholly beyond the regulatory power of Congress under the Commerce Clause. We cannot make an exception of the business of insurance.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>We come then to the contention, earnestly pressed upon us by appellees, that Congress did not intend in the Sherman Act to exercise its power over the interstate insurance trade.</p>
     <p>Certainly the Act's language affords no basis for this contention. Declared illegal in § 1 is "every contract, combination in the form of trust or otherwise, or conspiracy, in restraint of trade or commerce among the several States . . .", and "every person" who shall make such a contract or engage in such a combination or conspiracy is deemed guilty of a misdemeanor. Section 2 is not less sweeping. "Every person" who monopolizes, or attempts to monopolize, or conspires with "any other person" to monopolize, "any part of the trade or commerce among the several States" is likewise deemed guilty of a misdemeanor. Language more comprehensive is difficult to conceive. On its face, it shows a carefully studied attempt to bring within the Act every person engaged in business whose activities might restrain or monopolize commercial intercourse among the states.</p>
     <p>A general application of the Act to all combinations of business and capital organized to suppress commercial competition is in harmony with the spirit and impulses of the times which gave it birth. "Trusts" and "monopolies" were the terror of the period. [<a id="nf39" href="#fn39">Footnote 39</a>] Their power to fix</p>
@@ -155,7 +155,7 @@
       <p>U.S. Department of Commerce, Statistical Abstract of the United States, 1942, pp. 335-342, 694.</p>
     </f>
     <f n="12"><a id="fn12" href="#nf12">Footnote 12</a>
-      <p>Ibid. , pp. 195,335-342.</p>
+      <p>Ibid., pp. 195,335-342.</p>
     </f>
     <f n="13"><a id="fn13" href="#nf13">Footnote 13</a>
       <p>Sixteenth Census of the United States -- 1940; Part 1: United States Summary, Vol. III, The Labor Force, pp. 180, 181.</p>
@@ -451,7 +451,7 @@
       <n id="p584">584</n>
       <p>Congressional attitude and action in the intervening fifty years. There is no Congressional warrant, therefore, for bringing about the far-reaching dislocations which the opinions of the CHIEF JUSTICE and MR. JUSTICE JACKSON adumbrate.</p>
       <p>MR. JUSTICE JACKSON, dissenting in part:</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>The historical development of public regulation of insurance underwriting in this country has created a dilemma which confronts this Court today. It demonstrates that "The life of the law has not been logic: it has been experience."</p>
       <p>For one hundred fifty years, Congress never has undertaken to regulate the business of insurance. Therefore, to give the public any protection against abuses to which that business is peculiarly susceptible, the states have had to regulate it. Since 1851, the several states, spurred by necessity and with acquiescence of every branch of the Federal Government, have been building up systems of regulation to discharge this duty toward their inhabitants. [Footnote 3/1]</p>
       <p>There never was doubt of the right of a state to regulate the business of its domestic companies done within the home state. The foreign corporation was the problem. Such insurance interests resisted state regulation and brought a series of cases to this Court. The companies sought to disable the states from regulating them by arguing that insurance business is interstate commerce, an argument almost identical with that now made by the</p>
@@ -462,7 +462,7 @@
       <n id="p586">586</n>
       <p>the question for the first time and writing upon a clean slate, I would have no misgivings about holding that insurance business is commerce and, where conducted across state lines, is interstate commerce, and therefore that congressional power to regulate prevails over that of the states. I have little doubt that, if the present trend continues, federal regulation eventually will supersede that of the states.</p>
       <p>The question, therefore, for me settles down to this: what role ought the judiciary to play in reversing the trend of history and setting the nation's feet on a new path of policy? To answer this, I would consider what choices we have in the matter.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>The Government claims, and we must approve or reject the claim, that the antitrust laws constitute an exercise of congressional power which reaches the insurance business. That might be true on either of two different bases. The practical, as well as the theoretical, difference is substantial, as this case will show.</p>
       <p>1. If an activity is held to be interstate commerce, Congress has paramount regulatory power. If it acts at all in relation to such a subject, it often has been held that it has "occupied the field" to the exclusion of the states, that the federal legislation defines the full measure of regulation, and, outside of it, the activity is to be free. [Footnote 3/5] This Court now is not fully agreed as to the effects of the Commerce Clause on state power, [Footnote 3/6] but at least the Court always has considered that, if an activity is held to be interstate in character, a state may not exclude, burden, or obstruct it, [Footnote 3/7]</p>
       <n id="p587">587</n>
@@ -480,7 +480,7 @@
       <p>6. The antitrust laws should be construed to reach the business of insurance and those who are engaged in it only under the latter congressional power. This does not require a change in the doctrine that insurance is not commerce. The statute, as thus construed, would authorize prosecution of all combinations in the course of insurance business to commit acts not required or authorized by State law, such as intimidation, disparagement, or coercion,</p>
       <n id="p589">589</n>
       <p>if they unreasonably restrain interstate commerce in commodities or interstate transportation. [Footnote 3/9] It would leave state regulation intact.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>The majority of the sitting Justices insist that we follow the more drastic course. Abstract logic may support them, but the common sense and wisdom of the situation seem opposed. It may be said that practical consequences are no concern of a court, that it should confine itself to legal theory. Of course, in cases where a constitutional provision or a congressional statute is clear and mandatory, its wisdom is not for us. But the Court now is not following, it is overruling, an unequivocal line of authority reaching over many years. We are not sustaining an act of Congress against attack on its constitutionality, we are making unprecedented use of the Act to strike down the constitutional basis of state regulation. I think we not only are free, but are duty bound, to consider practical consequences of such a revision of constitutional theory. This Court only recently recognized that certain former decisions as to the dividing line between state and federal power were illogical and theoretically wrong, but, at the same time, it announced that it would adhere to them because both governments had accommodated the structure of their laws to the error. Davis v. Department of Labor, <a href="../us317/us317-0249.xml#p249">317 U. S. 249</a>, <a href="../us317/us317-0249.xml#p255">317 U. S. 255</a>. It seemed a common sense course to follow then, and I think similar considerations should restrain us from following a contrary and destructive course now.</p>
       <n id="p590">590</n>
       <p>The states began nearly a century ago to regulate insurance, and state regulation, while no doubt of uneven quality, today is a successful going concern. Several of the states, where the greatest volume of business is transacted, have rigorous and enlightened legislation, with enforcement and supervision in the hands of experienced and competent officials. Such state departments, through trial and error, have accumulated that body of institutional experience and wisdom so indispensable to good administration. The Court's decision at very least will require an extensive overhauling of state legislation relating to taxation and supervision. The whole legal basis will have to be reconsidered. What will be irretrievably lost and what may be salvaged no one now can say, and it will take a generation of litigation to determine. Certainly the states lose very important controls and very considerable revenues. [Footnote 3/10]</p>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us496-0053.html" citation="496 U.S. 53" title="Begier v. IRS">
   <opinion type="Opinions &amp; Dissents">
     <n id="p53">53</n>
-    <h>U.S. Supreme Court</h>
-    <h>Begier v. IRS, <a href="./us496-0053.xml#p53">496 U.S. 53</a> (1990)</h>
-    <h>Begier v. Internal Revenue Service</h>
-    <h>No. 89-393</h>
-    <h>Argued March 27, 1990</h>
-    <h>Decided June 4, 1990</h>
-    <h><a href="./us496-0053.xml#p53">496 U.S. 53</a></h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Begier v. IRS, <a href="./us496-0053.xml#p53">496 U.S. 53</a> (1990)</h1>
+    <h2>Begier v. Internal Revenue Service</h2>
+    <h2>No. 89-393</h2>
+    <h4>Argued March 27, 1990</h4>
+    <h4>Decided June 4, 1990</h4>
+    <h2>Syllabus</h2>
     <p>The Internal Revenue Code directs "every person receiving any payment for facilities or services" subject to excise taxes to "collect the amount of the tax from the person making such payment." 26 U.S.C. § 4291. It also requires an employer to "collect" Federal Insurance Contributions Act taxes from its employees "by deducting the amount of the tax from the wages as and when paid," § 3102(a), and to "deduct and withhold upon such wages [the employee's federal income tax]," § 3402(a)(1). The amount of taxes "collected or withheld" is "held to be in a special fund in trust for the United States." § 7501. Thus, these taxes are often called "trust-fund taxes." After American International Airlines, Inc., fell behind in its trust-fund tax payments, the Internal Revenue Service, pursuant to § 7512, ordered it to deposit all future taxes collected into a separate bank account. AIA established the account, but did not deposit funds sufficient to cover the entire amount of its obligations. Nonetheless, it remained current on the obligations, paying part of them from the separate bank account and part from its general operating funds. In a subsequent liquidation proceeding under the Bankruptcy Code, petitioner Begier was appointed AIA's trustee. Seeking to exercise his power under § 547(b) of the Bankruptcy Code -- which permits a trustee to avoid certain preferential payments made before the debtor files for bankruptcy -- Begier filed an adversary action against the Government to recover the entire amount that AIA had paid the IRS for trust-fund taxes during the 90 days before the bankruptcy filing. The Bankruptcy Court refused to permit Begier to recover any of the money AIA had paid out of the separate account on the ground that AIA had held that money in trust for the IRS. However, it allowed him to avoid most of the payments made out of AIA's general accounts, holding that such funds were property of the debtor. The District Court affirmed, but the Court of Appeals reversed, holding that any pre-petition payment of trust-fund taxes is a payment of funds that are not the debtor's property, and that such a payment is therefore not an avoidable preference.</p>
     <n id="p54">54</n>
     <p>Held: AIA's trust-fund tax payments from its general accounts were transfers of property held in trust, and therefore cannot be avoided as preferences. Pp. <a href="./us496-0053.xml#p58">496 U. S. 58</a>-67.</p>
@@ -34,7 +34,7 @@
     <p>"only where a tax trust fund is actually established by the debtor and the taxing authority is able to trace funds segregated by the debtor in a trust account established for the purpose of paying the taxes in question would we conclude that such funds are not property of the debtor's estate."</p>
     <p>Id. at 329. The District Court affirmed. App. to Pet. for Cert. A-22-A26. On appeal by the Government, the Third Circuit reversed, holding that any pre-petition payment of trust fund taxes is a payment of funds that are not the debtor's property, and that such a payment is therefore not an avoidable preference. 878 F.2d 762 (1989). [<a id="nf2" href="#fn2">Footnote 2</a>] We affirm.</p>
     <n id="p58">58</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>A</p>
     <p>Equality of distribution among creditors is a central policy of the Bankruptcy Code. According to that policy, creditors of equal priority should receive pro rata shares of the debtor's property. See, e.g., 11 U.S.C. § 726(b) (1982 ed.); H.R.Rep. No. 95-585, supra, at 177-178. Section 547(b) furthers this policy by permitting a trustee in bankruptcy to avoid certain preferential payments made before the debtor files for bankruptcy. This mechanism prevents the debtor from favoring one creditor over others by transferring property shortly before filing for bankruptcy. Of course, if the debtor transfers property that would not have been available for distribution to his creditors in a bankruptcy proceeding, the policy behind the avoidance power is not implicated. The reach of § 547(b)'s avoidance power is therefore limited to transfers of "property of the debtor."</p>
     <p>The Bankruptcy Code does not define "property of the debtor." Because the purpose of the avoidance provision is to preserve the property includable within the bankruptcy estate -- the property available for distribution to creditors -- "property of the debtor" subject to the preferential transfer provision is best understood as that property that would have been part of the estate had it not been transferred before the commencement of bankruptcy proceedings. For guidance,</p>
@@ -79,7 +79,7 @@
     <p>H.R.Rep. No. 95-595, supra, at 373, U.S.Code Cong. &amp; Admin. News 1978, p. 6329. [<a id="nf6" href="#fn6">Footnote 6</a>] Under a literal reading of the above passage, the bankruptcy trustee could not avoid any voluntary pre-petition payment of trust fund taxes, regardless of the source of the funds. As the House Report expressly states, the limitation that the funds must "have been properly held for payment" is satisfied "if the debtor is able to make the payments." The debtor's act of voluntarily paying its trust fund tax obligation</p>
     <n id="p67">67</n>
     <p>therefore is alone sufficient to establish the required nexus between the "amount" held in trust and the funds paid. We adopt this literal reading. In the absence of any suggestion in the Bankruptcy Code about what tracing rules to apply, we are relegated to the legislative history. The courts are directed to apply "reasonable assumptions" to govern the tracing of funds, and the House Report identifies one such assumption to be that any voluntary pre-petition payment of trust fund taxes out of the debtor's assets is not a transfer of the debtor's property. Nothing in the Bankruptcy Code or its legislative history casts doubt on the reasonableness of that assumption. Other rules might be reasonable, too, but the only evidence we have suggests that Congress preferred this one. We see no reason to disregard that evidence.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>We hold that AIA's payments of trust fund taxes to the IRS from its general accounts were not transfers of "property of the debtor," but were instead transfers of property held in trust for the Government pursuant to § 7501. Such payments therefore cannot be avoided as preferences. The judgment of the Court of Appeals is</p>
     <p>Affirmed.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>

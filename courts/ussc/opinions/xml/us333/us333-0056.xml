@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us333-0056.html" citation="333 U.S. 56" title="Maggio v. Zeitz">
   <opinion type="Opinions &amp; Dissents">
     <n id="p56">56</n>
-    <h>U.S. Supreme Court</h>
-    <h>Maggio v. Zeitz, <a href="./us333-0056.xml#p56">333 U.S. 56</a> (1948)</h>
-    <h>Maggio v. Zeitz</h>
-    <h>No. 38</h>
-    <h>Submitted October 13, 1947</h>
-    <h>Decided February 9, 1948</h>
-    <h><a href="./us333-0056.xml#p56">333 U.S. 56</a></h>
-    <h>CERTIORARI TO THE CIRCUIT COURT OF APPEALS FOR THE SECOND CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Maggio v. Zeitz, <a href="./us333-0056.xml#p56">333 U.S. 56</a> (1948)</h1>
+    <h2>Maggio v. Zeitz</h2>
+    <h2>No. 38</h2>
+    <h4>Submitted October 13, 1947</h4>
+    <h4>Decided February 9, 1948</h4>
+    <h2>CERTIORARI TO THE CIRCUIT COURT OF APPEALS FOR THE SECOND CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>1. In a civil contempt proceeding against a bankrupt for failure to comply with an order to turn over to the trustee assets of the estate found to be in his possession or under his control at the time such order was issued (20 months earlier in this case), the bankruptcy court should not adjudge the bankrupt in contempt and commit him to jail to coerce compliance if it appears that he is presently unable to comply, even though the previous finding that he had possession of the property when the turnover order was issued has become res judicata. Pp. <a href="./us333-0056.xml#p69">333 U. S. 69</a>-78.</p>
     <p>2. Courts of bankruptcy have no authority to compensate for any neglect or lack of zeal in applying the criminal sanctions prescribed by the Bankruptcy Act by perversion of civil remedies to ends of punishment. P. <a href="./us333-0056.xml#p62">333 U. S. 62</a>.</p>
     <n id="p57">57</n>
@@ -45,7 +45,7 @@
     <p>The proceeding which leads to commitment consists of two separate stages which easily become out of joint because the defense to the second often in substance is an effort to relitigate, perhaps before another judge, the issue supposed to have been settle in the first, and because, while the burden of proof rests on the trustee, frequently evidence of the facts is entirely in possession of his adversary, the bankrupt, who is advantaged by nondisclosure.</p>
     <n id="p61">61</n>
     <p>Because these separate but interdependent turnover and contempt procedures are important to successful bankruptcy administration, we restate some of the principles applicable to each, conscious, however, of the risk that we may do more to stir new than to settle old controversies.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The turnover procedure is one not expressly created or regulated by the Bankruptcy Act. It is a judicial innovation by which the court seeks efficiently and expeditiously to accomplish ends prescribed by the statute, which, however, left the means largely to judicial ingenuity.</p>
     <p>The courts of bankruptcy are invested "with such jurisdiction at law and in equity as will enable them" to "cause the estates of bankrupts to be collected, reduced to money and distributed, and determine controversies in relation thereto. . . ." Title 11 U.S.C. § 11(a)(7), and the function to "collect and reduce to money the property of the estates" is also laid upon the trustee. 11 U.S.C. § 75(a)(1). A correlative duty is imposed upon the bankrupt fully and effectually to turn over all of his property and interests, and, in case of a corporation, the duty rests upon its officers, directors or stockholders. 11 U.S.C. § 25.</p>
     <p>To compel these persons to discharge their duty, the statute imposes criminal sanctions. It denounces a comprehensive list of frauds, concealments, falsifications, mutilation of records, and other acts that would defeat or obstruct collection of the assets of the estate, and prescribes heavy penalties of fine or imprisonment or both. 11 U.S.C. § 52(b). It also confers on the courts power to arraign, try, and punish persons for violations, but "in accordance with the laws of procedure" regulating trials of crimes. 11 U.S.C. § 11(a)(4). And it specifically provides for jury trial of offenses against the Bankruptcy</p>
@@ -63,7 +63,7 @@
     <p>The nature and derivation of the remedy make clear that it is appropriate only when the evidence satisfactorily establishes the existence of the property or its proceeds,</p>
     <n id="p64">64</n>
     <p>and possession thereof by the defendant at the time of the proceeding. While some courts have taken the date of bankruptcy as the time to which the inquiry is directed, we do not consider resort to this particular proceeding appropriate if, at the time it is instituted, the property and its proceeds have already been dissipated, no matter when that dissipation occurred. Conduct which has put property beyond the limited reach of the turnover proceeding may be a crime, or, if it violates an order of the referee, a criminal contempt, but no such acts, however reprehensible, warrant issuance of an order which creates a duty impossible of performance, so that punishment can follow. It should not be necessary to say that it would be a flagrant abuse of process to issue such an order to exert pressure on friends and relatives to ransom the accused party from being jailed.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>It is evident that the real issue as to turnover orders concerns the burden of proof that will be put on the trustee, and how he can meet it. This Court has said that the turnover order must be supported by "clear and convincing evidence," Oriel v. Russell, <a href="../us278/us278-0358.xml#p358">278 U. S. 358</a>, and that includes proof that the property has been abstracted from the bankrupt estate, and is in the possession of the party proceeded against. It is the burden of the trustee to produce this evidence, however difficult his task may be.</p>
     <p>The trustee usually can show that the missing assets were in the possession or under the control of the bankrupt at the time of bankruptcy. To bring this past possession down to the date involved in the turnover proceedings, the trustee has been allowed the benefit of what is called a presumption that the possession continues until the possessor explains when and how it ceased. This inference, which might be entirely permissible in</p>
     <n id="p65">65</n>
@@ -77,7 +77,7 @@
     <n id="p67">67</n>
     <p>there does not appear to be any reason for allowing any such presumption to override reason when reviewing a turnover order.</p>
     <p>We are well aware that these generalities do little to solve concrete issues. The latter can be resolved only by the sound sense and good judgment of trial courts, mindful that the order should issue only as a responsible and final adjudication of possession and ability to deliver, not as a questionable experiment in coercion which will recoil to the discredit of the judicial process if time proves the adjudication to have been improvident and requires the courts to abandon its enforcement.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Unlike the judicially developed turnover proceedings, contempt proceedings for disobedience of a lawful order are specifically authorized by two separate provisions of the Act and are of two distinct kinds. The court is authorized to "enforce obedience by persons to all lawful orders, by fine or imprisonment, or fine and imprisonment." 11 U.S.C. § 11(a)(13). This creates the civil contempt proceeding to coerce obedience, now before us. There is also provision for a criminal contempt proceeding whose end is to penalize contumacy, the court also being authorized to "punish persons for contempts committed before referees." 11 U.S.C. § 11(a)(16). These contempts before referees are defined to include disobedience or resistance to a lawful order, and the statute provides for a summary proceeding before the District Judge who, if the evidence "is such as to warrant him in so doing," may punish the accused or commit him upon conditions. 11 U.S.C. § 69.</p>
     <p>The proceeding before us sought only a coercive or enforcement sanction. The petition asked commitment "until he shall have complied with the aforesaid turnover order." The commitment was only until he "shall have</p>
     <n id="p68">68</n>
@@ -87,7 +87,7 @@
     <n id="p69">69</n>
     <p>of contempt. It would be a disservice to the law if we were to depart from the longstanding rule that a contempt proceeding does not open to reconsideration the legal or factual basis of the order alleged to have been disobeyed, and thus become a retrial of the original controversy. The procedure to enforce a court's order commanding or forbidding an act should not be so inconclusive as to foster experimentation with disobedience. Every precaution should be taken that orders issue, in turnover as in other proceedings, only after legal grounds are shown and only when it appears that obedience is within the power of the party being coerced by the order. But, when it has become final, disobedience cannot be justified by retrying the issues as to whether the order should have issued in the first place. United States v. United Mine Workers of America, <a href="../us330/us330-0258.xml#p258">330 U. S. 258</a>, <a href="../us330/us330-0258.xml#p259">330 U. S. 259</a>; Oriel v. Russell, <a href="../us278/us278-0358.xml#p358">278 U. S. 358</a>. Counsel appears to recognize this rule, for the record in the case now before us does not include the evidence on which the turnover order was based. We could learn of it only by going outside of the present record to that in the former case, which would be available only because an application was made to this Court to review that earlier proceeding.</p>
     <p>We therefore think the Court of Appeals was right insofar as it concluded that the turnover order is subject only to direct attack, and that its alleged infirmities cannot be relitigated or corrected in a subsequent contempt proceeding.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>But does this mean that the lower courts "must thus affirm orders which first direct a bankrupt to do an impossibility, and then punish him for refusal to perform it.'"?</p>
     <p>Whether the statement by the Court of Appeals that it knows Maggio cannot comply with the turnover order</p>
     <n id="p70">70</n>
@@ -126,7 +126,7 @@
     <n id="p77">77</n>
     <p>recklessness of bankrupt's rights, on the one hand, and prevent the bankrupt from flouting the law, on the other. . . ."</p>
     <p>Such a careful balancing was said to be required in turnover proceedings because "coercive methods by imprisonment are probable, and are foreshadowed." [<a id="nf10" href="#fn10">Footnote 10</a>] Certainly the same considerations require as careful and conscientious weighing of the evidence relevant in the contempt proceeding. At that stage, imprisonment is not only probable and foreshadowed -- it is imminent. And, without such a weighing, it becomes inevitable.</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>We deal here with a case in which the Court of Appeals was persuaded that the bankrupt's disobedience was not willful. It appears, however, that the District Court did not, in the contempt proceedings, weigh and evaluate the evidence before it, but felt bound almost automatically to order Maggio's commitment in deference to clear precedents established by the Court of Appeals. Moreover, the Court of Appeals affirmed the commitment order although it was convinced that Maggio was not deliberately disobeying, but had established his contention that he was unable to comply. On such findings, the Oriel case would require Maggio's discharge even if he were already in jail. It is hardly consistent with that case, or with good judicial administration, to order his commitment on findings that require his immediate release.</p>
     <p>When such a misapprehension of the law has led both courts below to adjudicate rights without considering essential facts in the light of the controlling law, this Court will vacate the judgments and remand the case to the District Court for further proceedings consistent with the principles laid down in this Court's opinion. <a href="../us294/us294-0442.xml#p442">Manufacturers'</a></p>
     <n id="p78">78</n>

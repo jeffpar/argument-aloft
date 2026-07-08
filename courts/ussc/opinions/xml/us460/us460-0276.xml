@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us460-0276.html" citation="460 U.S. 276" title="United States v. Knotts">
   <opinion type="Opinions &amp; Dissents">
     <n id="p276">276</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Knotts, <a href="./us460-0276.xml#p276">460 U.S. 276</a> (1983)</h>
-    <h>United States v. Knotts</h>
-    <h>No. 81-1802</h>
-    <h>Argued December 6, 1982</h>
-    <h>Decided March 2, 1983</h>
-    <h><a href="./us460-0276.xml#p276">460 U.S. 276</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE EIGHTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Knotts, <a href="./us460-0276.xml#p276">460 U.S. 276</a> (1983)</h1>
+    <h2>United States v. Knotts</h2>
+    <h4>No. 81-1802</h4>
+    <h4>Argued December 6, 1982</h4>
+    <h4>Decided March 2, 1983</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE EIGHTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Having reason to believe that one Armstrong was purchasing chloroform to be used in the manufacture of illicit drugs, Minnesota law enforcement officers arranged with the seller to place a beeper (a radio transmitter) inside a chloroform container that was sold to Armstrong. Officers then followed the car in which the chloroform was placed, maintaining contact by using both visual surveillance and a monitor which received the beeper signals, and ultimately tracing the chloroform, by beeper monitoring alone, to respondent's secluded cabin in Wisconsin. Following three days of intermittent visual surveillance of the cabin, officers secured a search warrant and discovered the chloroform container, and a drug laboratory in the cabin, including chemicals and formulas for producing amphetamine. After his motion to suppress evidence based on the warrantless monitoring of the beeper was denied, respondent was convicted in Federal District Court for conspiring to manufacture controlled substances in violation of 21 U.S.C. § 846. The Court of Appeals reversed, holding that the monitoring of the beeper was prohibited by the Fourth Amendment.</p>
     <p>Held: Monitoring the beeper signals did not invade any legitimate expectation of privacy on respondent's part, and thus there was neither a "search" nor a "seizure" within the contemplation of the Fourth Amendment. The beeper surveillance amounted principally to following an automobile on public streets and highways. A person traveling in an automobile on public thoroughfares has no reasonable expectation of privacy in his movements. While respondent had the traditional expectation of privacy within a dwelling place insofar as his cabin was concerned, such expectation of privacy would not have extended to the visual observation from public places of the automobile arriving on his premises after leaving a public highway, or to movements of objects such as the chloroform container outside the cabin. The fact that the officers relied not only on visual surveillance, but also on the use of the beeper, does not alter the situation. Nothing in the Fourth Amendment prohibited the police from augmenting their sensory faculties with such enhancement as science and technology afforded them in this case. There is no indication that the beeper was used in any way to reveal information as to the movement of the chloroform container within the cabin, or in any</p>
     <n id="p277">277</n>
@@ -20,7 +20,7 @@
     <p>REHNQUIST, J., delivered the opinion of the Court, in which BURGER, C.J., and WHITE, POWELL, and O'CONNOR, JJ., joined. BRENNAN, J., filed an opinion concurring in the judgment, in which MARSHALL, J., joined, post, p. <a href="./us460-0276.xml#p285">460 U. S. 285</a>. BLACKMUN, J., filed an opinion concurring in the judgment, in which BRENNAN, MARSHALL, and STEVENS, JJ., joined, post, p. <a href="./us460-0276.xml#p287">460 U. S. 287</a>. STEVENS, J., filed an opinion concurring in the judgment, in which BRENNAN, and MARSHALL, JJ., joined, post, p. <a href="./us460-0276.xml#p288">460 U. S. 288</a>.</p>
     <p>JUSTICE REHNQUIST delivered the opinion of the Court.</p>
     <p>A beeper is a radio transmitter, usually battery operated, which emits periodic signals that can be picked up by a radio receiver. In this case, a beeper was placed in a five-gallon drum containing chloroform purchased by one of respondent's codefendants. By monitoring the progress of a car carrying the chloroform, Minnesota law enforcement agents were able to trace the can of chloroform from its place of purchase in Minneapolis, Minn., to respondent's secluded cabin near Shell Lake, Wis. The issue presented by the case is whether such use of a beeper violated respondent's rights secured by the Fourth Amendment to the United States Constitution.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Respondent and two codefendants were charged in the United States District Court for the District of Minnesota with conspiracy to manufacture controlled substances, including but not limited to methamphetamine, in violation of 21 U.S.C. § 846. One of the codefendants, Darryl Petschen,</p>
     <n id="p278">278</n>
     <p>was tried jointly with respondent; the other codefendant, Tristan Armstrong, pleaded guilty and testified for the Government at trial.</p>
@@ -32,7 +32,7 @@
     <p>After his motion to suppress evidence based on the warrantless monitoring of the beeper was denied, respondent was convicted for conspiring to manufacture controlled substances in violation of 21 U.S.C. § 846. He was sentenced to five years' imprisonment. A divided panel of the United States Court of Appeals for the Eighth Circuit reversed the conviction, finding that the monitoring of the beeper was prohibited by the Fourth Amendment because its use had violated respondent's reasonable expectation of privacy, and that all information derived after the location of the cabin was a fruit of the illegal beeper monitoring. <a href="./us460-0276.xml#p276">*</a> 662 F.2d 515</p>
     <n id="p280">280</n>
     <p>(1981). We granted certiorari, 457 U.S. 1131 (1982), and we now reverse the judgment of the Court of Appeals.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>In Olmstead v. United States, <a href="../us277/us277-0438.xml#p438">277 U. S. 438</a> (1928), this Court held that the wiretapping of a defendant's private telephone line did not violate the Fourth Amendment because the wiretapping had been effectuated without a physical trespass by the Government. Justice Brandeis, joined by Justice Stone, dissented from that decision, believing that the actions of the Government in that case constituted an "unjustifiable intrusion . . . upon the privacy of the individual," and therefore a violation of the Fourth Amendment. Id. at <a href="../us277/us277-0438.xml#p478">277 U. S. 478</a>. Nearly 40 years later, in Katz v. United States, <a href="../us389/us389-0347.xml#p347">389 U. S. 347</a> (1967), the Court overruled Olmstead, saying that the Fourth Amendment's reach "cannot turn upon the presence or absence of a physical intrusion into any given enclosure." 389 U.S. at <a href="../us389/us389-0347.xml#p353">389 U. S. 353</a>. The Court said:</p>
     <p>"The Government's activities in electronically listening to and recording the petitioner's words violated the privacy upon which he justifiably relied while using the telephone booth, and thus constituted a 'search and seizure' within the meaning of the Fourth Amendment. The fact that the electronic device employed to achieve that end did not happen to penetrate the wall of the booth can have no constitutional significance."</p>
     <p>Ibid.</p>

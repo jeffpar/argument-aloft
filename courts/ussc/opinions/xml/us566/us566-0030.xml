@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us566-0030.html" citation="566 U.S. 30" title="Coleman v. Court of Appeals of Md.">
   <opinion type="Opinion" author="Kennedy">
     <n id="p30">30</n>
     <p>NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 10–1016</p>
-    <p>_________________</p>
     <p>Daniel Coleman, PETITIONER v. Court of Appeals of Maryland et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the fourth circuit</p>
     <p>[March 20, 2012]</p>
@@ -47,9 +46,7 @@
   </opinion>
   <opinion type="Concurrence" author="Thomas">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 10–1016</p>
-    <p>_________________</p>
     <p>Daniel Coleman, PETITIONER v. Court of Appeals of Maryland et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the fourth circuit</p>
     <p>[March 20, 2012]</p>
@@ -58,9 +55,7 @@
   </opinion>
   <opinion type="Concurrence" author="Scalia">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 10–1016</p>
-    <p>_________________</p>
     <p>Daniel Coleman, PETITIONER v. Court of Appeals of Maryland et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the fourth circuit</p>
     <p>[March 20, 2012]</p>
@@ -71,9 +66,7 @@
   </opinion>
   <opinion type="Dissent" author="Ginsburg">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 10–1016</p>
-    <p>_________________</p>
     <p>Daniel Coleman, PETITIONER v. Court of Appeals of Maryland et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the fourth circuit</p>
     <p>[March 20, 2012]</p>
@@ -112,7 +105,7 @@
     <p>The plurality’s statement that Congress lacked “widespread evidence of sex discrimination . . . in the administration of sick leave,” ante, at 6, misses the point. So too does the plurality’s observation that state employees likely “could take leave for pregnancy-related illnesses”—presumably severe morning sickness, toxemia, etc.—under paid sick-leave plans, ante, at 7. Congress heard evidence that existing sick-leave plans were inadequate to ensure that women were not fired when they needed to take time out to recover their strength and stamina after childbirth. The self-care provision responds to that evidence by requiring employers to allow leave for “ongoing pregnancy, miscarriages, . . . the need for prenatal care, childbirth, and recovery from childbirth.” S. Rep. No. 103–3, p. 29 (1993).</p>
     <p>That §2612(a)(1)(D) entitles all employees to up to 12 weeks of unpaid, job-protected leave for a serious health condition, rather than singling out pregnancy or childbirth, does not mean that the provision lacks the requisite congruence and proportionality to the identified constitutional violations. As earlier noted, supra, at 6–7, Congress made plain its rationale for the prescription’s broader compass: Congress sought to ward off the unconstitutional discrimination it believed would attend a pregnancy-only leave requirement. Under the caption “Equal protection and non-discrimination,” Congress explained:</p>
     <p>“The FMLA addresses the basic leave needs of all employees. . . . This is an important principle reflected in the bill.</p>
-    <p>“A law providing special protection to women . . . , in addition to being inequitable, runs the risk of causing discriminatory treatment. Employers might be less inclined to hire women . . . . For example, legislation addressing the needs of pregnant women only might encourage discriminatory hiring practices against women of child bearing age. Legislation addressing the needs of all workers equally does not have this effect. By addressing the serious leave needs of all employees, the FMLA avoids providing employers the temptation to discriminate [against women].</p>
+    <p>“A law providing special protection to women . . ., in addition to being inequitable, runs the risk of causing discriminatory treatment. Employers might be less inclined to hire women . . . . For example, legislation addressing the needs of pregnant women only might encourage discriminatory hiring practices against women of child bearing age. Legislation addressing the needs of all workers equally does not have this effect. By addressing the serious leave needs of all employees, the FMLA avoids providing employers the temptation to discriminate [against women].</p>
     <p>. . . . .</p>
     <p>“The legislation is [thus] based not only on the Commerce Clause, but also on the guarantees of equal protection . . . embodied in the Fourteenth Amendment.” H. R. Rep. No. 102–135, pt. 1, pp. 27–28 (1991) (hereinafter 1991 House Report).</p>
     <p>Congress’ concern was solidly grounded in workplace realities. After this Court upheld California’s pregnancy-only leave policy in California Fed., Don Butler, President of the Merchants and Manufacturers Association, one of the plaintiffs in that case, told National Public Radio reporter Nina Totenberg that, as a result of the decision, “many employers will be prone to discriminate against women in hiring and hire males instead.” 1987 House Hearing 36. Totenberg replied, “But that is illegal, too”—to which Butler responded, “Well, that is illegal, but try to prove it.” Ibid.</p>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us446-0578.html" citation="446 U.S. 578" title="Harrison v. PPG Industries, Inc.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p578">578</n>
-    <h>U.S. Supreme Court</h>
-    <h>Harrison v. PPG Industries, Inc., <a href="./us446-0578.xml#p578">446 U.S. 578</a> (1980)</h>
-    <h>Harrison v. PPG Industries, Inc.</h>
-    <h>No. 78-1918</h>
-    <h>Argued January 16, 1980</h>
-    <h>Decided May 27, 1980</h>
-    <h><a href="./us446-0578.xml#p578">446 U.S. 578</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE FIFTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Harrison v. PPG Industries, Inc., <a href="./us446-0578.xml#p578">446 U.S. 578</a> (1980)</h1>
+    <h2>Harrison v. PPG Industries, Inc.</h2>
+    <h4>No. 78-1918</h4>
+    <h4>Argued January 16, 1980</h4>
+    <h4>Decided May 27, 1980</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE FIFTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>As authorized by the Clean Air Act (Act), the Environmental Protection Agency (EPA) decided, on the basis of correspondence with respondents, that certain equipment at a power generating facility of respondent PPG Industries, Inc. (PPG), was subject to certain "new source" performance standards regarding air pollution that had been promulgated by the EPA Administrator. PPG then filed a petition in the Court of Appeals for review of the EPA's decision under § 307(b)(1) of the Act, which provides for direct review in a federal court of appeals of certain locally and regionally applicable actions taken by the Administrator under specifically enumerated provisions of the Act, and of "any other final action of the Administrator under [the] Act . . . which is locally or regionally applicable." Because of its uncertainty as to the proper forum for judicial review, PPG also filed suit for injunctive relief against the Administrator in a Federal District Court, which suit was stayed pending the disposition of the present case. The Court of Appeals dismissed PPG's petition for lack of jurisdiction under § 307(b)(1).</p>
     <p>Held: The phrase "any other final action" in § 307(b)(1) is to be construed in accordance with its literal meaning so as to reach any action of the Administrator that is final, not just final actions of the Administrator similar to actions under the specifically enumerated provisions that precede the catchall phrase in the statute. Pp. <a href="./us446-0578.xml#p586"> 446 U. S. 586</a>-594.</p>
     <p>(a) The rule of ejusdem generis does not apply to § 307(b)(1) so as to limit "any other final action" to actions similar to those under the specifically enumerated provisions on the theory that the latter actions (unlike the Administrator's informal decision here) must be based on administrative proceedings reflecting at least notice and opportunity for a hearing. At least one of the specifically enumerated provisions in § 307(b)(1) does not require the Administrator to act only after notice and opportunity for a hearing, and thus, even if the rule of ejusdem generis were applied, it would not significantly narrow the ambit of "any other final action" under § 307(b)(1). Moreover,</p>
@@ -27,7 +27,7 @@
     <p>added.) [<a id="nf1" href="#fn1">Footnote 1</a>] The issue in this case is whether the Court of Appeals for the Fifth Circuit was correct in concluding that it was without jurisdiction under § 307(b)(1) to entertain a petition for review in which PPG Industries, Inc. (PPG),</p>
     <n id="p581">581</n>
     <p>and Conoco, Inc. (Conoco), the respondents here, challenged a decision of the Administrator concerning the applicability of EPA's "new source" performance standards to a power generating facility operated by PPG. More specifically, we must decide whether the Administrator's decision falls within the ambit of "any other final action" reviewable in a court of appeals under § 307(b)(1).</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The dispute underlying this jurisdictional question involves a decision of the Administrator under § 111 of the Act, 42 U.S.C. § 7411 (1976 ed., Supp. II). That provision requires the Administrator to publish, and from time to time to revise, a list of categories of any stationary source that he determines "causes, or contributes significantly to, air pollution which may reasonably be anticipated to endanger public health or welfare," § 111(b)(1)(A), and to promulgate regulations establishing standards of performance for "new sources" within the list of those categories, § 111(b)(1)(B). The Act defines a "new source" as</p>
     <p>"any stationary source, the construction or modification of which is commenced after the publication of regulations (or, if earlier, proposed regulations) prescribing a standard of performance under this section which will be applicable to such source."</p>
     <p>§ 111(a)(2).</p>
@@ -52,7 +52,7 @@
     <p>perform meaningful judicial review. Since an appellate court is ill-suited to augment such a record, especially when compared to a trial court in which the tools of discovery are available, the court concluded that</p>
     <p>"[w]hatever addition to the jurisdiction of the courts of appeals Congress may have contemplated by adding the 'any other final action' language to § 307(b)(1), we assume that section was drafted with the mechanical limitations of the courts of appeals in mind."</p>
     <p>587 F.2d at 245. Accordingly, the Court of Appeals dismissed PPG's petition for lack of jurisdiction under § 307(b)(1). We granted certiorari, 444 U.S. 823, because of the importance of determining the locus of judicial review of the actions of EPA.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>It is undisputed that the Administrator's decision concerning the applicability of the "new source" performance standards to PPG's waste-heat boilers was locally applicable action under a provision of the Act not specifically enumerated in § 307(b)(1). The question at issue is whether the Administrator's decision falls within the scope of the phrase, "any other final action of the Administrator," so as to make that decision reviewable in a federal court of appeals under § 307(b)(1).</p>
     <p>At the outset, we note that the parties are in agreement that the Administrator's decision was "final action" as that term is understood in the context of the Administrative Procedure Act and other provisions of federal law. It is undisputed that the Administrator's ruling represented EPA's final determination concerning the applicability of the "new source" standards to PPG's power facility. Short of an enforcement action, EPA has rendered its last word on the matter. The controversy thus is not about whether the Administrator's decision was "final," but rather about whether it was "any other final action" within the meaning of § 307(b)(1), as amended in 1977.</p>
     <n id="p587">587</n>
@@ -172,7 +172,7 @@
       <p>"in adopting this subsection, the committee was in large measure approving the portion of the Administrative Conference of the United States recommendation Section 305.76-4(A) [41 Fed.Reg. 56768 (1976)], that deals with venue,"</p>
       <p>and that the proposed amendment also</p>
       <p>"incorporates recommendation D2 of the Administrative Conference on extending the period for petitioning for judicial review in the court of appeals."</p>
-      <p>Id. at 324. It further stated that it did not endorse the remainder of the Administrative Conference's recommendations, ibid., which include a recommendation that proposed expanding the jurisdiction of the courts of appeals by eliminating the exception to review in those courts for regulations adopted under § 202(b)(1) , 42 U.S.C. § 7521(b)(1) (1976 ed., Supp. II).</p>
+      <p>Id. at 324. It further stated that it did not endorse the remainder of the Administrative Conference's recommendations, ibid., which include a recommendation that proposed expanding the jurisdiction of the courts of appeals by eliminating the exception to review in those courts for regulations adopted under § 202(b)(1), 42 U.S.C. § 7521(b)(1) (1976 ed., Supp. II).</p>
       <p>[Footnote 2/5]</p>
       <p>In a statement explaining the amendments, Senator Muskie stated that "[i]t is not the purpose of these amendments to reopen substantive issues in the Clean Air Act." 123 Cong.Rec. 36252 (1977). Rather, he continued,</p>
       <p>"[o]nly those amendments that are necessary to correct technical errors or unclear phrases have been retained in the package of amendments that is now before the Senate."</p>

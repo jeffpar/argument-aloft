@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us317-0287.html" citation="317 U.S. 287" title="Williams v. North Carolina">
   <opinion type="Opinions &amp; Dissents">
     <n id="p287">287</n>
-    <h>U.S. Supreme Court</h>
-    <h>Williams v. North Carolina, <a href="./us317-0287.xml#p287">317 U.S. 287</a> (1942)</h>
-    <h>Williams v. North Carolina</h>
-    <h>No. 29</h>
-    <h>Argued October 20, 1942</h>
-    <h>Decided December 21, 1942</h>
-    <h><a href="./us317-0287.xml#p287">317 U.S. 287</a></h>
-    <h>CERTIORARI TO THE SUPREME COURT OF NORTH CAROLINA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Williams v. North Carolina, <a href="./us317-0287.xml#p287">317 U.S. 287</a> (1942)</h1>
+    <h2>Williams v. North Carolina</h2>
+    <h2>No. 29</h2>
+    <h4>Argued October 20, 1942</h4>
+    <h4>Decided December 21, 1942</h4>
+    <h2>CERTIORARI TO THE SUPREME COURT OF NORTH CAROLINA</h2>
+    <h2>Syllabus</h2>
     <p>1. Where a conviction in a criminal prosecution is based upon a general verdict that does not specify the ground on which it rests, and one of the grounds upon which it may rest is invalid under the Federal Constitution, the judgment cannot be sustained. Stromberg v. California, <a href="../us283/us283-0359.xml#p359">283 U. S. 359</a>. P. <a href="./us317-0287.xml#p292">317 U. S. 292</a>.</p>
     <p>2. A man and a woman went from North Carolina to Nevada and, after residing there for a time sufficient to meet the requirement of a Nevada statute, secured decrees from a Nevada court, divorcing them from their respective spouses in North Carolina, the State in which they had been married and domiciled. They then married each other in Nevada, returned to North Carolina and cohabited there as man and wife. Prosecuted under a North Carolina statute for bigamous cohabitation, they set up in defense the Nevada decrees. A general verdict was returned, after instructions permitting that the decrees be disregarded upon either of two grounds, (1) that</p>
     <n id="p288">288</n>
@@ -153,7 +153,7 @@
       <p>carried on in Nevada during their brief absence from North Carolina. We turn to Nevada for that part of the episode.</p>
       <p>Williams and Mrs. Hendrix appear in the Nevada on May 15, 1940. For barely six weeks, they made their residences at the Alamo Auto Court on the Las Vegas-Los Angeles Road. On June 26, 1940, both filed bills of complaint for divorce through the same lawyer, and alleging almost identical grounds. No personal service was made on the home-staying spouse in either case, and service was had only by publication and substituted service. Both obtained divorce decrees. The Nevada policy of divorce is reflected in Mrs. Hendrix's case. Her grounds were "extreme mental cruelty." She sustained them by testifying that her husband was "moody;" did not talk or speak to her "often;" when she spoke to him, he answered most of the time by a nod or shake of the head, and "there was nothing cheerful about him at all." The latter of the two divorces was granted on October 4, 1940, and, on that day in Nevada, they had benefit of clergy and emerged as man and wife. Nevada having served its purpose in their affairs, they at once returned to North Carolina to live.</p>
       <p>The question is whether this Court will now prohibit North Carolina from enforcing its own policy within that State against these North Carolinians on the ground that the law of Nevada, under which they lived a few weeks, is in some way projected into North Carolina to give them immunity.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>OUR FUNCTION IN THE MATTER</p>
       <p>There is confided to the Court only the power to resolve constitutional questions raised by these divorce procedures and not moral, religious, or social questions as to divorce itself. I do not know with any certainty whether,</p>
       <n id="p314">314</n>
@@ -167,7 +167,7 @@
       <p>Conflict between policies, laws, and judgments of constituent states of our federal system is an old, persistent, and increasingly complex problem. The right of each state to experiment with rules of its own choice for governing matrimonial and social life is greatly impaired if its own authority is overlapped and its own policy is overridden by judgments of other states forced on it by the power of this Federal Court. If we are to extend protection to the orderly exercise of the right of each state to make its own policy, we must find some way of confining each state's authority to matters and persons that are by some standard its own.</p>
       <p>The framers of the Constitution did not lay down rules to guide us in selecting which of two conflicting state judgments or public acts would receive federal aid in its extraterritorial enforcement. Nor was it necessary. There was, and is, an adequate body of law, if we do not reject it, by which to test jurisdiction or power to render the judgments in question so far as faith and credit by federal command is concerned. By the application of well established rules, these judgments fail to merit enforcement for two reasons.</p>
       <n id="p316">316</n>
-      <h>II</h>
+      <h2>II</h2>
       <p>LACK OF DUE PROCESS OF LAW</p>
       <p>Thirty-seven years ago, this Court decided that a state court, even of the plaintiff's domicile, could not render a judgment of divorce that would be entitled to federal enforcement in other states against a nonresident who did not appear, and was not personally served with process. Haddock v. Haddock, <a href="../us201/us201-0562.xml#p562">201 U. S. 562</a>. The opinion was much criticized, particularly in academic circles. [Footnote 2/1] Until today, however, it has been regarded as law, to be accepted and applied, for good or ill, depending on one's view of the matter. The theoretical reasons for the change are not convincing.</p>
       <p>The opinion concedes that Nevada's judgment could not be forced upon North Carolina in absence of personal service if a divorce proceeding were an action in personam. In other words, settled family relationships may be destroyed by a procedure that we would not recognize if the suit were one to collect a grocery bill. [Footnote 2/2]</p>
@@ -186,7 +186,7 @@
       <p>To hold that the Nevada judgments were not binding in North Carolina because they were rendered without jurisdiction over the North Carolina spouses, it is not necessary to hold that they were without any conceivable validity. It may be, and probably is, true that Nevada has sufficient interest in the lives of those who sojourn there to free them and their spouses to take new spouses without incurring criminal penalties under Nevada law. I know of nothing in our Constitution that requires Nevada to adhere to traditional concepts of bigamous unions or the legitimacy of the fruit thereof. And the control of a state over property within its borders is so complete that I suppose that Nevada could effectively deal with it in the name of divorce as completely as in any other. [Footnote 2/5] But it is quite a different thing to say that Nevada can dissolve the marriages of North Carolinians and dictate the incidence of the bigamy statutes of North Carolina by which North Carolina has sought to protect her own interests, as well as theirs. In this case, there is no conceivable basis of jurisdiction in the Nevada court over the absent spouses, [Footnote 2/6] and, a fortiori, over North Carolina herself. I</p>
       <n id="p320">320</n>
       <p>cannot but think that, in its preoccupation with the full faith and credit clause, the Court has slighted the due process clause.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>. LACK OF DOMICILE</p>
       <p>We should, I think, require that divorce judgments asking our enforcement under the full faith and credit clause, unlike judgments arising out of commercial transactions and the like, must also be supported by good faith domicile of one of the parties within the judgment state. [Footnote 2/7] Such is certainly a reasonable requirement. A state can have no legitimate concern with the matrimonial status of two persons neither of whom lives within its territory.</p>
       <p>The Court would seem, indeed, to pay lip service to this principle. I understand the holding to be that it is domicile in Nevada that gave power to proceed without personal service of process. That being the course of reasoning, I do not see how we avoid the issue concerning the existence of the domicile which the facts on the face of this record put to us. Certainly we cannot, as the Court would, bypass the matter by saying that</p>
@@ -205,7 +205,7 @@
       <n id="p323">323</n>
       <p>has been particularly apparent in cases where the Court has authorized, if not indeed encouraged, the several states to set up their own standards of domicile and to make conflicting findings of domicile for the purpose of taxing the right of succession. Worcester County Trust Co. v. Riley, <a href="../us302/us302-0292.xml#p292">302 U. S. 292</a>. The Court has completely repudiated domicile as the measure of a state's right to tax intangible property. State Tax Commission v. Aldrich, <a href="../us316/us316-0174.xml#p174">316 U. S. 174</a>, <a href="../us316/us316-0174.xml#p185">316 U. S. 185</a>. The present decision extends the trend to the field of matrimonial legislation. This direction is contrary to what I believe to be the purpose of our Constitution to prevent overlapping and conflict of authority between the states.</p>
       <p>In the application of the full faith and credit clause to the variety of circumstances that arise when families break up and separate domiciles are established, there are, I grant, many areas of great difficulty. But I cannot believe that we are justified in making a demoralizing decision in order to avoid making difficult ones.</p>
-      <h>IV</h>
+      <h2>IV</h2>
       <p>PRACTICAL CONSIDERATIONS</p>
       <p>The Court says that its judgment is "part of the price of our federal system." It is a price that we did not have to pay yesterday, and that we will have to pay tomorrow only because this Court has willed it to be so today. This Court may follow precedents, irrespective of their merits, as a matter of obedience to the rule of stare decisis. Consistency and stability may be so served. They are ends desirable in themselves, for only thereby can the law be predictable to those who must shape their conduct by it and to lower courts which must apply it. But we can break with established law, overrule precedents, and start a new cluster of leading cases to define what we mean only as a matter of deliberate policy. We therefore search a</p>
       <n id="p324">324</n>

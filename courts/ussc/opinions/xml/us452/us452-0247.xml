@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us452-0247.html" citation="452 U.S. 247" title="Rowan Cos., Inc. v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p247">247</n>
-    <h>U.S. Supreme Court</h>
-    <h>Rowan Cos., Inc. v. United States, <a href="./us452-0247.xml#p247">452 U.S. 247</a> (1981)</h>
-    <h>Rowan Cos., Inc. v. United States</h>
-    <h>No. 80-780</h>
-    <h>Argued April 21, 1981</h>
-    <h>Decided June 8, 1981</h>
-    <h><a href="./us452-0247.xml#p247">452 U.S. 247</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE FIFTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Rowan Cos., Inc. v. United States, <a href="./us452-0247.xml#p247">452 U.S. 247</a> (1981)</h1>
+    <h2>Rowan Cos., Inc. v. United States</h2>
+    <h2>No. 80-780</h2>
+    <h4>Argued April 21, 1981</h4>
+    <h4>Decided June 8, 1981</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE FIFTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner, for its own convenience, provided meals and lodging to its employees working on offshore oil rigs. Petitioner did not include the value of the meals and lodging in computing the employees' "wages" for the purpose of paying taxes under the Federal Insurance Contributions Act (FICA) and the Federal Unemployment Tax Act (FUTA) or withholding the employees' federal income taxes. Upon audit, the Internal Revenue Service included the value of the meals and lodging in the employees' "wages" for FICA and FUTA, but not for income tax withholding. In doing so, the IRS acted consistently with Treasury Regulations that interpret the definition of "wages" in FICA and FUTA to include the value of such meals and lodging, whereas the substantially identical definition of "wages" in the income tax withholding provisions is interpreted by Treasury Regulations to exclude this value. Petitioner paid the additional assessment for FICA and FUTA taxes and brought suit in Federal District Court for a refund. The District Court granted summary judgment for the Government, and the Court of Appeals affirmed, holding that the different interpretations of the definition of "wages" was justified by the different purposes of FICA and FUTA, on the one hand, and income tax withholding, on the other.</p>
     <p>Held: The Treasury Regulations interpreting the definition of "wages" in FICA and FUTA to include the value of the meals and lodging are invalid, for they fail to implement the statutory definition in a consistent or reasonable manner. The plain language and legislative histories of the relevant statutes indicate that Congress intended its definition of "wages" to be interpreted in the same manner for FICA and FUTA as for income tax withholding. Pp. <a href="./us452-0247.xml#p250">452 U. S. 250</a>-263.</p>
     <p>624 F.2d 701, reversed.</p>
@@ -19,7 +19,7 @@
     <n id="p248">248</n>
     <p>JUSTICE POWELL delivered the opinion of the Court.</p>
     <p>This case concerns the federal taxes imposed upon employers by the Federal Insurance Contributions Act (FICA), 26 U.S.C. § 3101 et seq., and the Federal Unemployment Tax Act (FUTA), 26 U.S.C. § 3301 et seq. The question is whether petitioner should have included in the computation of "wages," which is the base for taxation under FICA and FUTA, the value of meals and lodging provided for its own convenience to employees working on offshore oil rigs.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>During the tax years in question, 1967-1969, petitioner Rowan Companies, Inc., owned and operated rigs for drilling oil and gas wells, both on land and offshore. Some of petitioner's offshore rigs were located as many as 60 miles from land. It cost petitioner less and was more convenient to provide meals and lodging to employees at these rigs than to transport the employees to and from the rigs for each work shift. [<a id="nf1" href="#fn1">Footnote 1</a>] Employees worked at these rigs for 10-day tours of duty, and petitioner then transported them back to land for</p>
     <n id="p249">249</n>
     <p>5-day periods of leave. All employees at a rig received the same meals and lodging facilities, regardless of employment status or pay. Employees did not receive any cash allowance if they chose not to eat a meal. Petitioner did not provide meals or lodging to employees during their leave; nor did it provide meals or lodging to employees working on land-based rigs.</p>
@@ -27,7 +27,7 @@
     <n id="p250">250</n>
     <p>and lodging in the employees' "wages" for the purpose of FICA and FUTA, but not for the purpose of income tax withholding under § 3402(a). The Service acted consistently with the present Treasury Regulations that interpret the definition of "wages" in FICA and FUTA to include the value of these meals and lodging, [<a id="nf5" href="#fn5">Footnote 5</a>] whereas the substantially identical definition of "wages" in § 3401(a) is interpreted by Treasury Regulations to exclude this value. Compare Treas.Reg. §§ 31.3121(a)-1 (e), (f) (FICA), 26 CFR §§ 31.3121(a)-1(e), (f) (1980); Treas.Reg. §§ 31.3306(b)-1(e), (f) (FUTA), 26 CFR §§ 31.3306(b)-1(e), (f) (1980); with Treas.Reg. §§ 31.3401(a)-1(b)(9), (10) (income tax withholding), 26 CFR §§ 31.3401(a)-1(b)(9), (10) (1980). Petitioner paid the additional assessment and brought this suit for a refund under 28 U.S.C. § 1346(a)(1). [<a id="nf6" href="#fn6">Footnote 6</a>]</p>
     <p>The District Court for the Southern District of Texas granted the Government's motion for summary judgment. The Court of Appeals for the Fifth Circuit affirmed, expressing the view that the different interpretations of the definition of "wages" are justified by the different purposes of FICA and FUTA, on the one hand, and income tax withholding, on the other. 624 F.2d 701, 707 (1980). We granted a writ of certiorari, 449 U.S. 1109 (1981), because the Court of Appeals' decision conflicts with the decisions of other Courts of Appeals. [<a id="nf7" href="#fn7">Footnote 7</a>] We now reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The Government acknowledges that petitioner properly excluded the value of the meals and lodging in computing the "wages" from which it withheld employees' income tax under</p>
     <n id="p251">251</n>
     <p>§ 3402(a). Under the Treasury Regulation interpreting the definition of "wages" for income tax withholding, the employer excludes the value of meals or lodging from "wages" if the employee excludes the value from his gross income. Treas.Reg. § 31.3401(a)-1(b)(9), 26 CFR § 31.3401(a)-1(b)(9) (1980). Under the "convenience of the employer" rule, an employee may exclude from gross income the value of meals and lodging furnished to him by his employer if the employer furnished both the meals and lodging for its own convenience, furnished the meals on its business premises, and required the employee to accept the lodging on the business premises as a condition of employment. 26 U.S.C. § 119 (1976 ed., Supp. III). [<a id="nf8" href="#fn8">Footnote 8</a>] Petitioner's provision of meals and lodging to employees on its offshore rigs satisfied each of these § 119 requirements. The value of the meals and lodging therefore was excludable by the employer from "wages" under Treas.Reg. § 31.3401(a)-1(b)(9), 26 CFR § 31.3401(a)-1(b)(9) (1980). See generally Commissioner v. Kowalski, <a href="../us434/us434-0077.xml#p77">434 U. S. 77</a> (1977).</p>
@@ -87,7 +87,7 @@
     <p>as to why the contemporaneous regulations of 1936 were changed in 1940 or why inconsistent rulings still were being issued. Indeed, the Government in this case has not yet offered an explanation.</p>
     <p>The history of the Treasury Regulations and rulings interpreting Congress' definition of "wages" in FICA and FUTA therefore lends only the most ambiguous support to the view that Congress intended to approve different interpretations of "wages" when it reenacted the Internal Revenue Code in 1954. The differing interpretations were not substantially contemporaneous constructions of the statutes, and nothing in the manner in which the interpretations changed is probative of congressional endorsement. Nor is there evidence of any particular consideration of these regulations by Congress during reenactment.</p>
     <n id="p263">263</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>We conclude that Treas.Reg. §§ 31.3121(a)-1(f) and 31.3306(b)-1(f) fail to implement the statutory definition of "wages" in a consistent or reasonable manner. The plain language and legislative histories of the relevant Acts indicate that Congress intended its definition to be interpreted in the same manner for FICA and FUTA as for income tax withholding. The Treasury Regulations on which the Government relies fail to do so, and their inconsistent and unexplained application undermine the contention that Congress nonetheless endorsed them. As Congress did intend a consistent interpretation of its definition, these Treasury Regulations also are inconsistent with the Court's reasoning in Central Illinois.</p>
     <p>We therefore hold that the Regulations are invalid, and that the Service erred in relying upon them to include in the computation of "wages" the value of the meals and lodging that petitioner provided for its own convenience to its employees on offshore oil rigs. The judgment of the Court of Appeals is reversed.</p>
     <p>It is so ordered.</p>

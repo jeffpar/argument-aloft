@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us436-0931.html" citation="436 U.S. 931" title="LONG v. U.S.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p931">931</n>
-    <h>U.S. Supreme Court</h>
-    <h>LONG v. U.S. , <a href="./us436-0931.xml#p931">436 U.S. 931</a> (1978)</h>
-    <h> <a href="./us436-0931.xml#p931">436 U.S. 931</a></h>
-    <h>Bruce LONG v. UNITED STATES No. 77-1226</h>
-    <h>Supreme Court of the United States</h>
-    <h>May 30, 1978</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>LONG v. U.S., <a href="./us436-0931.xml#p931">436 U.S. 931</a> (1978)</h1>
+    <h2>Bruce LONG v. UNITED STATES No. 77-1226</h2>
+    <h2>Supreme Court of the United States</h2>
+    <h4>May 30, 1978</h4>
     <p>On petition for writ of certiorari to the United States Court of Appeals for the Second Circuit.</p>
     <p>The petition for a writ of certiorari is denied.</p>
     <p>Mr. Justice BRENNAN, with whom Mr. Justice STEWART and Mr. Justice MARSHALL join, dissenting.</p>
@@ -17,7 +17,7 @@
     <p>I continue to adhere to the view expressed in my dissent in United States v. 12 200-Ft. Reels of Film, <a href="../us413/us413-0123.xml#p123">413 U.S. 123</a>, 138, 37 L. Ed. 2d 500 (1973):</p>
     <p>"Whatever the extent of the Federal Government's power to bar the distribution of allegedly obscene material to juveniles or the offensive exposure of such material to unconsenting adults, the statute before us is . . . clearly overbroad and unconstitutional in its face."</p>
     <p>Accordingly, I would reverse the judgment of the Court of Appeals.</p>
-    <h>Footnotes</h>
+    <h2>Footnotes</h2>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>
       <p>"All persons are prohibited from importing into the United States from any foreign country . . . any obscene book [or] pamphlet . . . and all such articles . . . shall be subject to seizure and forfeiture . . . ."</p>
     </f>

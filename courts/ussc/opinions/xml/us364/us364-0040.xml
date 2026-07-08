@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us364-0040.html" citation="364 U.S. 40" title="Armstrong v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p40">40</n>
-    <h>U.S. Supreme Court</h>
-    <h>Armstrong v. United States, <a href="./us364-0040.xml#p40">364 U.S. 40</a> (1960)</h>
-    <h>Armstrong v. United States</h>
-    <h>No. 270</h>
-    <h>Argued March 28, 1960</h>
-    <h>Decided June 27, 1960</h>
-    <h><a href="./us364-0040.xml#p40">364 U.S. 40</a></h>
-    <h>CERTIORARI TO THE COURT OF CLAIMS</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Armstrong v. United States, <a href="./us364-0040.xml#p40">364 U.S. 40</a> (1960)</h1>
+    <h2>Armstrong v. United States</h2>
+    <h2>No. 270</h2>
+    <h4>Argued March 28, 1960</h4>
+    <h4>Decided June 27, 1960</h4>
+    <h2>CERTIORARI TO THE COURT OF CLAIMS</h2>
+    <h2>Syllabus</h2>
     <p>Upon default by a shipbuilder on its contract to construct certain boats for the United States, the Government, exercising an option under the contract, required the shipbuilder to transfer to the Government title to the uncompleted boats and the materials on hand for their construction. This made it impossible for petitioners to enforce their materialmen's liens which had attached under state law to the boats and materials when the materials were furnished to the shipbuilder. Petitioners sued in the Court of Claims for compensation for the taking of their liens by the Government.</p>
     <p>Held: Petitioners are entitled to recover whatever value their liens had when the Government took title to the boats and materials. Pp. <a href="./us364-0040.xml#p41">364 U. S. 41</a>-49.</p>
     <p>(a) Under the terms of the contract here involved, title to the property was in the shipbuilder when the materials were furnished, and the mere fact that it was contemplated that title eventually would vest in the Government did not prevent the materialmen's liens from attaching. Pp. <a href="./us364-0040.xml#p42">364 U. S. 42</a>-44.</p>
@@ -26,7 +26,7 @@
     <p>Claiming valid liens on the hulls and manufacturing materials at the time they were transferred by Rice to the</p>
     <n id="p42">42</n>
     <p>United States, petitioners asserted that the Government's action destroyed their liens by making them unenforceable and that this constituted a taking of their property without just compensation, in violation of the Fifth Amendment. [<a id="nf1" href="#fn1">Footnote 1</a>] The Court of Claims, relying on United States v. Ansonia Brass &amp; Copper Co., <a href="../us218/us218-0452.xml#p452">218 U. S. 452</a>, held that petitioners never acquired valid liens on the hulls or the materials transferred to the Government, and that therefore there had been no taking of any property owned by them. ___ Ct.Cl. ___, 169 F. Supp. 259. We granted certiorari. 361 U.S. 812.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The Court of Claims reached its conclusion from the correct premise that laborers and materialmen can acquire no liens on a "public work." Hill v. American Surety Co., <a href="../us200/us200-0197.xml#p197">200 U. S. 197</a>, <a href="../us200/us200-0197.xml#p203">200 U. S. 203</a>; Equitable Surety Co. v. McMillan, <a href="../us234/us234-0448.xml#p448">234 U. S. 448</a>, <a href="../us234/us234-0448.xml#p455">234 U. S. 455</a>; United States v. Munsey Trust Co., <a href="../us332/us332-0234.xml#p234">332 U. S. 234</a>, <a href="../us332/us332-0234.xml#p241">332 U. S. 241</a>. It reasoned that, because the contract between Rice and the United States contemplated that title to the vessels would eventually vest in the Government, the Government had "inchoate title" to the materials supplied by petitioners, rendering such materials "public works" immune from the outset to petitioners' liens. We cannot agree that a mere prospect that property will later be owned by the United States renders that property immune from otherwise valid liens.</p>
     <p>The sovereign's immunity against materialmen's liens has never been extended beyond property actually owned by it. The Ansonia case itself, upon which the Court of</p>
     <n id="p43">43</n>
@@ -37,7 +37,7 @@
     <n id="p44">44</n>
     <p>discharge immediately any lien or right in rem asserted against the property. In their totality, these provisions clearly recognize that title was to remain in Rice during performance of the work, and show that private liens could attach to the property while Rice owned it.</p>
     <p>We think, therefore, that the Court of Claims was in error in holding as it did. This, however, does not end the case in petitioners' favor, since the United States urges other grounds to support its judgment.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>It is contended that petitioners' asserted liens gave them no compensable property interests within the meaning of the Fifth Amendment. Under Maine law, materialmen become entitled to a lien when they furnish supplies; however, the lien must subsequently be enforced by attachment of the vessel or supplies. There is no allegation that any of the petitioners had taken steps to attach the uncompleted work. Nevertheless, they were entitled to resort to the specific property for the satisfaction of their claims. That such a right is compensable by virtue of the Fifth Amendment was decided in Louisville Bank v. Radford, <a href="../us295/us295-0555.xml#p555">295 U. S. 555</a>. In that case, a bank acquired a mortgage which under state law constituted a lien enforceable only by suit to foreclose. Subsequently, Congress amended the Bankruptcy Act so as to deprive mortgagees of substantial incidents of their rights to resort to mortgaged property. This Court held that the bank's property had been taken without just compensation in violation of the Fifth Amendment. No reason has been suggested why the nature of the liens held by petitioners should be regarded as any different, for this purpose, from the interest of the bank held compensable in the Radford case.</p>
     <p>The Government, however, suggests that, because it held a paramount lien on the property to secure its progress</p>
     <n id="p45">45</n>
@@ -47,7 +47,7 @@
     <n id="p46">46</n>
     <p>gave the Government the option of requiring a conveyance of title upon default, petitioners' liens attached subject to that limitation. Petitioners, however, were not parties to the contract. Furthermore, their liens attached by operation of law and nothing in the record indicates that the scope of such liens is affected by contractual arrangements into which the owner of the property may have entered.</p>
     <p>We conclude, therefore, that, on this record, petitioners must be considered to have had compensable property interests within the meaning of the Fifth Amendment prior to transfer of title to the Government.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The final question is whether the Government's action constituted a "taking" of petitioners' property interests within the meaning of the Fifth Amendment. Before the United States compelled Rice to transfer the hulls and all materials held for future use in building the boats, petitioners had valid liens under Maine law against both the hulls and whatever unused materials which petitioners had furnished. Before transfer, these lines were enforceable by attachment against both the hulls and all materials. After transfer to the United States, the liens were still valid, United States v. Alabama, <a href="../us313/us313-0274.xml#p274">313 U. S. 274</a>, <a href="../us313/us313-0274.xml#p281">313 U. S. 281</a>-282, but they could not be enforced, because of the sovereign immunity of the Government and its property from suit. [<a id="nf4" href="#fn4">Footnote 4</a>] The result of this was a destruction of all petitioners' property rights under their liens, although, as we have pointed out, the liens were valid and had compensable value. Petitioners contend that destruction of</p>
     <n id="p47">47</n>
     <p>their liens under the circumstances here is a "taking." The United States denies this, largely on the premise that inability of petitioners to enforce their liens because of immunity of the Government and its property from suit cannot amount to a "taking."</p>

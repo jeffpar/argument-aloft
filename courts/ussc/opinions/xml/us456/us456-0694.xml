@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us456-0694.html" citation="456 U.S. 694" title="Insurance Corp. of Ireland v. Compagnie des Bauxites">
   <opinion type="Opinions &amp; Dissents">
     <n id="p694">694</n>
-    <h>U.S. Supreme Court</h>
-    <h>Ins. Co. of Ireland v. Compagnie Des Bauxites, <a href="./us456-0694.xml#p694">456 U.S. 694</a> (1982)</h>
-    <h>Insurance Corporation of Ireland, Ltd. v.</h>
-    <h>Compagnie des Bauxites de Guinee</h>
-    <h>No. 81-440</h>
-    <h>Argued March 23, 1982</h>
-    <h>Decided June 1, 1982</h>
-    <h><a href="./us456-0694.xml#p694">456 U.S. 694</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE THIRD CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h4>Ins. Co. of Ireland v. Compagnie Des Bauxites, <a href="./us456-0694.xml#p694">456 U.S. 694</a> (1982)</h4>
+    <h2>Insurance Corporation of Ireland, Ltd. v.</h2>
+    <h2>Compagnie des Bauxites de Guinee</h2>
+    <h2>No. 81-440</h2>
+    <h4>Argued March 23, 1982</h4>
+    <h4>Decided June 1, 1982</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE THIRD CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Federal Rule of Civil Procedure 37(b)(2)(A) provides that a district court, as a sanction for failure to comply with discovery orders, may enter</p>
     <p>"[a]n order that the matters regarding which the [discovery] order was made or any other designated facts shall be taken to be established for the purposes of the action in accordance with the claim of the party obtaining the order."</p>
     <p>Asserting diversity jurisdiction, respondent, a Delaware corporation with its principal place of business in the Republic of Guinea, filed suit against various insurance companies in the United States District Court for the Western District of Pennsylvania to recover on a business interruption policy. When certain of the defendants (a group of foreign insurance companies, including petitioners) raised the defense of lack of personal jurisdiction, respondent attempted to use discovery in order to establish jurisdictional facts. After petitioners repeatedly failed to comply with the court's orders for production of the requested information, the court warned them that, unless they complied by a specified date, it would assume, pursuant to Rule 37(b)(2)(A), that it had personal jurisdiction. When petitioners again failed to comply, the court imposed the sanction, and the Court of Appeals affirmed, concluding that imposition of the sanction fell within the trial court's discretion under Rule 37(b)(2)(A) and that the sanction did not violate petitioners' due process rights.</p>
@@ -31,7 +31,7 @@
     <p>Rule 37(b)(2)(A). The question presented by this case is whether this Rule is applicable to facts that form the basis for personal jurisdiction over a defendant. May a district court, as a sanction for failure to comply with a discovery order directed at establishing jurisdictional facts, proceed on the basis that personal jurisdiction over the recalcitrant party has been established?</p>
     <n id="p696">696</n>
     <p>Petitioners urge that such an application of the Rule would violate due process: if a court does not have jurisdiction over a party, then it may not create that jurisdiction by judicial fiat. [<a id="nf1" href="#fn1">Footnote 1</a>] They contend also that, until a court has jurisdiction over a party, that party need not comply with orders of the court; failure to comply, therefore, cannot provide the ground for a sanction. In our view, petitioners are attempting to create a logical conundrum out of a fairly straightforward matter.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Respondent Compagnie des Bauxites de Guinee (CBG) is a Delaware corporation, 49% of which is owned by the Republic of Guinea and 51% is owned by Halco (Mining) Inc. CBG's principal place of business is in the Republic of Guinea, where it operates bauxite mines and processing facilities. Halco, which operates in Pennsylvania, has contracted to perform certain administrative services for CBG. These include the procurement of insurance.</p>
     <p>In 1973, Halco instructed an insurance broker, Marsh &amp; McLennan, to obtain $20 million worth of business interruption insurance to cover CBG's operations in Guinea. The first half of this coverage was provided by the Insurance Company of North America (INA). The second half, or what is referred to as the "excess" insurance, was provided by a group of 21 foreign insurance companies, [<a id="nf2" href="#fn2">Footnote 2</a>] 14 of which are petitioners in this action (the excess insurers). [<a id="nf3" href="#fn3">Footnote 3</a>]</p>
     <n id="p697">697</n>
@@ -57,7 +57,7 @@
     <p>651 F.2d at 885. Furthermore, it held that the sanction did not violate petitioners' due process rights, because it was no broader than "reasonably necessary" under the circumstances.</p>
     <p>Because the decision below directly conflicts with the decision of the Court of Appeals for the Fifth Circuit in Familia de Boom v. Arosa Mercantil, S.A., 629 F.2d 1134 (1980), we granted certiorari. 454 U.S. 963 (1981). [<a id="nf8" href="#fn8">Footnote 8</a>]</p>
     <n id="p701">701</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>In McDonald v. Mabee, <a href="../us243/us243-0090.xml#p90">243 U. S. 90</a> (1917), another case involving an alleged lack of personal jurisdiction, Justice Holmes wrote for the Court, "great caution should be used not to let fiction deny the fair play that can be secured only by a pretty close adhesion to fact." Id. at <a href="../us243/us243-0090.xml#p91">243 U. S. 91</a>. Petitioners' basic submission is that to apply Rule 37(b)(2) to jurisdictional facts is to allow fiction to get the better of fact, and that it is impermissible to use a fiction to establish judicial power where, as a matter of fact, it does not exist. In our view, this represents a fundamental misunderstanding of the nature of personal jurisdiction.</p>
     <p>The validity of an order of a federal court depends upon that court's having jurisdiction over both the subject matter and the parties. Stoll v. Gottlieb, <a href="../us305/us305-0165.xml#p165">305 U. S. 165</a>, <a href="../us305/us305-0165.xml#p171">305 U. S. 171</a>-172 (1938); <a href="../us085/us085-0457.xml#p457">Thompson v. Whitman</a>, 18 Wall. 457, <a href="../us085/us085-0457.xml#p465">85 U. S. 465</a> (1874). The concepts of subject matter and personal jurisdiction, however, serve different purposes, and these different purposes affect the legal character of the two requirements. Petitioners fail to recognize the distinction between the two concepts -- speaking instead in general terms of "jurisdiction" -- although their argument's strength comes from conceiving of jurisdiction only as subject matter jurisdiction.</p>
     <p>Federal courts are courts of limited jurisdiction. The character of the controversies over which federal judicial authority may extend are delineated in Art. III, § 2, cl. 1. Jurisdiction of the lower federal courts is further limited to those subjects encompassed within a statutory grant of jurisdiction. Again, this reflects the constitutional source of federal judicial power: apart from this Court, that power only</p>
@@ -85,7 +85,7 @@
     <p>This argument again assumes that there is something unique about the requirement of personal jurisdiction which prevents it from being established or waived like other rights. A defendant is always free to ignore the judicial proceedings, risk a default judgment, and then challenge that judgment on jurisdictional grounds in a collateral proceeding. See Baldwin v. Traveling Men's Assn., <a href="../us283/us283-0522.xml#p522">283 U. S. 522</a>, <a href="../us283/us283-0522.xml#p525">283 U. S. 525</a> (1931). By submitting to the jurisdiction of the court for the limited purpose of challenging jurisdiction, the defendant agrees to abide by that court's determination on the issue of jurisdiction: that decision will be res judicata on that issue in any further proceedings. Id. at <a href="../us283/us283-0522.xml#p524">283 U. S. 524</a>; <a href="../us287/us287-0156.xml#p156">American Surety Co.</a></p>
     <n id="p707">707</n>
     <p>v. Baldwin, <a href="../us287/us287-0156.xml#p156">287 U. S. 156</a>, <a href="../us287/us287-0156.xml#p166">287 U. S. 166</a> (1932). As demonstrated above, the manner in which the court determines whether it has personal jurisdiction may include a variety of legal rules and presumptions, as well as straightforward factfinding. A particular rule may offend the due process standard of Hammond Packing, but the mere use of procedural rules does not, in itself, violate the defendant's due process rights.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Even if Rule 37(b)(2) may be applied to support a finding of personal jurisdiction, the question remains as to whether it was properly applied under the circumstances of this case. Because the District Court's decision to invoke the sanction was accompanied by a detailed explanation of the reasons for that order, and because that decision was upheld as a proper exercise of the District Court's discretion by the Court of Appeals, this issue need not detain us for long. What was said in National Hockey League v. Metropolitan Hockey Club, Inc., <a href="../us427/us427-0639.xml#p639">427 U. S. 639</a>, <a href="../us427/us427-0639.xml#p642">427 U. S. 642</a> (1976), is fully applicable here:</p>
     <p>"The question, of course, is not whether this Court, or whether the Court of Appeals, would, as an original matter, have [applied the sanction]; it is whether the District Court abused its discretion in so doing."</p>
     <p>(Citations omitted.) For the reasons that follow, we hold that it did not.</p>
@@ -96,7 +96,7 @@
     <p>Neither can there be any doubt that this sanction satisfies the second requirement. CBG was seeking through discovery</p>
     <n id="p709">709</n>
     <p>to respond to petitioners' contention that the District Court did not have personal jurisdiction. Having put the issue in question, petitioners did not have the option of blocking the reasonable attempt of CBG to meet its burden of proof. It surely did not have this option once the court had overruled petitioners' objections. Because of petitioners' failure to comply with the discovery orders, CBG was unable to establish the full extent of the contacts between petitioners and Pennsylvania, the critical issue in proving personal jurisdiction. Petitioners' failure to supply the requested information as to its contacts with Pennsylvania supports "the presumption that the refusal to produce evidence . . . was but an admission of the want of merit in the asserted defense." Hammond Packing, 212 U.S. at <a href="../us212/us212-0322.xml#p351">212 U. S. 351</a>. The sanction took as established the facts -- contacts with Pennsylvania -- that CBG was seeking to establish through discovery. That a particular legal consequence -- personal jurisdiction of the court over the defendants -- follows from this does not in any way affect the appropriateness of the sanction.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>Because the application of a legal presumption to the issue of personal jurisdiction does not, in itself, violate the Due Process Clause, and because there was no abuse of the discretion granted a district court under Rule 37(b)(2), we affirm the judgment of the Court of Appeals.</p>
     <p>So ordered.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>
@@ -143,7 +143,7 @@
       <n id="p710">710</n>
       <p>that fundamental questions of judicial power do not arise in this case concerning the personal jurisdiction of a federal district court.</p>
       <p>In my view, the Court's broadly theoretical decision misapprehends the issues actually presented for decision. Federal courts are courts of limited jurisdiction. Their personal jurisdiction, no less than their subject matter jurisdiction, is subject both to constitutional and to statutory definition. When the applicable limitations on federal jurisdiction are identified, it becomes apparent that the Court's theory could require a sweeping, but largely unexplicated, revision of jurisdictional doctrine. This revision could encompass not only the personal jurisdiction of federal courts but "sovereign" limitations on state jurisdiction as identified in World-Wide Volkswagen Corp. v. Woodson, <a href="../us444/us444-0286.xml#p286">444 U. S. 286</a>, <a href="../us444/us444-0286.xml#p291">444 U. S. 291</a>-293 (1980). Fair resolution of this case does not require the Court's broad holding. Accordingly, although I concur in the Court's judgment, I cannot join its opinion.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>This lawsuit began when the respondent Compagnie des Bauxites brought a contract action against the petitioner insurance companies in the United States District Court for the Western District of Pennsylvania. Alleging diversity jurisdiction, respondent averred that the District Court had personal jurisdiction of the petitioners, all foreign corporations, under the long-arm statute of the State of Pennsylvania. See Compagnie des Bauxites de Guinea v. Insurance Co. of North America, 651 F.2d 877, 880-881 (CA3 1981). Petitioners, however, denied that they were subject to the court's personal jurisdiction under that or any other statute. Viewing the question largely as one of fact, the court ordered discovery to resolve the dispute.</p>
       <p>Meantime, while respondent unsuccessfully sought compliance with its discovery requests, petitioners brought a parallel action in England's High Court of Justice, Queens Bench</p>
       <n id="p711">711</n>
@@ -168,7 +168,7 @@
       <p>In the absence of such support, I could not join the Court in embracing such a construction of the Rules of Civil Procedure. [Footnote 2/6] There is nothing in Rule 37 to suggest that it is intended to confer a grant of personal jurisdiction. Indeed, the clear language of Rule 82 seems to establish that Rule 37 should not be construed as a jurisdictional grant: "These rules shall not be construed to extend . . . the jurisdiction of the United States district courts or the venue of actions therein." Moreover, assuming that minimum contacts remain a constitutional predicate for the exercise of a State's in personam jurisdiction over an unconsenting defendant, constitutional questions would arise if Rule 37 were read to permit a plaintiff in a diversity action to subject a defendant to a "fishing expedition" in a foreign jurisdiction. A plaintiff is not entitled to discovery to establish essentially speculative allegations necessary to personal jurisdiction. Nor would the use of Rule 37 sanctions to enforce discovery orders constitute a mere abuse of discretion in such a case. [Footnote 2/7] For me, at least, such a use of discovery would raise serious questions as to the constitutional, as well as the statutory, authority of a federal court -- in a diversity case -- to exercise personal jurisdiction</p>
       <n id="p716">716</n>
       <p>absent some showing of minimum contacts between the unconsenting defendant and the forum State.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>In this case, the facts alone -- unaided by broad jurisdictional theories -- more than amply demonstrate that the District Court possessed personal jurisdiction to impose sanctions under Rule 37, and otherwise to adjudicate this case. I would decide the case on this narrow basis.</p>
       <p>As recognized both by the District Court and the Court of Appeals, the respondent adduced substantial support for its jurisdictional assertions. By affidavit and other evidence, it made a prima facie showing of "minimum contacts." See 651 F.2d at 881-882, 886, and n. 9. In the view of the District Court, the evidence adduced actually was sufficient to sustain a finding of personal jurisdiction independently of the Rule 37 sanction. App. to Pet. for Cert. 51a, 53a. [Footnote 2/8]</p>
       <p>Where the plaintiff has made a prima facie showing of minimum contacts, I have little difficulty in holding that its showing was sufficient to warrant the District Court's entry of discovery orders. And where a defendant then fails to comply with those orders, I agree that the prima facie showing may be held adequate to sustain the court's finding that minimum contacts exist, either under Rule 37 or under a theory of "presumption" or "waiver."</p>

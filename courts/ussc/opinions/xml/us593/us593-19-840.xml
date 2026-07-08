@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us593-19-840.html" citation="593 U.S. 19-840" title="California v. Texas">
   <opinion type="Opinion" author="Breyer">
     <p>NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 19–840 and 19–1019</p>
-    <p>_________________</p>
     <p>CALIFORNIA, et al., PETITIONERS</p>
     <p>19–840v.</p>
     <p>TEXAS, et al.</p>
@@ -72,9 +71,7 @@
   </opinion>
   <opinion type="Concurrence" author="Thomas">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 19–840 and 19–1019</p>
-    <p>_________________</p>
     <p>CALIFORNIA, et al., PETITIONERS</p>
     <p>19–840v.</p>
     <p>TEXAS, et al.</p>
@@ -103,9 +100,7 @@
   </opinion>
   <opinion type="Dissent" author="Alito">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 19–840 and 19–1019</p>
-    <p>_________________</p>
     <p>CALIFORNIA, et al., PETITIONERS</p>
     <p>19–840v.</p>
     <p>TEXAS, et al.</p>
@@ -190,7 +185,7 @@
     <p>Second, the state intervenors and the House argue that the Taxing Clause permits Congress to pass a tax and subsequently reduce it to zero. But Congress cannot supplement its powers through the two-step process of passing a tax and then removing the tax but leaving in place a provision that is otherwise beyond its enumerated powers.</p>
     <p>Third, they analogize the mandate to a delayed or suspended tax—one that raises no revenue now but could do so in the future. But §5000A, as it currently stands, does not delay or suspend the collection of revenue. Unless Congress amends that provision and provides for it to begin raising revenue at some future date, the “tax” is permanently set at zero.</p>
     <p>The state intervenors offer one final defense of the individual mandate: Even if it cannot be sustained under the Commerce Clause, Taxing Clause, or Necessary and Proper Clause, they argue that we should interpret the mandate as a mere precatory statement. In their view, Congress is free to urge Americans to take actions that it could not constitutionally require, and that is all it has done here.</p>
-    <p>This argument fails because the individual mandate is not a precatory statement. The text of the provision is clear. It states that every covered individual “shall . . . ensure that the individual, and any dependent of the individual . . . , is covered under minimum essential coverage . . . .” 26 U. S. C. §5000A(a). “Shall” typically means must, not should. See Kingdomware Technologies, Inc. v. United States, 579 U.S. 162, 171–172 (2016). And the text confirms that “shall” means “must” by terming the individual mandate a “[r]equirement to maintain minimum essential coverage.” §5000A(a); see also NFIB, 567 U. S., at 663 (joint dissent) (providing other statutory references to the individual mandate as a requirement).</p>
+    <p>This argument fails because the individual mandate is not a precatory statement. The text of the provision is clear. It states that every covered individual “shall . . . ensure that the individual, and any dependent of the individual . . ., is covered under minimum essential coverage . . . .” 26 U. S. C. §5000A(a). “Shall” typically means must, not should. See Kingdomware Technologies, Inc. v. United States, 579 U.S. 162, 171–172 (2016). And the text confirms that “shall” means “must” by terming the individual mandate a “[r]equirement to maintain minimum essential coverage.” §5000A(a); see also NFIB, 567 U. S., at 663 (joint dissent) (providing other statutory references to the individual mandate as a requirement).</p>
     <p>Mere precatory provisions, by contrast, typically use the word “should” to signify that they are not mandatory, e.g., 4 U. S. C. §8(c) (“The flag should never be carried flat or horizontally, but always aloft and free”), or make clear that they convey only the “sense of Congress,” e.g., 15 U. S. C. §7807 (“It is the sense of Congress that States should enact the Uniform Athlete Agents Act of 2000”). Congress adopted those very formulations elsewhere in the ACA, see, e.g., 42 U. S. C. §292s(d) (“It is the sense of Congress that funds repaid under the loan program . . . should not be transferred to the Treasury”), but chose markedly different language when crafting the individual mandate. Because the individual mandate is, in fact, a mandate, it cannot be considered a mere suggestion to purchase insurance.</p>
     <p>For these reasons, I conclude that the individual mandate exceeds the scope of Congress’s enumerated legislative powers.</p>
     <p>IV</p>

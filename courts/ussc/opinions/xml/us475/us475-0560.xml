@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us475-0560.html" citation="475 U.S. 560" title="Holbrook v. Flynn">
   <opinion type="Opinions &amp; Dissents">
     <n id="p560">560</n>
-    <h>U.S. Supreme Court</h>
-    <h>Holbrook v. Flynn, <a href="./us475-0560.xml#p560">475 U.S. 560</a> (1986)</h>
-    <h>Holbrook v. Flynn</h>
-    <h>No. 84-1606</h>
-    <h>Argued January 14, 1986</h>
-    <h>Decided March 26, 1986</h>
-    <h><a href="./us475-0560.xml#p560">475 U.S. 560</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE FIRST CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Holbrook v. Flynn, <a href="./us475-0560.xml#p560">475 U.S. 560</a> (1986)</h1>
+    <h2>Holbrook v. Flynn</h2>
+    <h4>No. 84-1606</h4>
+    <h4>Argued January 14, 1986</h4>
+    <h4>Decided March 26, 1986</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE FIRST CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>After respondent and others were indicted for armed robbery in Rhode Island Superior Court, they were held without bail. When the trial was about to begin, four uniformed state troopers were sitting in the front row of the spectators' section of the courtroom to supplement the customary security force which was overextended at the time. Respondent's counsel objected to the troopers' presence, but this objection was overruled by the trial justice, primarily on the basis of voir dire responses during the selection of the jury indicating that the troopers' presence would not affect the defendants' ability to receive a fair trial. Respondent was convicted, and the Rhode Island Supreme Court affirmed. Respondent then brought a habeas corpus proceeding in Federal District Court, which also rejected his objections to the troopers' presence. The Court of Appeals reversed, holding that the trial justice had failed to consider whether the particular circumstances of respondent's trial had called for the troopers' presence, and that the justice had improperly relied on the jurors' voir dire responses to rebut any suggestion of prejudice to respondent.</p>
     <p>Held: The troopers' presence at respondent's trial was not so inherently prejudicial that he was thereby denied his constitutional right to a fair trial. Pp. <a href="./us475-0560.xml#p567">475 U. S. 567</a>-572.</p>
     <p>(a) While an accused is entitled to have his guilt or innocence determined solely on the basis of evidence introduced at trial, this does not mean that every practice tending to single out an accused from everyone else in the courtroom must be struck down. Pp. <a href="./us475-0560.xml#p567">475 U. S. 567</a>-568.</p>
@@ -25,7 +25,7 @@
     <n id="p562">562</n>
     <p>JUSTICE MARSHALL delivered the opinion of the Court.</p>
     <p>The question presented in this case is whether a criminal defendant was denied his constitutional right to a fair trial when, at his trial with five codefendants, the customary courtroom security force was supplemented by four uniformed state troopers sitting in the first row of the spectators' section.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>On August 14, 1975, nine masked men entered the Bonded Vault Co. in Providence, Rhode Island, robbed several employees at gunpoint, broke into most of the safe-deposit boxes in the vault, and escaped with approximately $4 million in cash and valuables. In January, 1976, respondent and eight others were indicted in Providence County Superior Court for that crime. After a hearing in Superior Court, respondent and five of his alleged accomplices were ordered held without bail in the custody of the Warden of the State's Adult Correctional Institution. [<a id="nf1" href="#fn1">Footnote 1</a>]</p>
     <p>In April, 1976, respondent and his five codefendants were brought to trial in Superior Court before Associate Justice Anthony A. Giannini. Upon entering the courtroom, respondent's counsel noted the presence of four uniformed state troopers, sitting in the first row of the spectators' section; the officers were not far behind, but were separated by the "bar" from, the seats assigned to the defendants for the duration of the trial. [<a id="nf2" href="#fn2">Footnote 2</a>] Counsel immediately complained to the</p>
     <n id="p563">563</n>
@@ -64,7 +64,7 @@
     <p>"Even if all jurors had indicated an unreserved opinion that the troopers' presence would not affect them, such expression, on a case as extreme as this, where there was no need to rely on it, is totally unacceptable."</p>
     <p>Id. at 965. The court ordered that the writ of habeas corpus be granted.</p>
     <p>We granted certiorari, 472 U.S. 1026 (1985), and now reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Central to the right to a fair trial, guaranteed by the Sixth and Fourteenth Amendments, is the principle that</p>
     <p>"one accused of a crime is entitled to have his guilt or innocence determined solely on the basis of the evidence introduced at trial, and not on grounds of official suspicion, indictment, continued custody, or other circumstances not adduced as proof at trial."</p>
     <p>Taylor v. Kentucky, <a href="../us436/us436-0478.xml#p478">436 U. S. 478</a>, <a href="../us436/us436-0478.xml#p485">436 U. S. 485</a> (1978). This does not mean, however, that every practice tending to single out the accused from everyone else in the courtroom must be struck down. Recognizing that jurors are quite aware that the defendant appearing before them did not arrive there by choice or happenstance, we have never tried, and could never hope, to eliminate from trial procedures every reminder that the State has chosen to marshal its resources against a defendant to punish him for allegedly criminal conduct. To guarantee a defendant's due process rights under ordinary circumstances, our legal system has instead placed primary reliance on the adversary system and the presumption of innocence. When defense counsel vigorously represents his client's interests and the trial judge</p>
@@ -80,7 +80,7 @@
     <p>The chief feature that distinguishes the use of identifiable security officers from courtroom practices we might find inherently prejudicial is the wider range of inferences that a juror might reasonably draw from the officers' presence. While shackling and prison clothes are unmistakable indications of the need to separate a defendant from the community at large, the presence of guards at a defendant's trial need not be interpreted as a sign that he is particularly dangerous or culpable. Jurors may just as easily believe that the officers are there to guard against disruptions emanating from outside the courtroom, or to ensure that tense courtroom exchanges do not erupt into violence. Indeed, it is entirely possible that jurors will not infer anything at all from the presence of the guards. If they are placed at some distance from the accused, security officers may well be perceived more as elements of an impressive drama than as reminders of the defendant's special status. Our society has become inured to the presence of armed guards in most public places; they are doubtless taken for granted so long as their numbers or weaponry do not suggest particular official concern or alarm. See Hardee v. Kuhlman, 581 F.2d 330, 332 (CA2 1978).</p>
     <p>To be sure, it is possible that the sight of a security force within the courtroom might, under certain conditions, "create the impression in the minds of the jury that the defendant is dangerous or untrustworthy." Kennedy v. Cardwell, 487 F.2d 101, 108 (CA6 1973), cert. denied, 416 U.S. 959 (1974). However, "reason, principle, and common human experience," Williams, supra at <a href="../us425/us425-0501.xml#p504">425 U. S. 504</a>, counsel against a presumption that any use of identifiable security guards in the courtroom is inherently prejudicial. In view of the variety of ways in which such guards can be deployed, we believe that a case-by-case approach is more appropriate.</p>
     <n id="p570">570</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>A</p>
     <p>The courtroom security force in this case consisted of four uniformed state troopers, two Deputy Sheriffs, and six Committing Squad officers. Though respondent does not concede that the deployment of the uniformed Committing Squad officers was proper, his focus at every stage of his habeas proceedings has been exclusively on the prejudice he attributes to the four state troopers. The only question we need answer is thus whether the presence of these four uniformed and armed officers was so inherently prejudicial that respondent was thereby denied his constitutional right to a fair trial.</p>
     <p>The Court of Appeals was correct to find that Justice Giannini's assessment of jurors' states of mind cannot be dispositive here. If</p>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us390-0085.html" citation="390 U.S. 85" title="Haynes v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p85">85</n>
-    <h>U.S. Supreme Court</h>
-    <h>Haynes v. United States, <a href="./us390-0085.xml#p85">390 U.S. 85</a> (1968)</h>
-    <h>Haynes v. United States</h>
-    <h>No. 236</h>
-    <h>Argued October 11, 1967</h>
-    <h>Decided January 29, 1968</h>
-    <h><a href="./us390-0085.xml#p85">390 U.S. 85</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE FIFTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Haynes v. United States, <a href="./us390-0085.xml#p85">390 U.S. 85</a> (1968)</h1>
+    <h2>Haynes v. United States</h2>
+    <h2>No. 236</h2>
+    <h4>Argued October 11, 1967</h4>
+    <h4>Decided January 29, 1968</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE FIFTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner was charged by information with violating 26 U.S.C. § 5851 (part of the National Firearms Act, an interrelated statutory system for the taxation of certain classes of firearms used principally by persons engaged in unlawful activities) by knowingly possessing a defined firearm which had not been registered as required by 26 U.S.C. § 5841. Section 5841 obligates the possessor of a defined firearm to register the weapon, unless he made it or acquired it by transfer or importation, and the Act's requirements as to transfers, makings and importations "were complied with." Section 5851 declares unlawful the possession of such firearm which has "at any time" been transferred or made in violation of the Act, or which "has not been registered as required by section 5841." Additionally, § 5851 provides that "possession shall be deemed sufficient evidence to authorize conviction, unless the defendant explains such possession to the satisfaction of the jury." Petitioner moved before trial to dismiss the charge, sufficiently asserting that § 5851 violated his privilege against self-incrimination guaranteed by the Fifth Amendment. The motion was denied, petitioner pleaded guilty, and his conviction was affirmed by the Court of Appeals.</p>
     <p>Held:</p>
     <p>1. Congress, subject to constitutional limitations, has authority to regulate the manufacture, transfer, and possession of firearms, and may tax unlawful activities. Pp. <a href="./us390-0085.xml#p90">390 U. S. 90</a>, <a href="./us390-0085.xml#p98">390 U. S. 98</a>.</p>
@@ -26,7 +26,7 @@
     <p>Petitioner was charged by a three-count information filed in the United States District Court for the Northern District of Texas with violations of the National Firearms Act. 48 Stat. 1236. Two of the counts were subsequently dismissed upon motion of the United States Attorney. The remaining count averred that petitioner, in violation of 26 U.S.C. § 5851, knowingly possessed a firearm, as defined by 26 U.S.C. § 5848(1), which had not been registered with the Secretary of the Treasury or his delegate, as required by 26 U.S.C. § 5841. Petitioner moved before trial to dismiss this count, evidently asserting that § 5851 violated his privilege against self-incrimination, as guaranteed by the Fifth Amendment. [<a id="nf1" href="#fn1">Footnote 1</a>] The motion was denied, and petitioner thereupon</p>
     <n id="p87">87</n>
     <p>entered a plea of guilty. [<a id="nf2" href="#fn2">Footnote 2</a>] The judgment of conviction was affirmed by the Court of Appeals for the Fifth Circuit. 372 F.2d 651. We granted certiorari to examine the constitutionality under the Fifth Amendment of petitioner's conviction. <a href="../us388/us388-0908.xml#p908">388 U. S. 908</a>. For reasons which follow, we reverse.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Section 5851 [<a id="nf3" href="#fn3">Footnote 3</a>] forms part of the National Firearms Act, an interrelated statutory system for the taxation of certain classes of firearms. The Act's requirements are applicable only to shotguns with barrels less than 18 inches long; rifles with barrels less than 16 inches long; other weapons, made from a rifle or shotgun, with an overall length of less than 26 inches; machine guns and other automatic firearms; mufflers and silencers, and other firearms, except pistols and revolvers, "if such weapon is capable of being concealed on the person. . . ." 26 U.S.C. 5848(1); Treas.Reg. § 179.20, 26 CFR § 179.20. These limitations were apparently intended to guarantee that only weapons used principally by persons engaged in unlawful activities would be subjected to taxation. [<a id="nf4" href="#fn4">Footnote 4</a>]</p>
     <n id="p88">88</n>
     <p>Importers, manufacturers, and dealers in such firearms are obliged each year to pay special occupational taxes, and to register with the Secretary of the Treasury or his delegate. 26 U.S.C. §§ 5801, 5802. Separate taxes are imposed on the making and transfer of such firearms by persons other than those obliged to pay the occupational taxes. 26 U.S.C. §§ 5811, 5821. For purposes of these additional taxes, the acts of making and transferring firearms are broadly defined. Section 5821 thus imposes a tax on the making of a firearm "whether by manufacture, putting together, alteration, any combination thereof, or otherwise." Similarly, to transfer encompasses "to sell, assign, pledge, lease, loan, give away, or otherwise dispose of" a firearm. 26 U.S.C. § 5848(10).</p>
@@ -36,9 +36,9 @@
     <p>Failure to comply with any of the Act's requirements is made punishable by fines and imprisonment. 26 U.S.C. § 5861. In addition, § 5851 creates a series of supplementary offenses; it declares unlawful the possession of any firearm which has "at any time" been transferred or made in violation of the Act's provisions, or which "has not been registered as required by section 5841." Finally, § 5851 provides that, in prosecutions conducted under that section,</p>
     <p>"possession shall be deemed sufficient evidence to authorize conviction, unless the defendant explains such possession to the satisfaction of the jury. "</p>
     <n id="p90">90</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>At the outset, it must be emphasized that the issue in this case is not whether Congress has authority under the Constitution to regulate the manufacture, transfer, or possession of firearms; nor is it whether Congress may tax activities which are, wholly or in part, unlawful. Rather, we are required to resolve only the narrow issue of whether enforcement of § 5851 against petitioner, despite his assertion of the privilege against self-incrimination, is constitutionally permissible. The questions necessary for decision are two: first, whether petitioner's conviction under § 5851 is meaningfully distinguishable from a conviction under § 5841 for failure to register possession of a firearm, and second, if it is not, whether satisfaction of petitioner's obligation to register under § 5841 would have compelled him to provide information incriminating to himself. If, as petitioner urges, his conviction under § 5851 is essentially indistinguishable from a conviction premised directly upon a failure to register under § 5841, and if a prosecution under § 5841 would have punished petitioner for his failure to incriminate himself, it would follow that a proper claim of privilege should have provided a full defense to this prosecution. [<a id="nf6" href="#fn6">Footnote 6</a>] To these questions we turn.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The first issue is whether the elements of the offense under § 5851 of possession of a firearm "which has not been registered as required by section 5841" differ in any significant respect from those of the offense under § 5841 of failure to register possession of a firearm. The United States contends that the two offenses, despite the similarity</p>
     <n id="p91">91</n>
     <p>of their statutory descriptions, serve entirely different purposes, in that the registration clause of § 5851 is intended to punish acceptance of the possession of a firearm which, despite the requirements of § 5841, was never registered by any prior possessor, while § 5841 punishes only a present possessor who has failed to register the fact of his own possession. If this construction is correct, nothing in a prosecution under § 5851 would turn on whether the present possessor had elected to register; his offense would have been complete when he accepted possession of a firearm which no previous possessor had registered. We need not determine whether this construction would be free from constitutional difficulty under the Fifth Amendment, for we have concluded that § 5851 cannot properly be construed as the United States has urged. [<a id="nf7" href="#fn7">Footnote 7</a>]</p>
@@ -60,7 +60,7 @@
     <n id="p95">95</n>
     <p>requirement imposed by § 5841 must be understood also to inhere in prosecutions under § 5851. Two additional distinctions between the offenses have been suggested, and we must examine them.</p>
     <p>First, it has been said that the offenses differ in emphasis in that § 5851 chiefly punishes possession, while § 5841 punishes a failure to register. Cf. Frye v. United States, 315 F.2d 491, 494; Castellano v. United States, 350 F.2d 852, 854. We find this supposed distinction entirely unpersuasive, for, as we have found, the possession of a firearm and a failure to register are equally fundamental ingredients of both offenses. Second, it has been suggested that § 5841 creates a "status of unlawful possession" which, if assumed by an individual, denies to him the protection of the constitutional privilege. Castellano v. United States, supra, at 854. It has evidently been thought to follow that the privilege may be claimed in prosecutions under § 5841, but not in those under § 5851. This is no less unpersuasive; for reasons discussed in Marchetti v. United States, decided today, ante at <a href="./us390-0039.xml#p51">390 U. S. 51</a>-52, we decline to hold that the performance of an unlawful act, even if there exists a statutory condition that its commission constitutes a waiver of the constitutional privilege, suffices to deprive an accused of the privilege's protection. We hold that petitioner's conviction under the registration clause of § 5851 is not properly distinguishable from a conviction under § 5841 for failure to register, and that both offenses must be deemed subject to any constitutional deficiencies arising under the Fifth Amendment from the obligation to register.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>We must now consider whether, as petitioner contends, satisfaction of his obligation to register would have compelled him to provide information incriminating to himself. [<a id="nf9" href="#fn9">Footnote 9</a>]</p>
     <n id="p96">96</n>
     <p>We must first mark the terms of the registration requirement. The obligation to register is conditioned simply upon possession of a firearm, within the meaning of § 5848(1). Not every possessor of a firearm must, however, register; one who made the firearm, or acquired it by transfer or importation, need not register if the Act's provisions as to transfers, makings, and importations "were complied with." If those requirements were not met, or if the possessor did not make the firearm, and did not acquire it by transfer or importation, he must furnish the Secretary of the Treasury with his name, address, the place where the firearm is usually kept, and the place of his business or employment. Further, he must indicate his date of birth, social security number, and whether he has ever been convicted of a felony. Finally, he must provide a full description of the firearm. See 26 U.S.C. § 5841; Treas.Reg. § 179.120; Internal Revenue Service Form 1 (Firearms).</p>
@@ -78,7 +78,7 @@
     <n id="p100">100</n>
     <p>of 26 U.S.C. § 6107 [<a id="nf14" href="#fn14">Footnote 14</a>] are applicable to the special occupational taxes imposed by § 5801, although not, apparently, to the making and transfer taxes imposed by §§ 5811 and 5821. In these circumstances, we decline, for reasons indicated in Marchetti, supra, and Grosso, supra, to impose the restrictions urged by the United States.</p>
     <p>We hold that a proper claim of the constitutional privilege against self-incrimination provides a full defense to prosecutions either for failure to register a firearm under § 5841 or for possession of an unregistered firearm under § 5851.</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>It remains only to determine the appropriate disposition of this case. Petitioner has seasonably and consistently asserted a claim of privilege, but the courts below, believing the privilege inapplicable to prosecutions under § 5851, evidently did not assess the claim's merits. It would therefore ordinarily be necessary to remand the cause to the District Court, with instructions to examine the merits of the claim. We note, however, that there can be no suggestion here that petitioner has waived his privilege, and that, moreover, the United States has conceded that petitioner's privilege against</p>
     <n id="p101">101</n>
     <p>self-incrimination must be found to have been impermissibly infringed if his contentions as to the proper construction of §§ 5851 and 5841 are accepted. Brief for the United States 8. Accordingly, the District Court would be obliged in any additional proceeding to conclude that "there is reasonable ground to apprehend danger to the witness from his being compelled to answer." Reg. v. Boyes, supra, at 330. It follows that any proceeding in the District Court must inevitably result in the reversal of petitioner's conviction. We have plenary authority under 28 U.S.C. § 2106 to make such disposition of the case "as may be just under the circumstances." See Yates v. United States, <a href="../us354/us354-0298.xml#p298">354 U. S. 298</a>, <a href="../us354/us354-0298.xml#p327">354 U. S. 327</a>-331; Grosso v. United States, supra. It would be neither just nor appropriate to require the parties and the District Court to commence an entirely needless additional proceeding. Accordingly, the judgment of the Court of Appeals is</p>
@@ -105,7 +105,7 @@
     </f>
     <f n="6"><a id="fn6" href="#nf6">Footnote 6</a>
       <p>Indeed, so much is recognized by the Government; it has stated that</p>
-      <p>"[w]e concede that, if petitioner's reading of the two provisions were right . . . , petitioner's conviction under Section 5851 would not be valid."</p>
+      <p>"[w]e concede that, if petitioner's reading of the two provisions were right . . ., petitioner's conviction under Section 5851 would not be valid."</p>
       <p>Brief for the United States 8.</p>
     </f>
     <f n="7"><a id="fn7" href="#nf7">Footnote 7</a>

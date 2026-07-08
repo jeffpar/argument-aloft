@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us490-0107.html" citation="490 U.S. 107" title="Massachusetts v. Morash">
   <opinion type="Opinions &amp; Dissents">
     <n id="p107">107</n>
-    <h>U.S. Supreme Court</h>
-    <h>Massachusetts v. Morash, <a href="./us490-0107.xml#p107">490 U.S. 107</a> (1989)</h>
-    <h>Massachusetts v. Morash</h>
-    <h>No. 88-32</h>
-    <h>Argued February 21, 1989</h>
-    <h>Decided April 18, 1989</h>
-    <h><a href="./us490-0107.xml#p107">490 U.S. 107</a></h>
-    <h>CERTIORARI TO THE SUPREME JUDICIAL COURT OF</h>
-    <h>MASSACHUSETTS</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Massachusetts v. Morash, <a href="./us490-0107.xml#p107">490 U.S. 107</a> (1989)</h1>
+    <h2>Massachusetts v. Morash</h2>
+    <h2>No. 88-32</h2>
+    <h4>Argued February 21, 1989</h4>
+    <h4>Decided April 18, 1989</h4>
+    <h2>CERTIORARI TO THE SUPREME JUDICIAL COURT OF</h2>
+    <h2>MASSACHUSETTS</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner Commonwealth issued criminal complaints charging that, in failing to compensate two discharged bank vice presidents for vacation time they accrued but did not use, respondent bank president had violated a Massachusetts statute making it unlawful for an employer not to pay a discharged employee his full wages, including vacation payments, on the date of his discharge. Respondent moved to dismiss on the ground that the bank's vacation policy constituted an "employee welfare benefit plan" under § 3(1) of the Employee Retirement Income Security Act of 1974 (ERISA), and that the prosecution therefore ran afoul of § 514(a) of ERISA, which preempts "any and all State laws insofar as they . . . relate to any employee benefit plan." The trial court reported the preemption question to the Massachusetts Appeals Court for decision. For the purpose of answering the reported question, the parties stipulated that the bank had agreed to pay employees in lieu of unused vacation time, and that such payments were made out of general assets in lump sums upon employment termination. The Supreme Judicial Court of Massachusetts transferred the case to its docket on its own initiative and held that the bank's policy constituted an "employee welfare benefit plan" and that the prosecution was therefore preempted.</p>
     <p>Held: A policy of paying discharged employees for their unused vacation time does not constitute an "employee welfare benefit plan" within the meaning of § 3(1) of ERISA, and a criminal action to enforce that policy is therefore not foreclosed by § 514(a). Pp. <a href="./us490-0107.xml#p112">490 U. S. 112</a>-121.</p>
     <p>(a) Although § 3(1) defines an "employee welfare benefit plan" as "any plan . . . maintained for the purpose of providing . . . vacation benefits," the reference to such benefits -- when viewed in the context of the many other, related types of welfare benefits listed in the section and in light of ERISA's primary purposes of preventing the mismanagement of accumulated plan funds and the failure to pay benefits from such funds -- must be understood not to relate to ordinary vacation payments, which typically are fixed, due at known times, not dependent on contingencies outside the employee's control, and payable from the employer's general assets; rather, it encompasses only those vacation benefit funds which accumulate over a period of time and in which either the employee's right to a benefit is contingent upon some future occurrence or the employee</p>
@@ -23,7 +23,7 @@
     <n id="p109">109</n>
     <p>JUSTICE STEVENS delivered the opinion of the Court.</p>
     <p>This case requires us to determine whether a company's policy of paying its discharged employees for their unused vacation time constitutes an "employee welfare benefit plan" within the meaning of § 3(1) of the Employee Retirement Income Security Act of 1974 (ERISA or Act), 88 Stat. 833, as amended, 29 U.S.C. § 1002(1), and whether a criminal action to enforce that policy is foreclosed by the Act's broad preemption provision.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In May, 1986, petitioner, the Commonwealth of Massachusetts, issued two complaints in the Boston Municipal Court against respondent, Richard N. Morash, president of the Yankee Bank for Finance and Savings (Bank). The complaints charged Morash with criminal violations of the Massachusetts Payment of Wages Statute, Mass.Gen.Laws § 149:148 (1987). [<a id="nf1" href="#fn1">Footnote 1</a>]</p>
     <p>Under the Massachusetts law, an employer is required to pay a discharged employee his full wages, including holiday or vacation payments, on the date of discharge. Similar wage payment statutes have been enacted by 47 other States, [<a id="nf2" href="#fn2">Footnote 2</a>] the</p>
     <n id="p110">110</n>
@@ -35,7 +35,7 @@
     <n id="p112">112</n>
     <p>had excepted payments out of an employer's general assets for unused vacation time from the definition of a welfare plan because, even if regular vacation pay was not included in ERISA, the lump-sum payment for unused vacation time upon discharge was akin to severance pay covered by ERISA. The fact that it would be necessary for an employer to maintain records relating to its employees' unused vacation time, plus the need to accumulate funds to pay the benefits, made it appropriate to treat the employer's promise to its employees as a "plan." The court concluded that the Massachusetts statute related to the plan within the meaning of § 514, and was not excluded from its coverage by the provision saving from preemption a "generally applicable criminal law." ERISA § 514(b)(4), 29 U.S.C. § 1144(b)(4).</p>
     <p>Because the federal question decided by the Supreme Judicial Court is an important one over which the courts have disagreed, [<a id="nf7" href="#fn7">Footnote 7</a>] we granted certiorari, 488 U.S. 815 (1988). We now reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>ERISA was passed by Congress in 1974 to safeguard employees from the abuse and mismanagement of funds that had been accumulated to finance various types of employee benefits. Fort Halifax Packing Co. v. Coyne, <a href="../us482/us482-0001.xml#p1">482 U. S. 1</a>, <a href="../us482/us482-0001.xml#p15">482 U. S. 15</a></p>
     <n id="p113">113</n>
     <p>(1987). The "comprehensive and reticulated statute," Nachman Corp. v. Pension Benefit Guaranty Corporation, <a href="../us446/us446-0359.xml#p359">446 U. S. 359</a>, <a href="../us446/us446-0359.xml#p361">446 U. S. 361</a> (1980), contains elaborate provisions for the regulation of employee benefit plans. It sets forth reporting and disclosure obligations for plans, imposes a fiduciary standard of care for plan administrators, and establishes schedules for the vesting and accrual of pension benefits. Metropolitan Life Insurance Co. v. Massachusetts, <a href="../us471/us471-0724.xml#p724">471 U. S. 724</a>, <a href="../us471/us471-0724.xml#p732">471 U. S. 732</a> (1985). Suits to enforce the terms of the statute and to recover welfare benefits wrongfully withheld arise under federal law, and can be brought in federal court without regard for the amount in controversy. See Firestone Tire &amp; Rubber Co. v. Bruch, <a href="../us489/us489-0101.xml#p101">489 U. S. 101</a>, <a href="../us489/us489-0101.xml#p108">489 U. S. 108</a> (1989).</p>
@@ -66,7 +66,7 @@
     <p>A contrary interpretation, including routine vacation pay policies within ERISA, would have profound consequences. Most employers in the United States provide some type of vacation benefit to their employees. [<a id="nf15" href="#fn15">Footnote 15</a>] ERISA coverage would put all these employers to the choice of complying with the statute's detailed requirements for reporting and disclosure or discontinuing the practice of compensating employees for unused vacation time. In addition, the extension of ERISA to claims for vacation benefits would vastly expand the jurisdiction of the federal courts, providing a federal</p>
     <n id="p119">119</n>
     <p>forum for any employee with a vacation grievance. [<a id="nf16" href="#fn16">Footnote 16</a>] Finally, such an interpretation would also displace the extensive state regulation of the vesting, funding, and participation rights of vacation benefits; because ERISA's vesting and funding requirements do not apply to welfare benefit plans, ERISA §§ 201(1), 301(a), as amended, 29 U.S.C. §§ 1051(1), 1081(a), employees would actually receive less protection if ERISA were applied to ordinary vacation wages paid from the employer's general assets. See Note, 87 Colum.L.Rev. 1702, 1718 (1987). [<a id="nf17" href="#fn17">Footnote 17</a>] The States have traditionally regulated the payment of wages, including vacation pay. Absent any indication that Congress intended such far-reaching consequences, we are reluctant to so significantly interfere with "the separate spheres of governmental authority preserved in our federalist system." Fort Halifax Packing Co. v. Coyne, 482 U.S. at <a href="../us482/us482-0001.xml#p19">482 U. S. 19</a>.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Respondent argues that, even if the Department of Labor regulation exempting vacation payments from ERISA constitutes a reasonable construction of the Act, the Bank's policy did not constitute a payroll practice under the regulation because employees were allowed, at their option, to accumulate vacation time and defer payment for such time until termination. See Brief for Respondent 11. We do not agree. Although neither of the Secretary's regulations explicitly covers the precise practice at issue in this case, the reasons for treating holiday and weekend premiums and payments of compensation while an employee is on vacation as "payroll</p>
     <n id="p120">120</n>
     <p>practices" are equally applicable to the payment of an employee's regular wages for accrued and unused vacation time upon discharge. If the employees in this case had chosen to take a vacation, the vacation days would have been available and the vacation benefit would have been excluded under the regulation; the benefit cannot be transformed into an employee welfare benefit plan under ERISA solely because the employees did not use their vacation days prior to their formal termination of employment. See Shea v. Wells Fargo Armored Service Corp., 810 F.2d 372, 377 (CA2 1987).</p>

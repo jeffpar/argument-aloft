@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us494-0922.html" citation="494 U.S. 922" title="IRS v. FLRA">
   <opinion type="Opinions &amp; Dissents">
     <n id="p922">922</n>
-    <h>U.S. Supreme Court</h>
-    <h>IRS v. FLRA, <a href="./us494-0922.xml#p922">494 U.S. 922</a> (1990)</h>
-    <h>Department of Treasury, Internal Revenue Service</h>
-    <h>v. Federal Labor Relations Authority</h>
-    <h>No. 88-2123</h>
-    <h>Argued Jan. 8, 1990</h>
-    <h>Decided April 17, 1990</h>
-    <h><a href="./us494-0922.xml#p922">494 U.S. 922</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE DISTRICT OF COLUMBIA CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>IRS v. FLRA, <a href="./us494-0922.xml#p922">494 U.S. 922</a> (1990)</h1>
+    <h2>Department of Treasury, Internal Revenue Service</h2>
+    <h2>v. Federal Labor Relations Authority</h2>
+    <h2>No. 88-2123</h2>
+    <h4>Argued Jan. 8, 1990</h4>
+    <h4>Decided April 17, 1990</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE DISTRICT OF COLUMBIA CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>During collective bargaining negotiations, respondent National Treasury Employees Union (NTEU) proposed that contractual grievance and arbitration provisions be designated as the "internal appeals procedure" required for employee complaints by an Office of Management and Budget (OMB) Circular relating to the "contracting out" of work. Petitioner Internal Revenue Service (IRS) refused to bargain over the proposal, claiming that its subject matter was nonnegotiable under Title VII of the Civil Service Reform Act of 1978, 5 U.S.C. § 7101 et seq. The Federal Labor Relations Authority (FLRA), which is charged with administering the Act, held that the IRS was required to negotiate over the NTEU proposal by § 7114, which requires agency management and employee unions to bargain in good faith to reach an agreement, and by § 7121, which specifies that such agreements must contain grievance-settlement procedures.</p>
     <p>Held: The FLRA erred in holding that the Act requires the IRS to bargain over the NTEU proposal. Pp. <a href="./us494-0922.xml#p926">494 U. S. 926</a>-934.</p>
     <p>(a) The plain text of § 7106(a) -- which provides that</p>
@@ -28,7 +28,7 @@
     <n id="p924">924</n>
     <p>Justice SCALIA delivered the opinion of the Court.</p>
     <p>In this case, we review the determination of the Federal Labor Relations Authority (FLRA) that, under Title VII of the Civil Service Reform Act of 1978, 5 U.S.C. § 7101 et seq., the Internal Revenue Service (IRS) must bargain with the National Treasury Employees Union (NTEU) over a proposed contract provision subjecting to grievance and arbitration procedures claims that the IRS had failed to comply with an Office of Management and Budget (OMB) Circular relating to the "contracting out" of work.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Title VII of the Civil Service Reform Act establishes a collective bargaining system for federal agencies and their employees, under the administration of the FLRA. The Act recognizes the right of federal employees to form and join unions, 5 U.S.C. § 7102, and imposes upon management officials and employee unions the duty to "negotiate in good faith for the purposes of arriving at a collective bargaining agreement." 5 U.S.C. § 7114(a)(4). A collective bargaining agreement must provide procedures "for the settlement of grievances," 5 U.S.C. § 7121(a)(1), which are defined as</p>
     <p>"complaint[s] . . . concerning . . . any claimed violation, misinterpretation, or misapplication of any law, rule, or regulation affecting conditions of employment,"</p>
     <p>5 U.S.C. § 7103(a)(9)(C)(ii), and the agreement must</p>
@@ -42,7 +42,7 @@
     <p>by the Act to "resolv[e] issues relating to the duty to bargain." 5 U.S.C. §§ 7105(a)(2)(E), § 7117(c).</p>
     <p>The FLRA held that the IRS was required by §§ 7114 and 7121 of the Act to negotiate over the proposal. In its view, the IRS's failure to comply with Circular A-76 would be a "violation . . . of [a] law, rule, or regulation" affecting "conditions of employment," so that an employee complaint on the matter would qualify as a "grievance" for which procedures must be specified in the collective bargaining agreement. 27 F.L.R.A. 976, 978-979 (1987). The FLRA found that the union's proposal was not precluded by § 7106(a)'s reservation of management authority over contracting-out determinations, because it "would only contractually recognize external limitations on management's right." 27 F.L.R.A., at 978. [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
     <p>The Court of Appeals for the District of Columbia affirmed the Authority's decision. 274 U.S.App.D.C. 135, 862 F.2d 880 (1988). We granted certiorari. 493 U.S. 807 (1989).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The management rights provision of the Act provides, in pertinent part:</p>
     <p>"(a) [N]othing in this chapter [i.e., the Act] shall affect the authority of any management official of any agency -- "</p>
     <p>"* * * *"</p>

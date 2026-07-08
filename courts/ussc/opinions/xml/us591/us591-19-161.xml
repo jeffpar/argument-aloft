@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us591-19-161.html" citation="591 U.S. 19-161" title="Department of Homeland Security v. Thuraissigiam">
   <opinion type="Opinion" author="Alito">
     <p>NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 19–161</p>
-    <p>_________________</p>
     <p>DEPARTMENT OF HOMELAND SECURITY, et al., PETITIONERS v. VIJAYAKUMAR THURAISSIGIAM</p>
     <p>on writ of certiorari to the united states court of appeals for the ninth circuit</p>
     <p>[June 25, 2020]</p>
@@ -131,9 +130,7 @@
   </opinion>
   <opinion type="Concurrence" author="Thomas">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 19–161</p>
-    <p>_________________</p>
     <p>DEPARTMENT OF HOMELAND SECURITY, et al., PETITIONERS v. VIJAYAKUMAR THURAISSIGIAM</p>
     <p>on writ of certiorari to the united states court of appeals for the ninth circuit</p>
     <p>[June 25, 2020]</p>
@@ -159,7 +156,7 @@
     <p>Although the ratification debates are not especially illuminating on the meaning of a suspension, they provide further support for this understanding. Luther Martin wrote that the Government, upon “suspending the habeas corpus act may seize upon the persons of those advocates of freedom, who have had virtue and resolution enough to excite the opposition, and may imprison them during its pleasure.” Genuine Information VIII, reprinted in 15 Documentary History 434. Another essayist, writing in a Boston newspaper, explained that suspension would allow “the President, or President and Senate, as Congress shall think proper to empower, to take up and confine for any cause, or for any suspicion, or for no cause, perhaps any person, he or they shall think proper. 5 id., at 712 (J. Kaminski &amp; G. Saladino eds. 1998).</p>
     <p>In sum, a suspension was not necessarily an express limitation on the availability of the writ of habeas corpus. Rather, it appears to have been a grant of power to detain based on suspicion of a crime or dangerousness without bail or trial.</p>
     <p>IV</p>
-    <p>Under this interpretation, 8 U. S. C. §1252 likely does not suspend the writ of habeas corpus. To be placed in expedited removal, an immigration officer must “determin[e]” that an alien is “inadmissible.” §1225(b)(1)(A)(i). That determination is based in part on the alien’s lack of valid entry documentation and failure to satisfy a 2-year continuous physical presence requirement, not on mere suspicion or dangerousness. §§1225(b)(1)(A)(i), (iii)(II); §1182(a)(7). An alien has the opportunity to avoid expedited removal by demonstrating a “credible fear of persecution.” §§1225(b)(1)(B)(iii), (v). If the alien is unsuccessful, he may seek “[j]udicial review . . . in habeas corpus proceedings” of “whether [he] is an alien”; “whether [he] was ordered removed” under expedited removal; and “whether [he] can prove by a preponderance of the evidence that [he] is an alien lawfully admitted for permanent residence, has been admitted as a refugee . . . , or has been granted asylum” and “such status [has not] been terminated.” §1252(e)(2).</p>
+    <p>Under this interpretation, 8 U. S. C. §1252 likely does not suspend the writ of habeas corpus. To be placed in expedited removal, an immigration officer must “determin[e]” that an alien is “inadmissible.” §1225(b)(1)(A)(i). That determination is based in part on the alien’s lack of valid entry documentation and failure to satisfy a 2-year continuous physical presence requirement, not on mere suspicion or dangerousness. §§1225(b)(1)(A)(i), (iii)(II); §1182(a)(7). An alien has the opportunity to avoid expedited removal by demonstrating a “credible fear of persecution.” §§1225(b)(1)(B)(iii), (v). If the alien is unsuccessful, he may seek “[j]udicial review . . . in habeas corpus proceedings” of “whether [he] is an alien”; “whether [he] was ordered removed” under expedited removal; and “whether [he] can prove by a preponderance of the evidence that [he] is an alien lawfully admitted for permanent residence, has been admitted as a refugee . . ., or has been granted asylum” and “such status [has not] been terminated.” §1252(e)(2).</p>
     <p>This statute bears little resemblance to a suspension as that term was understood at the founding. It does not allow the executive to detain based on mere suspicion of a crime or dangerousness. Rather, it requires a finding that the detainee lacks valid documentation and is not eligible for asylum. It even expressly permits habeas relief for a detainee who does not meet certain criteria for expedited removal.</p>
     <p>Some may wish that the Suspension Clause were broader. Perhaps for this reason, our precedents have departed from the original understanding of the Suspension Clause. See, e.g., Boumediene v. Bush, <a href="../us553/us553-0723.xml#p723">553 U.S. 723</a>, 826–850 (2008) (Scalia, J., dissenting); St. Cyr, 533 U. S., at 336–341 (Scalia, J., dissenting). But this understanding does contain an important guarantee of individual liberty by limiting the circumstances in which Congress may give the executive power to detain without bail or trial based on suspicion of a crime or dangerousness. In this case, that guarantee has not been violated.</p>
     <f n="1"><a id="fn2-1" href="#nf2-1">1</a> I express no view on the question whether respondent is even entitled to the privilege of the writ as an unadmitted alien.</f>
@@ -169,9 +166,7 @@
   </opinion>
   <opinion type="Concurrence" author="Breyer">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 19–161</p>
-    <p>_________________</p>
     <p>DEPARTMENT OF HOMELAND SECURITY, et al., PETITIONERS v. VIJAYAKUMAR THURAISSIGIAM</p>
     <p>on writ of certiorari to the united states court of appeals for the ninth circuit</p>
     <p>[June 25, 2020]</p>
@@ -205,9 +200,7 @@
   </opinion>
   <opinion type="Dissent" author="Sotomayor">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 19–161</p>
-    <p>_________________</p>
     <p>DEPARTMENT OF HOMELAND SECURITY, et al., PETITIONERS v. VIJAYAKUMAR THURAISSIGIAM</p>
     <p>on writ of certiorari to the united states court of appeals for the ninth circuit</p>
     <p>[June 25, 2020]</p>

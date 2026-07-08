@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us488-0902.html" citation="488 U.S. 902" title="LEGO v. ILLINOIS">
   <opinion type="Opinions &amp; Dissents">
     <n id="p902">902</n>
-    <h>U.S. Supreme Court</h>
-    <h>LEGO v. ILLINOIS , <a href="./us488-0902.xml#p902">488 U.S. 902</a> (1988)</h>
-    <h> <a href="./us488-0902.xml#p902">488 U.S. 902</a></h>
-    <h>Donald R. LEGO v. ILLINOIS. No. 88-5319.</h>
-    <h>Supreme Court of the United States</h>
-    <h>October 11, 1988</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>LEGO v. ILLINOIS, <a href="./us488-0902.xml#p902">488 U.S. 902</a> (1988)</h1>
+    <h2>Donald R. LEGO v. ILLINOIS. No. 88-5319.</h2>
+    <h2>Supreme Court of the United States</h2>
+    <h4>October 11, 1988</h4>
     <p>On petition for writ of certiorari to the Supreme Court of Illinois.</p>
     <p>The petition for a writ of certiorari is denied.</p>
     <p>Justice MARSHALL, with whom Justice BRENNAN joins, dissenting.</p>
@@ -26,7 +26,7 @@
     <n id="p905">905</n>
     <p>on state law, the Court may consider the retroactivity of that decision because the Illinois Supreme Court looked solely to our precedents in making its retroactivity determination.</p>
     <p>Because the instant case and People v. Harris, supra, raise a substantial issue of federal retroactivity law, I would grant the petitions for certiorari in both cases. I dissent.</p>
-    <h>Footnotes</h>
+    <h2>Footnotes</h2>
     <p>[Footnote *] Indeed, the only question for the state court in Harris was whether the applicable retroactivity precedent for a post-Griffith claim based on Zehr is Griffith itself or a series of cases beginning with Linkletter v. Walker, <a href="../us381/us381-0618.xml#p618">381 U.S. 618</a> (1965), and culminating with United States v. Johnson, <a href="../us457/us457-0537.xml#p537">457 U.S. 537</a> (1982).</p>
   </opinion>
 </case>

@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us594-20-107.html" citation="594 U.S. 20-107" title="Cedar Point Nursery v. Hassid">
   <opinion type="Opinion" author="Roberts">
     <p>NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 20–107</p>
-    <p>_________________</p>
     <p>CEDAR POINT NURSERY, et al., PETITIONERS v. VICTORIA HASSID, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the ninth circuit</p>
     <p>[June 23, 2021]</p>
@@ -52,7 +51,7 @@
     <p>D</p>
     <p>In its thoughtful opinion, the dissent advances a distinctive view of property rights. The dissent encourages readers to consider the issue “through the lens of ordinary English,” and contends that, so viewed, the “regulation does not appropriate anything.” Post, at 3, 5. Rather, the access regulation merely “regulates . . . the owners’ right to exclude,” so it must be assessed “under Penn Central’s fact-intensive test.” Post, at 2, 5. “A right to enter my woods only on certain occasions,” the dissent elaborates, “is a taking only if the regulation allowing it goes ‘too far.’ ” Post, at 11. The dissent contends that our decisions in Causby, Portsmouth, and Kaiser Aetna applied just such a flexible approach, under which the Court “balanced several factors” to determine whether the physical invasions at issue effected a taking. Post, at 9–11. According to the dissent, this kind of latitude toward temporary invasions is a practical necessity for governing in our complex modern world. See post, at 11–12.</p>
     <p>With respect, our own understanding of the role of property rights in our constitutional order is markedly different. In “ordinary English” “appropriation” means “taking as one’s own,” 1 Oxford English Dictionary 587 (2d ed. 1989) (emphasis added), and the regulation expressly grants to labor organizers the “right to take access,” Cal. Code Regs., tit. 8, §20900(e)(1)(C) (emphasis added). We cannot agree that the right to exclude is an empty formality, subject to modification at the government’s pleasure. On the contrary, it is a “fundamental element of the property right,” Kaiser Aetna, 444 U. S., at 179–180, that cannot be balanced away. Our cases establish that appropriations of a right to invade are per se physical takings, not use restrictions subject to Penn Central: “[W]hen [government] planes use private airspace to approach a government airport, [the government] is required to pay for that share no matter how small.” Tahoe-Sierra, 535 U. S., at 322 (citing Causby). And while Kaiser Aetna may have referred to the test from Penn Central, see 444 U. S., at 174–175, the Court concluded categorically that the government must pay just compensation for physical invasions, see id., at 180 (citing Causby and Portsmouth). With regard to the complexities of modern society, we think they only reinforce the importance of safeguarding the basic property rights that help preserve individual liberty, as the Founders explained. See supra, at 5.</p>
-    <p>In the end, the dissent’s permissive approach to property rights hearkens back to views expressed (in dissent) for decades. See, e.g., Nollan, 483 U. S., at 864 (Brennan, J., dissenting) (“[The Court’s] reasoning is hardly suited to the complex reality of natural resource protection in the 20th century.”); Loretto, 458 U. S., at 455 (Blackmun, J., dissenting) (“[T]oday’s decision . . . represents an archaic judicial response to a modern social problem.”); Causby, 328 U. S., at 275 (Black, J., dissenting) (“Today’s opinion is, I fear, an opening wedge for an unwarranted judicial interference with the power of Congress to develop solutions for new and vital national problems.”). As for today’s considered dissent, it concludes with “Better the devil we know . . . ,” post, at 16, but its objections, to borrow from then-Justice Rehnquist’s invocation of Wordsworth, “bear[ ] the sound of ‘Old, unhappy, far-off things, and battles long ago,’ ” Kaiser Aetna, 444 U. S., at 177.</p>
+    <p>In the end, the dissent’s permissive approach to property rights hearkens back to views expressed (in dissent) for decades. See, e.g., Nollan, 483 U. S., at 864 (Brennan, J., dissenting) (“[The Court’s] reasoning is hardly suited to the complex reality of natural resource protection in the 20th century.”); Loretto, 458 U. S., at 455 (Blackmun, J., dissenting) (“[T]oday’s decision . . . represents an archaic judicial response to a modern social problem.”); Causby, 328 U. S., at 275 (Black, J., dissenting) (“Today’s opinion is, I fear, an opening wedge for an unwarranted judicial interference with the power of Congress to develop solutions for new and vital national problems.”). As for today’s considered dissent, it concludes with “Better the devil we know . . .,” post, at 16, but its objections, to borrow from then-Justice Rehnquist’s invocation of Wordsworth, “bear[ ] the sound of ‘Old, unhappy, far-off things, and battles long ago,’ ” Kaiser Aetna, 444 U. S., at 177.</p>
     <p>III</p>
     <p>The Board, seconded by the dissent, warns that treating the access regulation as a per se physical taking will endanger a host of state and federal government activities involving entry onto private property. See post, at 11–14. That fear is unfounded.</p>
     <p>First, our holding does nothing to efface the distinction between trespass and takings. Isolated physical invasions, not undertaken pursuant to a granted right of access, are properly assessed as individual torts rather than appropriations of a property right. This basic distinction is firmly grounded in our precedent. See Portsmouth, 260 U. S., at 329–330 (“[W]hile a single act may not be enough, a continuance of them in sufficient number and for a sufficient time may prove [the intent to take property]. Every successive trespass adds to the force of the evidence.”); 1 P. Nichols, The Law of Eminent Domain §112, p. 311 (1917) (“[A] mere occasional trespass would not constitute a taking.”). And lower courts have had little trouble applying it. See, e.g., Hendler v. United States, 952 F.2d 1364, 1377 (CA Fed. 1991) (identifying a “truckdriver parking on someone’s vacant land to eat lunch” as an example of a mere trespass).</p>
@@ -68,9 +67,7 @@
   </opinion>
   <opinion type="Concurrence" author="Kavanaugh">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 20–107</p>
-    <p>_________________</p>
     <p>CEDAR POINT NURSERY, et al., PETITIONERS v. VICTORIA HASSID, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the ninth circuit</p>
     <p>[June 23, 2021]</p>
@@ -83,9 +80,7 @@
   </opinion>
   <opinion type="Dissent" author="Breyer">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 20–107</p>
-    <p>_________________</p>
     <p>CEDAR POINT NURSERY, et al., PETITIONERS v. VICTORIA HASSID, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the ninth circuit</p>
     <p>[June 23, 2021]</p>

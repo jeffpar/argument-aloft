@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us466-0364.html" citation="466 U.S. 364" title="Schneider Moving &amp;amp; Storage v. Robbins">
   <opinion type="Opinions &amp; Dissents">
     <n id="p364">364</n>
-    <h>U.S. Supreme Court</h>
-    <h>Schneider Moving &amp; Storage v. Robbins, <a href="./us466-0364.xml#p364">466 U.S. 364</a> (1984)</h>
-    <h>Schneider Moving &amp; Storage Co. v. Robbins</h>
-    <h>No. 82-1860</h>
-    <h>Argued February 21, 1984</h>
-    <h>Decided April 18, 1984<a href="./us466-0364.xml#p364">466 U.S. 364</a>ast|&gt;*</h>
-    <h><a href="./us466-0364.xml#p364">466 U.S. 364</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE EIGHTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Schneider Moving &amp; Storage v. Robbins, <a href="./us466-0364.xml#p364">466 U.S. 364</a> (1984)</h1>
+    <h2>Schneider Moving &amp; Storage Co. v. Robbins</h2>
+    <h4>No. 82-1860</h4>
+    <h4>Argued February 21, 1984</h4>
+    <h4>Decided April 18, 1984<a href="./us466-0364.xml#p364">466 U.S. 364</a>ast|&gt;*</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE EIGHTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner employers entered into collective bargaining agreements with a union that required them to participate in two multiemployer employee benefit trust funds. The trust agreements required petitioners to contribute to the funds according to the applicable terms of their collective bargaining agreements. The terms of the trust agreements were incorporated by reference into the collective bargaining agreements and authorized respondent trustees to initiate</p>
     <p>"any legal proceedings [that they] in their discretion deem in the best interest of the Fund to effectuate the collection or preservation of contributions."</p>
     <p>Respondents filed complaints in Federal District Court, claiming that petitioners failed to meet their contribution requirements, and requesting the court to order an accounting and immediate payment of all sums thereby determined to be due. Petitioners defended on the ground that the complaints raised disputed interpretations under the collective bargaining agreements, that first must be submitted to arbitration. The bargaining agreements required arbitration of</p>
@@ -28,13 +28,13 @@
     <p>JUSTICE POWELL delivered the opinion of the Court.</p>
     <p>The issue presented in these two cases is whether the trustees of two multiemployer trust funds may seek judicial enforcement of the trust terms against a participating employer without first submitting to arbitration an underlying dispute over the meaning of a term in the employer's collective bargaining agreement.</p>
     <n id="p366">366</n>
-    <h>I</h>
+    <h2>I</h2>
     <p>Respondents are the trustees of two multiemployer trust funds, the Central States, Southeast and Southwest Areas Pension Fund and the Central States, Southeast and Southwest Areas Health and Welfare Fund (Trust Funds). [<a id="nf1" href="#fn1">Footnote 1</a>] Petitioners are two employers -- Prosser's Moving &amp; Storage Co. (Prosser's) and Schneider Moving &amp; Storage Co. (Schneider) -- who have agreed to participate in the trust funds. Respondents filed separate complaints against petitioners in the United States District Court for the Eastern District of Missouri, claiming that petitioners had failed to meet their contribution requirements and had refused to allow an audit of their payroll records. Respondents requested the District Court to order an accounting and immediate payment of all sums thereby determined to be due. They alleged federal subject matter jurisdiction under § 301(a) of the Labor Management Relations Act (LMRA), 29 U.S.C. § 185(a), and § 502 of the Employee Retirement Income Security Act (ERISA), 29 U.S.C. § 1132. [<a id="nf2" href="#fn2">Footnote 2</a>] Petitioners defended on the ground that respondents' complaints raised disputed interpretations under the collective bargaining agreements that first must be submitted to the applicable arbitration procedures. [<a id="nf3" href="#fn3">Footnote 3</a>] The District Court agreed with petitioners and</p>
     <n id="p367">367</n>
     <p>dismissed the suits pending arbitration. It held that, although arbitration is not a prerequisite for "simple collection matters" in which the employer's liability under the collective bargaining agreement is clear, arbitration is required in claims such as these where interpretation of the collective bargaining agreement is at issue.</p>
     <p>A three-judge panel for the Court of Appeals for the Eighth Circuit reversed, and held that arbitration was not a prerequisite to federal suit in these two cases. Robbins v. Prosser's Moving &amp; Storage and Schneider Moving &amp; Storage, Nos. 80-2116, 80-2117 (CA8, Mar. 24, 1982) (per curiam). An en banc court of the Eighth Circuit agreed with the panel. After examining competing considerations under the federal labor laws and under the federal laws governing employee trust funds, the court held that the relevant agreements indicated no intent on the part of the parties to require the arbitration of contractual disputes between the trustees and the employers, and thus that failure to arbitrate could not bar respondents' suits. The en banc court therefore reversed the decision of the District Court and remanded for further proceedings. 700 F.2d 433 (1983). We granted certiorari in view of an apparent conflict among the Circuits on this issue. [<a id="nf4" href="#fn4">Footnote 4</a>] 464 U.S. 813 (1983). We now affirm.</p>
     <n id="p368">368</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>As resolved by the Court of Appeals, these cases present a narrow question of contract interpretation. The en banc court considered only whether the parties to the collective bargaining agreements and the trust agreements intended to require the arbitration of disputes between the trustees and the employer before the trustees could exercise their contractual right to sue in federal court. [<a id="nf5" href="#fn5">Footnote 5</a>] Because of its resolution of this issue, the Court of Appeals did not reach respondents' argument that requiring the trustees to submit their disputes with the employer to the applicable arbitration procedures was prohibited as a matter of law. If we agree with the Court of Appeals that the parties did not provide for such an arrangement, we also need not address that argument. We turn first, therefore, to an analysis of the relevant agreements.</p>
     <p>Petitioners entered into collective bargaining agreements with Local 610 of the International Brotherhood of Teamsters, Chauffeurs, Warehousemen &amp; Helpers of America</p>
     <n id="p369">369</n>
@@ -46,7 +46,7 @@
     <p>The relevant terms of the two collective bargaining agreements at issue here are substantially identical. Both required weekly payments to the funds for "each regular Employee." No contributions were required for employees who worked "either temporarily or in cases of emergency." [<a id="nf10" href="#fn10">Footnote 10</a>] Each collective bargaining agreement also contained an arbitration clause that required the arbitration of any</p>
     <p>"differences . . . between the Company and the Union or any employee of the Company as to the meaning or application of the provisions of [the collective bargaining] agreement."</p>
     <p>Id. at 55. Arbitration could be demanded by either the Union or the Company in the case of Prosser's collective bargaining agreement, or by the Union alone in the case of Schneider's collective bargaining agreement. No other parties were given access to the arbitration process.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>A</p>
     <p>Petitioners argue that, as third-party beneficiaries of the collective bargaining agreements, the trustees are bound by the arbitration clauses provided therein to the same extent the Union would be if it were seeking judicial enforcement of those agreements. They rely on the general rule that the promisor may assert against the beneficiary any defense that he could assert against the promisee if the promisee were suing on the contract. See Restatement (Second) of Contracts § 309, Comment b (1981); S. Williston, Contracts § 395 (3d ed.1959); 4 A. Corbin, Contracts § 819 (1951). That rule, however, is merely a rule of construction useful in determining contractual intent. It should not be applied so inflexibly</p>
     <n id="p371">371</n>
@@ -72,7 +72,7 @@
     <p>As petitioners concede, the collective bargaining agreements permit only the Union or the employer to invoke the arbitration process. It is unreasonable to infer that the parties to these agreements, or to the trust agreements, intended the trustees to rely on the Union to arbitrate their disputes with the employer. Because arbitration may be expensive, [<a id="nf19" href="#fn19">Footnote 19</a>] there is no reason to assume, without more persuasive evidence than is presented here, that the Union intended to incur such expenses at the request of the trustees and without any requirement that the trustees provide reimbursement. It is even less likely that the parties to the trust agreements intended to agree to such complete reliance on the Union. [<a id="nf20" href="#fn20">Footnote 20</a>] If the Union disagreed with the trustees' construction of the agreement, it could refuse to arbitrate the claim, or compromise the trustees' position in arbitration. The outcome of any subsequent judicial proceeding could be predetermined by the outcome of arbitration. [<a id="nf21" href="#fn21">Footnote 21</a>] We find particularly implausible petitioners' further argument that a duty of fair representation may be implied, and that this should compel the Union to pursue the trustees' uncompromised</p>
     <n id="p376">376</n>
     <p>claims through arbitration. There simply is no evidence that the Union owes any statutory or contractual duty of fair representation to the trustees. [<a id="nf22" href="#fn22">Footnote 22</a>] In the absence of such evidence, we will not engage the unlikely inference that the parties to these agreements intended to require the trustees to rely on the Union to arbitrate their disputes with the employer. [<a id="nf23" href="#fn23">Footnote 23</a>] Without that inference, as petitioners' concede, there is no basis for assuming that the parties intended to require arbitration of disputes between the trustees and the employer.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>We hold that neither the trust agreements nor the collective bargaining agreements at issue here evidence any intent to condition the contractual right of the trustees to seek judicial enforcement of the trust provisions on exhaustion of the arbitration procedures contained in petitioners' collective bargaining agreements. We therefore affirm the judgment of the Court of Appeals and remand both cases for further proceedings.</p>
     <p>It is so ordered.</p>
     <p>* Together with No. 82-1862, Prosser's Moving &amp; Storage Co. v. Robbins et al., also on certiorari to the same court.</p>

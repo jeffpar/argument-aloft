@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us486-0057.html" citation="486 U.S. 57" title="City of New York v. FCC">
   <opinion type="Opinions &amp; Dissents">
     <n id="p57">57</n>
-    <h>U.S. Supreme Court</h>
-    <h>City of New York v. FCC, <a href="./us486-0057.xml#p57">486 U.S. 57</a> (1988)</h>
-    <h>City of New York v. Federal Communications Commission</h>
-    <h>No. 87-339</h>
-    <h>Argued March 29, 1988</h>
-    <h>Decided May 16, 1988</h>
-    <h><a href="./us486-0057.xml#p57">486 U.S. 57</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE DISTRICT OF COLUMBIA CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>City of New York v. FCC, <a href="./us486-0057.xml#p57">486 U.S. 57</a> (1988)</h1>
+    <h2>City of New York v. Federal Communications Commission</h2>
+    <h2>No. 87-339</h2>
+    <h4>Argued March 29, 1988</h4>
+    <h4>Decided May 16, 1988</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE DISTRICT OF COLUMBIA CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>In 1974, after two years of unsatisfactory experience with conflicting federal and local technical standards governing the transmission of cable television broadcast signals, the Federal Communications Commission (FCC or Commission) promulgated regulations preempting the field of signal quality regulation. In 1984, this Court broadly approved the preemptive authority that the FCC had asserted over cable system regulation. Capital Cities Cable, Inc. v. Crisp, <a href="../us467/us467-0691.xml#p691">467 U. S. 691</a>. A few months later, Congress enacted the Cable Communications Policy Act of 1984 (Cable Act or Act), which empowers state or local authorities to enfranchise cable systems and to specify the facilities and equipment that franchisees could use, but which also authorizes the FCC to establish technical standards for such facilities and equipment. Pursuant to the latter provision, the FCC adopted regulations establishing technical standards governing the quality of cable signals and forbidding local authorities to impose more stringent technical standards. Petitioners sought review of the regulations in the Court of Appeals, contesting the scope of the FCC's claimed preemptive authority and asserting that franchising authorities could impose stricter technical standards than the Commission's. The court upheld the regulations.</p>
     <p>Held: The FCC did not exceed its statutory authority by forbidding local authorities to impose technical cable signal quality standards more stringent than those set forth in the Commission's regulations.</p>
     <p>(a) Whether a federal agency has properly determined that its authority in a given area is exclusive and preempts any state regulatory efforts does not depend on the existence of express congressional authorization to displace state law. Rather, the correct focus is on the agency itself and on the proper bounds of its lawful authority to undertake such action. If the agency's decision to preempt represents a reasonable accommodation of conflicting policies committed to the agency's care by statute, the accommodation should not be disturbed unless it appears from the statute or its legislative history that the accommodation "is not one that Congress would have sanctioned." United States v. Shimer, <a href="../us367/us367-0374.xml#p374">367 U. S. 374</a>, <a href="../us367/us367-0374.xml#p383">367 U. S. 383</a>. Pp. <a href="./us486-0057.xml#p63">486 U. S. 63</a>-64.</p>
@@ -23,7 +23,7 @@
     <n id="p59">59</n>
     <p>JUSTICE WHITE delivered the opinion of the Court.</p>
     <p>The Federal Communications Commission has adopted regulations that establish technical standards to govern the quality of cable television signals and that prohibit local authorities from imposing more stringent technical standards. The issue is whether, in doing so, the Commission has exceeded its statutory authority.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>This case deals with yet another development in the ongoing efforts of federal, state, and local authorities to regulate different aspects of cable television over the past three decades. See Capital Cities Cable, Inc. v. Crisp, <a href="../us467/us467-0691.xml#p691">467 U. S. 691</a>, <a href="../us467/us467-0691.xml#p700">467 U. S. 700</a>-705 (1984); United States v. Southwestern Cable Co., <a href="../us392/us392-0157.xml#p157">392 U. S. 157</a>, <a href="../us392/us392-0157.xml#p161">392 U. S. 161</a>-178 (1968). With the incipient development of cable television in the 1950's and 1960's from what had been more generally known as community antenna television systems, the Federal Communications Commission began to assert regulatory authority in this area. See CATV Second Report and Order, 2 F.C.C.2d 725 (1966). In 1972, the Commission first asserted authority over technical aspects of cable television, and devised technical standards to govern the transmission of broadcast signals by cable, though without preempting regulation of similar matters by state or local franchising authorities. Cable Television Report and Order, 36 F.C.C.2d 143, on reconsideration, 36 F.C.C.2d 326 (1972), aff'd, sub nom. American Civil Liberties Union v. FCC, 523 F.2d 1344 (CA9 1975). [<a id="nf1" href="#fn1">Footnote 1</a>] Within two years, however, the Commission became convinced from its experience</p>
     <n id="p60">60</n>
     <p>with conflicting federal and local technical standards that there is "a compelling need for national uniformity in cable television technical standards" which would require it to preempt the field of signal quality regulation in order to meet the "necessity to rationalize, interrelate, and bring into uniformity the myriad standards now being developed by numerous jurisdictions." Cable Television Report and Order, 49 F.C.C.2d 470, 477, 480 (1974). The Commission explained that a multiplicity of mandatory and nonuniform technical requirements undermined "the ultimate workability of the over-all system," could have "a deleterious effect on the development of new cable services," and could "seriously imped[e]" the "development and marketing of signal source, transmission, and terminal equipment." Id. at 478-479. [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
@@ -42,7 +42,7 @@
     <p>The Court of Appeals granted partial relief to petitioners. 259 U.S.App.D.C. 191, 814 F.2d 720 (1987). It noted that the Commission had adopted technical standards applicable to one class of cable television channels, but had left the other three classes of channels completely unregulated. It agreed with petitioners that the Commission had acted arbitrarily and capriciously when it did not adopt technical standards for the latter three classes of channels, yet prohibited local authorities from adopting such standards and ignored the apparent conflict between these actions and the language of the Cable Act. It therefore vacated this part of the rule and remanded to the Commission for further proceedings. The court's holding was unanimous on this point, and that part of its decision is not at issue here. [<a id="nf3" href="#fn3">Footnote 3</a>]</p>
     <n id="p63">63</n>
     <p>The Court of Appeals divided, however, over the propriety of the Commission's technical standards that apply to the first class of cable channels and that preempt more stringent local regulations. The majority of the panel upheld preemption, ruling that Congress intended federal regulations like these to supersede local law, and that the Commission acted within the broad confines of the preemptive authority delegated to it by Congress when it adopted the regulations with respect to this one class of channels. One judge dissented, contending that the majority had sanctioned preemption without a clear manifestation of congressional intent, contrary to this Court's decisions. We granted certiorari, 484 U.S. 962 (1987), and we now affirm.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>When the Federal Government acts within the authority it possesses under the Constitution, it is empowered to preempt state laws to the extent it is believed that such action is necessary to achieve its purposes. The Supremacy Clause of the Constitution gives force to federal action of this kind by stating that "the Laws of the United States which shall be made in Pursuance" of the Constitution "shall be the supreme Law of the Land." U.S.Const., Art. VI, cl. 2. The phrase "Laws of the United States" encompasses both federal statutes themselves and federal regulations that are properly adopted in accordance with statutory authorization. For this reason, at the same time that our decisions have established a number of ways in which Congress can be understood to have preempted state law, see Louisiana Public Service Comm'n v. FCC, <a href="../us476/us476-0355.xml#p355">476 U. S. 355</a>, <a href="../us476/us476-0355.xml#p368">476 U. S. 368</a>-369 (1986), we have also recognized that "a federal agency acting within the scope of its congressionally delegated authority may preempt state</p>
     <n id="p64">64</n>
     <p>regulation" and hence render unenforceable state or local laws that are otherwise not inconsistent with federal law. Id. at <a href="../us476/us476-0355.xml#p369">476 U. S. 369</a>.</p>
@@ -50,7 +50,7 @@
     <p>"represents a reasonable accommodation of conflicting policies that were committed to the agency's care by the statute, we should not disturb it unless it appears from the statute or its legislative history that the accommodation is not one that Congress would have sanctioned."</p>
     <p>United States v. Shimer, <a href="../us367/us367-0374.xml#p374">367 U. S. 374</a>, <a href="../us367/us367-0374.xml#p383">367 U. S. 383</a> (1961); see also Crisp, supra, at <a href="../us467/us467-0691.xml#p700">467 U. S. 700</a>.</p>
     <n id="p65">65</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>A</p>
     <p>In this case, there is no room for doubting that the Commission intended to preempt state technical standards governing the quality of cable television signals. In adopting the regulations at issue here, the Commission said:</p>
     <p>"Technical standards that vary from community to community create potentially serious negative consequences for cable system operators and cable consumers in terms of the cost of service and the ability of the industry to respond to technological changes. To address this problem, we proposed in the Notice to retain technical standards guidelines at the federal level which could be used, but could not be exceeded, in state and local technical quality regulations."</p>

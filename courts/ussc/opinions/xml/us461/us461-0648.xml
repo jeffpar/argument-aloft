@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us461-0648.html" citation="461 U.S. 648" title="General Motors Corp. v. Devex Corp.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p648">648</n>
-    <h>U.S. Supreme Court</h>
-    <h>General Motors Corp. v. Devex Corp., <a href="./us461-0648.xml#p648">461 U.S. 648</a> (1982)</h>
-    <h>General Motors Corp. v. Devex Corp.</h>
-    <h>No. 81-1661</h>
-    <h>Argued December 7, 1982</h>
-    <h>Decided May 24, 1983</h>
-    <h><a href="./us461-0648.xml#p648">461 U.S. 648</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE THIRD CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>General Motors Corp. v. Devex Corp., <a href="./us461-0648.xml#p648">461 U.S. 648</a> (1982)</h1>
+    <h2>General Motors Corp. v. Devex Corp.</h2>
+    <h4>No. 81-1661</h4>
+    <h4>Argued December 7, 1982</h4>
+    <h4>Decided May 24, 1983</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE THIRD CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Prior to 1946, the section of the patent laws governing recovery in patent infringement actions contained no reference to interest. In 1946 the section was amended, and now provides in 35 U.S.C. § 284 that the court shall award a successful claimant</p>
     <p>"damages adequate to compensate for the infringement, but in no event less than a reasonable royalty for the use made of the invention by the infringer, together with interest and costs as fixed by the court."</p>
     <p>In respondent Devex Corp.'s action against petitioner for infringement of a patent covering a lubricating process used in the cold-forming of metal car parts by pressure, the District Court entered judgment for Devex pursuant to § 284, awarding, in addition to royalties and postjudgment interest, prejudgment interest. After determining what the annual royalty payments would have been, the court calculated prejudgment interest on each payment from the time it would have become due. The Court of Appeals affirmed.</p>
@@ -24,7 +24,7 @@
     <p>MARSHALL, J., delivered the opinion for a unanimous Court. STEVENS, J., filed a concurring opinion, post, p. <a href="./us461-0648.xml#p658">461 U. S. 658</a>.</p>
     <p>JUSTICE MARSHALL, delivered the opinion of the Court.</p>
     <p>This case concerns the proper standard governing the award of prejudgment interest in a patent infringement suit under 35 U.S.C. § 284.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In 1956, respondent Devex Corporation (Devex) filed a suit for patent infringement against petitioner General Motors Corporation (GMC) in the United States District Court for the Northern District of Illinois. [<a id="nf1" href="#fn1">Footnote 1</a>] Devex alleged that GMC was infringing Reissue Patent No. 24,017, known as the "Henricks" or "Devex" patent. The patent covered a lubricating process used in the cold-forming of metal car</p>
     <n id="p650">650</n>
     <p>parts by pressure. [<a id="nf2" href="#fn2">Footnote 2</a>] On June 29, 1962, the District Court held the Devex patent invalid and entered judgment for GMC. On appeal, the United States Court of Appeals for the Seventh Circuit reversed the finding of invalidity and remanded for further proceedings. Devex Corp. v. General Motors Corp., 321 F.2d 234 (1963), cert. denied, 375 U.S. 971 (1964).</p>
@@ -32,7 +32,7 @@
     <p>On remand, the case was referred to a Special Master for an accounting. The Special Master ruled that three major divisions of GMC had used infringing processes in the manufacture of bumper parts, and selected a royalty rate "by reference to hypothetical negotiations" that it found would have taken place if GMC had sought to obtain a license from Devex. Special Master's Report at 71. See 667 F.2d 347,</p>
     <n id="p651">651</n>
     <p>352 (CA3 1981). [<a id="nf3" href="#fn3">Footnote 3</a>] The District Court modified the royalty rate selected by the Special Master and entered judgment pursuant to 35 U.S.C. § 284, awarding Devex $8,813,945.50 in royalties, $11,022,854.97 in prejudgment interest, and postjudgment interest at the rate allowed by state law. <a href="https://law.justia.com/cases/federal/district-courts/FSupp/494/1369/2150147/">494 F. Supp. 1369</a> (1980). The court determined what the annual royalty payments would have been, and calculated prejudgment interest on each payment from the time it would have become due. The Court of Appeals affirmed. 667 F.2d 347 (1981). The court held that "the award of [prejudgment] interest as the yearly royalty payments became due was not an abuse of discretion." Id. at 363. We granted certiorari to consider the standard applicable to the award of prejudgment interest under 35 U.S.C. § 284, 456 U.S. 988 (1982), and we now affirm.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Prior to 1946, the provision of the patent laws concerning a plaintiff's recovery in an infringement action contained no reference to interest. [<a id="nf4" href="#fn4">Footnote 4</a>] The award of interest in patent cases was governed by the common law standard enunciated in several decisions of this Court. E.g., Duplate Corp. v. Triplex Safety Glass Co., <a href="../us298/us298-0448.xml#p448">298 U. S. 448</a> (1936); Tilghman v. Proctor, <a href="../us125/us125-0136.xml#p136">125 U. S. 136</a> (1888). Under the Duplate standard, prejudgment interest was generally awarded from the date</p>
     <n id="p652">652</n>
     <p>on which damages were liquidated, and could be awarded from the date of infringement in the absence of liquidation only in "exceptional circumstances," such as bad faith on the part of the infringer. 298 U.S. at <a href="../us298/us298-0448.xml#p459">298 U. S. 459</a>. [<a id="nf5" href="#fn5">Footnote 5</a>]</p>
@@ -53,7 +53,7 @@
     <p>We do not construe § 284 as requiring the award of prejudgment interest whenever infringement is found. That provision states that interest shall be "fixed by the court," and, in our view, it leaves the court some discretion in awarding</p>
     <n id="p657">657</n>
     <p>prejudgment interest. For example, it may be appropriate to limit prejudgment interest, or perhaps even deny it altogether, where the patent owner has been responsible for undue delay in prosecuting the lawsuit. [<a id="nf11" href="#fn11">Footnote 11</a>] There may be other circumstances in which it may be appropriate not to award prejudgment interest. We need not delineate those circumstances in this case. We hold only that prejudgment interest should be awarded under § 284 absent some justification for withholding such an award.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Because we hold that prejudgment interest should ordinarily be awarded absent some justification for withholding such an award, a decision to award prejudgment interest will only be set aside if it constitutes an abuse of discretion. The District Court held that GMC infringed Devex's patent over the course of a number of years, and awarded Devex a reasonable royalty as compensation. While GMC contends that Devex was guilty of causing unnecessary delay, the District Court rejected this contention when it concluded that "Devex has done no worse than fully litigate its claims achieving a large judgment in its favor," and awarded Devex costs on the basis of this conclusion. <a href="https://law.justia.com/cases/federal/district-courts/FSupp/494/1380/2149824/">494 F. Supp. at 1380</a>. [<a id="nf12" href="#fn12">Footnote 12</a>] On these facts, we agree with the Court of Appeals that the award of prejudgment interest was proper.</p>
     <n id="p658">658</n>
     <p>Accordingly, the judgment of the Court of Appeals for the Third Circuit is</p>

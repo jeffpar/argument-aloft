@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us437-0617.html" citation="437 U.S. 617" title="City of Philadelphia v. New Jersey">
   <opinion type="Opinions &amp; Dissents">
     <n id="p617">617</n>
-    <h>U.S. Supreme Court</h>
-    <h>City of Philadelphia v. New Jersey, <a href="./us437-0617.xml#p617">437 U.S. 617</a> (1978)</h>
-    <h>City of Philadelphia v. New Jersey</h>
-    <h>No. 77-404</h>
-    <h>Argued March 27, 1978</h>
-    <h>Decided June 23, 1978</h>
-    <h><a href="./us437-0617.xml#p617">437 U.S. 617</a></h>
-    <h>APPEAL FROM THE SUPREME COURT OF NEW JERSEY</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>City of Philadelphia v. New Jersey, <a href="./us437-0617.xml#p617">437 U.S. 617</a> (1978)</h1>
+    <h2>City of Philadelphia v. New Jersey</h2>
+    <h2>No. 77-404</h2>
+    <h4>Argued March 27, 1978</h4>
+    <h4>Decided June 23, 1978</h4>
+    <h2>APPEAL FROM THE SUPREME COURT OF NEW JERSEY</h2>
+    <h2>Syllabus</h2>
     <p>New Jersey statute (ch. 363) that prohibits the importation of most "solid or liquid waste which originated or was collected outside the territorial limits of the State . . ." held to violate the Commerce Clause of the United States Constitution. Pp. <a href="./us437-0617.xml#p621">437 U. S. 621</a>-629.</p>
     <p>(a) All objects of interstate trade merit Commerce Clause protection, and none is excluded from the definition of "commerce" at the outset; hence, contrary to the suggestion of the court below, there can be no doubt that the banning of "valueless" out-of-state wastes by ch. 363 implicates constitutional protection. Bowman v. Chicago &amp; Northwestern R. Co., <a href="../us125/us125-0465.xml#p465">125 U. S. 465</a>, distinguished. Pp. <a href="./us437-0617.xml#p621">437 U. S. 621</a>-623.</p>
     <p>(b) The crucial inquiry here must be directed to determining whether ch. 363 is basically an economic protectionist measure, and thus virtually per se invalid, or a law directed at legitimate local concerns that has only incidental effects on interstate commerce. Pike v. Bruce Church, Inc., <a href="../us397/us397-0137.xml#p137">397 U. S. 137</a>, <a href="../us397/us397-0137.xml#p142">397 U. S. 142</a>. Pp. <a href="./us437-0617.xml#p623">437 U. S. 623</a>-624.</p>
@@ -21,7 +21,7 @@
     <p>STEWART, J., delivered the opinion of the Court, in which BRENNAN, WHITE, MARSHALL, BLACKMUN, POWELL, and STEVENS, JJ., joined. REHNQUIST, J., filed a dissenting opinion, in which BURGER, C.J., joined, post, p. <a href="./us437-0617.xml#p629">437 U. S. 629</a>.</p>
     <p>MR. JUSTICE STEWART delivered the opinion of the Court.</p>
     <p>A New Jersey law prohibits the importation of most "solid or liquid waste which originated or was collected outside the territorial limits of the State. . . ." In this case, we are require to decide whether this statutory prohibition violates the Commerce Clause of the United States Constitution.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The statutory provision in question is ch. 363 of 1973 N.J. Laws, which took effect in early 1974. In pertinent part it provides:</p>
     <p>"No person shall bring into this State any solid or liquid waste which originated or was collected outside the territorial limits of the State, except garbage to be fed to swine in the State of New Jersey, until the commissioner [of the State Department of Environmental Protection] shall determine that such action can be permitted without endangering the public health, safety and</p>
     <n id="p619">619</n>
@@ -33,7 +33,7 @@
     <p>The plaintiffs then appealed to this Court. [<a id="nf3" href="#fn3">Footnote 3</a>] After noting probable jurisdiction, 425 U.S. 910, and hearing oral argument, we remanded for reconsideration of the appellants' preemption claim in light of the newly enacted Resource Conservation and Recovery Act of 1976, 90 Stat. 2795. <a href="../us430/us430-0141.xml#p141">430 U. S. 141</a>. Again, the New Jersey Supreme Court found no federal preemption of the state law, 73 N.J. 562, <a href="https://law.justia.com/cases/new-jersey/supreme-court/1977/73-n-j-562-0.html">376 A.2d 888</a>, and again we noted probable jurisdiction, 434 U.S. 964. We agree with the New Jersey court that the state law has not been preempted by federal legislation. [<a id="nf4" href="#fn4">Footnote 4</a>] The dispositive</p>
     <n id="p621">621</n>
     <p>question, therefore, is whether the law is constitutionally permissible in light of the Commerce Clause of the Constitution. [<a id="nf5" href="#fn5">Footnote 5</a>]</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Before it addressed the merits of the appellants' claim, the New Jersey Supreme Court questioned whether the interstate movement of those wastes banned by ch. 363 is "commerce" at all within the meaning of the Commerce Clause. Any doubts on that score should be laid to rest at the outset.</p>
     <p>The state court expressed the view that there may be two definitions of "commerce" for constitutional purposes. When relied on "to support some exertion of federal control or regulation," the Commerce Clause permits "a very sweeping concept" of commerce. 68 N.J. at 469, 348 A.2d at 514. But when relied on "to strike down or restrict state legislation," that Clause and the term "commerce" have a "much more confined . . . reach." Ibid.</p>
     <p>The state court reached this conclusion in an attempt to</p>
@@ -46,7 +46,7 @@
     <p>We think the state court misread our cases, and thus erred in assuming that they require a two-tiered definition of commerce. In saying that innately harmful articles "are not legitimate subjects of trade and commerce," the Bowman Court was stating its conclusion, not the starting point of its reasoning. All objects of interstate trade merit Commerce Clause protection; none is excluded by definition at the outset. In Bowman and similar cases, the Court held simply that, because the articles' worth in interstate commerce was far outweighed by the dangers inhering in their very movement, States could prohibit their transportation across state lines. Hence, we reject the state court's suggestion that the banning of "valueless" out-of-state wastes by ch. 363 implicates no constitutional protection. Just as Congress has power to regulate the interstate movement of these wastes, States are</p>
     <n id="p623">623</n>
     <p>not free from constitutional scrutiny when they restrict that movement. Cf. Hughes v. Alexandria Scrap Corp., <a href="../us426/us426-0794.xml#p794">426 U. S. 794</a>, <a href="../us426/us426-0794.xml#p802">426 U. S. 802</a>-814; Meat Drivers v. United States, <a href="../us371/us371-0094.xml#p94">371 U. S. 94</a>.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>A</p>
     <p>Although the Constitution gives Congress the power to regulate commerce among the States, many subjects of potential federal regulation under that power inevitably escape congressional attention "because of their local character and their number and diversity." South Carolina State Highway Dept. v. Barnwell Bros., Inc., <a href="../us303/us303-0177.xml#p177">303 U. S. 177</a>, <a href="../us303/us303-0177.xml#p185">303 U. S. 185</a>. In the absence of federal legislation, these subjects are open to control by the States so long as they act within the restraints imposed by the Commerce Clause itself. See Raymond Motor Transportation, Inc. v. Rice, <a href="../us434/us434-0429.xml#p429">434 U. S. 429</a>, <a href="../us434/us434-0429.xml#p440">434 U. S. 440</a>. The bounds of these restraints appear nowhere in the words of the Commerce Clause, but have emerged gradually in the decisions of this Court giving effect to its basic purpose. That broad purpose was well expressed by Mr. Justice Jackson in his opinion for the Court in H. P. Hood &amp; Sons, Inc. v. Du Mond, <a href="../us336/us336-0525.xml#p525">336 U. S. 525</a>, <a href="../us336/us336-0525.xml#p537">336 U. S. 537</a>-538:</p>
     <p>"This principle that our economic unit is the Nation, which alone has the gamut of powers necessary to control of the economy, including the vital power of erecting customs barriers against foreign competition, has as its corollary that the states are not separable economic units. As the Court said in <a href="https://law.justia.com/us/294/511/">Baldwin v. Seelig</a>, 294 U.S. [511], <a href="https://law.justia.com/us/294/511/#527">294 U. S. 527</a>, 'what is ultimate is the principle that one state, in its dealings with another, may not place itself in a position of economic isolation.'"</p>

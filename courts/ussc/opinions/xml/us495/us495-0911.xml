@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us495-0911.html" citation="495 U.S. 911" title="SWINDLER v. LOCKHART">
   <opinion type="Opinions &amp; Dissents">
     <n id="p911">911</n>
-    <h>U.S. Supreme Court</h>
-    <h>SWINDLER v. LOCKHART , <a href="./us495-0911.xml#p911">495 U.S. 911</a> (1990)</h>
-    <h> <a href="./us495-0911.xml#p911">495 U.S. 911</a></h>
-    <h>John Edward SWINDLER, petitioner, v. A.L. LOCKHART, Director, Arkansas Department of Correction. No. 89-6679.</h>
-    <h>Supreme Court of the United States</h>
-    <h>April 23, 1990</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>SWINDLER v. LOCKHART, <a href="./us495-0911.xml#p911">495 U.S. 911</a> (1990)</h1>
+    <h2>John Edward SWINDLER, petitioner, v. A.L. LOCKHART, Director, Arkansas Department of Correction. No. 89-6679.</h2>
+    <h2>Supreme Court of the United States</h2>
+    <h4>April 23, 1990</h4>
     <p>Petition for writ of certiorari to the United States Court of Appeals for the Eighth Circuit.</p>
     <p>Denied.</p>
     <p>Justice MARSHALL, with whom Justice BRENNAN joins, dissenting.</p>
@@ -33,7 +33,7 @@
     <p>Staggs, and Sunderman. <a href="http://cases.justia.com/us-court-of-appeals/F2/885/1342/">885 F.2d 1342</a>, 1347-1350 (1989). The court afforded a "presumption of correctness" to the state-court findings regarding the ability of jurors to set aside whatever prejudice they harbored against petitioner. Id., at 1347. The court also relied on Eighth Circuit precedent, Simmons v. Lockhart, <a href="http://cases.justia.com/us-court-of-appeals/F2/814/504/">814 F.2d 504</a> (1987), in which the court had stated that "the fact that a venire panel is well informed on reported news is not by itself prejudicial." Id., at 510. Lastly, the court rejected petitioner's constitutional challenge to Arkansas' change of venue rule because "the trial court based its denial of a second change of venue on the fact that Swindler had not established prejudice resulting from pretrial publicity." 885 F.2d, at 1347.</p>
     <p>We have yet to address squarely the constitutionality of state change of venue rules that limit a trial court's ability to protect a defendant from the effects of prejudicial publicity.* Here, the Court of Appeals attempted to avoid the constitutional question by relying on the trial court's finding that the empaneled jury was not unduly prejudiced. But the Court of Appeals failed to consider the extent to which the Arkansas rule affected the trial court's assessment of prejudice. The transcript makes clear that the Arkansas rule was a strong factor in the trial court's decision and that the court had difficulty separating its merits judgment from its fear that a transfer of venue to another county "would cause a serious jurisdictional problem" under Arkansas law. Tr. 1560.</p>
     <p>The state court's refusal to transfer venue may have been substantially affected by Arkansas' venue rule. When, on the basis of such rules, a court fails to protect the defendant from a trial that may be "but a hollow formality," Rideau v. Louisiana, <a href="../us373/us373-0723.xml#p723">373 U.S. 723</a>, 726, 83 S. Ct. 1417, 1419 (1963), this Court has a special obligation to consider their constitutionality and to specify the due process constraints on their application. I dissent.</p>
-    <h>Footnotes</h>
+    <h2>Footnotes</h2>
     <p>[Footnote *] The fact that petitioner's claim in this case arises on a federal petition for habeas corpus does not bar its consideration. Cf. Teague v. Lane, <a href="../us489/us489-0288.xml#p288">489 U.S. 288</a> (1989). Assuming that the rule sought by petitioner is "new," it also falls within the category of "procedures without which the likelihood of an accurate conviction is seriously diminished." Id., at 313, 109 S. Ct. at 1064. The likelihood of an accurate conviction is no doubt diminished when a defendant is tried by a jury that has prejudged his case.</p>
   </opinion>
 </case>

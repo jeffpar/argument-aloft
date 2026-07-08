@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us110-0338.html" citation="110 U.S. 338" title="United States v. Behan">
   <opinion type="Opinions &amp; Dissents">
     <n id="p338">338</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Behan, <a href="./us110-0338.xml#p338">110 U.S. 338</a> (1884)</h>
-    <h>United States v. Behan</h>
-    <h>Submitted December 18, 1883</h>
-    <h>Decided February 4, 1884</h>
-    <h><a href="./us110-0338.xml#p338">110 U.S. 338</a></h>
-    <h>APPEAL FROM THE COURT OF CLAIMS</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Behan, <a href="./us110-0338.xml#p338">110 U.S. 338</a> (1884)</h1>
+    <h2>United States v. Behan</h2>
+    <h4>Submitted December 18, 1883</h4>
+    <h4>Decided February 4, 1884</h4>
+    <h2>APPEAL FROM THE COURT OF CLAIMS</h2>
+    <h2>Syllabus</h2>
     <p>When one party enters upon the performance of a contract and incurs expense therein, and being willing to perform, is, without fault of his own, prevented by the other party from performing, his loss will consist of two distinct items of damage: 1st, his outlay and expenses, less the value of materials</p>
     <n id="p339">339</n>
     <p>on hand; 2d, the profits he might have realized by performance, which profits are related to the outlays and include them and something more. The first item he may recover in all cases unless the other party can show the contrary, and the failure to prove profits will not prevent him from recovering it. The second he may recover when the profits are the direct fruit of the contract and not too remote or speculative.</p>

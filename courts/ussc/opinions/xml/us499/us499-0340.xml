@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us499-0340.html" citation="499 U.S. 340" title="Feist Publications, Inc. v. Rural Tel. Serv. Co.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p340">340</n>
-    <h>U.S. Supreme Court</h>
-    <h>Feist Pubs., Inc. v. Rural Tel. Svc. Co., Inc., <a href="./us499-0340.xml#p340">499 U.S. 340</a> (1991)</h>
-    <h>Feist Publications, Inc. v. Rural Telephone Service Company, Inc.</h>
-    <h>No. 89-1909</h>
-    <h>Argued Jan. 9, 1991</h>
-    <h>Decided March 27, 1991</h>
-    <h><a href="./us499-0340.xml#p340">499 U.S. 340</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE TENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h4>Feist Pubs., Inc. v. Rural Tel. Svc. Co., Inc., <a href="./us499-0340.xml#p340">499 U.S. 340</a> (1991)</h4>
+    <h2>Feist Publications, Inc. v. Rural Telephone Service Company, Inc.</h2>
+    <h4>No. 89-1909</h4>
+    <h4>Argued Jan. 9, 1991</h4>
+    <h4>Decided March 27, 1991</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE TENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondent Rural Telephone Service Company is a certified public utility providing telephone service to several communities in Kansas. Pursuant to state regulation, Rural publishes a typical telephone directory, consisting of white pages and yellow pages. It obtains data for the directory from subscribers, who must provide their names and addresses to obtain telephone service. Petitioner Feist Publications, Inc., is a publishing company that specializes in area-wide telephone directories covering a much larger geographic range than directories such as Rural's. When Rural refused to license its white pages listings to Feist for a directory covering 11 different telephone service areas, Feist extracted the listings it needed from Rural's directory without Rural's consent. Although Feist altered many of Rural's listings, several were identical to listings in Rural's white pages. The District Court granted summary judgment to Rural in its copyright infringement suit, holding that telephone directories are copyrightable. The Court of Appeals affirmed.</p>
     <p>Held: Rural's white pages are not entitled to copyright, and therefore Feist's use of them does not constitute infringement. Pp. <a href="./us499-0340.xml#p344">499 U. S. 344</a>-364.</p>
     <p>(a) Article I, § 8, cl. 8, of the Constitution mandates originality as a prerequisite for copyright protection. The constitutional requirement necessitates independent creation plus a modicum of creativity. Since facts do not owe their origin to an act of authorship, they are not original, and thus are not copyrightable. Although a compilation of facts may possess the requisite originality because the author typically chooses which facts to include, in what order to place them, and how to arrange the data so that readers may use them effectively, copyright protection extends only to those components of the work that are original to the author, not to the facts themselves. This fact/expression dichotomy severely limits the scope of protection in fact-based works. Pp. <a href="./us499-0340.xml#p344">499 U. S. 344</a>-351.</p>
@@ -24,7 +24,7 @@
     <n id="p342">342</n>
     <p>JUSTICE O'CONNOR delivered the opinion of the Court.</p>
     <p>This case requires us to clarify the extent of copyright protection available to telephone directory white pages.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Rural Telephone Service Company is a certified public utility that provides telephone service to several communities in northwest Kansas. It is subject to a state regulation that requires all telephone companies operating in Kansas to issue annually an updated telephone directory. Accordingly, as a condition of its monopoly franchise, Rural publishes a typical</p>
     <n id="p343">343</n>
     <p>telephone directory, consisting of white pages and yellow pages. The white pages list in alphabetical order the names of Rural's subscribers, together with their towns and telephone numbers. The yellow pages list Rural's business subscribers alphabetically by category, and feature classified advertisements of various sizes. Rural distributes its directory free of charge to its subscribers, but earns revenue by selling yellow pages advertisements.</p>
@@ -35,7 +35,7 @@
     <n id="p344">344</n>
     <p>the data reported by Rural and sought to obtain additional information. As a result, a typical Feist listing includes the individual's street address; most of Rural's listings do not. Notwithstanding these additions, however, 1,309 of the 46,878 listings in Feist's 1983 directory were identical to listings in Rural's 1982-1983 white pages. App. 54 (15-16), 57. Four of these were fictitious listings that Rural had inserted into its directory to detect copying.</p>
     <p>Rural sued for copyright infringement in the District Court for the District of Kansas, taking the position that Feist, in compiling its own directory, could not use the information contained in Rural's white pages. Rural asserted that Feist's employees were obliged to travel door-to-door or conduct a telephone survey to discover the same information for themselves. Feist responded that such efforts were economically impractical and, in any event, unnecessary, because the information copied was beyond the scope of copyright protection. The District Court granted summary judgment to Rural, explaining that "[c]ourts have consistently held that telephone directories are copyrightable" and citing a string of lower court decisions. <a href="https://law.justia.com/cases/federal/district-courts/FSupp/663/214/1414024/">663 F. Supp. 214</a>, 218 (1987). In an unpublished opinion, the Court of Appeals for the Tenth Circuit affirmed "for substantially the reasons given by the district court." App. to Pet. for Cert. 4a, judgt. order reported at 916 F.2d 718 (1990). We granted certiorari, 498 U.S. 808 (1990), to determine whether the copyright in Rural's directory protects the names, towns, and telephone numbers copied by Feist.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>A</p>
     <p>This case concerns the interaction of two well-established propositions. The first is that facts are not copyrightable; the other, that compilations of facts generally are. Each of these propositions possesses an impeccable pedigree. That there can be no valid copyright in facts is universally understood. The most fundamental axiom of copyright law is that</p>
     <n id="p345">345</n>
@@ -142,7 +142,7 @@
     <p>(Citation omitted.) Additionally, the Second Circuit, which almost 70 years ago issued the classic formulation of the "sweat of the brow" doctrine in Jeweler's Circular Publishing Co., has now fully repudiated the reasoning of that decision. See, e.g., Financial Information, Inc. v. Moody's Investors Service, Inc., 808 F.2d 204, 207 (CA2 1986), cert. denied, 484 U.S. 820 (1987); Financial Information, Inc. v. Moody's Investors Service, Inc., 751 F.2d 501, 510 (CA2 1984) (Newman, J., concurring); Hoehling v. Universal City Studios, Inc., 618 F.2d 972, 979 (CA2 1980). Even those scholars who believe that "industrious collection" should be rewarded seem to recognize that this is beyond the scope of existing copyright law. See Denicola 516 ("the very vocabulary of copyright is ill-suited</p>
     <n id="p361">361</n>
     <p>to analyzing property rights in works of nonfiction"); id. at 520-521, 525; Ginsburg 1867, 1870.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>There is no doubt that Feist took from the white pages of Rural's directory a substantial amount of factual information. At a minimum, Feist copied the names, towns, and telephone numbers of 1,309 of Rural's subscribers. Not all copying, however, is copyright infringement. To establish infringement, two elements must be proven: (1) ownership of a valid copyright, and (2) copying of constituent elements of the work that are original. See Harper &amp; Row, 471 U.S. at <a href="../us471/us471-0539.xml#p548">471 U. S. 548</a>. The first element is not at issue here; Feist appears to concede that Rural's directory, considered as a whole, is subject to a valid copyright because it contains some foreword text, as well as original material in its yellow pages advertisements. See Brief for Petitioner 18; Pet. for Cert. 9.</p>
     <p>The question is whether Rural has proved the second element. In other words, did Feist, by taking 1,309 names, towns, and telephone numbers from Rural's white pages, copy anything that was "original" to Rural? Certainly, the raw data does not satisfy the originality requirement. Rural may have been the first to discover and report the names, towns, and telephone numbers of its subscribers, but this data does not "ow[e] its origin'" to Rural. Burrow-Giles, 111 U.S. at <a href="../us111/us111-0053.xml#p58">111 U. S. 58</a>. Rather, these bits of information are uncopyrightable facts; they existed before Rural reported them, and would have continued to exist if Rural had never published a telephone directory. The originality requirement</p>
     <p>"rule[s] out protecting . . . names, addresses, and telephone numbers of which the plaintiff, by no stretch of the imagination, could be called the author."</p>

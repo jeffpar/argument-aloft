@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us465-0848.html" citation="465 U.S. 848" title="Kosak v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p848">848</n>
-    <h>U.S. Supreme Court</h>
-    <h>Kosak v. United States, <a href="./us465-0848.xml#p848">465 U.S. 848</a> (1984)</h>
-    <h>Kosak v. United States</h>
-    <h>No. 82-618</h>
-    <h>Argued November 7, 1983</h>
-    <h>Decided March 21, 1984</h>
-    <h><a href="./us465-0848.xml#p848">465 U.S. 848</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE THIRD CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Kosak v. United States, <a href="./us465-0848.xml#p848">465 U.S. 848</a> (1984)</h1>
+    <h2>Kosak v. United States</h2>
+    <h2>No. 82-618</h2>
+    <h4>Argued November 7, 1983</h4>
+    <h4>Decided March 21, 1984</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE THIRD CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner's art collection was seized by customs officials when he was suspected of smuggling the collection into the country. Subsequently, petitioner was acquitted of the smuggling charge, and the objects of art were returned to him upon his petition for relief from civil forfeiture. He then filed an administrative complaint seeking compensation for alleged damage to the property occurring while it was in the Customs Service's custody. When the Service denied relief, petitioner filed suit in Federal District Court under the Federal Tort Claims Act (FTCA), seeking damages for the alleged injury to his property. The District Court granted the Government's motion for dismissal of the complaint or summary judgment on the ground that the claim was barred by 28 U.S.C. § 2680(c), which exempts from the coverage of the FTCA "[a]ny claims arising in respect of . . . the detention of any goods or merchandise by any officer of customs." The Court of Appeals affirmed.</p>
     <p>Held: Section 2680(c) precludes recovery against the United States for the alleged injury to petitioner's property. Pp. <a href="./us465-0848.xml#p851">465 U. S. 851</a>-861.</p>
     <p>(a) The fairest interpretation of § 2680(c)'s language "arising in respect of " is that such language means any claim "arising out of" the detention of goods, including a claim resulting from negligent handling or storage of the detained property, and is not limited to claims for damage caused by the detention itself. That § 2680(b) expressly bars actions "arising out of the loss, miscarriage, or negligent transmission" of mail does not undercut this reading of § 2680(c)'s language, but merely suggests that Congress intended § 2680(b) to be less encompassing than § 2680(c). Pp. <a href="./us465-0848.xml#p851">465 U. S. 851</a>-855.</p>
@@ -21,7 +21,7 @@
     <n id="p849">849</n>
     <p>JUSTICE MARSHALL delivered the opinion of the Court.</p>
     <p>The question presented in this case is whether 28 U.S.C. § 2680(c), which exempts from the coverage of the Federal Tort Claims Act "[a]ny claim arising in respect of . . . the detention of any goods or merchandise by any officer of customs," precludes recovery against the United States for injury to private property sustained during a temporary detention of the property by the Customs Service.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>While a serviceman stationed in Guam, petitioner assembled a large collection of oriental art. When he was transferred from Guam to Philadelphia, petitioner brought his art collection with him. In his customs declaration, [<a id="nf1" href="#fn1">Footnote 1</a>] petitioner stated that he intended to keep the contents of the collection for himself. Subsequently, acting upon information that, contrary to his representations, petitioner planned to resell portions of his collection, agents of the United States Customs Service obtained a valid warrant to search petitioner's house. In executing that warrant, the agents seized various antiques and other objects of art.</p>
     <p>Petitioner was charged with smuggling his art collection into the country, in violation of 18 U.S.C. § 545. After a jury trial, he was acquitted. The Customs Service then notified petitioner that the seized objects were subject to civil forfeiture under 19 U.S.C. § 1592, which at the time permitted confiscation of goods brought into the United States "by</p>
     <n id="p850">850</n>
@@ -72,7 +72,7 @@
     <n id="p861">861</n>
     <p>official. [<a id="nf23" href="#fn23">Footnote 23</a>] Such proof will often be difficult to come by. But Congress may well have concluded that exposing the United States to liability for injury to property in the custody of the Customs Service under circumstances in which the owner is not able to demonstrate such specific negligence would open the door to an excessive number of fraudulent suits. [<a id="nf24" href="#fn24">Footnote 24</a>]</p>
     <n id="p862">862</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>Petitioner and some commentators argue that § 2680(c) should not be construed in a fashion that denies an effectual remedy to many persons whose property is damaged through the tortious conduct of customs officials. [<a id="nf25" href="#fn25">Footnote 25</a>] That contention has force, but it is properly addressed to Congress, not to this Court. The language of the statute as it was written leaves us no choice but to affirm the judgment of the Court of Appeals that the Tort Claims Act does not cover suits alleging that customs officials injured property that had been detained by the Customs Service.</p>
     <p>It is o ordered.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>
@@ -165,7 +165,7 @@
       <n id="p863">863</n>
       <p>of the language used in other exceptions. Congress did not use the words "arising out of" in § 2680(c), but did use those words in three other subsections of the same section of the Act. See §§ 2680(b), (e), and (h). Absent persuasive evidence to the contrary, we should assume that, when Congress uses different language in a series of similar provisions, it intends to express a different intention.</p>
       <p>The language of the statute itself is thus clear enough to persuade me that Congress did not intend to exempt this property damage claim from the broad coverage of the Act. I would, of course, agree that, if there were legislative history plainly identifying a contrary congressional intent, that history should be given effect. I do not believe, however, that it is proper for the Court to attach any weight at all to the kind of "clues" to legislative intent that it discusses, or to its concept of the "general purposes" that motivated various exceptions to the statute. Because the Court has done so, however, I shall respond to both parts of its rather creative approach to statutory construction.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>In the entire 15-year history preceding the enactment of the Tort Claims Act in 1946, the Court finds only two "clues" that it believes shed any light on the meaning of § 2680(c). The first -- the so-called "Holtzoff Report" -- is nothing but an internal Justice Department working paper prepared in 1931 and never even mentioned in the legislative history of the 1946 Act. There is no indication that any Congressman ever heard of the document or knew that it even existed. The position of the majority -- that it is "significant" that the "apparent draftsman" of the relevant language himself "believed that it would bar a suit of the sort brought by petitioner," ante at <a href="./us465-0848.xml#p856">465 U. S. 856</a>-857 -- is manifestly ill-advised. The intent of a lobbyist -- no matter how public-spirited he may have been -- should not be attributed to the Congress without positive evidence that elected legislators were aware of and shared the lobbyist's intent.</p>
       <n id="p864">864</n>
       <p>Unless we know more about the collective legislative purpose than can be gleaned from an internal document prepared by a person who was seeking legislative action, we should be guided by the sensible statement that,</p>
@@ -174,7 +174,7 @@
       <p>The second "clue" relied upon by the majority consists of a brief summary in the House Committee Report which casually</p>
       <n id="p865">865</n>
       <p>uses the prepositional phrase "arising out of" to introduce a truncated list of the exceptions. Ante at <a href="./us465-0848.xml#p857">465 U. S. 857</a>. But the "casual" use of the latter phrase in the Committee Report is as understandable as it is insignificant. It is nothing more than an introduction. In such an introduction, precision of meaning is naturally and knowingly sacrificed in the interest of brevity.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>The Court's reliance on the "general purposes" for creating exceptions does nothing more than explain why Congress might reasonably have decided to create this exception. [Footnote 2/3] Those purposes are no more persuasive than the general purposes motivating the enactment of the broad waiver of sovereign immunity effected by the statute itself.</p>
       <p>The hypothetical rationales attributed to Congress by the majority are also internally inconsistent. If Congress, as a matter of public policy, determined that these claims should not be entertained because of the possibility for fraud, the majority's suggestion that petitioner may have a remedy</p>
       <n id="p866">866</n>
@@ -197,7 +197,7 @@
       <n id="p869">869</n>
       <p>to suggest that Congress did not think the judiciary up to this task, or that it wanted to reserve such cases for its own adjudication because it is better equipped to weed out fraudulent claims.</p>
       <p>In the final analysis, one must conclude that the legislative history provides only the most general guidance on resolving the issue in this case. For any basic policy argument in favor of making an exception will support a broad construction of the provision in question, just as any basic policy argument in favor of the Act's waiver of sovereign immunity will support a narrow construction of this or any other exception. The Government's policy arguments respecting the administrative burden on the Customs Service and the potential for fraudulent claims, like petitioner's policy arguments, are "properly addressed to Congress, not to this Court." Ante at <a href="./us465-0848.xml#p862">465 U. S. 862</a>.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>Therefore, this is "a case for applying the canon of construction of the wag who said, when the legislative history is doubtful, go to the statute." Greenwood v. United States, <a href="../us350/us350-0366.xml#p366">350 U. S. 366</a>, <a href="../us350/us350-0366.xml#p374">350 U. S. 374</a> (1956). I would acknowledge -- indeed I do acknowledge -- that the Court's reading of the statutory language is entirely plausible. I would, however, tilt the scales in favor of recovery by attaching some weight to the particular language used in § 2680(c). And I must disagree with the Court's reliance on the general purposes underlying exceptions when no consideration is given to the general purpose of the statute itself. But most importantly, I would eschew any reliance on the intent of the lobbyist whose opinion on the question before us was not on the public record.</p>
       <p>I therefore respectfully dissent.</p>
       <p>[Footnote 2/1]</p>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us419-0449.html" citation="419 U.S. 449" title="Maness v. Meyers">
   <opinion type="Opinions &amp; Dissents">
     <n id="p449">449</n>
-    <h>U.S. Supreme Court</h>
-    <h>Maness v. Meyers, <a href="./us419-0449.xml#p449">419 U.S. 449</a> (1975)</h>
-    <h>Maness v. Meyers</h>
-    <h>No. 73-689</h>
-    <h>Argued October 22, 1974</h>
-    <h>Decided January 15, 1975</h>
-    <h><a href="./us419-0449.xml#p449">419 U.S. 449</a></h>
-    <h>CERTIORARI TO THE 169TH JUDICIAL DISTRICT COURT</h>
-    <h>OF TEXAS, BELL COUNTY</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Maness v. Meyers, <a href="./us419-0449.xml#p449">419 U.S. 449</a> (1975)</h1>
+    <h2>Maness v. Meyers</h2>
+    <h2>No. 73-689</h2>
+    <h4>Argued October 22, 1974</h4>
+    <h4>Decided January 15, 1975</h4>
+    <h2>CERTIORARI TO THE 169TH JUDICIAL DISTRICT COURT</h2>
+    <h2>OF TEXAS, BELL COUNTY</h2>
+    <h2>Syllabus</h2>
     <p>A lawyer is not subject to the penalty of contempt for advising his client, during the trial of a civil case, to refuse on Fifth Amendment grounds to produce material demanded by a subpoena duces tecum when the lawyer believes in good faith that the material may tend to incriminate his client. To hold otherwise would deny the constitutional privilege against self-incrimination the means of its own implementation, since, when a witness is so advised the advice becomes an integral part of the protection accorded the witness by the Fifth Amendment. Pp. <a href="./us419-0449.xml#p458">419 U. S. 458</a>-470.</p>
     <p>(a) That the client in any ensuing criminal action could move to suppress the subpoenaed material after it had been produced does not afford adequate protection, because, without something more, "he would be compelled to surrender the very protection which the privilege is designed to guarantee," Hoffman v. United States, <a href="../us341/us341-0479.xml#p479">341 U. S. 479</a>, <a href="../us341/us341-0479.xml#p486">341 U. S. 486</a>. United States v. Blue, <a href="../us384/us384-0251.xml#p251">384 U. S. 251</a>, distinguished. Pp. <a href="./us419-0449.xml#p461">419 U. S. 461</a>-463.</p>
     <p>(b) Here, where petitioner lawyer admitted that the allegedly obscene magazines subpoenaed for the purpose of enjoining their distribution were "of the same character" as magazines for distribution of which his client had recently been convicted (so that petitioner had, at the very least, a reasonable basis for assuming that a risk of further criminal prosecution existed), and where there was no assurance under state law that the material could be suppressed and no avenue other than assertion of the privilege, with the risk of contempt, that would have assured appellate review in advance of surrendering the magazines, the advice was given in good faith. Pp. <a href="./us419-0449.xml#p468">419 U. S. 468</a>-470.</p>
@@ -20,7 +20,7 @@
     <n id="p450">450</n>
     <p>MR. CHIEF JUSTICE BURGER delivered the opinion of the Court.</p>
     <p>We granted certiorari to decide whether, in a state civil proceeding, a lawyer may be cited for contempt for advising his client, a party to the litigation, that the client may refuse on Fifth Amendment grounds to produce subpoenaed material.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Petitioner is a lawyer. In January, 1973, his client was convicted before a Municipal Court in the city of Temple, Texas, of selling seven obscene magazines in violation of a Temple ordinance. Six days later, the client, Michael McKelva, was served by a Bell County deputy sheriff with a subpoena duces tecum directing him to produce 52 magazines before the 169th Judicial District Court. The titles of the magazines were given, but no other description was contained in the warrant.</p>
     <p>Under the Texas Penal Code, [<a id="nf1" href="#fn1">Footnote 1</a>] upon application by</p>
     <n id="p451">451</n>
@@ -30,7 +30,7 @@
     <n id="p452">452</n>
     <p>of which McKelva previously had been convicted. [<a id="nf2" href="#fn2">Footnote 2</a>] Thus, he argued, it was quite clear that a "substantial possibility of self-incrimination" existed if McKelva was required to produce the magazines. Petitioner foresaw possible criminal prosecution either under the Temple ordinance [<a id="nf3" href="#fn3">Footnote 3</a>] again, or under Art. 527 itself.</p>
     <p>Although petitioner claimed the Fifth Amendment's protection was available in any proceeding whether civil or criminal, he also urged that, under the circumstances, the injunctive proceeding for which the magazines were subpoenaed was quasi-criminal in nature. He noted that it was brought under the Penal Code of Texas and concluded that the city should secure a search warrant, describing with particularity the magazines it desired produced.</p>
-    <p>The City Attorney responded that the proceeding was purely civil, and that "there is no contention on the part of the City or any attempt on the part of the City to get any evidence for any criminal prosecution," and thus any material produced would not be incriminating. Further, he maintained, because there "are no criminal sanctions . . . , there will be no evidence that would be incriminating under the rules. . . ."</p>
+    <p>The City Attorney responded that the proceeding was purely civil, and that "there is no contention on the part of the City or any attempt on the part of the City to get any evidence for any criminal prosecution," and thus any material produced would not be incriminating. Further, he maintained, because there "are no criminal sanctions . . ., there will be no evidence that would be incriminating under the rules. . . ."</p>
     <p>In reply, petitioner drew an analogy to tax cases where, he argued, courts have prohibited the Internal Revenue</p>
     <n id="p453">453</n>
     <p>Service from using subpoenas to discover records which might tend to incriminate taxpayers. Petitioner contended that the nature of the proceeding in which evidence is sought is irrelevant to the compass of the Fifth Amendment, and that the character of the material requested is the only relevant inquiry. He asserted that the sole test is whether production of the material would create a substantial probability of criminal prosecution for his client. He noted that the City Attorney's representation that the city is not interested in a criminal prosecution "certainly does not bind, for example, the County Attorney, or anyone else . . . who might be interested in prosecuting such a case."</p>
@@ -55,7 +55,7 @@
     <n id="p458">458</n>
     <p>orders from courts ordinarily must be obeyed until set aside, but he concluded that McKelva had asserted a valid Fifth Amendment privilege, and therefore neither he nor his lawyer could be held in contempt for asserting that privilege. Since civil and criminal liability under Art. 527 arise from the same act, the judge also concluded that the Fifth Amendment applied even in the injunctive action. Indeed, he noted that the leading case of Boyd v. United States, <a href="../us116/us116-0616.xml#p616">116 U. S. 616</a> (1886), involved forfeiture proceedings which, "though they may be civil in form, are in their nature criminal." Id. at <a href="../us116/us116-0616.xml#p634">116 U. S. 634</a>. He held that, since Maley was only acting to protect rights guaranteed by the Constitution to his client, "he cannot be held in contempt."</p>
     <p>An appeal has been filed from that judgment, and is now pending before the United States Court of Appeals for the Fifth Circuit. On April 15, 1974, we granted the petition for a writ of certiorari, 416 U.S. 934; we are advised that the case is being held pending our decision in this case.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The narrow issue in this case is whether a lawyer may be held in contempt for advising his client, during the trial of a civil case, to refuse to produce material demanded by a subpoena duces tecum when the lawyer believes in good faith the material may tend to incriminate his client.</p>
     <p>We begin with the basic proposition that all orders and judgments of courts must be complied with promptly. If a person to whom a court directs an order believes that order is incorrect, the remedy is to appeal, but, absent a stay, he must comply promptly with the order pending appeal. Persons who make private determinations of the law and refuse to obey an order generally risk criminal contempt even if the order is ultimately ruled incorrect.</p>
     <n id="p459">459</n>
@@ -98,7 +98,7 @@
     <p>of the bar is too vital to the due administration of justice to allow of the application of any other general rule."</p>
     <p>Id. at <a href="../us190/us190-0001.xml#p29">190 U. S. 29</a>.</p>
     <p>We conclude that an advocate is not subject to the penalty of contempt for advising his client, in good faith, to assert the Fifth Amendment privilege against self-incrimination in any proceeding embracing the power to compel testimony. To hold otherwise would deny the constitutional privilege against self-incrimination the means of its own implementation. When a witness is so advised, the advice becomes an integral part of the protection accorded the witness by the Fifth Amendment.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>In applying these principles, it is important to note what this case does not involve: the claim is not based solely on privacy; this is not a case where state law is clear that a response to compulsory process under protest renders the response inadmissible in any criminal prosecution against the witness; most important, there is no contention here as to lack of good faith or reasonable grounds for assertion of a Fifth Amendment claim.</p>
     <p>Both in a pretrial written motion and orally during trial, petitioner cogently stated his reasons for believing the privilege applied:</p>
     <p>"In view of the fact that there is this substantial possibility of self-incrimination; in view of the fact that seven other magazines that are of the same character as the . . . magazines named in the subpoena, that they have provided the basis for past criminal prosecutions; in view of the fact that criminal prosecutions are not only a very definite possibility, they are, in fact, a pronounced possibility, and so there is little reasonable doubt in these circumstances that the subpoena should be quashed</p>
@@ -176,7 +176,7 @@
     <f n="15"><a id="fn15" href="#nf15">Footnote 15</a>
       <p>MR. JUSTICE STEWART would appear to extend our reasoning far beyond the confines of this case. We do not agree that our reasoning leads "inexorably" to his conclusion. We have here a case where retained counsel, in a proceeding which he strenuously argued was not civil, but quasi-criminal, has been held in contempt for advising his client that he may assert the Fifth Amendment privilege.</p>
       <p>Reliance seems to us misplaced on the statement in Powell v. Alabama, <a href="../us287/us287-0045.xml#p45">287 U. S. 45</a>, <a href="../us287/us287-0045.xml#p69">287 U. S. 69</a> (1932), that,</p>
-      <p>"[i]f in any case, civil or criminal, a state or federal court were arbitrarily to refuse to hear a party by counsel, employed by and appearing for him . . . , such a refusal would be a denial of a hearing, and, therefore, of due process. . . ."</p>
+      <p>"[i]f in any case, civil or criminal, a state or federal court were arbitrarily to refuse to hear a party by counsel, employed by and appearing for him . . ., such a refusal would be a denial of a hearing, and, therefore, of due process. . . ."</p>
       <p>Comments in a criminal case as to the law in a civil case hardly reach the level of constitutional doctrine, if indeed they are any more than dicta. From these dicta it. is argued that it as much violates due process to punish an attorney for advising a witness of a privilege as to prevent the attorney from appearing at all; also that a contempt citation may "constitute an arbitrary interference with the constitutionally protected attorney-client relationship," post at <a href="./us419-0449.xml#p472">419 U. S. 472</a>, even where no constitutional privilege is involved. We need not go so far nor travel such a circuitous route to reach our conclusion here. We are not aware that the Court has ever identified a "constitutionally protected attorney-client" privilege of the scope postulated by MR. JUSTICE STEWART.</p>
     </f>
     <f n="16"><a id="fn16" href="#nf16">Footnote 16</a>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us456-0512.html" citation="456 U.S. 512" title="North Haven Bd. of Educ. v. Bell">
   <opinion type="Opinions &amp; Dissents">
     <n id="p512">512</n>
-    <h>U.S. Supreme Court</h>
-    <h>North Haven Bd. of Educ. v. Bell, <a href="./us456-0512.xml#p512">456 U.S. 512</a> (1982)</h>
-    <h>North Haven Bd. of Educ. v. Bell</h>
-    <h>No. 80-986</h>
-    <h>Argued December 9, 1981</h>
-    <h>Decided May 17, 1982</h>
-    <h><a href="./us456-0512.xml#p512">456 U.S. 512</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE SECOND CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>North Haven Bd. of Educ. v. Bell, <a href="./us456-0512.xml#p512">456 U.S. 512</a> (1982)</h1>
+    <h2>North Haven Bd. of Educ. v. Bell</h2>
+    <h2>No. 80-986</h2>
+    <h4>Argued December 9, 1981</h4>
+    <h4>Decided May 17, 1982</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE SECOND CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Section 901(a) of Title IX of the Education Amendments of 1972 provides that "no person," on the basis of sex, shall</p>
     <p>"be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any education program or activity receiving Federal financial assistance."</p>
     <p>Section 902 authorizes each agency awarding federal financial assistance to any education program to promulgate regulations ensuring that aid recipients adhere to § 901(a), and as a sanction for noncompliance provides for termination of federal funds limited to the particular program, or part thereof, in which such noncompliance has been found. Pursuant to § 902, the Department of Health, Education, and Welfare (HEW), interpreting "person" in § 901(a) to encompass employees as well as students, issued regulations (Subpart E) prohibiting federally funded education programs from discriminating on the basis of sex with respect to employment. Petitioners, federally funded public school boards, when threatened with enforcement proceedings for alleged violations of § 901(a) with respect to board employees, brought separate suits challenging HEW's authority to issue the Subpart E regulations on the alleged ground that § 901(a) was not intended to apply to employment practices, and seeking declaratory and injunctive relief. The District Court in each case granted the school board's motion for summary judgment. In a consolidated appeal, the Court of Appeals reversed, holding that § 901(a) was intended to prohibit employment discrimination and that the Subpart E regulations were consistent with § 902.</p>
@@ -29,7 +29,7 @@
     <n id="p514">514</n>
     <p>JUSTICE BLACKMUN delivered the opinion of the Court.</p>
     <p>At issue here is the validity of regulations promulgated by the Department of Education pursuant to Title IX of the Education Amendments of 1972, Pub.L. 92-318, 86 Stat. 373, as amended, 20 U.S.C. § 1681 et seq. These regulations prohibit federally funded education programs from discriminating on the basis of gender with respect to employment.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Title IX proscribes gender discrimination in education programs or activities receiving federal financial assistance. Patterned after Title VI of the Civil Rights Act of 1964, Pub.L. 88-352, 78 Stat. 252, 42 U.S.C. § 2000d et seq. (1976 ed. and Supp. IV), Title IX, as amended, contains two core provisions. The first is a "program-specific" prohibition of gender discrimination:</p>
     <p>"No person in the United States shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any education program or activity receiving Federal financial assistance. . . ."</p>
     <p>§ 901(a), 20 U.S.C. § 1681(a). Nine statutory exceptions to § 901(a)'s coverage follow. See §§ 901(a)(1)-(9). [<a id="nf1" href="#fn1">Footnote 1</a>]</p>
@@ -44,7 +44,7 @@
     <n id="p517">517</n>
     <p>consideration, or selection therefor, whether full-time or part-time, under any education program or activity operated by a recipient which receives or benefits from Federal financial assistance."</p>
     <p>§ 106.51(a)(1). [<a id="nf6" href="#fn6">Footnote 6</a>]</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Petitioners are two Connecticut public school boards that brought separate suits challenging HEW's authority to issue the Subpart E regulations. Petitioners contend that Title IX was not meant to reach the employment practices of educational institutions.</p>
     <p>A. The North Haven case. The North Haven Board of Education (North Haven) receives federal funds for its education programs and activities, and is therefore subject to Title IX's prohibition of gender discrimination. Since the 1975-1976 school year, North Haven has devoted between 46.8% and 66.9% of its federal assistance to the salaries of its employees; this practice is expected to continue. [<a id="nf7" href="#fn7">Footnote 7</a>]</p>
     <p>In January, 1978, Elaine Dove, a tenured teacher in the North Haven public school system, filed a complaint with HEW, alleging that North Haven had violated Title IX by refusing to rehire her after a one-year maternity leave. In response to this complaint, HEW began to investigate the school board's employment practices, and sought from petitioner information concerning its policies on hiring, leaves of absence, seniority, and tenure. Asserting that HEW lacked authority to regulate employment practices under Title IX, North Haven refused to comply with the request.</p>
@@ -58,7 +58,7 @@
     <p>Because other federal courts have invalidated the employment</p>
     <n id="p520">520</n>
     <p>regulations as unauthorized by Title IX, [<a id="nf9" href="#fn9">Footnote 9</a>] we granted certiorari to resolve the conflict. 450 U.S. 909 (1981).</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>A</p>
     <p>Our starting point in determining the scope of Title IX is, of course, the statutory language. See Greyhound Corp. v. Mt. Hood Stages, Inc., <a href="../us437/us437-0322.xml#p322">437 U. S. 322</a>, <a href="../us437/us437-0322.xml#p330">437 U. S. 330</a> (1978). Section 901(a)'s broad directive that "no person" may be discriminated against on the basis of gender appears, on its face, to include employees as well as students. Under that provision, employees, like other "persons," may not be "excluded from participation in," "denied the benefits of," or "subjected to discrimination under" education programs receiving federal financial support.</p>
     <p>Employees who directly participate in federal programs or who directly benefit from federal grants, loans, or contracts clearly fall within the first two protective categories described in § 901(a). See Islesboro School Comm. v. Califano, 593 F.2d 424, 426 (CA1), cert. denied, 444 U.S. 972</p>
@@ -113,7 +113,7 @@
     <p>desire to ban employment discrimination in federally financed education programs. Following the passage of Title IX, Senator Bayh published in the Congressional Record a summary of the final version of the bill. That description expressly distinguishes Title VI of the Civil Rights Act of 1964 with respect to employment practices:</p>
     <p>"Title VI . . . specifically excludes employment from coverage (except where the primary objective of the federal aid is to provide employment). There no similar exemption for employment in the sex discrimination provisions relating to federally assisted education programs."</p>
     <p>118 Cong.Rec. 24684, n. 1 (1972) (first emphasis in original; second emphasis added). See also 120 Cong.Rec. 39992 (1974) (remarks of Sen. Bayh). Then, in June, 1974, HEW published proposed Title IX regulations pursuant to § 902. See 39 Fed.Reg. 22228 (1974). Included among these regulations was Subpart E, containing provisions prohibiting discriminatory employment practices in federally funded education programs. During the comment period, nearly 10,000 formal responses to the regulations were submitted, reputedly the most HEW had ever received on one of its proposals. See Salomone, Title IX and Employment Discrimination: A Wrong in Search of a Remedy, 9 J.Law &amp; Ed. 433, 436 (1980). But not one suggested that § 901 was not meant to prohibit discriminatory employment practices. See 1975 Hearings 479 (statement of Peter E. Holmes, Director of the Office for Civil Rights).</p>
-    <p>On June 4, 1975, HEW published its final Title IX regulations, see 40 Fed.Reg. 24128 (1975), and, as required by § 431(d)(1) of the General Education Provisions Act, Pub.L. 93-380, 88 Stat. 567, as amended, 20 U.S.C. § 1232(d)(1), submitted the regulations to Congress for review. This "laying before" provision was designed to afford Congress an opportunity to examine a regulation and, if it found the regulation "inconsistent with the Act from which it derives its authority . . . ,"</p>
+    <p>On June 4, 1975, HEW published its final Title IX regulations, see 40 Fed.Reg. 24128 (1975), and, as required by § 431(d)(1) of the General Education Provisions Act, Pub.L. 93-380, 88 Stat. 567, as amended, 20 U.S.C. § 1232(d)(1), submitted the regulations to Congress for review. This "laying before" provision was designed to afford Congress an opportunity to examine a regulation and, if it found the regulation "inconsistent with the Act from which it derives its authority . . .,"</p>
     <n id="p532">532</n>
     <p>to disapprove it in a concurrent resolution. If no such disapproval resolution was adopted within 45 days, the regulation would become effective.</p>
     <p>Resolutions of disapproval were introduced in both Houses of Congress. The two Senate resolutions, which did not mention the employment regulations, were not acted upon. [<a id="nf22" href="#fn22">Footnote 22</a>] In the House, the Subcommittee on Postsecondary Education of the House Committee on Education and Labor held six days of hearings to determine whether the HEW regulations were "consistent with the law and with the intent of the Congress in enacting the law." 1975 Hearings 1 (remarks of Rep. O'Hara). One witness expressed opposition to the employment regulations, interpreting the legislative history much as petitioners have. Id. at 406-408 (statement of Janet L. Kuhn); see also Kuhn, 65 Geo.L.J. at 49. Senator Bayh testified, however, that the regulations,</p>
@@ -135,7 +135,7 @@
     <p>Cannon v. University of Chicago, 441 U.S. at <a href="../us441/us441-0677.xml#p687">441 U. S. 687</a>, n. 7. Where</p>
     <p>"an agency's statutory construction has been 'fully brought to the attention of the public and the Congress,' and the latter has not sought to alter that interpretation, although it has amended the statute in other respects, then presumably the legislative intent has been correctly discerned."</p>
     <p>United States v. Rutherford, <a href="../us442/us442-0544.xml#p544">442 U. S. 544</a>, <a href="../us442/us442-0544.xml#p554">442 U. S. 554</a>, n. 10 (1979), quoting Apex Hosiery Co. v. Leader, <a href="../us310/us310-0469.xml#p469">310 U. S. 469</a>, <a href="../us310/us310-0469.xml#p489">310 U. S. 489</a> (1940). See also Cannon v. University of Chicago, 441 U.S. at <a href="../us441/us441-0677.xml#p702">441 U. S. 702</a>-703; NLRB v. Bell Aerospace Co., <a href="../us416/us416-0267.xml#p267">416 U. S. 267</a>, <a href="../us416/us416-0267.xml#p275">416 U. S. 275</a> (1974); United State v. Bergh, <a href="../us352/us352-0040.xml#p40">352 U. S. 40</a>, <a href="../us352/us352-0040.xml#p46">352 U. S. 46</a>-47 (1956). These subsequent events therefore lend credence to the Court of Appeals' interpretation of Title IX. [<a id="nf26" href="#fn26">Footnote 26</a>]</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>Although we agree with the Second Circuit's conclusion that Title IX proscribes employment discrimination in federally</p>
     <n id="p536">536</n>
     <p>funded education programs, we find that the Court of Appeals paid insufficient attention to the "program-specific" nature of the statute. The court acknowledged that, under § 902, termination of funds "shall be limited in its effect to the particular program, or part thereof, in which . . . noncompliance has been . . . found," but implied that the Department's authority to issue regulations is considerably broader. See 629 F.2d at 785-786. [<a id="nf27" href="#fn27">Footnote 27</a>] We disagree.</p>
@@ -270,7 +270,7 @@
       <p>Title IX of the Education Amendments of 1972, 86 Stat. 373, as amended, 20 U.S.C. § 1681 et seq., prohibits discrimination on the basis of sex in education programs and activities receiving federal funds. In 1975, the Department of Health, Education, and Welfare (HEW) [Footnote 2/1] promulgated regulations prohibiting</p>
       <n id="p541">541</n>
       <p>discrimination on the basis of gender in employment by fund recipients. 34 CFR § 106.51(a)(1). Today, the Court upholds the validity of these regulations, relying on the statutory language, its legislative history, and several postenactment events. Because I believe the Court's interpretation is neither consistent with the statutory language nor supported by its legislative history, I dissent. [Footnote 2/2]</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>Although the Court begins with the language of the statute, it quotes the relevant language in its entirety only in the opening paragraphs of the opinion. In the section considering the statute's meaning, the Court quotes two words of the statute and paraphrases the rest, thereby suggesting an interpretation actually at odds with the language used in the statute. Thus, according to the Court,</p>
       <p>"[s]ection 901(a)'s broad directive that 'no person' may be discriminated against on the basis of gender appears, on its face, to include employees as well as students."</p>
       <p>Ante at <a href="./us456-0512.xml#p520">456 U. S. 520</a>. This is not what the statutory language provides.</p>
@@ -287,7 +287,7 @@
       <p>"[A]s actually written, the statute is not nearly so broad. The words 'no person' are modified by later language which clearly limits their meaning."</p>
       <p>600 F.2d at 584. The court concluded that the statute "reaches only those types of disparate treatment" that involve discrimination against program beneficiaries. [Footnote 2/6] Ibid.</p>
       <n id="p544">544</n>
-      <h>II</h>
+      <h2>II</h2>
       <p>A</p>
       <p>The Court acknowledges, as it must, that § 901 of Title IX "does not expressly include . . . employees." But it finds a strong negative inference in the fact that § 901 does not "exclude employees from its scope." Ante at <a href="./us456-0512.xml#p522">456 U. S. 522</a>. The Court then turns to the legislative history for evidence as to whether or not § 901 was meant to prohibit employment discrimination. Ibid. I agree with the several Courts of Appeals that have concluded unequivocally that the statutory language cannot fairly be read to proscribe employee discrimination. Only rarely may legislative history be relied upon to read into a statute operative language that Congress itself did not include. To justify such a reading of a statute, the legislative history must show clearly and unambiguously that Congress did intend what it failed to state. [Footnote 2/7] The Court's elaborate exposition of the history of Title IX falls far short of this standard.</p>
       <p>Title IX originated in a floor amendment sponsored by Senator Bayh to Senate bill S. 659, 92d Cong., 2d Sess. (1972). The amendment was intended to close loopholes in earlier civil rights legislation; three problem areas had been identified in hearings by a special House Committee in 1970. See Discrimination Against Women: Hearings on Section 805 of H.R. 16098 before the Special Subcommittee on Education of the House Committee on Education and Labor, 91st</p>
@@ -312,14 +312,14 @@
       <p>"Discrimination against the beneficiaries of federally assisted programs and activities is already prohibited by title VI of the 1964 Civil Rights Act, but, unfortunately, the prohibition does not apply to discrimination on the basis of sex. In order to close this loophole, my amendment sets forth prohibition and enforcement provisions which generally parallel the provisions of title VI."</p>
       <p>118 Cong.Rec. 5807 (1972) (in ellipsis, ante at <a href="./us456-0512.xml#p525">456 U. S. 525</a>). Thus, for a second time, Bayh indicated to the Senate that he regarded Title IX of his amendment as parallel to Title VI, rather than as a substantial departure from Title VI.</p>
       <p>In the third Bayh statement, ante at <a href="./us456-0512.xml#p526">456 U. S. 526</a> (quoting 118 Cong.Rec. 5812 (1972)), the Senator was responding to a question from Senator Pell regarding Title IX, and the Court assumes that each sentence in that response refers to Title IX. But, as the Court of Appeals for the First Circuit noted in Islesboro:</p>
-      <p>"A fair reading both of the colloquy . . . , as well as the discussion immediately preceding and following the above-quoted passage, indicates that Senator Bayh divided his analysis into three sections, two of which were</p>
+      <p>"A fair reading both of the colloquy . . ., as well as the discussion immediately preceding and following the above-quoted passage, indicates that Senator Bayh divided his analysis into three sections, two of which were</p>
       <n id="p550">550</n>
       <p>specifically aimed at students (admissions and services), the third at employees (employment). While Senator Bayh's response was more extended than it needed to be for a direct answer to Senator Pell's question, we think HEW's reading is strained. We think this particularly in light of the fact that the discussion was an oral one, and thus not as precise as a response in written form. . . ."</p>
       <p>593 F.2d at 427.</p>
       <p>Rather than supporting the Court's view, the legislative history accords with the natural reading of the statute. Title IX prohibits discrimination only against beneficiaries of federally funded programs and activities, not all employment discrimination by recipients of federal funds. Title IX is modeled after Title VI, which is explicitly so limited -- and to the extent statements of Senator Bayh can be read to the contrary, they are ambiguous. [Footnote 2/13]</p>
       <p>As indicated above, when critical words, in this case "employment discrimination," are absent from a statute and its meaning is otherwise clear, reliance on legislative history to add omitted words is rarely appropriate. Only when legislative history gives clear and unequivocal guidance as to congressional intent should a court presume to add what Congress failed to include. And, however else one might describe the legislative history relied upon by the Court today, it is neither clear nor unequivocal.</p>
       <n id="p551">551</n>
-      <h>III</h>
+      <h2>III</h2>
       <p>As the sole issue before us is the meaning of § 901(a) of Title IX, I repeat the relevant language:</p>
       <p>"No person in the United States shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any education program or activity receiving Federal financial assistance. . . ."</p>
       <p>The Court acknowledges that, in view of the lack of support for its position in this language, it must look to the legislative history for evidence as to whether or not § 901 was meant to prohibit employment discrimination. Ante at <a href="./us456-0512.xml#p522">456 U. S. 522</a>. Although the Court examines at length the truncated legislative history, it ignores other factors highly relevant to congressional intent: (i) whether the ambiguity easily could have been avoided by the legislative draftsman; (ii) whether Congress had prior experience and a certain amount of expertise in legislating with respect to this particular subject; and (iii) whether existing legislation clearly and adequately proscribed, and provided remedies for, the conduct in question. When these factors are considered, there is no justification for reading sex employment discrimination language into § 901.</p>

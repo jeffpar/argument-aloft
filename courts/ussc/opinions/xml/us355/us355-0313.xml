@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us355-0313.html" citation="355 U.S. 313" title="Staub v. City of Baxley">
   <opinion type="Opinions &amp; Dissents">
     <n id="p313">313</n>
-    <h>U.S. Supreme Court</h>
-    <h>Staub v. City of Baxley, <a href="./us355-0313.xml#p313">355 U.S. 313</a> (1958)</h>
-    <h>Staub v. City of Baxley</h>
-    <h>No. 48</h>
-    <h>Argued November 18-19, 1957</h>
-    <h>Decided January 13, 1958</h>
-    <h><a href="./us355-0313.xml#p313">355 U.S. 313</a></h>
-    <h>APPEAL FROM THE COURT OF APPEALS OF GEORGIA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Staub v. City of Baxley, <a href="./us355-0313.xml#p313">355 U.S. 313</a> (1958)</h1>
+    <h2>Staub v. City of Baxley</h2>
+    <h2>No. 48</h2>
+    <h4>Argued November 18-19, 1957</h4>
+    <h4>Decided January 13, 1958</h4>
+    <h2>APPEAL FROM THE COURT OF APPEALS OF GEORGIA</h2>
+    <h2>Syllabus</h2>
     <p>A city ordinance made it an offense to "solicit" citizens of the City to become members of any "organization, union or society" which requires fees or dues from its members without first applying for and receiving from the Mayor and Council a "permit," which they might grant or refuse after considering the character of the applicant, the nature of the organization and its effects upon the general welfare of the citizens. For soliciting applications for membership in a labor union in the private homes of employees without applying for or obtaining such a permit, appellant was convicted of a violation of this ordinance and sentenced to fine or imprisonment, notwithstanding her claim that the ordinance violated her rights under the Federal Constitution. The State Court of Appeals affirmed. It declined to pass on appellant's contention, on the grounds that (1) appellant lacked standing to attack the constitutionality of the ordinance because she had made no attempt to obtain a permit under it, and (2) under state procedure, her attack should have been made against specific sections of the ordinance, and not against the ordinance as a whole.</p>
     <p>Held:</p>
     <p>1. The decision of the State Court of Appeals does not rest on an adequate nonfederal ground, and this Court has jurisdiction of this appeal. Pp. <a href="./us355-0313.xml#p318">355 U. S. 318</a>-320.</p>
@@ -36,7 +36,7 @@
     <p>by requiring, as conditions precedent to the exercise of those rights, the issuance of a "license" which the Mayor and city council are authorized by the ordinance to grant or refuse in their discretion, and the payment of a "license fee" which is discriminatory and unreasonable in amount and constitutes a prohibitory flat tax upon the privilege of soliciting persons to join a labor union. These contentions were overruled by the Mayor's Court and, after a continuance, [<a id="nf3" href="#fn3">Footnote 3</a>] the case was tried and appellant was convicted and sentenced as stated. [<a id="nf4" href="#fn4">Footnote 4</a>] The same contentions were made in the Superior Court, where the city answered, denying "that the ordinance is invalid or void for any of the reasons stated" by appellant, and, after a hearing, that court affirmed the judgment of conviction.</p>
     <n id="p318">318</n>
     <p>Those contentions were renewed in the Court of Appeals, but that court declined to consider them. It stated that "[t]he attack should have been made against specific sections of the ordinance, and not against the ordinance as a whole"; that, "[h]aving made no effort to secure a license, the defendant is in no position to claim that any section of the ordinance is invalid or unconstitutional"; and that, since it</p>
-    <p>"appears that the attack was not made against any particular section of the ordinance as being void or unconstitutional, and that the defendant has made no effort to comply with any section of the ordinance . . . , it is not necessary to pass upon the sufficiency of the evidence, the constitutionality of the ordinance, or any other phase of the case. . . ."</p>
+    <p>"appears that the attack was not made against any particular section of the ordinance as being void or unconstitutional, and that the defendant has made no effort to comply with any section of the ordinance . . ., it is not necessary to pass upon the sufficiency of the evidence, the constitutionality of the ordinance, or any other phase of the case. . . ."</p>
     <p>The court then held that "[t]he trial court did not err in overruling the writ of certiorari," and affirmed the judgment of conviction. 94 Ga.App. at 24, 93 S.E.2d at 378-379.</p>
     <p>At the threshold, appellee urges that this appeal be dismissed because, it argues, the decision of the Court of Appeals was based upon state procedural grounds, and thus rests upon an adequate nonfederal basis, and that we are therefore without jurisdiction to entertain it. Hence, the question is whether that basis was an adequate one in the circumstances of this case.</p>
     <p>"Whether a pleading sets up a sufficient right of action or defense, grounded on the Constitution or a law of the United States, is necessarily a question of federal law, and, where a case coming from a state court presents that question, this court must determine for itself the sufficiency of the allegations displaying the right or defense, and is not concluded by the view taken of them by the state court."</p>
@@ -102,7 +102,7 @@
       <p>For that reason, we are not here confronted with any question concerning the right of the city to regulate the pursuit of an occupation. Cf. Thomas v. Collins, <a href="../us323/us323-0516.xml#p516">323 U. S. 516</a>.</p>
     </f>
     <f n="6"><a id="fn6" href="#nf6">Footnote 6</a>
-      <p>The ordinance involved in that case proscribed the distribution of literature in the City of Griffin "without first obtaining written permission from the City Manager . . . ," which he might grant or withhold in his discretion. 303 U.S. at <a href="../us303/us303-0444.xml#p447">303 U. S. 447</a>. This Court, in reversing a conviction under that ordinance, said: "Legislation of the type of the ordinance in question would restore the system of license and censorship in its baldest form." Id., 303 U.S. at <a href="../us303/us303-0444.xml#p452">303 U. S. 452</a>.</p>
+      <p>The ordinance involved in that case proscribed the distribution of literature in the City of Griffin "without first obtaining written permission from the City Manager . . .," which he might grant or withhold in his discretion. 303 U.S. at <a href="../us303/us303-0444.xml#p447">303 U. S. 447</a>. This Court, in reversing a conviction under that ordinance, said: "Legislation of the type of the ordinance in question would restore the system of license and censorship in its baldest form." Id., 303 U.S. at <a href="../us303/us303-0444.xml#p452">303 U. S. 452</a>.</p>
     </f>
     <f n="7"><a id="fn7" href="#nf7">Footnote 7</a>
       <p>There the ordinance proscribed the leasing of a hall for a public speech or the holding of public meetings "without a permit from the Chief of Police." 307 U.S. at <a href="../us307/us307-0496.xml#p501">307 U. S. 501</a>. Members of a labor union sought permission to hold public meetings in the city for the "organization of unorganized workers into labor unions." Id. at <a href="../us307/us307-0496.xml#p504">307 U. S. 504</a>. Permission was refused on the ground that such meetings would cause disorder. They then sought and obtained an injunction prohibiting the city from interfering with their rights of free speech and peaceable assembly. The case came here on certiorari, and this Court affirmed. In the course of his opinion, Mr. Justice Roberts said the ordinance was "void upon its face," and that</p>

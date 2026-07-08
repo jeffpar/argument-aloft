@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us417-0583.html" citation="417 U.S. 583" title="Cardwell v. Lewis">
   <opinion type="Opinions &amp; Dissents">
     <n id="p583">583</n>
-    <h>U.S. Supreme Court</h>
-    <h>Cardwell v. Lewis, <a href="./us417-0583.xml#p583">417 U.S. 583</a> (1974)</h>
-    <h>Cardwell v. Lewis</h>
-    <h>No. 72-1603</h>
-    <h>Argued March 18, 1974</h>
-    <h>Decided June 17, 1974.</h>
-    <h><a href="./us417-0583.xml#p583">417 U.S. 583</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SIXTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Cardwell v. Lewis, <a href="./us417-0583.xml#p583">417 U.S. 583</a> (1974)</h1>
+    <h2>Cardwell v. Lewis</h2>
+    <h4>No. 72-1603</h4>
+    <h4>Argued March 18, 1974</h4>
+    <h4>Decided June 17, 1974.</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SIXTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>On July 24, 1967, law enforcement officers interviewed respondent in connection with a murder that had occurred five days before and viewed his automobile, which was thought to have been used in the commission of the crime. On October 10, in response to a previous request, respondent appeared at 10 a.m. for questioning at the office of the investigating authorities, having left his car at a nearby public commercial parking lot. Though the police had secured a warrant for respondent's arrest at 8 a.m., respondent was not arrested until late in the afternoon, after which his car was towed to a police impoundment lot, where a warrantless examination the next day of the outside of the car revealed that a tire matched the cast of a tire impression made at the crime scene and that paint samples taken from respondent's car were not different from foreign paint on the fender of the victim's car. Respondent was tried and convicted of the murder, and his conviction was affirmed on appeal. In a subsequent habeas corpus proceeding, the District Court concluded that the seizure and examination of respondent's car violated the Fourth and Fourteenth Amendments and that the evidence obtained therefrom should have been excluded at the trial. The Court of Appeals affirmed, concluding that the scraping of paint from the car's exterior was a search within the meaning of the Fourth Amendment; that the search, which was not incident to respondent's arrest, was unconsented; and that the car's seizure could not be justified on the ground that the car was an instrumentality of the crime in plain view.</p>
     <p>Held: The judgment is reversed. Pp. <a href="./us417-0583.xml#p585">417 U. S. 585</a>-596.</p>
     <p>476 F.2d 467, reversed.</p>
@@ -30,7 +30,7 @@
     <p>MR. JUSTICE BLACKMUN announced the judgment of the Court and an opinion in which the CHIEF JUSTICE, MR. JUSTICE WHITE, and MR. JUSTICE REHNQUIST join.</p>
     <p>This case presents the issue of the legality, under the Fourth and Fourteenth Amendments, of a warrantless seizure of an automobile and the examination of its exterior at a police impoundment area after the car had been removed from a public parking lot.</p>
     <p>Evidence obtained upon this examination was introduced at the respondent's state court trial for first-degree murder. He was convicted. The Federal District Court, on a habeas corpus application, ruled that the examination was a search violative of the Fourth and Fourteenth Amendments. <a href="https://law.justia.com/cases/federal/district-courts/FSupp/354/26/1380337/">354 F. Supp. 26</a> (SD Ohio 1972). The United States Court of Appeals for the Sixth Circuit affirmed. 476 F.2d 467 (1973). We granted certiorari, 414 U.S. 1062 (1973), and now conclude that, under the circumstances of this case, there was no violation of the protection afforded by the Amendments.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In 1968, respondent Arthur Ben Lewis, Jr., was tried and convicted by a jury in an Ohio state court for the first-degree murder of Paul Radcliffe. On appeal, the Supreme Court of Ohio affirmed the judgment of conviction. State v. Lewis, 22 Ohio St.2d 125, 258 N.E.2d 445 (1970). This Court denied review. Lewis v. Ohio, 400 U.S. 959 (1970).</p>
     <n id="p586">586</n>
     <p>On respondent's federal habeas application, the District Court, from the record and after an evidentiary hearing, adduced the following facts:</p>
@@ -44,7 +44,7 @@
     <p>was dispatched to remove the car from the parking lot to the police impoundment lot.</p>
     <p>The impounded car was examined the next day by a technician from the Ohio Bureau of Criminal Investigation. The tread of its right rear tire was found to match the cast of a tire impression made at the scene of the crime. [<a id="nf4" href="#fn4">Footnote 4</a>] The technician testified that, in his opinion, the foreign paint on the fender of Radcliffe's car was not different from the paint samples taken from respondent's vehicle, that is, there was no difference in color, texture, or order of layering of the paint.</p>
     <p>The District Court concluded that the seizure and examination of Lewis' car were violative of the Fourth and Fourteenth Amendments, and that the evidence obtained therefrom should have been excluded at the state court trial. The court, accordingly, issued a writ of habeas corpus requiring the State to "initiate action for a new trial of" respondent within 90 days or, in the alternative, to release him. 354 F. Supp. at 44. The Court of Appeals, in affirming, held that the scraping of paint from the exterior of Lewis' car was, in fact, a search within the meaning of the Fourth Amendment; that there was no consent to that search; that it was not incident to Lewis' arrest; and that the seizure of the car could not be justified on the ground that the vehicle was an instrumentality of the crime in plain view.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>This case is factually different from prior car search cases decided by this Court. The evidence with which we are concerned is not the product of a "search" that implicates</p>
     <n id="p589">589</n>
     <p>traditional considerations of the owner's privacy interest. It consisted of paint scrapings from the exterior and an observation of the tread of a tire on an operative wheel. The issue, therefore, is whether the examination of an automobile's exterior upon probable cause invades a right to privacy which the interposition of a warrant requirement is meant to protect. This is an issue this Court has not previously addressed.</p>
@@ -67,7 +67,7 @@
     <n id="p592">592</n>
     <p>simply, the invasion of privacy, "if it can be said to exist, is abstract and theoretical." Air Pollution Variance Board v. Western Alfalfa Corp., <a href="../us416/us416-0861.xml#p861">416 U. S. 861</a>, <a href="../us416/us416-0861.xml#p865">416 U. S. 865</a> (1974). Under circumstances such as these, where probable cause exists, a warrantless examination of the exterior of a car is not unreasonable under the Fourth and Fourteenth Amendments. [<a id="nf8" href="#fn8">Footnote 8</a>]</p>
     <p>Here, it has been established and is conceded that the police had probable cause to search Lewis' car. An automobile similar in color and model to his car had been seen leaving the scene of the crime. This similarity was corroborated by comparison of the paint scrapings taken from the victim's car with the color and paint of Lewis' automobile. Lewis had had repair work done on his car immediately following the death of the victim. And he had a nexus with Radcliffe on the day of death. All this provided reason to believe that the car was used in the commission of the crime for which Lewis was arrested. Cooper v. California, <a href="../us386/us386-0058.xml#p58">386 U. S. 58</a>, <a href="../us386/us386-0058.xml#p61">386 U. S. 61</a> (1967).</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Concluding, as we have, that the examination of the exterior of the vehicle upon probable cause was reasonable,</p>
     <n id="p593">593</n>
     <p>we have yet to determine whether the prior impoundment of the automobile rendered that examination a violation of the Fourth and Fourteenth Amendments. We do not think that, because the police impounded the car prior to the examination, which they could have made on the spot, there is a constitutional barrier to the use of the evidence obtained thereby. Under the circumstances of this case, the seizure itself was not unreasonable.</p>

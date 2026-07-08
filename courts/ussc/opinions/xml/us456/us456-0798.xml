@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us456-0798.html" citation="456 U.S. 798" title="United States v. Ross">
   <opinion type="Opinions &amp; Dissents">
     <n id="p798">798</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Ross, <a href="./us456-0798.xml#p798">456 U.S. 798</a> (1982)</h>
-    <h>United States v. Ross</h>
-    <h>No. 80-09</h>
-    <h>Argued March 1, 1982</h>
-    <h>Decided June 1, 1982</h>
-    <h><a href="./us456-0798.xml#p798">456 U.S. 798</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE DISTRICT OF COLUMBIA CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Ross, <a href="./us456-0798.xml#p798">456 U.S. 798</a> (1982)</h1>
+    <h2>United States v. Ross</h2>
+    <h2>No. 80-09</h2>
+    <h4>Argued March 1, 1982</h4>
+    <h4>Decided June 1, 1982</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE DISTRICT OF COLUMBIA CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Acting on information from an informant that a described individual was selling narcotics kept in the trunk of a certain car parked at a specified location, District of Columbia police officers immediately drove to the location, found the car there, and, a short while later, stopped the car and arrested the driver (respondent), who matched the informant's description. One of the officers opened the car's trunk, found a closed brown paper bag, and after opening the bag, discovered glassine bags containing white powder (later determined to be heroin). The officer then drove the car to headquarters, where another warrantless search of the trunk revealed a zippered leather pouch containing cash. Respondent was subsequently convicted of possession of heroin with intent to distribute -- the heroin and currency found in the searches having been introduced in evidence after respondent's pretrial motion to suppress the evidence had been denied. The Court of Appeals reversed, holding that, while the officers had probable cause to stop and search respondent's car -- including its trunk -- without a warrant, they should not have opened either the paper bag or the leather pouch found in the trunk without first obtaining a warrant.</p>
     <p>Held: Police officers who have legitimately stopped an automobile and who have probable cause to believe that contraband is concealed somewhere within it may conduct a warrantless search of the vehicle that is as thorough as a magistrate could authorize by warrant. Pp. <a href="./us456-0798.xml#p804">456 U. S. 804</a>-825.</p>
     <p>(a) The "automobile exception" to the Fourth Amendment's warrant requirement established in Carroll v. United States, <a href="../us267/us267-0132.xml#p132">267 U. S. 132</a>, applies to searches of vehicles that are supported by probable cause to believe that the vehicle contains contraband. In this class of cases, a search is not unreasonable if based on objective facts that would justify the issuance of a warrant, even though a warrant has not actually been obtained. Pp. <a href="./us456-0798.xml#p804">456 U. S. 804</a>-809.</p>
@@ -25,7 +25,7 @@
     <p>In Carroll v. United States, <a href="../us267/us267-0132.xml#p132">267 U. S. 132</a>, the Court held that a warrantless search of an automobile stopped by police officers who had probable cause to believe the vehicle contained contraband was not unreasonable within the meaning of the Fourth Amendment. The Court in Carroll did not explicitly</p>
     <n id="p800">800</n>
     <p>address the scope of the search that is permissible. In this case, we consider the extent to which police officers -- who have legitimately stopped an automobile and who have probable cause to believe that contraband is concealed somewhere within it -- may conduct a probing search of compartments and containers within the vehicle whose contents are not in plain view. We hold that they may conduct a search of the vehicle that is as thorough as a magistrate could authorize in a warrant "particularly describing the place to be searched." [<a id="nf1" href="#fn1">Footnote 1</a>]</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In the evening of November 27, 1978, an informant who had previously proved to be reliable telephoned Detective Marcum of the District of Columbia Police Department and told him that an individual known as "Bandit" was selling narcotics kept in the trunk of a car parked at 439 Ridge Street. The informant stated that he had just observed "Bandit" complete a sale, and that "Bandit" had told him that additional narcotics were in the trunk. The informant gave Marcum a detailed description of "Bandit" and stated that the car was a "purplish maroon" Chevrolet Malibu with District of Columbia license plates.</p>
     <p>Accompanied by Detective Cassidy and Sergeant Gonzales, Marcum immediately drove to the area and found a maroon Malibu parked in front of 439 Ridge Street. A license check disclosed that the car was registered to Albert Ross; a computer check on Ross revealed that he fit the informant's description and used the alias "Bandit." In two passes through the neighborhood the officers did not observe anyone matching the informant's description. To avoid alerting persons on the street, they left the area.</p>
     <n id="p801">801</n>
@@ -44,7 +44,7 @@
     <p>There is, however, no dispute among judges about the importance of striving for clarification in this area of the law. For countless vehicles are stopped on highways and public</p>
     <n id="p804">804</n>
     <p>streets every day, and our cases demonstrate that it is not uncommon for police officers to have probable cause to believe that contraband may be found in a stopped vehicle. In every such case, a conflict is presented between the individual's constitutionally protected interest in privacy and the public interest in effective law enforcement. No single rule of law can resolve every conflict, but our conviction that clarification is feasible led us to grant the Government's petition for certiorari in this case and to invite the parties to address the question whether the decision in Robbins should be reconsidered. 454 U.S. 891.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>We begin with a review of the decision in Carroll itself. In the fall of 1921, federal prohibition agents obtained evidence that George Carroll and John Kiro were "bootleggers" who frequently traveled between Grand Rapids and Detroit in an Oldsmobile Roadster. [<a id="nf5" href="#fn5">Footnote 5</a>] On December 15, 1921, the agents unexpectedly encountered Carroll and Kiro driving west on that route in that car. The officers gave pursuit, stopped the roadster on the highway, and directed Carroll and Kiro to get out of the car.</p>
     <p>No contraband was visible in the front seat of the Oldsmobile, and the rear portion of the roadster was closed. One of the agents raised the rumble, seat but found no liquor. He raised the seat cushion and again found nothing. The officer then struck at the "lazyback" of the seat and noticed that it was "harder than upholstery ordinarily is in those backs."</p>
     <n id="p805">805</n>
@@ -71,7 +71,7 @@
     <p>Id. at <a href="../us267/us267-0132.xml#p161">267 U. S. 161</a>-162 (quoting Director General of Railroads v. Kastenbaum, <a href="../us263/us263-0025.xml#p25">263 U. S. 25</a>, <a href="../us263/us263-0025.xml#p28">263 U. S. 28</a>). [<a id="nf10" href="#fn10">Footnote 10</a>]</p>
     <n id="p809">809</n>
     <p>In short, the exception to the warrant requirement established in Carroll -- the scope of which we consider in this case -- applies only to searches of vehicles that are supported by probable cause. [<a id="nf11" href="#fn11">Footnote 11</a>] In this class of cases, a search is not unreasonable if based on facts that would justify the issuance of a warrant, even though a warrant has not actually been obtained. [<a id="nf12" href="#fn12">Footnote 12</a>]</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The rationale justifying a warrantless search of an automobile that is believed to be transporting contraband arguably applies with equal force to any movable container that is believed to be carrying an illicit substance. That argument,</p>
     <n id="p810">810</n>
     <p>however, was squarely rejected in United States v. Chadwick, <a href="../us433/us433-0001.xml#p1">433 U. S. 1</a>.</p>
@@ -112,7 +112,7 @@
     <n id="p817">817</n>
     <p>and JUSTICE POWELL concluded that institutional constraints made it inappropriate to reexamine basic doctrine without full adversary presentation. He concurred in the judgment, since it was supported -- although not compelled -- by the Court's opinion in Sanders, and stated that a future case might present a better opportunity for thorough consideration of the basic principles in this troubled area.</p>
     <p>That case has arrived. Unlike Chadwick and Sanders, in this case, police officers had probable cause to search respondent's entire vehicle. [<a id="nf22" href="#fn22">Footnote 22</a>] Unlike Robbins, in this case, the parties have squarely addressed the question whether, in the course of a legitimate warrantless search of an automobile, police are entitled to open containers found within the vehicle. We now address that question. Its answer is determined by the scope of the search that is authorized by the exception to the warrant requirement set forth in Carroll.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>In Carroll itself, the whiskey that the prohibition agents seized was not in plain view. It was discovered only after an officer opened the rumble seat and tore open the upholstery of the lazyback. The Court did not find the scope of the search unreasonable. Having stopped Carroll and Kiro on a public road and subjected them to the indignity of a vehicle</p>
     <n id="p818">818</n>
     <p>search -- which the Court found to be a reasonable intrusion on their privacy because it was based on probable cause that their vehicle was transporting contraband -- prohibition agents were entitled to tear open a portion of the roadster itself. The scope of the search was no greater than a magistrate could have authorized by issuing a warrant based on the probable cause that justified the search. Since such a warrant could have authorized the agents to open the rear portion of the roadster and to rip the upholstery in their search for concealed whiskey, the search was constitutionally permissible.</p>
@@ -135,7 +135,7 @@
     <p>In the same manner, an individual's expectation of privacy in a vehicle and its contents may not survive if probable cause is given to believe that the vehicle is transporting contraband. Certainly the privacy interests in a car's trunk or glove compartment may be no less than those in a movable container. An individual undoubtedly has a significant interest that the upholstery of his automobile will not be ripped or a hidden compartment within it opened. These interests must yield to the authority of a search, however, which -- in light of Carroll -- does not itself require the prior approval of a magistrate. The scope of a warrantless search based on probable cause is no narrower -- and no broader -- than the scope of a search authorized by a warrant supported by probable cause. Only the prior approval of the magistrate is waived; the search otherwise is as the magistrate could authorize. [<a id="nf32" href="#fn32">Footnote 32</a>]</p>
     <n id="p824">824</n>
     <p>The scope of a warrantless search of an automobile thus is not defined by the nature of the container in which the contraband is secreted. Rather, it is defined by the object of the search and the places in which there is probable cause to believe that it may be found. Just as probable cause to believe that a stolen lawnmower may be found in a garage will not support a warrant to search an upstairs bedroom, probable cause to believe that undocumented aliens are being transported in a van will not justify a warrantless search of a suitcase. Probable cause to believe that a container placed in the trunk of a taxi contains contraband or evidence does not justify a search of the entire cab.</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>Our decision today is inconsistent with the disposition in Robbins v. California and with the portion of the opinion in Arkansas v. Sanders on which the plurality in Robbins relied. Nevertheless, the doctrine of stare decisis does not preclude this action. Although we have rejected some of the reasoning in Sanders, we adhere to our holding in that case; although we reject the precise holding in Robbins, there was no Court opinion supporting a single rationale for its judgment, and the reasoning we adopt today was not presented by the parties in that case. Moreover, it is clear that no legitimate reliance interest can be frustrated by our decision today. [<a id="nf33" href="#fn33">Footnote 33</a>] Of greatest importance, we are convinced that the rule we apply in this case is faithful to the interpretation of the Fourth Amendment that the Court has followed with substantial consistency throughout our history.</p>
     <p>We reaffirm the basic rule of Fourth Amendment jurisprudence stated by Justice Stewart for a unanimous Court in Mincey v. Arizona, <a href="../us437/us437-0385.xml#p385">437 U. S. 385</a>, <a href="../us437/us437-0385.xml#p390">437 U. S. 390</a>:</p>
     <n id="p825">825</n>
@@ -293,7 +293,7 @@
       <p>"The warrant traditionally has represented an independent assurance that a search and arrest will not proceed without probable cause to believe that a crime has been committed, and that the person or place named in the warrant is involved in the crime. Thus, an issuing magistrate must meet two tests. He must be neutral and detached, and he must be capable of determining whether probable cause exists for the requested arrest or search. This Court long has insisted that inferences of probable cause be drawn by"</p>
       <p>"a neutral and detached magistrate, instead of being judged by the officer engaged in the often competitive enterprise of ferreting out crime."</p>
       <p>Shadwick v. City of Tampa, <a href="../us407/us407-0345.xml#p345">407 U. S. 345</a>, <a href="../us407/us407-0345.xml#p350">407 U. S. 350</a> (1972), quoting Johnson v. United States, <a href="../us333/us333-0010.xml#p10">333 U. S. 10</a>, <a href="../us333/us333-0010.xml#p14">333 U. S. 14</a> (1948). A police officer on the beat hardly satisfies these standards. In adopting today's new rule, the majority opinion shows contempt for these Fourth Amendment values, ignores this Court's precedents, is internally inconsistent, and produces anomalous and unjust consequences. I therefore dissent.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>According to the majority, whenever police have probable cause to believe that contraband may be found within an</p>
       <n id="p828">828</n>
       <p>automobile that they have stopped on the highway, [Footnote 2/1] they may search not only the automobile but also any container found inside it, without obtaining a warrant. The scope of the search, we are told, is as broad as a magistrate could authorize in a warrant to search the automobile. The majority makes little attempt to justify this rule in terms of recognized Fourth Amendment values. The Court simply ignores the critical function that a magistrate serves. And although the Court purports to rely on the mobility of an automobile and the impracticability of obtaining a warrant, it never explains why these concerns permit the warrantless search of a container, which can easily be seized and immobilized while police are obtaining a warrant.</p>
@@ -334,7 +334,7 @@
       <n id="p835">835</n>
       <p>searched without a warrant." Ante at <a href="./us456-0798.xml#p812">456 U. S. 812</a>. Although there is no need to describe the exact contours of that protection in this dissenting opinion, it is clear enough that closed, opaque containers -- regardless of whether they are "worthy" or are always used to store personal items -- are ordinarily fully protected. Cf. Sanders, supra, at <a href="../us442/us442-0753.xml#p764">442 U. S. 764</a>, n. 13. [Footnote 2/4]</p>
       <p>Here, because respondent Ross had placed the evidence in question in a closed paper bag, the container could be seized, but not searched, without a warrant. No practical exigencies required the warrantless searches on the street or at the station: Ross had been arrested and was in custody when both searches occurred, and the police succeeded in transporting the bag to the station without inadvertently spilling its contents. [Footnote 2/5]</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>In announcing its new rule, the Court purports to rely on earlier automobile search cases, especially Carroll v. United States. The Court's approach, however, far from being "faithful to the interpretation of the Fourth Amendment that the Court has followed with substantial consistency throughout our history," ante at <a href="./us456-0798.xml#p824"> 456 U. S. 824</a>, is plainly contrary to the letter and the spirit of our prior automobile search cases. Moreover, the new rule produces anomalous and unacceptable consequences.</p>
       <n id="p836">836</n>
       <p>A</p>
@@ -365,7 +365,7 @@
       <p>Alternatively, the majority may be suggesting that Chadwick and Sanders may be explained because the connection of the container to the vehicle was incidental in these two cases. That is, because police had preexisting probable cause to seize and search the containers, they were not entitled to wait until the item was placed in a vehicle to take advantage of the automobile exception. Cf. Coolidge v. New Hampshire, <a href="../us403/us403-0443.xml#p443">403 U. S. 443</a> (1971); 2 W. LaFave, Search and Seizure 519-525 (1978). I wholeheartedly agree that police cannot employ a pretext to escape Fourth Amendment prohibitions, and cannot rely on an exigency that they could easily have avoided. This interpretation, however, might well be an exception that swallows up the majority's rule. In neither Chadwick nor Sanders did the Court suggest that the delay of the police was a pretext for taking advantage of the automobile exception. For all that appears, the Government may have had legitimate reasons for not searching as soon as they had probable cause. In any event, asking police to rely</p>
       <n id="p841">841</n>
       <p>on such an uncertain line in distinguishing between legitimate and illegitimate searches for containers in automobiles hardly indicates that the majority's approach has brought clarification to this area of the law. Ante at <a href="./us456-0798.xml#p804">456 U. S. 804</a>; see Robbins, 453 U.S. at <a href="../us453/us453-0420.xml#p435">453 U. S. 435</a> (POWELL, J., concurring in judgment). [Footnote 2/11]</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>The Court today ignores the clear distinction that Chadwick established between movable containers and automobiles. It also rejects all of the relevant reasoning of Sanders [Footnote 2/12] and offers a substitute rationale that appears inconsistent with the result. See supra at <a href="./us456-0798.xml#p832">456 U. S. 832</a>. Sanders is therefore effectively overruled. And the Court unambiguously overrules "the disposition" of Robbins, ante at <a href="./us456-0798.xml#p824">456 U. S. 824</a>, though it gingerly avoids stating that it is overruling the case itself.</p>
       <p>The only convincing explanation I discern for the majority's broad rule is expediency: it assists police in conducting</p>
       <n id="p842">842</n>

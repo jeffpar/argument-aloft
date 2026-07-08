@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us428-0325.html" citation="428 U.S. 325" title="Roberts v. Louisiana">
   <opinion type="Opinions &amp; Dissents">
     <n id="p325">325</n>
-    <h>U.S. Supreme Court</h>
-    <h>Roberts v. Louisiana, <a href="./us428-0325.xml#p325">428 U.S. 325</a> (1976)</h>
-    <h>Roberts v. Louisiana</h>
-    <h>No. 75-5844</h>
-    <h>Argued March 30-31, 1976</h>
-    <h>Decided July 2, 1976</h>
-    <h><a href="./us428-0325.xml#p325">428 U.S. 325</a></h>
-    <h>CERTIORARI TO THE SUPREME COURT OF LOUISIANA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Roberts v. Louisiana, <a href="./us428-0325.xml#p325">428 U.S. 325</a> (1976)</h1>
+    <h2>Roberts v. Louisiana</h2>
+    <h2>No. 75-5844</h2>
+    <h4>Argued March 30-31, 1976</h4>
+    <h4>Decided July 2, 1976</h4>
+    <h2>CERTIORARI TO THE SUPREME COURT OF LOUISIANA</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner was found guilty of first-degree murder and sentenced to death under amended Louisiana statutes enacted after this Court's decision in Furman v. Georgia, <a href="../us408/us408-0238.xml#p238">408 U. S. 238</a>. The Louisiana Supreme Court affirmed, rejecting petitioner's contention that the new procedure for imposing the death penalty is unconstitutional. The post-Furman legislation mandates imposition of the death penalty whenever, with respect to five categories of homicide (here, killing during the perpetration of an armed robbery), the jury finds the defendant had a specific intent to kill or to inflict great bodily harm. If a verdict of guilty of first-degree murder is returned, death is mandated regardless of any mercy recommendation. Every jury is instructed on the crimes of second-degree murder and manslaughter and permitted to consider those verdicts even if no evidence supports the lesser verdicts; and, if a lesser verdict is returned it is treated as an acquittal of all greater charges.</p>
     <p>Held: The judgment is reversed insofar as it upheld the death sentence, and the case is remanded. Pp. <a href="./us428-0325.xml#p331">428 U. S. 331</a>-336; <a href="./us428-0325.xml#p336">428 U. S. 336</a>; <a href="./us428-0325.xml#p336">428 U. S. 336</a>-337.</p>
     <p><a href="https://law.justia.com/cases/louisiana/supreme-court/1975/319-so-2d-317-1.html">319 So. 2d 317</a>, reversed and remanded.</p>
@@ -27,14 +27,14 @@
     <n id="p327">327</n>
     <p>Judgment of the Court, and opinion of MR. JUSTICE STEWART, MR. JUSTICE POWELL, and MR. JUSTICE STEVENS, announced by MR. JUSTICE STEVENS.</p>
     <p>The question in this case is whether the imposition of the sentence of death for the crime of first-degree murder under the law of Louisiana violates the Eighth and Fourteenth Amendments.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>On August 18, 1973, in the early hours of the morning, Richard G. Lowe was found dead in the office of the Lake Charles, La., gas station where he worked. He had been shot four times in the head. Four men -- the petitioner, Huey Cormier, Everett Walls, and Calvin Arceneaux -- were arrested for complicity in the murder. The petitioner was subsequently indicated by a grand jury on a presentment that he</p>
     <p>"[d]id unlawfully with the specific intent to kill or to inflict great bodily harm, while engaged in the armed robbery of Richard G. Lowe, commit first degree murder by killing one Richard G. Lowe, in violation of Section One (1) of LSA-R.S. 14:30."</p>
     <p>At the petitioner's trial, Cormier, Walls, and Arceneaux testified for the prosecution. Their testimony established that, just before midnight on August 17, the petitioner discussed with Walls and Cormier the subject of "ripping off that old man at the station," and that, on the early morning of August 18, Arceneaux and the petitioner went to the gas station on the pretext of seeking employment. After Lowe told them that there were no jobs available, they surreptitiously made their way into</p>
     <n id="p328">328</n>
     <p>the office of the station, where Arceneaux removed a pistol from a desk drawer. The petitioner insisted on taking possession of the pistol. When Lowe returned to the office, the petitioner and Arceneaux assaulted him and then shoved him into a small back room. Shortly thereafter, a car drove up. Arceneaux went out and, posing as the station attendant, sold the motorist about three dollars' worth of gasoline. While still out in front, Arceneaux heard four shots from inside the station. He went back inside and found the petitioner gone and Lowe lying bleeding on the floor. Arceneaux grabbed some empty "money bags" and ran.</p>
     <p>The jury found the petitioner guilty as charged. As required by state law, the trial judge sentenced him to death. The Supreme Court of Louisiana affirmed the judgment. <a href="https://law.justia.com/cases/louisiana/supreme-court/1975/319-so-2d-317-1.html">319 So. 2d 317</a> (1975). We granted certiorari, 423 U.S. 1082 (1976), to consider whether the imposition of the death penalty in this case violates the Eighth and Fourteenth Amendments of the United States Constitution.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The Louisiana Legislature, in 1973, amended the state statutes relating to murder and the death penalty in apparent response to this Court's decision in Furman v. Georgia, <a href="../us408/us408-0238.xml#p238">408 U. S. 238</a> (1972). Before these amendments, Louisiana law defined the crime of "murder" as the killing of a human being by an offender with a specific intent to kill or to inflict great bodily harm, or by an offender engaged in the perpetration or attempted perpetration of certain serious felonies, even without an intent to kill. [<a id="nf1" href="#fn1">Footnote 1</a>] The jury was free to return any of four verdicts:</p>
     <n id="p329">329</n>
     <p>guilty, guilty without capital punishment, guilty of manslaughter, or not guilty. [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
@@ -44,9 +44,9 @@
     <p>Under the former statute, the jury had the unfettered choice in any case where it found the defendant guilty of murder of returning either a verdict of guilty, which required the imposition of the death penalty, or a verdict of guilty without capital punishment, in which case the punishment was imprisonment at hard labor for life. [<a id="nf5" href="#fn5">Footnote 5</a>]</p>
     <n id="p331">331</n>
     <p>Under the new statute, the jury is required to determine only whether both conditions existed at the time of the killing; if there was a specific intent to kill or to inflict great bodily harm, and the offender was engaged in an armed robbery, the offense is first-degree murder and the mandatory punishment is death. If only one of these conditions existed, the offense is second-degree murder and the mandatory punishment is imprisonment at hard labor for life. Any qualification or recommendation which a jury might add to its verdict -- such as a recommendation of mercy where the verdict is guilty of first-degree murder -- is without any effect. [<a id="nf6" href="#fn6">Footnote 6</a>]</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The petitioner argues that the imposition of the death penalty under any circumstances is cruel and unusual punishment in violation of the Eighth and Fourteenth Amendments. We reject this argument for the reasons stated today in Gregg v. Georgia, ante at <a href="./us428-0153.xml#p168">428 U. S. 168</a>-187.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>Louisiana, like North Carolina, has responded to Furman by replacing discretionary jury sentencing in capital cases with mandatory death sentences. Under the present Louisiana law, all persons found guilty of first-degree murder, aggravated rape, aggravated kidnaping, or treason are automatically sentenced to death. See La.Rev.Stat.Ann. § § 14:30, 14:42, 14:44, 14:113 (1974).</p>
     <p>There are two major differences between the Louisiana and North Carolina statutes governing first-degree murder cases. First, the crime of first-degree murder in North Carolina includes any willful, deliberate, and</p>
     <n id="p332">332</n>
@@ -134,7 +134,7 @@
       <n id="p339">339</n>
       <p>jury verdicts in first-degree murder cases are also specified by statute. As amended in 1973, these "responsive verdicts," as to which juries were to be instructed in every first-degree murder case, are: "guilty," "guilty of second degree murder," "guilty of manslaughter," and "not guilty." La.Code Crim.Proc., Art. 814(A)(1) (Supp. 1975).</p>
       <p>The issue in this case is whether the imposition of the death penalty under this statutory scheme upon a defendant found guilty of first-degree murder is consistent with the Eighth Amendment, which forbids the infliction of "cruel and unusual punishments" and which, by virtue of the Fourteenth Amendment, is binding upon the States. Robinson v. California, <a href="../us370/us370-0660.xml#p660">370 U. S. 660</a> (1962). I am convinced that it is, and dissent from the Court's judgment.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>On August 18, 1973, Richard G. Lowe of Lake Charles, La., was found dead in the Texaco service station where</p>
       <n id="p340">340</n>
       <p>he worked as an attendant. He had been shot four times in the head with a pistol which was not found on the scene, but which, as it turned out, had been kept by the station manager in a drawer near the cash register. The gun was later recovered from the owner of a bar, and was traded to petitioner, who was charged with first-degree murder in an indictment alleging that, "with the specific intent to kill or to inflict great bodily harm," and "while engaged in . . . armed robbery," he had killed Richard G. Lowe.</p>
@@ -165,7 +165,7 @@
       <p>"If you are not convinced beyond a reasonable doubt that the defendant is guilty of murder in the first degree or murder in the second degree, but you are convinced beyond a reasonable doubt that the defendant is guilty of manslaughter, the form of your verdict would be: 'We, the jury, find the defendant guilty of manslaughter.'"</p>
       <p>"If you are not convinced that the defendant is guilty of murder in the first degree, murder in the second degree or manslaughter, the form of your verdict would be: 'We, the jury, find the defendant not guilty.'"</p>
       <p>The jury found the defendant guilty of first-degree murder, and the death sentence was imposed. On appeal, the conviction was affirmed, the Louisiana Supreme Court rejecting petitioner's challenge to the death penalty based on the Eighth Amendment. <a href="https://law.justia.com/cases/louisiana/supreme-court/1975/319-so-2d-317-1.html">319 So. 2d 317</a> (1975).</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>Petitioner mounts a double attack on the death penalty imposed upon him: first, that the statute under which his sentence was imposed is too little different from</p>
       <n id="p345">345</n>
       <p>the provision. at issue in Furman v. Georgia to escape the strictures of our decision in that case; second, that death is a cruel and unusual punishment for any crime committed by any defendant under any conditions, an argument presented in Furman and there rejected by four of the six Justices who addressed the issue. I disagree with both submissions.</p>
@@ -189,8 +189,8 @@
       <n id="p350">350</n>
       <p>to expect the power to be exercised by the Executive Branch whenever it is concluded that the criminal justice system has unjustly convicted a defendant of first-degree murder and sentenced him to death. The country's experience with the commutation power does not suggest that it is a senseless lottery, that it operates in an arbitrary or discriminatory manner, or that it will lead to reducing the death penalty to a merely theoretical threat that is imposed only on the luckless few.</p>
       <p>I cannot conclude, as do MR. JUSTICE STEWART, MR. JUSTICE POWELL, and MR. JUSTICE STEVENS (hereinafter the plurality), that, under the present Louisiana law, capital punishment will occur so seldom, discriminatorily, or freakishly that it will fail to satisfy the Eighth Amendment as construed and applied in Furman v. Georgia.</p>
-      <h>III</h>
-      <p>I also cannot agree with the petitioner's other basic argument that the death penalty, however imposed and for whatever crime, is cruel and unusual punishment. The opposing positions on this issue, as well as the history of the death penalty, were fully canvassed by various Justices in their separate opinions in Furman v. Georgia, and these able and lucid presentations need not be repeated here. It is plain enough that the Constitution drafted by the Framers expressly made room for the death penalty. The Fifth Amendment provides that "no person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury . . . ," and that no person shall be "twice put in jeopardy of life or limb . . . nor be deprived of life . . . without due process of law." The Fourteenth Amendment, adopted three-quarters of a century later, likewise enjoined the States from depriving any person of "his life" without due process of law.</p>
+      <h2>III</h2>
+      <p>I also cannot agree with the petitioner's other basic argument that the death penalty, however imposed and for whatever crime, is cruel and unusual punishment. The opposing positions on this issue, as well as the history of the death penalty, were fully canvassed by various Justices in their separate opinions in Furman v. Georgia, and these able and lucid presentations need not be repeated here. It is plain enough that the Constitution drafted by the Framers expressly made room for the death penalty. The Fifth Amendment provides that "no person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a Grand Jury . . .," and that no person shall be "twice put in jeopardy of life or limb . . . nor be deprived of life . . . without due process of law." The Fourteenth Amendment, adopted three-quarters of a century later, likewise enjoined the States from depriving any person of "his life" without due process of law.</p>
       <n id="p351">351</n>
       <p>Since the very first Congress, federal law has defined crimes for which the death penalty is authorized. Capital punishment has also been part of the criminal justice system of the great majority of the States ever since the Union was first organized. Until Furman v. Georgia, this Court's opinions, if they did not squarely uphold the death penalty, consistently assumed its constitutionality. Wilkerson v. Utah, <a href="../us099/us099-0130.xml#p130">99 U. S. 130</a> (1879); In re Kemmler, <a href="../us136/us136-0436.xml#p436">136 U. S. 436</a> (1890); Louisiana ex rel . Francis v. Resweber, <a href="../us329/us329-0459.xml#p459">329 U. S. 459</a> (1947); McGautha v. California, <a href="../us402/us402-0183.xml#p183">402 U. S. 183</a> (1971); Witherspoon v. Illinois, <a href="../us391/us391-0510.xml#p510">391 U. S. 510</a> (1968). In Trop v. Dulles, <a href="../us356/us356-0086.xml#p86">356 U. S. 86</a>, <a href="../us356/us356-0086.xml#p99">356 U. S. 99</a> (1958), four Members of the Court -- Mr. Chief Justice Warren and Justices Black, Douglas, and Whittaker -- agreed that,</p>
       <p>"[w]hatever the arguments may be against capital punishment, both on moral grounds and in terms of accomplishing the purposes of punishment -- and they are forceful -- the death penalty has been employed throughout our history, and, in a day when it is still widely accepted, it cannot be said to violate the constitutional concept of cruelty."</p>
@@ -209,7 +209,7 @@
       <p>It will not do to denigrate these legislative judgments as some form of vestigial savagery or as purely retributive in motivation, for they are solemn judgments, reasonably based, that imposition of the death penalty will save the lives of innocent persons. This concern for life and human values, and the sincere efforts of the States to pursue them, are matters of the greatest moment, with which the judiciary should be most reluctant to interfere. The issue is not whether, had we been legislators, we would have supported or opposed the capital punishment statutes presently before us. The question here under discussion is whether the Eighth Amendment requires us to interfere with the enforcement of these statutes on the grounds that a sentence of life imprisonment for the crimes at issue would as well have served the ends of criminal justice. In my view, the Eighth Amendment</p>
       <n id="p356">356</n>
       <p>provides no warrant for overturning these convictions on these grounds.</p>
-      <h>IV</h>
+      <h2>IV</h2>
       <p>The plurality offers two additional reasons for invalidating the Louisiana statute, neither of which had been raised by the parties and with both of which I disagree.</p>
       <p>The plurality holds the Louisiana statute unconstitutional for want of a separate sentencing proceeding in which the sentencing authority may focus on the sentence and consider some or all of the aggravating and mitigating circumstances. In McGautha v. California, <a href="../us402/us402-0183.xml#p183">402 U. S. 183</a> (1971), after having heard the same issues argued twice before in Maxwell v. Bishop, <a href="../us398/us398-0262.xml#p262">398 U. S. 262</a> (1970), we specifically rejected the claims that a defendant's "constitutional rights were infringed by permitting the jury to impose the death penalty without governing standards," and that</p>
       <p>"the jury's imposition of the death sentence in the same proceeding and verdict as determined the issue of guilt was [not] constitutionally permissible."</p>
@@ -241,7 +241,7 @@
       <n id="p363">363</n>
       <p>prefer that these States had adopted a different system, but the issue is not our individual preferences, but the constitutionality of the mandatory systems chosen by these two States. I see no warrant under the Eighth Amendment for refusing to uphold these statutes.</p>
       <p>Indeed, the more fundamental objection than the plurality's muddled reasoning is that, in Gregg v. Georgia, ante at <a href="./us428-0153.xml#p174">428 U. S. 174</a>-176, it lectures us at length about the role and place of the judiciary, and then proceeds to ignore its own advice, the net effect being to suggest that observers of this institution should pay more attention to what we do than what we say. The plurality claims that it has not forgotten what the past has taught about the limits of judicial review; but I fear that it has again surrendered to the temptation to make policy for, and to attempt to govern, the country through a misuse of the powers given this Court under the Constitution.</p>
-      <h>V</h>
+      <h2>V</h2>
       <p>I conclude that § 14:30 of the Louisiana statutes imposing the death penalty for first-degree murder is not unconstitutional under the Eighth Amendment. I am not impressed with the argument that this result reduces the Amendment to little more than mild advice from the Framers to state legislators. Weems, Trop, and Furman bear witness to the contrary.</p>
       <p>For the foregoing reasons, I dissent.</p>
       <p>[Footnote 2/1]</p>

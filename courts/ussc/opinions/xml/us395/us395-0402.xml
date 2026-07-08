@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us395-0402.html" citation="395 U.S. 402" title="Willingham v. Morgan">
   <opinion type="Opinions &amp; Dissents">
     <n id="p402">402</n>
-    <h>U.S. Supreme Court</h>
-    <h>Willingham v. Morgan, <a href="./us395-0402.xml#p402">395 U.S. 402</a> (1969)</h>
-    <h>Willingham v. Morgan</h>
-    <h>No. 228</h>
-    <h>Argued April 22, 1969</h>
-    <h>Decided June 9, 1969</h>
-    <h><a href="./us395-0402.xml#p402">395 U.S. 402</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE TENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Willingham v. Morgan, <a href="./us395-0402.xml#p402">395 U.S. 402</a> (1969)</h1>
+    <h2>Willingham v. Morgan</h2>
+    <h2>No. 228</h2>
+    <h4>Argued April 22, 1969</h4>
+    <h4>Decided June 9, 1969</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE TENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondent, a federal prisoner, brought a tort action in state court against petitioners, the warden and chief medical officer of a federal penitentiary, who then petitioned for removal of the action to the United States District Court under 28 U.S.C. § 1442(a)(1). That statute allows removal to federal courts of any civil action against a federal officer "for any act under color of [his] office." Petitioners on removal moved for summary judgment, submitting affidavits that their only contacts with respondent had been in the performance of their official duties as warden within the penitentiary confines and at the prison hospital, respectively, which respondent did not deny in his responsive affidavit. The District Court denied respondent's motion to remand and granted summary judgment, holding that the official immunity doctrine of Barr v. Mateo, <a href="../us360/us360-0564.xml#p564">360 U. S. 564</a>, barred respondent's recovery of damages. The Court of Appeals, without reaching the immunity issue, found insufficient basis in the record to support the District Court's refusal to remand to the state court, holding that the "color of office" test for removal under § 1442(a)(1) is "much narrower" than the "official immunity" standard of Barr v. Mateo, supra.</p>
     <p>Held:</p>
     <p>1. The right of removal under § 1442(a)(1) is made absolute whenever a suit in a state court is for any act "under color" of federal office, and the test for removal under that statute is broader, not narrower, than the test for official immunity. Pp. <a href="./us395-0402.xml#p404">395 U. S. 404</a>-407.</p>
@@ -22,7 +22,7 @@
     <p>This case raises some important questions about the power of federal officials to have actions brought against them removed to the federal courts. Petitioners Willingham and Jarvis are, respectively, the warden and chief medical officer at the United States Penitentiary at Leavenworth, Kansas. Respondent Morgan was a prisoner at the penitentiary at the time he filed this suit in the Leavenworth County District Court. He alleged in his complaint that petitioners and other, anonymous, defendants had on numerous occasions inoculated him with "a deleterious foreign substance" and had assaulted, beaten, and tortured him in various ways, to his great injury. He asked for a total of $3,285,000 in damages from petitioners alone, plus other amounts from the unnamed defendants. Petitioners filed a petition for removal of the action to the United States District Court for the District of Kansas, alleging that anything they may have done to respondent "was done and made by them in the course of their duties as officers of the United States of America . . . and under color of such offices. . . ." Petitioners invoked 28 U.S.C. § 1442(a)(1), which allows removal to the federal courts of any civil action against "[a]ny officer of the United States . . . for any act</p>
     <n id="p404">404</n>
     <p>under color of such office. . . ." [<a id="nf1" href="#fn1">Footnote 1</a>] The Federal District Judge denied respondent's motion to remand the case to the state courts and granted summary judgment to petitioners, holding that recovery of damages was barred by the official immunity doctrine of Barr v. Matteo, <a href="../us360/us360-0564.xml#p564">360 U. S. 564</a> (1959). Thereafter, respondent perfected an appeal to the Court of Appeals for the Tenth Circuit. That court found it unnecessary to decide the immunity question, for it found insufficient basis in the record to support the District Court's refusal to remand the case to the state courts. 383 F.2d 139 (1967). The District Court was reversed and the case remanded for further proceedings. Upon the Solicitor General's petition, we granted certiorari to consider whether the Court of Appeals decided the removal question erroneously. [<a id="nf2" href="#fn2">Footnote 2</a>] <a href="../us393/us393-0097.xml#p97">393 U. S. 97</a> (1968). We reverse.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The court below held that the "color of office" test of § 1442(a)(1) "provides a rather limited basis for removal." 383 F.2d at 141. It noted that the record might well have supported a finding that petitioners were protected from a damage suit by the official immunity</p>
     <n id="p405">405</n>
     <p>doctrine. But it held that the test for removal was "much narrower" than the test for official immunity, 383 F.2d at 142, and accordingly that petitioners might have to litigate their immunity defense in the state courts. The Government contends that this turns the removal statute on its head. It argues that the removal statute is an incident of federal supremacy, and that one of its purposes was to provide a federal forum for cases where federal officials must raise defenses arising from their official duties. On this view, the test for removal should be broader, not narrower, than the test for official immunity. We agree.</p>
@@ -35,7 +35,7 @@
     <p>Viewed in this context, the ruling of the court below cannot be sustained. The federal officer removal statute is not "narrow" or "limited." Colorado v. Symes, <a href="../us286/us286-0510.xml#p510">286 U. S. 510</a>, <a href="../us286/us286-0510.xml#p517">286 U. S. 517</a> (1932). At the very least, it is broad enough to cover all cases where federal officers can raise</p>
     <n id="p407">407</n>
     <p>a colorable defense arising out of their duty to enforce federal law. One of the primary purposes of the removal statute -- as its history clearly demonstrates -- was to have such defenses litigated in the federal courts. The position of the court below would have the anomalous result of allowing removal only when the officers had a clearly sustainable defense. The suit would be removed only to be dismissed. Congress certainly meant more than this when it chose the words "under color of . . . office." In fact, one of the most important reasons for removal is to have the validity of the defense of official immunity tried in a federal court. The officer need not win his case before he can have it removed. In cases like this one, Congress has decided that federal officers, and indeed the Federal Government itself, require the protection of a federal forum. This policy should not be frustrated by a narrow, grudging interpretation of § 142(a)(1).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The question remains, however, whether the record in this case will support a finding that respondent's suit grows out of conduct under color of office, and that it is, therefore, removable. Respondent alleged in his motion for remand that petitioners had been acting "on a frolic of their own which had no relevancy to their official duties as employees or officers of the United States." He argued that, in these circumstances, the case should be remanded to the state courts. The only facts in the record which in any way respond to this allegation appear in petitioners' affidavits in support of their motion for summary judgment. [<a id="nf3" href="#fn3">Footnote 3</a>] There, petitioner Willingham declares</p>
     <n id="p408">408</n>
     <p>that the only contact he has had with respondent was</p>

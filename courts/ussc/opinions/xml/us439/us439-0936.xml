@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us439-0936.html" citation="439 U.S. 936" title="MCKETHAN v. U.S">
   <opinion type="Opinions &amp; Dissents">
     <n id="p936">936</n>
-    <h>U.S. Supreme Court</h>
-    <h>MCKETHAN v. U.S , <a href="./us439-0936.xml#p936">439 U.S. 936</a> (1978)</h>
-    <h> <a href="./us439-0936.xml#p936">439 U.S. 936</a></h>
-    <h>Everett C. McKETHAN v. UNITED STATES No. 77-1545</h>
-    <h>Earl A. GARNER v. UNITED STATES No. 77-1557</h>
-    <h>Supreme Court of the United States</h>
-    <h>October 30, 1978</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>MCKETHAN v. U.S, <a href="./us439-0936.xml#p936">439 U.S. 936</a> (1978)</h1>
+    <h2>Everett C. McKETHAN v. UNITED STATES No. 77-1545</h2>
+    <h2>Earl A. GARNER v. UNITED STATES No. 77-1557</h2>
+    <h2>Supreme Court of the United States</h2>
+    <h4>October 30, 1978</h4>
     <p>On petitions for writs of certiorari to United States Court of Appeals for the Fourth Circuit.</p>
     <p>The petitions for writs of certiorari are denied.</p>
     <p>Mr. Justice STEWART, with whom Mr. Justice MARSHALL joins, dissenting.</p>
@@ -30,7 +30,7 @@
     <p>I would grant certiorari to determine the limits placed upon</p>
     <n id="p940">940</n>
     <p>the admissibility of this kind of evidence by either the Federal Rules of Evidence or the Constitution.</p>
-    <h>Footnotes</h>
+    <h2>Footnotes</h2>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>
       <p>Garner also contends that the prosecution proved that he participated in no more than one conspiracy. Thus, he argues that he should not have received consecutive sentences after conviction on the two conspiracy counts. I believe the Court of Appeals properly decided this issue, and would limit the grant of certiorari to the evidentiary question.</p>
     </f>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us327-0678.html" citation="327 U.S. 678" title="Bell v. Hood">
   <opinion type="Opinions &amp; Dissents">
     <n id="p678">678</n>
-    <h>U.S. Supreme Court</h>
-    <h>Bell v. Hood, <a href="./us327-0678.xml#p678">327 U.S. 678</a> (1946)</h>
-    <h>Bell v. Hood</h>
-    <h>No. 344</h>
-    <h>Argued January 29, 1946</h>
-    <h>Decided April 1, 1946</h>
-    <h><a href="./us327-0678.xml#p678">327 U.S. 678</a></h>
-    <h>CERTIORARI TO THE CIRCUIT COURT OF APPEALS</h>
-    <h>FOR THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Bell v. Hood, <a href="./us327-0678.xml#p678">327 U.S. 678</a> (1946)</h1>
+    <h2>Bell v. Hood</h2>
+    <h2>No. 344</h2>
+    <h4>Argued January 29, 1946</h4>
+    <h4>Decided April 1, 1946</h4>
+    <h2>CERTIORARI TO THE CIRCUIT COURT OF APPEALS</h2>
+    <h2>FOR THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>1. Where the complaint seeks recovery squarely on the ground of violation of plaintiffs' rights under the Fourth and Fifth Amendments, a federal district court has jurisdiction of a suit against agents of the Federal Government to recover damages in excess of $3,000 alleged to have been suffered by the plaintiffs as a result of such violations -- even though neither the Constitution nor the Congress has provided for the recovery of money damages for such violations and the complaint is so framed as possibly to state a common law action in tort or trespass. Pp. <a href="./us327-0678.xml#p680">327 U. S. 680</a>-685.</p>
     <p>2. Where a complaint in a federal court is so drawn as to seek recovery directly under the Constitution or laws of the United States, the court must entertain the suit, except: (a) where the alleged claim appears to be immaterial, and made solely for the purpose of obtaining jurisdiction, or (b) where it is wholly insubstantial and frivolous. P. <a href="./us327-0678.xml#p682">327 U. S. 682</a>.</p>
     <p>3. Whether the complaint states a cause of action on which relief could be granted is a question of law which must be decided after, and not before, the court assumes jurisdiction. P. <a href="./us327-0678.xml#p682">327 U. S. 682</a>.</p>
@@ -22,7 +22,7 @@
     <p>MR. JUSTICE BLACK delivered the opinion of the Court.</p>
     <p>Petitioners brought this suit in a federal district court to recover damages in excess of $3,000 from the respondents, who are agents of the Federal Bureau of Investigation. The complaint alleges that the Court's jurisdiction is founded upon federal questions arising under the Fourth and Fifth Amendments. It is alleged that the damages were suffered as a result of the defendants' imprisoning the petitioners in violation of their Constitutional right to be free from deprivation of their liberty without due process of law, and subjecting their premises to search and their possessions to seizure, in violation of their Constitutional right to be free from unreasonable searches and seizures. [<a id="nf1" href="#fn1">Footnote 1</a>]</p>
     <n id="p680">680</n>
-    <p>Respondents moved to dismiss the complaint for failure to state a cause of action for which relief could be granted and for summary judgment on the grounds that the federal agents acted within the scope of their authority as officers of the United States and that the searches and seizures were incidental to lawful arrests, and were therefore valid. Respondents filed affidavits in support of their motions, and petitioners filed counter-affidavits. After hearing the motions, the district judge did not pass on them, but, on his own motion, dismissed the suit for want of federal jurisdiction on the ground that this action was not one that " . . . arises under the Constitution or laws of the United States . . . ," as required by 28 U.S.C. § 41(1). The Circuit Court of Appeals affirmed on the same ground. 150 F.2d 96. At the same time, it denied a motion made by petitioners asking it to direct the district court to give petitioners leave to amend their complaint in order to make it still more clearly appear that the action was directly grounded on violations of rights alleged to stem from the Fourth and Fifth Amendments. We granted certiorari because of the importance of the jurisdictional issue involved.</p>
+    <p>Respondents moved to dismiss the complaint for failure to state a cause of action for which relief could be granted and for summary judgment on the grounds that the federal agents acted within the scope of their authority as officers of the United States and that the searches and seizures were incidental to lawful arrests, and were therefore valid. Respondents filed affidavits in support of their motions, and petitioners filed counter-affidavits. After hearing the motions, the district judge did not pass on them, but, on his own motion, dismissed the suit for want of federal jurisdiction on the ground that this action was not one that " . . . arises under the Constitution or laws of the United States . . .," as required by 28 U.S.C. § 41(1). The Circuit Court of Appeals affirmed on the same ground. 150 F.2d 96. At the same time, it denied a motion made by petitioners asking it to direct the district court to give petitioners leave to amend their complaint in order to make it still more clearly appear that the action was directly grounded on violations of rights alleged to stem from the Fourth and Fifth Amendments. We granted certiorari because of the importance of the jurisdictional issue involved.</p>
     <p>Respondents make the following argument in support of the district court's dismissal of the complaint for want of federal jurisdiction. First, they urge that the complaint states a cause of action for the common law tort of trespass made actionable by state law, and that it therefore does not raise questions arising "under the Constitution</p>
     <n id="p681">681</n>
     <p>or laws of the United States." Second, to support this contention, respondents maintain that petitioners could not recover under the Constitution or laws of the United States, since the Constitution does not expressly provide for recovery in money damages for violations of the Fourth and Fifth Amendments and Congress has not enacted a statute that does so provide. A mere reading of the complaint refutes the first contention, and, as will be seen, the second one is not decisive on the question of jurisdiction of the federal court.</p>
@@ -48,7 +48,7 @@
       <p>"That on or about the 17th day of December, 1942, defendant R. B. Hood and each of the other defendants, unlawfully conspired with each other to act beyond their authority as said Federal Bureau of Investigation agents and police officers respectively, and agreed that they would abridge the Constitutional rights of the plaintiffs as guaranteed by the Fourth and Fifth Amendments to the Constitution of the United States to be free from the deprivation of liberty and property without due process of law, and to be free from unreasonable searches and seizures, and agreed unlawfully to simultaneously, in the early morning of December 18th, 1942, search the homes of the individual plaintiffs herein without any warrants of search or seizure, and unlawfully to seize the papers, documents and effects of said plaintiffs and of 'Mankind United', and falsely to imprison the individual plaintiffs by unlawfully arresting some of the individual plaintiffs without a warrant of arrest and unreasonably to delay the taking of all the individual plaintiffs before a committing officer, in order to effectuate the unlawful searches and seizures aforesaid."</p>
       <p>"That thereafter, and on the 18th day of December, 1942, the defendants and each of them, in order to carry out the terms and conditions of the illegal conspiracy aforesaid, and solely for the purpose of carrying out said terms and conditions, did arrest and imprison the individual plaintiffs herein, and did search the homes of said plaintiffs, and seize and carry away books, papers and effects of said individual plaintiffs and of said 'Mankind United.'"</p>
       <p>"* * * *"</p>
-      <p>". . . by reason of the deprivation of . . . [their] . . . Constitutional rights . . . , [plaintiffs had] . . . suffered damages."</p>
+      <p>". . . by reason of the deprivation of . . . [their] . . . Constitutional rights . . ., [plaintiffs had] . . . suffered damages."</p>
     </f>
     <f n="2"><a id="fn2" href="#nf2">Footnote 2</a>
       <p>For other cases discussing the distinction between questions going to the merits and those going to the jurisdiction, see the following: Illinois Central Railroad Co. v. Adams, <a href="../us180/us180-0028.xml#p28">180 U. S. 28</a>; Geneve Furniture Mfg. Co. v. S. Karpen &amp; Bros., <a href="../us238/us238-0254.xml#p254">238 U. S. 254</a>; and see Nashville &amp; St. Louis Ry. v. Taylor, 86 F. 168.</p>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us472-0299.html" citation="472 U.S. 299" title="Bateman Eichler, Hill Richards, Inc. v. Berner">
   <opinion type="Opinions &amp; Dissents">
     <n id="p299">299</n>
-    <h>U.S. Supreme Court</h>
-    <h>Bateman Eichler v. Berner, <a href="./us472-0299.xml#p299">472 U.S. 299</a> (1985)</h>
-    <h>Bateman Eichler, Hill Richards, Inc. v. Berner</h>
-    <h>No. 84-679</h>
-    <h>Argued April 15, 1985</h>
-    <h>Decided June 11, 1985</h>
-    <h><a href="./us472-0299.xml#p299">472 U.S. 299</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE</h>
-    <h>NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h4>Bateman Eichler v. Berner, <a href="./us472-0299.xml#p299">472 U.S. 299</a> (1985)</h4>
+    <h2>Bateman Eichler, Hill Richards, Inc. v. Berner</h2>
+    <h2>No. 84-679</h2>
+    <h4>Argued April 15, 1985</h4>
+    <h4>Decided June 11, 1985</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE</h2>
+    <h2>NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondent investors (hereafter respondents) filed a damages action in Federal District Court, alleging that they incurred substantial trading losses after a securities broker (employed by petitioner) and the officer of a corporation fraudulently induced respondents to purchase stock in the corporation by divulging false and materially incomplete information about the corporation on the pretext that it was accurate inside information. Respondents contended that this alleged scheme violated, inter alia, § 10(b) of the Securities Exchange Act of 1934 and Securities and Exchange Commission Rule 10b-5 promulgated thereunder. The District Court dismissed the complaint on the ground that, because respondents themselves had violated the same laws under which recovery was sought by trading on what they believed was inside information, they were in pari delicto with the broker and corporate insider, and thus were barred from recovery. The Court of Appeals reversed.</p>
     <p>Held: There is no basis at this stage of the litigation for applying the in pari delicto defense to bar respondents' action. Pp. <a href="./us472-0299.xml#p306">472 U. S. 306</a>-319.</p>
     <p>(a) An implied private damages action under the federal securities laws may be barred on the grounds of the plaintiff's own culpability only where (i) as a direct result of his own actions, the plaintiff bears at least substantially equal responsibility for the violations he seeks to redress, and (ii) preclusion of suit would not significantly interfere with the effective enforcement of the securities laws and protection of the investing public. Cf. Perma Life Mufflers, Inc. v. International Parts Corp., <a href="../us392/us392-0134.xml#p134">392 U. S. 134</a>. Pp. <a href="./us472-0299.xml#p306">472 U. S. 306</a>-311.</p>
@@ -24,7 +24,7 @@
     <n id="p301">301</n>
     <p>JUSTICE BRENNAN delivered the opinion of the Court.</p>
     <p>The question presented by this case is whether the common law in pari delicto defense bars a private damages action under the federal securities laws against corporate insiders and broker-dealers who fraudulently induce investors to purchase securities by misrepresenting that they are conveying material nonpublic information about the issuer.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The respondent investors filed this action in the United States District Court for the Northern District of California, alleging that they incurred substantial trading losses as a result of a conspiracy between Charles Lazzaro, a registered securities broker employed by the petitioner Bateman Eichler, Hill Richards, Inc. (Bateman Eichler), and Leslie Neadeau, President of T.O.N.M. Oil &amp; Gas Exploration Corporation (TONM), to induce them to purchase large quantities of TONM over-the-counter stock by divulging false and materially incomplete information about the company on the pretext that it was accurate inside information. [<a id="nf1" href="#fn1">Footnote 1</a>] Specifically, Lazzaro is alleged to have told the respondents that he personally knew TONM insiders and had learned, inter alia, that (a) "[v]ast amounts of gold had been discovered in Surinam, and TONM had options on thousands of acres in gold-producing</p>
     <n id="p302">302</n>
     <p>regions of Surinam"; [<a id="nf2" href="#fn2">Footnote 2</a>] (b) the discovery was "not publicly known, but would subsequently be announced"; (c) TONM was currently engaged in negotiations with other companies to form a joint venture for mining the Surinamese gold; and (d) when this information was made public,</p>
@@ -43,7 +43,7 @@
     <p>id. at 1320. The Court of Appeals noted that this Court had sharply restricted the availability of the in pari delicto defense in antitrust actions, see Perma Life Mufflers, Inc. v. International Parts Corp., <a href="../us392/us392-0134.xml#p134">392 U. S. 134</a> (1968), and concluded that, essentially for three reasons, there was no basis "for creating a different rule for private actions initiated under the federal securities laws," 730 F.2d at 1322. First, the court reasoned that, in cases such as this, defrauded tippees are not in fact "equally responsible" for the violations they allege. Ibid. Second, the court believed that allowing the defense in these circumstances would be "totally incompatible with the overall aims of the securities law" because the threat of a private damages action is necessary to deter "insider-tipster[s]" from defrauding the public. Id. at 1323. Finally, the court noted the availability of means other than an outright preclusion of suit to deter tippees from trading on inside information. Id. at 1324, n. 3.</p>
     <p>The lower courts have divided over the proper scope of the in pari delicto defense in securities litigation. [<a id="nf10" href="#fn10">Footnote 10</a>] We granted certiorari. 469 U.S. 1105 (1985). We affirm.</p>
     <n id="p306">306</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>The common law defense at issue in this case derives from the Latin, in par delicto potior est conditio defendentis: "In a case of equal or mutual fault . . . the position of the [defending] party . . . is the better one." [<a id="nf11" href="#fn11">Footnote 11</a>] The defense is grounded on two premises: first, that courts should not lend their good offices to mediating disputes among wrongdoers; [<a id="nf12" href="#fn12">Footnote 12</a>] and second, that denying judicial relief to an admitted wrongdoer is an effective means of deterring illegality. [<a id="nf13" href="#fn13">Footnote 13</a>] In its classic formulation,</p>
     <n id="p307">307</n>
     <p>the in pari delicto defense was narrowly limited to situations where the plaintiff truly bore at least substantially equal responsibility for his injury, because</p>

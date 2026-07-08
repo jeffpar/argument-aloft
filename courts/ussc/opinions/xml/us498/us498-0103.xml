@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us498-0103.html" citation="498 U.S. 103" title="Moskal v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p103">103</n>
-    <h>U.S. Supreme Court</h>
-    <h>Moskal v. United States, <a href="./us498-0103.xml#p103">498 U.S. 103</a> (1990)</h>
-    <h>Moskal v. United States</h>
-    <h>No. 89-964</h>
-    <h>Argued Oct. 1, 1990</h>
-    <h>Decided Dec. 3, 1990</h>
-    <h><a href="./us498-0103.xml#p103">498 U.S. 103</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE THIRD CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Moskal v. United States, <a href="./us498-0103.xml#p103">498 U.S. 103</a> (1990)</h1>
+    <h2>Moskal v. United States</h2>
+    <h2>No. 89-964</h2>
+    <h4>Argued Oct. 1, 1990</h4>
+    <h4>Decided Dec. 3, 1990</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE THIRD CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner participated in a "title washing" scheme in which automobile titles that had been altered to reflect rolled-back odometer mileage figures were sent from Pennsylvania to Virginia. After Virginia authorities, unaware of the alterations, issued Virginia titles incorporating the false figures, Moskal received the "washed" titles in Pennsylvania, where they were used in connection with car sales to unsuspecting buyers. Moskal was convicted of receiving two washed titles under 18 U.S.C. § 2314, which prohibits the knowing transportation of "falsely made, forged, altered, or counterfeited securities" in interstate commerce. (Emphasis added.) In affirming Moskal's conviction, the Court of Appeals rejected his contention that, because the washed titles were genuine, inasmuch as the Virginia officials who issued them did not know of the falsity, the titles therefore were not "falsely made."</p>
     <p>Held: A person who receives genuine vehicle titles, knowing that they incorporate fraudulently tendered odometer readings, receives those titles knowing them to have been "falsely made" in violation of § 2314. Pp. <a href="./us498-0103.xml#p106">498 U. S. 106</a>-118.</p>
     <p>(a) Moskal misconstrues the doctrine of lenity when he contends that because it is possible to read § 2314 as applying only to forged or counterfeited securities, and because some courts have so read it, this Court should simply resolve the issue in his favor under that doctrine. The doctrine applies only to those situations in which a reasonable doubt persists about a statute's intended scope even after resort to the language and structure, legislative history, and motivating policies of the statute. Such factors demonstrate that § 2314 unambiguously applies to Moskal's conduct. Pp. <a href="./us498-0103.xml#p106">498 U. S. 106</a>-108.</p>
@@ -25,17 +25,17 @@
     <p>MARSHALL, J., delivered the opinion of the Court, in which REHNQUIST, C.J., and WHITE, BLACKMUN, and STEVENS, JJ., joined. SCALIA, J., filed a dissenting opinion, in which O'CONNOR and KENNEDY, JJ., joined, post, p. <a href="./us498-0103.xml#p119">498 U. S. 119</a>. SOUTER, J., took no part in the consideration or decision of the case.</p>
     <p>Justice MARSHALL delivered the opinion of the Court.</p>
     <p>The issue in this case is whether a person who knowingly procures genuine vehicle titles that incorporate fraudulently tendered odometer readings receives those titles "knowing [them] to have been falsely made." 18 U.S.C. § 2314 (emphasis added). We conclude that he does.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Petitioner Raymond Moskal participated in a "title washing" scheme. Moskal's confederates purchased used cars in Pennsylvania, rolled back the cars' odometers, and altered their titles to reflect those lower mileage figures. The altered titles were then sent to an accomplice in Virginia, who submitted them to Virginia authorities. Those officials,</p>
     <n id="p106">106</n>
     <p>unaware of the alterations, issued Virginia titles incorporating the false mileage figures. The "washed" titles were then sent back to Pennsylvania, where they were used in connection with car sales to unsuspecting buyers. Moskal played two roles in this scheme: he sent altered titles from Pennsylvania to Virginia; he received "washed" titles when they were returned.</p>
     <p>The Government indicted and convicted Moskal under 18 U.S.C. § 2314 for receiving two washed titles, each recording a mileage figure that was 30,000 miles lower than the true number. Section 2314 imposes fines or imprisonment on anyone who,</p>
-    <p>"with unlawful or fraudulent intent, transports in interstate . . . commerce any falsely made, forged, altered, or counterfeited securities . . . , knowing the same to have been falsely made, forged, altered or counterfeited."</p>
+    <p>"with unlawful or fraudulent intent, transports in interstate . . . commerce any falsely made, forged, altered, or counterfeited securities . . ., knowing the same to have been falsely made, forged, altered or counterfeited."</p>
     <p>On appeal, Moskal maintained that the washed titles were nonetheless genuine, and thus not "falsely made." The Court of Appeals disagreed, finding that</p>
     <p>""the purpose of the term "falsely made" was to . . . prohibit the fraudulent introduction into commerce of falsely made documents regardless of the precise method by which the introducer or his confederates effected their lack of authenticity.'""</p>
     <p>United States v. Davis, 888 F.2d 283, 285 (CA3 1989), quoting United States v. Mitchell, 588 F.2d 481, 484 (CA5), cert. denied, 442 U.S. 940 (1979), quoting United States v. Huntley, 535 F.2d 1400, 1402 (CA5 1976), cert. denied, 430 U.S. 929 (1977).</p>
     <p>Notwithstanding the narrowness of this issue, we granted certiorari to resolve a divergence of opinion among the courts of appeals. 494 U.S. (1990). See United States v. Sparrow, 635 F.2d 794 (CA10 1980) (en banc), cert. denied, 450 U.S. 1004 (1981) (washed automobile titles are not "falsely made" within the meaning of § 2314). We now affirm petitioner's conviction.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>As indicated, § 2314 prohibits the knowing transportation of "falsely made, forged, altered or counterfeited securities"</p>
     <n id="p107">107</n>
     <p>in interstate commerce. [<a id="nf1" href="#fn1">Footnote 1</a>] Moskal acknowledges that he could have been charged with violating this provision when he sent the Pennsylvania titles to Virginia, since those titles were "altered" within the meaning of § 2314. But he insists that he did not violate the provision in subsequently receiving the washed titles from Virginia because, although he was participating in a fraud (and thus no doubt had the requisite intent under § 2314), the washed titles themselves were not "falsely made." He asserts that, when a title is issued by appropriate state authorities who do not know of its falsity, the title is "genuine" or valid as the state document it purports to be, and therefore not "falsely made."</p>
@@ -138,7 +138,7 @@
       <p>The Court of Appeals found that the false mileage figures on the washed vehicle title were material falsehoods. 888 F.2d at 285. At oral argument, petitioner sought to challenge that finding. Although this issue was not presented in the petition for certiorari to this Court, we do not doubt the correctness of the lower court's conclusion as to this matter.</p>
       <p>Justice SCALIA, with whom Justice O'CONNOR and Justice KENNEDY join, dissenting.</p>
       <p>Today's opinion succeeds in its stated objective of "resolv[ing] a divergence of opinion among the courts of appeals," ante at <a href="./us498-0103.xml#p106">498 U. S. 106</a>, regarding the application of 18 U.S.C. § 2314. It does that, however, in a manner that so undermines generally applicable principles of statutory construction that I fear the confusion it produces will far exceed the confusion it has removed.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>The Court's decision rests ultimately upon the proposition that, pursuant to "ordinary meaning," a "falsely made" document includes a document which is genuinely what it purports to be, but which contains information that the maker knows to be false, or even information that the maker does not know to be false but that someone who causes him to insert it knows to be false. It seems to me that such a meaning is quite extraordinary. Surely the adverb preceding the word "made" naturally refers to the manner of making, rather than to the nature of the product made. An inexpensively made painting is not the same as an inexpensive painting. A forged memorandum is "falsely made"; a memorandum that contains erroneous information is simply "false."</p>
       <p>One would not expect general usage dictionaries to have a separate entry for "falsely made," but some of them do use precisely the phrase "to make falsely" to define "forged." See, e.g., Webster's New International Dictionary 990 (2d ed. (1945)); Webster's Third New International Dictionary 891 (1961). The Court seeks to make its interpretation plausible by the following locution: Such titles are "falsely made" in the sense that they are made to contain false, or incorrect, information. Ante at <a href="./us498-0103.xml#p109">498 U. S. 109</a>. This sort of wordplay can transform virtually anything into "falsely made." Thus: "The building was falsely made in the sense that it was made to</p>
       <n id="p120">120</n>
@@ -149,7 +149,7 @@
       <p>The Court maintains, however, that giving "falsely made" what I consider to be its ordinary meaning would render the term superfluous, offending the principle of construction that, if possible, each word should be given some effect. United States v. Menasche, <a href="../us348/us348-0528.xml#p528">348 U. S. 528</a>, <a href="../us348/us348-0528.xml#p538">348 U. S. 538</a>-539 (1955). The principle is sound, but its limitation ("if possible") must be observed. It should not be used to distort ordinary meaning. Nor should it be applied to the obvious instances of iteration to which lawyers, alas, are particularly addicted -- such as "give, grant, bargain, sell and convey," "aver and affirm," "rest, residue and remainder," or "right, title and interest." See generally B. Garner, A Dictionary of Modern Legal Usage 197-200 (1987). The phrase at issue here, "falsely made, forged, altered, or counterfeited," is, in one respect at least, uncontestedly of that sort. As the United States conceded at oral argument, and as any dictionary will confirm, "forged" and "counterfeited" mean the same thing. See, e.g., Webster's 2d at 607 (defining to "counterfeit" as to "forge," and listing "forged" as a synonym of the adjective "counterfeit"), id. at 990 (defining to "forge" as to "counterfeit," and listing "counterfeit" as a synonym of "forge"). Since iteration is obviously afoot in the relevant passage, there is no justification for extruding an unnatural meaning out of "falsely made" simply in order to avoid iteration. The entire phrase "falsely made, forged, altered, or counterfeited" is self-evidently not a listing of differing and precisely</p>
       <n id="p121">121</n>
       <p>calibrated terms, but a collection of near synonyms which describes the product of the general crime of forgery.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>Even on the basis of a layman's understanding, therefore, I think today's opinion in error. But in declaring that understanding to be the governing criterion, rather than the specialized legal meaning that the term "falsely made" has long possessed, the Court makes a mistake of greater consequence. The rigid and unrealistic standard it prescribes for establishing a specialized legal meaning, and the justification it announces for ignoring such a meaning, will adversely affect many future cases.</p>
       <p>The Court acknowledges, as it must, the doctrine that when a statute employs a term with a specialized legal meaning relevant to the matter at hand, that meaning governs. As Justice Jackson explained for the Court in Morissette v. United States, <a href="../us342/us342-0246.xml#p246">342 U. S. 246</a>, <a href="../us342/us342-0246.xml#p263">342 U. S. 263</a> (1952):</p>
       <p>"[W]here Congress borrows terms of art in which are accumulated the legal tradition and meaning of centuries of practice, it presumably knows and adopts the cluster of ideas that were attached to each borrowed word in the body of learning from which it was taken and the meaning its use will convey to the judicial mind unless otherwise instructed. In such a case, absence of contrary direction may be taken as satisfaction with widely accepted definitions, not as departure from them."</p>
@@ -180,7 +180,7 @@
       <p>Id. at 678.</p>
       <n id="p126">126</n>
       <p>I think it plain that "falsely made" had a well established common law meaning at the time the relevant language of § 2314 was enacted -- indeed, that the entire formulary phrase "falsely made, forged, altered or counterfeited" had a well established common law meaning; and that that meaning does not support the present conviction.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>Unsurprisingly, in light of the foregoing discussion, the lower federal courts that interpreted this language of § 2314 for more than two decades after its passage uniformly rejected the government's position that a genuine document could be "falsely made" because it contained false information. Melvin v. United States, 316 F.2d 647, 648 (CA7 1963); Marteney v. United States, 216 F.2d 760 (CA10 Cir. 1954); Martyn v. United States, 176 F.2d 609, 610 (CA8 1949); Wright v. United States, 172 F.2d 310-312 (CA9 1949); Greathouse v. United States, 170 F.2d 512, 514 (CA4 1948).</p>
       <p>The United States correctly points out that a number of later cases hold to the contrary. Neither it nor the Court observes, however, that the earlier line of authority bears the endorsement of this Court. In Gilbert v. United States, <a href="../us370/us370-0650.xml#p650">370 U. S. 650</a> (1962), a case involving a statute very similar to § 2314, we approvingly cited Greathouse, Wright, and Marteney, supra, for the proposition that</p>
       <p>"cases construing 'forge' under other federal statutes have generally drawn a distinction between false or fraudulent statements and spurious or fictitious makings."</p>
@@ -198,7 +198,7 @@
       <p>"significant that cases construing 'forge' under other federal statutes have generally drawn a distinction between false or fraudulent statements and spurious or fictitious makings."</p>
       <p>Id. at <a href="../us370/us370-0650.xml#p658">370 U. S. 658</a>.</p>
       <p>The whole rationale of the Gilbert decision, in other words, was that inserting fraudulent content could not constitute "forgery" because "forgery" requires "false making." It is utterly incompatible with that rationale to hold, as the Court does today, that inserting fraudulent content constitutes "false making."</p>
-      <h>IV</h>
+      <h2>IV</h2>
       <p>The Court acknowledges the principle that common law terms ought to be given their established common law meanings, but asserts that the principle is inapplicable here because the meaning of "falsely made" I have described above "was not universal." Ante at <a href="./us498-0103.xml#p115">498 U. S. 115</a>. For support, it cites three cases and an ALR annotation. The annotation itself says that one of the three cases, United States v. Hartman, 65 F. 490 (ED Mo.1894), "has generally been disapproved, and has not been followed." Annot., 41 A.L.R. 229, 249 (1926). (That general disapproval, incidentally, was implicitly endorsed by this Court itself in Gilbert, which interpreted the direct descendant of the statute involved in Hartman.) The other two cases cited by the Court are not mentioned by the annotation, and rightly so, since they do not discuss falsity of content, but genuineness of the instrument. [Footnote 2/1] As for the annotation itself, that concludes that</p>
       <p>"the</p>
       <n id="p129">129</n>
@@ -215,7 +215,7 @@
       <p>federal statutes have generally drawn a distinction between false or fraudulent statements and spurious or fictitious makings."</p>
       <p>370 U.S. at <a href="../us370/us370-0650.xml#p658">370 U. S. 658</a> (footnote omitted). We should have rejected the argument in precisely those terms today. Instead, the Court adopts a new principle that can accurately be described as follows:</p>
       <p>"Where a term of art has a plain meaning, the Court will divine the statute's purpose and substitute a meaning more appropriate to that purpose."</p>
-      <h>V</h>
+      <h2>V</h2>
       <p>I feel constrained to mention, though it is surely superfluous for decision of the present case, the so-called Rule of Lenity -- the venerable principle that</p>
       <p>"before a man can be punished as a criminal under the federal law, his case must be plainly and unmistakably within the provisions of some statute."</p>
       <p>United States v. Gradwell, <a href="../us243/us243-0476.xml#p476">243 U. S. 476</a>, <a href="../us243/us243-0476.xml#p485">243 U. S. 485</a> (1917) (internal quotation omitted). See also McNally v. United States, <a href="../us483/us483-0350.xml#p350">483 U. S. 350</a>, <a href="../us483/us483-0350.xml#p359">483 U. S. 359</a>-360 (1987). As Justice MARSHALL explained some years ago:</p>

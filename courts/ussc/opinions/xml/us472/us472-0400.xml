@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us472-0400.html" citation="472 U.S. 400" title="Western Air Lines v. Criswell">
   <opinion type="Opinions &amp; Dissents">
     <n id="p400">400</n>
-    <h>U.S. Supreme Court</h>
-    <h>Western Air Lines v. Criswell, <a href="./us472-0400.xml#p400">472 U.S. 400</a> (1985)</h>
-    <h>Western Air Lines v. Criswell</h>
-    <h>No. 83-1545</h>
-    <h>Argued January 14, 1985</h>
-    <h>Decided June 17, 1985</h>
-    <h><a href="./us472-0400.xml#p400">472 U.S. 400</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE</h>
-    <h>NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Western Air Lines v. Criswell, <a href="./us472-0400.xml#p400">472 U.S. 400</a> (1985)</h1>
+    <h2>Western Air Lines v. Criswell</h2>
+    <h2>No. 83-1545</h2>
+    <h4>Argued January 14, 1985</h4>
+    <h4>Decided June 17, 1985</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE</h2>
+    <h2>NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>The Age Discrimination in Employment Act of 1967 (ADEA) generally prohibits mandatory retirement before age 70, but § 4(f)(1) of the Act provides an exception "where age is a bona fide occupational qualification [BFOQ] reasonably necessary to the normal operation of the particular business." Petitioner airline company requires that its flight engineers, who are members of the cockpit crews of petitioners' aircraft but do not operate flight controls unless both the pilot and the copilot become incapacitated, retire at age 60. A Federal Aviation Administration regulation prohibits any person from serving as a pilot or copilot after reaching his 60th birthday. Certain of the respondents, who include flight engineers forced to retire at age 60 and pilots who, upon reaching 60, were denied reassignment as flight engineers, brought suit in Federal District Court against petitioner, contending that the age 60 retirement requirement for flight engineers violated the ADEA. Petitioner defended, in part, on the theory that the requirement is a BFOQ "reasonably necessary" to the safe operation of the airline. The physiological and psychological capabilities of persons over age 60, and the ability to detect disease or a precipitous decline in such capabilities on the basis of individual medical examinations, were the subject of conflicting expert testimony presented by the parties. The jury instructions included statements that the "BFOQ defense is available only if it is reasonably necessary to the normal operation or essence of [petitioner's] business"; "the essence of [petitioner's] business is the safe transportation of [its] passengers"; and petitioner could establish a BFOQ by proving both that</p>
     <p>"it was highly impractical for [petitioner] to deal with each [flight engineer] over age 60 on an individualized basis to determine his particular ability to perform his job safely"</p>
     <p>and that some flight engineers</p>
@@ -33,7 +33,7 @@
     <p>The petitioner, Western Air Lines, Inc., requires that its flight engineers retire at age 60. Although the Age Discrimination in Employment Act of 1967 (ADEA), 29 U.S.C.</p>
     <n id="p403">403</n>
     <p>§§ 621-634, generally prohibits mandatory retirement before age 70, the Act provides an exception "where age is a bona fide occupational qualification [BFOQ] reasonably necessary to the normal operation of the particular business." [<a id="nf1" href="#fn1">Footnote 1</a>] A jury concluded that Western's mandatory retirement rule did not qualify as a BFOQ, even though it purportedly was adopted for safety reasons. The question here is whether the jury was properly instructed on the elements of the BFOQ defense. [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In its commercial airline operations, Western operates a variety of aircraft, including the Boeing 727 and the McDonnell-Douglas DC-10. These aircraft require three crew members in the cockpit: a captain, a first officer, and a flight engineer.</p>
     <p>"The 'captain' is the pilot, and controls the aircraft. He is responsible for all phases of its operation. The 'first officer' is the copilot, and assists the captain. The 'flight engineer' usually monitors a side-facing instrument panel. He does not operate the flight controls unless the captain and the first officer become incapacitated."</p>
     <p>Trans World Airlines, Inc. v. Thurston, <a href="../us469/us469-0111.xml#p111">469 U. S. 111</a>, <a href="../us469/us469-0111.xml#p114">469 U. S. 114</a> (1985).</p>
@@ -74,7 +74,7 @@
     <p>Id. at 2627. The jury rendered a verdict for the plaintiffs, and awarded damages. After trial, the District Court granted equitable relief, explaining in a written opinion why it found no merit in Western's BFOQ defense to the mandatory retirement rule. 514 F. Supp. at 389-391. [<a id="nf9" href="#fn9">Footnote 9</a>]</p>
     <p>On appeal, Western made various arguments attacking the verdict and judgment below, but the Court of Appeals affirmed in all respects. 709 F.2d 544 (CA9 1983). In particular, the Court of Appeals rejected Western's contention that the instruction on the BFOQ defense was insufficiently deferential to the airline's legitimate concern for the safety of its passengers. Id. at 549-551. We granted certiorari to consider the merits of this question. 469 U.S. 815 (1984). [<a id="nf10" href="#fn10">Footnote 10</a>]</p>
     <n id="p409">409</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>Throughout the legislative history of the ADEA, one empirical fact is repeatedly emphasized: the process of psychological and physiological degeneration caused by aging varies with each individual. "The basic research in the field of aging has established that there is a wide range of individual physical ability regardless of age." [<a id="nf11" href="#fn11">Footnote 11</a>] As a result, many older American workers perform at levels equal or superior to their younger colleagues.</p>
     <p>In 1965, the Secretary of Labor reported to Congress that, despite these well-established medical facts, there</p>
     <p>"is persistent and widespread use of age limits in hiring that in a great many cases can be attributed only to arbitrary discrimination against older workers on the basis of age and regardless of ability. [<a id="nf12" href="#fn12">Footnote 12</a>]"</p>
@@ -94,7 +94,7 @@
     <n id="p412">412</n>
     <p>might be permissible by borrowing a concept and statutory language from Title VII of the Civil Rights Act of 1964 [<a id="nf17" href="#fn17">Footnote 17</a>] and providing that such a classification is lawful "where age is a bona fide occupational qualification reasonably necessary to the normal operation of the particular business." 29 U.S.C. § 623(f)(1).</p>
     <p>Shortly after the passage of the Act, the Secretary of Labor, who was at that time charged with its enforcement, adopted regulations declaring that the BFOQ exception to the ADEA has only "limited scope and application," and "must be construed narrowly." 33 Fed.Reg. 9172 (1968), 29 CFR § 860.102(b) (1984). The Equal Employment Opportunity Commission (EEOC) adopted the same narrow construction of the BFOQ exception after it was assigned authority for enforcing the statute. 46 Fed.Reg. 47727 (1981), 29 CFR § 1625.6 (1984). The restrictive language of the statute and the consistent interpretation of the administrative agencies charged with enforcing the statute convince us that, like its Title VII counterpart, the BFOQ exception "was in fact meant to be an extremely narrow exception to the general prohibition" of age discrimination contained in the ADEA. Dothard v. Rawlinson, <a href="../us433/us433-0321.xml#p321">433 U. S. 321</a>, <a href="../us433/us433-0321.xml#p334">433 U. S. 334</a> (1977).</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>In Usery v. Tamiami Trail Tours, Inc., 531 F.2d 224 (1976), the Court of Appeals for the Fifth Circuit was called upon to evaluate the merits of a BFOQ defense to a claim of age discrimination. Tamiami Trail Tours, Inc., had a policy of refusing to hire persons over age 40 as intercity bus drivers. At trial, the bus company introduced testimony supporting its theory that the hiring policy was a BFOQ-based</p>
     <n id="p413">413</n>
     <p>upon safety considerations -- the need to employ persons who have a low risk of accidents. In evaluating this contention, the Court of Appeals drew on its Title VII precedents, and concluded that two inquiries were relevant.</p>
@@ -120,7 +120,7 @@
     <p>Every Court of Appeals that has confronted a BFOQ defense based on safety considerations has analyzed the problem consistently with the Tamiami standard. [<a id="nf23" href="#fn23">Footnote 23</a>] An EEOC regulation embraces the same criteria. [<a id="nf24" href="#fn24">Footnote 24</a>] Considering the narrow language of the BFOQ exception, the parallel treatment of such questions under Title VII, and the uniform application of the standard by the federal courts, the EEOC, and Congress, we conclude that this two-part inquiry properly</p>
     <n id="p417">417</n>
     <p>identifies the relevant considerations for resolving a BFOQ defense to an age-based qualification purportedly justified by considerations of safety.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>In the trial court, Western preserved an objection to any instruction in the Tamiami mold, claiming that</p>
     <p>"any instruction pertaining to the statutory phrase 'reasonably necessary to the normal operation of [defendant's] business' . . . is irrelevant to and confusing for the deliberations of the jury. [<a id="nf25" href="#fn25">Footnote 25</a>]"</p>
     <p>Western proposed an instruction that would have allowed it to succeed on the BFOQ defense by proving that,</p>

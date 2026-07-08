@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us317-0111.html" citation="317 U.S. 111" title="Wickard v. Filburn">
   <opinion type="Opinions &amp; Dissents">
     <n id="p111">111</n>
-    <h>U.S. Supreme Court</h>
-    <h>Wickard v. Filburn, <a href="./us317-0111.xml#p111">317 U.S. 111</a> (1942)</h>
-    <h>Wickard v. Filburn</h>
-    <h>No. 59</h>
-    <h>Argued May 4, 1942</h>
-    <h>Reargued October 13, 1942</h>
-    <h>Decided November 9, 1942</h>
-    <h><a href="./us317-0111.xml#p111">317 U.S. 111</a></h>
-    <h>APPEAL FROM THE DISTRICT COURT OF THE UNITED STATES</h>
-    <h>FOR THE SOUTHERN DISTRICT OF OHIO</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Wickard v. Filburn, <a href="./us317-0111.xml#p111">317 U.S. 111</a> (1942)</h1>
+    <h2>Wickard v. Filburn</h2>
+    <h2>No. 59</h2>
+    <h4>Argued May 4, 1942</h4>
+    <h4>Reargued October 13, 1942</h4>
+    <h4>Decided November 9, 1942</h4>
+    <h2>APPEAL FROM THE DISTRICT COURT OF THE UNITED STATES</h2>
+    <h2>FOR THE SOUTHERN DISTRICT OF OHIO</h2>
+    <h2>Syllabus</h2>
     <p>1. Pending a referendum vote of farmers upon wheat quotas proclaimed by the Secretary of Agriculture under the Agricultural Adjustment Act of 1938, the Secretary made a radio address in which he advocated approval of the quotas and called attention to the recent enactment by Congress of the amendatory act, later approved</p>
     <n id="p112">112</n>
     <p>May 26, 1941. The speech mentioned the provisions of the amendment for increase of loans on wheat, but not the fact that it also increased the penalty on excess production, and added that, because of the uncertain world situation, extra acreages of wheat had been deliberately planted, and "farmers should not be penalized because they have provided insurance against shortages of food." There was no evidence that the subsequent referendum vote approving the quotas was influenced by the speech.</p>
@@ -47,12 +47,12 @@
     <p>should not be applied to the appellee because,</p>
     <n id="p117">117</n>
     <p>as so applied, it was retroactive, and in violation of the Fifth Amendment, and, alternatively, because the equities of the case so required. <a href="https://law.justia.com/cases/federal/district-courts/FSupp/43/1017/1408123/">43 F. Supp. 1017</a>. Its Judgment permanently enjoined appellants from collecting a marketing penalty of more than 15 cents a bushel on the farm marketing excess of appellee's 1941 wheat crop, from subjecting appellee's entire 1941 crop to a lien for the payment of the penalty, and from collecting a 15-cent penalty except in accordance with the provisions of § 339 of the Act as that section stood prior to the amendment of May 26, 1941. [<a id="nf10" href="#fn10">Footnote 10</a>] The Secretary and his codefendants have appealed. [<a id="nf11" href="#fn11">Footnote 11</a>]</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The holding of the court below that the Secretary's speech invalidated the referendum is manifest error. Read as a whole and in the context of world events that constituted his principal theme, the penalties of which he spoke were more likely those in the form of ruinously low prices resulting from the excess supply, rather than the penalties prescribed in the Act. But, under any interpretation, the speech cannot be given the effect of invalidating the referendum. There is no evidence that any voter put upon the Secretary's words the interpretation that impressed the court below or was in any way misled. There is no showing that the speech influenced the outcome of the referendum. The record, in fact, does not show that any, and does not suggest a basis for even a guess as to how many, of the voting farmers dropped work to listen to "Wheat Farmers and the Battle for</p>
     <n id="p118">118</n>
     <p>Democracy" at 11:30 in the morning of May 19th, which was a busy hour in one of the busiest of seasons. If this discourse intended reference to this legislation at all, it was, of course, a public Act, whose terms were readily available, and the speech did not purport to be an exposition of its provisions.</p>
     <p>To hold that a speech by a Cabinet officer, which failed to meet judicial ideals of clarity, precision, and exhaustiveness, may defeat a policy embodied in an Act of Congress would invest communication between administrators and the people with perils heretofore unsuspected. Moreover, we should have to conclude that such an officer is able to do by accident what he has no power to do by design. Appellee's complaint, insofar as it is based on this speech, is frivolous, and the injunction, insofar as it rests on this ground, is unwarranted. United States v. Rock Royal Cooperative, <a href="../us307/us307-0533.xml#p533">307 U. S. 533</a>.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>It is urged that, under the Commerce Clause of the Constitution, Article I, § 8, clause 3, Congress does not possess the power it has in this instance sought to exercise. The question would merit little consideration, since our decision in United States v. Darby, <a href="../us312/us312-0100.xml#p100">312 U. S. 100</a>, [<a id="nf12" href="#fn12">Footnote 12</a>] sustaining the federal power to regulate production of goods for commerce, except for the fact that this Act extends federal regulation to production not intended in any part for commerce, but wholly for consumption on the farm. The Act includes a definition of "market" and its derivatives, so that, as related to wheat, in addition to its conventional meaning, it also means to dispose of</p>
     <p>"by feeding (in any</p>
     <n id="p119">119</n>
@@ -102,7 +102,7 @@
     <n id="p129">129</n>
     <p>may properly have considered that wheat consumed on the farm where grown, if wholly outside the scheme of regulation, would have a substantial effect in defeating and obstructing its purpose to stimulate trade therein at increased prices.</p>
     <p>It is said, however, that this Act, forcing some farmers into the market to buy what they could provide for themselves, is an unfair promotion of the markets and prices of specializing wheat growers. It is of the essence of regulation that it lays a restraining hand on the self-interest of the regulated, and that advantages from the regulation commonly fall to others. The conflicts of economic interest between the regulated and those who advantage by it are wisely left under our system to resolution by the Congress under its more flexible and responsible legislative process. [<a id="nf29" href="#fn29">Footnote 29</a>] Such conflicts rarely lend themselves to judicial determination. And with the wisdom, workability, or fairness, of the plan of regulation, we have nothing to do.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The statute is also challenged as a deprivation of property without due process of law contrary to the Fifth Amendment, both because of its regulatory effect on the appellee and because of its alleged retroactive effect. The court below sustained the plea on the ground of forbidden retroactivity, "or, in the alternative, that the equities of the case as shown by the record favor the plaintiff." <a href="https://law.justia.com/cases/federal/district-courts/FSupp/43/1017/1408123/">43 F. Supp. 1017</a>, 1019. An Act of Congress is not to be refused application by the courts as arbitrary and capricious and forbidden by the Due Process Clause merely</p>
     <n id="p130">130</n>
     <p>because it is deemed in a particular case to work an inequitable result.</p>

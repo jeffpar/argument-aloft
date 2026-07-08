@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us333-0287.html" citation="333 U.S. 287" title="United States v. Line Material Co.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p287">287</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Line Material Co., <a href="./us333-0287.xml#p287">333 U.S. 287</a> (1948)</h>
-    <h>United States v. Line Material Co.</h>
-    <h>No. 8</h>
-    <h>Argued April 29, 1947</h>
-    <h>Reargued November 12-13, 1947</h>
-    <h>Decided March 8, 1948</h>
-    <h><a href="./us333-0287.xml#p287">333 U.S. 287</a></h>
-    <h>APPEAL FROM THE DISTRICT COURT OF THE UNITED STATES</h>
-    <h>FOR THE EASTERN DISTRICT OF WISCONSIN</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Line Material Co., <a href="./us333-0287.xml#p287">333 U.S. 287</a> (1948)</h1>
+    <h2>United States v. Line Material Co.</h2>
+    <h2>No. 8</h2>
+    <h4>Argued April 29, 1947</h4>
+    <h4>Reargued November 12-13, 1947</h4>
+    <h4>Decided March 8, 1948</h4>
+    <h2>APPEAL FROM THE DISTRICT COURT OF THE UNITED STATES</h2>
+    <h2>FOR THE EASTERN DISTRICT OF WISCONSIN</h2>
+    <h2>Syllabus</h2>
     <p>1. Arrangements between two patentees for cross-licensing of their interdependent product patents, and for licensing exclusively by one of them of other manufacturers to make and vend under both patents, which arrangements, together with those entered into separately with other licensees, were intended to and did control the prices at which products embodying both patents were sold in interstate commerce by the patentees and all licensees, held violative of § 1 of the Sherman Act. Pp. <a href="./us333-0287.xml#p288">333 U. S.</a> html#288"&gt;333 U. S. 288-299, 305-315.</p>
     <p>(a) United States v. General Electric Co., <a href="../us272/us272-0476.xml#p476">272 U. S. 476</a>, distinguished. Pp. <a href="./us333-0287.xml#p299">333 U. S. 299</a>-305, <a href="./us333-0287.xml#p310">333 U. S. 310</a>-312.</p>
     <p>(b) Such a price-fixing arrangement between two or more patentees transcends the limits of the patent monopoly granted to each of them, and it violates § 1 of the Sherman Act no matter how advantageous it may be to stimulate the broader use of the patents. Pp. <a href="./us333-0287.xml#p310">333 U. S. 310</a>-313, <a href="./us333-0287.xml#p314">333 U. S. 314</a>-315.</p>
@@ -26,7 +26,7 @@
     <p>to which arrangement the other appellees, licensees to make and vend, adhered by supplemental contracts. [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
     <p>The District Court, <a href="https://law.justia.com/cases/federal/district-courts/FSupp/64/970/1952966/">64 F. Supp. 970</a>, dismissed the complaint as to all defendants upon its conclusion that the rule of United States v. General Electric Co., <a href="../us272/us272-0476.xml#p476">272 U. S. 476</a>, was controlling. That case approved as lawful a patentee's license to make and vend which required the licensee in its sales of the patented devices to conform to the licensor's sale price schedule. Appeal was taken directly to this Court, 32 Stat. 823, and probable jurisdiction noted here on October 21, 1946. We have jurisdiction. [<a id="nf3" href="#fn3">Footnote 3</a>]</p>
     <n id="p290">290</n>
-    <h>I</h>
+    <h2>I</h2>
     <p>. The Facts The challenged arrangements center around three product patents, which are useful in protecting an electric circuit from the dangers incident to a short circuit or other overload. Two of them are dropout fuse cutouts, and the third is a housing suitable for use with any cutout. Dropout fuse cutouts may be used without any housing. The District Court found that 40.77% of all cutouts manufactured and sold by these defendants were produced under these patents. This was substantially all the dropout fuse cutouts made in the United States. There are competitive devices that perform the same functions manufactured by appellees and others under different patents than those here involved.</p>
     <p>The dominant patent, No. 2,150,102, in the field of dropout fuse cutouts with double jointed hinge construction was issued March 7, 1939, to the Southern States Equipment Corporation, assignee, on an application of George N. Lemmon. [<a id="nf4" href="#fn4">Footnote 4</a>] This patent reads upon a patent No. 2,176,227, reissued December 21, 1943, Re. 22,412, issued October 17, 1939 to Line Material Company, assignee, on an application by Schultz and Steinmayer. [<a id="nf5" href="#fn5">Footnote 5</a>]</p>
     <n id="p291">291</n>
@@ -56,7 +56,7 @@
     <p>return to the patentees on the inventions, and, apart from the written agreements, there was no undertaking between the appellees or any of them to fix prices. [<a id="nf13" href="#fn13">Footnote 13</a>] Being convinced, as we indicated at the first of this opinion, that the General Electric case controlled and permitted such price arrangements as are disclosed in</p>
     <n id="p299">299</n>
     <p>the contracts the District Court dismissed the complaint. The Government attacks the rationale of the General Electric case and urges that it be overruled, limited and explained, or differentiated.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>. The General Electric Case That case was decided in 1926 by a unanimous court, Chief Justice Taft writing. It involved a bill in equity to enjoin further violations of the Sherman Act. While violations of the Act by agreements fixing the resale price of patented articles (incandescent light bulbs) sold to dealers also were alleged in the bill, so far as here material, the pertinent alleged violation was an agreement between General Electric and Westinghouse Company through which Westinghouse was licensed to manufacture lamps under a number of General Electric's patents, including a patent on the use of tungsten filament in the bulb, on condition that it should sell them at prices fixed by the licensor. On considering an objection to the fixing of prices on bulbs with a tungsten filament, the price agreement was upheld as a valid exercise of patent rights by the licensor.</p>
     <p>Speaking of the arrangement, this Court said:</p>
     <p>"If the patentee . . . licenses the selling of the articles [by a licensee to make], may he limit the selling by limiting the method of sale and the price? We think he may do so, provided the conditions of sale are normally and reasonably adapted to secure pecuniary reward for the patentee's monopoly."</p>
@@ -76,7 +76,7 @@
     <p>It may be helpful to specify certain points that either are not contested or are not decided in this case. The agreements, if illegal, restrain interstate commerce contrary to the Sherman Act. No issue of monopoly is</p>
     <n id="p305">305</n>
     <p>involved. (F.F. 31.) Cf. American Tobacco Co. v. United States, <a href="../us328/us328-0781.xml#p781">328 U. S. 781</a>, <a href="../us328/us328-0781.xml#p788">328 U. S. 788</a>. That is to say, the complaint charges restraint of trade under § 1, and does not charge "monopoly" under § 2, of the Sherman Act, so that we need not deal with the problems of consolidation, merger, purchase of competitors or size of business as tending toward attaining monopoly. See United States v. United Shoe Machinery Co., <a href="../us247/us247-0032.xml#p32">247 U. S. 32</a>, <a href="../us247/us247-0032.xml#p44">247 U. S. 44</a>-55; United States v. Aluminum Co. of America, 148 F.2d 416, 427-31; United States v. American Tobacco Co., <a href="../us221/us221-0106.xml#p106">221 U. S. 106</a>, <a href="../us221/us221-0106.xml#p181">221 U. S. 181</a>-83; United States v. United States Steel Corporation, <a href="../us251/us251-0417.xml#p417">251 U. S. 417</a>, <a href="../us251/us251-0417.xml#p451">251 U. S. 451</a>. We are not dealing with a charge of monopoly or restraint because of the aggregation of patents, by pooling or purchase, by an owner or owners, in a single industry or field. See United States v. United Shoe Machinery Co., <a href="../us247/us247-0032.xml#p32">247 U. S. 32</a>. Within the limits of the patentee's rights under his patent, monopoly of the process or product by him is authorized by the patent statutes. It is stipulated by the United States that the validity of the patents is not in issue. With these points laid aside, we proceed to the issues presented by this record.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>. The Determination of the Issue Under the above-mentioned assumption as to General Electric, the ultimate question for our decision on this appeal may be stated, succinctly and abstractly, to be as to whether, in the light of the prohibition of § 1 of the Sherman Act, <a id="nf1" href="#fn1">note 1</a> supra, two or more patentees in the same patent field may legally combine their valid patent monopolies to secure mutual benefits for themselves through contractual agreements between themselves and other licensees, for control of the sale price of the patented devices.</p>
     <p>The appellees urge that the findings of the District Court, quoted in <a id="nf13" href="#fn13">note 13</a> supra, stand as barriers to a conclusion</p>
     <n id="p306">306</n>

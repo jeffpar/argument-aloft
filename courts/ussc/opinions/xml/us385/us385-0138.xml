@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us385-0138.html" citation="385 U.S. 138" title="United States v. Acme Process Equipment Co.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p138">138</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Acme Process Equipment Co., <a href="./us385-0138.xml#p138">385 U.S. 138</a> (1966)</h>
-    <h>United States v. Acme Process Equipment Co.</h>
-    <h>No. 86</h>
-    <h>Argued November 9, 1966</h>
-    <h>Decided December 5, 1966</h>
-    <h><a href="./us385-0138.xml#p138">385 U.S. 138</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF CLAIMS</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Acme Process Equipment Co., <a href="./us385-0138.xml#p138">385 U.S. 138</a> (1966)</h1>
+    <h2>United States v. Acme Process Equipment Co.</h2>
+    <h2>No. 86</h2>
+    <h4>Argued November 9, 1966</h4>
+    <h4>Decided December 5, 1966</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF CLAIMS</h2>
+    <h2>Syllabus</h2>
     <p>Respondent sued the Government in the Court of Claims for damages for breach of contract to manufacture rifles. The United States asserted as a defense that it canceled the contract because three of respondent's key employees had accepted compensation for awarding subcontracts in violation of the Anti-Kickback Act. The Court of Claims found that the kickbacks had been paid, and that this was the basis for the cancellation, but construed the Act as not authorizing such action.</p>
     <p>Held: The Act, which clearly expresses a policy hostile to kickbacks, authorized the United States to cancel this contract. Pp. <a href="./us385-0138.xml#p142">385 U. S. 142</a>-148.</p>
     <p>MR. JUSTICE BLACK delivered the opinion of the Court.</p>
     <p>The respondent, Acme Process Equipment Company, brought this action against the United States in the Court of Claims to recover damages for breach of a contract under which Acme undertook, through itself and subcontractors, to manufacture 2,751 75-mm. recoilless rifles for about $337 per rifle. Among other defenses, the United States alleged that it had rightfully canceled its contract with Acme because three of Acme's principal employees had accepted compensation for awarding subcontracts in violation of the Anti-Kickback Act, set out</p>
     <n id="p139">139</n>
     <p>in part below. [<a id="nf1" href="#fn1">Footnote 1</a>] The Court of Claims found, as facts, that the kickbacks had been paid as alleged, and that this was the ground on which the United States had canceled the prime contract with Acme, but construed the Act as not authorizing the cancellation. 347 F.2d 509, 171 Ct.Cl. 324. We hold that it does.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In October, 1952, Acme hired Harry Tucker, Jr., and his associate, James Norris, for the purpose of establishing and managing a new division of the company to handle government contracts. Norris was made general manager of production, with authority to submit bids, sign government contracts, and award subcontracts. Tucker was placed in charge of sales, government contracts,</p>
     <n id="p140">140</n>
     <p>and expediting subcontract operations. Prior to this time, Tucker had entered into a contract with All Metals Industries, Inc., under which he was to receive a commission for all sales to customers, including Acme, procured by him. Tucker's employment contract with Acme specifically stated that he represented, and would continue to represent, firms in other lines of business, but Acme did not consult with any of his other clients at the time Tucker was hired.</p>
@@ -30,7 +30,7 @@
     <n id="p142">142</n>
     <p>After presentation of the Government's case, the District Court granted the defendants' motion for acquittal on the ground that the Act -- which at that time embraced only "cost-plus-a-fixed-fee or other cost reimbursable" government contracts -- did not apply to Acme's contract, a fixed-price contract with a provision for limited price redetermination. The court found the defendants' actions "despicable and morally reprehensible, but unfortunately within the narrow letter of the law." The court recommended that Congress amend the Anti-Kickback Act "to include as a crime the vicious and immoral type of conduct that has been exhibited in this case." United States v. Norris, Crim. No. 18535 (D.C.E.D.Pa.), April 14, 1956.</p>
     <p>The District Court's opinion did indeed spur the Comptroller General to recommend amendatory legislation, and, in 1960, the Anti-Kickback Act was amended to apply to all "negotiated contracts." [<a id="nf4" href="#fn4">Footnote 4</a>] The civil provision of the amended Act was made retroactive to allow government recovery of kickbacks "whether heretofore or hereafter paid or incurred by the subcontractor."</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The Anti-Kickback Act, as originally passed in 1946, and, as amended in 1960, provides two express sanctions for its violation: (1) fine or imprisonment for one who makes or receives a kickback, and (2) recovery of the kickback by the United States. The Court of Claims held, and it is argued here, that, had Congress wanted "to provide the additional remedy of contract annulment, it could have done so" by express language, 347 F.2d at 521, 171 Ct.Cl. 343, and of course it could</p>
     <n id="p143">143</n>
     <p>have. But the fact that it did not see fit to provide for such a remedy by express language does not end the matter. The Anti-Kickback Act not only "prohibited" such payments, but clearly expressed a policy decidedly hostile to them. They were recognized as devices hurtful to the Government's procurement practices. Extra expenditures to get subcontracts necessarily add to government costs in cost-plus-a-fixed-fee and other cost reimbursable contracts. And this is also true where the prime contract is a negotiated fixed-price contract with a price redetermination clause, such as the prime contract is here. The kickbacks here are passed on to the Government in two stages. The prime contractor rarely submits his bid until after he has tentatively lined up his subcontractors. Indeed, as here, the subcontractors frequently participate in negotiation of the prime contract. The subcontractor's tentative bid will, of course, reflect the amount he contemplates paying as a kickback, and then his inflated bid will be reflected in the prime contractor's bid to the Government. At the renegotiation stage, where the prime contractor's actual cost experience is the basis for price redetermination, any kickbacks, paid by subcontractors and passed on to the prime contractor after the prime contract is awarded, will be passed on to the Government in the form of price redetermination upward. [<a id="nf5" href="#fn5">Footnote 5</a>]</p>
@@ -38,7 +38,7 @@
     <p>Acme argues, however, that the express provision for recovery of kickbacks is enough to protect the Government from increased costs attributable to them. But this argument rests on two false assumptions. The first is that kickbacks can easily be detected and recovered. This is hardly the case. Kickbacks' being made criminal means that they must be made -- if at all -- in secrecy. Though they necessarily inflate the price to the Government, this inflation is rarely detectable. This is particularly true as regards defense contracts, where the products involved are not usually found on the commercial market and where there may not be effective competition. Such contracts are generally negotiated and awarded without formal advertising and competitive bidding, and there is often no opportunity to compare going prices with the price negotiated by the Government. [<a id="nf6" href="#fn6">Footnote 6</a>] Kickbacks will usually not be discovered, if at all, until after the prime contract is let. The second false assumption underlying Acme's argument is that the increased cost of the Government is necessarily equal to the amount of the kickback which is recoverable. Of course, a subcontractor who must pay a kickback is likely to include the amount of the kickback in his contract price. But this is not all. A subcontractor who anticipates obtaining a subcontract by virtue of a kickback has little incentive to stint on his cost estimates. Since he plans to obtain the subcontract without regard to the economic merits of his proposal, he will be tempted to inflate that proposal by more than the amount of the kickback. And even if the Government could isolate and recover the inflation attributable to the kickback, it would still be saddled with a subcontractor who, having obtained the job other than on merit, is perhaps entirely unreliable in other ways. This unreliability, in</p>
     <n id="p145">145</n>
     <p>turn, undermines the security of the prime contractor's performance -- a result which the public cannot tolerate, especially where, as here, important defense contracts are involved.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>In United States v. Mississippi Valley Co., <a href="../us364/us364-0520.xml#p520">364 U. S. 520</a>, <a href="../us364/us364-0520.xml#p563">364 U. S. 563</a>, the Court recognized that</p>
     <p>"a statute frequently implies that a contract is not to be enforced when it arises out of circumstances that would lead enforcement to offend the essential purpose of the enactment."</p>
     <p>The Court there approved the cancellation of a government contract for violation of the conflict-of-interest statute on the ground that "the sanction of nonenforcement is consistent with and essential to effectuating the public policy embodied in" the statute. Ibid. We think the same thing can be said about cancellation here.</p>

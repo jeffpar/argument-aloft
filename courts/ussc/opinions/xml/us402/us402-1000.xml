@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us402-1000.html" citation="402 U.S. 1000" title="TARVER v. SMITH">
   <opinion type="Opinions &amp; Dissents">
     <n id="p1000">1000</n>
-    <h>U.S. Supreme Court</h>
-    <h>TARVER v. SMITH , <a href="./us402-1000.xml#p1000">402 U.S. 1000</a> (1971)</h>
-    <h> <a href="./us402-1000.xml#p1000">402 U.S. 1000</a></h>
-    <h>Catherine TARVER v. Sidney SMITH, Secretary, etc. No. 6106.</h>
-    <h>Supreme Court of the United States</h>
-    <h>May 24, 1971</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>TARVER v. SMITH, <a href="./us402-1000.xml#p1000">402 U.S. 1000</a> (1971)</h1>
+    <h2>Catherine TARVER v. Sidney SMITH, Secretary, etc. No. 6106.</h2>
+    <h2>Supreme Court of the United States</h2>
+    <h4>May 24, 1971</h4>
     <p>On petition for writ of certiorari to the Supreme Court of Washington.</p>
     <p>The petition for writ of certiorari is denied.</p>
     <p>Mr. Justice DOUGLAS, dissenting.</p>
@@ -41,7 +41,7 @@
     <n id="p1005">1005</n>
     <p>but whether or not the claim at the time was federally funded, a question of national importance is presented. Accordingly I would grant the petition for certiorari.</p>
     <p>Mr. Justice BRENNAN is of the opinion that certiorari should be granted.</p>
-    <h>Footnotes</h>
+    <h2>Footnotes</h2>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>
       <p>Law reviews have been devoting increasing attention to the problem. Recently two total issues have been devoted to the legal problems. See 15 U.C.L.A.L.Rev. 1374 and 31 Law &amp; Contemp. Prob. 251. See also Symposium, 53 Minn.L.Rev. 211; Note, Privacy and Efficient Government: Proposals for a National Data Center, 82 Harv.L.Rev. 400; Freed, A Legal Structure for a National Medical Data Center, 49 Bos.U.L.Rev. 79; Miller, Personal Privacy in the Computer Age, 67 Mich.L.Rev. 1089.</p>
     </f>

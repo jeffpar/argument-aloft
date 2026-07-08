@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us440-0450.html" citation="440 U.S. 450" title="New Jersey v. Portash">
   <opinion type="Opinions &amp; Dissents">
     <n id="p450">450</n>
-    <h>U.S. Supreme Court</h>
-    <h>New Jersey v. Portash, <a href="./us440-0450.xml#p450">440 U.S. 450</a> (1979)</h>
-    <h>New Jersey v. Portash</h>
-    <h>No. 77-1489</h>
-    <h>Argued December 5, 1978</h>
-    <h>Decided March 20, 1979</h>
-    <h><a href="./us440-0450.xml#p450">440 U.S. 450</a></h>
-    <h>CERTIORARI TO THE SUPERIOR COURT OF NEW JERSEY</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>New Jersey v. Portash, <a href="./us440-0450.xml#p450">440 U.S. 450</a> (1979)</h1>
+    <h2>New Jersey v. Portash</h2>
+    <h2>No. 77-1489</h2>
+    <h4>Argued December 5, 1978</h4>
+    <h4>Decided March 20, 1979</h4>
+    <h2>CERTIORARI TO THE SUPERIOR COURT OF NEW JERSEY</h2>
+    <h2>Syllabus</h2>
     <p>Respondent municipal official testified before a state grand jury under immunity granted pursuant to a New Jersey statute preventing a public employee's grand jury testimony or evidence derived therefrom from being used against him in a subsequent criminal proceeding. Thereafter, respondent was charged with misconduct in office and extortion, and, at his trial, the judge ruled that respondent's grand jury testimony could be used to impeach his credibility if he testified. As a result of this ruling, respondent did not testify, and he was ultimately convicted. The New Jersey appellate court held that the use of the immunized grand jury testimony to impeach respondent would have violated the Constitution, and, because respondent's decision not to testify was based on the trial court's erroneous ruling to the contrary, reversed the conviction and remanded for a new trial.</p>
     <p>Held: Under the Fifth Amendment privilege against compulsory self-incrimination made binding on the States by the Fourteenth Amendment, respondent's testimony before the grand jury under a grant of immunity could not constitutionally be used against him in the later criminal trial. Pp. <a href="./us440-0450.xml#p453">440 U. S. 453</a>-460.</p>
     <p>(a) That respondent did not take the witness stand does not render the constitutional question abstract and hypothetical. It appears from the record that the trial judge did rule on the merits of such question, and the appellate court necessarily concluded that such question had been properly presented, because it ruled in respondent's favor on the merits. Moreover, there is nothing in federal law to prohibit New Jersey from following such a procedure, nor, so long as Art. III's "case or controversy" requirement is met, to foreclose this Court's consideration of the constitutional issue now that the New Jersey courts have decided it. Pp. <a href="./us440-0450.xml#p454">440 U. S. 454</a>-456.</p>
@@ -20,14 +20,14 @@
     <p>STEWART, J., delivered the opinion of the Court, in which BRENNAN, WHITE, MARSHALL, POWELL, REHNQUIST, and STEVENS, JJ., joined. BRENNAN, J., filed a concurring opinion, in which MARSHALL, J., joined, post, p. <a href="./us440-0450.xml#p460">440 U. S. 460</a>. POWELL, J., filed a concurring opinion, in which REHNQUIST, J., joined, post, p. <a href="./us440-0450.xml#p462">440 U. S. 462</a>. BLACKMUN, J., filed a dissenting opinion, in which BURGER, C.J., joined, post, p. <a href="./us440-0450.xml#p463">440 U. S. 463</a>.</p>
     <p>MR. JUSTICE STEWART delivered the opinion of the Court.</p>
     <p>This case involves the scope of the privilege against compulsory self-incrimination, grounded in the Fifth Amendment and made binding against the States by the Fourteenth. The precise question is whether, despite this constitutional privilege, a prosecutor may use a person's legislatively immunized grand jury testimony to impeach his credibility as a testifying defendant in a criminal trial.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In the early 1970's, Joseph Portash was Mayor of Manchester Township, Executive Director of the Pinelands Environmental Council, and a member of both the Ocean County Board of Freeholders and the Manchester Municipal Utilities Authority in New Jersey. In November, 1974, after a lengthy investigation, a state grand jury subpoenaed Portash. He expressed an intention to claim his privilege against compulsory self-incrimination. The prosecutors and Portash's lawyers then agreed that, if Portash testified before the grand jury, neither his statements nor any evidence derived from them could, under New Jersey law, be used in subsequent criminal proceedings (except in prosecutions for perjury or</p>
     <n id="p452">452</n>
     <p>false swearing). [<a id="nf1" href="#fn1">Footnote 1</a>] After Portash's testimony, the parties tried to come to an agreement to avoid a criminal prosecution against Portash, but no bargain was reached. In April, 1975, Portash was indicted for misconduct in office and extortion by a public official. [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
     <p>Before trial, defense counsel sought to obtain a ruling from the trial judge that no use of the immunized grand jury testimony would be permitted. The judge refused to rule that the prosecution could not use this testimony for purposes of impeachment. After the completion of the State's case, defense counsel renewed his request for a ruling by the trial judge as to the use of the grand jury testimony. There followed an extended colloquy, and the judge finally ruled that, if Portash testified and gave an answer on direct or cross-examination which was materially inconsistent with his grand jury testimony, the prosecutor could use that testimony in his cross-examination of Portash. Defense counsel then stated that, because of this ruling, he would advise his client not to take the stand. Portash did not testify, and the jury ultimately found him guilty on one of the two counts.</p>
     <n id="p453">453</n>
     <p>The New Jersey Appellate Division reversed the conviction. 151 N.J.Super. 200, <a href="https://law.justia.com/cases/new-jersey/appellate-division-published/1977/151-n-j-super-200-0.html"> 376 A.2d 950</a> (1977). That court held that the Constitution requires that the immunity granted by the New Jersey statute must be at least coextensive with the privilege afforded by the Fifth and Fourteenth Amendments. To confer such protection, the court reasoned, the grant of immunity must "leave defendant and the State in the position each would have occupied had defendant's claim of privilege [before the grand jury] been honored." Id. at 205, 376 A. d, at 953. Use of the immunized grand jury testimony to impeach a defendant at his trial, it held, did not meet this test. Because Portash's decision not to testify was based upon the trial court's erroneous ruling to the contrary, the Appellate Division reversed the conviction and remanded the case for a new trial. [<a id="nf3" href="#fn3">Footnote 3</a>] The New Jersey Supreme Court denied the State's petition for certification of an appeal. 75 N.J. 597, 384 A.2d 827 (1978). We granted certiorari. 436 U.S. 955.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>New Jersey presents two questions. First, it argues that Portash cannot properly invoke the privilege against compulsory incrimination because he did not take the witness stand, and, as a result, his immunized grand jury testimony was never used against him. Second, it urges that the Fifth and</p>
     <n id="p454">454</n>
     <p>Fourteenth Amendments do not prohibit the use of immunized grand jury testimony to impeach materially inconsistent statements made at trial.</p>

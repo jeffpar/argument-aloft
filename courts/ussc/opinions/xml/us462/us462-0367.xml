@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us462-0367.html" citation="462 U.S. 367" title="Bush v. Lucas">
   <opinion type="Opinions &amp; Dissents">
     <n id="p367">367</n>
-    <h>U.S. Supreme Court</h>
-    <h>Bush v. Lucas, <a href="./us462-0367.xml#p367">462 U.S. 367</a> (1983)</h>
-    <h>Bush v. Lucas</h>
-    <h>No. 81-469</h>
-    <h>Argued January 19, 1983</h>
-    <h>Decided June 13, 1983</h>
-    <h><a href="./us462-0367.xml#p367">462 U.S. 367</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE FIFTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Bush v. Lucas, <a href="./us462-0367.xml#p367">462 U.S. 367</a> (1983)</h1>
+    <h2>Bush v. Lucas</h2>
+    <h2>No. 81-469</h2>
+    <h4>Argued January 19, 1983</h4>
+    <h4>Decided June 13, 1983</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE FIFTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner, an aerospace engineer employed at the George C. Marshall Space Flight Center, a facility operated by the National Aeronautics and Space Administration (NASA), made a number of public statements to the news media highly critical of the Center. Subsequently, respondent Director of the Center demoted petitioner for making the public statements on the ground that they were false and misleading. The Federal Employee Appeals Authority upheld the demotion, but the Civil Service Commission's Appeals Review Board, upon reopening the proceeding at petitioner's request, found that the demotion had violated his First Amendment rights. NASA accepted the Board's recommendation that petitioner be restored to his former position retroactively and that he receive backpay. While his administrative appeal from the demotion was pending, petitioner filed an action against respondent in an Alabama state court, seeking to recover damages for violation of his First Amendment rights. Respondent removed the action to Federal District Court, which granted summary judgment for respondent. The Court of Appeals affirmed, holding that petitioner had no cause of action for damages under the First Amendment for retaliatory demotion in view of the available remedies under the Civil Service Commission regulations.</p>
     <p>Held: Because petitioner's claims arise out of an employment relationship that is governed by comprehensive procedural and substantive provisions giving meaningful remedies against the United States, it would be inappropriate for this Court to supplement that regulatory scheme with a new nonstatutory damages remedy. Pp. <a href="./us462-0367.xml#p372">462 U. S. 374</a>-390.</p>
     <p>(a) The federal courts' statutory jurisdiction to decide federal questions confers adequate power to award damages to the victim of a constitutional violation even if Congress has not expressly authorized such a remedy. When Congress provides an alternative remedy, it may indicate its intent that this power should not be exercised. In the absence of such a congressional directive, the federal courts must make the kind of remedial determination that is inpropriate for a common law tribunal, paying particular heed, however, to any special factors counseling hesitation before authorizing a new kind of federal litigation. Pp. <a href="./us462-0367.xml#p374">462 U. S. 374</a>-380.</p>
@@ -47,7 +47,7 @@
     <p>Our prior cases, although sometimes emphasizing one approach and sometimes the other, have unequivocally rejected both extremes. They establish our power to grant relief that is not expressly authorized by statute, but they also remind us that such power is to be exercised in the light of relevant policy determinations made by the Congress. We</p>
     <n id="p374">374</n>
     <p>therefore first review some of the cases establishing our power to remedy violations of the Constitution and then consider the bearing of the existing statutory scheme on the precise issue presented by this case.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The federal courts' power to grant relief not expressly authorized by Congress is firmly established. Under 28 U.S.C. § 1331, the federal courts have jurisdiction to decide all cases "aris[ing] under the Constitution, laws, or treaties of the United States." This jurisdictional grant provides not only the authority to decide whether a cause of action is stated by a plaintiff's claim that he has been injured by a violation of the Constitution, Bell v. Hood, <a href="../us327/us327-0678.xml#p678">327 U. S. 678</a>, <a href="../us327/us327-0678.xml#p684">327 U. S. 684</a> (1946), but also the authority to choose among available judicial remedies in order to vindicate constitutional rights. This Court has fashioned a wide variety of nonstatutory remedies for violations of the Constitution by federal and state officials. [<a id="nf12" href="#fn12">Footnote 12</a>] The cases most relevant to the problem before us are those in which the Court has held that the Constitution itself supports a private cause of action for damages against a federal official. Bivens v. Six Unknown Fed. Narcotics Agents, <a href="../us403/us403-0388.xml#p388">403 U. S. 388</a> (1971); Davis v. Passman, <a href="../us442/us442-0228.xml#p228">442 U. S. 228</a> (1979); Carlson v. Green, supra.</p>
     <n id="p375">375</n>
     <p>In Bivens, the plaintiff alleged that federal agents, without a warrant or probable cause, had arrested him and searched his home in a manner causing him great humiliation, embarrassment, and mental suffering. He claimed damages on the theory that the alleged violation of the Fourth Amendment provided an independent basis for relief. The Court upheld the sufficiency of his complaint, rejecting the argument that a state tort action in trespass provided the only appropriate judicial remedy. The Court explained why the absence of a federal statutory basis for the cause of action was not an obstacle to the award of damages:</p>
@@ -86,7 +86,7 @@
     <p>"Here, a complex of relations between federal agencies and their staffs is involved. Moreover, the claim now asserted, though the product of a law Congress passed, is a matter on which Congress has not taken a position. It presents questions of policy on which Congress has not spoken. The selection of that policy which is most advantageous to the whole involves a host of considerations that must be weighed and appraised. That function is more appropriately for those who write the laws, rather than for those who interpret them."</p>
     <p>347 U.S. at <a href="../us347/us347-0507.xml#p511">347 U. S. 511</a>-513.</p>
     <p>The special factors counseling hesitation in the creation of a new remedy in Standard Oil and Gilman did not concern the merits of the particular remedy that was sought. Rather, they related to the question of who should decide whether such a remedy should be provided. We should therefore begin by considering whether there are reasons for allowing Congress to prescribe the scope of relief that is made available to federal employees whose First Amendment rights have been violated by their supervisors.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Unlike Standard Oil and Gilman, this case concerns a claim that a constitutional right has been violated. Nevertheless, just as those cases involved "federal fiscal policy" and the relations between the Government and its employees, the ultimate question on the merits in this case may appropriately be characterized as one of "federal personnel</p>
     <n id="p381">381</n>
     <p>policy." When a federal civil servant is the victim of a retaliatory demotion or discharge because he has exercised his First Amendment rights, what legal remedies are available to him?</p>

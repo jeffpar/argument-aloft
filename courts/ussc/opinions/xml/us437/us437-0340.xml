@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us437-0340.html" citation="437 U.S. 340" title="Oppenheimer Fund, Inc. v. Sanders">
   <opinion type="Opinions &amp; Dissents">
     <n id="p340">340</n>
-    <h>U.S. Supreme Court</h>
-    <h>Oppenheimer Fund, Inc. v. Sanders, <a href="./us437-0340.xml#p340">437 U.S. 340</a> (1978)</h>
-    <h>Oppenheimer Fund, Inc. v. Sanders</h>
-    <h>No. 77-335</h>
-    <h>Argued February 28-March 1, 1978</h>
-    <h>Decided June 19, 1978</h>
-    <h><a href="./us437-0340.xml#p340">437 U.S. 340</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SECOND CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Oppenheimer Fund, Inc. v. Sanders, <a href="./us437-0340.xml#p340">437 U.S. 340</a> (1978)</h1>
+    <h2>Oppenheimer Fund, Inc. v. Sanders</h2>
+    <h2>No. 77-335</h2>
+    <h4>Argued February 28-March 1, 1978</h4>
+    <h4>Decided June 19, 1978</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SECOND CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondents brought a class action under Fed.Rule Civ.Proc. 23(b)(3) on behalf of themselves and a class of purchasers against petitioners (including an open-end investment fund, its management corporation, and a brokerage firm), seeking to recover the amount by which the allegedly artificially inflated price respondents paid for fund shares exceeded their value. Respondents sought to require petitioners to help compile a list of the names and addresses of the members of the plaintiff class from records kept by the fund's transfer agent so that the individual notice required by Rule 23(c)(2) could be sent. The class proposed by respondents numbered about 121,000 persons, of whom about 103,000 still held shares, and, since 171,000 persons currently held shares, approximately 68,000 were not members of the class. To compile a list of the class members' names and addresses, the transfer agent's employees would have had to sort manually through many records, keypunch 150,000 to 300,000 computer cards, and create several new computer programs, all for an estimated cost of over $16,000. Respondents' proposed redefinition of the plaintiff class, opposed by petitioners, to include only those persons who bought fund shares during a specified period and who still held shares was rejected by the District Court as involving an arbitrary reduction in the class, but the court held that the cost of sorting out the list of class members was the petitioners' responsibility, while also rejecting respondents' proposal, opposed by petitioners, that the class notice be included in a regular fund mailing, because it would reach the 68,000 shareholders who were not class members. On petitioners' appeal, the Court of Appeals affirmed, holding that the federal discovery rules authorized the District Court to order petitioners to assist in compiling the class list and to bear the $16,000 expense incident thereto.</p>
     <p>Held:</p>
     <p>1. Federal Rule Civ.Proc. 23(d), which empowers district courts to enter appropriate orders in the handling of class actions, not the discovery rules, is the appropriate source of authority for the District Court's order directing petitioners to help compile the list of class members. The information as to such members is sought to facilitate the sending of notice, rather than to define or clarify issues in the case,</p>
@@ -27,7 +27,7 @@
     <n id="p342">342</n>
     <p>MR. JUSTICE POWELL delivered the opinion of the Court.</p>
     <p>Respondents are the representative plaintiffs in a class action brought under Fed.Rule Civ.Proc. 23(b)(3). They sought to require petitioners, the defendants below, to help compile a list of the names and addresses of the members of the plaintiff class from records kept by the transfer agent for one of petitioners so that the individual notice required by Rule 23(c)(2) could be sent. The Court of Appeals for the Second Circuit held that the federal discovery rules, Fed.Rules Civ.Proc. 26-37, authorize the District Court to order petitioners to assist in compiling the list, and to bear the $16,000 expense incident thereto. We hold that Rule 23(d), which concerns the conduct of class actions, not the discovery rules, empowers the District Court to direct petitioners to help compile such a list. We further hold that, although the District Court has some discretion in allocating the cost of complying with such an order, that discretion was abused in this case. We therefore reverse and remand.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Petitioner Oppenheimer Fund, Inc. (Fund), is an open-end diversified investment fund registered under the Investment Company Act of 1940, 15 U.S.C. § 80a-1 et seq. (1976 ed.). The Fund and its agents sell shares to the public at their net asset value plus a sales charge. Petitioner Oppenheimer Management Corp. (Management Corp.) manages the Fund's investment portfolio. Pursuant to an investment advisory</p>
     <n id="p343">343</n>
     <p>agreement, the Fund pays Management Corp. a fee which is computed in part as a percentage of the Fund's net asset value. Petitioner Oppenheimer &amp; Co. is a brokerage firm that owns 82% of the stock of Management Corp., including all of its voting stock. The individual petitioners are directors or officers of the Fund or Management Corp., or partners in Oppenheimer &amp; Co.</p>
@@ -55,7 +55,7 @@
     <p>In re Nissan Motor Corp. Antitrust Litigation, 552 F.2d 1088, 1102 (1977). In the Fifth Circuit's view, Rule 23(d), which empowers district courts to enter appropriate orders in the handling of class actions, is the procedural device by which a district court may enlist the aid of a defendant in identifying class members to whom notice must be sent. The Nissan court found it unnecessary to decide whether Eisen IV requires a representative plaintiff always to bear the cost of identifying class members. Since the representative plaintiffs could perform the required search through the defendants' records as readily as the defendants themselves, and since the search had to be performed in order to advance the representative plaintiffs' case, they were required to perform it, and thus to bear its cost. See 552 F.2d at 1102-1103.</p>
     <n id="p349">349</n>
     <p>We granted certiorari in the instant case to resolve the conflict that thus has arisen and to consider the underlying cost allocation problems. 434 U.S. 919 (1977).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The issues in this case arise because of the notice requirement of Fed.Rule Civ.Proc. 23(c)(2), which provides in part:</p>
     <p>"In any class action maintained under subdivision(b)(3), the court shall direct to the members of the class the best notice practicable under the circumstances, including individual notice to all members who can be identified through reasonable effort."</p>
     <p>In Eisen IV, the Court held that the plain language of this Rule "requires that individual notice be sent to all class members who can be identified with reasonable effort." 417 U.S. at <a href="../us417/us417-0156.xml#p177">417 U. S. 177</a>. The Court also found no authority for a district court to hold a preliminary hearing on the merits of a suit in order to decide which party should bear the cost required to prepare and mail the class notice. Id. at <a href="../us417/us417-0156.xml#p177">417 U. S. 177</a>-178. Instead, it held:</p>
@@ -116,7 +116,7 @@
     <n id="p363">363</n>
     <p>borders on the frivolous. Apart from the fact that no one has suggested what "different systems" petitioners should have used, we do not think a defendant should be penalized for not maintaining his records in the form most convenient to some potential future litigants whose identity and perceived needs could not have been anticipated. See id. at 54 (en banc dissent).</p>
     <p>Respondents also contend that petitioners should be required to bear the identification expense because they are alleged to have breached a fiduciary duty to respondents and their class. See also id. at 645-646 (panel dissent). Although we had no occasion in Eisen IV to consider this argument, see 417 U.S. at <a href="../us417/us417-0156.xml#p178">417 U. S. 178</a>, and n. 15, suggestions to this effect have met with trenchant criticism elsewhere. [<a id="nf32" href="#fn32">Footnote 32</a>] A bare allegation of wrongdoing, whether by breach of fiduciary duty or otherwise, is not a fair reason for requiring a defendant to undertake financial burdens and risks to further a plaintiff's case. Nor would it be in the interests of the class of persons to whom a fiduciary duty is owed to require them, through the fiduciary, to help finance every suit by one of their number that alleges a breach of fiduciary duty, without regard to whether the suit has any merit.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Given that respondents can obtain the information sought here by paying the transfer agent the same amount that petitioners would have to pay, that the information must be obtained to comply with respondents' obligation to provide notice to their class, and that no special circumstances have been shown to warrant requiring petitioners to bear the expense,</p>
     <n id="p364">364</n>
     <p>we hold that the District Court abused its discretion in not requiring respondents to pay the transfer agent to identify the members of their own class. The judgment of the Court of Appeals is reversed, and the case is remanded for further proceedings consistent with this opinion.</p>

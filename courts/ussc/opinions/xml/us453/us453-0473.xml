@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us453-0473.html" citation="453 U.S. 473" title="Gulf Offshore Co. v. Mobil Oil Corp.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p473">473</n>
-    <h>U.S. Supreme Court</h>
-    <h>Gulf Offshore Co. v. Mobil Oil Corp., <a href="./us453-0473.xml#p473">453 U.S. 473</a> (1981)</h>
-    <h>Gulf Offshore Co. v. Mobil Oil Corp.</h>
-    <h>No. 80-590</h>
-    <h>Argued March 31, 1981</h>
-    <h>Decided July 1, 1981</h>
-    <h><a href="./us453-0473.xml#p473">453 U.S. 473</a></h>
-    <h>CERTIORARI TO THE COURT OF CIVIL APPEALS OF TEXAS,</h>
-    <h>FOURTEENTH SUPREME JUDICIAL DISTRICT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Gulf Offshore Co. v. Mobil Oil Corp., <a href="./us453-0473.xml#p473">453 U.S. 473</a> (1981)</h1>
+    <h2>Gulf Offshore Co. v. Mobil Oil Corp.</h2>
+    <h2>No. 80-590</h2>
+    <h4>Argued March 31, 1981</h4>
+    <h4>Decided July 1, 1981</h4>
+    <h2>CERTIORARI TO THE COURT OF CIVIL APPEALS OF TEXAS,</h2>
+    <h2>FOURTEENTH SUPREME JUDICIAL DISTRICT</h2>
+    <h2>Syllabus</h2>
     <p>Respondent Mobil Oil Corp. contracted with petitioner for the latter's performance of certain operations on offshore oil drilling platforms. Under the agreement, petitioner promised to indemnify Mobil for all claims resulting directly or indirectly from the work. One of petitioner's employees (also a respondent), working on an oil drilling platform above the seabed of the Outer Continental Shelf, was injured while, because of a storm, he was being evacuated from the platform aboard a boat chartered by Mobil. The employee brought suit for damages in a Texas state court, alleging negligence by Mobil and the boat owner. Mobil filed a third-party complaint for indemnification against petitioner. The trial court rejected petitioner's contention that the court lacked subject matter jurisdiction over the third-party complaint because Mobil's cause of action arose under the Outer Continental Shelf Lands Act (OCSLA), which vested exclusive subject matter jurisdiction in a federal district court. During the trial, the court denied petitioner's request to instruct the jury that personal injury damages awards are not subject to federal income taxation and that they should not increase or decrease an award in contemplation of tax consequences. The jury found Mobil negligent and awarded the employee $900,000 for his injuries. It also found that the employee sustained his injuries while performing work subject to the contract of indemnification. The court then entered judgment against petitioner in the amount of $900,000. The Texas Court of Civil Appeals affirmed, and the Texas Supreme Court denied review.</p>
     <p>Held:</p>
     <p>1. Federal courts do not have exclusive jurisdiction over personal injury and indemnity cases arising under OCSLA. Nothing in the language, structure, legislative history, or underlying policies of OCSLA suggests that Congress intended federal courts to exercise exclusive jurisdiction over such actions. Pp. <a href="./us453-0473.xml#p477">453 U. S. 477</a>-484.</p>
@@ -25,7 +25,7 @@
     <p>POWELL, J., delivered the opinion of the Court, in which BURGER, C.J., and WHITE, REHNQUIST, and STEVENS, JJ., joined, and in Parts I and II of which BRENNAN, MARSHALL, and BLACKMUN, JJ., joined. BLACKMUN, J., filed an opinion concurring in part and concurring in the result, in which BRENNAN and MARSHALL, JJ., joined, post, p. <a href="./us453-0473.xml#p488">453 U. S. 488</a>. STEWART, J., took no part in the consideration or decision of the case.</p>
     <p>JUSTICE POWELL delivered the opinion of the Court.</p>
     <p>This case requires us to determine whether federal courts have exclusive jurisdiction over personal injury and indemnity cases arising under the Outer Continental Shelf Lands Act, 67 Stat. 462, as amended, 43 U.S.C. § 1331 et seq. (1976 ed. and Supp. III). We also consider whether the rule of Norfolk &amp; Western R. Co. v. Liepelt, <a href="../us444/us444-0490.xml#p490">444 U. S. 490</a> (1980), that the jury be instructed that personal injury damages awards are not subject to federal income taxation, is applicable to such a case.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Respondent, Mobil Oil Corp., contracted with petitioner, Gulf Offshore Co., for the latter to perform certain completion operations on oil drilling platforms offshore of Louisiana. As part of the agreement, petitioner promised to indemnify Mobil for all claims resulting directly or indirectly from the work. While the work was in progress in September, 1975, the advent of Hurricane Eloise required that workers be evacuated from oil platforms in the Gulf of Mexico.</p>
     <p>Steven Gaedecke was an employee of petitioner working on an oil drilling platform above the seabed of the Outer Continental Shelf. As the storm approached, a boat chartered</p>
     <n id="p476">476</n>
@@ -36,7 +36,7 @@
     <n id="p477">477</n>
     <p>matter jurisdiction over the causes of action. [<a id="nf2" href="#fn2">Footnote 2</a>] It acknowledged that OCSLA governed the case, but found no explicit command in the Act that federal court jurisdiction be exclusive. The court also observed that exclusive federal court jurisdiction was unnecessary, because the Act incorporates as federal law in personal injury actions the laws of the State adjacent to the scene of the events, when not inconsistent with other federal laws. 43 U.S.C. § 1333(a)(2). Thus, the court reasoned, "[t]he end result would be an application of the same laws no matter where the forum was located, whether state or federal." 594 S.W.2d at 502. The court also held that the trial court did not err in refusing to instruct the jury that damages awards are not subject to federal income taxation. The Texas Supreme Court denied review.</p>
     <p>We granted certiorari to resolve a conflict over whether federal courts have exclusive subject matter jurisdiction over suits arising under OCSLA [<a id="nf3" href="#fn3">Footnote 3</a>] and to consider whether an instruction that damages are not taxable is appropriate in such a case. 449 U.S. 1033 (1980).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>A</p>
     <p>The general principle of state court jurisdiction over cases arising under federal laws is straightforward: state courts may assume subject matter jurisdiction over a federal cause of action absent provision by Congress to the contrary or disabling incompatibility between the federal claim and state</p>
     <n id="p478">478</n>
@@ -71,7 +71,7 @@
     <p>"the special relationship between the men working on these [platforms] and the adjacent shore to which they commute to visit their families."</p>
     <p>Rodrigue v. Aetna Casualty Co., 395 U.S. at <a href="../us395/us395-0352.xml#p365">395 U. S. 365</a>. Allowing state court jurisdiction over these cases will allow these workers, and their lawyers, to pursue individual claims in familiar, convenient, and possibly less expensive fora. See Chevron Oil Co. v. Huson, 404 U.S. at <a href="../us404/us404-0097.xml#p103">404 U. S. 103</a> (state statute of limitations applies to personal injury actions arising under OCSLA).</p>
     <p>In summary, nothing in the language, structure, legislative history, or underlying policies of OCSLA suggests that Congress intended federal courts to exercise exclusive jurisdiction over personal injury actions arising under OCSLA. The Texas courts had jurisdiction over this case.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The Court of Civil Appeals held that petitioner was not entitled to an instruction cautioning the jury that personal</p>
     <n id="p485">485</n>
     <p>injury damages awards are not subject to federal income taxation, § 104(a)(2) of the Internal Revenue Code of 1954, 26 U.S.C. § 104(a)(2). In so ruling, the court relied on Johnson v. Penrod Drilling Co., 510 F.2d 234, 236-237 (CA5) (en banc) (per curiam), cert. denied, 423 U.S. 839 (1975), a Jones Act case where the Court of Appeals prohibited presenting evidence or instructing the jury as to the impact of taxes on damages awards based on lost wages. This Court subsequently held that a defendant in a suit brought under the Federal Employers' Liability Act (FELA), 45 U.S.C. § 51 et seq., is entitled to an instruction that damages for lost future wages are not subject to federal income taxation. Norfolk &amp; Western R. Co. v. Liepelt, <a href="../us444/us444-0490.xml#p490">444 U. S. 490</a> (1980). [<a id="nf14" href="#fn14">Footnote 14</a>] Petitioner now argues that Liepelt applies to an OCSLA personal injury action, and that this case should be remanded for a new trial on damages before a properly instructed jury. [<a id="nf15" href="#fn15">Footnote 15</a>]</p>

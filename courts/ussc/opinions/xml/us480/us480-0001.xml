@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us480-0001.html" citation="480 U.S. 1" title="Burlington Northern v. Woods">
   <opinion type="Opinions &amp; Dissents">
     <n id="p1">1</n>
-    <h>U.S. Supreme Court</h>
-    <h>Burlington Northern v. Woods, <a href="./us480-0001.xml#p1">480 U.S. 1</a> (1986)</h>
-    <h>Burlington Northern Railroad Co. v. Woods</h>
-    <h>No. 85-1088</h>
-    <h>Argued Nov. 4, 1986</h>
-    <h>Decided Feb. 24, 1987</h>
-    <h><a href="./us480-0001.xml#p1">480 U.S. 1</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE ELEVENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Burlington Northern v. Woods, <a href="./us480-0001.xml#p1">480 U.S. 1</a> (1986)</h1>
+    <h2>Burlington Northern Railroad Co. v. Woods</h2>
+    <h2>No. 85-1088</h2>
+    <h4>Argued Nov. 4, 1986</h4>
+    <h4>Decided Feb. 24, 1987</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE ELEVENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>An Alabama statute requires an appellate court, upon affirming a money judgment without substantial modification, to impose a 10% penalty on any appellant who had obtained a stay of that judgment by executing a bond. The statute's purposes are to penalize frivolous appeals and those interposed for delay, and to provide appellees with additional compensation for having to suffer the ordeal of appeal. Upon affirming without modification a judgment for respondents in their federal diversity action arising from a motorcycle accident, the Eleventh Circuit imposed the Alabama statute's penalty on petitioner, which had posted bond to stay the judgment pending appeal.</p>
     <p>Held: The Alabama mandatory affirmance penalty statute has no application to judgments entered by federal courts sitting in diversity. Pp. <a href="./us480-0001.xml#p3">480 U. S. 3</a>-8.</p>
     <p>(a) Rule 38 of the Federal Rules of Appellate Procedure affords federal courts of appeals plenary discretion to award damages to an appellee upon determining that the appeal is frivolous. Federal Rule 38's discretionary mode of operation conflicts with the Alabama statute's mandatory operation. Furthermore, the purposes underlying Rule 38 -- to penalize frivolous appeals and to compensate injured appellees for the delay and added expense inherent therein -- are sufficiently coextensive with the statute's purposes to indicate that the Rule occupies the statute's field of operation. The fact that Alabama has a similar Appellate</p>
@@ -22,12 +22,12 @@
     <p>MARSHALL, J., delivered the opinion for a unanimous Court.</p>
     <p>JUSTICE MARSHALL delivered the opinion of the Court.</p>
     <p>This case presents the issue whether, in diversity actions, federal courts must apply a state statute that imposes a fixed penalty on appellants who obtain stays of judgment pending unsuccessful appeals.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Respondents brought this tort action in Alabama state court to recover damages for injuries sustained in a motorcycle accident. Petitioner removed the case to a Federal District Court having diversity jurisdiction. A jury trial resulted in a judgment of $300,000 for respondent Alan Woods and $5,000 for respondent Cara Woods. Petitioner posted bond to stay the judgment pending appeal, and the Court of Appeals affirmed without modification. 768 F.2d 1287 (CA11 1985).</p>
     <n id="p3">3</n>
     <p>Respondents then moved in the Court of Appeals, pursuant to Ala. Code §12-22-72 (1986), for imposition of that State's mandatory affirmance penalty of 10% of the amount of judgment. Petitioner challenged the application of this statute as violative of the equal protection and due process guarantees of the Fourteenth Amendment and as "a procedural rule . . . inapplicable in federal court under the doctrine of Erie Railroad Company v. Tompkins, <a href="../us304/us304-0064.xml#p64">304 U. S. 64</a> (1938), and its progeny." App. to Pet. for Cert. A-5. The Court of Appeals summarily granted respondents' motion to assess the penalty and subsequently denied a petition for rehearing. The parties have stipulated that the final judgment has been paid, except for the $30,500 statutory affirmance penalty, which petitioner has withheld pending proceedings in this Court.</p>
     <p>We granted certiorari to consider the equal protection and due process challenges as well as the Erie claim. 475 U.S. 1080 (1986). Because we conclude that the Alabama statute imposing a mandatory affirmance penalty has no application in federal diversity actions, we decline to reach the Fourteenth Amendment issues.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The Alabama Statute provides in relevant part:</p>
     <p>"When a judgment or decree is entered or rendered for money, whether debt or damages, and the same has been stayed on appeal by the execution of bond, with surety, if the appellate court affirms the judgment of the court below, it must also enter judgment against all or any of the obligors on the bond for the amount of the affirmed judgment, 10 percent damages thereon and the costs of the appellate court. . . ."</p>
     <p>Ala. Code §12-22-72 (1986). [<a id="nf1" href="#fn1">Footnote 1</a>]</p>
@@ -51,7 +51,7 @@
     <n id="p8">8</n>
     <p>judgment. Federal Rule 38 adopts a case-by-case approach to identifying and deterring frivolous appeals; the Alabama statute precludes any exercise of discretion within its scope of operation. Whatever circumscriptive effect the mandatory affirmance penalty statute may have on the state court's exercise of discretion under Alabama's Rule 38, that Rule provides no authority for defining the scope of discretion allowed under Federal Rule 38.</p>
     <p>Federal Rule 38 regulates matters which can reasonably be classified as procedural, thereby satisfying the constitutional standard for validity. Its displacement of the Alabama statute also satisfies the statutory constraints of the Rules Enabling Act. The choice made by the drafters of the Federal Rules in favor of a discretionary procedure affects only the process of enforcing litigants' rights, and not the rights themselves.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>We therefore hold that the Alabama mandatory affirmance penalty statute has no application to judgments entered by federal courts sitting in diversity.</p>
     <p>Reversed.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>

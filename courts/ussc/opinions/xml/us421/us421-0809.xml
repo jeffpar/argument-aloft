@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us421-0809.html" citation="421 U.S. 809" title="Bigelow v. Virginia">
   <opinion type="Opinions &amp; Dissents">
     <n id="p809">809</n>
-    <h>U.S. Supreme Court</h>
-    <h>Bigelow v. Virginia, <a href="./us421-0809.xml#p809">421 U.S. 809</a> (1975)</h>
-    <h>Bigelow v. Virginia</h>
-    <h>No. 73-1309</h>
-    <h>Argued December 18, 1974</h>
-    <h>Decided June 16, 1975</h>
-    <h><a href="./us421-0809.xml#p809">421 U.S. 809</a></h>
-    <h>APPEAL FROM THE SUPREME COURT OF VIRGINIA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Bigelow v. Virginia, <a href="./us421-0809.xml#p809">421 U.S. 809</a> (1975)</h1>
+    <h2>Bigelow v. Virginia</h2>
+    <h2>No. 73-1309</h2>
+    <h4>Argued December 18, 1974</h4>
+    <h4>Decided June 16, 1975</h4>
+    <h2>APPEAL FROM THE SUPREME COURT OF VIRGINIA</h2>
+    <h2>Syllabus</h2>
     <p>Appellant, the managing editor of a weekly newspaper published in Virginia, as the result of publishing a New York City organization's advertisement announcing that it would arrange low-cost placements for women with unwanted pregnancies in accredited hospitals and clinics in New York (where abortions were legal and there were no residency requirements), was convicted of violating a Virginia statute making it a misdemeanor, by the sale or circulation of any publication, to encourage or prompt the processing of an abortion. The trial court had rejected appellant's claim that the statute was unconstitutional under the First Amendment as made applicable to the States by the Fourteenth as being facially overbroad and as applied to appellant. The Virginia Supreme Court affirmed the conviction, also rejecting appellant's First Amendment claim and holding that the advertisement was a commercial one which could be constitutionally prohibited under the State's police power, and that, because appellant himself lacked a legitimate First Amendment interest inasmuch as his activity "was of a purely commercial nature," he had no standing to challenge the statute as being facially overbroad.</p>
     <p>Held:</p>
     <p>1. Though an intervening amendment of the statute, as a practical matter, moots the overbreadth issue for the future, the Virginia courts erred in denying appellant standing to raise that issue, since "pure speech", rather than conduct, was involved, and no consideration was given to whether or not the alleged overbreadth was substantial. Pp. <a href="./us421-0809.xml#p815">421 U. S. 815</a>-818.</p>
@@ -26,7 +26,7 @@
     <n id="p811">811</n>
     <p>MR. JUSTICE BLACKMUN delivered the Opinion of the Court.</p>
     <p>An advertisement carried in appellant's newspaper led to his conviction for a violation of a Virginia statute that made it a misdemeanor, by the sale or circulation of any publication, to encourage or prompt the procuring of an abortion. The issue here is whether the editor appellant's First Amendment rights were unconstitutionally abridged by the statute. The First Amendment, of course, is applicable to the States through the Fourteenth Amendment. Schneider v. State, <a href="../us308/us308-0147.xml#p147">308 U. S. 147</a>, <a href="../us308/us308-0147.xml#p160">308 U. S. 160</a> (1939).</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The Virginia Weekly was a newspaper published by the Virginia Weekly Associates of Charlottesville. It was issued in that city and circulated in Albemarle County, with particular focus on the campus of the University of Virginia. Appellant, Jeffrey C. Bigelow, was a director and the managing editor and responsible officer of the newspaper. [<a id="nf1" href="#fn1">Footnote 1</a>]</p>
     <p>On February 8, 1971, the Weekly's Vol. V, No. 6, was published and circulated under the direct responsibility</p>
     <n id="p812">812</n>
@@ -63,7 +63,7 @@
     <p>appellant himself lacked a legitimate First Amendment interest, inasmuch as his activity "was of a purely commercial nature," he had no "standing to rely upon the hypothetical rights of those in the non-commercial zone." Id. at 198, 191 S.E.2d at 177-178.</p>
     <p>Bigelow took a timely appeal to this Court. During the pendency of his appeal, Roe v. Wade, <a href="../us410/us410-0113.xml#p113">410 U. S. 113</a> (1973), and Doe v. Bolton, <a href="../us410/us410-0179.xml#p179">410 U. S. 179</a> (1973), were decided. We subsequently vacated Bigelow's judgment of conviction and remanded the case for further consideration in the light of Roe and Doe. 413 U.S. 909 (1973). [<a id="nf4" href="#fn4">Footnote 4</a>]</p>
     <p>The Supreme Court of Virginia, on such reconsideration, but without further oral argument, again affirmed appellant's conviction, observing that neither Roe nor Doe "mentioned the subject of abortion advertising" and finding nothing in those decisions "which in any way affects our earlier view." [<a id="nf5" href="#fn5">Footnote 5</a>] 214 Va. 341, 342, 200 S.E.2d 680 (1973). Once again, Bigelow appealed. We noted probable jurisdiction in order to review the important First Amendment issue presented. 418 U.S. 909 (1974).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>This Court often has recognized that a defendant's standing to challenge a statute on First Amendment grounds as facially overbroad does not depend upon whether his own activity is shown to be constitutionally privileged. The Court consistently has permitted</p>
     <p>"attacks on overly broad statutes with no requirement that the person making the attack demonstrate that his own</p>
     <n id="p816">816</n>
@@ -82,7 +82,7 @@
     <p>In view of the statute's amendment since Bigelow's conviction in such a way as "effectively to repeal" its prior application, there is no possibility now that the</p>
     <n id="p818">818</n>
     <p>statute's pre-1972 form will be applied again to appellant or will chill the rights of others. As a practical matter, the issue of its overbreadth has become moot for the future. We therefore decline to rest our decision on overbreadth, and we pass on to the further inquiry, of greater moment not only for Bigelow but for others, whether the statute, as applied to appellant, infringed constitutionally protected speech.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>A. The central assumption made by the Supreme Court of Virginia was that the First Amendment guarantee of speech and press are inapplicable to paid commercial advertisements. Our cases, however, clearly establish that speech is not stripped of First Amendment protection merely because it appears in that form. Pittsburgh Press Co. v. Human Rel. Comm'n, <a href="../us413/us413-0376.xml#p376">413 U. S. 376</a>, <a href="../us413/us413-0376.xml#p384">413 U. S. 384</a> (1973); New York Times Co. v. Sullivan, <a href="../us376/us376-0254.xml#p254">376 U. S. 254</a>, <a href="../us376/us376-0254.xml#p266">376 U. S. 266</a> (1964).</p>
     <p>The fact that the particular advertisement in appellant's newspaper had commercial aspects or reflected the advertiser's commercial interests did not negate all First Amendment guarantees. The State was not free of constitutional restraint merely because the advertisement involved sales or "solicitations," Murdock v. Pennsylvania, <a href="../us319/us319-0105.xml#p105">319 U. S. 105</a>, <a href="../us319/us319-0105.xml#p110">319 U. S. 110</a>-111 (1943), or because appellant was paid for printing it, New York Times Co. v. Sullivan, 376 U.S. at <a href="../us376/us376-0254.xml#p266">376 U. S. 266</a>; Smith v. California, <a href="../us361/us361-0147.xml#p147">361 U. S. 147</a>, <a href="../us361/us361-0147.xml#p150">361 U. S. 150</a> (1959), or because appellant's motive or the motive of the advertiser may have involved financial gain, Thomas v. Collins, <a href="../us323/us323-0516.xml#p516">323 U. S. 516</a>, <a href="../us323/us323-0516.xml#p531">323 U. S. 531</a> (1945). The existence of "commercial activity, in itself, is no justification for narrowing the protection of expression secured by the First Amendment." Ginzburg v. United States, <a href="../us383/us383-0463.xml#p463">383 U. S. 463</a>, <a href="../us383/us383-0463.xml#p474">383 U. S. 474</a> (1966).</p>
     <n id="p819">819</n>
@@ -118,7 +118,7 @@
     <n id="p826">826</n>
     <p>Advertising, like all public expression, may be subject to reasonable regulation that serves a legitimate public interest. See Pittsburgh Press Co. v. Human Rel. Comm'n, supra; Lehman v. City of Shaker Heights, <a href="../us418/us418-0298.xml#p298">418 U. S. 298</a> (1974). [<a id="nf11" href="#fn11">Footnote 11</a>] To the extent that commercial activity is subject to regulation, the relationship of speech to that activity may be one factor, among others, to be considered in weighing the First Amendment interest against the governmental interest alleged. Advertising is not thereby stripped of all First Amendment protection. The relationship of speech to the marketplace of products or of services does not make it valueless in the marketplace of ideas.</p>
     <p>The Court has stated that "a State cannot foreclose the exercise of constitutional rights by mere labels." NAACP v. Button, 371 U.S. at <a href="../us371/us371-0415.xml#p429">371 U. S. 429</a>. Regardless of the particular label asserted by the State -- whether it calls speech "commercial" or "commercial advertising" or "solicitation" -- a court may not escape the task of assessing the First Amendment interest at stake and weighing it against the public interest allegedly served by the regulation. The diverse motives, means, and messages of advertising may make speech "commercial" in widely varying degrees. We need not decide here the extent to which constitutional protection is afforded commercial advertising under all circumstances and in the face of all kinds of regulation.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>The task of balancing the interests at stake here was one that should have been undertaken by the Virginia courts before they reached their decision. We need not</p>
     <n id="p827">827</n>
     <p>remand for that purpose, however, because the outcome is readily apparent from what has been said above.</p>

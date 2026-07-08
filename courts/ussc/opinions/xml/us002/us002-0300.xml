@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us002-0300.html" citation="2 U.S. 300" title="LIVINGSTON v. SWANWICK">
   <opinion type="Opinions &amp; Dissents">
     <n id="p300">300</n>
-    <h>U.S. Supreme Court</h>
-    <h>LIVINGSTON v. SWANWICK, <a href="./us002-0300.xml#p300">2 U.S. 300</a> (1793)</h>
-    <h> <a href="./us002-0300.xml#p300">2 U.S. 300</a> (Dall.)</h>
-    <h>Livingston et. al. v. Swanwick</h>
-    <h>Circuit Court, Pennsylvania District</h>
-    <h>April Term, 1793</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>LIVINGSTON v. SWANWICK, <a href="./us002-0300.xml#p300">2 U.S. 300</a> (1793)</h1>
+    <h2>Livingston et. al. v. Swanwick</h2>
+    <h2>Circuit Court, Pennsylvania District</h2>
+    <h4>April Term, 1793</h4>
     <p>This was an action on the case, to recover the difference upon a stock contract, which Samuel Anderson, as the broker and agent of the defendant, who resided in Philadelphia, had entered into with the plaintiffs, who resided in New-York, in the following terms: 'I do hereby engage to deliver to John R. Livingston, Esq. the engagement of John Swanwick, Esq. of Philadelphia, to deliver to J. R. Livingston, Esq. aforesaid, one hundred shares of the Bank Stock of the United States, on the 5th of January next ensuing, upon receiving from the said John R. Livingston payment for the same, at the rate of twenty-one shillings and six pence in the pound.</p>
     <p>(Signed) Samuel Anderson.'</p>
     <p>New-York, 15th July, 1791.</p>
@@ -23,7 +23,7 @@
     <p>is sufficiently excused by the waiver, which has been proved on the part of the defendant.</p>
     <p>Verdict, for the Plaintiffs, for 19,400 dollars.</p>
     <p>Lewis, Rawle, Randolph &amp; Dallas for the plaintiffs. E. Tilghman, Ingersoll, Wilcocks and Serjeant for the defendant.*</p>
-    <h>Footnotes</h>
+    <h2>Footnotes</h2>
     <p>[Footnote *] The defendant's counsel tendered a bill of Exceptions to the admission of Anderson's testimony; and, also, to the opinion of the Court on the points stated in the charge. A Writ of Error was, accordingly brought; but never prosecuted.</p>
   </opinion>
 </case>

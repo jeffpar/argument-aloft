@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us064-0132.html" citation="64 U.S. 132" title="Flowers v. Foreman">
   <opinion type="Opinions &amp; Dissents">
     <n id="p132">132</n>
-    <h>U.S. Supreme Court</h>
-    <h>Flowers v. Foreman, 64 U.S. 132 (1859)</h>
-    <h>Flowers v. Foreman</h>
-    <h>64 U.S. (23 How.) 132</h>
-    <h>ERROR TO THE CIRCUIT COURT OF THE UNITED</h>
-    <h>STATES FOR THE DISTRICT OF MARYLAND</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Flowers v. Foreman, 64 U.S. 132 (1859)</h1>
+    <h2>Flowers v. Foreman</h2>
+    <h2>64 U.S. (23 How.) 132</h2>
+    <h2>ERROR TO THE CIRCUIT COURT OF THE UNITED</h2>
+    <h2>STATES FOR THE DISTRICT OF MARYLAND</h2>
+    <h2>Syllabus</h2>
     <p>Where a party residing in Maryland sold land in Louisiana with a general warranty to a resident of Louisiana, who was afterwards evicted from a part of it and obtained a judgment against his warrantor, whom he had vouched in,</p>
     <n id="p133">133</n>
     <p>this judgment could not be rendered effective against the Maryland vendor, because no notice had been served upon him and the appointment of a curator ad hoc was not sufficient.</p>

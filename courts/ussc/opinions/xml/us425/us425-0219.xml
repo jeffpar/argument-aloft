@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us425-0219.html" citation="425 U.S. 219" title="Dann v. Johnston">
   <opinion type="Opinions &amp; Dissents">
     <n id="p219">219</n>
-    <h>U.S. Supreme Court</h>
-    <h>Dann v. Johnston, <a href="./us425-0219.xml#p219">425 U.S. 219</a> (1976)</h>
-    <h>Dann v. Johnston</h>
-    <h>No. 74-1033</h>
-    <h>Argued December 9, 1975</h>
-    <h>Decided March 31, 1976</h>
-    <h><a href="./us425-0219.xml#p219">425 U.S. 219</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF</h>
-    <h>CUSTOMS AND PATENT APPEALS</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Dann v. Johnston, <a href="./us425-0219.xml#p219">425 U.S. 219</a> (1976)</h1>
+    <h2>Dann v. Johnston</h2>
+    <h2>No. 74-1033</h2>
+    <h4>Argued December 9, 1975</h4>
+    <h4>Decided March 31, 1976</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF</h2>
+    <h2>CUSTOMS AND PATENT APPEALS</h2>
+    <h2>Syllabus</h2>
     <p>Respondent's "machine system for automatic record-keeping of bank checks and deposits," under which checks and deposits are customer-labeled with code categories which are "read," and then processed by a data processor, such as a programmable electronic digital computer, having data storage files and a control system, permitting a bank to furnish a customer with an individual and categorized breakdown of his transactions during the period in question, held unpatentable on grounds of obviousness. 35 U.S.C. § 103. Pp. <a href="./us425-0219.xml#p225">425 U. S. 225</a>-230.</p>
     <p>502 F.2d 765, reversed and remanded.</p>
     <p>MARSHALL, J., delivered the opinion of the Court, in which all Members joined except BLACKMUN and STEVENS, JJ., who took no part in the consideration or decision of the case.</p>
@@ -21,7 +21,7 @@
     <p>"invention is being sold as a computer program to banks and to other data processing companies so that they can perform these data processing services for depositors."</p>
     <p>Brief for Respondent 19A; Application of Johnston, 502 F.2d 765 (CCPA 1974).</p>
     <p>Petitioner and respondent, as well as various amici, have presented lengthy arguments addressed to the question of the general patentability of computer programs. Cf. Gottschalk v. Benson, <a href="../us409/us409-0063.xml#p63">409 U. S. 63</a> (1972). We find no need to treat that question in this case, however, because we conclude that, in any event, respondent's system is unpatentable on grounds of obviousness. 35 U.S.C. § 103. Since the United States Court of Customs and Patent Appeals (CCPA) found respondent's system to be patentable, Application of Johnston, supra, the decision of that court is accordingly reversed.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>While respondent's patent application pertains to the highly esoteric field of computer technology,</p>
     <n id="p221">221</n>
     <p>the basic functioning of his invention is not difficult to comprehend. Under respondent's system, a bank customer labels each check that he writes with a numerical category code corresponding to the purpose for which the funds are being expended. For instance, "food expenditures" might be a category coded "123," "fuel expenditures" a category coded "124," and "rent" still another category coded "125." Similarly, on each deposit slip, the customer, again through a category code, indicates the source of the funds that he is depositing. When the checks and deposit slips are processed by the bank, the category codes are entered upon them in magnetic ink characters, just as, under existing procedures, the amount of the check or deposit is entered in such characters. Entries in magnetic ink allow the information associated with them to be "read" by special document-reading devices and then processed by data processors. On being read by such a device, the coded records of the customer's transactions are electronically stored in what respondent terms a "transaction file." Respondent's application describes the steps from this point as follows:</p>
@@ -31,7 +31,7 @@
     <p>Pet. for Cert. 4A-5A.</p>
     <p>Thus, when the time comes for the bank customer's regular periodic statement to be rendered, the programmed computer sorts out the entries in the various categories and produces a statement which groups the entries according to category and which gives subtotals for each category. The customer can then quickly see how much he spent or received in any given category during the period in question. Moreover, according to respondent, the system can "[adapt] to whatever variations in ledger format a user may specify." Brief for Respondent 66.</p>
     <p>In further description of the control system that is used in the invention, respondent's application recites that it is made up of a general control and a master control. The general control directs the processing operations common to most customers and is in the form of a software computer program, i.e., a program that is meant to be used in a general purpose digital computer. The master control, directing the operations that vary on an individual basis with each customer, is in the form of a separate sequence of records for each customer containing suitable machine instruction mechanisms along with the customer's financial data. Respondent's application sets out a flow chart of a program compatible with an IBM 1400 computer which would effectuate his system.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Under respondent's invention, then, a general purpose computer is programmed to provide bank customers with an individualized and categorized breakdown of their transactions during the period in question.</p>
     <n id="p223">223</n>
     <p>After reviewing respondent's patent application, the patent examiner rejected all the claims therein. He found that respondent's claims were invalid as being anticipated by the prior art, 35 U.S.C. § 102, and as not "particularly pointing out and distinctly claiming" what respondent was urging to be his invention. § 112.</p>
@@ -46,7 +46,7 @@
     <p>"'The issue considered by the Supreme Court in Benson was a narrow one, namely, is a formula for converting binary coded decimal numerals into pure binary numerals by a series of mathematical calculations a patentable process?' (Emphasis added.) [Quoting In re Christensen, 478 F.2d 1392, 1394 (CCPA 1973).]"</p>
     <p>"[T]he instant claims in apparatus form do not claim or encompass a law of nature, a mathematical formula, or an algorithm."</p>
     <p>502 F.2d at 771 (emphasis in CCPA opinion). Having disposed of the Board's rejections and having distinguished Benson to its satisfaction, the court held respondent's invention to be patentable. The Commissioner of Patents sought review in this Court, and we granted certiorari. 421 U.S. 962 (1975). We hold that respondent's invention was obvious under 35 U.S.C. § 103, and therefore reverse.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>As a judicial test, "invention" -- i.e., "an exercise of the inventive faculty," McClain v. Ortmayer, <a href="../us141/us141-0419.xml#p419">141 U. S. 419</a>, <a href="../us141/us141-0419.xml#p427">141 U. S. 427</a> (1891) -- has long been regarded as an absolute prerequisite to patentability. See, e.g., Keystone Driller Co. v. Northwest Engineering Corp., <a href="../us294/us294-0042.xml#p42">294 U. S. 42</a> (1935); Sharp v. Stamping Co., <a href="../us103/us103-0250.xml#p250">103 U. S. 250</a> (1880); <a href="../us052/us052-0248.xml#p248">Hotchkiss v. Greenwood</a>, 11 How. 248 (1851). However, it was only in 1952 that Congress, in the interest of "uniformity and definiteness," articulated the requirement in a statute,</p>
     <n id="p226">226</n>
     <p>framing it as a requirement of "nonobviousness." [<a id="nf2" href="#fn2">Footnote 2</a>] Section 103 of the Patent Act of 1952, 35 U.S.C. § 103, provides in full:</p>

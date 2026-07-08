@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us577-0082.html" citation="577 U.S. 82" title="Bruce v. Samuels">
   <opinion type="Opinion" author="Ginsburg">
     <n id="p82">82</n>
     <p>NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 14–844</p>
-    <p>_________________</p>
     <p>ANTOINE BRUCE, PETITIONER v. CHARLES E. SAMUELS, JR., et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the district of columbia circuit</p>
     <p>[January 12, 2016]</p>
@@ -16,7 +15,7 @@
     <p>We hold that monthly installment payments, like the initial partial payment, are to be assessed on a per-case basis. Nothing in §1915’s current design supports treating a prisoner’s second or third action unlike his first lawsuit.</p>
     <p>I</p>
     <p>A</p>
-    <p>In 1892, Congress enacted the in forma pauperis (IFP) statute, now codified at 28 U. S. C. §1915, “to ensure that indigent litigants have meaningful access to the federal courts.” Neitzke v. Williams, 490 U. S. 319, 324 (1989) . Reacting to “a sharp rise in prisoner litigation,” Woodford v. Ngo, 548 U. S. 81, 84 (2006) , Congress in 1996 enacted the PLRA, which installed a variety of measures “designed to filter out the bad claims [filed by prisoners] and facilitate consideration of the good,” Coleman v. Tollefson, 575 U. S. ___, ___ (2015) (slip op., at 3) (quoting Jones v. Bock, 549 U. S. 199, 204 (2007) ; alteration in original).</p>
+    <p>In 1892, Congress enacted the in forma pauperis (IFP) statute, now codified at 28 U. S. C. §1915, “to ensure that indigent litigants have meaningful access to the federal courts.” Neitzke v. Williams, 490 U. S. 319, 324 (1989) . Reacting to “a sharp rise in prisoner litigation,” Woodford v. Ngo, 548 U. S. 81, 84 (2006), Congress in 1996 enacted the PLRA, which installed a variety of measures “designed to filter out the bad claims [filed by prisoners] and facilitate consideration of the good,” Coleman v. Tollefson, 575 U. S. ___, ___ (2015) (slip op., at 3) (quoting Jones v. Bock, 549 U. S. 199, 204 (2007) ; alteration in original).</p>
     <p>Among those measures, Congress required prisoners to pay filing fees for the suits or appeals they launch. The provisions on fee payment, set forth in §1915(b), read:</p>
     <p>“(1) . . . [I]f a prisoner brings a civil action or files an appeal in forma pauperis, the prisoner shall be required to pay the full amount of a filing fee. The court shall assess and, when funds exist, collect, as a partial payment of any court fees required by law, an initial partial filing fee of 20 percent of the greater of—</p>
     <p>“(A) the average monthly deposits to the prisoner’s account; or</p>

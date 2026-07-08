@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us437-0584.html" citation="437 U.S. 584" title="Parker v. Flook">
   <opinion type="Opinions &amp; Dissents">
     <n id="p584">584</n>
-    <h>U.S. Supreme Court</h>
-    <h>Parker v. Flook, <a href="./us437-0584.xml#p584">437 U.S. 584</a> (1978)</h>
-    <h>Parker v. Flook</h>
-    <h>No. 77-642</h>
-    <h>Argued April 25, 1978</h>
-    <h>Decided June 22, 1978</h>
-    <h><a href="./us437-0584.xml#p584">437 U.S. 584</a></h>
-    <h>CERTIORARI TO THE COURT OF CUSTOMS AND PATENT APPEALS</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Parker v. Flook, <a href="./us437-0584.xml#p584">437 U.S. 584</a> (1978)</h1>
+    <h2>Parker v. Flook</h2>
+    <h2>No. 77-642</h2>
+    <h4>Argued April 25, 1978</h4>
+    <h4>Decided June 22, 1978</h4>
+    <h2>CERTIORARI TO THE COURT OF CUSTOMS AND PATENT APPEALS</h2>
+    <h2>Syllabus</h2>
     <p>Respondent's method for updating alarm limits during catalytic conversion processes, in which the only novel feature is a mathematical formula, held not patentable under § 101 of the Patent Act. The identification of a limited category of useful, though conventional, post-solution applications of such a formula does not make the method eligible for patent protection, since, assuming the formula to be within prior art, as it must be, <a href="../us056/us056-0062.xml#p62">O'Reilly v. Morse</a>, 15 How. 62, respondent's application contains no patentable invention. The chemical processes involved in catalytic conversion are well known, as are the monitoring of process variables, the use of alarm limits to trigger alarms, the notion that alarm limit values must be recomputed and readjusted, and the use of computers for "automatic process monitoring." Pp. <a href="./us437-0584.xml#p588">437 U. S. 588</a>-596.</p>
     <p>559 F.2d 21, reversed.</p>
     <p>STEVENS, J., delivered the opinion of the Court, in which BRENNAN, WHITE, MARSHALL, BLACKMUN, and POWELL, JJ., joined. STEWART, J., filed a dissenting opinion, in which BURGER, C.J., and REHNQUIST, J., joined, post, p. <a href="./us437-0584.xml#p598">437 U. S. 598</a>.</p>
     <n id="p585">585</n>
     <p>MR. JUSTICE STEVENS delivered the opinion of the Court.</p>
     <p>Respondent applied for a patent on a "Method for Updating Alarm Limits." The only novel feature of the method is a mathematical formula. In Gottschalk v. Benson, <a href="../us409/us409-0063.xml#p63">409 U. S. 63</a>, we held that the discovery of a novel and useful mathematical formula may not be patented. The question in this case is whether the identification of a limited category of useful, though conventional, post-solution applications of such a formula makes respondent's method eligible for patent protection.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>An "alarm limit" is a number. During catalytic conversion processes, operating conditions such as temperature, pressure, and flow rates are constantly monitored. When any of these "process variables" exceeds a predetermined "alarm limit," an alarm may signal the presence of an abnormal condition indicating either inefficiency or perhaps danger. Fixed alarm limits may be appropriate for a steady operation, but during transient operating situations, such as start-up, it may be necessary to "update" the alarm limits periodically.</p>
     <p>Respondent's patent application describes a method of updating alarm limits. In essence, the method consists of three steps: an initial step which merely measures the present value of the process variable (e.g., the temperature); an intermediate step which uses an algorithm [<a id="nf1" href="#fn1">Footnote 1</a>] to calculate an updated alarm limit value; and a final step in which the actual alarm limit is adjusted to the updated value. [<a id="nf2" href="#fn2">Footnote 2</a>] The only difference</p>
     <n id="p586">586</n>
@@ -25,14 +25,14 @@
     <p>The patent application does not purport to explain how to select the appropriate margin of safety, the weighting factor, or any of the other variables. Nor does it purport to contain any disclosure relating to the chemical processes at work, the monitoring of process variables, or the means of setting off an alarm or adjusting an alarm system. All that it provides is a formula for computing an updated alarm limit. Although the computations can be made by pencil and paper calculations, the abstract of disclosure makes it clear that the formula is primarily useful for computerized calculations producing automatic adjustments in alarm settings. [<a id="nf3" href="#fn3">Footnote 3</a>]</p>
     <p>The patent claims cover any use of respondent's formula for updating the value of an alarm limit on any process variable involved in a process comprising the catalytic chemical conversion of hydrocarbons. Since there are numerous processes of that kind in the petrochemical and oil-refining industries, [<a id="nf4" href="#fn4">Footnote 4</a>] the claims cover a broad range of potential uses of the method. They do not, however, cover every conceivable application of the formula.</p>
     <n id="p587">587</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>The patent examiner rejected the application. He found that the mathematical formula constituted the only difference between respondent's claims and the prior art, and therefore a patent on this method "would, in practical effect, be a patent on the formula or mathematics itself." [<a id="nf5" href="#fn5">Footnote 5</a>] The examiner concluded that the claims did not describe a discovery that was eligible for patent protection.</p>
     <p>The Board of Appeals of the Patent and Trademark Office sustained the examiner's rejection. The Board also concluded that the "point of novelty in [respondent's] claimed method" [<a id="nf6" href="#fn6">Footnote 6</a>] lay in the formula or algorithm described in the claims, a subject matter that was unpatentable under Benson, supra.</p>
     <p>The Court of Customs and Patent Appeals reversed. In re Flook, 559 F.2d 21. It read Benson as applying only to claims that entirely preempt a mathematical formula or algorithm, and noted that respondent was only claiming on the use of his method to update alarm limits in a process comprising the catalytic chemical conversion of hydrocarbons. The court reasoned that, since the mere solution of the algorithm would not constitute infringement of the claims, a patent on the method would not preempt the formula.</p>
     <p>The Acting Commissioner of Patents and Trademarks filed a petition for a writ of certiorari, urging that the decision of the Court of Customs and Patent Appeals will have a debilitating effect on the rapidly expanding computer "software" industry, [<a id="nf7" href="#fn7">Footnote 7</a>] and will require him to process thousands of additional</p>
     <n id="p588">588</n>
     <p>patent applications. Because of the importance of the question, we granted certiorari, 434 U.S. 1033.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>This case turns entirely on the proper construction of § 101 of the Patent Act, which describes the subject matter that is eligible for patent protection. [<a id="nf8" href="#fn8">Footnote 8</a>] It does not involve the familiar issues of novelty and obviousness that routinely arise under §§ 102 and 103 when the validity of a patent is challenged. For the purpose of our analysis, we assume that respondent's formula is novel and useful, and that he discovered it. We also assume, since respondent does not challenge the examiner's finding, that the formula is the only novel feature of respondent's method. The question is whether the discovery of this feature makes an otherwise conventional method eligible for patent protection.</p>
     <p>The plain language of § 101 does not answer the question. It is true, as respondent argues, that his method is a "process" in the ordinary sense of the word. [<a id="nf9" href="#fn9">Footnote 9</a>] But that was also true of the algorithm, which described a method for converting binary-coded decimal numerals into pure binary numerals,</p>
     <n id="p589">589</n>

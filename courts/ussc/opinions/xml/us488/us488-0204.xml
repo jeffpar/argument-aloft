@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us488-0204.html" citation="488 U.S. 204" title="Bowen v. Georgetown Univ. Hosp.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p204">204</n>
-    <h>U.S. Supreme Court</h>
-    <h>Bowen v. Georgetown Univ. Hosp., <a href="./us488-0204.xml#p204">488 U.S. 204</a> (1988)</h>
-    <h>Bowen v. Georgetown University Hospital</h>
-    <h>No. 87-1097</h>
-    <h>Argued October 11, 1988</h>
-    <h>Decided December 12, 1988</h>
-    <h><a href="./us488-0204.xml#p204">488 U.S. 204</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE DISTRICT OF COLUMBIA CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Bowen v. Georgetown Univ. Hosp., <a href="./us488-0204.xml#p204">488 U.S. 204</a> (1988)</h1>
+    <h2>Bowen v. Georgetown University Hospital</h2>
+    <h2>No. 87-1097</h2>
+    <h4>Argued October 11, 1988</h4>
+    <h4>Decided December 12, 1988</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE DISTRICT OF COLUMBIA CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Under the Medicare program, the Government reimburses health care providers for expenses incurred in providing medical services to Medicare beneficiaries. The Medicare Act, in 42 U.S.C. § 1395x(v)(1)(A), authorizes the Secretary of Health and Human Services (Secretary) to promulgate cost reimbursement regulations, and also provides that</p>
     <p>"[s]uch regulations shall . . . (ii) provide for the making of suitable retroactive corrective adjustments where, for a provider of services for any fiscal period, the aggregate reimbursement produced by the methods of determining costs proves to be either inadequate or excessive."</p>
     <p>In 1981, the Secretary issued a cost-limit schedule that changed the method for calculating the "wage index," a factor used to reflect the salary levels for hospital employees in different parts of the country. Under the prior rule, the wage index for a given geographic area was calculated by using the average salary levels for all hospitals in the area, but the 1981 rule excluded from that computation wages paid by Federal Government hospitals. After the Federal District Court invalidated the 1981 rule in a suit brought by various hospitals in the District of Columbia, and the Secretary settled the hospitals' cost reimbursement reports by applying the pre-1981 wage-index method, the Secretary in 1984 reissued the 1981 rule and proceeded to recoup the sums previously paid to the hospitals, including respondents, as a result of the District Court's ruling. After exhausting administrative remedies, respondents brought suit in Federal District Court, claiming that the retroactive schedule was invalid under, inter alia, the Medicare Act. The court granted summary judgment for respondents, and the Court of Appeals affirmed.</p>
@@ -27,7 +27,7 @@
     <p>Under the Medicare program, health care providers are reimbursed by the Government for expenses incurred in providing medical services to Medicare beneficiaries. See Title XVIII of the Social Security Act, 79 Stat. 291, as amended, 42 U.S.C. § 1395 et seq. (the Medicare Act). Congress has</p>
     <n id="p206">206</n>
     <p>authorized the Secretary of Health and Human Services to promulgate regulations setting limits on the levels of Medicare costs that will be reimbursed. The question presented here is whether the Secretary may exercise this rulemaking authority to promulgate cost limits that are retroactive.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The Secretary's authority to adopt cost-limit rules is established by § 223(b) of the Social Security Amendments of 1972, 86 Stat. 1393, amending 42 U.S.C. § 1395x(v)(1)(A). This authority was first implemented in 1974 by promulgation of a cost-limit schedule for hospital services; new cost-limit schedules were issued on an annual basis thereafter.</p>
     <p>On June 30, 1981, the Secretary issued a cost-limit schedule that included technical changes in the methods for calculating cost limits. One of these changes affected the method for calculating the "wage index," a factor used to reflect the salary levels for hospital employees in different parts of the country. Under the prior rule, the wage index for a given geographic area was calculated by using the average salary levels for all hospitals in the area; the 1981 rule provided that wages paid by Federal Government hospitals would be excluded from that computation.</p>
     <p>Various hospitals in the District of Columbia area brought suit in United States District Court seeking to have the 1981 schedule invalidated. On April 29, 1983, the District Court struck down the 1981 wage-index rule, concluding that the Secretary had violated the Administrative Procedure Act (APA), 5 U.S.C. § 551 et seq., by failing to provide notice and an opportunity for public comment before issuing the rule. See District of Columbia Hospital Assn. v. Heckler, No. 82-2520, App. to Pet. for Cert. 49a (hereinafter DCHA). The court did not enjoin enforcement of the rule, however, finding it lacked jurisdiction to do so because the hospitals</p>
@@ -42,7 +42,7 @@
     <n id="p208">208</n>
     <p>Store Union, AFL-CIO v. NLRB, 151 U.S.App.D.C. 209, 466 F.2d 380 (1972), the court held that retroactive application was not justified under the circumstances of the case.</p>
     <p>The Secretary appealed to the United States Court of Appeals for the District of Columbia Circuit, which affirmed. 261 U.S.App.D.C. 262, 821 F.2d 750 (1987). The court based its holding on the alternative grounds that the APA, as a general matter, forbids retroactive rulemaking, and that the Medicare Act, by specific terms, bars retroactive cost-limit rules. We granted certiorari, 485 U.S. 903 (1988), and we now affirm.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>It is axiomatic that an administrative agency's power to promulgate legislative regulations is limited to the authority delegated by Congress. In determining the validity of the Secretary's retroactive cost-limit rule, the threshold question is whether the Medicare Act authorizes retroactive rulemaking.</p>
     <p>Retroactivity is not favored in the law. Thus, congressional enactments and administrative rules will not be construed to have retroactive effect unless their language requires this result. E.g., Greene v. United States, <a href="../us376/us376-0149.xml#p149">376 U. S. 149</a>, <a href="../us376/us376-0149.xml#p160">376 U. S. 160</a> (1964); Claridge Apartments Co. v. Commissioner, <a href="../us323/us323-0141.xml#p141">323 U. S. 141</a>, <a href="../us323/us323-0141.xml#p164">323 U. S. 164</a> (1944); Miller v. United States, <a href="../us294/us294-0435.xml#p435">294 U. S. 435</a>, <a href="../us294/us294-0435.xml#p439">294 U. S. 439</a> (1935); United States v. Magnolia Petroleum Co., <a href="../us276/us276-0160.xml#p160">276 U. S. 160</a>, <a href="../us276/us276-0160.xml#p162">276 U. S. 162</a>-163 (1928). By the same principle, a statutory grant of legislative rulemaking authority will not, as a general matter, be understood to encompass the power to promulgate retroactive rules unless that power is conveyed by Congress in express terms. See Brimstone R. Co. v. United States, <a href="../us276/us276-0104.xml#p104">276 U. S. 104</a>, <a href="../us276/us276-0104.xml#p122">276 U. S. 122</a> (1928) ("The power to require readjustments for the past is drastic. It . . . ought not to be extended so as to permit unreasonably harsh action without very plain words"). Even where some substantial justification for retroactive rulemaking is presented, courts</p>
     <n id="p209">209</n>

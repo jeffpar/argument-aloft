@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us469-0464.html" citation="469 U.S. 464" title="Brandon v. Holt">
   <opinion type="Opinions &amp; Dissents">
     <n id="p464">464</n>
-    <h>U.S. Supreme Court</h>
-    <h>Brandon v. Holt, <a href="./us469-0464.xml#p464">469 U.S. 464</a> (1985)</h>
-    <h>Brandon v. Holt</h>
-    <h>No. 83-1622</h>
-    <h>Argued November 5, 1984</h>
-    <h>Decided January 21, 1985</h>
-    <h><a href="./us469-0464.xml#p464">469 U.S. 464</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SIXTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Brandon v. Holt, <a href="./us469-0464.xml#p464">469 U.S. 464</a> (1985)</h1>
+    <h2>Brandon v. Holt</h2>
+    <h4>No. 83-1622</h4>
+    <h4>Argued November 5, 1984</h4>
+    <h4>Decided January 21, 1985</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SIXTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>In petitioners' action in Federal District Court under 42 U.S.C. § 1983, they alleged and proved that they had been assaulted by an officer of the Memphis Police Department who had a history of violent behavior that was well known within the Department. The court's judgment for petitioners, in addition to awarding compensatory and punitive damages against the officer, also awarded compensatory damages against the then Director of the Police Department "in his official capacity," the court having found that, although the Director had no actual knowledge of the officer's disciplinary record because of the Department's administrative policies, he should have known of the officer's dangerous propensities. The Court of Appeals reversed the judgment against the Director, holding that he had acted in good faith and was accordingly entitled to immunity. The court rejected petitioners' contention that the action against the Director was tantamount to an action against the city of Memphis, which could not claim the qualified immunity that its agents could assert, and thus was liable for the damages awarded against the Director. The court concluded that the suit was against an individual, not the city.</p>
     <p>Held:</p>
     <p>1. The city was not named as a defendant in this case because the complaint was filed before Monroe v. Pape, <a href="../us365/us365-0167.xml#p167">365 U. S. 167</a> -- which held that municipalities could not be held liable under § 1983 -- was overruled by Monell v. New York City Dept. of Social Services, <a href="../us436/us436-0658.xml#p658">436 U. S. 658</a>. The course of these proceedings after Monell was decided, however, made it abundantly clear that the action against the Director was in his official capacity and only in that capacity, and that petitioners claimed a right to recover damages from the city. Thus, petitioners would be entitled to amend their pleadings to conform to the proof and to the District Court's findings of fact, and it is appropriate for this Court to decide the legal issues without first insisting that such a formal amendment be filed. Pp. <a href="./us469-0464.xml#p469">469 U. S. 469</a>-471.</p>
@@ -35,7 +35,7 @@
     <n id="p469">469</n>
     <p>immunity which shields Director Chapman. Such an argument is without support in precedent or reason. [<a id="nf10" href="#fn10">Footnote 10</a>]"</p>
     <p>We granted certiorari to consider the validity of that argument. 467 U.S. 1204 (1984). We now reverse.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In Monroe v. Pape, <a href="../us365/us365-0167.xml#p167">365 U. S. 167</a>, <a href="../us365/us365-0167.xml#p187">365 U. S. 187</a>-192 (1961), the Court held that a city was not "a person" within the meaning of 42 U.S.C. § 1983. That construction of § 1983 protected municipalities from liability in cases of this kind until June 6, 1978, when we decided Monell v. New York City Dept. of Social Services, <a href="../us436/us436-0658.xml#p658">436 U. S. 658</a>. The complaint in this case was filed on February 22, 1978, before Monroe v. Pape was overruled; this explains why the city of Memphis was not named as a defendant in this case. The timing of the complaint may also explain why petitioners did not expressly allege at the outset of the litigation that they were suing Chapman in his official capacity as Director of Police of the Memphis Police Department. [<a id="nf11" href="#fn11">Footnote 11</a>]</p>
     <p>The course of proceedings after Monell was decided did, however, make it abundantly clear that the action against Chapman was in his official capacity and only in that capacity. Thus, in petitioners' response to a defense motion for summary judgment, petitioners' counsel stated:</p>
     <p>"Defendant Chapman is sued in his official capacity as Director of Police Services, City of Memphis, Tennessee. '[O]fficial capacity suits generally represent an action against an entity of which an officer is an agent. . . .</p>
@@ -46,7 +46,7 @@
     <n id="p471">471</n>
     <p>who appears as a respondent in this Court, and there is not even an arguable basis for claiming that the record would support an award of damages against him individually.</p>
     <p>Given this state of the record, even at this late stage of the proceedings, petitioners are entitled to amend their pleadings to conform to the proof and to the District Court's findings of fact. [<a id="nf19" href="#fn19">Footnote 19</a>] Moreover, it is appropriate for us to proceed to decide the legal issues without first insisting that such a formal amendment be filed; this is because we regard the record as plainly identifying petitioners' claim for damages as one that is asserted against the office of "Director of Police, City of Memphis," rather than against the particular individual who occupied that office when the claim arose. Petitioners are claiming a right to recover damages from the city of Memphis.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>In at least three recent cases arising under § 1983, we have plainly implied that a judgment against a public servant "in his official capacity" imposes liability on the entity that he represents, provided, of course, the public entity received</p>
     <n id="p472">472</n>
     <p>notice and an opportunity to respond. [<a id="nf20" href="#fn20">Footnote 20</a>] We now make that point explicit.</p>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us442-0560.html" citation="442 U.S. 560" title="Touche Ross &amp;amp; Co. v. Redington">
   <opinion type="Opinions &amp; Dissents">
     <n id="p560">560</n>
-    <h>U.S. Supreme Court</h>
-    <h>Touche Ross &amp; Co. v. Redington, <a href="./us442-0560.xml#p560">442 U.S. 560</a> (1979)</h>
-    <h>Touche Ross &amp; Co. v. Redington</h>
-    <h>No. 78-309</h>
-    <h>Argued March 26, 1979</h>
-    <h>Decided June 18, 1979</h>
-    <h><a href="./us442-0560.xml#p560">442 U.S. 560</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SECOND CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Touche Ross &amp; Co. v. Redington, <a href="./us442-0560.xml#p560">442 U.S. 560</a> (1979)</h1>
+    <h2>Touche Ross &amp; Co. v. Redington</h2>
+    <h2>No. 78-309</h2>
+    <h4>Argued March 26, 1979</h4>
+    <h4>Decided June 18, 1979</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SECOND CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner accounting firm was retained by a securities brokerage firm (Weis) registered with the Securities and Exchange Commission (SEC) and a member of the New York Stock Exchange (Exchange), and, in this capacity, audited Weis' books and records and prepared for filing with the SEC the annual reports of financial condition required by § 17(a) of the Securities Exchange Act of 1934 (1934 Act) and implementing regulations. Subsequently, because of Weis' precarious financial condition, respondent Redington was appointed as trustee in the liquidation of Weis' business pursuant to the Securities Investor Protection Act (SIPA). During the liquidation, Weis' cash and securities on hand, as well as a sum of money advanced by respondent Securities Investor Protection Corporation (SIPC) to the trustee under the SIPA, proved to be insufficient to make whole those customers who had left assets or deposits with Weis. The SIPC and the trustee then filed an action for damages against petitioner in District Court, seeking to impose liability upon petitioner by reason of its allegedly improper audit of Weis' financial statements, and alleging that, because of such improper conduct, petitioner breached duties owed to the SIPC, the trustee, and others under the common law, § 17(a), and the regulations, and that this misconduct prevented Weis' true financial condition from becoming known until it was too late to forestall liquidation or to lessen the adverse financial consequences to Weis' customers. The District Court dismissed the complaint, holding that no claim for relief was stated because no private cause of action could be implied from § 17(a). The Court of Appeals reversed, holding that § 17(a) imposes a duty on accountants, that a breach of this duty gives rise to an implied private right of action for damages in favor of a broker-dealer's customers, and that the SIPC and the trustee could assert this implied cause of action on behalf of Weis' customers.</p>
     <p>Held: There is no implied private cause of action for damages under § 17(a). Pp. <a href="./us442-0560.xml#p568"> 442 U. S. 568</a>-579.</p>
     <p>(a) In terms, § 17(a) simply requires broker-dealers to keep such records and file such reports as the SEC may prescribe, and does not purport to create a private cause of action in favor of anyone. The</p>
@@ -26,7 +26,7 @@
     <p>MR. JUSTICE REHNQUIST delivered the opinion of the Court.</p>
     <p>Once again, we are called upon to decide whether a private remedy is implicit in a statute not expressly providing one. During this Term alone, we have been asked to undertake this task no fewer than five times in cases in which we have granted certiorari. [<a id="nf1" href="#fn1">Footnote 1</a>] Here we decide whether customers of securities brokerage firms that are required to file certain financial reports with regulatory authorities by § 17(a) of the Securities Exchange Act of 1934 (1934 Act), 48 Stat. 897, as amended, 15 U.S.C. § 78q(a), have an implied cause of action for damages under § 17(a) against accountants who audit such reports, based on misstatements contained in the reports. [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
     <n id="p563">563</n>
-    <h>I</h>
+    <h2>I</h2>
     <p>Petitioner Touche Ross &amp; Co. is a firm of certified public accountants. Weis Securities, Inc. (Weis), a securities brokerage firm registered as a broker-dealer with the Securities and Exchange Commission (Commission) and a member of the New York Stock Exchange (Exchange), retained Touche Ross to serve as Weis' independent certified public accountant from 1969 to 1973. In this capacity, Touche Ross conducted audits of Weis' books and records and prepared for filing with the Commission the annual reports of financial condition required by § 17(a) of the 1934 Act, 15 U.S.C. § 78q(a), and the rules and regulations adopted thereunder. 17 CFR § 240.17a-5 (1972). [<a id="nf3" href="#fn3">Footnote 3</a>] Touche Ross also prepared for Weis</p>
     <n id="p564">564</n>
     <p>responses to financial questionnaires required by the Exchange of its member firms.</p>
@@ -41,7 +41,7 @@
     <n id="p567">567</n>
     <p>F.2d 617 (1978). The court first found that § 17(a) imposes a duty on accountants. 592 F.2d at 621. It next concluded, based on the factors set forth in Cort v. Ash, <a href="../us422/us422-0066.xml#p66">422 U. S. 66</a>, <a href="../us422/us422-0066.xml#p78">422 U. S. 78</a> (1975), that an accountant's breach of his § 17(a) duty gives rise to an implied private right of action for damages in favor of a broker-dealer's customers, even though it acknowledged that the "legislative history of the section is mute on the issue." 592 F.2d at 622. The court held that SIPC and the Trustee could assert this implied cause of action on behalf of the Weis customers. [<a id="nf9" href="#fn9">Footnote 9</a>] We granted certiorari, 439 U.S. 979 (1978), and we now reverse.</p>
     <n id="p568">568</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>The question of the existence of a statutory cause of action is, of course, one of statutory construction. Cannon v. University of Chicago, <a href="../us441/us441-0677.xml#p677">441 U. S. 677</a>, <a href="../us441/us441-0677.xml#p688">441 U. S. 688</a> (1979); see National Railroad Passenger Corp. v. National Association of Railroad Passengers, <a href="../us414/us414-0453.xml#p453">414 U. S. 453</a>, <a href="../us414/us414-0453.xml#p458">414 U. S. 458</a> (1974) (hereinafter Amtrak). SIPC's argument in favor of implication of a private right of action based on tort principles, therefore, is entirely misplaced. Brief for Respondent SIPC 22-23. As we recently have emphasized,</p>
     <p>"the fact that a federal statute has been violated and some person harmed does not automatically give rise to a private cause of action in favor of that person."</p>
     <p>Cannon v. University of Chicago, supra at <a href="../us441/us441-0677.xml#p688">441 U. S. 688</a>. Instead, our task is limited solely to determining whether Congress intended to create the private right of action asserted by SIPC and the Trustee. And as with any case involving the interpretation of a statute, our analysis must begin with the language of the statute itself. Cannon v. University of Chicago, supra at <a href="../us441/us441-0677.xml#p689">441 U. S. 689</a>; Teamsters v. Daniel, <a href="../us439/us439-0551.xml#p551">439 U. S. 551</a>, <a href="../us439/us439-0551.xml#p558">439 U. S. 558</a> (1979); Santa Fe Industries, Inc. v. Green, <a href="../us430/us430-0462.xml#p462">430 U. S. 462</a>, <a href="../us430/us430-0462.xml#p472">430 U. S. 472</a> (1977); Piper v. Chris-Craft Industries, Inc., <a href="../us430/us430-0001.xml#p1">430 U. S. 1</a>, <a href="../us430/us430-0001.xml#p24">430 U. S. 24</a> (1977); Ernst &amp; Ernst v. Hochfelder, <a href="../us425/us425-0185.xml#p185">425 U. S. 185</a>, <a href="../us425/us425-0185.xml#p197">425 U. S. 197</a> (1976).</p>
@@ -76,7 +76,7 @@
     <n id="p578">578</n>
     <p>The invocation of the "remedial purposes" of the 1934 Act is similarly unavailing. Only last Term, we emphasized that generalized references to the "remedial purposes" of the 1934 Act will not justify reading a provision "more broadly than its language and the statutory scheme reasonably permit." SEC v. Sloan, <a href="../us436/us436-0103.xml#p103">436 U. S. 103</a>, <a href="../us436/us436-0103.xml#p116">436 U. S. 116</a> (1978); see Ernst &amp; Ernst v. Hochfelder, 425 U.S. at <a href="../us425/us425-0185.xml#p200">425 U. S. 200</a>. Certainly, the mere fact that § 17(a) was designed to provide protection for brokers' customers does not require the implication of a private damages action in their behalf. Cannon v. University of Chicago, supra at <a href="../us441/us441-0677.xml#p688">441 U. S. 688</a>, and n. 9; Securities Investor Protection Corp. v. Barbour, supra at <a href="../us421/us421-0412.xml#p421">421 U. S. 421</a>. To the extent our analysis in today's decision differs from that of the Court in Borak, it suffices to say that, in a series of cases since Borak, we have adhered to a stricter standard for the implication of private causes of action, and we follow that stricter standard today. Cannon v. University of Chicago, supra at <a href="../us441/us441-0677.xml#p699">441 U. S. 688</a>-709. The ultimate question is one of congressional intent, not one of whether this Court thinks that it can improve upon the statutory scheme that Congress enacted into law.</p>
     <n id="p579">579</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>SIPC and the Trustee contend that the result we reach sanctions injustice. But even if that were the case, the argument is made in the wrong forum, for we are not at liberty to legislate. If there is to be a federal damages remedy under these circumstances, Congress must provide it. "[I]t is not for us to fill any hiatus Congress has left in this area." Wheeldin v. Wheeler, <a href="../us373/us373-0647.xml#p647">373 U. S. 647</a>, <a href="../us373/us373-0647.xml#p652">373 U. S. 652</a> (1963). Obviously, nothing we have said prevents Congress from creating a private right of action on behalf of brokerage firm customers for losses arising from misstatements contained in § 17(a) reports. But if Congress intends those customers to have such a federal right of action, it is well aware of how it may effectuate that intent.</p>
     <p>The judgment of the Court of Appeals is reversed, and the case is remanded for further proceedings consistent with this opinion.</p>
     <p>It is so ordered.</p>

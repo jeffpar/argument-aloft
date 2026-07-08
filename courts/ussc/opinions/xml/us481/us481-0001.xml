@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us481-0001.html" citation="481 U.S. 1" title="Pennzoil Co. v. Texaco, Inc.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p1">1</n>
-    <h>U.S. Supreme Court</h>
-    <h>Pennzoil v. Texaco, Inc., <a href="./us481-0001.xml#p1">481 U.S. 1</a> (1987)</h>
-    <h>Pennzoil v. Texaco, Inc.</h>
-    <h>No. 85-1798</h>
-    <h>Argued January 12, 1987</h>
-    <h>Decided April 6, 1987</h>
-    <h><a href="./us481-0001.xml#p1">481 U.S. 1</a></h>
-    <h>APPEAL FROM THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE SECOND CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h4>Pennzoil v. Texaco, Inc., <a href="./us481-0001.xml#p1">481 U.S. 1</a> (1987)</h4>
+    <h2>Pennzoil v. Texaco, Inc.</h2>
+    <h4>No. 85-1798</h4>
+    <h4>Argued January 12, 1987</h4>
+    <h4>Decided April 6, 1987</h4>
+    <h2>APPEAL FROM THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE SECOND CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Under Texas law, a judgment creditor can secure and execute a lien on a judgment debtor's property unless the debtor files a supersedeas bond in at least the amount of the judgment, interest, and costs. Appellant obtained a jury verdict of $10.53 billion in its Texas state court suit alleging that appellee tortiously had induced a third oil company to breach a contract to sell its shares to appellant. Because it was clear that appellee would not be able to post a bond in the necessary amount, the verdict had substantial adverse effects on appellee's business and financial situation. Accordingly, even before the trial court entered judgment on the verdict, appellee filed suit in Federal District Court alleging that the Texas proceedings violated its rights under the Federal Constitution and various federal statutes. Appellee did not present these claims to the state court. Appellant argued, inter alia, that the Federal District Court should abstain from hearing the case under the doctrine of Younger v. Harris, <a href="../us401/us401-0037.xml#p37">401 U. S. 37</a>. The District Court rejected this contention, and, concluding that appellee's constitutional claims had "a very clear probability of success," issued a preliminary injunction barring any action to enforce the state court's judgment, which had now been entered. The Court of Appeals affirmed, holding, inter alia, that Younger abstention was unnecessary, because the state interests at stake differed in both kind and degree from those present in the cases in which this Court has held that Younger applied, and because Texas had failed to</p>
     <n id="p2">2</n>
     <p>provide adequate procedures for adjudication of appellee's federal claims.</p>
@@ -26,7 +26,7 @@
     <p>JUSTICE POWELL delivered the opinion of the Court.</p>
     <p>The principal issue in this case is whether a federal district court lawfully may enjoin a plaintiff who has prevailed in a trial in state court from executing the judgment in its favor pending appeal of that judgment to a state appellate court.</p>
     <n id="p4">4</n>
-    <h>I</h>
+    <h2>I</h2>
     <p>Getty Oil Co. and appellant Pennzoil Co. negotiated an agreement under which Pennzoil was to purchase about three-sevenths of Getty's outstanding shares for $110 a share. Appellee Texaco Inc. eventually purchased the shares for $128 a share. On February 8, 1984, Pennzoil filed a complaint against Texaco in the Harris County District Court, a state court located in Houston, Texas, the site of Pennzoil's corporate headquarters. The complaint alleged that Texaco tortiously had induced Getty to breach a contract to sell its shares to Pennzoil; Pennzoil sought actual damages of $7.53 billion and punitive damages in the same amount. On November 19, 1985, a jury returned a verdict in favor of Pennzoil, finding actual damages of $7.53 billion and punitive damages of $3 billion. The parties anticipated that the judgment, including prejudgment interest, would exceed $11 billion.</p>
     <p>Although the parties disagree about the details, it was clear that the expected judgment would give Pennzoil significant rights under Texas law. By recording an abstract of a judgment in the real property records of any of the 254 counties in Texas, a judgment creditor can secure a lien on all of a judgment debtor's real property located in that county. See Tex.Prop.Code Ann. §§ 52.001-52.006 (1984). If a judgment creditor wishes to have the judgment enforced by state officials, so that it can take possession of any of the debtor's assets, it may secure a writ of execution from the clerk of the court that issued the judgment. See Tex.Rule Civ.Proc. 627. [<a id="nf1" href="#fn1">Footnote 1</a>] Rule 627 provides that such a writ usually can be obtained "after the expiration of thirty days from the time a</p>
     <n id="p5">5</n>
@@ -55,7 +55,7 @@
     <p>Ibid. Moreover, it thought that Texas had failed to "provide adequate procedures for adjudication of Texaco's federal claims." Id. at 1150. Turning to the merits, it agreed with the District Court that Texaco had established a likelihood of success on its constitutional claims, and that the balance of hardships favored Texaco. Accordingly, it affirmed the grant of injunctive relief. [<a id="nf8" href="#fn8">Footnote 8</a>]</p>
     <p>Pennzoil filed a jurisdictional statement in this Court. We noted probable jurisdiction under 28 U.S.C. § 1254(2). 477 U.S. 903 (1986). We reverse.</p>
     <n id="p10">10</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>The courts below should have abstained under the principles of federalism enunciated in Younger v. Harris, <a href="../us401/us401-0037.xml#p37">401 U. S. 37</a> (1971). Both the District Court and the Court of Appeals failed to recognize the significant interests harmed by their unprecedented intrusion into the Texas judicial system. Similarly, neither of those courts applied the appropriate standard in determining whether adequate relief was available in the Texas courts.</p>
     <p>A</p>
     <p>The first ground for the Younger decision was</p>
@@ -95,11 +95,11 @@
     <p>Against this background, Texaco's submission that the Texas courts were incapable of hearing its constitutional claims is plainly insufficient. Both of the courts below found that the Texas trial court had the power to consider constitutional challenges to the enforcement provisions. [<a id="nf14" href="#fn14">Footnote 14</a>] The Texas Attorney General filed a brief in the proceedings below, arguing that such relief was available in the Texas courts. See Brief for Intervenor-Appellant in Nos. 86-7046, 86-7052 (CA2), pp. 32-33. Texaco has cited no statute or case clearly indicating that Texas courts lack such power. [<a id="nf15" href="#fn15">Footnote 15</a>] Accordingly, Texaco has failed to meet its burden on this point. [<a id="nf16" href="#fn16">Footnote 16</a>]</p>
     <n id="p17">17</n>
     <p>In sum, the lower courts should have deferred on principles of comity to the pending state proceedings. They erred in accepting Texaco's assertions as to the inadequacies of Texas procedure to provide effective relief. It is true that this case presents an unusual fact situation, never before addressed by the Texas courts, and that Texaco urgently desired prompt relief. But we cannot say that those courts, when this suit was filed, would have been any less inclined than a federal court to address and decide the federal constitutional claims. Because Texaco apparently did not give the Texas courts an opportunity to adjudicate its constitutional claims, and because Texaco cannot demonstrate that the Texas courts were not then open to adjudicate its claims, there is no basis for concluding that the Texas law and procedures were so deficient that Younger abstention is inappropriate. Accordingly, we conclude that the District Court should have abstained.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>In this opinion, we have addressed the situation that existed on the morning of December 10, 1985, when this case was filed in the United States District Court for the Southern District of New York. We recognize that much has transpired in the Texas courts since then. Later that day, the Texas trial court entered judgment. See <a id="nf5" href="#fn5">n</a> 5, supra. On February 12 of this year, the Texas Court of Appeals substantially affirmed the judgment. See ibid. We are not unmindful of the unique importance to Texaco of having its challenges to that judgment authoritatively considered and resolved. We of course express no opinion on the merits of</p>
     <n id="p18">18</n>
     <p>those challenges. Similarly, we express no opinion on the claims Texaco has raised in this case against the Texas bond and lien provisions, nor on the possibility that Texaco now could raise these claims in the Texas courts, see <a id="nf16" href="#fn16">n</a> 16, supra. Today we decide only that it was inappropriate for the District Court to entertain these claims. If, and when, the Texas courts render a final decision on any federal issue presented by this litigation, review may be sought in this Court in the customary manner.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>The judgment of the Court of Appeals is reversed. The case is remanded to the District Court with instructions to vacate its order and dismiss the complaint. The judgment of this Court shall issue forthwith.</p>
     <p>It is so ordered.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>

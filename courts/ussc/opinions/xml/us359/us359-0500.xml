@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us359-0500.html" citation="359 U.S. 500" title="Beacon Theatres, Inc. v. Westover">
   <opinion type="Opinions &amp; Dissents">
     <n id="p500">500</n>
-    <h>U.S. Supreme Court</h>
-    <h>Beacon Theatres, Inc. v. Westover, <a href="./us359-0500.xml#p500">359 U.S. 500</a> (1959)</h>
-    <h>Beacon Theatres, Inc. v. Westover</h>
-    <h>No. 45</h>
-    <h>Argued December 10, 1958</h>
-    <h>Decided May 25, 1959</h>
-    <h><a href="./us359-0500.xml#p500">359 U.S. 500</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Beacon Theatres, Inc. v. Westover, <a href="./us359-0500.xml#p500">359 U.S. 500</a> (1959)</h1>
+    <h2>Beacon Theatres, Inc. v. Westover</h2>
+    <h2>No. 45</h2>
+    <h4>Argued December 10, 1958</h4>
+    <h4>Decided May 25, 1959</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>In anticipation of a suit by petitioner for treble damages under the Sherman and Clayton Acts, the prospective defendant brought suit against petitioner in a Federal District Court for a declaratory judgment which would have settled some of the key issues in such an antitrust suit, and prayed that the bringing of such a suit be enjoined pending outcome of the declaratory judgment litigation. Petitioner filed a counterclaim raising the issues which would have been raised in the antitrust suit for treble damages, and demanded a jury trial. Purporting to act in the exercise of its discretion under Rules 42(b) and 57 of the Federal Rules of Civil Procedure, the District Court ruled that it would try in equity, without a jury, the issues common to both proceedings before trying petitioner's counterclaim. The Court of Appeals held that the District Court had acted within the proper scope of its discretion, and it denied petitioner's application for a writ of mandamus requiring the District Court to set aside its ruling.</p>
     <p>Held: the judgment of the Court of Appeals is reversed. Pp. <a href="./us359-0500.xml#p501">359 U. S. 501</a>-511.</p>
     <p>1. The District Court's finding that the complaint for declaratory relief presented basically equitable issues draws no support from the Declaratory Judgment Act, which specifically preserves the right to a jury trial for both parties. P. <a href="./us359-0500.xml#p504">359 U. S. 504</a>.</p>
@@ -139,14 +139,14 @@
       <p>Assuming the existence of a factual issue common both to the plaintiff's original action and the defendant's counterclaim for damages, I cannot agree that the District Court must be compelled to try the counterclaim first. [Footnote 2/4]</p>
       <n id="p514">514</n>
       <p>It is, of course, a matter of no great moment in what order the issues between the parties in the present litigation are tried. What is disturbing is the process by which the Court arrives at its decision -- a process which appears to disregard the historic relationship between equity and law.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>The Court suggests that "the expansion of adequate legal remedies provided by the Declaratory Judgment Act . . . necessarily affects the scope of equity." Does the Court mean to say that the mere availability of an action for a declaratory judgment operates to furnish "an adequate remedy at law," so as to deprive a court of equity of the power to act? That novel line of reasoning is at least implied in the Court's opinion. But the Declaratory Judgment Act did not "expand" the substantive law.</p>
       <n id="p515">515</n>
       <p>That Act merely provided a new statutory remedy, neither legal nor equitable, but available in the areas of both equity and law. When declaratory relief is sought, the right to trial by jury depends upon the basic context in which the issues are presented. See Moore's Federal Practice (2d ed.) §§ 38.29, 57.30; Borchard, Declaratory Judgments (2d ed.), 399-404. If the basic issues in an action for declaratory relief are of a kind traditionally cognizable in equity, e.g., a suit for cancellation of a written instrument, the declaratory judgment is not a "remedy at law." [Footnote 2/5] If, on the other hand, the issues arise in a context traditionally cognizable at common law, the right to a jury trial, of course, remains unimpaired, even though the only relief demanded is a declaratory judgment. [Footnote 2/6]</p>
       <p>Thus, if, in this case, the complaint had asked merely for a judgment declaring that the plaintiff's specified manner of business dealings with distributors and other exhibitors did not render it liable to Beacon under the antitrust laws, this would have been simply a "juxtaposition of parties" case in which Beacon could have demanded a jury trial. [Footnote 2/7] But the complaint in the present case, as the Court recognizes, presented issues of exclusively equitable cognizance, going well beyond a mere defense to any subsequent action at law. Fox sought from the court protection against Beacon's allegedly unlawful interference with its business relationships -- protection which this</p>
       <n id="p516">516</n>
       <p>Court seems to recognize might not have been afforded by a declaratory judgment, unsupplemented by equitable relief. The availability of a declaratory judgment did not, therefore, operate to confer upon Beacon the right to trial by jury with respect to the issues raised by the complaint.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>The Court's opinion does not, of course, hold or even suggest that a court of equity may never determine "legal rights." For indeed it is precisely such rights which the Chancellor, when his jurisdiction has been properly invoked, has often been called upon to decide. Issues of fact are rarely either "legal" or "equitable." All depends upon the context in which they arise. The examples cited by Chief Judge Pope in his thorough opinion in the Court of Appeals in this case are illustrative:</p>
       <p>". . . [I]n a suit by one in possession of real property to quiet title, or to remove a cloud on title, the court of equity may determine the legal title. In a suit for specific performance of a contract, the court may determine the making, validity and the terms of the contract involved. In a suit for an injunction against trespass to real property, the court may determine the legal right of the plaintiff to the possession of that property. Cf. Pomeroy, Equity Jurisprudence, 5th ed., §§ 138-221, 221a, 221b, 221d, 250."</p>
       <p>252 F.2d 864, 874.</p>
@@ -160,7 +160,7 @@
       <n id="p518">518</n>
       <p>done by pursuing such a course, the remedy in equity being exceptional and the outcome of necessity. . . . There would be many circumstances to be weighed, as, for instance, the condition of the court calendar, whether the insurer had been precipitate or its adversaries dilatory, as well as other factors. In the end, benefit and hardship would have to be set off, the one against the other, and a balance ascertained."</p>
       <p><a href="../us300/us300-0203.xml#p203">300 U. S. 300</a> U.S. 203, <a href="../us300/us300-0203.xml#p215">300 U. S. 215</a>-216. [Footnote 2/9]</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>The Court today sweeps away these basic principles as "precedents decided under discarded procedures." It suggests that the Federal Rules of Civil Procedure have somehow worked an "expansion of adequate legal remedies" so as to oust the District Courts of equitable jurisdiction, as well as to deprive them of their traditional power to control their own dockets. But obviously the Federal Rules could not and did not "expand" the substantive law one whit. [Footnote 2/10]</p>
       <p>Like the Declaratory Judgment Act, the Federal Rules preserve inviolate the right to trial by jury in actions historically cognizable at common law, as under the Constitution they must. [Footnote 2/11] They do not create a right of trial</p>
       <n id="p519">519</n>

@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us604-23-929.html" citation="604 U.S. 23-929" title="Velazquez v. Bondi">
   <opinion type="Opinion" author="Gorsuch">
     <p>NOTICE: This opinion is subject to formal revision before publication in the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, pio@supremecourt.gov, of any typographical or other formal errors.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 23–929</p>
-    <p>_________________</p>
     <p>HUGO ABISAÍ MONSALVO VELÁZQUEZ, PETITIONER v. PAMELA BONDI, ATTORNEY GENERAL</p>
     <p>on writ of certiorari to the united states court of appeals for the tenth circuit</p>
     <p>[April 22, 2025]</p>
@@ -71,9 +70,7 @@
   </opinion>
   <opinion type="Dissent" author="Thomas">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 23–929</p>
-    <p>_________________</p>
     <p>HUGO ABISAÍ MONSALVO VELÁZQUEZ, PETITIONER v. PAMELA BONDI, ATTORNEY GENERAL</p>
     <p>on writ of certiorari to the united states court of appeals for the tenth circuit</p>
     <p>[April 22, 2025]</p>
@@ -101,7 +98,7 @@
     <p>The Government raised before this Court a new objection to the Tenth Circuit’s jurisdiction: that Monsalvo’s petition could not support jurisdiction because it did not bear on his removability. The Government emphasized that Monsalvo had asked the Tenth Circuit to review only the denial of his motion for reconsideration, which, unlike his motion for reopening, did not ask the BIA to reopen his removal proceedings. Accordingly, he was asking only “to alter a nondispositive portion of the Board’s reasoning in its prior decision declining to reopen proceedings.” Brief for Respondent 19. That unusual request, the Government contended, did not fall into any category cognizable under §1252.</p>
     <p>II</p>
     <p>In view of the Government’s serious, late-breaking jurisdictional objection, we should have vacated and remanded for the Tenth Circuit’s review. Although “[o]bjections to a tribunal’s jurisdiction can be raised at any time,” Sebelius v. Auburn Regional Medical Center, <a href="../us568/us568-0145.xml#p145">568 U.S. 145</a>, 153 (2013), we need not resolve a belated objection ourselves.</p>
-    <p>Our “usual practice” is to refrain from deciding “legal . . . questions in the first instance.” CRST Van Expedited, Inc. v. EEOC, 578 U.S. 419, 435 (2016). “[W]e are a court of review, not of first view.” Cutter v. Wilkinson, <a href="../us544/us544-0709.xml#p709">544 U.S. 709</a>, 718, n. 7 (2005). Accordingly, we ordinarily wait to see if “the crucible of adversarial testing . . . , along with the experience of our thoughtful colleagues on the district and circuit benches, [can] yield insights (or reveal pitfalls) we cannot muster guided only by our own lights.” Maslenjak v. United States, 582 U.S. 335, 354 (2017) (Gorsuch, J., concurring in part and concurring in judgment).</p>
+    <p>Our “usual practice” is to refrain from deciding “legal . . . questions in the first instance.” CRST Van Expedited, Inc. v. EEOC, 578 U.S. 419, 435 (2016). “[W]e are a court of review, not of first view.” Cutter v. Wilkinson, <a href="../us544/us544-0709.xml#p709">544 U.S. 709</a>, 718, n. 7 (2005). Accordingly, we ordinarily wait to see if “the crucible of adversarial testing . . ., along with the experience of our thoughtful colleagues on the district and circuit benches, [can] yield insights (or reveal pitfalls) we cannot muster guided only by our own lights.” Maslenjak v. United States, 582 U.S. 335, 354 (2017) (Gorsuch, J., concurring in part and concurring in judgment).</p>
     <p>This Court has routinely vacated and remanded cases so that lower courts can be the first to address significant new developments. Zubik v. Burwell, 578 U.S. 403, 408–409 (2016) (per curiam) (collecting cases). In a number of cases, we have taken this course based on emergent jurisdictional matters specifically. See, e.g., Frank v. Gaos, 586 U.S. 485, 488, 492–493 (2019) (per curiam); Insurance Co. of Pa. v. Ben Cooper, Inc., 498 U.S. 964 (1990).</p>
     <p>I would do the same here. Not only was the jurisdictional issue before us not raised below, but until this point it has not been passed upon by any court. Tr. of Oral Arg. 12, 67.[<a id="nf2-1" href="#fn2-1">1</a>]</p>
     <p>Caution is also especially important for jurisdictional matters. “Congress’ power over federal jurisdiction is ‘an essential ingredient of separation and equilibration of powers, restraining the courts from acting at certain times, and even restraining them from acting permanently regarding certain subjects.’ ” Patchak v. Zinke, 583 U.S. 244, 254 (2018) (plurality opinion) (quoting Steel Co. v. Citizens for Better Environment, <a href="../us523/us523-0083.xml#p83">523 U.S. 83</a>, 101 (1998)). When we assume jurisdiction too hastily, we risk aggrandizing ourselves at the expense of the political branches.</p>
@@ -159,9 +156,7 @@
   </opinion>
   <opinion type="Dissent" author="Alito">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 23–929</p>
-    <p>_________________</p>
     <p>HUGO ABISAÍ MONSALVO VELÁZQUEZ, PETITIONER v. PAMELA BONDI, ATTORNEY GENERAL</p>
     <p>on writ of certiorari to the united states court of appeals for the tenth circuit</p>
     <p>[April 22, 2025]</p>
@@ -172,7 +167,7 @@
     <p>That is especially true because today’s decision will affect cases other than petitioner’s. We have not been told how many aliens who are granted voluntary departure are ordered to leave within a specified number of days after the date of the relevant order, but assuming that roughly the same number of such orders are issued on each day from Monday through Friday, it is probable that nearly half of the departure deadlines in such cases will fall on a Saturday, Sunday, or federal holiday. As a result, these individuals will be given a windfall that is not enjoyed by most other similarly situated aliens. As I shall explain, there is no good reason for that disparate treatment.</p>
     <p>I</p>
     <p>“Voluntary departure” is part of a bargain that benefits both the Government and an alien who is subject to removal. When such an alien voluntarily leaves, the Government is spared “the expense of deportation,” and the alien “avoids extended detention,” “can select the country of destination,” and—what is perhaps most important—avoids the restriction on readmission that results from deportation. Dada v. Mukasey, <a href="../us554/us554-0001.xml#p1">554 U.S. 1</a>, 11 (2008). Federal immigration law has permitted this mutually beneficial bargain for nearly a century. See Alien Registration Act of 1940, 54Stat. 672.</p>
-    <p>That bargain is effective only if the alien lives up to his promise to depart, and in the past that promise was not always kept. For some time, voluntary departure agreements did not include a specific deadline, and some aliens who had agreed to leave “ ‘continue[d] their illegal presence in the United States for months, and even years.’ ” Dada, 554 U. S., at 9 (quoting Letter from B. Habberton, Acting Commissioner on Immigration and Naturalization). In 1996, Congress tried to fix that problem by enacting the statutory deadline at issue here. It provides that—in typical circumstances—“[p]ermission to depart voluntarily . . . shall not be valid for a period exceeding 60 days.” 8 U. S. C. §1229c(b)(2). In compliance with this provision, the Board of Immigration Appeals (BIA) issued an order giving petitioner “60 days to voluntarily depart . . . , the maximum period allowed by [§1229c(b)(2)].” App. to Pet. for Cert. 40a.</p>
+    <p>That bargain is effective only if the alien lives up to his promise to depart, and in the past that promise was not always kept. For some time, voluntary departure agreements did not include a specific deadline, and some aliens who had agreed to leave “ ‘continue[d] their illegal presence in the United States for months, and even years.’ ” Dada, 554 U. S., at 9 (quoting Letter from B. Habberton, Acting Commissioner on Immigration and Naturalization). In 1996, Congress tried to fix that problem by enacting the statutory deadline at issue here. It provides that—in typical circumstances—“[p]ermission to depart voluntarily . . . shall not be valid for a period exceeding 60 days.” 8 U. S. C. §1229c(b)(2). In compliance with this provision, the Board of Immigration Appeals (BIA) issued an order giving petitioner “60 days to voluntarily depart . . ., the maximum period allowed by [§1229c(b)(2)].” App. to Pet. for Cert. 40a.</p>
     <p>We generally presume that terms used in statutes carry the same meaning they have in ordinary usage. See Niz-Chavez v. Garland, 593 U.S. 155, 160 (2021) (“When called on to resolve a dispute over a statute’s meaning, this Court normally seeks to afford the law’s terms their ordinary meaning at the time Congress adopted them”). Therefore, when interpreting the term “days” in §1229c(b)(2), we should start with the presumption that it means what it means in ordinary usage: “a division of time equal to 24 hours and representing the average length of the period during which the earth makes one rotation on its axis.” Random House Webster’s Unabridged Dictionary 510 (2d ed. 2001). Saturdays, Sundays, and holidays fit this definition, so they presumptively qualify as “days” within the meaning of the statute. Is there any reason to find that this presumption is overcome?</p>
     <p>The Court’s answer is “yes” because, in its view, the term “days,” as used in the voluntary departure provision, has the special meaning that often applies in provisions that set deadlines for filing papers in a court or government office. See, e.g., Fed. Rule Civ. Proc. 6(a)(1)(C); Fed. Rule App. Proc. 26(a)(1)(C). But the justification for this special rule—the fact that filing papers in a court or government office on a weekend or holiday is often difficult or impossible—has no application where the task that must be accomplished may be done just as easily on any day of the week. And that is certainly the case here. Petitioner has not provided any reason why he could not have departed on Saturday December 11 or Sunday December 12. He has not claimed, for example, that his religion prohibited him from traveling on either or both of those days. And on those days, he could have left the United States by car, bus, or plane. So why should anyone think that he was entitled to an extension giving him, not the 60 days prescribed by statute, but an extra two days? In the absence of some strong contrary indication, “affected individuals and courts alike are entitled to assume statutory terms bear their ordinary meaning.” Niz-Chavez, 593 U. S., at 163. “[U]ntil and unless someone points to evidence” that a statute bears an alternative, “specialized” meaning, we assume that the ordinary meaning controls. Ibid. And there is nothing here that can overcome that usual assumption.</p>
     <p>II</p>
@@ -202,9 +197,7 @@
   </opinion>
   <opinion type="Dissent" author="Barrett">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 23–929</p>
-    <p>_________________</p>
     <p>HUGO ABISAÍ MONSALVO VELÁZQUEZ, PETITIONER v. PAMELA BONDI, ATTORNEY GENERAL</p>
     <p>on writ of certiorari to the united states court of appeals for the tenth circuit</p>
     <p>[April 22, 2025]</p>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us485-0058.html" citation="485 U.S. 58" title="Mathews v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p58">58</n>
-    <h>U.S. Supreme Court</h>
-    <h>Mathews v. United States, <a href="./us485-0058.xml#p58">485 U.S. 58</a> (1988)</h>
-    <h>Mathews v. United States</h>
-    <h>No. 86-6109</h>
-    <h>Argued December 2, 1987</h>
-    <h>Decided February 24, 1988</h>
-    <h><a href="./us485-0058.xml#p58">485 U.S. 58</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE SEVENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Mathews v. United States, <a href="./us485-0058.xml#p58">485 U.S. 58</a> (1988)</h1>
+    <h2>Mathews v. United States</h2>
+    <h2>No. 86-6109</h2>
+    <h4>Argued December 2, 1987</h4>
+    <h4>Decided February 24, 1988</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE SEVENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner, an employee of the Small Business Administration (SBA), was the principal SBA contact for James DeShazer, the president of a company that participated in an SBA program. DeShazer believed that his company was not being provided with certain program benefits because he had rejected petitioner's repeated requests for loans. Assisting the Federal Bureau of Investigation (FBI) in an investigation of the matter, DeShazer, under FBI surveillance, offered petitioner a previously requested loan, which petitioner agreed to accept. Later, DeShazer met petitioner and gave him the money. Petitioner was immediately arrested and charged with the federal offense of accepting a bribe in exchange for an official act. The District Court denied petitioner's pretrial motion seeking to raise an entrapment defense, ruling that entrapment was not available because petitioner would not admit all of the elements (including the requisite mental state) of the offense. Petitioner testified in his own defense that, although he had accepted the loan, he believed it was a personal loan unrelated to his SBA duties. The court refused to instruct the jury as to entrapment, the jury found petitioner guilty, and the Court of Appeals affirmed.</p>
     <p>Held: Even if the defendant in a federal criminal case denies one or more elements of the crime, he is entitled to an entrapment instruction whenever there is sufficient evidence from which a reasonable jury could find entrapment -- a defense that has the two related elements of Government inducement of the crime, and a lack of predisposition on the defendant's part to engage in the criminal conduct. There is no merit to the Government's contention that, because entrapment presupposes the commission of a crime, a defendant should not be allowed both to deny the offense or an element thereof, and to rely on the inconsistent, affirmative defense of entrapment. Although the Federal Rules of Civil Procedure specifically authorize inconsistent pleading, the absence of a cognate provision in the Federal Rules of Criminal Procedure is not because of the Rules' intent to more severely restrict criminal defendants than civil parties, but because of the much less elaborate system of pleadings -- particularly with respect to the defendant -- in a criminal case. A simple not guilty plea puts the prosecution to its proof as to all elements of the crime charged, and raises the defense of entrapment. Moreover, the Government's arguments that allowing a defendant to rely on inconsistent defenses</p>
     <n id="p59">59</n>
@@ -80,7 +80,7 @@
       <p>At his criminal trial, petitioner took the stand and flatly denied accepting a loan "for or because of any official act." App. 128-130; 18 U.S.C. § 201(g). Petitioner later moved for a mistrial because the District Court would not permit</p>
       <n id="p69">69</n>
       <p>him to rely on that testimony while he simultaneously argued that, in fact, he had accepted a loan for an official act, but only at the Government's instigation. Today, the Court holds that this rather sensible ruling on the part of the District Court constitutes reversible error. The reasons the Court offers for reaching this conclusion are not at all persuasive, and I respectfully dissent.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>The Court properly recognizes that its result is not compelled by the Constitution. As the Court acknowledges, petitioner has no Fifth or Sixth Amendment right to conduct the inconsistent entrapment defense that he wished to mount at trial. Ante at 66. And yet, if the Constitution does not compel reversal of the decision below, then what does?</p>
       <p>Certainly not any Act of Congress, or the Federal Rules of Criminal Procedure. As the majority candidly admits, "Congress . . . has never spoken on the subject [at issue here], and so the decision is left to the courts." Ibid. Moreover, the Court also frankly notes that, while the Federal Rules of Civil Procedure contain a provision expressly authorizing inconsistent defenses, Fed.Rule Civ.Proc. 8(e)(2), the Federal Criminal Rules are without any such authorization. Ante at <a href="./us485-0058.xml#p64">485 U. S. 64</a>. Indeed, the rather scant authority the majority cites in support of its view that inconsistent defenses are generally permitted in criminal trials, ibid., is strongly suggestive of just how extraordinary such pleadings are in the criminal context. [Footnote 2/1]</p>
       <n id="p70">70</n>
@@ -88,7 +88,7 @@
       <p>Thus, neither the Constitution, nor a statute, nor the Criminal Rules, nor the bulk of authority compels us to reverse petitioner's conviction. Nor does the Court claim support from any of these sources for its decision. Instead, the majority rests almost exclusively on an application of the</p>
       <p>"general proposition [that] a defendant is entitled to an instruction as to any legally sufficient defense for which there exists evidence sufficient for a reasonable jury to find in his favor."</p>
       <p>Ante at <a href="./us485-0058.xml#p63">485 U. S. 63</a>. There are several reasons, however, why this "general proposition" is inapposite here.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>First, there is the unique nature of the entrapment defense. There is a valuable purpose served by having civil litigants plead alternative defenses which may be legally inconsistent. Allowing a tort defendant to claim both that he owed no duty of care to the plaintiff, but that if he did, he met that duty, preserves possible alternative defenses under which the defendant is entitled to relief. It prevents formalities of pleadings, or rigid application of legal doctrines, from standing in the way of the equitable resolution of a civil dispute. See generally 2A J. Moore, J. Lucas, &amp; G. Grotheer, Moore's Federal Practice � 8.32, pp. 8-224 - 8-229 (2d ed.1987). The same may be true for some criminal defenses</p>
       <n id="p71">71</n>
       <p>(such as "self-defense" or "provocation") where a defendant may truthfully testify as to the facts of the crime, leaving it to his counsel to argue that these facts make out, as a matter of law, several possible defenses.</p>
@@ -100,7 +100,7 @@
       <p>Finally, even if the Court's decision does not result in increased perjury at criminal trials, it will -- at the very least -- result in increased confusion among criminal juries. [Footnote 2/3] The lower courts have rightly warned that jury confusion is likely to result from allowing a defendant to say "I did not do it"</p>
       <n id="p73">73</n>
       <p>while his lawyer argues "he did it, but the government tricked him into it." See, e.g., United States v. Dorta, 783 F.2d 1179, 1182 (CA4 1986). Creating such confusion may enable some defendants to win acquittal on the entrapment defense, but only under the peculiar circumstances where a jury rejects the defendant's own stated view of the facts. We have not previously endorsed defense efforts to prevail at trial by playing such "shell games" with the jury; rather, we have written that "[a] defendant has no entitlement to the luck of a lawless decisionmaker." Strickland v. Washington, <a href="../us466/us466-0668.xml#p668">466 U. S. 668</a>, <a href="../us466/us466-0668.xml#p695">466 U. S. 695</a> (1984). Nor, it should be added, is there any entitlement to a baffled decisionmaker.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>Ultimately, only petitioner knows whether he accepted a loan in exchange for an official act, or whether he obtained it as a personal favor. Today, the Court holds that petitioner has a right to take the stand and claim the latter, while having his attorney argue that he was entrapped into doing the former. Nothing counsels such a result -- let alone compels it. Hence this dissent.</p>
       <p>[Footnote 2/1]</p>
       <p>While some cases have explicitly permitted inconsistent criminal defenses outside of the entrapment area, e.g., Whittaker v. United States, 108 U.S.App.D.C. 268, 269, 281 F.2d 631, 632 (1960), others have been less receptive to this defense strategy, see, e.g., United States v. Ervin, 436 F.2d 1331, 1334 (CA5 1971); Blunt v. United States, 131 U.S.App.D.C. 306, 312, n. 12, 404 F.2d 1283, 1289, n. 12 (1968). Given the rarity of reported federal cases on this question, drawing any conclusion about the prevailing practice in the federal courts is difficult. See Note, Entrapment and Denial of the Crime: A Defense of the Inconsistency Rule, 1986 Duke L.J. 866, 878-879, and n. 127.</p>

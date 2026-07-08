@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us546-0440.html" citation="546 U.S. 440" title="Buckeye Check Cashing, Inc. v. Cardegna">
   <opinion type="Opinion" author="Scalia">
     <n id="p440">440</n>
@@ -39,7 +40,7 @@
       <p>“A party aggrieved by the alleged failure, neglect, or refusal of another to arbitrate under a written agreement for arbitration may petition any United States district court [with jurisdiction] … for an order directing that such arbitration proceed in a manner provided for in such agreement … . [U]pon being satisfied that the making of the agreement for arbitration or the failure to comply therewith is not in issue, the court shall make an order directing the parties to proceed to arbitration in accordance with the terms of the agreement … .”</p>
     </f>
     <f n="3"><a id="fn1-3" href="#nf1-3">Footnote 3</a>
-      <p>Our more natural reading is confirmed by the use of the word “contract” elsewhere in the United States Code to refer to putative agreements, regardless of whether they are legal. For instance, the Sherman Act, 26 Stat. 209, as amended, states that “[e]very contract, combination … , or conspiracy in restraint of trade … is hereby declared to be illegal.” 15 U. S. C. §1. Under respondents’ reading of “contract,” a bewildering circularity would result: A contract illegal because it was in restraint of trade would not be a “contract” at all, and thus the statutory prohibition would not apply.</p>
+      <p>Our more natural reading is confirmed by the use of the word “contract” elsewhere in the United States Code to refer to putative agreements, regardless of whether they are legal. For instance, the Sherman Act, 26 Stat. 209, as amended, states that “[e]very contract, combination …, or conspiracy in restraint of trade … is hereby declared to be illegal.” 15 U. S. C. §1. Under respondents’ reading of “contract,” a bewildering circularity would result: A contract illegal because it was in restraint of trade would not be a “contract” at all, and thus the statutory prohibition would not apply.</p>
     </f>
   </opinion>
   <opinion type="Dissent" author="Thomas">

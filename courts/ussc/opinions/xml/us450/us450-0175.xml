@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us450-0175.html" citation="450 U.S. 175" title="Diamond v. Diehr">
   <opinion type="Opinions &amp; Dissents">
     <n id="p175">175</n>
-    <h>U.S. Supreme Court</h>
-    <h>Diamond v. Diehr, <a href="./us450-0175.xml#p175">450 U.S. 175</a> (1981)</h>
-    <h>Diamond v. Diehr</h>
-    <h>No. 79-1112</h>
-    <h>Argued October 14, 1980</h>
-    <h>Decided March 3, 1981</h>
-    <h><a href="./us450-0175.xml#p175">450 U.S. 175</a></h>
-    <h>CERTIORARI TO TIE UNITED STATES COURT OF</h>
-    <h>CUSTOMS AND PATENT APPEALS</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Diamond v. Diehr, <a href="./us450-0175.xml#p175">450 U.S. 175</a> (1981)</h1>
+    <h2>Diamond v. Diehr</h2>
+    <h2>No. 79-1112</h2>
+    <h4>Argued October 14, 1980</h4>
+    <h4>Decided March 3, 1981</h4>
+    <h2>CERTIORARI TO TIE UNITED STATES COURT OF</h2>
+    <h2>CUSTOMS AND PATENT APPEALS</h2>
+    <h2>Syllabus</h2>
     <p>Respondents filed a patent application claiming invention for a process for molding raw, uncured synthetic rubber into cured precision products. While it was possible, by using well-known time, temperature, and cure relationships, to calculate by means of an established mathematical equation when to open the molding press and remove the cured product, according to respondents, the industry had not been able to measure precisely the temperature inside the press, thus making it difficult to make the necessary computations to determine the proper cure time. Respondents characterized their contribution to the art to reside in the process of constantly measuring the temperature inside the mold and feeding the temperature measurements into a computer that repeatedly recalculates the cure time by use of the mathematical equation and then signals a device to open the press at the proper time. The patent examiner rejected respondents' claims on the ground that they were drawn to nonstatutory subject matter under 35 U.S.C. § 101, which provides for the issuance of patents to</p>
     <p>"[w]hoever invents or discovers any new and useful process, machine, manufacture, or composition of matter, or any new and useful improvement thereof. . . ."</p>
     <p>The Patent and Trademark Office Board of Appeals agreed, but the Court of Customs and Patent Appeals reversed.</p>
@@ -28,7 +28,7 @@
     <n id="p177">177</n>
     <p>JUSTICE REHNQUIST delivered the opinion of the Court.</p>
     <p>We granted certiorari to determine whether a process for curing synthetic rubber which includes in several of its steps the use of a mathematical formula and a programmed digital computer is patentable subject matter under 35 U.S.C. § 101.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The patent application at issue was filed by the respondents on August 6, 1975. The claimed invention is a process for molding raw, uncured synthetic rubber into cured precision products. The process uses a mold for precisely shaping the uncured material under heat and pressure and then curing the synthetic rubber in the mold so that the product will retain its shape and be functionally operative after the molding is completed. [<a id="nf1" href="#fn1">Footnote 1</a>]</p>
     <p>Respondents claim that their process ensures the production of molded articles which are properly cured. Achieving the perfect cure depends upon several factors, including the thickness of the article to be molded, the temperature of the molding process, and the amount of time that the article is allowed to remain in the press. It is possible, using well-known time, temperature, and cure relationships, to calculate by means of the Arrhenius equation [<a id="nf2" href="#fn2">Footnote 2</a>] when to open the press</p>
     <n id="p178">178</n>
@@ -43,7 +43,7 @@
     <p>press -- were "conventional and necessary to the process, and cannot be the basis of patentability." The examiner concluded that respondents' claims defined and sought protection of a computer program for operating a rubber-molding press.</p>
     <p>The Patent and Trademark Office Board of Appeals agreed with the examiner, but the Court of Customs and Patent Appeals reversed. In re Diehr, 602 F.2d 892 (1979). The court noted that a claim drawn to subject matter otherwise statutory does not become nonstatutory because a computer is involved. The respondents' claims were not directed to a mathematical algorithm or an improved method of calculation, but rather recited an improved process for molding rubber articles by solving a practical problem which had arisen in the molding of rubber products.</p>
     <p>The Commissioner of Patents and Trademarks sought certiorari, arguing that the decision of the Court of Customs and Patent Appeals was inconsistent with prior decisions of this Court. Because of the importance of the question presented, we granted the writ. 445 U.S. 926 (1980).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Last Term, in Diamond v. Chakrabarty, <a href="../us447/us447-0303.xml#p303">447 U. S. 303</a> (1980), this Court discussed the historical purposes of the patent laws, and, in particular, 35 U.S.C. § 101. As in Chakrabarty, we must here construe 35 U.S.C. § 101, which provides:</p>
     <p>"Whoever invents or discovers any new and useful process, machine, manufacture, or composition of matter, or any new and useful improvement thereof, may obtain a patent therefor, subject to the conditions and requirements of this title. [<a id="nf6" href="#fn6">Footnote 6</a>] "</p>
     <n id="p182">182</n>
@@ -61,7 +61,7 @@
     <p>409 U.S. at <a href="../us409/us409-0063.xml#p70">409 U. S. 70</a>.</p>
     <p>Analyzing respondents' claims according to the above statements from our cases, we think that a physical and chemical process for molding precision synthetic rubber products falls within the § 101 categories of possibly patentable subject matter. That respondents' claims involve the transformation of an article, in this case raw, uncured synthetic rubber, into a different state or thing cannot be disputed. The respondents' claims describe in detail a step-by-step method for accomplishing such, beginning with the loading of a mold with raw, uncured rubber and ending with the eventual opening of the press at the conclusion of the cure. Industrial processes such as this are the types which have historically been eligible to receive the protection of our patent laws. [<a id="nf8" href="#fn8">Footnote 8</a>]</p>
     <n id="p185">185</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>Our conclusion regarding respondents' claims is not altered by the fact that, in several steps of the process, a mathematical equation and a programmed digital computer are used. This Court has undoubtedly recognized limits to § 101, and every discovery is not embraced within the statutory terms. Excluded from such patent protection are laws of nature, natural phenomena, and abstract ideas. See Parker v. Flook, <a href="../us437/us437-0584.xml#p584">437 U. S. 584</a> (1978); Gottschalk v. Benson, supra at <a href="../us409/us409-0063.xml#p67">409 U. S. 67</a>; Funk Bros. Seed Co. v. Kalo Inoculant Co., <a href="../us333/us333-0127.xml#p127">333 U. S. 127</a>, <a href="../us333/us333-0127.xml#p130">333 U. S. 130</a> (1948). "An idea of itself is not patentable," <a href="../us087/us087-0498.xml#p498">Rubber-Tip Pencil Co. v. Howard</a>, 20 Wall. 498, <a href="../us087/us087-0507.xml#p507">87 U. S. 507</a> (1874).</p>
     <p>"A principle, in the abstract, is a fundamental truth; an original cause; a motive; these cannot be patented, as no one can claim in either of them an exclusive right."</p>
     <p><a href="../us055/us055-0156.xml#p156">Le Roy v. Tatham</a>, 14 How. 156, <a href="../us055/us055-0156.xml#p175">55 U. S. 175</a> (1853). Only last Term, we explained:</p>
@@ -98,7 +98,7 @@
     <p>"The corresponding section of [the] existing statute is split into two sections, section 101 relating to the subject matter for which patents may be obtained, and section 102 defining statutory novelty and stating other conditions for patentability."</p>
     <p>Id. at 17. See also H.R.Rep. No.1923, 82d Cong., 2d Sess., 6, 7, and 17 (1952).</p>
     <p>In this case, it may later be determined that the respondents' process is not deserving of patent protection because it fails to satisfy the statutory conditions of novelty under § 102 or nonobviousness under § 103. A rejection on either of these grounds does not affect the determination that respondents' claims recited subject matter which was eligible for patent protection under § 101.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>We have before us today only the question of whether respondents' claims fall within the § 101 categories of possibly patentable subject matter. We view respondents' claims as nothing more than a process for molding rubber products, and not as an attempt to patent a mathematical formula. We recognize, of course, that, when a claim recites a mathematical formula (or scientific principle or phenomenon of nature), an inquiry must be made into whether the claim is seeking patent protection for that formula in the abstract. A mathematical formula, as such, is not accorded the protection of our patent laws, Gottschalk v. Benson, <a href="../us409/us409-0063.xml#p63">409 U. S. 63</a> (1972), and this principle cannot be circumvented by attempting to limit the use of the formula to a particular technological environment. Parker v. Flook, <a href="../us437/us437-0584.xml#p584">437 U. S. 584</a> (1978). Similarly, insignificant post-solution activity will not transform</p>
     <n id="p192">192</n>
     <p>an unpatentable principle into a patentable process. Ibid. [<a id="nf14" href="#fn14">Footnote 14</a>] To hold otherwise would allow a competent draftsman to evade the recognized limitations on the type of subject matter eligible for patent protection. On the other hand, when a claim containing a mathematical formula implements or applies that formula in a structure or process which, when considered as a whole, is performing a function which the patent laws were designed to protect (e.g., transforming or reducing an article to a different state or thing), then the claim satisfies the requirements of § 101. Because we do not view respondents' claims as an attempt to patent a mathematical formula, but rather to be drawn to an industrial process</p>
@@ -202,7 +202,7 @@
       <p>The starting point in the proper adjudication of patent litigation is an understanding of what the inventor claims</p>
       <n id="p194">194</n>
       <p>to have discovered. The Court's decision in this case rests on a misreading of the Diehr and Lutton patent application. Moreover, the Court has compounded its error by ignoring the critical distinction between the character of the subject matter that the inventor claims to be novel -- the § 101 issue -- and the question whether that subject matter is in fact novel -- the § 102 issue.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>Before discussing the major flaws in the Court's opinion, a word of history may be helpful. As the Court recognized in Parker v. Flook, <a href="../us437/us437-0584.xml#p584">437 U. S. 584</a>, <a href="../us437/us437-0584.xml#p595">437 U. S. 595</a> (1978), the computer industry is relatively young. Although computer technology seems commonplace today, the first digital computer capable of utilizing stored programs was developed less than 30 years ago. [Footnote 2/1] Patent law developments in response to this new technology are of even more recent vintage. The subject of legal protection for computer programs did not begin to receive serious consideration until over a decade after completion of the first programmable digital computer. [Footnote 2/2] It was 1968 before</p>
       <n id="p195">195</n>
       <p>the federal courts squarely addressed the subject, [Footnote 2/3] and 1972 before this Court announced its first decision in the area. [Footnote 2/4]</p>
@@ -235,7 +235,7 @@
       <p>Although the Court of Customs and Patent Appeals in several post-Flook decisions held that program-related inventions were not patentable subject matter under § 101, see, e.g., In re Sarkar, 588 F.2d 1330 (1978); In re Gelnovatch, 595 F.2d 32 (1979), in general Flook was not enthusiastically received by that court. In In re Bergy, 596 F.2d 952 (1979), the majority engaged in an extensive critique of Flook, concluding that this Court had erroneously commingled "distinct statutory provisions which are conceptually unrelated." 596 F.2d at 959. [Footnote 2/23] In subsequent cases, the court construed</p>
       <n id="p205">205</n>
       <p>Flook as resting on nothing more than the way in which the patent claims had been drafted, and it expressly declined to use the method of claim analysis spelled out in that decision. The Court of Customs and Patent Appeals has taken the position that, if an application is drafted in a way that discloses an entire process as novel, it defines patentable subject matter even if the only novel element that the inventor claims to have discovered is a new computer program. [Footnote 2/24] The court interpreted Flook in this manner in its opinion in this case. See In re Diehr, 602 F.2d 982, 986-989 (1979). In my judgment, this reading of Flook -- although entirely consistent with the lower court's expansive approach to § 101 during the past 12 years -- trivializes the holding in Flook, the principle that underlies Benson, and the settled line of authority reviewed in those opinions.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>As I stated at the outset, the starting point in the proper adjudication of patent litigation is an understanding of what the inventor claims to have discovered. Indeed, the outcome of such litigation is often determined by the judge's understanding of the patent application. This is such a case.</p>
       <p>In the first sentence of its opinion, the Court states the question presented as "whether a process for curing synthetic rubber . . . is patentable subject matter." Ante at <a href="./us450-0175.xml#p177">450 U. S. 177</a>. Of course, that question was effectively answered many years ago when Charles Goodyear obtained his patent on the vulcanization process. [Footnote 2/25] The patent application filed by Diehr</p>
       <n id="p206">206</n>
@@ -256,7 +256,7 @@
       <p>In Flook, the algorithm made use of multiple process variables; in this case, it makes use of only one. In Flook, the algorithm was expressed in a newly developed mathematical formula; in this case, the algorithm makes use of a well known mathematical formula. Manifestly, neither of these differences can explain today's holding. [Footnote 2/32] What I believe</p>
       <n id="p211">211</n>
       <p>does explain today's holding is a misunderstanding of the applicants' claimed invention and a failure to recognize the critical difference between the "discovery" requirement in § 101 and the "novelty" requirement in §102. [Footnote 2/33]</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>The Court misapplies Parker v. Flook because, like the Court of Customs and Patent Appeals, it fails to understand or completely disregards the distinction between the subject matter of what the inventor claims to have discovered -- the § 101 issue -- and the question whether that claimed discovery is in fact novel -- the § 102 issue. [Footnote 2/34] If there is not even a</p>
       <n id="p212">212</n>
       <p>claim that anything constituting patentable subject matter has been discovered, there is no occasion to address the novelty issue. [Footnote 2/35] Or, as was true in Flook, if the only concept that the inventor claims to have discovered is not patentable subject matter, § 101 requires that the application be rejected without reaching any issue under § 102; for it is irrelevant that unpatentable subject matter -- in that case, a formula for updating alarm limits -- may in fact be novel.</p>
@@ -273,7 +273,7 @@
       <n id="p216">216</n>
       <p>solution by a digital computer of a mathematical problem was not a patentable process within the meaning of § 101. In Parker v. Flook, we further held that such a computer program could not be transformed into a patentable process by the addition of post-solution activity that was not claimed to be novel. That holding plainly requires the rejection of Claims 1 and 2 of the Diehr and Lutton application quoted in the Court's opinion. Ante at <a href="./us450-0175.xml#p179">450 U. S. 179</a>-180, n. 5. In my opinion, it equally requires rejection of Claim 11, because the pre-solution activity described in that claim is admittedly a familiar part of the prior art. [Footnote 2/40]</p>
       <p>Even the Court does not suggest that the computer program developed by Diehr and Lutton is a patentable discovery. Accordingly, if we treat the program as though it were a familiar part of the prior art -- as well established precedent requires [Footnote 2/41] -- it is absolutely clear that their application contains no claim of patentable invention. Their application was therefore properly rejected under § 101 by the Patent Office and the Board of Appeals.</p>
-      <h>IV</h>
+      <h2>IV</h2>
       <p>The broad question whether computer programs should be given patent protection involves policy considerations that</p>
       <n id="p217">217</n>
       <p>this Court is not authorized to address. See Gottschalk v. Benson, 409 U.S. at <a href="../us409/us409-0063.xml#p72">409 U. S. 72</a>-73; Parker v. Flook, 437 U.S. at <a href="../us437/us437-0584.xml#p595">437 U. S. 595</a>-596. As the numerous briefs amicus curiae filed in Gottschalk v. Benson, supra, Dann v. Johnston, <a href="../us425/us425-0219.xml#p219">425 U. S. 219</a> (1976), Parker v. Flook, supra, and this case demonstrate, that question is not only difficult and important, but apparently also one that may be affected by institutional bias. In each of those cases, the spokesmen for the organized patent bar have uniformly favored patentability and industry representatives have taken positions properly motivated by their economic self-interest. Notwithstanding fervent argument that patent protection is essential for the growth of the software industry, [Footnote 2/42] commentators have noted that "this industry is growing by leaps and bounds without it." [Footnote 2/43] In addition, even</p>

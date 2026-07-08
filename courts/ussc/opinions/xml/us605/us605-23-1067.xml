@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us605-23-1067.html" citation="605 U.S. 23-1067" title="Oklahoma v. Environmental Protection Agency">
   <opinion type="Opinion" author="Thomas">
     <p>NOTICE: This opinion is subject to formal revision before publication in the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, pio@supremecourt.gov, of any typographical or other formal errors.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 23–1067 and 23–1068</p>
-    <p>_________________</p>
     <p>OKLAHOMA, et al., PETITIONERS</p>
     <p>23–1067v.</p>
     <p>ENVIRONMENTAL PROTECTION AGENCY</p>
@@ -35,7 +34,7 @@
     <p>An “action” under §7607(b)(1) is a “particular exercis[e] of EPA authority undertaken pursuant to [a] particular CAA provisio[n].” Id., at ___ (slip op., at 8). We thus determine the relevant “action” by reference to the CAA provision under which EPA has acted. This focus on the operative CAA provision means that the relevant “action” will not necessarily track how EPA has presented its decision. For example, in Calumet, we held that, whenever EPA denies a small refinery’s petition for an exemption from the CAA’s renewable fuel program, each individual exemption denial constitutes its own “action” because §7545(o)(9)(B) defines EPA’s role—“ ‘evaluating a petition’ ” and “ ‘act[ing] on’ ” it—on a petition-specific basis. Id., at ___ (slip op., at 10) (alteration omitted). That statutory denomination controls even if EPA chooses to resolve multiple petitions in one fell swoop, as it did in Calumet. Id., at ___–___ (slip op., at 10–11).</p>
     <p>Here too, we conclude that each EPA SIP disapproval constitutes its own “action.” We therefore reject EPA’s contention, adopted by the Tenth Circuit, that EPA’s omnibus rule should be treated as a single “action.” Instead, we have before us two distinct “actions”—EPA’s respective disapprovals of the Oklahoma and Utah SIPs.</p>
     <p>Section 7607(b)(1) simplifies our analysis of this issue. The CAA enumerates an individual SIP approval as an example of a locally or regionally applicable action, unlike in Calumet, where we dealt with an EPA decision that did not fall within any of §7607(b)(1)’s enumerated actions. Section 7607(b)(1) provides:</p>
-    <p>“A petition for review of the Administrator’s action in approving or promulgating any implementation plan under section 7410 of this title . . . , [other enumerated examples], . . . or any other final action of the Administrator under this chapter (including any denial or disapproval by the Administrator under subchapter I) which is locally or regionally applicable may be filed only in the United States Court of Appeals for the appropriate circuit.”</p>
+    <p>“A petition for review of the Administrator’s action in approving or promulgating any implementation plan under section 7410 of this title . . ., [other enumerated examples], . . . or any other final action of the Administrator under this chapter (including any denial or disapproval by the Administrator under subchapter I) which is locally or regionally applicable may be filed only in the United States Court of Appeals for the appropriate circuit.”</p>
     <p>A SIP is an “implementation plan under section 7410,” and §7607(b)(1)—in referring expressly to EPA’s “action in approving . . . any implementation plan” under that provision—makes clear that each EPA SIP approval is its own action.</p>
     <p>It follows that each EPA SIP disapproval is also its own action. EPA undertakes SIP disapprovals pursuant to the same CAA authority underlying its SIP approvals. Namely, §7410 directs “[e]ach State” to “adopt and submit [to EPA] . . . a plan” for NAAQS implementation, and in turn directs EPA to either “approve such submittal” or “disapprove” it. §§7410(a)(1), (k). Thus, EPA’s approvals and disapprovals are opposite sides of the same coin. As §7410’s SIP-specific focus makes clear, and §7607(b)(1)’s enumeration confirms, the CAA treats both individual SIP approvals and individual SIP disapprovals as discrete actions. Thus, we have before us two EPA actions—EPA’s disapprovals of the Oklahoma and Utah SIPs.</p>
     <p>These two disapprovals are undisputedly locally or regionally applicable actions. A SIP is a state-specific plan, so an EPA disapproval on its face applies only to the State that proposed the SIP. And, the CAA recognizes this limited scope in enumerating a SIP approval as a locally or regionally applicable action. §7607(b)(1). If anything, EPA’s decision on an individual SIP “is the prototypical ‘locally or regionally applicable’ action,” as courts have recognized and even EPA acknowledges. American Road &amp; Transp. Builders Assn. v. EPA, 705 F.3d 453, 455 (CADC 2013) (majority opinion of Kavanaugh, J.); see Brief for Respondents 25.[<a id="nf1-4" href="#fn1-4">4</a>]</p>
@@ -65,9 +64,7 @@
   </opinion>
   <opinion type="Concurrence" author="Gorsuch">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 23–1067 and 23–1068</p>
-    <p>_________________</p>
     <p>OKLAHOMA, et al., PETITIONERS</p>
     <p>23–1067v.</p>
     <p>ENVIRONMENTAL PROTECTION AGENCY</p>

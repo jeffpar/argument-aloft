@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us575-0320.html" citation="575 U.S. 320" title="Armstrong v. Exceptional Child Ctr., Inc.">
   <opinion type="Opinion" author="Scalia">
     <n id="p320">320</n>
     <p>NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 14–15</p>
-    <p>_________________</p>
     <p>RICHARD ARMSTRONG, et al., PETITIONERS v. EXCEPTIONAL CHILD CENTER, INC., et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the ninth circuit</p>
     <p>[March 31, 2015]</p>
@@ -33,7 +32,7 @@
     <p>We turn next to respondents’ contention that, quite apart from any cause of action conferred by the Supre-macy Clause, this suit can proceed against Idaho in equity.</p>
     <p>The power of federal courts of equity to enjoin unlawful executive action is subject to express and implied statutory limitations. See, e.g., Seminole Tribe of Fla. v. Flor-ida, 517 U. S. 44, 74 (1996) . “ ‘Courts of equity can no more disregard statutory and constitutional requirements and provisions than can courts of law.’ ” INS v. Pangilinan, 486 U. S. 875, 883 (1988) (quoting Hedges v. DixonCounty, 150 U. S. 182, 192 (1893) ; brackets omitted). In our view the Medicaid Act implicitly precludes private enforcement of §30(A), and respondents cannot, by invoking our equitable powers, circumvent Congress’s exclusion of private enforcement. See Douglas v. Independent Living Center of Southern Cal., Inc., 565 U. S. ___, ___–___ (2012) (Roberts, C. J., dissenting) (slip op., at 4–5).</p>
     <p>Two aspects of §30(A) establish Congress’s “intent to foreclose” equitable relief. Verizon Md. Inc. v. Public Serv. Comm’n of Md., 535 U. S. 635, 647 (2002) . First, the sole remedy Congress provided for a State’s failure to comply with Medicaid’s requirements—for the State’s “breach” of the Spending Clause contract—is the withholding of Medicaid funds by the Secretary of Health and Human Services. 42 U. S. C. §1396c. As we have elsewhere explained, the “express provision of one method of enforcing a substantive rule suggests that Congress intended to preclude others.” Alexander v. Sandoval, 532 U. S. 275, 290 (2001) .</p>
-    <p>The provision for the Secretary’s enforcement by withholding funds might not, by itself, preclude the availability of equitable relief. See Virginia Office for Protection and Advocacy v. Stewart, 563 U. S. 247 , ___–___, n. 3 (2011) (slip op., at 7–8, n. 3). But it does so when combined with the judicially unadministrable nature of §30(A)’s text. It is difficult to imagine a requirement broader and less specific than §30(A)’s mandate that state plans provide for payments that are “consistent with efficiency, economy, and quality of care,” all the while “safeguard[ing] against unnecessary utilization of . . . care and services.” Explicitly conferring enforcement of this judgment-laden standard upon the Secretary alone establishes, we think, that Congress “wanted to make the agency remedy that it provided exclusive,” thereby achieving “the expertise, uniformity, widespread consultation, and resulting administrative guidance that can accompany agency decisionmaking,” and avoiding “the comparative risk of inconsistent interpretations and misincentives that can arise out of an occasional inappropriate application of the statute in a private action.” Gonzaga Univ. v. Doe, 536 U. S. 273, 292 (2002) (Breyer, J., concurring in judgment). The sheer complexity associated with enforcing §30(A), coupled with the express provision of an administrative remedy, §1396c, shows that the Medicaid Act precludes private enforcement of §30(A) in the courts.</p>
+    <p>The provision for the Secretary’s enforcement by withholding funds might not, by itself, preclude the availability of equitable relief. See Virginia Office for Protection and Advocacy v. Stewart, 563 U. S. 247, ___–___, n. 3 (2011) (slip op., at 7–8, n. 3). But it does so when combined with the judicially unadministrable nature of §30(A)’s text. It is difficult to imagine a requirement broader and less specific than §30(A)’s mandate that state plans provide for payments that are “consistent with efficiency, economy, and quality of care,” all the while “safeguard[ing] against unnecessary utilization of . . . care and services.” Explicitly conferring enforcement of this judgment-laden standard upon the Secretary alone establishes, we think, that Congress “wanted to make the agency remedy that it provided exclusive,” thereby achieving “the expertise, uniformity, widespread consultation, and resulting administrative guidance that can accompany agency decisionmaking,” and avoiding “the comparative risk of inconsistent interpretations and misincentives that can arise out of an occasional inappropriate application of the statute in a private action.” Gonzaga Univ. v. Doe, 536 U. S. 273, 292 (2002) (Breyer, J., concurring in judgment). The sheer complexity associated with enforcing §30(A), coupled with the express provision of an administrative remedy, §1396c, shows that the Medicaid Act precludes private enforcement of §30(A) in the courts.</p>
     <p>B</p>
     <p>The dissent agrees with us that the Supremacy Clause does not provide an implied right of action, and that Congress may displace the equitable relief that is traditionally available to enforce federal law. It disagrees only with our conclusion that such displacement has occurred here.</p>
     <p>The dissent insists that, “because Congress is undoubtedly aware of the federal courts’ long-established practice of enjoining preempted state action, it should generally be presumed to contemplate such enforcement unless it affirmatively manifests a contrary intent.” Post, at 4 (emphasis added). But a “long-established practice” does not justify a rule that denies statutory text its fairest reading. Section 30(A), fairly read in the context of the Medicaid Act, “display[s] a[n] intent to foreclose” the availability of equitable relief. Verizon, supra, at 647. We have no warrant to revise Congress’s scheme simply because it did not “affirmatively” preclude the availability of a judge-made action at equity. See Seminole Tribe, supra, at 75 (inferring, in the absence of an “affirmative” statement by Congress, that equitable relief was unavailable).</p>
@@ -50,9 +49,7 @@
   </opinion>
   <opinion type="Concurrence" author="Breyer">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 14–15</p>
-    <p>_________________</p>
     <p>RICHARD ARMSTRONG, et al., PETITIONERS v. EXCEPTIONAL CHILD CENTER, INC., et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the ninth circuit</p>
     <p>[March 31, 2015]</p>
@@ -71,9 +68,7 @@
   </opinion>
   <opinion type="Dissent" author="Sotomayor">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 14–15</p>
-    <p>_________________</p>
     <p>RICHARD ARMSTRONG, et al., PETITIONERS v. EXCEPTIONAL CHILD CENTER, INC., et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the ninth circuit</p>
     <p>[March 31, 2015]</p>

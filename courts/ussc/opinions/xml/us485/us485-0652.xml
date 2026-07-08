@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us485-0652.html" citation="485 U.S. 652" title="Landers v. NRPC">
   <opinion type="Opinions &amp; Dissents">
     <n id="p652">652</n>
-    <h>U.S. Supreme Court</h>
-    <h>Landers v. NRPC, <a href="./us485-0652.xml#p652">485 U.S. 652</a> (1988)</h>
-    <h>Landers v. National Railroad Passenger Corporation</h>
-    <h>No. 86-2037</h>
-    <h>Argued March 29, 1988</h>
-    <h>Decided April 27, 1988</h>
-    <h><a href="./us485-0652.xml#p652">485 U.S. 652</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE FIRST CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Landers v. NRPC, <a href="./us485-0652.xml#p652">485 U.S. 652</a> (1988)</h1>
+    <h2>Landers v. National Railroad Passenger Corporation</h2>
+    <h4>No. 86-2037</h4>
+    <h4>Argued March 29, 1988</h4>
+    <h4>Decided April 27, 1988</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE FIRST CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner, a passenger engineer employed by respondent railroad corporation (Amtrak), belongs to the United Transportation Union (UTU) rather than to respondent Brotherhood of Locomotive Engineers (BLE), the union that represents Amtrak engineers for collective bargaining purposes. Petitioner's request that the UTU be allowed to represent him at a company-level disciplinary hearing was denied on the ground that, under the BLE-Amtrak collective bargaining agreement, only the BLE could undertake such representation. Petitioner represented himself at the hearing and received a 30-day suspension for violating company work rules, which he did not appeal to the National Railroad Adjustment Board. He then filed suit in Federal District Court seeking declaratory and injunctive relief against Amtrak and the BLE on the ground that their refusal to allow his representation by the UTU at the hearing violated his rights under the Railway Labor Act (RLA). The court dismissed the complaint after a bench trial, and the Court of Appeals affirmed.</p>
     <p>Held: The RLA does not entitle a railroad employee to be represented at company-level grievance or disciplinary proceedings by a union other than his collective bargaining representative. Petitioner's contention that a right to such representation is implicit in § 2, Eleventh (c), of the RLA, which permits a union-shop requirement to be satisfied by membership in any national union organized in accordance with the Act, is without merit, since that provision was enacted for the single, narrow purpose of preventing compulsory dual unionism or the necessity of an employee's changing unions upon a change in crafts, Pennsylvania R. Co. v. Rychlik, <a href="../us352/us352-0480.xml#p480">352 U. S. 480</a>, which purpose has been satisfied here, since petitioner has not been required to join the BLE. Nor does any other RLA provision expressly address the question of minority union representation at company-level proceedings; in fact, § 3, First (i), provides merely that such proceedings shall be handled in "the usual manner." That Congress, in § 3, First (j), expressly allowed employees the representative of their choice at the Adjustment Board level, but did not do so with regard to the earlier, company-level phase, is persuasive evidence that Congress did not believe that minority union participation at</p>
     <n id="p653">653</n>
@@ -20,7 +20,7 @@
     <p>WHITE, J., delivered the opinion for a unanimous Court.</p>
     <p>JUSTICE WHITE delivered the opinion of the Court.</p>
     <p>This case presents the question whether a railroad engineer is entitled under the Railway Labor Act, 44 Stat. (part 2) 577, as amended, 45 U.S.C. § 151 et seq., to be represented at company-level grievance or disciplinary proceedings by a union other than his collective bargaining representative.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Petitioner is employed as a passenger engineer by respondent National Railroad Passenger Corporation (Amtrak). [<a id="nf1" href="#fn1">Footnote 1</a>] Amtrak engineers are represented for purposes of collective bargaining by respondent Brotherhood of Locomotive Engineers (BLE). Petitioner does not belong to the BLE. Instead, he is a member and officer of the rival United Transportation</p>
     <n id="p654">654</n>
     <p>Union (UTU), which represents certain other crafts of Amtrak employees.</p>
@@ -29,7 +29,7 @@
     <p>The District Court dismissed petitioner's complaint following a bench trial, and the Court of Appeals for the First Circuit affirmed. 814 F.2d 41 (1987). The Court of Appeals concluded that neither the language nor the legislative history of the Railway Labor Act supported petitioner's contention that railroad operating employees have a statutory right to be represented by the union of their choice at company-level grievance and disciplinary proceedings. The court rejected as unpersuasive the contrary decision of the Fifth Circuit in Taylor v. Missouri Pacific R. Co., 794 F.2d 1082, cert. denied, 479 U.S. 1018 (1986).</p>
     <p>We granted certiorari, 484 U.S. 962 (1987), to resolve the conflict between two Courts of Appeals over this question of federal railway labor law. We now affirm.</p>
     <n id="p655">655</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>Petitioner contends that § 2, Eleventh, of the Railway Labor Act, 45 U.S.C. § 152, Eleventh, provides railroad operating employees with a right to be represented by a "minority" union (i.e., a union other than their collective bargaining representative) at company-level grievance or disciplinary proceedings.</p>
     <p>Section 2, Eleventh (a), permits a railroad and a union "duly designated and authorized to represent [its] employees" to enter into a union-shop agreement requiring</p>
     <p>"as a condition of continued employment, that . . . all employees shall become members of the labor organization representing their craft or class."</p>

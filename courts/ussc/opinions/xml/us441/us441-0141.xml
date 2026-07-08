@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us441-0141.html" citation="441 U.S. 141" title="Arizona Pub. Svc. Co. v. Snead">
   <opinion type="Opinions &amp; Dissents">
     <n id="p141">141</n>
-    <h>U.S. Supreme Court</h>
-    <h>Arizona Pub. Svc. Co. v. Snead, <a href="./us441-0141.xml#p141">441 U.S. 141</a> (1979)</h>
-    <h>Arizona Public Service Co. v. Snead</h>
-    <h>No. 77-1810</h>
-    <h>Argued February 26, 1979</h>
-    <h>Decided April 18, 1979</h>
-    <h><a href="./us441-0141.xml#p141">441 U.S. 141</a></h>
-    <h>APPEAL FROM THE SUPREME COURT OF NEW MEXICO</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Arizona Pub. Svc. Co. v. Snead, <a href="./us441-0141.xml#p141">441 U.S. 141</a> (1979)</h1>
+    <h2>Arizona Public Service Co. v. Snead</h2>
+    <h4>No. 77-1810</h4>
+    <h4>Argued February 26, 1979</h4>
+    <h4>Decided April 18, 1979</h4>
+    <h2>APPEAL FROM THE SUPREME COURT OF NEW MEXICO</h2>
+    <h2>Syllabus</h2>
     <p>New Mexico has imposed an energy tax on the privilege of generating electricity within the State. This tax applies to all utility companies generating electricity within the State and may be credited against the New Mexico gross receipts tax liability for electricity sold at retail within New Mexico. But where the electricity is transmitted to other States for sale and consumption, there is no gross receipts tax liability against which to offset energy tax liability. A federal statute, 15 U.S.C. § 391, prohibits a State from imposing a tax on the generation or transmission of electricity which discriminates against out-of-state consumers, and further provides that a tax is discriminatory if it "results, either directly or indirectly, in a greater tax burden on electricity" generated and transmitted in interstate commerce than on electricity generated and transmitted in intrastate commerce. Appellant utility companies, owners of New Mexico power plants at which most of the electricity generated is ultimately sold to out-of-state consumers, brought action in a New Mexico state court seeking to have the energy tax invalidated on the ground, inter alia, that it violated the federal statute, but the New Mexico Supreme Court, affirming the trial court, upheld the tax.</p>
     <p>Held: The New Mexico energy tax is invalid under the Supremacy Clause by reason of the federal statute. Because the tax itself, through operation of the tax-credit provisions, indirectly but necessarily discriminates against electricity sold outside New Mexico, it violates that statute. The federal statute does not exceed the permissible bounds of congressional action under the Commerce Clause, since Congress had a rational basis for finding that a tax such as New Mexico's interfered with interstate commerce, and selected a reasonable method to eliminate that interference. Pp. 146-151.</p>
     <p>91 N.M. 485, <a href="https://law.justia.com/cases/new-mexico/supreme-court/1978/11369-0.html">576 P.2d 291</a>, reversed.</p>
@@ -19,7 +19,7 @@
     <p>REHNQUIST, J., filed an opinion concurring in the judgment, in which WHITE, J., joined, post, p. <a href="./us441-0141.xml#p151">441 U. S. 151</a>.</p>
     <p>MR JUSTICE STEWART delivered the opinion of the Court.</p>
     <p>New Mexico has imposed a tax on the privilege of generating electricity within its borders. The question in this case is whether that tax conflicts with federal law, statutory or constitutional.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The Four Corners power plants, located in New Mexico's desert northwest, are owned by the appellants, five public utilities companies. [<a id="nf1" href="#fn1">Footnote 1</a>] Most of the electricity generated at the plants is ultimately sold to out-of-state consumers. [<a id="nf2" href="#fn2">Footnote 2</a>] New</p>
     <n id="p143">143</n>
     <p>Mexico imposes a 4% gross receipts tax on retail sellers of electricity, [<a id="nf3" href="#fn3">Footnote 3</a>] but since the bulk of the appellants' sales are made to consumers in other States, they do not incur significant liability for this tax. In 1975, New Mexico enacted the Electrical Energy Tax Act, the law at issue in this case. [<a id="nf4" href="#fn4">Footnote 4</a>] That Act imposes a tax on the privilege of generating electricity at the rate of 4/10 of a mill on each net kilowatt hour of electricity generated. This is roughly equivalent to a 2% tax on the retail value of the electricity. The tax is imposed on all companies generating electricity within the State. Section 9 of the Act, however, provides that this electrical energy tax may be fully credited against the company's gross receipts tax liability.</p>
@@ -33,7 +33,7 @@
     <p>Arizona v. New Mexico, <a href="../us425/us425-0794.xml#p794">425 U. S. 794</a>, <a href="../us425/us425-0794.xml#p797">425 U. S. 797</a>.</p>
     <p>One of the alternative scenarios foreseen in our 1976 opinion has now eventuated. The New Mexico Supreme Court has upheld the validity of this energy tax against federal statutory and constitutional attacks, Arizona Public Serv. Co. v. O'Chesky, 91 N.M. 485, <a href="https://law.justia.com/cases/new-mexico/supreme-court/1978/11369-0.html">576 P.2d 291</a>, and the issues have been brought to this Court by way of direct appeal under 28 U.S.C. § 1257(2). 439 U.S. 891.</p>
     <n id="p146">146</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>The appellants contend that the New Mexico tax is invalid under a specific federal statute as well as under the Commerce, Due Process, and Import-Export Clauses of the Constitution. Because we conclude that, under the Supremacy Clause, [<a id="nf6" href="#fn6">Footnote 6</a>] the tax is invalid by reason of this federal statute, we do not reach the substantive constitutional issues.</p>
     <p>When Congress enacted the Tax Reform Act of 1976, it included a provision relating to state taxes on electricity. Section 2121(a) of the Act, 90 Stat.1914, codified at 15 U.S.C. § 391, provides:</p>
     <p>"No State, or political subdivision thereof, may impose or assess a tax on or with respect to the generation or transmission of electricity which discriminates against out-of-State manufacturers, producers, wholesalers, retailers, or consumers of that electricity. For purposes of this section, a tax is discriminatory if it results, either directly or indirectly, in a greater tax burden on electricity which is generated and transmitted in interstate commerce than on electricity which is generated and transmitted in intrastate commerce."</p>

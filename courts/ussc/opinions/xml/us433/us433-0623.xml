@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us433-0623.html" citation="433 U.S. 623" title="Vendo Co. v. Lektro-Vend Corp.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p623">623</n>
-    <h>U.S. Supreme Court</h>
-    <h>Vendo Co. v. Lektro-Vend Corp., <a href="./us433-0623.xml#p623">433 U.S. 623</a> (1977)</h>
-    <h>Vendo Co. v. Lektro-Vend Corp.</h>
-    <h>No. 76-156</h>
-    <h>Argued January 19, 1977</h>
-    <h>Decided June 29, 1977</h>
-    <h><a href="./us433-0623.xml#p623">433 U.S. 623</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SEVENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Vendo Co. v. Lektro-Vend Corp., <a href="./us433-0623.xml#p623">433 U.S. 623</a> (1977)</h1>
+    <h2>Vendo Co. v. Lektro-Vend Corp.</h2>
+    <h2>No. 76-156</h2>
+    <h4>Argued January 19, 1977</h4>
+    <h4>Decided June 29, 1977</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SEVENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner vending machine manufacturer acquired most of the assets of another vending machine manufacturing company controlled by respondent Stoner and his family. As part of the acquisition agreement, the latter company undertook to refrain from owning or managing any business engaged in the manufacture or sale of vending machines, and respondent Stoner, who was employed by petitioner as a consultant under a 5-year contract, agreed not to compete with petitioner in the manufacture of such machines during the term of his contract and for five years thereafter. Subsequently, petitioner sued respondents (Stoner, the company which he and his family controlled, and another corporation with which he had a relationship) in an Illinois state court for breach of the noncompetition covenants. Shortly thereafter, respondents sued petitioner in Federal District Court, alleging that it had violated §§ 1 and 2 of the Sherman Act in that the covenant against competition was an unreasonable restraint of trade. After protracted litigation in the state court action, the Illinois Supreme Court affirmed a judgment in petitioner's favor in an amount exceeding $7 million. Then in the antitrust action, which, in the meantime, had lain "dormant," the District Court granted respondents' motion for a preliminary injunction against collection of the Illinois judgment, holding that § 16 of the Clayton Act (which authorizes any person to seek injunctive relief against violations of the antitrust laws) constituted an "expressly authorized" exception to the Anti-Injunction Act, 28 U.S.C. § 2283 (which prohibits a federal court from enjoining state court proceedings "except as expressly authorized by Act of Congress, or where necessary in aid of its jurisdiction, or to protect or effectuate its judgments"), and further found that an injunction was necessary to protect the court's jurisdiction within the meaning of that exception in § 283 by preserving a case or controversy, since the state collection efforts would eliminate the two corporate respondents (which would then be controlled by petitioner) as plaintiffs in the federal suit. The Court of Appeals affirmed, also finding that § 16 of the Clayton Act was an express</p>
     <n id="p624">624</n>
     <p>exception to § 2283, but not reaching the issue of whether an injunction was necessary to protect the District Court's jurisdiction.</p>
@@ -30,9 +30,9 @@
     <p>REHNQUIST, J., announced the Court's judgment and delivered an opinion, in which STEWART and POWELL, JJ., joined. BLACKMUN, J., filed an opinion concurring in the result, in which BURGER, C.J., joined, post, p. <a href="./us433-0623.xml#p643">433 U. S. 643</a>. STEVENS, J., filed a dissenting opinion, in which BRENNAN, WHITE, and MARSHALL, JJ., joined, post, p. 433 U.S. 645.</p>
     <n id="p626">626</n>
     <p>MR. JUSTICE REHNQUIST announced the judgment of the Court and delivered an opinion in which MR. JUSTICE STEWART and MR. JUSTICE POWELL join.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>After nine years of litigation in the Illinois state courts, the Supreme Court of Illinois affirmed a judgment in favor of petitioner and against respondents in the amount of $7,363,500. Shortly afterwards, the United States District Court for the Northern District of Illinois enjoined, at the behest of respondents, state proceedings to collect the judgment. <a href="https://law.justia.com/cases/federal/district-courts/FSupp/403/527/1560130/">403 F. Supp. 527</a> (1975). The order of the United States District Court was affirmed by the Court of Appeals for the Seventh Circuit, 545 F.2d 1050 (1976), and we granted certiorari to consider the important question of the relationship between state and federal courts which such an injunction raises. 429 U.S. 815 (1976).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The Illinois state court litigation arose out of commercial dealings between petitioner and respondents. In 1959, petitioner Vendo Co., a vending machine manufacturer located in Kansas City, Mo., acquired most of the assets of Stoner Manufacturing, which was thereupon reorganized as respondent Stoner Investments, Inc. Respondent Harry H. Stoner and members of his family owned all of the stock of Stoner Manufacturing, and that of Stoner Investments. Stoner Manufacturing had engaged in the manufacture of vending machines which dispensed candy, and, as a part of the acquisition agreement, it undertook to refrain from owning or managing any business engaged in the manufacture or sale of vending machines. Pursuant to an employment contract, respondent Harry Stoner was employed by petitioner as a consultant for five years at a salary of $50,000, and he agreed that, during the term of his contract and for five years thereafter, he would not</p>
     <n id="p627">627</n>
     <p>compete with petitioner in the business of manufacturing vending machines.</p>
@@ -50,7 +50,7 @@
     <p>The Court of Appeals affirmed, finding that § 16 of the Clayton Act was an express exception to § 2283. The court did not reach the issue of whether an injunction was necessary to protect the jurisdiction of the District Court.</p>
     <p>In this Court, petitioner renews its contention that principles of equity, comity, and federalism, as well as the Anti-Injunction Act, barred the issuance of the injunction by the District Court. Petitioner also asserts in its brief on the merits that the United States District Court was required to give full faith and credit to the judgment entered by the Illinois courts. [<a id="nf4" href="#fn4">Footnote 4</a>] Because we agree with petitioner that the District Court's order violated the Anti-Injunction Act, we reach none of its other contentions.</p>
     <n id="p630">630</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>The Anti-Injunction Act, 28 U.S.C. § 2283, provides:</p>
     <p>"A court of the United States may not grant an injunction to stay proceedings in a State court except as expressly authorized by Act of Congress, or where necessary in aid of its jurisdiction, or to protect or effectuate its judgments."</p>
     <p>The origins and development of the present Act, and of the statutes which preceded it, have been amply described in our prior opinions, and need not be restated here. The most recent of these opinions are Mitchum v. Foster, <a href="../us407/us407-0225.xml#p225">407 U. S. 225</a> (1972), and Atlantic Coast Line R. Co. v. Locomotive Engineers, <a href="../us398/us398-0281.xml#p281">398 U. S. 281</a> (1970). Suffice it to say that the Act is an absolute prohibition against any injunction of any state court proceedings, unless the injunction falls within one of the three specifically defined exceptions in the Act. The Act's purpose is to forestall the inevitable friction between the state and federal courts that ensues from the injunction of state judicial proceedings by a federal court. Oklahoma Packing Co. v. Oklahoma Gas &amp; Electric Co., <a href="../us309/us309-0004.xml#p4">309 U. S. 4</a>, <a href="../us309/us309-0004.xml#p9">309 U. S. 9</a> (1940). Respondents' principal contention is that, as the Court of Appeals held, § 16 of the Clayton Act, which authorizes a private action to redress violations of the antitrust laws, comes within the "expressly authorized" exception to § 2283.</p>
@@ -96,7 +96,7 @@
     <p>By limiting the statutory exceptions of § 2283 and its predecessors to these few instances, we have clearly recognized that the Act countenancing the federal injunction must necessarily</p>
     <n id="p641">641</n>
     <p>interact with, or focus upon, a state judicial proceeding. [<a id="nf10" href="#fn10">Footnote 10</a>] Section 16 of the Clayton Act, which does not, by its very essence, contemplate or envision any necessary interaction with state judicial proceedings, is clearly not such an Act.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>Although the Court of Appeals did not reach the issue, the District Court found that, in addition to being "expressly authorized," the injunction was "necessary in aid of its jurisdiction," a separate exception to § 2283. The rationale of the District Court was as follows:</p>
     <p>"The Court also holds that § 2283 authorizes an injunction here because further collection efforts would eliminate two plaintiffs, Stoner Investments and Lektro-Vend Corp., as parties under the case or controversy provisions of Article III since they would necessarily be controlled by Vendo. Vendo's offer to place the Stoner Investment and Lektro-Vend stock under control of the Court does not meet this problem, because, as a matter of substance, Vendo would control both plaintiff and defendant, requiring dismissal under Article III. Thus, the injunction is also necessary to protect the jurisdiction of the Court."</p>
     <p>403 F. Supp. at 536-537.</p>
@@ -183,7 +183,7 @@
       <p>The question which is therefore presented is whether the</p>
       <n id="p647">647</n>
       <p>anti-injunction statute [Footnote 2/4] deprives the federal courts of power to stay state court litigation which is being prosecuted in direct violation of the Sherman Act. I cannot believe that any of the members of Congress who unanimously enacted that basic charter of economic freedom [Footnote 2/5] in 1890 would have answered that question the way the plurality does today.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>The plurality relies on the present form of a provision of the Judiciary Act of 1793. [Footnote 2/6] In the ensuing century, there were changes in our economy which persuaded the Congress that the state courts could not adequately deal with contracts in restraint of trade that affected commerce in more than one</p>
       <n id="p648">648</n>
       <p>jurisdiction. [Footnote 2/7] The Sherman Act was enacted virtually unanimously in 1890 to protect the national economy from the pernicious effects of regulation by private cartel and to vest the federal</p>
@@ -204,7 +204,7 @@
       <n id="p654">654</n>
       <p>violation. The language in § 16 of the Clayton Act which expressly authorizes injunctions against violations of the antitrust laws is therefore applicable to this species of violation, as well as to other kinds of violations.</p>
       <p>Since § 16 of the Clayton Act is an Act of Congress which expressly authorizes an injunction against a state court proceeding which violates the antitrust laws, the plain language of the anti-injunction statute excepts this kind of injunction from its coverage. [Footnote 2/22]</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>There is nothing in this Court's precedents which is even arguably inconsistent with this rather obvious reading of the statutory language. [Footnote 2/23] On at least three occasions, the Court</p>
       <n id="p655">655</n>
       <p>has held that general grants of federal jurisdiction which make no mention of either state court proceedings, or of the anti-injunction statute, are within the "expressly authorized" exception. Providence &amp; N.Y.S.S. Co. v. Hill Mfg. Co., <a href="../us109/us109-0578.xml#p578">109 U. S. 578</a>, <a href="../us109/us109-0578.xml#p599">109 U. S. 599</a>-601; [Footnote 2/24] Porter v. Dicken, <a href="../us328/us328-0252.xml#p252">328 U. S. 252</a>; [Footnote 2/25] Mitchum v. Foster, <a href="../us407/us407-0225.xml#p225">407 U. S. 225</a>.</p>
@@ -218,7 +218,7 @@
       <p>The plurality assumes that Congress intended to distinguish between illegal state proceedings which are already pending and those which have not yet been filed at the time of a federal court's determination that a violation of the antitrust laws has been consummated; the federal court may enjoin the latter, but is powerless to restrain the former. See ante at <a href="./us433-0623.xml#p635">433 U. S. 635</a>-636, n. 6. Nothing in the history of the anti-injunction statute suggests any such logic-chopping distinction. [Footnote 2/28] Indeed, it is squarely at odds with Senator Sherman's own explanation of the intended scope of the statutory power "to issue all remedial process or writs proper and necessary to enforce its provisions. . . ." [Footnote 2/29] It would demean the legislative</p>
       <n id="p658">658</n>
       <p>process to construe the eloquent rhetoric which accompanied the enactment of the antitrust laws as implicitly denying federal courts the power to restrain illegal state court litigation simply because it was filed before the federal case was concluded. [Footnote 2/30] A faithful application of the rationale of Mitchum v. Foster requires a like result in this case.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>The plurality expresses the fear that, if the Clayton Act is given its intended scope, the anti-injunction statute "would be completely eviscerated," since there are 26 other federal statutes which may also be within the "expressly authorized" exception. Ante at <a href="./us433-0623.xml#p636">433 U. S. 636</a>-637, n. 7. That fear, stated in its strongest terms, is that, in the 184 years since the anti-injunction statute was originally enacted, there are 26 occasions on which Congress has qualified its prohibition to some extent. There are at least three reasons why this argument should not cause panic.</p>
       <p>First, the early history of the anti-injunction statute indicates that it was primarily intended to prevent the federal courts from exercising a sort of appellate review function in litigation in which the state and federal courts had equal competence. The statute imposed a limitation on the general equity powers of the federal courts which existed in 1793, and which have been exercised subsequently in diversity</p>
       <n id="p659">659</n>
@@ -227,7 +227,7 @@
       <n id="p660">660</n>
       <p>the Civil Rights Act of 1871 or the antitrust laws. [Footnote 2/34] The answer to the important question presented by this case should not depend on speculation about potential consequences for other statutes of relatively less importance to the economy and the Nation.</p>
       <p>Third, concern about the Court's ability either to enlarge or to contain the exceptions to the anti-injunction statute, ante at <a href="./us433-0623.xml#p635">433 U. S. 635</a>-639, is disingenuous, at best. As originally enacted in 1793, the statute contained no express exception at all. Those few that were recognized in the ensuing century and a half were the product of judicial interpretation of the statute's prohibition in concrete situations. The codification of the Judicial Code in 1948 restated the exceptions in statutory language, but was not intended to modify the Court's power to accommodate the terms of the statute to overriding expressions of national policy embodied in statutes like the Ku Klux Klan Act of 1871 or the Sherman Act of 1890. [Footnote 2/35]</p>
-      <h>IV</h>
+      <h2>IV</h2>
       <p>Since the votes of THE CHIEF JUSTICE and MR. JUSTICE BLACKMUN are decisive, a separate comment on MR. JUSTICE BLACKMUN's opinion concurring in the result is required.</p>
       <p>His agreement with the proposition that an injunction properly entered pursuant to § 16 of the Clayton Act is within the "expressly authorized" exception to the anti-injunction statute establishes that proposition as the law for the future.</p>
       <n id="p661">661</n>
@@ -240,7 +240,7 @@
       <p>Manifestly, when Mr. Justice Douglas wrote for the Court in that case and described "a pattern of baseless, repetitive claims," id. at <a href="../us404/us404-0508.xml#p513">404 U. S. 513</a>, as an illustration of an antitrust violation, he did not thereby circumscribe the category to that one example. Nothing in his opinion even remotely implies that there would be any less reason to enjoin the "[u]se of a patent obtained by fraud to exclude a competitor from the market," id. at <a href="../us404/us404-0508.xml#p512">404 U. S. 512</a>, for example, than to enjoin the particular violation before the Court in that case.</p>
       <p>In this case, we are reviewing the affirmance by the Court of Appeals of an order granting a preliminary injunction. Affirmance was required unless the exercise of the District Court's discretion was clearly erroneous. And when both the District Court and the Court of Appeals are in agreement, the scope of review in this Court is even more narrow, Faulkner v. Gibbs, <a href="../us338/us338-0267.xml#p267">338 U. S. 267</a>, <a href="../us338/us338-0267.xml#p268">338 U. S. 268</a>; United States v. Dickinson, <a href="../us331/us331-0745.xml#p745">331 U. S. 745</a>, <a href="../us331/us331-0745.xml#p751">331 U. S. 751</a>; Allen v. Trust Co., <a href="../us326/us326-0630.xml#p630">326 U. S. 630</a>, <a href="../us326/us326-0630.xml#p636">326 U. S. 636</a>. Without the most careful review of the record, and the findings and conclusions of the District Court, it is most inappropriate for this Court to reverse on the basis of a contrary view of the facts of the particular case.</p>
       <p>The mere fact that the Illinois courts concluded that petitioner's state law claim was meritorious does not disprove the existence of a serious federal antitrust violation. For if it did, invalid patents, price-fixing agreements, and other illegal covenants in restraint of trade would be enforceable in state courts no matter how blatant the violation of federal law.</p>
-      <h>V</h>
+      <h2>V</h2>
       <p>Apart from the anti-injunction statute, petitioner has argued that principles of equity, comity, and federalism create a bar to injunctive relief in this case. Brief for Petitioner 36-39. This argument is supported by three facts: the Illinois litigation was pending for a period of nine years; the Illinois Supreme Court concluded that respondents were guilty of</p>
       <n id="p663">663</n>
       <p>a breach of fiduciary duty; and respondents withdrew their antitrust defense from the state action.</p>

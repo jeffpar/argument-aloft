@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us430-0243.html" citation="430 U.S. 243" title="Nolde Bros., Inc. v. Bakery Workers">
   <opinion type="Opinions &amp; Dissents">
     <n id="p243">243</n>
-    <h>U.S. Supreme Court</h>
-    <h>Nolde Bros., Inc. v. Bakery Workers, <a href="./us430-0243.xml#p243">430 U.S. 243</a> (1977)</h>
-    <h>Nolde Brothers, Inc. v. Local No. 358,</h>
-    <h>Bakery &amp; Confectionary Workers Union, AFL-CIO</h>
-    <h>No. 75-1198</h>
-    <h>Argued November 9, 1976</h>
-    <h>Decided March 7, 1977</h>
-    <h><a href="./us430-0243.xml#p243">430 U.S. 243</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE FOURTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Nolde Bros., Inc. v. Bakery Workers, <a href="./us430-0243.xml#p243">430 U.S. 243</a> (1977)</h1>
+    <h2>Nolde Brothers, Inc. v. Local No. 358,</h2>
+    <h2>Bakery &amp; Confectionary Workers Union, AFL-CIO</h2>
+    <h2>No. 75-1198</h2>
+    <h4>Argued November 9, 1976</h4>
+    <h4>Decided March 7, 1977</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE FOURTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner corporation entered into a collective bargaining agreement with respondent Union which contained a provision for severance pay on termination of the employment of certain employees. The agreement, which specified that any grievance arising between the parties was subject to binding arbitration, was to remain in effect until its expiration date and thereafter until execution of a new agreement or the existing agreement was terminated by either party upon seven days' written notice. While contract changes were being negotiated after the contract's expiration date, respondent, on August 20, 1973, gave notice of cancellation, and the contract terminated August 27. Negotiations nevertheless continued, but ended on August 31, when petitioner, threatened with a strike, informed respondent that it was closing its plant effective that day. Plant operations ceased shortly thereafter. Petitioner paid accrued wages, but rejected respondent's demand for severance pay under the collective bargaining agreement and declined to arbitrate the claim therefor on the ground that its obligation to do so terminated with the collective bargaining agreement. Respondent then brought this action in District Court to compel petitioner, inter alia, to arbitrate the severance pay issue. The District Court granted petitioner's motion for summary judgment, holding that the employees' right to severance pay expired with respondent's voluntary termination of the agreement; that consequently there was no longer a severance pay issue to arbitrate; and that, in any event, the duty to arbitrate ended with the contract. The Court of Appeals reversed, concluding that the parties' arbitration duties under the contract survived its termination with respect to claims arising by reason of the agreement.</p>
     <p>Held: Respondent's claim for severance pay under the expired contract is subject to resolution under the contract's arbitration terms. Pp. <a href="./us430-0243.xml#p248">430 U. S. 248</a>-255.</p>
     <p>(a) The obligations of parties under the arbitration clause of a collective bargaining agreement may survive contract termination when the dispute is over an obligation arguably created by the expired agreement. John Wiley &amp; Sons v. Livingston, <a href="../us376/us376-0543.xml#p543">376 U. S. 543</a>. Pp. 250-252.</p>
@@ -78,7 +78,7 @@
     <p>29 U.S.C. § 173(d). In order to effectuate this policy, this Court has established a strong presumption favoring arbitrability:</p>
     <p>"[T]o be consistent with congressional policy in favor of settlement of disputes by the parties through the machinery</p>
     <n id="p255">255</n>
-    <p>of arbitration. . . . , [a]n order to arbitrate the particular grievance should not be denied unless it may be said with positive assurance that the arbitration clause is not susceptible of an interpretation that covers the asserted dispute. Doubts should be resolved in favor of coverage."</p>
+    <p>of arbitration. . . ., [a]n order to arbitrate the particular grievance should not be denied unless it may be said with positive assurance that the arbitration clause is not susceptible of an interpretation that covers the asserted dispute. Doubts should be resolved in favor of coverage."</p>
     <p>Warrior &amp; Gulf Nav. Co., supra at <a href="../us363/us363-0574.xml#p582">363 U. S. 582</a>-583.</p>
     <p>The parties must be deemed to have been conscious of this policy when they agree to resolve their contractual differences through arbitration. Consequently, the parties' failure to exclude from arbitrability contract disputes arising after termination, far from manifesting an intent to have arbitration obligations cease with the agreement, affords a basis for concluding that they intended to arbitrate all grievances arising out of the contractual relationship. In short, where the dispute is over a provision of the expired agreement, the presumptions favoring arbitrability must be negated expressly or by clear implication.</p>
     <p>We therefore agree with the conclusion of the Court of Appeals that, on this record, the Union's claim for severance pay under the expired collective bargaining agreement is subject to resolution under the arbitration provisions of that contract. [<a id="nf8" href="#fn8">Footnote 8</a>]</p>
@@ -102,7 +102,7 @@
     <f n="3"><a id="fn3" href="#nf3">Footnote 3</a>
       <p>"ARTICLE IV"</p>
       <p>"</p>
-      <h>V</h>
+      <h2>V</h2>
       <p>ACATIONS" "Section 1. Each full time employee is entitled to one week's vacation after one year's service, two (2) weeks' vacation after two (2) years' service, three (3) weeks' vacation after nine (9) years' service, and four (4) weeks' vacation after eighteen (18) years' service. . . ."</p>
       <p>"* * * *"</p>
       <p>"Effective January 1, 1972, the service requirement for the fourth (4th) week of vacation shall be reduced to seventeen (17) years."</p>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us481-0041.html" citation="481 U.S. 41" title="Pilot Life Ins. Co. v. Dedeaux">
   <opinion type="Opinions &amp; Dissents">
     <n id="p41">41</n>
-    <h>U.S. Supreme Court</h>
-    <h>Pilot Life Ins. Co. v. Dedeaux, <a href="./us481-0041.xml#p41">481 U.S. 41</a> (1987)</h>
-    <h>Pilot Life Insurance Co. v. Dedeaux</h>
-    <h>No. 85-1043.</h>
-    <h>Argued January 21, 1987</h>
-    <h>Decided April 6, 1987</h>
-    <h><a href="./us481-0041.xml#p41">481 U.S. 41</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE FIFTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Pilot Life Ins. Co. v. Dedeaux, <a href="./us481-0041.xml#p41">481 U.S. 41</a> (1987)</h1>
+    <h2>Pilot Life Insurance Co. v. Dedeaux</h2>
+    <h2>No. 85-1043.</h2>
+    <h4>Argued January 21, 1987</h4>
+    <h4>Decided April 6, 1987</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE FIFTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>The "preemption clause" (§ 514(a)) of the Employee Retirement Income Security Act of 1974 (ERISA) provides that ERISA supersedes all state laws insofar as they "relate to any employee benefit plan," but ERISA's "saving clause" (§ 514(b)(2)(A)) excepts from the preemption clause any state law that "regulates insurance." ERISA's "deemer clause" (§ 514(b)(2)(B)) provides that no employee benefit plan shall be deemed to be an insurance company for purposes of any state law "purporting to regulate insurance." On the basis of a work-related injury occurring in Mississippi in 1975, respondent began receiving permanent disability benefits under his employer's ERISA-regulated welfare benefit plan, under which claims were handled by petitioner, the employer's insurer. However, after two years, petitioner terminated respondent's benefits, and during the following three years his benefits were reinstated and terminated by petitioner several times. Respondent ultimately instituted a diversity action against petitioner in Federal District Court, alleging tort and breach of contract claims under Mississippi common law for petitioner's failure to pay benefits under the insurance policy. The court granted summary judgment for petitioner, finding that respondent's common law claims were preempted by ERISA. The Court of Appeals reversed.</p>
     <p>Held: ERISA preempts respondent's suit under state common law for alleged improper processing of his claim for benefits under the ERISA-regulated benefit plan. Pp. <a href="./us481-0041.xml#p44">481 U. S. 44</a>-57.</p>
     <p>(a) The common law causes of action asserted in respondent's complaint, each based on alleged improper processing of a benefit claim under an employee benefit plan, "relate to" an employee benefit plan, and therefore fall under ERISA's preemption clause. Cf. Metropolitan Life Ins. Co. v. Massachusetts, <a href="../us471/us471-0724.xml#p724">471 U. S. 724</a>, <a href="../us471/us471-0724.xml#p739">471 U. S. 739</a>; Shaw v. Delta Air Lines, Inc., <a href="../us463/us463-0085.xml#p85">463 U. S. 85</a>, <a href="../us463/us463-0085.xml#p96">463 U. S. 96</a>-100. The preemption clause is not limited to state laws specifically designed to affect employee benefit plans. Pp. <a href="./us481-0041.xml#p47">481 U. S. 47</a>-48.</p>
@@ -24,14 +24,14 @@
     <n id="p43">43</n>
     <p>JUSTICE O'CONNOR delivered the opinion of the Court.</p>
     <p>This case presents the question whether the Employee Retirement Income Security Act of 1974 (ERISA), 88 Stat. 829, as amended, 29 U.S.C. § 1001 et seq., preempts state common law tort and contract actions asserting improper processing of a claim for benefits under an insured employee benefit plan.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In March, 1975, in Gulfport, Mississippi, respondent Everate W. Dedeaux injured his back in an accident related to his employment for Entex, Inc. (Entex). Entex had at this time a long-term disability employee benefit plan established by purchasing a group insurance policy from petitioner, Pilot Life Insurance Co. (Pilot Life). Entex collected and matched its employees' contributions to the plan and forwarded those funds to Pilot Life; the employer also provided forms to its employees for processing disability claims, and forwarded completed forms to Pilot Life. Pilot Life bore the responsibility of determining who would receive disability benefits. Although Dedeaux sought permanent disability benefits following the 1975 accident, Pilot Life terminated his benefits after two years. During the following three years, Dedeaux's benefits were reinstated and terminated by Pilot Life several times.</p>
     <p>In 1980, Dedeaux instituted a diversity action against Pilot Life in the United States District Court for the Southern District of Mississippi. Dedeaux's complaint contained three counts: "Tortious Breach of Contract"; "Breach of Fiduciary Duties"; and "Fraud in the Inducement." App. 18-23. Dedeaux sought "[d]amages for failure to provide benefits under the insurance policy in a sum to be determined at the time of trial," "[g]eneral damages for mental and emotional distress and other incidental damages in the sum of $250,000.00," and "[p]unitive and exemplary damages in the</p>
     <n id="p44">44</n>
     <p>sum of $500,000.00." Id. at 23-24. Dedeaux did not assert any of the several causes of action available to him under ERISA, see infra at <a href="./us481-0041.xml#p53">481 U. S. 53</a>.</p>
     <p>At the close of discovery, Pilot Life moved for summary judgment, arguing that ERISA preempted Dedeaux's common law claim for failure to pay benefits on the group insurance policy. The District Court granted Pilot Life summary judgment, finding all Dedeaux's claims preempted. App. to Pet. Cert. 16a.</p>
     <p>The Court of Appeals for the Fifth Circuit reversed, primarily on the basis of this Court's decision in Metropolitan Life Ins. Co. v. Massachusetts, <a href="../us471/us471-0724.xml#p724">471 U. S. 724</a> (1985). See 770 F.2d 1311 (1985). We granted certiorari, 478 U.S. 1004 (1986), and now reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>In ERISA, Congress set out to</p>
     <p>"protect . . . participants in employee benefit plans and their beneficiaries, by requiring the disclosure and reporting to participants and beneficiaries of financial and other information with respect thereto, by establishing standards of conduct, responsibility, and obligation for fiduciaries of employee benefit plans, and by providing for appropriate remedies, sanctions, and ready access to the Federal courts."</p>
     <p>§ 2, as set forth in 29 U.S.C. § 1001(b). ERISA comprehensively regulates, among other things, employee welfare benefit plans that, "through the purchase of insurance or otherwise," provide medical, surgical, or hospital care, or benefits in the event of sickness, accident, disability, or death. § 3(1), 29 U.S.C. § 1002(1).</p>
@@ -58,7 +58,7 @@
     <p>mental health care benefits to be provided Massachusetts residents covered by general health insurance policies. The appellants in Metropolitan Life argued that the state statute, as applied to insurance policies purchased by employee health care plans regulated by ERISA, was preempted.</p>
     <p>The Court concluded, first, that the Massachusetts statute did "relate to . . . employee benefit plan[s]," thus placing the state statute within the broad sweep of the preemption clause, § 514(a). Metropolitan Life, supra, at <a href="../us471/us471-0724.xml#p739">471 U. S. 739</a>. However, the Court held that, because the state statute was one that "regulate[d] insurance," the saving clause prevented the state law from being preempted. In determining whether the Massachusetts statute regulated insurance, the Court was guided by case law interpreting the phrase "business of insurance" in the McCarran-Ferguson Act, 59 Stat. 33, as amended, 15 U.S.C. § 1011 et seq.</p>
     <p>Given the "statutory complexity" of ERISA's three preemption provisions, Metropolitan Life, supra, at <a href="../us471/us471-0724.xml#p740">471 U. S. 740</a>, as well as the wide variety of state statutory and decisional law arguably affected by the federal preemption provisions, it is not surprising that we are again called on to interpret these provisions.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>There is no dispute that the common law causes of action asserted in Dedeaux's complaint "relate to" an employee benefit plan, and therefore fall under ERISA's express preemption clause, § 514(a). In both Metropolitan Life, supra, and Shaw v. Delta Air Lines, Inc., supra, at <a href="../us463/us463-0085.xml#p96">463 U. S. 96</a>-100, we noted the expansive sweep of the preemption clause. In both cases</p>
     <p>"[t]he phrase 'relate to' was given its broad common-sense meaning, such that a state law 'relate[s] to' a benefit plan 'in the normal sense of the phrase, if it has a connection with or reference to such a plan.'"</p>
     <p>Metropolitan Life, supra, at <a href="../us471/us471-0724.xml#p739">471 U. S. 739</a>, quoting Shaw v. Delta Air Lines, supra, at <a href="../us463/us463-0085.xml#p97">463 U. S. 97</a>. In particular, we have emphasized that the preemption clause is not limited to "state laws specifically designed</p>

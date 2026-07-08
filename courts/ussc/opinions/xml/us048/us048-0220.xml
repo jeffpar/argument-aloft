@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us048-0220.html" citation="48 U.S. 220" title="McLaughlin v. Bank of Potomac">
   <opinion type="Opinions &amp; Dissents">
     <n id="p220">220</n>
-    <h>U.S. Supreme Court</h>
-    <h>McLaughlin v. Bank of Potomac, 48 U.S. 220 (1849)</h>
-    <h>McLaughlin v. Bank of Potomac</h>
-    <h>48 U.S. (7 How.) 220</h>
-    <h>APPEAL FROM THE CIRCUIT COURT OF THE UNITED STATES</h>
-    <h>FOR THE DISTRICT OF COLUMBIA AND COUNTY OF ALEXANDRIA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>McLaughlin v. Bank of Potomac, 48 U.S. 220 (1849)</h1>
+    <h2>McLaughlin v. Bank of Potomac</h2>
+    <h2>48 U.S. (7 How.) 220</h2>
+    <h2>APPEAL FROM THE CIRCUIT COURT OF THE UNITED STATES</h2>
+    <h2>FOR THE DISTRICT OF COLUMBIA AND COUNTY OF ALEXANDRIA</h2>
+    <h2>Syllabus</h2>
     <p>Where an issue is sent by a court of equity to be tried by a jury in a court of law, and exceptions are taken during the progress of the trial at law, these exceptions must be brought before the court of equity and there decided, in order to give this Court cognizance of them when the case is brought up by appeal.</p>
     <p>A question, whether or not certain conveyances were fraudulent, was properly submitted to the jury. Fraud is often a mixed question of law and fact, and the jury can be instructed upon matters of law.</p>
     <p>A note held by a bank for a debt due to it, and renewed from time to time with the same maker and endorser, is sufficient to constitute the bank a creditor in claiming to have conveyances set aside as fraudulent, although the note was not due when the conveyances were made, and the present note was renewed afterwards.</p>

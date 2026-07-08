@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us376-0389.html" citation="376 U.S. 389" title="United States v. J. B. Montgomery, Inc.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p389">389</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. J. B. Montgomery, Inc., <a href="./us376-0389.xml#p389">376 U.S. 389</a> (1964)</h>
-    <h>United States v. J. B. Montgomery, Inc.</h>
-    <h>No. 66</h>
-    <h>Argued January 8, 1964</h>
-    <h>Decided March 23, 1964</h>
-    <h><a href="./us376-0389.xml#p389">376 U.S. 389</a></h>
-    <h>APPEAL FROM THE UNITED STATES DISTRICT COURT</h>
-    <h>FOR THE DISTRICT OF COLORADO</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. J. B. Montgomery, Inc., <a href="./us376-0389.xml#p389">376 U.S. 389</a> (1964)</h1>
+    <h2>United States v. J. B. Montgomery, Inc.</h2>
+    <h2>No. 66</h2>
+    <h4>Argued January 8, 1964</h4>
+    <h4>Decided March 23, 1964</h4>
+    <h2>APPEAL FROM THE UNITED STATES DISTRICT COURT</h2>
+    <h2>FOR THE DISTRICT OF COLORADO</h2>
+    <h2>Syllabus</h2>
     <p>Appellee is a contract carrier which had been authorized to transport a variety of commodities for shippers in specified businesses. Acting under § 212(c) of the Interstate Commerce Act as amended in 1957, the Interstate Commerce Commission (ICC) converted appellee's contract carrier permit into a common carrier certificate, but imposed the restriction, challenged by appellee in this proceeding, that shipments be limited to those "from, to, or between wholesale and retail outlets" and stores.</p>
     <p>Held: the ICC in sanctioning the conversion of appellee's contract carrier permit into a common carrier certificate had authority under § 212(c) to impose only such restrictions as those under which the contract carrier was operating before the conversion, and appellee may therefore continue to exercise such privileges as it then enjoyed. Pp. <a href="./us376-0389.xml#p389">376 U. S. 389</a>-396.</p>
     <p><a href="https://law.justia.com/cases/federal/district-courts/FSupp/206/455/1423964/">206 F. Supp. 455</a>, affirmed.</p>
@@ -23,7 +23,7 @@
     <p>Appellee contends that this limitation violates the mandate of the Congress in § 212(c) that any certificate so issued</p>
     <p>"shall authorize the transportation, as a common carrier, of the same commodities between the same points or within the same territory as authorized in the permit."</p>
     <p>The Commission answers that the restrictions are necessary to maintain "substantial parity" between the appellee's old and new operations. The District Court held the Commission "without statutory authority to impose the restrictions in question," and set aside the order and remanded the case for further proceedings. <a href="https://law.justia.com/cases/federal/district-courts/FSupp/206/455/1423964/">206 F. Supp. 455</a>, 461. Probable jurisdiction was noted. 372 U.S. 952. We affirm the judgment.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Prior to 1957, appellee operated under a contract carrier permit originally issued in 1943 under the "grandfather" clause contained in § 209(a) of the Motor Carrier Act, 1935, 49 Stat. 543, 552. [<a id="nf2" href="#fn2">Footnote 2</a>] It permitted carriage of: (1) such</p>
     <n id="p391">391</n>
     <p>commodities as are usually dealt in by wholesale or retail hardware and automobile accessory business houses, and in connection therewith, equipment, materials and supplies used in the conduct of such business; (2) such commodities as are usually dealt in, or used, by meat, fruit, and vegetable packing houses; and (3) such commodities as are usually dealt in, or used, by wholesale and retail department stores. The permit contained a "Keystone restriction" [<a id="nf3" href="#fn3">Footnote 3</a>] which limited appellee to transporting such commodities only under contracts with persons operating the businesses specified. It permitted the carriage of a wide variety of commodities within specified territories, without limitation of consignee, but only for those shippers under contract with appellee and engaged in the specified businesses.</p>
@@ -40,7 +40,7 @@
     <p>The Commission adopted the latter recommendation, and it was not contested in the District Court. As to the remaining authorizations, the Commission appended to the recommendations of the Examiner a restriction against combining or "tacking" appellee's various operating rights in order to render a through service (likewise not contested), and also subjected each grant of authority to the following restriction:</p>
     <p>"RESTRICTION: the authority granted immediately above is restricted to shipments moving from, to, or between wholesale and retail outlets. . . ."</p>
     <p>"The validity of this restriction is the sole challenge raised in this proceeding."</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The Commission contends that § 212(c), read in the light of its background, is a "grandfather clause." Its purpose, therefore, is merely to continue, without expanding, the authority of those contract carriers whose operations are lawful under United States v. Contract Steel Carriers, Inc., <a href="../us350/us350-0409.xml#p409">350 U. S. 409</a> (1956), by revoking their contract carrier permits and issuing in lieu thereof common carrier certificates. The Commission concludes that, while the Congress specified only a continuance of the commodity and territorial limitations, Congress also intended that the effects of the "Keystone restriction" in the old permit be carried forward in the new one. Even if this is incorrect, the Commission says that it remains free to impose the restriction by reason of its general power under the Interstate Commerce Act to confine carrier operations within appropriate limits.</p>
     <p>The difficulty with this argument is that the "Keystone restriction" under which appellee operated permitted it to carry commodities "dealt in, or used by" certain businesses without limitation, except that appellee was required</p>
     <n id="p394">394</n>
@@ -59,7 +59,7 @@
     </f>
     <f n="2"><a id="fn2" href="#nf2">Footnote 2</a>
       <p>This provision is now substantially contained in 49 U.S.C. § 309(a)(1):</p>
-      <p>"Except as otherwise provided in this section and in section 310a of this title, no person shall engage in the business of a contract carrier by motor vehicle in interstate or foreign commerce on any public highway or within any reservation under the exclusive jurisdiction of the United States unless there is in force with respect to such carrier a permit issued by the Commission, authorizing such person to engage in such business: Provided, That, subject to section 310 of this title, if any such carrier or a predecessor in interest was in bona fide operation as a contract carrier by motor vehicle on July 1, 1935, over the route or routes or within the territory for which application is made and has so operated since that time . . . , the Commission shall issue such permit, without further proceedings, if application for such permit was made to the Commission as provided in subsection (b) of this section and within one hundred any twenty days after October 1, 1935. . . ."</p>
+      <p>"Except as otherwise provided in this section and in section 310a of this title, no person shall engage in the business of a contract carrier by motor vehicle in interstate or foreign commerce on any public highway or within any reservation under the exclusive jurisdiction of the United States unless there is in force with respect to such carrier a permit issued by the Commission, authorizing such person to engage in such business: Provided, That, subject to section 310 of this title, if any such carrier or a predecessor in interest was in bona fide operation as a contract carrier by motor vehicle on July 1, 1935, over the route or routes or within the territory for which application is made and has so operated since that time . . ., the Commission shall issue such permit, without further proceedings, if application for such permit was made to the Commission as provided in subsection (b) of this section and within one hundred any twenty days after October 1, 1935. . . ."</p>
     </f>
     <f n="3"><a id="fn3" href="#nf3">Footnote 3</a>
       <p>The phrase "Keystone restriction" comes from the title of the proceeding, Keystone Transportation Co. Contract Carrier Application, 19 M.C.C. 475. Such restrictions were approved by this Court in Noble v. United States, <a href="../us319/us319-0088.xml#p88">319 U. S. 88</a> (1943).</p>

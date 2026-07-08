@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us465-0420.html" citation="465 U.S. 420" title="Minnesota v. Murphy">
   <opinion type="Opinions &amp; Dissents">
     <n id="p420">420</n>
-    <h>U.S. Supreme Court</h>
-    <h>Minnesota v. Murphy, <a href="./us465-0420.xml#p420">465 U.S. 420</a> (1984)</h>
-    <h>Minnesota v. Murphy</h>
-    <h>No. 82-827</h>
-    <h>Argued October 12, 1983</h>
-    <h>Decided February 22, 1984</h>
-    <h><a href="./us465-0420.xml#p420">465 U.S. 420</a></h>
-    <h>CERTIORARI TO THE MINNESOTA SUPREME COURT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Minnesota v. Murphy, <a href="./us465-0420.xml#p420">465 U.S. 420</a> (1984)</h1>
+    <h2>Minnesota v. Murphy</h2>
+    <h2>No. 82-827</h2>
+    <h4>Argued October 12, 1983</h4>
+    <h4>Decided February 22, 1984</h4>
+    <h2>CERTIORARI TO THE MINNESOTA SUPREME COURT</h2>
+    <h2>Syllabus</h2>
     <p>In 1980, respondent pleaded guilty to a sex-related charge in a Minnesota court, and was given a suspended prison sentence and placed on probation. The terms of his probation required him to participate in a treatment program for sexual offenders, to report to his probation officer periodically, and to be truthful with the officer "in all matters." During the course of a meeting with his probation officer, who had previously received information from a treatment counselor that respondent had admitted to a 1974 rape and murder, respondent, upon questioning, admitted that he had committed the rape and murder. After being indicted for first-degree murder, respondent sought to suppress the confession made to the probation officer on the ground that it was obtained in violation of the Fifth and Fourteenth Amendments. The Minnesota trial court found that respondent was not "in custody" at the time of the confession, and that the confession was neither compelled nor involuntary despite the absence of Miranda warnings. The Minnesota Supreme Court reversed, holding that, notwithstanding the lack of custody in the usual sense, respondent's failure to claim the Fifth Amendment privilege against self-incrimination when he was questioned was not fatal to his claim, because of the nature of his meeting with the probation officer, because he was under court order to respond truthfully, and because the probation officer had substantial reason to believe that respondent's answers were likely to be incriminating.</p>
     <p>Held: The Fifth and Fourteenth Amendments did not prohibit the introduction into evidence of respondent's admissions to the probation officer in respondent's subsequent murder prosecution. Pp. 426-440.</p>
     <p>(a) The general obligation to appear before his probation officer and answer questions truthfully did not, in itself, convert respondent's otherwise voluntary statements into compelled ones. Pp. <a href="./us465-0420.xml#p427">465 U. S. 427</a>-429.</p>
@@ -25,7 +25,7 @@
     <n id="p422">422</n>
     <p>JUSTICE WHITE delivered the opinion of the Court.</p>
     <p>In this case, respondent Murphy, who was on probation, made incriminating admissions during a meeting with his probation officer. The issue before us is whether the Fifth and Fourteenth Amendments prohibit the introduction into evidence of the admissions in Murphy's subsequent criminal prosecution.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In 1974, Marshall Murphy was twice questioned by Minneapolis police concerning the rape and murder of a teenage girl. No charges were then brought. In 1980, in connection with a prosecution for criminal sexual conduct arising out of an unrelated incident, Murphy pleaded guilty to a reduced charge of false imprisonment. He was sentenced to a prison term of 16 months, which was suspended, and three years' probation. The terms of Murphy's probation required, among other things, that he participate in a treatment program for sexual offenders at Alpha House, report to his probation officer as directed, and be truthful with the probation officer "in all matters." Failure to comply with these conditions, Murphy was informed, could result in his return to the sentencing court for a probation revocation hearing. App. to Pet. for Cert. C-33 - C-35.</p>
     <p>Murphy met with his probation officer at her office approximately once a month, and his probation continued without incident until July, 1981, when the officer learned that he had abandoned the treatment program. The probation officer</p>
     <n id="p423">423</n>
@@ -44,7 +44,7 @@
     <p>Ibid.</p>
     <p>We granted certiorari to resolve a conflict among state and federal courts concerning whether a statement made by a probationer to his probation officer without prior warnings is admissible in a subsequent criminal proceeding. 459 U.S. 1145 (1983). [<a id="nf4" href="#fn4">Footnote 4</a>] We now reverse.</p>
     <n id="p426">426</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>The Fifth Amendment, in relevant part, provides that no person "shall be compelled in any criminal case to be a witness against himself." It has long been held that this prohibition not only permits a person to refuse to testify against himself at a criminal trial in which he is a defendant, but also</p>
     <p>"privileges him not to answer official questions put to him in any other proceeding, civil or criminal, formal or informal, where the answers might incriminate him in future criminal proceedings."</p>
     <p>Lefkowitz v. Turley, <a href="../us414/us414-0070.xml#p70">414 U. S. 70</a>, <a href="../us414/us414-0070.xml#p77">414 U. S. 77</a> (1973). In all such proceedings,</p>
@@ -125,7 +125,7 @@
     <p>But, while a taxpayer who claims the privilege instead of filing gambling tax returns necessarily identifies himself as a gambler, a probationer confronted with incriminating questions</p>
     <n id="p440">440</n>
     <p>ordinarily will have no problem effectively claiming the privilege at the time disclosures are requested. There exists, therefore, no reason to forgive the requirement that the claim be presented for evaluation in a timely manner. [<a id="nf8" href="#fn8">Footnote 8</a>]</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>We conclude, in summary, that since Murphy revealed incriminating information instead of timely asserting his Fifth Amendment privilege, his disclosures were not compelled incriminations. Because he had not been compelled to incriminate himself, Murphy could not successfully invoke the privilege to prevent the information he volunteered to his probation officer from being used against him in a criminal prosecution.</p>
     <p>The judgment of the Minnesota Supreme Court is</p>
     <p>Reversed.</p>
@@ -170,7 +170,7 @@
       <p>Ante at <a href="./us465-0420.xml#p440">465 U. S. 440</a>. In my view, that conclusion is inconsistent with our prior cases dealing with invocations of the Fifth Amendment. For two independent reasons, Murphy's failure to claim his privilege against self-incrimination before responding to his probation officer's inquiry regarding his participation in the 1974 murder did not result in the forfeiture of his right to object to the use of his admissions in a subsequent criminal prosecution. First, the State of Minnesota</p>
       <n id="p443">443</n>
       <p>had threatened Murphy with a penalty for refusing to respond to questions; our decisions make clear that such a threat relieves its target of the duty to claim the benefit of the Fifth Amendment. Second, under the circumstances of this case, the State was obliged to prove that Murphy was aware of his constitutional rights and freely waived them; by showing nothing more than that Murphy failed to assert his privilege before answering, the State failed to carry its burden.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>As the majority acknowledges, if an officer of a State asks a person a question under circumstances that deprive him of a "free choice to admit, to deny, or to refuse to answer,'" and he answers the question without attempting to assert his privilege against self-incrimination, his response will be deemed to have been "compelled" and will be inadmissible as evidence against him. Garner v. United States, <a href="../us424/us424-0648.xml#p648">424 U. S. 648</a>, <a href="../us424/us424-0648.xml#p656">424 U. S. 656</a>-657 (1976) (quoting Lisenba v. California, <a href="../us314/us314-0219.xml#p219">314 U. S. 219</a>, <a href="../us314/us314-0219.xml#p241">314 U. S. 241</a> (1941)); see ante at <a href="./us465-0420.xml#p429">465 U. S. 429</a>. Our cases make clear that the State will be found to have deprived the person of such a "free choice" if it threatens him with a substantial sanction if he refuses to respond. Lefkowitz v. Turley, 414 U.S. at <a href="../us414/us414-0070.xml#p82">414 U. S. 82</a>-83. Two rules flow from the foregoing principle: if the State presents a person with the "Hobson's choice" of incriminating himself or suffering a penalty, and he nevertheless refuses to respond, the State cannot constitutionally make good on its threat to penalize him. Id. at <a href="../us414/us414-0070.xml#p77">414 U. S. 77</a>; Sanitation Men v. Commissioner of Sanitation, <a href="../us392/us392-0280.xml#p280">392 U. S. 280</a>, <a href="../us392/us392-0280.xml#p284">392 U. S. 284</a> (1968); Gardner v. Broderick, <a href="../us392/us392-0273.xml#p273">392 U. S. 273</a>, <a href="../us392/us392-0273.xml#p277">392 U. S. 277</a>-278 (1968). Conversely, if the threatened person decides to talk instead of asserting his privilege, the State cannot use his admissions against him in a subsequent criminal prosecution. Garrity v. New Jersey, <a href="../us385/us385-0493.xml#p493">385 U. S. 493</a>, <a href="../us385/us385-0493.xml#p500">385 U. S. 500</a> (1967).</p>
       <p>It might appear that these two rules would defeat one another. A person presented with what appears to be a Hobson's choice could be charged with the knowledge that,</p>
       <n id="p444">444</n>
@@ -196,7 +196,7 @@
       <n id="p449">449</n>
       <p>person told by the State that he may be penalized for refusing to answer does not bear the responsibility to determine whether the State would or could make good on its threat. See supra at <a href="./us465-0420.xml#p443">465 U. S. 443</a>-444. Second, the majority relies on the absence of "direct evidence that Murphy confessed because he feared that his probation would be revoked if he remained silent." Ante at <a href="./us465-0420.xml#p437">465 U. S. 437</a>. Under our precedents, no such "direct evidence" of a causal link between the threat and the response is required in order to prevent the use in a criminal prosecution of Murphy's confession. See supra at <a href="./us465-0420.xml#p444">465 U. S. 444</a>-445.</p>
       <p>In conclusion, because the terms of Murphy's probation deprived him of "a free choice to admit, to deny, or to refuse to answer" when his probation officer confronted him with the allegation that he had committed the 1974 murder, our decisions forbid the introduction into evidence against him of his confession.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>Even if Minnesota had not impaired Murphy's freedom to respond or to refuse to respond to incriminating questions regarding the 1974 murder, I would hold his confession inadmissible because, in view of the circumstances under which he was interrogated, the State had a duty to prove that Murphy waived his privilege against self-incrimination, and it has not made such a showing.</p>
       <p>A</p>
       <p>It is now settled that, in most contexts, the privilege against self-incrimination is not self-executing. "[I]n the ordinary case," if a person questioned by an officer of the State makes damaging disclosures instead of asserting his privilege, he forfeits his right to object to subsequent use of his admissions against him. Garner v. United States, 424 U.S. at <a href="../us424/us424-0648.xml#p654">424 U. S. 654</a>. This forfeiture occurs even if the person is subject to a general legal duty to respond to the officer's questions. See United States v. Washington, <a href="../us431/us431-0181.xml#p181">431 U. S. 181</a> (1977); ante at <a href="./us465-0420.xml#p427">465 U. S. 427</a>. And it occurs regardless of whether the</p>
@@ -243,7 +243,7 @@
       <p>Finally, it is indisputable that the probation officer had reason to know that truthful responses to her questions would expose Murphy to criminal liability. This case does not arise out of a spontaneous confession to a routine question innocently asked by a government official. Rather, it originates in precisely the sort of situation the Fifth Amendment was designed to prevent -- in which a government, instead of establishing a defendant's guilt through independent investigation, seeks to induce him, against his will, to convict himself out of his own mouth.</p>
       <p>In sum, none of the factors that, in most contexts, justify application of the principle that a defendant loses his Fifth Amendment privilege unless he claims it in a timely fashion are present in this case. Accordingly, the State should be obliged to demonstrate that Murphy knew of his constitutional rights and freely waived them. Because the State has made no such showing, I would hold his confession inadmissible.</p>
       <n id="p462">462</n>
-      <h>III</h>
+      <h2>III</h2>
       <p>The criminal justice system contains safeguards that should minimize the damage done by the Court's decision today. In the future, responsible criminal defense attorneys whose clients are given probation will inform those clients, in their final interviews, that they may disregard probation conditions insofar as those conditions are inconsistent with probationers' Fifth Amendment rights. The attorneys will then carefully instruct their clients on the nuances of those rights as we have now explicated them. [Footnote 2/30] Armed with this knowledge, few probationers will succumb to the sort of pressure and deceit that overwhelmed Murphy.</p>
       <p>Because Murphy himself had the benefit of none of the safeguards just described, I would affirm the judgment of the Supreme Court of Minnesota that the admission into evidence of the disclosures he made to his probation officer violated the Constitution.</p>
       <p>I respectfully dissent.</p>

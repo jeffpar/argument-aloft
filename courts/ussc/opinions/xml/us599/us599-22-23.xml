@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us599-22-23.html" citation="599 U.S. 22-23" title="Pugin v. Garland">
   <opinion type="Opinion" author="Kavanaugh">
     <p>NOTICE: This opinion is subject to formal revision before publication in the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, pio@supremecourt.gov, of any typographical or other formal errors.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 22–23 and 22–331</p>
-    <p>_________________</p>
     <p>JEAN FRANCOIS PUGIN, PETITIONER</p>
     <p>22–23v.</p>
     <p>MERRICK B. GARLAND, ATTORNEY GENERAL</p>
@@ -51,9 +50,7 @@
   </opinion>
   <opinion type="Concurrence" author="Jackson">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 22–23 and 22–331</p>
-    <p>_________________</p>
     <p>JEAN FRANCOIS PUGIN, PETITIONER</p>
     <p>22–23v.</p>
     <p>MERRICK B. GARLAND, ATTORNEY GENERAL</p>
@@ -75,9 +72,7 @@
   </opinion>
   <opinion type="Dissent" author="Sotomayor">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 22–23 and 22–331</p>
-    <p>_________________</p>
     <p>JEAN FRANCOIS PUGIN, PETITIONER</p>
     <p>22–23v.</p>
     <p>MERRICK B. GARLAND, ATTORNEY GENERAL</p>

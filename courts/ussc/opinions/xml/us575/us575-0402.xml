@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us575-0402.html" citation="575 U.S. 402" title="United States v. Wong">
   <opinion type="Opinion" author="Kagan">
     <n id="p402">402</n>
     <p>NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 13-1074 and 13-1075</p>
-    <p>_________________</p>
     <p>UNITED STATES, PETITIONER</p>
     <p>13-1074 v.</p>
     <p>KWAI FUN WONG</p>
@@ -64,9 +63,7 @@
   </opinion>
   <opinion type="Dissent" author="Alito">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 13-1074 and 13-1075</p>
-    <p>_________________</p>
     <p>UNITED STATES, PETITIONER</p>
     <p>13-1074 v.</p>
     <p>KWAI FUN WONG</p>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us392-0378.html" citation="392 U.S. 378" title="Lee v. Florida">
   <opinion type="Opinions &amp; Dissents">
     <n id="p378">378</n>
-    <h>U.S. Supreme Court</h>
-    <h>Lee v. Florida, <a href="./us392-0378.xml#p378">392 U.S. 378</a> (1968)</h>
-    <h>Lee v. Florida</h>
-    <h>No. 174</h>
-    <h>Argued May 2, 1968</h>
-    <h>Decided June 17, 1968</h>
-    <h><a href="./us392-0378.xml#p378">392 U.S. 378</a></h>
-    <h>CERTIORARI TO THE DISTRICT COURT OF APPEAL</h>
-    <h>OF FLORIDA, FOURTH DISTRICT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Lee v. Florida, <a href="./us392-0378.xml#p378">392 U.S. 378</a> (1968)</h1>
+    <h2>Lee v. Florida</h2>
+    <h2>No. 174</h2>
+    <h4>Argued May 2, 1968</h4>
+    <h4>Decided June 17, 1968</h4>
+    <h2>CERTIORARI TO THE DISTRICT COURT OF APPEAL</h2>
+    <h2>OF FLORIDA, FOURTH DISTRICT</h2>
+    <h2>Syllabus</h2>
     <p>A four-party telephone line was installed in petitioner Lee's house, and, shortly thereafter, by direction of the Orlando, Florida, police, a telephone in a neighboring house was connected to the same party line. The police attached equipment which permitted them to hear and record all conversations on the party line without lifting the telephone receiver. Recordings of conversations were introduced, over objection, at petitioners' trial for violation of state lottery laws. Petitioners were convicted, and the state appellate court affirmed, saying</p>
     <p>"that there were no state or federal statutes applicable in Florida which would make wiretapping illegal and inadmissible in evidence. . . ."</p>
     <p>Held:</p>
@@ -28,14 +28,14 @@
     <p>Further, the arrangement insured that noises in the house occupied by the police would not be heard by anyone else on the line. For more than a week, the police used this equipment to overhear and record telephone calls to and from Lee's residence, including calls made to Lee by the other two petitioners from private, as well as public, telephones.</p>
     <p>At the petitioners' trial, several of these recordings were introduced in evidence by the prosecution over objection by defense counsel. In affirming the convictions, the state appellate court said that "there were no state or federal statutes applicable in Florida which would make wiretapping illegal and inadmissible in evidence. . . ." [<a id="nf4" href="#fn4">Footnote 4</a>]</p>
     <p>We disagree. There clearly is a federal statute, applicable in Florida and every other State, that made illegal the conduct of the Orlando authorities in this case. And that statute, we hold today, also made the recordings of the petitioners' telephone conversations inadmissible as evidence in the Florida court.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Section 605 of the Federal Communications Act speaks not in terms of tapping a wire, but in terms of intercepting and divulging a communication. The State concedes that the police "divulged" the petitioners' conversations within the meaning of the statute. But, it argues, the police cannot be deemed to have "intercepted" the</p>
     <n id="p381">381</n>
     <p>telephone conversations, because people who use party lines should realize that their conversations might be overheard.</p>
     <p>This is not a case, however, where the police merely picked up the receiver on an ordinary party line, and we need not decide whether § 605 would be applicable in those circumstances. [<a id="nf5" href="#fn5">Footnote 5</a>] For here, the police did much more. They deliberately arranged to have a telephone connected to Lee's line without his knowledge, and they altered that connection in such a way as to permit continuous surreptitious surveillance and recording of all conversations on the line. What was done here was a far cry from the police activity in Rathbun v. United States, <a href="../us355/us355-0107.xml#p107">355 U. S. 107</a>, a case heavily relied upon by the respondent. There, we found no interception where "a communication [is] overheard on a regularly used telephone extension with the consent of one party to the conversation," ibid., and where the "extension had not been installed there just for this purpose, but was a regular connection, previously placed and normally used." Id. at <a href="../us355/us355-0107.xml#p108">355 U. S. 108</a>. We viewed that situation as though one of the parties to the telephone conversation had simply "held out his handset so that another could hear out of it." Id. at <a href="../us355/us355-0107.xml#p110">355 U. S. 110</a>-111. In the present case, by contrast, there was neither "the consent of one party" nor a "regularly used" telephone "not . . . installed . . . just for [the] purpose" of surveillance. The conduct of the Orlando</p>
     <n id="p382">382</n>
     <p>police, deliberately planned and carried out, clearly amounted to interception of the petitioners' communications within the meaning of § 605 of the Federal Communications Act. [<a id="nf6" href="#fn6">Footnote 6</a>]</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The remaining question is whether the recordings that the police obtained by intercepting the petitioners' telephone conversations were admissible in evidence in the Florida trial court, notwithstanding the express prohibition of federal law against divulgence of recordings so procured.</p>
     <p>Section 605 was enacted as part of the Federal Communications Act of 1934, 48 Stat. 1103, six years after the Court had said, in Olmstead v. United States, <a href="../us277/us277-0438.xml#p438">277 U. S. 438</a>, <a href="../us277/us277-0438.xml#p465">277 U. S. 465</a>, that</p>
     <p>"Congress may, of course, [legislate to] protect the secrecy of telephone messages by making them, when intercepted, inadmissible in evidence. . . ."</p>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us467-0925.html" citation="467 U.S. 925" title="Wash. Metro. Area Transit v. Johnson">
   <opinion type="Opinions &amp; Dissents">
     <n id="p925">925</n>
-    <h>U.S. Supreme Court</h>
-    <h>Wash. Metro. Area Transit v. Johnson, <a href="./us467-0925.xml#p925">467 U.S. 925</a> (1984)</h>
-    <h>Washington Metropolitan Area Transit Authority v. Johnson</h>
-    <h>No. 83-747</h>
-    <h>Argued April 24, 1984</h>
-    <h>Decided June 26, 1984</h>
-    <h><a href="./us467-0925.xml#p925">467 U.S. 925</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE DISTRICT OF COLUMBIA CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Wash. Metro. Area Transit v. Johnson, <a href="./us467-0925.xml#p925">467 U.S. 925</a> (1984)</h1>
+    <h2>Washington Metropolitan Area Transit Authority v. Johnson</h2>
+    <h2>No. 83-747</h2>
+    <h4>Argued April 24, 1984</h4>
+    <h4>Decided June 26, 1984</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE DISTRICT OF COLUMBIA CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Section 4(a) of the Longshoremen's and Harbor Workers' Compensation Act (LHWCA or Act) provides that "[e]very employer shall be liable for and shall secure the payment to his employees" of compensation payable under the Act, and further provides that,</p>
     <p>"[i]n the case of an employer who is a subcontractor, the contractor shall be liable for and shall secure the payment of such compensation to employees of the subcontractor unless the subcontractor has secured such payment."</p>
     <p>Section 5(a) provides that the liability of an "employer" prescribed in § 4 shall be exclusive and in place of all other liability of "such employer" to the employee, except that, if an "employer" fails to secure payment of compensation as required by the Act, an injured employee may elect to claim compensation under the Act or to maintain an action at law or in admiralty for damages. Petitioner, a general contractor governed by the Act and responsible for construction of a rapid transit system (Metro) for the District of Columbia and surrounding metropolitan area, purchased a comprehensive "wrap-up" workers' compensation insurance policy to cover all employees of subcontractors engaged in the construction of Metro. Respondents, employees of subcontractors who had not secured their own workers' compensation insurance, after having obtained compensation awards from petitioner's insurer for work-related injuries, each brought a tort action against petitioner in Federal District Court to supplement such awards. The court in each case awarded summary judgment to petitioner, holding that, by purchasing workers' compensation insurance for the employees of its subcontractors, petitioner had earned § 5(a)'s immunity from tort suits brought for work-related injuries. In a consolidated appeal, the Court of Appeals reversed, taking the view that § 5(a)'s grant of immunity applies to a general contractor only if the contractor secures compensation after the subcontractor fails to do so. The court therefore concluded that, since petitioner unilaterally purchased the "wrap-up" policy, and thus preempted its subcontractors, it was not entitled to § 5(a)'s immunity.</p>
@@ -26,7 +26,7 @@
     <n id="p927">927</n>
     <p>JUSTICE MARSHALL delivered the opinion of the Court.</p>
     <p>Section 4(a) of the Longshoremen's and Harbor Workers' Compensation Act (LHWCA or Act), 44 Stat. (part 2) 1426, 33 U.S.C. § 904(a), makes general contractors responsible for obtaining workers' compensation coverage for the employees of subcontractors under certain circumstances. The question presented by this case is when, if ever, these general contractors are entitled to the immunity from tort liability provided in § 5(a) of the Act, 33 U.S.C. § 905(a).</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Petitioner Washington Metropolitan Area Transit Authority (WMATA) is a government agency created in 1966 by the District of Columbia, the State of Maryland, and the Commonwealth of Virginia with the consent of the United States Congress. [<a id="nf1" href="#fn1">Footnote 1</a>] WMATA is charged with the construction and operation of a rapid transit system (Metro) for the District of Columbia and the surrounding metropolitan region. Under the interstate compact that governs its existence, WMATA is authorized to hire subcontractors to work on various aspects of the Metro construction project. [<a id="nf2" href="#fn2">Footnote 2</a>] Since 1966, WMATA has engaged several hundred subcontractors, who in turn have employed more than a thousand sub-subcontractors. [<a id="nf3" href="#fn3">Footnote 3</a>]</p>
     <p>Of the multifarious problems WMATA faced in constructing the Metro system, one has been ensuring that workers engaged in the project in the District of Columbia are covered</p>
     <n id="p928">928</n>
@@ -44,7 +44,7 @@
     <n id="p931">931</n>
     <p>§ 5(a)'s immunity from tort suits brought for work-related injuries.</p>
     <p>In a consolidated appeal, the United States Court of Appeals for the District of Columbia Circuit reversed. Johnson v. Bechtel Associates Professional Corp., 230 U.S.App.D.C. 297, 717 F.2d 574 (1983). The Court of Appeals reasoned that § 5(a) of the LHWCA grants general contractors immunity from tort actions by subcontractor employees only if the general contractor has secured compensation insurance in satisfaction of a statutory duty. According to the Court of Appeals, WMATA had not acted under such a duty in this case. Had respondents' employers actually refused to secure the worker's compensation insurance, then WMATA, as general contractor, would have had what the Court of Appeals considered a statutory duty to secure insurance for respondents. However, WMATA never gave respondents' employers the opportunity to default on their statutory obligations to secure compensation; WMATA preempted its subcontractors through its unilateral decision to purchase a "wrap-up" policy covering all subcontractor employees. The Court of Appeals concluded that, by preempting its subcontractors, WMATA acted voluntarily, and was therefore not entitled to § 5(a)'s immunity. We granted WMATA's petition for a writ of certiorari, 464 U.S. 1068 (1984), and we now reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Workers' compensation statutes, such as the LHWCA, "provide for compensation, in the stead of liability, for a class of employees." S.Rep. No. 973, 69th Cong., 1st Sess., 16 (1926). These statutes reflect a legislated compromise between the interests of employees and the concerns of employers. On both sides, there is a quid pro quo. In return for the guarantee of compensation, the employees surrender common law remedies against their employers for work-related injuries. For the employer, the reward for securing compensation is immunity from employee tort suits. See</p>
     <p>Page 467 U. S. 932</p>
     <p>Morrison-Knudsen Construction Co. v. Director, OWCP, <a href="../us461/us461-0624.xml#p624">461 U. S. 624</a>, <a href="../us461/us461-0624.xml#p636">461 U. S. 636</a> (1983); Potomac Electric Power Co. v. Director, OWCP, <a href="../us449/us449-0268.xml#p268">449 U. S. 268</a>, <a href="../us449/us449-0268.xml#p282">449 U. S. 282</a>, and n. 24 (1980); see also 2A A. Larson, Law of Workmen's Compensation § 72.31(c) (1982).</p>
@@ -91,7 +91,7 @@
     <p>As the natural reading of §§ 4(a) and 5(a) comports with the policies underlying the LHWCA and is consistent with the legislative history of the Act, there is no cause not to "adhere closely to what Congress has written." Rodriguez v. Compass Shipping Co., 451 U.S. at <a href="../us451/us451-0596.xml#p617">451 U. S. 617</a>. We conclude, therefore, that §§ 4(a) and 5(a) of the LHWCA render a general</p>
     <n id="p940">940</n>
     <p>contractor immune from tort liability provided the contractor has not failed to honor its statutory duty to secure compensation for subcontractor employees when the subcontractor itself has not secured such compensation. So long as general contractors have not defaulted on this statutory obligation to secure back-up compensation for subcontractor employees, they qualify for § 5(a)'s grant of immunity.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Applying our interpretation of § 4(a) and § 5(a) to the facts of this case, we conclude that WMATA was entitled to immunity from the tort actions brought by respondents. Far from "fail[ing] to secure payment of compensation as required by [the LHWCA]," 33 U.S.C. § 905(a), WMATA acted above and beyond its statutory obligations. In order to prevent subcontractor employees from going uninsured, WMATA went to the considerable effort and expense of purchasing "wrap-up" insurance on behalf of all of its subcontractors. Rather than waiting to secure its own compensation until subcontractors failed to secure, WMATA guaranteed that every Metro subcontractor would satisfy and keep satisfied its primary statutory obligation to obtain worker's compensation coverage. [<a id="nf14" href="#fn14">Footnote 14</a>] Due to the comprehensiveness of its "wrap-up"</p>
     <n id="p941">941</n>
     <p>policy, WMATA's statutory duty to secure back-up compensation for its subcontractor employees has not been triggered since the second phase of Metro construction began, and WMATA has therefore had no opportunity to default on its statutory obligations established in § 4(a). Under these circumstances, it is clear that WMATA remains entitled to § 5(a)'s grant of tort immunity.</p>

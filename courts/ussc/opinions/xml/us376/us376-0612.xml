@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us376-0612.html" citation="376 U.S. 612" title="Van Dusen v. Barrack">
   <opinion type="Opinions &amp; Dissents">
     <n id="p612">612</n>
-    <h>U.S. Supreme Court</h>
-    <h>Van Dusen v. Barrack, <a href="./us376-0612.xml#p612">376 U.S. 612</a> (1964)</h>
-    <h>Van Dusen v. Barrack</h>
-    <h>Nos. 56 and 80</h>
-    <h>Argued January 8-9, 1964</h>
-    <h>Decided March 30, 1964</h>
-    <h><a href="./us376-0612.xml#p612">376 U.S. 612</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE THIRD CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Van Dusen v. Barrack, <a href="./us376-0612.xml#p612">376 U.S. 612</a> (1964)</h1>
+    <h2>Van Dusen v. Barrack</h2>
+    <h2>Nos. 56 and 80</h2>
+    <h4>Argued January 8-9, 1964</h4>
+    <h4>Decided March 30, 1964</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE THIRD CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondents, personal representatives of Pennsylvania decedents, instituted in the United States District Court for the Eastern District of Pennsylvania 40 wrongful death actions arising from an airplane crash in Massachusetts. Acting on petitioners' motion under § 1404(a) of the Judicial Code of 1948, which provides for transfer of civil actions for the convenience of parties and witnesses, in the interest of justice, to any district where such action "might have been brought," the District Court ordered that the actions be transferred to the District of Massachusetts, where over 100 other actions arising out of the same disaster are pending. The Court of Appeals, interpreting § 1404(a) and relying on Rule 17(b) of the Federal Rules of Civil Procedure, vacated the transfer order, holding that it could be granted only if, at the time the actions were filed, respondents were personal representatives qualified to sue in Massachusetts courts.</p>
     <p>Held:</p>
     <p>1. In § 1404(a), the phrase "where it might have been brought" must be construed with reference to federal venue laws setting forth the districts where such actions "may be brought," and not with reference to the laws, such as those relating to damages and the capacity of personal representatives to sue, of the State where the transferee district court is located. Pp. <a href="./us376-0612.xml#p616">376 U. S. 616</a>-626.</p>
@@ -32,7 +32,7 @@
     <p>its interpretation of Rule 17(b) of the Federal Rules of Civil Procedure. [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
     <p>We granted certiorari to review important questions concerning the construction and operation of § 1404(a). 372 U.S. 964. For reasons to be stated below, we hold that the judgment of the Court of Appeals must be reversed, that both the Court of Appeals and the District Court erred in their fundamental assumptions regarding the state law to be applied to an action transferred under § 1404(a), and that, accordingly, the case must be remanded to the District Court. [<a id="nf3" href="#fn3">Footnote 3</a>]</p>
     <n id="p616">616</n>
-    <h>I</h>
+    <h2>I</h2>
     <p>. WHERE THE ACTION "MIGHT HAVE BEEN BROUGHT" Section 1404(a) reflects an increased desire to have federal civil suits tried in the federal system at the place called for in the particular case by considerations of convenience and justice. [<a id="nf4" href="#fn4">Footnote 4</a>] Thus, as the Court recognized in Continental Grain Co. v. Barge F.B.L.-585, <a href="../us364/us364-0019.xml#p19">364 U. S. 19</a>, <a href="../us364/us364-0019.xml#p26">364 U. S. 26</a>-27, the purpose of the section is to prevent the waste "of time, energy and money" and "to protect litigants, witnesses and the public against unnecessary inconvenience and expense. . . ." To this end, it empowers a district court to transfer "any civil action" [<a id="nf5" href="#fn5">Footnote 5</a>] to another district court if the transfer is warranted by the convenience of parties and witnesses and promotes the interest of justice. This transfer power is, however, expressly limited by the final clause of § 1404(a) restricting transfer to those federal districts in which the action "might have been brought." Although, in the present case, the plaintiffs were qualified to bring suit as personal representatives under Pennsylvania law (the law of the State of the transferor federal court), the Court of Appeals ruled that the defendants' transfer motion must be denied because, at the time the suits were brought in Pennsylvania (the transferor forum), the complainants had not obtained the appointments requisite to initiate such actions in Massachusetts (the transferee forum).</p>
     <n id="p617">617</n>
     <p>At the outset, therefore, we must consider whether the incapacity of the plaintiffs at the time they commenced their actions in the transferor forum to sue under the state law of the transferee forum renders the latter forum impermissible under the "might have been brought" limitation.</p>
@@ -75,7 +75,7 @@
     <p>Although the Court of Appeals specifically relied on Rule 17(b), in our opinion, the underlying and fundamental question is whether, in a case such as the present, a change of venue within the federal system is to be accompanied by a change in the applicable state law. [<a id="nf19" href="#fn19">Footnote 19</a>] Whenever the law of the transferee State significantly differs from that of the transferor State -- whether that difference relates to capacity to sue, statutes of limitations, or "substantive" rules of liability -- it becomes necessary</p>
     <n id="p626">626</n>
     <p>to consider what bearing a change of venue, if accompanied by a change in state law, would have on "the interest of justice." This fundamental question underlies the problem of the interpretation of the words of Rule 17(b), and requires a determination of whether the existence of differing state laws would necessarily render a transfer against "the interest of justice." In view of the facts of this case and their bearing on this basic question, we must consider first, insofar as is relevant, the relationship between a change of venue under § 1404(a) and the applicable state law.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>. "THE INTEREST OF JUSTICE": EFFECT OF A CHANGE OF VENUE UPON APPLICABLE STATE LAW</p>
     <p>A. The plaintiffs contend that the change of venue ordered by the District Court was necessarily precluded by the likelihood that it would be accompanied by a highly prejudicial change in the applicable state law. The prejudice alleged is not limited to that which might flow from the Massachusetts laws governing capacity to sue. Indeed, the plaintiffs emphasize the likelihood that the defendants'</p>
     <p>"ultimate reason for seeking transfer is to move to a forum where recoveries for wrongful death are restricted to sharply limited punitive damages, rather than compensation for the loss suffered. [<a id="nf20" href="#fn20">Footnote 20</a>]"</p>
@@ -142,7 +142,7 @@
     <p>Since, in this case, the transferee district court must, under § 1404(a), apply the laws of the State of the transferor district court, it follows, in our view, that Rule 17(b) must be interpreted similarly, so that the capacity to sue will also be governed by the laws of the transferor State. Where a § 1404(a) transfer is thus held not to effect a change of law, but essentially only to authorize a change of courtrooms, the reference in Rule 17(b)to the</p>
     <n id="p643">643</n>
     <p>law of the State "in which the district court is held" should be applied in a corresponding manner so that it will refer to the district court which sits in the State that will generally be the source of applicable laws. We conclude, therefore, that the Court of Appeals misconceived the meaning and application of Rule 17(b), and erred in holding that it required the denial of the § 1404(a) transfer.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>. APPLICABLE LAW: EFFECT ON THE CONVENIENCE OF PARTIES AND WITNESSES</p>
     <p>The holding that a § 1404(a) transfer would not alter the state law to be applied does not dispose of the question of whether the proposed transfer can be justified when measured against the relevant criteria of convenience and fairness. Though the answer to this question does not follow automatically from the determination that the transferred actions will carry with them the transferor's laws, that determination nevertheless may make the transfer more or less practical and desirable. The matters to be weighed in assessing convenience and fairness are pervasively shaped by the contours of the applicable laws. The legal rules obviously govern what facts will be relevant and irrelevant, what witnesses may be heard, what evidence will be most vital, and so on. Not only do the rules thus affect the convenience of a given place of trial, but they also bear on considerations such as judicial familiarity with the governing laws and the relative ease and practicality of trying the cases in the alternative forums.</p>
     <p>In the present case, the District Court held that the requested transfer could and should be granted regardless of whether the laws of the transferor State or of the transferee State were to be applied. 204 F. Supp. at 433-436. The court based its ruling on a general finding that transfer to Massachusetts would be sufficiently convenient and</p>

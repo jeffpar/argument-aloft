@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us440-0367.html" citation="440 U.S. 367" title="Scott v. Illinois">
   <opinion type="Opinions &amp; Dissents">
     <n id="p367">367</n>
-    <h>U.S. Supreme Court</h>
-    <h>Scott v. Illinois, <a href="./us440-0367.xml#p367">440 U.S. 367</a> (1979)</h>
-    <h>Scott v. Illinois</h>
-    <h>No. 77-1177</h>
-    <h>Argued December 4, 1978</h>
-    <h>Decided March 5, 1979</h>
-    <h><a href="./us440-0367.xml#p367">440 U.S. 367</a></h>
-    <h>CERTIORARI TO THE SUPREME COURT OF ILLINOIS</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Scott v. Illinois, <a href="./us440-0367.xml#p367">440 U.S. 367</a> (1979)</h1>
+    <h2>Scott v. Illinois</h2>
+    <h2>No. 77-1177</h2>
+    <h4>Argued December 4, 1978</h4>
+    <h4>Decided March 5, 1979</h4>
+    <h2>CERTIORARI TO THE SUPREME COURT OF ILLINOIS</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner, an indigent, was convicted of shoplifting and was fined $50 after a bench trial in an Illinois state court. The applicable Illinois statute set the maximum penalty for such an offense at a $500 fine, one year in jail, or both. Petitioner's conviction was ultimately affirmed by the Illinois Supreme Court, over the petitioner's contention that a line of cases culminating in Argersinger v. Hamlin, <a href="../us407/us407-0025.xml#p25">407 U. S. 25</a>, requires state provision of counsel whenever imprisonment is an authorized penalty.</p>
     <p>Held: The Sixth and Fourteenth Amendments require that no indigent criminal defendant be sentenced to a term of imprisonment unless the State has afforded him the right to assistance of appointed counsel in his defense, but do not require a state trial court to appoint counsel for a criminal defendant, such as petitioner, who is charged with a statutory offense for which imprisonment upon conviction is authorized but not imposed. Pp. <a href="./us440-0367.xml#p369">440 U. S. 369</a>-374.</p>
     <p>(a) Argersinger v. Hamlin, supra, limits the constitutional right to appointed counsel in state criminal proceedings to a case that actually leads to imprisonment. P. <a href="./us440-0367.xml#p373">440 U. S. 373</a>.</p>
@@ -84,7 +84,7 @@
       <p>The Court, in an opinion that, at best, ignores the basic principles of prior decisions, affirms Scott's conviction without</p>
       <n id="p376">376</n>
       <p>counsel because he was sentenced only to pay a fine. In my view, the plain wording of the Sixth Amendment and the Court's precedents compel the conclusion that Scott's uncounseled conviction violated the Sixth and Fourteenth Amendments, and should be reversed.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>The Court's opinion intimates that the Court's precedents ordaining the right to appointed counsel for indigent accuseds in state criminal proceedings fail to provide a principled basis for deciding this case. That is demonstrably not so. The principles developed in the relevant precedents are clear and sound. The Court simply chooses to ignore them.</p>
       <p>Gideon v. Wainwright held that, because representation by counsel in a criminal proceeding is "fundamental and essential to a fair trial," 372 U.S. at <a href="../us372/us372-0335.xml#p342">372 U. S. 342</a>, the Sixth Amendment right to counsel was applicable to the States through the Fourteenth Amendment:</p>
       <p>"[R]eason and reflection require us to recognize that, in our adversary system of criminal justice, any person haled into court, who is too poor to hire a lawyer, cannot be assured a fair trial unless counsel is provided for him. This seems to us to be an obvious truth. Governments, both state and federal, quite properly spend vast sums of money to establish machinery to try defendants accused of crime. Lawyers to prosecute are everywhere deemed essential to protect the public's interest in an orderly society. Similarly, there are few defendants charged with crime, few indeed, who fail to hire the best lawyers they can get to prepare and present their defenses. That government hires lawyers to prosecute and defendants who have the money hire lawyers to defend are the strongest indications of the widespread belief that lawyers in criminal courts are necessities, not luxuries. The right of one charged with crime to counsel may not be deemed</p>
@@ -98,7 +98,7 @@
       <n id="p379">379</n>
       <p>limitation had been based on historical considerations peculiar to the right to jury trial; [Footnote 2/6] and that the right to counsel was more fundamentally related to the fairness of criminal prosecutions than the right to jury trial, and was, in fact, essential to the meaningful exercise of other Sixth Amendment protections. [Footnote 2/7]</p>
       <p>Although its analysis, like that in Gideon and other earlier cases, suggested that the Sixth Amendment right to counsel should apply to all state criminal prosecutions, Argersinger held only that an indigent defendant is entitled to appointed counsel, even in petty offenses punishable by six months of incarceration or less, if he is likely to be sentenced to incarceration for any time if convicted. The question of the right to counsel in cases in which incarceration was authorized but would not be imposed was expressly reserved. [Footnote 2/8]</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>In my view, petitioner could prevail in this case without extending the right to counsel beyond what was assumed to exist in Argersinger. Neither party in that case questioned</p>
       <n id="p380">380</n>
       <p>the existence of the right to counsel in trials involving "nonpetty" offenses punishable by more than six months in jail. [Footnote 2/9] The question the Court addressed was whether the right applied to some "petty" offenses to which the right to jury trial did not extend. The Court's reasoning in applying the right to counsel in the case before it -- that the right to counsel is more fundamental to a fair proceeding than the right to jury trial and that the historical limitations on the jury trial right are irrelevant to the right to counsel -- certainly cannot support a standard for the right to counsel that is more restrictive than the standard for granting a right to jury trial. As my Brother POWELL commented in his opinion concurring in the result in Argersinger, 407 U.S. at <a href="../us407/us407-0451.xml#p456">407 U. S. 456</a>:</p>
@@ -107,7 +107,7 @@
       <p>The offense of "theft" with which Scott was charged is certainly not a "petty" one. It is punishable by a sentence of up to one year in jail. Unlike many traffic or other "regulatory" offenses, it carries the moral stigma associated with common law crimes traditionally recognized as indicative of moral depravity. [Footnote 2/10] The State indicated at oral argument that the</p>
       <n id="p381">381</n>
       <p>services of a professional prosecutor were considered essential to the prosecution of this offense. Tr. of Oral Arg. 39; cf. Argersinger v. Hamlin, 407 U.S. at <a href="../us407/us407-0025.xml#p49">407 U. S. 49</a> (POWELL, J., concurring in result). Likewise, nonindigent defendants charged with this offense would be well advised to hire the "best lawyers they can get." [Footnote 2/11] Scott's right to the assistance of appointed counsel is thus plainly mandated by the logic of the Court's prior cases, including Argersinger itself. [Footnote 2/12]</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>But rather than decide consonant with the assumption in regard to nonpetty offenses that was both implicit and explicit</p>
       <n id="p382">382</n>
       <p>in Argersinger, the Court today retreats to the indefensible position that the Argersinger "actual imprisonment" standard is the only test for determining the boundary of the Sixth Amendment right to appointed counsel in state misdemeanor cases, thus necessarily deciding that, in many cases (such as this one), a defendant will have no right to appointed counsel even when he has a constitutional right to a jury trial. This is simply an intolerable result. Not only is the "actual imprisonment" standard unprecedented as the exclusive test, but also the problems inherent in its application demonstrate the superiority of an "authorized imprisonment" standard that would require the appointment of counsel for indigents accused of any offense for which imprisonment for any time is authorized.</p>
@@ -137,7 +137,7 @@
       <p>It may well be that adoption by this Court of an "authorized imprisonment" standard would lead state and local governments to reexamine their criminal statutes. A state legislature or local government might determine that it no longer desired to authorize incarceration for certain minor offenses in light of the expense of meeting the requirements of the Constitution. In my view, this reexamination is long overdue. [Footnote 2/23] In any</p>
       <n id="p389">389</n>
       <p>event, the Court's "actual imprisonment" standard must inevitably lead the courts to make this reexamination, which plainly should more properly be a legislative responsibility.</p>
-      <h>IV</h>
+      <h2>IV</h2>
       <p>The Court's opinion turns the reasoning of Argersinger on its head. It restricts the right to counsel, perhaps the most fundamental Sixth Amendment right, [Footnote 2/24] more narrowly than the admittedly less fundamental right to jury trial. [Footnote 2/25] The abstract pretext that</p>
       <p>"constitutional line drawing becomes more difficult as the reach of the Constitution is extended further, and as efforts are made to transpose lines from one area of Sixth Amendment jurisprudence to another,"</p>
       <p>ante at <a href="./us440-0367.xml#p372">440 U. S. 372</a>, cannot camouflage the anomalous result the Court reaches. Today's decision reminds one of Mr. Justice Black's description of Betts v. Brady: "an anachronism when handed down" that "ma[kes] an abrupt break with its own well considered precedents." Gideon v. Wainwright, 372 U.S. at <a href="../us372/us372-0335.xml#p345">372 U. S. 345</a>, <a href="../us372/us372-0335.xml#p344">372 U. S. 344</a>.</p>

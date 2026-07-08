@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us416-0430.html" citation="416 U.S. 430" title="Gooding v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p430">430</n>
-    <h>U.S. Supreme Court</h>
-    <h>Gooding v. United States, <a href="./us416-0430.xml#p430">416 U.S. 430</a> (1974)</h>
-    <h>Gooding v. United States</h>
-    <h>No. 72-6902</h>
-    <h>Argued February 25, 1974</h>
-    <h>Decided April 29, 1974</h>
-    <h><a href="./us416-0430.xml#p430">416 U.S. 430</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE DISTRICT OF COLUMBIA CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Gooding v. United States, <a href="./us416-0430.xml#p430">416 U.S. 430</a> (1974)</h1>
+    <h2>Gooding v. United States</h2>
+    <h2>No. 72-6902</h2>
+    <h4>Argued February 25, 1974</h4>
+    <h4>Decided April 29, 1974</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE DISTRICT OF COLUMBIA CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner, charged with illegal possession of drugs, made a motion to suppress the physical evidence seized in petitioner's apartment on February 12, 1971, at 9:30 p.m. by District of Columbia police officers pursuant to a magistrate's search warrant. Although no provisions of the D.C.Code were explicitly referred to, petitioner apparently contended, inter alia, that the warrant was executed in the night-time in violation of D.C.Code § 23-521(f)(5), which specifically requires that search warrants be served in the daytime unless certain statutory conditions are met, none of which was satisfied here. The District Court granted petitioner's motion, rejecting the Government's contention that the warrant was issued under 21 U.S.C. § 879(a), which relates only to searches for "controlled substances" and provides that a warrant may be served "at any time of the day or night" as long as the issuing authority is satisfied that probable cause exists to believe that there are grounds for the warrant "and for its service at such time." The Court of Appeals reversed on the ground that 21 U.S.C. § 879(a) was the applicable statute, and that its terms had been satisfied.</p>
     <p>Held:</p>
     <p>1. Title 21 U.S.C. § 879(a), which is part of a comprehensive federal scheme for the control of drug abuse, applies to this case. Pp. <a href="./us416-0430.xml#p446">416 U. S. 446</a>-454.</p>
@@ -67,7 +67,7 @@
     <n id="p446">446</n>
     <p>did require an additional showing for a night-time search, but concluded that such a showing had been made in this case. [<a id="nf25" href="#fn25">Footnote 25</a>]</p>
     <p>Petitioner urges that we reverse the Court of Appeals on either or both of two alternative grounds. First, petitioner repeats his assertion, sustained by the District Court, that Title 23 of the D.C.Code is the statute applicable to the search in this case and that, as the Government has conceded, the requirements of that title have not been satisfied. Second, petitioner argues that, if 21 U.S.C. § 879(a) is considered to be the applicable provision, a special showing for night-time searches must be made. We agree with the Court of Appeals that 21 U.S.C. § 879(a) is the statute applicable to this case, and that its provisions have been satisfied here. [<a id="nf26" href="#fn26">Footnote 26</a>]</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The unique situation of the District of Columbia, for which Congress legislates both specially and as a part</p>
     <n id="p447">447</n>
     <p>of the Nation, gives rise to the principal difficulties in this case. For we deal here not with statutory schemes enacted by independent legislative bodies, but with possibly overlapping schemes enacted by a single body. Despite the potential overlap, however, we think that the operative facts surrounding this search strongly indicate that the standards for issuance of a warrant should be governed by the nationwide federal legislation enacted by Congress -- that is, 21 U.S.C. § 879(a) [<a id="nf27" href="#fn27">Footnote 27</a>] -- rather than by the local D.C. laws. To begin with, an Assistant United States Attorney, who had discretion to proceed either under federal or under local law, filed the application for the search warrant alleging a violation of the United States Code. Application was made to a United States Magistrate located in the United States District Court building, and neither the application nor the supporting affidavits contained any mention of the local narcotics laws. After the materials were seized, petitioner was indicted for violations of federal law.</p>
@@ -100,7 +100,7 @@
     <n id="p454">454</n>
     <p>nevertheless showed its clear intention to leave intact other special search warrant provisions, including, of course, the provisions relating to searches for controlled substances. [<a id="nf38" href="#fn38">Footnote 38</a>] In those limited cases, Congress has considered the need for privacy to be counterbalanced by the public need for more effective law enforcement. We do not believe that Congress, by enacting a general search warrant provision for the District of Columbia, has struck a different balance in federal drug cases simply because District of Columbia police officers are involved.</p>
     <p>We therefore conclude, as did all the judges of the Court of Appeals, that the statute applicable to this case is 21 U.S.C. § 879(a). Our remaining task is to determine whether the requirements of that section have been met.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>"A search warrant relating to offenses involving controlled substances may be served at any time of the day or night if the judge or United States magistrate issuing the warrant is satisfied that there is probable cause to believe that grounds exist for the warrant and for its service at such time."</p>
     <p>21 U.S.C. § 879(a).</p>
     <p>Only the last seven words of the statute are really in controversy here. Petitioner contends that this language, not found in the predecessor statute, 18 U.S.C. § 1405 (1964 ed.), was intended to require some special showing of need for searches conducted at night, rather than during the day. His contention was adopted, at least in part, by Judge Robinson in the Court of Appeals. The Government, on the other hand, contends that it must show only probable cause to believe that the</p>
@@ -361,7 +361,7 @@
       <p>Approximately 60% of the search warrants issued in the District of Columbia relate to narcotics violations. Congress was aware of this, and, if it had intended to except federal narcotics search warrants from the protections against unnecessary night-time "police state" searches, one would expect an expression of such intent. I agree with Judge Gesell that no such intent is indicated.</p>
       <n id="p461">461</n>
       <p>Thus,</p>
-      <p>"[w]hatever be the standards generally for issuance of a night-time search warrant in federal narcotics cases in other parts of the country . . . , the existence of 21 U.S.C. § 879(a) does not remove such cases from the explicit requirements for search warrants in the District of Columbia under the newly enacted Title 23, D.C.Code."</p>
+      <p>"[w]hatever be the standards generally for issuance of a night-time search warrant in federal narcotics cases in other parts of the country . . ., the existence of 21 U.S.C. § 879(a) does not remove such cases from the explicit requirements for search warrants in the District of Columbia under the newly enacted Title 23, D.C.Code."</p>
       <p>328 F. Supp. 1005, 1007. I would reverse the Court of Appeals and sustain the District Court's suppression order.</p>
       <p>[Footnote 2/1]</p>
       <p>D.C.Code § 23-523(b) directs that all search warrants are to be executed only during daylight hours, absent express authorization pursuant to D.C.Code § 23-521(f). Section 23-521(f)(5) allows authorization for night-time execution where the "judicial officer has found cause therefor, including one of the grounds set forth in section 23-522(C)(1). . . ."</p>

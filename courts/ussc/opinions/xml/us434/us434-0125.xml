@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us434-0125.html" citation="434 U.S. 125" title="New York v. Cathedral Academy">
   <opinion type="Opinions &amp; Dissents">
     <n id="p125">125</n>
-    <h>U.S. Supreme Court</h>
-    <h>New York v. Cathedral Academy, <a href="./us434-0125.xml#p125">434 U.S. 125</a> (1977)</h>
-    <h>New York v. Cathedral Academy</h>
-    <h>No. 76-616</h>
-    <h>Argued October 3, 1977</h>
-    <h>Decided December 6, 1977</h>
-    <h><a href="./us434-0125.xml#p125">434 U.S. 125</a></h>
-    <h>APPEAL FROM THE COURT OF APPEALS OF NEW YORK</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>New York v. Cathedral Academy, <a href="./us434-0125.xml#p125">434 U.S. 125</a> (1977)</h1>
+    <h2>New York v. Cathedral Academy</h2>
+    <h2>No. 76-616</h2>
+    <h4>Argued October 3, 1977</h4>
+    <h4>Decided December 6, 1977</h4>
+    <h2>APPEAL FROM THE COURT OF APPEALS OF NEW YORK</h2>
+    <h2>Syllabus</h2>
     <p>A three-judge District Court issued a judgment (later affirmed by this Court) declaring unconstitutional a New York statute (1970 N.Y. Laws, ch. 138) that authorized reimbursement to nonpublic schools for state-mandated recordkeeping and testing services, and permanently enjoining any payments under the Act, including reimbursement for expenses that such schools had already incurred in the last half of the 1971-1972 school year. Thereafter, the New York State Legislature enacted 1972 N.Y. Laws, ch. 996, authorizing reimbursement to sectarian schools for their expenses of performing the state-required services through the 1971-1972 school year. Appellee sectarian school brought this reimbursement action under ch. 996 in the New York Court of Claims, which held that the statute violated the First and Fourteenth Amendments. The New York Court of Appeals, being of the view that ch. 996 comported with this Court's decision in Lemon v. Kurtzman, <a href="../us411/us411-0192.xml#p192">411 U. S. 192</a> (Lemon II), ultimately reversed, and remanded the case for a determination of the amount of appellee's claim. In that case, after a state statute authorizing payments to sectarian schools for specified secular services had been struck down (in Lemon v. Kurtzman, <a href="../us403/us403-0602.xml#p602">403 U. S. 602</a> (Lemon I)) and the trial court on remand had enjoined payments under the statute for any services performed after that decision, but had not prohibited payments for services provided before that date, the Court approved such disposition on the ground that equitable flexibility permitted weighing the "remote possibility of constitutional harm from allowing the State to keep its bargain" against the substantial reliance of the schools that had incurred expenses at the State's express invitation.</p>
     <p>Held:</p>
     <p>1. This Court has jurisdiction of this appeal as the Court of Appeals' decision was a final determination of the federal constitutional issue and is ripe for appellate review under 28 U.S.C. § 1257(2). P. <a href="./us434-0125.xml#p128">434 U. S. 128</a>.</p>
@@ -33,7 +33,7 @@
     <p>The appellee, Cathedral Academy, sued under ch. 996 in the Court of Claims, and the State defended on the ground that the Act was unconstitutional. [<a id="nf2" href="#fn2">Footnote 2</a>] The Court of Claims agreed that ch. 996 violated the First and Fourteenth Amendments, and dismissed Cathedral Academy's suit. 77 Misc.2d 977,</p>
     <n id="p128">128</n>
     <p>354 N.Y.S.2d 370. The Appellate Division affirmed, 47 App.Div.2d 390, 366 N.Y.S.2d 900, but the New York Court of Appeals, adopting a dissenting opinion in the Appellate Division, reversed and remanded the case to the Court of Claims for determination of the amount of the Academy's claim. [<a id="nf3" href="#fn3">Footnote 3</a>] 39 N.Y.2d 1021, 355 N.E.2d 300. An appeal was taken to this Court, and we postponed further consideration of the question of our appellate jurisdiction until the hearing on the merits. 429 U.S. 1089. We conclude that the Court of Appeals' decision finally determined the federal constitutional issue and is ripe for appellate review in this Court under 2 U.S.C. § 1257(2). [<a id="nf4" href="#fn4">Footnote 4</a>]</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The state courts and the parties have all considered this case to be controlled by the principles established in Lemon v. Kurtzman, <a href="../us411/us411-0192.xml#p192">411 U. S. 192</a> (Lemon II), which concerned the permissible scope of a Federal District Court's injunction forbidding payments to sectarian schools under an unconstitutional state statute. Previously in that same litigation, we had</p>
     <n id="p129">129</n>
     <p>declared unconstitutional a Pennsylvania statute authorizing payments to sectarian schools for specific secular services provided under contract with the State, and remanded the case to the trial court for entry of an appropriate decree. Lemon v. Kurtzman, <a href="../us403/us403-0602.xml#p602">403 U. S. 602</a> (Lemon I). On remand, the District Court enjoined payments under the statute for any services performed after the date of this Court's decision, but did not prohibit payments for services provided before that date. <a href="https://law.justia.com/cases/federal/district-courts/FSupp/348/300/2010361/">348 F. Supp. 300</a>, 301 n. 1 (ED Pa.). In Lemon II, this Court affirmed the trial court's denial of retroactive injunctive relief against the State, noting that,</p>
@@ -45,7 +45,7 @@
     <p>would do little if anything to advance constitutional interests, while working considerable hardship on the schools. Cf. Hecht Co. v. Bowles, <a href="../us321/us321-0321.xml#p321">321 U. S. 321</a>.</p>
     <p>In the present case, however, the District Court did not limit its decree as the court had done in Lemon II, but instead expressly enjoined payments for amounts "heretofore or hereafter expended." See <a id="nf1" href="#fn1">n</a> 1, supra, (emphasis supplied). The state legislature thus took action inconsistent with the court's order when it passed ch. 996 upon its own determination that, because schools like the Academy had relied to their detriment on the State's promise of payment under ch. 138, the equities of the case demanded retroactive reimbursement. To approve the enactment of ch. 996 would thus expand the reasoning of Lemon II to hold that a state legislature may effectively modify a federal court's injunction whenever a balancing of constitutional equities might conceivably have justified the court's granting similar relief in the first place. But cf. Wright v. Council of City of Emporia, <a href="../us407/us407-0451.xml#p451">407 U. S. 451</a>, <a href="../us407/us407-0451.xml#p467">407 U. S. 467</a>. This rule would mean that every such unconstitutional statute, like every dog, gets one bite, if anyone has relied on the statute to his detriment. Nothing in Lemon II, whose concern was to "examine the District Court's evaluation of the proper means of implementing an equitable decree," 411 U.S. at <a href="../us411/us411-0192.xml#p200">411 U. S. 200</a>, suggests such a broad general principle.</p>
     <p>But whether ch. 996 is viewed as an attempt at legislative equity or simply as a law authorizing payments from public funds to sectarian schools, the dispositive question is whether the payments it authorizes offend the First and Fourteenth Amendments.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The law at issue here, ch. 996, authorizes reimbursement for expenses incurred by the schools during the specified time period</p>
     <p>"in rendering services for examination and inspection in connection with administration, grading and the compiling</p>
     <n id="p131">131</n>
@@ -62,7 +62,7 @@
     <p>any religious content in various classroom materials. In order to fulfill its duty to resist any possibly unconstitutional payment, see <a id="nf2" href="#fn2">n</a> 2, supra, the State as defendant would have to undertake a search for religious meaning in every classroom examination offered in support of a claim. And to decide the case, the Court of Claims would be cast in the role of arbiter of the essentially religious dispute.</p>
     <p>The prospect of church and state litigating in court about what does or does not have religious meaning touches the very core of the constitutional guarantee against religious establishment, and it cannot be dismissed by saying it will happen only once. Cf. Presbyterian Church v. Blue Hull Mem. Presb. Church, <a href="../us393/us393-0440.xml#p440">393 U. S. 440</a>. When it is considered that ch. 996 contemplates claims by approximately 2,000 schools in amounts totaling over $11 million, the constitutional violation is clear. [<a id="nf6" href="#fn6">Footnote 6</a>]</p>
     <p>For the reasons stated, we hold that ch. 996 is unconstitutional because it will of necessity either have the primary effect of aiding religion, see Levitt v. Committee for Public Education, supra, or will result in excessive state involvement in religious affairs. See Lemon I, <a href="../us403/us403-0602.xml#p602">403 U. S. 602</a>.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>But even assuming, as the New York Court of Appeals did, that, under Lemon II, a degree of constitutional infirmity may be tolerated in a state law if other equitable considerations predominate, we cannot agree that the equities support what the state legislature has done in ch. 996.</p>
     <p>In Lemon II, the constitutional vice of excessive entanglement was an accomplished fact that could not be undone by enjoining payments for expenses previously incurred. And</p>
     <n id="p134">134</n>

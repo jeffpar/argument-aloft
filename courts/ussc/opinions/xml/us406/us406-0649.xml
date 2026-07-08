@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us406-0649.html" citation="406 U.S. 649" title="United States v. Midwest Video Corp.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p649">649</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Midwest Video Corp., <a href="./us406-0649.xml#p649">406 U.S. 649</a> (1972)</h>
-    <h>United States v. Midwest Video Corp.</h>
-    <h>No. 71-506</h>
-    <h>Argued April 19, 1972</h>
-    <h>Decided June 7, 1972</h>
-    <h><a href="./us406-0649.xml#p649">406 U.S. 649</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE EIGHTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Midwest Video Corp., <a href="./us406-0649.xml#p649">406 U.S. 649</a> (1972)</h1>
+    <h2>United States v. Midwest Video Corp.</h2>
+    <h2>No. 71-506</h2>
+    <h4>Argued April 19, 1972</h4>
+    <h4>Decided June 7, 1972</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE EIGHTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>The Federal Communications Commission (FCC) promulgated a rule that</p>
     <p>"no CATV system having 3,500 or more subscribers shall carry the signal of any television broadcast station unless the system also operates to a significant extent as a local outlet by cablecasting [i.e., originating programs] and has available facilities for local production and presentation of programs other than automated services."</p>
     <p>Upon challenge of respondent, an operator of CATV systems subject to the new requirement, the Court of Appeals set aside the regulation on the ground that the FCC had no authority to issue it.</p>
@@ -58,7 +58,7 @@
     <p>The Commission further stated, id. at 208-209:</p>
     <p>"The use of broadcast signals has enabled CATV to finance the construction of high capacity cable facilities. In requiring, in return for these uses of radio, that CATV devote a portion of the facilities to providing needed origination service, we are furthering our statutory responsibility to 'encourage the larger and more effective use of radio in the public interest' (sec. 303(g)). [<a id="nf11" href="#fn11">Footnote 11</a>] The requirement will also facilitate the more effective performance of the Commission's duty to provide a fair, efficient, and equitable distribution of television service to each of the several States and communities (sec. 307(b)) [<a id="nf12" href="#fn12">Footnote 12</a>] in areas where we have been unable to accomplish this through broadcast media. [<a id="nf13" href="#fn13">Footnote 13</a>] "</p>
     <n id="p657">657</n>
-    <p>Upon the challenge of respondent Midwest Video Corp., an operator of CATV systems subject to the new cablecasting requirement, the United States Court of Appeals for the Eighth Circuit set aside the regulation on the ground that the Commission "is without authority to impose" it. 441 F.2d 1322, 1328 (1971). [<a id="nf14" href="#fn14">Footnote 14</a>] "The Commission's power [over CATV] . . . ," the court explained,</p>
+    <p>Upon the challenge of respondent Midwest Video Corp., an operator of CATV systems subject to the new cablecasting requirement, the United States Court of Appeals for the Eighth Circuit set aside the regulation on the ground that the Commission "is without authority to impose" it. 441 F.2d 1322, 1328 (1971). [<a id="nf14" href="#fn14">Footnote 14</a>] "The Commission's power [over CATV] . . .," the court explained,</p>
     <p>"must be based on the Commission's right to adopt rules that are reasonably ancillary to its responsibilities</p>
     <n id="p658">658</n>
     <p>in the broadcasting field,"</p>
@@ -66,7 +66,7 @@
     <p>"that, upon the basis of the record made, it is highly speculative whether there is sufficient expertise or information available to support a finding that the origination rule will further the public interest."</p>
     <p>Id. at 1328. "Entering into the program origination field involves very substantial expenditures," id. at 1327, and "[a] high probability exists that cablecasting will not be self-supporting," that there will be a "substantial increase" in CATV subscription fees, and that, "in some instances," CATV operators will be driven out of business. Ibid. [<a id="nf16" href="#fn16">Footnote 16</a>] We granted certiorari. 404 U.S. 1014 (1972). We reverse.</p>
     <n id="p659">659</n>
-    <h>I</h>
+    <h2>I</h2>
     <p>In 1966, the Commission promulgated regulations that, in general, required CATV systems (1) to carry, upon request and in a specified order of priority within the limits of their channel capacity, the signals of broadcast stations into whose service area they brought competing signals; (2) to avoid, upon request, the duplication on the same day of local station programing; and (3) to refrain from bringing new distant signals into the 100 largest television markets except upon a prior showing that that service would be consistent with the public interest. See Second Report and Order, 2 F.C.C.2d 725 (1966). In assessing the Commission's jurisdiction over CATV against the backdrop of these regulations, [<a id="nf17" href="#fn17">Footnote 17</a>] we focused in Southwestern chiefly on § 2(a) of the Communications Act, 48 Stat. 1064, as amended, 47 U.S.C. § 152(a), which provides, in pertinent part:</p>
     <p>"The provisions of this [Act] shall apply to all interstate and foreign communication by wire or radio . . . which originates and/or is received within the United States, and to all persons engaged within the United States in such communication. . . ."</p>
     <p>In view of the Act's definitions of "communication by wire" and "communication by radio," [<a id="nf18" href="#fn18">Footnote 18</a>] the interstate character of CATV services, [<a id="nf19" href="#fn19">Footnote 19</a>]</p>
@@ -126,7 +126,7 @@
     <p>Respondent nevertheless maintains that, just as the Commission is powerless to require the provision of television broadcast services where there are no applicants for station licenses no matter how important or desirable those services may be, so too it cannot require CATV operators unwillingly to engage in cablecasting. In our view, the analogy respondent thus draws between entry into broadcasting and entry into cablecasting is misconceived. The Commission is not attempting to compel wire service where there has been no commitment to undertake it. CATV operators to whom the cablecasting rule applies have voluntarily engaged themselves in providing that service, and the Commission seeks only to ensure that it satisfactorily meets community needs within the context of their undertaking.</p>
     <p>For these reasons, we conclude that the program origination rule is within the Commission's authority recognized in Southwestern.</p>
     <n id="p671">671</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>The question remains whether the regulation is supported by substantial evidence that it will promote the public interest. We read the opinion of the Court of Appeals as holding that substantial evidence to that effect is lacking because the regulation creates the risk that the added burden of cablecasting will result in increased subscription rates and even the termination of CATV services. That holding is patently incorrect in light of the record.</p>
     <p>In first proposing the cablecasting requirement, the Commission noted that "[t]here may . . . be practical limitations [for compliance] stemming from the size of some CATV systems," and accordingly sought comments</p>
     <p>"as to a reasonable cut-off point [for application of the regulation] in light of the cost of the equipment and personnel minimally necessary for local originations."</p>
@@ -136,7 +136,7 @@
     <p>will prescribe a very liberal standard for required origination, with a view toward lowering this floor in . . . further proceedings, should the data obtained in such proceedings establish the appropriateness and desirability of such action."</p>
     <p>Id. at 213.</p>
     <p>On this basis, the Commission chose to apply the regulation to systems with 3,500 or more subscribers, effective January 1, 1971.</p>
-    <p>"This standard [the Commission explained] appears more than reasonable in light of the [data filed], our decision to permit advertising at natural breaks . . . , and the 1-year grace period. Moreover, it appears that approximately 70 percent of the systems now originating have fewer than 3,500 subscribers; indeed, about half of the systems now originating have fewer than 2,000 subscribers. . . . [T]he 3,500 standard will encompass only a very small percentage of existing systems at present subscriber levels, less than 10 percent."</p>
+    <p>"This standard [the Commission explained] appears more than reasonable in light of the [data filed], our decision to permit advertising at natural breaks . . ., and the 1-year grace period. Moreover, it appears that approximately 70 percent of the systems now originating have fewer than 3,500 subscribers; indeed, about half of the systems now originating have fewer than 2,000 subscribers. . . . [T]he 3,500 standard will encompass only a very small percentage of existing systems at present subscriber levels, less than 10 percent."</p>
     <p>Ibid. On petitions for reconsideration, the Commission observed that it had</p>
     <p>"been given no data tending to demonstrate that systems with 3,500 subscribers cannot cablecast without impairing their financial stability, raising rates or reducing the quality of service."</p>
     <p>Memorandum Opinion and Order 826. The Commission repeated that "[t]he rule adopted is minimal in the light of the potentials of cablecasting," [<a id="nf30" href="#fn30">Footnote 30</a>] but, nonetheless, on its own motion, postponed the effective date of the regulation to April 1, 1971, "to afford additional preparation time." Id. at 827.</p>
@@ -190,7 +190,7 @@
     <f n="10"><a id="fn10" href="#nf10">Footnote 10</a>
       <p>In so concluding, the Commission rejected the contention that a prohibition on CATV originations was</p>
       <p>"necessary to prevent potential fractionalization of the audience for broadcast services and a siphoning off of program material and advertising revenue now available to the broadcast service."</p>
-      <p>First Report and Order 202. "[B]roadcasters and CATV originators . . . ," the Commission reasoned, "stand on the same footing in acquiring the program material with which they compete." Id. at 203. Moreover,</p>
+      <p>First Report and Order 202. "[B]roadcasters and CATV originators . . .," the Commission reasoned, "stand on the same footing in acquiring the program material with which they compete." Id. at 203. Moreover,</p>
       <p>"a loss of audience or advertising revenue to a television station is not, in itself, a matter of moment to the public interest unless the result is a net loss of television service,"</p>
       <p>ibid. -- an impact that the Commission found had no support in the record, and that, in any event, it would undertake to prevent should the need arise. See id. at 203-204. See also Memorandum Opinion and Order 826 n. 3, 828-829.</p>
     </f>
@@ -253,7 +253,7 @@
     </f>
     <f n="24"><a id="fn24" href="#nf24">Footnote 24</a>
       <p>The Commission elaborated:</p>
-      <p>"CATV . . . has made a significant contribution to meeting the public demand for television service in areas too small in population to support a local station or too remote in distance or isolated by terrain to receive regular or good off-the-air reception. It has also contributed to meeting the public's demand for good reception of multiple program choices, particularly the three full network services. In thus contributing to the realization of some of the most important goals which have governed our allocations planning, CATV has clearly served the public interest 'in the larger and more effective use of radio.' And, even in the major market, where there may be no dearth of service . . . , CATV may . . . increase viewing opportunities, either by bringing in programing not otherwise available or, what is more likely, bringing in programing locally available but at times different from those presented by the local stations."</p>
+      <p>"CATV . . . has made a significant contribution to meeting the public demand for television service in areas too small in population to support a local station or too remote in distance or isolated by terrain to receive regular or good off-the-air reception. It has also contributed to meeting the public's demand for good reception of multiple program choices, particularly the three full network services. In thus contributing to the realization of some of the most important goals which have governed our allocations planning, CATV has clearly served the public interest 'in the larger and more effective use of radio.' And, even in the major market, where there may be no dearth of service . . ., CATV may . . . increase viewing opportunities, either by bringing in programing not otherwise available or, what is more likely, bringing in programing locally available but at times different from those presented by the local stations."</p>
       <p>Second Report and Order, 2 F.C.C.2d 725, 781 (1966). See also id. at 745.</p>
     </f>
     <f n="25"><a id="fn25" href="#nf25">Footnote 25</a>

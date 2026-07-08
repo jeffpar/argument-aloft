@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us435-0829.html" citation="435 U.S. 829" title="Landmark Communications, Inc. v. Virginia">
   <opinion type="Opinions &amp; Dissents">
     <n id="p829">829</n>
-    <h>U.S. Supreme Court</h>
-    <h>Landmark Communications, Inc. v. Virginia, <a href="./us435-0829.xml#p829">435 U.S. 829</a> (1978)</h>
-    <h>Landmark Communications, Inc. v. Virginia</h>
-    <h>No. 76-1450</h>
-    <h>Argued January 11, 1978</h>
-    <h>Decided May 1, 1978</h>
-    <h><a href="./us435-0829.xml#p829">435 U.S. 829</a></h>
-    <h>APPEAL FROM THE SUPREME COURT OF VIRGINIA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Landmark Communications, Inc. v. Virginia, <a href="./us435-0829.xml#p829">435 U.S. 829</a> (1978)</h1>
+    <h2>Landmark Communications, Inc. v. Virginia</h2>
+    <h2>No. 76-1450</h2>
+    <h4>Argued January 11, 1978</h4>
+    <h4>Decided May 1, 1978</h4>
+    <h2>APPEAL FROM THE SUPREME COURT OF VIRGINIA</h2>
+    <h2>Syllabus</h2>
     <p>A Virginia statute makes it a crime to divulge information regarding proceedings before a state judicial review commission that is authorized to hear complaints about judges' disability or misconduct. For printing in its newspaper an article accurately reporting on a pending inquiry by the commission and identifying the judge whose conduct was being investigated, appellant publisher was convicted of violating the statute. Rejecting appellant's contention that the statute violated the First Amendment as made applicable to the States by the Fourteenth, the Virginia Supreme Court affirmed.</p>
     <p>Held: The First Amendment does not permit the criminal punishment of third persons who are strangers to proceedings before such a commission for divulging or publishing truthful information regarding confidential proceedings of the commission. Pp. <a href="./us435-0829.xml#p837">435 U. S. 837</a>-845.</p>
     <p>(a) A major purpose of the First Amendment is to protect the free discussion of governmental affairs, which includes discussion of the operations of the courts and judicial conduct, and the article published by appellant's newspaper served the interests of public scrutiny of such matters. Pp. <a href="./us435-0829.xml#p838">435 U. S. 838</a>-839.</p>
@@ -23,7 +23,7 @@
     <p>MR. CHIEF JUSTICE BURGER delivered the opinion of the Court.</p>
     <p>The question presented on this appeal is whether the Commonwealth of Virginia may subject persons, including newspapers, to criminal sanctions for divulging information regarding proceedings before a state judicial review commission which is authorized to hear complaints as to judges' disability or misconduct, when such proceedings are declared confidential by the State Constitution and statutes. [<a id="nf1" href="#fn1">Footnote 1</a>]</p>
     <n id="p831">831</n>
-    <h>I</h>
+    <h2>I</h2>
     <p>On October 4, 1975, the Virginian Pilot, a Landmark newspaper, published an article which accurately reported on a pending inquiry by the Virginia Judicial Inquiry and Review Commission and identified the state judge whose conduct was being investigated. The article reported that</p>
     <p>"[n]o formal complaint has been filed by the commission against [the judge], indicating either that the five-man panel found insufficient cause for action or that the case is still under review."</p>
     <p>App. 47a. A month later, on November 5, a grand jury indicted Landmark for violating Va.Code § 2.1-37.13 (1973) by "unlawfully divulg[ing] the identification of a Judge of a Court not of record, which said Judge was the subject of an investigation and hearing" by the Commission.</p>
@@ -40,7 +40,7 @@
     <p>Id. at 712, 233 S.E.2d at 129. In dissent, Justice Poff took the position that, as applied to</p>
     <n id="p834">834</n>
     <p>Landmark, the statute violated the First Amendment. We noted probable jurisdiction, 431 U.S. 964, and we now reverse. [<a id="nf3" href="#fn3">Footnote 3</a>]</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>At the present time it appears that 47 States, the District of Columbia, and Puerto Rico have established, by constitution, statute, or court rule, some type of judicial inquiry and disciplinary procedures. [<a id="nf4" href="#fn4">Footnote 4</a>] All of these jurisdictions, with the apparent exception of Puerto Rico, provide for the confidentiality of judicial disciplinary proceedings, although, in most, the guarantee of confidentiality extends only to the point when a formal complaint is filed with the State Supreme Court or equivalent body. [<a id="nf5" href="#fn5">Footnote 5</a>] Cf. ABA Project on Standards for Criminal Justice, Function of the Trial Judge § 9.1 (App. Draft 1972).</p>
     <n id="p835">835</n>
     <p>The substantial uniformity of the existing state plans suggests that confidentiality is perceived as tending to insure the ultimate effectiveness of the judicial review commissions. First, confidentiality is thought to encourage the filing of complaints and the willing participation of relevant witnesses by providing protection against possible retaliation or recrimination. [<a id="nf6" href="#fn6">Footnote 6</a>] Second, at least until the time when the meritorious can be separated from the frivolous complaints, the confidentiality of the proceedings protects judges from the injury which might result from publication of unexamined and unwarranted complaints. And finally, it is argued, confidence in the judiciary as an institution is maintained by avoiding premature announcement of groundless claims of judicial misconduct or disability, since it can be assumed that some frivolous complaints will be made against judicial officers, who rarely can satisfy all contending litigants. See generally W. Braithwaite, Who Judges the Judges? 161-162 (1971); Buckley, The Commission on Judicial Qualifications: An Attempt to Deal with Judicial Misconduct, 3 U.San Fran.L.Rev. 24, 255-256 (1969).</p>
@@ -50,7 +50,7 @@
     <p>Acceptance of the collective judgment that confidentiality promotes the effectiveness of this mode of scrutinizing judicial conduct and integrity, however, marks only the beginning of the inquiry. Indeed, Landmark does not challenge the requirement of confidentiality, but instead focuses its attack on the determination of the Virginia Legislature, as construed by the Supreme Court, that the "divulging" or "publishing" of information concerning the work of the Commission by third parties, not themselves involved in the proceedings, should be criminally punishable. Unlike the generalized mandate of confidentiality, the imposition of criminal sanctions for its breach is not a common characteristic of the state plans;</p>
     <n id="p837">837</n>
     <p>indeed, only Virginia and Hawaii appear to provide criminal sanctions for disclosure. [<a id="nf8" href="#fn8">Footnote 8</a>]</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The narrow and limited question presented, then, is whether the First Amendment permits the criminal punishment of third persons who are strangers to the inquiry, including the news media, for divulging or publishing truthful information regarding confidential proceedings of the Judicial Inquiry and Review Commission. [<a id="nf9" href="#fn9">Footnote 9</a>] We are not here concerned with the possible applicability of the statute to one who secures the information by illegal means and thereafter divulges it. We do not have before us any constitutional challenge to a State's power to keep the Commission's proceedings confidential or to punish participants for breach of this mandate. [<a id="nf10" href="#fn10">Footnote 10</a>] Cf. Nebraska Press Assn. v. Stuart, <a href="../us427/us427-0539.xml#p539">427 U. S. 539</a>, <a href="../us427/us427-0539.xml#p564">427 U. S. 564</a> (1976); id. at <a href="../us427/us427-0539.xml#p601">427 U. S. 601</a> n. 27 (BRENNAN, J., concurring in judgment); Wood v. Georgia, <a href="../us370/us370-0375.xml#p375">370 U. S. 375</a>, <a href="../us370/us370-0375.xml#p393">370 U. S. 393</a>-394 (1962). Nor does Landmark argue for any constitutionally compelled right of access for the press to those proceedings. Cf. <a href="../us417/us417-0843.xml#p843">417 U. S.</a> Washington Post Co., 417</p>
     <n id="p838">838</n>
     <p>U.S. 843 (1974); Pell v. Procunier, <a href="../us417/us417-0817.xml#p817">417 U. S. 817</a> (1974). Finally as the Supreme Court of Virginia held, and appellant does not dispute, the challenged statute does not constitute a prior restraint or attempt by the State to censor the news media.</p>
@@ -80,7 +80,7 @@
     <p>"to protect the court as a mystical entity or the judges as individuals or as anointed priests set apart from the community and spared the criticism to which, in a democracy, other public servants are exposed."</p>
     <p>Id. at <a href="../us314/us314-0252.xml#p291">314 U. S. 291</a>-292.</p>
     <p>The Commonwealth has provided no sufficient reason for disregarding these well established principles. We find them controlling and, on this record, dispositive.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>The Supreme Court of Virginia relied on the "clear and present danger" test in rejecting Landmark's claim. We question the relevance of that standard here; moreover we cannot accept the mechanical application of the test which led that court to its conclusion. Mr. Justice Holmes' test was never intended "to express a technical legal doctrine or to convey a formula for adjudicating cases." Pennekamp v. Florida, <a href="../us328/us328-0331.xml#p331">328 U. S. 331</a>, <a href="../us328/us328-0331.xml#p353">328 U. S. 353</a> (1946) (Frankfurter, J., concurring). Properly</p>
     <n id="p843">843</n>
     <p>applied, the test requires a court to make its own inquiry into the imminence and magnitude of the danger said to flow from the particular utterance, and then to balance the character of the evil, as well as its likelihood, against the need for free and unfettered expression. The possibility that other measures will serve the State's interests should also be weighed.</p>

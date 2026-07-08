@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us585-17-586.html" citation="585 U.S. 17-586" title="Abbott v. Perez">
   <opinion type="Opinion" author="Alito">
     <p>NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 17–586 and 17–626</p>
-    <p>_________________</p>
     <p>GREG ABBOTT, GOVERNOR OF TEXAS, ET AL., APPELLANTS</p>
     <p>17–586v.</p>
     <p>SHANNON PEREZ, ET AL.</p>
@@ -37,7 +36,7 @@
     <p>Both the congressional plan and the plan for the Texas House departed significantly from the State’s 2011 plans. At least 8 of the 36 congressional districts were markedly altered, and 21 districts in the plan for the Texas House were “substantially” changed. H. J. S. 314a; C. J. S. 397a–408a.</p>
     <p>In August 2012, the D. C. court denied preclearance of the plans adopted by the Legislature in 2011, see Texas v. United States, supra, so the State conducted the 2012 elections under the interim plans devised by the Texas court. At the same time, Texas filed an appeal in this Court contesting the decision of the D. C. court,[<a id="nf1-7" href="#fn1-7">7</a>] but that appeal ultimately died for two reasons.</p>
     <p>First, the 2011 plans were repealed. The Texas attorney general urged the Legislature to pass new redistricting plans, C. J. S. 429a, and in his view, the “best way to remedy the violations found by the D. C. court” was to “adopt the [Texas court’s] interim plans as the State’s permanent redistricting maps.” Id., at 432a. Doing so, he said, would “confirm the legislature’s intent” to adopt “a redistricting plan that fully comports with the law.” Id., at 429a.</p>
-    <p>The Governor called a special session to do just that, and the Legislature complied. One of the legislative sponsors, Senator Seliger, explained that, although “ ‘the Texas Legislature remains confident that the legislatively-drawn maps adopted in 2011 are fair and legal . . . , there remain several outstanding legal questions regarding these maps that undermine the stability and predictability of the electoral process in Texas.’ ” 274 F. Supp. 3d 624, 649, n. 40 (2017). Counsel for one of the plaintiff groups, the Mexican American Legal Defense and Education Fund (MALDEF), testified in favor of the plans. C. J. S. 436a–439a. The 2013 Legislature then repealed the 2011 plans and enacted the Texas court’s interim plans with just a few minor changes. The federal congressional plan was not altered at all, and only small modifications were made to the plan for the Texas House. C. J. S. Findings 231a–232a.</p>
+    <p>The Governor called a special session to do just that, and the Legislature complied. One of the legislative sponsors, Senator Seliger, explained that, although “ ‘the Texas Legislature remains confident that the legislatively-drawn maps adopted in 2011 are fair and legal . . ., there remain several outstanding legal questions regarding these maps that undermine the stability and predictability of the electoral process in Texas.’ ” 274 F. Supp. 3d 624, 649, n. 40 (2017). Counsel for one of the plaintiff groups, the Mexican American Legal Defense and Education Fund (MALDEF), testified in favor of the plans. C. J. S. 436a–439a. The 2013 Legislature then repealed the 2011 plans and enacted the Texas court’s interim plans with just a few minor changes. The federal congressional plan was not altered at all, and only small modifications were made to the plan for the Texas House. C. J. S. Findings 231a–232a.</p>
     <p>On the day after the Legislature passed the new plans and the day before the Governor signed them, this Court issued its decision in Shelby County v. Holder, 570 U. S. 529 (2013), which invalidated the coverage formula in §4 of the Voting Rights Act. Now no longer subject to §5, Texas obtained a vacatur of the D. C. court’s order on preclearance. 274 F. Supp. 3d, at 634–635, and n. 11.</p>
     <p>With the never-effective 2011 plans now repealed and any preclearance issues overcome by events, the State argued in the Texas court that the plaintiffs’ case against the 2011 plans was moot. In September 2013, the Texas court allowed the plaintiffs to amend their complaints to challenge the 2013 plans, but the court held that their challenges to the 2011 plans were still alive, reasoning that the repeal of the 2011 plans represented the “voluntary cessation” of allegedly unconstitutional conduct.[<a id="nf1-8" href="#fn1-8">8</a>]</p>
     <p>Texas conducted its 2014 and 2016 elections under the plans that had been preliminarily approved by the Texas court and subsequently adopted (with only minor changes) by the Legislature in 2013. But in March and April 2017, after multiple trials, the Texas court issued a pair of rulings on the defunct 2011 plans. The court reaffirmed the conclusions it had reached in 2012 about defects in the 2011 plans, and it went further. Contrary to its earlier decision, it held that Congressional District (CD) 35 is an impermissible racial gerrymander and that CD27 violates §2 of the Voting Rights Act because it has the effect of diluting the electoral opportunities of Latino voters. C. J. S. 181a, 193a–194a. Previously, the court had provided detailed reasons for rejecting the very arguments that it now accepted. Id., at 409a–423a. Similarly, the court held that multiple districts in the plan for the Texas House were the result of intentional vote dilution. These included districts in the counties of Nueces (House District (HD) 32, HD34), Bell (HD54, HD55), and Dallas (HD103, HD104, HD105). H. J. S. 275a–276a.[<a id="nf1-9" href="#fn1-9">9</a>]</p>
@@ -165,9 +164,7 @@
   </opinion>
   <opinion type="Concurrence" author="Thomas">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 17–586 and 17–626</p>
-    <p>_________________</p>
     <p>GREG ABBOTT, GOVERNOR OF TEXAS, ET AL., APPELLANTS</p>
     <p>17–586v.</p>
     <p>SHANNON PEREZ, ET AL.</p>
@@ -181,9 +178,7 @@
   </opinion>
   <opinion type="Dissent" author="Sotomayor">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 17–586 and 17–626</p>
-    <p>_________________</p>
     <p>GREG ABBOTT, GOVERNOR OF TEXAS, ET AL., APPELLANTS</p>
     <p>17–586v.</p>
     <p>SHANNON PEREZ, ET AL.</p>

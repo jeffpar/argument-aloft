@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us470-0213.html" citation="470 U.S. 213" title="Dean Witter Reynolds, Inc. v. Byrd">
   <opinion type="Opinions &amp; Dissents">
     <n id="p213">213</n>
-    <h>U.S. Supreme Court</h>
-    <h>Dean Witter Reynolds, Inc. v. Byrd, <a href="./us470-0213.xml#p213">470 U.S. 213</a> (1985)</h>
-    <h>Dean Witter Reynolds, Inc. v. Byrd</h>
-    <h>No. 83-1708</h>
-    <h>Argued December 4, 1984</h>
-    <h>Decided March 4, 1985</h>
-    <h><a href="./us470-0213.xml#p213">470 U.S. 213</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Dean Witter Reynolds, Inc. v. Byrd, <a href="./us470-0213.xml#p213">470 U.S. 213</a> (1985)</h1>
+    <h2>Dean Witter Reynolds, Inc. v. Byrd</h2>
+    <h4>No. 83-1708</h4>
+    <h4>Argued December 4, 1984</h4>
+    <h4>Decided March 4, 1985</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>In 1981, respondent invested $160,000 in securities through petitioner broker-dealer. The parties had a written agreement to arbitrate any disputes that might arise out of the account. Thereafter, the value of the account declined by more than $100,000. Respondent then filed an action against petitioner in Federal District Court, alleging violations of the Securities Exchange Act of 1934 and of various state law provisions. Petitioner filed a motion to compel arbitration of the pendent state claims under the parties' agreement and to stay arbitration pending resolution of the federal action. Petitioner argued that the Federal Arbitration Act -- which provides that arbitration agreements</p>
     <p>"shall be valid, irrevocable, and enforceable, save upon such grounds as exist at law or in equity for revocation of any contract"</p>
     <p>-- required the District Court to compel arbitration of the state claims. The District Court denied the motion, and the Court of Appeals affirmed.</p>
@@ -23,7 +23,7 @@
     <n id="p214">214</n>
     <p>JUSTICE MARSHALL delivered the opinion of the Court.</p>
     <p>The question presented is whether, when a complaint raises both federal securities claims and pendent state claims, a Federal District Court may deny a motion to compel arbitration of the state law claims despite the parties' agreement to arbitrate their disputes. We granted certiorari to resolve a conflict among the Federal Courts of Appeals on this question. 467 U.S. 1240 (1984).</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In 1981, A. Lamar Byrd sold his dental practice and invested $160,000 in securities through Dean Witter Reynolds Inc., a securities broker-dealer. The value of the account declined by more than $100,000 between September, 1981, and March, 1982. Byrd filed a complaint against Dean Witter in the United States District Court for the Southern District of California, alleging a violation of §§ 10(b), 15(c), and 20 of the Securities Exchange Act of 1934, 15 U.S.C. §§ 78j(b), 78o(c), and 78t, and of various state law provisions. Federal jurisdiction over the state law claims was based on diversity of citizenship and the principle of pendent jurisdiction. In the complaint, Byrd alleged that an agent of Dean Witter had traded in his account without his prior consent, that the number of transactions executed on behalf of the account was excessive, that misrepresentations were made by an agent of Dean Witter as to the status of the account, and that the agent acted with Dean Witter's knowledge, participation, and ratification.</p>
     <n id="p215">215</n>
     <p>When Byrd invested his funds with Dean Witter in 1981, he signed a Customer's Agreement providing that</p>
@@ -33,14 +33,14 @@
     <p>§ 2, required that the District Court compel arbitration of the state law claims. The Act authorizes parties to an arbitration agreement to petition a federal district court for an order compelling arbitration of any issue referable to arbitration under the agreement. §§ 3, 4. Because Dean Witter assumed that the federal securities claim was not subject to the arbitration provision of the contract and could be resolved only in the federal forum, it did not seek to compel arbitration of that claim. [<a id="nf1" href="#fn1">Footnote 1</a>] The District Court denied in its</p>
     <n id="p216">216</n>
     <p>entirety the motion to sever and compel arbitration of the pendent state claims, and on an interlocutory appeal the Court of Appeals for the Ninth Circuit affirmed. 726 F.2d 552 (1984).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Confronted with the issue we address [<a id="nf2" href="#fn2">Footnote 2</a>] -- whether to compel arbitration of pendent state law claims when the federal court will, in any event, assert jurisdiction over a federal law claim -- the Federal Courts of Appeals have adopted two different approaches. Along with the Ninth Circuit in this case, the Fifth and Eleventh Circuits have relied on the "doctrine of intertwining." When arbitrable and nonarbitrable claims arise out of the same transaction, and are sufficiently intertwined factually and legally, the district court, under this view, may in its discretion deny arbitration as to the arbitrable claims and try all the claims together in federal</p>
     <n id="p217">217</n>
     <p>court. [<a id="nf3" href="#fn3">Footnote 3</a>] These courts acknowledge the strong federal policy in favor of enforcing arbitration agreements, but offer two reasons why the district courts nevertheless should decline to compel arbitration in this situation. First, they assert that such a result is necessary to preserve what they consider to be the court's exclusive jurisdiction over the federal securities claim; otherwise, they suggest, arbitration of an "intertwined" state claim might precede the federal proceeding and the factfinding done by the arbitrator might thereby bind the federal court through collateral estoppel. The second reason they cite is efficiency; by declining to compel arbitration, the court avoids bifurcated proceedings and perhaps redundant efforts to litigate the same factual questions twice.</p>
     <p>In contrast, the Sixth, Seventh, and Eighth Circuits have held that the Arbitration Act divests the district courts of any discretion regarding arbitration in cases containing both arbitrable and nonarbitrable claims, and instead requires that the courts compel arbitration of arbitrable claims, when asked to do so. These courts conclude that the Act, both through its plain meaning and the strong federal policy it reflects, requires courts to enforce the bargain of the parties to arbitrate, and "not substitute [its] own views of economy and efficiency" for those of Congress. Dickinson v. Heinold Securities, Inc., 661 F.2d 638, 646 (CA7 1981). [<a id="nf4" href="#fn4">Footnote 4</a>]</p>
     <p>We agree with these latter courts that the Arbitration Act requires district courts to compel arbitration of pendent arbitrable claims when one of the parties files a motion to compel, even where the result would be the possibly inefficient maintenance of separate proceedings in different forums. Accordingly, we reverse the decision not to compel arbitration.</p>
     <n id="p218">218</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>The Arbitration Act provides that written agreements to arbitrate controversies arising out of an existing contract</p>
     <p>"shall be valid, irrevocable, and enforceable, save upon such grounds as exist at law or in equity for the revocation of any contract."</p>
     <p>9 U.S.C. § 2. By its terms, the Act leaves no place for the exercise of discretion by a district court, but instead mandates that district courts shall direct the parties to proceed to arbitration on issues as to which an arbitration agreement has been signed. §§ 3, 4. Thus, insofar as the language of the Act guides our disposition of this case, we would conclude that agreements to arbitrate must be enforced, absent a ground for revocation of the contractual agreement.</p>
@@ -58,7 +58,7 @@
     <p>"occurs because the relevant federal law requires piecemeal resolution when necessary to give effect to an arbitration agreement,"</p>
     <p>id. at <a href="../us460/us460-0001.xml#p20">460 U. S. 20</a>. See also id. at <a href="../us460/us460-0001.xml#p24">460 U. S. 24</a>-25 ("The Arbitration Act establishes that, as a matter of federal law, any doubts concerning the scope of arbitrable issues should be resolved in favor of arbitration").</p>
     <p>We therefore are not persuaded by the argument that the conflict between two goals of the Arbitration Act -- enforcement of private agreements and encouragement of efficient and speedy dispute resolution -- must be resolved in favor of the latter in order to realize the intent of the drafters. The preeminent concern of Congress in passing the Act was to enforce private agreements into which parties had entered, and that concern requires that we rigorously enforce agreements to arbitrate, even if the result is "piecemeal" litigation, at least absent a countervailing policy manifested in another federal statute. See <a id="nf1" href="#fn1">n</a> 1, supra. By compelling arbitration of state law claims, a district court successfully protects the contractual rights of the parties and their rights under the Arbitration Act.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>It is also suggested, however, and some Courts of Appeals have held, that district courts should decide arbitrable pendent claims when a nonarbitrable federal claim is before them, because otherwise the findings in the arbitration proceeding might have collateral estoppel effect in a subsequent federal proceeding. This preclusive effect is believed to pose a threat to the federal interest in resolution of securities claims, and to warrant a refusal to compel arbitration. [<a id="nf8" href="#fn8">Footnote 8</a>]</p>
     <n id="p222">222</n>
     <p>Other courts have held that the claims should be separately resolved, but that this preclusive effect warrants a stay of arbitration proceedings pending resolution of the federal securities claim. [<a id="nf9" href="#fn9">Footnote 9</a>] In this case, Dean Witter also asked the District Court to stay the arbitration proceedings pending resolution of the federal claim, and we suspect it did so in response to such holdings.</p>

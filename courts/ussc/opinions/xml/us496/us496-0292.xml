@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us496-0292.html" citation="496 U.S. 292" title="Illinois v. Perkins">
   <opinion type="Opinions &amp; Dissents">
     <n id="p292">292</n>
-    <h>U.S. Supreme Court</h>
-    <h>Illinois v. Perkins, <a href="./us496-0292.xml#p292">496 U.S. 292</a> (1990)</h>
-    <h>Illinois v. Perkins</h>
-    <h>No. 88-1972</h>
-    <h>Argued Feb. 20, 1990</h>
-    <h>Decided June 4, 1990</h>
-    <h><a href="./us496-0292.xml#p292">496 U.S. 292</a></h>
-    <h>CERTIORARI TO THE APPELLATE COURT OF ILLINOIS, FIFTH</h>
-    <h>JUDICIAL DISTRICT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Illinois v. Perkins, <a href="./us496-0292.xml#p292">496 U.S. 292</a> (1990)</h1>
+    <h2>Illinois v. Perkins</h2>
+    <h4>No. 88-1972</h4>
+    <h4>Argued Feb. 20, 1990</h4>
+    <h4>Decided June 4, 1990</h4>
+    <h2>CERTIORARI TO THE APPELLATE COURT OF ILLINOIS, FIFTH</h2>
+    <h2>JUDICIAL DISTRICT</h2>
+    <h2>Syllabus</h2>
     <p>Police placed undercover agent Parisi in a jail cellblock with respondent Perkins, who was incarcerated on charges unrelated to the murder that Parisi was investigating. When Parisi asked him if he had ever killed anybody, Perkins made statements implicating himself in the murder. He was then charged with the murder. The trial court granted respondent's motion to suppress his statements on the ground that Parisi had not given him the warnings required by Miranda v. Arizona, <a href="../us384/us384-0436.xml#p436">384 U. S. 436</a>, before their conversations. The Appellate Court of Illinois affirmed, holding that Miranda prohibits all undercover contacts with incarcerated suspects that are reasonably likely to elicit an incriminating response.</p>
     <p>Held: An undercover law enforcement officer posing as a fellow inmate need not give Miranda warnings to an incarcerated suspect before asking questions that may elicit an incriminating response. The Miranda doctrine must be enforced strictly, but only in situations where the concerns underlying that decision are present. Those concerns are not implicated here, since the essential ingredients of a "police dominated atmosphere" and compulsion are lacking. It is Miranda's premise that the danger of coercion results from the interaction of custody and official interrogation, whereby the suspect may feel compelled to speak by the fear of reprisal for remaining silent or in the hope of more lenient treatment should he confess. That coercive atmosphere is not present when an incarcerated person speaks freely to someone whom he believes to be a fellow inmate and whom he assumes is not an officer having official power over him. In such circumstances, Miranda does not forbid mere strategic deception by taking advantage of a suspect's misplaced trust. The only difference between this case and Hoffa v. United States, <a href="../us385/us385-0293.xml#p293">385 U. S. 293</a> -- which upheld the placing of an undercover agent near a suspect in order to gather incriminating information -- is that Perkins was incarcerated. Detention, however, whether or not for the crime in question, does not warrant a presumption that such use of an undercover agent renders involuntary the incarcerated suspect's resulting confession. Mathis v. United States, <a href="../us391/us391-0001.xml#p1">391 U. S. 1</a> -- which held that an inmate's statements to a known agent were inadmissible because no Miranda warnings were given -- is distinguishable. Where the suspect does not</p>
     <n id="p293">293</n>
@@ -22,7 +22,7 @@
     <p>OPINION</p>
     <p>Justice KENNEDY delivered the opinion of the Court.</p>
     <p>An undercover government agent was placed in the cell of respondent Perkins, who was incarcerated on charges unrelated to the subject of the agent's investigation. Respondent made statements that implicated him in the crime that the agent sought to solve. Respondent claims that the statements should be inadmissible because he had not been given Miranda warnings by the agent. We hold that the statements are admissible. Miranda warnings are not required when the suspect is unaware that he is speaking to a law enforcement officer, and gives a voluntary statement.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In November, 1984, Richard Stephenson was murdered in a suburb of East St. Louis, Illinois. The murder remained unsolved until March, 1986, when one Donald Charlton told police that he had learned about a homicide from a fellow inmate at the Graham Correctional Facility, where Charlton had been serving a sentence for burglary. The fellow inmate was Lloyd Perkins, who is the respondent here. Charlton told police that, while at Graham, he had befriended respondent, who told him in detail about a murder that respondent had committed in East St. Louis. On hearing Charlton's account, the police recognized details of the Stephenson murder that were not well known, and so they treated Charlton's story as a credible one.</p>
     <p>By the time the police heard Charlton's account, respondent had been released from Graham, but police traced him to a jail in Montgomery County, Illinois, where he was being held pending trial on a charge of aggravated battery, unrelated to the Stephenson murder. The police wanted to investigate further respondent's connection to the Stephenson murder, but feared that the use of an eavesdropping device would prove impracticable and unsafe. They decided instead to place an undercover agent in the cellblock with respondent and Charlton. The plan was for Charlton and undercover</p>
     <n id="p295">295</n>
@@ -32,7 +32,7 @@
     <p>We granted certiorari, 493 U.S. 808 (1989), to decide whether an undercover law enforcement officer must give</p>
     <n id="p296">296</n>
     <p>Miranda warnings to an incarcerated suspect before asking him questions that may elicit an incriminating response. We now reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>In Miranda v. Arizona, supra, the Court held that the Fifth Amendment privilege against self-incrimination prohibits admitting statements given by a suspect during "custodial interrogation" without a prior warning. Custodial interrogation means "questioning initiated by law enforcement officers after a person has been taken into custody. . . ." Id., 384 U.S. at <a href="../us384/us384-0436.xml#p444">384 U. S. 444</a>. The warning mandated by Miranda was meant to preserve the privilege during "incommunicado interrogation of individuals in a police-dominated atmosphere." Id. at <a href="../us384/us384-0436.xml#p445">384 U. S. 445</a>. That atmosphere is said to generate</p>
     <p>"inherently compelling pressures which work to undermine the individual's will to resist and to compel him to speak where he would not otherwise do so freely."</p>
     <p>Id. at <a href="../us384/us384-0436.xml#p467">384 U. S. 467</a>.</p>

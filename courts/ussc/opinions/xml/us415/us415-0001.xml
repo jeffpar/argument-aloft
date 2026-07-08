@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us415-0001.html" citation="415 U.S. 1" title="Renegotiation Board v. Bannercraft Clothing">
   <opinion type="Opinions &amp; Dissents">
     <n id="p1">1</n>
-    <h>U.S. Supreme Court</h>
-    <h>Renegotiation Board v. Bannercraft Clothing, <a href="./us415-0001.xml#p1">415 U.S. 1</a> (1974)</h>
-    <h>Renegotiation Board v. Bannercraft Clothing Co., Inc.</h>
-    <h>No. 72-822</h>
-    <h>Argued October 17, 1973</h>
-    <h>Decided February 19, 1974</h>
-    <h><a href="./us415-0001.xml#p1">415 U.S. 1</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE DISTRICT OF COLUMBIA CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Renegotiation Board v. Bannercraft Clothing, <a href="./us415-0001.xml#p1">415 U.S. 1</a> (1974)</h1>
+    <h2>Renegotiation Board v. Bannercraft Clothing Co., Inc.</h2>
+    <h2>No. 72-822</h2>
+    <h4>Argued October 17, 1973</h4>
+    <h4>Decided February 19, 1974</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE DISTRICT OF COLUMBIA CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondents, whose profits on defense contracts are undergoing renegotiation pursuant to the Renegotiation Act of 1951, sued in the District Court under the Freedom of Information Act (FOIA) to enjoin petitioner Board from withholding documents that respondents had requested and from conducting any further renegotiation proceedings until the documents were produced. The District Court in each case granted injunctive relief. The cases were consolidated on appeal and the Court of Appeals affirmed, holding that the District Court had jurisdiction under the FOIA to enjoin administrative proceedings before petitioner and to order production of the documents. Though noting that the FOIA nowhere authorizes injunctions of agency proceedings, the court concluded that Congress intended to confer broad equitable jurisdiction upon the district courts, and that "temporary stays of pending administrative procedures may be necessary on occasion to enforce [FOIA] policy." The court also concluded that contractors had to exhaust their administrative remedies only under the FOIA, but not under the Renegotiation Act, before they were able to request injunctive relief against renegotiation proceedings, and that contractors' remedies before petitioner</p>
     <n id="p2">2</n>
     <p>and de novo proceedings in the Court of Claims as provided under the Renegotiation Act were inadequate to prevent irreparable harm. Petitioner contends that the FOIA's provision in 5 U.S.C. § 552(a)(3) for enjoining an agency from withholding its records and ordering the production of records improperly withheld from a complainant is the sole method of judicial enforcement.</p>
@@ -25,7 +25,7 @@
     <n id="p3">3</n>
     <p>MR. JUSTICE BLACKMUN delivered the opinion of the Court.</p>
     <p>Three cases, consolidated for hearing in the court below, raise the issue of the effect of the Freedom of Information Act (FOIA), 5 U.S.C. § 552, upon proceedings pending under the Renegotiation Act of 1951, C. 15, 65 Stat. 7, as amended, 50 U.S.C.App. § 1211 et seq. In particular, they concern the jurisdiction of a federal district court to enjoin the renegotiation process until an FOIA claim is resolved.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The three respondents, Bannercraft Clothing Company, Inc., Astro Communication Laboratory, a division of Aiken Industries, Inc., and David B. Lilly Co., Inc., successor to Delaware Fastener Corporation, all possessed national defense contracts with a "Department" of the United States, as defined in § 103(a) of the Renegotiation Act, 50 U.S.C.App. § 1213(a). These agreements, therefore, under § 102 of that Act, 50 U.S.C.App. § 1212, were subject to renegotiation.</p>
     <p>A. Bannercraft. In 1966 and 1967, this respondent manufactured uniforms at a plant in Philadelphia. Its fiscal year was the calendar year. Because most of its production was subject to renegotiation, the company, for each of the two years, timely filed with the Renegotiation Board the financial statement required under § 105(e)(1) of the Act, 50 U.S.C.App. § 1215(e)(1). Representatives</p>
     <n id="p4">4</n>
@@ -67,7 +67,7 @@
     <p>The dissent also was at odds with the majority's disposition of the exhaustion issue. It asserted that the majority seriously misconstrued the intended functioning of the Renegotiation Board's procedures, namely, that controlled access to information concerning the Government's position plays a significant role in the administrative process; that interruption of the administrative proceedings totally destroys the balance of negotiating strength; and that the attempt to enjoin the ongoing negotiations was really not a request for relief under the FOIA, but was a challenge to the Board's procedures themselves. Id. at 194-195, 466 F.2d at 365-366.</p>
     <p>We granted certiorari, 410 U.S. 907 (1973), because of the importance of the issue of the impact of the FOIA upon long-established procedures of the Renegotiation Board.</p>
     <n id="p12">12</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>Before considering the issue of the District Court's jurisdiction to enjoin a proceeding pending in the Renegotiation Board, it is helpful to review the provisions of the FOIA and of the Renegotiation Act of 1951:</p>
     <p>A. The FOIA. This statute, 5 U.S.C. § 552, was enacted in 1966, 80 Stat. 383, as a revision of § 3 of the Administrative Procedure Act, 5 U.S.C. § 1002 (1964 ed.). S.Rep. No. 813, 89th Cong., 1st Sess., 3-4 (1965); H.R.Rep. No. 1497, 89th Cong., 2d Sess., 1-6 (1966). It was amended by Pub.L. 90-23, adopted June 5, 1967, 81 Stat. 54.</p>
     <p>Section 552(a) states, "Each agency shall make available to the public" certain information of enumerated categories. This covers virtually all information not specifically exempted by § 552(b). Section 552(a)(2) [<a id="nf9" href="#fn9">Footnote 9</a>] provides the sanction that a "final order, opinion, statement of policy, interpretation, or staff manual or instruction"</p>
@@ -83,7 +83,7 @@
     <p>The renegotiation process itself is initiated by notice to the contractor and by assignment of the contractor's report to the appropriate Regional Board. 32 CFR § 1472.2 (1972). [<a id="nf15" href="#fn15">Footnote 15</a>] Personnel of the Regional Board then prepare a "Report of Renegotiation" which includes a "recommendation with respect to the amount, if any, of excessive profits for the fiscal year under review." 32 CFR § 1472.3(d). This is only the first of several steps within the agency structure. Thereafter the statement is reviewed, successively, by a panel of the Regional Board, by the Regional Board itself, and finally by the Renegotiation Board. At each level, there is consultation with the contractor, the preparation of a report and analysis, and submission to the next higher level of a recommendation as to excessive profits. 32 CFR §§ 1472.3(d) and (f)-(i), and §§ 1472.4(b)-(d). At each stage, the contractor is entitled to a statement of the basis for the recommendation. Each level is free to make new findings, and no level is bound by the determination</p>
     <n id="p16">16</n>
     <p>of the level below; the recommended settlement may decrease or increase at each level. Ibid.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>It is clear, we think, that the Renegotiation Board, as an entity, is not exempt from applicable provisions of the FOIA. The Board, of course, is an "independent establishment" in the Executive Branch. § 107(a) of the Renegotiation Act, 50 U.S.C.App. § 1217(a). But "agency" is broadly defined to mean "each authority of the Government of the United States," except the Congress, the courts, territorial governments, the government of the District of Columbia, and, with respect to 5 U.S.C. § 552, certain other specifically described entities and functions. 5 U.S.C. § 551(1). The Renegotiation Board is not among those excepted. Further, the House Committee's discussion of the requirement of § 552(a)(2), that an agency's concurring and dissenting opinions, as well as final opinions, be made available, discloses that a reason for this provision was that "a recent survey indicated that five agencies -- including . . . the Renegotiation Board -- do not make public the minority views of their members." H.R.Rep. No. 1497, supra, at 8. Thus, despite its unique operational methods, the Board falls within the definition of "agency" in § 551(1). [<a id="nf16" href="#fn16">Footnote 16</a>]</p>
     <p>So to conclude, however, does not provide automatically the answer to the question whether the FOIA authorizes a district court to enjoin Renegotiation Board</p>
     <n id="p17">17</n>
@@ -105,7 +105,7 @@
     <p>The broad language of the FOIA, with its obvious emphasis on disclosure and with its exemptions carefully delineated as exceptions; the truism that Congress knows how to deprive a court of broad equitable power when it chooses so to do, Scripps-Howard, supra, 316 U.S. at <a href="../us316/us316-0004.xml#p17">316 U. S. 17</a>; and the fact that the Act, to a definite degree, makes the district courts the enforcement arm of the statute, 5 U.S.C. § 552(a)(3), persuade us that the Babcock and</p>
     <n id="p20">20</n>
     <p>Switchmen's Union principle of a statutorily prescribed special and exclusive remedy is not applicable to FOIA cases. With the express vesting of equitable jurisdiction in the district court by § 552(a), there is little to suggest, despite the Act's primary purpose, that Congress sought to limit the inherent powers of an equity court.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>We find it unnecessary, however, to decide in these cases, whether, or under what circumstances, it would be proper for the District Court to exercise jurisdiction to enjoin agency action pending the resolution of an asserted FOIA claim. We hold only that, in a renegotiation case, the contractor is obliged to pursue its administrative remedy and, when it fails to do so, may not attain its ends through the route of judicial interference. The nature of the renegotiation process mandates this result, and, were it otherwise, the effect would be that renegotiation, and its aims, would be supplanted and defeated by an FOIA suit. [<a id="nf19" href="#fn19">Footnote 19</a>]</p>
     <p>Before the adoption of the FOIA, this Court consistently held that the design of the Renegotiation Act was to have renegotiation proceed expeditiously without interruption for judicial review, and that the Board's proceedings were not to be enjoined prior to the exhaustion of the administrative process. This was the result where the proceedings were challenged on constitutional grounds, Aircraft &amp; Diesel Equipment Corp. v. Hirsch, <a href="../us331/us331-0752.xml#p752">331 U. S. 752</a> (1947); Lichter v. United States, <a href="../us334/us334-0742.xml#p742">334 U. S. 742</a>, <a href="../us334/us334-0742.xml#p789">334 U. S. 789</a>-793 (1948), on statutory grounds, Macauley v. Waterman S.S. Corp., <a href="../us327/us327-0540.xml#p540">327 U. S. 540</a> (1946), and on procedural grounds, Lichter, 334 U.S. at <a href="../us334/us334-0742.xml#p791">334 U. S. 791</a>. The</p>
     <n id="p21">21</n>

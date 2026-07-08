@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us017-0084.html" citation="17 U.S. 84" title="The Experiment">
   <opinion type="Opinions &amp; Dissents">
     <n id="p84">84</n>
-    <h>U.S. Supreme Court</h>
-    <h>The Experiment, 17 U.S. 84 (1819)</h>
-    <h>The Experiment</h>
-    <h>17 U.S. (4 Wheat.) 84</h>
-    <h>APPEAL FROM THE CIRCUIT</h>
-    <h>COURT OF MASSACHUSETTS</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>The Experiment, 17 U.S. 84 (1819)</h1>
+    <h2>The Experiment</h2>
+    <h2>17 U.S. (4 Wheat.) 84</h2>
+    <h2>APPEAL FROM THE CIRCUIT</h2>
+    <h2>COURT OF MASSACHUSETTS</h2>
+    <h2>Syllabus</h2>
     <p>Deposition taken on further proof in one prize cause cannot be invoked into another.</p>
     <p>The Attorney General moved to invoke into this cause depositions taken on further proof in the case of <a href="../us014/us014-0408.xml#p408">The George</a>, 1 Wheat. 408.</p>
     <p>MR. CHIEF JUSTICE MARSHALL.</p>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us397-0471.html" citation="397 U.S. 471" title="Dandridge v. Williams">
   <opinion type="Opinions &amp; Dissents">
     <n id="p471">471</n>
-    <h>U.S. Supreme Court</h>
-    <h>Dandridge v. Williams, <a href="./us397-0471.xml#p471">397 U.S. 471</a> (1970)</h>
-    <h>Dandridge v. Williams</h>
-    <h>No. 131</h>
-    <h>Argued December 9, 1969</h>
-    <h>Decided April 6, 1970</h>
-    <h><a href="./us397-0471.xml#p471">397 U.S. 471</a></h>
-    <h>APPEAL FROM THE UNITED STATES DISTRICT COURT</h>
-    <h>FOR THE DISTRICT OF MARYLAND</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Dandridge v. Williams, <a href="./us397-0471.xml#p471">397 U.S. 471</a> (1970)</h1>
+    <h2>Dandridge v. Williams</h2>
+    <h2>No. 131</h2>
+    <h4>Argued December 9, 1969</h4>
+    <h4>Decided April 6, 1970</h4>
+    <h2>APPEAL FROM THE UNITED STATES DISTRICT COURT</h2>
+    <h2>FOR THE DISTRICT OF MARYLAND</h2>
+    <h2>Syllabus</h2>
     <p>Appellees, large-family recipients of benefits under the Aid to Families With Dependent Children (AFDC) program, brought this suit to enjoin the application of Maryland's maximum grant regulation as contravening the Social Security Act of 1935 and the Equal Protection Clause of the Fourteenth Amendment. Under the program, which is jointly financed by the Federal and State Governments, a State computes the "standard of need" of eligible family units. Under the Maryland regulation, though most families are provided aid in accordance with the standard of need, a ceiling of about $250 per month is imposed on an AFDC grant regardless of the size of the family and its actual need. The District Court held the regulation "invalid on its face for overreaching," and thus violative of the Equal Protection Clause.</p>
     <p>Held:</p>
     <p>1. The Maryland regulation is not prohibited by the Social Security Act. Pp. <a href="./us397-0471.xml#p476">397 U. S. 476</a>-483.</p>
@@ -35,7 +35,7 @@
     <p>In its original opinion, the District Court held that the Maryland regulation does conflict with the federal statute, and also concluded that it violates the Fourteenth Amendment's equal protection guarantee. After reconsideration on motion, the court issued a new opinion resting its determination of the regulation's invalidity entirely on the constitutional ground. [<a id="nf5" href="#fn5">Footnote 5</a>] Both the statutory and constitutional issues have been fully briefed and argued here, and the judgment of the District Court must, of course, be affirmed if the Maryland regulation is in conflict with either the federal statute or the Constitution. [<a id="nf6" href="#fn6">Footnote 6</a>] We consider the statutory question first, because,</p>
     <n id="p476">476</n>
     <p>if the appellees' position on this question is correct, there is no occasion to reach the constitutional issues. Ashwander v. TVA, <a href="../us297/us297-0288.xml#p288">297 U. S. 288</a>, <a href="../us297/us297-0288.xml#p346">297 U. S. 346</a>-347 (Brandeis, J., concurring); Rosenberg v. Fleuti, <a href="../us374/us374-0449.xml#p449">374 U. S. 449</a>.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The appellees contend that the maximum grant system is contrary to § 402(a)(10) of the Social Security Act, as amended, [<a id="nf7" href="#fn7">Footnote 7</a>] which requires that a state plan shall</p>
     <p>"provide . . . that all individuals wishing to make application for aid to families with dependent children shall have opportunity to do so, and that aid to families with dependent children shall be furnished with reasonable promptness to all eligible individuals."</p>
     <p>The argument is that the state regulation denies benefits to the younger children in a large family. Thus, the appellees say, the regulation is in patent violation of the Act, since those younger children are just as "dependent"</p>
@@ -69,7 +69,7 @@
     <n id="p483">483</n>
     <p>fully recognized that the Act permits maximum grant regulations. [<a id="nf15" href="#fn15">Footnote 15</a>]</p>
     <p>For all of these reasons, we conclude that the Maryland regulation is not prohibited by the Social Security Act.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Although a State may adopt a maximum grant system in allocating its funds available for AFDC payments without violating the Act, it may not, of course, impose a regime of invidious discrimination in violation of the Equal Protection Clause of the Fourteenth Amendment. Maryland says that its maximum grant regulation is wholly free of any invidiously discriminatory purpose or effect, and that the regulation is rationally supportable on at least four entirely valid grounds. The regulation can be clearly justified, Maryland argues, in terms of legitimate state interests in encouraging gainful employment, in maintaining an equitable balance in economic status as between welfare families and those supported</p>
     <n id="p484">484</n>
     <p>by a wage-earner, in providing incentives for family planning, and in allocating available public funds in such a way as fully to meet the needs of the largest possible number of families. The District Court, while apparently recognizing the validity of at least some of these state concerns, nonetheless held that the regulation "is invalid on its face for overreaching," 297 F. Supp. at 468 -- that it violates the Equal Protection Clause</p>
@@ -340,7 +340,7 @@
       <p>The Court recognizes, as it must, that this case involves "the most basic economic needs of impoverished human beings," and that there is therefore a "dramatically real factual difference" between the instant case and those decisions upon which the Court relies. The acknowledgment that these dramatic differences exist is</p>
       <n id="p509">509</n>
       <p>a candid recognition that the Court's decision today is wholly without precedent. I cannot subscribe to the Court's sweeping refusal to accord the Equal Protection Clause any role in this entire area of the law, and I therefore dissent from both parts of the Court's decision.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>At the outset, it should be emphasized exactly what is involved in determining whether this maximum grant regulation is consistent with and valid under the federal law. In administering its AFDC program, Maryland has established its own standards of need, and they are not under challenge in this litigation. Indeed, the District Court specifically refused to require additional appropriations on the part of the State or to permit appellees to recover a monetary judgment against the State. At the same time, however, there is no contention, nor could there be any, that the maximum grant regulation is in any manner related to calculation of need. [Footnote 3/1] Rather, it arbitrarily cuts across state-defined standards of need to deny any additional assistance with respect to the fifth or any succeeding child in a family. [Footnote 3/2] In short, the regulation represents no less than the refusal of the State to give any aid whatsoever for the support of certain dependent children who meet the standards of need that the State itself has established.</p>
       <n id="p510">510</n>
       <p>Since its inception in the Social Security Act of 1935, the focus of the federal AFDC program has been to provide benefits for the support of dependent children of needy families with a view toward maintaining and strengthening family life within the family unit. As succinctly stated by the Senate Committee on Finance, "[t]he objective of the aid to dependent children program is to provide cash assistance for needy children in their own homes." [Footnote 3/3] In meeting these objectives, moreover, Congress has provided the outlines that the AFDC plan is to follow if a State should choose to participate in the federal program. The maximum grant regulation, however, does not fall within these outlines or accord with the purposes of the Act. And the Court, by approving it, allows for a complete departure from the congressional intent.</p>
@@ -368,7 +368,7 @@
       <p>it is fundamental that, in construing legislation,</p>
       <p>"we must not he guided by a single sentence or member of a sentence, but [should] look to the provisions of the whole law, and to its object and policy."</p>
       <p>Richards v. United States, <a href="../us369/us369-0001.xml#p1">369 U. S. 1</a>, <a href="../us369/us369-0001.xml#p11">369 U. S. 11</a> (1962). We concluded in King v. Smith, supra, after an extensive review of the AFDC program, that Congress "intended to provide programs for the economic security and protection of all children," and did not intend "arbitrarily to leave one class of destitute children entirely without meaningful protection." 392 U.S. at 3 <a href="../us392/us392-0001.xml#p30"> 392 U. S. 30</a>. (Emphasis in original.) That reasoning is likewise applicable to the instant case, in which the maximum grant regulation excludes consideration of the needs of a certain class of dependent children in large families. It is apparent, therefore, that Maryland's maximum grant regulation is not consistent with the Social Security Act, and hence appellees were entitled to the injunction they obtained against its operation.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>Having decided that the injunction issued by the District Court was proper as a matter of statutory construction, I would affirm on that ground alone. However, the majority has, of necessity, passed on the constitutional issues. I believe that, in overruling the decision of this and every other district court that has passed on the validity of the maximum grant device, [Footnote 3/10] the Court both</p>
       <n id="p518">518</n>
       <p>reaches the wrong result and lays down an insupportable test for determining whether a State has denied its citizens the equal protection of the laws.</p>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us435-1014.html" citation="435 U.S. 1014" title="HUFFMAN v. FLORIDA">
   <opinion type="Opinions &amp; Dissents">
     <n id="p1014">1014</n>
-    <h>U.S. Supreme Court</h>
-    <h>HUFFMAN v. FLORIDA , <a href="./us435-1014.xml#p1014">435 U.S. 1014</a> (1978)</h>
-    <h> <a href="./us435-1014.xml#p1014">435 U.S. 1014</a></h>
-    <h>David S. HUFFMAN v. State of FLORIDA No. 77-6025</h>
-    <h>Supreme Court of the United States</h>
-    <h>May 1, 1978</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>HUFFMAN v. FLORIDA, <a href="./us435-1014.xml#p1014">435 U.S. 1014</a> (1978)</h1>
+    <h2>David S. HUFFMAN v. State of FLORIDA No. 77-6025</h2>
+    <h2>Supreme Court of the United States</h2>
+    <h4>May 1, 1978</h4>
     <p>On petition for writ of certiorari to the Supreme Court of Florida.</p>
     <p>The petition for a writ of certiorari is denied.</p>
     <p>Mr. Justice MARSHALL, with whom Mr. Justice BRENNAN joins, dissenting.</p>
@@ -27,7 +27,7 @@
     <p>As the petition comes to us, we may assume that a summary reversal might have been appropriate on direct review of petitioner's conviction, and also that a collateral attack in the federal court should succeed. It does not follow, however, that this Court has the power to compel a State to employ a collateral post-conviction remedy in which specific federal claims may be raised. See Case v. Nebraska, <a href="../us381/us381-0336.xml#p336">381 U.S. 336</a>. Accordingly, totally apart from the considerations discussed by Mr. Justice MARSHALL, there are serious procedural questions</p>
     <n id="p1018">1018</n>
     <p>that must be answered before addressing the merits of petitioner's federal claim. In making this observation I do not presume to explain the reasons for the Court's action; I write only to identify this as one of the many cases in which a persuasive dissent may create the unwarranted impression that the Court has acted arbitrarily in denying a petition for certiorari.</p>
-    <h>Footnotes</h>
+    <h2>Footnotes</h2>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>
       <p>Petitioner was also convicted of burglary, for which he was given a concurrent life sentence. On appeal, the convictions were affirmed, but the concurrent sentence for burglary was reduced to 15 years. 301 So. 2d 815 (Fla.Dist.Ct.App.1974).</p>
     </f>

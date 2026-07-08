@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us475-0387.html" citation="475 U.S. 387" title="United States v. Inadi">
   <opinion type="Opinions &amp; Dissents">
     <n id="p387">387</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Inadi, <a href="./us475-0387.xml#p387">475 U.S. 387</a> (1986)</h>
-    <h>United States v. Inadi</h>
-    <h>No. 84-1580</h>
-    <h>Argued December 3, 1985</h>
-    <h>Decided March 10, 1986</h>
-    <h><a href="./us475-0387.xml#p387">475 U.S. 387</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE THIRD CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Inadi, <a href="./us475-0387.xml#p387">475 U.S. 387</a> (1986)</h1>
+    <h2>United States v. Inadi</h2>
+    <h2>No. 84-1580</h2>
+    <h4>Argued December 3, 1985</h4>
+    <h4>Decided March 10, 1986</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE THIRD CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Following a jury trial in Federal District Court, respondent was convicted of conspiring to manufacture and distribute methamphetamine, and related offenses. Part of the evidence consisted of taped conversations between various participants in the conspiracy. Respondent sought to exclude the recorded statements of the unindicted coconspirators, including one Lazaro, on the ground that they did not satisfy the requirements of Federal Rule of Evidence 801(d)(2)(E), which provides that a statement by a coconspirator of a party made "during the course and in furtherance of the conspiracy" is not hearsay when offered against the party. Respondent also objected to the admission of the statements on Confrontation Clause grounds, contending that they were inadmissible absent a showing that the declarants were unavailable. The District Court held that the statements satisfied Rule 801(d)(2)(E), and admitted the statements, conditioned on the prosecution's commitment to produce Lazaro. The Government subpoenaed Lazaro, but he failed to appear, and defense counsel made no effort to secure his presence. The court then overruled respondent's renewed Confrontation Clause objections, holding that Lazaro's statements were admissible because they satisfied the coconspirator rule. The Court of Appeals reversed, holding, in reliance on Ohio v. Roberts, <a href="../us448/us448-0056.xml#p56">448 U. S. 56</a>, that, although Rule 801(d)(2)(E) had been satisfied, the Confrontation Clause established an independent requirement that the Government, as a condition to admission of any out-of court statements, must show the declarant's unavailability.</p>
     <p>Held: The Confrontation Clause does not require a showing of unavailability as a condition to admission of the out-of court statements of a nontestifying coconspirator. Pp. <a href="./us475-0387.xml#p392">475 U. S. 392</a>-400.</p>
     <p>(a) Ohio v. Roberts, supra, which simply reaffirmed a longstanding rule that applies unavailability analysis to the prior testimony of a witness not produced at trial, cannot fairly be read to stand for the proposition that no out-of court statement can be introduced by the prosecution without a showing that the declarant is unavailable. Pp. <a href="./us475-0387.xml#p392">475 U. S. 392</a>-394.</p>
@@ -23,7 +23,7 @@
     <p>POWELL, J., delivered the opinion of the Court, in which BURGER, C.J., and WHITE, BLACKMUN, REHNQUIST, STEVENS, and O'CONNOR, JJ., joined. MARSHALL, J., filed a dissenting opinion, in which BRENNAN, J., joined, post, p. <a href="./us475-0387.xml#p400">475 U. S. 400</a>.</p>
     <p>JUSTICE POWELL delivered the opinion of the Court.</p>
     <p>This case presents the question whether the Confrontation Clause requires the Government to show that a nontestifying coconspirator is unavailable to testify, as a condition for admission of that coconspirator's out-of court statements.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Following a jury trial in the Eastern District of Pennsylvania, respondent Joseph Inadi was convicted of conspiring to</p>
     <n id="p389">389</n>
     <p>manufacture and distribute methamphetamine, and related offenses. He was sentenced to three years' imprisonment, to be followed by a 7-year parole term. The evidence at trial showed that, in September, 1979, respondent was approached by unindicted coconspirator Michael McKeon, who was seeking a distribution outlet for methamphetamine. Respondent's role was to supply cash and chemicals for the manufacture of methamphetamine and to be responsible for its distribution. McKeon and another unindicted coconspirator, William Levan, were to manufacture the substance.</p>
@@ -38,7 +38,7 @@
     <p>The Court of Appeals for the Third Circuit reversed. 748 F.2d 812 (1984). The court agreed that the Government had satisfied Rule 801(d)(2)(E), but decided that the Confrontation Clause established an independent requirement that the Government, as a condition to admission of any out-of court statements, must show the unavailability of the declarant. 748 F.2d at 818. The court derived this "unavailability rule" from Ohio v. Roberts, <a href="../us448/us448-0056.xml#p56">448 U. S. 56</a> (1980). The Court of Appeals rejected the Government's contention that Roberts did not require a showing of unavailability as to a nontestifying coconspirator, finding that Roberts created a "clear constitutional rule" applicable to out-of-court statements generally. 748 F.2d at 818. The court found no reason to create a special exception for coconspirator statements, and therefore ruled Lazaro's statements inadmissible. Id. at 818-819.</p>
     <p>We granted certiorari, 471 U.S. 1124 (1986), to resolve the question whether the Confrontation Clause requires a showing of unavailability as a condition to admission of the out-of-court statements of a nontestifying coconspirator, when those statements otherwise satisfy the requirements of Federal Rule of Evidence 801(d)(2)(E). [<a id="nf3" href="#fn3">Footnote 3</a>] We now reverse.</p>
     <n id="p392">392</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>A</p>
     <p>The Court of Appeals derived its rule that the Government must demonstrate unavailability from our decision in Roberts. It quoted Roberts as holding that,</p>
     <p>"in conformance with the Framers' preference for face-to-face accusation, the Sixth Amendment establishes a rule of necessity. In the usual case, . . . the prosecution must either produce, or demonstrate the unavailability of, the declarant whose statement it wishes to use against the defendant."</p>
@@ -77,7 +77,7 @@
     <p>An unavailability rule would impose all of these burdens even if neither the prosecution nor the defense wished to examine the declarant at trial. Any marginal protection to the defendant by forcing the government to call as witnesses those coconspirator declarants who are available, willing to testify, hostile to the defense, and yet not already subpoenaed by the prosecution, when the defendant himself can call and cross-examine such declarants, cannot support an unavailability</p>
     <n id="p400">400</n>
     <p>rule. We hold today that the Confrontation Clause does not embody such a rule.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>To some degree, respondent's arguments in this case require us to revisit this Court's resolution of this question in Dutton v. Evans, <a href="../us400/us400-0074.xml#p74">400 U. S. 74</a> (1970). Although Dutton involved a state coconspirator rule, instead of Federal Rule of Evidence 801, the state rule actually admitted a broader category of coconspirator statements. Nevertheless, a plurality of this Court found that the rule did not violate the Confrontation Clause, and a fifth Member of the Court, Justice Harlan, reasoned that the Confrontation Clause was not applicable at all. In Dutton, the plurality stated that "we do not question the validity of the coconspirator exception applied in the federal courts." Id. at <a href="../us400/us400-0074.xml#p80">400 U. S. 80</a>. Upon closer examination today, we continue to affirm the validity of the use of coconspirator statements, and we decline to require a showing of the declarant's unavailability as a prerequisite to their admission.</p>
     <p>We accordingly reverse the judgment of the Court of Appeals for the Third Circuit.</p>
     <p>It is so ordered.</p>
@@ -129,7 +129,7 @@
       <n id="p401">401</n>
       <p>coconspirator declarations admitted against him lack the "indicia of reliability" demanded by the Confrontation Clause. [Footnote 2/1]</p>
       <p>With respect to its constitutional analysis, however, the majority makes a giant leap. Even while conceding that the "very mission'" of the Confrontation Clause is to "`advance "the accuracy of the truth-determining process in criminal trials,"'" ante at <a href="./us475-0387.xml#p396">475 U. S. 396</a> (citations omitted), the Court today holds that the Clause is not offended when the prosecution fails to make even the slightest effort to produce for cross-examination the authors of the out-of-court statements with which it hopes to convict a defendant. Because I cannot share the majority's implicit faith that the camaraderie of a criminal conspiracy can substitute for in-court cross-examination to guarantee the reliability of conspiratorial statements, I can neither accept the majority's analysis nor stand silent while the values embodied in the Sixth Amendment are so cavalierly subordinated to prosecutorial efficiency.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>A</p>
       <p>In Ohio v. Roberts, supra, after canvassing the many previous cases that had examined the relationship between the</p>
       <n id="p402">402</n>
@@ -163,7 +163,7 @@
       <n id="p406">406</n>
       <p>their illegal scheme is thus a verbal act admissible against each conspirator as if it had been his own.</p>
       <p>This agency theory, which even the Advisory Committee on the proposed Federal Rules of Evidence labeled "at best a fiction," Advisory Committee Notes on Fed.Rule Evid. 801(d)(2)(E), 28 U.S.C.App. p. 718, might justify the exemption conferred upon coconspirator declarations from the traditional rule against hearsay. But it speaks not at all to the Confrontation Clause's concern for reliable factfinding.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>Without even attempting to argue that coconspirator declarations have an inherent reliability that might justify their admission at trial when the declarant is not present in court for cross-examination, the majority instead supports its holding by arguing that</p>
       <p>"it is extremely unlikely that in court testimony will recapture the evidentiary significance of statements made when the conspiracy was operating in full force."</p>
       <p>Ante at <a href="./us475-0387.xml#p395">475 U. S. 395</a>. Indeed, the Court asserts,</p>
@@ -175,7 +175,7 @@
       <p>"an explanation a jury may be expected to understand and take into account in deciding which, if either, of the statements represents the truth,"</p>
       <p>California v. Green, <a href="../us399/us399-0149.xml#p149">399 U. S. 149</a>, <a href="../us399/us399-0149.xml#p159">399 U. S. 159</a> (1970). Cf. Nelson v. O'Neil, <a href="../us402/us402-0622.xml#p622">402 U. S. 622</a>, <a href="../us402/us402-0622.xml#p627">402 U. S. 627</a>-629 (1971).</p>
       <p>Whether or not a coconspirator produced in court affirms, denies, or qualifies the truth of his out-of-court statement, his presence will contribute to the accuracy of the factfinding enterprise, the accuracy that is the primary concern of the Confrontation Clause. Whatever truth is contained in his extrajudicial declarations cannot be lost. It can only be supplemented by additional information of no less use to the triers of fact.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>Recognizing that there may well be cases in which the cross-examination of a coconspirator declarant is indispensable to a defendant's case, the Court reminds us that a defendant can always exercise his rights under the Compulsory Process Clause and call the declarant as his own witness. As long as this option remains open to a defendant, the Court reasons, "it is difficult to see what, if anything, is gained by a rule that requires the prosecution to make that declarant available.'" Ante at <a href="./us475-0387.xml#p398">475 U. S. 398</a>. However, even assuming, as the Court seems to do, that the</p>
       <p>"good faith standard governing</p>
       <n id="p408">408</n>
@@ -199,7 +199,7 @@
       <p>In view of all the disadvantages that attend a defendant's decision to call a coconspirator declarant as a witness, the majority's reliance on the defendant's right to compulsory process to justify a decision to deprive him of a critical aspect of his Confrontation Clause right cannot be supported. The two are simply not equivalent. Moreover, the majority's belief that an unavailability requirement would contribute nothing but a cast of unwanted supernumeraries has no basis in the realities of criminal prosecutions. There might be instances in which an available declarant is of so little value to either side that calling him as a witness would truly be an unnecessary exercise. See, e.g., <a href="../us417/us417-0211.xml#p211">417 U. S.</a> United States,</p>
       <n id="p411">411</n>
       <p><a href="../us417/us417-0211.xml#p211">417 U. S. 211</a>, <a href="../us417/us417-0211.xml#p220">417 U. S. 220</a>, n. 11 (1974). But a defendant's failure to call a declarant as his own witness can in no way be taken as proof that such is the case.</p>
-      <h>IV</h>
+      <h2>IV</h2>
       <p>At bottom, today's decision rests upon the Court's judgment that a defendant's constitutional interest in subjecting the extrajudicial declarations of coconspirators to the cross-examination that has traditionally been the primary guarantee of reliability in trials must be subordinated to considerations of prosecutorial efficiency. I do not believe the concerns of the Confrontation Clause should be so easily disregarded. The plight of Sir Walter Raleigh, condemned on the deposition of an alleged accomplice who had since recanted, may have loomed large in the eyes of those who drafted that constitutional guarantee. See F. Heller, The Sixth Amendment 104 (1951); Stephen, The Trial of Sir Walter Raleigh, in 2 Transactions of the Royal Historical Society 172 (4th series 1919). But the Framers, had they the prescience, would surely have been as apprehensive of the spectacle of a defendant's conviction upon the testimony of a handful of surveillance technicians and a very large box of tapes recording the boasts, faulty recollections, and coded or ambiguous utterances of outlaws. The Court's decision helps clear the way for this spectacle to become a common occurrence. I dissent.</p>
       <p>[Footnote 2/1]</p>
       <p>Today's decision does nothing to resolve the conflict among the lower courts as to whether declarations of coconspirators who are not present in court for cross-examination must be shown to have particularized "indicia of reliability" before they can be admitted for substantive purposes against a criminal defendant. Compare United States v. DeLuna, 763 F.2d 897 (CA8 1985) (particularized inquiry into reliability of coconspirator statements demanded in addition to unavailability requirement); United States v. Ordonez, 722 F.2d 530, 535 (CA9 1983) (particularized assessment of reliability needed for every statement admitted under coconspirator hearsay exemption); United States v. Perez, 702 F.2d 33 (CA2) (same), cert. denied, 462 U.S. 1108 (1983), with Boone v. Marshall, 760 F.2d 117, 119 (CA6 1985) (declaration admitted under coconspirator exemption "automatically satisfies the Sixth Amendment requirements"); United States v. Molt, 758 F.2d 1198 (CA7 1985) (same); Ottomano v. United States, 468 F.2d 269, 273 (CA1 1972) (same), cert. denied, 409 U.S. 1128 (1973). See Mueller, The Federal Coconspirator Exception: Action, Assertion, and Hearsay, 12 Hofstra L.Rev. 323, 361-362, and nn. 131-132 (1984).</p>

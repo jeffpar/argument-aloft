@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us344-0066.html" citation="344 U.S. 66" title="United States v. Henning">
   <opinion type="Opinions &amp; Dissents">
     <n id="p66">66</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Henning, <a href="./us344-0066.xml#p66">344 U.S. 66</a> (1952)</h>
-    <h>United States v. Henning</h>
-    <h>No. 10</h>
-    <h>Argued April 1, 1952</h>
-    <h>Reargued October 14, 1952</h>
-    <h>Decided November 17, 1952</h>
-    <h><a href="./us344-0066.xml#p66">344 U.S. 66</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE FIRST CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Henning, <a href="./us344-0066.xml#p66">344 U.S. 66</a> (1952)</h1>
+    <h2>United States v. Henning</h2>
+    <h2>No. 10</h2>
+    <h4>Argued April 1, 1952</h4>
+    <h4>Reargued October 14, 1952</h4>
+    <h4>Decided November 17, 1952</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE FIRST CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>An insured under a policy of National Service Life Insurance who had designated his father as sole beneficiary, died in active service in July, 1945. Five months later, the father died, and four years later, the father's second wife (the insured's stepmother) died. Neither had received any part of the policy's proceeds. The insured's natural mother survived. The District Court found that the stepmother had stood in loco parentis to the insured for at least one year prior to his entry into active service, and also that, within the meaning of § 602(h)(3)(C) of the National Service Life Insurance Act, both the stepmother and the natural mother "last bore" the parental relationship to the insured.</p>
     <p>Held:</p>
     <p>1. Installments of the proceeds of the policy which, though accrued, had not been received by a beneficiary prior to his death, cannot be awarded to the estate of such deceased beneficiary, since § 602(i) conditions payments on the beneficiary's being alive to receive them. Pp. <a href="./us344-0066.xml#p69">344 U. S. 69</a>-76.</p>
@@ -27,7 +27,7 @@
     <p>In an action for a judicial determination of the proper beneficiary under a policy of National Service Life Insurance, the District Court divided the proceeds among three parties. 93 F. Supp. 380. The Court of Appeals agreed. 191 F.2d 588. This Court granted certiorari. 342 U.S. 917. Reversed, p. <a href="./us344-0066.xml#p78">344 U. S. 78</a>.</p>
     <p>MR. JUSTICE CLARK delivered the opinion of the Court.</p>
     <p>Conflicting claims to the proceeds of a policy of National Service Life Insurance frame the controversy before us. Disposition of the cause depends on our interpretation of the National Service Life Insurance Act of 1940, as amended, 38 U.S.C. § 801 et seq., which, in pertinent part, [<a id="nf1" href="#fn1">Footnote 1</a>] provides:</p>
-    <p>"§ 602(g). The insurance shall be payable only to a widow, widower, child . . . , parent, brother or sister of the insured. The insured shall have the right to designate the beneficiary or beneficiaries of the insurance, but only within the classes herein provided. . . . "</p>
+    <p>"§ 602(g). The insurance shall be payable only to a widow, widower, child . . ., parent, brother or sister of the insured. The insured shall have the right to designate the beneficiary or beneficiaries of the insurance, but only within the classes herein provided. . . . "</p>
     <n id="p68">68</n>
     <p>"§ 601(f). The terms 'parent,' 'father,' and 'mother' include a father, mother, father through adoption, mother through adoption, [and] persons who have stood in loco parentis to a member of the military or naval forces at any time prior to entry into active service for a period of not less than one year. . . ."</p>
     <p>"§ 602(i). If no beneficiary is designated by the insured or if the designated beneficiary does not survive the insured, the beneficiary shall be determined in accordance with the order specified in subsection (h)(3) of this section, and the insurance shall be payable in equal monthly installments in accordance with subsection (h). . . . The right of any beneficiary to payment of any installments shall be conditioned upon his or her being alive to receive such payments. No person shall have a vested right to any installment or installments of any such insurance and any installments not paid to a beneficiary during such beneficiary's lifetime shall be paid to the beneficiary or beneficiaries within the permitted class next entitled to priority, as provided in subsection (h). . . ."</p>
@@ -48,7 +48,7 @@
     <n id="p72">72</n>
     <p>to the War Risk Insurance Act in 1919 expanded the permitted beneficiary class to include more distant relatives of the insured, and, significantly, provided that installments payable but unpaid upon a beneficiary's death might go to his estate. [<a id="nf11" href="#fn11">Footnote 11</a>] This broadening legislation was substantially reenacted in the World War Veterans' Act of 1924. [<a id="nf12" href="#fn12">Footnote 12</a>] And after World War II, Congress, in 1946, once more liberalized the benefits of the National Service Life Insurance Act. As to policies maturing after August, 1946, it removed the restrictions on the insured's choice of beneficiary, and in certain instances permitted the payment of installment proceeds to deceased beneficiaries' estates. [<a id="nf13" href="#fn13">Footnote 13</a>] From this course of legislation, an unmistakable pattern of congressional policy emerges: statutes enacted in time of war crisis narrow the range of beneficiaries; post-war legislation broadens it. [<a id="nf14" href="#fn14">Footnote 14</a>]</p>
     <p>Section 602 of the N.S.L.I. Act of 1940, governing the distribution of the policy proceeds here in controversy, must take meaning from its historical setting. Cf. <a href="../us334/us334-0602.xml#p602">334 U. S.</a> S. 73� States v. Zazove,@ <a href="../us334/us334-0602.xml#p602">334 U. S. 602</a> (1948). Subsection (i) conditions the right of a beneficiary to the payment of any installments "upon his or her being alive to receive such payments;" it adds that</p>
-    <p>"No person shall have a vested right to any installment . . . , and any installments not paid to a beneficiary during such beneficiary's lifetime shall be paid to the beneficiary or beneficiaries . . . next entitled to priority. . . ."</p>
+    <p>"No person shall have a vested right to any installment . . ., and any installments not paid to a beneficiary during such beneficiary's lifetime shall be paid to the beneficiary or beneficiaries . . . next entitled to priority. . . ."</p>
     <p>And subsection (j), so as to disclaim any possible analogy to prior peacetime legislation which at one time had been construed to confer such rights, [<a id="nf15" href="#fn15">Footnote 15</a>] emphasizes that "No installments of such insurance shall be paid to the heirs or legal representatives as such . . . of any beneficiary." On the contrary, the subsection directs,</p>
     <p>"in the event that no person within the permitted class survives to receive the insurance or any part thereof, no payment of the unpaid installments shall be made."</p>
     <p>In the face of this clear statutory language, we are nevertheless urged to distinguish installments neither accrued nor paid from accrued installments that an intended beneficiary for some reason has not received. Whereas</p>

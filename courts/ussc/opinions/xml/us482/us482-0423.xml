@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us482-0423.html" citation="482 U.S. 423" title="Miller v. Florida">
   <opinion type="Opinions &amp; Dissents">
     <n id="p423">423</n>
-    <h>U.S. Supreme Court</h>
-    <h>Miller v. Florida, <a href="./us482-0423.xml#p423">482 U.S. 423</a> (1987)</h>
-    <h>Miller v. Florida</h>
-    <h>No. 86-5344</h>
-    <h>Argued April 21, 1987</h>
-    <h>Decided June 9, 1987</h>
-    <h><a href="./us482-0423.xml#p423">482 U.S. 423</a></h>
-    <h>CERTIORARI TO THE SUPREME COURT OF FLORIDA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Miller v. Florida, <a href="./us482-0423.xml#p423">482 U.S. 423</a> (1987)</h1>
+    <h2>Miller v. Florida</h2>
+    <h2>No. 86-5344</h2>
+    <h4>Argued April 21, 1987</h4>
+    <h4>Decided June 9, 1987</h4>
+    <h2>CERTIORARI TO THE SUPREME COURT OF FLORIDA</h2>
+    <h2>Syllabus</h2>
     <p>Florida's sentencing guidelines law assigns points for particular offenses and other factors and provides a presumptive sentence range for a defendant's composite score, within which the sentencing judge has unreviewable discretion to fix a sentence without written explanation. If the judge wishes to depart from the range, however, he must give clear and convincing written reasons based on facts proved beyond a reasonable doubt, and the sentence he imposes is subject to appellate review. At the time petitioner committed the sexual battery and other crimes for which he was convicted, the sentencing guidelines would have resulted in a presumptive sentence of 3 /2 to 4 1/2 years' imprisonment. However, the guidelines were subsequently revised to increase the number of points assigned to sexual offenses, and, at the time petitioner was sentenced, called for a presumptive sentence of 5 1/2 to 7 years for his crimes. The sentencing judge, rejecting petitioner's ex post facto argument, applied the revised guidelines to impose a 7-year sentence. The State District Court of Appeal vacated the sentence, but the State Supreme Court reversed.</p>
     <p>Held: Application of the revised guidelines law to petitioner, whose crimes occurred before the law's effective date, violates the Ex Post Facto Clause of Article I of the Federal Constitution. The revised law evidences all of the elements necessary to bring it within the ex post facto prohibition. Pp. <a href="./us482-0423.xml#p429">482 U. S. 429</a>-435.</p>
     <p>(a) The revised guidelines law is retrospective, in that it changes the legal consequences of acts committed before its effective date. The State's argument that there was no ex post facto violation, since the law provides for continuous review of the guidelines, and thereby gave petitioner "fair warning" that he would be sentenced under the guidelines in effect on his sentencing date is not persuasive, since the law did not warn petitioner of the specific punishment prescribed for his crimes. The ex post facto prohibition cannot be avoided merely by adding to a law notice of the obvious fact that it might be changed. Pp. 482 U.S. 430-431.</p>
@@ -24,7 +24,7 @@
     <p>At the time petitioner committed the crime for which he was convicted, Florida's sentencing guidelines would have resulted in a presumptive sentence of 3 1/2 to 4 1/2 years' imprisonment. At the time petitioner was sentenced, the revised guidelines called for a presumptive sentence of 5 1/2 to 7 years in prison. The trial court applied the guidelines in effect at the time of sentencing, and imposed a 7-year sentence. The question presented is whether application of these amended</p>
     <n id="p425">425</n>
     <p>guidelines in petitioner's case is unconstitutional by virtue of the Ex Post Facto Clause.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In 1983, the Florida Legislature enacted legislation replacing Florida's system of indeterminate sentencing with a sentencing guidelines scheme intended "to eliminate unwarranted variation in the sentencing process." Fla. Rule Crim. Proc. 3.701(b) (1983). See 1983 Fla. Laws, ch. 83-216. Under the sentencing statute, a guidelines commission was responsible for "the initial development of a statewide system of sentencing guidelines." Fla.Stat. § 921.001(1) (1983). Once the commission had made its recommendation, the Supreme Court of Florida was to develop a final system of guidelines. These guidelines were to become effective for crimes committed on or after October 1, 1983. Fla.Stat. § 921.001(4)(a) (1983).</p>
     <p>The sentencing statute authorized the guidelines commission to "meet annually or at the call of the chairman to review sentencing practices and recommend modifications to the guidelines." Fla.Stat. § 921.001(3) (1983). Before the convening of the legislature each year, the commission was to make its recommendations regarding the need for changes in the guidelines. The Supreme Court of Florida then could revise the sentencing guidelines to conform to an or part of the commission's recommendations. The sentencing law provided, however, that such revisions would become effective "only upon the subsequent adoption by the Legislature of legislation implementing the guidelines as then revised." Fla.Stat. § 921.001(4)(b) (1983).</p>
     <p>In accordance with this legislation, the Supreme Court of Florida developed sentencing guidelines that went into effect on October 1, 1983. See In re Rules of Criminal Procedure (Sentencing Guidelines), <a href="https://law.justia.com/cases/florida/supreme-court/1983/63962-0.html">439 So. 2d 848</a> (1983). Under the scheme, offenses were grouped into nine "offense categories" (e.g., "robbery" and "sexual offenses"). A single sentencing</p>
@@ -47,7 +47,7 @@
     <p>478 So. 2d at 1056. On that basis, it had concluded that a modification in sentencing guidelines procedure was "merely a procedural change, not requiring the application of the ex post facto doctrine" under Dobbert v. Florida, <a href="../us432/us432-0282.xml#p282">432 U. S. 282</a> (1977). 478 So. 2d at 1056.</p>
     <n id="p429">429</n>
     <p>We granted certiorari, 479 U.S. 960 (1986), and now reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Article I of the United States Constitution provides that neither Congress nor any State shall pass any "ex post facto Law." See Art. I, § 9, cl. 3; Art. I, § 10, cl. 1. Our understanding of what is meant by ex post facto largely derives from the case of <a href="../us003/us003-0386.xml#p386">Calder v. Bull</a>, 3 Dall. 386 (1798), in which this Court first considered the scope of the ex post facto prohibition. In Calder, Justice Chase, noting that the expression "ex post facto" "had been in use long before the revolution," id. at <a href="../us003/us003-0386.xml#p391">3 U. S. 391</a>, summarized his understanding of what fell "within the words and the intent of the prohibition":</p>
     <p>"1st. Every law that makes an action done before the passing of the law, and which was innocent when done, criminal, and punishes such action. 2d. Every law that aggravates a crime, or makes it greater than it was, when committed. 3d. Every law that changes the punishment, and inflicts a greater punishment, than the law annexed to the crime, when committed. 4th. Every law that alters the legal rules of evidence, and receives less or different testimony than the law required at the time of the commission of the offense, in order to convict the offender."</p>
     <p>Id. at <a href="../us003/us003-0386.xml#p390">3 U. S. 390</a> (emphasis omitted). Accord, Dobbert v. Florida, supra, at <a href="../us432/us432-0282.xml#p292">432 U. S. 292</a>, quoting Beazell v. Ohio, <a href="../us269/us269-0167.xml#p167">269 U. S. 167</a>, <a href="../us269/us269-0167.xml#p169">269 U. S. 169</a>-170 (1925).</p>
@@ -85,7 +85,7 @@
     <p>None of the reasons given in the federal parole cases even arguably applies here. First, the revised sentencing law is a law enacted by the Florida Legislature, and it has the force and effect of law. Cf. Williams v. State, <a href="https://law.justia.com/cases/florida/supreme-court/1986/67369-0.html">500 So. 2d 501</a>, <a href="https://law.justia.com/cases/florida/supreme-court/1986/68190-0.html">503</a> (Fla.1986) (departure sentence not supported by clear and convincing reasons was erroneous even though defendant consented, because "a defendant cannot . . . confer on the court the authority to impose an illegal sentence"). Nor do the revised guidelines simply provide flexible "guideposts" for use in the exercise of discretion; instead, they create a high hurdle that must be cleared before discretion can be exercised, so that a sentencing judge may impose a departure sentence only after first finding "clear and convincing reasons" that are "credible," "proven beyond a reasonable doubt," and "not . . . a factor which has already been weighed in arriving at a presumptive sentence." See State v. Mischler, 488 So. 2d at 525; Williams v. State, <a href="https://law.justia.com/cases/florida/supreme-court/1986/67380-0.html">492 So. 2d 1308</a>, <a href="https://law.justia.com/cases/florida/supreme-court/1986/66934-0.html">1309</a> (Fla.1986). Compare S.Rep. No. 98-225, p. 38 (1983) (describing the "unfettered discretion" of the Parole Commission under the system of parole guidelines). Finally, the revised guidelines directly and adversely affect the sentence petitioner receives. Thus, this is not a case where we can conclude, as we did in Dobbert, that</p>
     <p>"[t]he crime for which the present defendant was indicted, the punishment prescribed therefor, and the quantity or the degree of proof necessary to establish his guilt, all remained unaffected by the subsequent statute."</p>
     <p>432 U.S. at <a href="../us432/us432-0282.xml#p294">432 U. S. 294</a>.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The law at issue in this case, like the law in Weaver, "makes more onerous the punishment for crimes committed before its enactment." Weaver, supra, at <a href="../us450/us450-0024.xml#p36">450 U. S. 36</a>. Accordingly, we find that Florida's revised guidelines law, 1984 Fla. Laws, ch. 84-328, is void as applied to petitioner, whose</p>
     <n id="p436">436</n>
     <p>crime occurred before the law's effective date. We reverse the judgment of the Supreme Court of Florida, and remand the case for further proceedings not inconsistent with this opinion.</p>

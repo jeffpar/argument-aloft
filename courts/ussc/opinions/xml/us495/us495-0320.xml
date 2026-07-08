@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us495-0320.html" citation="495 U.S. 320" title="Delo v. Stokes">
   <opinion type="Opinions &amp; Dissents">
     <n id="p320">320</n>
-    <h>U.S. Supreme Court</h>
-    <h>Delo v. Stokes, <a href="./us495-0320.xml#p320">495 U.S. 320</a> (1990)</h>
-    <h>Delo v. Stokes</h>
-    <h>No. A-795</h>
-    <h>Decided May 11, 1990</h>
-    <h><a href="./us495-0320.xml#p320">495 U.S. 320</a></h>
-    <h>ON APPLICATION TO VACATE STAY</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Delo v. Stokes, <a href="./us495-0320.xml#p320">495 U.S. 320</a> (1990)</h1>
+    <h2>Delo v. Stokes</h2>
+    <h2>No. A-795</h2>
+    <h4>Decided May 11, 1990</h4>
+    <h2>ON APPLICATION TO VACATE STAY</h2>
+    <h2>Syllabus</h2>
     <p>After respondent Stokes was convicted and sentenced to death in Missouri, he filed three unsuccessful habeas corpus petitions in the federal courts. A few days before his scheduled execution, he filed an application for stay of execution pending consideration of a fourth habeas petition. The District Court found that the imposition of a stay was warranted by the issues raised in his claim that the state courts had selectively applied the rules governing lesser included offense instructions in capital murder cases in violation of his right to equal protection. The Court of Appeals denied the State's motion to vacate the stay.</p>
     <p>Held: The District Court abused its discretion in granting the stay. A stay of execution pending disposition of a second or successive federal habeas petition can be granted only when there are substantial grounds upon which relief can be granted. Here, there are no such grounds, because Stokes' fourth petition clearly constitutes an abuse of the writ. His claim could have been raised in his first petition for federal habeas, and the principles he asserts are not novel and could have been developed long before this application.</p>
     <p>Motion granted.</p>
@@ -33,7 +33,7 @@
     <p>If the Court of Appeals fails to act in a manner sufficiently prompt to preserve the jurisdiction of the Court and to protect the parties from the consequences of a stay entered without an adequate basis, an injured party may seek relief in this Court pursuant to our jurisdiction under the All Writs Act, 28 U.S.C. § 1651. See Maxwell v. Bishop, <a href="../us385/us385-0650.xml#p650">385 U. S. 650</a> (1967) (common law petition for writ of certiorari granted where shortness of time available before a scheduled execution made ordinary appeal procedure unavailable).</p>
     <p>Delay or default by courts in the federal system must not be allowed to deprive parties, including States, of the lawful process to which they are entitled. It is the duty of the Courts of Appeals to adopt and follow procedures which ensure all parties expeditious determinations with respect to any request for a stay. Prompt review and determination is necessary to enable criminal processes to operate without undue interference from the federal courts, and to assure the proper functioning of the federal habeas procedure.</p>
     <p>Justice BRENNAN, with whom Justice MARSHALL joins and Justice BLACKMUN joins as to Parts I, II, and III, dissenting.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Today the Court vacates a stay of execution entered by the United States District Court for the Eastern District of Missouri and found to be within that court's discretion by the United States Court of Appeals for the Eighth Circuit, sitting en banc. Contrary to the majority's intimations, this case does not involve a last-minute stay application by a defendant on the eve of his execution. Rather, Winford Stokes raised an equal protection claim in an amendment to a petition for writ of habeas corpus pending in the District Court on April 5, 1990, before the current execution date had been set. <a href="./us495-0320.xml#p320">*</a> The rush to judgment is instigated here by the</p>
     <n id="p324">324</n>
     <p>State's insistence on vacating the District Court's grant of a stay to consider Mr. Stokes' claim.</p>
@@ -49,20 +49,20 @@
     <p>this power will be soundly applied."</p>
     <p>Sanders v. United States, <a href="../us373/us373-0001.xml#p1">373 U. S. 1</a>, <a href="../us373/us373-0001.xml#p18">373 U. S. 18</a>-19 (1963). See also Wainwright v. Booker, 473 U.S. 936, <a href="../us473/us473-0938.xml#p938">938</a> (1985) (MARSHALL, J., dissenting) ("the lower court's decision is deserving of great weight"). Judge Gunn is particularly well situated to exercise the discretion Congress has entrusted to him. He has heard three of Mr. Stokes' habeas applications, attending to the complex issues and detailed facts of Mr. Stokes' conviction over several years.</p>
     <p>The Eighth Circuit, also closer to this case than we could hope to be in the few hours we have had to consider the matter, found the District Court's order sound and responsible. The Court of Appeals similarly is due considerable deference. See Barefoot v. Estelle, <a href="../us463/us463-0880.xml#p880">463 U. S. 880</a>, <a href="../us463/us463-0880.xml#p896">463 U. S. 896</a> (1983) ("A stay of execution should first be sought from the court of appeals, and this Court generally places considerable weight on the decision reached by the courts of appeals in these circumstances"); O'Connor v. Board of Education, <a href="../us449/us449-1301.xml#p1301">449 U. S. 1301</a>, <a href="../us449/us449-1301.xml#p1304">449 U. S. 1304</a> (1980) (STEVENS, J., in chambers) ("A Court of Appeals' decision to enter a stay is entitled to great deference"). Nonetheless, this Court has decided that both the District Court and the Court of Appeals have committed such gross abuses of discretion that this Court must intervene. Nothing in the Court's opinion explains adequately why the lower courts have been adjudged so harshly.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The Court vacates the stay granted by the District Court because in this Court's judgment, Mr. Stokes' claim "could have been raised long before this last minute application for stay of execution." Ante at <a href="./us495-0320.xml#p321">495 U. S. 321</a>-322. I do not share the Court's confidence in the matter. While the "equal protection principles asserted" by Mr. Stokes are hardly novel, ibid. (emphasis added) -- indeed, they date back to 1868 -- the nature of Mr. Stokes' claim is a different matter.</p>
     <n id="p326">326</n>
     <p>To determine whether the claim is novel, we must begin by defining what it is. The lower courts have not ruled on the merits of Mr. Stokes' claim. Rather, they in effect have held his case in abeyance pending resolution of Williams v. Armontrout, 891 F.2d 656 (1989); in this case, the Eighth Circuit, sitting en banc, is reviewing a panel decision that the selective application by Missouri courts of the decision in State v. Baker, <a href="https://law.justia.com/cases/missouri/supreme-court/1982/63244-0.html">636 S.W.2d 902</a>, 904-905 (1982) (en banc), cert. denied, <a href="../us459/us459-1183.xml#p1183">459 U. S. 1183</a> (1983),</p>
     <p>"denies similarly situated defendants in capital murder cases equal protection of the law in violation of the fourteenth amendment of the United States Constitution."</p>
     <p>891 F.2d at 659. Given that the Eighth Circuit has not determined definitively the contours of the equal protection claim, it is impossible to say at this time whether the claim constitutes a "novel" one.</p>
     <p>Even if we could ascertain the precise character of the claim, in order to decide whether it could have been raised in a previous habeas petition, we also would have to engage in a comprehensive review of Missouri state cases over the past decade. The Court today does not even purport to do this. In other contexts, the Court has noted that whether a legal claim is a "novel" one depends on an inquiry into existing precedents. Cf. Butler v. McKellar, <a href="../us494/us494-0407.xml#p407">494 U. S. 407</a>, <a href="./us495-0411.xml#p415">495 U. S. 415</a> (1990) (that claim is "within the logical compass' of an earlier decision, or indeed that it is `controlled' by a prior decision" does not prevent it from being "new rule" for purposes of retroactivity). Thus, the mere fact that the Court today can point to an opinion of a dissenting Missouri Supreme Court Justice in 1983 hardly establishes that Mr. Stokes' claim is not "novel."</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>When a person's life is at stake, we cannot tolerate such facile judgments. I would rather rely on the considered wisdom of the courts below, aided by their familiarity with Missouri law, that Mr. Stokes' claim cannot be decided until Williams is resolved. Given the dire consequences of error,</p>
     <n id="p327">327</n>
     <p>the Court's rush to judgment is unseemly and indefensible. See Woodard v. Hutchins, <a href="../us464/us464-0377.xml#p377">464 U. S. 377</a>, <a href="../us464/us464-0377.xml#p382">464 U. S. 382</a>-383 (1984) (BRENNAN, J., dissenting); id. at 384 (MARSHALL, J., dissenting). There is no call to deny a district court the time it needs to consider properly petitioner's claim.</p>
     <p>"It is . . . important that, before we allow human lives to be snuffed out, we be sure -- emphatically sure -- that we act within the law."</p>
     <p>Rosenberg v. United States, <a href="../us346/us346-0273.xml#p273">346 U. S. 273</a>, <a href="../us346/us346-0273.xml#p321">346 U. S. 321</a> (1953) (Douglas, J., dissenting).</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>Adhering to my view that the death penalty is in all circumstances cruel and unusual punishment prohibited by the Eighth and Fourteenth Amendments, Gregg v. Georgia, <a href="../us428/us428-0153.xml#p153">428 U. S. 153</a>, <a href="../us428/us428-0153.xml#p227">428 U. S. 227</a> (1976) (BRENNAN, J., dissenting), I would deny the application to vacate the stay entered by the District Court.</p>
     <p>Justice STEVENS, with whom Justice BLACKMUN joins, dissenting.</p>
     <p>In my opinion, both the District Court and the Court of Appeals -- particularly when acting in banc -- are in a far better position than this Court to determine whether a successive petition for habeas corpus constitutes an abuse of the writ. Accordingly, I respectfully dissent from the Court's summary disposition of the application to vacate the stay entered by the District Court and upheld by the Court of Appeals.</p>

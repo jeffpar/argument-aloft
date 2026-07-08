@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us124-0465.html" citation="124 U.S. 465" title="Smith v. Alabama">
   <opinion type="Opinions &amp; Dissents">
     <n id="p465">465</n>
-    <h>U.S. Supreme Court</h>
-    <h>Smith v. Alabama, <a href="./us124-0465.xml#p465">124 U.S. 465</a> (1888)</h>
-    <h>Smith v. Alabama</h>
-    <h>Argued January 4, 1888</h>
-    <h>Decided January 30, 1888</h>
-    <h><a href="./us124-0465.xml#p465">124 U.S. 465</a></h>
-    <h>ERROR TO THE SUPREME COURT</h>
-    <h>OF THE STATE OF ALABAMA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Smith v. Alabama, <a href="./us124-0465.xml#p465">124 U.S. 465</a> (1888)</h1>
+    <h2>Smith v. Alabama</h2>
+    <h4>Argued January 4, 1888</h4>
+    <h4>Decided January 30, 1888</h4>
+    <h2>ERROR TO THE SUPREME COURT</h2>
+    <h2>OF THE STATE OF ALABAMA</h2>
+    <h2>Syllabus</h2>
     <p>The Legislature of Alabama enacted a law entitled "An act to require locomotive engineers in this state to be examined and licensed by a board to be appointed for that purpose," in which it was provided that it should be</p>
     <p>"unlawful for the engineer of any railroad train in this state to drive or operate or engineer any train of cars or engine upon the main line or roadbed of any railroad in this state which is used for the transportation of persons, passengers or freight without first undergoing an examination and obtaining a license as hereinafter provided."</p>
     <p>The statute then provided for the creation of a board of examiners and prescribed their duties, and authorized them to issue licenses and imposed a license fee, and then enacted</p>

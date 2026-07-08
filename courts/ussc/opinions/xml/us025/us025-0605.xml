@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us025-0605.html" citation="25 U.S. 605" title="Scott v. Shreeve">
   <opinion type="Opinions &amp; Dissents">
     <n id="p605">605</n>
-    <h>U.S. Supreme Court</h>
-    <h>Scott v. Shreeve, <a href="./us025-0605.xml#p605">25 U.S. 605</a> (1827)</h>
-    <h>Scott v. Shreeve</h>
-    <h><a href="./us025-0605.xml#p605">25 U.S. 605</a></h>
-    <h>APPEAL FROM THE CIRCUIT COURT</h>
-    <h>FOR THE DISTRICT OF COLUMBIA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Scott v. Shreeve, <a href="./us025-0605.xml#p605">25 U.S. 605</a> (1827)</h1>
+    <h2>Scott v. Shreeve</h2>
+    <h2>APPEAL FROM THE CIRCUIT COURT</h2>
+    <h2>FOR THE DISTRICT OF COLUMBIA</h2>
+    <h2>Syllabus</h2>
     <p>Relief in equity against a judgment at law upon certain bonds given for the indemnity of the obligee, as endorser of notes drawn by the obligor, the consideration having, failed.</p>
     <p>The assignee of such bonds takes them subject to all equities existing between the original parties.</p>
     <p>The plaintiff below is entitled to relief in equity, not having a complete and adequate remedy at law.</p>

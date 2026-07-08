@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us443-0307.html" citation="443 U.S. 307" title="Jackson v. Virginia">
   <opinion type="Opinions &amp; Dissents">
     <n id="p307">307</n>
-    <h>U.S. Supreme Court</h>
-    <h>Jackson v. Virginia, <a href="./us443-0307.xml#p307">443 U.S. 307</a> (1979)</h>
-    <h>Jackson v. Virginia</h>
-    <h>No. 78-5283</h>
-    <h>Argued March 21, 1979</h>
-    <h>Decided June 28, 1979</h>
-    <h><a href="./us443-0307.xml#p307">443 U.S. 307</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE FOURTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Jackson v. Virginia, <a href="./us443-0307.xml#p307">443 U.S. 307</a> (1979)</h1>
+    <h2>Jackson v. Virginia</h2>
+    <h2>No. 78-5283</h2>
+    <h4>Argued March 21, 1979</h4>
+    <h4>Decided June 28, 1979</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE FOURTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner was convicted of first-degree murder after a bench trial in a Virginia court, and his motion and petition in the state courts to set aside the conviction on the ground that there was insufficient evidence of premeditation, a necessary element of first-degree murder, were denied. He then brought a habeas corpus proceeding in Federal District Court, which, applying the "no evidence" criterion of Thompson v. Louisville, <a href="../us362/us362-0199.xml#p199">362 U. S. 199</a>, found the record devoid of evidence of premeditation and granted the writ. Applying the same criterion, the Court of Appeals reversed, holding that there was some evidence that petitioner had intended to kill the victim.</p>
     <p>Held:</p>
     <p>1. A federal habeas corpus court must consider not whether there was any evidence to support a state court conviction, but whether there was sufficient evidence to justify a rational trier of fact to find guilt beyond a reasonable doubt. In re Winship, <a href="../us397/us397-0358.xml#p358">397 U. S. 358</a>. Pp. <a href="./us443-0307.xml#p313">443 U. S. 313</a>-324.</p>
@@ -26,7 +26,7 @@
     <n id="p309">309</n>
     <p>MR. JUSTICE STEWART delivered the opinion of the Court.</p>
     <p>The Constitution prohibits the criminal conviction of any person except upon proof of guilt beyond a reasonable doubt. In re Winship, <a href="../us397/us397-0358.xml#p358">397 U. S. 358</a>. The question in this case is what standard is to be applied in a federal habeas corpus proceeding when the claim is made that a person has been convicted in a state court upon insufficient evidence.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The petitioner was convicted after a bench trial in the Circuit Court of Chesterfield County, Va., of the first-degree murder of a woman named Mary Houston Cole. [<a id="nf1" href="#fn1">Footnote 1</a>] Under Virginia law, murder is defined as "the unlawful killing of another with malice aforethought." Stapleton v. Commonwealth, 123 Va. 825, 96 S.E. 801. Premeditation, or specific intent to kill, distinguishes murder in the first from murder in the second degree; proof of this element is essential to conviction of the former offense, and the burden of proving it clearly rests with the prosecution. Shiflett v. Commonwealth, 143 Va. 609, 130 S.E. 777; Jefferson v. Commonwealth, 214 Va. 432, 201 S.E.2d 749.</p>
     <p>That the petitioner had shot and killed Mrs. Cole was not in dispute at the trial. The State's evidence established that</p>
     <n id="p310">310</n>
@@ -41,9 +41,9 @@
     <p>We granted certiorari to consider the petitioner's claim that, under In re Winship, supra, a federal habeas corpus court must</p>
     <n id="p313">313</n>
     <p>consider not whether there was any evidence to support a state court conviction, but whether there was sufficient evidence to justify a rational trier of the facts to find guilt beyond a reasonable doubt. 439 U.S. 1001.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Our inquiry in this case is narrow. The petitioner has not seriously questioned any aspect of Virginia law governing the allocation of the burden of production or persuasion in a murder trial. See Mullaney v. Wilbur, <a href="../us421/us421-0684.xml#p684">421 U. S. 684</a>; Patterson v. New York, <a href="../us432/us432-0197.xml#p197">432 U. S. 197</a>. As the record demonstrates, the judge, sitting as factfinder in the petitioner's trial, was aware that the State bore the burden of establishing the element of premeditation, and stated that he was applying the reasonable doubt standard in his appraisal of the State's evidence. The petitioner, moreover, does not contest the conclusion of the Court of Appeals that, under the "no evidence" rule of Thompson v. Louisville, supra, his conviction of first-degree murder is sustainable. And he has not attacked the sufficiency of the evidence to support a conviction of second-degree murder. His sole constitutional claim, based squarely upon Winship, is that the District Court and the Court of Appeals were in error in not recognizing that the question to be decided in this case is whether any rational factfinder could have concluded beyond a reasonable doubt that the killing for which the petitioner was convicted was premeditated. The question thus raised goes to the basic nature of the constitutional right recognized in the Winship opinion.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>A</p>
     <p>This is the first of our cases to expressly consider the question whether the due process standard recognized in Winship constitutionally protects an accused against conviction except upon evidence that is sufficient fairly to support a conclusion</p>
     <n id="p314">314</n>
@@ -84,7 +84,7 @@
     <n id="p324">324</n>
     <p>is entitled to complain that he has been unconstitutionally convicted and imprisoned as a burglar.</p>
     <p>We hold that, in a challenge to a state criminal conviction brought under 28 U.S.C. § 2254 -- if the settled procedural prerequisites for such a claim have otherwise been satisfied -- the applicant is entitled to habeas corpus relief if it is found that, upon the record evidence adduced at the trial, no rational trier of fact could have found proof of guilt beyond a reasonable doubt. [<a id="nf16" href="#fn16">Footnote 16</a>]</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>Turning finally to the specific facts of this case, we reject the petitioner's claim that, under the constitutional standard dictated by Winship, his conviction of first-degree murder cannot stand. A review of the record in the light most favorable to the prosecution convinces us that a rational factfinder could readily have found the petitioner guilty beyond a reasonable doubt of first-degree murder under Virginia law.</p>
     <p>There was no question at the trial that the petitioner had fatally shot Mary Cole. The crucial factual dispute went to the sufficiency of the evidence to support a finding that he had specifically intended to kill her. This question, as the Court of Appeals recognized, must be gauged in the light of applicable Virginia law defining the element of premeditation. Under that law, it is well settled that premeditation need not exist for any particular length of time, and that an intent to kill may be formed at the moment of the commission of the unlawful act. Commonwealth v. Brown, 90 Va. 671, 19 S.E. 447. From the circumstantial evidence in the record, it is</p>
     <n id="p325">325</n>
@@ -156,7 +156,7 @@
       <p>judge that a "rational trier of fact could have found the essential elements of the crime beyond a reasonable doubt." Ante at <a href="./us443-0307.xml#p319">443 U. S. 319</a>.</p>
       <p>The adoption of this novel constitutional rule is not necessary to the decision of this case. Moreover, I believe it is an unwise act of lawmaking. Despite its chimerical appeal as a new counterpart to the venerable principle recognized in Winship, I am persuaded that its precipitous adoption will adversely affect the quality of justice administered by federal judges. For that reason, I shall analyze this new brainchild with some care.</p>
       <p>I shall begin by explaining why neither the record in this case nor general experience with challenges to the sufficiency of the evidence supporting criminal convictions supports, much less compels, the conclusion that there is any need for this new constitutional precept. I shall next show that it is not logically compelled by either the holding or the analysis in In re Winship, supra. Finally, I shall try to demonstrate why the Court's new rule -- if it is not just a meaningless shibboleth -- threatens serious harm to the quality of our judicial system.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>It is, of course, part of this Court's tradition that new rules of law emerge from the process of case-by-case adjudication of constitutional issues. Widespread concern that existing constitutional doctrine is unjust often provides the occasion, and is sometimes even relied upon as a justification, for the exercise of such lawmaking authority by the Court. Without entering the debate over the legitimacy of this justification for judicial action, it is at least certain that it should not be the basis for dramatic -- indeed, for any -- constitutional lawmaking efforts unless (1) those efforts are necessary to the decision of the case at hand and (2) powerful reasons favor a change in the law. See Ashwander v. TVA, <a href="../us297/us297-0288.xml#p288">297 U. S. 288</a>, <a href="../us297/us297-0288.xml#p345">297 U. S. 345</a>-348 (Brandeis, J., concurring).</p>
       <n id="p328">328</n>
       <p>In this case, the Court's analysis fails on both counts. It has accordingly formulated a new constitutional principle under the most dangerous possible circumstances -- i.e., where the exercise of judicial authority is neither necessitated nor capable of being limited by "the precise facts to which [the rule is originally] to be applied," Liverpool, N.Y. &amp; P. S.S. Co. v. Emigration Comm'rs, <a href="../us113/us113-0033.xml#p33">113 U. S. 33</a>, <a href="../us113/us113-0033.xml#p39">113 U. S. 39</a>, nor even by some broader set of identifiable experiences with the evil supposedly involved.</p>
@@ -168,7 +168,7 @@
       <p>Moreover, a study of the 127 federal criminal convictions that were reviewed by the various Courts of Appeals and reported in the most recent hardbound volume of the Federal Reporter, Second Series, Volume 589, reveals that only 3 were overturned on sufficiency grounds. And of those, one was overturned under a "no evidence" standard, while the other two, in which a total of only 3 out of 36 counts were actually reversed, arguably involved legal issues masquerading as sufficiency questions. [Footnote 2/1] It is difficult to believe that the federal courts will turn up more sufficiency problems than this on habeas review when, instead of acting as the first level of</p>
       <n id="p330">330</n>
       <p>review, as in the cases studied, they will be acting as the second, third, or even fourth level of appellate review. In short, there is simply no reason to tinker with an elaborate mechanism that is now functioning well.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>There is nothing in the facts of this case or, so far as the Court has demonstrated, in those of cases like it to warrant today's excursion into constitutional rulemaking. The Court instead portrays its rule as the logical corollary of the principle recognized in Winship regarding the subjective state of mind that persons charged with the responsibility of evaluating the credibility of evidence must possess before they find the defendant guilty in a criminal case. But an examination of Winship reveals that it has nothing to do with appellate, much less habeas corpus, review standards; that the reasoning used in that case to reach its conclusion with respect to the trier of fact does not support, and indeed counsels against, the Court's conclusion with respect to federal habeas judges; and that there is no necessary connection between the rule recognized in Winship and the rule invented by the Court today.</p>
       <p>In distinct contrast to the circumstances of this case, the facts of Winship presented</p>
       <p>"a case where the choice of the standard of proof has made a difference: the [trial] judge below forthrightly acknowledged that he believed by a preponderance of the evidence [in], but was not convinced beyond a reasonable doubt"</p>
@@ -191,7 +191,7 @@
       <n id="p335">335</n>
       <p>this choice after Winship, it should also allow the presumption that the Court has rejected -- that trial judges and juries will act rationally and honestly in applying the reasonable doubt standard, at least so long as the trial is free of procedural error and the record contains evidence tending to prove each of the elements of the offense.</p>
       <p>Time may prove that the rule the Court has adopted today is the wisest compromise between one extreme that maximizes the protection against the risk that innocent persons will be erroneously convicted and the other extreme that places the greatest faith in the ability of fair procedures to produce just verdicts. But the Court's opinion should not obscure the fact that its new rule is not logically compelled by the analysis or the holding in Winship or in any other precedent, or the fact that the rule reflects a new policy choice, rather than the application of a preexisting rule of law.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>The Court cautions against exaggerating the significance of its new rule. Ante at <a href="./us443-0307.xml#p321"> 443 U. S. 321</a>. It is true that, in practice, there may be little or no difference between a record that does not contain at least some evidence tending to prove every element of an offense and a record containing so little evidence that no rational factfinder could be persuaded of guilt beyond a reasonable doubt. Moreover, I think the Court is quite correct when it acknowledges that "most meritorious challenges to constitutional sufficiency of the evidence undoubtedly will be recognized in the state courts." Ante at <a href="./us443-0307.xml#p322">443 U. S. 322</a>. But this only means that the new rule will seldom, if ever, provide a convicted state prisoner with any tangible benefits. It does not mean that the rule will have no impact on the administration of justice. On the contrary, I am persuaded that it will be seriously harmful both to the state and federal judiciaries.</p>
       <n id="p336">336</n>
       <p>The Court indicates that the new standard to be applied by federal judges in habeas corpus proceedings may be substantially the same as the standard most state reviewing courts are already applying. Ante at <a href="./us443-0307.xml#p322"> 443 U. S. 322</a>. The federal district courts are therefore being directed simply to duplicate the reviewing function that is now being performed adequately by state appellate courts. In my view, this task may well be inconsistent with the prohibition -- added by Congress to the federal habeas statute in order to forestall undue federal interference with state proceedings, see Wainwright v. Sykes, <a href="../us433/us433-0072.xml#p72">433 U. S. 72</a>, <a href="../us433/us433-0072.xml#p80">433 U. S. 80</a> -- against overturning "a determination after a hearing on the merits of a factual issue, made by a State court of competent jurisdiction." 28 U.S.C. 2254(d). See LaVallee v. Delle Rose, <a href="../us410/us410-0690.xml#p690">410 U. S. 690</a>. In any case, to assign a single federal district judge the responsibility of directly reviewing, and inevitably supervising, the most routine work of the highest courts of a State can only undermine the morale and the esteem of the state judiciary -- particularly when the stated purpose of the additional layer of review is to determine whether the State's factfinder is "rational." [Footnote 2/9] Such consequences are intangible, but nonetheless significant.</p>

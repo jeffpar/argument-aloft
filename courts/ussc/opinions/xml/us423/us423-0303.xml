@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us423-0303.html" citation="423 U.S. 303" title="United States v. Bornstein">
   <opinion type="Opinions &amp; Dissents">
     <n id="p303">303</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Bornstein, <a href="./us423-0303.xml#p303">423 U.S. 303</a> (1976)</h>
-    <h>United States v. Bornstein</h>
-    <h>No. 74-712</h>
-    <h>Argued October 8, 1975</h>
-    <h>Decided January 14, 1976</h>
-    <h><a href="./us423-0303.xml#p303">423 U.S. 303</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE THIRD CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Bornstein, <a href="./us423-0303.xml#p303">423 U.S. 303</a> (1976)</h1>
+    <h2>United States v. Bornstein</h2>
+    <h2>No. 74-712</h2>
+    <h4>Argued October 8, 1975</h4>
+    <h4>Decided January 14, 1976</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE THIRD CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>A prime contractor (Model) had a contract with the Government to provide radio kits containing electron tubes meeting certain specifications. A subcontractor (United), which was to supply the tubes, sent to Model in three separately invoiced shipments tubes that were not of the required quality but were falsely marked to indicate that they were. The radio kits that Model in turn shipped to the Government contained 397 of these falsely marked tubes. Model then sent 35 invoices to the Government for the kits, each invoice including claims for payment for the falsely marked tubes. After the Government discovered the fraud, it recovered in settlement from Model $40.72 per tube or a total of $16,165.84. Subsequently the Government sued United and two of its owner-officers (respondents) under the False Claims Act (Act), which provides that the Government may recover from a person who presents a false claim or causes a false claim to be presented to it a forfeiture of $2,000 plus an amount equal to double the amount of damages that it sustains by reason of the false claim. The Government alleged that United was liable for 35 $2,000 forfeitures, one for each invoice that it "caused" Model to submit, and also claimed damages of $16,205.54, consisting of a replacement cost of $40.82 per tube for 397 tubes. The District Court agreed that there had been 35 forfeitures, but ruled that before the Government's damages could be doubled, they had to be reduced by the amount of Model's payment to the Government, and accordingly computed double damages at only $79.40 (double the 10-cent difference per tube between its replacement cost and the payment already received from Model). On cross-appeals, the Court of Appeals agreed with the District Court on the double damages issue, but held that, since there had been only one subcontract involved, there should be only one forfeiture.</p>
     <p>Held:</p>
     <p>1. A correct application of the Act's language requires that the focus in each case be upon the specific conduct of the person from whom the Government seeks to collect the forfeiture. Thus,</p>
@@ -30,11 +30,11 @@
     <p>that arise when the United States sues a subcontractor under the Act on the ground that the subcontractor has caused the prime contractor to present false claims: first,</p>
     <n id="p307">307</n>
     <p>how should the number of $2,000 forfeitures be counted? Second, when the United States has already recovered damages from the prime contractor because of the subcontractor's fraud, what effect does that recovery have upon the Government's right to recover double damages from the subcontractor?</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In 1962, the United States entered into a $2,100,000 contract with Model Engineering &amp; Manufacturing Corporation, Inc. (Model), for the provision of radio kits. Each kit was to contain electron tubes that met certain specifications. Model subcontracted with United National Labs (United) to supply these tubes at a price of $32 each. The tubes that United sent to Model under this subcontract were not of the required quality, but were falsely marked by United to indicate that they were. United sent at least 21 boxes of these falsely marked tubes to Model, in three separately invoiced shipments. The radio kits that Model in turn shipped to the United States contained 397 of those falsely marked tubes. Model sent 35 invoices to the Government for the radio kits, and each invoice included claims for payment for the falsely marked tubes that had been supplied to Model by United. After the Government discovered the fraud, it recovered $40.72 per tube from Model and also retained the falsely marked tubes.</p>
     <n id="p308">308</n>
     <p>Subsequently, the Government brought this civil action in a Federal District Court under the False Claims Act against United and two of its owner-officers, the respondents Philip L. Bornstein and Gerald Page. [<a id="nf2" href="#fn2">Footnote 2</a>] The complaint alleged that United was liable for 35 $2,000 forfeitures -- one forfeiture for each invoice that it had "caused" Model to submit, [<a id="nf3" href="#fn3">Footnote 3</a>] and also claimed damages of $16,205.54, consisting of $40.82 per tube for 397 tubes. The trial court agreed that there had been 35 forfeitures, but ruled that, before the Government's damages could be doubled, they were to be reduced by the amount of Model's payment to the United States. The court accordingly computed double damages at only $79.40, and awarded the Government a total of $70,079.40. <a href="https://law.justia.com/cases/federal/district-courts/FSupp/361/869/1601989/">361 F. Supp. 869</a> (NJ). On cross-appeals, the Court of Appeals agreed with the trial court on the double damages issue, but concluded that, since there had been only one subcontract involved, there should be only one statutory forfeiture. Accordingly, the appellate court held that United was liable for only $2,079.40. 504 F.2d 368 (CA3). We granted the Government's petition for certiorari to consider the statutory questions presented. 420 U.S. 906.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The Number of Statutory Forfeitures</p>
     <p>The False Claims Act provides that a person "who</p>
     <n id="p309">309</n>
@@ -58,7 +58,7 @@
     <n id="p313">313</n>
     <p>language by the District Court is, therefore, no more satisfactory than the interpretation adopted by the Court of Appeals.</p>
     <p>A correct application of the statutory language requires, rather, that the focus in each case be upon the specific conduct of the person from whom the Government seeks to collect the statutory forfeitures. In the present case, United committed three acts which caused Model to submit false claims to the Government -- the three separately invoiced shipments to Model. If United had not shipped any falsely branded tubes to Model, Model could not have incorporated such tubes into its radio kits and would not have had occasion to submit any false claims to the United States. When, however, United dispatched each shipment of falsely marked tubes to Model, it did so knowing that Model would incorporate the tubes into the radio kits it later shipped to the Government, and that it would ask for payment from the Government on account of those tubes. Thus, United's three shipments of falsely branded tubes to Model caused Model to submit false claims to the United States, and United is thus liable for three $2,000 statutory forfeitures representing the three separate shipments that it made to Model. [<a id="nf8" href="#fn8">Footnote 8</a>]</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Computation of Double Damages</p>
     <p>In the District Court, "[t]he Government . . . established that the per unit cost to replace the [falsely</p>
     <n id="p314">314</n>

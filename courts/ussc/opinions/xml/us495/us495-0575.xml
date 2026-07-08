@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us495-0575.html" citation="495 U.S. 575" title="Taylor v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p575">575</n>
-    <h>U.S. Supreme Court</h>
-    <h>Taylor v. United States, <a href="./us495-0575.xml#p575">495 U.S. 575</a> (1990)</h>
-    <h>Taylor v. United States</h>
-    <h>No. 88-7194</h>
-    <h>Argued Feb. 28, 1990</h>
-    <h>Decided May 29, 1990</h>
-    <h><a href="./us495-0575.xml#p575">495 U.S. 575</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE EIGHTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Taylor v. United States, <a href="./us495-0575.xml#p575">495 U.S. 575</a> (1990)</h1>
+    <h2>Taylor v. United States</h2>
+    <h2>No. 88-7194</h2>
+    <h4>Argued Feb. 28, 1990</h4>
+    <h4>Decided May 29, 1990</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE EIGHTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>When respondent Taylor pleaded guilty to possession of a firearm by a convicted felon in violation of 18 U.S.C. 922(g)(1), he had four prior convictions, including two for second-degree burglary under Missouri law. The Government sought to apply § 924(e), which, inter alia, (1) provides a sentence enhancement for a "person" convicted under § 922(g) who "has three previous convictions . . . for a violent felony," and (2) defines "violent felony" as "(B) . . . any crime punishable by imprisonment for a term exceeding one year" that "(i) has as an element the use, attempted use, or threatened use of physical force against [another's] person," or</p>
     <p>"(ii) is burglary [or other specified offenses] or otherwise involves conduct that presents a serious potential risk of physical injury to another."</p>
     <p>In imposing an enhanced sentence upon Taylor, the District Court rejected his contention that, because his burglary convictions did not present a risk of physical injury under § 924(e)(2)(B)(ii), they should not count. The Court of Appeals affirmed, ruling that the word "burglary" in § 924(e)(2)(B)(ii) "means burglary' however a state chooses to define it."</p>
@@ -31,7 +31,7 @@
     <p>In this case, we are called upon to determine the meaning of the word "burglary" as it is used in § 1402 of Subtitle I (the Career Criminals Amendment Act of 1986) of the Anti-Drug Abuse Act of 1986, 18 U.S.C. § 924(e). This statute provides a sentence enhancement for a defendant who is convicted under 18 U.S.C. § 922(g) (unlawful possession of a</p>
     <n id="p578">578</n>
     <p>firearm) and who has three prior convictions for specified types of offenses, including "burglary."</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Under 18 U.S.C. § 922(g)(1), it is unlawful for a person who has been convicted previously for a felony to possess a firearm. A defendant convicted for a violation of § 922(g)(1) is subject to the sentence-enhancement provision at issue, § 924(e):</p>
     <p>"(1) In the case of a person who violates section 922(g) of this title and has three previous convictions by any court . . . for a violent felony or a serious drug offense, or both . . . such person shall be fined not more than $25,000 and imprisoned not less than fifteen years. . . ."</p>
     <p>"(2) As used in this subsection -- "</p>
@@ -47,7 +47,7 @@
     <p>Appeals concerning the definition of burglary for purposes of § 924(e). [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
     <p>The word "burglary" has not been given a single accepted meaning by the state courts; the criminal codes of the States define burglary in many different ways. See United States v. Hill, 863 F.2d 1575, 1582, and n. 5 (CA11 1989) (surveying a number of burglary statutes). On the face of the federal enhancement provision, it is not readily apparent whether Congress intended "burglary" to mean whatever the State of the defendant's prior conviction defines as burglary, or whether it intended that some uniform definition of burglary be applied to all cases in which the Government seeks a § 924(e) enhancement. And if Congress intended that a uniform definition of burglary be applied, was that definition to be the traditional common law definition, [<a id="nf3" href="#fn3">Footnote 3</a>] or one of the broader "generic" definitions articulated in the Model Penal Code and in a predecessor statute to § 924(e), or some other definition specifically tailored to the purposes of the enhancement statute?</p>
     <n id="p581">581</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>Before examining these possibilities, we think it helpful to review the background of § 924(e). Six years ago, Congress enacted the first version of the sentence-enhancement provision. Under the Armed Career Criminal Act of 1984, Pub.L. 98473, ch. 18, 98 Stat. 2185, 18 U.S.C.App. § 1202(a) (1982 ed. Supp. III) (repealed in 1986 by Pub.L. 99-308, § 104(b), 100 Stat. 459), any convicted felon found guilty of possession of a firearm, who had three previous convictions "for robbery or burglary," was to receive a mandatory minimum sentence of imprisonment for 15 years. Burglary was defined in the statute itself as</p>
     <p>"any felony consisting of entering or remaining surreptitiously within a building that is property of another with intent to engage in conduct constituting a Federal or State offense."</p>
     <p>§ 1202(c)(9).</p>
@@ -122,7 +122,7 @@
     <n id="p590">590</n>
     <p>casualty of a complex drafting process. [<a id="nf5" href="#fn5">Footnote 5</a>] In any event, there is nothing in the history to show that Congress intended in 1986 to replace the 1984 "generic" definition of burglary with something entirely different. Although the omission of a preexisting definition of a term often indicates Congress' intent to reject that definition, see INS v. Cardoza-Fonseca, <a href="../us480/us480-0421.xml#p421">480 U. S. 421</a>, <a href="../us480/us480-0421.xml#p432">480 U. S. 432</a> (1987); Russello v. United States, <a href="../us464/us464-0016.xml#p16">464 U. S. 16</a>, 23 (1983), we draw no such inference here</p>
     <p>Nor is there any indication that Congress ever abandoned its general approach, in designating predicate offenses, of using uniform, categorical definitions to capture all offenses of a certain level of seriousness that involve violence or an inherent risk thereof, and that are likely to be committed by career offenders, regardless of technical definitions and labels under state</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>These observations about the purpose and general approach of the enhancement provision enable us to narrow the range of possible meanings of the term "burglary."</p>
     <p>A</p>
     <p>First, we are led to reject the view of the Court of Appeals in this case. It seems to us to be implausible that Congress intended the meaning of "burglary" for purposes of § 924(e) to depend on the definition adopted by the State of conviction. That would mean that a person convicted of unlawful possession of a firearm would, or would not, receive a sentence enhancement</p>
@@ -173,7 +173,7 @@
     <n id="p599">599</n>
     <p>Act therefore implies, at most, that Congress did not wish to specify an exact formulation that an offense must meet in order to count as "burglary" for enhancement purposes.</p>
     <p>We conclude that a person has been convicted of burglary for purposes of a § 924(e) enhancement if he is convicted of any crime, regardless of its exact definition or label, having the basic elements of unlawful or unprivileged entry into, or remaining in, a building or structure, with intent to commit a crime.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>There remains the problem of applying this conclusion to cases in which the state statute under which a defendant is convicted varies from the generic definition of "burglary." If the state statute is narrower than the generic view, e.g., in cases of burglary convictions in common law States or convictions of first-degree or aggravated burglary, there is no problem, because the conviction necessarily implies that the defendant has been found guilty of all the elements of generic burglary. And if the defendant was convicted of burglary in a State where the generic definition has been adopted, with minor variations in terminology, then the trial court need find only that the state statute corresponds in substance to the generic meaning of burglary.</p>
     <p>A few States' burglary statutes, however, as has been noted above, define burglary more broadly, e.g., by eliminating the requirement that the entry be unlawful, or by including places, such as automobiles and vending machines, other than buildings. One of Missouri's second-degree burglary statutes in effect at the times of petitioner Taylor's convictions included breaking and entering "any booth or tent, or any boat or vessel, or railroad car." Mo.Rev.Stat. § 560.070 (1969) (repealed). Also, there may be offenses under some States' laws that, while not called "burglary," correspond in substantial part to generic burglary. We therefore must address the question whether, in the case of a defendant who has been convicted under a nongeneric</p>
     <n id="p600">600</n>

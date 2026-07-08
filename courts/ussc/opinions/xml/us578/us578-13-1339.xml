@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us578-13-1339.html" citation="578 U.S. 13-1339" title="Spokeo, Inc. v. Robins">
   <opinion type="Opinion" author="Alito">
     <p>NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 13–1339</p>
-    <p>_________________</p>
     <p>SPOKEO, INC., PETITIONER v. THOMAS ROBINS</p>
     <p>on writ of certiorari to the united states court of appeals for the ninth circuit</p>
     <p>[May 16, 2016]</p>
@@ -51,16 +50,14 @@
     <f n="2"><a id="fn1-2" href="#nf1-2">2</a> “The term ‘consumer reporting agency’ means any person which, for monetary fees, dues, or on a cooperative nonprofit basis, regularly engages in whole or in part in the practice of assembling or evaluating consumer credit information or other information on consumers for the purpose of furnishing consumer reports to third parties, and which uses any means or facility of interstate commerce for the purpose of preparing or furnishing consumer reports.” §1681a(f ).</f>
     <f n="3"><a id="fn1-3" href="#nf1-3">3</a> This statutory provision uses the term “consumer,” but that term is defined to mean “an individual.” §1681a(c).</f>
     <f n="4"><a id="fn1-4" href="#nf1-4">4</a> For purposes of this opinion, we assume that Spokeo is a consumer reporting agency.</f>
-    <f n="5"><a id="fn1-5" href="#nf1-5">5</a> See Edwards v. First American Corp., 610 F. 3d 514 (CA9 2010), cert. granted sub nom. First American Financial Corp. v. Edwards, 564 U. S. 1018 (2011) , cert. dism’d as improvidently granted, 567 U. S. ___ (2012) ( per curiam).</f>
+    <f n="5"><a id="fn1-5" href="#nf1-5">5</a> See Edwards v. First American Corp., 610 F. 3d 514 (CA9 2010), cert. granted sub nom. First American Financial Corp. v. Edwards, 564 U. S. 1018 (2011), cert. dism’d as improvidently granted, 567 U. S. ___ (2012) ( per curiam).</f>
     <f n="6"><a id="fn1-6" href="#nf1-6">6</a> “That a suit may be a class action . . . adds nothing to the question of standing, for even named plaintiffs who represent a class ‘must allege and show that they personally have been injured, not that injury has been suffered by other, unidentified members of the class to which they belong.’ ” Simon v. Eastern Ky. Welfare Rights Organization, 426 U. S. 26, 40, n. 20 (1976) (quoting Warth, 422 U. S., at 502).</f>
     <f n="7"><a id="fn1-7" href="#nf1-7">7</a> The fact that an injury may be suffered by a large number of people does not of itself make that injury a nonjusticiable generalized grievance. The victims’ injuries from a mass tort, for example, are widely shared, to be sure, but each individual suffers a particularized harm.</f>
     <f n="8"><a id="fn1-8" href="#nf1-8">8</a> We express no view about any other types of false information that may merit similar treatment. We leave that issue for the Ninth Circuit to consider on remand.</f>
   </opinion>
   <opinion type="Concurrence" author="Thomas">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 13–1339</p>
-    <p>_________________</p>
     <p>SPOKEO, INC., PETITIONER v. THOMAS ROBINS</p>
     <p>on writ of certiorari to the united states court of appeals for the ninth circuit</p>
     <p>[May 16, 2016]</p>
@@ -85,9 +82,7 @@
   </opinion>
   <opinion type="Dissent" author="Ginsburg">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 13–1339</p>
-    <p>_________________</p>
     <p>SPOKEO, INC., PETITIONER v. THOMAS ROBINS</p>
     <p>on writ of certiorari to the united states court of appeals for the ninth circuit</p>
     <p>[May 16, 2016]</p>
@@ -103,6 +98,6 @@
     <p>For the reasons stated, I would affirm the Ninth Circuit’s judgment.</p>
     <f n="1"><a id="fn3-1" href="#nf3-1">1</a> Congress added the right of action for willful violations in 1996 as part of the Consumer Credit Reporting Reform Act, 110Stat. 3009–426.</f>
     <f n="2"><a id="fn3-2" href="#nf3-2">2</a> Because this case remains at the pleading stage, the court of first instance must assume the truth of Robins’ factual allegations. In particular, that court must assume, subject to later proof, that Spokeo is a consumer reporting agency under 15 U. S. C. §1681a(f ) and that, in preparing consumer reports, Spokeo does not employ reasonable procedures to ensure maximum possible accuracy, in violation of the FCRA.</f>
-    <f n="3"><a id="fn3-3" href="#nf3-3">3</a> Just as the right to truthful information at stake in Havens Realty Corp. v. Coleman, 455 U. S. 363 (1982) , was closely tied to the Fair Housing Act’s goal of eradicating racial discrimination in housing, so the right here at stake is closely tied to the FCRA’s goal of protecting consumers against dissemination of inaccurate credit information about them.</f>
+    <f n="3"><a id="fn3-3" href="#nf3-3">3</a> Just as the right to truthful information at stake in Havens Realty Corp. v. Coleman, 455 U. S. 363 (1982), was closely tied to the Fair Housing Act’s goal of eradicating racial discrimination in housing, so the right here at stake is closely tied to the FCRA’s goal of protecting consumers against dissemination of inaccurate credit information about them.</f>
   </opinion>
 </case>

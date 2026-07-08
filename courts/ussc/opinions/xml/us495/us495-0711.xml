@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us495-0711.html" citation="495 U.S. 711" title="United States v. Montalvo-Murillo">
   <opinion type="Opinions &amp; Dissents">
     <n id="p711">711</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Montalvo-Murillo, <a href="./us495-0711.xml#p711">495 U.S. 711</a> (1990)</h>
-    <h>United States v. Montalvo-Murillo</h>
-    <h>No. 89-163</h>
-    <h>Argued Jan. 9, 1990</h>
-    <h>Decided May 29, 1990</h>
-    <h><a href="./us495-0711.xml#p711">495 U.S. 711</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE TENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Montalvo-Murillo, <a href="./us495-0711.xml#p711">495 U.S. 711</a> (1990)</h1>
+    <h2>United States v. Montalvo-Murillo</h2>
+    <h2>No. 89-163</h2>
+    <h4>Argued Jan. 9, 1990</h4>
+    <h4>Decided May 29, 1990</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE TENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>A provision of the Bail Reform Act of 1984, 18 U.S.C. § 3142(e), requires that a suspect held in pretrial custody on federal criminal charges be detained if, "after a hearing pursuant to . . . subsection (f)," he is found to pose a risk of flight and a danger to others or the community and if no condition of release can give reasonable assurances against these contingencies. Section 3142(f) provides that, before detention can occur, a judicial officer "shall" conduct a hearing "immediately upon the person's first appearance before the . . . officer" unless he grants a continuance. Respondent was arrested on federal drug charges, and a Magistrate, at a detention hearing held after respondent's "first appearance" and after continuances granted beyond the period permitted by the Act, ordered his release on bond. The District Court, while finding that no conditions reasonably could assure his appearance or the community's safety, held that the detention hearing had not been held upon respondent's first appearance, and that pretrial release was the appropriate remedy for violation of the statutory requirement. The Court of Appeals affirmed. Upon issuance of the court's mandate, respondent was released, took flight, and remains at large. He is, however, represented by counsel before this Court.</p>
     <p>Held:</p>
     <p>1. Respondent's flight does not render the case moot, for the resolution of this dispute determines the course of proceedings if and when he is rearrested on the charges now pending. P. <a href="./us495-0711.xml#p713">495 U. S. 713</a>.</p>
@@ -30,7 +30,7 @@
     <p>We granted certiorari, 493 U.S. 807 (1989), to resolve a split among the Courts of Appeals on whether failure to comply with the prompt hearing provision of the Act requires the release of a person who is a flight risk or a danger to other persons or the community. <a href="./us495-0711.xml#p711">*</a>* We decide that the Act does not require release, and so we reverse the Court of Appeals. Montalvo-Murillo, though now a fugitive, is the respondent here and is represented by appointed counsel. Respondent's flight does not render the case moot, for our resolution of the dispute determines the course of proceedings if and when he is rearrested on the charges now pending. Since we reverse, the Government may detain respondent at once upon</p>
     <n id="p714">714</n>
     <p>his rearrest without first seeking revocation of the existing release order. See 18 U.S.C. § 3148(b).</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Two provisions of the Bail Reform Act are relevant. The substantive provisions that allow detention are contained in subsection (e):</p>
     <p>"DETENTION -- If, after a hearing pursuant to the provisions of subsection (f) of this section, the judicial officer finds that no condition or combination of conditions will reasonably assure the appearance of the person as required and the safety of any other person and the community, [he] shall order the detention of the person before trial. . . ."</p>
     <p>3142(e). The controversy in this case centers around the procedures for a hearing, found in subsection (f):</p>
@@ -47,7 +47,7 @@
     <p>or to the community, decided to order release of respondent upon the posting of a $50,000 bond and compliance with other conditions. The Government at once sought review in the District Court.</p>
     <p>After holding a de novo detention hearing, on Thursday, February 23, the District Court agreed with the Government that no condition or combination of conditions reasonably would assure respondent's appearance or the safety of the community. Nevertheless, it ordered respondent's release. The court found that the detention hearing had not been held upon respondent's first appearance, as specified by § 3142(f), and that pretrial release on conditions was the appropriate remedy for violation of the statutory requirement. The Court of Appeals affirmed. Upon issuance of its mandate, respondent was released and took flight.</p>
     <p>Though the Government notes that the statutory phrase "first appearance" is by no means clear, either as an abstract matter or as applied in this case, it does not challenge the Court of Appeals' holding that respondent's detention hearing was held after that event, and that continuances were beyond what the Act permits. We decide the case on those same assumptions, though without passing upon them. The sole question presented on certiorari is whether the Court of Appeals was correct in holding that respondent must be released as a remedy for the failure to hold a hearing at his first appearance.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>In United States v. Salerno, <a href="../us481/us481-0739.xml#p739">481 U. S. 739</a> (1987), we upheld the Bail Reform Act of 1984 against constitutional challenge. Though we did not refer in Salerno to the time limits for hearings as a feature which sustained the constitutionality of the Act, we recognize that a vital liberty interest is at stake. A prompt hearing is necessary, and the time limitations of the Act must be followed with care and precision. But the Act is silent on the issue of a remedy for violations of its time limits. Neither the timing requirements nor any</p>
     <n id="p717">717</n>
     <p>other part of the Act can be read to require, or even suggest, that a timing error must result in release of a person who should otherwise be detained.</p>
@@ -80,7 +80,7 @@
     <p>This case involves two lawbreakers. Respondent, as the Court repeatedly argues, ante at <a href="./us495-0711.xml#p713">495 U. S. 713</a>, <a href="./us495-0711.xml#p716">495 U. S. 716</a>, <a href="./us495-0711.xml#p721">495 U. S. 721</a>, failed to appear after his release on bail, an apparent violation of 18 U.S.C. § 3146. Even before that, however, the Government imprisoned respondent without a timely hearing, a conceded</p>
     <n id="p723">723</n>
     <p>violation of 18 U.S.C. § 3142. [<a id="nf1" href="#fn1">Footnote 1</a>] In its haste to ensure the detention of respondent, the Court readily excuses the Government's prior and proven violation of the law. I cannot agree.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Before examining the consequences that follow from the Government's violation of § 3142, it is well to remember the magnitude of the injury that pretrial detention inflicts and the departure that it marks from ordinary forms of constitutional governance. Executive power to detain an individual is the hallmark of the totalitarian state. Under our Constitution the prohibition against excessive bail, [<a id="nf2" href="#fn2">Footnote 2</a>] the Due Process Clause of the Fifth Amendment, [<a id="nf3" href="#fn3">Footnote 3</a>] the presumption of innocence [<a id="nf4" href="#fn4">Footnote 4</a>] -- indeed, the fundamental separation of powers</p>
     <n id="p724">724</n>
     <p>among the Legislative, the Executive and the Judicial Branches of Government [<a id="nf5" href="#fn5">Footnote 5</a>] -- all militate against this abhorrent practice. Our historical approach eschewing detention prior to trial reflects these concerns:</p>
@@ -106,7 +106,7 @@
     <p>A federal prosecutor should have no difficulty comprehending the unequivocal terms of § 3142(f)(2) and complying with its deadlines by proceeding or obtaining a proper continuance at the arrestee's first appearance. The rare failure to meet the requirements of subsection (f) will mean only that the Government forfeits the opportunity to seek pretrial detention in that case. Because the provisions of § 3142(f)(2) are a prerequisite only for hearings to consider this particular form of pretrial action, the prosecutor still may seek any conditions of release that are</p>
     <p>"reasonably necessary to assure the appearance of the person as required and to assure the safety of any other person and the community."</p>
     <p>18 U.S.C. § 3142(c)(1)(B)(xiv). The range of options -- the sole safeguards that were available in cases prior to the creation of the special detention provisions in 1984 -- remain viable.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The Court, however, concludes that no adverse consequences should flow from the prosecutor's violation of this plain statutory command. Treating the case as comparable to an agency's failure to audit promptly a grant recipient's</p>
     <n id="p728">728</n>
     <p>use of federal funds, see Brock v. Pierce County, <a href="../us476/us476-0253.xml#p253">476 U. S. 253</a> (1986), the Court concludes that there is no reason to penalize the public for a prosecutor's mistake. If a belated hearing eventually results in a determination that detention was justified, the error has been proved harmless. The Court apparently discards the possibility that the hearing might result in a determination that the arrestee is eligible for release -- as the Magistrate so determined in this case -- or that detention of any arrestee before establishing the legality of that intrusion on liberty could "affect substantial rights." 876 F.2d 826, 829 (CA10 1989); Fed. Rule Crim.Proc. 52(a). A harmless error analysis fails to appreciate the gravity of the deprivation of liberty that physical detention imposes and the reality that "[r]elief in this type of case must be speedy if it is to be effective." Stack, 342 U.S. at <a href="../us342/us342-0001.xml#p4">342 U. S. 4</a>.</p>
@@ -118,7 +118,7 @@
     <p>acts done will be invalid. The power of the officer in all such cases is limited by the manner and conditions prescribed for its exercise."</p>
     <p>French, 13 Wall. at <a href="../us080/us080-0506.xml#p511">80 U. S. 511</a> (emphasis added). The grant of power that Congress gave courts to assess and enforce pretrial detention under §§ 3142(e) and (f) is also of a mandatory nature. [<a id="nf11" href="#fn11">Footnote 11</a>]</p>
     <p>As Congress recognized, the magnitude of the injury inflicted by pretrial detention requires adherence to strict procedural safeguards that cannot be sacrificed in the name of community safety. While the Court regards any arrestee as "a person who presumptively should be detained under § 3142(e)" and as "a suspect certain to flee from justice," ante at <a href="./us495-0711.xml#p717">495 U. S. 717</a>, <a href="./us495-0711.xml#p721">495 U. S. 721</a>, I believe -- and the Act reflects -- that a new arrestee is initially presumed eligible for release no matter how guilty a prosecutor may believe him to be. Section 3142(e) recognizes that certain characteristics of the offense of arrestee may support a rebuttable presumption that no conditions of release exist, but such a presumption arises only "if such judicial officer finds" that those conditions do exist. 18 U.S.C. § 3142(e) (emphasis added). The magistrate's say-so cannot make his reasoning any less of a bootstrap. A late detention hearing does not become permissible on the basis of a presumption that cannot exist until after the hearing is held.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Congress has written detailed legislation in a sensitive area that requires the Government to turn square corners. The Court today, however, permits federal prosecutors to violate</p>
     <n id="p730">730</n>
     <p>the law with impunity. I agree with Justice SCALIA's observation that strict compliance with such rules may appear to "frustrat[e] justice in the particular case," but</p>

@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us060-0343.html" citation="60 U.S. 343" title="United States v. Peralta">
   <opinion type="Opinions &amp; Dissents">
     <n id="p343">343</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Peralta, 60 U.S. 343 (1856)</h>
-    <h>United States v. Peralta</h>
-    <h>60 U.S. (19 How.) 343</h>
-    <h>APPEAL FROM THE DISTRICT COURT OF THE UNITED</h>
-    <h>STATES FOR THE SOUTHERN DISTRICT OF CALIFORNIA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Peralta, 60 U.S. 343 (1856)</h1>
+    <h2>United States v. Peralta</h2>
+    <h2>60 U.S. (19 How.) 343</h2>
+    <h2>APPEAL FROM THE DISTRICT COURT OF THE UNITED</h2>
+    <h2>STATES FOR THE SOUTHERN DISTRICT OF CALIFORNIA</h2>
+    <h2>Syllabus</h2>
     <p>Where a claimant of land in California produced documentary evidence in his favor copied from the archives in the office of the Surveyor General and other original grants by Spanish officers, the presumption is in favor of the power of those officers to make the grants.</p>
     <n id="p344">344</n>
     <p>If the power be denied, the burden of proof is upon the party who denies it.</p>

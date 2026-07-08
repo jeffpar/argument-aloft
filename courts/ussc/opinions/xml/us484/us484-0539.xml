@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us484-0539.html" citation="484 U.S. 539" title="Laborers Trust Fund v. Lightweight Concrete">
   <opinion type="Opinions &amp; Dissents">
     <n id="p539">539</n>
-    <h>U.S. Supreme Court</h>
-    <h>Laborers Trust Fund v. Lightweight Concrete, <a href="./us484-0539.xml#p539">484 U.S. 539</a> (1988)</h>
-    <h>Laborers Health &amp; Welfare Trust Fund for Northern California</h>
-    <h>v. Advanced Lightweight Concrete Co., Inc.</h>
-    <h>No. 85-2079</h>
-    <h>Argued November 10, 1987</h>
-    <h>Decided February 23, 1988</h>
-    <h><a href="./us484-0539.xml#p539">484 U.S. 539</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Laborers Trust Fund v. Lightweight Concrete, <a href="./us484-0539.xml#p539">484 U.S. 539</a> (1988)</h1>
+    <h2>Laborers Health &amp; Welfare Trust Fund for Northern California</h2>
+    <h2>v. Advanced Lightweight Concrete Co., Inc.</h2>
+    <h4>No. 85-2079</h4>
+    <h4>Argued November 10, 1987</h4>
+    <h4>Decided February 23, 1988</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>An employer may have a contractual duty under a collective bargaining agreement to make contributions to a pension fund during the agreement's term, and may also have a duty under the National Labor Relations Act (NLRA) to continue making such contributions after the agreement's expiration while negotiations for a new contract are in process. Section 515 of the Employee Retirement Income Security Act (ERISA) obligates an employer to pay to a multiemployer plan contributions that are required "under the terms of the plan or under the terms of a collectively bargained agreement." Section 502(g)(2) of ERISA authorizes the multiemployer plan's trustees to enforce such liability by bringing an action in federal district court for the unpaid contributions, prejudgment interest thereon, liquidated damages, reasonable attorney's fees and costs, and other appropriate relief. Respondent company was a party to two multiemployer collective bargaining agreements that required monthly contributions to eight employee benefit plans. Respondent made the contributions until the agreements' expiration date, but made no contributions thereafter. The plans' trustees (hereinafter petitioners) brought suit against respondent to collect the post-contract contributions, alleging that respondent's actions constituted a breach of its duty to bargain in good faith under § 8(a)(5) of the NLRA, and that the Federal District Court had jurisdiction under §§ 502(g)(2) and 515 of ERISA. The court granted respondent summary judgment on the grounds that § 515 does not apply to an employer's obligation under § 8(a)(5) of the NLRA, and that the National Labor Relations Board (NLRB) has exclusive jurisdiction over petitioners' claims. The Court of Appeals affirmed.</p>
     <p>Held: The remedy provided in §§ 515 and 502(g)(2) of ERISA is limited to contractual, "promised contributions," and does not confer jurisdiction on district courts to determine whether an employer's unilateral decision to refuse to make post-contract contributions violates the NLRA. Pp. <a href="./us484-0539.xml#p545">484 U. S. 545</a>-553.</p>
     <n id="p540">540</n>
@@ -23,7 +23,7 @@
     <n id="p541">541</n>
     <p>JUSTICE STEVENS delivered the opinion of the Court.</p>
     <p>A company that is a party to a collective bargaining agreement may have a contractual duty to make contributions to a pension fund during the term of the agreement and, in addition, may have a duty under the National Labor Relations Act (NLRA) to continue making such contributions after the expiration of the contract, and while negotiations for a new contract are in process. In 1980, Congress amended the Employee Retirement Income Security Act (ERISA) to provide trustees of multiemployer benefit plans with an effective federal remedy to collect delinquent contributions. The question presented in this case is whether that remedy encompasses actions based on an alleged breach of the employer's statutory duty as well as those based on an alleged breach of contract. We agree with the Court of Appeals' conclusion that the remedy is limited to the collection of "promised contributions."</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Prior to 1983, respondent was a member of the Associated General Contractors of California and a party to two multiemployer collective bargaining agreements negotiated on its</p>
     <n id="p542">542</n>
     <p>behalf by that association. [<a id="nf1" href="#fn1">Footnote 1</a>] The agreements included provisions requiring respondent to make monthly contributions to eight different employee benefit plans. [<a id="nf2" href="#fn2">Footnote 2</a>] The collective bargaining agreements, which were executed in 1980, had an expiration date of June 15, 1983.</p>
@@ -39,7 +39,7 @@
     <p>"We find no persuasive evidence in either the plain words or legislative history of ERISA or the MPPAA that Congress intended section 515 to be an exception to the general rule of NLRB preemption for that narrow category of suits seeking recovery of unpaid contributions accrued during the period between contract expiration and impasse."</p>
     <p>Id. at 505. [<a id="nf7" href="#fn7">Footnote 7</a>]</p>
     <p>We granted certiorari, 479 U.S. 1083 (1987), and now affirm.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>In its 1980 amendments to ERISA, Congress responded to two concerns that are relevant to the question presented by this case. It was primarily concerned about the burden placed upon the remaining contributors to a multiemployer fund when one or more of them withdraw. [<a id="nf8" href="#fn8">Footnote 8</a>] In response to this concern, Congress enacted an elaborate provision imposing "withdrawal liability" on such withdrawing employers. [<a id="nf9" href="#fn9">Footnote 9</a>] That liability arises when an employer ceases to have an "obligation to contribute" to the plan. [<a id="nf10" href="#fn10">Footnote 10</a>] That term is defined for the purposes of the withdrawal liability portion of the statute in language that unambiguously includes both the employer's</p>
     <n id="p546">546</n>
     <p>contractual obligations and any obligation imposed by the NLRA. [<a id="nf11" href="#fn11">Footnote 11</a>] That definition is significant, because it demonstrates that Congress was aware of the two different sources of an employer's duty to contribute to covered plans.</p>
@@ -55,7 +55,7 @@
     <n id="p549">549</n>
     <p>text and the legislative history of §§ 515 and 502(g)(2) provide firm support for the Court of Appeals' conclusion that this remedy is limited to the collection of "promised contributions," and does not confer jurisdiction on district courts to determine whether an employer's unilateral decision to refuse to make post-contract contributions constitutes a violation of the NLRA. [<a id="nf16" href="#fn16">Footnote 16</a>]</p>
     <n id="p550">550</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>Petitioners, supported by the United States as Amicus Curiae, advance two policy arguments for giving § 515 a broad construction that would include post-contract delinquencies. First, they argue that the reasons for giving a district</p>
     <n id="p551">551</n>
     <p>court jurisdiction of collection actions apply to post-contract delinquencies as well as those arising during the term of the contract, and that it is unwise to leave a "gap" in the enforcement scheme. Second, they argue that the remedies available in NLRB proceedings are inadequate.</p>

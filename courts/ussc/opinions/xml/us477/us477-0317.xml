@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us477-0317.html" citation="477 U.S. 317" title="Celotex Corp. v. Catrett">
   <opinion type="Opinions &amp; Dissents">
     <n id="p317">317</n>
-    <h>U.S. Supreme Court</h>
-    <h>Celotex Corp. v. Catrett, <a href="./us477-0317.xml#p317">477 U.S. 317</a> (1986)</h>
-    <h>Celotex Corp. v. Catrett</h>
-    <h>No. 85-198</h>
-    <h>Argued April 1, 1986</h>
-    <h>Decided June 25, 1986</h>
-    <h><a href="./us477-0317.xml#p317">477 U.S. 317</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE DISTRICT OF COLUMBIA CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Celotex Corp. v. Catrett, <a href="./us477-0317.xml#p317">477 U.S. 317</a> (1986)</h1>
+    <h2>Celotex Corp. v. Catrett</h2>
+    <h2>No. 85-198</h2>
+    <h4>Argued April 1, 1986</h4>
+    <h4>Decided June 25, 1986</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE DISTRICT OF COLUMBIA CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>In September, 1980, respondent administratrix filed this wrongful death action in Federal District Court, alleging that her husband's death in 1979 resulted from his exposure to asbestos products manufactured or distributed by the defendants, who included petitioner corporation. In September, 1981, petitioner filed a motion for summary judgment, asserting that, during discovery, respondent failed to produce any evidence to support her allegation that the decedent had been exposed to petitioner's products. In response, respondent produced documents tending to show such exposure, but petitioner argued that the documents were inadmissible hearsay, and thus could not be considered in opposition to the summary judgment motion. In July, 1982, the court granted the motion because there was no showing of exposure to petitioner's products, but the Court of Appeals reversed, holding that summary judgment in petitioner's favor was precluded because of petitioner's failure to support its motion with evidence tending to negate such exposure, as required by Federal Rule of Civil Procedure 56(e) and the decision in Adickes v. S. H. Kress &amp; Co., <a href="../us398/us398-0144.xml#p144">398 U. S. 144</a>.</p>
     <p>Held:</p>
     <p>1. The Court of Appeals' position is inconsistent with the standard for summary judgment set forth in Rule 56(c), which provides that summary judgment is proper</p>
@@ -102,7 +102,7 @@
       <p>JUSTICE BRENNAN, with whom THE CHIEF JUSTICE and JUSTICE BLACKMUN join, dissenting.</p>
       <p>This case requires the Court to determine whether Celotex satisfied its initial burden of production in moving for summary judgment on the ground that the plaintiff lacked evidence to establish an essential element of her case at trial. I do not disagree with the Court's legal analysis. The Court clearly rejects the ruling of the Court of Appeals that the defendant must provide affirmative evidence disproving the plaintiff's case. Beyond this, however, the Court has not clearly explained what is required of a moving party seeking summary judgment on the ground that the nonmoving party cannot prove its case. [Footnote 2/1] This lack of clarity is unfortunate: district courts must routinely decide summary judgment motions, and the Court's opinion will very likely create confusion. For this reason, even if I agreed with the Court's result, I would have written separately to explain more clearly the law in this area. However, because I believe that Celotex did not meet its burden of production under Federal Rule of Civil Procedure 56, I respectfully dissent from the Court's judgment.</p>
       <n id="p330">330</n>
-      <h>I</h>
+      <h2>I</h2>
       <p>Summary judgment is appropriate where the court is satisfied "that there is no genuine issue as to any material fact and that the moving party is entitled to a judgment as a matter of law." Fed.Rule Civ.Proc. 56(c). The burden of establishing the nonexistence of a "genuine issue" is on the party moving for summary judgment. 10A C. Wright, A. Miller, &amp; M. Kane, Federal Practice and Procedure § 2727, p. 121 (2d ed.1983) (hereinafter Wright) (citing cases); 6 J. Moore, W. Taggart &amp; J. Wicker, Moore's Federal Practice � 56.15[3] (2d ed.1985) (hereinafter Moore) (citing cases). See also ante at <a href="./us477-0317.xml#p323">477 U. S. 323</a>; ante at <a href="./us477-0317.xml#p328">477 U. S. 328</a> (WHITE, J., concurring). This burden has two distinct components: an initial burden of production, which shifts to the nonmoving party if satisfied by the moving party; and an ultimate burden of persuasion, which always remains on the moving party. See 10A Wright § 2727. The court need not decide whether the moving party has satisfied its ultimate burden of persuasion [Footnote 2/2] unless and until the court finds that the moving party has discharged its initial</p>
       <n id="p331">331</n>
       <p>burden of production. Adickes v. S. H. Kress &amp; Co., <a href="../us398/us398-0144.xml#p144">398 U. S. 144</a>, <a href="../us398/us398-0144.xml#p157">398 U. S. 157</a>-161 (1970); 1963 Advisory Committee's Notes on Fed.Rule Civ.Proc. 56(e), 28 U.S.C.App. p. 626.</p>
@@ -120,7 +120,7 @@
       <p>lowed, to infer from the circumstances that the policeman and Kress employee had a 'meeting of the minds,' and thus reached an understanding that petitioner should be refused service."</p>
       <p>398 U.S. at <a href="../us398/us398-0144.xml#p158">398 U. S. 158</a>. Consequently, we held that it was error to grant summary judgment "on the basis of this record," because respondent had "failed to fulfill its initial burden" of demonstrating that there was no evidence that there was a policeman in the store. Id. at <a href="../us398/us398-0144.xml#p157">398 U. S. 157</a>-158.</p>
       <p>The opinion in Adickes has sometimes been read to hold that summary judgment was inappropriate because the respondent had not submitted affirmative evidence to negate the possibility that there was a policeman in the store. See Brief for Respondent 20, n. 30 (citing cases). The Court of Appeals apparently read Adickes this way, and therefore required Celotex to submit evidence establishing that plaintiff's decedent had not been exposed to Celotex asbestos. I agree with the Court that this reading of Adickes was erroneous, and that Celotex could seek summary judgment on the ground that plaintiff could not prove exposure to Celotex asbestos at trial. However, Celotex was still required to satisfy its initial burden of production.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>I do not read the Court's opinion to say anything inconsistent with or different than the preceding discussion. My disagreement with the Court concerns the application of these principles to the facts of this case.</p>
       <p>Defendant Celotex sought summary judgment on the ground that plaintiff had "failed to produce" any evidence that her decedent had ever been exposed to Celotex asbestos. [Footnote 2/4] App. 170. Celotex supported this motion with a</p>
       <n id="p335">335</n>

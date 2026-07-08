@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us347-0409.html" citation="347 U.S. 409" title="Maryland Casualty Co. v. Cushing">
   <opinion type="Opinions &amp; Dissents">
     <n id="p409">409</n>
-    <h>U.S. Supreme Court</h>
-    <h>Maryland Casualty Co. v. Cushing, <a href="./us347-0409.xml#p409">347 U.S. 409</a> (1954)</h>
-    <h>Maryland Casualty Co. v. Cushing</h>
-    <h>No. 11</h>
-    <h>Argued April 27-28, 1953</h>
-    <h>Reargued November 10, 12, 1953</h>
-    <h>Decided April 12, 1954</h>
-    <h><a href="./us347-0409.xml#p409">347 U.S. 409</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE FIFTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Maryland Casualty Co. v. Cushing, <a href="./us347-0409.xml#p409">347 U.S. 409</a> (1954)</h1>
+    <h2>Maryland Casualty Co. v. Cushing</h2>
+    <h2>No. 11</h2>
+    <h4>Argued April 27-28, 1953</h4>
+    <h4>Reargued November 10, 12, 1953</h4>
+    <h4>Decided April 12, 1954</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE FIFTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>The owner and charterer of a vessel which collided with a pier and capsized in navigable waters in Louisiana filed consolidated petitions in admiralty in the Federal District Court in Louisiana to limit their liability under the provisions of 46 U.S.C. § 183 and 186. Subsequently, basing jurisdiction on diversity of citizenship and the Jones Act, the representatives of five seamen who had drowned brought this consolidated action in the same District Court against the liability underwriters of the owner and charterer of the vessel. For their right to proceed against the insurance companies, the plaintiffs relied on § 655 of the Louisiana Insurance Code, which authorizes direct suit "against the insurer within the terms and limits of the policy," and on the McCarran Act, 15 U.S.C. § 1012. The District Court dismissed the consolidated suit against the insurers. The Court of Appeals reversed.</p>
     <p>Held: the judgment of the Court of Appeals is vacated, and the case is remanded to the District Court to be continued until after the completion of the limitation proceeding. Pp. <a href="./us347-0409.xml#p410">347 U. S. 410</a>-427.</p>
     <p>198 F.2d 536, judgment vacated and cause remanded.</p>
@@ -143,7 +143,7 @@
       <p>The towboat Jane Smith hit a railroad bridge and sank in Louisiana waters of the Atchafalaya River. Five crew members were drowned. Petitioners, Maryland Casualty Company and Home Insurance Company, had previously sold insurance policies to the boat's owner and its charterer agreeing to repay them for any money they had to pay on account of injury or death caused by the boat. These policies were issued and delivered in Louisiana. A Louisiana statute authorizes injured persons or their heirs to sue insurance companies directly on such policies. Under this law, the widows of the drowned crewmen brought these diversity actions in federal court against petitioners. A majority of the Court holds that permitting these suits to go forward to judgments against the insurance companies prior to completion of limitation of liability proceedings under an 1851 Act of Congress would bring this state statute into conflict with that Act. But the 1851 Act was passed to help shipowners by limiting the damages they must pay on account of wrongs inflicted by their agents. I see no possible reason for making insurance companies the beneficiaries of this shipowners' relief act. Neither can I understand why this Court should feel called on to relieve shipowners from even the light financial burden that the 1851 Act left them to bear. Nor do I think the Louisiana Act is subject to any of the</p>
       <n id="p428">428</n>
       <p>constitutional objections the insurance companies urge against it. I agree with the Court of Appeals for the Fifth Circuit that the insurance companies' contentions "over-inflate a relatively simple proposition with apparent, but unreal, technical problems." 198 F.2d 536, 539. For that reason, without more, I would affirm this judgment. But because of the confused state in which this case goes back to the District Court, I think it desirable that all questions be discussed. I shall first take up the constitutional objections.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>(a) The insurance companies argue that the Louisiana law impairs the obligation of "maritime contracts." The implication is that maritime contracts have more constitutional protection than other kinds of contracts. But Art. I, § 10 of the United States Constitution, which forbids states to impair the obligations of contracts, draws no such distinction. And while, in general, this provision protects valid contracts from impairment by subsequent legislation of states, it does not forbid states to pass laws regulating contracts thereafter to be made. Munday v. Wisconsin Trust Co., <a href="../us252/us252-0499.xml#p499">252 U. S. 499</a>, <a href="../us252/us252-0499.xml#p503">252 U. S. 503</a>. Cf. Home Building &amp; Loan Assn. v. Blaisdell, <a href="../us290/us290-0398.xml#p398">290 U. S. 398</a>. Hence, the Louisiana law, passed before these insurance policies were issued, does not violate the impairment of contract clause and, unless invalid for some other reason, the state's "direct action" statute became a part of the contract when it was made, just as though written into each policy by the companies. New York Life Ins. Co. v. Cravens, <a href="../us178/us178-0389.xml#p389">178 U. S. 389</a>, <a href="../us178/us178-0389.xml#p395">178 U. S. 395</a>-400. Cf. Farmers' and Merchants' Bank v. Federal Reserve Bank, <a href="../us262/us262-0649.xml#p649">262 U. S. 649</a>, <a href="../us262/us262-0649.xml#p660">262 U. S. 660</a>.</p>
       <p>(b) Article III, § 2 of the Constitution provides that "The judicial Power shall extend . . . to all Cases of admiralty and maritime Jurisdiction. . . ." It is contended</p>
       <n id="p429">429</n>
@@ -160,7 +160,7 @@
       <p>". . . it would seem to be a reasonable provision by the state, in the interest of the public, whose lives and limbs are exposed, to require that the owner in the contract indemnifying him against any recovery from him should stipulate with the insurance company that the indemnity by which he saves himself should certainly inure to the benefit of the person who thereafter is injured."</p>
       <p>Merchants' Mutual Automobile Liability Ins. Co. v. Smart, <a href="../us267/us267-0126.xml#p126">267 U. S. 126</a>, <a href="../us267/us267-0126.xml#p129">267 U. S. 129</a>-130. The Louisiana statute is an application of this same principle. It expresses the public policy of Louisiana that liability insurance exists for the protection and benefit of the injured as well as the insured. Davies v. Consolidated Underwriters, 199 La. 459, 475-476, 6 So. 2d 351, 357. Under Louisiana's law, an individual purchases liability insurance not for himself alone but also for those whom he may injure. This bargain is advantageous to the purchaser because claims against him can be satisfied in suits against the insurer.</p>
       <p>There can be no constitutional barrier to this Louisiana law passed to protect persons injured within its borders. Consequently, unless Congress has specifically forbidden states to protect seamen this way, Louisiana's statute is valid and should be enforced.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>The majority hold that the Limited Liability Act of 1851, as amended, bestows on the shipowner a right to collect all or part of the insurance money for his profit despite Louisiana's statute requiring insurance companies to make their payments directly to the families of persons injured or killed. I think this construction gives shipowners far more than Congress intended.</p>
       <n id="p433">433</n>
       <p>The Limited Liability Act provides that</p>
@@ -181,7 +181,7 @@
       <p>15 U.S.C. § 1012(b). It is unquestionably true that the McCarran Act was passed in response to this Court's decision that insurance was subject to the federal commerce power. [Footnote 3/4] But that is no reason for giving the law an</p>
       <n id="p437">437</n>
       <p>unnaturally narrow construction squarely in the teeth of the plain, normal, everyday meaning of the language used. The Act rather shows the strong purpose of Congress to permit states to continue regulating insurance as they always had. Courts are pointedly told to leave states free to regulate "the business of insurance" in the absence of some congressional act that "specifically relates" to the same subject. The "business of insurance" includes marine insurance and by no stretch of imagination can it be said that the 1851 Act "specifically relates" to insurance. Thus the unambiguous language of the McCarran Act forbids courts to construe federal statutes such as the Limited Liability Act so as to impair a state law like Louisiana's. No legislative history can justify judicial emasculation of this language. I would not disregard its mandate.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>Judicial expansion of the Limited Liability Act at this date seems especially inappropriate. Many of the conditions in the shipping industry which induced the 1851 Congress to pass the Act no longer prevail. And later Congresses, when they wished to aid shipping, provided subsidies paid out of the public treasury rather than subsidies paid by injured persons. [Footnote 3/5] If shipowners really need an additional subsidy, Congress can give it to them without making injured seamen bear the cost. It is significant that no shipowner has argued here against direct recoveries from the insurance companies.</p>
       <p>Today's decision creates unnecessary delay and doubt as to recovery by the families of the Jane Smith's victims. The loss of their breadwinners is not to be shared by</p>
       <n id="p438">438</n>

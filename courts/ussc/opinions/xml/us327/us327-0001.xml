@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us327-0001.html" citation="327 U.S. 1" title="In re Yamashita">
   <opinion type="Opinions &amp; Dissents">
     <n id="p1">1</n>
-    <h>U.S. Supreme Court</h>
-    <h>In re Yamashita, <a href="./us327-0001.xml#p1">327 U.S. 1</a> (1946)</h>
-    <h>In re Yamashita</h>
-    <h>No. 61, Misc.</h>
-    <h>Argued January 7, 8, 1946</h>
-    <h>Decided February 4, 1946*</h>
-    <h><a href="./us327-0001.xml#p1">327 U.S. 1</a></h>
-    <h>APPLICATION FOR LEAVE TO FILE PETITION FOR WRIT OF</h>
-    <h>HABEAS CORPUS AND WRIT OF PROHIBITION</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>In re Yamashita, <a href="./us327-0001.xml#p1">327 U.S. 1</a> (1946)</h1>
+    <h2>In re Yamashita</h2>
+    <h2>No. 61, Misc.</h2>
+    <h4>Argued January 7, 8, 1946</h4>
+    <h4>Decided February 4, 1946*</h4>
+    <h2>APPLICATION FOR LEAVE TO FILE PETITION FOR WRIT OF</h2>
+    <h2>HABEAS CORPUS AND WRIT OF PROHIBITION</h2>
+    <h2>Syllabus</h2>
     <p>Prior to September 3, 1945, petitioner was the Commanding General of the Fourteenth Army Group of the Imperial Japanese Army in the Philippine Islands. On that day, he surrendered to the United States Army and became a prisoner of war. Respondent was the Commanding General of the United States Army Forces, Western Pacific, whose command embraced the Philippine Islands. Respondent appointed a military commission to try the petitioner on a charge of violation of the law of war. The gist of the charge was that petitioner had failed in his duty as an army commander to control the operations of his troops, "permitting them to commit" specified atrocities against the civilian population and prisoners of war. Petitioner was found guilty, and sentenced to death.</p>
     <p>Held:</p>
     <p>1. The military commission appointed to try the petitioner was lawfully created. P. 327 U.S. 9.</p>
@@ -161,7 +161,7 @@
     </f>
     <f n="4"><a id="fn4" href="#nf4">Footnote 4</a>
       <p>In its findings, the commission took account of the difficulties</p>
-      <p>"faced by the accused with respect not only to the swift and overpowering advance of American forces, but also to errors of his predecessors, weakness in organization, equipment, supply . . . , training, communication, discipline, and morale of his troops,"</p>
+      <p>"faced by the accused with respect not only to the swift and overpowering advance of American forces, but also to errors of his predecessors, weakness in organization, equipment, supply . . ., training, communication, discipline, and morale of his troops,"</p>
       <p>and</p>
       <p>"the tactical situation, the character, training and capacity of staff officers and subordinate commanders, as well as the traits of character of his troops."</p>
       <p>It nonetheless found that petitioner had not taken such measures to control his troops as were "required by the circumstances." We do not weigh the evidence. We merely hold that the charge sufficiently states a violation against the law of war, and that the commission, upon the facts found, could properly find petitioner guilty of such a violation.</p>
@@ -287,7 +287,7 @@
       <n id="p43">43</n>
       <p>consideration has given opportunity, I have not been able to find precedent for the proceeding in the system of any nation founded in the basic principles of our constitutional democracy, in the laws of war, or in other internationally binding authority or usage.</p>
       <p>The novelty is legal, as well as historical. We are on strange ground. Precedent is not all-controlling in law. There must be room for growth, since every precedent has an origin. But it is the essence of our tradition for judges, when they stand at the end of the marked way, to go forward with caution keeping sight, so far as they are able, upon the great landmarks left behind and the direction they point ahead. If, as may be hoped, we are now to enter upon a new era of law in the world, it becomes more important than ever before for the nations creating that system to observe their greatest traditions of administering justice, including this one, both in their own judging and in their new creation. The proceedings in this case veer so far from some of our time-tested road signs that I cannot take the large strides validating them would demand.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>It is not in our tradition for anyone to be charged with crime which is defined after his conduct, alleged to be criminal, has taken place, [Footnote 2/1] or in language not sufficient to inform him of the nature of the offense or to enable him to make defense. [Footnote 2/2] Mass guilt we do not impute to individuals, perhaps in any case, but certainly in none where the person is not charged or shown actively to have participated in or knowingly to have failed in taking action to</p>
       <n id="p44">44</n>
       <p>prevent the wrongs done by others, having both the duty and the power to do so.</p>
@@ -312,7 +312,7 @@
       <p>My Brother MURPHY has discussed the charge with respect to the substance of the crime. With his conclusions in this respect, I agree. My own primary concern will be with the constitution of the commission and other matters taking place in the course of the proceedings, relating chiefly to the denial of reasonable opportunity to prepare petitioner's defense and the sufficiency of the evidence, together with serious questions of admissibility, to prove on offense, all going, as I think, to the commission's jurisdiction.</p>
       <p>Necessarily, only a short sketch can be given concerning each matter. And it may be stated at the start that, although it was ruled in Ex parte Quirin, supra, that this Court had no function to review the evidence, it was not there or elsewhere determined that it could not ascertain whether conviction is founded upon evidence expressly excluded by Congress or treaty; nor does the Court purport to do so now.</p>
       <n id="p48">48</n>
-      <h>II</h>
+      <h2>II</h2>
       <p>Invalidity of the Commission's Constitution</p>
       <p>The fountainhead of the commission's authority was General MacArthur's directive by which General Styer was ordered to and pursuant to which he did proceed with constituting the commission. [Footnote 2/8] The directive was accompanied by elaborate and detailed rules and regulations prescribing the procedure and rules of evidence to be followed, of which, for present purposes, Section 16, set forth below, [Footnote 2/9] is crucial.</p>
       <n id="p49">49</n>
@@ -346,7 +346,7 @@
       <n id="p56">56</n>
       <p>of the atrocities, and that this, of itself, establishes the prejudicial effect of the affidavits, etc., and of the denial resulting from their reception of any means of probing the evidence they contained, including all opportunity for cross-examination. Yet it is said there is no sufficient showing of prejudice. The effect could not have been other than highly prejudicial. The matter is not one merely of "rules of evidence." It goes, as will appear more fully later, to the basic right of defense, including some fair opportunity to test probative value.</p>
       <p>Insufficient as this recital is to give a fair impression of what was done, it is enough to show that this was no trial in the traditions of the common law and the Constitution. If the tribunal itself was not strange to them otherwise, it was in its forms and modes of procedure, in the character and substance of the evidence it received, in the denial of all means to the accused and his counsel for testing the evidence, in the brevity and ambiguity of its findings made upon such a mass of material, and, as will appear, in the denial of any reasonable opportunity for preparation of the defense. Because this last deprivation not only is important in itself, but is closely related to the departures from all limitations upon the character of and modes of making the proof, it will be considered before turning to the important legal questions relating to whether all these violations of our traditions can be brushed aside as not forbidden by the valid Acts of Congress, treaties, and the Constitution, in that order. If all these traditions can be so put away, then indeed will we have entered upon a new but foreboding era of law.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>Denial of Opportunity to Prepare Defense</p>
       <p>Petitioner surrendered September 3, 1945, and was interned as a prisoner of war in conformity with Article 9</p>
       <n id="p57">57</n>
@@ -357,7 +357,7 @@
       <p>containing 59 more specifications of the same general character, involving perhaps as many incidents occurring over an equally wide area. [Footnote 2/24] A copy had been given the defense three days earlier. One item, No. 89, charged that American soldiers, prisoners of war, had been tried and executed without notice having been given to the protecting power of the United States in accordance with the requirements of the Geneva Convention, which it is now argued, strangely, the United States was not required to observe as to petitioner's trial. [Footnote 2/25]</p>
       <p>But what is more important is that defense counsel, as they felt was their duty, at once moved for a continuance. [Footnote 2/26] The application was denied. However the commission indicated that if, at the end of the prosecution's presentation</p>
       <n id="p59">59</n>
-      <p>concerning the original bill, counsel should "believe they require additional time . . . , the Commission will consider such a motion at that time," before taking up the items of the supplemental bill. Counsel again indicated, without other result, that time was desired at once "as much, if not more" to prepare for cross-examination "as the Prosecutor's case goes in" as to prepare affirmative defense.</p>
+      <p>concerning the original bill, counsel should "believe they require additional time . . ., the Commission will consider such a motion at that time," before taking up the items of the supplemental bill. Counsel again indicated, without other result, that time was desired at once "as much, if not more" to prepare for cross-examination "as the Prosecutor's case goes in" as to prepare affirmative defense.</p>
       <p>On the next day, October 30, the commission interrupted the prosecutor to say it would not then listen to testimony or discussion upon the supplemental bill. After colloquy, it adhered to its prior ruling and, in response to inquiry from the prosecution, the defense indicated it would require two weeks before it could proceed on the supplemental bill. On November 1, the commission ruled it would not receive affidavits without corroboration by witnesses on any specification, a ruling reversed four days later.</p>
       <p>On November 2, after the commission had received an affirmative answer to its inquiry whether the defense was prepared to proceed with an item in the supplemental bill which the prosecution proposed to prove, it announced:</p>
       <p>"Hereafter, then, unless there is no [sic] objection by the Defense, the Commission will assume that you are prepared to proceed with any items in the Supplemental Bill."</p>
@@ -371,7 +371,7 @@
       <p>Further comment is hardly required. Obviously the burden placed upon the defense, in the short time allowed for preparation on the original bill, was not only "tremendous." In view of all the facts, it was an impossible one, even though the time allowed was a week longer than asked. But the grosser vice was later, when the burden was more than doubled by service of the supplemental bill on the eve of trial, a procedure which, taken in connection with the consistent denials of continuance and the commission's later reversal of its rulings favorable to the defense</p>
       <n id="p61">61</n>
       <p>was wholly arbitrary, cutting off the last vestige of adequate chance to prepare defense and imposing a burden the most able counsel could not bear. This sort of thing has no place in our system of justice, civil or military. Without more, this wide departure from the most elementary principles of fairness vitiated the proceeding. When added to the other denials of fundamental right sketched above, it deprived the proceeding of any semblance of trial as we know that institution.</p>
-      <h>IV</h>
+      <h2>IV</h2>
       <p>Applicability of the Articles of War</p>
       <p>The Court's opinion puts the proceeding and the petitioner, insofar as any rights relating to his trial and conviction are concerned, wholly outside the Articles of War. In view of what has taken place, I think the decision's necessary effect is also to place them entirely beyond limitation and protection, respectively, by the Constitution. I disagree as to both conclusions or effects.</p>
       <p>The Court rules that Congress has not made Article 25 and 38 applicable to this proceeding. It think it has made them applicable to this and all other military commissions or tribunals. If so, the commission not only lost all power to punish petitioner by what occurred in the proceedings. It never acquired jurisdiction to try him. For the directive by which it was constituted, in the provisions of Section 16, [Footnote 2/28] was squarely in conflict with Articles 25 and 38 of the Articles of War, [Footnote 2/29] and therefore was void.</p>
@@ -412,7 +412,7 @@
       <n id="p72">72</n>
       <p>mode of procedure or method of providing for their procedure.</p>
       <p>Accordingly, I think Articles 25 and 38 are applicable to this proceeding; that the provisions of the governing directive in Section 16 are in direct conflict with those Articles, and, for that reason, the commission was invalidly constituted, was without jurisdiction, and its sentence is therefore void.</p>
-      <h>V</h>
+      <h2>V</h2>
       <p>The Geneva Convention of 1929</p>
       <p>If the provisions of Articles 25 and 38 were not applicable to the proceeding by their own force as Acts of Congress, I think they would still be made applicable by virtue of the terms of the Geneva Convention of 1929, in particular, Article 63. And in other respects, in my opinion, the petitioner's trial was not in accord with that treaty, namely with Article 60.</p>
       <p>The Court does not hold that the Geneva Convention is not binding upon the United States, and no such contention has been made in this case. [Footnote 2/36] It relies on other</p>
@@ -430,7 +430,7 @@
       <p>States to protect the rights of Japanese nationals, since Japan is now in direct communication with this Government. This, of course, is in contradiction of the Government's theory, in other connections, that the war is not over, and military necessity still requires use of all the power necessary for actual combat.</p>
       <p>Furthermore the premise overlooks all the realities of the situation. Japan is a defeated power, having surrendered, if not unconditionally, then under the most severe conditions. Her territory is occupied by American military forces. She is scarcely in a position to bargain with us or to assert her rights. Nor can her nationals. She no longer holds American prisoners of war. [Footnote 2/40] Certainly, if there was the need of an independent neutral to protect her nationals during the war, there is more now. In my opinion the failure to give the notice required by Article 60 is only another instance of the commission's failure to observe the obligations of our law.</p>
       <p>What is more important, there was no compliance with Article 63 of the same Convention. Yamashita was not tried "according to the same procedure as in the case of persons belonging to the armed forces of the detaining Power." Had one of our soldiers or officers been tried for alleged war crimes, he would have been entitled to the benefits of the Articles of War. I think that Yamashita was equally entitled to the same protection. In any event, he was entitled to their benefits under the provisions of Article 63 of the Geneva Convention. Those benefits he did not receive. Accordingly, his trial was in violation of the Convention.</p>
-      <h>VI</h>
+      <h2>VI</h2>
       <p>The Fifth Amendment</p>
       <p>Wholly apart from the violation of the Articles of War and of the Geneva Convention, I am completely unable to</p>
       <n id="p79">79</n>

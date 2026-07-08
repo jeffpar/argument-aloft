@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us452-0458.html" citation="452 U.S. 458" title="Connecticut Bd. of Pardons v. Dumschat">
   <opinion type="Opinions &amp; Dissents">
     <n id="p458">458</n>
-    <h>U.S. Supreme Court</h>
-    <h>Connecticut Bd. of Pardons v. Dumschat, <a href="./us452-0458.xml#p458">452 U.S. 458</a> (1981)</h>
-    <h>Connecticut Bd. of Pardons v. Dumschat</h>
-    <h>No. 79-1997</h>
-    <h>Argued February 24, 1981</h>
-    <h>Decided June 17, 1981</h>
-    <h><a href="./us452-0458.xml#p458">452 U.S. 458</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SECOND CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Connecticut Bd. of Pardons v. Dumschat, <a href="./us452-0458.xml#p458">452 U.S. 458</a> (1981)</h1>
+    <h2>Connecticut Bd. of Pardons v. Dumschat</h2>
+    <h4>No. 79-1997</h4>
+    <h4>Argued February 24, 1981</h4>
+    <h4>Decided June 17, 1981</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SECOND CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>After several applications by respondent Dumschat, a life inmate in a Connecticut state prison, for commutation of his life sentence had been rejected by the Connecticut Board of Pardons without explanation, he sued the Board in Federal District Court under 42 U.S.C. § 1983, seeking a declaratory judgment that the Board's failure to provide him with a written statement of reasons for denying commutation violated his rights under the Due Process Clause of the Fourteenth Amendment. Relying chiefly on the fact that the Board had granted approximately three-fourths of all applications for commutation of life sentences, the District Court, after allowing other inmates (also respondents) to intervene and certifying the suit as a class action, held that all prisoners serving life sentences in Connecticut state prisons have a constitutionally protected "entitlement" to a statement of reasons why commutation is not granted. The Court of Appeals affirmed, and then, after its judgment had been vacated by this Court and the case had been remanded for reconsideration in light of Greenholtz v. Nebraska Penal Inmates, <a href="../us442/us442-0001.xml#p1">442 U. S. 1</a>, held that the overwhelming likelihood that Connecticut life inmates will be pardoned and released before they complete their minimum terms gave them a constitutionally protected liberty interest in pardon proceedings, and that, under Greenholtz, a statement of reasons for denying commutation was constitutionally necessary under the Due Process Clause.</p>
     <p>Held: The power vested in the Connecticut Board of Pardons to commute sentences conferred no rights on respondents beyond the right to seek commutation. Pp. <a href="./us452-0431.xml#p436">452 U. S. 463</a>-467.</p>
     <p>(a) Far from supporting an "entitlement," Greenholtz, which rejected the claim that a constitutional entitlement to release from a valid prison sentence exists independently of a right explicitly conferred by the State, compels the conclusion that an inmate has "no constitutional or inherent right" to commutation of his life sentence. In terms of the Due Process Clause, a Connecticut felon's expectation that a lawfully imposed sentence will be commuted or that he will be pardoned is no</p>
@@ -23,7 +23,7 @@
     <p>CHIEF JUSTICE BURGER delivered the opinion of the Court.</p>
     <p>The question presented is whether the fact that the Connecticut Board of Pardons has granted approximately three-fourths of the applications for commutation of life sentences creates a constitutional "liberty interest" or "entitlement" in life-term inmates so as to require that Board to explain its reasons for denial of an application for commutation.</p>
     <n id="p460">460</n>
-    <h>I</h>
+    <h2>I</h2>
     <p>In 1964, respondent Dumschat was sentenced to life imprisonment for murder. Under state law, he was not eligible for parole until December, 1983. [<a id="nf1" href="#fn1">Footnote 1</a>] The Connecticut Board of Pardons is empowered to commute the sentences of life inmates by reducing the minimum prison term, [<a id="nf2" href="#fn2">Footnote 2</a>] and such a commutation accelerates eligibility for parole. [<a id="nf3" href="#fn3">Footnote 3</a>] The authority of the Board of Pardons derives from Conn.Gen.Stat. § 18-26 (1981), which provides in pertinent part:</p>
     <p>"(a) Jurisdiction over the granting of, and the authority to grant, commutations of punishment or releases, conditioned or absolute, in the case of any person convicted of any offense against the state and commutations from the penalty of death shall be vested in the board of pardons. "</p>
     <p>"(b) Said board shall have authority to grant pardons, conditioned or absolute, for any offense against the state at any time after the imposition and before or after the service of any sentence. "</p>
@@ -38,7 +38,7 @@
     <p>"[t]he overwhelming likelihood that Connecticut life inmates will be pardoned and released before they complete their minimum terms gives them a constitutionally protected liberty interest in pardon proceedings. "</p>
     <n id="p463">463</n>
     <p>618 F.2d at 220. The Court of Appeals also understood our opinion in Greenholtz to hold that, under the Due Process Clause, a brief statement of reasons is "not only constitutionally sufficient, but also constitutionally necessary." [<a id="nf6" href="#fn6">Footnote 6</a>] 618 F.2d at 222. On that reading of Greenholtz, the case was remanded to the District Court for a determination of "how many years life inmates must serve before the probability of pardon becomes so significant as to give rise to a protected liberty interest." [<a id="nf7" href="#fn7">Footnote 7</a>]</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>A</p>
     <p>A state-created right can, in some circumstances, beget yet other rights to procedures essential to the realization of the parent right. See Meachum v. Fano, <a href="../us427/us427-0215.xml#p215">427 U. S. 215</a>, <a href="../us427/us427-0215.xml#p226">427 U. S. 226</a> (1976); Wolf v. McDonnell, <a href="../us418/us418-0539.xml#p539">418 U. S. 539</a>, <a href="../us418/us418-0539.xml#p557">418 U. S. 557</a> (1974). Plainly, however, the underlying right must have come into existence before it can trigger due process protection. See, e.g., Leis v. Flynt, <a href="../us439/us439-0438.xml#p438">439 U. S. 438</a>, <a href="../us439/us439-0438.xml#p442">439 U. S. 442</a>-443 (1979).</p>
     <p>In Greenholtz, far from spelling out any judicially divined "entitlement," we did no more than apply the unique Nebraska statute. We rejected the claim that a constitutional entitlement to release from a valid prison sentence exists independently</p>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us489-0726.html" citation="489 U.S. 726" title="Commissioner v. Clark">
   <opinion type="Opinions &amp; Dissents">
     <n id="p726">726</n>
-    <h>U.S. Supreme Court</h>
-    <h>Commissioner v. Clark, <a href="./us489-0726.xml#p726">489 U.S. 726</a> (1989)</h>
-    <h>Commissioner of Internal Revenue v. Clark</h>
-    <h>No. 87-1168</h>
-    <h>Argued November 7, 1988</h>
-    <h>Decided March 22, 1989</h>
-    <h><a href="./us489-0726.xml#p726">489 U.S. 726</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE FOURTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Commissioner v. Clark, <a href="./us489-0726.xml#p726">489 U.S. 726</a> (1989)</h1>
+    <h2>Commissioner of Internal Revenue v. Clark</h2>
+    <h2>No. 87-1168</h2>
+    <h4>Argued November 7, 1988</h4>
+    <h4>Decided March 22, 1989</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE FOURTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Under the Internal Revenue Code of 1954, gain resulting from the sale or exchange of property is generally treated as capital gain. Although the Code imposes no current tax on certain stock-for-stock exchanges, § 356(a)(1) provides that, if such an exchange pursuant to a corporate reorganization plan is accompanied by a cash payment or other property -- commonly referred to as "boot" -- any gain which the recipient realizes from the exchange is treated in the current tax year as capital gain up to the value of the boot. However, § 356(a)(2) creates an exception, specifying that, if the "exchange . . . has the effect of the distribution of a dividend," the boot must be treated as a dividend, and is therefore appropriately taxed as ordinary income to the extent that gain is realized. In 1979, respondent husband (hereinafter the taxpayer), the sole shareholder of Basin Surveys, Inc. (Basin), entered into a "triangular merger" agreement with NL Industries, Inc. (NL), whereby he transferred all of Basin's outstanding shares to NL's wholly owned subsidiary in exchange for 300,000 NL shares -- representing approximately 0.92% of NL's outstanding common stock -- and substantial cash boot. On their 1979 joint federal income tax return, respondents reported the boot as capital gain pursuant to § 356(a)(1). Although agreeing that the merger at issue qualified as a reorganization for purposes of that section, the Commissioner of Internal Revenue assessed a deficiency against respondents, ruling that the boot payment had "the effect of the distribution of a dividend" under § 356(a)(2). On review, the Tax Court held in respondents' favor, and the Court of Appeals affirmed. Both courts rejected the test proposed by the Commissioner for determining whether a boot payment has the requisite § 356(a)(2) effect, whereby the payment would be treated as though it were made in a hypothetical redemption by the acquired corporation (Basin) immediately prior to the reorganization. Rather, both courts accepted and applied the post-reorganization test urged by the taxpayer, which requires that a pure stock-for-stock exchange be imagined, followed immediately by a redemption of a portion of the taxpayer's shares in the acquiring corporation (NL) in return for a payment in an amount equal to the boot. The courts ruled that NL's</p>
     <n id="p727">727</n>
     <p>redemption of 125,000 of its shares from the taxpayer in exchange for the boot was subject to capital gains treatment under § 302 of the Code, which defines the tax treatment of a redemption of stock by a corporation from its shareholders.</p>
@@ -28,7 +28,7 @@
     <p>This is the third case in which the Government has asked us to decide that a shareholder's receipt of a cash payment in exchange for a portion of his stock was taxable as a dividend. In the two earlier cases, Commissioner v. Estate of Bedford, <a href="../us325/us325-0283.xml#p283">325 U. S. 283</a> (1945), and United States v. Davis, <a href="../us397/us397-0301.xml#p301">397 U. S. 301</a> (1970), we agreed with the Government largely because the transactions involved redemptions of stock by single corporations that did not "result in a meaningful reduction of the shareholder's proportionate interest in the corporation."</p>
     <n id="p729">729</n>
     <p>Id. at <a href="../us397/us397-0301.xml#p313">397 U. S. 313</a>. In the case we decide today, however, the taxpayer, [<a id="nf1" href="#fn1">Footnote 1</a>] in an arm's-length transaction, exchanged his interest in the acquired corporation for less than one percent of the stock of the acquiring corporation and a substantial cash payment. The taxpayer held no interest in the acquiring corporation prior to the reorganization. Viewing the exchange as a whole, we conclude that the cash payment is not appropriately characterized as a dividend. We accordingly agree with the Tax Court and with the Court of Appeals that the taxpayer is entitled to capital gains treatment of the cash payment.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In determining tax liability under the Internal Revenue Code of 1954, gain resulting from the sale or exchange of property is generally treated as capital gain, whereas the receipt of cash dividends is treated as ordinary income. [<a id="nf2" href="#fn2">Footnote 2</a>] The Code, however, imposes no current tax on certain stock-for-stock exchanges. In particular, § 354(a)(1) provides, subject to various limitations, for nonrecognition of gain resulting from the exchange of stock or securities solely for other stock or securities, provided that the exchange is pursuant to a plan of corporate reorganization and that the stock or securities</p>
     <n id="p730">730</n>
     <p>are those of a party to the reorganization. [<a id="nf3" href="#fn3">Footnote 3</a>] 26 U.S.C. § 354(a)(1).</p>
@@ -64,7 +64,7 @@
     <p>"§ 356(a)(2) requires a determination of whether the distribution would have been taxed as a dividend if made prior to the reorganization or if no reorganization had occurred."</p>
     <p>Id. at 288.</p>
     <p>To resolve this conflict on a question of importance to the administration of the federal tax laws, we granted certiorari. 485 U.S. 933 (1988).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>We agree with the Tax Court and the Court of Appeals for the Fourth Circuit that the question under § 356(a)(2) whether an "exchange . . . has the effect of the distribution of a dividend" should be answered by examining the effect of the exchange as a whole. We think the language and history of the statute, as well as a common sense understanding of the economic substance of the transaction at issue, support this approach.</p>
     <p>The language of § 356(a) strongly supports our understanding that the transaction should be treated as an integrated whole. Section 356(a)(2) asks whether "an exchange is described in paragraph (1)" that "has the effect of the distribution of a dividend." (Emphasis supplied.) The statute does not provide that boot shall be treated as a dividend if its payment has the effect of the distribution of a dividend. Rather, the inquiry turns on whether the "exchange" has that effect. Moreover, paragraph (1), in turn, looks to whether</p>
     <p>"the property received in the exchange consists not only of property permitted by section 354 or 355 to be received without the recognition of gain but also of other property or money."</p>
@@ -82,7 +82,7 @@
     <p>Once the post-reorganization approach is adopted, the result in this case is pellucidly clear. Section 302(a) of the</p>
     <n id="p740">740</n>
     <p>Code provides that, if a redemption fits within any one of the four categories set out in § 302(b), the redemption "shall be treated as a distribution in part or full payment in exchange for the stock," and thus not regarded as a dividend. As the Tax Court and the Court of Appeals correctly determined, the hypothetical post-reorganization redemption by NL of a portion of the taxpayer's shares satisfies at least one of the subsections of § 302(b). [<a id="nf8" href="#fn8">Footnote 8</a>] In particular, the safe harbor provisions of subsection (b)(2) provide that redemptions in which the taxpayer relinquishes more than 20% of his or her share of the corporation's voting stock and retains less than 50% of the voting stock after the redemption shall not be treated as distributions of a dividend. See <a id="nf6" href="#fn6">n</a> 6, supra. Here, we treat the transaction as though NL redeemed 125,000 shares of its common stock (i.e., the number of shares of NL common stock forgone in favor of the boot) in return for a cash payment to the taxpayer of $3,250,000 (i.e., the amount of the boot). As a result of this redemption, the taxpayer's interest in NL was reduced from 1.3% of the outstanding common stock to 0.9%. See 86 T.C. at 153. Thus, the taxpayer relinquished approximately 29% of his interest in NL and retained less than a 1% voting interest in the corporation after the transaction, easily satisfying the "substantially disproportionate" standards of § 302(b)(2). We accordingly conclude that the boot payment did not have the effect of a dividend, and that the payment was properly treated as capital gain.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The Commissioner objects to this "recasting [of] the merger transaction into a form different from that entered</p>
     <n id="p741">741</n>
     <p>into by the parties," Brief for Petitioner 11, and argues that the Court of Appeals' formal adherence to the principles embodied in § 302 forced the court to stretch to "find a redemption to which to apply them, since the merger transaction entered into by the parties did not involve a redemption," id. at 28. There are a number of sufficient responses to this argument. We think it first worth emphasizing that the Commissioner overstates the extent to which the redemption is imagined. As the Court of Appeals for the Fifth Circuit noted in Shimberg,</p>

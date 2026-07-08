@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us382-0375.html" citation="382 U.S. 375" title="Segal v. Rochelle">
   <opinion type="Opinions &amp; Dissents">
     <n id="p375">375</n>
-    <h>U.S. Supreme Court</h>
-    <h>Segal v. Rochelle, <a href="./us382-0375.xml#p375">382 U.S. 375</a> (1966)</h>
-    <h>Segal v. Rochelle</h>
-    <h>No. 44</h>
-    <h>Argued November 17, 1965</h>
-    <h>Decided January 18, 1966</h>
-    <h><a href="./us382-0375.xml#p375">382 U.S. 375</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE FIFTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Segal v. Rochelle, <a href="./us382-0375.xml#p375">382 U.S. 375</a> (1966)</h1>
+    <h2>Segal v. Rochelle</h2>
+    <h2>No. 44</h2>
+    <h4>Argued November 17, 1965</h4>
+    <h4>Decided January 18, 1966</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE FIFTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>On September 27, 1961, the individual petitioners and their business partnership filed bankruptcy petitions. After the end of that year, loss carryback federal income tax refunds were obtained for the individual petitioners based on the firm's losses during 1961 prior to bankruptcy which were offset against income for 1959 and 1960 on which taxes had been paid. These refunds, on deposit in a special account by the bankruptcy trustee, are claimed by petitioners on the ground that bankruptcy had not passed the refund claims to the trustee. The referee ruled against petitioners, as did the District Court and the Court of Appeals, the latter holding that the loss carryback refund claims were both "property" and "transferable" at the time of the bankruptcy petition, and thus had passed to the trustee.</p>
     <p>Held:</p>
     <p>1. These inchoate claims for loss carryback refunds constituted "property" as that term is used in § 70a(5) of the Bankruptcy Act. Pp. <a href="./us382-0375.xml#p379">382 U. S. 379</a>-381.</p>
@@ -34,7 +34,7 @@
     <p>After detailed discussion of the problems, the Court of Appeals in this case resolved that the loss carryback refund claims were both "property" and "transferable" at the time of the bankruptcy petition, and hence had passed to the trustee. 336 F.2d 298. We granted certiorari because of the conflict and the significance of the issue in bankruptcy administration. [<a id="nf4" href="#fn4">Footnote 4</a>] <a href="../us380/us380-0931.xml#p931">380 U. S. 931</a>.</p>
     <n id="p379">379</n>
     <p>Conceding the question to be close, we are persuaded by the reasoning of the Fifth Circuit, and we affirm its decision.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>We turn first to the question whether, on the date the bankruptcy petitions were filed, the potential claims for loss carryback refunds constituted "property" as § 70a(5) employs that term. Admittedly, in interpreting this section,</p>
     <p>"[i]t is impossible to give any categorical definition to the word 'property,' nor can we attach to it in certain relations the limitations which would be attached to it in others."</p>
     <p>Fisher v. Cushman, 103 F. 860, 864, 51 L.R.A. 292. Whether an item is classed as "property" by the Fifth Amendment's Just Compensation Clause or for purposes of a state taxing statute cannot decide hard cases under the Bankruptcy Act, whose own purposes must ultimately govern.</p>
@@ -44,7 +44,7 @@
     <p>Temporally, two key elements pointing toward realization of a refund existed at the time these bankruptcy petitions were filed: taxes had been paid on net income within the past three years, and the year of bankruptcy at that point exhibited a net operating loss. The Segals stress in this Court that, under the statutory scheme, no refund could be claimed from the Government until the end of the year, but, as cases already cited indicate, postponed enjoyment does not disqualify an interest as "property." That earnings by the bankrupt after filing the petition might diminish or eliminate the loss carryback refund claim does further qualify the interest, but we have already noted that contingency in the abstract is no bar, and the actual risk that the refund claims may be erased is quite far from a certainty. [<a id="nf5" href="#fn5">Footnote 5</a>] Unlike a pre-bankruptcy promise of a gift or bequest, passing title to the trustee does not make it unlikely the gift or bequest will be effected. Nor does passing the claim hinder the bankrupt from starting out on a clean slate, for any administrative inconvenience to the bankrupt will not be prolonged, see 110 U.Pa.L.Rev., at 279-280, and the bankrupt without a refund claim to preserve has more reason to earn income, rather than less.</p>
     <n id="p381">381</n>
     <p>We are told that, if this loss carryback refund claim is "property," that label must also attach to loss carryovers, that is, the application of pre-bankruptcy losses to earnings in future years. Since losses may be carried forward five years and, in some cases, even seven or ten years, I.R.C. §§ 172(b)(1)(B)-(D), great hardship for the estate is foreseen by petitioners in keeping it open for this length of time. While in fact the trustee can obviate this detriment to the estate -- by selling a contingent claim in some instances or simply forgoing it -- inconvenience and hindrance might be caused for the bankrupt individual. Without ruling in any way on a question not before us, it is enough to say that a carryover into post-bankruptcy years can be distinguished conceptually, as well as practically. The bankrupts in this case had both prior net income and a net loss when their petitions were filed, and apparently would have deserved an immediate refund had their tax year terminated on that date; by contrast, the supposed loss carryover would still need to be matched in some future year by earnings, earnings that might never eventuate at all.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Having concluded that the loss carryback refund claims in this case constituted "property" at the time of the bankruptcy petitions, it remains for us to decide whether in addition they were property "which prior to the filing of the petition . . . [the bankrupt] could by any means have transferred. . . ." [<a id="nf6" href="#fn6">Footnote 6</a>] The prime obstacle</p>
     <n id="p382">382</n>
     <p>to an affirmative answer is 31 U.S.C. § 203, which renders "absolutely null and void" all transfers of any claim against the United States unless among other conditions the claim has been allowed and the amount ascertained. See <a id="nf3" href="#fn3">n</a> 3, supra. Plainly, since the tax laws calculate the refund only on the full year's experience after the year has closed, the claims in the present instance could not have been allowed or ascertained at the time the petitions were filed.</p>
@@ -67,7 +67,7 @@
     </f>
     <f n="3"><a id="fn3" href="#nf3">Footnote 3</a>
       <p>Rev.Stat. § 3477, as amended, 31 U.S.C. § 203 (1964 ed.). The section, so far as relevant, states:</p>
-      <p>"All transfers and assignments made of any claim upon the United States, or of any part or share thereof, or interest therein, whether absolute or conditional, and whatever may be the consideration therefor . . . , shall be absolutely null and void, unless they are freely made and executed in the presence of at least two attesting witnesses, after the allowance of such a claim, the ascertainment of the amount due, and the issuing of a warrant for the payment thereof."</p>
+      <p>"All transfers and assignments made of any claim upon the United States, or of any part or share thereof, or interest therein, whether absolute or conditional, and whatever may be the consideration therefor . . ., shall be absolutely null and void, unless they are freely made and executed in the presence of at least two attesting witnesses, after the allowance of such a claim, the ascertainment of the amount due, and the issuing of a warrant for the payment thereof."</p>
     </f>
     <f n="4"><a id="fn4" href="#nf4">Footnote 4</a>
       <p>Considerable commentary has been directed to the problem. Practically all the writers agree that it is desirable for the trustee to receive the refunds, although a minority contend that existing law will not permit this result. See Herzog, Bankruptcy Law -- Modern Trends, 36 Ref.J. 18 (1962); 60 Nw.U.L.Rev. 122 (1965); 40 Notre Dame Law 118 (1964); 14 Stan.L.Rev. 380 (1962); 40 Tex.L.Rev. 569 (1962); 42 Tex.L.Rev. 542 (1964); 17 U.Fla.L.Rev. 241 (1964); 16 U.Miami L.Rev. 345 (1961); 110 U.Pa.L.Rev. 275 (1961).</p>

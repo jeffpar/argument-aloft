@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us576-0473.html" citation="576 U.S. 473" title="King v. Burwell">
   <opinion type="Opinion" author="Roberts">
     <n id="p473">473</n>
     <p>NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 14–114</p>
-    <p>_________________</p>
     <p>DAVID KING, et al., PETITIONERS v. SYLVIA BURWELL, SECRETARY OF HEALTHAND HUMAN SERVICES, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the fourth circuit</p>
     <p>[June 25, 2015]</p>
@@ -85,9 +84,7 @@
   </opinion>
   <opinion type="Dissent" author="Scalia">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 14–114</p>
-    <p>_________________</p>
     <p>DAVID KING, et al., PETITIONERS v. SYLVIA BURWELL, SECRETARY OF HEALTHAND HUMAN SERVICES, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the fourth circuit</p>
     <p>[June 25, 2015]</p>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us093-0018.html" citation="93 U.S. 18" title="Ex Parte Parks">
   <opinion type="Opinions &amp; Dissents">
     <n id="p18">18</n>
-    <h>U.S. Supreme Court</h>
-    <h>Ex Parte Parks, <a href="./us093-0018.xml#p18">93 U.S. 18</a> (1876)</h>
-    <h>Ex Parte Parks</h>
-    <h><a href="./us093-0018.xml#p18">93 U.S. 18</a></h>
-    <h>ORIGINAL</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Ex Parte Parks, <a href="./us093-0018.xml#p18">93 U.S. 18</a> (1876)</h1>
+    <h2>Ex Parte Parks</h2>
+    <h2>ORIGINAL</h2>
+    <h2>Syllabus</h2>
     <p>1. Where an inferior court has jurisdiction of the cause and the person in a criminal suit, and no writ of error lies from this Court, it will not on habeas corpus review the legality of the proceedings.</p>
     <p>2. It is only where the proceedings below are entirely void, either for want of jurisdiction, or other cause, that such relief will be given.</p>
     <p>3. Whether a matter for which a party is indicted in the district court is or is not a crime against the laws of the United States is a question within the jurisdiction of that court, which it must decide. Its decision will not be reviewed here by habeas corpus.</p>

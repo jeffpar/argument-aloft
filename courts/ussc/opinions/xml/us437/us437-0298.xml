@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us437-0298.html" citation="437 U.S. 298" title="United States v. LaSalle Nat'l Bank">
   <opinion type="Opinions &amp; Dissents">
     <n id="p298">298</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. LaSalle Nat'l Bank, <a href="./us437-0298.xml#p298">437 U.S. 298</a> (1978)</h>
-    <h>United States v. LaSalle National Bank</h>
-    <h>No. 77-365</h>
-    <h>Argued March 29, 1978</h>
-    <h>Decided June 19, 1978</h>
-    <h><a href="./us437-0298.xml#p298">437 U.S. 298</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SEVENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. LaSalle Nat'l Bank, <a href="./us437-0298.xml#p298">437 U.S. 298</a> (1978)</h1>
+    <h2>United States v. LaSalle National Bank</h2>
+    <h2>No. 77-365</h2>
+    <h4>Argued March 29, 1978</h4>
+    <h4>Decided June 19, 1978</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SEVENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner special agent of the Internal Revenue Service (IRS), in the process of investigating a taxpayer's tax liability, issued summonses to respondent bank under authority of § 7602 of the Internal Revenue Code of 1954 (which permits use of a summons "[f]or the purpose of ascertaining the correctness of any return, . . . determining the Liability of any person for any internal revenue tax . . or collecting any such liability") to appear before the agent and produce files of certain land trusts, created for the benefit of the taxpayer. When respondent bank official appeared in response to the summonses but refused to produce the files, the United States and the agent petitioned the District Court for enforcement of the summonses. That court denied enforcement, finding that the summonses were not issued in good faith because they were issued "solely for the purpose of unearthing evidence of criminal conduct" by the taxpayer. The Court of Appeals affirmed.</p>
     <p>Held: The District Court erred in refusing to enforce the summonses, since its finding that the agent was investigating the taxpayer "solely for the purpose of unearthing evidence of criminal conduct" does not necessarily lead to the conclusion that the summonses were not issued in good faith pursuit of the congressionally authorized purposes of § 7602. Pp. <a href="./us437-0298.xml#p307">437 U. S. 307</a>-319.</p>
     <p>(a) Congress has not categorized tax fraud investigation into civil and criminal components, but has created a tax enforcement system in which criminal and civil elements are inherently intertwined, and any limitation on the good faith use of an IRS summons must reflect this statutory premise. Pp. <a href="./us437-0298.xml#p308">437 U. S. 308</a>-311.</p>
@@ -25,7 +25,7 @@
     <p>MR. JUSTICE BLACKMUN delivered the opinion of the Court.</p>
     <p>This case is a supplement to our decision in Donaldson v. United States, <a href="../us400/us400-0517.xml#p517">400 U. S. 517</a> (1971). It presents the issue whether the District Court correctly refused to enforce Internal Revenue Service summonses when it specifically found that the special agent who issued them "was conducting his investigation solely for the purpose of unearthing evidence of criminal conduct." 76-1 USTC � 9407, p. 84,073, 37 AFTR2d � 76-582, p. 76-1240 (ND Ill.1976).</p>
     <n id="p300">300</n>
-    <h>I</h>
+    <h2>I</h2>
     <p>In May, 1975, John F. Olivero, a special agent with the Intelligence Division of the Chicago District of the Internal Revenue Service (hereinafter IRS or Service), received an assignment to investigate the tax liability of John Gattuso for his taxable years 1970-1972. App. 227, 33. Olivero testified that he had requested the assignment because of information he had received from a confidential informant and from an unrelated investigation. Id. at 3. The case was not referred to the IRS from another law enforcement agency, but the nature of the assignment, Olivero testified, was " [t]o investigate the possibility of any criminal violations of the Internal Revenue Code." Id. at 33. Olivero pursued the case on his own, without the assistance of a revenue agent. [<a id="nf1" href="#fn1">Footnote 1</a>] He received information about Gattuso from the Federal Bureau of Investigation as a result of the previous investigation. Id. at 36. He solicited and received additional data from the United States Attorney for the Northern District of Illinois, the Secret Service, the Department of Housing and Urban Development, the IRS Collection Division, and the Cosmopolitan National Bank of Chicago. Id. at 370.</p>
     <p>Mr. Gattuso's tax returns for the years in question disclosed rental income from real estate. That property was held in</p>
     <n id="p301">301</n>
@@ -55,13 +55,13 @@
     <p>Id. at 309. The Court of Appeals further decided that the District Court had reached a factual, rather than a legal, conclusion when it found the summonses to have been issued solely for a criminal prosecution. Id. at 305. Appellate review, accordingly, was limited to application of the clearly erroneous standard. Id. at 306. Although the Court of Appeals noted that Olivero had testified about the existence of a civil purpose for the investigation, the court said that "the record establishes that the district court did not believe him." Id. at 309. The appellate court could not reverse the trial court's judgment, it said, because it was "not left with a firm and definite conviction that a mistake [had] been made." Id. at 306.</p>
     <p>Because of the importance of the issue in the enforcement of the internal revenue laws, and because of conflict among the Courts of Appeals concerning the scope of IRS summons authority under 7602, [<a id="nf6" href="#fn6">Footnote 6</a>] we granted certiorari. 434 U.S. 996 (1977).</p>
     <n id="p306">306</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>In Donaldson v. United States, <a href="../us400/us400-0517.xml#p517">400 U. S. 517</a> (1971), an IRS special agent issued summonses to a taxpayer's putative former employer and its accountant for the production of the employer's records of the taxpayer's employment and compensation. When the records were not forthcoming, the IRS petitioned for the enforcement of the summonses. The taxpayer intervened and eventually appealed the enforcement order. This Court addressed the taxpayer's contention that the summonses were unenforceable because they were issued in aid of an investigation that could have resulted in a criminal charge against the taxpayer. His argument there, see id. at <a href="../us400/us400-0517.xml#p532">400 U. S. 532</a>, was based on the following dictum in Reisman v. Caplin, 375 U.S. at <a href="../us375/us375-0440.xml#p449">375 U. S. 449</a>:</p>
     <p>"[T] he witness may challenge the summons on any appropriate ground. This would include, as the circuits have held, the defenses that the material is sought for the improper purpose of obtaining evidence for use in a criminal prosecution, Boren v. Tucker, 239 F.2d 767, 772-773. . . ."</p>
     <p>In the light of the citation to Boren, [<a id="nf7" href="#fn7">Footnote 7</a>] the Court in Donaldson concluded that the dictum referred and was applicable to "the situation of a pending criminal charge or, at most, of an investigation solely for criminal purposes." 400 U.S. at <a href="../us400/us400-0517.xml#p533">400 U. S. 533</a>.</p>
     <n id="p307">307</n>
     <p>Discerning the meaning of the brief Reisman dictum, however, did not resolve for the Court the question posed by Donaldson. The validity of the summonses depended ultimately on whether they were among those authorized by Congress. [<a id="nf8" href="#fn8">Footnote 8</a>] Having reviewed the statutory scheme, 400 U.S. at <a href="../us400/us400-0517.xml#p523">400 U. S. 523</a>-525, the Court concluded that Congress had authorized the use of summonses in investigating potentially criminal conduct. The statutory history, particularly the use of summonses under the Internal Revenue Code of 193, [<a id="nf9" href="#fn9">Footnote 9</a>] supported this conclusion, as did consistent IRS practice and decisions concerning effective enforcement of other comparable federal statutes. [<a id="nf10" href="#fn10">Footnote 10</a>] The Court saw no reason to force the Service to choose either to forgo the use of congressionally authorized summonses or to abandon the option of recommending criminal prosecutions to the Department of Justice. [<a id="nf11" href="#fn11">Footnote 11</a>] As long as the summonses were issued in good faith pursuit of the congressionally authorized purposes, and prior to any recommendation to the Department for prosecution, they were enforceable. Id. at 536.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The present case requires us to examine the limits of the good faith use of an Internal Revenue summons issued under § 7602. As the preceding discussion demonstrates, Donaldson does not control the facts now before us. There, the taxpayer had argued that the mere potentiality of criminal prosecution should have precluded enforcement of the summons. 400 U.S. at <a href="../us400/us400-0517.xml#p532">400 U. S. 532</a>. Here, on the other hand, the District Court</p>
     <n id="p308">308</n>
     <p>found that Special Agent Olivero was investigating Gattuso "solely for the purpose of unearthing evidence of criminal conduct." 76-1 USTC at 84,073, 37 AFTR2d at 76-1240. The question then becomes whether this finding necessarily leads to the conclusion that the summonses were not issued in good faith pursuit of the congressionally authorized purposes of § 7602.</p>
@@ -109,7 +109,7 @@
     <n id="p318">318</n>
     <p>D</p>
     <p>In summary, then, several requirements emerge for the enforcement of an IRS summons. [<a id="nf20" href="#fn20">Footnote 20</a>] First, the summons must be issued before the Service recommends to the Department of Justice that a criminal prosecution, which reasonably would relate to the subject matter of the summons, be undertaken. Second, the Service at all times must use the summons authority in good faith pursuit of the congressionally authorized purposes of § 7602. This second prerequisite requires the Service to meet the Powell standards of good faith. It also requires that the Service not abandon in an institutional sense, as explained in Parts <a href="./us437-0298.xml#p308">437 U. S.</a> S. 313|&gt;III-C above, the pursuit of civil tax determination or collection.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>On the record before us, respondents have not demonstrated sufficient justification to preclude enforcement of the IRS summonses. No recommendation to the Justice Department for criminal prosecution has been made. Of the Powell criteria, respondents challenge only one aspect of the Service's showing: they suggest that Olivero already may possess the evidence requested in the summonses. Brief for Respondents 119. Although the record shows that Olivero had uncovered the names and identities of the LaSalle National Bank land trusts, it does not show that the Service knows the value of the trusts or their income or the allocation of interests therein. Because production of the bank's complete records on the trusts reasonably could be expected to reveal part or all of this information, which would be material to the computation</p>
     <n id="p319">319</n>
     <p>of Gattuso's tax liability, the Powell criteria do not preclude enforcement. Finally, the District Court refused enforcement because it found that Olivero's personal motivation was to gather evidence solely for a criminal prosecution. The court, however, failed to consider whether the Service, in an institutional sense, had abandoned its pursuit of Gattuso's civil tax liability. [<a id="nf21" href="#fn21">Footnote 21</a>] The Court of Appeals did not require that inquiry. On the record presently developed, we cannot conclude that such an abandonment has occurred.</p>

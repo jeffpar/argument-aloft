@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us406-0091.html" citation="406 U.S. 91" title="Illinois v. City of Milwaukee">
   <opinion type="Opinions &amp; Dissents">
     <n id="p91">91</n>
-    <h>U.S. Supreme Court</h>
-    <h>Illinois v. City of Milwaukee, <a href="./us406-0091.xml#p91">406 U.S. 91</a> (1972)</h>
-    <h>Illinois v. City of Milwaukee</h>
-    <h>No. 49, Orig.</h>
-    <h>Argued February 29, 1972</h>
-    <h>Decided April 24, 1972</h>
-    <h><a href="./us406-0091.xml#p91">406 U.S. 91</a></h>
-    <h>ON MOTION FOR LEAVE TO FILE BILL OF COMPLAINT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Illinois v. City of Milwaukee, <a href="./us406-0091.xml#p91">406 U.S. 91</a> (1972)</h1>
+    <h2>Illinois v. City of Milwaukee</h2>
+    <h2>No. 49, Orig.</h2>
+    <h4>Argued February 29, 1972</h4>
+    <h4>Decided April 24, 1972</h4>
+    <h2>ON MOTION FOR LEAVE TO FILE BILL OF COMPLAINT</h2>
+    <h2>Syllabus</h2>
     <p>The State of Illinois has filed a motion for leave to file a bill of complaint against four Wisconsin cities and two local sewerage commissions for allegedly polluting Lake Michigan. Illinois seeks to invoke the Court's original jurisdiction on the ground that the defendants are instrumentalities of Wisconsin, and that this suit is therefore one against the State that must be brought in this Court under Art. III, § 2, cl. 2, of the Constitution, which confers original jurisdiction on the Court "[i]n all cases . . . in which a State shall be a party," and 28 U.S.C. § 1251(a)(1), which provides that the Court shall have "original and exclusive jurisdiction of [all] controversies between two or more States. . . ." Under 28 U.S.C. § 1251(b)(3), the Court has "original but not exclusive" jurisdiction of actions by a State against citizens of another State, and under § 1331(a), a district court has original jurisdiction "of all civil actions wherein the matter in controversy exceeds $10,000 . . . and [arises] under the Constitution [or] laws . . . of the United States."</p>
     <p>Held:</p>
     <p>1. Though Wisconsin could be joined as a defendant here under appropriate pleadings, it is not mandatory that it be made one, and its political subdivisions are not "States" within the meaning of 28 U.S.C. § 1251(a)(1). If those subdivisions may be sued by Illinois in a federal district court, this Court's original jurisdiction under § 1251(b)(3) is merely permissible, not mandatory. Pp. <a href="./us406-0091.xml#p93">406 U. S. 93</a>-98.</p>
@@ -30,7 +30,7 @@
     <n id="p93">93</n>
     <p>MR. JUSTICE DOUGLAS delivered the opinion of the Court.</p>
     <p>This is a motion by Illinois to file a bill of complaint under our original jurisdiction against four cities of Wisconsin, the Sewerage Commission of the City of Milwaukee, and the Metropolitan Sewerage Commission of the County of Milwaukee. The cause of action alleged is pollution by the defendants of Lake Michigan, a body of interstate water. According to plaintiff, some 200 million gallons of raw or inadequately treated sewage and other waste materials are discharged daily into the lake in the Milwaukee area alone. Plaintiff alleges that it and its subdivisions prohibit and prevent such discharges, but that the defendants do not take such actions. Plaintiff asks that we abate this public nuisance.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Article III, § 2, cl. 2, of the Constitution provides: "In all Cases . . . in which a State shall be Party, the supreme Court shall have original Jurisdiction." Congress has provided in 28 U.S.C. § 1251 that "(a) the Supreme Court shall have original and exclusive jurisdiction of: (1) All controversies between two or more States."</p>
     <p>It has long been this Court's philosophy that "our original jurisdiction should be invoked sparingly." Utah v. United States, <a href="../us394/us394-0089.xml#p89">394 U. S. 89</a>, <a href="../us394/us394-0089.xml#p95">394 U. S. 95</a>. We construe 28 U.S.C. § 1251(a)(1), a we do Art. III, § 2, cl. 2, to honor our original jurisdiction but to make it obligatory only in appropriate cases. And the question of what is appropriate concerns, of course, the seriousness and dignity of the claim; yet, beyond that, it necessarily involves the availability of another forum where there is jurisdiction over the named parties, where the issues tendered may be litigated, and where appropriate relief may be had. We</p>
     <n id="p94">94</n>
@@ -65,7 +65,7 @@
     <p>"(b) the Supreme Court shall have original but not exclusive jurisdiction of: . . . (3) all actions or proceedings by a State against the citizens of another State. . . ."</p>
     <p>If the named public entities of Wisconsin may, however, be sued by Illinois in a federal district court, our original jurisdiction is not mandatory.</p>
     <p>It is to that aspect of the case that we now turn.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Title 28 U.S.C. § 1331(a) provides that</p>
     <p>"[t]he district courts shall have original jurisdiction of all civil actions wherein the matter in controversy exceeds the sum or value of $10,000, exclusive of interest and costs, and arises under the Constitution, laws, or treaties of the United States."</p>
     <p>The considerable interests involved in the purity of interstate waters would seem to put beyond question the jurisdictional amount provided in § 1331(a). See Glenwood Light &amp; Water Co. v. Mutual Light, Heat &amp; Power Co., <a href="../us239/us239-0121.xml#p121">239 U. S. 121</a>; <a href="../us067/us067-0485.xml#p485">Mississippi &amp; Missouri R. Co. v. Ward</a>, 2 Black 485, <a href="../us067/us067-0485.xml#p492">67 U. S. 492</a>; Ronzio v. Denver &amp; R. G. W. R. Co., 116 F.2d 604, 606; C. Wright, The Law of Federal Courts 117-119 (2d ed.1970); Note, 73 Harv.L.Rev. 1369.</p>
@@ -82,11 +82,11 @@
     <p>Chief Judge Lumbard, speaking for the panel in Ivy Broadcasting Co. v. American Tel. &amp; Tel. Co., 391 F.2d 486, 492, expressed the same view as follows:</p>
     <p>"We believe that a cause of action similarly 'arises under' federal law if the dispositive issues stated in the complaint require the application of federal common law. . . . The word 'laws' in § 1331 should be construed to include laws created by federal judicial decisions, as well as by congressional legislation. The rationale of the 1875 grant of federal question jurisdiction -- to insure the availability of a forum designed to minimize the danger of hostility toward, and specially suited to the vindication of, federally created rights -- is as applicable to judicially created rights as to rights created by statute."</p>
     <p>(Citations omitted.)</p>
-    <p>We see no reason not to give "laws" its natural meaning, see Romero v. International Terminal Operating Co., supra, at <a href="../us358/us358-0354.xml#p393">358 U. S. 393</a> n. 5 (BRENNAN, J., dissenting and concurring) , and therefore conclude that § 1331 jurisdiction will support claims founded upon federal common law, as well as those of a statutory origin.</p>
+    <p>We see no reason not to give "laws" its natural meaning, see Romero v. International Terminal Operating Co., supra, at <a href="../us358/us358-0354.xml#p393">358 U. S. 393</a> n. 5 (BRENNAN, J., dissenting and concurring), and therefore conclude that § 1331 jurisdiction will support claims founded upon federal common law, as well as those of a statutory origin.</p>
     <p>As respects the power of a State to bring an action under § 1331(a), Ames v. Kansas, <a href="../us111/us111-0449.xml#p449">111 U. S. 449</a>, <a href="../us111/us111-0449.xml#p470">111 U. S. 470</a>-472, is controlling. There, Kansas had sued a number of corporations in its own courts, and, since federal rights were involved, the defendants had the cases removed to the federal court. Kansas resisted, saying that the federal court lacked jurisdiction because of Art. III,</p>
     <n id="p101">101</n>
     <p>§ 2, cl. 2, of the Constitution, which gives this Court "original Jurisdiction" in "all Cases . . . in which a State shall be Party." The Court held that, where a State is suing parties who are not other States, the original jurisdiction of this Court is not exclusive (id. at <a href="../us111/us111-0449.xml#p470">111 U. S. 470</a>), and that those suits "may now be brought in or removed to the Circuit Courts [now the District Courts] without regard to the character of the parties." [<a id="nf2" href="#fn2">Footnote 2</a>] Ibid. We adhere to that ruling.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Congress has enacted numerous laws touching interstate waters. In 1899, it established some surveillance by the Army Corps of Engineers over industrial pollution, not including sewage, Rivers and Harbors Act of March 3, 1899, 30 Stat. 1121, a grant of power which we construed in United States v. Republic Steel Corp., <a href="../us362/us362-0482.xml#p482">362 U. S. 482</a>, and in United States v. Standard Oil Co., <a href="../us384/us384-0224.xml#p224">384 U. S. 224</a>.</p>
     <p>The 1899 Act has been reinforced and broadened by a complex of laws recently enacted. The Federal Water Pollution Control Act, 62 Stat. 1155, as amended, 33 U.S.C. § 1151, tightens control over discharges into navigable waters so as not to lower applicable water quality standards. By the National Environmental Policy Act of 1969, 83 Stat. 862, 42 U.S.C. § 4321 et seq., Congress "authorizes and directs" that</p>
     <p>"the policies, regulations, and public laws of the United States shall be interpreted and administered in accordance with the policies set forth in this Act,"</p>

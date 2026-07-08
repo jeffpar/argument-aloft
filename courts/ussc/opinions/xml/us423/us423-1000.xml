@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us423-1000.html" citation="423 U.S. 1000" title="GRECO v. ORANGE MEMORIAL HOSPITAL CORPORATION">
   <opinion type="Opinions &amp; Dissents">
     <n id="p1000">1000</n>
-    <h>U.S. Supreme Court</h>
-    <h>GRECO v. ORANGE MEMORIAL HOSPITAL CORPORATION , <a href="./us423-1000.xml#p1000">423 U.S. 1000</a> (1975)</h>
-    <h> <a href="./us423-1000.xml#p1000">423 U.S. 1000</a></h>
-    <h>John C. GRECO v. ORANGE MEMORIAL HOSPITAL CORPORATION et al. No. 75-432.</h>
-    <h>Supreme Court of the United States</h>
-    <h>December 1, 1975</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>GRECO v. ORANGE MEMORIAL HOSPITAL CORPORATION, <a href="./us423-1000.xml#p1000">423 U.S. 1000</a> (1975)</h1>
+    <h2>John C. GRECO v. ORANGE MEMORIAL HOSPITAL CORPORATION et al. No. 75-432.</h2>
+    <h2>Supreme Court of the United States</h2>
+    <h4>December 1, 1975</h4>
     <p>On petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit.</p>
     <p>The petition for a writ of certiorari is denied.</p>
     <p>Mr. Justice WHITE, with whom THE CHIEF JUSTICE joins, dissenting.</p>
@@ -32,7 +32,7 @@
     <n id="p1006">1006</n>
     <p>Constitution, there is a conflict with the law in other circuits. Whether or not the Court agrees with the result reached below, the conflicts are square; they are on issues which arise with frequency in the lower federal courts; and they are on significant questions of law. Perhaps, in light of the current pressures on our docket, there may be a category of conflicts, involving insignificant points of federal law, which we simply do not have the capacity to resolve. However, it would undoubtedly surprise members of the bar and the public that this Court views the conflicts created by the decision below to fall within such a category.</p>
     <p>The task of policing this Court's decisions in Roe v. Wade, <a href="../us410/us410-0113.xml#p113">410 U.S. 113</a>, and Doe v. Bolton, <a href="../us410/us410-0179.xml#p179">410 U.S. 179</a>, 93 S. Ct. 739, is a difficult one; but having exercised its power as it did, the Court has a responsibility to resolve the problems arising in the wake of those decisions. I would grant the petition for a writ of certiorari and set this case for oral argument.</p>
-    <h>Footnotes</h>
+    <h2>Footnotes</h2>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>
       <p>Respondents point out that petitioner ceased his relationship with the hospital after the filing of the instant lawsuit and claim that the case therefore become moot. However, this may be with respect to petitioner's injunctive and declaratory claims. His suit for damages is plainly still alive.</p>
     </f>

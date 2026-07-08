@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us335-0410.html" citation="335 U.S. 410" title="Upshaw v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p410">410</n>
-    <h>U.S. Supreme Court</h>
-    <h>Upshaw v. United States, <a href="./us335-0410.xml#p410">335 U.S. 410</a> (1948)</h>
-    <h>Upshaw v. United States</h>
-    <h>No. 98</h>
-    <h>Argued November 12, 1948</h>
-    <h>Decided December 13, 1948</h>
-    <h><a href="./us335-0410.xml#p410">335 U.S. 410</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE DISTRICT OF COLUMBIA CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Upshaw v. United States, <a href="./us335-0410.xml#p410">335 U.S. 410</a> (1948)</h1>
+    <h2>Upshaw v. United States</h2>
+    <h2>No. 98</h2>
+    <h4>Argued November 12, 1948</h4>
+    <h4>Decided December 13, 1948</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE DISTRICT OF COLUMBIA CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Arrested on suspicion without a warrant, petitioner confessed 30 hours later, while being held without having been taken before a committing magistrate as required by Rule 5(a) of the Federal Rules of Criminal Procedure. The only reason given by the arresting officer for the delay in his arraignment was that there was not enough evidence to hold him, and the police wished to question him further. At his trial in a federal court, the confession was admitted in evidence over his objection, and the jury found that it was voluntary.</p>
     <p>Held: the confession was inadmissible, and a conviction based thereon is reversed. McNabb v. United States, <a href="../us318/us318-0332.xml#p332">318 U. S. 332</a>, followed. United States v. Mitchell, <a href="../us322/us322-0065.xml#p65">322 U. S. 65</a>, distinguished. Pp. <a href="./us335-0410.xml#p410">335 U. S. 410</a>-414.</p>
     <p>83 U.S.App.D.C. 207, 168 F.2d 167, reversed.</p>
@@ -50,7 +50,7 @@
       <p>My objection to this Court's action of today in what seems to me an extension of the scope of nonadmissibility of confessions in the federal courts is not to its power so to act, but to the advisability of such an additional step. Unless Congress or a majority of this Court modifies the McNabb rule, I feel bound to follow my understanding of its meaning in similar cases that may arise, but that duty does not impose upon me the obligation to accept this ruling as to Upshaw which seems to me to compound certain unfortunate results of the McNabb decision by extending it to circumstances beyond the scope of the McNabb ruling. This attitude leads me (1) to analyze the McNabb case and its offspring, (II) to point out why I think the present decision goes beyond the holding in McNabb, and (III) to point out why McNabb should not be extended.</p>
       <n id="p417">417</n>
       <p>The judicial approach to the problem, of course, must be in a spirit of cooperation with the police officials in the administration of justice. They are directly charged with the responsibility for the maintenance of law and order, and are under the same obligation as the judicial arm to discharge their duties in a manner consistent with the Constitution and statutes. The prevention and punishment of crime is a difficult and dangerous task, for the most part performed by security and prosecuting personnel in a spirit of public service to the community. Only by the maintenance of order may the rights of the criminal and the law abiding elements of the population be protected. As has been pointed out by this Court in the McNabb and Mitchell cases, United States v. Mitchell, <a href="../us322/us322-0065.xml#p65">322 U. S. 65</a>, there is no constitutional problem involved in deciding whether a voluntary confession given by a prisoner prior to commitment by a magistrate should be admitted in evidence. A prisoner's constitutional rights against self-incrimination or to due process are protected by the rule that no involuntary confession may be admitted. McNabb v. United States, supra, at <a href="../us318/us318-0332.xml#p339">318 U. S. 339</a>-340, and cases cited; Haley v. Ohio, <a href="../us332/us332-0596.xml#p596">332 U. S. 596</a>; Malinski v. New York, <a href="../us324/us324-0401.xml#p401">324 U. S. 401</a>; Ashcraft v. Tennessee, <a href="../us322/us322-0143.xml#p143">322 U. S. 143</a>.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>Our first inquiry, then, is as to the legal doctrine behind the McNabb decision.</p>
       <p>A. Were the McNabb confessions barred as a punishment or penalty against the police officers because they were thought to have disobeyed the command of a statute?</p>
       <p>B. Were they barred because unlawful imprisonment is so apt to be followed by an involuntary confession as to justify the exclusion of all confessions received before judicial commitment after a prisoner is kept in custody</p>
@@ -103,13 +103,13 @@
       <p>For the foregoing reasons, I conclude that detention alone, even for the purpose of obtaining information, should not be sufficient to justify the exclusion of confession to police officers obtained after unnecessary delay and before commitment.</p>
       <p>C. This brings me to a statement of the true rule of the McNabb case, as I understand it. This rule is that purposeful, unlawful detention illegally to extract evidence and the successful extraction of confessions under psychological pressure, other than mere detention for limited periods, makes confessions so obtained inadmissible. This statement is a paraphrase of the Mitchell interpretation referred to in the preceding subdivision. It means that pressure short of coercion but beyond mere detention makes confessions inadmissible. Obviously there is a wide range of discretion as to how much psychological pressure is necessary. If any material amount is sufficient, the rule differs little from one denying admissibility if obtained during illegal restraint. If almost coercion is required, the rule will differ little from that excluding an involuntary confession. Under this interpretation of McNabb, I suppose, as in coerced confessions, it should be left to a jury to decide whether there was enough evidence of pressure where the admitted facts do not show improper pressure as a matter of law.</p>
       <n id="p430">430</n>
-      <h>II</h>
+      <h2>II</h2>
       <p>The Court now says that illegal detention alone is sufficient to bar from evidence a confession to the police during that unlawful detention. As I think this is an improper extension of the McNabb rule, I proceed to state the application of the McNabb rule, as I understand it, to Upshaw's situation. Perhaps Upshaw's arrest without a warrant was also without reasonable cause on the part of the arresting officer to believe he had committed a felony. This unlawful arrest is not relied upon in the opinion. So far as the admissibility of the confession is concerned, it makes no difference that it may have been obtained as the result of an illegal arrest or an unlawful detention. I think there was less psychological pressure upon Upshaw than there was upon the McNabbs. That precedent, therefore, if the true McNabb rule is properly stated in Part I, subdivision C, above, does not require me to declare Upshaw's confession inadmissible. In the McNabbs' case, the facts of their illegal detention that caused this Court's action appear from the opinion as set out below. [Footnote 2/24] As for Upshaw, the facts are detailed in the footnote. [Footnote 2/25]</p>
       <n id="p433">433</n>
       <p>The time between confession and commitment is not significant. United States v. Mitchell, supra. The indications of pressure on the McNabbs that lead me to</p>
       <n id="p434">434</n>
       <p>conclude that the Court should hold Upshaw's confession admissible under my understanding of the McNabb rule before this present holding are the lack of experience of the McNabbs, the "breaking" of Benjamin by confrontation of charges of his guilt by his relatives and confederates, the greater number of officers questioning them, and the longer time the McNabb group was interrogated. [Footnote 2/26]</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>I do not agree that we should now extend the McNabb rule by saying that every confession obtained by police after unnecessary delay in arraignment for commitment and before magisterial commitment must be barred from the trial. Those most concerned with a proper administration of the criminal law are against any extension.</p>
       <p>(1) The departure of the McNabb and Anderson cases from well established methods for protection against coercion has been condemned by the House of Representatives, and not acted upon by the Senate. [Footnote 2/27]</p>
       <p>(2) Officer charged with enforcement of the criminal law have objected for the reason that fear of the application of its drastic penalties deterred officers from questioning during reasonable delays in commitment. [Footnote 2/28]</p>

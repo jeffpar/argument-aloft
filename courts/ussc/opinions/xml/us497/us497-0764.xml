@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us497-0764.html" citation="497 U.S. 764" title="Lewis v. Jeffers">
   <opinion type="Opinions &amp; Dissents">
     <n id="p764">764</n>
-    <h>U.S. Supreme Court</h>
-    <h>Lewis v. Jeffers, <a href="./us497-0764.xml#p764">497 U.S. 764</a> (1990)</h>
-    <h>Lewis v. Jeffers</h>
-    <h>No. 89-189</h>
-    <h>Argued Feb. 21, 1990</h>
-    <h>Decided June 27, 1990</h>
-    <h><a href="./us497-0764.xml#p764">497 U.S. 764</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Lewis v. Jeffers, <a href="./us497-0764.xml#p764">497 U.S. 764</a> (1990)</h1>
+    <h2>Lewis v. Jeffers</h2>
+    <h2>No. 89-189</h2>
+    <h4>Argued Feb. 21, 1990</h4>
+    <h4>Decided June 27, 1990</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>In affirming respondent Jeffers' first-degree murder conviction and death sentence, the Arizona Supreme Court, inter alia, independently reviewed the evidence supporting the trial court's finding of the statutory aggravating circumstance that the crime was committed "in an especially heinous, cruel or depraved manner." The court noted its recent ruling that the infliction of gratuitous violence on the victim is among the factors to be considered in determining whether the murder was "especially heinous . . . and depraved," and found the presence of this factor in light of evidence that Jeffers had climbed on top of the dead victim and hit her in the face several times, causing additional wounds and bleeding. Noting further that the apparent relish with which the defendant commits the murder is another relevant factor under its decisions, the court concluded that Jeffers' relish for his crime was evidenced by testimony that, while he was beating the dead victim, he called her a "bitch" and a "dirty snitch" and stated, as each blow landed, that "[t]his one is for" someone on whom he felt she had informed. The Federal District Court denied Jeffers' habeas corpus petition. The Court of Appeals agreed with the District Court that the "especially heinous . . . or depraved" aggravating circumstance, as interpreted and narrowed by the State Supreme Court, was not void on its face, but vacated Jeffers' death sentence on the ground that the circumstance was unconstitutionally vague as applied to him.</p>
     <p>Held:</p>
     <p>1. The Court of Appeals erred in holding that Arizona's construction of the "especially heinous . . . or depraved" aggravating circumstance in this case contravened Godfrey v. Georgia, <a href="../us446/us446-0420.xml#p420">446 U. S. 420</a>, <a href="../us446/us446-0420.xml#p428">446 U. S. 428</a>, and Maynard v. Cartwright, <a href="../us486/us486-0356.xml#p356">486 U. S. 356</a>, <a href="../us486/us486-0356.xml#p364">486 U. S. 364</a>. There is no dispute here that the Arizona Supreme Court applied its narrowing construction to the facts of Jeffers' case. More important, the Court of Appeals noted that the circumstance, as construed by the state courts, was not unconstitutionally vague on its face. Even if it had not so held, Jeffers' claim that Arizona has not construed the circumstance in a constitutionally narrow manner is disposed of by Walton v. Arizona, ante, at <a href="./us497-0639.xml#p652">497 U. S. 652</a>-655, which upheld, against a vagueness challenge, the precise aggravating circumstance at issue here. Moreover, a claim identical to Jeffers' assertion that the aggravating circumstance may nevertheless be vague "as applied"</p>
@@ -23,7 +23,7 @@
     <n id="p766">766</n>
     <p>Justice O'CONNOR delivered the opinion of the Court.</p>
     <p>This case presents issues pertaining to federal court review of a state court's determination that an offense was committed "in an especially heinous, cruel or depraved manner," Ariz.Rev.Stat. § 13-703(F)(6) (1989).</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The relevant facts are undisputed. The evidence at trial showed that, in May, 1976, police arrested respondent Jimmie Wayne Jeffers and his girlfriend, Penelope Cheney, on state-law charges of possession of narcotics and receipt of stolen property. Respondent posted bond for Cheney, but was unable to post bond for himself, and remained in custody at the Pima County Jail. While in jail, respondent received reports that Cheney had been cooperating with police by providing the police with information about respondent and certain heroin transactions. Respondent wrote a note to another jail inmate offering him money if he would kill Cheney. The detention officer who was supposed to deliver the note read it and seized it.</p>
     <p>In October, 1976, respondent was released from jail on bond pending appeal of his convictions. About a week later, he met Doris Van Der Veer and began living with her at a motel in Tucson. Respondent subsequently invited Cheney to the motel in order to provide her with some heroin.</p>
     <p>On the day of the murder, respondent told Van Der Veer that Cheney was coming over and that they wished to be alone. When Cheney arrived, respondent introduced her to Van Der Veer, who then excused herself. After about two and a half hours, Van Der Veer returned to the motel room and knocked on the door. Respondent admitted her, pointed a gun at her, and ordered her to sit in a chair and be quiet.</p>
@@ -84,7 +84,7 @@
     <p>"the majority [was] doing little more than second-guessing the Arizona Supreme Court's interpretation of facts that quite reasonably fit within the statutory definition of aggravating circumstances."</p>
     <p>832 F.2d at 487.</p>
     <p>We granted certiorari, 493 U.S. 889 (1989), and now reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Petitioners contend that this case presents the question whether a federal court may make a de novo review of the evidence supporting a state court's finding of a facially constitutional</p>
     <n id="p774">774</n>
     <p>aggravating circumstance. Respondent maintains that this case presents only the question whether the Court of Appeals correctly held that Arizona's construction of the subsection (F)(6) aggravating circumstance in this case contravened this Court's decisions in Godfrey v. Georgia, supra, and Maynard v. Cartwright, <a href="../us486/us486-0356.xml#p356">486 U. S. 356</a> (1988). We begin our analysis with respondent's contention.</p>
@@ -190,7 +190,7 @@
       <p>As respondent in this Court, Jeffers defends the judgment of the Court of Appeals on the grounds that no satisfactory limiting construction of the (F)(6) circumstance can be derived from the Arizona precedents, and, alternatively, that, if such a construction does exist, it was improperly applied in his case. [Footnote 2/3] Jeffers' first claim is logically antecedent to the second; it raises an issue of greater general importance, and, given the decision of the en banc Court of Appeals in Adamson, it can hardly be regarded as insubstantial. The Court today, however, simply refuses to discuss the merits of respondent's broad challenge to the (F)(6) circumstance; in lieu of analysis, it relies on a single sentence of dictum in an opinion</p>
       <n id="p787">787</n>
       <p>in another case issued today. Because I believe that Arizona's application of the (F)(6) factor cannot be squared with this Court's governing precedents -- and because I regard the majority's approach as a parody of constitutional adjudication -- I dissent.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>This Court consistently has recognized that</p>
       <p>"an aggravating circumstance must genuinely narrow the class of persons eligible for the death penalty and must reasonably justify the imposition of a more severe sentence on the defendant compared to others found guilty of murder."</p>
       <p>Zant v. Stephens, <a href="../us462/us462-0862.xml#p862">462 U. S. 862</a>, <a href="../us462/us462-0862.xml#p877">462 U. S. 877</a> (1983). The application to respondent of Arizona's (F)(6) circumstance can be sustained only if that aggravating factor provides a "principled way to distinguish this case, in which the death penalty was imposed, from the many cases in which it was not." Godfrey v. Georgia, <a href="../us446/us446-0420.xml#p420">446 U. S. 420</a>, <a href="../us446/us446-0420.xml#p433">446 U. S. 433</a> (1980) (plurality opinion). The majority does not contend that the statutory language, which requires only that the murder be "especially heinous . . . or depraved," is itself sufficiently precise to meet constitutional standards. [Footnote 2/4] Rather, the Court refers repeatedly to a "narrowing construction" of the (F)(6) circumstance announced by the Arizona Supreme Court. See, e.g., ante at <a href="./us497-0764.xml#p776">497 U. S. 776</a>, <a href="./us497-0764.xml#p780">497 U. S. 780</a>, <a href="./us497-0764.xml#p783">497 U. S. 783</a>,</p>
@@ -239,7 +239,7 @@
       <p>The Arizona Supreme Court's decisions dealing with especially improper motives are symptomatic of a larger pattern in that court's construction of the (F)(6) circumstance. At least since Gretzler, the court has generally avoided the error of simply recounting the events surrounding a particular crime and then announcing, in conclusory fashion, that the murder was "especially heinous . . . or depraved." Rather, the court typically identifies specific factors to support its conclusion that the aggravating circumstance has been established. And if any one decision is examined in isolation, it may appear that the state court has narrowly construed the (F)(6) circumstance in a manner that satisfies constitutional requirements. The problem is that the Arizona</p>
       <n id="p798">798</n>
       <p>Supreme Court has identified so many such factors, and has shown itself so willing to add new factors when a perceived need arises, that the body of its precedents places no meaningful limitations on the application of this aggravating circumstance. [Footnote 2/14] The constitutional infirmity of the court's approach cannot be recognized through examination of any one opinion. It becomes very apparent upon examination of the relevant decisions taken as a whole. Unfortunately, the inquiry required for an informed assessment of the Arizona Supreme Court's application of this aggravating factor is one that this Court simply refuses to undertake.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>The majority devotes most of its energy arguing that a federal habeas court, having concluded that a State has adopted</p>
       <n id="p799">799</n>
       <p>a constitutionally sufficient limiting construction of an aggravating circumstance, largely should refrain from engaging in case-specific comparisons between the homicide under review and prior decisions in which the aggravating factor has been found. The Court concludes that, since a rational factfinder could have determined that respondent "relished" the murder and engaged in "gratuitous violence," the death sentence must be allowed to stand. I concede that respondent's crime was not plainly distinguishable from the other murders that the Arizona Supreme Court has found to be "especially heinous . . . or depraved." Indeed, my conclusion could hardly be otherwise: having argued that the (F)(6) circumstance has been construed so broadly as to cover virtually every first degree murder, I could scarcely contend that the court's finding in this case was bizarre or aberrational. I, however, do have some brief observations concerning the role of federal habeas courts in reviewing state court findings of aggravating circumstances.</p>
@@ -260,7 +260,7 @@
       <n id="p803">803</n>
       <p>arbitrary -- even if both meanings could be found in a given dictionary. If the Court of Appeals departed from the "rational factfinder" standard here, it was by requiring too close a correlation between this case and others, not simply by employing a comparative approach.</p>
       <p>Suppose, for example, that the Arizona Supreme Court had consistently construed the (F)(6) circumstance as requiring "physical abuse," but had found that standard satisfied only in cases where the killer subjected the victim to prolonged, severe physical suffering. Presumably that construction would be valid. See Maynard v. Cartwright, 486 U.S. at <a href="../us486/us486-0356.xml#p365">486 U. S. 365</a>. Suppose that the court in a subsequent case found that the (F)(6) factor had been proved when the defendant slapped the victim once and then shot him dead. The defendant, on federal habeas, could raise two related but distinct challenges. First, the defendant might argue that no reasonable factfinder could conclude that a single slap constituted "physical abuse" as that term had previously been construed by the Arizona Supreme Court. (This would amount to a contention that the state court had misapplied its own rule.) Alternatively, the defendant might argue that "physical abuse" could no longer be deemed an adequate limiting construction if that phrase was construed as including a single slap. However the challenge was framed, though, the habeas court could not limit itself to the question whether a rational factfinder could conclude that the slap fell within some plausible definition of "physical abuse."</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>The majority's discussion of the way in which a federal habeas court should review the application of a valid aggravating circumstance to the facts of a particular case seems to me to be flawed in significant respects. My principal disagreement, however, is with the Court's insistence on addressing the issue. The majority makes no effort to justify its holding that the Arizona Supreme Court has placed constitutionally</p>
       <n id="p804">804</n>
       <p>sufficient limitations on its "especially heinous . . . or depraved" aggravating circumstance. Instead, the Court relies entirely on a sentence of dictum from today's opinion in Walton -- an opinion which itself offers no rationale in support of the Court's conclusion. The dissenting opinion in Walton notes the Court's increasing tendency to review the constitutional claims of capital defendants in a perfunctory manner, but the Court's action in this case goes far beyond anything that is there observed.</p>

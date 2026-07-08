@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us333-0740.html" citation="333 U.S. 740" title="Andres v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p740">740</n>
-    <h>U.S. Supreme Court</h>
-    <h>Andres v. United States, <a href="./us333-0740.xml#p740">333 U.S. 740</a> (1948)</h>
-    <h>Andres v. United States</h>
-    <h>No. 431</h>
-    <h>Argued February 5, 1948</h>
-    <h>Decided April 26, 1948</h>
-    <h><a href="./us333-0740.xml#p740">333 U.S. 740</a></h>
-    <h>CERTIORARI TO THE CIRCUIT COURT OF APPEALS</h>
-    <h>FOR THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Andres v. United States, <a href="./us333-0740.xml#p740">333 U.S. 740</a> (1948)</h1>
+    <h2>Andres v. United States</h2>
+    <h2>No. 431</h2>
+    <h4>Argued February 5, 1948</h4>
+    <h4>Decided April 26, 1948</h4>
+    <h2>CERTIORARI TO THE CIRCUIT COURT OF APPEALS</h2>
+    <h2>FOR THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>1. Whether a verdict of guilty in a prosecution in a federal court for murder in the first degree should be qualified by adding thereto "without capital punishment," as authorized by 18 U.S.C. § 567, is entirely within the discretion of the jury, and the instructions of the trial court on this point in the instant case were adequate. Pp. <a href="./us333-0740.xml#p742">333 U. S. 742</a>-744.</p>
     <p>2. There was no material error in the trial court's use, in its instructions in this case, of certain language objected to by the petitioner as indicating to the jury that the grand jury had found that he was probably guilty of murder in the first degree -- although the language was misleading when read out of context, and could well have been omitted. Pp. <a href="./us333-0740.xml#p744">333 U. S. 744</a>-745.</p>
     <p>3. In the provision of 18 U.S. C. § 542 that "The manner of inflicting the punishment of death shall be the manner prescribed by the laws of the State within which the sentence is imposed," the word "State" includes the Territory of Hawaii. P. <a href="./us333-0740.xml#p745">333 U. S. 745</a>.</p>
@@ -45,7 +45,7 @@
     <n id="p746">746</n>
     <p>The last and most difficult issue raised by Andres is the question of the propriety of those instructions by which the trial judge attempted to explain to the jury the requirements of unanimity in their verdict. This issue is a composite of two problems: (1) The proper construction of 18 U.S.C. § 567, and (2) the consideration of whether the instruction given clearly conveyed to the jury the correct statutory meaning.</p>
     <p>Section 567 of 18 U.S.C. 18 U.S.C. reads as follows:</p>
-    <p>"In all cases where the accused is found guilty of the crime of murder in the first degree . . . , the jury may qualify their verdict by adding thereto 'without capital punishment,' and whenever the jury shall return a verdict qualified as aforesaid, the person convicted shall be sentenced to imprisonment for life."</p>
+    <p>"In all cases where the accused is found guilty of the crime of murder in the first degree . . ., the jury may qualify their verdict by adding thereto 'without capital punishment,' and whenever the jury shall return a verdict qualified as aforesaid, the person convicted shall be sentenced to imprisonment for life."</p>
     <p>If a qualified verdict is not returned, the death penalty is mandatory. [<a id="nf7" href="#fn7">Footnote 7</a>] The Government argues that § 567, properly construed, requires that the jury first unanimously decide the guilt of the accused, and then, with the same unanimity, decide whether a qualified verdict shall be returned. As the statute requires the death penalty on a verdict of guilty, the contention is that the jury acts unanimously in finding guilt, and the law exacts the penalty. It follows that, if all twelve of the jurors cannot agree to add the words "without capital punishment," the original verdict of guilt stands, and the punishment of death must be imposed. The petitioner contends that § 567 must be construed to require unanimity in respect to both guilt and punishment before a verdict can be returned. It follows that one juror can prevent a verdict which requires the death penalty, although there is unanimity in finding the accused guilty of murder in the first degree. The Circuit Court of Appeals held that unanimity of the jury was required both as to guilt</p>
     <n id="p747">747</n>
     <p>and the refusal to qualify the verdict by the words "without capital punishment." It interpreted the instructions, however, as requiring this unanimity.</p>
@@ -78,7 +78,7 @@
     <p>" Even if you should unanimously agree from the evidence beyond all reasonable doubt that the defendant is guilty as charged, you may, as I have said qualify your verdict by adding thereto 'without capital punishment,' in which case the defendant shall not suffer the death penalty."</p>
     <p>" In this connection, I further instruct you that you are authorized to add to your verdict the words 'without capital punishment,' and this you may do no matter what the evidence may be and without regard to the existence of mitigating circumstances."</p>
     <p>"And, finally, you will recall I said that you are instructed that, before you may return a qualified verdict of murder in the first degree without capital punishment, that your decision to do so must, like your regular verdict, be unanimous."</p>
-    <p>The Government concedes that, if the petitioner's interpretation of § 567 is accepted, these instructions were inadequate, and we find ourselves in agreement with this concession. The court below concluded that the instructions were proper, and that they did not mislead the jury. [<a id="nf15" href="#fn15">Footnote 15</a>] It based its conclusion upon two factors: (1) the common understanding of jurors that "they are under no legal compulsion to join in a verdict with which they are in disagreement, either in whole or in part . . . ," [<a id="nf16" href="#fn16">Footnote 16</a>] and (2) the general admonition of the trial judge that "the unanimous agreement of the jury is necessary to a verdict." [<a id="nf17" href="#fn17">Footnote 17</a>]</p>
+    <p>The Government concedes that, if the petitioner's interpretation of § 567 is accepted, these instructions were inadequate, and we find ourselves in agreement with this concession. The court below concluded that the instructions were proper, and that they did not mislead the jury. [<a id="nf15" href="#fn15">Footnote 15</a>] It based its conclusion upon two factors: (1) the common understanding of jurors that "they are under no legal compulsion to join in a verdict with which they are in disagreement, either in whole or in part . . .," [<a id="nf16" href="#fn16">Footnote 16</a>] and (2) the general admonition of the trial judge that "the unanimous agreement of the jury is necessary to a verdict." [<a id="nf17" href="#fn17">Footnote 17</a>]</p>
     <n id="p752">752</n>
     <p>It seems to us, however, that, where a jury is told first that their verdict must be unanimous, and later, in response to a question directed to the particular problem of qualified verdicts, that, if their verdict is first-degree murder and they desire to qualify it, they must be unanimous in so doing, the jury might reasonably conclude that, if they cannot all agree to grant mercy, the verdict of guilt must stand unqualified. That reasonable men might derive a meaning from the instructions given other than the proper meaning of § 567 is probable. In death cases, doubts such as those presented here should be resolved in favor of the accused. The context of § 567 does not defy accurate and precise expression. For example: an instruction that a juror should not join a verdict of guilty without qualification if he is convinced that capital punishment should not be inflicted, would have satisfied the statute and protected the defendant. Or the jury might have been instructed that its conclusion on both guilt and punishment must be unanimous before any verdict could be found.</p>
     <p>As we are of the opinion that the instructions given on this issue did not fully protect the petitioner, the judgment of the lower court is reversed, and the case is remanded for a new trial.</p>
@@ -158,7 +158,7 @@
       <p>of guilty imperative has these main choices that leave little room for construction:</p>
       <p>(1) Legislation may leave with the jury the duty of finding an accused guilty of murder in the first degree but give them the right of remission of the death sentence, provided there is unanimous agreement on such remission. Any juror, of course, has it in his power to deadlock a jury out of sheer willfulness or unreasonable obstinacy. But, under such a statute, the duty laid upon his conscience is to find guilt if there is guilt. The jury can save an accused from death only if they can reach a unanimous agreement to relieve from the doom.</p>
       <p>(2) The legislature may not require unanimous agreement on remission of the death sentence, but may make such remission effective by a majority vote of the jury, or, as in the case of the Mississippi statute, it may expressly provide that</p>
-      <p>"Every person who shall be convicted of murder shall suffer death, unless the jury rendering the verdict shall fix the punishment at imprisonment in the penitentiary for the life of the convict; or unless the jury shall certify its disagreement as to the punishment . . . , in which case the court shall fix the punishment at imprisonment for life."</p>
+      <p>"Every person who shall be convicted of murder shall suffer death, unless the jury rendering the verdict shall fix the punishment at imprisonment in the penitentiary for the life of the convict; or unless the jury shall certify its disagreement as to the punishment . . ., in which case the court shall fix the punishment at imprisonment for life."</p>
       <p>(Miss.Code Ann. § 2217 (1942).)</p>
       <p>(3) The legislature may require the jury to specify the punishment in their verdict. Under such legislation, it is necessary for the jury's verdict not only to pronounce guilt, but also to prescribe the sentence.</p>
       <p>(4) The jury may be authorized to qualify the traditional verdict of guilty so as to enable the court to impose a sentence other than death. This may be accomplished by giving such discretionary power to the court simpliciter, or upon recommendation of mercy by the jury.</p>

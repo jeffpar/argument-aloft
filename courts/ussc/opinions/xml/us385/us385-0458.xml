@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us385-0458.html" citation="385 U.S. 458" title="Lassen v. Arizona Highway Dept.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p458">458</n>
-    <h>U.S. Supreme Court</h>
-    <h>Lassen v. Arizona Highway Dept., <a href="./us385-0458.xml#p458">385 U.S. 458</a> (1967)</h>
-    <h>Lassen v. Arizona Highway Department</h>
-    <h>No. 84</h>
-    <h>Argued November 16, 1966</h>
-    <h>Decided January 10, 1967</h>
-    <h><a href="./us385-0458.xml#p458">385 U.S. 458</a></h>
-    <h>CERTIORARI TO THE SUPREME COURT OF ARIZONA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Lassen v. Arizona Highway Dept., <a href="./us385-0458.xml#p458">385 U.S. 458</a> (1967)</h1>
+    <h2>Lassen v. Arizona Highway Department</h2>
+    <h2>No. 84</h2>
+    <h4>Argued November 16, 1966</h4>
+    <h4>Decided January 10, 1967</h4>
+    <h2>CERTIORARI TO THE SUPREME COURT OF ARIZONA</h2>
+    <h2>Syllabus</h2>
     <p>The State of Arizona on relation of its Highway Department sued in the Arizona Supreme Court to prohibit the State Land Commissioner (who is essentially the trustee of lands granted to the State for specified public purposes by the United States pursuant to the New Mexico-Arizona Enabling Act) from enforcing rules governing the acquisition of rights of way and material sites in the trust lands. The rules provided that rights of way and material sites could be granted for an indefinite period after full payment of the appraised value. The Enabling Act, by such provisions as those for public notice and public sale, restricts the manner of disposition of trust lands and provides that no lands may be sold for less than their appraised value. The Act does not directly refer to the use by the State itself of trust lands for purposes not designated in the grant. The State Supreme Court ordered the Commissioner to grant the material sites and rights of way without compensation, holding that it may be conclusively presumed that highways across trust lands always enhance the value of remaining trust lands in amounts at least equal to the value of the areas taken.</p>
     <p>Held:</p>
     <p>1. Consistent with the essential purposes of the Enabling Act the restrictions on the manner of disposition of trust lands are not applicable to acquisitions by the State for its highway program. Pp. <a href="./us385-0458.xml#p461">385 U. S. 461</a>-465.</p>
@@ -27,7 +27,7 @@
     <n id="p461">461</n>
     <p>States to maintain whatever proceedings may be necessary to enforce its terms. [<a id="nf4" href="#fn4">Footnote 4</a>] We brought this case here because of the importance of the issues presented both to the United States and to the States which have received such lands. [<a id="nf5" href="#fn5">Footnote 5</a>] 384 U.S. 926.</p>
     <p>The issues here stem chiefly from ambiguities in the grant itself. The terms under which the United States provided these lands were included in the New Mexico-Arizona Enabling Act. 36 Stat. 557. The Act describes with particularity the disposition Arizona may make of the lands and of the funds derived from them, but it does not directly refer to the conditions or consequences of the use by the State itself of the trust lands for purposes not designated in the grant. Of the issues which may arise from the Act's silence, we need now reach only two: first, whether Arizona is permitted to obtain trust lands for such uses without first satisfying the Act's restrictions on disposition of the land; and second, what standard of compensation Arizona must employ to recompense the trust for the land it uses. Both issues require consideration of the Act's language and history.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>We turn first to the question of the method by which Arizona may obtain trust lands for purposes not included in the grant. The constraints imposed by the Act upon the methods by which trust lands may be transferred are few and simple. Section 28, which is reproduced in the <a href="./us385-0458.xml#p458">385 U.S. 458</a>app|&gt;Appendix to this opinion, requires, with exceptions inapplicable here, that lands be sold or</p>
     <n id="p462">462</n>
     <p>leased only to "the highest and best bidder at a public auction to be held at the county seat of the county wherein the lands . . . shall lie. . . ." The section prescribes the terms, form and frequency of the notice which must be given of the auction. It requires that no lands be sold for a price less than their appraised value. The Act imposes two sanctions upon transactions which fail to satisfy its requirements. First, § 28 provides broadly that trust lands must be "disposed of in whole or in part only in manner as herein provided. . . ." It adds that "Disposition of any of said lands . . . in any manner contrary to the provisions of this Act, shall be deemed a breach of trust." Finally, it provides that</p>
@@ -42,7 +42,7 @@
     <p>Further, we should not fail to recognize that, were we to require Arizona to follow precisely these procedures, we would sanction an empty formality. There would not often be others to bid for the material sites and rights of way which the State might seek. More important, even if such bidders appeared and proved successful, nothing in the grant would prevent Arizona from thereafter condemning the land which it had failed to purchase; the anticipation of condemnation would leave the auction without any real significance. We cannot see that the trust would materially benefit from this circuity.</p>
     <n id="p465">465</n>
     <p>We conclude that it is consonant with the Act's essential purposes to exclude from the restrictions in question the transactions at issue here. The trust will be protected, and its purposes entirely satisfied, if the State is required to provide full compensation for the land it uses. We hold, therefore, that Arizona need not offer public notice or conduct a public sale when it seeks trust lands for its highway program. The State may instead employ the procedures established by the Commissioner's rules, or any other procedures reasonably calculated to assure the integrity of the trust and to prevent misapplication of its lands and funds.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The second issue here is the standard of compensation which Arizona must employ to recompense the trust for the land it acquires. The Land Commissioner's rules provide simply that the State must pay the appraised value, as measured by the State's condemnation statute, of the right of way or material site. The Highway Department urges, and the Arizona Supreme Court held, that nothing need ever be actually paid, since it may be conclusively presumed that all highways enhance the value of the remaining trust lands in amounts at least equal to the value of the lands which were taken. The United States, as amicus curiae, suggests that the Highway Department be obliged to pay the land's appraised value, but that it be permitted to reduce that sum by the amount of any enhancement shown in the value of the remaining trust lands. The rule urged by the United States differs from that adopted by the state court only in that the United States would not permit the Highway Department to presume enhancement, but would instead require that it be established by the Department in each instance with reasonable certainty and precision. Under this rule, enhancement would have to be individually</p>
     <n id="p466">466</n>
     <p>proved and computed for small tracts of land checkered over the entire State.</p>

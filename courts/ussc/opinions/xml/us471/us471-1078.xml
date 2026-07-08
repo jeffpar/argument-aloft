@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us471-1078.html" citation="471 U.S. 1078" title="DIGGS v. LYONS">
   <opinion type="Opinions &amp; Dissents">
     <n id="p1078">1078</n>
-    <h>U.S. Supreme Court</h>
-    <h>DIGGS v. LYONS , <a href="./us471-1078.xml#p1078">471 U.S. 1078</a> (1985)</h>
-    <h> <a href="./us471-1078.xml#p1078">471 U.S. 1078</a></h>
-    <h>Charles DIGGS v. Edmond LYONS, Superintendent, et al No. 84-5814 Supreme Court of the United States April 29, 1985</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>DIGGS v. LYONS, <a href="./us471-1078.xml#p1078">471 U.S. 1078</a> (1985)</h1>
+    <h4>Charles DIGGS v. Edmond LYONS, Superintendent, et al No. 84-5814 Supreme Court of the United States April 29, 1985</h4>
     <p>On petition for writ of certiorari to the United States Court of Appeals for the Third Circuit.</p>
     <p>The petition for a writ of certiorari is denied.</p>
     <p>Justice WHITE, with whom Justice BRENNAN and Justice MARSHALL join, dissenting.</p>
@@ -15,7 +15,7 @@
     <p>As the Court of Appeals recognized, its reading of Rule 609(a) directly conflicts with the interpretation of two other Circuits. Both the Eighth Circuit and the Fifth Circuit have ruled that, assuming the applicability of Rule 609(a) to civil cases, it does not relieve courts of the duty to assess the prejudicial effect of evidence of prior convictions against a plaintiff witness under Rule 403. See Czajka v. Hickman, <a href="http://cases.justia.com/us-court-of-appeals/F2/703/317/">703 F.2d 317</a> (CA8 1983); Shows v. M/V Red Eagle, <a href="http://cases.justia.com/us-court-of-appeals/F2/695/114/">695 F.2d 114</a> (CA5 1983). This disagreement concerning the Rule's meaning now affects litigants in three large Circuits, and the issue will undoubtedly arise elsewhere before long . See Furtado v. Bishop, <a href="http://cases.justia.com/us-court-of-appeals/F2/604/80/">604 F.2d 80</a> (CA1 1979), cert. denied, <a href="../us444/us444-1035.xml#p1035">444 U.S. 1035</a> (1980) (finding it unnecessary to resolve the</p>
     <n id="p1080">1080</n>
     <p>question). Given this square conflict regarding a fundamental evidentiary rule, and in light of the concededly "bizarre" results that may follow from the ruling below, I would grant certiorari to decide whether Rule 609( a) mandates the admission of evidence of prior convictions against a plaintiff witness in a civil case.</p>
-    <h>Footnotes</h>
+    <h2>Footnotes</h2>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>
       <p>Rule 609(a) provides:</p>
       <p>"(a) General rule.-For the purpose of attacking the credibility of a witness, evidence that he has been convicted of a crime shall be admitted if elicited from him or established by public record during cross- examination but only if the crime (1) was punishable by death or imprisonment in excess of one year under the law under which he was convicted, and the court determines that the probative value of admitting this evidence outweighs its prejudicial effect to the defendant, or (2) involved dishonesty or false statement, regardless of the punishment."</p>

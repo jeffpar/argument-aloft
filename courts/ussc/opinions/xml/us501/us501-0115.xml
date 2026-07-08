@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us501-0115.html" citation="501 U.S. 115" title="Gollust v. Mendell">
   <opinion type="Opinions &amp; Dissents">
     <n id="p115">115</n>
-    <h>U.S. Supreme Court</h>
-    <h>Gollust v. Mendell, <a href="./us501-0115.xml#p115">501 U.S. 115</a> (1991)</h>
-    <h>Gollust v. Mendell</h>
-    <h>No. 90-659</h>
-    <h>Argued April 15, 1991</h>
-    <h>Decided June 10, 1991</h>
-    <h><a href="./us501-0115.xml#p115">501 U.S. 115</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SECOND CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Gollust v. Mendell, <a href="./us501-0115.xml#p115">501 U.S. 115</a> (1991)</h1>
+    <h2>Gollust v. Mendell</h2>
+    <h2>No. 90-659</h2>
+    <h4>Argued April 15, 1991</h4>
+    <h4>Decided June 10, 1991</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SECOND CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Section 16(b) of the Securities Exchange Act of 1934 imposes strict liability on "beneficial owner[s]" of more than 10% of a corporation's listed stock, and on the corporation's officers and directors, for any profits realized from any purchase and sale, or sale and purchase, of such stock occurring within a 6-month period. Such "insiders" are subject to suit "instituted . . . by the issuer, or by the owner of any security of the issuer" in the issuer's name and behalf. After respondent Mendell, an owner of common stock in Viacom International, Inc. (International), instituted a § 16(b) suit against petitioners, allegedly "beneficial owners" of International stock, International was acquired by a shell subsidiary of what is now called Viacom, Inc. (Viacom). International merged with the subsidiary, and became Viacom's wholly owned subsidiary and sole asset. Mendell received cash and stock in Viacom in exchange for his International stock. The District Court granted petitioners' motion for summary judgment on the ground that Mendell had lost standing to maintain the action because he no longer owned any International stock. The Court of Appeals reversed, holding that Mendell's continued prosecution of the action was not barred by the statute's language or existing case law, and was fully consistent with the statutory objectives.</p>
     <p>Held: Mendell has satisfied the statute's standing requirements. Pp. <a href="./us501-0115.xml#p121">501 U. S. 121</a>-128.</p>
     <p>(a) Section 16(b) provides standing of signal breadth, expressly limited only by the conditions that the plaintiff be the "owner of [a] security" of the "issuer" at the time the suit is "instituted." Any "security" -- including stock, notes, warrants, bonds, debentures, puts, and calls, 15 U.S.C. § 78c(a)(10) -- will suffice to confer standing. There is no restriction in terms of the number or percentage of shares, or the value of any other security, that must be held. Nor is the security owner required to have had an interest in the issuer at the time of the short-swing trading. Although the security's "issuer" does not include parent or subsidiary corporations, 15 U.S.C. § 78c(a)(8), this requirement is determined at the time the § 16(b) action is "instituted." Congress intended to adopt the common understanding of the word "institute" -- "inaugurate or commence; as to institute an action," Black's Law Dictionary 985-986 (3d ed.1933) -- which is confirmed by its use of the</p>
@@ -29,7 +29,7 @@
     <p>Our prior cases interpreting § 16(b) have resolved questions about the liability of an insider defendant under the statute. [<a id="nf2" href="#fn2">Footnote 2</a>] This case, in contrast, requires us to address a</p>
     <n id="p118">118</n>
     <p>plaintiff's standing under § 16(b) and, in particular, the requirements for continued standing after the institution of an action. We hold that a plaintiff, who properly "instituted [a § 16(b) action as] the owner of [a] security of the issuer," may continue to prosecute the action after his interest in the issuer is exchanged in a merger for stock in the issuer's new corporate parent.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In January, 1987, respondent Ira L. Mendell filed a complaint under § 16(b) against petitioners in the United States District Court for the Southern District of New York, stating that he owned common stock in Viacom International, Inc. (International) and was suing on behalf of the corporation. He alleged that petitioners, a collection of limited partnerships, general partnerships, individual partners and corporations, "operated as a single unit" and were, for purposes of this litigation, a "single . . . beneficial owner of more than ten per centum of the common stock" of International. App. to Pet. for Cert. 40a-42a. Respondent claimed that petitioners were liable to International under § 16(b) for approximately $11 million in profits earned by them from trading in International's common stock between July and October, 1986. Id. at 42a-43a. The complaint recited that respondent had made a demand upon International and its Board of Directors to bring a § 16(b) action against petitioners and that more than 60 days had passed without the institution of an action.</p>
     <p>In June, 1987, less than six months after respondent had filed his § 16(b) complaint, International was acquired by Arsenal Acquiring Corp., a shell corporation formed by Arsenal Holdings, Inc. (now named Viacom, Inc.) (Viacom) for the purpose of acquiring International. By the terms of the acquisition, Viacom's shell subsidiary was merged with International,</p>
     <n id="p119">119</n>
@@ -47,7 +47,7 @@
     <p>We granted certiorari, 498 U.S. 1023 (1991), to resolve this conflict and to determine whether a stockholder who has properly instituted a § 16(b) action to recover profits from a</p>
     <n id="p121">121</n>
     <p>corporation's insiders may continue to prosecute that action after a merger involving the issuer results in exchanging the stockholder's interest in the issuer for stock in the issuer's new corporate parent.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>A</p>
     <p>Congress passed § 16(b) of the 1934 Act to</p>
     <p>"preven[t] the unfair use of information which may have been obtained by [a] beneficial owner, director, or officer by reason of his relationship to the issuer."</p>
@@ -85,7 +85,7 @@
     <p>in the issuer has been replaced by one in the issuer's new parent. We think it can be.</p>
     <p>The modest financial stake in an issuer sufficient to bring suit is not necessarily greater than an interest in the original issuer represented by equity ownership in the issuer's parent corporation. A security holder eligible to institute suit will have no direct financial interest in the outcome of the litigation, since any recovery will inure only to the issuer's benefit. Yet the indirect interest derived through one share of stock is enough to confer standing, however slight the potential marginal increase in the value of the share. A bondholder's sufficient financial interest may be even more attenuated, since any recovery by the issuer will increase the value of the bond only because the issuer may become a slightly better credit risk.</p>
     <p>Thus, it is difficult to see how such a bondholder plaintiff, for example, is likely to have a more significant stake in the outcome of a § 16(b) action than a stockholder in a company whose only asset is the issuer. Because such a bondholder's attenuated financial stake is nonetheless sufficient to satisfy the statute's initial standing requirements, the stake of a parent company stockholder like respondent should be enough to meet the requirements for continued standing, so long as that is consistent with the text of the statute. It is consistent, of course, and in light of the congressional policy of lenient standing, we will not read any further condition into the statute, beyond the requirement that a § 16(b) plaintiff maintain a financial interest in the outcome of the litigation sufficient to motivate its prosecution and avoid constitutional standing difficulties.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>In this case, respondent has satisfied the statute's requirements. He owned a "security" of the "issuer" at the time he "instituted" this § 16(b) action. In the aftermath of International's restructuring, he retains a continuing financial interest in the outcome of the litigation derived from his stock in</p>
     <n id="p128">128</n>
     <p>International's sole stockholder, Viacom, whose only asset is International. Through these relationships, respondent still stands to profit, albeit indirectly, if this action is successful, just as he would have done if his original shares had not been exchanged for stock in Viacom. Although a calculation of the values of the respective interests in International that respondent held as its stockholder and holds now as a Viacom stockholder is not before us, his financial interest is actually no less real than before the merger, and apparently no more attenuated than the interest of a bondholder might be in a § 16(b) suit on an issuer's behalf.</p>

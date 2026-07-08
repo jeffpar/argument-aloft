@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us478-0364.html" citation="478 U.S. 364" title="Allen v. Illinois">
   <opinion type="Opinions &amp; Dissents">
     <n id="p364">364</n>
-    <h>U.S. Supreme Court</h>
-    <h>Allen v. Illinois, <a href="./us478-0364.xml#p364">478 U.S. 364</a> (1986)</h>
-    <h>Allen v. Illinois</h>
-    <h>No. 85-5404</h>
-    <h>Argued April 30, 1986</h>
-    <h>Decided July 1, 1986</h>
-    <h><a href="./us478-0364.xml#p364">478 U.S. 364</a></h>
-    <h>CERTIORARI TO THE SUPREME COURT OF ILLINOIS</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Allen v. Illinois, <a href="./us478-0364.xml#p364">478 U.S. 364</a> (1986)</h1>
+    <h2>Allen v. Illinois</h2>
+    <h2>No. 85-5404</h2>
+    <h4>Argued April 30, 1986</h4>
+    <h4>Decided July 1, 1986</h4>
+    <h2>CERTIORARI TO THE SUPREME COURT OF ILLINOIS</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner was charged in an Illinois Circuit Court with committing the crimes of unlawful restraint and deviate sexual assault, and the State filed a petition to have him declared a sexually dangerous person within the meaning of the Illinois Sexually Dangerous Persons Act (Act). Pursuant to the Act, the court ordered petitioner to submit to two psychiatric examinations. At the bench trial on the petition, the State presented the examining psychiatrists' testimony, over petitioner's objection that they had elicited information from him in violation of his privilege against self-incrimination. Based on that testimony, as well as that of the victim of the sexual assault, the court found petitioner to be a sexually dangerous person under the Act. The Illinois Appellate Court reversed, holding that the trial court had improperly relied on testimony in violation of petitioner's privilege against self-incrimination. The Illinois Supreme Court reversed, holding that that privilege was not available in sexually dangerous person proceedings because they are "essentially civil in nature."</p>
     <p>Held:</p>
     <p>1. Proceedings under the Act are not "criminal" within the meaning of the Fifth Amendment's guarantee against compulsory self-incrimination. The Act's aim is to provide treatment, not punishment, for persons adjudged sexually dangerous. That the State cannot file a sexually dangerous person petition under the Act unless it has already filed criminal charges against the person in question, and thus has chosen not to apply the Act to the larger class of mentally ill persons who might be found sexually dangerous, does not transform a civil proceeding into a criminal one. The State must prove more than just the commission of a sexual assault. It must prove the existence of a mental disorder for more than one year and a propensity to commit sexual assaults, in addition to showing that propensity through sexual assault. The fact that the Act provides some of the safeguards applicable in criminal proceedings -- rights to counsel, to a jury trial, and to confront and cross-examine witnesses, and the requirement that sexual dangerousness be proved beyond a reasonable doubt -- cannot itself turn the proceedings under the Act into criminal proceedings requiring the full panoply of rights applicable there. And the fact that a person adjudged sexually dangerous under the Act is committed to a maximum security institution that also</p>
@@ -96,7 +96,7 @@
       <p>Paragraph 105 of the Illinois Criminal Code authorizes a special procedure for the involuntary commitment of individuals</p>
       <n id="p376">376</n>
       <p>found to be "sexually dangerous persons." [Footnote 2/1] In many respects, the proceeding is virtually identical to Illinois' proceeding for prosecution of sex-related crimes. When the criminal law casts so long a shadow on a putatively civil proceeding, I think it clear that the procedure must be deemed a "criminal case" within the meaning of the Fifth Amendment. [Footnote 2/2]</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>As the Court reaffirms today, the fact that a State attaches a "civil" label to a proceeding is not dispositive. Ante at <a href="./us478-0364.xml#p369">478 U. S. 369</a>. Such a label cannot change the character of a criminal proceeding. In re Gault, <a href="../us387/us387-0001.xml#p1">387 U. S. 1</a>, <a href="../us387/us387-0001.xml#p49">387 U. S. 49</a>-50 (1967). Moreover, the words "criminal case" in the Fifth Amendment have been consistently construed to encompass certain proceedings that have both civil and criminal characteristics. [Footnote 2/3] And, of course, a State's duty to respect the commands in the Fifth Amendment cannot be avoided by the names it applies to its procedures or to the persons whom it accuses of wrongful conduct. It is the substance of the Illinois procedure, rather than its title, that is relevant to our inquiry. [Footnote 2/4] Neither</p>
       <n id="p377">377</n>
       <p>the word "civil" nor the unsettling term applied by the State -- "sexually dangerous person" -- should be permitted to obscure our analysis.</p>
@@ -115,7 +115,7 @@
       <p>assault or sexual molestation."</p>
       <p><a href="https://law.justia.com/cases/illinois/supreme-court/1985/60184-7.html">107 Ill. 2d 91</a>, 105, <a href="https://law.justia.com/cases/illinois/supreme-court/1985/60184-7.html">481 N.E.2d 690</a>, 697 (1985).</p>
       <p>Thus, the Illinois "sexually dangerous person" proceeding may only be triggered by a criminal incident; may only be initiated by the sovereign State's prosecuting authorities; may only be established with the burden of proof applicable to the criminal law; may only proceed if a criminal offense is established; and has the consequence of incarceration in the State's prison system -- in this case, Illinois' maximum security prison at Menard. It seems quite clear to me, in view of the consequences of conviction and the heavy reliance on the criminal justice system -- for its definition of the prohibited conduct, for the discretion of the prosecutor, for the standard of proof, and for the Director of Corrections as custodian -- that the proceeding must be considered "criminal" for purposes of the Fifth Amendment. [Footnote 2/11]</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>The principal argument advanced by the State -- and accepted by the Court, ante at <a href="./us478-0364.xml#p369">478 U. S. 369</a>-370 -- is that the statute has a benign purpose. The State points out that the statute, in appointing the Director of Corrections as guardian, requires that the Director provide "care and treatment for the person committed to him designed to effect recovery;" [Footnote 2/12] requires</p>
       <n id="p380">380</n>
       <p>that the Director place his ward "in any facility in the Department of Corrections or portion thereof set aside for the care and treatment of sexually dangerous persons;" [Footnote 2/13] and requires that the individual be released if "found to be no longer dangerous." [Footnote 2/14]</p>
@@ -129,7 +129,7 @@
       <p>The Attorney General's emphasis on the interference with treatment that the right of silence would create thus indeed has a significance, but not the one he suggests. For not only would a characterization of the proceeding as "criminal" lead to a right to silence under the Fifth Amendment, but a characterization of the proceeding as "civil" would also lead to a right to silence under state law. It is only in the "sexually dangerous person" proceeding that the individual may be compelled to give evidence that will be used to deprive him of his liberty. The fact that this proceeding is unique -- neither</p>
       <n id="p382">382</n>
       <p>wholly criminal nor civil -- surely cannot justify the unique deprivation of a constitutional protection.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>It is, of course, true that "the State has a substantial interest in . . . protecting the public from sexually dangerous persons." 107 Ill. 2d at 102, 481 N.E.2d at 696. But the fact that an individual accused of being a "sexually dangerous person" is also considered a danger to the community cannot justify the denial of the Fifth Amendment privilege; if so, the privilege would never be available for any person accused of a violent crime. The fact that it may be more difficult for the State to obtain evidence that will lead to incarceration similarly cannot prevent the applicability of the Fifth Amendment; if so, the right would never be justified, for it could always be said to have that effect. Nor can the fact that proof of sexual dangerousness requires evidence of noncriminal elements -- the continuing requirement that a future criminal "propensity" be proved, for instance -- prevent the applicability of the Fifth Amendment; if anything, that requirement should be the subject of greater, rather than lesser, concern. [Footnote 2/16]</p>
       <p>In the end, this case requires a consideration of the role and value of the Fifth Amendment. The privilege sometimes does serve the interest in making the truthseeking function of a trial more reliable. [Footnote 2/17] Indeed, a review of the</p>
       <n id="p383">383</n>

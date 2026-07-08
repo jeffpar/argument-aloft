@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us438-0586.html" citation="438 U.S. 586" title="Lockett v. Ohio">
   <opinion type="Opinions &amp; Dissents">
     <n id="p586">586</n>
-    <h>U.S. Supreme Court</h>
-    <h>Lockett v. Ohio, <a href="./us438-0586.xml#p586">438 U.S. 586</a> (1978)</h>
-    <h>Lockett v. Ohio</h>
-    <h>No. 76-6997</h>
-    <h>Argued January 17, 1978</h>
-    <h>Decided July 3, 1978</h>
-    <h><a href="./us438-0586.xml#p586">438 U.S. 586</a></h>
-    <h>CERTIORARI TO THE SUPREME COURT OF OHIO</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Lockett v. Ohio, <a href="./us438-0586.xml#p586">438 U.S. 586</a> (1978)</h1>
+    <h2>Lockett v. Ohio</h2>
+    <h2>No. 76-6997</h2>
+    <h4>Argued January 17, 1978</h4>
+    <h4>Decided July 3, 1978</h4>
+    <h2>CERTIORARI TO THE SUPREME COURT OF OHIO</h2>
+    <h2>Syllabus</h2>
     <p>The Ohio death penalty statute provides that once a defendant is found guilty of aggravated murder with at least one of seven specified aggravating circumstances, the death penalty must be imposed unless, considering "the nature and circumstances of the offense and the history, character, and condition of the offender," the sentencing judge determines that at least one of the following circumstances is established by a preponderance of the evidence: (1) the victim induced or facilitated the offense; (2) it is unlikely that the offense would have been committed but for the fact that the offender was under duress, coercion, or strong provocation; or (3) the offense was primarily the product of the offender's psychosis or mental deficiency. Petitioner, whose conviction of aggravated murder with specifications that it was committed to escape apprehension for, and while committing or attempting to commit, aggravated robbery, and whose sentence to death were affirmed by the Ohio Supreme Court, makes various challenges to the validity of her conviction, and attacks the constitutionality of the death penalty statute on the ground, inter alia, that it does not give the sentencing judge a full opportunity to consider mitigating circumstances in capital cases as required by the Eighth and Fourteenth Amendments.</p>
     <p>Held: The judgment is reversed insofar as it upheld the death penalty, and the case is remanded. Pp. <a href="./us438-0586.xml#p594">438 U. S. 594</a>-609; <a href="./us438-0586.xml#p613">438 U. S. 613</a>-619; <a href="./us438-0586.xml#p619">438 U. S. 619</a>-621; <a href="./us438-0586.xml#p624">438 U. S. 624</a>-628.</p>
     <p>49 Ohio St.2d 48, 358 N.E.2d 1062, reversed in part and remanded.</p>
@@ -34,7 +34,7 @@
     <n id="p589">589</n>
     <p>MR. CHIEF JUSTICE BURGER delivered the opinion of the Court with respect to the constitutionality of petitioner's conviction (Parts I and II), together with an opinion (Part III), in which MR. JUSTICE STEWART, MR. JUSTICE POWELL, and MR. JUSTICE STEVENS joined, on the constitutionality of the statute under which petitioner was sentenced to death, and announced the judgment of the Court.</p>
     <p>We granted certiorari in this case to consider, among other questions, whether Ohio violated the Eighth and Fourteenth Amendments by sentencing Sandra Lockett to death pursuant to a statute [<a id="nf1" href="#fn1">Footnote 1</a>] that narrowly limits the sentencer's discretion to consider the circumstances of the crime and the record and character of the offender as mitigating factors.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Lockett was charged with aggravated murder with the aggravating specifications (1) that the murder was "committed for the purpose of escaping detection, apprehension, trial, or punishment" for aggravated robbery, and (2) that the murder was</p>
     <p>"committed while . . . committing, attempting to commit, or fleeing immediately after committing or attempting to commit . . . aggravated robbery."</p>
     <p>That offense was punishable by death in Ohio. See Ohio Rev.Code Ann. §§ 2929.03, 2929.04 (1975). She was also charged with aggravated robbery. The State's case against her depended largely upon the testimony of a coparticipant, one Al Parker, who gave the following account of her participation in the robbery and murder.</p>
@@ -66,7 +66,7 @@
     <p>offense was "primarily the product of [Lockett's] psychosis or mental deficiency." Ohio Rev.Code §§ 2929.03-2929.04(B) (1975).</p>
     <p>In accord with the Ohio statute, the trial judge requested a presentence report as well as psychiatric and psychological reports. The reports contained detailed information about Lockett's intelligence, character, and background. The psychiatric and psychological reports described her as a 21-year-old with low-average or average intelligence, and not suffering from a mental deficiency. One of the psychologists reported that "her prognosis for rehabilitation" if returned to society was favorable. The presentence report showed that Lockett had committed no major offenses, although she had a record of several minor ones as a juvenile and two minor offenses as an adult. It also showed that she had once used heroin but was receiving treatment at a drug abuse clinic and seemed to be "on the road to success" as far as her drug problem was concerned. It concluded that Lockett suffered no psychosis and was not mentally deficient. [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
     <p>After considering the reports and hearing argument on the penalty issue, the trial judge concluded that the offense had not been primarily the product of psychosis or mental deficiency. Without specifically addressing the other two statutory mitigating factors, the judge said that he had "no alternative, whether [he] like[d] the law or not," but to impose the death penalty. He then sentenced Lockett to death.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>A</p>
     <p>At the outset, we address Lockett's various challenges to the validity of her conviction. Her first contention is that the</p>
     <n id="p595">595</n>
@@ -90,7 +90,7 @@
     <p>indicated an inability to follow the law and instructions of the trial judge.</p>
     <p>C</p>
     <p>Lockett's final attack on her conviction, as distinguished from her sentence, merits only brief attention. Specifically, she contends that the Ohio Supreme Court's interpretation of the complicity provision of the statute under which she was convicted, Ohio Rev.Code Ann. § 2923.03(A) (1975), was so unexpected that it deprived her of fair warning of the crime with which she was charged. The opinion of the Ohio Supreme Court belies this claim. It shows clearly that the construction given the statute by the Ohio court was consistent with both prior Ohio law and with the legislative history of the statute. [<a id="nf3" href="#fn3">Footnote 3</a>] In such circumstances, any claim of inadequate notice under the Due Process Clause of the Fourteenth Amendment must be rejected.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Lockett challenges the constitutionality of Ohio's death penalty statute on a number of grounds. We find it necessary to consider only her contention that her death sentence is invalid because the statute under which it was imposed did not permit the sentencing judge to consider, as mitigating factors, her character, prior record, age, lack of specific intent to cause death, and her relatively minor part in the crime. To address her contention from the proper perspective, it is helpful to review the developments in our recent cases where we have applied the Eighth and Fourteenth Amendments to death penalty statutes. We do not write on a "clean slate."</p>
     <p>A</p>
     <p>Prior to Furman v. Georgia, <a href="../us408/us408-0238.xml#p238">408 U. S. 238</a> (1972), every State that authorized capital punishment had abandoned</p>
@@ -233,7 +233,7 @@
       <p>In view of our holding that Lockett was not sentenced in accord with the Eighth Amendment, we need not address her contention that the death penalty is constitutionally disproportionate for one who has not been proved to have taken life, to have attempted to take life, or to have intended to take life, or her contention that the death penalty is disproportionate as applied to her in this case. Nor do we address her contentions that the Constitution requires that the death sentence be imposed by a jury; that the Ohio statutory procedures impermissibly burden the defendant's exercise of his rights to plead not guilty and to be tried by a jury; and that it violates the Constitution to require defendants to bear the risk of nonpersuasion as to the existence of mitigating circumstances in capital cases.</p>
       <p>MR. JUSTICE BLACKMUN, concurring in part and concurring in the judgment.</p>
       <p>I join the Court's judgment, but only Parts I and II of its opinion. I, too, would reverse the judgment of the Supreme Court of Ohio insofar as it upheld the imposition of the death penalty on petitioner Sandra Lockett, but I would do so for a reason more limited than that which the plurality espouses, and for an additional reason not relied upon by the plurality.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>The first reason is that, in my view, the Ohio judgment in this case improperly provided the death sentence for a defendant who only aided and abetted a murder, without permitting any consideration by the sentencing authority of the extent of her involvement, or the degree of her mens rea, in the commission of the homicide. The Ohio capital penalty statute, together with that State's aiding-and-abetting statute, and its statutory definition of "purposefulness" as including reckless endangerment, allows for a particularly harsh application of the death penalty to any defendant who has aided or abetted the commission of an armed robbery in the course of which a person is killed, even though accidentally. [Footnote 2/1] It might be that</p>
       <n id="p614">614</n>
       <p>to inflict the death penalty in some such situations would skirt the limits of the Eighth Amendment proscription, incorporated in the Fourteenth Amendment, against gross disproportionality, but I doubt that the Court, in regard to murder, could easily define a convincing bright-line rule such as was used in regard to rape, Coker v. Georgia, <a href="../us433/us433-0584.xml#p584">433 U. S. 584</a> (1977), to make workable a disproportionality approach. [Footnote 2/2]</p>
@@ -244,7 +244,7 @@
       <p>This approach is not too far off the mark already used by many States in assessing the death penalty. Of 34 States that now have capital statutes, 18 specify that a minor degree of participation in a homicide may be considered by the sentencing</p>
       <n id="p617">617</n>
       <p>authority, and, of the remaining 16 States, 9 allow consideration of any mitigating factor. [Footnote 2/3]</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>The second ground on which reversal is required, in my view, is a Jackson issue. Although the plurality does not reach this issue, it is raised by petitioner, and I mention it against the possibility that any further revision of the Ohio death penalty statutes, prompted by the Court's decision today, contemplate as well, and cure, the Jackson deficiency.</p>
       <p>In United States v. Jackson, <a href="../us390/us390-0570.xml#p570">390 U. S. 570</a> (1968), the Court held that the capital sentencing provision of the Federal Kidnaping Act was unconstitutional in that it needlessly burdened the defendant's exercise of the Sixth Amendment</p>
       <n id="p618">618</n>
@@ -296,7 +296,7 @@
       <p>It also seems to me that the plurality strains very hard and unsuccessfully to avoid eviscerating the handiwork in Proffitt v. Florida, <a href="../us428/us428-0242.xml#p242">428 U. S. 242</a> (1976), and Jurek v. Texas, <a href="../us428/us428-0262.xml#p262">428 U. S. 262</a> (1976); and surely it calls into question any other death penalty statute that permits only a limited number of</p>
       <n id="p624">624</n>
       <p>mitigating circumstances to be placed before the sentencing authority or to be used in its deliberations.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>I nevertheless concur in the judgments of the Court reversing the imposition of the death sentences because I agree with the contention of the petitioners, ignored by the plurality, that it violates the Eighth Amendment to impose the penalty of death without a finding that the defendant possessed a purpose to cause the death of the victim.</p>
       <p>It is now established that a penalty constitutes cruel and unusual punishment if it is excessive in relation to the crime for which it is imposed. A punishment is disproportionate</p>
       <p>"if it (1) makes no measurable contribution to acceptable goals of punishment, and hence is nothing more than the purposeless and needless imposition of pain and suffering; or (2) is grossly out of proportion to the severity of the crime. A punishment might fail the test on either ground."</p>
@@ -315,7 +315,7 @@
       <n id="p627">627</n>
       <p>found to exist beyond a reasonable doubt under such circumstances."</p>
       <p>On appeal, the Ohio Supreme Court held that, where</p>
-      <p>"it might be reasonably expected by all the participants that the victim's life would be endangered by the manner and means of performing the act conspired . . . , participants [are] bound by all the consequences naturally and probably arising from the furtherance of the conspiracy to commit the robbery."</p>
+      <p>"it might be reasonably expected by all the participants that the victim's life would be endangered by the manner and means of performing the act conspired . . ., participants [are] bound by all the consequences naturally and probably arising from the furtherance of the conspiracy to commit the robbery."</p>
       <p>49 Ohio St.2d 48, 62, 358 N.E.2d 1062, 1072 (1976). It is thus clear that, under Ohio law, a defendant may be convicted of aggravated murder with aggravating specifications and sentenced to death without a finding that he intended death to result, but only that he engaged in criminal conduct which posed a substantial risk of death to others. Moreover, it appears that nowhere during either the trial or sentencing process was any finding made that Lockett intended that death be inflicted in connection with the robbery. The petitioner in Bell v. Ohio, post, p. <a href="./us438-0637.xml#p637">438 U. S. 637</a>, was tried before a three-judge panel. Again, however, no findings were made either during the trial or sentencing stage of the process that Bell intended the death of the victim which resulted from the criminal conduct in which he was engaged.</p>
       <p>Of course, the facts of both of these cases might well permit the inference that the petitioners did, in fact, intend the death of the victims. But there is a vast difference between permitting a factfinder to consider a defendant's willingness to engage in criminal conduct which poses a substantial risk of death in deciding whether to infer that he acted with a purpose to take life, and defining such conduct as an ultimate fact equivalent to possessing a purpose to kill, as Ohio has done. See United States v. United States Gypsum Co., ante, p. <a href="./us438-0422.xml#p422">438 U. S. 422</a>. Indeed, the type of conduct which Ohio would punish by death requires at most the degree of mens rea defined by the ALI Model Penal Code (1962) as recklessness: conduct undertaken with knowledge that death is likely to</p>
       <n id="p628">628</n>
@@ -347,7 +347,7 @@
       <p>I find it unnecessary to address other constitutional challenge to the death sentences imposed in these cases.</p>
       <p>MR. JUSTICE REHNQUIST, concurring in part and dissenting in part.</p>
       <p>I join Parts I and II of THE CHIEF JUSTICE's opinion for the Court, but am unable to join Part III of his opinion or in the judgment of reversal.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>Whether out of a sense of judicial responsibility or a less altruistic sense of futility, there are undoubtedly circumstances which require a Member of this Court "to bow to the authority" of an earlier case despite his "original and continuing belief that the decision was constitutionally wrong." Burns v. Richardson, <a href="../us384/us384-0073.xml#p73">384 U. S. 73</a>, <a href="../us384/us384-0073.xml#p98">384 U. S. 98</a> (1966) (Harlan, J., concurring in result). See also id. at <a href="../us384/us384-0073.xml#p99">384 U. S. 99</a> (STEWART, J., concurring in judgment). The Court has most assuredly not adopted the dissenting views which I expressed in the previous capital</p>
       <n id="p629">629</n>
       <p>punishment.cases, see Woodson v. North Carolina, <a href="../us428/us428-0280.xml#p280">428 U. S. 280</a>, <a href="../us428/us428-0280.xml#p308">428 U. S. 308</a> (1976), and Furman v. Georgia, <a href="../us408/us408-0238.xml#p238">408 U. S. 238</a>, <a href="../us408/us408-0238.xml#p465">408 U. S. 465</a> (1972). It has just as surely not cloven to a principled doctrine either holding the infliction of the death penalty to be unconstitutional per se or clearly and understandably stating the terms under which the Eighth and Fourteenth Amendments permit the death penalty to be imposed. Instead, as I believe both the opinion of THE CHIEF JUSTICE and the opinion of my Brother WHITE seem to concede, the Court has gone from pillar to post, with the result that the sort of reasonable predictability upon which legislatures, trial courts, and appellate courts must of necessity rely has been all but completely sacrificed.</p>
@@ -373,7 +373,7 @@
       <p>fairly conducted and that guaranteed rights of defendants be scrupulously respected."</p>
       <p>Id. at <a href="../us402/us402-0183.xml#p221">402 U. S. 221</a>.</p>
       <p>I continue to view McGautha as a correct exposition of the limits of our authority to revise state criminal procedures in capital cases under the Eighth and Fourteenth Amendments. Sandra Lockett. was fairly tried, and was found guilty of aggravated murder. I do not think Ohio was required to receive any sort of mitigating evidence which an accused or his lawyer wishes to offer, and therefore I disagree with Part III of the plurality's opinion.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>Because I reject the primary contentions offered by petitioner, I must also address her other arguments, with which the Court does not wish to deal, in order to conclude that the State may impose the death penalty. Two of petitioner's objections can be dismissed with little comment. First, she complains that the Ohio procedure does not permit jury participation in the sentencing process. As the lead opinion pointed out in Proffitt, 428 U.S. at <a href="../us428/us428-0242.xml#p252">428 U. S. 252</a>, this Court "has never suggested that jury sentencing is constitutionally required." No majority of this Court has ever reached a contrary conclusion, and I would not do so today. Second, she contends that the State should be required to prove the absence of mitigating factors beyond a reasonable doubt. Because I continue to believe that the Constitution is not offended by the State's refusal to consider mitigating factors at all, there can be no infirmity in shifting the burden of persuasion to the defendant when it chooses to consider them.</p>
       <p>Petitioner also presents two arguments based on United States v. Jackson, <a href="../us390/us390-0570.xml#p570">390 U. S. 570</a> (1968), in which the Court held that the imposition of the death penalty under the Federal Kidnaping Act, 18 U.S.C. § 1201(a) (1964 ed.), was unconstitutional because it could only be imposed where the defendant exercised his right to trial by jury. First, petitioner</p>
       <n id="p634">634</n>

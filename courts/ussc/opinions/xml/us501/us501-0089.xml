@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us501-0089.html" citation="501 U.S. 89" title="Melkonyan v. Sullivan">
   <opinion type="Opinions &amp; Dissents">
     <n id="p89">89</n>
-    <h>U.S. Supreme Court</h>
-    <h>Melkonyan v. Sullivan, <a href="./us501-0089.xml#p89">501 U.S. 89</a> (1991)</h>
-    <h>Melkonyan v. Sullivan</h>
-    <h>No. 90-5538</h>
-    <h>Argued April 15, 1991</h>
-    <h>Decided June 10, 1991</h>
-    <h><a href="./us501-0089.xml#p89">501 U.S. 89</a></h>
-    <h>CERTIORARI TO THE UNIED STATES COURT OF APPEALS</h>
-    <h>FOR THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Melkonyan v. Sullivan, <a href="./us501-0089.xml#p89">501 U.S. 89</a> (1991)</h1>
+    <h2>Melkonyan v. Sullivan</h2>
+    <h2>No. 90-5538</h2>
+    <h4>Argued April 15, 1991</h4>
+    <h4>Decided June 10, 1991</h4>
+    <h2>CERTIORARI TO THE UNIED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner filed suit in the District Court under 42 U.S.C. § 1383(c)(3), which incorporates 42 U.S.C. § 405(g)'s review provisions, seeking review of a final decision of respondent Secretary of Health and Human Services denying his application for disability benefits under the Supplemental Security Income program. While his case was pending, he filed a new application, accompanied by additional evidence of disability, and was awarded benefits. Subsequently, the Secretary requested that the court remand the first claim for reconsideration. Responding to petitioner's motion that it either issue a decision on his motion for summary judgment or remand the case, the court granted the Secretary's remand motion, "concurred in by plaintiff," and remanded the case "to the Secretary for all further proceedings." On remand, the first decision was vacated and petitioner was found disabled as of his original application date. Over a year later, he applied to the District Court for attorney's fees under the Equal Access to Justice Act (EAJA), which, inter alia, permits an award of fees and expenses to a party prevailing against the United States "in any civil action . . . in any court," 28 U.S.C. § 2412(d)(1)(A), upon an application made within 30 days of "final judgment in the action," § 2412(d)(1)(B). The court denied the request on the ground that the Secretary's position in the litigation had been substantially justified. However, the Court of Appeals vacated, concluding that petitioner's application was untimely because the administrative determination on remand was a "final judgment," which triggered the 30-day period.</p>
     <p>Held:</p>
     <p>1. The EAJA's plain language makes clear that a "final judgment" for purposes of § 2412(d)(1)(B) is a judgment rendered by a court that terminates the civil action for which EAJA fees may be received. Subsections (d)(1)(A) and (d)(1)(B) work in tandem, and subsection (d)(1)(B)'s requirement that the fee application be filed within 30 days of "final judgment in the action" (emphasis added) plainly refers back to the "civil action . . . in any court" in subsection (d)(1)(A). This reading is reinforced by the contrast between § 2412 and 5 U.S.C. § 504(a), the only EAJA provision allowing awards for administrative proceedings conducted</p>
@@ -26,7 +26,7 @@
     <p>O'CONNOR, J., delivered the opinion for a unanimous Court.</p>
     <p>JUSTICE O'CONNOR delivered the opinion of the Court.</p>
     <p>A party that prevails against the United States in a civil action is entitled, in certain circumstances, to an award of attorney's fees, court costs, and other expenses. Equal Access to Justice Act (EAJA), 28 U.S.C. § 2412. Among other requirements, the prevailing party must submit to the court an application for fees and expenses "within thirty days of final judgment in the action." § 2412(d)(1)(B). This case requires us to decide whether an administrative decision rendered following a remand from the District Court is a "final judgment" within the meaning of EAJA.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In May, 1982, petitioner Zakhar Melkonyan filed an application for disability benefits under the Supplemental Security Income (SSI) program established by Title XVI of the Social Security Act, 42 U.S.C. § 1381 et seq. Following a hearing, an Administrative Law Judge (ALJ) concluded that petitioner was not disabled within the</p>
     <n id="p92">92</n>
     <p>meaning of the Act. The Appeals Council denied review of the ALJ's decision. In June, 1984, petitioner timely filed a complaint in the United States District Court for the Central District of California seeking judicial review pursuant to 42 U.S.C. § 1383(c)(3), which incorporates the review provisions of 42 U.S.C. § 405(g).</p>
@@ -40,7 +40,7 @@
     <p>the Secretary's decision to deny the first application was "substantially justified" at the time because the original record did not establish that petitioner was disabled. App. 20-21. The District Court agreed, and denied the fee request.</p>
     <p>The Court of Appeals for the Ninth Circuit vacated the District Court's judgment. It agreed that petitioner was not eligible for attorney's fees under EAJA, but for a different reason. Melkonyan v. Heckler, 895 F.2d 556 (1990). The Court of Appeals noted that EAJA requires an application for fees to be filed within 30 days of the "final judgment in the action," a term defined in the statute as a "judgment that is final and not appealable." Id. at 557 (citing 28 U.S.C. § 2412(d)(2)(G)). In the court's view, its task was to determine when that "final and not appealable" judgment was rendered. 895 F.2d at 557.</p>
     <p>The Court of Appeals recognized that the District Court's order remanding the case to the Secretary was not a "final judgment," because both parties anticipated further administrative proceedings. Id. at 557-558. On remand, the Appeals Council reversed itself and held for petitioner; having won all he had asked for, there was no reason to return to the District Court. Under those circumstances, the Court of Appeals concluded that the Appeals Council's decision to award benefits was, in effect, a "final judgment" under EAJA, thereby commencing the 30-day period for filing the fee application. Id. at 558-559. Because petitioner waited more than a year after the Appeals Council's decision, his application was untimely. Id. at 559. We granted certiorari, 498 U.S. 1023 (1991), and now vacate the judgment of the Court of Appeals.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The language of the relevant EAJA statute, § 2412, provides:</p>
     <p>"(A) Except as otherwise specifically provided by statute, a court shall award to a prevailing party other than the United States fees and other expenses, . . . incurred by that party in any civil action (other than cases</p>
     <n id="p94">94</n>
@@ -63,7 +63,7 @@
     <p>for work done at the administrative level following a remand by the District Court. We explained that certain administrative proceedings are "so intimately connected with judicial proceedings as to be considered part of the civil action' for purposes of a fee award." Id. at <a href="../us490/us490-0877.xml#p892">490 U. S. 892</a>. We defined the narrow class of qualifying administrative proceedings to be those</p>
     <p>"where 'a suit has been brought in a court,' and where 'a formal complaint within the jurisdiction of a court of law' remains pending and depends for its resolution upon the outcome of the administrative proceedings."</p>
     <p>Ibid. (emphasis added). Hudson thus stands for the proposition that, in those cases where the district court retains jurisdiction of the civil action and contemplates entering a final judgment following the completion of administrative proceedings, a claimant may collect EAJA fees for work done at the administrative level. Ibid. "We did not say that proceedings on remand to an agency are part and parcel' of a civil action in federal district court for all purposes. . . ." Sullivan v. Finkelstein, supra, 496 U.S. at <a href="../us496/us496-0617.xml#p630">496 U. S. 630</a>-631.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Having decided that EAJA requires a "final judgment" entered by a court, it is obvious that no "final judgment" was entered in this case before petitioner initiated his appeal. Petitioner filed a civil action in District Court under 42 U.S.C. § 405(g), seeking review of the Secretary's decision that he was not entitled to disability benefits. Without ruling on the correctness of the Secretary's decision, the District Court remanded the case for further administrative proceedings. On remand, the Appeals Council awarded petitioner the disability benefits he sought. Neither petitioner nor the Secretary returned to District Court for entry of a final judgment. The question we must decide now is whether either party is entitled to do so.</p>
     <p>The answer depends on what kind of remand the District Court contemplated. In Finkelstein, we examined closely</p>
     <n id="p98">98</n>
@@ -97,7 +97,7 @@
     <p>Although we agree with petitioner that the District Court's remand authority is confined to those circumstances specifically defined in § 405(g), we cannot state with certainty that the remand in this case was, as petitioner contends, a sentence six remand. As the Secretary points out, the District Court did not make a finding that "good cause" had been shown, nor did the court seem to anticipate that the parties would return to court following the administrative proceedings. Indeed, it may be that the court treated the joint request for remand as a voluntary dismissal under Fed.Rule Civ.Proc. 41(a), although the parties did not file a signed stipulation, as required by the Rule. Because the record before us does not clearly indicate what the District Court intended by its disposition, we vacate the judgment and remand the matter to enable the District Court to clarify its order. If petitioner is correct that the court remanded the case under sentence six, the Secretary must return to District Court, at which time the court will enter a final judgment. Petitioner will be entitled to EAJA fees unless the Secretary's initial position was substantially justified, a question which was not addressed by the Court of Appeals. If, on the other hand, this was not a sentence six remand, it may be that petitioner is not entitled to EAJA fees at all. For</p>
     <n id="p103">103</n>
     <p>example, if the court's order was, in effect, a dismissal under Fed.Rule Civ.Proc. 41(a), the District Court's jurisdiction over the case would have ended at that point, and petitioner would not have been a prevailing party "in [a] civil action." 28 U.S.C. § 2412(d)(1)(A). Under those circumstances, the Secretary would not return to the District Court and petitioner would not be eligible to receive EAJA fees.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>At oral argument, the parties discussed the timeliness of petitioner's fee application. EAJA requires prevailing parties seeking an award of fees to file with the court, "within thirty days of final judgment in the action," an application for fees and other expenses. § 2412(d)(1)(B) (emphasis added). Petitioner claims that this language permits him to apply for fees at any time up to 30 days after entry of judgment, and even before judgment is entered, as long as he has achieved prevailing party status. Tr. of Oral Arg. 16-18.</p>
     <p>This case is not an appropriate vehicle for resolving the issue. If petitioner is correct that this was a sentence six remand, the District Court may determine that the application he has already filed is sufficient. Alternatively, petitioner can easily reapply for EAJA fees following the District Court's entry of a final judgment. In either case, petitioner will not be prejudiced by having filed prematurely. On the other hand, if this was not a sentence six remand, we have already explained that petitioner would not be entitled to fees, so the timeliness of the application will not be an issue.</p>
     <p>The judgment of the Ninth Circuit Court of Appeals is vacated, and the case is remanded to the Court of Appeals with instructions to remand to the District Court for further proceedings consistent with this opinion.</p>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us468-0883.html" citation="468 U.S. 883" title="Irving ISD v. Tatro">
   <opinion type="Opinions &amp; Dissents">
     <n id="p883">883</n>
-    <h>U.S. Supreme Court</h>
-    <h>Irving ISD v. Tatro, <a href="./us468-0883.xml#p883">468 U.S. 883</a> (1984)</h>
-    <h>Irving Independent School District v. Tatro</h>
-    <h>No. 83-558</h>
-    <h>Argued April 16, 1984</h>
-    <h>Decided July 5, 1984</h>
-    <h><a href="./us468-0883.xml#p883">468 U.S. 883</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE FIFTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Irving ISD v. Tatro, <a href="./us468-0883.xml#p883">468 U.S. 883</a> (1984)</h1>
+    <h2>Irving Independent School District v. Tatro</h2>
+    <h2>No. 83-558</h2>
+    <h4>Argued April 16, 1984</h4>
+    <h4>Decided July 5, 1984</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE FIFTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondents' 8-year-old daughter was born with a defect known as spina bifida. As a result, she suffers from orthopedic and speech impairments and a neurogenic bladder, which prevents her from emptying her bladder voluntarily. Consequently, she must be catheterized every three or four hours to avoid injury to her kidneys. To accomplish this, a process known as clean intermittent catheterization (CIC) was prescribed. This is a simple procedure that can be performed in a few minutes by a layperson with less than an hour's training. Since petitioner School District received federal funding under the Education of the Handicapped Act it was required to provide the child with "a free appropriate public education," which is defined in the Act to include "related services," which are defined in turn to include</p>
     <p>"supportive services (including . . . medical . . . services, except that such medical services shall be for diagnostic and evaluation purposes only) as may be required to assist a handicapped child to benefit from special education."</p>
     <p>Pursuant to the Act, petitioner developed an individualized education program for the child, but the program made no provision for school personnel to administer CIC. After unsuccessfully pursuing administrative remedies to secure CIC services for the child during school hours, respondents brought an action against petitioner and others in Federal District Court, seeking injunctive relief, damages, and attorney's fees. Respondents invoked the Education of the Handicapped Act, arguing that CIC is one of the included "related services" under the statutory definition, and also invoked § 504 of the Rehabilitation Act of 1973, which forbids a person, by reason of a handicap, to be "excluded from the participation in, be denied the benefits of, or be subjected to discrimination under" any program receiving federal aid. After its initial denial of relief was reversed by the Court of Appeals, the District Court, on remand, held that CIC was a "related service" under the Education of the Handicapped Act, ordered that the child's education program be modified to include provision of CIC during school hours, and awarded compensatory damages against petitioner. The court further held that respondents had proved a violation of § 504 of the Rehabilitation Act,</p>
@@ -27,7 +27,7 @@
     <n id="p885">885</n>
     <p>CHIEF JUSTICE BURGER delivered the opinion of the Court.</p>
     <p>We granted certiorari to determine whether the Education of the Handicapped Act or the Rehabilitation Act of 1973 requires a school district to provide a handicapped child with clean intermittent catheterization during school hours.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Amber Tatro is an 8-year-old girl born with a defect known as spina bifida. As a result, she suffers from orthopedic and speech impairments and a neurogenic bladder, which prevents her from emptying her bladder voluntarily. Consequently, she must be catheterized every three or four hours to avoid injury to her kidneys. In accordance with accepted medical practice, clean intermittent catheterization (CIC), a procedure involving the insertion of a catheter into the urethra to drain the bladder, has been prescribed. The procedure is a simple one that may be performed in a few minutes by a layperson with less than an hour's training. Amber's parents, babysitter, and teenage brother are all qualified to administer CIC, and Amber soon will be able to perform this procedure herself.</p>
     <p>In 1979, petitioner Irving Independent School District agreed to provide special education for Amber, who was then three and one-half years old. In consultation with her parents, who are respondents here, petitioner developed an individualized education program for Amber under the</p>
     <n id="p886">886</n>
@@ -43,7 +43,7 @@
     <p>On the authority of Tatro I, the District Court then held that respondents had proved a violation of § 504 of the Rehabilitation Act. Although the District Court did not rely on this holding to authorize any greater injunctive or compensatory relief, it did invoke the holding to award attorney's fees against petitioner and the State Board of Education. [<a id="nf4" href="#fn4">Footnote 4</a>] <a href="https://law.justia.com/cases/federal/district-courts/FSupp/516/968/1579663/">516 F. Supp. at 968</a>; App. to Pet. for Cert. 55a-63a. The Rehabilitation Act, unlike the Education of the Handicapped Act, authorizes prevailing parties to recover attorney's fees. See 29 U.S.C. § 794a.</p>
     <p>The Court of Appeals affirmed. Tatro v. Texas, 703 F.2d 823 (CA5 1983) (Tatro II). That court accepted the District Court's conclusion that state law permitted qualified persons to administer CIC without the physical presence of a doctor, and it affirmed the award of relief under the Education of the Handicapped Act. In affirming the award of attorney's fees based on a finding of liability under the Rehabilitation Act, the Court of Appeals held that no change of circumstances since Tatro I justified a different result.</p>
     <p>We granted certiorari, 464 U.S. 1007 (1983), and we affirm in part and reverse in part.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>This case poses two separate issues. The first is whether the Education of the Handicapped Act requires petitioner to</p>
     <n id="p889">889</n>
     <p>provide CIC services to Amber. The second is whether § 504 of the Rehabilitation Act creates such an obligation. We first turn to the claim presented under the Education of the Handicapped Act.</p>
@@ -80,7 +80,7 @@
     <n id="p895">895</n>
     <p>Finally, we note that respondents are not asking petitioner to provide equipment that Amber needs for CIC. Tr. of Oral Arg. 18-19. They seek only the services of a qualified person at the school.</p>
     <p>We conclude that provision of CIC to Amber is not subject to exclusion as a "medical service," and we affirm the Court of Appeals' holding that CIC is a "related service" under the Education of the Handicapped Act. [<a id="nf13" href="#fn13">Footnote 13</a>]</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Respondents sought relief not only under the Education of the Handicapped Act but under § 504 of the Rehabilitation Act as well. After finding petitioner liable to provide CIC under the former, the District Court proceeded to hold that petitioner was similarly liable under § 504, and that respondents were therefore entitled to attorney's fees under § 505 of the Rehabilitation Act, 29 U.S.C. § 794a. We hold today, in Smith v. Robinson, post, p. <a href="./us468-0992.xml#p992">468 U. S. 992</a>, that § 504 is inapplicable when relief is available under the Education of the Handicapped Act to remedy a denial of educational services. Respondents are therefore not entitled to relief under § 504, and we reverse the Court of Appeals' holding that respondents</p>
     <n id="p896">896</n>
     <p>are entitled to recover attorney's fees. In all other respects, the judgment of the Court of Appeals is affirmed.</p>

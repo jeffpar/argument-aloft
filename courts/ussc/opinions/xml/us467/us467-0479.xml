@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us467-0479.html" citation="467 U.S. 479" title="California v. Trombetta">
   <opinion type="Opinions &amp; Dissents">
     <n id="p479">479</n>
-    <h>U.S. Supreme Court</h>
-    <h>California v. Trombetta, <a href="./us467-0479.xml#p479">467 U.S. 479</a> (1984)</h>
-    <h>California v. Trombetta</h>
-    <h>No. 83-305</h>
-    <h>Argued April 18, 1984</h>
-    <h>Decided June 11, 1984</h>
-    <h><a href="./us467-0479.xml#p479">467 U.S. 479</a></h>
-    <h>CERTIORARI TO THE COURT OF APPEAL OF CALIFORNIA,</h>
-    <h>FIRST APPELLATE DISTRICT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>California v. Trombetta, <a href="./us467-0479.xml#p479">467 U.S. 479</a> (1984)</h1>
+    <h2>California v. Trombetta</h2>
+    <h2>No. 83-305</h2>
+    <h4>Argued April 18, 1984</h4>
+    <h4>Decided June 11, 1984</h4>
+    <h2>CERTIORARI TO THE COURT OF APPEAL OF CALIFORNIA,</h2>
+    <h2>FIRST APPELLATE DISTRICT</h2>
+    <h2>Syllabus</h2>
     <p>When stopped in unrelated incidents on suspicion of drunken driving on California highways, each respondent submitted to a Intoxilyzer (breath analysis) test and registered a blood-alcohol concentration high enough to be presumed to be intoxicated under California law. Although it was technically feasible to preserve samples of respondents' breath, the arresting officers, as was their ordinary practice, did not do so. Respondents were then all charged with driving while intoxicated. Prior to trial, the Municipal Court denied each respondent's motion to suppress the Intoxilyzer test results on the ground that the arresting officers had failed to preserve samples of respondents' breath that the respondents claim would have enabled them to impeach the incriminating test results. Ultimately, in consolidated proceedings, the California Court of Appeal ruled in respondents' favor, concluding that due process demanded that the arresting officers preserve the breath samples.</p>
     <p>Held: The Due Process Clause of the Fourteenth Amendment does not require that law enforcement agencies preserve breath samples in order to introduce the results of breath analysis tests at trial, and thus, here, the State's failure to preserve breath samples for respondents did not constitute a violation of the Federal Constitution. Pp. <a href="./us467-0479.xml#p485">467 U. S. 485</a>-491.</p>
     <p>(a) To the extent that respondents' breath samples came into the California authorities' possession, it was for the limited purpose of providing raw data to the Intoxilyzer. The evidence to be presented at trial was not the breath itself, but rather the Intoxilyzer results obtained from the breath samples. The authorities did not destroy the breath samples in a calculated effort to circumvent the due process requirement of Brady v. Maryland, <a href="../us373/us373-0083.xml#p83">373 U. S. 83</a>, and its progeny that the State disclose to criminal defendants material evidence in its possession, but in failing to preserve the samples, the authorities acted in good faith and in accord with their normal practice. Pp. <a href="./us467-0479.xml#p485">467 U. S. 485</a>-488.</p>
@@ -24,7 +24,7 @@
     <p>The Due Process Clause of the Fourteenth Amendment requires the State to disclose to criminal defendants favorable evidence that is material either to guilt or to punishment. United States v. Agurs, <a href="../us427/us427-0097.xml#p97">427 U. S. 97</a> (1976); <a href="../us373/us373-0083.xml#p83">Brady v.</a></p>
     <p>Page 467 U. S. 481</p>
     <p>Maryland, <a href="../us373/us373-0083.xml#p83">373 U. S. 83</a> (1963). This case raises the question whether the Fourteenth Amendment also demands that the State preserve potentially exculpatory evidence on behalf of defendants. In particular, the question presented is whether the Due Process Clause requires law enforcement agencies to preserve breath samples of suspected drunken drivers in order for the results of breath analysis tests to be admissible in criminal prosecutions.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The Omicron Intoxilyzer (Intoxilyzer) is a device used in California to measure the concentration of alcohol in the blood of motorists suspected of driving while under the influence of intoxicating liquor. [<a id="nf1" href="#fn1">Footnote 1</a>] The Intoxilyzer analyzes the suspect's breath. To operate the device, law enforcement officers follow these procedures:</p>
     <p>"Prior to any test, the device is purged by pumping clean air through it until readings of 0.00 are obtained. The breath test requires a sample of 'alveolar' (deep lung) air; to assure that such a sample is obtained, the subject is required to blow air into the intoxilyzer at a constant pressure for a period of several seconds. A breath sample is captured in the intoxilyzer's chamber and infrared light is used to sense the alcohol level. Two samples are taken, and the result of each is indicated on a printout card. The two tests must register within 0.02 of each other in order to be admissible in court. After each test, the chamber is purged with clean air, and then</p>
     <n id="p482">482</n>
@@ -40,7 +40,7 @@
     <p>systematic procedures to preserve the captured evidence or its equivalent for the use of the defendant."</p>
     <p>142 Cal. App. 3d at 144, 190 Cal. Rptr. at 323. [<a id="nf5" href="#fn5">Footnote 5</a>] The court granted respondents Ward and Berry new trials, and ordered that the Intoxilyzer results not be admitted as evidence against the other two respondents. The State unsuccessfully petitioned for certiorari in the California Supreme Court, and then petitioned for review in this Court. We granted certiorari, 464 U.S. 1037 (1984), and now reverse.</p>
     <n id="p485">485</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>Under the Due Process Clause of the Fourteenth Amendment, criminal prosecutions must comport with prevailing notions of fundamental fairness. We have long interpreted this standard of fairness to require that criminal defendants be afforded a meaningful opportunity to present a complete defense. To safeguard that right, the Court has developed "what might loosely be called the area of constitutionally guaranteed access to evidence." United States v. Valenzuela-Bernal, <a href="../us458/us458-0858.xml#p858">458 U. S. 858</a>, <a href="../us458/us458-0858.xml#p867">458 U. S. 867</a> (1982). Taken together, this group of constitutional privileges delivers exculpatory evidence into the hands of the accused, thereby protecting the innocent from erroneous conviction and ensuring the integrity of our criminal justice system.</p>
     <p>The most rudimentary of the access-to-evidence cases impose upon the prosecution a constitutional obligation to report to the defendant and to the trial court whenever government witnesses lie under oath. Napue v. Illinois, <a href="../us360/us360-0264.xml#p264">360 U. S. 264</a>, <a href="../us360/us360-0264.xml#p269">360 U. S. 269</a>-272 (1959); see also Mooney v. Holohan, <a href="../us294/us294-0103.xml#p103">294 U. S. 103</a> (1935). But criminal defendants are entitled to much more than protection against perjury. A defendant has a constitutionally protected privilege to request and obtain from the prosecution evidence that is either material to the guilt of the defendant or relevant to the punishment to be imposed. Brady v. Maryland, 373 U.S. at <a href="../us373/us373-0083.xml#p87"> 373 U. S. 87</a>. Even in the absence of a specific request, the prosecution has a constitutional duty to turn over exculpatory evidence that would raise a reasonable doubt about the defendant's guilt. United States v. Agurs, 427 U.S. at <a href="../us427/us427-0097.xml#p112">427 U. S. 112</a>. The prosecution must also reveal the contents of plea agreements with key government witnesses, see Giglio v. United States, <a href="../us405/us405-0150.xml#p150">405 U. S. 150</a> (1972), and, under some circumstances, may be required to disclose the identity of undercover informants who possess evidence critical to the defense, Roviaro v. United States, <a href="../us353/us353-0053.xml#p53">353 U. S. 53</a> (1957).</p>
     <n id="p486">486</n>
@@ -62,7 +62,7 @@
     <n id="p490">490</n>
     <p>Even if one were to assume that the Intoxilyzer results in this case were inaccurate, and that breath samples might therefore have been exculpatory, it does not follow that respondents were without alternative means of demonstrating their innocence. Respondents and amici have identified only a limited number of ways in which an Intoxilyzer might malfunction: faulty calibration, extraneous interference with machine measurements, and operator error. See Brief for Respondents 32-34; Brief for California Public Defender's Association et al. as Amici Curiae 25-40. Respondents were perfectly capable of raising these issues without resort to preserved breath samples. To protect against faulty calibration, California gives drunken driving defendants the opportunity to inspect the machine used to test their breath, as well as that machine's weekly calibration results and the breath samples used in the calibrations. See supra at <a href="./us467-0479.xml#p481">467 U. S. 481</a>-482. Respondents could have utilized these data to impeach the machine's reliability. As to improper measurements, the parties have identified only two sources capable of interfering with test results: radio waves and chemicals that appear in the blood of those who are dieting. For defendants whose test results might have been affected by either of these factors, it remains possible to introduce at trial evidence demonstrating that the defendant was dieting at the time of the test or that the test was conducted near a source of radio waves. Finally, as to operator error, the defendant retains the right to cross-examine the law enforcement officer who administered the Intoxilyzer test, and to attempt to raise doubts in the mind of the factfinder whether the test was properly administered. [<a id="nf11" href="#fn11">Footnote 11</a>]</p>
     <n id="p491">491</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>We conclude, therefore, that the Due Process Clause of the Fourteenth Amendment does not require that law enforcement agencies preserve breath samples in order to introduce the results of breath analysis tests at trial. [<a id="nf12" href="#fn12">Footnote 12</a>] Accordingly, the judgment of the California Court of Appeal is reversed, and the case is remanded for further proceedings not inconsistent with this opinion.</p>
     <p>It is so ordered.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>

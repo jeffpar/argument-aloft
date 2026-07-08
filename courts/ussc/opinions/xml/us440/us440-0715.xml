@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us440-0715.html" citation="440 U.S. 715" title="United States v. Kimbell Foods, Inc.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p715">715</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Kimbell Foods, Inc., <a href="./us440-0715.xml#p715">440 U.S. 715</a> (1979)</h>
-    <h>United States v. Kimbell Foods, Inc.</h>
-    <h>No. 77-1359</h>
-    <h>Argued January 8, 1979</h>
-    <h>Decided April 2, 1979<a href="./us440-0715.xml#p715">440 U.S. 715</a>ast|&gt;*</h>
-    <h><a href="./us440-0715.xml#p715">440 U.S. 715</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE FIFTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Kimbell Foods, Inc., <a href="./us440-0715.xml#p715">440 U.S. 715</a> (1979)</h1>
+    <h2>United States v. Kimbell Foods, Inc.</h2>
+    <h2>No. 77-1359</h2>
+    <h4>Argued January 8, 1979</h4>
+    <h4>Decided April 2, 1979<a href="./us440-0715.xml#p715">440 U.S. 715</a>ast|&gt;*</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE FIFTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>These cases present the question whether contractual liens arising from certain federal loan programs take precedence over private liens, absent a federal statute that sets priorities. Resolution of this question requires determination of whether federal or state law governs the conflicting claims, and, if federal law applies, whether a uniform priority rule should be fashioned or state commercial law should be incorporated as the federal rule of decision. In No. 77-1359, the United States' contractual lien secures a loan guaranteed by the Small Business Administration (SBA) under the Small Business Act, which generally does not specify priority rules to govern SBA security interests. The private lien of respondent Kimbell Foods, Inc. (Kimbell), arose from security agreements that were executed before the federal guarantee and secured advances that Kimbell made after the federal guarantee. Both the federal and private security interests, which covered the same collateral, were perfected pursuant to Texas' Uniform Commercial Code. The District Court found that the Government's lien was superior to Kimbell's. In so ruling, it applied the first-in-time and choateness doctrines, rules originally developed to afford federal statutory tax liens special priority over state and private liens where the governing statute does not specify priorities. The Court of Appeals reversed the District Court's judgment. While agreeing that federal law governed the controversy, and that the "first in time, first in right" priority principle controlled the competing claims, the court refused to extend the choateness rule to situations in which the Government was a voluntary lender. Instead, the Court of Appeals fashioned a federal common law rule whereby the first lien to meet Uniform Commercial Code perfection requirements achieved priority, and held that, under this rule, Kimbell's lien was superior. Although the Court of Appeals did not adopt Texas law, it did determine that Texas law would also afford priority to Kimbell's security interests. In No. 77-1644, a borrower obtained several loans from the Farmers Home Administration (FHA) under the Consolidated Farmers Home Administration Act of 1961 (now</p>
     <n id="p716">716</n>
     <p>redesignated the Consolidated Farm and Rural Development Act), which does not establish rules of priority. To secure the loans, the FHA obtained a security interest in the borrower's crops and farm equipment, and perfected its interest by filing a standard financing statement with Georgia officials. Subsequently, respondent repaired the borrower's tractor on numerous occasions. When the borrower failed to pay the repair bills, respondent retained the tractor and acquired a lien therein under Georgia law. After the borrower had filed for bankruptcy and had been discharged from his debts, the United States instituted this action to obtain possession of the tractor. The District Court granted summary judgment for respondent, holding that the FHA had not properly perfected its security interest because the financing statement inadequately described the collateral; and that, even if the description were sufficient, both federal and state law accorded priority to respondent's lien. Affirming in part and reversing in part, the Court of Appeals fashioned a federal rule, based on the Model Uniform Commercial Code, to determine the validity of the financing statement. It found the description of the collateral adequate to perfect the FHA's security interest. As to the priority question, the Court of Appeals rejected state law, as well as the first-in-time and choateness doctrines. In their place the court devised a special "federal commercial law rule" giving priority to repairman's liens when the repairman continuously possesses the property from the time his lien arises. The court concluded that, under this rule, respondent's lien for only the final repair bill took precedence over the FHA's security interest.</p>
@@ -29,7 +29,7 @@
     <n id="p718">718</n>
     <p>MR. JUSTICE MARSHALL delivered the opinion of the Court.</p>
     <p>We granted certiorari in these cases to determine whether contractual liens arising from certain federal loan programs take precedence over private liens, in the absence of a federal statute setting priorities. [<a id="nf1" href="#fn1">Footnote 1</a>] To resolve this question, we must decide first whether federal or state law governs the controversies, and, second, if federal law applies, whether this Court should fashion a uniform priority rule or incorporate state commercial law. We conclude that the source of law is federal, but that a national rule is unnecessary to protect the federal interests underlying the loan programs. Accordingly, we adopt state law as the appropriate federal rule for establishing the relative priority of these competing federal and private liens.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>A</p>
     <p>No. 77-1359 involves two contractual security interests in the personal property of O.K. Super Markets, Inc. Both interests were perfected pursuant to Texas' Uniform Commercial Code (UCC). [<a id="nf2" href="#fn2">Footnote 2</a>] The United States' lien secures a loan guaranteed by the Small Business Administration (SBA). The private lien, which arises from security agreements that preceded the federal guarantee, secures advances respondent made after the federal guarantee.</p>
     <p>In 1968, O.K. Super Markets borrowed $27,000 from</p>
@@ -61,7 +61,7 @@
     <n id="p725">725</n>
     <p>the Model UCC and the Tax Lien Act of 1966 as guides. Id. at 679, 688-690. [<a id="nf14" href="#fn14">Footnote 14</a>] This rule would give priority to repairman' liens over the Government' previously perfected consensual security interests when the repairman continuously possesses the property from the time his lien arises. Id. at 690-691. [<a id="nf15" href="#fn15">Footnote 15</a>] Applying its rule, the Court of Appeals concluded that Crittenden's lien for only the final $543.81 repair bill took precedence over the FHA's security interest. Id. at 692. [<a id="nf16" href="#fn16">Footnote 16</a>]</p>
     <n id="p726">726</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>This Court has consistently held that federal law governs questions involving the rights of the United States arising under nationwide federal programs. As the Court explained in Clearfield Trust Co. v. United States, supra at <a href="../us318/us318-0363.xml#p366">318 U. S. 366</a>-367:</p>
     <p>"When the United States disburses its funds or pays its debts, it is exercising a constitutional function or power. . . . The authority [to do so] had its origin in the Constitution and the statutes of the United States, and was in no way dependent on the laws [of any State]. The duties imposed upon the United States and the rights acquired by it . . . find their roots in the same federal sources. In absence of an applicable Act of Congress, it is for the federal courts to fashion the governing rule of law according to their own standards."</p>
     <p>(Citations and footnote omitted.)</p>
@@ -70,7 +70,7 @@
     <p>Government activities "aris[e] from and bea[r] heavily upon a federal . . . program," the Constitution and Acts of Congress "require' otherwise than that state law govern of its own force." United States v. Little Lake Misere Land Co., <a href="../us412/us412-0580.xml#p580">412 U. S. 580</a>, <a href="../us412/us412-0580.xml#p592">412 U. S. 592</a>, 593 (1973). [<a id="nf18" href="#fn18">Footnote 18</a>] In such contexts, federal interests are sufficiently implicated to warrant the protection of federal law. [<a id="nf19" href="#fn19">Footnote 19</a>]</p>
     <p>That the statutes authorizing these federal lending programs do not specify the appropriate rule of decision in no way limits the reach of federal law. It is precisely when Congress has not spoken "in an area comprising issues substantially related to an established program of government operation,'" id. at <a href="../us412/us412-0580.xml#p593">412 U. S. 593</a>, quoting Mishkin 800, that Clearfield directs federal courts to fill the interstices of federal legislation "according to their own standards." Clearfield Trust Co. v. United States, 318 U.S. at <a href="../us318/us318-0363.xml#p367">318 U. S. 367</a>. [<a id="nf20" href="#fn20">Footnote 20</a>]</p>
     <p>Federal law therefore controls the Government's priority rights. The more difficult task, to which we turn, is giving content to this federal rule.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Controversies directly affecting the operations of federal programs, although governed by federal law, do not inevitably</p>
     <n id="p728">728</n>
     <p>require resort to uniform federal rules. See Clearfield Trust Co. v. United States, supra at <a href="../us318/us318-0363.xml#p367">318 U. S. 367</a>; United States v. Little Lake Misere Land Co., supra at <a href="../us412/us412-0580.xml#p594">412 U. S. 594</a>-595. Whether to adopt state law or to fashion a nationwide federal rule is a matter of judicial policy</p>
@@ -116,7 +116,7 @@
     <p>Because the ultimate consequences of altering settled commercial practices are so difficult to foresee, [<a id="nf43" href="#fn43">Footnote 43</a>] we hesitate to</p>
     <n id="p740">740</n>
     <p>create new uncertainties, in the absence of careful legislative deliberation. Of course, formulating special rules to govern the priority of the federal consensual liens in issue here would be justified if necessary to vindicate important national interests. But neither the Government nor the Court of Appeals advanced any concrete reasons for rejecting well established commercial rules which have proven workable over time. Thus, the prudent course is to adopt the ready-made body of state law as the federal rule of decision until Congress strikes a different accommodation. [<a id="nf44" href="#fn44">Footnote 44</a>]</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>Accordingly, we hold that, absent a congressional directive, the relative priority of private liens and consensual liens arising from these Government lending programs is to be determined under nondiscriminatory state laws. In No. 77-1359, the Court of Appeals found that Texas law gave preference to Kimbell's lien. We therefore affirm the judgment in that case. Although the issue was contested, the Court of Appeals in No. 77-1644 did not decide whether and to what extent Georgia treats repairman's liens as superior to previously perfected consensual liens. Nor did the court assess the sufficiency of the FHA's financing statement under Georgia law. Because</p>
     <p>"[t]he federal judges who deal regularly with questions of state law in their respective districts and circuits are in a better position than we to determine how local courts would dispose of [such] issues,"</p>
     <p>Butner v. United States, ante at <a href="./us440-0048.xml#p58">440 U. S. 58</a> (footnote omitted), we vacate the judgment in No. 77-1694 and remand for resolution of these issues.</p>

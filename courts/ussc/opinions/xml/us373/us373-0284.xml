@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us373-0284.html" citation="373 U.S. 284" title="Wright v. Georgia">
   <opinion type="Opinions &amp; Dissents">
     <n id="p284">284</n>
-    <h>U.S. Supreme Court</h>
-    <h>Wright v. Georgia, <a href="./us373-0284.xml#p284">373 U.S. 284</a> (1963)</h>
-    <h>Wright v. Georgia</h>
-    <h>No. 68</h>
-    <h>Argued November 7, 1962</h>
-    <h>Decided May 20, 1963</h>
-    <h><a href="./us373-0284.xml#p284">373 U.S. 284</a></h>
-    <h>CERTIORARI TO THE SUPREME COURT OF GEORGIA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Wright v. Georgia, <a href="./us373-0284.xml#p284">373 U.S. 284</a> (1963)</h1>
+    <h2>Wright v. Georgia</h2>
+    <h2>No. 68</h2>
+    <h4>Argued November 7, 1962</h4>
+    <h4>Decided May 20, 1963</h4>
+    <h2>CERTIORARI TO THE SUPREME COURT OF GEORGIA</h2>
+    <h2>Syllabus</h2>
     <p>Petitioners, six young Negroes, were convicted of breach of the peace for peacefully playing basketball in a public park in Savannah, Ga., customarily used only by white people and not dispersing when ordered to do so by the police. There was no evidence of disorderly conduct or of any activity which might be thought to violate a breach of the peace statute. One of the arresting officers testified that petitioners were arrested because they were Negroes. At their trial, both in a demurrer to the accusation and in motions for a new trial, petitioners contended, inter alia, that the breach of the peace statute violated the Due Process Clause of the Fourteenth Amendment because it did not give adequate warning that their conduct violated it. The Georgia Supreme Court held that error in denial of the motions for a new trial could not be considered because it was not properly briefed on the appeal, and it affirmed the convictions.</p>
     <p>Held:</p>
     <p>1. There was no adequate state ground for the refusal by the Georgia Supreme Court to consider error in the denial of petitioners' motions for a new trial. Pp. <a href="./us373-0284.xml#p289">373 U. S. 289</a>-291.</p>
@@ -42,7 +42,7 @@
     <p>Since there is some question as to whether the Georgia Supreme Court considered petitioners' claim of vagueness</p>
     <n id="p289">289</n>
     <p>to have been properly raised in the demurrer, [<a id="nf3" href="#fn3">Footnote 3</a>] we prefer to rest our jurisdiction upon a firmer foundation. We hold, for the reasons set forth hereinafter, that there was no adequate state ground for the Georgia court's refusal to consider error in the denial of petitioners' motions for a new trial.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>A commentator on Georgia procedure has concluded that "[p]robably no phase of pleading in Georgia is fraught with more technicalities than with respect to raising constitutional issues." [<a id="nf4" href="#fn4">Footnote 4</a>] Examination of the Georgia cases bears out this assertion. In an extraordinary number, an attempt to raise constitutional issues has been frustrated by a holding that the question was not properly raised or pursued. But</p>
     <p>"[w]hatever springes the State may set for those who are endeavoring to assert rights that the State confers, the assertion of Federal rights, when plainly and reasonably made, is not to be defeated under the name of local practice."</p>
     <p>Davis v. Wechsler, <a href="../us263/us263-0022.xml#p22">263 U. S. 22</a>, <a href="../us263/us263-0022.xml#p24">263 U. S. 24</a>. See also Love v. Griffith, <a href="../us266/us266-0032.xml#p32">266 U. S. 32</a>; Stromberg v. California, <a href="../us283/us283-0359.xml#p359">283 U. S. 359</a>; Terminiello v. Chicago, <a href="../us337/us337-0001.xml#p1">337 U. S. 1</a>; Staub v. City of Baxley, <a href="../us355/us355-0313.xml#p313">355 U. S. 313</a>; NAACP v. Alabama ex rel. Patterson, <a href="../us357/us357-0449.xml#p449">357 U. S. 449</a>.</p>
@@ -60,9 +60,9 @@
     <n id="p291">291</n>
     <p>the statute that it would have punished as a misdemeanor an assembly for the purpose of playing basketball."</p>
     <p>Obviously petitioners did, in fact, argue the point which they press in this Court. Thus, the holding of the Georgia court must not have been that the petitioners abandoned their argument, but rather that the argument could not be considered because it was not explicitly identified in the brief with the motions for a new trial. In short, the Georgia court would require the petitioners to say something like the following at the end of the paragraph quoted above: "A fortiori it was error for the trial court to overrule the motions for a new trial." As was said in a similar case coming to us from the Georgia courts, this "would be to force resort to an arid ritual of meaningless form." Staub v. City of Baxley, supra, at <a href="../us355/us355-0313.xml#p320">355 U. S. 320</a>. The State may not do that here any more than it could in Staub. Here, as in Staub, the state ground is inadequate. Its inadequacy is especially apparent because no prior Georgia case which respondent has cited nor which we have found gives notice of the existence of any requirement that an argument in a brief be specifically identified with a motion made in the trial court.</p>
-    <p>"[A] local procedural rule, although it may now appear in retrospect to form part of a consistent pattern of procedures . . . , cannot avail the State here, because petitioner[s] could not fairly be deemed to have been apprised of its existence. Novelty in procedural requirements cannot be permitted to thwart review in this Court. . . ."</p>
+    <p>"[A] local procedural rule, although it may now appear in retrospect to form part of a consistent pattern of procedures . . ., cannot avail the State here, because petitioner[s] could not fairly be deemed to have been apprised of its existence. Novelty in procedural requirements cannot be permitted to thwart review in this Court. . . ."</p>
     <p>NAACP v. Alabama ex rel. Patterson, supra, at <a href="../us357/us357-0449.xml#p457">357 U. S. 457</a>. We proceed to a consideration of the merits of petitioners' constitutional claim.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Three possible bases for petitioners' convictions are suggested. First, it is said that failure to obey the command of a police officer constitutes a traditional form of breach of the peace. Obviously, however, one cannot be punished</p>
     <n id="p292">292</n>
     <p>for failing to obey the command of an officer if that command is itself violative of the Constitution. The command of the officers in this case was doubly a violation of petitioners' constitutional rights. It was obviously based, according to the testimony of the arresting officers themselves, upon their intention to enforce racial discrimination in the park. For this reason, the order violated the Equal Protection Clause of the Fourteenth Amendment. See New Orleans City Park Improvement Ass'n v. Detiege, <a href="../us358/us358-0054.xml#p54">358 U. S. 54</a>, affirming 252 F.2d 122. The command was also violative of petitioners' rights because, as will be seen, the other asserted basis for the order -- the possibility of disorder by others -- could not justify exclusion of the petitioners from the park. Thus, petitioners could not constitutionally be convicted for refusing to obey the officers. If petitioners were held guilty of violating the Georgia statute because they disobeyed the officers, this case falls within the rule that a generally worded statute which is construed to punish conduct which cannot constitutionally be punished is unconstitutionally vague to the extent that it fails to give adequate warning of the boundary between the constitutionally permissible and constitutionally impermissible applications of the statute. Cf. Winters v. New York, <a href="../us333/us333-0507.xml#p507">333 U. S. 507</a>; Stromberg v. California, <a href="../us283/us283-0359.xml#p359">283 U. S. 359</a>; see also Cole v. Arkansas, <a href="../us333/us333-0196.xml#p196">333 U. S. 196</a>.</p>

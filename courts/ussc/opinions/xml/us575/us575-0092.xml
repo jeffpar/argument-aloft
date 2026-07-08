@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us575-0092.html" citation="575 U.S. 92" title="Perez v. Mortgage Bankers Ass'n">
   <opinion type="Opinion" author="Sotomayor">
     <n id="p92">92</n>
     <p>NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 13–1041 and 13–1052</p>
-    <p>_________________</p>
     <p>THOMAS E. PEREZ, SECRETARY OF LABOR, et al., PETITIONERS</p>
     <p>13–1041 v.</p>
     <p>MORTGAGE BANKERS ASSOCIATION et al.</p>
@@ -68,9 +67,7 @@
   </opinion>
   <opinion type="Concurrence" author="Alito">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 13–1041 and 13–1052</p>
-    <p>_________________</p>
     <p>THOMAS E. PEREZ, SECRETARY OF LABOR, et al., PETITIONERS</p>
     <p>13–1041 v.</p>
     <p>MORTGAGE BANKERS ASSOCIATION et al.</p>
@@ -84,9 +81,7 @@
   </opinion>
   <opinion type="Concurrence" author="Scalia">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 13–1041 and 13–1052</p>
-    <p>_________________</p>
     <p>THOMAS E. PEREZ, SECRETARY OF LABOR, et al., PETITIONERS</p>
     <p>13–1041 v.</p>
     <p>MORTGAGE BANKERS ASSOCIATION et al.</p>
@@ -108,9 +103,7 @@
   </opinion>
   <opinion type="Concurrence" author="Thomas">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 13–1041 and 13–1052</p>
-    <p>_________________</p>
     <p>THOMAS E. PEREZ, SECRETARY OF LABOR, et al., PETITIONERS</p>
     <p>13–1041 v.</p>
     <p>MORTGAGE BANKERS ASSOCIATION et al.</p>
@@ -161,7 +154,7 @@
     <p>But we have not consistently exercised the judicial check with respect to administrative agencies. Even though regulated parties have repeatedly challenged agency interpretations as inconsistent with existing regulations, we have just as repeatedly declined to exercise independent judgment as to those claims. Instead, we have deferred to the executive agency that both promulgated the regulations and enforced them. Although an agency’s interpretation of a regulation might be the best interpretation, it also might not. When courts refuse even to decide what the best interpretation is under the law, they abandon the judicial check. That abandonment permits precisely the accumulation of governmental powers that the Framers warned against. See The Federalist No. 47, at 302 (J. Madison).</p>
     <p>C</p>
     <p>This accumulation of governmental powers allows agencies to change the meaning of regulations at their discretion and without any advance notice to the parties. It is precisely this problem that the United States Court of Appeals for the D. C. Circuit attempted to address by requiring agencies to undertake notice and comment procedures before substantially revising definitive interpretations of regulations. Paralyzed Veterans, supra. Though legally erroneous, the Court of Appeals’ reasoning was practically sound. When courts give “controlling weight” to an administrative interpretation of a regulation—instead of to the best interpretation of it—they effectively give the interpretation—and not the regulation—the force and effect of law. To regulated parties, the new interpretation might as well be a new regulation.</p>
-    <p>These cases provide a classic example of the problem. The Fair Labor Standards Act of 1938 establishes federal minimum wage and overtime requirements, but exempts from these requirements “any employee engaged in a bona fide executive, administrative, or professional capac-ity . . . , or in the capacity of outside salesman (as such terms are defined and delimited from time to time by regulations of the Secretary).”29 U. S. C. §213(a)(1). The Department of Labor has accordingly promulgated regulations providing that “an employee whose primary duty is selling financial products does not qualify for the administrative exemption.” 29 CFR §541.203(b) (2015).</p>
+    <p>These cases provide a classic example of the problem. The Fair Labor Standards Act of 1938 establishes federal minimum wage and overtime requirements, but exempts from these requirements “any employee engaged in a bona fide executive, administrative, or professional capac-ity . . ., or in the capacity of outside salesman (as such terms are defined and delimited from time to time by regulations of the Secretary).”29 U. S. C. §213(a)(1). The Department of Labor has accordingly promulgated regulations providing that “an employee whose primary duty is selling financial products does not qualify for the administrative exemption.” 29 CFR §541.203(b) (2015).</p>
     <p>Unsure whether certain mortgage-loan officers qualified as employees whose primary duty is selling financial products, the Mortgage Bankers Association asked the Department of Labor for advice. In 2006, the Department concluded that the officers are not employees whose primary duty is selling financial products. But in 2010, the Department reversed course, concluding exactly the opposite. If courts accord “controlling weight” to both the 2006 and 2010 interpretations, the regulated entities are subject to two opposite legal rules imposed under the same regulation.</p>
     <p>This practice turns on its head the principle that the United States is “a government of laws, and not of men.” Marbury, supra, at 163. Regulations provide notice to regulated parties in only a limited sense because their meaning will ultimately be determined by agencies rather than by the “strict rules and precedents” to which Alexander Hamilton once referred.[<a id="nf4-5" href="#fn4-5">5</a>]</p>
     <p>III</p>

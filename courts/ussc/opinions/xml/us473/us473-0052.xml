@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us473-0052.html" citation="473 U.S. 52" title="United States v. Shearer">
   <opinion type="Opinions &amp; Dissents">
     <n id="p52">52</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Shearer, <a href="./us473-0052.xml#p52">473 U.S. 52</a> (1985)</h>
-    <h>United States v. Shearer</h>
-    <h>No. 84-194</h>
-    <h>Argued February 25, 1985</h>
-    <h>Decided June 27, 1985</h>
-    <h><a href="./us473-0052.xml#p52">473 U.S. 52</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE THIRD CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Shearer, <a href="./us473-0052.xml#p52">473 U.S. 52</a> (1985)</h1>
+    <h2>United States v. Shearer</h2>
+    <h2>No. 84-194</h2>
+    <h4>Argued February 25, 1985</h4>
+    <h4>Decided June 27, 1985</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE THIRD CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondent's decedent, her son who was an Army private, was off duty at Fort Bliss and away from the base when he was kidnaped and murdered by another serviceman, who was convicted of the murder in a New Mexico court and who had also been convicted by a German court of manslaughter in 1977 while assigned to an Army base in Germany. Respondent brought this action against the Government in Federal District Court under the Federal Tort Claims Act (Act), claiming that the Army's negligence caused her son's death. Respondent alleged that, although the Army knew that the other serviceman was dangerous, it "negligently and carelessly failed to exert a reasonably sufficient control over" him, "failed to warn other persons that he was at large, [and] negligently and carelessly failed to . . . remove [him] from active military duty." The District Court granted summary judgment for the Government, but the Court of Appeals reversed, concluding, inter alia, that Feres v. United States, <a href="../us340/us340-0135.xml#p135">340 U. S. 135</a> -- which held that a soldier may not recover under the Act for injuries that "arise out of or are in the course of activity incident to service," id. at <a href="../us340/us340-0135.xml#p146">340 U. S. 146</a> -- did not bar respondent's suit.</p>
     <p>Held: Recovery under the Act is barred by the Feres doctrine, which is based, inter alia, on the special relationship of the soldier to his superiors, the effects of the maintenance of suits under the Act on discipline, and the extreme results that might obtain if such suits were allowed for negligent orders given or negligent acts committed in the course of military duty. The Court of Appeals erroneously placed great weight on the fact that respondent's son was off duty and away from the base when he was murdered; the situs of the murder is not nearly as important as whether the suit requires the civilian court to second-guess military decisions, and whether the suit might impair essential military discipline. Respondent's complaint strikes at the core of these concerns; her allegations go directly to the "management" of the military, calling into question basic choices about the discipline, supervision, and control of a serviceman. To permit this type of suit would mean that commanding officers would have to stand prepared to convince a civilian court of the wisdom of a wide range of military and disciplinary decisions. Nor is the Feres doctrine rendered inapplicable by respondent's focusing only</p>
     <n id="p53">53</n>
@@ -20,7 +20,7 @@
     <p>BURGER, C.J., announced the judgment of the Court and delivered the opinion of the Court with respect to Parts I, II-B, and III, in which BRENNAN, WHITE, BLACKMUN, REHNQUIST, STEVENS, and O'CONNOR, JJ., joined, and an opinion with respect to Part II-A, in which WHITE, REHNQUIST, and O'CONNOR, JJ., joined. BRENNAN, J., filed an opinion concurring in part and concurring in the judgment, in which BLACKMUN and STEVENS, JJ., joined, post, p. <a href="./us473-0052.xml#p59">473 U. S. 59</a>. MARSHALL, J., filed an opinion concurring in the judgment, post, p. <a href="./us473-0052.xml#p60">473 U. S. 60</a>. POWELL, J., took no part in the decision of the case.</p>
     <p>CHIEF JUSTICE BURGER delivered the opinion of the Court, except as to Part II-A.</p>
     <p>We granted certiorari to decide whether the survivor of a serviceman, who was murdered by another serviceman, may recover from the Government under the Federal Tort Claims Act for negligently failing to prevent the murder.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Respondent is the mother and administratrix of Army Private Vernon Shearer. While Private Shearer was off duty at Fort Bliss and away from the base, he was kidnaped and murdered by another serviceman, Private Andrew Heard. A New Mexico court convicted Private Heard of Shearer's murder and sentenced him to a term of 15 to 55 years' imprisonment.</p>
     <p>Respondent brought this action under the Federal Tort Claims Act, 28 U.S.C. §§ 1346(b) and 2671 et seq., claiming</p>
     <n id="p54">54</n>
@@ -31,7 +31,7 @@
     <p>"if an assault and battery occurred as a 'natural result' of the government's failure to exercise due care, the assault and battery may be deemed to have its roots in negligence, and therefore it is within the scope of the FTCA."</p>
     <p>Id. at 1107. [<a id="nf1" href="#fn1">Footnote 1</a>]</p>
     <p>We granted certiorari. 469 U.S. 929 (1984). We reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>A</p>
     <p>The Federal Tort Claims Act's waiver of sovereign immunity does not apply to "[a]ny claim arising out of assault [or] battery," 28 U.S.C. § 2680(h), and it is clear that respondent's</p>
     <n id="p55">55</n>
@@ -60,7 +60,7 @@
     <p>462 U.S. at <a href="../us462/us462-0296.xml#p302">462 U. S. 302</a>, quoting Gilligan v. Morgan, <a href="../us413/us413-0001.xml#p1">413 U. S. 1</a>, <a href="../us413/us413-0001.xml#p10">413 U. S. 10</a> (1973).</p>
     <n id="p59">59</n>
     <p>Finally, respondent does not escape the Feres net by focusing only on this case with a claim of negligence, and by characterizing her claim as a challenge to a "straightforward personnel decision." Tr. of Oral Arg. 37. By whatever name it is called, it is a decision of command. The plaintiffs in Feres and Stencel Aero Engineering did not contest the wisdom of broad military policy; nevertheless, the Court held that their claims did not fall within the Tort Claims Act because they were the type of claims that, if generally permitted, would involve the judiciary in sensitive military affairs at the expense of military discipline and effectiveness. Similarly, respondent's attempt to hale Army officials into court to account for their supervision and discipline of Private Heard must fail.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Special Assistant to the Attorney General Holtzoff, testifying on behalf of the Attorney General, described the proposed Federal Tort Claims Act as "a radical innovation," and thus counseled Congress to "take it step by step." Tort Claims Against the United States: Hearings on H.R. 7236 before Subcommittee No. 1 of the House Committee on the Judiciary, 76th Cong., 3d Sess., 22 (1940). We hold that Congress has not undertaken to allow a serviceman or his representative to recover from the Government for negligently failing to prevent another serviceman's assault and battery. Accordingly, the judgment of the Court of Appeals is</p>
     <p>Reversed.</p>
     <p>JUSTICE POWELL took no part in the decision of this case.</p>

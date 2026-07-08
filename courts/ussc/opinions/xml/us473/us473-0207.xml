@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us473-0207.html" citation="473 U.S. 207" title="Dowling v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p207">207</n>
-    <h>U.S. Supreme Court</h>
-    <h>Dowling v. United States, <a href="./us473-0207.xml#p207">473 U.S. 207</a> (1985)</h>
-    <h>Dowling v. United States</h>
-    <h>No. 84-589</h>
-    <h>Argued April 17, 1985</h>
-    <h>Decided June 28, 1985</h>
-    <h><a href="./us473-0207.xml#p207">473 U.S. 207</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Dowling v. United States, <a href="./us473-0207.xml#p207">473 U.S. 207</a> (1985)</h1>
+    <h2>Dowling v. United States</h2>
+    <h2>No. 84-589</h2>
+    <h4>Argued April 17, 1985</h4>
+    <h4>Decided June 28, 1985</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Title 18 U.S.C. § 2314 provides criminal penalties for any person who</p>
     <p>"transports in interstate or foreign commerce any goods, wares, merchandise, securities or money, of the value of $5,000 or more, knowing the same to have been stolen, converted or taken by fraud."</p>
     <p>Petitioner was convicted in Federal District Court of violating, inter alia, § 2314, arising from the interstate transportation of "bootleg" phonorecords that were manufactured and distributed without the consent of the copyright owners of the musical compositions performed on the records. The Court of Appeals affirmed.</p>
@@ -28,7 +28,7 @@
     <p>The National Stolen Property Act provides for the imposition of criminal penalties upon any person who</p>
     <p>"transports in interstate or foreign commerce any goods, wares, merchandise, securities or money, of the value of $5,000 or more, knowing the same to have been stolen, converted or taken by fraud."</p>
     <p>18 U.S.C. § 2314. In this case, we must determine whether the statute reaches the interstate transportation of "bootleg" phonorecords, "stolen, converted or taken by fraud" only in the sense that they were manufactured and distributed without the consent of the copyright owners of the musical compositions performed on the records.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>After a bench trial in the United States District Court for the Central District of California conducted largely on the basis of a stipulated record, petitioner Paul Edmond Dowling was convicted of one count of conspiracy to transport stolen property in interstate commerce, in violation of 18 U.S.C.</p>
     <n id="p209">209</n>
     <p>§ 371; eight counts of interstate transportation of stolen property, in violation of 18 U.S.C. § 2314; nine counts of copyright infringement, in violation of 17 U.S.C. § 506(a); and three counts of mail fraud, in violation of 18 U.S.C. § 1341. [<a id="nf1" href="#fn1">Footnote 1</a>] The offenses stemmed from an extensive bootleg record operation involving the manufacture and distribution by mail of recordings of vocal performances by Elvis Presley. [<a id="nf2" href="#fn2">Footnote 2</a>] The</p>
@@ -43,7 +43,7 @@
     <p>Dowling appealed from all the convictions save those for copyright infringement, and the United States Court of Appeals for the Ninth Circuit affirmed in all respects. 739 F.2d 1445 (1984). As to the charges under § 2314, the court relied on its decision in United States v. Belmont, 715 F.2d 459 (1983), cert. denied, 465 U.S. 1022 (1984), where it had held that interstate transportation of videotape cassettes containing unauthorized copies of copyrighted motion pictures involved stolen goods within the meaning of the statute. [<a id="nf5" href="#fn5">Footnote 5</a>] As in Belmont, the court reasoned that the rights of copyright owners in their protected property were indistinguishable from ownership interests in other types of property, and were equally deserving of protection under the statute. 739 F.2d at 1450, quoting 715 F.2d at 461-462.</p>
     <n id="p213">213</n>
     <p>We granted certiorari to resolve an apparent conflict among the Circuits [<a id="nf6" href="#fn6">Footnote 6</a>] concerning the application of the statute to interstate shipments of bootleg and pirated sound recordings and motion pictures whose unauthorized distribution infringed valid copyrights. 469 U.S. 1157 (1985).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Federal crimes, of course, "are solely creatures of statute." Liparota v. United States, <a href="../us471/us471-0419.xml#p419">471 U. S. 419</a>, <a href="../us471/us471-0419.xml#p424">471 U. S. 424</a> (1985), citing <a href="../us011/us011-0032.xml#p32">United States v. Hudson</a>, 7 Cranch 32 (1812). Accordingly, when assessing the reach of a federal criminal statute, we must pay close heed to language, legislative history, and purpose in order strictly to determine the scope of the conduct the enactment forbids. Due respect for the prerogatives of Congress in defining federal crimes prompts restraint in this area, where we typically find a "narrow interpretation" appropriate. See Williams v. United States, <a href="../us458/us458-0279.xml#p279">458 U. S. 279</a>, <a href="../us458/us458-0279.xml#p290">458 U. S. 290</a> (1982). Chief Justice Marshall early observed:</p>
     <p>"The rule that penal laws are to be construed strictly is perhaps not much less old than construction itself. It is founded on the tenderness of the law for the rights of</p>
     <n id="p214">214</n>
@@ -111,7 +111,7 @@
     <n id="p227">227</n>
     <p>intangible idea protected by the copyright is effectively made tangible by its embodiment upon the tapes," United States v. Gottesman, 724 F.2d 1517, 1520 (CA11 1984), phonorecords, or films shipped in interstate commerce as to render those items stolen goods for purposes of § 2314, so too would the intangible idea protected by a patent be made tangible by its embodiment in an article manufactured in accord with patented specifications. Thus, as the Government as much as acknowledged at argument, Tr. of Oral Arg. 29, its view of the statute would readily permit its application to interstate shipments of patent-infringing goods. Despite its undoubted power to do so, however, Congress has not provided criminal penalties for distribution of goods infringing valid patents. [<a id="nf19" href="#fn19">Footnote 19</a>] Thus, the rationale supporting application of the statute under the circumstances of this case would equally justify its use in wide expanses of the law which Congress has evidenced no intention to enter by way of criminal sanction. [<a id="nf20" href="#fn20">Footnote 20</a>] This factor militates strongly against the reading proffered by the Government. Cf. Williams v. United States, 458 U.S. at <a href="../us458/us458-0279.xml#p287">458 U. S. 287</a>.</p>
     <n id="p228">228</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>No more than other legislation do criminal statutes take on straitjackets upon enactment. In sanctioning the use of § 2314 in the manner urged by the Government here, the Courts of Appeals understandably have sought to utilize an existing and readily available tool to combat the increasingly serious problem of bootlegging, piracy, and copyright infringement. Nevertheless, the deliberation with which Congress over the last decade has addressed the problem of copyright infringement for profit, as well as the precision with which it has chosen to apply criminal penalties in this area, demonstrates anew the wisdom of leaving it to the legislature to define crime and prescribe penalties. [<a id="nf21" href="#fn21">Footnote 21</a>] Here, the language of § 2314 does not "plainly and unmistakably" cover petitioner Dowling's conduct, United States v. Lacher, <a href="../us134/us134-0624.xml#p624">134 U. S. 624</a>, <a href="../us134/us134-0624.xml#p628">134 U. S. 628</a> (1890); the purpose of the provision to fill gaps in state law enforcement does not couch the problem under attack; and the rationale employed to apply the statute to</p>
     <n id="p229">229</n>
     <p>petitioner's conduct would support its extension to significant bodies of law that Congress gave no indication it intended to touch. In sum, Congress has not spoken with the requisite clarity. Invoking the "time-honored interpretive guideline" that "ambiguity concerning the ambit of criminal statutes should be resolved in favor of lenity,'" Liparota v. United States, 471 U.S. at <a href="../us471/us471-0419.xml#p427">471 U. S. 427</a>, quoting Rewis v. United States, <a href="../us401/us401-0808.xml#p808">401 U. S. 808</a>, <a href="../us401/us401-0808.xml#p812">401 U. S. 812</a> (1971), we reverse the judgment of the Court of Appeals.</p>

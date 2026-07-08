@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us438-0104.html" citation="438 U.S. 104" title="Penn Central Transportation Co. v. New York City">
   <opinion type="Opinions &amp; Dissents">
     <n id="p104">104</n>
-    <h>U.S. Supreme Court</h>
-    <h>Penn Central Transportation Co. v. New York City, <a href="./us438-0104.xml#p104">438 U.S. 104</a> (1978)</h>
-    <h>Penn Central Transportation Co. v. New York City</h>
-    <h>No. 77-444</h>
-    <h>Argued April 17, 1978</h>
-    <h>Decided June 26, 1978</h>
-    <h><a href="./us438-0104.xml#p104">438 U.S. 104</a></h>
-    <h>APPEAL FROM THE COURT OF APPEALS OF NEW YORK</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Penn Central Transportation Co. v. New York City, <a href="./us438-0104.xml#p104">438 U.S. 104</a> (1978)</h1>
+    <h2>Penn Central Transportation Co. v. New York City</h2>
+    <h2>No. 77-444</h2>
+    <h4>Argued April 17, 1978</h4>
+    <h4>Decided June 26, 1978</h4>
+    <h2>APPEAL FROM THE COURT OF APPEALS OF NEW YORK</h2>
+    <h2>Syllabus</h2>
     <p>Under New York City's Landmarks Preservation Law (Landmarks Law), which was enacted to protect historic landmarks and neighborhoods from precipitate decisions to destroy or fundamentally alter their character, the Landmarks Preservation Commission (Commission) may designate a building to be a "landmark" on a particular "landmark site" or may designate an area to be a "historic district." The Board of Estimate may thereafter modify or disapprove the designation, and the owner may seek judicial review of the final designation decision. The owner of the designated landmark must keep the building's exterior "in good repair," and, before exterior alterations are made, must secure Commission approval. Under two ordinances, owners of landmark sites may transfer development rights from a landmark parcel to proximate lots. Under the Landmarks Law, the Grand Central Terminal (Terminal), which is owned by the Penn Central Transportation Co. and its affiliates (Penn Central) was designated a "landmark" and the block it occupies a "landmark site." Appellant Penn Central, though opposing the designation before the Commission, did not seek judicial review of the final designation decision. Thereafter appellant Penn Central entered into a lease with appellant UGP Properties, whereby UGP was to construct a multistory office building over the Terminal. After the Commission had rejected appellants' plans for the building as destructive of the Terminal's historic and aesthetic features, with no judicial review thereafter being sought, appellants brought suit in state court claiming that the application of the Landmarks Law had "taken" their property without just compensation in violation of the Fifth and Fourteenth Amendments, and arbitrarily deprived them of their property without due process of law in violation of the Fourteenth Amendment. The trial court's grant of relief was reversed on appeal, the New York Court of Appeals ultimately concluding that there was no "taking," since the Landmarks Law had not transferred control of the property to the city, but only restricted appellants' exploitation of it; and that there was no denial of due process because (1) the same use of the Terminal was permitted as before; (2) the appellants had not shown that they could not earn a reasonable return on their investment</p>
     <n id="p105">105</n>
     <p>in the Terminal itself; (3) even if the Terminal proper could never operate at a reasonable profit, some of the income from Penn Central's extensive real estate holdings in the area must realistically be imputed to the Terminal; and (4) the development rights above the Terminal, which were made transferable to numerous sites in the vicinity, provided significant compensation for loss of rights above the Terminal itself.</p>
@@ -28,7 +28,7 @@
     <n id="p107">107</n>
     <p>MR. JUSTICE BRENNAN delivered the opinion of the Court.</p>
     <p>The question presented is whether a city may, as part of a comprehensive program to preserve historic landmarks and historic districts, place restrictions on the development of individual historic landmarks -- in addition to those imposed by applicable zoning ordinances -- without effecting a "taking" requiring the payment of "just compensation." Specifically, we must decide whether the application of New York City's Landmarks Preservation Law to the parcel of land occupied by Grand Central Terminal has "taken" its owners' property in violation of the Fifth and Fourteenth Amendments.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>A</p>
     <p>Over the past 50 years, all 50 States and over 500 municipalities have enacted laws to encourage or require the preservation of buildings and areas with historic or aesthetic importance. [<a id="nf1" href="#fn1">Footnote 1</a>] These nationwide legislative efforts have been</p>
     <n id="p108">108</n>
@@ -88,7 +88,7 @@
     <p>Observing that its affirmance was "[o]n the preset record," and that its analysis had not been fully developed by counsel at any level of the New York judicial system, the Court of Appeals directed that counsel</p>
     <p>"should be entitled to present . . . any additional submissions which, in the light of [the court's] opinion, may usefully develop further the factors discussed."</p>
     <p>Id. at 337, 366 N.E.2d at 1279. Appellants chose not to avail themselves of this opportunity, and filed a notice of appeal in this Court. We noted probable jurisdiction. 434 U.S. 983 (1977). We affirm.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The issues presented by appellants are (1) whether the restrictions imposed by New York City's law upon appellants' exploitation of the Terminal site effect a "taking" of appellants' property for a public use within the meaning of the Fifth Amendment, which, of course, is made applicable to the States through the Fourteenth Amendment, see Chicago, B. &amp; Q. R. Co. v. Chicago, <a href="../us166/us166-0226.xml#p226">166 U. S. 226</a>, <a href="../us166/us166-0226.xml#p239">166 U. S. 239</a> (1807), and, (2), if so, whether the transferable development rights afforded appellants constitute "just compensation" within the meaning of the Fifth Amendment. [<a id="nf24" href="#fn24">Footnote 24</a>] We need only address the question whether a "taking" has occurred. [<a id="nf25" href="#fn25">Footnote 25</a>]</p>
     <n id="p123">123</n>
     <p>A</p>
@@ -289,7 +289,7 @@
       <p>In August, 1967, Grand Central Terminal was designated a landmark over the objections of its owner Penn Central. Immediately upon this designation, Penn Central, like all</p>
       <n id="p141">141</n>
       <p>owners of a landmark site, was placed under an affirmative duty, backed by criminal fines and penalties, to keep "exterior portions" of the landmark "in good repair." Even more burdensome, however, were the strict limitations that were thereupon imposed on Penn Central's use of its property. At the time Grand Central was designated a landmark, Penn Central was in a precarious financial condition. In an effort to increase its sources of revenue, Penn Central had entered into a lease agreement with appellant UGP Properties, Inc., under which UGP would construct and operate a multistory office building cantilevered above the Terminal building. During the period of construction, UGP would pay Penn Central $1 million per year. Upon completion, UGP would rent the building for 50 years, with an option for another 25 years, at a guaranteed minimum rental of $3 million per year. The record is clear that the proposed office building was in full compliance with all New York zoning laws and height limitations. Under the Landmarks Preservation Law, however, appellants could not construct the proposed office building unless appellee Landmarks Preservation Commission issued either a "Certificate of No Exterior Effect" or a "Certificate of Appropriateness." Although appellants' architectural plan would have preserved the facade of the Terminal, the Landmarks Preservation Commission has refused to approve the construction.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>The Fifth Amendment provides in part: "nor shall private property be taken for public use, without just compensation." [Footnote 2/3]</p>
       <n id="p142">142</n>
       <p>In a very literal sense, the actions of appellees violated this constitutional prohibition. Before the city of New York declared Grand Central Terminal to be a landmark, Penn Central could have used its "air rights" over the Terminal to build a multistory office building, at an apparent value of several million dollars per year. Today, the Terminal cannot be modified in any form, including the erection of additional stories, without the permission of the Landmark Preservation Commission, a permission which appellants, despite good faith attempts, have so far been unable to obtain. Because the Taking Clause of the Fifth Amendment has not always been read literally, however, the constitutionality of appellees' actions requires a closer scrutiny of this Court's interpretation of the three key words in the Taking Clause -- "property," "taken," and "just compensation." [Footnote 2/4]</p>
@@ -352,7 +352,7 @@
       <p><a href="https://law.justia.com/cases/new-york/court-of-appeals/1977/42-n-y-2d-324-0.html">42 N.Y.2d 324</a>, 334 335, 366 N.E.2d 1271, 1277 (1977). And in other cases, the Court of Appeals has noted that TDR's have an "uncertain and contingent market value," and do "not adequately preserve" the value lost when a building is declared to be a landmark. French Investing Co. v. City of New York, 39 N.Y.2d 587, 591, 350 N.E.2d 381, 383, appeal dismissed, 429 U.S. 990 (1976). On the other hand, there is evidence in the record that Penn Central has been</p>
       <n id="p152">152</n>
       <p>offered substantial amounts for its TDR's. Because the record on appeal is relatively slim, I would remand to the Court of Appeals for a determination of whether TDR's constitute a "full and perfect equivalent for the property taken." [Footnote 2/14]</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>Over 50 years ago, Mr. Justice Holmes, speaking for the Court, warned that the courts were</p>
       <p>"in danger of forgetting that a strong public desire to improve the public condition is not enough to warrant achieving the desire by a shorter cut than the constitutional way of paying for the change."</p>
       <p>Pennsylvania Coal Co. v. Mahon, 260 U.S. at <a href="../us260/us260-0393.xml#p416">260 U. S. 416</a>. The Court's opinion in this case demonstrates that the danger thus foreseen has not abated. The city of New York is in a precarious financial state, and some may believe that the costs of landmark preservation will be more easily borne by corporations such as Penn Central than the overburdened individual taxpayers</p>

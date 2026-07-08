@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us455-0305.html" citation="455 U.S. 305" title="Jewett v. Commissioner">
   <opinion type="Opinions &amp; Dissents">
     <n id="p305">305</n>
-    <h>U.S. Supreme Court</h>
-    <h>Jewett v. Commissioner, <a href="./us455-0305.xml#p305">455 U.S. 305</a> (1982)</h>
-    <h>Jewett v. Commissioner, <a href="./us455-0305.xml#p305">455 U.S. 305</a> (1982)</h>
-    <h>No. 80-1614</h>
-    <h>Argued December 1, 1981</h>
-    <h>Decided February 23, 1982</h>
-    <h><a href="./us455-0305.xml#p305">455 U.S. 305</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Jewett v. Commissioner, <a href="./us455-0305.xml#p305">455 U.S. 305</a> (1982)</h1>
+    <h1>Jewett v. Commissioner, <a href="./us455-0305.xml#p305">455 U.S. 305</a> (1982)</h1>
+    <h4>No. 80-1614</h4>
+    <h4>Argued December 1, 1981</h4>
+    <h4>Decided February 23, 1982</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Held: The "transfer" referred to in the Treasury Regulation excepting from the federal gift tax a refusal to accept ownership of an interest in property transferred by will if such refusal is effective under local law and made "within a reasonable time after knowledge of the existence of the transfer," occurs, as indicated by both the text and history of the Regulation, when the interest is created, and not at a later time when the interest either vests or becomes possessory. Hence, in this case, where disclaimers of a contingent interest in a testamentary trust, though effective under local law, were not made until 33 years, and thus not "within a reasonable time," after the interest was created, the disclaimers were subject to a gift tax under §§ 2501(a)(1) and 2511(a) of the Internal Revenue Code, as indirect gifts to a successor in interest. Pp. <a href="./us455-0305.xml#p309">455 U. S. 309</a>-919.</p>
     <p>638 F.2d 93, affirmed.</p>
     <p>STEVENS, J., delivered the opinion of the Court, in which BURGER, C.J., and BRENNAN, WHITE, MARSHALL, and POWELL, JJ., joined. BLACKMUN, J., filed a dissenting opinion, in which REHNQUIST and O'CONNOR, JJ., joined, post, p. <a href="./us455-0305.xml#p319">455 U. S. 319</a>.</p>
@@ -31,7 +31,7 @@
     <n id="p309">309</n>
     <p>by the Court of Appeals for the Eighth Circuit in Keinath v. Commissioner, 480 F.2d 57 (1973), [<a id="nf6" href="#fn6">Footnote 6</a>] it was rejected by the Tax Court [<a id="nf7" href="#fn7">Footnote 7</a>] and by the Ninth Circuit [<a id="nf8" href="#fn8">Footnote 8</a>] in this case. We granted certiorari to resolve the conflict. 452 U.S. 904.</p>
     <p>Petitioner relies heavily on the plain language of the Treasury Regulation and on early decisions that influenced its draftsmen. Before analyzing that language and its history, it is appropriate to review the statutory provisions that the Regulation interprets.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Section 2501(a)(1) of the Internal Revenue Code imposes a tax "on the transfer of property by gift." Section 2511(a) provides that the tax shall apply "whether the gift is direct or indirect, and whether the property is real or personal, tangible or intangible." As the Senate [<a id="nf9" href="#fn9">Footnote 9</a>] and House [<a id="nf10" href="#fn10">Footnote 10</a>] Reports explain:</p>
     <p>"The terms 'property,' 'transfer,' 'gift,' and 'indirectly' are used in the broadest and most comprehensive sense; the term 'property' reaching every species of right or interest protected by law and having an exchangeable value."</p>
     <p>In Smith v. Shaughnessy, <a href="../us318/us318-0176.xml#p176">318 U. S. 176</a>, <a href="../us318/us318-0176.xml#p180">318 U. S. 180</a>, the Court noted that</p>
@@ -41,7 +41,7 @@
     <p>Our expansive reading of the statutory language in Smith unquestionably encompasses an indirect transfer, effected by means of a disclaimer, of a contingent future interest in a trust. [<a id="nf11" href="#fn11">Footnote 11</a>] Congress enacted the gift tax as a "corollary" or "supplement" to the estate tax. [<a id="nf12" href="#fn12">Footnote 12</a>] In Estate of Sanford v. Commissioner, <a href="../us308/us308-0039.xml#p39">308 U. S. 39</a>, <a href="../us308/us308-0039.xml#p44">308 U. S. 44</a>, the Court explained that</p>
     <p>"[a]n important, if not the main, purpose of the gift tax was to prevent or compensate for avoidance of death taxes by taxing the gifts of property inter vivos which, but for the gifts, would be subject in its original or converted form to the tax laid upon transfers at death."</p>
     <p>Since the practical effect of petitioner's disclaimers was to reduce the expected size of his taxable estate and to confer a gratuitous benefit upon the natural objects of his bounty, the treatment of the disclaimers as taxable gifts is fully consistent with the basic purpose of the statutory scheme.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The controlling Treasury Regulation provides that a refusal to accept ownership of property transferred from a decedent does not constitute a gift if two conditions are met. First, the refusal must be effective under the law governing the administration of the decedent's estate. Second, the refusal</p>
     <n id="p311">311</n>
     <p>must be made "within a reasonable time after knowledge of the existence of the transfer."</p>
@@ -51,7 +51,7 @@
     <n id="p312">312</n>
     <p>describes a transfer that "is effected by the decedent's will" (or by the law of descent and distribution of intestate property), not by a subsequent vesting event or distribution of property. The property must be transferred "from a decedent," not from an estate executor or trust administrator. The lack of any reference in the Regulation to future interests or contingent remainders, and the consistent focus on transfers effected by the decedent by will or through the laws of intestate distribution, undermine the suggestion that the relevant transfer occurs other than at the time of the testator's death. The Regulation also requires "knowledge of the existence of the transfer"; since a person to whom assets have actually been distributed would seldom, if ever, lack knowledge of the existence of such a transfer, it seems more likely that this provision was drafted to protect persons who had no knowledge of the creation of an interest.</p>
     <p>On balance, we believe that the text of the Regulation supports the Commissioner's interpretation. Because that text is not entirely clear, however, it is appropriate to examine briefly the Regulation's history.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Treasury Regulation § 25.2511-1(c) has not been changed since it was promulgated on November 15, 1958. The form of the Regulation, however, is somewhat different from a draft that was first proposed on January 3, 1957. That draft required a renunciation to be made "within a reasonable time after knowledge of the existence of the interest," rather than</p>
     <n id="p313">313</n>
     <p>after knowledge of the existence of the "transfer." [<a id="nf14" href="#fn14">Footnote 14</a>] The word "interest" unquestionably would encompass a contingent remainder even if the word "transfer" arguably would not. Thus, if the initial draft had been adopted without change, petitioner's disclaimers certainly would be subject to tax. Petitioner contends that the drafting change must have been intended to avoid this consequence.</p>
@@ -66,7 +66,7 @@
     <p>Petitioner also contends that the history of the Regulation demonstrates that its draftsmen merely intended to codify the rules of Brown v. Routzahn and Hardenbergh v. Commissioner, and that, under those cases, state law controlled both the "right" to renounce and the "timeliness" of the renunciation. Although petitioner accurately interprets</p>
     <n id="p316">316</n>
     <p>these two cases, his interpretation of the Regulation would render half of it superfluous. The Regulation explicitly imposes two requirements: (1) the disclaimer must be effective as a matter of local law; and (2) the disclaimer must be made within a reasonable time. If timeliness were governed solely by local law, the second requirement would be redundant. While it is possible that local law may require a disclaimer to be timely to be effective, such a requirement would not absolve the taxpayer from the separate timeliness requirement imposed by the federal Regulation. Otherwise, the Regulation would be complete with a single requirement that the disclaimer be effective under local law. [<a id="nf17" href="#fn17">Footnote 17</a>]</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>Petitioner's remaining arguments may be answered quickly. In the Tax Reform Act of 1976, Congress established specific standards for determining whether a disclaimer constitutes a taxable gift; those new standards would support the Commissioner's position in this case if the original transfers had occurred after the effective date of the Act. [<a id="nf18" href="#fn18">Footnote 18</a>] Petitioner argues that the legislative decision not to</p>
     <n id="p317">317</n>
     <p>apply those standards retroactively is evidence that a different rule was previously effective. It is clear, however, that Congress expressed no opinion on the proper interpretation of the Regulation at issue in this case; it merely established an unambiguous rule that should apply in the future. [<a id="nf19" href="#fn19">Footnote 19</a>]</p>
@@ -74,7 +74,7 @@
     <p>Finally, petitioner argues that the disclaimer of a contingent remainder is not a taxable event by analogizing it to an</p>
     <n id="p318">318</n>
     <p>exercise of a special power of appointment, which generally is not considered a taxable transfer. 26 U.S.C. § 2514. As the Commissioner notes in response, however, a disclaimant's control over property more closely resembles a general power of appointment, the exercise of which is a taxable transfer. Ibid. Unlike the holder of a special power -- but like the holder of a general power -- a disclaimant may decide to retain the interest himself. It is this characteristic of the control exercised by a disclaimant that makes a disclaimer a "transfer" within the scope of the gift tax provisions.</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>The Commissioner's interpretation of the Regulation has been consistent over the years, and is entitled to respect. This canon of construction, which generally applies to the Commissioner's interpretation of the Internal Revenue Code, see Commissioner v. Portland Cement Co. of Utah, <a href="../us450/us450-0156.xml#p156">450 U. S. 156</a>, <a href="../us450/us450-0156.xml#p169">450 U. S. 169</a>, is even more forceful when applied to the Commissioner's interpretation of his own Regulation.</p>
     <p>Since the relevant "transfer" in this case occurred when petitioner's grandmother irrevocably transferred her assets to a testamentary trust, petitioner's disclaimers of the rights created by that trust were not made within a reasonable time. Even accepting petitioner's argument that the clack did not begin to run until he reached the age of majority, the disclaimers were made after the passage of 24 years. As the Tax Court explained:</p>
     <p>"The petitioner possessed, for 24 years, the effective right to determine who should ultimately receive the benefits of a 50-percent remainder interest of a trust which, in 1972, had a corpus of approximately $8 million. He waited to act in respect of that remainder interest until the surviving life beneficiary was over 70 years of age and until he himself was 45 and, it appears, a man of</p>
@@ -160,7 +160,7 @@
       <p>Petitioner's argument would have more appeal had he attempted to renounce the interest immediately after the adoption of the 1958 Regulation, rather than some 14 years later.</p>
       <p>JUSTICE BLACKMUN, with whom JUSTICE REHNQUIST and JUSTICE O'CONNOR join, dissenting.</p>
       <p>I do not find this case as easy or as clear on behalf of the Government as a reading of the Court's opinion would lead one to believe. While the issue could be described as somewhat close, I conclude that the petitioners have much the better of the argument, and I would reverse the judgment of the Court of Appeals.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>Margaret Weyerhaeuser Jewett, grandmother of petitioner George F. Jewett, Jr., died testate on January 14, 1939. At her death, she was a resident of Massachusetts. She left a will which was duly admitted to probate in that Commonwealth.</p>
       <p>By her will, the decedent created a trust for the benefit of her husband, James R. Jewett, during his lifetime, and thereafter for the benefit of her son, George F. Jewett, and his wife, Mary, for their respective lives. On the death of the survivor of the three life beneficiaries, the trust estate is to be distributed to the then living children of George F. Jewett and to the then living issue of any deceased child of George F. Jewett, in equal shares by right of representation.</p>
       <n id="p320">320</n>
@@ -171,7 +171,7 @@
       <p>Petitioners sought redetermination of the deficiencies in the United States Tax Court. That court, in a reviewed decision, ruled in favor of the Commissioner. 70 T.C. 430 (1978). In so doing, the court followed its earlier ruling in</p>
       <n id="p321">321</n>
       <p>Keinath v. Commissioner, 58 T.C. 352 (1972), an unreviewed decision that had been reversed, 480 F.2d 57 (1973), by a unanimous panel of the United States Court of Appeals for the Eighth Circuit five years before. In the present case, a panel of the Ninth Circuit, by a divided vote, affirmed the Tax Court. 638 F.2d 93 (1980). Because of the conflict, so created, between judgments of two Courts of Appeals, the case is here.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>As the Court observes, ante at <a href="./us455-0305.xml#p311">455 U. S. 311</a>, the language of the Regulation provides support for the petitioners, as well as for the Commissioner. The Court also acknowledges that the Regulation has language that "implies that the relevant transfer' had not yet occurred when petitioner renounced his interest in the trust." Ibid. The Court, however, opts for the Commissioner's opposing interpretation. I am persuaded otherwise.</p>
       <p>To be sure, certain factors lend colorable support to the Commissioner's position: (a) Although petitioner was not yet 12 years old when the testatrix died, he attained the age of 21 in 1948, 24 years before he executed the disclaimers in 1972. (b) Sections 2501(a)(1) and 2511(a) of the Code are broad and sweeping, and were intended to reach every "transfer of property by gift," whether in trust or otherwise, and whether direct or indirect. (c) And to accept petitioners' position could mean, as a practical matter, that one who is a beneficiary of a trust, such as this testatrix created, may stand aside for a long period before disclaiming and thus, in a sense, may make that disclaimer a part of his own estate planning when actual possessory enjoyment of the property is nearer at hand and its desirability or a need for it is better evaluated than many years before.</p>
       <p>The other side of the controversy, however, is not without substantial support. The federal gift tax does not deal with abstractions. It is concerned with "the transfer of property by gift." 26 U.S.C. § 2501(a)(1). With the development of</p>

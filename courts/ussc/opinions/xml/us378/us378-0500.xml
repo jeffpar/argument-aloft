@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us378-0500.html" citation="378 U.S. 500" title="Aptheker v. Secretary of State">
   <opinion type="Opinions &amp; Dissents">
     <n id="p500">500</n>
-    <h>U.S. Supreme Court</h>
-    <h>Aptheker v. Secretary of State, <a href="./us378-0500.xml#p500">378 U.S. 500</a> (1964)</h>
-    <h>Aptheker v. Secretary of State</h>
-    <h>No. 461</h>
-    <h>Argued April 21, 1964</h>
-    <h>Decided June 22, 1964</h>
-    <h><a href="./us378-0500.xml#p500">378 U.S. 500</a></h>
-    <h>APPEAL FROM THE UNITED STATES DISTRICT COURT</h>
-    <h>FOR THE DISTRICT OF COLUMBIA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Aptheker v. Secretary of State, <a href="./us378-0500.xml#p500">378 U.S. 500</a> (1964)</h1>
+    <h2>Aptheker v. Secretary of State</h2>
+    <h2>No. 461</h2>
+    <h4>Argued April 21, 1964</h4>
+    <h4>Decided June 22, 1964</h4>
+    <h2>APPEAL FROM THE UNITED STATES DISTRICT COURT</h2>
+    <h2>FOR THE DISTRICT OF COLUMBIA</h2>
+    <h2>Syllabus</h2>
     <p>Appellants, native-born citizens and residents of the United States, are ranking officials of the Communist Party of the United States. After hearings under State Department regulations, appellants' passports were revoked under § 6 of the Subversive Activities Control Act of 1950, which provides that, when a Communist organization is registered, or under final order to register, it shall be unlawful for any member with knowledge or notice thereof to apply for or use a passport. Appellants filed suit asking that § 6 be declared unconstitutional as a violation of the Due Process Clause of the Fifth Amendment and that the Secretary of State be ordered to issue passports to them. A three-judge District Court denied relief.</p>
     <p>Held:</p>
     <p>1. Section 6 is unconstitutional on its face, for it too broadly and indiscriminately transgresses the liberty guaranteed by the Fifth Amendment. Pp. <a href="./us378-0500.xml#p505">378 U. S. 505</a>-514.</p>
@@ -37,21 +37,21 @@
     <n id="p503">503</n>
     <p>notified of their right to seek administrative review of the revocations under Department of State regulations.</p>
     <p>Appellants requested and received hearings to review the revocations of their passports. The respective hearing examiners concluded that</p>
-    <p>"the Department of State had reason to believe that [appellants are] within the purview of Section 6(a)(2) of the Subversive Activities Control Act . . . , and, as a result thereof . . . , use of a passport would be in violation of the law."</p>
+    <p>"the Department of State had reason to believe that [appellants are] within the purview of Section 6(a)(2) of the Subversive Activities Control Act . . ., and, as a result thereof . . ., use of a passport would be in violation of the law."</p>
     <p>On the basis of this conclusion, the examiners recommended that the passport revocations be sustained. [<a id="nf3" href="#fn3">Footnote 3</a>] Both appellants appealed to the Board of Passport Appeals, which recommended affirmance of the revocations. The Secretary of State subsequently approved the recommendations of the Board. The Secretary stated that he "relied solely on the evidence in the record," and that, as the basis of his decision, he:</p>
     <p>"specifically adopted as his own the [Board's] finding of fact that, 'at all material times, [appellants were members] of the Communist Party of the United States with knowledge or notice that such organization had been required to register as a Communist organization under the Subversive Activities Control Act.'"</p>
     <p>Appellants thereupon filed separate complaints seeking declaratory and injunctive relief in the United States District Court for the District of Columbia. The complaints, which have been considered together, asked that judgments be entered declaring § 6 of the Subversive Activities Control Act unconstitutional and ordering the Secretary of State to issue passports to appellants. Each appellant-plaintiff alleged that § 6 was unconstitutional as, inter alia, "a deprivation without due process of law</p>
     <n id="p504">504</n>
     <p>of plaintiff's constitutional liberty to travel abroad, in violation of the Fifth Amendment to the Constitution of the United States." [<a id="nf4" href="#fn4">Footnote 4</a>] Appellants conceded that the Secretary of State had an adequate basis for finding that they were members of the Communist Party of the United States, and that the action revoking their passports was proper if § 6 was constitutional. The parties agreed that all administrative remedies had been exhausted, and that it would be futile, and indeed a criminal offense, for either appellant to apply for a passport while remaining a member of the Communist Party.</p>
     <p>The three-judge District Court, which was convened to review the constitutional question, rejected appellants' contentions, sustained the constitutionality of § 6 of the Control Act, and granted the Secretary's motion for summary judgment. <a href="https://law.justia.com/cases/federal/district-courts/FSupp/219/709/1438290/">219 F. Supp. 709</a>. The court concluded that:</p>
-    <p>"the enactment by Congress of section 6, which prohibits these plaintiffs from obtaining passports so long as they are members of an organization -- in this case the Communist Party -- under a final order to register with the Attorney General . . . , is a valid exercise of the power of Congress to protect and preserve our Government against the threat posed by the world Communist movement, and that the regulatory</p>
+    <p>"the enactment by Congress of section 6, which prohibits these plaintiffs from obtaining passports so long as they are members of an organization -- in this case the Communist Party -- under a final order to register with the Attorney General . . ., is a valid exercise of the power of Congress to protect and preserve our Government against the threat posed by the world Communist movement, and that the regulatory</p>
     <n id="p505">505</n>
     <p>scheme bears a reasonable relation thereto."</p>
     <p>Id. at 714. This Court noted probable jurisdiction. 375 U.S. 928.</p>
     <p>Appellants attack § 6, both on its face and as applied, as an unconstitutional deprivation of the liberty guaranteed in the Bill of Rights. The Government, while conceding that the right to travel is protected by the Fifth Amendment, contends that the Due Process Clause does not prevent the reasonable regulation of liberty, and that § 6 is a reasonable regulation because of its relation to the danger the world Communist movement presents for our national security. Alternatively, the Government argues that,</p>
     <p>"whether or not denial of passports to some members of the Communist Party might be deemed not reasonably related to national security, surely Section 6 was reasonable as applied to the top-ranking Party leaders involved here."</p>
     <p>We hold, for the reasons stated below, that § 6 of the Control Act too broadly and indiscriminately restricts the right to travel, and thereby abridges the liberty guaranteed by the Fifth Amendment.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In 1958, in Kent v. Dulles, <a href="../us357/us357-0116.xml#p116">357 U. S. 116</a>, <a href="../us357/us357-0116.xml#p127">357 U. S. 127</a>, this Court declared that the right to travel abroad is "an important aspect of the citizen's liberty'" guaranteed in the Due Process Clause of the Fifth Amendment. The Court stated that:</p>
     <p>"The right to travel is a part of the 'liberty' of which the citizen cannot be deprived without due process of law under the Fifth Amendment. . . . Freedom of movement across frontiers in either direction, and inside frontiers as well, was a part of our heritage. Travel abroad, like travel within the country, . . . may be as close to the heart of the</p>
     <n id="p506">506</n>
@@ -97,7 +97,7 @@
     <p>Message from the President -- Issuance of Passports, H.Doc. No. 417, 85th Cong., 2d Sess.; 104 Cong.Rec. 13046. The legislation which the President proposed did not make membership in a Communist organization, without more, a disqualification for obtaining a passport. S. 4110, H.R. 13318, 85th Cong., 2d Sess. Irrespective of views as to the validity of this or other such proposals, they demonstrate the conviction of the Executive Branch that our national security can be adequately protected by means which, when compared with § 6, are more discriminately tailored to the constitutional liberties of individuals.</p>
     <p>In our view, the foregoing considerations compel the conclusion that § 6 of the Control Act is unconstitutional on its face. The section, judged by its plain import and by the substantive evil which Congress sought to control, sweeps too widely and too indiscriminately across the liberty guaranteed in the Fifth Amendment. The prohibition against travel is supported only by a tenuous relationship between the bare fact of organizational membership and the activity Congress sought to proscribe. The broad and enveloping prohibition indiscriminately excludes plainly relevant considerations such as the individual's knowledge, activity, commitment, and purposes in and places for travel. The section therefore is patently not a regulation "narrowly drawn to prevent the supposed evil," cf. Cantwell v. Connecticut, 310 U.S. at <a href="../us310/us310-0296.xml#p307">310 U. S. 307</a>; yet here, as elsewhere, precision must be the touchstone of legislation so affecting basic freedoms, NAACP v. Button, 371 U.S. at <a href="../us371/us371-0415.xml#p438">371 U. S. 438</a>.</p>
     <n id="p515">515</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>The Government alternatively urges that, if § 6 cannot be sustained on its face, the prohibition should nevertheless be held constitutional as applied to these particular appellants. The Government argues that "surely Section 6 was reasonable as applied to the top-ranking Party leaders involved here." [<a id="nf13" href="#fn13">Footnote 13</a>] It is not disputed that appellants are top-ranking leaders: appellant Aptheker is editor of Political Affairs, the "theoretical organ" of the Party in this country, and appellant Flynn is chairman of the Party. [<a id="nf14" href="#fn14">Footnote 14</a>]</p>
     <p>It must be remembered that,</p>
     <p>"[a]lthough this Court will often strain to construe legislation so as to save it against constitutional attack, it must not and will not carry this to the point of perverting the purpose of a statute . . ."</p>
@@ -116,7 +116,7 @@
     <p>Reversed and remanded.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>
       <p>Paragraph 5 of § 3 of the Act provides that:</p>
-      <p>"For the purposes of this subchapter . . . , [t]he term 'Communist organization' means any Communist action organization, Communist front organization, or Communist-infiltrated organization."</p>
+      <p>"For the purposes of this subchapter . . ., [t]he term 'Communist organization' means any Communist action organization, Communist front organization, or Communist-infiltrated organization."</p>
       <p>64 Stat. 990, as amended, 68 Stat. 777, 50 U.S.C. § 782.</p>
     </f>
     <f n="2"><a id="fn2" href="#nf2">Footnote 2</a>
@@ -146,7 +146,7 @@
     </f>
     <f n="8"><a id="fn8" href="#nf8">Footnote 8</a>
       <p>The purpose of the Act is stated in § 2. 64 Stat. 987, 50 U.S.C. § 781. Congress found, as is generally stated in § 2(1), that there</p>
-      <p>"exists a world Communist movement . . . whose purpose it is, by treachery, deceit, infiltration . . . , espionage, sabotage, terrorism, and any other means deemed necessary, to establish a Communist totalitarian dictatorship in the countries throughout the world through the medium of a world-wide Communist organization."</p>
+      <p>"exists a world Communist movement . . . whose purpose it is, by treachery, deceit, infiltration . . ., espionage, sabotage, terrorism, and any other means deemed necessary, to establish a Communist totalitarian dictatorship in the countries throughout the world through the medium of a world-wide Communist organization."</p>
       <p>Congress concluded, as stated in § 2(15), that the "Communist organization in the United States" and the world Communist movement present a danger to the security of the United States, a danger requiring legislative action. The congressional purpose in adopting § 6 is more specifically stated in § 2(8):</p>
       <p>"Due to the nature and scope of the world Communist movement, with the existence of affiliated constituent elements working toward common objectives in various countries of the world, travel of Communist members, representatives, and agents from country to country facilitates communication and is a prerequisite for the carrying on of activities to further the purposes of the Communist movement."</p>
     </f>
@@ -200,7 +200,7 @@
       <n id="p521">521</n>
       <p>well as in domestic ones. We cannot exercise and enjoy citizenship in world perspective without the right to travel abroad, and I see no constitutional way to curb it unless, as I said, there is the power to detain.</p>
       <p>MR. JUSTICE CLARK, whom MR. JUSTICE HARLAN joins and whom MR. JUSTICE WHITE joins in part, dissenting.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>The Court refuses to consider the constitutionality of § 6 of the Subversive Activities Control Act as applied to the appellants in this case, Elizabeth Gurley Flynn, the Chairman of the Communist Party of the United States, and Herbert Aptheker, the editor of the Party's "theoretical organ," Political Affairs. Instead, the Court declares the section invalid on its face under the Fifth Amendment. This is contrary to the long-prevailing practice of this Court. As we said in United States v. Raines, <a href="../us362/us362-0017.xml#p17">362 U. S. 17</a>, <a href="../us362/us362-0017.xml#p20">362 U. S. 20</a>-21 (1960):</p>
       <p>"The very foundation of the power of the federal courts to declare Acts of Congress unconstitutional lies in the power and duty of those courts to decide cases and controversies properly before them. This was made patent in the first case here exercising that power -- 'the gravest and most delicate duty that this Court is called on to perform.' [Holmes, J., in Blodgett v. Holden, <a href="https://law.justia.com/us/275/142/">275 U. S. 142</a>, <a href="https://law.justia.com/us/275/142/#148">275 U. S. 148</a>.] <a href="https://law.justia.com/us/5/137/">Marbury v. Madison</a>, 1 Cranch 137, <a href="https://law.justia.com/us/5/137/#177">5 U. S. 177</a>-180. This Court, as is the case with all federal courts,"</p>
       <p>"has no jurisdiction to pronounce any statute, either of a State or of the United States, void because irreconcilable with the Constitution except as it is called upon to adjudge the legal rights of litigants in actual controversies. In the exercise of that jurisdiction, it is bound by two rules, to which it has rigidly adhered,</p>
@@ -231,7 +231,7 @@
       <p>At <a href="../us367/us367-0001.xml#p94">367 U. S. 94</a>-95. It is, therefore, difficult for me to see how it can be said rationally that these appellants -- top Party functionaries who testified on behalf of the Party in the registration proceeding involved in Communist Party v. Control Board, supra -- did not know that they were</p>
       <p>"associated with an organization operating to further aims of the world Communist movement and 'to establish a Communist totalitarian dictatorship in the countries throughout the world. . . .'"</p>
       <p>How does the Court escape? It says that the section "sweeps within its prohibition both knowing and unknowing members." But we have no "unknowing members" before us. Neither appellant contests these findings. All we have are irrational imaginings: a member of the Party might wish "to visit a relative in Ireland, or to read rare manuscripts in the Bodleian Library of Oxford University. . . ." But no such party is here, and no such claim is asserted. It will be soon enough to test this situation when it comes here.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>Nor do I believe the section invalid "on its face." While the right to travel abroad is a part of the liberty protected by the Fifth Amendment, the Due Process Clause does not prohibit reasonable regulation of life, liberty or property. Here, the restriction is reasonably</p>
       <n id="p526">526</n>
       <p>related to the national security. As we said in Barenblatt v. United States, <a href="../us360/us360-0109.xml#p109">360 U. S. 109</a>, <a href="../us360/us360-0109.xml#p127">360 U. S. 127</a>-128 (1959):</p>

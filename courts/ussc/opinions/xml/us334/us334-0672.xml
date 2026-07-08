@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us334-0672.html" citation="334 U.S. 672" title="Wade v. Mayo">
   <opinion type="Opinions &amp; Dissents">
     <n id="p672">672</n>
-    <h>U.S. Supreme Court</h>
-    <h>Wade v. Mayo, <a href="./us334-0672.xml#p672">334 U.S. 672</a> (1948)</h>
-    <h>Wade v. Mayo</h>
-    <h>No. 40</h>
-    <h>Submitted October 13, 1947</h>
-    <h>Resubmitted March 9, 1948</h>
-    <h>Decided June 14, 1948</h>
-    <h><a href="./us334-0672.xml#p672">334 U.S. 672</a></h>
-    <h>CERTIORARI TO THE CIRCUIT COURT OF APPEALS</h>
-    <h>FOR THE FIFTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Wade v. Mayo, <a href="./us334-0672.xml#p672">334 U.S. 672</a> (1948)</h1>
+    <h2>Wade v. Mayo</h2>
+    <h2>No. 40</h2>
+    <h4>Submitted October 13, 1947</h4>
+    <h4>Resubmitted March 9, 1948</h4>
+    <h4>Decided June 14, 1948</h4>
+    <h2>CERTIORARI TO THE CIRCUIT COURT OF APPEALS</h2>
+    <h2>FOR THE FIFTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>1. Imprisoned under a Florida state court conviction of a noncapital offense, petitioner sought release by habeas corpus in a state court, claiming denial of his federal constitutional right to counsel. An appeal from a judgment denying relief was dismissed by the state supreme court on the merits. At the time of the state supreme court's action, its judgment apparently could have rested on an adequate nonfederal ground, but, in a later case, the court made clear that it had decided the federal constitutional question.</p>
     <p>Held: although petitioner did not seek certiorari from this Court to review the judgment of the state supreme court, it was within the discretion of the federal district court to entertain an application by petitioner for a writ of habeas corpus and to proceed to a determination of petitioner's federal constitutional claim. Pp. <a href="./us334-0672.xml#p674">334 U. S. 674</a>-682.</p>
     <p>(a) The failure of petitioner to appeal from the judgment of conviction does not bar relief, since it appears that a defendant who is denied counsel in a noncapital case in Florida may raise the constitutional question either by appeal from the conviction or by habeas corpus, and pursuit of one of the two alternative remedies satisfies the requirement of exhaustion of state remedies. Pp. <a href="./us334-0672.xml#p677">334 U. S. 677</a>-678.</p>
@@ -90,7 +90,7 @@
     <p>"(1) the propriety of the exercise of jurisdiction by the District Court in this case</p>
     <n id="p686">686</n>
     <p>when it appears of record, in the state's motion or dismissal of the appeal on habeas corpus, that petitioner had not availed himself of the remedy of appeal from his conviction, apparently open after trial though now barred by limitation . . . ; (2) whether the failure of Florida to make this objection in this proceeding affects the above problem."</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The first question in this case is whether Wade's failure to bring a writ of certiorari to this Court from the judgment of the Florida Supreme Court in his state habeas corpus proceeding should affect his effort to obtain release through a federal writ of habeas corpus. Or, to rephrase the problem, should certiorari to this Court be considered a part of the state remedy for purposes of the well recognized doctrine of exhaustion of state remedies? Mooney v. Holohan, <a href="../us294/us294-0103.xml#p103">294 U. S. 103</a>.</p>
     <p>This inquiry may be started by considering Ex parte Hawk, <a href="../us321/us321-0114.xml#p114">321 U. S. 114</a>. The unanimous opinion in this case was handed down January 31, 1944. Hawk had made a motion for leave to file a writ of habeas corpus in this Court. His application was denied on the ground that he had failed to exhaust the state remedies available to him. The opinion in Hawk's case, however, has been understood by this and other courts as having been designed to give direction for procedure to advise federal courts in their consideration of applications for habeas corpus brought by a person confined under a state criminal conviction. [<a id="nf3" href="#fn3">Footnote 3</a>] One of the rules which this Court prescribed governs the issue now under consideration.</p>
     <n id="p687">687</n>
@@ -103,7 +103,7 @@
     <n id="p689">689</n>
     <p>for review of state convictions is essential so that the applicant may know the way to test the constitutionality of his conviction and so that the public and its judicial system may be spared undue expense and interference from a succession of petitions that cannot be considered on the merits because of procedural defects. The serious and difficult problems of habeas corpus procedure in the federal courts cannot be solved by rules which have as their very core vagueness and uncertainty. [<a id="nf10" href="#fn10">Footnote 10</a>]</p>
     <p>I conclude that certiorari should be considered a part of the state procedure for purposes of habeas corpus.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The next issue is this. Can Wade, having failed to use a state remedy once available [<a id="nf11" href="#fn11">Footnote 11</a>] -- appeal -- and having failed to take a writ of certiorari to this Court from the denial of his state habeas corpus, with no conditions existing or claimed that restricted his ability to proceed in the regular course in the handling of his case after verdict, obtain relief in a federal habeas corpus proceeding for an alleged deprivation of his constitutional right to counsel when it appears that no state remedy in which relief can be obtained is now available? [<a id="nf12" href="#fn12">Footnote 12</a>]</p>
     <n id="p690">690</n>
     <p>The federal courts have the power to discharge upon a writ of habeas corpus "a prisoner . . . in custody in violation of the Constitution . . . of the United States. . . ." [<a id="nf13" href="#fn13">Footnote 13</a>] This Court held in Frank v. Mangum that this writ is a proper procedure</p>
@@ -142,7 +142,7 @@
     <p>similar positions in relation to the federal judicial structure. As the scope of review of this Court in criminal cases from state courts and Hawaiian territorial courts was then the same, no valid distinctions can be drawn between Goto's case and the situation now before us. [<a id="nf30" href="#fn30">Footnote 30</a>]</p>
     <p>It should not be thought that the practice which I would follow represents the sole instance in our jurisprudence of the loss of the right to press constitutional questions because of failure on the part of the individual to raise those issues properly or in time. The principle that federal constitutional questions must be properly raised in state courts before they will be considered by this Court is too well established to require citation. In a case decided this Term, Parker v. Illinois, <a href="../us333/us333-0571.xml#p571">333 U. S. 571</a>, Parker was held to have lost his right to raise federal constitutional questions because of state procedure which required that those questions be raised by direct appeal to the state Supreme Court. Parker appealed his case to the intermediate Appellate Court, and consequently lost any chance of an adjudication by this Court of those issues. [<a id="nf31" href="#fn31">Footnote 31</a>]</p>
     <n id="p697">697</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>It seems to me that the considerations, analogies, and precedents discussed above admit of only one answer to the basic problem of this case. This petitioner had counsel in ample time to permit a petition for certiorari to this Court. There is not a suggestion in the record of any interference, through his own disabilities or otherwise, with petitioner's right to secure, through counsel of his own choice, review of his allegedly erroneous conviction. [<a id="nf32" href="#fn32">Footnote 32</a>] Therefore, I think that the District Court to whom this petition for a writ of habeas corpus from a conviction in a state court was presented should have refused cognizance of the writ sua sponte, since the record showed that state remedies were available [<a id="nf33" href="#fn33">Footnote 33</a>] after the alleged denial of constitutional rights and that the petitioner neglected to take advantage of those remedies. [<a id="nf34" href="#fn34">Footnote 34</a>] "Available," as here used, carries the connotation of ability and opportunity to take advantage of the state procedure. [<a id="nf35" href="#fn35">Footnote 35</a>] Florida's</p>
     <n id="p698">698</n>
     <p>failure to object to consideration of the petition for habeas corpus because certiorari was not requested cannot have the effect of authorizing a federal court to examine into the validity of the conviction. The reason for not allowing habeas corpus in such cases does not depend upon state acquiescence, but upon the federal judicial policy of noninterference with state criminal administration unless there has been complete use and final exhaustion of state remedies.</p>

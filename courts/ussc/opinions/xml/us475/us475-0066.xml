@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us475-0066.html" citation="475 U.S. 66" title="United States v. Mechanik">
   <opinion type="Opinions &amp; Dissents">
     <n id="p66">66</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Mechanik, <a href="./us475-0066.xml#p66">475 U.S. 66</a> (1986)</h>
-    <h>United States v. Mechanik</h>
-    <h>No. 84-1640</h>
-    <h>Argued December 2, 1985</h>
-    <h>Decided February 25, 1986<a href="./us475-0066.xml#p66">475 U.S. 66</a>ast|&gt;*</h>
-    <h><a href="./us475-0066.xml#p66">475 U.S. 66</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE FOURTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Mechanik, <a href="./us475-0066.xml#p66">475 U.S. 66</a> (1986)</h1>
+    <h2>United States v. Mechanik</h2>
+    <h4>No. 84-1640</h4>
+    <h4>Argued December 2, 1985</h4>
+    <h4>Decided February 25, 1986<a href="./us475-0066.xml#p66">475 U.S. 66</a>ast|&gt;*</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE FOURTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>A federal grand jury returned an indictment charging respondents and cross-petitioners (hereafter defendants) with drug-related offenses and conspiracy, and later returned a superseding indictment expanding the conspiracy charge. Two law enforcement agents testified in tandem before the grand jury in support of the superseding indictment. The defendants did not learn about this until the second week of their trial, when the Government furnished them with a transcript of the grand jury testimony. The defendants were found guilty after a jury trial, and the District Court denied their motion to dismiss the superseding indictment on the ground that the two agents' simultaneous presence before the grand jury violated Federal Rule of Criminal Procedure 6(d), which provides that only specified persons including "the witness under examination" may be present at a grand jury proceeding. The Court of Appeals reversed the conspiracy convictions and dismissed the conspiracy portion of the indictment, holding that, although Rule 6(d) was violated, the violation tainted only that portion of the indictment.</p>
     <p>Held: However diligent the defendants may have been in seeking to discover the basis for the claimed violation of Rule 6(d), the petit jury's guilty verdict rendered harmless any error in the grand jury's charging decision that may have flowed from the violation. In such case, the societal costs of retrial are far too substantial to justify setting aside the verdict simply because of an error in the grand jury proceeding. Pp. <a href="./us475-0066.xml#p69">475 U. S. 69</a>-73.</p>
     <p>756 F.2d 994, affirmed in part and reversed in part.</p>
@@ -89,7 +89,7 @@
       <n id="p80">80</n>
       <p>JUSTICE MARSHALL, dissenting.</p>
       <p>The Court concedes that federal prosecutors violated Rule 6(d) of the Federal Rules of Criminal Procedure in presenting their case against defendants Mechanik and Lill to the grand jury. The Court holds, however, that, because defendants were ultimately convicted of some of the counts against them, "any error in the grand jury proceeding connected with the charging decision was harmless beyond a reasonable doubt." Ante at <a href="./us475-0066.xml#p70">475 U. S. 70</a>. Because I believe that the majority's rule misconceives the role both of the grand jury and of the harmless error doctrine, I dissent.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>The Court's decision today renders Rule 6(d) almost unenforceable. As the facts of this litigation demonstrate, Rule 6(d) violations are difficult for defendants to uncover. The grand jury conducts its investigation in secret, aided only by the prosecutors and witnesses. United States v. Calandra, <a href="../us414/us414-0338.xml#p338">414 U. S. 338</a>, <a href="../us414/us414-0338.xml#p343">414 U. S. 343</a> (1974). Defendants are not entitled to grand jury transcripts before trial; due to the strictly enforced tradition of grand jury secrecy, defendants generally have access to no information whatsoever regarding the conduct of the grand jury proceedings. See M. Frankel &amp; G. Naftalis, The Grand Jury 81-89 (1977). Requests by defendants pursuant to Rule 6(e)(3)(C)(ii) for disclosure of grand jury materials, "upon a showing that grounds may exist for a motion to dismiss the indictment because of matters occurring before the grand jury," are rarely granted; a defendant often can make the necessary showing only with the aid of the materials he seeks to discover. See 1 C. Wright, Federal Practice and Procedure § 108, pp. 263-265 (2d ed.1982). Defendants' only access to grand jury materials is likely to be through the medium of the Jencks Act, 18 U.S.C. § 3500, which requires the prosecutor, after direct examination of a Government witness, to produce the witness' prior statements. That disclosure, however, does not</p>
       <n id="p81">81</n>
       <p>take place until after trial has begun, and then only on a piecemeal and incomplete basis.</p>
@@ -97,7 +97,7 @@
       <p>Should a district judge decide a Rule 6(d) motion during trial, the majority's scheme insulates that ruling from appellate review. Appeal before judgment is unlikely; the Court has never allowed immediate appeal of an order issued after the start of a criminal trial. See Flanagan v. United States, <a href="../us465/us465-0259.xml#p259">465 U. S. 259</a>, <a href="../us465/us465-0259.xml#p269">465 U. S. 269</a> (1984). [Footnote 2/1] And under the decision today,</p>
       <n id="p82">82</n>
       <p>such rulings cannot be appealed after judgment. Enforcement of Rule 6(d) is thus left to the unreviewable largesse of the district court.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>A</p>
       <p>We have no reason to believe that Congress intended Rule 6(d) to have so little practical meaning. The legislative history of Rule 6, indeed, belies that approach. In 1933, Congress was faced with</p>
       <p>"a conflict of legal decision as to the right, under existing law, to permit stenographers in grand jury rooms without invalidating the subsequent conviction of defendant."</p>
@@ -115,7 +115,7 @@
       <p>"only by upsetting convictions so obtained can the ardor of prosecuting officials be kept within legal bounds and justice be secured; for in modern times, all prosecution is in the hands of officials."</p>
       <p>United States v. Remington, 208 F.2d 567, 574 (CA2 1953) (L. Hand, J., dissenting). [Footnote 2/2]</p>
       <n id="p85">85</n>
-      <h>III</h>
+      <h2>III</h2>
       <p>The opinion concurring in the judgment suggests that the Rule 6(d) violation in this litigation should be viewed as harmless on the theory that the grand jury would have returned the same indictment regardless of the prosecutor's misconduct. Under that approach, a district court faced with a Rule 6(d) violation should examine the grand jury transcripts in an attempt to divine the effect of the violation on the jury's charging decision, and allow the indictment or conviction to stand only if it finds that there was no such effect. Such a rule would be contrary to the traditional black-letter law that "[a]ny violation of Rule 6(d) is per se prejudicial to the defendant and will result in dismissal of the indictment," 8 J. Moore, Federal Practice � 6.04[7], p. 6-91 (2d ed.1985). [Footnote 2/3] I believe that such an approach would be unworkable and would undermine the limits Congress imposed on the conduct of grand jury investigations.</p>
       <p>Many of the reasons given above for rejecting the majority's view that grand jury impropriety is always harmless</p>
       <n id="p86">86</n>
@@ -126,7 +126,7 @@
       <n id="p87">87</n>
       <p>yet recognize the dangers of the other and prohibit it." United States v. Carper, <a href="https://law.justia.com/cases/federal/district-courts/FSupp/116/817/1902785/">116 F. Supp. 817</a>, 821 (DC 1963).</p>
       <p>That approach, finally, is likely to require a detailed inquiry that will frustrate and undermine the secrecy of grand jury inquiry. See United States v. Treadway, <a href="https://law.justia.com/cases/federal/district-courts/FSupp/445/959/1601701/">445 F. Supp. 959</a> (ND Tex.1978). The district court may have to discuss the testimony of grand jury witnesses who did not appear at trial. The goals of grand jury secrecy, however, counsel that such analysis should not be spread across the public record. See United States v. Sells Engineering, Inc., <a href="../us463/us463-0418.xml#p418">463 U. S. 418</a>, 424-425 (1983). [Footnote 2/4]</p>
-      <h>IV</h>
+      <h2>IV</h2>
       <p>This litigation illustrates the extent to which the Court is willing to reduce the substantive law to "pretend-rules," Borello, 766 F.2d at 58, in order to affirm a criminal conviction. But by denigrating Congress' commands and eviscerating enforcement of Rule 6(d), the Court creates "a greater danger to a free people than the escape of some criminals from punishment." United States v. Di Re, <a href="../us332/us332-0581.xml#p581">332 U. S. 581</a>, <a href="../us332/us332-0581.xml#p595">332 U. S. 595</a> (1948). I believe that the District Court in this case</p>
       <n id="p88">88</n>
       <p>should have reversed defendants' conspiracy convictions without inquiry into the prejudice done to defendants by the Rule 6(d) violation. I therefore would affirm the judgment of the Court of Appeals.</p>

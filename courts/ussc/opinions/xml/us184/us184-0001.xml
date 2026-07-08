@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us184-0001.html" citation="184 U.S. 1" title="Mueller v. Nugent">
   <opinion type="Opinions &amp; Dissents">
     <n id="p1">1</n>
-    <h>U.S. Supreme Court</h>
-    <h>Mueller v. Nugent, <a href="./us184-0001.xml#p1">184 U.S. 1</a> (1902)</h>
-    <h>Mueller v. Nugent</h>
-    <h>No. 257</h>
-    <h>Argued and submitted November 13, 1901</h>
-    <h>Decided January 20, 1902</h>
-    <h><a href="./us184-0001.xml#p1">184 U.S. 1</a></h>
-    <h>CERTIORARI TO THE CIRCUIT COURT OF</h>
-    <h>APPEALS FOR THE SIXTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Mueller v. Nugent, <a href="./us184-0001.xml#p1">184 U.S. 1</a> (1902)</h1>
+    <h2>Mueller v. Nugent</h2>
+    <h2>No. 257</h2>
+    <h4>Argued and submitted November 13, 1901</h4>
+    <h4>Decided January 20, 1902</h4>
+    <h2>CERTIORARI TO THE CIRCUIT COURT OF</h2>
+    <h2>APPEALS FOR THE SIXTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Referees in bankruptcy exercise much of the judicial authority of the court of bankruptcy, and may enter orders to show cause subject to revision by the district court.</p>
     <p>Commitment until assets of a bankrupt are surrendered pursuant to order does not constitute imprisonment for debt.</p>
     <p>The bankruptcy court has power to compel the surrender of money or other assets of the bankrupt in his possession, or that of someone for him, on petition and rule to show cause.</p>

@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us602-23-3.html" citation="602 U.S. 23-3" title="Coinbase v. Suski">
   <opinion type="Opinion" author="Jackson">
     <p>NOTICE: This opinion is subject to formal revision before publication in the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, pio@supremecourt.gov, of any typographical or other formal errors.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 23–3</p>
-    <p>_________________</p>
     <p>COINBASE, INC., PETITIONER v. DAVID SUSKI, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the ninth circuit</p>
     <p>[May 23, 2024]</p>
@@ -26,7 +25,7 @@
     <p>II</p>
     <p>The Federal Arbitration Act (FAA) “reflects the fundamental principle that arbitration is a matter of contract.” Rent-A-Center, West, Inc. v. Jackson, <a href="../us561/us561-0063.xml#p63">561 U.S. 63</a>, 67 (2010). As a result, arbitration agreements are “valid, irrevocable, and enforceable, save upon such grounds as exist at law or in equity for the revocation of any contract.” 9 U. S. C. §2. If a court is “satisfied that the making of the agreement for arbitration . . . is not in issue,” it must send the dispute to an arbitrator. §4. “The FAA thereby places arbitration agreements on an equal footing with other contracts.” Rent-A-Center, 561 U. S., at 67.</p>
     <p>Given that arbitration agreements are simply contracts, “ ‘[t]he first principle that underscores all of our arbitration decisions’ is that ‘[a]rbitration is strictly a matter of consent.’ ” Lamps Plus, Inc. v. Varela, 587 U.S. 176, 184 (2019) (quoting Granite Rock Co. v. Teamsters, <a href="../us561/us561-0287.xml#p287">561 U.S. 287</a>, 299 (2010); some alterations in original). Arbitration is “a way to resolve those disputes—but only those disputes—that the parties have agreed to submit to arbitration.” First Options of Chicago, Inc. v. Kaplan, <a href="../us514/us514-0938.xml#p938">514 U.S. 938</a>, 943 (1995). Consequently, the first question in any arbitration dispute must be: What have these parties agreed to?</p>
-    <p>As relevant here, parties can form multiple levels of agreements concerning arbitration. At a basic level, parties can agree to send the merits of a dispute to an arbitrator. They can also “agree by contract that an arbitrator, rather than a court, will resolve threshold arbitrability questions as well as underlying merits disputes.” Henry Schein, Inc. v. Archer &amp; White Sales, Inc., 586 U.S. 63, 65 (2019). An agreement to allow an arbitrator to decide whether a dispute is subject to arbitration—i.e., its arbitrability—“is simply an additional, antecedent agreement . . . , and the FAA operates on this additional arbitration agreement just as it does on any other.” Rent-A-Center, 561 U. S., at 70.</p>
+    <p>As relevant here, parties can form multiple levels of agreements concerning arbitration. At a basic level, parties can agree to send the merits of a dispute to an arbitrator. They can also “agree by contract that an arbitrator, rather than a court, will resolve threshold arbitrability questions as well as underlying merits disputes.” Henry Schein, Inc. v. Archer &amp; White Sales, Inc., 586 U.S. 63, 65 (2019). An agreement to allow an arbitrator to decide whether a dispute is subject to arbitration—i.e., its arbitrability—“is simply an additional, antecedent agreement . . ., and the FAA operates on this additional arbitration agreement just as it does on any other.” Rent-A-Center, 561 U. S., at 70.</p>
     <p>From these different kinds of agreements, it follows that parties can also have different kinds of disputes. A contest over “the merits of the dispute” is a first-order disagreement, First Options, 514 U. S., at 942 (emphasis deleted), the resolution of which depends on the applicable law and relevant facts. The parties may also have a second-order dispute—“whether they agreed to arbitrate the merits”—as well as a third-order dispute—“who should have the primary power to decide the second matter.” Ibid. (emphasis deleted). Under contract principles, these second- and third-order questions are also matters of consent. “Just as the arbitrability of the merits of a dispute depends upon whether the parties agreed to arbitrate that dispute, so the question ‘who has the primary power to decide arbitrability’ turns upon what the parties agreed about that matter.” Id., at 943 (citations omitted).</p>
     <p>We ask who has the power to decide arbitrability because “a party who has not agreed to arbitrate will normally have a right to the court’s decision about the merits of its dispute.” Id., at 942. Thus, we have explained that “[c]ourts should not assume that the parties agreed to arbitrate arbitrability unless there is ‘clea[r] and unmistakabl[e]’ evidence that they did so.” Id., at 944 (quoting AT&amp;T Technologies, Inc. v. Communications Workers, <a href="../us475/us475-0643.xml#p643">475 U.S. 643</a>, 649 (1986); some alterations in original). “[B]efore referring a dispute to an arbitrator,” therefore, “the court determines whether a valid arbitration agreement exists.” Henry Schein, 586 U. S., at 69.</p>
     <p>III</p>
@@ -45,9 +44,7 @@
   </opinion>
   <opinion type="Concurrence" author="Gorsuch">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 23–3</p>
-    <p>_________________</p>
     <p>COINBASE, INC., PETITIONER v. DAVID SUSKI, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the ninth circuit</p>
     <p>[May 23, 2024]</p>

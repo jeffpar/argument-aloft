@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us465-0605.html" citation="465 U.S. 605" title="United States v. Doe">
   <opinion type="Opinions &amp; Dissents">
     <n id="p605">605</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Doe, <a href="./us465-0605.xml#p605">465 U.S. 605</a> (1984)</h>
-    <h>United States v. Doe</h>
-    <h>No. 82-786</h>
-    <h>Argued December 7, 1983</h>
-    <h>Decided February 28, 1984</h>
-    <h><a href="./us465-0605.xml#p605">465 U.S. 605</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE THIRD CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Doe, <a href="./us465-0605.xml#p605">465 U.S. 605</a> (1984)</h1>
+    <h2>United States v. Doe</h2>
+    <h2>No. 82-786</h2>
+    <h4>Argued December 7, 1983</h4>
+    <h4>Decided February 28, 1984</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE THIRD CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>During a federal grand jury investigation of corruption in the awarding of county and municipal contracts, subpoenas were served on respondent owner of sole proprietorships demanding production of certain business records of several of his companies. Respondent then filed a motion in Federal District Court seeking to quash the subpoenas. The District Court granted the motion (except as to records required by law to be kept or disclosed to a public agency), finding that the act of producing the records would involve testimonial self-incrimination. The Court of Appeals affirmed, holding that the records were privileged, that the act of producing them also would have "communicative aspects of its own" in that the turning over of the records to the grand jury would admit their existence, possession, and authenticity, and that hence respondent was entitled to assert his Fifth Amendment privilege against compelled self-incrimination rather than produce the records. The court further held that, in view of the Government's failure to make a formal request for use immunity under 18 U.S.C. §§ 6002 and 6003, it was proper to reject the Government's attempt to compel delivery of the records.</p>
     <p>Held:</p>
     <p>1. The contents of the subpoenaed records in question are not privileged under the Fifth Amendment. That Amendment protects the person asserting the privilege only from compelled self-incrimination. Fisher v. United States, <a href="../us425/us425-0391.xml#p391">425 U. S. 391</a>, <a href="../us425/us425-0391.xml#p396">425 U. S. 396</a>. Where the preparation of business records is voluntary, no compulsion is present. Here, respondent does not claim that he prepared the records involuntarily or that the subpoenas would force him to restate, repeat, or affirm the truth of the records' contents. The fact that the records are in his possession is irrelevant to the determination of whether the creation of the records was compelled. Pp. <a href="./us465-0605.xml#p610"> 465 U. S. 610</a>-612.</p>
@@ -23,11 +23,11 @@
     <p>POWELL, J., delivered the opinion of the Court, in which BURGER, C.J., and WHITE, BLACKMUN, REHNQUIST, and O'CONNOR, JJ., joined. O'CONNOR, J., filed a concurring opinion, post, p. <a href="./us465-0605.xml#p618">465 U. S. 618</a>. MARSHALL, J., filed an opinion concurring in part and dissenting in part, in which BRENNAN, J., joined, post, p. <a href="./us465-0605.xml#p618">465 U. S. 618</a>. STEVENS, J., filed an opinion concurring in part and dissenting in part, post, p. <a href="./us465-0605.xml#p619">465 U. S. 619</a>.</p>
     <p>JUSTICE POWELL delivered the opinion of the Court.</p>
     <p>This case presents the issue whether, and to what extent, the Fifth Amendment privilege against compelled self-incrimination applies to the business records of a sole proprietorship.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Respondent is the owner of several sole proprietorships. In late 1980, a grand jury, during the course of an investigation of corruption in the awarding of county and municipal contracts, served five subpoenas on respondent. The first two demanded the production of the telephone records of several of respondent's companies and all records pertaining to four bank accounts of respondent and his companies. The subpoenas were limited to the period between January 1, 1977, and the dates of the subpoenas. The third subpoena demanded the production of a list of virtually all the business records of one of respondent's companies for the period between</p>
     <n id="p607">607</n>
     <p>January 1, 1976, and the date of the subpoena. [<a id="nf1" href="#fn1">Footnote 1</a>] The fourth subpoena sought production of a similar list of business records belonging to another company. [<a id="nf2" href="#fn2">Footnote 2</a>] The final subpoena demanded production of all bank statements and cancelled checks of two of respondent's companies that had accounts at a bank in the Grand Cayman Islands.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Respondent filed a motion in Federal District Court seeking to quash the subpoenas. The District Court for the District of New Jersey granted his motion except with respect to those documents and records required by law to be kept or disclosed to a public agency. [<a id="nf3" href="#fn3">Footnote 3</a>] In reaching its decision, the</p>
     <n id="p608">608</n>
     <p>District Court noted that the Government had conceded that the materials sought in the subpoena were or might be incriminating. The court stated that, therefore,</p>
@@ -41,7 +41,7 @@
     <n id="p610">610</n>
     <p>way. The Court of Appeals noted that no formal request for use immunity under 18 U.S.C. §§ 6002 and 6003 had been made. In light of this failure, the court held that the District Court did not err in rejecting the Government's attempt to compel delivery of the subpoenaed records.</p>
     <p>We granted certiorari to resolve the apparent conflict between the Court of Appeals' holding and the reasoning underlying this Court's holding in Fisher. 461 U.S. 913 (1983). We now affirm in part, reverse in part, and remand for further proceedings.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>A</p>
     <p>The Court in Fisher expressly declined to reach the question whether the Fifth Amendment privilege protects the contents of an individual's tax records in his possession. [<a id="nf7" href="#fn7">Footnote 7</a>] The rationale underlying our holding in that case is, however, persuasive here. As we noted in Fisher, the Fifth Amendment protects the person asserting the privilege only from compelled self-incrimination. 425 U.S. at <a href="../us425/us425-0391.xml#p396">425 U. S. 396</a>. Where the preparation of business records is voluntary, no compulsion is present. [<a id="nf8" href="#fn8">Footnote 8</a>] A subpoena that demands production of documents</p>
     <n id="p611">611</n>
@@ -59,7 +59,7 @@
     <p>Id. at <a href="../us425/us425-0391.xml#p410">425 U. S. 410</a>. In Fisher, the Court explored the effect that the act of production would have on the taxpayer and determined that the act of production would have only minimal testimonial value and would not operate to incriminate the taxpayer. Unlike the Court in Fisher, we have the explicit finding of the District Court that the act of producing the documents would involve testimonial self-incrimination. [<a id="nf11" href="#fn11">Footnote 11</a>] The Court of Appeals agreed. [<a id="nf12" href="#fn12">Footnote 12</a>] The District Court's finding essentially rests on its</p>
     <n id="p614">614</n>
     <p>determination of factual issues. See United States v. Nixon, <a href="../us418/us418-0683.xml#p683">418 U. S. 683</a>, <a href="../us418/us418-0683.xml#p702">418 U. S. 702</a> (1974). Therefore, we will not overturn that finding unless it has no support in the record. Ibid. Traditionally, we also have been reluctant to disturb findings of fact in which two courts below have concurred. Rogers v. Lodge, <a href="../us458/us458-0613.xml#p613">458 U. S. 613</a>, <a href="../us458/us458-0613.xml#p623">458 U. S. 623</a> (1982). We therefore decline to overturn the finding of the District Court in this regard, where, as here, it has been affirmed by the Court of Appeals. [<a id="nf13" href="#fn13">Footnote 13</a>]</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>The Government, as it concedes, could have compelled respondent to produce the documents listed in the subpoena.</p>
     <n id="p615">615</n>
     <p>Title 18 U.S.C. §§ 6002 and 6003 provide for the granting of use immunity with respect to the potentially incriminating evidence. [<a id="nf14" href="#fn14">Footnote 14</a>] The Court upheld the constitutionality of the use immunity statute in Kastigar v. United States, <a href="../us406/us406-0441.xml#p441">406 U. S. 441</a> (1972).</p>
@@ -68,7 +68,7 @@
     <p>We decline to extend the jurisdiction of courts to include prospective grants of use immunity in the absence of the formal request that the statute requires. [<a id="nf16" href="#fn16">Footnote 16</a>] As we stated in Pillsbury Co. v. Conboy, <a href="../us459/us459-0248.xml#p248">459 U. S. 248</a> (1983), in passing the use immunity statute, "Congress gave certain officials in the Department of Justice exclusive authority to grant immunities." Id. at <a href="../us459/us459-0248.xml#p253">459 U. S. 253</a>-254 (footnotes omitted). "Congress foresaw the courts as playing only a minor role in the immunizing process. . . ." Id. at <a href="../us459/us459-0248.xml#p254">459 U. S. 254</a>, n. 11. The decision to seek use immunity necessarily involves a balancing of the Government's interest in obtaining information against the risk that immunity will frustrate the Government's attempts to prosecute the subject of the investigation. See United States v. Mandujano, <a href="../us425/us425-0564.xml#p564">425 U. S. 564</a>, <a href="../us425/us425-0564.xml#p575">425 U. S. 575</a> (1976) (plurality opinion). Congress expressly left this decision exclusively to the Justice</p>
     <n id="p617">617</n>
     <p>Department. If, on remand, the appropriate official concludes that it is desirable to compel respondent to produce his business records, the statutory procedure for requesting use immunity will be available. [<a id="nf17" href="#fn17">Footnote 17</a>]</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>We conclude that the Court of Appeals erred in holding that the contents of the subpoenaed documents were privileged under the Fifth Amendment. The act of producing the documents at issue in this case is privileged, and cannot be compelled without a statutory grant of use immunity pursuant to 18 U.S.C. §§ 6002 and 6003. The judgment of the Court of Appeals is, therefore, affirmed in part and reversed in part, [<a id="nf18" href="#fn18">Footnote 18</a>] and the case is remanded to the District Court for further proceedings consistent with this opinion.</p>
     <p>It is so ordered.</p>
     <n id="p618">618</n>

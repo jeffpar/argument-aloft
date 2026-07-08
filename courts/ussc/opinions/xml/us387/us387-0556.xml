@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us387-0556.html" citation="387 U.S. 556" title="Denver &amp;amp; R. G. W. R. Co. v. Trainmen">
   <opinion type="Opinions &amp; Dissents">
     <n id="p556">556</n>
-    <h>U.S. Supreme Court</h>
-    <h>Denver &amp; R. G. W. R. Co. v. Trainmen, <a href="./us387-0556.xml#p556">387 U.S. 556</a> (1967)</h>
-    <h>Denver &amp; Rio Grande Western Railroad Co. v.</h>
-    <h>Brotherhood of Railroad Trainmen</h>
-    <h>No. 794</h>
-    <h>Argued April 19, 1967</h>
-    <h>Decided June 5, 1967</h>
-    <h><a href="./us387-0556.xml#p556">387 U.S. 556</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE TENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Denver &amp; R. G. W. R. Co. v. Trainmen, <a href="./us387-0556.xml#p556">387 U.S. 556</a> (1967)</h1>
+    <h2>Denver &amp; Rio Grande Western Railroad Co. v.</h2>
+    <h2>Brotherhood of Railroad Trainmen</h2>
+    <h2>No. 794</h2>
+    <h4>Argued April 19, 1967</h4>
+    <h4>Decided June 5, 1967</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE TENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner, railroad, brought suit in federal court in Colorado against respondent union, an unincorporated association with headquarters in Ohio, and certain individual members, for damages resulting from a strike in violation of the Railway Labor Act. At the time the suit was brought, venue in federal question cases lay only in the district "where all defendants reside." 28 U.S.C. § 1391(b). The statute did not define the residence of an unincorporated association. Subsequently that statute was amended to permit suits also in the district where the claim arises. The union's motion to dismiss for improper venue was overruled, the case was tried, and judgment was entered for petitioner. The Court of Appeals reversed, holding that the union could be sued under § 1391(b) only in the district of its residence, and that its residence was not in Colorado.</p>
     <p>Held:</p>
     <p>1. The residence of an unincorporated association (which should be viewed as an entity for venue purposes) under the previous version of § 1391(b) refers to wherever it is "doing business." Pp. <a href="./us387-0556.xml#p559">387 U. S. 559</a>-563.</p>
@@ -30,7 +30,7 @@
     <p>when Congress directed that a corporation could be sued in the judicial district</p>
     <p>"in which it is incorporated or licensed to do business or is doing business, and such judicial district shall be regarded as the residence of such corporation for venue purposes."</p>
     <p>28 U.S.C. § 1391(c). Congress has maintained its silence, however, with respect to the residence of the unincorporated association. The resolution of that issue, as was true for the corporation prior to 1948, has been left to the courts. The issue is now here for the first time.</p>
-    <p>Of course, venue for a suit against an unincorporated association becomes important only if the association is itself suable. At common law, such an association could be sued only in the names of its members, and liability had to be enforced against each member. This principle was rejected in United Mine Workers v. Coronado Co., <a href="../us259/us259-0344.xml#p344">259 U. S. 344</a>, where this Court, recognizing the growth and pervasive influence of labor organizations and noting that the suability of trade unions "is of primary importance in the working out of justice and in protecting individuals and society . . . ," 259 U.S. at <a href="../us259/us259-0344.xml#p390">259 U. S. 390</a>, held that such organizations were suable in the federal courts, and that funds accumulated by them were subject to execution in suits for torts committed during strikes. The Coronado holding is now reflected in Fed.Rule Civ.Proc. 17(b).</p>
+    <p>Of course, venue for a suit against an unincorporated association becomes important only if the association is itself suable. At common law, such an association could be sued only in the names of its members, and liability had to be enforced against each member. This principle was rejected in United Mine Workers v. Coronado Co., <a href="../us259/us259-0344.xml#p344">259 U. S. 344</a>, where this Court, recognizing the growth and pervasive influence of labor organizations and noting that the suability of trade unions "is of primary importance in the working out of justice and in protecting individuals and society . . .," 259 U.S. at <a href="../us259/us259-0344.xml#p390">259 U. S. 390</a>, held that such organizations were suable in the federal courts, and that funds accumulated by them were subject to execution in suits for torts committed during strikes. The Coronado holding is now reflected in Fed.Rule Civ.Proc. 17(b).</p>
     <p>The Coronado case dealt with capacity to be sued, not with venue, but it did legitimate suing the unincorporated association as an entity. Although that entity has no citizenship independent of its members for purposes of diversity jurisdiction, Steelworkers v. Bouligny, Inc., <a href="../us382/us382-0145.xml#p145">382 U. S. 145</a>, a case relied upon by the Court of Appeals here, we think that the question of the proper venue for such a defendant, like the question of capacity, should be determined by looking to the residence of the association itself, rather than that of its individual members.</p>
     <n id="p560">560</n>
     <p>Otherwise, § 1391(b) would seem to require either holding the association not suable at all where its members are residents of different States, or holding that the association "resides" in any State in which any of its members resides. The first alternative seems wholly at odds with Coronado, and, in addition, removes federal question litigation from the federal courts unnecessarily; the second is patently unfair to the association when it is remembered that venue is primarily a matter of convenience of litigants and witnesses. H.R.Rep. No. 1893, 89th Cong., 2d Sess., p. 2. Of course, having concluded that the unincorporated association should be viewed as an entity for purposes of residence under § 1391(b), that residence must still be ascertained, an inquiry requiring examination of congressional intent and the interests reflected in Coronado and in principles underlying venue limitations.</p>

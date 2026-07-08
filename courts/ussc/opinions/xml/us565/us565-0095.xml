@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us565-0095.html" citation="565 U.S. 95" title="CompuCredit Corp. v. Greenwood">
   <opinion type="Opinion" author="Scalia">
     <n id="p95">95</n>
     <p>NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 10–948</p>
-    <p>_________________</p>
     <p>COMPUCREDIT CORPORATION, et al., PETITIONERS v. WANDA GREENWOOD et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the ninth circuit</p>
     <p>[January 10, 2012]</p>
@@ -83,13 +82,11 @@
     <f n="1"><a id="fn1-1" href="#nf1-1">1</a> The District Court said that petitioners do not dispute that they come within this definition. See 617 F. Supp. 980, 984, n. 2 (ND Cal. 2009). The Ninth Circuit did not address that issue, see 615 F. 3d 1204, 1207, n. 3 (2010), nor do we.</f>
     <f n="2"><a id="fn1-2" href="#nf1-2">2</a> Accordingly, when a consumer sues to enforce liability under the CROA, he does so under §1679g(a), not “in light of §1679c,” post, at 4 (Ginsburg, J., dissenting). An action under the CROA need not referto §1679c at all, unless it is based on the company’s failure to provide the statement required under that section. Section 1679g(a) creates the “right” at issue and describes it in detail not contained in §1679c’s summary. When determining the scope of that right, it is therefore §1679g(a)—and not §1679c—that must govern.</f>
     <f n="3"><a id="fn1-3" href="#nf1-3">3</a> Gilmer noted that the ADEA had been amended after conclusion of the arbitration agreement in that case to preclude waiver of “rights or claims that may arise after the date the waiver is executed.” . The Court said in dictum that this provision “did not explicitly preclude arbitration or other nonjudicial resolution of claims,” 500 U. S., at 29.</f>
-    <f n="4"><a id="fn1-4" href="#nf1-4">4</a> The dissent questions the relevance of these statutes, since they postdated the CROA and since this Court’s intervening decisions compelling arbitration “increasingly alerted Congress to the utility of drafting antiwaiver prescriptions with meticulous care.” Post, at 8. But as the dissent implicitly recognizes, Congress had been “alerted” much before these post-CROA statutes were passed. The CROA itself followed a series of this Court’s seminal decisions compelling arbitration, decisions which held that the FAA had established a “federal policy favoring arbitration,” Gilmer v. Interstate/Johnson Lane Corp., , and that “[t]he burden is on the party opposing arbitration . . . to show that Congress intended to preclude a waiver of judicial remedies,” Shearson/American Express Inc. v. McMahon, . To the extent Congress is ever “stimulated” by this Court’s decisions, post, at 8, there is no reason to think the Congress that enacted the CROA was any less stimulated than subsequent Congresses.</f>
+    <f n="4"><a id="fn1-4" href="#nf1-4">4</a> The dissent questions the relevance of these statutes, since they postdated the CROA and since this Court’s intervening decisions compelling arbitration “increasingly alerted Congress to the utility of drafting antiwaiver prescriptions with meticulous care.” Post, at 8. But as the dissent implicitly recognizes, Congress had been “alerted” much before these post-CROA statutes were passed. The CROA itself followed a series of this Court’s seminal decisions compelling arbitration, decisions which held that the FAA had established a “federal policy favoring arbitration,” Gilmer v. Interstate/Johnson Lane Corp.,, and that “[t]he burden is on the party opposing arbitration . . . to show that Congress intended to preclude a waiver of judicial remedies,” Shearson/American Express Inc. v. McMahon, . To the extent Congress is ever “stimulated” by this Court’s decisions, post, at 8, there is no reason to think the Congress that enacted the CROA was any less stimulated than subsequent Congresses.</f>
   </opinion>
   <opinion type="Concurrence" author="Sotomayor">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 10–948</p>
-    <p>_________________</p>
     <p>COMPUCREDIT CORPORATION, et al., PETITIONERS v. WANDA GREENWOOD et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the ninth circuit</p>
     <p>[January 10, 2012]</p>
@@ -101,9 +98,7 @@
   </opinion>
   <opinion type="Dissent" author="Ginsburg">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 10–948</p>
-    <p>_________________</p>
     <p>COMPUCREDIT CORPORATION, et al., PETITIONERS v. WANDA GREENWOOD et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the ninth circuit</p>
     <p>[January 10, 2012]</p>

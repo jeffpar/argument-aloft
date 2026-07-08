@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us406-0416.html" citation="406 U.S. 416" title="Caplin v. Marine Midland Grace Trust Co.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p416">416</n>
-    <h>U.S. Supreme Court</h>
-    <h>Caplin v. Marine Midland Grace Trust Co., <a href="./us406-0416.xml#p416">406 U.S. 416</a> (1972)</h>
-    <h>Caplin v. Marine Midland Grace Trust Co. of New York</h>
-    <h>No. 70-220</h>
-    <h>Argued March 28, 1972</h>
-    <h>Decided May 22, 1972</h>
-    <h><a href="./us406-0416.xml#p416">406 U.S. 416</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SECOND CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Caplin v. Marine Midland Grace Trust Co., <a href="./us406-0416.xml#p416">406 U.S. 416</a> (1972)</h1>
+    <h2>Caplin v. Marine Midland Grace Trust Co. of New York</h2>
+    <h2>No. 70-220</h2>
+    <h4>Argued March 28, 1972</h4>
+    <h4>Decided May 22, 1972</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SECOND CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner, the trustee of Webb &amp; Knapp, Inc., under Chapter X of the Bankruptcy Act, does not have standing to assert, on behalf of holder of debentures issued by Webb &amp; Knapp, claims of misconduct by an indenture trustee. Pp. <a href="./us406-0416.xml#p417">406 U. S. 417</a>-435.</p>
     <p>439 F.2d 118, affirmed.</p>
     <p>MARSHALL, J., delivered the opinion of the Court, in which BURGER, C.J., and STEWART, POWELL, and REHNQUIST, JJ., joined. DOUGLAS, J., filed a dissenting opinion, in which BRENNAN, WHITE, and BLACKMUN, JJ., joined, post, p. <a href="./us406-0416.xml#p435">406 U. S. 435</a>.</p>
@@ -19,7 +19,7 @@
     <p>The sole issue in this case is whether petitioner, the trustee in reorganization of Webb &amp; Knapp, Inc., has standing under Chapter X of the Bankruptcy Act, 52 Stat. 883, 11 U.S.C. § 501 et seq., to assert, on behalf of persons holding debentures issued by Webb &amp; Knapp, claims of misconduct by an indenture trustee. The United States District Court for the Southern District</p>
     <n id="p417">417</n>
     <p>of New York held that petitioner lacked the requisite standing, and the United States Court of Appeals for the Second Circuit affirmed en banc, with two judges dissenting, 439 F.2d 118 (1971). [<a id="nf1" href="#fn1">Footnote 1</a>] We granted certiorari, 404 U.S. 982 (1971), and we now affirm the decision of the Court of Appeals.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Webb &amp; Knapp and its numerous subsidiaries were engaged in various real estate activities in both the United States and Canada. In 1954, the corporation executed an indenture with respondent, the Marine Midland Trust Company of New York (Marine), that provided for the issuance by Webb &amp; Knapp of 5% debentures in the total amount of $8,607,600. A critical part of the indenture was the promise by Webb &amp; Knapp that neither it nor any company affiliated with it [<a id="nf2" href="#fn2">Footnote 2</a>] would incur or assume</p>
     <p>"any indebtedness resulting from money borrowed or from the purchase of real property or interests in real property . . . or purchase any real property or interests in real property"</p>
     <p>unless the company's consolidated tangible assets, as defined in the indenture, equaled 200% of certain liabilities, after giving effect to the contemplated indebtedness or purchase. [<a id="nf3" href="#fn3">Footnote 3</a>]</p>
@@ -39,7 +39,7 @@
     <p>Marine moved to dismiss the independent action and the counterclaim, moved to strike the objection to the claim for services rendered, and opposed the motion to compel an accounting. The District Court found that petitioner had no standing in his capacity as a trustee in reorganization under Chapter X of the Bankruptcy Act to raise claims of misconduct by an indenture trustee on behalf of debenture holders and granted both of Marine's motions to dismiss. Viewing the motion to compel an accounting as merely a third vehicle to raise the same</p>
     <n id="p421">421</n>
     <p>claim on behalf of the debenture holders, the District Court denied that motion also. Only petitioner's objection to the claim for services rendered was left standing. [<a id="nf12" href="#fn12">Footnote 12</a>] Petitioner appealed the dismissal of his claims and the denial of his motion for an accounting to the Court of Appeals. Marine filed a cross-appeal from the denial of its motion to strike petitioner's objection to the claim for services rendered. The Court of Appeals affirmed the decision of the District Court in its entirety.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The issue confronting us has never before been presented to this Court. It is an issue that has only rarely been presented to other courts, and, on those rare occasions, it has caused even the most able jurists to disagree. The first time the issue arose was in Clarke v. Chase National Bank, 137 F.2d 797 (CA2 1943). Judge Augustus Hand wrote the opinion of the court holding that a trustee in reorganization did not have standing to sue a third party on behalf of bondholders. Judge Learned Hand disagreed and dissented. It is this decision that the lower courts found controlling in the instant case. The Clarke case is, in fact, the only other case in which the issue that is raised here was squarely presented. [<a id="nf13" href="#fn13">Footnote 13</a>]</p>
     <n id="p422">422</n>
     <p>The issue is a difficult one, and, as we point out later, it is one that is capable of resolution by explicit congressional action. Lacking a specific legislative statement on this issue, we must resolve it as best we can by examining the nature of Chapter X proceedings, the role of the trustee in reorganization, and the way in which standing to sue on behalf of debenture holders would affect or change that role.</p>
@@ -100,7 +100,7 @@
     <n id="p434">434</n>
     <p>holders upon request. Debenture holders would also be able to take advantage of any information obtained by the trustee in reorganization as a result of the investigation which the statute requires that he make. In addition, petitioner himself maintains that counsel fees would be recoverable if the action was successful. Brief for Petitioner 20; cf. 15 U.S.C. § 7nnn.</p>
     <p>Thus, there is no showing whatever that, by giving petitioner standing to sue on behalf of the debenture holders, we would reduce litigation. On the contrary, there is every indication that litigation would be increased, or at least complicated.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>For the reasons discussed above we conclude that petitioner does not have standing to sue an indenture trustee on behalf of debenture holders. This does not mean that it would be unwise to confer such standing on trustees in reorganization. It simply signifies that Congress has not yet indicated even a scintilla of an intention to do so, and that such a policy decision must be left to Congress, and not to the Judiciary.</p>
     <p>Congress might well decide that reorganizations have not fared badly in the 34 years since Chapter X was enacted, and that the status quo is preferable to inviting new problems by making changes in the system. Or Congress could determine that the trustee in a reorganization was so well situated for bringing suits against indenture trustees that he should be permitted to do so. In this event, Congress might also determine that the trustee's action was exclusive, or that it should be brought as a class action on behalf of all debenture holders, or perhaps even that the debenture holders should have the option of suing on their own or having the trustee sue on their behalf. Any number of alternatives are available. Congress would also be able to answer questions regarding subrogation or timing of law suits before these questions</p>
     <n id="p435">435</n>

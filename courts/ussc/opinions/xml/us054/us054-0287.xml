@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us054-0287.html" citation="54 U.S. 287" title="Taylor v. Doe">
   <opinion type="Opinions &amp; Dissents">
     <n id="p287">287</n>
-    <h>U.S. Supreme Court</h>
-    <h>Taylor v. Doe, 54 U.S. 287 (1851)</h>
-    <h>3 How. 287</h>
-    <h>Taylor v. Doe</h>
-    <h>54 U.S. (13 How.) 287</h>
-    <h>ERROR TO THE DISTRICT COURT OF THE UNITED</h>
-    <h>STATES FOR THE NORTHERN DISTRICT OF MISSISSIPPI</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Taylor v. Doe, 54 U.S. 287 (1851)</h1>
+    <h2>3 How. 287</h2>
+    <h2>Taylor v. Doe</h2>
+    <h2>54 U.S. (13 How.) 287</h2>
+    <h2>ERROR TO THE DISTRICT COURT OF THE UNITED</h2>
+    <h2>STATES FOR THE NORTHERN DISTRICT OF MISSISSIPPI</h2>
+    <h2>Syllabus</h2>
     <p>By the laws of Mississippi, deeds of trust and mortgages are valid as against creditors, and purchasers only from the time when they are recorded.</p>
     <p>A judgment is a lien from the time of its rendition.</p>
     <p>Therefore, where a judgment was rendered, in the interval between the execution and recording of a deed, it was a lien upon the land of the debtor.</p>

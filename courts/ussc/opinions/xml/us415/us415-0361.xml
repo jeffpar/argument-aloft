@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us415-0361.html" citation="415 U.S. 361" title="Johnson v. Robison">
   <opinion type="Opinions &amp; Dissents">
     <n id="p361">361</n>
-    <h>U.S. Supreme Court</h>
-    <h>Johnson v. Robison, <a href="./us415-0361.xml#p361">415 U.S. 361</a> (1974)</h>
-    <h>Johnson v. Robison</h>
-    <h>No. 72-1297</h>
-    <h>Argued December 11, 1973</h>
-    <h>Decided March 4, 1974</h>
-    <h><a href="./us415-0361.xml#p361">415 U.S. 361</a></h>
-    <h>APPEAL FROM THE UNITED STATES DISTRICT COURT</h>
-    <h>FOR THE DISTRICT OF MASSACHUSETTS</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Johnson v. Robison, <a href="./us415-0361.xml#p361">415 U.S. 361</a> (1974)</h1>
+    <h2>Johnson v. Robison</h2>
+    <h2>No. 72-1297</h2>
+    <h4>Argued December 11, 1973</h4>
+    <h4>Decided March 4, 1974</h4>
+    <h2>APPEAL FROM THE UNITED STATES DISTRICT COURT</h2>
+    <h2>FOR THE DISTRICT OF MASSACHUSETTS</h2>
+    <h2>Syllabus</h2>
     <p>Appellee, who had been exempted from military service as a Class I-O conscientious objector but who performed required alternative civilian service, after being denied educational benefits under the Veterans' Readjustment Benefits Act of 1966, brought this class action for a declaratory judgment that the provisions of the Act making him and his class ineligible for such benefits violated the First Amendment's guarantee of religious freedom and the Fifth Amendment's guarantee of equal protection of the laws. After denying appellants' motion to dismiss for lack of jurisdiction because of 38 U.S.C. § 211(a), which prohibits judicial review of decisions of the Administrator of Veterans' Affairs on any question of law or fact under laws administered by the Veterans' Administration providing for veterans' benefits, the District Court rejected appellee's First Amendment claim but sustained the Fifth Amendment claim.</p>
     <p>Held:</p>
     <p>1. Section 211(a) does not extend to actions challenging the constitutionality of veterans' benefits legislation, but is aimed at prohibiting review only of those decisions of law or fact arising in the administration of a statute providing for veterans' benefits, and hence is inapplicable to this action, neither the text of the statute nor its legislative history showing a contrary intent. Pp. <a href="./us415-0361.xml#p366">415 U. S. 366</a>-374</p>
@@ -38,7 +38,7 @@
     <p><a href="https://law.justia.com/cases/federal/district-courts/FSupp/352/848/2004793/">352 F. Supp. 848</a>, 862 (1973). [<a id="nf6" href="#fn6">Footnote 6</a>] We postponed</p>
     <n id="p366">366</n>
     <p>consideration of the question of jurisdiction in light of § 211(a) to the hearing on the merits, and set the case for oral argument with No. 72-700, Hernandez v. Veterans' Administration, post, p. <a href="./us415-0391.xml#p391">415 U. S. 391</a>. 411 U.S. 981 (1973). [<a id="nf7" href="#fn7">Footnote 7</a>] We hold, in agreement with the District Court, that § 211(a) is inapplicable to this action, and therefore that appellants' motion to dismiss for lack of jurisdiction of the subject matter was properly denied. On the merits, we agree that appellee's First Amendment claim is without merit, but disagree that §§ 1652(a)(1), 1661(a), and 101(21) violate the Fifth Amendment, and therefore reverse the judgment of the District Court.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>We consider first appellants' contention that § 211(a) bars federal courts from deciding the constitutionality of veterans' benefits legislation. Such a construction would, of course, raise serious questions concerning the constitutionality of § 211(a), [<a id="nf8" href="#fn8">Footnote 8</a>] and, in such case,</p>
     <p>"it is a</p>
     <n id="p367">367</n>
@@ -82,7 +82,7 @@
     <p>Thus, the 1970 amendment was enacted to overrule the interpretation of the Court of Appeals for the District of Columbia Circuit, and thereby restore vitality to the two primary purposes to be served by the no-review clause. Nothing whatever in the legislative history of the 1970 amendment, or predecessor no-review clauses, suggests any congressional intent to preclude judicial cognizance of constitutional challenges to veterans' benefits legislation. Such challenges obviously do not contravene the purposes of the no-review clause, for they cannot be expected to burden the courts by their volume, nor do they involve technical considerations of Veterans' Administration policy. We therefore conclude, in agreement with the District Court, that a construction of § 211(a) that does not extend the prohibitions of that section to actions challenging the constitutionality of laws providing benefits for veterans is not only "fairly possible," but is the most reasonable construction, for neither the text nor the scant legislative history of § 211(a) provides the "clear and convincing" evidence of congressional intent required by this Court before a</p>
     <n id="p374">374</n>
     <p>statute will be construed to restrict access to judicial review. See Abbott Laboratories v. Gardner, <a href="../us387/us387-0136.xml#p136">387 U. S. 136</a>, <a href="../us387/us387-0136.xml#p141">387 U. S. 141</a> (1967).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Turning to the merits, the District Court held that, by not including appellee and his class, the challenged sections of the Act create an arbitrary classification in violation of appellee's right to equal protection of the laws. In determining whether, in limiting the class of draftees entitled to benefits to those who serve their country on active duty in the Armed Forces, Congress denied equal protection of the laws to Selective Service registrants who perform alternative civilian service as conscientious objectors, [<a id="nf13" href="#fn13">Footnote 13</a>] our analysis of the classification proceeds on the basis that, although an individual's right to equal protection of the laws</p>
     <p>"does not deny . . . the power to treat different classes of persons in different ways[;] . . . [it denies] the power to legislate that different treatment be accorded to persons placed by a statute into different classes on the basis of criteria wholly unrelated to the objective of that statute. A classification"</p>
     <p>"must be reasonable, not arbitrary, and must rest upon some ground of difference having a fair and substantial relation to the object of the legislation, so that all persons similarly</p>
@@ -127,7 +127,7 @@
     <p>The two groups of draftees are, in fact, no similarly circumstanced. To be sure, a draftee, by definition, does not find educational benefits sufficient incentive to enlist. But military service with educational benefits is obviously more attractive to a draftee than military service without educational benefits. Thus, the existence of educational benefits may help induce a registrant either to volunteer for the draft or not to seek a lower Selective Service classification. [<a id="nf17" href="#fn17">Footnote 17</a>] Furthermore, once drafter, educational benefits may help make military service more palatable to a draftee, and thus reduce a draftee's unwillingness to be a soldier. On the other hand, because a</p>
     <n id="p383">383</n>
     <p>conscientious objector basis his refusal to serve in the Armed Forces upon deeply held religious beliefs, we will not assume that educational benefits will make military service more attractive to him. When, as in this case, the inclusion of one group promotes a legitimate governmental purpose, and the addition of other groups would not, we cannot say that the statute's classification of beneficiaries and nonbeneficiaries is invidiously discriminatory. [<a id="nf18" href="#fn18">Footnote 18</a>]</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Finally, appellee argues that the District Court erred in holding that "the challenged exclusion does not abridge [appellee's] free exercise of his religion." 352 F. Supp. at 860. He contends that the Act's denial of benefits to alternative service conscientious objectors interferes with his free exercise of religion by increasing the price he must pay for adherence to his religious beliefs. That contention must be rejected in light of our decision in Gillette v. United States, <a href="../us401/us401-0437.xml#p437">401 U. S. 437</a> (1971).</p>
     <p>There, the petitioners, conscientious objectors to particular wars, argued that § 6(j) of the Military Selective</p>
     <n id="p384">384</n>

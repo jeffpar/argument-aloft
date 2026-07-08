@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us402-0978.html" citation="402 U.S. 978" title="WASHINGTON v. U.S">
   <opinion type="Opinions &amp; Dissents">
     <n id="p978">978</n>
-    <h>U.S. Supreme Court</h>
-    <h>WASHINGTON v. U.S , <a href="./us402-0978.xml#p978">402 U.S. 978</a> (1971)</h>
-    <h>29 L. Ed. 2d 145 <a href="./us402-0978.xml#p978">402 U.S. 978</a></h>
-    <h>Othello WASHINGTON et ux. v. UNITED STATES. No. 11. </h>
-    <h>Supreme Court of the United States</h>
-    <h>May 17, 1971</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>WASHINGTON v. U.S, <a href="./us402-0978.xml#p978">402 U.S. 978</a> (1971)</h1>
+    <h2>29 L. Ed. 2d 145 <a href="./us402-0978.xml#p978">402 U.S. 978</a></h2>
+    <h2>Othello WASHINGTON et ux. v. UNITED STATES. No. 11.</h2>
+    <h2>Supreme Court of the United States</h2>
+    <h4>May 17, 1971</h4>
     <p>Rehearing Denied June 21, 1971.</p>
     <p>See 403 U.S. 940, 91 S. Ct. 2242.</p>
     <p>On petition for writ of certiorari to the United States Court of Appeals for the Fourth Circuit.</p>
@@ -28,7 +29,7 @@
     <p>Under these cases, therefore, there is substantial doubt whether the Government could constitutionally punish petitioner for his failure to register. [<a id="nf1" href="#fn1">Footnote 1</a>] By the same token,</p>
     <n id="p980">980</n>
     <p>I think there is a substantial question whether the affidavits supporting the search warrant were sufficient to establish probable cause to believe that petitioner had committed an offense which the Government could constitutionally prohibit. For the affidavits on their face gave reason to believe that petitioner's gambling activities were in violation of local law,2 and gave no reason to believe that petitioner would waive his right not to incriminate himself of such violations. I may assume that the Government, in showing probable cause to support a search warrant, need not negative any conceivable defense that might be raised by suspect. Cf. United States v. Ventresca, <a href="../us380/us380-0102.xml#p102">380 U.S. 102</a>, 107-109, 85 S. Ct. 741d 684 (1965). But where, as here, the affidavits in support of the warrant indicate the likely existence of an absolute defense to the crime charged that will be unavailing only if explicitly waived by the accused, it is surely not evident that the Fourth Amendment's requirement of probable cause to believe that an offense has been committed is satisfied. I would grant certiorari and set the case for argument.</p>
-    <h>Footnotes</h>
+    <h2>Footnotes</h2>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>
       <p>The Government does not dispute that petitioner's gambling activities were illegal under state law, and points to nothing in the record that would indicate petitioner would intelligently and knowingly waive his right against self-incrimination.</p>
     </f>

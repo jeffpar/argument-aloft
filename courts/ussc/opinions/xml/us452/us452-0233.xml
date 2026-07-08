@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us452-0233.html" citation="452 U.S. 233" title="American Express Co. v. Koerner">
   <opinion type="Opinions &amp; Dissents">
     <n id="p233">233</n>
-    <h>U.S. Supreme Court</h>
-    <h>American Express Co. v. Koerner, <a href="./us452-0233.xml#p233">452 U.S. 233</a> (1981)</h>
-    <h>American Express Co. v. Koerner</h>
-    <h>No. 80-202</h>
-    <h>Argued April 20, 1981</h>
-    <h>Decided June 8, 1981</h>
-    <h><a href="./us452-0233.xml#p233">452 U.S. 233</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE FIFTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>American Express Co. v. Koerner, <a href="./us452-0233.xml#p233">452 U.S. 233</a> (1981)</h1>
+    <h2>American Express Co. v. Koerner</h2>
+    <h2>No. 80-202</h2>
+    <h4>Argued April 20, 1981</h4>
+    <h4>Decided June 8, 1981</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE FIFTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Section 161(a) of the Truth in Lending Act (TILA), as added by the Fair Credit Billing Act, provides that, whenever a creditor sends an obligor a statement of the obligor's account "in connection with an extension of consumer credit" and the obligor believes that the statement contains a billing error, the obligor may send the creditor a written notice. If such a notice is sent, the creditor then must acknowledge receipt of it, investigate the matter, and either correct the account or send a written explanation of its belief that the original statement was correct. Section 103(h) of the TILA provides that the adjective "consumer," used with reference to a credit transaction, characterizes the transaction as one in which the party to whom credit is offered or extended "is a natural person" and the money, property, or services which are the subject of the transaction are "primarily for personal, family, household, or agricultural purposes." A corporation of which respondent is an officer applied to petitioner for a "company account" designed for business customers and asked petitioner to issue credit cards to respondent and other officers. Respondent was required to sign a "company account" form, agreeing to be jointly and severally liable with the company for all charges incurred through use of the card issued to him. Cards were issued on the company's credit rating. A dispute arose between the company and petitioner with respect to charges for flight insurance for certain business trips made by company employees and for renewal of cards that the company claimed were no longer desired, and the company refused to pay the amount in dispute. Company officers wrote to petitioner several times about this, but it does not appear that petitioner ever responded. Subsequently, when respondent attempted to use his company card, he was informed that the account had been canceled because of delinquency in payment. Respondent then filed an action in Federal District Court, alleging, inter alia, that petitioner had canceled the account because of respondent's company's refusal to pay the disputed charges, and seeking damages for petitioner's failure to comply with § 161(a). The District Court granted summary judgment for petitioner, holding that § 161(a) did</p>
     <n id="p234">234</n>
     <p>not apply to an account opened in the name of a corporation in reliance on the corporation's credit. The Court of Appeals reversed.</p>
@@ -20,7 +20,7 @@
     <p>BLACKMUN, J., delivered the opinion for a unanimous Court.</p>
     <p>JUSTICE BLACKMUN delivered the opinion of the Court.</p>
     <p>The question presented is whether a creditor must follow the requirements specified in 1974 by the Fair Credit Billing Act, Pub.L. 93-495, Tit. III, 88 Stat. 1511, for the correction of billing errors, when both a corporation and an individual officer are liable for a debt.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The Fair Credit Billing Act added a number of provisions to the Truth in Lending Act (TILA), Pub.L. 9321, Tit. I, 82 Stat. 146. A primary provision, and the one at issue in this case, is § 161(a), as so added. 88 Stat. 1512, 15 U.S.C. § 1666(a). [<a id="nf1" href="#fn1">Footnote 1</a>] This section applies whenever a creditor transmits</p>
     <n id="p235">235</n>
     <p>to an obligor "a statement of the obligor's account in connection with an extension of consumer credit." If the</p>
@@ -30,7 +30,7 @@
     <p>or two complete billing cycles, whichever is shorter, the creditor must investigate the matter and either make appropriate corrections in the obligor's account or send a written explanation of its belief that the original statement sent to the obligor was correct. The creditor must send its explanation before making any attempt to collect the disputed amount.</p>
     <p>A creditor that fails to comply with § 161(a) forfeits its right to collect the first $50 of the disputed amount, including finance charges. § 161(e), 15 U.S.C. § 1666(e). In addition, § 161(d) provides that, pursuant to regulations of the Federal Reserve Board, a creditor operating an "open end consumer credit plan" may not restrict or close an account due to an obligor's failure to pay a disputed amount until the creditor has sent the written explanation required by § 161(a).</p>
     <p>Every creditor under an "open end consumer credit plan" must disclose the protections available under § 161 to the obligor. This disclosure must occur at the time the account is opened and at semiannual intervals thereafter. See § 127(a)(8), 15 U.S.C. § 1637(a)(8).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>This case presents a dispute over the applicability of § 161. The relevant facts, as the District Court noted, are largely undisputed. on November 16, 1965, prior to the enactment of the TILA, John E. Koerner &amp; Co., Inc., applied for a credit card account with petitioner American Express Company. The application was for a "company account" designed for business customers. App. 27a. The Koerner Company asked American Express to issue cards bearing the company's name to respondent Louis R. Koerner, Sr., and four other officers of the corporation. Respondent was required to sign a "company account" form, agreeing that he would be jointly and severally liable with the company for all charges incurred through the use of the company card that was issued to him. Id. at 28a. American Express, before issuing the cards, investigated</p>
     <n id="p238">238</n>
     <p>the company's credit rating, but not that of respondent or the other officers.</p>
@@ -47,7 +47,7 @@
     <p>"If [American Express] can recover from a consumer, then it must abide by the requirements of [§ 161] for correction of billing errors in a consumer's credit card statement. The credit card company cannot have it both ways. . ."</p>
     <p>Id. at 195.</p>
     <p>Because of the significance of the issue in the enforcement of the TILA, we granted certiorari. 449 U.S. 1076 (1981).</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The threshold inquiry under § 161(a) is whether the creditor has transmitted to an obligor "a statement of the obligor's account in connection with an extension of consumer credit." If there has been no extension of "consumer credit," the section imposes no obligation upon a creditor, and the creditor is free to adopt its own procedures for responding to a customer's complaint about a billing error. We conclude that, on the undisputed facts of this case, respondent has failed to show that American Express has extended him "consumer credit" in any relevant transaction. Section 161(a), therefore, is not applicable to the dispute between these parties. [<a id="nf7" href="#fn7">Footnote 7</a>]</p>
     <p>In order for there to be an extension of consumer credit,</p>
     <n id="p241">241</n>
@@ -71,7 +71,7 @@
     <p>Inasmuch as the record establishes that there was no dispute between petitioner and respondent concerning "a statement of [respondent's] account in connection with an extension</p>
     <n id="p246">246</n>
     <p>of consumer credit," petitioner was not required to follow the procedures mandated by § 161(a)</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>Because Congress has restricted the operation of § 161(a) to disputes concerning extensions of consumer credit, and because the dispute between American Express and respondent did not concern an extension of consumer credit, the judgment of the Court of Appeals must be, and is, reversed.</p>
     <p>It is so ordered.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>

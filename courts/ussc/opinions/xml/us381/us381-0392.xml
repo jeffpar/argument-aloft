@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us381-0392.html" citation="381 U.S. 392" title="United Gas Improvement Co. v. Continental Oil Co.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p392">392</n>
-    <h>U.S. Supreme Court</h>
-    <h>United Gas Improvement Co. v. Continental Oil Co., <a href="./us381-0392.xml#p392">381 U.S. 392</a> (1965)</h>
-    <h>United Gas Improvement Co. v. Continental Oil Co.</h>
-    <h>No. 644</h>
-    <h>Argued April 28, 1965</h>
-    <h>Decided June 1, 1965<a href="./us381-0392.xml#p392">381 U.S. 392</a>ast|&gt;*</h>
-    <h><a href="./us381-0392.xml#p392">381 U.S. 392</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE FIFTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United Gas Improvement Co. v. Continental Oil Co., <a href="./us381-0392.xml#p392">381 U.S. 392</a> (1965)</h1>
+    <h2>United Gas Improvement Co. v. Continental Oil Co.</h2>
+    <h2>No. 644</h2>
+    <h4>Argued April 28, 1965</h4>
+    <h4>Decided June 1, 1965<a href="./us381-0392.xml#p392">381 U.S. 392</a>ast|&gt;*</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE FIFTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Texas Eastern, which operates an interstate natural gas transmission system, agreed with certain producers to purchase for resale in interstate commerce their natural gas production in a substantially developed field with proven reserves. Before the Federal Power Commission (FPC) acted on the examiner's recommendation that certificates be granted, the "Catco" case (Public Serv. Comm'n of New York v. FPC, 257 F.2d 717, affirmed sub nom. Atlantic Refining Co. v. Public Serv. Comm'n of New York, <a href="../us360/us360-0378.xml#p378">360 U. S. 378</a>) decided that the certificate applicants there involved had not satisfied their burden of justifying the natural gas sales price they proposed, which was lower than what Texas Eastern had agreed to pay. The parties here then framed a new plan in lieu of the previous conventional wellhead purchase arrangement, but the economic effect of which was much the same. They agreed that Texas Eastern would purchase the producers' leasehold interests, covering only natural gas and condensate, in the lands where the gas was located. The FPC, in proceedings reopened at Texas Eastern's request, issued it a certificate to build connecting pipeline facilities, and, in connection with objections that the leases were not justified, noted that it had no authority to issue a certificate authorizing the leases. Section 1(b) of the Natural Gas Act makes the Act applicable "to the sale in interstate commerce of natural gas for resale," but not "to the production or gathering of natural gas." On review of the FPC's action, the Court of Appeals for the District of Columbia Circuit set aside the certificate order and remanded the case on the ground that the FPC's opinion appeared to approve the pricing aspects of the gas lease acquisitions without evidentiary support. That the gas would be acquired by lease transactions not subject to FPC regulation was unimportant, the court thought, since FPC could regulate the purchaser through its certification authority over the connecting facilities. The FPC thereafter</p>
     <n id="p393">393</n>
     <p>reopened the proceedings and, concluding that it was not foreclosed by either its previous rulings or the Court of Appeals' mandate, decided that it had jurisdiction over the lease-sales. The FPC held that it would not be in the public interest to certificate the transaction, since it was not satisfied that the unit cost of the gas was reasonable, or could be accurately determined. The parties were given a period to reframe the transaction. Under the alternative appeal route provided by §19(b) of the Act, an appeal was taken to the Court of Appeals for the Fifth Circuit, which reversed on the ground that the FPC had no jurisdiction over leases, since they relate to the production and gathering of natural gas.</p>
@@ -30,7 +30,7 @@
     <p>In Phillips Petroleum Co. v. Wisconsin, <a href="../us347/us347-0672.xml#p672">347 U. S. 672</a>, the Court held that Federal Power Commission jurisdiction under the Natural Gas Act, as amended, 52 Stat. 821, 15 U.S.C. § 717 et seq. (1964 ed.), extended to what are described colloquially and perhaps somewhat loosely as "wellhead" sales of natural gas by producers to interstate</p>
     <n id="p395">395</n>
     <p>pipeline companies for resale in interstate commerce. The issue in the present cases is whether sales to an interstate pipeline company of leases covering proven and substantially developed reserves of gas to be sold in interstate commerce are also subject to Commission jurisdiction. We hold that they are.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In 1957, Texas Eastern, a natural gas company, which owns and operates an interstate transmission system extending from Texas to the Philadelphia-Newark area, executed gas purchase contracts with Continental Oil Company, M. H. Marr, Sun Oil Company, and General Crude Oil Company, to purchase their natural gas production in Rayne Field, Louisiana, at an initial price of 23.9� per Mcf. [<a id="nf1" href="#fn1">Footnote 1</a>] The producers applied to the Commission for certificates of public convenience and necessity authorizing them to sell their gas to Texas Eastern. Texas Eastern applied for a certificate permitting it to build new pipeline facilities to connect its system to Rayne Field. After a hearing, and in spite of objections by several intervenors to the 23.9� price, the examiner issued a decision recommending a grant of the requested certificates. However, before the Commission acted on the examiner's decision, the Court of Appeals for the Third Circuit handed down its decision in Public Serv. Comm. of State of New York v. FPC, 257 F.2d 717 [<a id="nf2" href="#fn2">Footnote 2</a>] (the "Catco" case), reversing an order of the Commission granting unconditional certificates for sales of natural gas on the ground that the certificate applicants had the burden of showing that the proposed sale price of 22.4� was justified by public convenience and necessity, and that the burden had not been sustained. Thereafter, the producers in the present case requested the Commission to permit withdrawal of their applications for sales to Texas Eastern at</p>
     <n id="p396">396</n>
     <p>23.9� (1.5� higher than the Catco price) and canceled the sales contracts. The parties then agreed on a different method for achieving their objectives.</p>
@@ -54,7 +54,7 @@
     <n id="p399">399</n>
     <p>was not subject to effective regulation because of the difficulty of estimating the unit price paid for the gas and the impossibility of providing continuing price regulation because of the one-shot nature of the sale, it ordered that the parties be given a six-month period in which to reframe the transaction so as to rectify these alleged infirmities.</p>
     <p>Appeal was taken not to the Court of Appeals for the District of Columbia Circuit, but to the Fifth Circuit pursuant to the alternative routes of appeal provided by § 19(b) of the Act. [<a id="nf6" href="#fn6">Footnote 6</a>] That court reversed. It interpreted this Court's decision in FPC v. Panhandle Eastern Pipe Line Co., <a href="../us337/us337-0498.xml#p498">337 U. S. 498</a>, as holding that leases such as those here involved "relate to the production or gathering of natural gas and are thus outside Commission jurisdiction. . . ." 336 F.2d 320, 325. Under this view, it was unnecessary for the court to decide whether the earlier decision of the Court of Appeals for the District of Columbia Circuit had established "the law of the case" on the jurisdictional question. We granted certiorari, 379 U.S. 958, because of the importance of the issue to the proper administration of the Natural Gas Act. It should be noted that no questions are before us relating to the propriety of the Commission's disposition of the case following its assertion of jurisdiction. It is only the jurisdictional question which we must answer. We reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Section 1(b) of the Natural Gas Act provides that</p>
     <p>"[t]he provisions of this Act shall apply . . . to the sale</p>
     <n id="p400">400</n>
@@ -79,7 +79,7 @@
     <n id="p404">404</n>
     <p>intrastate commerce. Hence, the Panhandle court did not have before it the present problem -- whether the transfer to an interstate pipeline company for transmission and resale in interstate commerce of proven and substantially developed gas reserves is subject to Commission jurisdiction. This was largely the problem which the Court later faced in Phillips and resolved in favor of jurisdiction.</p>
     <p>The language of Panhandle is unquestionably broad. But flat statements such as "[o]f course leases are an essential part of production," 337 U.S. at <a href="../us337/us337-0498.xml#p505">337 U. S. 505</a>, should not be taken to cover more than the particular kind of leases that were before the Court; it should not be considered as embracing each and every transfer that can be put in lease form. Concepts of stare decisis in statutory interpretation apply to the holdings with which the case-by-case method of decision surrounds a statute. To recognize no differences between the Panhandle transfers and those in issue here, and in the name of stare decisis to hold that Commission jurisdiction depends on the form, rather than the substance, of the transaction, would turn the case-by-case process against itself.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Because we differ with the court below on the jurisdictional issue, it is necessary for us to reach the question which the Fifth Circuit did not decide -- whether the mandate of the Court of Appeals for the District of Columbia Circuit or the prior ruling of the Commission established the law of the case.</p>
     <p>The original Commission order granting Texas Eastern a certificate to construct its connecting facilities proceeded on the basis that the Commission lacked authority to certificate the leasehold transfers. That question was not put in issue before the Court of Appeals for the District of Columbia Circuit. The opinion assumed its correctness</p>
     <n id="p405">405</n>

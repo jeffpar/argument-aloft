@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us407-0143.html" citation="407 U.S. 143" title="Adams v. Williams">
   <opinion type="Opinions &amp; Dissents">
     <n id="p143">143</n>
-    <h>U.S. Supreme Court</h>
-    <h>Adams v. Williams, <a href="./us407-0143.xml#p143">407 U.S. 143</a> (1972)</h>
-    <h>Adams v. Williams</h>
-    <h>No. 70-283</h>
-    <h>Argued April 10, 1972</h>
-    <h>Decided June 12, 1972</h>
-    <h><a href="./us407-0143.xml#p143">407 U.S. 143</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SECOND CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Adams v. Williams, <a href="./us407-0143.xml#p143">407 U.S. 143</a> (1972)</h1>
+    <h2>Adams v. Williams</h2>
+    <h2>No. 70-283</h2>
+    <h4>Argued April 10, 1972</h4>
+    <h4>Decided June 12, 1972</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SECOND CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Acting on a tip supplied moments earlier by an informant known to him, a police officer asked respondent to open his car door. Respondent lowered the window, and the officer reached into the car and found a loaded handgun (which had not been visible from the outside) in respondent's waistband, precisely where the informant said it would be. Respondent was arrested for unlawful possession of the handgun. A search incident to the arrest disclosed heroin on respondent's person (as the informant had reported), as well as other contraband in the car. Respondent's petition for federal habeas corpus relief was denied by the District Court. The Court of Appeals reversed, holding that the evidence that had been used in the trial resulting in respondent's conviction had been obtained by an unlawful search.</p>
     <p>Held: As Terry v. Ohio, <a href="../us392/us392-0001.xml#p1">392 U. S. 1</a>, recognizes, a policeman making a reasonable investigatory stop may conduct a limited protective search for concealed weapons when he has reason to believe that the suspect is armed and dangerous. Here, the information from the informant had enough indicia of reliability to justify the officer's forcible stop of petitioner and the protective seizure of the weapon, which afforded reasonable ground for the search incident to the arrest that ensued. Pp. <a href="./us407-0143.xml#p145">407 U. S. 145</a>-149.</p>
     <p>441 F.2d 394, reversed.</p>
@@ -90,7 +90,7 @@
       <p>In today's decision, the Court ignores the fact that Terry begrudgingly accepted the necessity for creating an exception from the warrant requirement of the Fourth Amendment and treats this case as if warrantless searches were the rule, rather than the "narrowly drawn" exception. This decision betrays the careful balance that Terry sought to strike between a citizen's right to privacy and his government's responsibility for effective law enforcement, and expands the concept of warrantless</p>
       <n id="p155">155</n>
       <p>searches far beyond anything heretofore recognized as legitimate. I dissent.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>A. The Court's opinion states the facts, and I repeat only those that appear to me to be relevant to the Fourth Amendment issues presented.</p>
       <p>Respondent was sitting on the passenger side of the front seat of a car parked on the street in a "high crime area" in Bridgeport, Connecticut, at 2:15 a.m. when a police officer approached his car. During a conversation that had just taken place nearby, the officer was told by an informant that respondent had narcotics on his person and that he had a gun in his waistband. The officer saw that the motor was not running, that respondent was seated peacefully in the car, and that there was no indication that he was about to leave the scene. After the officer asked respondent to open the door, respondent rolled down his window instead, and the officer reached into the car and pulled a gun from respondent's waistband. The officer immediately placed respondent under arrest for carrying the weapon, and searched him, finding heroin in his coat. More heroin was found in a later search of the automobile. Respondent moved to suppress both the gun and the heroin prior to trial. His motion was denied, and he was convicted of possessing both items.</p>
       <p>B. The Court erroneously attempts to describe the search for the gun as a protective search incident to a reasonable investigatory stop. But, as in Terry, Sibron and Peters, supra, there is no occasion in this case to determine whether or not police officers have a right to seize and to restrain a citizen in order to interrogate him. The facts are clear that the officer intended to make the search as soon as he approached the respondent. He asked no questions; he made no investigation; he simply searched.</p>
@@ -120,7 +120,7 @@
       <p>Even assuming that the officer had some legitimate reason for relying on the informant, Terry requires, before any stop and frisk is made, that the reliable information in the officer's possession demonstrate that the suspect is both armed and dangerous. [Footnote 2/8] The fact remains that</p>
       <n id="p160">160</n>
       <p>Connecticut specifically authorizes persons to carry guns so long as they have a permit. Thus, there was no reason for the officer to infer from anything that the informant said that the respondent was dangerous. His frisk was, therefore, illegal under Terry.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>Even if I could agree with the Court that the stop and frisk in this case was proper, I could not go further and sustain the arrest and the subsequent searches. It takes probable cause to justify an arrest and search and seizure incident thereto. Probable cause means that the</p>
       <p>"facts and circumstances before the officer are such as to warrant a man of prudence and caution in believing that the offence has been committed. . . ."</p>
       <p>Stacey v. Emery, <a href="../us097/us097-0642.xml#p642">97 U. S. 642</a>, <a href="../us097/us097-0642.xml#p645">97 U. S. 645</a> (1878). "[G]ood faith is not enough to constitute probable cause." Director General v. Kastenbaum, <a href="../us263/us263-0025.xml#p25">263 U. S. 25</a>, <a href="../us263/us263-0025.xml#p28">263 U. S. 28</a> (1923).</p>
@@ -129,7 +129,7 @@
       <p>was some sort of a tacit admission of guilt would be utterly absurd.</p>
       <p>It is simply not reasonable to expect someone to protest that he is not acting illegally before he is told that he is suspected of criminal activity. It would have been a simple matter for the officer to ask whether respondent had a permit, but he chose not to do so. In making this choice, he clearly violated the Fourth Amendment.</p>
       <p>This case marks a departure from the mainstream of our Fourth Amendment cases. In Johnson v. United States, <a href="../us333/us333-0010.xml#p10">333 U. S. 10</a> (1948), for example, the arresting officer had an informant's tip and actually smelled opium coming from a room. This Court still found the arrest unlawful. And in Spinelli v. United States, <a href="../us393/us393-0410.xml#p410">393 U. S. 410</a>, we found that there was no probable cause even where an informant's information was corroborated by personal observation. If there was no probable cause in those cases, I find it impossible to understand how there can be probable cause in this case.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>MR. JUSTICE DOUGLAS was the sole dissenter in Terry. He warned of the "powerful hydraulic pressures throughout our history that bear heavily on the Court to water down constitutional guarantees. . . ." 392 U.S. at <a href="../us392/us392-0001.xml#p39">392 U. S. 39</a>. While I took the position then that we were not watering down rights, but were hesitantly and cautiously striking a necessary balance between the rights of American citizens to be free from government intrusion into their</p>
       <n id="p162">162</n>
       <p>privacy and their government's urgent need for a narrow exception to the warrant requirement of the Fourth Amendment, today's decision demonstrates just how prescient MR. JUSTICE DOUGLAS was.</p>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us483-0669.html" citation="483 U.S. 669" title="United States v. Stanley">
   <opinion type="Opinions &amp; Dissents">
     <n id="p669">669</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Stanley, <a href="./us483-0669.xml#p669">483 U.S. 669</a> (1987)</h>
-    <h>United States v. Stanley</h>
-    <h>No. 86-393</h>
-    <h>Argued April 21, 1987</h>
-    <h>Decided June 25, 1987</h>
-    <h><a href="./us483-0669.xml#p669">483 U.S. 669</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE ELEVENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Stanley, <a href="./us483-0669.xml#p669">483 U.S. 669</a> (1987)</h1>
+    <h2>United States v. Stanley</h2>
+    <h2>No. 86-393</h2>
+    <h4>Argued April 21, 1987</h4>
+    <h4>Decided June 25, 1987</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE ELEVENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondent, a serviceman, volunteered for what was ostensibly a chemical warfare testing program, but in which he was secretly administered lysergic acid diethylamide (LSD) pursuant to an Army plan to test the effects of the drug on human subjects, whereby he suffered severe personality changes that led to his discharge and the dissolution of his marriage. Upon being informed by the Army that he had been given LSD, respondent filed a Federal Tort Claims Act (FTCA) suit. The District Court granted the Government summary judgment on the ground that the suit was barred by the doctrine of Feres v. United States, <a href="../us340/us340-0135.xml#p135">340 U. S. 135</a>, which precludes governmental FTCA liability for injuries to servicemen resulting from activity "incident to service." Although agreeing with this holding, the Court of Appeals remanded the case upon concluding that respondent had at least a colorable constitutional claim under the doctrine of Bivens v. Six Unknown Fed. Narcotics Agents, <a href="../us403/us403-0388.xml#p388">403 U. S. 388</a>, whereby a violation of constitutional rights can give rise to a damages action against the offending federal officials even in the absence of a statute authorizing such relief, unless there are "special factors counseling hesitation" or an "explicit congressional declaration" of another, exclusive remedy. Respondent then amended his complaint to add Bivens claims and attempted to resurrect his FTCA claim. Although dismissing the latter claim, the District Court refused to dismiss the Bivens claims, rejecting, inter alia, the Government's argument that the same considerations giving rise to the Feres doctrine should constitute "special factors" barring a Bivens action. Although it then vacated the portion of its order ruling on the Bivens claims, the court subsequently reaffirmed its Bivens decision as to the individual federal employee defendants, ruling that Chappell v. Wallace, <a href="../us462/us462-0296.xml#p296">462 U. S. 296</a>, despite its broadly stated holding that servicemen may not maintain damages actions against superior officers for alleged constitutional violations, only bars Bivens actions when the claimed wrongs involve direct orders in the performance of military duty and the discipline and order necessary thereto, factors that were not involved here. The court certified its order for interlocutory appeal under 28 U.S.C. § 1292(b), and the Court of Appeals affirmed the ruling on respondent's Bivens claims. Although the issue had not been addressed in the District Court's order,</p>
     <n id="p670">670</n>
     <p>the Court of Appeals also ruled that recent precedent indicated that respondent might now have a viable FTCA claim, and therefore remanded.</p>
@@ -46,7 +46,7 @@
     <n id="p676">676</n>
     <p>require adherence to the 1982 holding that Stanley's FTCA claim was barred by Feres. It remanded with instructions to the District Court to "allow Stanley the opportunity to amend to plead consistent with recent precedent." 786 F.2d at 1499.</p>
     <p>Because the Courts of Appeals have not been uniform in their interpretation of the holding in Chappell, [<a id="nf3" href="#fn3">Footnote 3</a>] and because the Court of Appeals' reinstatement of Stanley's FTCA claims seems at odds with sound judicial practice, we granted certiorari. 479 U.S. 1005 (1986).</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>We first address the Court of Appeals' instruction to the District Court to allow Stanley to replead his FTCA claim. While petitioners advance several reasons why that action was improper, and additional reasons can perhaps be found in our recent decision in United States v. Johnson, <a href="../us481/us481-0681.xml#p681">481 U. S. 681</a> (1987), we find it necessary to discuss only one. The case did not come before the Court of Appeals on appeal from a final decision of the District Court under 28 U.S.C. § 1291. Rather, the Court of Appeals had jurisdiction pursuant to § 1292(b), which provides:</p>
     <p>"When a district judge in making in a civil action an order not otherwise appealable under this section, shall be of the opinion that such order involves a controlling question of law as to which there is substantial ground for difference of opinion and that an immediate appeal from the order may materially advance the ultimate termination of the litigation, he shall so state in writing in</p>
     <n id="p677">677</n>
@@ -59,7 +59,7 @@
     <p>Brief for Respondent 17-18. The Court of Appeals' action is particularly astonishing in light of the fact that the United States was not even a party to the appeal, which involved only Stanley and the individual Bivens defendants (Stanley's Bivens claim against the United States having been dismissed</p>
     <n id="p678">678</n>
     <p>by the District Court in 1982). We vacate that portion of the Court of Appeals' judgment. [<a id="nf4" href="#fn4">Footnote 4</a>]</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>That leaves the Court of Appeals' ruling that Stanley can proceed with his Bivens claims notwithstanding the decision in Chappell. In our view, the court took an unduly narrow view of the circumstances in which courts should decline to permit nonstatutory damages actions for injuries arising out of military service.</p>
     <p>In Bivens, we held that a search and seizure that violates the Fourth Amendment can give rise to an action for damages against the offending federal officials even in the absence of a statute authorizing such relief. We suggested in dictum that inferring such an action directly from the Constitution might not be appropriate when there are "special factors counseling hesitation in the absence of affirmative action by Congress," 403 U.S. at <a href="../us403/us403-0388.xml#p396">403 U. S. 396</a>, or where there is an</p>
     <p>"explicit congressional declaration that persons injured by a federal officer's violation of the Fourth Amendment may not recover money damages from the agents, but must instead be remitted to another remedy, equally effective in the view of Congress."</p>
@@ -126,7 +126,7 @@
       <p>JUSTICE BRENNAN, with whom JUSTICE MARSHALL joins, and with whom JUSTICE STEVENS joins as to Part III, concurring in part and dissenting in part.</p>
       <p>In experiments designed to test the effects of lysergic acid diethylamide (LSD), the Government of the United States treated thousands of its citizens as though they were laboratory animals, dosing them with this dangerous drug without their consent. One of the victims, James B. Stanley, seeks compensation from the Government officials who injured him. The Court holds that the Constitution provides him with no remedy, solely because his injuries were inflicted while he performed his duties in the Nation's Armed Forces. If our Constitution required this result, the Court's decision, though legally necessary, would expose a tragic flaw in that document. But in reality, the Court disregards the commands of our Constitution, and bows instead to the purported requirements of a different master, military discipline, declining to provide Stanley with a remedy because it finds "special factors counseling hesitation." Bivens v. Six Unknown Fed. Narcotics Agents, <a href="../us403/us403-0388.xml#p388">403 U. S. 388</a>, <a href="../us403/us403-0388.xml#p396">403 U. S. 396</a> (1971). This is abdication, not hesitation. I dissent. [Footnote 2/1]</p>
       <n id="p687">687</n>
-      <h>I</h>
+      <h2>I</h2>
       <p>Before addressing the legal questions presented, it is important to place the Government's conduct in historical context. The medical trials at Nuremberg in 1947 deeply impressed upon the world that experimentation with unknowing human subjects is morally and legally unacceptable. The United States Military Tribunal established the Nuremberg Code as a standard against which to judge German scientists who experimented with human subjects. Its first principle was:</p>
       <p>"1. The voluntary consent of the human subject is absolutely essential."</p>
       <p>"* * * *"</p>
@@ -147,7 +147,7 @@
       <p>Having invoked national security to conceal its actions, the Government now argues that the preservation of military discipline requires that Government officials remain free to violate the constitutional rights of soldiers without fear of money damages. What this case and others like it demonstrate, however, is that Government officials (military or civilian) must not be left with such freedom. See, e.g., Jaffee v. United States, 663 F.2d 1226 (CA3 1981) (en banc) (exposure of soldiers to nuclear radiation during atomic weapons testing); Schnurman v. United States, <a href="https://law.justia.com/cases/federal/district-courts/FSupp/490/429/1905254/">490 F. Supp. 429</a> (ED</p>
       <n id="p690">690</n>
       <p>Va.1980) (exposure of unknowing soldier to mustard gas); Thornwell v. United States, <a href="https://law.justia.com/cases/federal/district-courts/FSupp/471/344/1805211/">471 F. Supp. 344</a> (DC 1979) (soldiers used to test the effects of LSD without their knowledge); cf. Barrett v. United States, No. 76 Civ. 381 (SDNY, May 5, 1987) (death of mental hospital patient used as the unconsenting subject of an Army experiment to test mescaline derivative). [Footnote 2/6]</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>Serious violations of the constitutional rights of soldiers must be exposed and punished. Of course, experimentation with unconsenting soldiers, like any constitutional violation, may be enjoined if and when discovered. An injunction, however, comes too late for those already injured; for these victims, "it is damages or nothing." Bivens, 403 U.S. at <a href="../us403/us403-0388.xml#p410">403 U. S. 410</a> (Harlan, J., concurring). The solution for Stanley and</p>
       <n id="p691">691</n>
       <p>other soldiers, as for any citizen, lies in a Bivens action -- an action for damages brought directly under the Constitution for the violation of constitutional rights by federal officials. But the Court today holds that no Bivens remedy is available for service-connected injuries, because "special factors counse[l] hesitation." Id. at <a href="../us403/us403-0388.xml#p396">403 U. S. 396</a>. The practical result of this decision is absolute immunity from liability for money damages for all federal officials who intentionally violate the constitutional rights of those serving in the military.</p>
@@ -198,7 +198,7 @@
       <n id="p700">700</n>
       <p>to government officials. See Butz, 438 U.S. at <a href="../us438/us438-0478.xml#p491">438 U. S. 491</a>. In addition, in Chappell v. Wallace, 462 U.S. at <a href="../us462/us462-0296.xml#p305">462 U. S. 305</a>, n. 2, the Court distinguished Wilkes, plainly indicating that Chappell did not hold that soldiers could never sue for service-connected injury inflicted by an intentional tort. Indeed, by preserving Wilkes, the Court suggested that even military officials would not always be absolutely immune from liability for such conduct.</p>
       <p>Although Chappell reveals that we have moved away from the common law rule in cases involving the command relationship between soldiers and their superiors, our immunity cases and a close analysis of Chappell, see infra this page and <a href="./us483-0669.xml#p701">483 U. S. 701</a>-707, reveal that there is no justification for straying further.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>A</p>
       <p>In Chappell, the Court created a narrow exception to the usual rule of qualified immunity for federal officials. Repeatedly referring to the "peculiar and special relationship of the soldier to his superiors,'" and to the need for "immediate compliance with military procedures and orders," the Court held that "enlisted military personnel may not maintain a suit to recover damages from a superior officer for alleged constitutional violations." 462 U.S. at <a href="../us462/us462-0296.xml#p300">462 U. S. 300</a>, <a href="../us462/us462-0296.xml#p305">462 U. S. 305</a> (quoting United States v. Brown, <a href="../us348/us348-0110.xml#p110">348 U. S. 110</a>, <a href="../us348/us348-0110.xml#p112">348 U. S. 112</a> (1954)). [Footnote 2/22] Although the Court concedes this central focus of Chappell, it gives short shrift to the obvious and important distinction between</p>
       <n id="p701">701</n>
@@ -225,7 +225,7 @@
       <p>providing "comprehensive," "meaningful," and "constitutionally adequate" remedies).</p>
       <p>Nonetheless, the Court finds Congress' activity (and inactivity) of particular significance here, because we are confronted with a constitutional authorization for Congress to "make Rules for the Government and Regulation of the land and naval Forces.'" Ante at 483 U.S. 679 (quoting U.S.Const. Art. I, § 8, cl. 14). First, the existence of a constitutional provision authorizing Congress to make intramilitary rules does not answer the question whether civilian federal officials are immune from damages in actions arising from service-connected injury. Second, any time Congress acts, it does so pursuant to either an express or implied grant of power in the Constitution. If a Bivens action were precluded any time Congress possessed a constitutional grant of authority to act in a given area, there would be no Bivens. In fact, many administrative agencies exist and function entirely at the pleasure of Congress, yet the Court has not hesitated to infer Bivens actions against these agencies' officials. This is so no matter how explicitly or frequently the Constitution authorizes Congress to act in a given area. Even when considering matters most clearly within Congress' constitutional authority, we have found that a Bivens action will lie. See Davis v. Passman, <a href="../us442/us442-0228.xml#p228">442 U. S. 228</a> (1979).</p>
       <p>In Chappell, the Court found that both the imperatives of military discipline and the congressional creation of constitutionally adequate remedies for the alleged violations constituted "special factors counseling hesitation," and refused to infer a Bivens action. In this case, the invocation of "military discipline" is hollow, and congressional activity nonexistent; a Bivens action must lie.</p>
-      <h>IV</h>
+      <h2>IV</h2>
       <p>"The soldier's case is instructive: subject to most unilateral discipline, forced to risk mutilation and death, conscripted without, perhaps against, his will -- he is still</p>
       <n id="p708">708</n>
       <p>conscripted with his capacities to act, to hold his own or fail in situations, to meet real challenges for real stakes. Though a mere 'number' to the High Command, he is not a token, and not a thing. (Imagine what he would say if it turned out that the war was a game staged to sample observations on his endurance, courage, or cowardice.)"</p>

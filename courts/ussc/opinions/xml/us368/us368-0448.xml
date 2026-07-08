@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us368-0448.html" citation="368 U.S. 448" title="Oyler v. Boles">
   <opinion type="Opinions &amp; Dissents">
     <n id="p448">448</n>
-    <h>U.S. Supreme Court</h>
-    <h>Oyler v. Boles, <a href="./us368-0448.xml#p448">368 U.S. 448</a> (1962)</h>
-    <h>Oyler v. Boles</h>
-    <h>No. 56</h>
-    <h>Argued December 4, 1961</h>
-    <h>Decided February 19, 1962<a href="./us368-0448.xml#p448">368 U.S. 448</a>ast|&gt;*</h>
-    <h><a href="./us368-0448.xml#p448">368 U.S. 448</a></h>
-    <h>CERTIORARI TO THE SUPREME COURT OF APPEALS OF WEST VIRGINIA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Oyler v. Boles, <a href="./us368-0448.xml#p448">368 U.S. 448</a> (1962)</h1>
+    <h2>Oyler v. Boles</h2>
+    <h2>No. 56</h2>
+    <h4>Argued December 4, 1961</h4>
+    <h4>Decided February 19, 1962<a href="./us368-0448.xml#p448">368 U.S. 448</a>ast|&gt;*</h4>
+    <h2>CERTIORARI TO THE SUPREME COURT OF APPEALS OF WEST VIRGINIA</h2>
+    <h2>Syllabus</h2>
     <p>West Virginia's habitual criminal statute provides for a mandatory life sentence upon the third conviction "of a crime punishable by confinement in a penitentiary." The increased penalty is to be invoked by an information filed by the prosecuting attorney "immediately upon conviction and before sentence." In such proceedings, in which they were represented by counsel and did not request continuances or raise any matters in defense, but did concede the applicability of the statute to the circumstances of their cases, petitioners were sentenced to life imprisonment. Subsequently they petitioned the State Supreme Court for writs of habeas corpus, alleging that the Act had been applied without advance notice and to only a minority of those subject to its provisions, in violation of the Due Process and Equal Protection Clauses of the Fourteenth Amendment. Their petitions were denied.</p>
     <p>Held:</p>
     <p>1. Due process does not require advance notice that the trial on the substantive offense will be followed by an habitual criminal accusation. It does require a reasonable opportunity to defend against such an accusation, but the records show that petitioners were not denied such an opportunity. Pp. <a href="./us368-0448.xml#p451">368 U. S. 451</a>-454.</p>
@@ -25,7 +25,7 @@
     <p>In 1957, Paul Crabtree, the petitioner in No. 57, pleaded guilty to forging a $35 check, which offense carried a penalty of from 2 to 10 years' imprisonment. Sentence was deferred, and, a week later, the Prosecuting Attorney informed the court that Crabtree had suffered two previous felony convictions, one in the State of Washington and one in West Virginia. The trial judge, after cautioning Crabtree of the effect of the information and</p>
     <n id="p451">451</n>
     <p>his rights under it, inquired if he was in fact the accused person. Crabtree, who had been represented by counsel throughout, admitted in open court that he was such person. Upon this admission and the accused's further statement that he had nothing more to say, the court proceeded to sentence him to life imprisonment. In 1960, Crabtree sought habeas corpus relief in the Supreme Court of Appeals, claiming denial of due process because of the absence of notice which prevented him from showing he had never been convicted in Walla Walla County, Washington, as had been alleged in the information. [<a id="nf4" href="#fn4">Footnote 4</a>] Like Oyler, he also raised the equal protection ground.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Petitioners recognize that the constitutionality of the practice of inflicting severer criminal penalties upon habitual offenders is no longer open to serious challenge; [<a id="nf5" href="#fn5">Footnote 5</a>] however, they contend that, in West Virginia, such penalties are being invoked in an unconstitutional manner. It is petitioners' position that procedural due process under the Fourteenth Amendment requires notice of the habitual criminal accusation before the trial on the third</p>
     <n id="p452">452</n>
     <p>offense, or at least in time to afford a reasonable opportunity to meet the recidivist charge.</p>
@@ -38,7 +38,7 @@
     <p>They assert, however, that they would have raised other defenses if they had been given adequate notice of the recidivist charges. It is, of course, true that identity is not the only issue presented in a recidivist proceeding, for, as pointed out by Mr. Justice Hughes (later Chief Justice) when this Court first reviewed West Virginia's habitual criminal law, this statute contemplates valid convictions which have not been subsequently nullified. Graham v. West Virginia, supra. A list of the more obvious issues</p>
     <n id="p454">454</n>
     <p>would also include such matters as whether the previous convictions are of the character contemplated by West Virginia's statute and whether the required procedure has been followed in invoking it. Indeed, we may assume that any infirmities in the prior convictions open to collateral attack could have been reached in the recidivist proceedings, either because the state law so permits [<a id="nf9" href="#fn9">Footnote 9</a>] or due process so requires. But this is a question we need not and do not decide, for neither the petitioners nor their counsel attempted during the recidivist proceedings to raise the issues which they now seek to raise or, indeed, any other issues. They were not, therefore, denied the right to do so. The petitioners' claim that they were deprived of due process because of inadequate opportunity to contest the habitual criminal accusation must be rejected in these cases. Each of the petitioners had a lawyer at his side, and neither the petitioners nor their counsel sought in any way to raise any matters in defense or intimated that a continuance was needed to investigate the existence of any possible defense. On the contrary, the record clearly shows that both petitioners personally and through their lawyers conceded the applicability of the law's sanctions to the circumstances of their cases.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Petitioners also claim they were denied the equal protection of law guaranteed by the Fourteenth Amendment. In his petition for a writ of habeas corpus to the Supreme Court of Appeals of West Virginia, Oyler stated:</p>
     <p>"Petitioner was discriminated against as an Habitual Criminal in that from January, 1940, to</p>
     <n id="p455">455</n>
@@ -49,7 +49,7 @@
     <p>"The said Statute are [sic] administered and applied in such a manner as to be in violation of Equal Protection and Equal Justice therefor in conflict with the Fourteenth Amendment to the Constitution of the United States."</p>
     <p>Thus, petitioners' contention is that the habitual criminal statute imposes a mandatory duty on the prosecuting authorities to seek the severer penalty against all persons coming within the statutory standards, but that it is done only in a minority of cases. [<a id="nf10" href="#fn10">Footnote 10</a>] This, petitioners</p>
     <n id="p456">456</n>
-    <p>argue, denies equal protection to those persons against whom the heavier penalty is enforced. We note that it is not stated whether the failure to proceed against other three-time offenders was due to lack of knowledge of the prior offenses on the part of the prosecutors or was the result of a deliberate policy of proceeding only in a certain class of cases or against specific persons. The statistics merely show that, according to penitentiary records, a high percentage of those subject to the law have not been proceeded against. There is no indication that these records of previous convictions, which may not have been compiled until after the three-time offenders had reached the penitentiary, were available to the prosecutors. [<a id="nf11" href="#fn11">Footnote 11</a>] Hence ,the allegations set out no more than a failure to prosecute others because of a lack of knowledge of their prior offenses. This does not deny equal protection due petitioners under the Fourteenth Amendment. See Sanders v. Waters, 199 F.2d 317 (C.A. 10th Cir. 1952); Oregon v. Hicks, 213 Or. 619, <a href="https://law.justia.com/cases/oregon/supreme-court/1958/213-or-619-3.html">325 P.2d 794</a> (1958).</p>
+    <p>argue, denies equal protection to those persons against whom the heavier penalty is enforced. We note that it is not stated whether the failure to proceed against other three-time offenders was due to lack of knowledge of the prior offenses on the part of the prosecutors or was the result of a deliberate policy of proceeding only in a certain class of cases or against specific persons. The statistics merely show that, according to penitentiary records, a high percentage of those subject to the law have not been proceeded against. There is no indication that these records of previous convictions, which may not have been compiled until after the three-time offenders had reached the penitentiary, were available to the prosecutors. [<a id="nf11" href="#fn11">Footnote 11</a>] Hence,the allegations set out no more than a failure to prosecute others because of a lack of knowledge of their prior offenses. This does not deny equal protection due petitioners under the Fourteenth Amendment. See Sanders v. Waters, 199 F.2d 317 (C.A. 10th Cir. 1952); Oregon v. Hicks, 213 Or. 619, <a href="https://law.justia.com/cases/oregon/supreme-court/1958/213-or-619-3.html">325 P.2d 794</a> (1958).</p>
     <p>Moreover, the conscious exercise of some selectivity in enforcement is not in itself a federal constitutional violation. Even though the statistics in this case might imply a policy of selective enforcement, it was not stated that the selection was deliberately based upon an unjustifiable standard such as race, religion, or other arbitrary classification. Therefore, grounds supporting a finding of a denial of equal protection were not alleged. Oregon v. Hicks, supra; cf. Snowden v. Hughes, <a href="../us321/us321-0001.xml#p1">321 U. S. 1</a> (1944); Yick Wo v. Hopkins, <a href="../us118/us118-0356.xml#p356">118 U. S. 356</a> (1886) (by implication).</p>
     <p>The other points raised by petitioners, such as the misstatement of the Washington county in which Crabtree</p>
     <n id="p457">457</n>

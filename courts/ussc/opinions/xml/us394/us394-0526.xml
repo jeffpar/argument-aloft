@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us394-0526.html" citation="394 U.S. 526" title="Kirkpatrick v. Preisler">
   <opinion type="Opinions &amp; Dissents">
     <n id="p526">526</n>
-    <h>U.S. Supreme Court</h>
-    <h>Kirkpatrick v. Preisler, <a href="./us394-0526.xml#p526">394 U.S. 526</a> (1969)</h>
-    <h>Kirkpatrick v. Preisler</h>
-    <h>No. 30</h>
-    <h>Argued January 13, 1969</h>
-    <h>Decided April 7, 1969<a href="./us394-0526.xml#p526">394 U.S. 526</a>ast|&gt;*</h>
-    <h><a href="./us394-0526.xml#p526">394 U.S. 526</a></h>
-    <h>APPEAL FROM THE UNITED STATES DISTRICT COURT</h>
-    <h>FOR THE WESTERN DISTRICT OF MISSOURI</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Kirkpatrick v. Preisler, <a href="./us394-0526.xml#p526">394 U.S. 526</a> (1969)</h1>
+    <h2>Kirkpatrick v. Preisler</h2>
+    <h2>No. 30</h2>
+    <h4>Argued January 13, 1969</h4>
+    <h4>Decided April 7, 1969<a href="./us394-0526.xml#p526">394 U.S. 526</a>ast|&gt;*</h4>
+    <h2>APPEAL FROM THE UNITED STATES DISTRICT COURT</h2>
+    <h2>FOR THE WESTERN DISTRICT OF MISSOURI</h2>
+    <h2>Syllabus</h2>
     <p>Missouri's 1967 congressional redistricting statute created districts which varied from the ideal, based on 1960 census figures, by 12,260 (2.84%) below to 13,542 (3.13%) above. The District Court found that the state legislature had not relied on the census reports, but used less accurate data, that it had rejected a plan with smaller variances, and that, by simply switching some counties from one district to another, it would have produced a plan with markedly reduced variances, and accordingly held that the statute did not meet the constitutional standard of equal representation "as nearly as practicable" and that the State failed to provide acceptable justification for the variances.</p>
     <p>Held:</p>
     <p>1. Art. I, § 2, requires that States create congressional districts which provide equal representation for equal numbers of people with</p>
@@ -39,7 +39,7 @@
     <n id="p530">530</n>
     <p>probable jurisdiction, but stayed the District Court's judgment pending appeal and expressly authorized the State "to conduct 1968 congressional elections under and pursuant to [the] 1967 . . . Act. . . ." 390 U.S. 939 (1968). We affirm.</p>
     <p>Missouri's primary argument is that the population variances among the districts created by the 1967 Act are so small that they should be considered de minimis, and, for that reason, to satisfy the "as nearly as practicable" limitation and not to require independent justification. Alternatively, Missouri argues that justification for the variances was established in the evidence: it is contended that the General Assembly provided for variances out of legitimate regard for such factors as the representation of distinct interest groups, the integrity of county lines, the compactness of districts, the population trends within the State, the high proportion of military personnel, college students, and other nonvoters in some districts, and the political realities of "legislative interplay."</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>We reject Missouri's argument that there is a fixed numerical or percentage population variance small enough to be considered de minimis and to satisfy without question the "as nearly as practicable" standard. The whole thrust of the "as nearly as practicable" approach is inconsistent with adoption of fixed numerical standards which excuse population variances without regard to the circumstances of each particular case. The extent to which equality may practicably be achieved may differ from State to State and from district to district. Since "equal representation for equal numbers of people [is] the fundamental goal for the House of Representatives," Wesberry v. Sanders, supra, at <a href="../us376/us376-0001.xml#p18">376 U. S. 18</a>, the "as nearly as practicable" standard requires that the State make a good faith effort to achieve precise mathematical</p>
     <n id="p531">531</n>
     <p>equality. See Reynolds v. Sims, <a href="../us377/us377-0533.xml#p533">377 U. S. 533</a>, 377 U.S. 577 (1964). Unless population variances among congressional districts are shown to have resulted despite such effort, the State must justify each variance, no matter how small.</p>
@@ -52,7 +52,7 @@
     <p>proponents of the 1967 Act frankly conceded at the District Court hearing that resort to the simple device of transferring entire political subdivisions of known population between contiguous districts would have produced districts much closer to numerical equality. The District Court found, moreover, that the Missouri Legislature relied on inaccurate data in constructing the districts, and that it rejected without consideration a plan which would have markedly reduced population variances among the districts. Finally, it is simply inconceivable that population disparities of the magnitude found in the Missouri plan were unavoidable. [<a id="nf2" href="#fn2">Footnote 2</a>] The New York apportionment plan of regions divided into districts of almost absolute population equality described in Wells v. Rockefeller, post at <a href="./us394-0542.xml#p545">394 U. S. 545</a>-546, provides striking evidence that a state legislature which tries can achieve almost complete numerical equality among all the State's districts. In sum, "it seems quite obvious that the State could have come much closer to providing districts of equal population than it did." Swann v. Adams, <a href="../us385/us385-0440.xml#p440">385 U. S. 440</a>, <a href="../us385/us385-0440.xml#p445">385 U. S. 445</a> (1967).</p>
     <p>We therefore turn to the question whether the record establishes any legally acceptable justification for the population variances. It was the burden of the State "to present . . . acceptable reasons for the variations among the populations of the various . . . districts. . . ." Swann v. Adams, supra, at <a href="../us385/us385-0440.xml#p443">385 U. S. 443</a>-444.</p>
     <n id="p533">533</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>We agree with the District Court that Missouri has not satisfactorily justified the population variances among the districts.</p>
     <p>Missouri contends that variances were necessary to avoid fragmenting areas with distinct economic and social interests, and thereby diluting the effective representation of those interests in Congress. But to accept population variances, large or small, in order to create districts with specific interest orientations is antithetical to the basic premise of the constitutional command to provide equal representation for equal numbers of people.</p>
     <p>"[N]either history alone, nor economic or other sorts of group interests, are permissible factors in attempting to justify disparities from population-based representation. Citizens, not history or economic interests, cast votes."</p>

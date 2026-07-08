@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us498-0337.html" citation="498 U.S. 337" title="McDermott Int'l, Inc. v. Wilander">
   <opinion type="Opinions &amp; Dissents">
     <n id="p337">337</n>
-    <h>U.S. Supreme Court</h>
-    <h>McDermott Int'l, Inc. v. Wilander, <a href="./us498-0337.xml#p337">498 U.S. 337</a> (1991)</h>
-    <h>McDermott International, Inc. v. Wilander</h>
-    <h>No. 89-1474</h>
-    <h>Argued Dec. 3, 1990</h>
-    <h>Decided Feb. 19, 1991</h>
-    <h><a href="./us498-0337.xml#p337">498 U.S. 337</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE FIFTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>McDermott Int'l, Inc. v. Wilander, <a href="./us498-0337.xml#p337">498 U.S. 337</a> (1991)</h1>
+    <h2>McDermott International, Inc. v. Wilander</h2>
+    <h2>No. 89-1474</h2>
+    <h4>Argued Dec. 3, 1990</h4>
+    <h4>Decided Feb. 19, 1991</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE FIFTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondent Wilander, a paint foreman injured at work while assigned to a "paint boat" chartered by petitioner McDermott International, sued McDermott under the Jones Act. The Act provides a cause of action in negligence for "any seaman" injured "in the course of his employment," but does not define "seaman." McDermott moved for summary judgment, alleging that, as a matter of law, Wilander was not a "seaman." The District Court denied the motion, and the jury entered an award for Wilander, finding, inter alia, that the performance of his duties contributed to his vessel's function or to the accomplishment of its mission, and therefore satisfied the Fifth Circuit's test for seaman status. The Fifth Circuit affirmed, refusing to abandon its test in favor of the Seventh Circuit's more stringent standard, which, in effect, requires that a "seaman" aid in the navigation of the vessel.</p>
     <p>Held: One need not aid in the navigation of a vessel in order to qualify as a "seaman" under the Jones Act. Pp. <a href="./us498-0337.xml#p341">498 U. S. 341</a>-357.</p>
     <p>(a) In the absence of contrary indication, it may be assumed that the Jones Act's failure to define "seaman" indicates a congressional intent that the word have its established meaning under general maritime law at the time of the Act's passage. Pp. <a href="./us498-0337.xml#p341">498 U. S. 341</a>-342.</p>
@@ -27,7 +27,7 @@
     <n id="p339">339</n>
     <p>Justice O'CONNOR delivered the opinion of the Court.</p>
     <p>The question in this case is whether one must aid in the navigation of a vessel in order to qualify as a "seaman" under the Jones Act, 46 U.S.C.App. § 688.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Jon Wilander worked for McDermott International as a paint foreman. His duties consisted primarily of supervising the sandblasting and painting of various fixtures and piping located on oil drilling platforms in the Persian Gulf. On July 4, 1983, Wilander was inspecting a pipe on one such platform when a bolt serving as a plug in the pipe blew out under pressure, striking, Wilander in the head. At the time, Wilander was assigned to the American-flag vessel M/V Gates Tide, a "paint boat" chartered to McDermott that contained equipment used in sandblasting and painting the platforms.</p>
     <p>Wilander sued McDermott in the United States District Court for the Western District of Louisiana, seeking recovery under the Jones Act for McDermott's negligence related to the accident. McDermott moved for summary judgment, alleging that, as a matter of law, Wilander was not a "seaman" under the Jones Act, and therefore not entitled to recovery. The District Court denied the motion. App. 19. In a bifurcated trial, the jury first determined Wilander's status as a seaman. By special interrogatory, the jury found that Wilander was either permanently assigned to, or performed a substantial amount of work aboard, the Gates Tide, and that the performance of his duties contributed to the</p>
     <n id="p340">340</n>
@@ -36,7 +36,7 @@
     <p>The United States Court of Appeals for the Fifth Circuit affirmed the determination of seaman status, finding sufficient evidence to support the jury's finding under the Robison test. 887 F.2d 88, 90 (1989). McDermott asked the court to reject the Robison requirement that a seaman "contribut[e] to the function of the vessel or to the accomplishment of its mission," Robison, supra, at 779, in favor of the more stringent requirement of Johnson v. John F. Beasley Construction Co., 742 F.2d 1054 (CA7 1984). In that case, the Court of Appeals for the Seventh Circuit -- relying on cases from this Court requiring that a seaman aid in the navigation of a vessel -- held that seaman status under the Jones Act may be conferred only on employees who make "a significant contribution to the maintenance, operation, or welfare of the transportation function of the vessel." Id. at 1063 (emphasis added).</p>
     <p>The Fifth Circuit here concluded that Wilander would not meet the requirements of the Johnson test, but reaffirmed the rule in Robison and held that Wilander was a "seaman" under the Jones Act. 887 F.2d at 90-91. We granted certiorari, 496 U.S. 935 (1990), to resolve the conflict between the Robison and Johnson tests on the issue of the transportation/navigation function requirement, and now affirm.</p>
     <n id="p341">341</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>A</p>
     <p>In 1903, in The Osceola, <a href="../us189/us189-0158.xml#p158">189 U. S. 158</a>, this Court summarized the state of seamen's remedies under general maritime law. Writing for the Court, Justice Brown reviewed the leading English and American authorities and declared the law settled on several propositions:</p>
     <p>"1. That the vessel and her owners are liable, in case a seaman falls sick, or is wounded, in the service of the ship, to the extent of his maintenance and cure, and to his wages, at least so long as the voyage is continued."</p>
@@ -96,7 +96,7 @@
     <n id="p348">348</n>
     <p>handed down Seas Shipping Co. v. Sieracki, <a href="../us328/us328-0085.xml#p85">328 U. S. 85</a> (1946). With reasoning remarkably similar to that in Haverty, the Court extended to a stevedore the traditional seamen's remedy of unseaworthiness in those cases where the stevedore "is doing a seaman's work and incurring a seaman's hazards." Id. at <a href="../us328/us328-0085.xml#p99">328 U. S. 99</a>. It took Congress a bit longer to react this time. In 1972, Congress amended the LHWCA to bar longshore and harbor workers from recovery for breach of the duty of seaworthiness. See 86 Stat. 1263, 33 U.S.C. § 905(b); Miles v. Apex Marine Corp., <a href="./us498-0019.xml#p19">498 U. S. 19</a>, <a href="./us498-0019.xml#p28">498 U. S. 28</a> (1990). Whether under the Jones Act or general maritime law, seamen do not include land-based workers.</p>
     <p>The LHWCA does not change the rule that a seaman need not aid in navigation. "Member of a crew" and "seaman" are closely related terms. Indeed, the two were often used interchangeably in general maritime cases. See, e.g., The Osceola, 189 U.S. at <a href="../us189/us189-0158.xml#p175">189 U. S. 175</a>; The Buena Ventura, 243 F. 797, 799 (SDNY 1916). There is nothing in these cases, or the LHWCA, to indicate that members of a crew are required to navigate. The "member of a crew" exception in the LHWCA overrules Haverty; "master or member of a crew" restates who a "seaman" under the Jones Act is supposed to be: a sea-based maritime employee.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The source of the conflict we resolve today is this Court's inconsistent use of an aid in navigation requirement. The inconsistency arose during the 19 years that passed between the enactment of the LHWCA in 1927 and the decision in Swanson in 1946 -- 19 years during which the Court did not recognize the mutual exclusivity of the LHWCA and the Jones Act. Thus, Jamison v. Encarnacion, <a href="../us281/us281-0635.xml#p635">281 U. S. 635</a>, <a href="../us281/us281-0635.xml#p639">281 U. S. 639</a> (1930), and Uravic v. F. Jarka Co., <a href="../us282/us282-0234.xml#p234">282 U. S. 234</a>, <a href="../us282/us282-0234.xml#p238">282 U. S. 238</a> (1931), decided after passage of the LHWCA but before Swanson, reiterated the Haverty rule that stevedores are covered under the Jones Act. In <a href="../us293/us293-0155.xml#p155">Warner v. Goltra</a>, 293</p>
     <n id="p349">349</n>
     <p>U.S. 155 (1934), the Court held that the master of a vessel is a "seaman" under the Act. In so holding, the Court relied on the salutary principle that statutory language "must be read in the light of the mischief to be corrected and the end to be attained." Id. at <a href="../us293/us293-0155.xml#p158">293 U. S. 158</a>. As the Jones Act is a remedial statute, there is no reason that the master of a vessel who suffers a maritime injury should be any less protected than a crew member. Id. at <a href="../us293/us293-0155.xml#p162">293 U. S. 162</a>. All of this was unnecessary, of course. Had the Court recognized, as it did subsequently in Swanson, that the LHWCA further defines Jones Act coverage, the answer was to be found in the plain language of "master or member of a crew of any vessel."</p>
@@ -127,7 +127,7 @@
     <p>Following Butler, we accepted no more of these cases, relegating to the lower courts the task of making some sense of the confusion left in our wake. Our wayward case law has led the lower courts to a "myriad of standards and lack of uniformity in administering the elements of seaman status." Engerrand &amp; Bale, 24 S.Tex.L.J., at 494. The Seventh Circuit expressed its frustration well:</p>
     <p>"Diderot may very well have had the previous Supreme Court cases in mind when he wrote, 'We have made a labyrinth and got lost in it. We must find our way out.'"</p>
     <p>Johnson, 742 F.2d at 1060. One of the problems that this Court's Jones Act cases present to the lower courts is that the sundry jobs performed by the seamen in the cases of the late 1950s will not lie with any rational conception of aid in navigation.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>We think the time has come to jettison the aid in navigation language. That language, which had long been rejected by admiralty courts under general maritime law, and by this Court in Warner, a Jones Act case, slipped back in through an interpretation of the LHWCA at a time when the LHWCA had nothing to do with the Jones Act.</p>
     <p>We now recognize that the LHWCA is one of a pair of mutually exclusive remedial statutes that distinguish between land-based and sea-based maritime employees. The LHWCA restricted the definition of "seaman" in the Jones Act only to the extent that "seaman" had been taken to include</p>
     <n id="p354">354</n>
@@ -140,7 +140,7 @@
     <n id="p355">355</n>
     <p>determined that, regardless of its language, this Court was no longer requiring that seamen aid in navigation. Id. at 776. As part of its test for seaman status, Robison requires that a seaman's duties "contribut[e] to the function of the vessel or to the accomplishment of its mission." Id. at 779.</p>
     <p>The key to seaman status is employment-related connection to a vessel in navigation. We are not called upon here to define this connection in all details, but we hold that a necessary element of the connection is that a seaman perform the work of a vessel. See Maryland Casualty Co. v. Lawson, 94 F.2d 190, 192 (CA5 1938) ("There is implied a definite and permanent connection with the vessel, an obligation to forward her enterprise"), cited approvingly in Norton, 321 U.S. at <a href="../us321/us321-0573.xml#p573">321 U. S. 573</a>. In this regard, we believe the requirement that an employee's duties must "contribut[e] to the function of the vessel or to the accomplishment of its mission" captures well an important requirement of seaman status. It is not necessary that a seaman aid in navigation or contribute to the transportation of the vessel, but a seaman must be doing the ship's work.</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>Jon Wilander was injured while assigned to the Gates Tide as a paint foreman. He did not aid in the navigation or transportation of the vessel. The jury found, however, that Wilander contributed to the more general function or mission of the Gates Tide, and subsequently found that he was a "seaman" under the Jones Act. McDermott argues that the question should not have been given to the jury. The company contends that, as a matter of law, Wilander is not entitled to Jones Act protection because he did not aid in navigation by furthering the transportation of the Gates Tide.</p>
     <p>We have said that seaman status under the Jones Act is a question of fact for the jury. In Bassett, an LHWCA case, the Court held that Congress had given to the deputy commissioner, an administrative officer, the authority to determine who is a "member of a crew" under the LHWCA. 309</p>
     <n id="p356">356</n>

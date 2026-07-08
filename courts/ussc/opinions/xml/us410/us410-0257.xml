@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us410-0257.html" citation="410 U.S. 257" title="United States v. Chandler">
   <opinion type="Opinions &amp; Dissents">
     <n id="p257">257</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Chandler, <a href="./us410-0257.xml#p257">410 U.S. 257</a> (1973)</h>
-    <h>United States v. Chandler</h>
-    <h>No. 72-438</h>
-    <h>Decided January 22, 1973</h>
-    <h><a href="./us410-0257.xml#p257">410 U.S. 257</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Chandler, <a href="./us410-0257.xml#p257">410 U.S. 257</a> (1973)</h1>
+    <h2>United States v. Chandler</h2>
+    <h2>No. 72-438</h2>
+    <h4>Decided January 22, 1973</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>United States Savings Bonds are includable for federal estate tax purposes in the gross estate of a decedent registered co-owner who, with donative intent, had delivered the bonds to the other co-owners but who had not complied with applicable Treasury Department regulations for making inter vivos transfers of such bonds by having them reissued in the names of the other co-owners alone.</p>
     <p>Certiorari granted; 460 F.2d 1281, reversed.</p>
     <p>PER CURIAM.</p>
@@ -19,13 +19,13 @@
     <n id="p258">258</n>
     <p>are other decisions to like effect. Estate of Elliott v. Commissioner, 57 T.C. 152 (1971), reviewed by the court and now pending on appeal to the Fifth Circuit; Chambliss v. United States, 71 U.S.T.C. � 12,655, 25 A.F.T.R.2d 70-1512 (SC 1970). The Third Circuit, however, previously had ruled sweepingly along the lines followed by the Ninth Circuit here. Silverman v. McGinnes, 29 F.2d 731 (1958).</p>
     <p>We grant certiorari and reverse.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The decedent, Mary E. Baum, purchased several United States Savings Bonds, Series E, in 1954. She had them issued in the familiar co-ownership form. Some were in the names of Mrs. Baum "or" Patricia Ritter, a granddaughter. Others were in the names of Mrs. Baum "or" Beatrice Baum, another granddaughter. In 1961, the decedent delivered these bonds to the respective granddaughters, with the intention of making complete, irrevocable, inter vivos gifts. [<a id="nf1" href="#fn1">Footnote 1</a>]</p>
     <p>Mrs. Baum died in 1962. At her death the bonds were still in the original co-ownership form. They had not been redeemed. Neither had they been reissued, as they might have been under the applicable regulations, in the names of the respective granddaughters as sole owners.</p>
     <p>The respondents, who are executors of the decedent's will, disclosed the bonds in the federal estate tax return filed for the decedent's estate, but did not include them in the gross estate. On audit, the Internal Revenue Service ruled that the bonds were includable. A resulting</p>
     <n id="p259">259</n>
     <p>deficiency in estate tax was assessed and was paid by the respondents. The present suit for refund of the tax attributable to the inclusion of the bonds was instituted in due course.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Section 2040 is the governing statute. At the time of the decedent's death, the section provided that there shall be included in a decedent's gross estate, with exceptions not here pertinent,</p>
     <p>"the value of all property . . . to the extent of the interest therein held as joint tenants by the decedent and any other person . . . in their joint names and payable to either or the survivor. . . ."</p>
     <p>Title 31 U.S.C. § 757c(a) [<a id="nf2" href="#fn2">Footnote 2</a>] authorizes the Secretary of the Treasury to issue United States Savings Bonds</p>
@@ -40,7 +40,7 @@
     <p>Section 315.15 imposed a limitation on transfer: "Savings Bonds are not transferable . . . except as specifically provided in the regulations. . . ." Section 315.20(a) stated, "No judicial determination will be recognized which would give effect to an attempted voluntary transfer inter vivos of a bond. . . ." Section 315.60 provided that a savings bond registered in co-ownership form will be paid, during the lives of both co-owners, "to either upon his separate request," in which case the other "shall cease to have any interest in the bond," or will be reissued, during the lives of both co-owners, upon the request of both, in the "name of either, alone or with a new co-owner or beneficiary," if, in the case of reissuance, the co-owners possessed one of a number of specifically enumerated relationships, including "grandparent and grandchild."</p>
     <p>Section 351.61 related to payment or reissue after the death of a co-owner. The survivor is recognized "as the sole and absolute owner," and payment or reissue is "made as though the bond were registered in the name of the survivor alone," except that the request must be supported by proof of death of the other co-owner.</p>
     <p>The regulations thus made the jointly issued bond nontransferable, in itself, and permitted a change in ownership, so long as both co-owners were alive, only through reissuance at the request of both co-owners.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Mary E. Baum, the decedent here, whatever the reason may have been, chose not to have the bonds in question reissued in the names of her granddaughters, as she might have done pursuant to the applicable regulations. Instead, she merely delivered the bonds to the granddaughters with donative intent. Our issue is</p>
     <n id="p261">261</n>
     <p>whether that delivery, accompanied by that donative intent, was sufficient to remove the bonds from the decedent's gross estate. We conclude that it was not.</p>

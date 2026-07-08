@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us601-22-448.html" citation="601 U.S. 22-448" title="Consumer Financial Protection Bureau v. Community Financial Services Assn. of America, Ltd.">
   <opinion type="Opinion" author="Thomas">
     <p>NOTICE: This opinion is subject to formal revision before publication in the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, pio@supremecourt.gov, of any typographical or other formal errors.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 22–448</p>
-    <p>_________________</p>
     <p>CONSUMER FINANCIAL PROTECTION BUREAU, et al., PETITIONERS v. COMMUNITY FINANCIAL SERVICES ASSOCIATION OF AMERICA, LIMITED, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the fifth circuit</p>
     <p>[May 16, 2024]</p>
@@ -76,9 +75,7 @@
   </opinion>
   <opinion type="Concurrence" author="Kagan">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 22–448</p>
-    <p>_________________</p>
     <p>CONSUMER FINANCIAL PROTECTION BUREAU, et al., PETITIONERS v. COMMUNITY FINANCIAL SERVICES ASSOCIATION OF AMERICA, LIMITED, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the fifth circuit</p>
     <p>[May 16, 2024]</p>
@@ -93,9 +90,7 @@
   </opinion>
   <opinion type="Concurrence" author="Jackson">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 22–448</p>
-    <p>_________________</p>
     <p>CONSUMER FINANCIAL PROTECTION BUREAU, et al., PETITIONERS v. COMMUNITY FINANCIAL SERVICES ASSOCIATION OF AMERICA, LIMITED, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the fifth circuit</p>
     <p>[May 16, 2024]</p>
@@ -108,9 +103,7 @@
   </opinion>
   <opinion type="Dissent" author="Alito">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 22–448</p>
-    <p>_________________</p>
     <p>CONSUMER FINANCIAL PROTECTION BUREAU, et al., PETITIONERS v. COMMUNITY FINANCIAL SERVICES ASSOCIATION OF AMERICA, LIMITED, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the fifth circuit</p>
     <p>[May 16, 2024]</p>
@@ -168,7 +161,7 @@
     <p>As the previous discussion shows, today’s case turns on a simple question: Is the CFPB financially accountable to Congress in the way the Appropriations Clause demands? History tells us it is not. As we said in Seila Law, “ ‘[p]erhaps the most telling indication of [a] severe constitutional problem’ with an executive entity ‘is [a] lack of historical precedent’ to support it.” 591 U. S., at 220 (quoting Free Enterprise Fund v. Public Company Accounting Oversight Bd., <a href="../us561/us561-0477.xml#p477">561 U.S. 477</a>, 505 (2010)). And the Government agrees with this principle. In its briefing and at argument, the Government admitted that an utterly unprecedented funding scheme would raise a serious constitutional problem. Reply Brief 18; Tr. of Oral Arg. 11, 26. The Government therefore attempts to show that there is ample precedent for the CFPB scheme, but that effort fails.</p>
     <p>The CFPB’s funding scheme contains the following features: (1) it applies in perpetuity; (2) the CFPB has discretion to select the amount of funding that it receives, up to a statutory cap; (3) the funds taken by the CFPB come from other entities; (4) those entities are self-funded corporations that obtain their funding from fees on private parties, “not departments of the Government,” Emergency Fleet Corp., 275 U. S., at 426; (5) the CFPB is not required to return unspent funds or transfer them to the Treasury; and (6) those funds may be placed in a separate fund that earns interest and may be used to pay the CFPB’s expenses in the future. At argument, the Government was unable to cite any other agency with a funding scheme like this, see Tr. of Oral Arg. 31–33, 39–41, and thus no other agency—old or new—has enjoyed so many layers of insulation from accountability to Congress.</p>
     <p>The Government points to the Post Office and the Customs Service as founding-era precedents for the CFPB, but the analogy is flawed. As noted, funding Government agencies with fees charged to the beneficiaries of their services has long been viewed as consistent with the appropriations requirement. And both the Post Office and the Customs Service fell comfortably into that category.</p>
-    <p>A quick look at the laws that set up the Post Office and the Customs Service shows that they were nothing like the CFPB. In the Act establishing the Post Office, Congress gave that agency a narrow and specific mission: to “provide for carrying the mail of the United States.” See, e.g., Act of Feb. 20, 1792, §3, 1Stat. 234. The Postmaster’s discretionary authority was modest. (He could, for example, decide whether mail should be carried on particular routes “by stage carriages or horses.” Ibid.) The Act specified in minute detail the fees that could be collected from those who used the Post Office’s services. §9, id., at 235. And it required the Postmaster “to render to the secretary of the treasury, a quarterly account of all the receipts and expenditures” and to “pay quarterly, into the treasury . . . , the balance in his hands.” §4, id., at 234. Under this arrangement, Congress controlled the amount that the Post Office took in (i.e., the sum total of the fees specified by law) and how those fees were to be spent (i.e., to provide for carrying the mail).</p>
+    <p>A quick look at the laws that set up the Post Office and the Customs Service shows that they were nothing like the CFPB. In the Act establishing the Post Office, Congress gave that agency a narrow and specific mission: to “provide for carrying the mail of the United States.” See, e.g., Act of Feb. 20, 1792, §3, 1Stat. 234. The Postmaster’s discretionary authority was modest. (He could, for example, decide whether mail should be carried on particular routes “by stage carriages or horses.” Ibid.) The Act specified in minute detail the fees that could be collected from those who used the Post Office’s services. §9, id., at 235. And it required the Postmaster “to render to the secretary of the treasury, a quarterly account of all the receipts and expenditures” and to “pay quarterly, into the treasury . . ., the balance in his hands.” §4, id., at 234. Under this arrangement, Congress controlled the amount that the Post Office took in (i.e., the sum total of the fees specified by law) and how those fees were to be spent (i.e., to provide for carrying the mail).</p>
     <p>Much the same is true with respect to the Customs Service, which the Government claims “best” resembles the CFPB. Tr. of Oral Arg. 31. Like the Post Office, the Customs Service had a carefully delineated mission—basically, to control imports and exports, and to collect duties and other payments from those engaged in those activities. To maintain accountability, the early tariff Acts spelled out in excruciating detail the various fees, fines, and forfeitures that officers were to collect, as well as the salaries and commissions that were to be paid out of those receipts. Act of July 31, 1789, ch. 5, 1Stat. 29–49; L. Schmeckebier, The Customs Service: Its History, Activities and Organization 3–6 (1924). Surplus funds had to be sent to the Treasury, Act of July 31, 1789, §§9, 38, 1Stat. 38, 48, and for many years, these funds were the lifeblood of the Federal Government. From 1789 to 1862, “[n]early all of federal revenue was derived from customs duties.” A. Reamer, Before the U. S. Tariff Commission: Congressional Efforts To Obtain Statistics and Analysis for Tariff-setting, 1789–1916, in A Centennial History of the United States International Trade Commission 35 (2017).[<a id="nf4-15" href="#fn4-15">15</a>]</p>
     <p>The CFPB, by contrast, is an entirely different creature. Its powers are broad and vast. It enjoys substantial discretionary authority. It does not collect fees from persons and entities to which it provides services or persons and entities that are subject to its authority. And it is permitted to keep and invest surplus funds. In short, the Government’s “best” argument fails.</p>
     <p>The Government’s next-best analogs fare no better. Moving to modern agencies, the Government claims that the CFPB’s funding scheme is not materially different from the funding schemes of a list of other currently existing agencies. See Brief for Petitioners 22–23, 29–36 (comparing the CFPB to the Office of the Comptroller of the Currency (OCC), the Federal Deposit Insurance Corporation (FDIC), the National Credit Union Administration (NCUA), the Farm Credit Administration (FCA), the Federal Housing Finance Agency (FHFA), and others).</p>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us485-1040.html" citation="485 U.S. 1040" title="MODDEN v. TEXAS">
   <opinion type="Opinions &amp; Dissents">
     <n id="p1040">1040</n>
-    <h>U.S. Supreme Court</h>
-    <h>MODDEN v. TEXAS , <a href="./us485-1040.xml#p1040">485 U.S. 1040</a> (1988)</h>
-    <h> <a href="./us485-1040.xml#p1040">485 U.S. 1040</a></h>
-    <h>Willie Mack MODDEN v. TEXAS. No. 87-6138 Supreme Court of the United States May 2, 1988</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>MODDEN v. TEXAS, <a href="./us485-1040.xml#p1040">485 U.S. 1040</a> (1988)</h1>
+    <h4>Willie Mack MODDEN v. TEXAS. No. 87-6138 Supreme Court of the United States May 2, 1988</h4>
     <p>On petition for writ of certiorari to the Court of Criminal Appeals of Texas.</p>
     <p>The petition for a writ of certiorari is denied.</p>
     <p>Justice BRENNAN, dissenting:</p>
@@ -17,7 +17,7 @@
     <p>of a cognizable racial group, that the prosecutor has exercised peremptory challenges to remove from the venire members of the defendant's race, and that these facts, along with any other relevant circumstances, raise an inference that the prosecutor used peremptory challenges to exclude venirepersons on account of their race. Id., at 96. Once the defendant makes such a prima facie showing, the burden shifts to the prosecution to come forward with a race-neutral explanation for challenging the prospective jurors. Id., at 97.</p>
     <p>In this case, petitioner, a black man, was charged with murdering a white woman in the course of committing a robbery. During jury selection, the prosecution exercised three peremptory strikes to exclude black jurors from the venire. The prosecution also challenged for cause five other black venirepersons. Although petitioner complained about the exclusion of black persons from the jury, the trial court apparently never asked the prosecutor to explain the exercise of peremptory challenges to exclude black venirepersons, and no explanation was given. As a result of the prosecutor's use of peremptory challenges and exclusions for cause, only one black person was ultimately selected to serve on the jury that convicted petitioner and sentenced him to death. Although the record is sparse, in my view petitioner has made a prima facie showing under Batson of the discriminatory exercise of peremptory challenges.</p>
     <p>Because petitioner has made a prima facie showing of discrimination, the burden falls on the prosecution to give a race-neutral explanation for its use of peremptory challenges. Petitioner's trial concluded before this Court decided Batson, so it is not surprising that the trial court failed to determine whether the prosecutor could proffer a race-neutral explanation for the challenges.* Under these circumstances, I would vacate the judgment of the Texas Court of Criminal Appeals and remand with instructions that a hearing be held to consider petitioner's claim that the prosecution's use of peremptory challenges violated his rights under the Equal Protection Clause.</p>
-    <h>Footnotes</h>
+    <h2>Footnotes</h2>
     <p>[Footnote *] In Griffith v. Kentucky, <a href="../us479/us479-0314.xml#p314">479 U.S. 314</a>, 328, 716 (1987), this Court ruled that the holding of Batson v. Kentucky, <a href="../us476/us476-0079.xml#p79">476 U.S. 79</a> (1986), "is to be applied retroactively to all cases, state or federal, pending on direct review or not yet final." When Batson was decided, petitioner's case was still pending on direct review of his conviction and sentence.</p>
   </opinion>
 </case>

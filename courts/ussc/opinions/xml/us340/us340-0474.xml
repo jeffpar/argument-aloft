@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us340-0474.html" citation="340 U.S. 474" title="Universal Camera Corp. v. NLRB">
   <opinion type="Opinions &amp; Dissents">
     <n id="p474">474</n>
-    <h>U.S. Supreme Court</h>
-    <h>Universal Camera Corp. v. Labor Board, <a href="./us340-0474.xml#p474">340 U.S. 474</a> (1951)</h>
-    <h>Universal Camera Corp. v. National Labor Relations Board</h>
-    <h>No. 40</h>
-    <h>Argued November 6-7, 1950</h>
-    <h>Decided February 26, 1951</h>
-    <h><a href="./us340-0474.xml#p474">340 U.S. 474</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SECOND CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h4>Universal Camera Corp. v. Labor Board, <a href="./us340-0474.xml#p474">340 U.S. 474</a> (1951)</h4>
+    <h2>Universal Camera Corp. v. National Labor Relations Board</h2>
+    <h2>No. 40</h2>
+    <h4>Argued November 6-7, 1950</h4>
+    <h4>Decided February 26, 1951</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SECOND CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>The National Labor Relations Board ordered petitioner to reinstate with back pay an employee found to have been discharged because he gave certain testimony in another proceeding under the National Labor Relations Act. The evidence as to the reason for his discharge was conflicting, and the Board overruled its examiner's findings of fact and his recommendation that the proceedings be dismissed. In decreeing enforcement, the Court of Appeals held that the Board's findings of fact were "supported by substantial evidence on the record considered as a whole" within the meaning of § 10(e) of the National Labor Relations Act, as amended in 1947. This holding was based partly on the view (1) that the 1947 amendments had not broadened the scope of judicial review, and (2) that the Board's rejection of its examiner's findings of fact was without relevance in determining whether the Board's findings were supported by substantial evidence.</p>
     <p>Held:</p>
     <p>1. In the light of the legislative history, the standard of proof required under § 10(e) of the National Labor Relations Act, as amended by the Labor Management Relations Act, 1947, to support a decision of the Labor Board on judicial review is the same as that to be exacted by courts reviewing every administrative action subject to the Administrative Procedure Act. Pp. <a href="./us340-0474.xml#p477">340 U. S. 477</a>-487.</p>
@@ -31,7 +31,7 @@
     <p>The essential issue raised by this case and its companion, Labor Board v. Pittsburgh Steamship Co., post, <a href="./us340-0498.xml#p498">340 U. S. 498</a>, is the effect of the Administrative Procedure Act and the legislation colloquially known as the Taft-Hartley Act on the duty of Courts of Appeals when called upon to review orders of the National Labor Relations Board.</p>
     <p>The Court of Appeals for the Second Circuit granted enforcement of an order directing, in the main, that petitioner reinstate with back pay an employee found to have been discharged because he gave testimony under the Wagner Act, and cease and desist from discriminating against any employee who files charges or gives testimony under that Act. The court below, Judge Swan dissenting, decreed full enforcement of the order. 179 F.2d 749. Because the views of that court regarding the effect of the new legislation on the relation between the Board and the courts of appeals in the enforcement of the Board's orders conflicted with those of the Court of Appeals for the Sixth Circuit, [<a id="nf1" href="#fn1">Footnote 1</a>] we brought both cases here. 339 U.S. 951. The clash of opinion obviously required settlement by this Court.</p>
     <n id="p477">477</n>
-    <h>I</h>
+    <h2>I</h2>
     <p>. Want of certainty in judicial review of Labor Board decisions partly reflects the intractability of any formula to furnish definiteness of content for all the impalpable factors involved in judicial review. But, in part, doubts as to the nature of the reviewing power and uncertainties in its application derive from history, and, to that extent, an elucidation of this history may clear them away.</p>
     <p>The Wagner Act provided: "The findings of the Board as to the facts, if supported by evidence, shall be conclusive." Act of July 5, 1935, § 10(e), 49 Stat. 449, 454, 29 U.S.C. § 160(e). This Court read "evidence" to mean "substantial evidence," Washington, V. &amp; M. Coach Co. v. Labor Board, <a href="../us301/us301-0142.xml#p142">301 U. S. 142</a>, and we said that</p>
     <p>"[s]ubstantial evidence is more than a mere scintilla. It means such relevant evidence as a reasonable mind might accept as adequate to support a conclusion."</p>
@@ -43,7 +43,7 @@
     <p>that it was enough that the evidence supporting the Board's result was "substantial" when considered by itself. It is fair to say that, by imperceptible steps, regard for the factfinding function of the Board led to the assumption that the requirements of the Wagner Act were met when the reviewing court could find in the record evidence which, when viewed in isolation, substantiated the Board's findings. Compare Labor Board v. Waterman Steamship Corp., <a href="../us309/us309-0206.xml#p206">309 U. S. 206</a>; Labor Board v. Bradford Dyeing Ass'n, <a href="../us310/us310-0318.xml#p318">310 U. S. 318</a>; and see Labor Board v. Nevada Consolidated Copper Corp., <a href="../us316/us316-0105.xml#p105">316 U. S. 105</a>. This is not to say that every member of this Court was consciously guided by this view, or that the Court ever explicitly avowed this practice as doctrine. What matters is that the belief justifiably arose that the Court had so construed the obligation to review. [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
     <p>Criticism of so contracted a reviewing power reinforced dissatisfaction felt in various quarters with the Board's administration of the Wagner Act in the years preceding the war. The scheme of the Act was attacked as an inherently unfair fusion of the functions of prosecutor and judge. [<a id="nf3" href="#fn3">Footnote 3</a>] Accusations of partisan bias were not wanting. [<a id="nf4" href="#fn4">Footnote 4</a>] The "irresponsible admission and weighing of hearsay, opinion, and emotional speculation in place of factual evidence" was said to be a "serious menace." [<a id="nf5" href="#fn5">Footnote 5</a>] No doubt</p>
     <n id="p479">479</n>
-    <p>some, perhaps even much, of the criticism was baseless ,and some surely was reckless. [<a id="nf6" href="#fn6">Footnote 6</a>] What is here relevant, however, is the climate of opinion thereby generated, and its effect on Congress. Protests against "shocking injustices" [<a id="nf7" href="#fn7">Footnote 7</a>] and intimations of judicial "abdication" [<a id="nf8" href="#fn8">Footnote 8</a>] with which some courts granted enforcement of the Board's order stimulated pressures for legislative relief from alleged administrative excesses.</p>
+    <p>some, perhaps even much, of the criticism was baseless,and some surely was reckless. [<a id="nf6" href="#fn6">Footnote 6</a>] What is here relevant, however, is the climate of opinion thereby generated, and its effect on Congress. Protests against "shocking injustices" [<a id="nf7" href="#fn7">Footnote 7</a>] and intimations of judicial "abdication" [<a id="nf8" href="#fn8">Footnote 8</a>] with which some courts granted enforcement of the Board's order stimulated pressures for legislative relief from alleged administrative excesses.</p>
     <p>The strength of these pressures was reflected in the passage in 1940 of the Walter-Logan Bill. It was vetoed by President Roosevelt, partly because it imposed unduly rigid limitations on the administrative process and partly because of the investigation into the actual operation of the administrative process then being conducted by an experienced committee appointed by the Attorney General. [<a id="nf9" href="#fn9">Footnote 9</a>] It is worth noting that, despite its aim to tighten control over administrative determinations of fact, the Walter-Logan Bill contented itself with the conventional formula that an agency's decision could be set aside if "the findings of fact are not supported by substantial evidence." [<a id="nf10" href="#fn10">Footnote 10</a>]</p>
     <n id="p480">480</n>
     <p>The final report of the Attorney General's Committee was submitted in January, 1941. The majority concluded that</p>
@@ -91,14 +91,14 @@
     <p>Our power to review the correctness of application of the present standard ought seldom to be called into action.</p>
     <n id="p491">491</n>
     <p>Whether, on the record as a whole, there is substantial evidence to support agency findings is a question which Congress has placed in the keeping of the Courts of Appeals. This Court will intervene only in what ought to be the rare instance when the standard appears to have been misapprehended or grossly misapplied.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Our disagreement with the view of the court below that the scope of review of Labor Board decisions is unaltered by recent legislation does not, of itself, as we have noted, require reversal of its decision. The court may have applied a standard of review which satisfies the present Congressional requirement.</p>
     <p>The decision of the Court of Appeals is assailed on two grounds. It is said (1) that the court erred in holding that it was barred from taking into account the report of the examiner on questions of fact insofar as that report was rejected by the Board, and (2) that the Board's order was not supported by substantial evidence on the record, considered as a whole, even apart from the validity of the court's refusal to consider the rejected portions of the examiner's report.</p>
     <p>The latter contention is easily met. It is true that two of the earlier decisions of the court below were among those disapproved by Congress. [<a id="nf23" href="#fn23">Footnote 23</a>] But this disapproval, we have seen, may well have been caused by unintended intimations of judicial phrasing. And, in any event, it is clear from the court's opinion in this case that it, in fact, did consider the "record as a whole," and did not deem itself merely the judicial echo of the Board's conclusion. The testimony of the company's witnesses was inconsistent, and there was clear evidence that the complaining</p>
     <n id="p492">492</n>
     <p>employee had been discharged by an officer who was at one time influenced against him because of his appearance at the Board hearing. On such a record, we could not say that it would be error to grant enforcement.</p>
     <p>The first contention, however, raises serious questions, to which we now turn.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The Court of Appeals deemed itself bound by the Board's rejection of the examiner's findings because the court considered these findings not "as unassailable as a master's." [<a id="nf24" href="#fn24">Footnote 24</a>] 179 F.2d at 752. They are not. Section 10(c) of the Labor Management Relations Act provides that.</p>
     <p>"If upon the preponderance of the testimony taken, the Board shall be of the opinion that any person named in the complaint has engaged in or is engaging in any such unfair labor practice, then the Board shall state its findings of fact. . . ."</p>
     <p>61 Stat. 147, 29 U.S.C.(Supp. III) § 160(c). The responsibility for decision thus placed on the Board is wholly inconsistent with the notion that it has power to reverse an examiner's findings only when they are "clearly erroneous." Such a limitation would make so drastic a departure from prior administrative practice that explicitness would be required.</p>

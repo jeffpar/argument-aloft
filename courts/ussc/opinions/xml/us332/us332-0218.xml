@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us332-0218.html" citation="332 U.S. 218" title="United States v. Yellow Cab Co.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p218">218</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Yellow Cab Co., <a href="./us332-0218.xml#p218">332 U.S. 218</a> (1947)</h>
-    <h>United States v. Yellow Cab Co.</h>
-    <h>No. 1035</h>
-    <h>Argued May 7, 1947</h>
-    <h>Decided June 23, 1947</h>
-    <h><a href="./us332-0218.xml#p218">332 U.S. 218</a></h>
-    <h>APPEAL FROM THE DISTRICT COURT OF THE UNITED STATES</h>
-    <h>FOR THE NORTHERN DISTRICT OF ILLINOIS</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Yellow Cab Co., <a href="./us332-0218.xml#p218">332 U.S. 218</a> (1947)</h1>
+    <h2>United States v. Yellow Cab Co.</h2>
+    <h2>No. 1035</h2>
+    <h4>Argued May 7, 1947</h4>
+    <h4>Decided June 23, 1947</h4>
+    <h2>APPEAL FROM THE DISTRICT COURT OF THE UNITED STATES</h2>
+    <h2>FOR THE NORTHERN DISTRICT OF ILLINOIS</h2>
+    <h2>Syllabus</h2>
     <p>1. Allegations of a complaint filed in a federal district court pursuant to § 4 of the Sherman Antitrust Act to prevent and restrain the defendants from violating §§ 1 and 2 of the Act, charging a combination and conspiracy to restrain and to monopolize interstate trade and commerce in the sale of motor vehicles for use as taxicabs to the principal cab operating companies in Chicago, Pittsburgh, New York City, and Minneapolis, held sufficient to state a claim upon which relief might be granted. Pp. <a href="./us332-0218.xml#p220">332 U. S. 220</a>-228.</p>
     <p>(a) A conspiracy to control the purchase of taxicabs by the principal operating companies in Chicago, Pittsburgh, New York City, and Minneapolis, whereby they purchase their cabs exclusively from a Michigan manufacturer and are prevented from purchasing from other manufacturers, is in restraint of interstate commerce. Pp. <a href="./us332-0218.xml#p224">332 U. S. 224</a>-225, <a href="./us332-0218.xml#p226">332 U. S. 226</a>.</p>
     <p>(b) In determining whether the complaint charges a violation of § 1 or § 2 of the Sherman Act, it is enough if some appreciable part of interstate commerce is affected by the restraint or monopoly. P. <a href="./us332-0218.xml#p225">332 U. S. 225</a>.</p>
@@ -48,7 +48,7 @@
     <n id="p224">224</n>
     <p>any of the ones issued to them; they claimed that economic conditions prevented them from procuring taxicabs to replace those which had become inoperable. The Illinois courts held that the 1937 ordinance created a contract between the city and the licensees, and that the city could not issue licenses to the war veterans without first replacing the licenses which Yellow and Checker had surrendered; it was further held that no monopoly existed, since the number of licenses and the rights of the licensees were subject to the control of the city. Yellow Cab Co. v. City of Chicago, 396 Ill. 388, 71 N.E.2d 652.</p>
     <p>Such is the nature of the facts set forth in the complaint. Those facts allegedly give rise to a combination and conspiracy on the part of the appellees (Yellow, Chicago Yellow, Parmelee, Cab Sales, Checker, CCM and Markin) in violation of the Sherman Act. The problems thereby raised can best be considered in relation to the purported terms of this combination and conspiracy. For present purposes, of course, we must assume, without deciding or implying, that the various facts and allegations in the complaint are true.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>It is said that the appellees have agreed to control the operation and purchase of taxicabs by the principal operating companies in Chicago, New York City, Pittsburgh, and Minneapolis, insisting that they purchase their cabs exclusively from CCM. This excludes all other manufacturers of taxicabs from 86% of the Chicago market, 15% of the New York City market, 100% of the Pittsburgh market, and 58% of the Minneapolis market. At the same time, the trade of the controlled cab companies is restrained, since they are prevented from purchasing cabs from manufacturers other than CCM. The result allegedly is that these companies must pay more for cabs</p>
     <n id="p225">225</n>
     <p>than they would otherwise pay, their other expenditures are increased unnecessarily, and the public is charged high rates for the transportation services rendered.</p>
@@ -68,7 +68,7 @@
     <n id="p228">228</n>
     <p>the demands of a business growing as a result of superior and enterprising management, but by deliberate, calculated purchase for control."</p>
     <p>If that theory is borne out in this case by the evidence, coupled with proof of an undue restraint of interstate trade, a plain violation of the Act has occurred. Cf. United States v. Crescent Amusement Co., <a href="../us323/us323-0173.xml#p173">323 U. S. 173</a>, <a href="../us323/us323-0173.xml#p189">323 U. S. 189</a>.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>It is said that the appellees have agreed that Yellow and Cab Sales will not compete with Parmelee for contracts with railroads or railroad terminal associations to transport passengers and their luggage between railroad stations in Chicago. The complaint points out the well known fact that Chicago is the terminus of a large number of railroads engaged in interstate passenger traffic, and that a great majority of the persons making interstate railroad trips which carry them through Chicago must disembark from a train at one railroad station, travel from that station to another some two blocks to two miles distant, and board another train at the latter station. The railroads often contract with the passengers to supply between-station transportation in Chicago. Parmelee then contracts with the railroads and the railroad terminal associations to provide this transportation by special cabs carrying seven to ten passengers. Parmelee's contracts are exclusive in nature.</p>
     <p>The transportation of such passengers and their luggage between stations in Chicago is clearly a part of the stream of interstate commerce. When persons or goods move from a point of origin in one state to a point of destination in another, the fact that a part of that journey consists of transportation by an independent agency solely within the boundaries of one state does not make that portion of the trip any less interstate in character. <a href="../us077/us077-0557.xml#p557">The Daniel</a></p>
     <n id="p229">229</n>
@@ -76,7 +76,7 @@
     <p>Any attempt to monopolize or to impose an undue restraint on such a constituent part of interstate commerce brings the Sherman Act into operation. Here, there is an alleged conspiracy to bring nearly all the Chicago taxicab companies under common control and to eliminate competition among them relative to contracts for supplying transportation for this transfer in the midst of interstate journeys. Only Parmelee is free to attempt to procure such contracts; Yellow and Cab Sales are forbidden to compete for such contracts, despite the fact that they conceivably might provide the same transportation service at lower cost to the railroads. [<a id="nf6" href="#fn6">Footnote 6</a>] The complaint accordingly states a violation of the Sherman Act in this respect. See Addyston Pipe &amp; Steel Co. v. United States, <a href="../us175/us175-0211.xml#p211">175 U. S. 211</a>.</p>
     <p>It is true, of course, that exclusive contracts for the transportation service in question are not illegal. Donovan v. Pennsylvania Co., <a href="../us199/us199-0279.xml#p279">199 U. S. 279</a>. But a conspiracy to eliminate competition in obtaining those exclusive contracts is what is alleged in this case, and it is a conspiracy of that type that runs afoul of the Sherman Act. Moreover, the fact that the competition restrained is that between affiliated corporations cannot serve to negative the statutory violation where, as here, the affiliation is assertedly one of the means of effectuating the illegal conspiracy not to compete.</p>
     <n id="p230">230</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>Finally, it is said that the appellees have conspired to control the principal taxicab operating companies in Chicago, and to exclude others from engaging in the transportation of interstate travelers to and from Chicago railroad stations. To that end, they have conspired to induce the City of Chicago to limit the number of licensed taxicabs to 3,000, to hold 2,595 (or 86%) of these licenses themselves, to obtain for Yellow and Checker any licenses above 3,000 which the city might later issue, and to prevent new operators from entering the cab business in Chicago by having Yellow and Checker annually renew licenses for cabs which they do not operate and have no intention of operating.</p>
     <p>The interstate commerce toward which this aspect of the conspiracy is directed is claimed to arise out of the following facts. Many persons are said to embark upon interstate journeys from their homes, offices, and hotels in Chicago by using taxicabs to transport themselves and their luggage to railroad stations in Chicago. Conversely, in making journeys from other states to homes, offices, and hotels in Chicago, many persons are said to complete such trips by using taxicabs to transport themselves and their luggage from railroad stations in Chicago to said homes, offices, and hotels. Such transportation of persons and their luggage is intermingled with the admittedly local operations of the Chicago taxicabs. But it is that allegedly interstate part of the business upon which rests the validity of the complaint in this particular.</p>
     <p>We hold, however, that such transportation is too unrelated to interstate commerce to constitute a part thereof within the meaning of the Sherman Act. These taxicabs, in transporting passengers and their luggage to and from Chicago railroad stations, admittedly cross no state lines; by ordinance, their service is confined to transportation</p>

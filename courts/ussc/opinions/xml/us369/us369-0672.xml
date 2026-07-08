@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us369-0672.html" citation="369 U.S. 672" title="Hanover Bank v. Commissioner">
   <opinion type="Opinions &amp; Dissents">
     <n id="p672">672</n>
-    <h>U.S. Supreme Court</h>
-    <h>Hanover Bank v. Commissioner, <a href="./us369-0672.xml#p672">369 U.S. 672</a> (1962)</h>
-    <h>Hanover Bank v. Commissioner</h>
-    <h>No. 224</h>
-    <h>Argued February 27, 1962</h>
-    <h>Decided May 21, 1962</h>
-    <h><a href="./us369-0672.xml#p672">369 U.S. 672</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SECOND CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Hanover Bank v. Commissioner, <a href="./us369-0672.xml#p672">369 U.S. 672</a> (1962)</h1>
+    <h2>Hanover Bank v. Commissioner</h2>
+    <h2>No. 224</h2>
+    <h4>Argued February 27, 1962</h4>
+    <h4>Decided May 21, 1962</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SECOND CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>The Internal Revenue Code of 1939 permits a taxpayer to deduct, through amortization, the premium he has paid in purchasing corporate bonds, and § 125 provides that the amount to be amortized "shall be determined . . . with reference to the amount payable on maturity or on earlier call date." In 1953, prior to December 1, taxpayers purchased at a premium corporate bonds which were callable on 30 days' notice, either at a "general call price" or at a lower "special call price," and elected on their 1953 income tax returns to claim deductions for bond premiums computed with reference to the 30-day call period and the special call price.</p>
     <p>Held: they were entitled to do so, since the special call price at which the bonds here involved could be redeemed from a limited sinking fund and from other special funds made available upon the occurrence of certain contingent events was an "amount payable . . . on earlier call date" within the meaning of § 125, and there was no basis in the statute, in the legislative history, or in the Commissioner's prior interpretations of the statute for a distinction between a reference to a general or special call price in computing amortizable bond premiums under the 1939 Code. Pp. <a href="./us369-0672.xml#p673">369 U. S. 673</a>-688.</p>
     <p>289 F.2d 69, reversed.</p>
@@ -123,7 +123,7 @@
     </f>
     <f n="15"><a id="fn15" href="#nf15">Footnote 15</a>
       <p>The Court of Appeals for the Second Circuit stated (289 F.2d 69, 74):</p>
-      <p>"We do not think that, . . . in § 125 of the Code . . . , [Congress] meant to include an amount payable on a call at a 'special' price of which there was no real possibility during the period for which the amortization is being taken and the deduction claimed."</p>
+      <p>"We do not think that, . . . in § 125 of the Code . . ., [Congress] meant to include an amount payable on a call at a 'special' price of which there was no real possibility during the period for which the amortization is being taken and the deduction claimed."</p>
       <p>And (289 F.2d at 72): " . . . [T]he hazard that any significant number of petitioners' bonds would be called during [the] period was infinitesimal." In so holding, the Court accepted the Government's argument below that</p>
       <p>"[t]he taxpayer is not entitled to compute his amortizable bond premium deduction . . . with reference to the 'special' call price . . . because . . . such a call was so contingent and unlikely that there was no realistic call date at the 'special' call price. . . ."</p>
       <p>In contrast, the Government states in its brief here:</p>

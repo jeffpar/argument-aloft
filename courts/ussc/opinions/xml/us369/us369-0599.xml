@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us369-0599.html" citation="369 U.S. 599" title="Hutcheson v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p599">599</n>
-    <h>U.S. Supreme Court</h>
-    <h>Hutcheson v. United States, <a href="./us369-0599.xml#p599">369 U.S. 599</a> (1962)</h>
-    <h>Hutcheson v. United States</h>
-    <h>No. 46</h>
-    <h>Argued November 6, 1961</h>
-    <h>Decided May 14, 1962</h>
-    <h><a href="./us369-0599.xml#p599">369 U.S. 599</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE DISTRICT OF COLUMBIA CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Hutcheson v. United States, <a href="./us369-0599.xml#p599">369 U.S. 599</a> (1962)</h1>
+    <h2>Hutcheson v. United States</h2>
+    <h2>No. 46</h2>
+    <h4>Argued November 6, 1961</h4>
+    <h4>Decided May 14, 1962</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE DISTRICT OF COLUMBIA CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Summoned to testify before the Senate Select Committee on Improper Activities in the Labor or Management Field, which was seeking information to aid in drafting and adopting legislation to curb misuse of union funds by union officials, petitioner, president of a labor union, refused to answer 18 questions pertaining to the use of union funds in an attempt to forestall an indictment in Lake County, Indiana, for the alleged bribery of a state official in connection with a sale of land to the State. He disclaimed any intention to rely on his privilege against self-incrimination; but he claimed that the questions were not pertinent to any activity which the Committee was authorized to investigate, that they were asked for purposes of "exposure," and that they might aid the prosecution of criminal charges then pending against him in a state court, and thus violate his rights under the Due Process Clause of the Fifth Amendment. These objections were overruled, but petitioner persisted in his refusal to answer. For such refusal, he was convicted of a violation of 2 U.S.C. § 192, which makes it a misdemeanor for any person summoned as a witness by either House of Congress or a committee thereof to refuse to answer any question pertinent to the question under inquiry.</p>
     <p>Held: the questions which petitioner refused to answer were clearly within the proper scope of the Committee's inquiry; the record does not support a conclusion that they were asked merely for the sake of "exposure" or to aid in the pending state criminal trial; the mere fact that answers to the questions might have been used against petitioner in the pending state criminal trial did not make this conviction violative of the Due Process Clause of the Fifth Amendment, and the conviction is sustained. Pp. <a href="./us369-0599.xml#p600">369 U. S. 600</a>-628.</p>
     <p>109 U.S.App.D.C. 200, 285 F.2d 280, affirmed.</p>
@@ -45,7 +45,7 @@
     <p>No claim of the Fifth Amendment privilege against self-incrimination was made at any stage. This objection, upon which the petitioner stood throughout this phase of his interrogation, was overruled by the Committee, and petitioner was directed, and refused to answer, each of the 18 questions constituting the subject matter of the indictment upon which he has been convicted. [<a id="nf12" href="#fn12">Footnote 12</a>]</p>
     <n id="p607">607</n>
     <p>The many arguments now made to us in support of reversal are reducible to two constitutional challenges. First, it is contended that questioning petitioner on any matters germane to the state criminal charges then pending against him was offensive to the Due Process Clause of the Fifth Amendment. Second, it is argued that the Committee invaded domains constitutionally reserved to the Executive and the Judiciary, in that its inquiry was simply aimed at petitioner's "exposure," and served no legislative purpose. For reasons now to be discussed we decide that neither challenge is availing.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Due Process</p>
     <p>The Committee's interrogation is said to have been fundamentally unfair in two respects: (1) it placed the petitioner in a position where, save for silence, his only choice lay between prejudicing his defense to the state indictment and committing perjury, and (2) it was a "pretrial" of the state charges before the Committee. The first of these propositions rests on two premises respecting Indiana law, which we accept for the purposes of the ensuing discussion: admissions of an attempt to "fix" the grand jury investigation could have been used against petitioner in the state trial as evidence of consciousness of guilt (see, e.g., Davidson v. State, 205 Ind. 564, 569, 187 N.E. 376, 378); a claim of the federal self-incrimination</p>
     <n id="p608">608</n>
@@ -70,7 +70,7 @@
     <p>"It may be conceded that Congress is without authority to compel disclosures for the purpose of aiding the prosecution of pending suits; but the authority of that body, directly or through its committees, to require pertinent disclosures in aid of its own constitutional power is not abridged because the information sought to be elicited may also be of use in such suits."</p>
     <p>Sinclair v. United States, <a href="../us279/us279-0263.xml#p263">279 U. S. 263</a>, <a href="../us279/us279-0263.xml#p295">279 U. S. 295</a>. It would be absurd to suggest that in establishing this committee the Congress was actuated by a purpose to aid state prosecutions, still less that of this particular individual. The pertinency of the observation in Sinclair is not lessened by the circumstance that, in this instance, the state proceeding involved was criminal, rather than civil. Cf. Delaney v. United States, 199 F.2d 107, 114. [<a id="nf16" href="#fn16">Footnote 16</a>]</p>
     <n id="p614">614</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>Exposure</p>
     <p>There is also no merit to petitioner's contention that the Committee undertook simply "to expose" petitioner "for the sake of exposure," Watkins v. United States, <a href="../us354/us354-0178.xml#p178">354 U. S. 178</a>, <a href="../us354/us354-0178.xml#p200">354 U. S. 200</a>. The origins of the McClellan Committee, and the products of its endeavors, both belie that challenge, and nothing in the record of the present hearings points to a contrary conclusion.</p>
     <p>It cannot be gainsaid that legislation, whether civil or criminal, in the labor-management field is within the competence of Congress under its power to regulate interstate</p>
@@ -322,7 +322,7 @@
       <p>Kilbourn v. Thompson, supra, at <a href="../us103/us103-0168.xml#p197">103 U. S. 197</a>-198. (Emphasis added.)</p>
       <p>[Footnote 3/8]</p>
       <p>I am certain that it will come as a great surprise to many to learn that Kilbourn has been "severely discredited," as stated in MR. JUSTICE HARLAN's opinion (p. 614, <a id="nf16" href="#fn16">note 16</a> ante), and that it no longer stands to prevent the congressional body of our Government from encroaching upon the exercise of judicial power. The reference to United States v. Rumely, <a href="../us345/us345-0041.xml#p41">345 U. S. 41</a>, where MR. JUSTICE FRANKFURTER indicated in a dictum designed to reserve decision upon a suggested limit of Congress' investigative power that Kilbourn contained "loose language" is hardly the method this Court has chosen to overrule or "discredit" decisions in the past. Indeed, neither have we chosen to do so in footnotes. Moreover, MR. JUSTICE FRANKFURTER's reliance in Rumely on McGrain v. Daugherty, <a href="../us273/us273-0135.xml#p135">273 U. S. 135</a>, <a href="../us273/us273-0135.xml#p170">273 U. S. 170</a>-171, and Sinclair v. United States, <a href="../us279/us279-0263.xml#p263">279 U. S. 263</a>, to support his statement that "substantial inroads" have been made on Kilbourn is rather confusing in light of our recent pronouncement in Watkins v. United States, <a href="../us354/us354-0178.xml#p178">354 U. S. 178</a>, <a href="../us354/us354-0178.xml#p194">354 U. S. 194</a>, that:</p>
-      <p>"In McGrain . . . and Sinclair . . . , the Court applied the precepts of Kilbourn to uphold the authority of the Congress to conduct the challenged investigations."</p>
+      <p>"In McGrain . . . and Sinclair . . ., the Court applied the precepts of Kilbourn to uphold the authority of the Congress to conduct the challenged investigations."</p>
       <p>(Emphasis added.)</p>
       <p>Kilbourn has also been cited favorably or without a question of its continued validity in other recent decisions of the Court, e.g., Barenblatt v. United States, <a href="../us360/us360-0109.xml#p109">360 U. S. 109</a>, <a href="../us360/us360-0109.xml#p133">360 U. S. 133</a> (opinion by Harlan, J.); Tenney v. Brandhove, <a href="../us341/us341-0367.xml#p367">341 U. S. 367</a>, <a href="../us341/us341-0367.xml#p377">341 U. S. 377</a> (opinion by FRANKFURTER, J.: "This Court has not hesitated to sustain the rights of private individuals when it found Congress was acting outside its legislative role. Kilbourn v. Thompson, <a href="../us103/us103-0168.xml#p168">103 U. S. 168</a>."); Uphaus v. Wyman, <a href="../us360/us360-0072.xml#p72">360 U. S. 72</a> (dissenting opinion).</p>
       <p>[Footnote 3/9]</p>

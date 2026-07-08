@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us437-0028.html" citation="437 U.S. 28" title="Crist v. Bretz">
   <opinion type="Opinions &amp; Dissents">
     <n id="p28">28</n>
-    <h>U.S. Supreme Court</h>
-    <h>Crist v. Bretz, <a href="./us437-0028.xml#p28">437 U.S. 28</a> (1978)</h>
-    <h>Crist v. Bretz</h>
-    <h>No. 76-1200</h>
-    <h>Argued November 1, 1977</h>
-    <h>Reargued March 22, 1978</h>
-    <h>Decided June 14, 1978</h>
-    <h><a href="./us437-0028.xml#p28">437 U.S. 28</a></h>
-    <h>APPEAL FROM THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Crist v. Bretz, <a href="./us437-0028.xml#p28">437 U.S. 28</a> (1978)</h1>
+    <h2>Crist v. Bretz</h2>
+    <h2>No. 76-1200</h2>
+    <h4>Argued November 1, 1977</h4>
+    <h4>Reargued March 22, 1978</h4>
+    <h4>Decided June 14, 1978</h4>
+    <h2>APPEAL FROM THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>The federal rule that jeopardy attaches in a jury trial when the jury is empaneled and sworn, a rule that reflects and protects the defendant's interest in retaining a chosen jury, is an integral part of the Fifth Amendment guarantee against double jeopardy made applicable to the States by the Fourteenth Amendment. Hence, a Montana statute providing that jeopardy does not attach until the first witness is sworn cannot constitutionally be applied in a jury trial. Pp. <a href="./us437-0028.xml#p32">437 U. S. 32</a>-38.</p>
     <p>546 F. d 1336, affirmed.</p>
     <p>STEWART, J., delivered the opinion of the Court, in which BRENNAN, WHITE, MARSHALL, BLACKMUN, and STEVENS, JJ., joined. BLACKMUN, J., filed a concurring opinion, post, p. <a href="./us437-0028.xml#p38">437 U. S. 38</a>. BURGER, C.J., filed a dissenting opinion, post, p. <a href="./us437-0028.xml#p39">437 U. S. 39</a>. POWELL, J., filed a dissenting opinion, in which BURGER, C.J., and REHNQUIST, J., joined, post, p. <a href="./us437-0028.xml#p40">437 U. S. 40</a>.</p>
     <n id="p29">29</n>
     <p>MR. JUSTICE STEWART delivered the opinion of the Court.</p>
     <p>This case involves an aspect of the constitutional guarantee against being twice put in jeopardy. The precise issue is whether the federal rule governing the time when jeopardy attaches in a jury trial is binding on Montana through the Fourteenth Amendment. The federal rule is that jeopardy attaches when the jury is empaneled and sworn; a Montana statute provides that jeopardy does not attach until the first witness is sworn. [<a id="nf1" href="#fn1">Footnote 1</a>]</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The appellees, Merrel Cline [<a id="nf2" href="#fn2">Footnote 2</a>] and L. R. Bretz, were brought to trial in a Montana court on charges of grand larceny, obtaining money and property by false pretense, and several counts of preparing or offering false evidence. A jury was empaneled and sworn following a three-day selection process. Before the first witness was sworn, however, the appellees filed a motion drawing attention to the allegation in the</p>
     <n id="p30">30</n>
     <p>false pretenses charge that the defendants' illegal conduct began on January 13, 1974. [<a id="nf3" href="#fn3">Footnote 3</a>] Effective January 1, 1974, the particular statute relied on in that count of the information, Mont.Rev.Codes Ann. § 94-1805 (1947), had been repealed. The prosecutor moved to amend the information, claiming that "1974" was a typographical error, and that the date on which the defendants' alleged violation of the statute had commenced was actually January 13, 1973, the same date alleged in the grand larceny count. The trial judge denied the prosecutor's motion to amend the information and dismissed the false pretenses count. The State promptly but unsuccessfully asked the Montana Supreme Court for a writ of supervisory control ordering the trial judge to allow the amendment.</p>
@@ -34,7 +34,7 @@
     <p>reargument, <a href="../us434/us434-0980.xml#p980">434 U. S. 980</a>, and the parties were asked to address the following two questions:</p>
     <p>"1. Is the rule heretofore applied in the federal courts -- that jeopardy attaches in jury trials when the jury is sworn -- constitutionally mandated?"</p>
     <p>"2. Should this Court hold that the Constitution does not require jeopardy to attach in any trial -- state or federal, jury or nonjury -- until the first witness is sworn?"</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>A</p>
     <p>The unstated premise of the questions posed on reargument is that, if the rule "that jeopardy attaches in jury trials when the jury is sworn" is "constitutionally mandated," then that rule is binding on Montana, since "the double jeopardy prohibition of the Fifth Amendment . . . [applies] to the States through the Fourteenth Amendment," and "the same constitutional standards" must apply equally in federal and state courts. Benton v. Maryland, <a href="../us395/us395-0784.xml#p784">395 U. S. 784</a>, <a href="../us395/us395-0784.xml#p794">395 U. S. 794</a>-795. The single dispositive question, therefore, is whether the federal rule is an integral part of the constitutional guarantee.</p>
     <p>The Double Jeopardy Clause of the Fifth Amendment is stated in brief compass: "[N]or shall any person be subject for the same offence to be twice put in jeopardy of life or limb." But this deceptively plain language has given rise to problems both subtle and complex, problems illustrated by no less than eight cases argued here this very Term. [<a id="nf6" href="#fn6">Footnote 6</a>] This case, however, presents a single straightforward issue concerning the point during a jury trial when a defendant is deemed to have been put in jeopardy, for only if that point has once been</p>
@@ -134,7 +134,7 @@
       <p>Accordingly, I join MR. JUSTICE POWELL's dissent.</p>
       <p>MR. JUSTICE POWELL, with whom THE CHIEF JUSTICE and MR. JUSTICE REHNQUIST join, dissenting.</p>
       <p>The rule that jeopardy attaches in a jury trial at the moment the jury is sworn is not mandated by the Constitution. It is the product of historical accident, embodied in a Court decision without the slightest consideration of the policies it purports to serve. Because these policies would be served equally well by a rule fixing the attachment of jeopardy at the swearing of the first witness, I would uphold the Montana statute. Even if one assumed that the Fifth Amendment now requires the attachment of jeopardy at the swearing of the jury, I would view that rule as incidental to the purpose of the Double Jeopardy Clause, and hence not incorporated through the Due Process Clause of the Fourteenth Amendment, and not applicable to the States. I therefore dissent.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>As the Court correctly observes, ante at <a href="./us437-0028.xml#p33">437 U. S. 33</a>, it is clear that, in the early years of our national history, the constitutional guarantee against double jeopardy was restricted to cases in which there had been a complete trial -- culminating in acquittal or conviction. The limited debate on the Double Jeopardy Clause in the House of Representatives confirms this proposition.</p>
       <n id="p41">41</n>
       <p>1 Annals of Cong. 753 (1789). See generally United States v. Wilson, <a href="../us420/us420-0332.xml#p332">420 U. S. 332</a>, <a href="../us420/us420-0332.xml#p339">420 U. S. 339</a>-342 (1975). This was consonant with the prevailing English practice regarding pleas in bar. The pleas of autrefois acquit and autrefois convict, which implemented the maxim, repeated by Blackstone, that no man should twice be placed in jeopardy for the same offense, [Footnote 2/1] could be interposed only on the basis of an actual verdict of acquittal or conviction. [Footnote 2/2] It was to these pleas in bar -- which embody a res judicata policy, as the Court describes it, ante at <a href="./us437-0028.xml#p33">437 U. S. 33</a> -- that the Double Jeopardy Clause was directed. See, e.g., United States v. Haskell, 26 F. Cas. 207, 212 (No. 15,321) (CC Pa. 1823) (Washington, J.); People v. Goodwin, 18 Johns. 187, 205 (N.Y.Sup.Ct. 1820); cf. People v. Olcott, 2 Johns.Cas. 301 (N.Y.Sup.Ct. 1801) (Kent, J.). This remains the English rule. See <a id="nf2" href="#fn2">n</a> 2, supra.</p>
@@ -175,7 +175,7 @@
       <n id="p49">49</n>
       <p>and apparently with little awareness of history. In view, however, of the consistency with which federal courts have assumed without question that the swearing of the jury triggers jeopardy, I would accept this as the established supervisory rule within the federal system. But the acceptance of a supervisory rule, primarily on grounds of long tenure and convenience, is no justification for elevating it to constitutional doctrine. We should be hesitant to constitutionalize a rule that derives no support from the Framers' understanding of the English practice from which the Double Jeopardy Clause was derived, and which is supported by no doctrinal reasoning that reaches constitutional dimension. Restraint is doubly indicated with respect to this rule, since it is applied only in jury trials. Where a criminal case is tried to the court, jeopardy does not attach until "the court begins to hear evidence." Serfass v. United States, <a href="../us420/us420-0377.xml#p377">420 U. S. 377</a>, <a href="../us420/us420-0377.xml#p388">420 U. S. 388</a> (1975). No compelling reason has been suggested today, or in earlier decisions of this Court, why the time when jeopardy attaches should be different depending upon whether the defendant's "valued right" is asserted in a jury trial, rather than a bench trial.</p>
       <p>I turn next to an examination of the jury trial rule in light of the double jeopardy policies it is now belatedly thought to advance.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>Three aspects of criminal process ordinarily precede the initial introduction of evidence in a jury trial: motions, jury selection, and opening statements. Defendants are vitally interested in each, yet it is far from clear that any should trigger the attachment of jeopardy.</p>
       <p>Defendants may, and sometimes must, see, e.g., Fed.Rule Crim.Proc. 12, move for various rulings on the indictment and the admissibility of evidence before trial. These motions, in practical terms, may decide the defendant's case. They</p>
       <n id="p50">50</n>
@@ -190,11 +190,11 @@
       <p>factfinder and becomes a matter of public record. The defendant's public embarrassment and anxiety begin. From this point on, retrial will mean repeating painful and embarrassing testimony, together with the possibility that the earlier "trial run" will strengthen the prosecution's case. At a retrial, for example, prosecution witnesses may be better prepared for the rigors of cross-examination. Thus, the defendant has a strong interest in taking his case to the first jury, once witnesses testify. Carsey v. United States, 129 U.S.App.D.C. 205, 208-209, 392 F.2d 810, 813-814 (1967) (Leventhal, J., concurring). The rationale of the Double Jeopardy Clause is implicated once this threshold is crossed, but not before.</p>
       <p>That this is the crucial time for Double Jeopardy Clause purposes is evident from the attachment rule in bench trials. Once the judge has embarked upon his factfinding mission, the defendant is justified in concluding that his ordeal has begun; he is in the hands of his judge, and may expect the matter to proceed to a finish. This same principle should apply in jury trials.</p>
       <p>Thus, Montana's rule fixing the attachment of jeopardy at the swearing of the first witness is consonant with the central concerns of the Double Jeopardy Clause. It furnishes a clear line of demarcation for the attachment of jeopardy, and it places that line in advance of the point at which real jeopardy -- in Fifth Amendment terms -- can be said to begin.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>Even if I were to conclude that the Fifth Amendment -- merely by virtue of long, unreasoned acceptance -- required attachment of jeopardy at the swearing of the jury, I would not hold that the Fourteenth Amendment necessarily imposes that requirement upon the States. This issue would turn on the answer to the question whether jeopardy's attachment at that point is fundamental to the guarantees of the Double Jeopardy Clause. Apodaca v. Oregon, <a href="../us406/us406-0404.xml#p404">406 U. S. 404</a>, <a href="../us406/us406-0356.xml#p373">406 U. S. 373</a> (1972) (POWELL, J., concurring in judgment); <a href="../us427/us427-0618.xml#p618">Ludwig v.</a></p>
       <n id="p53">53</n>
       <p>Massachusetts, <a href="../us427/us427-0618.xml#p618">427 U. S. 618</a>, <a href="../us427/us427-0618.xml#p632">427 U. S. 632</a> (1976) (POWELL, J., concurring). As the previous discussion makes clear, the jury trial rule accorded constitutional status by the Court today implicates no rights that have been identified as fundamental in a constitutional sense. There is no basis for incorporating it "jot-for-jot" into the Fourteenth Amendment. See Duncan v. Louisiana, <a href="../us391/us391-0145.xml#p145">391 U. S. 145</a>, <a href="../us391/us391-0145.xml#p181">391 U. S. 181</a> (1968) (Harlan, J., dissenting).</p>
-      <h>IV</h>
+      <h2>IV</h2>
       <p>Aside from paying cryptic homage to the hitherto unexplained "valued right" to a particular jury, the Court does not even attempt to justify its holding that the Fifth Amendment mandates the rule of attachment that it adopts. It identifies no policy of the Double Jeopardy Clause, and no interests of a fair system of criminal justice, that elevate this "right" to constitutional status. The Court's rule is not even a "linedrawing" that finds support in logic or significant convenience.</p>
       <p>I perceive no reason for this Court to impose what, in effect, is no more than a supervisory rule of practice upon the courts of every State in the Union.</p>
       <p>[Footnote 2/1]</p>

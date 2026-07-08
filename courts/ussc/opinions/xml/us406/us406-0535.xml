@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us406-0535.html" citation="406 U.S. 535" title="Jefferson v. Hackney">
   <opinion type="Opinions &amp; Dissents">
     <n id="p535">535</n>
-    <h>U.S. Supreme Court</h>
-    <h>Jefferson v. Hackney, <a href="./us406-0535.xml#p535">406 U.S. 535</a> (1972)</h>
-    <h>Jefferson v. Hackney</h>
-    <h>No. 70-5064</h>
-    <h>Argued February 22, 1972</h>
-    <h>Decided May 30, 1972</h>
-    <h><a href="./us406-0535.xml#p535">406 U.S. 535</a></h>
-    <h>APPEAL FROM THE UNITED STATES DISTRICT COURT</h>
-    <h>FOR THE NORTHERN DISTRICT OF TEXAS</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Jefferson v. Hackney, <a href="./us406-0535.xml#p535">406 U.S. 535</a> (1972)</h1>
+    <h2>Jefferson v. Hackney</h2>
+    <h2>No. 70-5064</h2>
+    <h4>Argued February 22, 1972</h4>
+    <h4>Decided May 30, 1972</h4>
+    <h2>APPEAL FROM THE UNITED STATES DISTRICT COURT</h2>
+    <h2>FOR THE NORTHERN DISTRICT OF TEXAS</h2>
+    <h2>Syllabus</h2>
     <p>Appellants, recipients of Aid to Families With Dependent Children (AFDC), challenge the system whereby Texas, in order to allocate its fixed pool of welfare money among persons with acknowledged need, applies a percentage reduction factor to arrive at a reduced standard of need, the factor being lower for AFDC than for other categorical assistance programs. Appellants assert that the State's method of applying this factor to recipients with outside income contravenes § 402(a)(23) of the Social Security Act, which required adjustment, by July 1, 1969, of "amounts used . . . to determine the needs of individuals" to reflect increases in living costs, because this method does not increase the welfare rolls to the same extent as would an alternative procedure used by some other States. They also make an equal protection claim on the grounds that the distinction between the aid programs is not rational, and that the Texas system racially discriminates against the proportionately larger number of minority groups in AFDC than in the other programs.</p>
     <p>Held:</p>
     <p>1. The Texas scheme does not contravene § 402(a)(23) of the Social Security Act, which does not require use of a computation procedure that maximizes individual eligibility for subsidiary benefits. Pp. <a href="./us406-0535.xml#p539">406 U. S. 539</a>-545.</p>
@@ -23,7 +23,7 @@
     <p>REHNQUIST, J., delivered the opinion of the Court, in which BURGER, C.J., and WHITE, BLACKMUN, and POWELL, JJ., joined. STEWART, J., filed a statement joining in Part III of the Court's opinion, post, p. <a href="./us406-0535.xml#p551"> 406 U. S. 551</a>. DOUGLAS, J., filed a dissenting opinion, in which BRENNAN, J., joined, post, p. <a href="./us406-0535.xml#p551">406 U. S. 551</a>. MARSHALL, J., filed a dissenting opinion, in which BRENNAN, J., joined, and in Part I of which STEWART, J., joined, post, p. <a href="./us406-0535.xml#p558">406 U. S. 558</a>.</p>
     <p>MR. JUSTICE REHNQUIST delivered the opinion of the Court.</p>
     <p>Appellants in this case challenge certain computation procedures that the State of Texas uses in its federally assisted welfare program. Believing that neither the Constitution nor the federal welfare statute prohibits the State from adopting these policies, we affirm the judgment of the three-judge court below upholding the state procedures.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Appellants are Texas recipients of Aid to Families With Dependent Children (AFDC). They brought two class</p>
     <n id="p537">537</n>
     <p>actions, which were consolidated in the United States District Court for the Northern District of Texas, seeking injunctive and declaratory relief against state welfare officials. A three-judge court was convened pursuant to 28 U.S.C. § 2281.</p>
@@ -36,7 +36,7 @@
     <p>On remand, the District Court entered a new judgment, denying all relief. Then, in a motion to amend the judgment, appellants raised a new statutory claim. They argued for the first time that, although a percentage reduction system may be consistent with the statute, the</p>
     <n id="p539">539</n>
     <p>specific procedures that Texas uses for computing that reduction violate the congressional enactment. The District Court rejected this argument and denied without opinion appellants' motion to amend the judgment. This appeal under 28 U.S.C. § 1253 then followed, and we noted probable jurisdiction. 404 U.S. 820 (1971).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Appellants' statutory argument relates to the method that the State uses to compute the percentage reduction when the recipient also has some outside income. Texas, like many other States, [<a id="nf4" href="#fn4">Footnote 4</a>] first applies the percentage reduction factor to the recipient's standard of need, thus arriving at a reduced standard of need that the State can guarantee for each recipient within the present budgetary restraints. After computing this reduced standard of need, the State then subtracts any nonexempt [<a id="nf5" href="#fn5">Footnote 5</a>] income in order to arrive at the level of benefits that the recipient needs in order to reach his reduced standard of need. This is the amount of welfare the recipient is given.</p>
     <p>Under an alternative system used by other States, the order of computation is reversed. First, the outside income is subtracted from the standard of need, in order to determine the recipient's "unmet need." Then the percentage reduction factor is applied to the unmet need in order to determine the welfare benefits payable.</p>
     <p>The two systems of accounting for outside income yield different results. [<a id="nf6" href="#fn6">Footnote 6</a>] Under the Texas system, all</p>
@@ -66,7 +66,7 @@
     <p>Nor are appellants aided by their reference to Social Security Act § 402(a)(10), 42 U.S.C. § 602(a)(10), which provides that AFDC benefits must "be furnished</p>
     <n id="p545">545</n>
     <p>with reasonable promptness to all eligible individuals." That section was enacted at a time when persons whom the State had determined to be eligible for the payment of benefits were placed on waiting lists, because of the shortage of state funds. The statute was intended to prevent the States from denying benefits, even temporarily, to a person who has been found fully qualified for aid. See H.R.Rep. No. 1300, 81st Cong., 1st Sess., 48, 148 (1949); 95 Cong.Rec. 13934 (remarks of Rep. Forand). Section 402(a)(10) also prohibits a State from creating certain exceptions to standards specifically enunciated in the federal Act. See, e.g., Townsend v. Swank, <a href="../us404/us404-0282.xml#p282">404 U. S. 282</a> (1971). It does not, however, enact by implication a generalized federal criterion to which States must adhere in their computation of standards of need, income, and benefits. [<a id="nf14" href="#fn14">Footnote 14</a>] Such an interpretation would be an intrusion into an area in which Congress has given the States broad discretion, and we cannot accept appellants' invitation to change this longstanding statutory scheme simply for policy consideration reasons of which we are not the arbiter.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>We turn, then, to appellants' claim that the Texas system of percentage reductions violates the Fourteenth Amendment. Appellants believe that, once the State has computed a standard of need for each recipient, it is arbitrary and discriminatory to provide only 75% of that standard to AFDC recipients, while paying 100% of recognized need to the aged, and 95% to the disabled and the blind. They argue that, if the State adopts a</p>
     <n id="p546">546</n>
     <p>percentage reduction system, it must apply the same percentage to each of its welfare programs.</p>
@@ -260,7 +260,7 @@
       <p>Appellants also claim that the percentage reduction factor employed by Texas is illegal, irrespective of the</p>
       <n id="p560">560</n>
       <p>method of computing payments, because it is lower than the factor used in other social welfare programs that have participants with identical standards of need. I also agree with appellants on this point, but for slightly different reasons from those they have urged.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>A. In considering the question whether Texas' method of computing eligibility for AFDC payments comports with the federal statute, 42 U.S.C. § 601 et seq., it is important to keep in mind the words of Mr. Justice Cardozo: "When [federal] money is spent to promote the general welfare, the concept of welfare or the opposite is shaped by Congress, not the states." Helvering v. Davis, <a href="../us301/us301-0619.xml#p619">301 U. S. 619</a>, <a href="../us301/us301-0619.xml#p645">301 U. S. 645</a> (1937). Mr. Justice Harlan reiterated this point in Rosado v. Wyman, <a href="../us397/us397-0397.xml#p397">397 U. S. 397</a>, <a href="../us397/us397-0397.xml#p422">397 U. S. 422</a>-423 (1970), when he stated that, irrespective of the policies that a State might wish to pursue by utilizing AFDC money in one way or another, the ultimate question to be answered in each case is whether the action of the State comports with the requirements of federal law.</p>
       <p>The Court concludes in the instant case that there is no general congressional policy violated by Texas' choice between the alternative methods of applying a percentage reduction factor to its determined standard of need, and also that no specific statutory provision prohibits Texas from choosing one alternative rather than the other. In concluding that the legislative history is inconclusive and that "what little legislative history there is on the point . . . tends to undercut appellants' theory," the Court has, in my opinion, taken only a superficial look into the history of the statute, and has ignored the intent of Congress in various sections of</p>
       <n id="p561">561</n>
@@ -347,7 +347,7 @@
       <p>(Citation omitted.) Lampton v. Bonin, 304 F. Supp. at 1389. We suggested the same thing in Rosado, 397 U.S. at <a href="../us397/us397-0397.xml#p413">397 U. S. 413</a>. While the Court recognizes that the Texas system deprives persons with an "unmet need" of an opportunity to utilize these services (n. 10), and thus relegates these persons to perpetual dependence on welfare, the realization is apparently a source of no concern. But it was a source of tremendous concern to Congress. The value of medical assistance alone to an average Texas AFDC family is in the range of $50-$60 per month. Memorandum for the United States as Amicus Curiae 7 n. 5. Since needy families are rendered more needy by Texas' system, their ability to escape the confines of the welfare rolls is substantially impaired. At the same time, the goals of Congress as described in the preceding quotation are also impaired. There is no reason, nor any justification, for reading the statute this way. Since I believe that Congress intended that as many needy persons as possible be permitted to avail themselves of the various services provided or improved in the 1968 amendments, I again disagree with the conclusions of the Court.</p>
       <n id="p574">574</n>
       <p>F. In concluding my analysis of this aspect of Texas' percentage reduction system, I add one final note. Thus far, I have confined myself to examining the specific provisions of the AFDC legislation. In attempting to focus on each section individually in order to determine its role in the statutory scheme, something of the general flavor of the overall legislation is undoubtedly lost. That flavor, it seems to me, is to assist needy families to maintain strong family bonds and to assist needy individuals to realize their potential as unique human beings by providing them with the basic necessities of life, along with incentives and training to encourage them to work to help themselves. The Texas system negates the salutary aspects of the legislation by deterring the needy from working, by depriving the needy of social services, and by excluding some needy from any AFDC aid whatsoever. There is no conceivable reason to permit Texas to subvert the aims of Congress in this way.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>Appellants also challenge the percentage reduction figure itself. It is agreed that Texas has established an identical standard of need for the four social welfare programs that it administers -- Old Age Assistance (OAA), Aid to the Blind (AB), Aid for the Permanently and Totally Disabled (APTD), and AFDC. But Texas provides 100% of recognized need to the aged and 95% to the disabled and the blind, while it provides only 75% to AFDC recipients. It is this disparity to which appellants also object.</p>
       <p>A. Appellants base their primary attack on the Fourteenth Amendment; they argue that the percentage distinctions between the other welfare programs and AFDC reflect a racially discriminatory motive on the part of Texas officials. Thus, they argue that there is a violation of the Equal Protection Clause. I believe that it</p>
       <n id="p575">575</n>

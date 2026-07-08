@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us469-0038.html" citation="469 U.S. 38" title="Luce v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p38">38</n>
-    <h>U.S. Supreme Court</h>
-    <h>Luce v. United States, <a href="./us469-0038.xml#p38">469 U.S. 38</a> (1984)</h>
-    <h>Luce v. United States</h>
-    <h>No. 83-912</h>
-    <h>Argued October 3, 1984</h>
-    <h>Decided December 10, 1984</h>
-    <h><a href="./us469-0038.xml#p38">469 U.S. 38</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SIXTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Luce v. United States, <a href="./us469-0038.xml#p38">469 U.S. 38</a> (1984)</h1>
+    <h2>Luce v. United States</h2>
+    <h2>No. 83-912</h2>
+    <h4>Argued October 3, 1984</h4>
+    <h4>Decided December 10, 1984</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SIXTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>During his trial in Federal District Court on federal drug charges, petitioner moved to preclude the Government from using a prior state conviction to impeach him if he testified. Petitioner made no commitment to testify if the motion were granted and no proffer as to what his testimony would be. The District Court denied the motion in limine, ruling that the prior conviction fell within the category of permissible impeachment evidence under Federal Rule of Evidence 609(a). Petitioner did not testify, and the jury returned guilty verdicts. The Court of Appeals affirmed, holding that since petitioner did not testify, it would not consider petitioner's contention that the District Court abused its discretion in denying his motion in limine without making a finding, as required by Rule 609(a)(1), that the probative value of the prior conviction outweighed its prejudicial effect.</p>
     <p>Held: To raise and preserve for review the claim of improper impeachment with a prior conviction, a defendant must testify. To perform the weighing of the prior conviction's probative value against its prejudicial effect, as required by Rule 609(a)(1), the reviewing court must know the precise nature of the defendant's testimony, which is unknowable when, as here, the defendant does not testify. Any possible harm flowing from a district court's in limine ruling permitting impeachment by a prior conviction is wholly speculative. On the record in this case, it is conjectural whether the District Court would have allowed the Government to impeach with the prior conviction. Moreover, when the defendant does not testify, the reviewing court has no way of knowing whether the Government would have sought so to impeach, and cannot assume that the trial court's adverse ruling motivated the defendant's decision not to testify. Even if these difficulties could be surmounted, the reviewing court would still face the question of harmless error. If in limine rulings under Rule 609(a) were reviewable, almost any error would result in automatic reversal, since the reviewing court could not logically term "harmless" an error that presumptively kept the defendant from testifying. Requiring a defendant to testify in order to preserve Rule 609(a) claims enables the reviewing court to determine the impact any erroneous impeachment may have in light of the record as a whole, and</p>
     <n id="p39">39</n>
@@ -20,16 +20,16 @@
     <p>BURGER, C.J., delivered the opinion of the Court, in which all other Members joined, except STEVENS, J., who took no part in the consideration or decision of the case. BRENNAN, J., filed a concurring opinion, in which MARSHALL, J., joined, post, p. <a href="./us469-0038.xml#p43">469 U. S. 43</a>.</p>
     <p>CHIEF JUSTICE BURGER delivered the opinion of the Court.</p>
     <p>We granted certiorari to resolve a conflict among the Circuits as to whether the defendant, who did not testify at trial, is entitled to review of the District Court's ruling denying his motion to forbid the use of a prior conviction to impeach his credibility.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Petitioner was indicted on charges of conspiracy, and possession of cocaine with intent to distribute, in violation of 21 U.S.C. §§ 846 and 841(a)(1). During his trial in the United States District Court for the Western District of Tennessee, petitioner moved for a ruling to preclude the Government from using a 1974 state conviction to impeach him if he testified. There was no commitment by petitioner that he would testify if the motion were granted, nor did he make a proffer to the court as to what his testimony would be. In opposing the motion, the Government represented that the conviction was for a serious crime -- possession of a controlled substance.</p>
     <p>The District Court ruled that the prior conviction fell within the category of permissible impeachment evidence</p>
     <n id="p40">40</n>
     <p>under Federal Rule of Evidence 609(a). [<a id="nf1" href="#fn1">Footnote 1</a>] The District Court noted, however, that the nature and scope of petitioner's trial testimony could affect the court's specific evidentiary rulings; for example, the court was prepared to hold that the prior conviction would be excluded if petitioner limited his testimony to explaining his attempt to flee from the arresting officers. However, if petitioner took the stand and denied any prior involvement with drugs, he could then be impeached by the 1974 conviction. Petitioner did not testify, and the jury returned guilty verdicts.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The United States Court of Appeals for the Sixth Circuit affirmed. 713 F.2d 1236 (1983). The Court of Appeals refused to consider petitioner's contention that the District Court abused its discretion in denying the motion in limine [<a id="nf2" href="#fn2">Footnote 2</a>] without making an explicit finding that the probative value of the prior conviction outweighed its prejudicial effect. The Court of Appeals held that, when the defendant does not testify, the court will not review the District Court's in limine ruling.</p>
     <p>Some other Circuits have permitted review in similar situations; [<a id="nf3" href="#fn3">Footnote 3</a>] we granted certiorari to resolve the conflict. 466 U.S. 903 (1984). We affirm.</p>
     <n id="p41">41</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>It is clear, of course, that had petitioner testified and been impeached by evidence of a prior conviction, the District Court's decision to admit the impeachment evidence would have been reviewable on appeal along with any other claims of error. The Court of Appeals would then have had a complete record detailing the nature of petitioner's testimony, the scope of the cross-examination, and the possible impact of the impeachment on the jury's verdict.</p>
     <p>A reviewing court is handicapped in any effort to rule on subtle evidentiary questions outside a factual context. [<a id="nf4" href="#fn4">Footnote 4</a>] This is particularly true under Rule 609(a)(1), which directs the court to weigh the probative value of a prior conviction against the prejudicial effect to the defendant. To perform this balancing, the court must know the precise nature of the defendant's testimony, which is unknowable when, as here, the defendant does not testify. [<a id="nf5" href="#fn5">Footnote 5</a>]</p>
     <p>Any possible harm flowing from a district court's in limine ruling permitting impeachment by a prior conviction is wholly speculative. The ruling is subject to change when the case unfolds, particularly if the actual testimony differs from what was contained in the defendant's proffer. Indeed even if nothing unexpected happens at trial, the district judge is free, in the exercise of sound judicial discretion, to</p>

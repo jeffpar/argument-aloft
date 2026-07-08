@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us361-0314.html" citation="361 U.S. 314" title="Hess v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p314">314</n>
-    <h>U.S. Supreme Court</h>
-    <h>Hess v. United States, <a href="./us361-0314.xml#p314">361 U.S. 314</a> (1960)</h>
-    <h>Hess v. United States</h>
-    <h>No. 5</h>
-    <h>Argued October 15, 1959</h>
-    <h>Decided January 18, 1960</h>
-    <h><a href="./us361-0314.xml#p314">361 U.S. 314</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Hess v. United States, <a href="./us361-0314.xml#p314">361 U.S. 314</a> (1960)</h1>
+    <h2>Hess v. United States</h2>
+    <h2>No. 5</h2>
+    <h4>Argued October 15, 1959</h4>
+    <h4>Decided January 18, 1960</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>In an action against the United States under the Federal Tort Claims Act to recover for the wrongful death of an employee of an independent contractor engaged to perform repairs to the Bonneville Dam, which is owned and operated by the United States, it appeared that his death resulted from drowning in navigable waters of the Columbia River within the State of Oregon.</p>
     <p>Held: the right of action for wrongful death created by the Oregon Employers' Liability Law may be invoked to recover for a maritime death in that State without constitutional inhibition. The Tungus v. Skovgaard, <a href="../us358/us358-0588.xml#p588">358 U. S. 588</a>. Pp. <a href="./us361-0314.xml#p314">361 U. S. 314</a>-321.</p>
     <p>259 F.2d 285, judgment vacated and cause remanded.</p>
@@ -97,13 +97,13 @@
       <n id="p323">323</n>
       <p>the law of the State whose wrongful death statute is invoked wholly governs liability. [Footnote 2/2] At the same time, the Court leaves open the question whether a state wrongful death act might contain "provisions so offensive to traditional principles of maritime law that the admiralty would decline to enforce them," finding that this Oregon statute "presents no such problem."</p>
       <p>I cannot agree with the view that wrongful death actions growing out of maritime torts are so pervasively controlled by state law, or with the conclusion that this state statute, in its substantive provisions is, in any event, not offensive to maritime law. Nor can I subscribe to the intimation that the question which the Court reserves is seriously open to debate. Because of the importance of the issue, a fuller statement of my views is justified than might be appropriate in a case of lesser general concern.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>It is surely beyond dispute that the Oregon Employers' Liability Law, Ore.Rev.Stat. § 654.305, imposes a stricter standard of duty than that imposed by maritime law. Under maritime law, the basis of liability in cases like this is the failure to use reasonable care in light of the attendant circumstances, that is, negligence. See Kermarec v. Compagnie Generale, <a href="../us358/us358-0625.xml#p625">358 U. S. 625</a>, <a href="../us358/us358-0625.xml#p630">358 U. S. 630</a>, 632. The state statute, on the other hand, imposes the duty to use --</p>
       <p>"every device, care and precaution which it is practicable to use for the protection and safety of life and limb, limited only by the necessity for preserving</p>
       <n id="p324">324</n>
       <p>the efficiency of the . . . device, and without regard to the additional cost of suitable material or safety appliance [sic] and devices."</p>
       <p>Ore.Rev.Stat. § 654.305. Oregon itself has recognized that this statute imposes a "much higher degree of care," Homan v. Broadway Hazelwood, 139 Ore. 519, 524, 10 P.2d 349, 351, 11 P.2d 814, than that generally required of defendants in accident cases. See Camenzind v. Freeland Furniture Co., 89 Ore. 158, 172-173, 174 P. 139, 144. So much indeed I do not understand the Court to deny.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>Had this accident resulted in injuries short of death, it is clear that the United States could not have been held liable except in accordance with the standards of duty imposed by maritime law. This follows from the general constitutional doctrine of federal supremacy in maritime affairs, and more particularly from the rule first unmistakably announced in Chelentis v. Luckenbach S.S. Co., <a href="../us247/us247-0372.xml#p372">247 U. S. 372</a>, which rejected the notion that the "saving clause" of § 9 of the Judiciary Act of 1789, 1 Stat. 77, permitted the application in maritime tort cases of state substantive rules in derogation of maritime law. [Footnote 2/3] That</p>
       <n id="p325">325</n>
       <p>case was a maritime tort action brought in a state court by a seaman, seeking compensatory damages for injuries claimed to have been caused by the negligence of his employer. Historically, maritime law recognized no such cause of action. The duty of a shipowner to an injured crewman was only to provide for his maintenance and cure, and that irrespective of negligence; full indemnity was owing only for breach of the warranty of seaworthiness. [Footnote 2/4] The Court held, first, that § 20 of the Merchant Marine Act of 1915, 38 Stat. 1185, [Footnote 2/5] notwithstanding, such was still the rule. This being so, a state court was not free to apply any other rule to a maritime tort:</p>
@@ -124,7 +124,7 @@
       <p>necessary to determine the rights and liabilities of the parties. Carlisle Packing Co. v. Sandanger, <a href="https://law.justia.com/us/259/255/">259 U. S. 255</a>, <a href="https://law.justia.com/us/259/255/#259">259 U. S. 259</a>. Where the plaintiff exercises the right conferred by diversity of citizenship to choose a federal forum, the result is no different, even though he exercises the further right to a jury trial. Whatever doubt may once have existed on that score was effectively laid to rest by Pope &amp; Talbot, Inc. v. Hawn, <a href="https://law.justia.com/us/346/406/">346 U. S. 406</a>, <a href="https://law.justia.com/us/346/406/#410">346 U. S. 410</a>-11."</p>
       <p>Id. at <a href="../us358/us358-0625.xml#p628">358 U. S. 628</a>.</p>
       <p>I think it is clear, then, that the supremacy principle established by this line of cases may not be shrugged off as a discredited relic of an earlier day. [Footnote 2/9] Indeed, the Court's total disregard of that principle in the present case is not grounded on the view that it is no longer generally viable. Rather, the Court appears to consider it inapplicable in an action for wrongful death. For reasons now to be discussed, I think this is a mistaken view.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>What I shall address myself to at this point is the reason why maritime law permits resort to state wrongful death statutes. [Footnote 2/10] For it is only through an understanding</p>
       <n id="p329">329</n>
       <p>of that reason that light can be shed on the pivotal issue in this case.</p>
@@ -156,7 +156,7 @@
       <n id="p334">334</n>
       <p>Far different is the case when a State purports, as here, to impose a duty which under federal law a person does not bear. Then it can hardly be said that the State is not seeking to regulate conduct within federal maritime jurisdiction. The very purpose of a statute like the one here invoked is to induce those to whom it applies to take the precautions required by it. In such a case, the mere fact that it is a death act which imposes the duty cannot be thought to render the import of the matter of "local" concern only. The state interests given expression no longer are predominantly those peculiarly within state concern. By the same token, the intrusion into federally regulated interests is no longer minimal.</p>
       <p>I can find no justification, consistent with the course of adjudication in this Court, for upholding state power here, without so much as even suggesting the need for an inquiry as to the extent of federal interest in the activity in question. [Footnote 2/14]</p>
-      <h>IV</h>
+      <h2>IV</h2>
       <p>Nothing in the wrongful death cases on which the Court relies calls for today's holding. None of them involved, as here, the assertion of any local rules of substantive law going beyond those applicable under federal standards. [Footnote 2/15]</p>
       <n id="p335">335</n>
       <p>The essential failing in the Court's use of these cases is its view that, because rights asserted under a state death statute are manifestly rights created by the State, no federal element is involved in their assertion. The truth is, however, that, where the tort is maritime and the action is brought under the "saving clause," state-created rights may be asserted only by federal permission. That is the premise on which The Hamilton and its offspring proceeded. When such a right is asserted, the plaintiff must, however, show more than that a State can give</p>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us460-0693.html" citation="460 U.S. 693" title="Metropolitan Edison Co. v. NLRB">
   <opinion type="Opinions &amp; Dissents">
     <n id="p693">693</n>
-    <h>U.S. Supreme Court</h>
-    <h>Metropolitan Edison Co. v. NLRB, <a href="./us460-0693.xml#p693">460 U.S. 693</a> (1983)</h>
-    <h>Metropolitan Edison Co. v. National Labor Relations Board</h>
-    <h>No. 81-1664</h>
-    <h>Argued January 11, 1983</h>
-    <h>Decided April 4, 1983</h>
-    <h><a href="./us460-0693.xml#p693">460 U.S. 693</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE THIRD CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Metropolitan Edison Co. v. NLRB, <a href="./us460-0693.xml#p693">460 U.S. 693</a> (1983)</h1>
+    <h2>Metropolitan Edison Co. v. National Labor Relations Board</h2>
+    <h4>No. 81-1664</h4>
+    <h4>Argued January 11, 1983</h4>
+    <h4>Decided April 4, 1983</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE THIRD CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Despite a no-strike clause in the collective bargaining agreement between petitioner employer and the Electrical Workers union, which represented over half of petitioner's employees, union members participated in four unlawful work stoppages between 1970 and 1974, and on each occasion petitioner disciplined the local union officials more severely than the other participants. Twice the union filed a grievance because of the disparate treatment accorded its officials, and in both cases the arbitrators upheld petitioner's actions, finding that union officials have an affirmative duty to uphold the bargaining agreement, the breach of which duty justified petitioner's imposition of more severe sanctions. Subsequently, in 1977, an unrelated union, the Operating Engineers, set up an informational picket line at the entrance to the site where petitioner was constructing a nuclear generating station. Electrical Workers union members refused to cross the picket line. Eventually, after a settlement between the Operating Engineers and petitioner was reached, the picket line came down and the union's members returned to work. Petitioner then disciplined all of its employees who had refused to cross the picket line by imposing 5- to 10-day suspensions, but imposed 25-day suspensions on two local Electrical Workers officials for failure to attempt to end the strike by crossing the picket line. The Electrical Workers union filed an unfair labor practice charge against petitioner, and the National Labor Relations Board affirmed the Administrative Law Judge's holding that the selective discipline of union officials violated § 8(a)(3) of the National Labor Relations Act, which makes it an unfair labor practice for an employer</p>
     <p>"by discrimination in regard to hire or tenure of employment or any term or condition of employment to encourage or discourage membership in any labor organization."</p>
     <p>The Court of Appeals enforced the Board's order, holding that an employer may impose greater discipline on union officials only when the collective bargaining agreement specifies that the officials have an affirmative duty to prevent illegal work stoppages, and that, if the agreement does not provide for such a duty, any disparate treatment of union officials violates § 8(a)(3). The court rejected petitioner's argument that the two earlier arbitration</p>
@@ -24,7 +24,7 @@
     <n id="p695">695</n>
     <p>JUSTICE POWELL delivered the opinion of the Court.</p>
     <p>The issue is whether an employer may discipline union officials more severely than other union employees for participating in an unlawful work stoppage.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Metropolitan Edison Company began construction of a two-unit nuclear generating station at Three Mile Island in 1968. Over half of its employees were represented by the International Brotherhood of Electrical Workers. Article XI of the collective bargaining agreement between the company and the union provided:</p>
     <p>"The Brotherhood and its members agree that, during the term of this agreement, there shall be no strikes or walkouts by the Brotherhood or its members, and the Company agrees that there shall be no lockouts of the Brotherhood or its members, it being the desire of both parties to provide uninterrupted and continuous service to the public."</p>
     <p>App. to Pet. for Cert. A-32. Despite this no-strike clause, union members participated in four unlawful work stoppages between 1970 and 1974. [<a id="nf1" href="#fn1">Footnote 1</a>] On each occasion, the company disciplined the local union officials more severely than the other participants. Twice the union filed a grievance because of the disparate treatment accorded</p>
@@ -43,7 +43,7 @@
     <n id="p699">699</n>
     <p>picket line. The court held that it was not bound by these arbitration decisions in determining the extent of the officials' contractual obligations. Id. at 483. It noted that a previous arbitration decision normally would not bind an arbitrator later construing the same collective bargaining agreement. Absent an express contractual provision making earlier arbitration decisions binding, [<a id="nf5" href="#fn5">Footnote 5</a>] the court declined to give these decisions any greater effect than an arbitrator would. Id. at 483-484.</p>
     <p>We granted certiorari to consider these recurring questions of federal labor law. 457 U.S. 1116 (1982). We now affirm.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>This case does not present the question whether an employer may impose stricter penalties on union officials who take a leadership role in an unlawful strike. The Administrative Law Judge found that neither Light nor Lang acted as a strike leader. [<a id="nf6" href="#fn6">Footnote 6</a>] Nor does this case question the employer's right to discipline union officials who engage in unprotected activity. Neither the union nor the Board has argued that union officials who fail to honor a no-strike clause are immunized from being disciplined in the same manner as</p>
     <n id="p700">700</n>
     <p>other strike participants. The narrow question presented is whether an employer unilaterally may define the actions a union official is required to take to enforce a no-strike clause and penalize him for his failure to comply.</p>
@@ -74,7 +74,7 @@
     <p>General Building Contractors Assn. v. Pennsylvania, <a href="../us458/us458-0375.xml#p375">458 U. S. 375</a>, <a href="../us458/us458-0375.xml#p394">458 U. S. 394</a> (1982) (quoting NLRB v. Insurance Agents, <a href="../us361/us361-0477.xml#p477">361 U. S. 477</a>, <a href="../us361/us361-0477.xml#p488">361 U. S. 488</a> (1960)). Congress has sought to ensure the integrity of this process by preventing both management and labor's representatives from being coerced in the performance of their official duties. [<a id="nf9" href="#fn9">Footnote 9</a>] See Florida Power &amp; Light Co. v. Electrical Workers, <a href="../us417/us417-0790.xml#p790">417 U. S. 790</a>, <a href="../us417/us417-0790.xml#p810">417 U. S. 810</a>-811 (1974); id. at <a href="../us417/us417-0790.xml#p814">417 U. S. 814</a> (WHITE, J., dissenting). Cf. 29 U.S.C. § 158(a)(2) (specifying employer domination of unions as an unfair labor practice). If, as the company urges, an employer could define unilaterally</p>
     <n id="p705">705</n>
     <p>the actions that a union official is required to take, it would give the employer considerable leverage over the manner in which the official performs his union duties. Failure to comply with the employer's directions would place the official's job in jeopardy. But compliance might cause him to take actions that would diminish the respect and authority necessary to perform his job as a union official. This is the dilemma Congress sought to avoid. We believe the Board's decision furthers these policies, and uphold its determination.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The company argues that, even if § 8(a)(3) would prohibit it from imposing a more severe penalty on union officials than on other employees, the union, in effect, has waived the protection afforded by the statute. The substance of this contention is that, in this case, the prior arbitration awards and the union's acquiescence in the harsher sanctions imposed on its officials are sufficient to establish a corresponding contractual duty. We are met at the outset, however, by the union's response that the statutory right to be free from discrimination may never be waived. We examine first the union s argument.</p>
     <p>A</p>
     <p>This Court long has recognized that a union may waive a member's statutorily protected rights, including "his right to strike during the contract term, and his right to refuse to cross a lawful picket line." NLRB v. Allis-Chalmers Manufacturing Co., <a href="../us388/us388-0175.xml#p175">388 U. S. 175</a>, <a href="../us388/us388-0175.xml#p180">388 U. S. 180</a> (1967) (footnotes omitted). Such waivers are valid because they "rest on the premise of fair representation,' and presuppose that the selection of the bargaining representative `remains free.'" NLRB v. Magnavox Co., <a href="../us415/us415-0322.xml#p322">415 U. S. 322</a>, <a href="../us415/us415-0322.xml#p325">415 U. S. 325</a> (1974) (quoting Mastro Plastics Corp. v. NLRB, <a href="../us350/us350-0270.xml#p270">350 U. S. 270</a>, <a href="../us350/us350-0270.xml#p280">350 U. S. 280</a> (1956)); cf. NLRB v. Allis-Chalmers Manufacturing Co., supra, at <a href="../us388/us388-0175.xml#p180">388 U. S. 180</a>-181. Waiver should not undermine these premises. Thus, a union may bargain away its members' economic rights, but it may not surrender rights that impair the employees' choice of</p>
@@ -98,7 +98,7 @@
     <p>As noted above, the company argues that, when the prior bargaining agreement was renegotiated, the union's silence manifested a clear acceptance of the earlier arbitration decisions. During the history of collective bargaining between these two parties, however, there were only two arbitration decisions that imposed a higher duty on union officials. We do not think that two arbitration awards establish a pattern of decisions clear enough to convert the union's silence into binding waiver. This is especially so in light of the provision in the bargaining agreement that "[a] decision [by an arbitrator] shall be binding . . . for the term of this agreement." See <a id="nf5" href="#fn5">n</a> 5, supra (emphasis added). We conclude that there is</p>
     <n id="p710">710</n>
     <p>no showing that the parties intended to incorporate the two prior arbitration decisions into the subsequent agreement.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>We accept the Board's conclusion that the imposition of more severe sanctions on union officials for participating in an unlawful work stoppage violates § 8(a)(3). While a union may waive this protection by clearly imposing contractual duties on its officials to ensure the integrity of no-strike clauses, we find that no waiver occurred here. Accordingly, the judgment of the Court of Appeals is</p>
     <p>Affirmed.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>

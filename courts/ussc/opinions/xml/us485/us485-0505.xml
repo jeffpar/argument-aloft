@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us485-0505.html" citation="485 U.S. 505" title="South Carolina v. Baker">
   <opinion type="Opinions &amp; Dissents">
     <n id="p505">505</n>
-    <h>U.S. Supreme Court</h>
-    <h>South Carolina v. Baker, <a href="./us485-0505.xml#p505">485 U.S. 505</a> (1988)</h>
-    <h>South Carolina v. Baker</h>
-    <h>No. 94, Orig.</h>
-    <h>Argued December 7, 1987</h>
-    <h>Decided April 20, 1988</h>
-    <h><a href="./us485-0505.xml#p505">485 U.S. 505</a></h>
-    <h>ON EXCEPTIONS TO REPORT OF SPECIAL MASTER</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>South Carolina v. Baker, <a href="./us485-0505.xml#p505">485 U.S. 505</a> (1988)</h1>
+    <h2>South Carolina v. Baker</h2>
+    <h2>No. 94, Orig.</h2>
+    <h4>Argued December 7, 1987</h4>
+    <h4>Decided April 20, 1988</h4>
+    <h2>ON EXCEPTIONS TO REPORT OF SPECIAL MASTER</h2>
+    <h2>Syllabus</h2>
     <p>Section 310(b)(1) of the Tax Equity and Fiscal Responsibility Act of 1982 removes the federal income tax exemption for interest earned on publicly offered long-term bonds (hereinafter referred to as bonds) issued by state and local governments (hereinafter referred to collectively as States) unless those bonds are issued in registered (as opposed to bearer) form. South Carolina invoked this Court's original jurisdiction, contending that § 310(b)(1) is constitutionally invalid under the Tenth Amendment and the doctrine of intergovernmental tax immunity. A Special Master was appointed. After conducting hearings and taking evidence, he concluded that § 310(b)(1) is constitutional, and recommended entering judgment for the defendant. South Carolina and the National Governors' Association (NGA), as an intervenor, filed exceptions to various factual findings of the Master and to his legal conclusions concerning their constitutional challenges.</p>
     <p>Held:</p>
     <p>1. Section 310(b)(1) does not violate the Tenth Amendment or constitutional principles of federalism by effectively compelling States to issue bonds in registered form. Pp. <a href="./us485-0505.xml#p511">485 U. S. 511</a>-515.</p>
@@ -26,7 +26,7 @@
     <p>Section 310(b)(1) of the Tax Equity and Fiscal Responsibility Act of 1982 (TEFRA), Pub.L. 97-248, 96 Stat. 596, 26 U.S.C. § 103(j)(1), removes the federal income tax exemption for interest earned on publicly offered long-term bonds issued by state and local governments unless those bonds are</p>
     <n id="p508">508</n>
     <p>issued in registered form. [<a id="nf1" href="#fn1">Footnote 1</a>] This original jurisdiction case presents the issues whether § 310(b)(1) of TEFRA either (1) violates the Tenth Amendment and constitutional principles of federalism by compelling States to issue bonds in registered form or (2) violates the doctrine of intergovernmental tax immunity by taxing the interest earned on unregistered state bonds.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Historically, bonds have been issued as either registered bonds or bearer bonds. These two types of bonds differ in the mechanisms used for transferring ownership and making payments. Ownership of a registered bond is recorded on a central list, and a transfer of record ownership requires entering the change on that list. [<a id="nf2" href="#fn2">Footnote 2</a>] The record owner automatically receives interest payments by check or electronic transfer of funds from the issuer's paying agent. Ownership of a bearer bond, in contrast, is presumed from possession and is transferred by physically handing over the bond. The bondowner obtains interest payments by presenting bond coupons to a bank that in turn presents the coupons to the issuer's paying agent.</p>
     <p>In 1982, Congress enacted TEFRA, which contains a variety of provisions, including § 310, designed to reduce the federal deficit by promoting compliance with the tax laws. Congress had become concerned about the growing magnitude of tax evasion; Internal Revenue Service (IRS) studies indicated that unreported income had grown from an estimated range of $31.1 billion to $32.2 billion in 1973 to a range of $93.3 billion to $97 billion in 1981. Compliance Gap: Hearing before the Subcommittee on Oversight of the Internal</p>
     <n id="p509">509</n>
@@ -38,7 +38,7 @@
     <p>South Carolina invoked the original jurisdiction of this Court, contending that § 310(b)(1) is constitutionally invalid under the Tenth Amendment and the doctrine of intergovernmental tax immunity. We granted South Carolina leave to file the instant complaint against the Secretary of the Treasury of the United States, South Carolina v. Regan, <a href="../us465/us465-0367.xml#p367">465 U. S. 367</a> (1984), and appointed as Special Master the Honorable Samuel J. Roberts, 466 U.S. 948 (1984). The National Governors' Association (NGA) intervened. [<a id="nf4" href="#fn4">Footnote 4</a>] After conducting hearings and taking evidence, the Special Master concluded that § 310(b)(1) was constitutional and recommended</p>
     <n id="p511">511</n>
     <p>entering judgment for the defendant. South Carolina and the NGA filed exceptions to various factual findings of the Special Master and to the Master's legal conclusions concerning their constitutional challenges.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>We address the claim that § 310(b)(1) violates the Tenth Amendment first. [<a id="nf5" href="#fn5">Footnote 5</a>] South Carolina and the NGA contend, and the Master found, that § 310 effectively requires States to issue bonds in registered form, noting that if States issued bonds in unregistered form, competition from other nonexempt bonds would force States to increase the interest paid on state bonds by 28-35%, and that, even though almost all state bonds were issued in bearer form before § 310 became effective, since then, no State has issued a bearer bond. Report of Special Master 2, 23-24. South Carolina and the NGA thus argue that, for purposes of Tenth Amendment analysis, we must treat § 310 as if it simply banned bearer bonds altogether, without giving States the option to issue nonexempt bearer bonds. The Secretary does not dispute the finding that § 310 effectively requires registration, see Brief for Defendant 19 (urging the Court to adopt all the Master's findings), preferring to argue that § 310 survives Tenth Amendment scrutiny because a blanket prohibition by Congress on the issuance of bearer bonds can apply to States without violating the Tenth Amendment. For the purposes of Tenth Amendment analysis, then, we treat § 310 as if it directly regulated States by prohibiting outright the issuance of bearer bonds. [<a id="nf6" href="#fn6">Footnote 6</a>]</p>
     <n id="p512">512</n>
     <p>A</p>
@@ -53,7 +53,7 @@
     <p>Because, by hypothesis, § 310 effectively prohibits issuing unregistered bonds, it presents the very situation FERC distinguished from a commandeering of state regulatory machinery: the extent to which the Tenth Amendment "shields the States from generally applicable federal regulations." 456 U.S. at <a href="../us456/us456-0742.xml#p759">456 U. S. 759</a>. Section 310 regulates state activities; it does not, as did the statute in FERC, seek to control or influence the manner in which States regulate private parties. The NGA nonetheless contends that § 310 has commandeered the state legislative and administrative process because many state legislatures had to amend a substantial number of statutes in order to issue bonds in registered form and because state officials had to devote substantial effort to determine how best to implement a registered bond system. Such "commandeering" is, however, an inevitable consequence of regulating a state activity. Any federal regulation demands compliance. That a State wishing to engage in certain</p>
     <n id="p515">515</n>
     <p>activity must take administrative and sometimes legislative action to comply with federal standards regulating that activity is a commonplace that presents no constitutional defect. After Garcia, for example, several States and municipalities had to take administrative and legislative action to alter the employment practices or raise the funds necessary to comply with the wage and overtime provisions of the Federal Labor Standards Act. [<a id="nf8" href="#fn8">Footnote 8</a>] Indeed, even the pre-Garcia line of Tenth Amendment cases recognized that Congress could constitutionally impose federal requirements on States that States could meet only by amending their statutes. See EEOC v. Wyoming, <a href="../us460/us460-0226.xml#p226">460 U. S. 226</a>, <a href="../us460/us460-0226.xml#p253">460 U. S. 253</a>-254, and n. 2 (1983) (Burger, C.J., dissenting) (citing state statutes from over half the States that did not comply with the federal statute upheld by the Court). Under the NGA's theory, moreover, any State could immunize its activities from federal regulation by simply codifying the manner in which it engages in those activities. In short, the NGA's theory of "commandeering" would not only render Garcia a nullity, but would also restrict congressional regulation of state activities even more tightly than it was restricted under the now overruled National League of Cities line of cases. We find the theory foreclosed by precedent, and uphold the constitutionality of § 310 under the Tenth Amendment.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>South Carolina contends that, even if a statute banning state bearer bonds entirely would be constitutional, § 310 unconstitutionally violates the doctrine of intergovernmental tax immunity because it imposes a tax on the interest earned on a state bond. We agree with South Carolina that § 310 is</p>
     <n id="p516">516</n>
     <p>inconsistent with Pollock v. Farmers' Loan &amp; Trust Co., <a href="../us157/us157-0429.xml#p429">157 U. S. 429</a> (1895), which held that any interest earned on a state bond was immune from federal taxation.</p>
@@ -97,7 +97,7 @@
     <p>TEFRA § 310 thus clearly imposes no direct tax on the States. The tax is imposed on and collected from bondholders, not States, and any increased administrative costs incurred by States in implementing the registration system are not "taxes" within the meaning of the tax immunity doctrine. See generally United States v. Mississippi Tax Comm'n, <a href="../us421/us421-0599.xml#p599">421 U. S. 599</a>, <a href="../us421/us421-0599.xml#p606">421 U. S. 606</a> (1975) (describing tax as an enforced contribution to provide for the support of government). Nor does § 310 discriminate against States. The provisions of § 310 seek to assure that all publicly offered long-term bonds are issued in registered form, whether issued by state or local</p>
     <n id="p527">527</n>
     <p>governments, the Federal Government, or private corporations. See supra, at <a href="./us485-0505.xml#p510">485 U. S. 510</a>. Accordingly, the Federal Government has directly imposed the same registration requirement on itself that it has effectively imposed on States. The incentives States have to switch to registered bonds are necessarily different than those of corporate bond issuers because only state bonds enjoy any exemption from the federal tax on bond interest, but the sanctions for issuing unregistered corporate bonds are comparably severe. See ibid. Removing the tax exemption for interest earned on state bonds would not, moreover, create a discrimination between state and corporate bonds, since corporate bond interest is already subject to federal tax.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>Because the federal imposition of a bond registration requirement on States does not violate the Tenth Amendment, and because a nondiscriminatory federal tax on the interest earned on state bonds does not violate the intergovernmental tax immunity doctrine, we uphold the constitutionality of § 310(b)(1), [<a id="nf16" href="#fn16">Footnote 16</a>] overrule the exceptions to the Special Master's Report, and approve his recommendation to enter judgment for the defendant.</p>
     <p>It is so ordered.</p>
     <p>JUSTICE KENNEDY took no part in the consideration or decision of this case.</p>

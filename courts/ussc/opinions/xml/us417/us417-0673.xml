@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us417-0673.html" citation="417 U.S. 673" title="Central Tablet Mfg. Co. v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p673">673</n>
-    <h>U.S. Supreme Court</h>
-    <h>Central Tablet Mfg. Co. v. United States, <a href="./us417-0673.xml#p673">417 U.S. 673</a> (1974)</h>
-    <h>Central Tablet Mfg. Co. v. United States</h>
-    <h>No. 73-593</h>
-    <h>Argued March 25-26, 1974</h>
-    <h>Decided June 19, 1974</h>
-    <h><a href="./us417-0673.xml#p673">417 U.S. 673</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SIXTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Central Tablet Mfg. Co. v. United States, <a href="./us417-0673.xml#p673">417 U.S. 673</a> (1974)</h1>
+    <h2>Central Tablet Mfg. Co. v. United States</h2>
+    <h2>No. 73-593</h2>
+    <h4>Argued March 25-26, 1974</h4>
+    <h4>Decided June 19, 1974</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SIXTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>When a fire destroys insured corporate property prior to the corporation's adoption of a complete plan of liquidation but the fire insurance proceeds are received within 12 months after the plan's adoption, the gain realized from the excess of such proceeds over the corporate taxpayer's adjusted income tax basis in the insured property must be recognized and taxed to the corporation, and is not entitled to nonrecognition under § 337(a) of the Internal Revenue Code of 1954, which provides, with certain exceptions, for nonrecognition of gain or loss from a corporation's "sale or exchange" of property that takes place during the 12-month period following the corporation's adoption of a plan for complete liquidation effectuated within that period. Pp. <a href="./us417-0673.xml#p677">417 U. S. 677</a>-691.</p>
     <p>(a) The involuntary conversion by fire, recognized as a "sale or exchange" under § 337(a), takes place when the fire occurs prior to the adoption of the liquidation plan, and not at some post-plan point, such as the subsequent settlement of the insurance claims or their payment, since the fire is the single irrevocable event that fixes the contractual obligation precipitating the transformation of the property, over which the corporation possesses all incidents of ownership, into a chose in action against the insurer. Pp. <a href="./us417-0673.xml#p683">417 U. S. 683</a>-685.</p>
     <p>(b) Section 337(a) was enacted in order to eliminate technical and formalistic determinations as to the identity of the vendor, as between the liquidating corporation and its shareholders, and, therefore, the reasons for applying § 337(a) are not present in a situation where the conversion takes place prior to the adoption of the plan when there is no question as to the identity of the owner. Pp. <a href="./us417-0673.xml#p686">417 U. S. 686</a>-687.</p>
@@ -20,7 +20,7 @@
     <n id="p674">674</n>
     <p>MR. JUSTICE BLACKMUN delivered the opinion of the Court.</p>
     <p>Section 337(a) of the Internal Revenue Code of 1954, 26 U.S.C. § 337(a), [<a id="nf1" href="#fn1">Footnote 1</a>] provides, with stated exceptions, for the nonrecognition of gain or loss from a corporation's "sale or exchange" of property that takes place during the 12-month period following the corporation's adoption of a plan of complete liquidation that is effectuated within that period. The issue in this case is whether, when a fire destroys corporate property prior to the adoption of a plan of complete liquidation, but the fire insurance proceeds are received after the plan's adoption, the gain realized is or is not to be recognized to the corporation.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The facts are not contested. Taxpayer, Central Tablet Manufacturing Company, an Ohio corporation, for</p>
     <n id="p675">675</n>
     <p>many years prior to May 14, 1966, was engaged at Columbus, Ohio, in the manufacture and sale of writing tablets, school supplies, art materials, and related items. It filed its federal income tax returns on the accrual basis of accounting and for the fiscal year ended October 31.</p>
@@ -34,7 +34,7 @@
     <n id="p677">677</n>
     <p>1963 tax was also asserted; this was attributable to a decrease in operating loss carryback from fiscal 1966 because of adjustments in the treatment of the insurance proceeds. [<a id="nf2" href="#fn2">Footnote 2</a>] The taxpayer paid the deficiencies, filed claims for refund, and, in due time, instituted the present action in federal court to recover the amounts so paid.</p>
     <p>The District Court followed the decision in United States v. Morton, 387 F.2d 441 (CA8 1968), which concerned a taxpayer on the cash, rather than the accrual, basis, and held that § 337(a) was available to the taxpayer. <a href="https://law.justia.com/cases/federal/district-courts/FSupp/339/1134/1460659/">339 F. Supp. 1134</a> (SD Ohio 1972). [<a id="nf3" href="#fn3">Footnote 3</a>] Judgment for the taxpayer was entered. On appeal, the United States Court of Appeals for the Sixth Circuit, refusing to follow Morton, reversed and remanded. 481 F.2d 954 (1973). In view of the indicated conflict in the decisions of the Eighth and Sixth Circuits, we granted certiorari. 414 U.S. 1111 (1973).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The only issue before us is whether § 337(a) has application in a situation where, as here, the involuntary conversion occasioned by the fire preceded the adoption of the plan of complete liquidation. [<a id="nf4" href="#fn4">Footnote 4</a>] This depends upon whether the "sale or exchange," referred to in § 337(a),</p>
     <n id="p678">678</n>
     <p>took place when the fire occurred or only at some post-plan point, such as the subsequent settlement of the insurance claims, or their payment.</p>
@@ -62,7 +62,7 @@
     <n id="p683">683</n>
     <p>When this was rejected in the courts, [<a id="nf6" href="#fn6">Footnote 6</a>] the Service reversed its position and treated an involuntary conversion that occurred after adoption of a plan of complete liquidation as a "sale or exchange" with resulting nonrecognition. Rev.Rul. 64-100, 1961 Cum.Bull. (Part I) 130.</p>
     <p>It is at this point that the issue of the instant case emerges and comes into focus. Although it is now settled that an involuntary conversion by fire is a sale or exchange under § 337(a), the question that is determinative here remains unresolved: when does the involuntary conversion by a pre-plan fire take place? Since the statute prescribes a strict 12-month post-plan period, it is crucial for the taxpayer that the conversion be deemed to have occurred after the plan of liquidation was adopted.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Predictably, the taxpayer analogizes the involuntary conversion to a true sale, and it argues that the conversion</p>
     <n id="p684">684</n>
     <p>does not occur until settlement is reached and the insurance obligations are finally determined and paid. This essentially is the reasoning employed in the Morton case.</p>
@@ -78,16 +78,16 @@
     <p>When, however, the casualty occurs prior to the adoption of the plan and the corporation's commitment to liquidate, none of these considerations attaches. Moreover, there is nothing in the purpose of § 337 which dictates the extension of its benefits to this pre-plan situation. Before the adoption of the plan, the corporation has no expectation of avoiding tax if it disposes of property at a gain. The corporation, of course, is the beneficiary of the insurance, and, both at the time the policy is executed and at the time of the fire, the destroyed property is an asset of the corporation. Prior to the</p>
     <n id="p687">687</n>
     <p>adoption of the plan, § 337(a)'s "expectation" simply is not present. For all practical purposes, the disposal of Central Tablet's insured property occurred at the time of its fire. At that time, the taxpayer possessed all incidents of ownership. It had evidenced no intention to liquidate. The fire was irremediable. Regardless of the formalities and negotiations that prefaced the actual insurance settlements, the property was parted with at the time of its destruction. When the casualty occurs prior to the corporation's committing itself to liquidation, no Court Holding-Cumberland problem is presented.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>This interpretation is fully consistent with the manner in which condemnation, the other principal form of involuntary conversion, is treated under § 337. In condemnation, the legally operative event for purposes of the statute is the passage of title under federal or state law, as the case may be, to the condemning authority. This means that, in many jurisdictions the "sale or exchange" under § 337(a) occurs prior to the determination of the amount of condemnation compensation and, indeed, possibly without advance warning to the corporation owner. Rev.Rul. 59-108, 1959-1 Cum.Bull. 72. It has been uniformly recognized that a corporate taxpayer may not avail itself of § 337(a) where its plan of liquidation is adopted after title has passed by way of condemnation even where no settlement as to condemnation price has been reached or where the corporation had no advance notice of the proposed taking. Covered Wagon, Inc. v. Commissioner, 369 F.2d 629, 633-635 (CA8 1966); Likins-Foster Honolulu Corp. v. Commissioner, 417 F.2d 285 (CA10 1969), cert. denied, 397 U.S. 987 (1970); Dwight v. United States, 328 F.2d 973 (CA2 1964); Wendell v. Commissioner, 326 F.2d 600 (CA2 1964).</p>
     <n id="p688">688</n>
     <p>The taxpayer's position here would favor the casualty taxpayer over the condemnation taxpayer.</p>
     <p>Although perhaps not an exact parallel, the one date in the casualty loss situation analogous to the passage of title in the condemnation context is the date of the casualty. The fire is the event which fixes the legal obligation to pay the insurance proceeds. As with a nonqualifying pre-plan condemnation, the fire is the single irrevocable event of significance, and it occurs when title and control over the property are in the corporation. The chose in action against the insurer arises at that time. This is unlike the executory sales contract consummated after the adoption of a plan; there, either of the parties is free unilaterally to avoid whatever preliminary agreement had been reached at the pre-liquidation negotiations. As with condemnation, the involuntary character of the fire distinguishes it from the normal sale, and, as with condemnation, for purposes of § 337(a), it is irrelevant that the precise dollar amount of the insurer's obligation remains uncertain. In the casualty situation, the owner of the insured property is deprived of aspects of ownership when the fire occurs in much the same way as the owner of condemned property is deprived at the time title passes. In each case, the triggering event is involuntary and irrevocable. Because of the statutorily imposed chronology, the event operates to prevent the corporation's receiving the favorable treatment of § 337(a). As the Court Holding decision exemplifies, "This may appear a harsh result, but, if it is to be corrected, Congress must act; the courts have no power to do so." Dwight v. United States, 328 F.2d at 974.</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>Again, although not precisely parallel and certainly not controlling, concluding that the "sale or exchange" takes place at the time of the fire is consistent with the accepted</p>
     <n id="p689">689</n>
     <p>method for determining the holding period of destroyed property in the ascertainment of its long- or short-term capital gain or loss consequences. Where property is destroyed, the holding period terminates at the moment of destruction. Rose v. United States, <a href="https://law.justia.com/cases/federal/district-courts/FSupp/229/298/2352688/">229 F. Supp. 298</a> (SD Cal.1964); Steele v. United States, 52-2 U.S. Tax Cas. � 9451 (SD Fla.1952); see Draper v. Commissioner, 32 T.C. 545, 548-549 (1959). Cf. Comment, Extending Section 337 to Liquidations Triggered by the Involuntary Conversion of Corporate Assets, 62 Geo.L.J. 1203, 1213 n. 55 (1974). Were we to accept the taxpayer's argument, we would be left with the anomalous situation of having the "sale" take place after the holding period has terminated for capital gain or loss purposes.</p>
-    <h>VI</h>
+    <h2>VI</h2>
     <p>The situation presented by the instant case has been brought to the attention of Congress with the suggestion that the nonrecognition treatment provided by § 337(a) be extended to pre-plan involuntary conversions. ). [<a id="nf9" href="#fn9">Footnote 9</a>] Congress,</p>
     <n id="p690">690</n>
     <p>however, has not acted on this suggestion. It, of course, has provided some tax relief to the victim of a casualty gain by permitting nonrecognition of the gain if the victim-taxpayer uses the proceeds to replace the destroyed property in a specified manner. § 1033(a)(3) of the 1954 Code, 26 U.S.C. § 1033(a)(3). But Congress has never disclosed an intention to permit the corporate victim of a casualty with ensuing gain to have the option of liquidating after the casualty occurs and obtaining the benefit of nonrecognition under § 337(a). If this is desirable policy, it is for the Congress, not the courts, to effectuate. The fact that a tax-oriented and tax-knowledgeable corporation, in theory, could utilize § 1033(a)(3) and rebuild with its insurance proceeds without being taxed for the gain, and then adopt a plan of liquidation, surely does not change the result. Tax consequences follow what has taken place, not what might have taken place. Commissioner v. National Alfalfa Dehydrating &amp; Milling Co., <a href="./us417-0134.xml#p134">417 U. S. 134</a>, <a href="./us417-0134.xml#p148">417 U. S. 148</a>-149 (1974).</p>

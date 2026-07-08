@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us445-0552.html" citation="445 U.S. 552" title="Roberts v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p552">552</n>
-    <h>U.S. Supreme Court</h>
-    <h>Roberts v. United States, <a href="./us445-0552.xml#p552">445 U.S. 552</a> (1980)</h>
-    <h>Roberts v. United States</h>
-    <h>No. 78-1793</h>
-    <h>Argued January 14, 15, 1980</h>
-    <h>Decided April 15, 1980</h>
-    <h><a href="./us445-0552.xml#p552">445 U.S. 552</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE DISTRICT OF COLUMBIA CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Roberts v. United States, <a href="./us445-0552.xml#p552">445 U.S. 552</a> (1980)</h1>
+    <h2>Roberts v. United States</h2>
+    <h4>No. 78-1793</h4>
+    <h4>Argued January 14, 15, 1980</h4>
+    <h4>Decided April 15, 1980</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE DISTRICT OF COLUMBIA CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Held: The District Court properly considered, as one factor in imposing consecutive sentences on petitioner who had pleaded guilty to two counts of using a telephone to facilitate the distribution of heroin, petitioner's refusal to cooperate with Government officials investigating a related criminal conspiracy to distribute heroin in which he was a confessed participant. Pp. <a href="./us445-0552.xml#p556">445 U. S. 556</a>-562.</p>
     <p>(a) No misinformation of constitutional magnitude was present in this case; petitioner rebuffed repeated requests for his cooperation over a period of three years, and concedes that cooperation with the authorities is a "laudable endeavor" that bears a "rational connection to a defendant's willingness to shape up and change his behavior." By declining to cooperate, petitioner rejected an obligation of community life that should be recognized before rehabilitation can begin, and protected his former partners in crime, thereby preserving his ability to resume criminal activities upon release. Pp. <a href="./us445-0552.xml#p556">445 U. S. 556</a>-558.</p>
     <p>(b) Nor can petitioner's failure to cooperate be justified on the basis of fears of physical retaliation and self-incrimination, or on the ground that the District Court punished him for exercising his Fifth Amendment privilege against self-incrimination. These arguments were raised for the first time in petitioner's appellate brief, neither petitioner nor his lawyer having offered any explanation to the sentencing court, even though it was known that petitioner's intransigency would be used against him. Although the requirement of Miranda v. Arizona, <a href="../us384/us384-0436.xml#p436">384 U. S. 436</a>, of specific warnings creates a limited exception to the rule that the privilege against self-incrimination is not self-executing, and must be claimed, the exception does not apply outside the context of the inherently coercive custodial interrogation for which it was designed, and here there was no custodial interrogation. Petitioner volunteered his confession at his first interview with investigators, after Miranda warnings had been given and at a time when he was free to leave. For the next three years, until the time when he received the sentence he now challenges, neither he nor his counsel -- who were both fully apprised that the extent of petitioner's cooperation could be expected to affect his sentence -- ever claimed that petitioner's unwillingness to cooperate</p>
@@ -21,7 +21,7 @@
     <p>POWELL, J., delivered the opinion of the Court, in which BURGER, C.J., and BRENNAN, STEWART, WHITE, BLACKMUN, REHNQUIST, and STEVENS, JJ., joined. BRENNAN, J., filed a concurring opinion, post, p. <a href="./us445-0552.xml#p562">445 U. S. 562</a>. MARSHALL, J., filed a dissenting opinion, post, p. <a href="./us445-0552.xml#p563">445 U. S. 563</a>.</p>
     <p>MR JUSTICE POWELL delivered the opinion of the Court.</p>
     <p>The question is whether the District Court properly considered, as one factor in imposing sentence, the petitioner's refusal to cooperate with officials investigating a criminal conspiracy in which he was a confessed participant.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Petitioner Winfield Roberts accompanied Cecilia Payne to the office of the United States Attorney for the District of Columbia one day in June, 1975. Government surveillance previously had revealed that a green Jaguar owned by Payne was used to transport heroin within the District. Payne told investigators that she occasionally lent the Jaguar to petitioner, who was waiting outside in the hall. At Payne's suggestion, the investigators asked petitioner if he would answer some questions. Although petitioner was present voluntarily, the investigators gave him the warnings required by Miranda v. Arizona, <a href="../us384/us384-0436.xml#p436">384 U. S. 436</a> (1966). They also told him that he</p>
     <n id="p554">554</n>
     <p>was free to leave. When petitioner indicated that he would stay, the investigators asked whether he knew "Boo" Thornton, then the principal target of the heroin investigation. Petitioner admitted that he had delivered heroin to Thornton on several occasions. Confessing also that he had discussed drug transactions with Thornton in certain intercepted telephone conversations, petitioner explained the meaning of code words used in the conversations. When asked to name suppliers, however, petitioner gave evasive answers. Although the investigators warned petitioner that the extent of his cooperation would bear on the charges brought against him, he provided no further information.</p>
@@ -33,7 +33,7 @@
     <p>The District Court imposed consecutive sentences of one to four years on each count and a special parole term of three years, but it declined to impose a fine. The court explained that these sentences were appropriate because petitioner was on parole from a bank robbery conviction at the time of the offenses, and because he was a dealer who had refused to cooperate with the Government. [<a id="nf3" href="#fn3">Footnote 3</a>] Petitioner again appealed,</p>
     <n id="p556">556</n>
     <p>contending for the first time that the sentencing court should not have considered his failure to cooperate. The Court of Appeals for the District of Columbia Circuit vacated the special parole term, but otherwise affirmed the judgment. 195 U.S.App.D.C. 1, 600 F.2d 815 (1979). We granted certiorari, 444 U.S. 822 (1979), and we now affirm.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The principles governing criminal sentencing in the United States district courts require no extensive elaboration. Congress has directed that</p>
     <p>"[n]o limitation shall be placed on the information concerning the background, character, and conduct of a person convicted of an offense which a court of the United States may receive and consider for the purpose of imposing an appropriate sentence."</p>
     <p>18 U.S.C. § 3577. See also 21 U.S.C. § 850. This Court has reviewed in detail the history and philosophy of the modern conception that "the punishment should fit the offender, and not merely the crime." Williams v. New York, <a href="../us337/us337-0241.xml#p241">337 U. S. 241</a>, <a href="../us337/us337-0241.xml#p247">337 U. S. 247</a> (1949); see United States v. Grayson, <a href="../us438/us438-0041.xml#p41">438 U. S. 41</a>, <a href="../us438/us438-0041.xml#p45">438 U. S. 45</a>-50 (1978). Two Terms ago, we reaffirmed the "fundamental sentencing principle" that</p>
@@ -50,7 +50,7 @@
     <p>"'the likelihood that [a defendant] will transgress no more, the hope that he may respond to rehabilitative efforts to assist with a lawful future career, [and] the degree to which he does or does not deem himself at war with his society.'"</p>
     <p>United States v. Grayson, supra at <a href="../us438/us438-0041.xml#p51">438 U. S. 51</a>, quoting United States v. Hendrix, 505 F.2d 1233, 1236 (CA2 1974).</p>
     <n id="p559">559</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>Petitioner does not seriously contend that disregard for the obligation to assist in a criminal investigation is irrelevant to the determination of an appropriate sentence. He rather contends that his failure to cooperate was justified by legitimate fears of physical retaliation and self-incrimination. In view of these concerns, petitioner asserts that his refusal to act as an informer has no bearing on his prospects for rehabilitation. He also believes that the District Court punished him for exercising his Fifth Amendment privilege against self-incrimination.</p>
     <p>These arguments would have merited serious consideration if they had been presented properly to the sentencing judge. But the mere possibility of unarticulated explanations or excuses for antisocial conduct does not make that conduct irrelevant to the sentencing decision. The District Court had no opportunity to consider the theories that petitioner now advances, for each was raised for the first time in petitioner's appellate brief. Although petitioner knew that his intransigency would be used against him, neither he nor his lawyer offered any explanation to the sentencing court. Even after the prosecutor observed that the failure to cooperate could be viewed as evidence of continuing criminal intent, petitioner remained silent.</p>
     <p>Petitioner insists that he had a constitutional right to remain silent, and that no adverse inferences can be drawn from the exercise of that right. We find this argument singularly unpersuasive. The Fifth Amendment privilege against compelled self-incrimination is not self-executing. At least where the Government has no substantial reason to believe that the requested disclosures are likely to be incriminating, the privilege may not be relied upon unless it is invoked in a timely fashion. Garner v. United States, <a href="../us424/us424-0648.xml#p648">424 U. S. 648</a>, <a href="../us424/us424-0648.xml#p653">424 U. S. 653</a>-655 (1976); United States v. Kordel, <a href="../us397/us397-0001.xml#p1">397 U. S. 1</a>, <a href="../us397/us397-0001.xml#p7">397 U. S. 7</a>-10 (1970); see United States v. Mandujano, <a href="../us425/us425-0564.xml#p564">425 U. S. 564</a>, <a href="../us425/us425-0564.xml#p574">425 U. S. 574</a>-575 (1976)</p>

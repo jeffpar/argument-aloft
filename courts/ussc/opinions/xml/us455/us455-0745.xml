@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us455-0745.html" citation="455 U.S. 745" title="Santosky v. Kramer">
   <opinion type="Opinions &amp; Dissents">
     <n id="p745">745</n>
-    <h>U.S. Supreme Court</h>
-    <h>Santosky v. Kramer, <a href="./us455-0745.xml#p745">455 U.S. 745</a> (1982)</h>
-    <h>Santosky v. Kramer</h>
-    <h>No. 80-5889</h>
-    <h>Argued November 10, 1981</h>
-    <h>Decided March 24, 1982</h>
-    <h><a href="./us455-0745.xml#p745">455 U.S. 745</a></h>
-    <h>CERTIORARI TO THE APPELLATE DIVISION, SUPREME COURT OF</h>
-    <h>NEW YORK, THIRD JUDICIAL DEPARTMENT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Santosky v. Kramer, <a href="./us455-0745.xml#p745">455 U.S. 745</a> (1982)</h1>
+    <h2>Santosky v. Kramer</h2>
+    <h2>No. 80-5889</h2>
+    <h4>Argued November 10, 1981</h4>
+    <h4>Decided March 24, 1982</h4>
+    <h2>CERTIORARI TO THE APPELLATE DIVISION, SUPREME COURT OF</h2>
+    <h2>NEW YORK, THIRD JUDICIAL DEPARTMENT</h2>
+    <h2>Syllabus</h2>
     <p>Under New York law, the State may terminate, over parental objection, the rights of parents in their natural child upon a finding that the child is "permanently neglected." The New York Family Court Act (§ 622) requires that only a "fair preponderance of the evidence" support that finding. Neglect proceedings were brought in Family Court to terminate petitioners' rights as natural parents in their three children. Rejecting petitioners' challenge to the constitutionality of § 622's "fair preponderance of the evidence" standard, the Family Court weighed the evidence under that standard and found permanent neglect. After a subsequent dispositional hearing, the Family Court ruled that the best interests of the children required permanent termination of petitioners' custody. The Appellate Division of the New York Supreme Court affirmed, and the New York Court of Appeals dismissed petitioners' appeal to that court.</p>
     <p>Held:</p>
     <p>1. Process is constitutionally due a natural parent at a state-initiated parental rights termination proceeding. Pp. <a href="./us455-0745.xml#p752">455 U. S. 752</a>-757.</p>
@@ -33,7 +33,7 @@
     <p>Today we hold that the Due Process Clause of the Fourteenth Amendment demands more than this. Before a State may sever completely and irrevocably the rights of parents in</p>
     <n id="p748">748</n>
     <p>their natural child, due process requires that the State support its allegations by at least clear and convincing evidence.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>A</p>
     <p>New York authorizes its officials to remove a child temporarily from his or her home if the child appears "neglected," within the meaning of Art. 10 of the Family Court Act. See §§ 1012(f), 1021-1029. Once removed, a child under the age of 18 customarily is placed "in the care of an authorized agency," Soc.Serv.Law § 384-b.7.(a), usually a state institution or a foster home. At that point, "the state's first obligation is to help the family with services to . . . reunite it. . . ." § 384-b.1.(a)(iii). But if convinced that "positive, nurturing parent-child relationships no longer exist," § 384-b.1.(b), the State may initiate "permanent neglect" proceedings to free the child for adoption.</p>
     <p>The State bifurcates its permanent neglect proceeding into "factfinding" and "dispositional" hearings. Fam.Ct.Act §§ 622, 623. At the factfinding stage, the State must prove that the child has been "permanently neglected," as defined by Fam.Ct.Act §§ 614.1.(a)-(d) and Soc.Serv.Law § 384-b.7.(a). See Fam.Ct.Act § 622. The Family Court judge then determines at a subsequent dispositional hearing what placement would serve the child's best interests. §§ 623, 631.</p>
@@ -54,7 +54,7 @@
     <p>deciding that the agency had made "diligent efforts' to encourage and strengthen the parental relationship," id. at 30, he concluded that the Santoskys were incapable, even with public assistance, of planning for the future of their children. Id. at 33-37. The judge later held a dispositional hearing and ruled that the best interests of the three children required permanent termination of the Santoskys' custody. [<a id="nf5" href="#fn5">Footnote 5</a>] Id. at 39.</p>
     <p>Petitioners appealed, again contesting the constitutionality of § 622's standard of proof. [<a id="nf6" href="#fn6">Footnote 6</a>] The New York Supreme Court, Appellate Division, affirmed, holding application of the preponderance of the evidence standard "proper and constitutional." In re John AA, 75 App.Div.2d 910, 427 N.Y.S.2d 319, 320 (1980). That standard, the court reasoned, "recognizes and seeks to balance rights possessed by the child . . . with those of the natural parents. . . ." Ibid.</p>
     <p>The New York Court of Appeals then dismissed petitioners' appeal to that court "upon the ground that no substantial constitutional question is directly involved." App. 55. We granted certiorari to consider petitioners' constitutional claim. 450 U.S. 993 (1981).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Last Term, in Lassiter v. Department of Social Services, <a href="../us452/us452-0018.xml#p18">452 U. S. 18</a> (1981), this Court, by a 5-4 vote, held that the</p>
     <n id="p753">753</n>
     <p>Fourteenth Amendment's Due Process Clause does not require the appointment of counsel for indigent parents in every parental status termination proceeding. The case casts light, however, on the two central questions her -- whether process is constitutionally due a natural parent at a State's parental rights termination proceeding, and, if so, what process is due.</p>
@@ -88,7 +88,7 @@
     <p>"procedural due process rules[,] are shaped by the risk of error inherent in the truthfinding process as applied to the generality of cases, not the rare exceptions."</p>
     <p>Mathews v. Eldridge, 424 U.S. at <a href="../us424/us424-0319.xml#p344">424 U. S. 344</a> (emphasis added). Since the litigants and the factfinder must know at the outset of a given proceeding how the risk of error will be allocated, the standard of proof necessarily must be calibrated in advance. Retrospective case-by-case review cannot preserve fundamental fairness when a class of proceedings is governed by a constitutionally defective evidentiary standard. [<a id="nf9" href="#fn9">Footnote 9</a>]</p>
     <n id="p758">758</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>In parental rights termination proceedings, the private interest affected is commanding; the risk of error from using a preponderance standard is substantial; and the countervailing governmental interest favoring that standard is comparatively slight. Evaluation of the three Eldridge factors compels the conclusion that use of a "fair preponderance of the evidence" standard in such proceedings is inconsistent with due process.</p>
     <p>A</p>
     <p>"The extent to which procedural due process must be afforded the recipient is influenced by the extent to which he may be 'condemned to suffer grievous loss.'"</p>
@@ -139,7 +139,7 @@
     <p>Nor would an elevated standard of proof create any real administrative burdens for the State's factfinders. New York Family Court judges already are familiar with a higher evidentiary standard in other parental rights termination proceedings not involving permanent neglect. See Soc.Serv.Law §§ 384-b.3.(g), 384-b.4.(c), and 384-b.4.(e) (requiring "clear and convincing proof" before parental rights may be terminated for reasons of mental illness and mental retardation or severe and repeated child abuse). New York also demands at least clear and convincing evidence in proceedings of far less moment than parental rights termination proceedings. See, e.g., N.Y.Veh. &amp; Traf.Law § 227.1 (McKinney Supp.1981) (requiring the State to prove traffic</p>
     <n id="p768">768</n>
     <p>infractions by "clear and convincing evidence") and In re Rosenthal v. Hartnett, 36 N.Y.2d 269 326 N.E.2d 811 (1975); see also Ross v. Food Specialties, Inc., 6 N.Y.2d 336, 341, 160 N.E.2d 618, 620 (1959) (requiring "clear, positive and convincing evidence" for contract reformation). We cannot believe that it would burden the State unduly to require that its factfinders have the same factual certainty when terminating the parent-child relationship as they must have to suspend a driver's license.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>The logical conclusion of this balancing process is that the "fair preponderance of the evidence" standard prescribed by Fam.Ct.Act § 622 violates the Due Process Clause of the Fourteenth Amendment. [<a id="nf18" href="#fn18">Footnote 18</a>] The Court noted in Addington:</p>
     <p>"The individual should not be asked to share equally with society the risk of error when the possible injury to the individual is significantly greater than any possible harm to the state."</p>
     <p>441 U.S. at <a href="../us441/us441-0418.xml#p427">441 U. S. 427</a>. Thus, at a parental rights termination proceeding, a near-equal allocation of risk between the parents and the State is constitutionally intolerable. The next question, then, is whether a "beyond a reasonable doubt" or a "clear and convincing" standard is constitutionally mandated.</p>
@@ -190,7 +190,7 @@
     </f>
     <f n="11"><a id="fn11" href="#nf11">Footnote 11</a>
       <p>For a child, the consequences of termination of his natural parents' rights may well be far-reaching. In Colorado, for example, it has been noted:</p>
-      <p>"The child loses the right of support and maintenance, for which he may thereafter be dependent upon society; the right to inherit; and all other rights inherent in the legal parent-child relationship, not just for [a limited] period . . . , but forever."</p>
+      <p>"The child loses the right of support and maintenance, for which he may thereafter be dependent upon society; the right to inherit; and all other rights inherent in the legal parent-child relationship, not just for [a limited] period . . ., but forever."</p>
       <p>In re K.S., 33 Colo. App. 72, 76, <a href="https://law.justia.com/cases/colorado/court-of-appeals/1973/72-419.html">515 P.2d 130</a>, 133 (1973).</p>
       <p>Some losses cannot be measured. In this case, for example, Jed Santosky was removed from his natural parents' custody when he was only three days old; the judge's finding of permanent neglect effectively foreclosed the possibility that Jed would ever know his natural parents.</p>
     </f>
@@ -225,7 +225,7 @@
       <p>Equally as troubling is the majority's due process analysis. The Fourteenth Amendment guarantees that a State will treat individuals with "fundamental fairness" whenever its actions infringe their protected liberty or property interests. By adoption of the procedures relevant to this case, New</p>
       <n id="p771">771</n>
       <p>York has created an exhaustive program to assist parents in regaining the custody of their children and to protect parents from the unfair deprivation of their parental rights. And yet the majority's myopic scrutiny of the standard of proof blinds it to the very considerations and procedures which make the New York scheme "fundamentally fair."</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>State intervention in domestic relations has always been an unhappy but necessary feature of life in our organized society. For all of our experience in this area, we have found no fully satisfactory solutions to the painful problem of child abuse and neglect. We have found, however, that leaving the States free to experiment with various remedies has produced novel approaches and promising progress.</p>
       <p>Throughout this experience, the Court has scrupulously refrained from interfering with state answers to domestic relations questions.</p>
       <p>"Both theory and the precedents of this Court teach us solicitude for state interests, particularly in the field of family and family property arrangements."</p>
@@ -243,7 +243,7 @@
       <p>After fixing the standard of proof, therefore, the majority will be forced to evaluate other aspects of termination proceedings with reference to that point. Having in this case abandoned evaluation of the overall effect of a scheme, and with it the possibility of finding that strict substantive standards or special procedures compensate for a lower burden of proof, the majority's approach will inevitably lead to the federalization of family law. Such a trend will only thwart state searches for better solutions in an area where this Court should encourage state experimentation.</p>
       <p>"It is one of the happy incidents of the federal system that a single courageous State may, if its citizens choose, serve as a laboratory; and try novel social and economic experiments without risk to the rest of the country. This Court has the power to prevent an experiment."</p>
       <p>New State Ice Co. v. Liebmann, <a href="../us285/us285-0262.xml#p262">285 U. S. 262</a>, <a href="../us285/us285-0262.xml#p311">285 U. S. 311</a> (1932) (Brandeis, J., dissenting). It should not do so in the absence of a clear constitutional violation. As will be seen in the next part, no clear constitutional violation has occurred in this case.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>As the majority opinion notes, petitioners are the parents of five children, three of whom were removed from petitioners' care on or before August 22, 1974. During the next four and one-half years, those three children were in the custody of the State and in the care of foster homes or institutions, and the State was diligently engaged in efforts to prepare petitioners for the children's return. Those efforts were unsuccessful,</p>
       <n id="p774">774</n>
       <p>however, and, on April 10, 1979, the New York Family Court for Ulster County terminated petitioners' parental rights as to the three children removed in 1974 or earlier. This termination was preceded by a judicial finding that petitioners had failed to plan for the return and future of their children, a statutory category of permanent neglect. Petitioners now contend, and the Court today holds, that they were denied due process of law not because of a general inadequacy of procedural protections, but simply because the finding of permanent neglect was made on the basis of a preponderance of the evidence adduced at the termination hearing.</p>
@@ -330,7 +330,7 @@
       <p>nurturing home life are balanced against the interests of the parents in the rearing of their child, it cannot be said that either set of interests is so clearly paramount as to require that the risk of error be allocated to one side or the other. Accordingly, a State constitutionally may conclude that the risk of error should be borne in roughly equal fashion by use of the preponderance of the evidence standard of proof. See Addington v. Texas, 441 U.S. at <a href="../us441/us441-0418.xml#p423"> 441 U. S. 423</a>. This is precisely the balance which has been struck by the New York Legislature:</p>
       <p>"It is the intent of the legislature in enacting this section to provide procedures not only assuring that the rights of the natural parent are protected, but also, where positive, nurturing parent-child relationships no longer exist, furthering the best interests, needs, and rights of the child by terminating the parental rights and freeing the child for adoption."</p>
       <p>SSL § 384-b.1.(b).</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>For the reasons heretofore stated, I believe that the Court today errs in concluding that the New York standard of proof in parental rights termination proceedings violates due process of law. The decision disregards New York's earnest efforts to aid parents in regaining the custody of their children and a host of procedural protections placed around parental rights and interests. The Court finds a constitutional violation only by a tunnel vision application of due process principles that altogether loses sight of the unmistakable fairness of the New York procedure.</p>
       <p>Even more worrisome, today's decision cavalierly rejects the considered judgment of the New York Legislature in an area traditionally entrusted to state care. The Court thereby begins, I fear, a trend of federal intervention in state family law matters which surely will stifle creative responses to vexing problems. Accordingly, I dissent.</p>
       <p>[Footnote 2/1]</p>

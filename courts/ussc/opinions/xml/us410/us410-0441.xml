@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us410-0441.html" citation="410 U.S. 441" title="United States v. Basye">
   <opinion type="Opinions &amp; Dissents">
     <n id="p441">441</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Basye, <a href="./us410-0441.xml#p441">410 U.S. 441</a> (1973)</h>
-    <h>United States v. Basye</h>
-    <h>No. 71-1022</h>
-    <h>Argued December 11, 1972</h>
-    <h>Decided February 27, 1973</h>
-    <h><a href="./us410-0441.xml#p441">410 U.S. 441</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Basye, <a href="./us410-0441.xml#p441">410 U.S. 441</a> (1973)</h1>
+    <h2>United States v. Basye</h2>
+    <h2>No. 71-1022</h2>
+    <h4>Argued December 11, 1972</h4>
+    <h4>Decided February 27, 1973</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>A medical partnership (Permanente), in which respondent physicians were partners, made an agreement to supply medical services to members of a health foundation (Kaiser). A portion of Kaiser's compensation to Permanente was in the form of payments into a retirement trust for the benefit of Permanente's physicians, none of whom was eligible to receive the amounts in his tentative account prior to retirement after specified years of service. No interest in the account was deemed to vest in a particular beneficiary before retirement, and a physician's pre-retirement severance from Permanente would occasion the forfeiture of his interest, with redistribution to the remaining participants. Under no circumstances, however, could Kaiser recoup the payments once made. The Commissioner of Internal Revenue assessed a deficiency against each partner respondent for his distributive share of the amount paid by Kaiser, which he had not reported as taxable income. In this refund suit the District Court, with the Court of Appeals affirming, held that the payments to the fund were not income to the partnership because it did not receive and had no "right to receive" them.</p>
     <p>Held: The retirement fund payments, notwithstanding the fact that they were contributed directly to the trust, were compensation for services that Permanente rendered under the medical service agreement, and should have been reported as income to Permanente; and the individual partners should have included their shares of that income in their individual returns, since the existence of conditions upon the actual receipt by a partner of income fully earned by the partnership is not a relevant factor in determining its taxability to him. Pp. <a href="./us410-0441.xml#p448">410 U. S. 448</a>-457.</p>
     <p>450 F.2d 109, reversed and remanded.</p>
@@ -19,7 +19,7 @@
     <n id="p442">442</n>
     <p>MR. JUSTICE POWELL delivered the opinion of the Court.</p>
     <p>This is a partnership income tax case brought here by the United States on a petition for writ of certiorari from the Court of Appeals for the Ninth Circuit. Respondents, physicians and partners in a medical partnership, filed suit in the District Court for the Northern District of California seeking the refund of income taxes previously paid pursuant to a deficiency assessed by the Commissioner of Internal Revenue. The case was heard on an agreed statement of facts, and the District Court ruled in respondents' favor. 295 F. Supp. 1289 (1968). The Government appealed to the Ninth Circuit, and that court affirmed the lower court's judgment. 450 F.2d 109 (1971). We agreed to hear this case to consider whether, as the Government contends, the decision below is in conflict with precedents of this Court. 405 U.S. 1039 (1972). Because we find that the decision is incompatible with basic principles of income taxation as developed in our prior cases, we reverse.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Respondents, each of whom is a physician, [<a id="nf1" href="#fn1">Footnote 1</a>] are partners in a limited partnership known as Permanente</p>
     <n id="p443">443</n>
     <p>Medical Group, which was organized in California in 1949. Associated with the partnership are over 200 partner physicians, as well as numerous nonpartner physicians and other employees. In 1959, Permanente entered into an agreement with Kaiser Foundation Health Plan, Inc., a nonprofit corporation providing prepaid medical care and hospital services to its dues-paying members.</p>
@@ -41,7 +41,7 @@
     <p>We hold that the courts below erred, and that respondents were properly taxable on the partnership's retirement fund income. This conclusion rests on two familiar principles of income taxation, first, that income is taxed to the party who earns it and that liability may not be avoided through an anticipatory assignment of that income, and, second, that partners are taxable on</p>
     <n id="p448">448</n>
     <p>their distributive or proportionate shares of current partnership income irrespective of whether that income is actually distributed to them. The ensuing discussion is simply an application of those principles to the facts of the present case.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Section 703 of the Internal Revenue Code of 1954, insofar as pertinent here, prescribes that "[t]he taxable income of a partnership shall be computed in the same manner as in the case of an individual." 26 U.S.C. § 703(a). Thus, while the partnership itself pays no taxes, 26 U.S.C. § 701, it must report the income it generates and such income must be calculated in largely the same manner as an individual computes his personal income. For this purpose, then, the partnership is regarded as an independently recognizable entity apart from the aggregate of its partners. Once its income is ascertained and reported, its existence may be disregarded, since each partner must pay a tax on a portion of the total income as if the partnership were merely an agent or conduit through which the income passed. [<a id="nf8" href="#fn8">Footnote 8</a>]</p>
     <n id="p449">449</n>
     <p>In determining any partner's income, it is first necessary to compute the gross income of the partnership. One of the major sources of gross income, as defined in § 61(a)(1) of the Code, is "[c]ompensation for services, including fees, commissions, and similar items." 26 U.S.C. § 61(a)(1). There can be no question that Kaiser's payments to the retirement trust were compensation for services rendered by the partnership under the medical service agreement. These payments constituted an integral part of the employment arrangement. The agreement itself called for two forms of "base compensation" to be paid in exchange for services rendered -- direct per-member, per-month payments to the partnership and other, similarly computed, payments to the trust. Nor was the receipt of these payments contingent upon any condition other than continuation of the contractual relationship and the performance of the prescribed medical services. Payments to the trust, much like the direct payments to the partnership, were not forfeitable by the partnership or recoverable by Kaiser upon the happening of any contingency.</p>
@@ -59,7 +59,7 @@
     <p>Kaiser's motives for making payments are irrelevant to the determination whether those amounts may fairly be viewed as compensation for services rendered. [<a id="nf11" href="#fn11">Footnote 11</a>] Neither does Kaiser's apparent insistence upon payment to the trust deprive the agreed contributions of their character as compensation. The Government need not prove that the taxpayer had complete and unrestricted power to designate the manner and form in which his income is received. We may assume, especially in view of the relatively unfavorable tax status of self-employed persons with respect to the tax treatment of retirement plans, [<a id="nf12" href="#fn12">Footnote 12</a>] that many partnerships would eagerly accept conditions similar to those prescribed by this trust in consideration for tax deferral benefits of the sort suggested here. We think it clear, however, that the tax laws permit no such easy road to tax avoidance or deferment. [<a id="nf13" href="#fn13">Footnote 13</a>]</p>
     <n id="p453">453</n>
     <p>Despite the novelty and ingenuity of this arrangement, Permanente's "base compensation" in the form of payments to a retirement fund was income to the partnership and should have been reported as such.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Since the retirement fund payments should have been reported as income to the partnership, along with other income received from Kaiser, the individual partners should have included their shares of that income in their individual returns. 26 U.S.C. § § 61(a)(13), 702, 704. For it is axiomatic that each partner must pay taxes on his distributive share of the partnership's income without regard to whether that amount is actually distributed to him. Heiner v. Mellon, <a href="../us304/us304-0271.xml#p271">304 U. S. 271</a> (1938), decided under a predecessor to the current partnership provisions of the Code, [<a id="nf14" href="#fn14">Footnote 14</a>] articulates the salient proposition.</p>
     <n id="p454">454</n>
     <p>After concluding that "distributive" share means the "proportionate" share as determined by the partnership agreement, id. at <a href="../us304/us304-0271.xml#p280">304 U. S. 280</a>, the Court stated:</p>
@@ -71,7 +71,7 @@
     <n id="p456">456</n>
     <p>The Solicitor General, alluding to this miscomputation during oral argument, suggested that this error "may be what threw the court below off the track." [<a id="nf17" href="#fn17">Footnote 17</a>] It should be clear that the contingent and unascertainable nature of each partner's share under the retirement trust is irrelevant to the computation of his distributive share. The partnership had received as income a definite sum which was not subject to diminution or forfeiture. Only its ultimate disposition among the employees and partners remained uncertain. For purposes of income tax computation, it made no difference that some partners might have elected not to participate in the retirement program or that, for any number of reasons, they might not ultimately receive any of the trust's benefits. Indeed, as the Government suggests, the result would be quite the same if the "potential beneficiaries included no partners at all, but were children, relatives, or other objects of the partnership's largesse." [<a id="nf18" href="#fn18">Footnote 18</a>] The sole operative consideration is that the income had been received by the partnership, not what disposition might have been effected once the funds were received.</p>
     <n id="p457">457</n>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>In summary, we find this case controlled by familiar and long-settled principles of income and partnership taxation. There being no doubt about the character of the payments as compensation, or about their actual receipt, the partnership was obligated to report them as income presently received. Likewise, each partner was responsible for his distributive share of that income. We therefore reverse the judgments and remand the case with directions that judgments be entered for the United States.</p>
     <p>It is so ordered.</p>
     <p>MR. JUSTICE DOUGLAS dissents.</p>
@@ -96,7 +96,7 @@
     </f>
     <f n="5"><a id="fn5" href="#nf5">Footnote 5</a>
       <p>The agreed statement of facts filed by the parties in the District Court states:</p>
-      <p>"The primary purpose of the retirement plan was to create an incentive for physicians to remain with [Permanente] . . . , and thus to insure [Kaiser] that it would have a stable and reliable group of physicians providing medical services to its members with a minimum of turn-over. . . ."</p>
+      <p>"The primary purpose of the retirement plan was to create an incentive for physicians to remain with [Permanente] . . ., and thus to insure [Kaiser] that it would have a stable and reliable group of physicians providing medical services to its members with a minimum of turn-over. . . ."</p>
     </f>
     <f n="6"><a id="fn6" href="#nf6">Footnote 6</a>
       <p>The Court of Appeals purported not to decide, as the District Court had, whether the partnership should be viewed as an "entity" or as a "conduit." 450 F.2d 109, 113 n. 5, and 115. Yet, its analysis indicates that it found it proper to disregard the partnership as a separate entity. After explaining its view that Permanente never had a right to receive the payments, the Court of Appeals stated:</p>

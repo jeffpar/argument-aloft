@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us493-0132.html" citation="493 U.S. 132" title="U.S. v. Goodyear Tire">
   <opinion type="Opinions &amp; Dissents">
     <n id="p132">132</n>
-    <h>U.S. Supreme Court</h>
-    <h>U.S. v. Goodyear Tire, <a href="./us493-0132.xml#p132">493 U.S. 132</a> (1989)</h>
-    <h>United States v. Goodyear Tire and Rubber Company</h>
-    <h>No. 88-1474</h>
-    <h>Argued Nov. 1, 1989</h>
-    <h>Decided Dec. 11, 1989</h>
-    <h><a href="./us493-0132.xml#p132">493 U.S. 132</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE FEDERAL CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>U.S. v. Goodyear Tire, <a href="./us493-0132.xml#p132">493 U.S. 132</a> (1989)</h1>
+    <h2>United States v. Goodyear Tire and Rubber Company</h2>
+    <h2>No. 88-1474</h2>
+    <h4>Argued Nov. 1, 1989</h4>
+    <h4>Decided Dec. 11, 1989</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE FEDERAL CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>In 1970 and 1971, Goodyear Tyre and Rubber Company (Great Britain) Limited (Goodyear G.B.), a wholly owned subsidiary of Goodyear Tire and Rubber Company (Goodyear), a domestic corporation, filed income tax returns in, and paid taxes to, the United Kingdom and the Republic of Ireland. It also distributed dividends to Goodyear, its sole shareholder, which Goodyear reported on its federal tax return. Thereafter Goodyear sought an indirect credit for a portion of the foreign taxes paid by Goodyear G.B. as permitted by § 902 of the Internal Revenue Code (Code), which limits a domestic parent corporation's credit to the amount of tax paid by the subsidiary attributable to the dividend issued. The credit is calculated by multiplying the total foreign tax paid by that portion of the subsidiary's after-tax "accumulated profits" that is actually issued to the domestic parent in the form of a taxable dividend. After Goodyear G.B. carried back a net loss reported on its 1973 British tax return to offset portions of its 1970 and 1971 income, British taxing authorities recalculated its 1970 and 1971 income and tax liability, and the company received a refund for those years. Pursuant to § 905(c) of the Code -- which permits redetermination of the foreign tax credit whenever any tax paid is refunded -- the Commissioner of Internal Revenue recalculated the indirect tax credit available to Goodyear for 1970 and 1971 by lowering the foreign taxes paid to reflect the refund. However, he refused to lower accumulated profits for those years to reflect the British tax authorities' redetermination because, applying United States tax principles, Goodyear G.B.'s loss would not have been allowable had the company been a domestic corporation filing a federal tax return. Thus, the Commissioner assessed, and Goodyear paid, tax deficiencies for 1970 and 1971. Goodyear subsequently sought a refund in the Claims Court, which rejected Goodyear's claim that foreign tax law principles govern the calculation of "accumulated profits" in § 902's tax credit, finding instead that the purposes underlying § 902 favored calculation of "accumulated profits" in accordance with United States tax concepts. The Court of Appeals reversed, holding that the "plain meaning" of § 902 required that "accumulated profits" be determined under foreign law. It also held that the congressional</p>
     <n id="p133">133</n>
     <p>purpose underlying § 902 to eliminate international double taxation would be defeated if a foreign subsidiary's taxes, but not its "accumulated profits," were calculated under foreign law.</p>
@@ -24,7 +24,7 @@
     <n id="p134">134</n>
     <p>Justice MARSHALL delivered the opinion of the Court.</p>
     <p>In this case, we must decide whether "accumulated profits" in the indirect tax credit provision of the Internal Revenue Code of 1954, 26 U.S.C. § 902 (1970 ed.), are to be measured in accordance with United States or foreign tax principles. We conclude that "accumulated profits" are to be measured in accordance with United States principles.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Goodyear Tyre and Rubber Company (Great Britain) Limited (Goodyear G.B.) is a wholly owned subsidiary of Goodyear Tire and Rubber Company, a domestic corporation (Goodyear). Goodyear brought this suit seeking a refund of federal income taxes collected for the years 1970 and 1971. During those years, Goodyear G.B. filed income tax returns in, and paid taxes to, the United Kingdom and the Republic of Ireland. Goodyear G.B. also distributed dividends to Goodyear, its sole shareholder. Goodyear reported these dividends on its federal tax return, as required by 26 U.S.C. §§ 301, 316 (1970 ed.). Goodyear thereafter sought credit for a portion of the foreign taxes paid by Goodyear G.B. in the amount specified in § 902. [<a id="nf1" href="#fn1">Footnote 1</a>]</p>
     <n id="p135">135</n>
     <p>Section 902 provides a parent of a foreign subsidiary with an "indirect" or "deemed paid" credit on its domestic income tax return to reflect foreign taxes paid by its subsidiary. The credit protects domestic corporations that operate through foreign subsidiaries from double taxation of the same income: taxation first by the foreign jurisdiction, when the income is earned by the subsidiary, and second by the United States, when the income is received as a dividend by the parent. In some circumstances, a foreign subsidiary may choose to distribute only a portion of its available profit as a dividend to its domestic parent. For that reason, a domestic parent cannot automatically claim credit for all foreign taxes paid by its subsidiary: § 902 limits a domestic parent's credit to the amount of tax paid by the subsidiary attributable to the dividend issued. The foreign tax deemed paid by the domestic parent is calculated by multiplying the total foreign tax paid (T) by that portion of the subsidiary's after-tax accumulated profits (AP-T) that is actually issued to the domestic parent in the form of a taxable dividend (D). [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
@@ -37,14 +37,14 @@
     <n id="p138">138</n>
     <p>foreign law." 856 F.2d at 172. The court also held that the fundamental congressional purpose underlying § 902, "elimination of international double taxation,'" ibid. (quoting H.H. Robertson Co. v. Commissioner, 59 T.C. 53, 74 (1972), aff'd, 500 F.2d 1399 (CA3 1974)), would be defeated if the taxes paid by a foreign subsidiary, but not its accumulated profits, were calculated in terms of foreign law. 856 F.2d at 172.</p>
     <p>The Court of Appeals' decision has important consequences for the calculation of the indirect tax credit of domestic parents that have received dividends from their subsidiaries abroad. To clarify the operation of the § 902 credit in the tax years to which it applies, [<a id="nf4" href="#fn4">Footnote 4</a>] we granted certiorari, 490 U.S. 1045 (1989), and now reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Our starting point, as in all cases involving statutory interpretation, "must be the language employed by Congress." Reiter v. Sonotone Corp., <a href="../us442/us442-0330.xml#p330">442 U. S. 330</a>, <a href="../us442/us442-0330.xml#p337">442 U. S. 337</a> (1979). We find that the text of § 902 does not resolve whether "accumulated profits" are to be calculated in accordance with foreign or domestic tax concepts.</p>
     <p>It is true, as the Court of Appeals emphasized, that §§ 902(a)(1) and 902(c)(1)(A) link "accumulated profits" to the foreign tax imposed on the subsidiary. The link is forged by describing the foreign tax as that tax imposed "on or with respect to" accumulated profits. The provisions also, however,</p>
     <n id="p139">139</n>
     <p>link "accumulated profits" to "dividends" by describing "accumulated profits" as the pool from which the "dividends" are issued. Section 316(a), in turn, makes clear that domestic principles control whether a payment is a "dividend" subject to domestic tax. On the basis of this link, a leading treatise has concluded that</p>
     <p>"[a]ccumulated profits of the foreign corporation . . . are, in general, equated with earnings and profits of the foreign corporation, and are determined in accordance with domestic law principles."</p>
     <p>B. Bittker &amp; J. Eustice, Federal Income Taxation of Corporations and Shareholders � 17.11, p. 17-44 (5th ed. 1987) ("Adoption of these principles has the virtue of correlating the denominator of the § 902 computation with the definition of dividends (the numerator), thus avoiding the possible distortions that could arise if different definitional approaches were used for the numerator and denominator of the § 902 fraction"). Because § 902 relates "accumulated profits" both to the foreign tax paid by the subsidiary, calculated in accordance with foreign law, and to the dividend issued by the subsidiary, calculated in accordance with domestic law, we are unpersuaded that the statutory language is dispositive. We must therefore look beyond the statute's language to the legislative history, purposes, and operation of the indirect tax credit.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>A</p>
     <p>The history of the indirect credit clearly demonstrates that the credit was intended to protect a domestic parent from double taxation of its income. Congress first established the indirect tax credit in § 240(c) of the Revenue Act of 1918, 40 Stat. 1082, permitting a domestic parent to receive a credit for a portion of the foreign taxes paid by its subsidiary during the year in which the subsidiary issued a dividend to the parent. This Court subsequently described the purpose of § 240(c) as protection against double taxation. <a href="../us316/us316-0450.xml#p450">American Chicle</a></p>
     <n id="p140">140</n>
@@ -75,7 +75,7 @@
     <n id="p145">145</n>
     <p>to calculate accumulated profits according to domestic principles, because "earnings and profits" in this context is a domestic tax concept.</p>
     <p>Lastly, we find support for the Government's position in the statutory canon adopted in Biddle v. Commissioner, <a href="../us302/us302-0573.xml#p573">302 U. S. 573</a>, <a href="../us302/us302-0573.xml#p578">302 U. S. 578</a> (1938), that tax provisions should generally be read to incorporate domestic tax concepts absent a clear congressional expression that foreign concepts control. This canon has particularly strong application here, where a contrary interpretation would leave an important statutory goal regarding equal tax treatment of foreign subsidiaries and foreign branches to the varying tax policies of foreign tax authorities.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>"Accumulated profits," as that term appears in § 902's indirect tax credit, should be calculated in accordance with domestic tax principles. The judgment of the Court of Appeals is therefore reversed, and the case is remanded for further proceedings consistent with this opinion.</p>
     <p>It is so ordered.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>

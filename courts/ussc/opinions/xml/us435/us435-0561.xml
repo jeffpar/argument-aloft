@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us435-0561.html" citation="435 U.S. 561" title="Frank Lyon Co. v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p561">561</n>
-    <h>U.S. Supreme Court</h>
-    <h>Frank Lyon Co. v. United States, <a href="./us435-0561.xml#p561">435 U.S. 561</a> (1978)</h>
-    <h>Frank Lyon Co. v. United States</h>
-    <h>No. 76-624</h>
-    <h>Argued November 2, 1977</h>
-    <h>Decided April 18, 1978</h>
-    <h><a href="./us435-0561.xml#p561">435 U.S. 561</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE EIGHTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Frank Lyon Co. v. United States, <a href="./us435-0561.xml#p561">435 U.S. 561</a> (1978)</h1>
+    <h2>Frank Lyon Co. v. United States</h2>
+    <h2>No. 76-624</h2>
+    <h4>Argued November 2, 1977</h4>
+    <h4>Decided April 18, 1978</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE EIGHTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>A state bank, which was a member of the Federal Reserve System, upon realizing that it was not feasible, because of various state and federal regulations, for it to finance by conventional mortgage and other financing a building under construction for its headquarters and principal banking facility, entered into sale and lease-back agreements by which petitioner took title to the building and leased it back to the hank for long-term use, petitioner obtaining both a construction loan and permanent mortgage financing. The bank is obligated to pay rent equal to the principal and interest payments on petitioner's mortgage, and has an option to repurchase the building at various times at prices equal to the then unpaid balance of petitioner's mortgage and initial $500,000 investment. On its federal income tax return for the year in which the building was completed and the bank took possession, petitioner accrued rent from the bank and claimed as deductions depreciation on the building, interest on its construction loan and mortgage, and other expenses related to the sale and lease-back transaction. The Commissioner of Internal Revenue disallowed the deductions on the ground that petitioner was not the owner of the building for tax purposes, but that the sale and lease-back arrangement was a financing transaction in which petitioner loaned the bank $500,000 and acted as a conduit for the transmission of principal and interest to petitioner's mortgagee. This resulted in a deficiency in petitioner's income tax, which it paid. After its claim for a refund was denied, it brought suit in the District Court to recover the amount so paid. That court held that the claimed deductions were allowable, but the Court of Appeals reversed, agreeing with the Commissioner.</p>
     <p>Held: Petitioner is entitled to the claimed deductions. Pp. <a href="./us435-0561.xml#p572">435 U. S. 572</a>-584.</p>
     <p>(a) Although the rent agreed to be paid by the bank equaled the amounts due from the petitioner to its mortgagee, the sale and lease-back transaction is not a simple sham by which petitioner was but a conduit used to forward the mortgage payments made under the guise of rent paid by the bank to petitioner, on to the mortgagee, but the construction loan and mortgage note obligations on which petitioner paid interest are its obligations alone, and, accordingly, it is entitled to claim deductions</p>
@@ -24,7 +24,7 @@
     <p>MR. JUSTICE BLACKMUN delivered the opinion of the Court.</p>
     <p>This case concerns the federal income tax consequences of a sale and lease-back in which petitioner Frank Lyon Company (Lyon) took title to a building under construction by Worthen Bank &amp; Trust Company (Worthen) of Little Rock, Ark., and simultaneously leased the building back to Worthen for long-term use as its headquarters and principal banking facility.</p>
     <n id="p563">563</n>
-    <h>I</h>
+    <h2>I</h2>
     <p>The underlying pertinent facts are undisputed. They are established by stipulations, App. 9, 14, the trial testimony, and the documentary evidence, and are reflected in the District Court's findings.</p>
     <p>A</p>
     <p>Lyon is a closely held Arkansas corporation engaged in the distribution of home furnishings, primarily Whirlpool and RCA electrical products. Worthen, in 1965, was an Arkansas-chartered bank and a member of the Federal Reserve System. Frank Lyon was Lyon's majority shareholder and board chairman; he also served on Worthen's board. Worthen at that time began to plan the construction of a multistory bank and office building to replace its existing facility in Little Rock. About the same time, Worthen's competitor, Union National Bank of Little Rock, also began to plan a new bank and office building. Adjacent sites on Capitol Avenue, separated only by Spring Street, were acquired by the two banks. It became a matter of competition, for both banking business and tenants, and prestige as to which bank would start and complete its building first.</p>
@@ -82,7 +82,7 @@
     <p>"In sum, the benefits, risks, and burdens which [Lyon] has incurred with respect to the Worthen building are simply too insubstantial to establish a claim to the status of owner for tax purposes. . . . The vice of the present lease is that all of [its] features have been employed in the same transaction with the cumulative effect of depriving [Lyon] of any significant ownership interest."</p>
     <p>536 F.2d at 754.</p>
     <p>We granted certiorari, 429 U.S. 1089 (1977), because of an indicated conflict with American Realty Trust v. United States, 498 F.2d 1194 (CA4 1974).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>This Court, almost 50 years ago, observed that</p>
     <p>"taxation is not so much concerned with the refinements of title as it is with actual command over the property taxed -- the actual benefit for which the tax is paid."</p>
     <p>Corliss v. Bowers, <a href="../us281/us281-0376.xml#p376">281 U. S. 376</a>, <a href="../us281/us281-0376.xml#p378">281 U. S. 378</a> (1930). In a number of cases, the Court has refused to permit the transfer of formal legal title to shift the incidence of taxation attributable to ownership of property where the transferor continues to retain significant control</p>
@@ -100,7 +100,7 @@
     <p>The present case, in contrast, involves three parties, Worthen, Lyon, and the finance agency. The usual simple two-party arrangement was legally unavailable to Worthen. Independent investors were interested in participating in the alternative available to Worthen, and Lyon itself (also independent from Worthen) won the privilege. Despite Frank Lyon's presence on Worthen's board of directors, the transaction, as it ultimately developed, was not a familial one arranged by Worthen, but one compelled by the realities of the restrictions imposed upon the bank. Had Lyon not appeared, another interested investor would have been selected.</p>
     <n id="p576">576</n>
     <p>The ultimate solution would have been essentially the same. Thus, the presence of the third party, in our view, significantly distinguishes this case from Lazarus, and removes the latter as controlling authority.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>It is true, of course, that the transaction took shape according to Worthen's needs. As the Government points out, Worthen, throughout the negotiations, regarded the respective proposals of the independent investors in terms of its own cost of funds. E.g., App. 355. It is also true that both Worthen and the prospective investors compared the various proposals in terms of the return anticipated on the investor's equity. But all this is natural for parties contemplating entering into a transaction of this kind. Worthen needed a building for its banking operations and other purposes, and necessarily had to know what its cost would be. The investors were in business to employ their funds in the most remunerative way possible. And, as the Court has said in the past, a transaction must be given its effect in accord with what actually occurred, and not in accord with what might have occurred. Commissioner v. National Alfalfa Dehydrating &amp; Milling Co., <a href="../us417/us417-0134.xml#p134">417 U. S. 134</a>, <a href="../us417/us417-0134.xml#p148">417 U. S. 148</a>-149 (1974); Central Tablet Mfg. Co. v. United States, <a href="../us417/us417-0673.xml#p673">417 U. S. 673</a>, <a href="../us417/us417-0673.xml#p690">417 U. S. 690</a> (1974).</p>
     <p>There is no simple device available to peel away the form of this transaction and to reveal its substance. The effects of the transaction on all the parties were obviously different from those that would have resulted had Worthen been able simply to make a mortgage agreement with New York Life and to receive a $500,000 loan from Lyon. Then Lazarus would apply. Here, however, and most significantly, it was Lyon alone, and not Worthen, who was liable on the notes, first to City Bank and then to New York Life. Despite the facts that Worthen had agreed to pay rent and that this rent equaled the amounts due from Lyon to New York Life, should anything go awry in the later years of the lease, Lyon</p>
     <n id="p577">577</n>
@@ -120,7 +120,7 @@
     <n id="p581">581</n>
     <p>were its obligations alone, and it is entitled to claim deductions therefor under § 163(a) of the 1954 Code, 26 U.S.C. § 163(a).</p>
     <p>As is clear from the facts, none of the parties to this sale and lease-back was the owner of the building in any simple sense. But it is equally clear that the facts focus upon Lyon as the one whose capital was committed to the building and as the party, therefore, that was entitled to claim depreciation for the consumption of that capital. The Government has based its contention that Worthen should be treated as the owner on the assumption that, throughout the term of the lease, Worthen was acquiring an equity in the property. In order to establish the presence of that growing equity, however, the Government is forced to speculate that one of the options will be exercised, and that, if it is not, this is only because the rentals for the extended term are a bargain. We cannot indulge in such speculation in view of the District Court's clear finding to the contrary. [<a id="nf16" href="#fn16">Footnote 16</a>] We therefore conclude that it is Lyon's capital that is invested in the building according to the agreement of the parties, and it is Lyon that is entitled to depreciation deductions, under § 167 of the 1954 Code, 26 U.S.C. § 167. Cf. United States v. Chicago B. &amp; Q. R. Co., <a href="../us412/us412-0401.xml#p401">412 U. S. 401</a> (1973).</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>We recognize that the Government's position, and that taken by the Court of Appeals, is not without superficial appeal. One, indeed, may theorize that Frank Lyon's presence on the Worthen board of directors; Lyon's departure from its principal corporate activity into this unusual venture; the parallel between the payments under the building lease and the amounts due from Lyon on the New York Life mortgage; the provisions relating to condemnation or destruction of the</p>
     <n id="p582">582</n>
     <p>property; the nature and presence of the several options available to Worthen; and the tax benefits, such as the use of double declining balance depreciation, that accrue to Lyon during the initial years of the arrangement, form the basis of an argument that Worthen should be regarded as the owner of the building and as the recipient of nothing more from Lyon than a $500,000 loan.</p>

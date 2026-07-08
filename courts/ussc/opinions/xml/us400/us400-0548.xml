@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us400-0548.html" citation="400 U.S. 548" title="Piccirillo v. New York">
   <opinion type="Opinions &amp; Dissents">
     <n id="p548">548</n>
-    <h>U.S. Supreme Court</h>
-    <h>Piccirillo v. New York, <a href="./us400-0548.xml#p548">400 U.S. 548</a> (1971)</h>
-    <h>Piccirillo v. New York</h>
-    <h>No. 97</h>
-    <h>Argued November 9, 1970</h>
-    <h>Decided January 25, 1971</h>
-    <h><a href="./us400-0548.xml#p548">400 U.S. 548</a></h>
-    <h>CERTIORARI TO THE COURT OF APPEALS OF NEW YORK</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Piccirillo v. New York, <a href="./us400-0548.xml#p548">400 U.S. 548</a> (1971)</h1>
+    <h2>Piccirillo v. New York</h2>
+    <h2>No. 97</h2>
+    <h4>Argued November 9, 1970</h4>
+    <h4>Decided January 25, 1971</h4>
+    <h2>CERTIORARI TO THE COURT OF APPEALS OF NEW YORK</h2>
+    <h2>Syllabus</h2>
     <p>Writ of certiorari, granted to resolve question whether "transactional," rather than "use," immunity is constitutionally required to compel a witness to testify before a New York grand jury, is dismissed as improvidently granted in light of another decision by highest state court holding that transactional immunity is required in New York, and that its earlier decision in the instant case may have rested on that premise.</p>
     <p>24 N.Y.2d 598, 249 N.E.2d 412, certiorari dismissed.</p>
     <p>PER CURIAM.</p>
@@ -42,7 +42,7 @@
     <p>* The present case is not complicated by the question whether State immunity must extend immunity against federal prosecution. See Murphy v. Waterfront Comm'n, <a href="../us378/us378-0052.xml#p52">378 U. S. 52</a>. Cf. Abbate v. United States, <a href="../us359/us359-0187.xml#p187">359 U. S. 187</a>.</p>
     <p>MR. JUSTICE BRENNAN, with whom MR. JUSTICE MARSHALL joins, dissenting.</p>
     <p>This case presents the question of the limitations required by the Fifth Amendment's Self-Incrimination Clause upon subsequent state prosecutions of an individual compelled by the State to answer incriminating questions. Since, in my view, this case presents a record that compels us to decide that question, I cannot agree that the Court may dismiss the writ of certiorari as improvidently granted. I therefore reach the merits and would reverse the judgment of conviction and remand the case with directions to dismiss the indictment.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Petitioner and a codefendant were arrested on March 19, 1964, by a New York police officer, William Sewell, for assaulting one Graham, a housing contractor. Patrolman Sewell recovered the tire irons used in the assault from petitioner and the codefendant at the time of the arrest. The following day, the two defendants were arraigned and released on bond. But before leaving the courthouse, they approached Patrolman Sewell and offered him $1,000 or $1,500 to dispose of the seized weapons. The honest Sewell refused the offer and immediately notified the district attorney of the bribe attempt. At the request of the prosecutor, Sewell later attended a meeting with petitioner to confirm the bribe offer. The relevant narrative skips a year during which petitioner and his codefendant were indicted for attempted assault,</p>
     <n id="p553">553</n>
     <p>pleaded guilty, and were sentenced to jail. On March 18, 1965, a year after the assault and bribery attempt, petitioner was summoned from jail to appear before a grand jury investigating the possibility of criminal conspiracies in connection with the assault on Graham. The prosecutor, after informing petitioner of the purpose of the investigation, told him that the grand jury was going to vote on whether to give petitioner immunity, and explained the meaning of immunity to petitioner as follows:</p>
@@ -56,7 +56,7 @@
     <p>Seven months after its decision in petitioner's case, the New York Court of Appeals, on December 4, 1969, in a case wholly unrelated to petitioner's, reversed itself on the proper interpretation of the New York immunity statute, holding that the New York statute granted "immunity from prosecution for any crime revealed by a witness' testimony before a Grand Jury." Gold v. Menna, 25 N.Y.2d 475, 481, 255 N.E.2d 235, 238. In a footnote to Gold, the New York court stated that,</p>
     <n id="p555">555</n>
     <p>even under its new interpretation, petitioner's conviction was correctly affirmed because he and his codefendant "gave no testimony which related or pertained to the offense for which they were prosecuted and of which they were convicted." 25 N.Y.2d at 481 n. 1, 255 N.E.2d at 238 n. 1. We granted certiorari, 397 U.S. 933 (1970).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The fact that the New York Court of Appeals has reversed itself and changed its interpretation of the New York immunity statute to grant "transactional" immunity, and not merely "use" immunity as that court held when it affirmed petitioner's conviction, provides no basis for dismissing the writ of certiorari as improvidently granted. The state court's interpretation of state law is, at best, only tangentially related to the federal constitutional question presented in this case. The petitioner here, upon being told "[Y]ou have been given immunity. That means you cannot be prosecuted," proceeded to testify and answer all questions put to him about the Graham assault. Subsequently, he was indicted and convicted for the bribery attempt which arose out of that assault. The New York courts have affirmed petitioner's conviction for bribery, holding that the immunity granted by the state statute did not bar the present conviction. At that point, the relevance to the constitutional question of the scope of immunity afforded by the state court's interpretation of state law ended. The question for this Court is whether the Fifth Amendment, as applied to the States by the Fourteenth Amendment, permits the present conviction to stand in light of the substance of the compelled testimony and the nature and basis of that conviction. That is a matter of federal constitutional law which does not depend upon the interpretation of the New York immunity statute.</p>
     <n id="p556">556</n>
     <p>The Court's wholly wrong focus upon the particular state immunity statute [<a id="nf2" href="#fn2">Footnote 2</a>] involved results from its failure to distinguish two different procedural postures in which the question of the scope of immunity required by the Fifth Amendment can be raised. First, an individual may rely on the Fifth Amendment privilege and refuse to answer a question after he has been granted immunity pursuant to an immunity statute and ordered to respond. If he is then held in contempt (or otherwise penalized) for his refusal to answer, the question presented in reviewing the contempt conviction (or other sanction) is whether the statutory grant of immunity is coextensive with the scope of the privilege against self-incrimination. Malloy v. Hogan, <a href="../us378/us378-0001.xml#p1">378 U. S. 1</a> (1964); Counselman v. Hitchcock, <a href="../us142/us142-0547.xml#p547">142 U. S. 547</a> (1892). If the immunity granted is found to be coextensive with the privilege, then the witness' refusal to answer based on the privilege was unjustified, and the finding of contempt is proper. Brown v. Walker, <a href="../us161/us161-0591.xml#p591">161 U. S. 591</a> (1896). If, on the other hand, the immunity granted by the statute falls short of the constitutional requirement, the witness properly relied upon his constitutional privilege, and any sanction imposed cannot stand. McCarthy v. Arndstein, <a href="../us266/us266-0034.xml#p34">266 U. S. 34</a>, <a href="../us266/us266-0042.xml#p42">266 U. S. 42</a> (1924). In these cases, analysis therefore necessarily focuses on the particular provisions of the immunity statute in question and on the nuances of its interpretation</p>
@@ -83,7 +83,7 @@
     <p>"our determination upon the fundamental constitutional question underlying this case would be in no sense necessary to its resolution in this instance."</p>
     <p>This is simply not so. If the Court resolves this case, it must make a "determination upon the fundamental constitutional question." Indeed, the per curiam has already conceded that. The issue is why resolution of this case, and hence decision on the constitutional question, is being withheld. In my judgment, the Court has yet to articulate a reason for not deciding this case.</p>
     <p>In sum, the Court attempts, none too successfully in my judgment, to create a smokescreen by focusing on questions of state law. Petitioner's conviction, without more, squarely raises the federal constitutional question on a concrete, factual record which provides an excellent basis for constitutional adjudication. Under these circumstances, there exists no basis upon which the Court can justify dismissal of the writ of certiorari as improvidently granted. I therefore turn to the merits.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Only one sovereignty, New York State, is involved. Thus, the case raises the basic question of the constitutional restrictions upon the power of a state government to prosecute an individual for matters related to incriminating testimony which that State has compelled the individual to give. Unlike, for example, Murphy v. Waterfront Comm'n, <a href="../us378/us378-0052.xml#p52">378 U. S. 52</a> (1964), there is no problem here of limitations imposed on other jurisdictions by New York's act of compelling petitioner to testify against himself. And</p>
     <p>"where there is only one government involved, be it state or federal, not only is the danger of prosecution more imminent and indeed the likely purpose of the investigation to facilitate prosecution</p>
     <n id="p562">562</n>
@@ -146,7 +146,7 @@
     <n id="p573">573</n>
     <p>did the iniquities of the ancient system impress themselves upon the minds of the American colonists that the States, with one accord, made a denial of the right to question an accused person a part of their fundamental law."</p>
     <p>161 U.S. at <a href="../us161/us161-0591.xml#p596">161 U. S. 596</a>-597. So too in this case: an accused was put in the same position, with the same attendant temptations and pressures upon the prosecutor. That the questioning occurred in the secrecy of the grand jury does not affect the protection afforded the individual by the Constitution. Only if both prosecutor and witness are clearly on notice that questioning about an incident will relieve the witness of all criminal liability substantially related to that subject can we guarantee that the inquisitorial character of the proceeding will be removed, and still allow the prosecutor to seek out facts relevant to the crimes of others.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>Under the transactional immunity standard, I do not believe that petitioner's conviction can stand. Mr. Justice Holmes, in Heike v. United States, <a href="../us227/us227-0131.xml#p131">227 U. S. 131</a> (1913), in interpreting a federal immunity statute so as to render it "coterminous with what otherwise would have been the privilege of the person concerned," 227 U.S. at <a href="../us227/us227-0131.xml#p142">227 U. S. 142</a>, held that "[w]hen the statute speaks of testimony concerning a matter, it means concerning it in a substantial way." Id. at <a href="../us227/us227-0131.xml#p144">227 U. S. 144</a>. I agree that immunity attaches only to matters substantially related to the compelled testimony.</p>
     <p>Petitioner testified that he had committed the assault on Graham with tire irons. He testified that the tire irons in the possession of the police were the tire irons that he had used. He testified that he was caught immediately after the assault by the police, taken to the station house, booked on the assault charge, and released on bail the next day. His testimony carried</p>
     <n id="p574">574</n>

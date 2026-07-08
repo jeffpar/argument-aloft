@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us594-19-251.html" citation="594 U.S. 19-251" title="Americans for Prosperity Foundation v. Bonta">
   <opinion type="Opinion" author="Roberts">
     <p>NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 19–251 and 19–255</p>
-    <p>_________________</p>
     <p>AMERICANS FOR PROSPERITY FOUNDATION, PETITIONER</p>
     <p>19–251v.</p>
     <p>ROB BONTA, ATTORNEY GENERAL OF CALIFORNIA</p>
@@ -76,9 +75,7 @@
   </opinion>
   <opinion type="Concurrence" author="Thomas">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 19–251 and 19–255</p>
-    <p>_________________</p>
     <p>AMERICANS FOR PROSPERITY FOUNDATION, PETITIONER</p>
     <p>19–251v.</p>
     <p>ROB BONTA, ATTORNEY GENERAL OF CALIFORNIA</p>
@@ -97,9 +94,7 @@
   </opinion>
   <opinion type="Concurrence" author="Alito">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 19–251 and 19–255</p>
-    <p>_________________</p>
     <p>AMERICANS FOR PROSPERITY FOUNDATION, PETITIONER</p>
     <p>19–251v.</p>
     <p>ROB BONTA, ATTORNEY GENERAL OF CALIFORNIA</p>
@@ -115,9 +110,7 @@
   </opinion>
   <opinion type="Dissent" author="Sotomayor">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 19–251 and 19–255</p>
-    <p>_________________</p>
     <p>AMERICANS FOR PROSPERITY FOUNDATION, PETITIONER</p>
     <p>19–251v.</p>
     <p>ROB BONTA, ATTORNEY GENERAL OF CALIFORNIA</p>
@@ -183,7 +176,7 @@
     <p>Implicitly acknowledging that audits and subpoenas are more cumbersome and time consuming, the Court trivializes the State’s interest in what it calls “ease of administration.” Ante, at 15. Yet in various contexts, the Court has recognized that an interest in “efficiency” is critical to the effective operation of public agencies.[<a id="nf4-9" href="#fn4-9">9</a>] See, e.g., Bailey v. United States, <a href="../us568/us568-0186.xml#p186">568 U.S. 186</a>, 200 (2013) (“[T]he law enforcement interests in conducting a safe and efficient search” justify detaining “occupants on the premises during the execution of a search warrant”); Civil Service Comm’n v. Letter Carriers, <a href="../us413/us413-0548.xml#p548">413 U.S. 548</a>, 564 (1973) (seeking a constitutional balance between the interests of a government employee in commenting on matters of public concern and the interest of the government in the efficiency of the services it performs).</p>
     <p>In addition to being burdensome, audit letters and subpoenas can also significantly undercut the Section’s work by alerting an organization to the existence of an investigation, giving it a chance to hide assets or tamper with evidence. The Court dismisses this concern as unsubstantiated. Yet one Section head reported that this had “happened several times,” and another testified to her personal experience with organizations “fabricat[ing]” and “destroy[ing] records” after being tipped off to an investigation. 16–55727 ER, at 590, 998–999.[<a id="nf4-10" href="#fn4-10">10</a>] A State surely has a compelling interest in ensuring that the subject of an investigation does not destroy evidence or hide funds before investigators have an opportunity to find them. Cf. Kentucky v. King, <a href="../us563/us563-0452.xml#p452">563 U.S. 452</a>, 460 (2011) (“[T]he need to prevent the imminent destruction of evidence has long been recognized as a sufficient justification for a warrantless search” (internal quotation marks omitted)). The Court ignores those interests here.</p>
     <p>IV</p>
-    <p>In a final coup de grâce, the Court concludes that California’s reporting requirement is unconstitutional not just as applied to petitioners, but on its very face. “In the First Amendment context,” such broad relief requires proof that the requirement is unconstitutional in “ ‘a substantial number of . . . applications . . . , judged in relation to the statute’s plainly legitimate sweep.’ ” United States v. Stevens, <a href="../us559/us559-0460.xml#p460">559 U.S. 460</a>, 473 (2010). “Facial challenges are disfavored for several reasons,” prime among them because they “often rest on speculation.” Washington State Grange v. Washing-</p>
+    <p>In a final coup de grâce, the Court concludes that California’s reporting requirement is unconstitutional not just as applied to petitioners, but on its very face. “In the First Amendment context,” such broad relief requires proof that the requirement is unconstitutional in “ ‘a substantial number of . . . applications . . ., judged in relation to the statute’s plainly legitimate sweep.’ ” United States v. Stevens, <a href="../us559/us559-0460.xml#p460">559 U.S. 460</a>, 473 (2010). “Facial challenges are disfavored for several reasons,” prime among them because they “often rest on speculation.” Washington State Grange v. Washing-</p>
     <p>ton State Republican Party, <a href="../us552/us552-0442.xml#p442">552 U.S. 442</a>, 450 (2008). Speculation is all the Court has. The Court points to not a single piece of record evidence showing that California’s reporting requirement will chill “a substantial number” of top donors from giving to their charities of choice.[<a id="nf4-11" href="#fn4-11">11</a>] Yet it strikes the requirement down in every application.</p>
     <p>The average donor is probably at most agnostic about having their information confidentially reported to California’s attorney general. A significant number of the charities registered in California engage in uncontroversial pursuits. They include hospitals and clinics; educational institutions; orchestras, operas, choirs, and theatrical groups; museums and art exhibition spaces; food banks and other organizations providing services to the needy, the elderly, and the disabled; animal shelters; and organizations that help maintain parks and gardens. Brief for Public Citizen et al. as Amici Curiae 12–13. It is somewhat hard to fathom that donors to the Anderson Elementary School PTA, the Loomis-Eureka Lakeside Little League, or the Santa Barbara County Horticultural Society (“[c]elebrating plants since 1880”) are less likely to give because their do-</p>
     <p>nations are confidentially reported to California’s Charitable Trusts Section.[<a id="nf4-12" href="#fn4-12">12</a>]</p>

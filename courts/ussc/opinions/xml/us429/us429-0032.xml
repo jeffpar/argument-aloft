@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us429-0032.html" citation="429 U.S. 32" title="United States v. Foster Lumber Co., Inc.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p32">32</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Foster Lumber Co., Inc., <a href="./us429-0032.xml#p32">429 U.S. 32</a> (1976)</h>
-    <h>United States v. Foster Lumber Co., Inc.</h>
-    <h>No. 74-799</h>
-    <h>Argued November 12, 1975</h>
-    <h>Reargued October 5, 1976</h>
-    <h>Decided November 2, 1976</h>
-    <h><a href="./us429-0032.xml#p32">429 U.S. 32</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE EIGHTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Foster Lumber Co., Inc., <a href="./us429-0032.xml#p32">429 U.S. 32</a> (1976)</h1>
+    <h2>United States v. Foster Lumber Co., Inc.</h2>
+    <h2>No. 74-799</h2>
+    <h4>Argued November 12, 1975</h4>
+    <h4>Reargued October 5, 1976</h4>
+    <h4>Decided November 2, 1976</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE EIGHTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Section 172 of the Internal Revenue Code of 1954, as amended, provides that a "net operating loss" experienced by a corporate taxpayer in one year may be carried as a deduction to the preceding three years and the succeeding five years to offset taxable income of those years. The entire loss must be carried back to the earliest possible year and any of the loss not "absorbed" by that first year may then be carried to succeeding years, since</p>
     <p>"[t]he portion of such loss which shall be carried to each of the other taxable years shall be the excess, if any, of the amount of such loss over the sum of the taxable income for each of the prior taxable years to which such loss may be carried."</p>
     <p>§ 172(b)(2). Proceeding under that provision respondent taxpayer carried back a net operating loss of some $42,000, which it had sustained in 1968, to 1966, in which year respondent had ordinary income of about $7,000 and a capital gain of about $167,000. After applying the "alternative tax" method of § 1201(a), which permits low capital gains taxation, respondent maintained that after subtracting the $42,000 loss deduction from the 1966 ordinary income, the negative balance of about $35,000 was still available to offset income for 1967, respondent taking the position that its 1968 loss had been "absorbed" in 1966 only to the extent of the $7,000 ordinary income. Respondent accordingly made a refund claim for the taxable year 1967, which the Commissioner disallowed but which the District Court upheld. The Court of Appeals affirmed.</p>
@@ -32,7 +32,7 @@
     <p>may then be carried in turn to succeeding years. The respondent, Foster Lumber Co., sustained a net operating loss of some $42,000 in 1968, which it carried back to 1966. In 1966, the respondent had had ordinary income of about $7,000 and a capital gain of about $167,000. The question presented is whether a loss carryover is "absorbed" by capital gain as well as ordinary income, or is instead limited to offsetting only ordinary income. The taxpayer filed a refund suit in Federal District Court challenging the Commissioner's</p>
     <n id="p36">36</n>
     <p>disallowance of its clam that the $35,000 of the 1968 loss not used to offset its 1966 ordinary income survived to reduce its 1967 tax liability. The trial court and the Court of Appeals for the Eighth Circuit agreed with the taxpayer. We granted certiorari to resolve a Circuit conflict on a recurring question of statutory interpretation. [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The dispute in this case centers on the meaning of "taxable income" as used in § 172(b)(2) to govern the amount of carrybacks and carryovers that can be successively transferred from one taxable year to another. In relevant part, § 172(b)(2) requires the net operating loss to be carried in full to the earliest taxable year possible, and provides:</p>
     <p>"The portion of such loss which shall be carried to each of the other taxable years shall be the excess, if any, of the amount of such loss over the sum of the taxable income for each of the prior taxable years to which such loss may be carried."</p>
     <p>Thus, when the loss has been carried back to the first year to which it is applicable, the loss "survives" for carryover to a succeeding taxable year only to the extent that it exceeds the taxable income of the earlier year. "Taxable income" is defined in § 63(a) of the Code to mean "gross income, minus the deductions allowed</p>
@@ -55,7 +55,7 @@
     <p>52 T.C. at 357-358. In other words, it was held, taxable income refers only to that ordinary income offset by a loss deduction that produces an additional reduction in tax liability under the alternative tax computation method.</p>
     <p>It is, of course, not unusual in statutory construction to find that a defined term's meaning is substantially modified by an attached clause. But reading "taxable income to which . . . such loss may be carried" as equivalent to "taxable income to which such loss may be carried and deducted, resulting in a reduction of tax liability" gives these phrases a synergistic effect that goes well beyond their natural import. Such a construction subtly redefines "taxable income" in terms of the tax impact of a particular method of tax calculation. It thus implicitly departs from the "term of art" definition of taxable income given in § 63(a), while discovering a significance in the word "carry" that goes well beyond its usual connotation of a transfer of a loss from the year in which it occurred. Standing alone, this strained reading of the statute's terms falls considerably short of the explicit statutory support the Court has previously required of taxpayers seeking a tax benefit from losses suffered in other years. See, e.g., Woolford Realty Co. v. Rose, <a href="../us286/us286-0319.xml#p319">286 U. S. 319</a>, <a href="../us286/us286-0319.xml#p326">286 U. S. 326</a>. [<a id="nf8" href="#fn8">Footnote 8</a>] If Congress had intended to allow a loss deduction to offset only ordinary income when the alternative tax calculation method is used, it could easily have said so.</p>
     <n id="p42">42</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>The respondent further asserts that the legislative history and the broad policy behind the loss deduction section of the Code support its interpretation of "taxable income" under § 172(b). Although, for the reasons stated above, it can hardly be said that the benefit claimed by the respondent is fairly within the statutory language, it is not inappropriate to consider this contention -- to consider, in short, whether "the construction sought is in harmony with the statute as an organic whole." See Lewyt Corp. v. Commissioner, <a href="../us349/us349-0237.xml#p237">349 U. S. 237</a>, <a href="../us349/us349-0237.xml#p240">349 U. S. 240</a>.</p>
     <p>The respondent relies on the Court's opinion in Libson Shops, Inc. v. Koehler, <a href="../us353/us353-0382.xml#p382">353 U. S. 382</a>, <a href="../us353/us353-0382.xml#p386">353 U. S. 386</a>, for a description of the legislative purpose in allowing loss carryovers. In that case, the Court said that the net operating loss carryover and carryback provisions</p>
     <p>"were enacted to ameliorate the unduly drastic consequences of taxing income strictly on an annual basis. They were designed to permit a taxpayer to set off its lean years against its lush years, and to strike something like an average taxable income computed over a period longer than one year."</p>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us149-0164.html" citation="149 U.S. 164" title="In re Tyler">
   <opinion type="Opinions &amp; Dissents">
     <n id="p164">164</n>
-    <h>U.S. Supreme Court</h>
-    <h>In re Tyler, <a href="./us149-0164.xml#p164">149 U.S. 164</a> (1893)</h>
-    <h>In re Tyler</h>
-    <h>No. 17 Original</h>
-    <h>Argued April 4, 1893</h>
-    <h>Decided April 24, 1893</h>
-    <h><a href="./us149-0164.xml#p164">149 U.S. 164</a></h>
-    <h>ORIGINAL</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>In re Tyler, <a href="./us149-0164.xml#p164">149 U.S. 164</a> (1893)</h1>
+    <h2>In re Tyler</h2>
+    <h2>No. 17 Original</h2>
+    <h4>Argued April 4, 1893</h4>
+    <h4>Decided April 24, 1893</h4>
+    <h2>ORIGINAL</h2>
+    <h2>Syllabus</h2>
     <p>Property within a state which is in the possession of a receiver by virtue of his appointment as such by a circuit court of the United States is not subject to seizure and levy under process issuing from a court of the state to enforce the collection of a tax assessed upon its owner under the laws of the state.</p>
     <p>The exclusive remedy of the state tax collector in such case is in the circuit court which appointed the receiver, where the question of the validity of the tax may be heard and determined and where the priority of payment of such amount as may be found to be due which is granted by the laws of the state will be recognized and enforced.</p>
     <p>The writ of habeas corpus is not to be used to perform the office of a writ of error, or of an appeal.</p>

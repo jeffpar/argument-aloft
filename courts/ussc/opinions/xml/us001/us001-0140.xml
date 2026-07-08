@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us001-0140.html" citation="1 U.S. 140" title="MORRIS v. DE MARS">
   <opinion type="Opinions &amp; Dissents">
     <n id="p140">140</n>
-    <h>U.S. Supreme Court</h>
-    <h>MORRIS v. DE MARS, <a href="./us001-0140.xml#p140">1 U.S. 140</a> (1785)</h>
-    <h> <a href="./us001-0140.xml#p140">1 U.S. 140</a> (Dall.)</h>
-    <h>Morris v. De Mars</h>
-    <h>Supreme Court of Pennsylvania</h>
-    <h>September Term, 1785</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>MORRIS v. DE MARS, <a href="./us001-0140.xml#p140">1 U.S. 140</a> (1785)</h1>
+    <h2>Morris v. De Mars</h2>
+    <h2>Supreme Court of Pennsylvania</h2>
+    <h4>September Term, 1785</h4>
     <p>It was ruled in this case, that a relation of a superior and inferior officer, does not, of itself, bind the former to pay the contracts of the latter, whether in the staff or line. But if the inferior officer had an authority to contract, and having obtained money for the use of the army, applied it accordingly, in such case The Court inclined to think, that the superior would be liable for the debt, provided he had sufficient public funds to discharge it.</p>
   </opinion>
 </case>

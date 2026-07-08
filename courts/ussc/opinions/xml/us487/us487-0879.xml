@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us487-0879.html" citation="487 U.S. 879" title="Bowen v. Massachusetts">
   <opinion type="Opinions &amp; Dissents">
     <n id="p879">879</n>
-    <h>U.S. Supreme Court</h>
-    <h>Bowen v. Massachusetts, <a href="./us487-0879.xml#p879">487 U.S. 879</a> (1988)</h>
-    <h>Bowen v. Massachusetts</h>
-    <h>No. 87-712</h>
-    <h>Argued April 20, 1988</h>
-    <h>Decided June 29, 1988<a href="./us487-0879.xml#p879">487 U.S. 879</a>ast|&gt;*</h>
-    <h><a href="./us487-0879.xml#p879">487 U.S. 879</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE FIRST CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Bowen v. Massachusetts, <a href="./us487-0879.xml#p879">487 U.S. 879</a> (1988)</h1>
+    <h2>Bowen v. Massachusetts</h2>
+    <h2>No. 87-712</h2>
+    <h4>Argued April 20, 1988</h4>
+    <h4>Decided June 29, 1988<a href="./us487-0879.xml#p879">487 U.S. 879</a>ast|&gt;*</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE FIRST CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>The federal contribution (referred to as a "reimbursement") to a State's Medicaid program takes the form of advances based on the State's estimate of its future expenditures for covered services. Overpayments may be withheld from future advances, or, if a disallowance dispute develops, may be retained by the State at its option pending resolution of the dispute. After Massachusetts was reimbursed by the Department of Health and Human Services (HHS) for its expenditures for particular services during two time periods, HHS subsequently disallowed the reimbursements on the ground that the services in question were not covered by the Medicaid statute or HHS regulations. The Departmental Grant Appeals Board (Board) affirmed. Unlike orders in the related compliance proceedings, which are expressly made reviewable by the regional courts of appeals, disallowance orders are not explicitly made judicially reviewable by the Medicaid statute. Nevertheless, the State filed two suits, each with respect to one of the disallowance decisions, in the Federal District Court, seeking declaratory and injunctive relief and specifically asking the court to "set aside" the Board's orders. In one case, the court issued a declaratory judgment agreeing with respondent on the merits, and "reversed" the disallowance decision. In the second case, the court issued an order based on its earlier decision. The Court of Appeals agreed with the Secretary of HHS that the District Court lacked jurisdiction to order him to pay money to the State, and therefore reversed the "money judgment" against him. The court also held, however, that the District Court had jurisdiction to review the Board's disallowance decisions and to grant declaratory and injunctive relief having prospective effect, and affirmed the declaratory judgment on the merits. In this Court, the Secretary contends that the United States Claims Court had jurisdiction over the State's claim, since §§ 702 and 704 of the Administrative Procedure Act preclude district court review.</p>
     <n id="p880">880</n>
     <p>Held:</p>
@@ -28,7 +28,7 @@
     <p>The principal question presented by this case is whether a federal district court has jurisdiction to review a final order of the Secretary of Health and Human Services refusing to reimburse a State for a category of expenditures under its Medicaid program. All of the Courts of Appeals that have confronted this precise question have agreed that district courts do have jurisdiction in such cases. [<a id="nf1" href="#fn1">Footnote 1</a>] We implicitly</p>
     <n id="p883">883</n>
     <p>answered the question in the same way when we accepted jurisdiction and decided the merits in Connecticut Dept. of Income Maintenance v. Heckler, <a href="../us471/us471-0524.xml#p524">471 U. S. 524</a> (1985). Moreover, although the Medicaid program was established in 1965, the novel proposition that the Claims Court is the exclusive forum for judicial review of this type of agency action does not appear to have been advocated by the Secretary until this case reached the Court of Appeals. As we shall explain, the conclusion that the District Court had jurisdiction in this case is supported by the plain language of the relevant statutes, their legislative history, and a practical understanding of their efficient administration. Before turning to the legal arguments, however, it is appropriate to say a few words about the mechanics of the federal financial participation (FFP) in the States' Medicaid programs and the character of the issue decided by the District Court.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In 1965, Congress authorized the Medicaid program by adding Title XIX to the Social Security Act, 79 Stat. 343. The program is</p>
     <p>"a cooperative endeavor in which the Federal Government provides financial assistance to participating States to aid them in furnishing health care to needy persons."</p>
     <p>Harris v. McRae, <a href="../us448/us448-0297.xml#p297">448 U. S. 297</a>, <a href="../us448/us448-0297.xml#p308">448 U. S. 308</a> (1980). Subject to the federal standards incorporated in the statute and the Secretary's regulations, each participating State must develop its own program describing conditions of eligibility and covered services. At present, 18 different categories of medical assistance are authorized. See Connecticut Dept. of Income Maintenance v. Heckler, 471 U.S. at <a href="../us471/us471-0524.xml#p528">471 U. S. 528</a>-529.</p>
@@ -60,7 +60,7 @@
     <p>In his petition for certiorari, the Secretary asked us to decide that the United States Claims Court had exclusive jurisdiction over the State's claim. [<a id="nf14" href="#fn14">Footnote 14</a>] In its cross-petition, the</p>
     <n id="p891">891</n>
     <p>State asked us to decide that the District Court had jurisdiction to grant complete relief. [<a id="nf15" href="#fn15">Footnote 15</a>] We granted both petitions. 484 U.S. 1003 (1988). The basic jurisdictional dispute is over the meaning of the Administrative Procedure Act (APA), 5 U.S.C. §§ 702, 704. [<a id="nf16" href="#fn16">Footnote 16</a>] The Secretary argues that § 702, as amended in 1976, does not authorize review because this is not an action "seeking relief other than money damages" within the meaning of the 1976 amendment to that section; he also argues that, even if § 702 is satisfied, § 704 bars relief because the State has an adequate remedy in the Claims Court. The State must overcome both arguments in order to prevail; we shall discuss them separately.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Since it is undisputed that the 1976 amendment to § 702 was intended to broaden the avenues for judicial review of</p>
     <n id="p892">892</n>
     <p>agency action by eliminating the defense of sovereign immunity in cases covered by the amendment, it is appropriate to begin by quoting the original text of § 702. Prior to 1976, it simply provided:</p>
@@ -111,7 +111,7 @@
     <p>mandate is one for the payment of money must not be confused with the question whether such payment, in these circumstances, is a payment of money as damages or as specific relief. Judge Bork's explanation bears repeating:</p>
     <p>"[The State] is seeking funds to which a statute allegedly entitles it, rather than money in compensation for the losses, whatever they may be, that [the State] will suffer or has suffered by virtue of the withholding of those funds. If the program in this case involved in-kind benefits, this would be altogether evident. The fact that, in the present case, it is money, rather than in-kind benefits, that pass from the federal government to the states (and then, in the form of services, to program beneficiaries) cannot transform the nature of the relief sought -- specific relief, not relief in the form of damages."</p>
     <p>246 U.S.App.D.C. at 185, 763 F.2d at 1446.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The Secretary's novel submission that the entire action is barred by § 704 must be rejected, because the doubtful and limited relief available in the Claims Court is not an adequate substitute for review in the District Court. A brief review of the principal purpose of § 704 buttresses this conclusion.</p>
     <p>Section 704 was enacted in 1946 as § 10(c) of the APA. In pertinent part, it provided:</p>
     <n id="p902">902</n>
@@ -144,7 +144,7 @@
     <n id="p908">908</n>
     <p>activities that a district court would be in a better position to understand and evaluate than a single tribunal headquartered in Washington. We have a settled and firm policy of deferring to regional courts of appeals in matters that involve the construction of state law. [<a id="nf45" href="#fn45">Footnote 45</a>] That policy applies with special force in this context, because neither the Claims Court nor the Court of Appeals for the Federal Circuit has any special expertise in considering the state law aspects of the controversies that give rise to disallowances under grant-in-aid programs. It would be nothing less than remarkable to conclude that Congress intended judicial review of these complex questions of federal-state interaction to be reviewed in a specialized forum such as the Court of Claims. More specifically, it is anomalous to assume that Congress would channel the review of compliance decisions to the regional courts of appeals, see 42 U.S.C. § 1316(a)(3); supra, at <a href="./us487-0879.xml#p885">487 U. S. 885</a>, and yet intend that the same type of questions arising in the disallowance context should be resolved by the Claims Court or the Federal Circuit. [<a id="nf46" href="#fn46">Footnote 46</a>]</p>
     <n id="p909">909</n>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>We agree with the position advanced by the State in its cross-petition -- that the judgments of the District Court should have been affirmed in their entirety -- for two independent reasons. First, neither of the District Court's orders in this case was a "money judgment," as the Court of Appeals held. The first order (followed in the second, see <a href="./us487-0879.xml#p883">487 U. S.</a> supra) simply "reversed" the</p>
     <p>"decision of the Department Grant Appeals Board of the United States Department of Health and Human Services in Decision No. 438 (May 31, 1983). [<a id="nf47" href="#fn47">Footnote 47</a>]"</p>
     <p>It is true that it describes Decision No. 438 as one that had disallowed reimbursement of $6,414,964 to the State, but it did not order that amount to be paid, and it did not purport to be based on a finding that the Federal Government</p>
@@ -368,7 +368,7 @@
       <p>The Court is correct in holding that § 704 does not bar District Court review of the challenged orders, the reason being that the Claims Court could not entertain and grant the claims presented to and granted by the District Court. I thus agree with the result reached in Part III of the Court's opinion.</p>
       <p>JUSTICE SCALIA, with whom THE CHIEF JUSTICE and JUSTICE KENNEDY join, dissenting.</p>
       <p>The Court holds for respondent because it finds that these suits do not seek money damages, and involve claims for which there is no "adequate remedy" in the Claims Court. I disagree with both propositions, and therefore respectfully dissent.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>"The States of the Union, like all other entities, are barred by federal sovereign immunity from suing the United States in the absence of an express waiver of this immunity by Congress."</p>
       <p>Block v. North Dakota ex rel. Bd. of Univ. and School Lands, <a href="../us461/us461-0273.xml#p273">461 U. S. 273</a>, <a href="../us461/us461-0273.xml#p280">461 U. S. 280</a> (1983). For this waiver, respondent the Commonwealth of Massachusetts relies on a provision added to § 702 of the Administrative Procedure Act (APA) in 1976:</p>
       <p>"An action in a court of the United States seeking relief other than money damages and stating a claim that an agency or an officer or employee thereof acted or failed to act in an official capacity or under color of legal authority shall not be dismissed nor relief therein be denied on the ground that it is against the United States or that the United States is an indispensable party."</p>
@@ -406,7 +406,7 @@
       <n id="p921">921</n>
       <p>will have to be abandoned. Unfortunately, however, those suits will not lie in district court either. It is settled that sovereign immunity bars a suit against the United States for specific performance of a contract, see Larson v. Domestic &amp; Foreign Commerce Corp., <a href="../us337/us337-0682.xml#p682">337 U. S. 682</a> (1949), and that this bar was not disturbed by the 1976 amendment to § 702, see Spectrum Leasing Corp. v. United States, 246 U.S.App.D.C. 258, 260, and n. 2, 262, 764 F.2d 891, 893, and n. 2, 895 (1985); Sea-Land Service, Inc. v. Brown, 600 F.2d 429, 432-433 (CA3 1979); American Science &amp; Engineering, Inc. v. Califano, 571 F.2d 58, 63 (CA1 1978). Thus, the Court of Appeals for the District of Columbia Circuit, applying the logic (which the Court has today specifically adopted as its own, ante at <a href="./us487-0879.xml#p894">487 U. S. 894</a>-896, 901) of its earlier decision in Maryland Dept. of Human Resources v. Department of Health and Human Services, 246 U.S.App.D.C. 180, 763 F.2d 1441 (1985), has held that a contractor cannot sue the Government in district court for the amount due under a contract, not because that would be a suit for money damages within the exclusive jurisdiction of the Claims Court, but because it is a suit for specific performance of the contract. Spectrum Leasing Corp. v. United States, 764 F.2d at 895. But since the Claims Court is also barred from granting specific performance, the Court's theory, in addition to leaving the Claims Court without a docket, leaves the contractor without a forum.</p>
       <p>I am sure, however, that neither the judges of the Claims Court nor government contractors need worry. The Court cannot possibly mean what it says today -- except, of course, the judgment. What that leaves, unfortunately, is a judgment without a reason.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>I agree with the Court that sovereign immunity does not bar respondent's actions insofar as they seek injunctive or declaratory relief with prospective effect. An action seeking an order that will prevent the wrongful disallowance of future</p>
       <n id="p922">922</n>
       <p>claims is an action seeking specific relief and not damages, since no damage has yet occurred. Cf. United States v. Testan, <a href="../us424/us424-0392.xml#p392">424 U. S. 392</a>, <a href="../us424/us424-0392.xml#p403">424 U. S. 403</a> (1976) (distinguishing "between prospective reclassification, on the one hand, and retroactive reclassification resulting in money damages, on the other").</p>

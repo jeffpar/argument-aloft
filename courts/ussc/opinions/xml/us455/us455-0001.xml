@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us455-0001.html" citation="455 U.S. 1" title="Washington v. Chrisman">
   <opinion type="Opinions &amp; Dissents">
     <n id="p1">1</n>
-    <h>U.S. Supreme Court</h>
-    <h>Washington v. Chrisman, <a href="./us455-0001.xml#p1">455 U.S. 1</a> (1982)</h>
-    <h>Washington v. Chrisman</h>
-    <h>No. 81-1349</h>
-    <h>Argued November 3, 1981</h>
-    <h>Decided January 13, 1982</h>
-    <h><a href="./us455-0001.xml#p1">455 U.S. 1</a></h>
-    <h>CERTIORARI TO THE SUPREME COURT OF WASHINGTON</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Washington v. Chrisman, <a href="./us455-0001.xml#p1">455 U.S. 1</a> (1982)</h1>
+    <h2>Washington v. Chrisman</h2>
+    <h2>No. 81-1349</h2>
+    <h4>Argued November 3, 1981</h4>
+    <h4>Decided January 13, 1982</h4>
+    <h2>CERTIORARI TO THE SUPREME COURT OF WASHINGTON</h2>
+    <h2>Syllabus</h2>
     <p>An officer of the Washington State University police department observed a student (Overdahl) leave a dormitory carrying a bottle of gin; because Overdahl appeared to be under 21 (the minimum age allowable under Washington law for possession of alcoholic beverages), the officer stopped him and asked for identification. After Overdahl requested to retrieve his identification from his dormitory room, the officer accompanied him there and, while remaining in the open doorway watching Overdahl and his roommate (respondent), noticed what he believed to be marihuana seeds and a pipe lying on a desk in the room. The officer then entered the room, confirmed that the seeds were marihuana, and determined that the pipe smelled of marihuana, and informed Overdahl and resspondent of their rights under Miranda v. Arizona, <a href="../us384/us384-0436.xml#p436">384 U. S. 436</a>. The students indicated their willingness to waive such rights, and after the officer asked if there were any other drugs in the room, respondent gave him a box which contained more marihuana and cash. After a second officer arrived, the students voluntarily consented, orally and in writing, to a search of the room, which yielded more marihuana and another controlled substance. Respondent was later charged with two counts of possessing the controlled substances and, after denial of his pretrial motion to suppress the evidence seized in the room, was convicted. The Washington Court of Appeals affirmed, but the Washington Supreme Court reversed. It held that, although Overdahl had been placed under lawful arrest, the officer had no right to enter the room and</p>
     <n id="p2">2</n>
     <p>seize contraband without a warrant, and that, because the students' consent to the subsequent search of the room was the fruit of the officer's initial entry, the contraband found during that search should also have been suppressed.</p>
@@ -23,7 +23,7 @@
     <n id="p3">3</n>
     <p>CHIEF JUSTICE BURGER delivered the opinion of the Court.</p>
     <p>We granted certiorari to consider whether a police officer may, consistent with the Fourth Amendment, accompany an arrested person into his residence and seize contraband discovered there in plain view.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>On the evening of January 21, 1978, Officer Daugherty of the Washington State University police department observed Carl Overdahl, a student at the University, leave a student dormitory carrying a half-gallon bottle of gin. Because Washington law forbids possession of alcoholic beverages by persons under 21, Wash.Rev.Code § 66.44.270 (1981), and Overdahl appeared to be under age, [<a id="nf1" href="#fn1">Footnote 1</a>] the officer stopped him and asked for identification. Overdahl said that his identification was in his dormitory room, and asked if the officer would wait while he went to retrieve it. The officer answered that, under the circumstances, he would have to accompany Overdahl, to which Overdahl replied "OK."</p>
     <p>Overdahl's toom was approximately 11 bt 17 feet, and located on the 11th floor of the dormitory. Respondent Chrisman, Overdahl's roommate, was in the room when the officer and Overdahl entered. The officer remained in the open doorway, leaning against the doorjamb while watching Chrisman and Overdahl. He observed that Chrisman, who was in the process of placing a small box in the room's medicine cabinet, because nervous at the sight of an officer.</p>
     <n id="p4">4</n>
@@ -34,7 +34,7 @@
     <p>The Supreme Court of Washington reversed. <a href="https://law.justia.com/cases/washington/supreme-court/1980/46750-1.html">94 Wash. 2d 711</a>, <a href="https://law.justia.com/cases/washington/supreme-court/1980/46750-1.html">619 P.2d 971</a> (1980). It held that, although Overdahl had been placed under lawful arrest and "there was nothing to prevent Officer Daugherty from accompanying Overdahl to his room," the officer had no right to enter the room and either examine or seize contraband without a warrant. The court reasoned there was no indication that Overdahl might obtain a weapon or destroy evidence, and, with the officer blocking the only exit from the room, his presence inside the room was not necessary to prevent escape. Because the officer's entry into the room and his observations of its interior were not justified by "exigent circumstances," the seizure of the seeds and pipe were held not to fall within the plain view exception to the Fourth Amendment's warrant requirement. The court went on to hold that, because the students' consent to the subsequent search of the room was the fruit of the officer's initial entry, the contraband found during that search should also have been suppressed. [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
     <p>Three justices dissented. They concluded it was reasonable for a police officer to keep an arrested person in sight at all times; accordingly, the officer had a legitimate reason for being in the place where he discovered the contraband, and was entitled, under the plain view doctrine, to seize it.</p>
     <p>We granted certiorari, 452 U.S. 959 (1981), and reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>A</p>
     <p>The "plain view" exception to the Fourth Amendment warrant requirement permits a law enforcement officer to seize</p>
     <n id="p6">6</n>
@@ -55,7 +55,7 @@
     <n id="p9">9</n>
     <p>room. It cannot be gainsaid that the officer would have had unrestricted access to the room at the first indication that he was in danger, or that evidence might be destroyed -- or even upon reassessment of the wisdom of permitting a distance between himself and Overdahl.</p>
     <p>We therefore conclude that, regardless of where the officer was positioned with respect to the threshold, he did not abandon his right to be in the room whenever he considered it essential. Accordingly, he had the right to act as soon as he observed the seeds and pipe. [<a id="nf5" href="#fn5">Footnote 5</a>] This is a classic instance of incriminating evidence found in plain view when a police officer, for unrelated but entirely legitimate reasons, obtains lawful access to an individual's area of privacy. The Fourth Amendment does not prohibit seizure of evidence of criminal conduct found in these circumstances. [<a id="nf6" href="#fn6">Footnote 6</a>]</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Since the seizure of the marihuana and pipe was lawful, we have no difficulty concluding that this evidence and the contraband subsequently taken from respondent's room were properly admitted at his trial. Respondent voluntarily produced three bags of marihuana after being informed of his rights under Miranda v. Arizona, <a href="../us384/us384-0436.xml#p436">384 U. S. 436</a> (1966). He then consented, in writing, to a search of the room, after being advised that his consent must be voluntary and that he had an absolute right to refuse consent and demand procurement of a search warrant. The seizure of the drugs pursuant</p>
     <n id="p10">10</n>
     <p>to respondent's valid consent did not violate the Fourth Amendment. [<a id="nf7" href="#fn7">Footnote 7</a>]</p>

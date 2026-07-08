@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us435-0679.html" citation="435 U.S. 679" title="National Soc'y of Prof. Engineers v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p679">679</n>
-    <h>U.S. Supreme Court</h>
-    <h>National Soc'y of Prof. Engineers v. United States, <a href="./us435-0679.xml#p679">435 U.S. 679</a> (1978)</h>
-    <h>National Society of Professional Engineers v. United States</h>
-    <h>No. 76-1767</h>
-    <h>Argued January 18, 1978</h>
-    <h>Decided April 25, 1978</h>
-    <h><a href="./us435-0679.xml#p679">435 U.S. 679</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE DISTRICT OF COLUMBIA CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>National Soc'y of Prof. Engineers v. United States, <a href="./us435-0679.xml#p679">435 U.S. 679</a> (1978)</h1>
+    <h2>National Society of Professional Engineers v. United States</h2>
+    <h4>No. 76-1767</h4>
+    <h4>Argued January 18, 1978</h4>
+    <h4>Decided April 25, 1978</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE DISTRICT OF COLUMBIA CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>The United States brought this civil antitrust suit against petitioner, the National Society of Professional Engineers, alleging that petitioner's canon of ethics prohibiting its members from submitting competitive bids for engineering services suppressed competition in violation of § 1 of the Sherman Act. Petitioner defended on the ground, inter alia, that, under the Rule of Reason, the canon was justified because it was adopted by members of a learned profession for the purpose of minimizing the risk that competition would produce inferior engineering work endangering the public safety. The District Court, granting an injunction against the canon, rejected this justification, holding that the canon on its face violated § 1 of the Sherman Act, thus making it unnecessary to make findings on the likelihood that competition would produce the dire consequences envisaged by petitioner. The Court. of Appeals affirmed, although modifying the District Court's injunction in certain respects so that, as modified, it prohibits petitioner from adopting any official opinion, policy statement, or guideline stating or implying that competitive bidding is unethical.</p>
     <p>Held:</p>
     <p>1. On its face, the canon in question restrains trade within the meaning of § 1 of the Sherman Act, and the Rule of Reason, under which the proper inquiry is whether the challenged agreement is one that promotes, or one that suppresses, competition, does not support a defense based on the assumption that competition itself is unreasonable. Pp. <a href="./us435-0679.xml#p686">435 U. S. 686</a>-696.</p>
@@ -30,7 +30,7 @@
     <n id="p681">681</n>
     <p>MR. JUSTICE STEVENS delivered the opinion of the Court.</p>
     <p>This is a civil antitrust case brought by the United States to nullify an association's canon of ethics prohibiting competitive bidding by its members. The question is whether the canon may be justified under the Sherman Act, 26 Stat. 209, as amended, 15 U.S.C. § 1 et seq. (1976 ed.), because it was adopted by members of a learned profession for the purpose of minimizing the risk that competition would produce inferior engineering work endangering the public safety. The District Court rejected this justification without making any findings on the likelihood that competition would produce the dire consequences foreseen by the association. [<a id="nf1" href="#fn1">Footnote 1</a>] The Court of Appeals affirmed. [<a id="nf2" href="#fn2">Footnote 2</a>] We granted certiorari to decide whether the District Court should have considered the factual basis for the proffered justification before rejecting it. 434 U.S. 815. Because we are satisfied that the asserted defense rests on a fundamental misunderstanding of the Rule of Reason frequently applied in antitrust litigation, we affirm.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Engineering is an important and learned profession. There are over 750,000 graduate engineers in the United States, of whom about 325,000 are registered as professional engineers. Registration requirements vary from State to State, but usually require the applicant to be a graduate engineer with at least</p>
     <n id="p682">682</n>
     <p>four years of practical experience and to pass a written examination. About half of those who are registered engage in consulting engineering on a fee basis. They perform services in connection with the study, design, and construction of all types of improvements to real property -- bridges, office buildings, airports, and factories are examples. Engineering fees, amounting to well over $2 billion each year, constitute about 5% of total construction costs. In any given facility, approximately 50% to 80% of the cost of construction is the direct result of work performed by an engineer concerning the systems and equipment to be incorporated in the structure.</p>
@@ -51,7 +51,7 @@
     <n id="p686">686</n>
     <p>engineering profession, the Society, its members' participation in interstate commerce, the history of the ban on competitive bidding, and certain incidents in which the ban appears to have been violated or enforced. The District Court did not, however, make any finding on the question whether, or to what extent, competition had led to inferior engineering work which, in turn, had adversely affected the public health, safety, or welfare. That inquiry was considered unnecessary, because the court was convinced that the ethical prohibition against competitive bidding was, "on its face, a tampering with the price structure of engineering fees in violation of § 1 of the Sherman Act." 389 F. Supp. at 1200.</p>
     <p>Although it modified the injunction entered by the District Court, [<a id="nf8" href="#fn8">Footnote 8</a>] the Court of Appeals affirmed its conclusion that the agreement was unlawful on its face, and therefore "illegal without regard to claimed or possible benefits." 181 U.S.App.D.C. 41, 47, 555 F.2d 978, 984.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>In Goldfarb v. Virginia State Bar, <a href="../us421/us421-0773.xml#p773">421 U. S. 773</a>, the Court held that a bar association's rule prescribing minimum fees for legal services violated § 1 of the Sherman Act. In that opinion, the Court noted that certain practices by members of a learned profession might survive scrutiny under the Rule of Reason even though they would be viewed as a violation of the Sherman Act in another context. The Court said:</p>
     <p>"The fact that a restraint operates upon a profession as distinguished from a business is, of course, relevant in determining whether that particular restraint violates the</p>
     <n id="p687">687</n>
@@ -95,7 +95,7 @@
     <p>indirectly protect the public against this harm by conferring monopoly privileges on the manufacturers.</p>
     <p>By the same token, the cautionary footnote in Goldfarb, 421 U.S. at <a href="../us421/us421-0773.xml#p788">421 U. S. 788</a>-789, n. 17, quoted supra, cannot be read as fashioning a broad exemption under the Rule of Reason for learned professions. We adhere to the view expressed in Goldfarb that, by their nature, professional services may differ significantly from other business services, and, accordingly, the nature of the competition in such services may vary. Ethical norms may serve to regulate and promote this competition, and thus fall within the Rule of Reason. [<a id="nf22" href="#fn22">Footnote 22</a>] But the Society's argument in this case is a far cry from such a position. We are faced with a contention that a total ban on competitive bidding is necessary because otherwise engineers will be tempted to submit deceptively low bids. Certainly, the problem of professional exception is a proper subject of an ethical canon. But, once again, the equation of competition with deception, like the similar equation with safety hazards, is simply too broad; we may assume that competition is not entirely conducive to ethical behavior, but that is not a reason, cognizable under the Sherman Act, for doing away with competition.</p>
     <p>In sum, the Rule of Reason does not support a defense based on the assumption that competition itself is unreasonable. Such a view of the Rule would create the "sea of doubt" on which Judge Taft refused to embark in Addyston, 85 F. at 284, and which this Court has firmly avoided ever since.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The judgment entered by the District Court, as modified by</p>
     <n id="p697">697</n>
     <p>the Court of Appeals, [<a id="nf23" href="#fn23">Footnote 23</a>] prohibits the Society from adopting any official opinion, policy statement, or guideline stating or implying that competitive bidding is unethical. [<a id="nf24" href="#fn24">Footnote 24</a>] Petitioner argues that this judgment abridges its First Amendment rights. [<a id="nf25" href="#fn25">Footnote 25</a>] We find no merit in this contention.</p>

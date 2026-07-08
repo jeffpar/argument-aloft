@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us463-1121.html" citation="463 U.S. 1121" title="California v. Beheler">
   <opinion type="Opinions &amp; Dissents">
     <n id="p1121">1121</n>
-    <h>U.S. Supreme Court</h>
-    <h>California v. Beheler, <a href="./us463-1121.xml#p1121">463 U.S. 1121</a> (1983)</h>
-    <h>California v. Beheler</h>
-    <h>No. 82-1666</h>
-    <h>Decided July 6, 1983</h>
-    <h><a href="./us463-1121.xml#p1121">463 U.S. 1121</a></h>
-    <h>ON PETITION FOR WRIT OF CERTIORARI TO THE COURT OF</h>
-    <h>APPEAL OF CALIFORNIA, FIFTH APPELLATE DISTRICT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>California v. Beheler, <a href="./us463-1121.xml#p1121">463 U.S. 1121</a> (1983)</h1>
+    <h2>California v. Beheler</h2>
+    <h4>No. 82-1666</h4>
+    <h4>Decided July 6, 1983</h4>
+    <h2>ON PETITION FOR WRIT OF CERTIORARI TO THE COURT OF</h2>
+    <h2>APPEAL OF CALIFORNIA, FIFTH APPELLATE DISTRICT</h2>
+    <h2>Syllabus</h2>
     <p>After respondent called the police to report a homicide in which he was involved, he voluntarily accompanied them to the station house, having been told that he was not under arrest. At the station house, the police did not advise respondent of his rights under Miranda v. Arizona, <a href="../us384/us384-0436.xml#p436">384 U. S. 436</a>, and after an interview that lasted less than 30 minutes, he was allowed to leave. He was arrested five days later and, after receiving Miranda warnings, gave a second confession during which he admitted that his earlier interview had been given voluntarily. Subsequently, respondent was convicted in a California state court for aiding and abetting first-degree murder, the court having admitted into evidence respondent's statements at both interviews. The California Court of Appeal reversed, holding that the first police interview constituted custodial interrogation, which activated the need for Miranda warnings.</p>
     <p>Held: Miranda warnings were not required at respondent's first interview with the police. For Miranda purposes, "custodial interrogation" means questioning initiated by law enforcement officers after a person has been taken into custody or otherwise deprived of his freedom of action in any significant way. Respondent was neither taken into custody for the first interview nor significantly deprived of his freedom of action. Although the circumstances of each case must influence a determination of whether a suspect is "in custody," the ultimate inquiry is merely whether there is a formal arrest or restraint on freedom of movement of the degree associated with a formal arrest. Miranda warnings are not required simply because the questioning takes place in a coercive environment in the station house or because the questioned person is one whom the police suspect. Cf. Oregon v. Mathiason, <a href="../us429/us429-0492.xml#p492">429 U. S. 492</a>.</p>
     <p>Certiorari granted; reversed and remanded.</p>
@@ -18,13 +18,13 @@
     <p>The question presented in this petition for certiorari is whether Miranda warnings are required if the suspect is not placed under arrest, voluntarily comes to the police station, and is allowed to leave unhindered by police after a brief interview. Because this question has already been settled</p>
     <n id="p1122">1122</n>
     <p>clearly by past decisions of this Court, we reverse a decision of the California Court of Appeal holding that Miranda warnings are required in these circumstances.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The respondent, Jerry Beheler, and several acquaintances, attempted to steal a quantity of hashish from Peggy Dean, who was selling the drug in the parking lot of a liquor store. Dean was killed by Beheler's companion and stepbrother, Danny Wilbanks, when she refused to relinquish her hashish. Shortly thereafter, Beheler called the police, who arrived almost immediately. See Brief in Opposition 3. He told the police that Wilbanks had killed the victim, and that other companions had hidden the gun in the Behelers' backyard. Beheler gave consent to search the yard, and the gun was found. Later that evening, Beheler voluntarily agreed to accompany police to the station house, although the police specifically told Beheler that he was not under arrest.</p>
     <p>At the station house, Beheler agreed to talk to police about the murder, although the police did not advise Beheler of the rights provided him under Miranda v. Arizona, <a href="../us384/us384-0436.xml#p436">384 U. S. 436</a> (1966). The interview lasted less than 30 minutes. After being told that his statement would be evaluated by the District Attorney, Beheler was permitted to return to his home. Five days later, Beheler was arrested in connection with the Dean murder. After he was fully advised of his Miranda rights, he waived those rights and gave a second, taped confession during which he admitted that his earlier interview with the police had been given voluntarily. The trial court found that it was not necessary for police to advise Beheler of his Miranda rights prior to the first interview, and Beheler's statements at both interviews were admitted into evidence.</p>
     <p>The California Court of Appeal reversed Beheler's conviction for aiding and abetting first-degree murder, holding that the first interview with police constituted custodial interrogation,</p>
     <n id="p1123">1123</n>
     <p>which activated the need for Miranda warnings. The court focused on the fact that the interview took place in the station house, that, before the station house interview, the police had already identified Beheler as a suspect in the case because Beheler had discussed the murder with police earlier, and that the interview was designed to produce incriminating responses. Although the indicia of arrest were not present, the balancing of the other factors led the court to conclude that the State "has not met its burden of establishing that [Beheler] was not in custody" during the first interview. App. to Pet. for Cert. 36. [<a id="nf1" href="#fn1">Footnote 1</a>]</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>We held in Miranda that</p>
     <p>"[b]y custodial interrogation, we mean questioning initiated by law enforcement officers after a person has been taken into custody or otherwise deprived of his freedom of action in any significant way."</p>
     <p>384 U.S. at <a href="../us384/us384-0436.xml#p444">384 U. S. 444</a> (footnote omitted). It is beyond doubt that Beheler was neither taken into custody nor significantly deprived of his freedom of action. Indeed, Beheler's freedom was not restricted in any way whatsoever.</p>
@@ -41,7 +41,7 @@
     <p>the day, and was emotionally distraught. See App. to Pet. for Cert. 24-25. In addition, the court observed that the police had a great deal more information about Beheler before their interview than did the police in Mathiason, and that Mathiason was a parolee who knew that "it was incumbent upon him to cooperate with police." App. to Pet. for Cert. 25. Finally, the court noted that our decision in Mathiason did not preclude a consideration of the "totality of circumstances" in determining whether a suspect is "in custody."</p>
     <p>Although the circumstances of each case must certainly influence a determination of whether a suspect is "in custody" for purposes of receiving Miranda protection, the ultimate inquiry is simply whether there is a "formal arrest or restraint on freedom of movement" of the degree associated with a formal arrest. Mathiason, supra, at <a href="../us429/us429-0492.xml#p495">429 U. S. 495</a>. In the present case, the "totality of circumstances" on which the court focused primarily were that the interview took place in a station house, and that Beheler was a suspect because he had spoken to police earlier. But we have explicitly recognized that Miranda warnings are not required "simply because the questioning takes place in the station house, or because the questioned person is one whom the police suspect." 429 U.S. at <a href="../us429/us429-0492.xml#p495">429 U. S. 495</a>. That the police knew more about Beheler before his interview than they did about Mathiason before his is irrelevant, see <a id="nf2" href="#fn2">n</a> 2, supra, especially because it was Beheler himself who had initiated the earlier communication with police. Moreover, the length of time that elapsed between the commission of the crime and the police interview has no relevance to the inquiry. [<a id="nf3" href="#fn3">Footnote 3</a>]</p>
     <n id="p1126">1126</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>Accordingly, the motion of respondent for leave to proceed in forma pauperis and the petition for writ of certiorari are granted, the judgment of the California Court of Appeal is reversed, and the case is remanded for further proceedings not inconsistent with this opinion.</p>
     <p>It is so ordered.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>

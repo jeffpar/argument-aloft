@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us011-0159.html" citation="11 U.S. 159" title="Welch v. Lindo">
   <opinion type="Opinions &amp; Dissents">
     <n id="p159">159</n>
-    <h>U.S. Supreme Court</h>
-    <h>Welch v. Lindo, 11 U.S. 159 (1812)</h>
-    <h>Welch v. Lindo</h>
-    <h>11 U.S. (7 Cranch) 159</h>
-    <h>ERROR TO THE CIRCUIT COURT FOR THE</h>
-    <h>DISTRICT OF COLUMBIA AT ALEXANDRIA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Welch v. Lindo, 11 U.S. 159 (1812)</h1>
+    <h2>Welch v. Lindo</h2>
+    <h2>11 U.S. (7 Cranch) 159</h2>
+    <h2>ERROR TO THE CIRCUIT COURT FOR THE</h2>
+    <h2>DISTRICT OF COLUMBIA AT ALEXANDRIA</h2>
+    <h2>Syllabus</h2>
     <p>The mere possession of a promissory note by an endorsee who had endorsed it to another while the assignment remained is not sufficient evidence of his right of action against his endorser, without a reassignment or receipt from the last endorsee.</p>
     <p>An endorsement "without recourse" is not evidence of money had and received by the endorser to the use of the endorsee.</p>
     <n id="p160">160</n>

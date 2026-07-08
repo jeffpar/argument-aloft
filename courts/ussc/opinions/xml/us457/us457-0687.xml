@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us457-0687.html" citation="457 U.S. 687" title="Taylor v. Alabama">
   <opinion type="Opinions &amp; Dissents">
     <n id="p687">687</n>
-    <h>U.S. Supreme Court</h>
-    <h>Taylor v. Alabama, <a href="./us457-0687.xml#p687">457 U.S. 687</a> (1982)</h>
-    <h>Taylor v. Alabama</h>
-    <h>No. 81-5152</h>
-    <h>Argued March 23, 1982</h>
-    <h>Decided June 23, 1982</h>
-    <h><a href="./us457-0687.xml#p687">457 U.S. 687</a></h>
-    <h>CERTIORARI TO THE SUPREME COURT OF ALABAMA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Taylor v. Alabama, <a href="./us457-0687.xml#p687">457 U.S. 687</a> (1982)</h1>
+    <h2>Taylor v. Alabama</h2>
+    <h2>No. 81-5152</h2>
+    <h4>Argued March 23, 1982</h4>
+    <h4>Decided June 23, 1982</h4>
+    <h2>CERTIORARI TO THE SUPREME COURT OF ALABAMA</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner was arrested on a grocery store robbery charge without a warrant or probable cause, based on an uncorroborated informant's tip, and was taken to the police station, where he was given Miranda warnings, fingerprinted, questioned, and placed in a lineup. After being told that his fingerprints matched those on grocery items handled by one of the participants in the robbery and after a short visit with his girlfriend, petitioner signed a written confession. Over petitioner's objection, the confession was admitted into evidence at his trial in an Alabama state court, and he was convicted. The Alabama Court of Criminal Appeals reversed, holding that the confession should not have been admitted, but was, in turn, reversed by the Alabama Supreme Court.</p>
     <p>Held: Petitioner's confession should have been suppressed as the fruit of an illegal arrest. Brown v. Illinois, <a href="../us422/us422-0590.xml#p590">422 U. S. 590</a>; Dunaway v. New York, <a href="../us442/us442-0200.xml#p200">442 U. S. 200</a>. Pp. <a href="./us457-0687.xml#p689">457 U. S. 689</a>-694.</p>
     <p>(a) A confession obtained through custodial interrogation after an illegal arrest should be excluded unless intervening events break the causal connection between the arrest and the confession so that the confession is sufficiently an act of free will to purge the primary taint. Pp. <a href="./us457-0687.xml#p689">457 U. S. 689</a>-690.</p>
@@ -21,13 +21,13 @@
     <p>opinion, in which BURGER, C.J., and POWELL and REHNQUIST, JJ., joined, post, p. <a href="./us457-0687.xml#p694">457 U. S. 694</a>.</p>
     <p>JUSTICE MARSHALL delivered the opinion of the Court.</p>
     <p>This case presents the narrow question whether petitioner's confession should have been suppressed as the fruit of an illegal arrest. The Supreme Court of Alabama held that the evidence was properly admitted. Because the decision below is inconsistent with our decisions in Dunaway v. New York, <a href="../us442/us442-0200.xml#p200">442 U. S. 200</a> (1979), and Brown v. Illinois, <a href="../us422/us422-0590.xml#p590">422 U. S. 590</a> (1975), we reverse.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In 1978, a grocery store in Montgomery, Ala., was robbed. There had been a number of robberies in this area, and the police had initiated an intensive manhunt in an effort to apprehend the robbers. An individual who was at that time incarcerated on unrelated charges told a police officer that "he had heard that [petitioner] Omar Taylor was involved in the robbery." App. 4. This individual had never before given similar information to this officer, did not tell the officer where he had heard this information, and did not provide any details of the crime. This tip was insufficient to give</p>
     <n id="p689">689</n>
     <p>the police probable cause to obtain a warrant or to arrest petitioner.</p>
     <p>Nonetheless, on the basis of this information, two officers arrested petitioner without a warrant. They told petitioner that he was being arrested in connection with the grocery store robbery, searched him, and took him to the station for questioning. Petitioner was given the warnings required by Miranda v. Arizona, <a href="../us384/us384-0436.xml#p436">384 U. S. 436</a> (1966). At the station, he was fingerprinted, readvised of his Miranda rights, questioned, and placed in a lineup. The victims of the robbery were unable to identify him in the lineup. The police told petitioner that his fingerprints matched those on some grocery items that had been handled by one of the participants in the robbery. After a short visit with his girlfriend and a male companion, petitioner signed a waiver-of-rights form and executed a written confession. The form and the signed confession were admitted into evidence.</p>
     <p>Petitioner objected to the admission of this evidence at his trial. He argued that his warrantless arrest was not supported by probable cause, that he had been involuntarily transported to the police station, and that the confession must be suppressed as the fruit of this illegal arrest. The trial court overruled this objection, and petitioner was convicted. On appeal, the Alabama Court of Criminal Appeals reversed, <a href="https://law.justia.com/cases/alabama/court-of-appeals-criminal/1980/399-so-2d-875-0.html"> 399 So. 2d 875</a> (1980), holding that the facts of this case are virtually indistinguishable from those presented to this Court in Dunaway v. New York, supra, and that the confession should not have been admitted into evidence. The Alabama Supreme Court reversed the Court of Criminal Appeals, <a href="https://law.justia.com/cases/alabama/supreme-court/1981/399-so-2d-881-1.html">399 So. 2d 881</a> (1981), and we granted certiorari, 454 U.S. 963 (1981).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>In Brown v. Illinois, supra, and Dunaway v. New York, supra, the police arrested suspects without probable cause. The suspects were transported to police headquarters, advised of their Miranda rights, and interrogated. They confessed</p>
     <n id="p690">690</n>
     <p>within two hours of their arrest. This Court held that the confessions were not admissible at trial, reasoning that a confession obtained through custodial interrogation after an illegal arrest should be excluded unless intervening events break the causal connection between the illegal arrest and the confession, so that the confession is "sufficiently an act of free will to purge the primary taint.'" Brown v. Illinois, supra, at <a href="../us422/us422-0590.xml#p602">422 U. S. 602</a> (quoting Wong Sun v. United States, <a href="../us371/us371-0471.xml#p471">371 U. S. 471</a>, <a href="../us371/us371-0471.xml#p486">371 U. S. 486</a> (1963)). See also Dunaway v. New York, supra, at <a href="../us442/us442-0200.xml#p217">442 U. S. 217</a>. This Court identified several factors that should be considered in determining whether a confession has been purged of the taint of the illegal arrest:</p>
@@ -49,7 +49,7 @@
     <p>which were themselves the fruit of petitioner's illegal arrest, see Davis v. Mississippi, <a href="../us394/us394-0721.xml#p721">394 U. S. 721</a> (1969), and which were used to extract the confession from petitioner, cannot be deemed sufficient "attenuation" to break the connection between the illegal arrest and the confession merely because they also formed the basis for an arrest warrant that was filed while petitioner was being interrogated. [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
     <p>Finally, the State argues that the police conduct here was not flagrant or purposeful, and that we should not follow our decisions in Brown and Dunaway for that reason. However, we fail to see any relevant distinction between the conduct here and that in Dunaway. In this case, as in Dunaway, the police effectuated an investigatory arrest without probable cause, based on an uncorroborated informant's tip, and involuntarily transported petitioner to the station for interrogation in the hope that something would turn up. The fact that the police did not physically abuse petitioner, or that the confession they obtained may have been "voluntary" for purposes of the Fifth Amendment, does not cure the illegality of the initial arrest. Alternatively, the State contends that the police conduct here argues for adopting a "good faith" exception to the exclusionary rule. To date, we have not recognized such an exception, and we decline to do so here.</p>
     <n id="p694">694</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>In sum, petitioner's confession was the fruit of his illegal arrest. Under our decisions in Brown v. Illinois and Dunaway v. New York, the confession clearly should not have been admitted at his trial. Accordingly, we reverse the decision of the Alabama Supreme Court and remand this case for further proceedings not inconsistent with this opinion.</p>
     <p>It is so ordered.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>
@@ -59,7 +59,7 @@
       <p>Petitioner also raises an ambiguous objection to the admission of fingerprint evidence at his trial. The trial court granted petitioner's motion to suppress the initial fingerprints as the fruit of his illegal arrest under Davis v. Mississippi, <a href="../us394/us394-0721.xml#p721">394 U. S. 721</a> (1969), and granted the State's motion to take petitioner's fingerprints at trial. The nature of petitioner's objection to the admission of any fingerprint evidence at trial is unclear, and it is also uncertain whether an objection to the procedure used for taking the second set of fingerprints has been properly preserved for our review. In any event, we need not reach this issue, because we reverse the decision on the ground that the confession should not have been admitted. To the extent that petitioner still may challenge the fingerprinting procedure employed below, the state courts should be given the opportunity to address this challenge in the first instance.</p>
       <p>JUSTICE O'CONNOR, with whom THE CHIEF JUSTICE, JUSTICE POWELL, and JUSTICE REHNQUIST join, dissenting.</p>
       <p>The Court holds today that Omar Taylor's detailed confession was the fruit of an illegal arrest, and consequently, should be suppressed. Because I conclude that neither the facts nor the law supports the Court's analysis, I respectfully dissent.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>In the course of their investigation of the Moseley robbery, Montgomery police questioned Charles Martin, who was being held on unrelated rape and robbery charges. Martin stated that "he had heard that Omar Taylor was involved in the robbery of Moseley's Grocery," Tr. 6, but the police made no attempt to establish either Martin's credibility as an informant or the reliability of the information he provided. [Footnote 2/1]</p>
       <p>Based only on this tip, which did not provide probable cause, Sergeants Alford and Rutland arrested Taylor a little before 3 p.m. on January 4, 1979. At that time, they told him why he was being arrested and advised him of his Miranda rights, but asked him no questions regarding the robbery. Tr. 20, 24. When they arrived at the police station, the officers turned Taylor over to detectives.</p>
       <p>After Taylor had been fingerprinted and signed a form</p>
@@ -72,7 +72,7 @@
       <p>Before trial, the petitioner moved to suppress his confession,</p>
       <n id="p697">697</n>
       <p>arguing that it was the product of an illegal arrest, and that it had been obtained in violation of his Fifth and Sixth Amendment rights. The trial judge assumed that the arrest was illegal, [Footnote 2/4] but found that the confession was voluntary, consistent with the Fifth and Sixth Amendments, and that "there were enough intervening factors between the arrest and confession" to overcome the taint of the illegal arrest. Id. at 116. Accordingly, he admitted the confession.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>Although the Court misapprehends the facts of the present case, it has stated correctly the controlling substantive law. In the Court's words,</p>
       <p>"a confession obtained through custodial interrogation after an illegal arrest should be excluded unless intervening events break the causal connection between the illegal arrest and the confession so that the confession is 'sufficiently an act of free will to purge the primary taint.'"</p>
       <p>Ante at <a href="./us457-0687.xml#p690">457 U. S. 690</a> (quoting Brown v. Illinois, <a href="../us422/us422-0590.xml#p590">422 U. S. 590</a>, <a href="../us422/us422-0590.xml#p602">422 U. S. 602</a> (1975)).</p>
@@ -91,7 +91,7 @@
       <p>Finding the facts in Dunaway to be "virtually a replica of the situation in Brown," id. at <a href="../us442/us442-0200.xml#p218">442 U. S. 218</a>, the Court held that the petitioner's confession should have been suppressed. Critical to the Court's holding was its observation that the petitioner</p>
       <n id="p699">699</n>
       <p>"confessed without any intervening event of significance." Ibid. See id. at <a href="../us442/us442-0200.xml#p219">442 U. S. 219</a> ("No intervening events broke the connection between petitioner's illegal detention and his confession").</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>Our task is to apply the law as articulated in Brown and Dunaway to the facts of this case.</p>
       <p>The first significant consideration is that, following his unlawful arrest, Taylor was warned on three separate occasions that he</p>
       <p>"had a right to remain silent, [and] anything he said could be used against him in a court of law[;] he had the right to have an attorney present, [and] if he could not afford one, the State would appoint one for him[;] he could answer questions, but he could stop answering at any time."</p>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us448-0242.html" citation="448 U.S. 242" title="United States v. Ward">
   <opinion type="Opinions &amp; Dissents">
     <n id="p242">242</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Ward, <a href="./us448-0242.xml#p242">448 U.S. 242</a> (1980)</h>
-    <h>United States v. Ward</h>
-    <h>No. 79-394</h>
-    <h>Argued February 26, 1980</h>
-    <h>Decided June 27, 1980</h>
-    <h><a href="./us448-0242.xml#p242">448 U.S. 242</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE TENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Ward, <a href="./us448-0242.xml#p242">448 U.S. 242</a> (1980)</h1>
+    <h2>United States v. Ward</h2>
+    <h2>No. 79-394</h2>
+    <h4>Argued February 26, 1980</h4>
+    <h4>Decided June 27, 1980</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE TENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Section 311(b)(3) of the Federal Water Pollution Control Act prohibits the discharge of oil into navigable waters. Section 311(b)(5) requires any person in charge of an onshore facility to report any such discharge to the appropriate Government agency, and a failure to report subjects the person to a fine or imprisonment. Section 311(b)(5) also provides for a form of "use immunity," by specifying that notification of the discharge or information obtained by the exploitation of such notification is not to be used against the reporting person in any criminal case, except for prosecution for perjury or for giving a false statement. Section 311(b)(6) provides for the imposition of a "civil penalty" against any owner or operator of an onshore facility from which oil was discharged in violation of the Act. When oil escaped from a drilling facility leased by respondent and spilled into a tributary of the Arkansas River system, respondent notified the Environmental Protection Agency of the discharge, and this was reported to the Coast Guard, who assessed a $500 penalty against respondent under § 311(b)(6). After his administrative appeal was denied, respondent filed suit in Federal District Court, seeking injunctive relief against enforcement of §§ 311(b)(5) and(6) and collection of the penalty. The Government filed a separate suit to collect the penalty, and the suits were consolidated for trial. Prior to trial, the District Court rejected respondent's contention that the reporting requirements of § 311(b)(5), as used to support a civil penalty under § 311(b)(6), violated his right against compulsory self-incrimination, and ultimately the jury found that respondent's facility did, in fact, spill oil into the creek in question. The Court of Appeals reversed, holding that § 311(b)(6) was sufficiently punitive to intrude upon the Fifth Amendment's protections against compulsory self-incrimination.</p>
     <p>Held:</p>
     <p>1. The penalty imposed by § 311(b)(6) is civil, and hence does not trigger the protections afforded by the Constitution to a criminal defendant. Pp. <a href="./us448-0242.xml#p248">448 U. S. 248</a> 251.</p>
@@ -25,7 +25,7 @@
     <n id="p244">244</n>
     <p>MR. JUSTICE REHNQUIST delivered the opinion of the Court.</p>
     <p>The United States seeks review of a decision of the United States Court of Appeals for the Tenth Circuit that a proceeding for the assessment of a "civil penalty" under § 311(b)(6) of the Federal Water Pollution Control Act (FWPCA) is a "criminal case" within the meaning of the Fifth Amendment's guarantee against compulsory self-incrimination. We granted certiorari, 444 U.S. 939, and now reverse.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>At the time this case arose, [<a id="nf1" href="#fn1">Footnote 1</a>] § 311(b)(3) of the FWPCA prohibited the discharge into navigable waters or onto adjoining shorelines of oil or hazardous substances in quantities determined by the President to be "harmful." [<a id="nf2" href="#fn2">Footnote 2</a>] Section 311(b)(5) of the Act imposed a duty upon "any person in charge of a vessel or of an onshore facility or an offshore facility" to report any discharge of oil or a hazardous substance into navigable waters to the "appropriate agency" of the United States Government. Should that person fail to supply such notification, he or she was liable to a fine of not more than $ 10,000 or imprisonment of not more than one year. Section 311(b)(5) also provided for a form of "use immunity," specifying that</p>
     <p>"[n]otification received pursuant to this paragraph or information obtained by the exploitation of such notification shall not be used against any such person in any criminal case, except a prosecution for perjury or for giving a false statement."</p>
     <p>33 U.S.C. § 1321(b)(5). [<a id="nf3" href="#fn3">Footnote 3</a>]</p>
@@ -44,7 +44,7 @@
     <p>The United States Court of Appeals for the Tenth Circuit reversed. Ward v. Coleman, 598 F.2d 1187 (1979). Although admitting that Congress had labeled the penalty provided for in § 311(b)(6) as civil, and that the use of funds collected under that section to finance the administration of the Act indicated a "remedial" purpose for the provision, the Court of Appeals tested the statutory scheme against the standards set forth in Kennedy v. Mendoza-Martinez, <a href="../us372/us372-0144.xml#p144">372 U. S. 144</a>, <a href="../us372/us372-0144.xml#p168">372 U. S. 168</a>-169 (1963), [<a id="nf7" href="#fn7">Footnote 7</a>] and held that § 311(b)(6) was sufficiently</p>
     <n id="p248">248</n>
     <p>punitive to intrude upon the Fifth Amendment's protections against compulsory self-incrimination. It therefore reversed and remanded for further proceedings in the collection suit.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The distinction between a civil penalty and a criminal penalty is of some constitutional import. The Self-Incrimination Clause of the Fifth Amendment, for example, is expressly limited to "any criminal case." Similarly, the protections provided by the Sixth Amendment are available only in "criminal prosecutions." Other constitutional protections, while not explicitly limited to one context or the other, have been so limited by decision of this Court. See, e.g., Helvering v. Mitchell, <a href="../us303/us303-0391.xml#p391">303 U. S. 391</a>, <a href="../us303/us303-0391.xml#p399">303 U. S. 399</a> (1938) (Double Jeopardy Clause protects only against two criminal punishments); United States v. Regan, <a href="../us232/us232-0037.xml#p37">232 U. S. 37</a>, <a href="../us232/us232-0037.xml#p47">232 U. S. 47</a>-48 (1914) (proof beyond a reasonable doubt required only in criminal cases).</p>
     <p>This Court has often stated that the question whether a particular statutorily defined penalty is civil or criminal is a matter of statutory construction. See, e.g., One Lot Emerald Cut Stones v. United States, <a href="../us409/us409-0232.xml#p232">409 U. S. 232</a>, <a href="../us409/us409-0232.xml#p237">409 U. S. 237</a> (1972); Helvering v. Mitchell, supra at <a href="../us303/us303-0391.xml#p399">303 U. S. 399</a>. Our inquiry in this regard has traditionally proceeded on two levels. First, we have set out to determine whether Congress, in establishing the penalizing mechanism, indicated either expressly or impliedly a preference for one label or the other. See One lot Emerald Cut Stones v. United States, supra at <a href="../us409/us409-0232.xml#p236">409 U. S. 236</a>-237. Second, where Congress has indicated an intention to establish a civil penalty, we have inquired further whether the statutory</p>
     <n id="p249">249</n>
@@ -58,7 +58,7 @@
     <p>In sum, we believe that the factors set forth in Mendoza-Martinez, while neither exhaustive nor conclusive on the issue, are in no way sufficient to render unconstitutional the congressional</p>
     <n id="p251">251</n>
     <p>classification of the penalty established in § 311(b)(6) as civil. Nor are we persuaded by any of respondent's other arguments that he has offered the "clearest proof" that the penalty here in question is punitive in either purpose or effect.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Our conclusion that § 311(b)(6) does not trigger all the protections afforded by the Constitution to a criminal defendant does not completely dispose of this case. Respondent asserts that, even if the penalty imposed upon him was not sufficiently criminal in nature to trigger other guarantees, it was "quasi-criminal," and therefore sufficient to implicate the Fifth Amendment's protection against compulsory self-incrimination. He relies primarily in this regard upon Boyd v. United States, <a href="../us116/us116-0616.xml#p616">116 U. S. 616</a> (1886), and later cases quoting its language.</p>
     <p>In Boyd, appellants had been indicted under §12 of an "Act to amend the customs revenue laws and to repeal moieties," for fraudulently attempting to deprive the United States of lawful customs duties payable on certain imported merchandise. According to the statute in question, a person found in violation of its provisions was to be</p>
     <p>"fined in any sum not exceeding $5,000 nor less than $50, or be imprisoned for any time not exceeding two years, or both; and, in addition to such fine, such merchandise shall be forfeited."</p>
@@ -83,7 +83,7 @@
     <p>33 U.S.C. §1321(b)(5)</p>
     <p>More importantly, however, we believe that, in the light of what we have found to be overwhelming evidence that Congress intended to create a penalty civil in all respects, and quite weak evidence of any countervailing punitive purpose or effect, it would be quite anomalous to hold that § 311(b)(6) created a criminal penalty for the purposes of the Self-Incrimination Clause, but a civil penalty for all other purposes. We do not read Boyd as requiring a contrary conclusion.</p>
     <n id="p255">255</n>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>We conclude that the penalty imposed by Congress was civil, and that the proceeding in which it was imposed was not "quasi-criminal" as that term is used in Boyd v. United States, supra. The judgment of the Court of Appeals is therefore</p>
     <p>Reversed.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>

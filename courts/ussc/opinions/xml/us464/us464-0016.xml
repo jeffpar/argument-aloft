@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us464-0016.html" citation="464 U.S. 16" title="Russello v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p16">16</n>
-    <h>U.S. Supreme Court</h>
-    <h>Russello v. United States, <a href="./us464-0016.xml#p16">464 U.S. 16</a> (1983)</h>
-    <h>Russello v. United States</h>
-    <h>No. 82-472</h>
-    <h>Argued October 5, 1983</h>
-    <h>Decided November 1, 1983</h>
-    <h><a href="./us464-0016.xml#p16">464 U.S. 16</a></h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Russello v. United States, <a href="./us464-0016.xml#p16">464 U.S. 16</a> (1983)</h1>
+    <h2>Russello v. United States</h2>
+    <h2>No. 82-472</h2>
+    <h4>Argued October 5, 1983</h4>
+    <h4>Decided November 1, 1983</h4>
+    <h2>Syllabus</h2>
     <p>Petitioner was convicted in Federal District Court, under the Racketeer Influenced and Corrupt Organizations (RICO) chapter of the Organized Crime Control Act of 1970, of violating 18 U.S.C. §§ 1962(c) and (d) by being involved in an arson ring that resulted in his fraudulently receiving insurance proceeds in payment for the fire loss of a building he owned. The District Court also entered a judgment of forfeiture against petitioner for the amount of the insurance proceeds pursuant to 18 U.S.C. § 1963(a)(1), which provides that a person convicted under § 1962 shall forfeit to the United States "any interest he has acquired or maintained in violation of section 1962." The Court of Appeals affirmed.</p>
     <p>Held: The insurance proceeds petitioner received as a result of his arson activities constitute an "interest " within the meaning of § 1963(a)(1), and are therefore subject to forfeiture. Pp. <a href="./us464-0016.xml#p20">464 U. S. 20</a>-29.</p>
     <p>(a) Section 1963(a)(1) does not reach only "interests in an enterprise." Where the term "interest" is not specifically defined in the RICO statute, it is assumed that the legislative purpose is expressed by the term's ordinary meaning, which comprehends all forms of real and personal property, including profits and proceeds. Congress apparently selected the broad term "interest" because it did not wish the forfeiture provision to be limited by rigid and technical definitions drawn from other areas of law and because the term was fully consistent with the RICO statute's pattern in utilizing broad terms and concepts. Every property interest, including a right to profits or proceeds, may be described as an interest in something. Before profits of an illegal enterprise are divided, each participant may be said to own an "interest" in the ill-gotten gains, and after distribution, each has a possessory interest in currency or other items so distributed. P. <a href="./us464-0016.xml#p20">464 U. S. 20</a>-22.</p>
@@ -23,13 +23,13 @@
     <p>BLACKMUN, J., delivered the opinion for a unanimous Court.</p>
     <p>JUSTICE BLACKMUN delivered the opinion of the Court.</p>
     <p>This is yet another case concerning the Racketeer Influenced and Corrupt Organizations (RICO) chapter of the Organized Crime Control Act of 1970. Pub.L. 91-452, Title IX, 84 Stat. 941, as amended, 18 U.S.C. §§ 1961-1968 (1982 ed.). At issue here is the interpretation of the chapter's forfeiture provision, § 1963(a)(1), and, specifically, the meaning of the words "any interest [the defendant] has acquired . . . in violation of section 1962."</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>On June 8, 1977, petitioner Joseph C. Russello and others were indicted for racketeering, conspiracy, and mail fraud, in violation of 18 U.S.C. §§ 1341, 1962(c) and (d), and 2. App. 5. After a jury trial in the United States District Court for</p>
     <n id="p18">18</n>
     <p>the Middle District of Florida, petitioner was convicted as charged in four counts of the indictment. The jury then returned special verdicts for the forfeiture to the United States, under 18 U.S.C. § 1963(a), of four payments, aggregating $340,043.09, made to petitioner by a fire insurance company. App. 54-57. These verdicts related to the racketeering activities charged in the second count of the indictment under which petitioner had been convicted. The District Court, accordingly, entered a judgment of forfeiture against petitioner in that amount. Id. at 58.</p>
     <p>Petitioner took an appeal to the former United States Court of Appeals for the Fifth Circuit. A panel of that court affirmed petitioner's criminal conviction, United States v. Martino, 648 F.2d 367, 406 (1981), and this Court denied certiorari, 456 U.S. 943 (1982), as to that aspect of the case. The panel, however, reversed the judgment of forfeiture. App. 64-69. The full court granted rehearing en banc on the forfeiture issue and, by a vote of 16-7, vacated that portion of the panel opinion and then affirmed the forfeiture judgment entered by the District Court. United States v. Martino, 681 F.2d 952 (1982). Because of this significant division among the judges of the Court of Appeals, and because the Fifth Circuit majority, id. at 959, stated that its holding "squarely conflict[ed]" with that of the Ninth Circuit in United States v. Marubeni America Corp., 611 F.2d 763 (1980), we granted certiorari. 459 U.S. 1101 (1983). [<a id="nf1" href="#fn1">Footnote 1</a>] Since then, the Seventh Circuit has issued an opinion agreeing with the Ninth Circuit. United States v. McManigal, 708 F.2d 276, 283-287 (1983).</p>
     <n id="p19">19</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>So far as the case in its present posture is concerned, the basic facts are not in dispute. The majority opinion of the en banc court described them succinctly:</p>
     <p>"Briefly, the evidence showed that a group of individuals associated for the purpose of committing arson with the intent to defraud insurance companies. This association in fact enterprise, composed of an insurance adjuster, homeowners, promoters, investors, and arsonists, operated to destroy at least eighteen residential and commercial properties in Tampa and Miami, Florida between July, 1973, and April, 1976. The panel summarized the ring's operations as follows:"</p>
     <p>" At first, the arsonists only burned buildings already owned by those associated with the ring. Following a burning, the building owner filed an inflated proof of loss statement and collected the insurance proceeds from which his coconspirators were paid. Later, ring members bought buildings suitable for burning, secured insurance in excess of value and, after a burning, made claims for the loss and divided the proceeds."</p>
@@ -37,7 +37,7 @@
     <p>Specifically, petitioner was the owner of the Central Professional Building in Tampa. This structure had two parts, an original smaller section in front and a newer addition at the rear. The latter contained apartments, offices, and parking facilities. Petitioner arranged for arsonists to set fire to the front portion. He intended to use the insurance proceeds to rebuild that section. The fire, however, spread to the rear. Joseph Carter, another member of the arson ring, was the adjuster for petitioner's insurance claim, and helped him to obtain the highest payments possible. The resulting payments made up the aggregate sum of $340,043.09</p>
     <n id="p20">20</n>
     <p>mentioned above. From those proceeds, petitioner paid Carter $30,000 for his assistance.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Title 18 U.S.C. § 1962(c) states that it shall be unlawful</p>
     <p>"for any person employed by or associated with any enterprise engaged in, or the activities of which affect, interstate . . . commerce, to conduct or participate, directly or indirectly, in the conduct of such enterprise's affairs through a pattern of racketeering activity or collection of unlawful debt."</p>
     <p>Section 1962(d) makes it unlawful to conspire to violate § 1962(c). Section 1963(a)(1) provides that a person convicted under § 1962 shall forfeit to the United States "any interest he has acquired or maintained in violation of section 1962."</p>
@@ -54,7 +54,7 @@
     <p>activity" in § 1961(1) (1982 ed.); and "participate" in § 1962(c).</p>
     <p>Petitioner himself has not attempted to define the term "interest" as used in § 1963(a)(1). He insists, however, that the term does not reach money or profits because, he says: "'Interest,' by definition, includes of necessity an interest in something." Brief for Petitioner 9. Petitioner then asserts that the "something" emerges from the wording of § 1963(a)(1) itself, that is, an interest "acquired . . . in violation of section 1962," and thus derives its meaning from the very activities barred by the statute. In other words, a direct relationship exists between that which is subject to forfeiture as a result of racketeering activity and that which constitutes racketeering. This relationship, it is said, means that forfeiture is confined to an interest in an "enterprise" itself. Petitioner derives support for this approach from United States v. Marubeni America Corp., supra, and from language contained in two Federal District Court opinions, United States v. Meyers, <a href="https://law.justia.com/cases/federal/district-courts/FSupp/432/456/1367595/">432 F. Supp. 456</a>, 461 (WD Pa.1977), and United States v. Thevis, <a href="https://law.justia.com/cases/federal/district-courts/FSupp/474/134/1964209/">474 F. Supp. 134</a>, 142 (ND Ga.1979), aff'd on other grounds, 665 F.2d 616 (CA5 1982). He also now relies on the McManigal case, supra, recently decided by the Seventh Circuit. Tr. of Oral Arg. 4.</p>
     <p>We do not agree. Every property interest, including a right to profits or proceeds, may be described as an interest in something. Before profits of an illegal enterprise are divided, each participant may be said to own an "interest" in the ill-gotten gains. After distribution, each will have a possessory interest in currency or other items so distributed. We therefore conclude that the language of the statute plainly covers the insurance proceeds petitioner received as a result of his arson activities.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>We are fortified in this conclusion by our examination of the structure of the RICO statute. We disagree with those</p>
     <n id="p23">23</n>
     <p>courts that have felt that a broad construction of the word "interest" is necessarily undermined by the statute's other forfeiture provisions. The argument for a narrow construction of § 1963(a)(1) is refuted by the language of the succeeding subsection (a)(2). The former speaks broadly of "any interest . . . acquired," while the latter reaches only</p>
@@ -74,7 +74,7 @@
     <n id="p26">26</n>
     <p>overcome the decisions in Marubeni, Meyers, and Thevis. See, e.g., S. 2320, 97th Cong., 2d Sess. (1982). The introduction of these bills hardly suggests that their sponsors viewed those decisions as correct interpretations of § 1963(a)(1). See United States v. Gordon, 638 F.2d 886, 888, n. 5 (CA5), cert. denied, 452 U.S. 909 (1981). In any event, it is well settled that "the views of a subsequent Congress form a hazardous basis for inferring the intent of an earlier one.'" Jefferson County Pharmaceutical Assn. v. Abbott Laboratories, <a href="../us460/us460-0150.xml#p150">460 U. S. 150</a>, <a href="../us460/us460-0150.xml#p165">460 U. S. 165</a>, n. 27 (1983), quoting from United States v. Price, <a href="../us361/us361-0304.xml#p304">361 U. S. 304</a>, <a href="../us361/us361-0304.xml#p313">361 U. S. 313</a> (1960). See also United States v. Clark, <a href="../us445/us445-0023.xml#p23">445 U. S. 23</a>, <a href="../us445/us445-0023.xml#p33">445 U. S. 33</a>, n. 9 (1980).</p>
     <p>Neither are we persuaded by petitioner's argument that his position is supported by the fact that certain state racketeering statutes expressly provide for the forfeiture of "profits," "money," "interest or property," or "all property, real or personal," acquired from racketeering. Brief for Petitioner 8-9. Nearly all of the state statutes postdate the Meyers and Thevis District Court decisions. See, e.g., Colo.Rev.Stat. § 18-17-106 (Supp.1982) (enacted in 1981); R.I.Gen.Laws § 7-15-3 (Supp.1982) (enacted in 1979). The legislatures of those States presumably employed language different from that of § 1963(a)(1) so as to avoid narrow interpretations of their laws along the lines of the narrow interpretations given the federal statute by the courts in Meyers and Thevis.</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>If it is necessary to turn to the legislative history of the RICO statute, one finds that that history does not reveal, as petitioner would have us hold, see Brief for Petitioner 11-21, a limited congressional intent.</p>
     <p>The legislative history clearly demonstrates that the RICO statute was intended to provide new weapons of unprecedented scope for an assault upon organized crime and its economic roots. Congress' statement of findings and purpose in</p>
     <n id="p27">27</n>

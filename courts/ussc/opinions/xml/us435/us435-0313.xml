@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us435-0313.html" citation="435 U.S. 313" title="United States v. Wheeler">
   <opinion type="Opinions &amp; Dissents">
     <n id="p313">313</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Wheeler, <a href="./us435-0313.xml#p313">435 U.S. 313</a> (1978)</h>
-    <h>United States v. Wheeler</h>
-    <h>No. 76-1629</h>
-    <h>Argued January 11, 1978</h>
-    <h>Decided March 22, 1978</h>
-    <h><a href="./us435-0313.xml#p313">435 U.S. 313</a></h>
-    <h>CERTIORARI TO THE UNITED STATE COURT OF APPEALS</h>
-    <h>FOR THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Wheeler, <a href="./us435-0313.xml#p313">435 U.S. 313</a> (1978)</h1>
+    <h2>United States v. Wheeler</h2>
+    <h4>No. 76-1629</h4>
+    <h4>Argued January 11, 1978</h4>
+    <h4>Decided March 22, 1978</h4>
+    <h2>CERTIORARI TO THE UNITED STATE COURT OF APPEALS</h2>
+    <h2>FOR THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondent, a member of the Navajo Tribe, pleaded guilty in Tribal Court to a charge of contributing to the delinquency of a minor, and was sentenced. Subsequently, he was indicted by a federal grand jury for statutory rape arising out of the same incident. He moved to dismiss the indictment on the ground that, since the tribal offense of contributing to the delinquency of a minor was a lesser included offense of statutory rape, the Tribal Court proceeding barred the subsequent federal prosecution. The District Court granted the motion, and the Court of Appeals affirmed, holding that, since tribal courts and federal district courts are not "arms of separate sovereigns," the Double Jeopardy Clause of the Fifth Amendment barred respondent's federal trial.</p>
     <p>Held: The Double Jeopardy Clause does not bar the federal prosecution. Pp. <a href="./us435-0313.xml#p316">435 U. S. 316</a>-332.</p>
     <p>(a) The controlling question is the source of an Indian tribe's power to punish tribal offenders, i.e., whether it is a part of inherent tribal sovereignty or an aspect of the sovereignty of the Federal Government that has been delegated to the tribes by Congress. Pp. <a href="./us435-0313.xml#p316">435 U. S. 316</a>-322.</p>
@@ -26,14 +26,14 @@
     <p>STEWART, J., delivered the opinion of the Court, in which all other Members joined except BRENNAN, J., who took no part in the consideration or decision of the case.</p>
     <p>MR. JUSTICE STEWART delivered the opinion of the Court.</p>
     <p>The question presented in this case is whether the Double Jeopardy Clause of the Fifth Amendment bars the prosecution of an Indian in a federal district court under the Major Crimes Act, 18 U.S.C. § 1153, when he has previously been convicted in a tribal court of a lesser included offense arising out of the same incident.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>On October 16, 1974, the respondent, a member of the Navajo Tribe, was arrested by a tribal police officer at the Bureau of Indian Affairs High School in Many Farms, Ariz. on the Navajo Indian Reservation. [<a id="nf1" href="#fn1">Footnote 1</a>] He was taken to the</p>
     <n id="p315">315</n>
     <p>tribal jail in Chinle, Aris., and charged with disorderly conduct, in violation of Title 17, § 351, of the Navajo Tribal Code (1969). On October 18, two days after his arrest, the respondent pleaded guilty to disorderly conduct and a further charge of contributing to the delinquency of a minor, in violation of Title 17, § 321, of the Navajo Tribal Code (1969). He was sentenced to 15 days in jail or a fine of $30 on the first charge and to 60 days in jail (to be served concurrently with the other jail term) or a fine of $120 on the second. [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
     <p>Over a year later, on November 19, 1975, an indictment charging the respondent with statutory rape was returned by a grand jury in the United States District Court for the District of Arizona. [<a id="nf3" href="#fn3">Footnote 3</a>] The respondent moved to dismiss this</p>
     <n id="p316">316</n>
     <p>indictment, claiming that, since the tribal offense of contributing to the delinquency of a minor was a lesser included offense of statutory rape, [<a id="nf4" href="#fn4">Footnote 4</a>] the proceedings that had taken place in the Tribal Court barred a subsequent federal prosecution . See Brown v. Ohio, <a href="../us432/us432-0161.xml#p161">432 U. S. 161</a>. The District Court, rejecting the prosecutor's argument that "there is not an identity of sovereignties between the Navajo Tribal Courts and the courts of the United States," dismissed the indictment. [<a id="nf5" href="#fn5">Footnote 5</a>] The Court of Appeals for the Ninth Circuit affirmed the judgment of dismissal, concluding that, since "Indian trial courts and United States district courts are not arms of separate sovereigns," the Double Jeopardy Clause barred the respondent's trial. 545 F.2d 1255, 1258. We granted certiorari to resolve an inter-circuit conflict. 434 U.S. 816. [<a id="nf6" href="#fn6">Footnote 6</a>]</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>In Bartkus v. Illinois, <a href="../us359/us359-0121.xml#p121">359 U. S. 121</a>, and Abbate v. United States, <a href="../us359/us359-0187.xml#p187">359 U. S. 187</a>, this Court reaffirmed the well established</p>
     <n id="p317">317</n>
     <p>principle that a federal prosecution does not bar a subsequent state prosecution of the same person for the same acts, and a state prosecution does not bar a federal one. [<a id="nf7" href="#fn7">Footnote 7</a>] The basis for this doctrine is that prosecutions under the laws of separate sovereigns do not, in the language of the Fifth Amendment, "subject [the defendant] for the same offence to be twice put in jeopardy":</p>
@@ -59,7 +59,7 @@
     <p>Thus, in a federal Territory and the Nation, as in a city and a State, "[t]here is but one system of government, or of laws operating within [its] limits." <a href="../us050/us050-0235.xml#p235">Benner v. Porter</a>, 9 How. 235, <a href="../us050/us050-0235.xml#p242">50 U. S. 242</a>. City and State, or Territory and Nation, are not two separate sovereigns to whom the citizen owes separate allegiance in any meaningful sense, but one alone. [<a id="nf17" href="#fn17">Footnote 17</a>] And the "dual sovereignty" concept of Bartkus and Abbate does not permit a single sovereign to impose multiple punishment for</p>
     <n id="p322">322</n>
     <p>a single offense merely by the expedient of establishing multiple political subdivisions with the power to punish crimes.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>It is undisputed that Indian tribes have power to enforce their criminal laws against tribe members. Although physically within the territory of the United States and subject to ultimate federal control, they nonetheless remain "a separate people, with the power of regulating their internal and social relations." United States v. Kagama, supra at <a href="../us118/us118-0375.xml#p381">118 U. S. 381</a>-382; <a href="../us030/us030-0001.xml#p1">Cherokee Nation v. Georgia</a>, 5 Pet. 1, <a href="../us030/us030-0001.xml#p16">30 U. S. 16</a>. [<a id="nf18" href="#fn18">Footnote 18</a>] Their right of internal self-government includes the right to prescribe laws applicable to tribe members and to enforce those laws by criminal sanctions. United States v. Antelope, <a href="../us430/us430-0641.xml#p641">430 U. S. 641</a>, <a href="../us430/us430-0641.xml#p643">430 U. S. 643</a> n. 2; Talton v. Mayes, 163 U.S. at <a href="../us163/us163-0376.xml#p380">163 U. S. 380</a>; Ex parte Crow Dog, <a href="../us109/us109-0556.xml#p556">109 U. S. 556</a>, <a href="../us109/us109-0556.xml#p571">109 U. S. 571</a>-572; see 18 U.S.C. § 1152 (1976 ed.), infra, <a id="nf21" href="#fn21">n</a> 21. As discussed above in <a href="./us435-0313.xml#p316">435 U. S.</a> the controlling question in this case is the source of this power to punish tribal offenders: is it a part of inherent tribal sovereignty, or an aspect of the sovereignty of the Federal Government which has been delegated to the tribes by Congress?</p>
     <p>A</p>
     <p>The powers of Indian tribes are, in general, "inherent powers of a limited sovereignty which has never been extinguished." F. Cohen, Handbook of Federal Indian Law 122 (1945) (emphasis in original). Before the coming of the Europeans, the tribes were self-governing sovereign political</p>
@@ -103,7 +103,7 @@
     <p>The relevance of Talton v. Mayes to the present case is clear. The Court there held that, when an Indian tribe criminally punishes a tribe member for violating tribal law, the tribe acts as an independent sovereign, and not as an arm of the Federal Government. [<a id="nf29" href="#fn29">Footnote 29</a>] Since tribal and federal prosecutions are</p>
     <n id="p330">330</n>
     <p>brought by separate sovereigns, they are not "for the same offence," and the Double Jeopardy Clause thus does not bar one when the other has occurred.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>The respondent contends that, despite the fact that successive tribal and federal prosecutions are not "for the same offence," the "dual sovereignty" concept should be limited to successive state and federal prosecutions. But we cannot accept so restrictive a view of that concept, a view which, as has been noted, would require disregard of the very words of the Double Jeopardy Clause. Moreover, the same sort of "undesirable consequences" identified in Abbate could occur if successive tribal and federal prosecutions were barred despite the fact that tribal and federal courts are arms of separate sovereigns. Tribal courts can impose no punishment in excess of six months' imprisonment or a $500 fine. 25 U.S.C. § 1302(7). On the other hand, federal jurisdiction over crimes committed by Indians includes many major offenses. 18 U.S.C. § 1153 (1976 ed.). [<a id="nf30" href="#fn30">Footnote 30</a>] Thus, when both a federal prosecution for a major crime and a tribal prosecution for a lesser included offense are possible, the defendant will often face the potential of a mild tribal punishment and a federal punishment of substantial severity. Indeed, the respondent in the present case faced the possibility of a federal sentence of 15 years in prison, but received a tribal sentence of no more than 75 days and a small fine. In such a case, the prospect</p>
     <n id="p331">331</n>
     <p>of avoiding more severe federal punishment would surely motivate a member of a tribe charged with the commission of an offense to seek to stand trial first in a tribal court. Were the tribal prosecution held to bar the federal one, important federal interests in the prosecution of major offenses on Indian reservations [<a id="nf31" href="#fn31">Footnote 31</a>] would be frustrated. [<a id="nf32" href="#fn32">Footnote 32</a>]</p>

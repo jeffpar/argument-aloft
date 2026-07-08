@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us349-0435.html" citation="349 U.S. 435" title="FPC v. Oregon">
   <opinion type="Opinions &amp; Dissents">
     <n id="p435">435</n>
-    <h>U.S. Supreme Court</h>
-    <h>FPC v. Oregon, <a href="./us349-0435.xml#p435">349 U.S. 435</a> (1955)</h>
-    <h>Federal Power Commission v. Oregon</h>
-    <h>No. 367</h>
-    <h>Argued March 2-3, 1955</h>
-    <h>Decided June 6, 1955</h>
-    <h><a href="./us349-0435.xml#p435">349 U.S. 435</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>FPC v. Oregon, <a href="./us349-0435.xml#p435">349 U.S. 435</a> (1955)</h1>
+    <h2>Federal Power Commission v. Oregon</h2>
+    <h2>No. 367</h2>
+    <h4>Argued March 2-3, 1955</h4>
+    <h4>Decided June 6, 1955</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>The Federal Power Commission issued to a power company a license to construct, operate and maintain a hydroelectric plant, constituting Pelton Project No. 2030, on reserved lands of the United States on the Deschutes River in Oregon. The State of Oregon challenged the authority of the Commission to issue the license and the adequacy of the provisions approved by the Commission for the conservation of anadromous fish.</p>
     <p>Held: the Federal Power Act is applicable in accordance with its terms, and the Commission acted within its powers and its discretion in granting the license. Pp. <a href="./us349-0435.xml#p437">349 U. S. 437</a>-452.</p>
     <p>1. The Federal Power Act is applicable to this license. Pp. <a href="./us349-0435.xml#p441">349 U. S. 441</a>-446.</p>
@@ -46,7 +46,7 @@
     <p>10 F.P.C. at 450, 92 P.U.R. (N.S.) at 252.</p>
     <p>A rehearing being denied, the State and its agencies sought a review by the Court of Appeals for the Ninth Circuit, and the Portland General Electric Company intervened. That court, with one judge dissenting, set aside the Commission's order. 211 F.2d 347. It recognized the necessity of a license from the Federal Power Commission, but held that Congress, by its public lands legislation, long ago had transferred to the State of Oregon such control over the use of nonnavigable waters that the sponsor of the Pelton Project must secure also the permission prescribed by the State. We granted certiorari because of the public significance of the issues, but denied leave to the Portland General Electric Company to intervene here. 348 U.S. 868. 28 U.S.C. § 1254(1); 49 Stat. 860-861, 16 U.S.C. § 825l(b). Several States filed briefs as amici curiae, usually adopting as their own the brief filed by respondents.</p>
     <p>We divide our consideration of the issues into three parts.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>. APPLICABILITY OF THE FEDERAL POWER ACT On its face, the Federal Power Act applies to this license as specifically as it did to the license in the First Iowa case. There, the jurisdiction of the Commission turned</p>
     <n id="p442">442</n>
     <p>almost entirely upon the navigability of the waters of the United States to which the license applied. Here, the jurisdiction turns upon the ownership or control by the United States of the reserved lands on which the licensed project is to be located. [<a id="nf8" href="#fn8">Footnote 8</a>] The authority to issue licenses</p>
@@ -60,7 +60,7 @@
     <p>to grant a valid license for a power project on reserved lands of the United States, provided that, as required by the Act, the use of the water does not conflict with vested rights of others. [<a id="nf15" href="#fn15">Footnote 15</a>] To allow Oregon to veto such use by requiring the State's additional permission would result in the very duplication of regulatory control precluded by the First Iowa decision. <a href="../us328/us328-0152.xml#p152">328 U. S. 328</a> U.S. 152, <a href="../us328/us328-0152.xml#p177">328 U. S. 177</a>-179. No such duplication of authority is called for by the Act. [<a id="nf16" href="#fn16">Footnote 16</a>] The Court of Appeals in the instant case</p>
     <n id="p446">446</n>
     <p>agrees. 211 F.2d at 351. And see Washington Department of Game v. Federal Power Commission, 207 F.2d 391, 395-396. Authorization of this project, therefore, is within the exclusive jurisdiction of the Federal Power Commission unless that jurisdiction is modified by other federal legislation. See United States v. Rio Grande Dam &amp; Irrigation Co., <a href="../us174/us174-0690.xml#p690">174 U. S. 690</a>, <a href="../us174/us174-0690.xml#p703">174 U. S. 703</a>; Gutierres v. Albuquerque Land &amp; Irrigation Co., <a href="../us188/us188-0545.xml#p545">188 U. S. 545</a>, <a href="../us188/us188-0545.xml#p554">188 U. S. 554</a>.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>. INAPPLICABILITY OF THE DESERT LAND ACT OF 1877 AND RELATED ACTS</p>
     <p>The Oregon argues that the Acts of July 26, 1866, [<a id="nf17" href="#fn17">Footnote 17</a>] July 9, 1870, [<a id="nf18" href="#fn18">Footnote 18</a>] and the Desert Land Act of</p>
     <n id="p447">447</n>
@@ -71,7 +71,7 @@
     <p>It is not necessary for us, in the instant case, to pass upon the question whether this legislation constitutes the express delegation or conveyance of power that is claimed by the State, because these Acts are not applicable to the reserved lands and waters here involved. The Desert Land Act covers "sources of water supply upon the public lands. . . ." The lands before us in this case are not "public lands," but "reservations." Even without that express restriction of the Desert Land Act to sources of water supply on public lands, these Acts would not apply to reserved lands.</p>
     <p>"It is a familiar principle of public land law that statutes providing generally for disposal of the public domain are inapplicable to lands which are not unqualifiedly subject to sale and disposition because they have been appropriated to some other purpose."</p>
     <p>United States v. O'Donnell, <a href="../us303/us303-0501.xml#p501">303 U. S. 501</a>, <a href="../us303/us303-0501.xml#p510">303 U. S. 510</a>. See also United States v. Minnesota, <a href="../us270/us270-0181.xml#p181">270 U. S. 181</a>, <a href="../us270/us270-0181.xml#p206">270 U. S. 206</a>. The instant lands certainly "are not unqualifiedly subject to sale and disposition. . . ." Accordingly, it is enough, for the instant case, to recognize that these Acts do not apply to this license, which relates only to the use of waters on reservations of the United States.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>. APPLICATION OF THE FEDERAL POWER ACT TO THIS PROJECT Finally, respondents question the discretion used by the Commission in granting the license. They point to</p>
     <n id="p449">449</n>
     <p>the consequences which the project will have beyond the limits of the reserved lands on which it will be located.</p>

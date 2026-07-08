@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us483-0089.html" citation="483 U.S. 89" title="CIR v. Fink">
   <opinion type="Opinions &amp; Dissents">
     <n id="p89">89</n>
-    <h>U.S. Supreme Court</h>
-    <h>CIR v. Fink, <a href="./us483-0089.xml#p89">483 U.S. 89</a> (1987)</h>
-    <h>Commissioner of Internal Revenue v. Fink</h>
-    <h>No. 86-511</h>
-    <h>Argued April 27, 1987</h>
-    <h>Decided June 22, 1987</h>
-    <h><a href="./us483-0089.xml#p89">483 U.S. 89</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE SIXTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>CIR v. Fink, <a href="./us483-0089.xml#p89">483 U.S. 89</a> (1987)</h1>
+    <h2>Commissioner of Internal Revenue v. Fink</h2>
+    <h2>No. 86-511</h2>
+    <h4>Argued April 27, 1987</h4>
+    <h4>Decided June 22, 1987</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE SIXTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>In an unsuccessful effort to increase the attractiveness of their financially troubled corporation to outside investors, respondents voluntarily surrendered some of their shares to the corporation, thereby reducing their combined percentage ownership from 72.5 percent to 68.5 percent. Respondents received no consideration for the surrendered shares, and no other shareholders surrendered any stock. The corporation eventually was liquidated. On their 1976 and 1977 joint federal income tax returns, respondents claimed ordinary loss deductions for the full amount of their adjusted basis in the surrendered shares. The Commissioner of Internal Revenue disallowed the deductions, concluding that the surrendered stock was a contribution to the corporation's capital, and that, accordingly, the surrender resulted in no immediate tax consequences, and respondents' basis in the surrendered shares should be added to the basis of their remaining shares. The Tax Court sustained the Commissioner's determination, but the Court of Appeals reversed, ruling that respondents were entitled to deduct their basis in the surrendered shares immediately as an ordinary loss, less any resulting increase in the value of their remaining shares.</p>
     <p>Held: A dominant shareholder who voluntarily surrenders a portion of his shares to the corporation, but who retains control of the corporation, does not sustain an immediate loss deductible for income tax purposes. Rather, the rule applicable to contributions to capital applies, so that the surrendering shareholder must reallocate his basis in the surrendered shares to the shares he retains, and deduct his loss, if any, when he disposes of the remaining shares. This rule is not rendered inapplicable simply because a stock surrender is not a contribution to capital in the strict accounting sense, or because, unlike a typical contribution to capital, a surrender reduces the shareholder's proportionate interest in the corporation. Where, as here, a closely held corporation's shares are not traded on an open market, a stock surrender to that corporation often will not meet the requirement that an immediately deductible loss must be actually sustained during the taxable year, since there will be no reliable method of determining whether the surrender has resulted in a loss until the shareholder disposes of his remaining shares. Moreover,</p>
     <n id="p90">90</n>
@@ -42,7 +42,7 @@
     <p>"Particularly in cases such as this, where the diminution in the shareholder's corporate control and equity interest is so minute as to be illusory, the stock surrender should be regarded as a contribution to capital."</p>
     <p>Ibid.</p>
     <p>We granted certiorari to resolve a conflict among the Circuits, [<a id="nf5" href="#fn5">Footnote 5</a>] 479 U.S. 960 (1986), and now reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>A</p>
     <p>It is settled that a shareholder's voluntary contribution to the capital of the corporation has no immediate tax consequences. 26 U.S.C. § 263; 26 CFR § 1.263(a)-2(f) (1986). Instead, the shareholder is entitled to increase the basis of his shares by the amount of his basis in the property transferred to the corporation. See 26 U.S.C. § 1016(a)(1). When the shareholder later disposes of his shares, his contribution is reflected as a smaller taxable gain or a larger deductible loss. This rule applies not only to transfers of cash or tangible property, but also to a shareholder's forgiveness of a debt owed to him by the corporation. 26 CFR § 1.6112(a) (1986). Such transfers are treated as contributions to capital, even if the other shareholders make proportionately smaller contributions, or no contribution at all. See, e.g., Sackstein v. Commissioner, 14 T.C. 566, 569 (1950). The rules governing contributions to capital reflect the general principle that a shareholder may not claim an immediate loss for outlays made to benefit the corporation. Deputy v. Du Pont, <a href="../us308/us308-0488.xml#p488">308 U. S. 488</a> (1940); Eskimo Pie Corp. v. Commissioner, 4 T.C. 669, 676 (1945), aff'd, 153 F.2d 301 (CA3 1946). We must decide whether this principle also applies to</p>
     <n id="p95">95</n>
@@ -52,7 +52,7 @@
     <p>Finally, the Finks contend that their stock surrenders were not contributions to the corporation's capital. They note that a typical contribution to capital, unlike a non-pro rata stock surrender, has no effect on the contributing shareholder's proportionate interest in the corporation. Moreover, the Finks argue, a contribution of cash or other property increases the net worth of the corporation. For example, a shareholder's</p>
     <n id="p96">96</n>
     <p>forgiveness of a debt owed to him by the corporation decreases the corporation's liabilities. In contrast, when a shareholder surrenders shares of the corporation's own stock, the corporation's net worth is unchanged. This is because the corporation cannot itself exercise the right to vote, receive dividends, or receive a share of assets in the event of liquidation. G. Johnson &amp; J. Gentry, Finney and Miller's Principles of Accounting 538 (7th ed.1974). [<a id="nf9" href="#fn9">Footnote 9</a>]</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>A shareholder who surrenders a portion of his shares to the corporation has parted with an asset, but that alone does not entitle him to an immediate deduction. Indeed, if the shareholder owns less than 100 percent of the corporation's shares, any non-pro rata contribution to the corporation's capital will reduce the net worth of the contributing shareholder. [<a id="nf10" href="#fn10">Footnote 10</a>] A shareholder who surrenders stock thus is similar to one who forgives or surrenders a debt owed to him by the corporation; the latter gives up interest, principal, and also potential voting power in the event of insolvency or bankruptcy. But, as stated above, such forgiveness of corporate debt is treated as a contribution to capital, rather than a current deduction. Supra, at 94. The Finks' voluntary surrender of shares, like a shareholder's voluntary forgiveness of debt owed by the corporation, closely resembles an investment or contribution</p>
     <n id="p97">97</n>
     <p>to capital. See B. Bittker &amp; J. Eustice, Federal Income Taxation of Corporations and Shareholders § 3.14, p. 3-59 (4th ed.1979) ("If the contribution is voluntary, it does not produce gain or loss to the shareholder"). We find the similarity convincing in this case.</p>
@@ -67,7 +67,7 @@
     <p>any, will be recognized when he disposes of his remaining shares. A reallocation of basis is consistent with the general principle that</p>
     <p>"[p]ayments made by a stockholder of a corporation for the purpose of protecting his interest therein must be regarded as [an] additional cost of his stock,"</p>
     <p>and so cannot be deducted immediately. Eskimo Pie Corp. v. Commissioner, 4 T.C. at 676. Our holding today is not inconsistent with the settled rule that the gain or loss on the sale or disposition of shares of stock equals the difference between the amount realized in the sale or disposition and the shareholder's basis in the particular shares sold or exchanged. See 26 U.S.C. § 1001(a); 26 CFR § 1.1012-1(c)(1) (1986). We conclude only that a controlling shareholder's voluntary surrender of shares, like contributions of other forms of property to the corporation, is not an appropriate occasion for the recognition of gain or loss.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>For the reasons we have stated, the judgment of the Court of Appeals for the Sixth Circuit is reversed.</p>
     <p>It is so ordered.</p>
     <p>JUSTICE BLACKMUN concurs in the result.</p>

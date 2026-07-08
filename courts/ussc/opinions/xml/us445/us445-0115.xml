@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us445-0115.html" citation="445 U.S. 115" title="United States v. Apfelbaum">
   <opinion type="Opinions &amp; Dissents">
     <n id="p115">115</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Apfelbaum, <a href="./us445-0115.xml#p115">445 U.S. 115</a> (1980)</h>
-    <h>United States v. Apfelbaum</h>
-    <h>No. 78-972</h>
-    <h>Argued December 3, 1979</h>
-    <h>Decided March 3, 1980</h>
-    <h><a href="./us445-0115.xml#p115">445 U.S. 115</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEAL</h>
-    <h>FOR THE THIRD CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Apfelbaum, <a href="./us445-0115.xml#p115">445 U.S. 115</a> (1980)</h1>
+    <h2>United States v. Apfelbaum</h2>
+    <h2>No. 78-972</h2>
+    <h4>Argued December 3, 1979</h4>
+    <h4>Decided March 3, 1980</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEAL</h2>
+    <h2>FOR THE THIRD CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>After initially invoking his Fifth Amendment privilege against self-incrimination while being questioned before a federal grand jury, respondent ultimately testified when the Government granted him immunity in accordance with 18 U.S.C. § 6002, which provides that, when a witness is compelled to testify over his claim of a Fifth Amendment privilege, no testimony or other information compelled under the order to testify may be used against the witness in any criminal case, "except a prosecution for perjury, giving a false statement, or otherwise failing to comply with the order." Respondent was later indicted and convicted under 18 U.S.C. § 1623(a) (1976 ed., Supp. II) for false swearing in his grand jury testimony with regard to certain statements. At trial, respondent objected to the use of any of his immunized testimony except the portions charged in the indictment as false, but the District Court admitted other portions of the testimony as being relevant to prove that he had knowingly made the charged false statements. The Court of Appeals reversed, holding that, because such immunized testimony did not constitute the "corps delicti" or "core" of the false-statements offense, it could not be introduced.</p>
     <p>Held: Because proper invocation of the Fifth Amendment privilege against self-incrimination allows a witness to remain silent, but not to swear falsely, neither § 6002 nor the Fifth Amendment precludes the use of respondent's immunized grand jury testimony at a subsequent prosecution for making false statements, so long as that testimony conforms to otherwise applicable rules of evidence. Pp. <a href="./us445-0115.xml#p121">445 U. S. 121</a>-132.</p>
     <p>(a) Section 6002's language makes no distinction between truthful and untruthful statements made during the course of immunized testimony, but, rather, creates a blanket exemption from the bar against the use of such testimony where the witness is subsequently prosecuted for making false statements. And § 6002's legislative history shows that Congress intended the perjury and false-declarations exception to be interpreted as broadly as constitutionally permissible. Thus, it is evident that Congress intended to permit the use of both truthful and false statements made during the course of immunized testimony if such use was not prohibited by the Fifth Amendment. Pp. <a href="./us445-0115.xml#p121">445 U. S. 121</a>-123.</p>
@@ -23,7 +23,7 @@
     <p>Respondent Apfelbaum invoked his privilege against compulsory self-incrimination while being questioned before a grand jury in the Eastern District of Pennsylvania. The Government then granted him immunity in accordance with 18 U.S.C. § 6002, and he answered the questions propounded to him. He was then charged with and convicted of making false statements in the course of those answers. [<a id="nf1" href="#fn1">Footnote 1</a>] The Court</p>
     <n id="p117">117</n>
     <p>of Appeals reversed the conviction, however, because the District Court had admitted into evidence relevant portions of respondent's grand jury testimony that had not been alleged in the indictment to constitute the "corps delicti" or "core" of the false statements offense. Because proper invocation of the Fifth Amendment privilege against compulsory self-incrimination allows a witness to remain silent, but not to swear falsely, we hold that neither the statute nor the Fifth Amendment requires that the admissibility of immunized testimony be governed by any different rules than other testimony at a trial for making false statements in violation of 18 U.S.C. § 1623(a) (1976 ed., Supp. II). We therefore reverse the judgment of the Court of Appeals.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The grand jury had been investigating alleged criminal activities in connection with an automobile dealership located in the Chestnut Hill section of Philadelphia. The investigation focused on a robbery of $175,000 in cash that occurred at the dealership on April 16, 1975, and on allegations that two officers of the dealership staged the robbery in order to repay loan-shark debts. [<a id="nf2" href="#fn2">Footnote 2</a>] The grand jury also heard testimony that the officers were making extortionate extensions of credit through the Chestnut Hill Lincoln-Mercury dealership.</p>
     <p>In 1976, respondent Apfelbaum, then an administrative assistant to the District Attorney in Philadelphia, was called to testify because it was thought likely that he was an aider or abettor or an accessory after the fact to the allegedly staged robbery. When the grand jury first sought to question him about his relationship with the two dealership officials suspected</p>
     <n id="p118">118</n>
@@ -37,7 +37,7 @@
     <p>The differing views that this question has elicited from the Courts of Appeals are not surprising, because there are considered statements in one line of cases from this Court, and both statements and actual holdings in another line of cases, that, as a matter of strict and literal reading, cannot be wholly reconciled. [<a id="nf6" href="#fn6">Footnote 6</a>] Though most of the decisions of the Courts of</p>
     <n id="p121">121</n>
     <p>Appeals turn on the interaction between perjury and immunity statutes enacted by Congress and the privilege against compulsory self-incrimination conferred by the Fifth Amendment to the United States Constitution, it is of course our first duty to decide whether the statute relied upon in this case to sustain the conviction of respondent may properly be interpreted to do so. We turn now to decision of that question.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Did Congress intend the federal immunity statute, 18 U.S.C. § 6002, to limit the use of a witness' immunized grand jury testimony in a subsequent prosecution of the witness for false statements made at the grand jury proceeding? Respondent contends that, while § 6002 permits the use of a witness' false statements in a prosecution for perjury or for making false declarations, it establishes an absolute prohibition against the use of truthful immunized testimony in such prosecutions. But this contention is wholly at odds with the explicit language of the statute, and finds no support even in its legislative history.</p>
     <p>It is a well established principle of statutory construction that, absent clear evidence of a contrary legislative intention, a statute should be interpreted according to its plain language. Here, 18 U.S.C. § 6002 provides that, when a witness is compelled to testify over his claim of a Fifth Amendment privilege,</p>
     <p>"no testimony or other information compelled under the order (or any information directly or indirectly derived from</p>
@@ -49,7 +49,7 @@
     <p>be confined to the scope required by the Fifth Amendment." [<a id="nf9" href="#fn9">Footnote 9</a>] And as stated in both the Senate and House Reports on the proposed legislation:</p>
     <p>"This statutory immunity is intended to be as broad as, but no broader than, the privilege against self-incrimination. . . . It is designed to reflect the use-restriction immunity concept of Murphy v. Waterfront Commission, <a href="https://law.justia.com/us/378/52/">378 U. S. 52</a> (1964), rather [than] the transaction immunity concept of Counselman v. Hitchcock, <a href="https://law.justia.com/us/142/547/">142 U. S. 547</a> (1892). [<a id="nf10" href="#fn10">Footnote 10</a>]"</p>
     <p>In light of the language and legislative history of § 6002, the conclusion is inescapable that Congress intended to permit the use of both truthful and false statements made during the course of immunized testimony if such use was not prohibited by the Fifth Amendment.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The limitation placed on the use of relevant evidence by the Court of Appeals may be justified, then, only if required by the Fifth Amendment. Respondent contends that his conviction was properly reversed because, under the Fifth Amendment, his truthful immunized statements were inadmissible at his perjury trial, and the Government never met its burden of showing that the immunized statements it introduced into evidence were not truthful. The Court of Appeals, as noted</p>
     <n id="p124">124</n>
     <p>above, concluded that the Fifth Amendment prohibited the use of all immunized testimony except the "corpus delicti" or "core" of the false swearing indictment.</p>

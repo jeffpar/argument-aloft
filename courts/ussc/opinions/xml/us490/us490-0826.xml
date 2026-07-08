@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us490-0826.html" citation="490 U.S. 826" title="Newman-Green v. Alfonzo-Larrain">
   <opinion type="Opinions &amp; Dissents">
     <n id="p826">826</n>
-    <h>U.S. Supreme Court</h>
-    <h>Newman-Green v. Alfonzo-Larrain, <a href="./us490-0826.xml#p826">490 U.S. 826</a> (1989)</h>
-    <h>Newman-Green, Inc. v. Alfonzo-Larrain</h>
-    <h>No. 88-774</h>
-    <h>Argued April 24, 1989</h>
-    <h>Decided June 12, 1989</h>
-    <h><a href="./us490-0826.xml#p826">490 U.S. 826</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE SEVENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Newman-Green v. Alfonzo-Larrain, <a href="./us490-0826.xml#p826">490 U.S. 826</a> (1989)</h1>
+    <h2>Newman-Green, Inc. v. Alfonzo-Larrain</h2>
+    <h2>No. 88-774</h2>
+    <h4>Argued April 24, 1989</h4>
+    <h4>Decided June 12, 1989</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE SEVENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Title 28 U.S.C. § 1332 confers diversity jurisdiction in the district courts when a citizen of one State sues both aliens and citizens of a State different from the plaintiff's, § 1332(a)(3), and when a citizen of a State sues aliens only, § 1332(a)(2). Petitioner, an Illinois corporation, invoking jurisdiction under § 1332(a)(3), brought a state law contract action in the District Court against a Venezuelan corporation and, as joint and several guarantors of royalty payments due under the agreement, four Venezuelan citizens and one Bettison, a United States citizen domiciled in Venezuela. After several years of litigation, the District Court, inter alia, granted partial summary judgment for the guarantors. A Court of Appeals panel found that Bettison's status as a United States citizen not domiciled within a State destroyed § 1332(a)(3) jurisdiction, but granted petitioner's motion to dismiss him from the suit, thereby producing complete diversity under § 1332(a)(2). The court then decided the merits. The Court of Appeals en banc reversed, concluding that neither 28 U.S.C. § 1653 -- which provides that "[d]efective allegations of jurisdiction may be amended . . . in the trial or appellate courts" -- nor Federal Rule of Civil Procedure 21 -- which provides that a court may add or drop parties at any stage of the action on such terms as are just -- empowers appellate courts to dismiss a dispensable party who spoils statutory diversity jurisdiction. However, recognizing that Rule 21 permits district courts to drop dispensable nondiverse parties, the court remanded the case to the District Court for a determination whether it would be prudent to drop Bettison from the litigation.</p>
     <p>Held: A court of appeals has the authority to grant a motion to dismiss a dispensable nondiverse party, and need not remand the case to the district court for dismissal in that court's discretion. Pp. <a href="./us490-0826.xml#p830">490 U. S. 830</a>-838.</p>
     <p>(a) Since § 1653 speaks of amending jurisdictional allegations, it would apply if petitioner had made an incorrect statement about jurisdiction that actually existed, but it does not apply where, as here, there are defects in the jurisdictional facts themselves. This interpretation is consistent with § 1653's legislative history and the language of its predecessor statute, as well as the view of every Court of Appeals that has considered § 1653's scope. Pp. <a href="./us490-0826.xml#p830">490 U. S. 830</a>-832.</p>
@@ -22,7 +22,7 @@
     <p>JUSTICE MARSHALL delivered the opinion of the Court.</p>
     <p>We decide today that a court of appeals may grant a motion to dismiss a dispensable party whose presence spoils statutory diversity jurisdiction.</p>
     <n id="p828">828</n>
-    <h>I</h>
+    <h2>I</h2>
     <p>Petitioner Newman-Green, Inc., an Illinois corporation, brought this state law contract action in District Court against a Venezuelan corporation, four Venezuelan citizens, and William L. Bettison, a United States citizen domiciled in Caracas, Venezuela. Newman-Green's complaint alleged that the Venezuelan corporation had breached a licensing agreement, and that the individual defendants, joint and several guarantors of royalty payments due under the agreement, owed money to Newman-Green. Several years of discovery and pretrial motions followed. The District Court ultimately granted partial summary judgment for the guarantors and partial summary judgment for Newman-Green. <a href="https://law.justia.com/cases/federal/district-courts/FSupp/590/1083/2247167/">590 F. Supp. 1083</a> (ND Ill.1984). Only Newman-Green appealed.</p>
     <p>At oral argument before a panel of the Seventh Circuit Court of Appeals, Judge Easterbrook inquired as to the statutory basis for diversity jurisdiction, an issue which had not been previously raised either by counsel or by the District Court Judge. In its complaint, Newman-Green had invoked 28 U.S.C. § 1332(a)(3), which confers jurisdiction in the District Court when a citizen of one State sues both aliens and citizens of a State (or States) different from the plaintiff's. In order to be a citizen of a State within the meaning of the diversity statute, a natural person must both be a citizen of the United States and be domiciled within the State. See Robertson v. Cease, <a href="../us097/us097-0646.xml#p646">97 U. S. 646</a>, <a href="../us097/us097-0646.xml#p648">97 U. S. 648</a>-649 (1878); <a href="../us033/us033-0112.xml#p112">Brown v. Keene</a>, 8 Pet. 112, <a href="../us033/us033-0112.xml#p115">33 U. S. 115</a> (1834). The problem in this case is that Bettison, although a United States citizen, has no domicile in any State. He is therefore "stateless" for purposes of § 1332(a)(3). Subsection 1332(a)(2), which confers jurisdiction in the District Court when a citizen of a State sues aliens only, also could not be satisfied because Bettison is a United States citizen.</p>
     <n id="p829">829</n>
@@ -31,7 +31,7 @@
     <n id="p830">830</n>
     <p>did not, however, order the dismissal of the lawsuit. Recognizing that Rule 21 permits district courts to drop a dispensable nondiverse party, the court remanded the case to the District Court for it to determine whether it would be prudent to drop Bettison from the litigation. Judge Easterbrook, joined by the other two members of the original panel, wrote a dissenting opinion in which he elaborated on the panel opinion. Id. at 927.</p>
     <p>Unlike the Seventh Circuit, the Courts of Appeals for the Second, Third, Ninth, and District of Columbia Circuits have held that appellate courts have the power to dismiss jurisdictional-spoilers like Bettison. [<a id="nf3" href="#fn3">Footnote 3</a>] We granted Newman-Green's petition for certiorari in order to resolve this conflict, 488 U.S. 1003 (1989), and now reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The existence of federal jurisdiction ordinarily depends on the facts as they exist when the complaint is filed. See, e.g., Smith v. Sperling, <a href="../us354/us354-0091.xml#p91">354 U. S. 91</a>, <a href="../us354/us354-0091.xml#p93">354 U. S. 93</a>, n. 1 (1957). Like most general principles, however, this one is susceptible to exceptions, and the two that are potentially applicable here are reflected in 28 U.S.C. § 1653 and Rule 21 of the Federal Rules of Civil Procedure. We discuss each potential exception in turn.</p>
     <p>A</p>
     <p>Title 28 U.S.C. § 1653, enacted as part of the revision of the Judicial Code in 1948, provides that "[d]efective allegations of jurisdiction may be amended, upon terms, in the trial or appellate courts." At first blush, the language of this provision</p>
@@ -70,7 +70,7 @@
     <n id="p838">838</n>
     <p>each case, the appellate court should carefully consider whether the dismissal of a nondiverse party will prejudice any of the parties in the litigation. It may be that the presence of the nondiverse party produced a tactical advantage for one party or another. If factual disputes arise, it might be appropriate to remand the case to the district court, which would be in a better position to make the prejudice determination. But we decline to erect a per se rule that the district court must first make such a determination in every case.</p>
     <p>In the instant case, it is evident that none of the parties will be harmed by Bettison's dismissal. First, Bettison's presence did not provide Newman-Green with a tactical advantage. Discovery directed to Bettison while he was a party would have been available even if he had not been a party. See, e.g., Fed.Rule Civ.Proc. 30(a); 28 U.S.C. § 1783. Second, given that all of the guarantors (including Bettison) are jointly and severally liable, it cannot be argued that Bettison was indispensable to the suit. Fed.Rule Civ.Proc. 19(b); see 854 F.2d at 938 (Easterbrook, J., dissenting). The only person who faces any prejudice is Bettison himself, who has participated in this litigation from the start, and who would face the possibility of suit in a state or Venezuelan court. The panel solved this problem by terminating the litigation against Bettison with prejudice, thus leaving the other guarantors with the burden of pursuing Bettison to obtain contribution or indemnity. 832 F.2d at 420. The panel's disposition was entirely appropriate. Nothing but a waste of time and resources would be engendered by remanding to the District Court or by forcing these parties to begin anew.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>For the reasons stated, the judgment of the Court of Appeals is reversed, and the case is remanded for proceedings consistent with this opinion.</p>
     <p>It is so ordered.</p>
     <n id="p839">839</n>

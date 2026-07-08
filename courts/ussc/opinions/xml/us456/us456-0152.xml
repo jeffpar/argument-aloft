@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us456-0152.html" citation="456 U.S. 152" title="United States v. Frady">
   <opinion type="Opinions &amp; Dissents">
     <n id="p152">152</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Frady, <a href="./us456-0152.xml#p152">456 U.S. 152</a> (1982)</h>
-    <h>United States v. Frady</h>
-    <h>No. 80-1595</h>
-    <h>Argued December 8, 1981</h>
-    <h>Decided April 5, 1982</h>
-    <h><a href="./us456-0152.xml#p152">456 U.S. 152</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE DISTRICT OF COLUMBIA CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Frady, <a href="./us456-0152.xml#p152">456 U.S. 152</a> (1982)</h1>
+    <h2>United States v. Frady</h2>
+    <h2>No. 80-1595</h2>
+    <h4>Argued December 8, 1981</h4>
+    <h4>Decided April 5, 1982</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE DISTRICT OF COLUMBIA CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>In 1963, respondent was convicted of first-degree murder and sentenced to death by a jury in the Federal District Court for the District of Columbia, which at that time had exclusive jurisdiction over local felonies committed in the District. The Court of Appeals for the District of Columbia Circuit, which then acted as the local appellate court, upheld the conviction but set aside the death sentence, and respondent was then resentenced to a life term. Respondent filed the present motion in the District Court under 28 U.S.C. § 2255 (the latest in a long series of collateral attacks on his sentence), seeking to vacate the sentence on the ground that he was convicted by a jury erroneously instructed on the meaning of malice, thus allegedly eliminating any possibility of a manslaughter verdict. The District Court denied the motion because respondent failed to challenge the instructions on direct appeal or in prior motions. The Court of Appeals reversed, holding that the proper standard to apply to respondent's claim was the "plain error" standard of Federal Rule of Criminal Procedure 52(b) governing relief on direct appeal from errors not objected to at trial, and, finding the challenged instruction plainly erroneous, vacated respondent's sentence and remanded the case for a new trial or entry of a manslaughter judgment.</p>
     <p>Held:</p>
     <p>1. This Court has jurisdiction to review the decision below and is not required to refrain from doing so on the alleged ground that the decision of the Court of Appeals was based on an adequate and independent local ground of decision. There is no basis for concluding that the ruling below was or should have been grounded on local District of Columbia law, rather than on the general federal law applied to all § 2255 motions. Equal protection principles do not require that a § 2255 motion by a prisoner convicted in 1963 be treated as though it were a motion under the District of Columbia Code after 1970. Pp. <a href="./us456-0152.xml#p159">456 U. S. 159</a>-162.</p>
@@ -26,7 +26,7 @@
     <p>Rule 52(b) of the Federal Rules of Criminal Procedure permits a criminal conviction to be overturned on direct appeal for "plain error" in the jury instructions, even if the defendant</p>
     <n id="p154">154</n>
     <p>failed to object to the erroneous instructions before the jury retired, as required by Rule 30. In this case, we are asked to decide whether the same standard of review applies on a collateral challenge to a criminal conviction brought under 28 U.S.C. § 2255.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>A</p>
     <p>Joseph Frady, the respondent, does not dispute that, 19 years ago, he and Richard Gordon killed Thomas Bennett in the front room of the victim's house in Washington, D.C. Nonetheless, because the resolution of this case depends on what the jury learned about Frady's crime, we must briefly recount what happened, as told by the witnesses at Frady's trial and summarized by the Court of Appeals. See Frady v. United States, 121 U.S.App.D.C. 78, 348 F.2d 84 (en banc) (Frady I), cert. denied, 382 U.S. 909 (1965).</p>
     <p>The events leading up to the killing began at about 4:30 p.m. on March 13, 1963, when two women saw Frady drive slowly by Bennett's house in an old car. Later, at about 7:00 p.m., Frady, accompanied by Richard Gordon and Gordon's friend, Elizabeth Ryder, returned to the same block. On this second trip, Ryder overheard Frady say "something about that is the house over there," at which point Frady and Gordon looked in the direction of the victim's house.</p>
@@ -53,7 +53,7 @@
     <n id="p159">159</n>
     <p>to at trial, Fed.Rule Crim.Proc. 52(b), rather than the "cause and actual prejudice" standard enunciated in Wainwright v. Sykes, <a href="../us433/us433-0072.xml#p72">433 U. S. 72</a> (1977), Francis v. Henderson, <a href="../us425/us425-0536.xml#p536">425 U. S. 536</a> (1976), and Davis v. United States, <a href="../us411/us411-0233.xml#p233">411 U. S. 233</a> (1973), governing relief on collateral attack following procedural default at trial. Finding the challenged instructions to be plainly erroneous, the court vacated Frady's sentence and remanded the case for a new trial or, more realistically, the entry of a judgment of manslaughter. Over a vigorous dissent, the full Court of Appeals denied the Government a rehearing en banc.</p>
     <p>We granted the Government's petition for a writ of certiorari to review whether the Court of Appeals properly invoked the "plain error" standard in considering Frady's belated collateral attack. 453 U.S. 911 (1981).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Before we reach the merits, however, we first must consider an objection Frady makes to our grant of certiorari. Frady argues that we should refrain from reviewing the decision below because the issues presented pertain solely to the local law of the District of Columbia, with which we normally do not interfere. [<a id="nf8" href="#fn8">Footnote 8</a>]</p>
     <p>Frady's contention is that the federal courts in the District of Columbia exercise a purely local jurisdictional function when they rule on a § 2255 motion brought by a prisoner convicted of a local law offense. Thus, according to Frady, the general federal law controlling the disposition of § 2255 motions does not apply to his case. Instead, a special local brand of § 2255 law, developed to implement that section for</p>
     <n id="p160">160</n>
@@ -68,7 +68,7 @@
     <n id="p162">162</n>
     <p>convicted in the local courts are not denied equal protection of the laws simply because they, unlike persons convicted in the federal courts, must bring collateral challenges to their convictions before Art. I judges. [<a id="nf11" href="#fn11">Footnote 11</a>]</p>
     <p>In short, we find no basis whatever for concluding that the ruling below was or should have been grounded on local District of Columbia law, rather than the general federal law applied to all § 2255 motions. [<a id="nf12" href="#fn12">Footnote 12</a>] Therefore, we proceed to the merits.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>A</p>
     <p>Nineteen years after his crime, Frady now complains he was convicted by a jury erroneously instructed on the meaning of malice. At trial, however, Frady did not object to the instructions, nor did he raise the issue on direct appeal. Rule 30 of the Federal Rules of Criminal Procedure declares in pertinent part:</p>
     <p>"No party may assign as error any portion of the charge or omission therefrom unless he objects thereto before the jury retires to consider its verdict, stating distinctly the matter to which he objects and the grounds of his objection.</p>
@@ -106,7 +106,7 @@
     <p>"a judgment of conviction is commonly the culmination of a trial which includes testimony of witnesses, argument of counsel, receipt of exhibits in evidence, and instruction of the jury by the judge. Thus, not only is the challenged instruction but one of many such instructions, but the process of instruction itself is but one of several components of the trial which may result in the judgment of conviction."</p>
     <p>Id. at <a href="../us414/us414-0141.xml#p147">414 U. S. 147</a>.</p>
     <p>We now apply these established standards to Frady's case</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>Frady bases his claim that he was prejudiced on his assertion that the jury was not given an adequate opportunity to</p>
     <n id="p170">170</n>
     <p>consider a manslaughter verdict. According to Frady, the trial court's erroneous instructions relieved the Government of the burden of proving malice, an element of the crime of murder, beyond a reasonable doubt, so that, as Frady would have it, his conviction must be overturned. [<a id="nf18" href="#fn18">Footnote 18</a>]</p>
@@ -134,7 +134,7 @@
     <p>"In addition to the great provocation, there must be passion and hot blood caused by that provocation. Mere words, however, no matter how insulting, offensive or abusive, are not adequate to induce [sic] a homicide, although committed in passion, provoked, as I have explained, from murder to manslaughter."</p>
     <p>Id. at 809, reprinted at App. 30. Plainly, a rational jury that believed Frady had formed a "plan to kill . . . a positive design to kill" with "reflection and consideration amounting to deliberation," could not also have believed that he acted in "sudden passion . . . aroused by adequate provocation . . . causing him to lose his self-control." We conclude that, whatever it may wrongly have believed malice to be, Frady's jury would not have found passion and provocation, especially since Frady presented no evidence whatever of mitigating circumstances, but instead defended by disclaiming any involvement with the killing. [<a id="nf19" href="#fn19">Footnote 19</a>] Surely there is no substantial likelihood the erroneous malice instructions prejudiced Frady's chances with the jury.</p>
     <n id="p175">175</n>
-    <h>V</h>
+    <h2>V</h2>
     <p>In sum, Frady has fallen far short of meeting his burden of showing that he has suffered the degree of actual prejudice necessary to overcome society's justified interests in the finality of criminal judgments. Therefore, the judgment of the Court of Appeals is reversed, and the case is remanded for further proceedings consistent with this opinion.</p>
     <p>So ordered.</p>
     <p>THE CHIEF JUSTICE and JUSTICE MARSHALL took no part in the consideration or decision of this case.</p>
@@ -244,7 +244,7 @@
       <p>I have frequently dissented from this Court's progressive emasculation of collateral review of criminal convictions. E.g., Engle v. Isaac, ante p. <a href="./us456-0107.xml#p107">456 U. S. 107</a>; Sumner v. Mata, <a href="../us449/us449-0539.xml#p539">449 U. S. 539</a>, <a href="../us449/us449-0539.xml#p552">449 U. S. 552</a> (1981); Wainwright v. Sykes, <a href="../us433/us433-0072.xml#p72">433 U. S. 72</a>, <a href="../us433/us433-0072.xml#p99">433 U. S. 99</a> (1977); Stone v. Powell, <a href="../us428/us428-0465.xml#p465">428 U. S. 465</a>, <a href="../us428/us428-0465.xml#p502">428 U. S. 502</a> (1976); see also Davis v. United States, <a href="../us411/us411-0233.xml#p233">411 U. S. 233</a>, <a href="../us411/us411-0233.xml#p245">411 U. S. 245</a> (1973) (MARSHALL, J., dissenting). Today the Court takes a further step down this unfortunate path by declaring the plain error standard of the Federal Rules of Criminal Procedure inapplicable to petitions for relief under 28 U.S.C. § 2255. In so doing, the Court does not pause to consider the nature of the plain error Rule. Nor does the Court consider the criminal character of a proceeding under § 2255, as distinguished from</p>
       <n id="p179">179</n>
       <p>the civil character of a proceeding under 28 U.S.C. § 2254. Because the Court's decision is obviously inconsistent with both, I dissent.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>A</p>
       <p>The Court declares that the plain error Rule, Fed.Rule Crim.Proc. 52(b), was intended for use only on direct appeal, and is "out of place" when the prisoner is collaterally attacking his conviction. Ante at <a href="./us456-0152.xml#p164">456 U. S. 164</a>. But the power to notice plain error at any stage of a criminal proceeding is fundamental to the courts' obligation to correct substantial miscarriages of justice. That obligation qualifies what the Court characterizes as our entitlement to presume that the defendant has been fairly and finally convicted. Ibid.</p>
       <p>The Court correctly points out, ante at <a href="./us456-0152.xml#p163">456 U. S. 163</a>, n. 13, that Rule 52(b) [Footnote 2/1] was merely a restatement of existing law. The role of the plain error doctrine has always been to empower courts, especially in criminal cases, to correct errors that seriously affect the "fairness, integrity or public reputation of judicial proceedings." United States v. Atkinson, <a href="../us297/us297-0157.xml#p157">297 U. S. 157</a>, <a href="../us297/us297-0160.xml#p160">297 U. S. 160</a> (1936). Significantly, although some of the Rules of Criminal Procedure appear under headings such as "Preliminary Proceedings," "Trial," or "Appeal," Rule 52(b) is one of the "General Provisions" of the Rules, applicable to all stages of all criminal proceedings in federal courts. See Fed.Rule Crim.Proc. 1.</p>
@@ -279,7 +279,7 @@
       <p>On the foundation of Davis, the Court has built an incredible "house of cards whose foundation has escaped any systematic inspection." Wainwright v. Sykes, supra, at <a href="../us433/us433-0072.xml#p100">433 U. S. 100</a>, n. 1 (BRENNAN, J., dissenting). Notwithstanding the lack of any evidence of congressional purpose to apply the Federal Rules of Criminal Procedure except in § 2255 proceedings, [Footnote 2/9] Francis v. Henderson, supra, applied the Davis "cause and prejudice" standard to a state prisoner who, in a § 2254 proceeding, raised a constitutional challenge to the composition of the grand jury. 425 U.S. at <a href="../us425/us425-0536.xml#p541">425 U. S. 541</a>-542; see id. at <a href="../us425/us425-0536.xml#p548">425 U. S. 548</a> (BRENNAN, J., dissenting). Building upon this strained foundation, Wainwright v. Sykes relied on Davis and Francis to declare the "cause and prejudice" standard applicable to all procedural defaults occurring during the trial of a state criminal defendant. Finally, coming full circle, the Court today relies on this "cause and prejudice" standard to preempt the plain error standard of Rule 52(b).</p>
       <p>Francis and Wainwright held applicable to a civil proceeding an inapplicable Rule of Criminal Procedure in order to defeat substantial claims of state prisoners. Today the Court excludes the applicability in a criminal proceeding of a Rule of Criminal Procedure plainly intended by Congress to be available to federal prisoners. Any consistency in these decisions lies in their announcement that, even in the teeth of clear congressional direction to the contrary, this Court will strain to subordinate a prisoner's interest in substantial justice to a supposed government interest in finality.</p>
       <n id="p187">187</n>
-      <h>II</h>
+      <h2>II</h2>
       <p>The Court's determination to ride roughshod over congressional intention in order to curtail the collateral remedies of prisoners, state and federal, is evident in its passing up the opportunity to decide this case on the ground offered by the Government, Brief for United States 41, n. 34, and adopted by JUSTICE BLACKMUN in his opinion concurring in the judgment, that, in any event, petitioner did not show that the instructions constituted plain error affecting his substantial rights. That admittedly is a close question on this record. [Footnote 2/10]</p>
       <p>The Government argues that, because the jury could not have found premeditation without also inferring malice, the unobjected-to instructions did not affect "substantial rights." A plausible counter to this argument occurs to me, in that the trial court instructed the jury that malice and premeditation were two separate elements of the crime, App. 229. The premeditation instruction did not, in terms, require the jury to find that the defendant acted without such provocation as would preclude a finding of malice. Yet, if the Court had concluded that there was not "plain" error, it might be difficult to support a dissent from that conclusion, given the particular facts of this case. As the Court did not base it's holding upon this ground, I dissent.</p>
       <p>[Footnote 2/1]</p>

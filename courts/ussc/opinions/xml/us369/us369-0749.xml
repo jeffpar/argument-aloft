@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us369-0749.html" citation="369 U.S. 749" title="Russell v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p749">749</n>
-    <h>U.S. Supreme Court</h>
-    <h>Russell v. United States, <a href="./us369-0749.xml#p749">369 U.S. 749</a> (1962)</h>
-    <h>Russell v. United States</h>
-    <h>No. 8</h>
-    <h>Argued December 7, 1961</h>
-    <h>Decided May 21, 1962<a href="./us369-0749.xml#p749">369 U.S. 749</a>ast|&gt;*</h>
-    <h><a href="./us369-0749.xml#p749">369 U.S. 749</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE DISTRICT OF COLUMBIA CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Russell v. United States, <a href="./us369-0749.xml#p749">369 U.S. 749</a> (1962)</h1>
+    <h2>Russell v. United States</h2>
+    <h2>No. 8</h2>
+    <h4>Argued December 7, 1961</h4>
+    <h4>Decided May 21, 1962<a href="./us369-0749.xml#p749">369 U.S. 749</a>ast|&gt;*</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE DISTRICT OF COLUMBIA CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>The petitioners in these six cases were convicted of violating 2 U.S.C. § 192, which makes it a misdemeanor for any person summoned to testify before a committee of Congress to refuse to answer "any question pertinent to the question under inquiry." In each case, the indictment returned by the grand jury stated that the questions to which answers were refused "were pertinent to the question then under inquiry" by the subcommittee; but it failed to identify the subject under subcommittee inquiry when the witness was interrogated. In each case, a motion was filed to quash the indictment before trial for failure to state the subject under inquiry; but in each case, the motion was denied, and the issue thus raised was preserved and properly presented in this Court.</p>
     <p>Held: the grand jury indictment required by 2 U.S.C. §194 as a prerequisite to a prosecution for a violation of § 192 must state the question which was under inquiry at the time of the defendant's alleged default or refusal to answer, as found by the grand jury, and the judgment affirming the conviction of each of the petitioners is reversed. Pp. <a href="./us369-0749.xml#p751">369 U. S. 751</a>-772.</p>
     <p>(a) The Congress which originally enacted, in 1857, the law which was a predecessor of 2 U.S.C. §192 was expressly aware that pertinency to the subject under inquiry was the basic preliminary question which the federal courts would have to decide in determining whether a violation of the statute had been alleged or proved. Pp. <a href="./us369-0749.xml#p756">369 U. S. 756</a>-758.</p>
@@ -148,7 +148,7 @@
       <p>The indictment in No. 8 is typical:</p>
       <p>"The Grand Jury charges:"</p>
       <p>"</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>NTRODUCTION" "On November 17, 1954, in the District of Columbia, a subcommittee of the Committee on Un-American Activities of the House of Representatives was conducting hearings, pursuant to Public Law 601, Section 121, 79th Congress, 2d Session, (60 Stat. 828), and to H.Res. 5, 83d Congress."</p>
       <p>"Defendant, Norton Anthony Russell, appeared as a witness before that subcommittee at the place and on the date above stated, and was asked questions which were pertinent to the question then under inquiry. Then and there, the defendant unlawfully refused to answer those pertinent questions. The allegations of this introduction are adopted and incorporated into the counts of this indictment which follow, each of which counts will in addition merely describe the question which was asked of the defendant and which he refused to answer."</p>
       <p>(The questions which Russell allegedly refused to answer were then quoted verbatim under separately numbered counts.)</p>
@@ -284,7 +284,7 @@
       <n id="p785">785</n>
       <p>And nothing in this Court's more recent cases could possibly be taken as foreshadowing the decision made today. [Footnote 2/7]</p>
       <p>The reasons given by the Court for its sudden holding, which, unless confined to contempt of Congress cases, bids fair to throw the federal courts back to an era of criminal pleading from which it was thought they had finally emerged, are novel and unconvincing.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>It is first argued that an allegation of "pertinency" in the statutory terms will not do, because that element is at "the very core of criminality" under § 192. This is said to follow from what "our cases have uniformly held." Ante, p. <a href="./us369-0749.xml#p764">369 U. S. 764</a>. I do not so understand the cases on which the Court relies. It will suffice to examine the three cases from which quotations have been culled. Ante, pp. <a href="./us369-0749.xml#p765"> 369 U. S. 765</a>-766.</p>
       <p>United States v. Cruikshank, <a href="../us092/us092-0542.xml#p542">92 U. S. 542</a>, involved an indictment under the Enforcement Act of 1870 (16 Stat. 140) making it a felony to conspire to prevent any person from exercising and enjoying "any right or privilege granted or secured to him by the Constitution or laws of the United States." Most of the counts were dismissed on the ground that they stated no federal offense whatever. The remainder were held inadequate from the standpoint of "apprisal," in that they simply alleged a conspiracy to prevent certain citizens from enjoying rights "granted and secured to them by the constitution and laws of the United States," such rights not being otherwise described or identified. Small wonder that these opaque allegations drew from the Court the comment</p>
       <n id="p786">786</n>
@@ -307,19 +307,19 @@
       <p>It is likewise "inconceivable" to me how the indictments in the present cases can be deemed insufficient to advise these petitioners of the nature of the charge they would have to meet. The indictments gave them the name of the committee before which they had appeared; the place and the dates of their appearances; the references to the enabling legislation under which the committee acted; and the questions which the petitioners refused to answer. The subject matter of the investigations had been stated to the petitioners at the time of their appearances before the committees. And the committee transcripts of the hearings were presumably in their possession, and, if not, were of course available to them.</p>
       <p>Granting all that the Court says about the crucial character of pertinency as an element of this offense, it is surely not more so than the element of premeditation in the crime of first degree murder. If, from the standpoint of "apprisal," it is necessary to particularize "pertinency" in a § 192 indictment, it should follow a fortiori that, contrary to what is prescribed in Forms 1 and 2 of the Federal Rules of Criminal Procedure, a first degree murder indictment should particularize "premeditation."</p>
       <n id="p790">790</n>
-      <h>II</h>
+      <h2>II</h2>
       <p>The Court says that its holding is needed to prevent the Government from switching on appeal, to the prejudice of the defendants, to a different theory of pertinency from that on which the conviction may have rested. Ante, pp. <a href="./us369-0749.xml#p766">369 U. S. 766</a>-768. There are several good answers to this.</p>
       <p>To the extent that this fear relates to the subject under investigation, the Government cannot, of course, travel outside the confines of the trial record, of which the defendant has full knowledge. If what is meant is that the Government may not modify on appeal its "trial" view of the "connective reasoning" (supra, p. <a href="./us369-0749.xml#p784">369 U. S. 784</a>, note 6) relied on to establish the germaneness of the questions asked to the subject matter of the inquiry, surely it would be free to do so, this aspect of pertinency being simply a matter of law, Sinclair v. United States, <a href="../us279/us279-0263.xml#p263">279 U. S. 263</a>, <a href="../us279/us279-0263.xml#p299">279 U. S. 299</a>. Moreover the Court does not find these indictments deficient because they failed to allege the "connective reasoning."</p>
       <p>Beyond these considerations, a defendant has ample means for protecting himself in this regard. By objecting at the committee hearing to the pertinency of any question asked him, he may "freeze" this issue, since the Government's case on this score must then stand or fall on the pertinency explanation given by the committee in response to such an objection. Deutch v. United States, <a href="../us367/us367-0456.xml#p456">367 U. S. 456</a>, <a href="../us367/us367-0456.xml#p472">367 U. S. 472</a>-473 (dissenting opinion); cf. Watkins v. United States, supra, at <a href="../us354/us354-0178.xml#p214">354 U. S. 214</a>-215; Barenblatt v. United States, <a href="../us360/us360-0109.xml#p109">360 U. S. 109</a>, <a href="../us360/us360-0109.xml#p123">360 U. S. 123</a>-125. If he has failed to make a pertinency objection at the committee hearing, thereby leaving the issue "at large" for the trial (Deutch, ibid.), he may still seek a particularization through a bill of particulars. Cf. United States v. Kamin, <a href="https://law.justia.com/cases/federal/district-courts/FSupp/136/791/1964997/">136 F. Supp. 791</a>, 795 n. 4.</p>
       <n id="p791">791</n>
       <p>It should be noted that no pertinency objection was made by any of these petitioners at the committee hearings. Further, no motions for a bill of particulars were made in No. 12, Price, to which the Court especially addresses itself (ante, pp. <a href="./us369-0749.xml#p766">369 U. S. 766</a>-768), or in No. 8, Russell, No. 10, Whitman, and No. 11, Liveright. In No. 9, Shelton, and No. 128, Gojack, such motions were made. However, no appeal was taken from the denial of the motion in Gojack, and in Shelton, the sufficiency of the particulars furnished by the Government was not questioned either by a motion for a further bill or on appeal.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>Referring to certain language in the Cruikshank case, supra, the Court suggests that the present holding is supported by a further "important corollary purpose" which an indictment is intended to serve: to make "it possible for courts called upon to pass on the validity of convictions under the statute to bring an enlightened judgment to that task." Ante, pp. <a href="./us369-0749.xml#p768">369 U. S. 768</a>-769.</p>
       <p>But whether or not the Government has established its case on "pertinency" is something that must be determined on the record made at the trial, not upon the allegations of the indictment. There is no such thing as a motion for summary judgment in a criminal case. While appellate courts might be spared some of the tedium of going through these § 192 records were the allegations of indictments to spell out the "pertinency" facts, the Court elsewhere in its opinion recognizes that the issue at hand can hardly be judged in terms of whether fuller indictments "would simplify the courts' task." Ante, p. <a href="./us369-0749.xml#p760">369 U. S. 760</a>.</p>
       <p>The broad language in Cruikshank on which the Court relies cannot properly be taken as meaning more than that an indictment must set forth enough to enable a court to determine whether a criminal offense over which</p>
       <n id="p792">792</n>
       <p>the court has jurisdiction has been alleged. Cf. McClintock, Indictment by a Grand Jury, 26 Minn.L.Rev. 153, 159-160 (1942); Orfield, Criminal Procedure from Arrest to Appeal, 222-226, 227, n. 107. [Footnote 2/12] Certainly the allegations of these indictments meet such requirements.</p>
-      <h>IV</h>
+      <h2>IV</h2>
       <p>The final point made by the Court is perhaps the most novel of all. It is said that a statement of the subject under inquiry is necessary in the indictment in order to fend against the possibility that a defendant may be convicted on a theory of pertinency based upon a subject under investigation different from that which may have been found by the grand jury. An argument similar to this was rejected by this Court many years ago in Rosen v. United States, <a href="../us161/us161-0029.xml#p29">161 U. S. 29</a>, <a href="../us161/us161-0029.xml#p34">161 U. S. 34</a>, where an indictment charging the defendant with mailing obscene matter, only generally described, was upheld over strong dissent (id. at <a href="../us161/us161-0029.xml#p45">161 U. S. 45</a>-51) asserting that the accused was entitled to know the particular parts of the material which the grand jury had deemed obscene. [Footnote 2/13]</p>
       <p>This proposition is also certainly unsound on principle. In the last analysis, it would mean that a prosecutor could not safely introduce or advocate at a trial evidence or theories, however relevant to the crime charged in the indictment, which he had not presented to the grand jury. Such cases as Ex parte Bain, <a href="../us121/us121-0001.xml#p1">121 U. S. 1</a>; <a href="../us281/us281-0619.xml#p619">United States v.</a></p>
       <n id="p793">793</n>
@@ -352,7 +352,7 @@
       <p>This is not the first opportunity the Court has had to consider the matter. Ante, p. <a href="./us369-0749.xml#p754">369 U. S. 754</a>, note. 7.</p>
       <p>[Footnote 2/8]</p>
       <p>The Court stated (id. at <a href="../us096/us096-0360.xml#p362">96 U. S. 362</a>):</p>
-      <p>"Where the offence is purely statutory . . . , it is,"</p>
+      <p>"Where the offence is purely statutory . . ., it is,"</p>
       <p>"as a general rule, sufficient in the indictment to charge the defendant with acts coming fully within the statutory description, in the substantial words of the statute, without any further expansion of the matter."</p>
       <p>1 Bishop, Crim.Proc., sect. 611, and authorities there cited. But to this general rule there is the qualification, fundamental in the law of criminal procedure, that the accused must be apprised by the indictment, with reasonable certainty, of the nature of the accusation against him. . . . An indictment not so framed is defective, although it may follow the language of the statute.</p>
       <p>(Emphasis supplied.)</p>
@@ -362,7 +362,7 @@
       <p>In that case, the Court spoke, doubtless by way of dictum, concerning the method of pleading "materiality" in a perjury indictment (an element akin to "pertinency" under § 192, Sinclair v. United States, <a href="../us279/us279-0263.xml#p263">279 U. S. 263</a>, <a href="../us279/us279-0263.xml#p298">279 U. S. 298</a>):</p>
       <p>"It was not necessary that the indictment should set forth all the details or facts involved in the issue as to materiality of [the false] statement. . . . In 2 Chit.Cr.Law, 307, the author says:"</p>
       <p>"It is undoubtedly necessary that it should appear on the face of the indictment that the false allegations were material to the matter in issue. But it is not requisite to set forth all the circumstances which render them material. The simple averment that they were so will suffice."</p>
-      <p>"In King v. Dowlin . . . , Lord Kenyon said that it had always been adjudged to be sufficient in an indictment for perjury to allege generally that the particular question became a material question. . . ."</p>
+      <p>"In King v. Dowlin . . ., Lord Kenyon said that it had always been adjudged to be sufficient in an indictment for perjury to allege generally that the particular question became a material question. . . ."</p>
       <p>160 U.S. at <a href="../us160/us160-0319.xml#p325">160 U. S. 325</a>.</p>
       <p>[Footnote 2/11]</p>
       <p>There, under an exception, prevailing in "obscenity" cases, to the then general rule that, in "documentary" crimes the contents of the document must be set forth in the indictment, the Court, in sustaining an indictment charging the unlawful mailing of an "indecent" letter, only generally described, said (id. at <a href="../us227/us227-0427.xml#p433">227 U. S. 433</a>-434):</p>

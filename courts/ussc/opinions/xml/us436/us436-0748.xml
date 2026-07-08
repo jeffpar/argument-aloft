@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us436-0748.html" citation="436 U.S. 748" title="Agosto v. INS">
   <opinion type="Opinions &amp; Dissents">
     <n id="p748">748</n>
-    <h>U.S. Supreme Court</h>
-    <h>Agosto v. INS, <a href="./us436-0748.xml#p748">436 U.S. 748</a> (1978)</h>
-    <h>Agosto v. Immigration and Naturalization Service</h>
-    <h>No. 76-1410</h>
-    <h>Argued February 28, 1978</h>
-    <h>Decided June 6, 1978</h>
-    <h><a href="./us436-0748.xml#p748">436 U.S. 748</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Agosto v. INS, <a href="./us436-0748.xml#p748">436 U.S. 748</a> (1978)</h1>
+    <h2>Agosto v. Immigration and Naturalization Service</h2>
+    <h2>No. 76-1410</h2>
+    <h4>Argued February 28, 1978</h4>
+    <h4>Decided June 6, 1978</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>The Immigration and Naturalization Service brought proceedings to deport petitioner as an alien who had unlawfully entered the United States. At a series of hearings before an Immigration Judge, the INS presented documentary evidence that petitioner was born in Italy in 1927 of unknown parents, was placed in a foundling home there, and ultimately was adopted by an Italian couple. Petitioner and several other witnesses testified that he was born in Ohio of an Italian mother and sent to Italy at an early age to reside with the above couple. Rejecting petitioner's evidence, the Immigration Judge issued a deportation order, and the Board of Immigration Appeals affirmed. Petitioner then petitioned the Court of Appeals for review of the Board's decision, claiming that he was entitled to a de novo hearing in District Court pursuant to § 106(a)(5)(b) of the Immigration and Nationality Act, which provides that, whenever a petitioner seeking review of a deportation order claims to be a United States citizen and makes a showing that his claim is not frivolous, the court of appeals, if it finds that "a genuine issue of material fact as to the petitioner's nationality is presented," must transfer the proceedings to the district court for a hearing de novo of the nationality claim. The Court of Appeals refused to transfer the case to the District Court for a de novo hearing and affirmed the deportation order, apparently holding that, in order to obtain a de novo hearing, petitioner was required by Kessler v. Strecker, <a href="../us307/us307-0022.xml#p22">307 U. S. 22</a>, to present "substantial evidence" in support of his citizenship claim and that he had failed to do so.</p>
     <p>Held:</p>
     <p>1. The Court of Appeals' decision, to the extent that it holds de novo review to be required only where the petitioner presents substantial evidence in support of his claim to citizenship, is contrary to the plain language and clear meaning of § 106(a)(5)(B), and there is nothing in the legislative history to indicate that Congress intended to require de novo judicial determination of citizenship claims only when such determinations would be compelled by the Kessler "substantial evidence" standard. Pp. <a href="./us436-0748.xml#p752">436 U. S. 752</a>-757.</p>
@@ -25,7 +25,7 @@
     <p>The question for decision is whether petitioner has made a sufficient showing in support of his claim to United States citizenship to entitle him to a de novo judicial determination</p>
     <n id="p750">750</n>
     <p>of that claim under § 106(a)(5)(B) of the Immigration and Nationality Act, 8 U.S.C. § 1105a(a)(5)(B) (1976 ed.).</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In 1967, the Immigration and Naturalization Service began deportation proceedings against petitioner, Joseph Agosto, by issuance of a show-cause order charging that he was deportable as an alien who had unlawfully entered the United States. App. 6. Petitioner opposed deportation, claiming that he was born in this country, and therefore is a citizen of the United States not subject to deportation. Over the course of several years, a series of hearings were held before an Immigration Judge [<a id="nf1" href="#fn1">Footnote 1</a>] at which the Service presented documentary evidence in an effort to show that petitioner was born in Italy in 1927 of unknown parents, placed in a foundling home there, and ultimately adopted by an Italian couple. Petitioner presented testimony from himself and several other witnesses to show that he was born in Ohio of an Italian mother and sent to Italy at an early age to reside with the aforementioned couple.</p>
     <p>In April, 1973, the Immigration Judge issued the deportation</p>
     <n id="p751">751</n>
@@ -38,7 +38,7 @@
     <p>"I do not believe our legally assigned role includes a decision on credibility, and, on that basis, I am unable to say that petitioner's evidence, if believed, would not present a colorable claim to American citizenship."</p>
     <p>Ibid.</p>
     <p>We granted certiorari, 434 U.S. 901 (1977), to consider the proper construction of § 106(a)(5)(b), and we now reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>In 1961, Congress enacted § 106 of the Immigration and Nationality Act, 8 U.S.C. § 1105a (1976 ed.), in order "to create a single, separate, statutory form of judicial review of administrative orders for the deportation . . . of aliens from the United States." H.R.Rep. No. 1086, 87th Cong., 1st Sess., 22 (1961). [<a id="nf3" href="#fn3">Footnote 3</a>] This statutory provision eliminated district court</p>
     <n id="p753">753</n>
     <p>review of deportation orders under § 10 of the Administrative Procedure Act, 5 U.S.C. § 702 (1976 ed.), and replaced it with direct review in the courts of appeals based on the administrative record. Congress carved out one class of cases, however, where de novo review in district court would be available: cases in which the person subject to deportation claims to be a United States citizen.</p>
@@ -61,7 +61,7 @@
     <p>States, 350 F.2d 719, 723 (CA2 1965). Particularly where the evidence consists of the testimony of live witnesses concerning material factual issues, it will seldom if ever be appropriate to deny a de novo hearing, since</p>
     <p>"[i]t is only when the witnesses are present and subject to cross-examination that their credibility and the weight to be given their testimony can be appraised."</p>
     <p>Poller v. Columbia Broadcasting System, Inc., supra, at <a href="../us368/us368-0464.xml#p473">368 U. S. 473</a>.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Applying the appropriate standard to the record in this case, it is apparent that the Court of Appeals erred when it failed to transfer the case to the District Court for a de novo hearing. The Service's proof that petitioner is not a United States citizen would certainly be sufficient, if uncontradicted, to establish his birth in Agrigento, Italy, in July, 1927. However, the evidence adduced by petitioner to support his claim of American citizenship creates "genuine issue[s] of material fact" that can only be resolved in a de novo hearing in the District Court.</p>
     <p>Petitioner acknowledges that the Service's documentary proof pertains to him. This proof includes an entry from the city of Agrigento registry of births for 1927 relating that a 75-year-old handywoman appeared before the registrar and declared that,</p>
     <p>"at 4:00 a.m. on the 17th day of [July] in a house situated in Via Oblati, of a woman who does not want to be named, a male child was born, which she presents to me and to whom she gives the first name of Vincenzo and the surname of Di Paola."</p>
@@ -128,7 +128,7 @@
       <n id="p763">763</n>
       <p>from this country."</p>
       <p>H.R.Rep. No. 1086, 87th Cong., 1st Sess., 22-23 (1961). Rather than putting an end to this abuse of our generous procedures, the Court now concludes that petitioner is entitled to a de novo trial of a claim to citizenship so transparently false that none of the numerous judges who have passed on it believes it.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>The Immigration Service claims that petitioner is an Italian by birth named Vincenzo Di Paola Pianetti, and that he is deportable because his most recent entry into the United States was fraudulent and because he has been convicted of crimes involving moral turpitude. The Service claims that petitioner last entered the United States in 1966, purporting to be a citizen of the United States and relying on the passport of Joseph Agosto. Petitioner claims he was born in Cleveland, Ohio, assigning various dates of birth from 1921 to 1927, and was named Joseph Agosto; that he was sent to Italy when he was 2 or 3 years old; that he lived there with his natural mother's sister and her husband, who later "affiliated" him and gave him their name; and that he returned to the United States in 1951 or 1952. The issue ultimately is one of identity. If petitioner is "Agosto," rather than "Pianetti," he is an American citizen. During the course of the instant proceedings, commenced in 1967, not a single administrative or judicial official has believed that petitioner is not the Italian-born Pianetti.</p>
       <p>The proceedings in this case have been protracted. On September 5, 1967, the Service issued a show-cause order, and notice of hearing, seeking petitioner's deportation. A full hearing was held before an Immigration Judge. The Service introduced documentary evidence demonstrating that petitioner was born, taken to a foundling home, and baptized in Agrigento, Italy, in 1927, and later was entrusted to the Pianettis. See ante at <a href="./us436-0748.xml#p757">436 U. S. 757</a>. The Service also demonstrated</p>
       <n id="p764">764</n>
@@ -143,13 +143,13 @@
       <p>"The evidence presented to the immigration judge does not disclose a colorable claim to United States nationality; nor does it meet the standard set forth in Kessler v. Strecker, <a href="https://law.justia.com/us/307/22/">307 U. S. 22</a>, <a href="https://law.justia.com/us/307/22/#35">307 U. S. 35</a> (1939)."</p>
       <p>Id. at ii.</p>
       <p>We granted certiorari on October 1, 1977. 434 U.S. 901. Today the Court hands down a decision entitling petitioner to continue his 11-year saga, commencing with a trial de novo in a district court.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>The first flaw in the Court's reasoning is that it reads out of the statute the threshold requirement that the claim to United States nationality not be "frivolous." The Court muses in a footnote, without support, that "[t]he frivolousness' standard apparently refers to the merits of the legal theory underlying the citizenship claim," ante at <a href="./us436-0748.xml#p754">436 U. S. 754</a> n. 4, and therefore has been satisfied in this case because petitioner's theory of citizenship -- that he was born in this country -- is not frivolous.</p>
       <p>Neither the language of the statute nor its legislative history sheds any helpful light on the intended meaning of the term "frivolous" for purposes of this statute. [Footnote 2/3] The term may well refer in some instances to the underlying legal theory of a claim. But to say that this is the exclusive meaning is virtually to read the term out of the statute. If all that is required for a claim to be considered nonfrivolous is that the alleged alien maintain that he was born in this country, patently frivolous claims will pass the first threshold of the statute. [Footnote 2/4] If Congress thought that every claim to birth</p>
       <n id="p767">767</n>
       <p>in this country, however tenuous, merited judicial trial, rather than judicial review, one would assume it would have so provided, rather than create a dual system of de novo factfinding by both administrative and judicial proceedings. In addition, the legal theory underlying any claim to citizenship almost always will be that the purported citizen was born or naturalized in the United States. According to the Court's theory, therefore, the underlying legal theory of a claim to citizenship rarely will be deemed "frivolous."</p>
       <p>We normally construe statutes to give meaning to each of their components. I read Congress' intent to have been that the courts of appeals must examine the administrative record to determine whether a claim to citizenship is frivolous for any reason. [Footnote 2/5] And it would be difficult to find a more frivolous claim to citizenship than this one. [Footnote 2/6]</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>Assuming, arguendo, that petitioner's claim is not frivolous, the Court of Appeals was required to transfer the case to a</p>
       <n id="p768">768</n>
       <p>district court for a de novo hearing only if it concluded that a "genuine issue of material fact" existed. The Court today, applying the standard governing summary judgment in the federal courts, concludes that a genuine issue of material fact exists here because</p>
@@ -177,7 +177,7 @@
       <p>I believe petitioner's evidence reasonably cannot be viewed in any other light. [Footnote 2/11]</p>
       <p>In concluding that there is a "genuine issue of material fact" presented on this record, under the standard applicable to a summary judgment motion, the Court relies primarily on the testimony of petitioner's adoptive parents and supposed half brother, presented for the first time at petitioner's third hearing before the Immigration Judge. In effect, the Court applies the summary judgment standard as if the only testimony on the record were that adduced at the third hearing. But if the summary judgment standard is to be applied, it is necessary to view the evidence submitted by petitioner in its totality -- as if petitioner, in contesting a summary judgment motion, had submitted three sets of depositions containing precisely the same evidence presented by him at the three administrative hearings. A district court then would be confronted with three significantly different stories, each sworn to by petitioner, one belatedly corroborated by his coached kinsmen, and all of them contradicted by authenticated documentary evidence. I doubt that any district court would find petitioner's evidence sufficient, viewed in its totality, to defeat a motion for summary judgment.</p>
       <n id="p774">774</n>
-      <h>IV</h>
+      <h2>IV</h2>
       <p>However one may read the unclear language of § 106(a)(5), it is at least clear that Congress did not intend duplicate judicial proceedings to follow administrative proceedings simply upon demand. If all that § 106(a)(5) requires is a swearing contest -- even when the Government's case is predicated on documents whose authenticity is uncontested -- then every subject of deportation proceedings has it within his power to circumvent the obvious intention of the statutory scheme to minimize dilatory tactics by deportable aliens. The Court today has opened wide this inviting door.</p>
       <p>[Footnote 2/1]</p>
       <p>"[B]y eliminating review in the district courts, the bill [was intended to] obviate one of the primary causes of delay in the final determination of all questions which may arise in a deportation proceeding."</p>

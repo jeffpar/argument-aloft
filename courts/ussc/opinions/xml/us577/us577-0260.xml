@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us577-0260.html" citation="577 U.S. 260" title="Fed. Energy Regulatory Comm'n v. Elec. Power Supply Ass'n">
   <opinion type="Opinion" author="Kagan">
     <n id="p260">260</n>
     <p>NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 14–840 and 14–841</p>
-    <p>_________________</p>
     <p>FEDERAL ENERGY REGULATORY COMMISSION, PETITIONER</p>
     <p>14–840v.</p>
     <p>ELECTRIC POWER SUPPLY ASSOCIATION, et al.</p>
@@ -100,9 +99,7 @@
   </opinion>
   <opinion type="Dissent" author="Scalia">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 14–840 and 14–841</p>
-    <p>_________________</p>
     <p>FEDERAL ENERGY REGULATORY COMMISSION, PETITIONER</p>
     <p>14–840v.</p>
     <p>ELECTRIC POWER SUPPLY ASSOCIATION, et al.</p>
@@ -115,7 +112,7 @@
     <p>I believe the Federal Power Act (FPA or Act), 16 U. S. C. §791a et seq., prohibits the Federal Energy Regulatory Commission (FERC) from regulating the demand response of retail purchasers of power. I respectfully dissent from the Court’s holding to the contrary.</p>
     <p>I</p>
     <p>A</p>
-    <p>I agree with the majority that FERC has the authority to regulate practices “affecting” wholesale rates. §§824d(a), 824e(a); Mississippi Power &amp; Light Co. v. Mississippi ex rel. Moore, 487 U. S. 354, 371 (1988) . I also agree that this so-called “affecting” jurisdiction cannot be limitless. And I suppose I could even live with the Court’s “direct effect” test as a reasonable limit. Ante, at 15. But as the majority recognizes, ante, at 17, that extratextual limit on the “affecting” jurisdiction merely supplements, not supplants, limits that are already contained in the statutory text and structure. I believe the Court misconstrues the primary statutory limit. (Like the majority, I think that deference under Chevron U. S. A. Inc. v. Natural Resources Defense Council, Inc., 467 U. S. 837 (1984) , is unwarranted because the statute is clear.)</p>
+    <p>I agree with the majority that FERC has the authority to regulate practices “affecting” wholesale rates. §§824d(a), 824e(a); Mississippi Power &amp; Light Co. v. Mississippi ex rel. Moore, 487 U. S. 354, 371 (1988) . I also agree that this so-called “affecting” jurisdiction cannot be limitless. And I suppose I could even live with the Court’s “direct effect” test as a reasonable limit. Ante, at 15. But as the majority recognizes, ante, at 17, that extratextual limit on the “affecting” jurisdiction merely supplements, not supplants, limits that are already contained in the statutory text and structure. I believe the Court misconstrues the primary statutory limit. (Like the majority, I think that deference under Chevron U. S. A. Inc. v. Natural Resources Defense Council, Inc., 467 U. S. 837 (1984), is unwarranted because the statute is clear.)</p>
     <p>The Act grants FERC authority to regulate the “generation . . . [and] transmission of electric energy in interstate commerce and the sale of such energy at wholesale.” §824(a). Yet the majority frames the issue thusly: “[T]o uphold the [r]ule, we also must determine that it does not regulate retail electricity sales.” Ante, at 17. That formulation inverts the proper inquiry. The pertinent question under the Act is whether the rule regulates sales “at wholesale.” If so, it falls within FERC’s regulatory authority. If not, the rule is unauthorized whether or not it happens to regulate “retail electricity sales”; for, with exceptions not material here, the FPA prohibits FERC from regulating “any other sale of electric energy” that is not at wholesale. §824(b)(1) (emphasis added). (The majority wisely ignores FERC’s specious argument that the demand-response rule does not regulate any sale, wholesale or retail. See Brief for Petitioner in No. 14–840, p. 39. Paying someone not to conclude a transaction that otherwise would without a doubt have been concluded is most assuredly a regulation of that transaction. Cf. Gonzales v. Raich, 545 U. S. 1 –40 (2005) (Scalia, J., concurring in judgment).)</p>
     <p>Properly framing the inquiry matters not because I think there exists “some undefined category of . . . electricity sales” that is “non-retail [and] non-wholesale,” ante, at 18, n. 7,[<a id="nf2-1" href="#fn2-1">1</a>] but because a proper framing of the inquiry is important to establish the default presumption regarding the scope of FERC’s authority. While the majority would find every sale of electric energy to be within FERC’s authority to regulate unless the transaction is demonstrably a retail sale, the statute actually excludes from FERC’s jurisdiction all sales of electric energy except those that are demonstrably sales at wholesale.</p>
     <p>So what, exactly, is a “sale of electric energy at wholesale”? We need not guess, for the Act provides a definition: “a sale of electric energy to any person for resale.” §824(d) (emphasis added). No matter how many times the majority incants and italicizes the word “wholesale,” ante, at 19–20, nothing can change the fact that the vast majority of (and likely all) demand-response participants—“[a]ggregators of multiple users of electricity, as well as large-scale individual users like factories or big-box stores,” ante, at 7—do not resell electric energy; they consume it themselves. FERC’s own definition of demand response is aimed at energy consumers, not resellers. 18 CFR §35.28(b)(4) (2015).</p>

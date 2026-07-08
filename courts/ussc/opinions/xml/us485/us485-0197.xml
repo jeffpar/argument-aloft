@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us485-0197.html" citation="485 U.S. 197" title="Norwest Bank Worthington v. Ahlers">
   <opinion type="Opinions &amp; Dissents">
     <n id="p197">197</n>
-    <h>U.S. Supreme Court</h>
-    <h>Norwest Bank Worthington v. Ahlers, <a href="./us485-0197.xml#p197">485 U.S. 197</a> (1988)</h>
-    <h>Norwest Bank Worthington v. Ahlers</h>
-    <h>No. 86-958</h>
-    <h>Argued January 12, 1988</h>
-    <h>Decided March 7, 1988</h>
-    <h><a href="./us485-0197.xml#p197">485 U.S. 197</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE EIGHTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Norwest Bank Worthington v. Ahlers, <a href="./us485-0197.xml#p197">485 U.S. 197</a> (1988)</h1>
+    <h2>Norwest Bank Worthington v. Ahlers</h2>
+    <h2>No. 86-958</h2>
+    <h4>Argued January 12, 1988</h4>
+    <h4>Decided March 7, 1988</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE EIGHTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondents, who operate a family farm, obtained secured loans from petitioners. Following a 1984 default on the loan payments, one petitioner filed a state court replevin action seeking possession of the farm equipment pledged as security, but respondents obtained an automatic stay of the action when they filed a petition for reorganization under Chapter 11 of the Bankruptcy Code (Code). On petitioners' motions for relief from the automatic stay, the District Court found respondents' reorganization plan to be infeasible and affirmed the Bankruptcy Court's decision to grant petitioners relief. The Court of Appeals reversed, finding that respondents could file a feasible reorganization plan (as suggested by the court), and rejecting petitioners' contention that the Code's "absolute priority rule," 11 U.S.C. § 1129(b)(2)(B)(ii) (1982 ed. and Supp. IV) -- which provides that a dissenting class of unsecured creditors must be provided for in full before any junior class can receive or retain any property under the plan -- barred confirmation of any plan which allowed respondents to retain their equity interest in the farm, which was junior to creditors' unsecured claims. The court held that, under Case v. Los Angeles Lumber Products Co., <a href="../us308/us308-0106.xml#p106">308 U. S. 106</a>, the absolute priority rule did not bar respondents from retaining their equity interest if they contributed "money or money's worth" to the reorganized enterprise, and that their yearly contributions of "labor, experience, and expertise" would constitute such a contribution, therefore permitting confirmation of a reorganization plan over petitioners' objections.</p>
     <p>Held: The absolute priority rule applies, and respondents' promise of future labor warrants no exception to its operation. Pp. <a href="./us485-0197.xml#p202">485 U. S. 202</a>-211.</p>
     <p>(a) The dicta in Case v. Los Angeles Lumber Products Co., relied upon by the Court of Appeals, is not applicable here. Viewed from the time of the plan's approval, respondents' promise of future services was intangible, inalienable, and, in all likelihood, unenforceable. Unlike "money or money's worth," such promise cannot be exchanged in any market for something of value to the creditors today. No broader exception to the absolute priority rule than that suggested in Los Angeles Lumber's dicta exists. The statutory language and § 1129(b)'s legislative history bar any expansion of any exception to the absolute priority</p>
@@ -25,7 +25,7 @@
     <n id="p199">199</n>
     <p>JUSTICE WHITE delivered the opinion of the Court.</p>
     <p>In this case, the Court of Appeals found that respondents' promise of future "labor, experience, and expertise" permitted confirmation of their Chapter 11 reorganization plan over the objections of their creditors, even though the plan violated the "absolute priority rule" of the Bankruptcy Code. Because we find this conclusion at odds with the Code and our cases, we reverse.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Respondents operate a failing family farm in Nobles County, Minnesota. Between 1965 and 1984, they obtained loans from petitioners, securing the loans with their farmland, machinery, crops, livestock, and farm proceeds. In November, 1984, respondents defaulted on their loan payments to petitioner Norwest Bank Worthington; at the time,</p>
     <n id="p200">200</n>
     <p>the aggregate loan balance owed the petitioners exceeded $1 million.</p>
@@ -38,7 +38,7 @@
     <n id="p202">202</n>
     <p>of Los Angeles Lumber as "unprecedented, illogical, and unfair." 794 F.2d at 406. He concluded that the absolute priority rule barred respondents' retention of an equity interest in the farm over petitioners' legitimate objections.</p>
     <p>After the Eighth Circuit -- sharply divided -- denied rehearing en banc, id. at 414-415, petitioners sought review by this Court. We granted certiorari to consider the Court of Appeals' application of the absolute priority rule, 483 U.S. 1004 (1987), and now reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>As the Court of Appeals stated, the absolute priority rule</p>
     <p>"provides that a dissenting class of unsecured creditors must be provided for in full before any junior class can receive or retain any property [under a reorganization] plan."</p>
     <p>794 F.2d at 401. The rule had its genesis in judicial construction of the undefined requirement of the early bankruptcy statute that reorganization plans be "fair and equitable." See Northern Pacific R. Co. v. Boyd, <a href="../us228/us228-0482.xml#p482">228 U. S. 482</a>, <a href="../us228/us228-0482.xml#p504">228 U. S. 504</a>-505 (1913); Louisville Trust Co. v. Louisville, N. A. &amp; C. R. Co., <a href="../us174/us174-0674.xml#p674">174 U. S. 674</a>, <a href="../us174/us174-0674.xml#p684">174 U. S. 684</a> (1899). The rule has since gained express statutory force, and was incorporated into Chapter 11 of the Bankruptcy Code adopted in 1978. See 11 U.S.C. § 1129(b)(2)(B)(ii) (1982 ed., Supp. IV). Under current law, no Chapter 11 reorganization plan can be confirmed over the creditors' legitimate objections (absent certain conditions not relevant here) if it fails to comply with the absolute priority rule.</p>
@@ -58,7 +58,7 @@
     <n id="p206">206</n>
     <p>the absolute priority rule and adopted the codification of the rule now found in 11 U.S.C. § 1129(b)(2)(B)(ii) (1982 ed. and Supp. IV). "This [section] codifies the absolute priority rule from the dissenting class on down." See H.R.Rep. No. 95-595, p. 413 (1977). We think the statutory language and the legislative history of § 1129(b) clearly bar any expansion of any exception to the absolute priority rule beyond that recognized in our cases at the time Congress enacted the 1978 Bankruptcy Code.</p>
     <p>In sum, we find no support in the Code or our previous decisions for the Court of Appeals' application of the absolute priority rule in this case. We conclude that the rule applies here, and respondents' promise of future labor warrants no exception to its operation.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Respondents advance two additional arguments seeking to obviate the conclusion mandated by the absolute priority rule.</p>
     <p>A</p>
     <p>Respondents first advance a variety of "equitable arguments" which, they say, prevent the result we reach today. Respondents contend that the nature of bankruptcy proceedings -- namely, their status as proceedings in "equity" -- prevents petitioners from inequitably voting in the class of unsecured creditors, and requires that a "fair and equitable" reorganization plan in the best interests of all creditors and debtors be confirmed. See Brief for Respondents 14-16, 23-24. Similarly, the Court of Appeals found it significant that -- in its view -- respondents' wholly unsecured creditors (as opposed to petitioners, who have partially secured claims) would fare better under the proposed reorganization plan than if the farm was liquidated. 794 F.2d at 402.</p>
@@ -75,7 +75,7 @@
     <n id="p209">209</n>
     <p>403, and n. 18 -- an interest which can hardly be considered "worthless." And there is great common sense in petitioners' contention that "obviously, there is some going concern value here, or the parties would not have been litigating over it for the last three years." Tr. of Oral Arg. 15-16.</p>
     <p>Consequently, we think that the interest respondents would retain under any reorganization must be considered "property" under § 1129(b)(2)(B)(ii), and therefore can only be retained pursuant to a plan accepted by their creditors or formulated in compliance with the absolute priority rule. Since neither is true in this case, the Court of Appeals' judgment for respondents cannot stand.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>In rejecting respondents' position, we do not take lightly the concerns which militated the Eighth Circuit towards its result. As a Bankruptcy Judge commented on the Court of Appeals' decision in this case:</p>
     <p>"We understand the motivation behind the majority opinion in Ahlers. Farm bankruptcies are in a state of crisis and we, too, sympathize with the plight of the American farmer. Nevertheless, the solution proposed by the Ahlers majority is contrary to the Bankruptcy Code and a long line of case law."</p>
     <p>In re Stegall, 64 B.R. 296, 300 (Bkrtcy.Ct. CD Ill.1986).</p>
@@ -87,7 +87,7 @@
     <p>which is less favorable to its intended beneficiaries than is current law. But, in adopting Chapter 12, Congress thought it was doing just the opposite. [<a id="nf11" href="#fn11">Footnote 11</a>]</p>
     <p>"[W]here, as here, Congress adopts a new law . . . [it] normally can be presumed to have had knowledge of the interpretation given to the [old] law."</p>
     <p>Lorillard v. Pons, <a href="../us434/us434-0575.xml#p575">434 U. S. 575</a>, <a href="../us434/us434-0575.xml#p581">434 U. S. 581</a> (1978). We think Congress' understanding of Chapter 11 and its absolute priority rule -- and not respondents' -- is the correct one. We do not believe that Congress created, in Chapter 12, an option for farm reorganizations less accessible to most farmers than current Chapter 11 proceedings.</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>In sum, because we find the decision below to be contrary to the Bankruptcy Code and this Court's previous cases, the judgment of the Court of Appeals is reversed, and the case is remanded for further proceedings consistent with this opinion.</p>
     <p>It is so ordered.</p>
     <p>JUSTICE KENNEDY took no part in the consideration or decision of this case.</p>

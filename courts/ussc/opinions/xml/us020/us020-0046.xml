@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us020-0046.html" citation="20 U.S. 46" title="Bayley v. Greenleaf">
   <opinion type="Opinions &amp; Dissents">
     <n id="p46">46</n>
-    <h>U.S. Supreme Court</h>
-    <h>Bayley v. Greenleaf, 20 U.S. 46 (1822)</h>
-    <h>Bayley v. Greenleaf</h>
-    <h>20 U.S. (7 Wheat.) 46</h>
-    <h>APPEAL FROM THE CIRCUIT COURT</h>
-    <h>FOR THE DISTRICT OF COLUMBIA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Bayley v. Greenleaf, 20 U.S. 46 (1822)</h1>
+    <h2>Bayley v. Greenleaf</h2>
+    <h2>20 U.S. (7 Wheat.) 46</h2>
+    <h2>APPEAL FROM THE CIRCUIT COURT</h2>
+    <h2>FOR THE DISTRICT OF COLUMBIA</h2>
+    <h2>Syllabus</h2>
     <p>The vendor of real property who has not taken a separate security for the purchase money has a lien for it on the land as against the vendee and his heirs.</p>
     <p>This lien is defeated by an alienation to a bona fide purchaser without notice.</p>
     <p>Nor can it be asserted against creditors holding under a bona fide conveyance from the vendee.</p>

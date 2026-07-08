@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us580-15-866.html" citation="580 U.S. 15-866" title="Star Athletica, LLC v. Varsity Brands, Inc.">
   <opinion type="Opinion" author="Thomas">
     <p>NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 15–866</p>
-    <p>_________________</p>
     <p>STAR ATHLETICA, L. L. C., PETITIONER v. VARSITY BRANDS, INC., et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the sixth circuit</p>
     <p>[March 22, 2017]</p>
@@ -13,7 +12,7 @@
     <p>Congress has provided copyright protection for original works of art, but not for industrial designs. The line between art and industrial design, however, is often difficult to draw. This is particularly true when an industrial design incorporates artistic elements. Congress has afforded limited protection for these artistic elements by providing that “pictorial, graphic, or sculptural features” of the “design of a useful article” are eligible for copyright protection as artistic works if those features “can be identified separately from, and are capable of existing independently of, the utilitarian aspects of the article.” 17 U. S. C. §101.</p>
     <p>We granted certiorari to resolve widespread disagreement over the proper test for implementing §101’s separate-identification and independent-existence requirements. 578 U. S. ___ (2016). We hold that a feature incor-porated into the design of a useful article is eligible for copyright protection only if the feature (1) can be perceived as a two- or three-dimensional work of art separate from the useful article and (2) would qualify as a protectable pictorial, graphic, or sculptural work—either on its own or fixed in some other tangible medium of expression—if it were imagined separately from the useful article into which it is incorporated. Because that test is satisfied in this case, we affirm.</p>
     <p>I</p>
-    <p>Respondents Varsity Brands, Inc., Varsity Spirit Corporation, and Varsity Spirit Fashions &amp; Supplies, Inc., design, make, and sell cheerleading uniforms. Respondents have obtained or acquired more than 200 U. S. copyright registrations for two-dimensional designs appearing on the surface of their uniforms and other garments. These designs are primarily “combinations, positionings, and arrangements of elements” that include “chevrons . . . , lines, curves, stripes, angles, diagonals, inverted [chevrons], coloring, and shapes.” App. 237. At issue in this case are Designs 299A, 299B, 074, 078, and 0815. See Appendix, infra.</p>
+    <p>Respondents Varsity Brands, Inc., Varsity Spirit Corporation, and Varsity Spirit Fashions &amp; Supplies, Inc., design, make, and sell cheerleading uniforms. Respondents have obtained or acquired more than 200 U. S. copyright registrations for two-dimensional designs appearing on the surface of their uniforms and other garments. These designs are primarily “combinations, positionings, and arrangements of elements” that include “chevrons . . ., lines, curves, stripes, angles, diagonals, inverted [chevrons], coloring, and shapes.” App. 237. At issue in this case are Designs 299A, 299B, 074, 078, and 0815. See Appendix, infra.</p>
     <p>Petitioner Star Athletica, L. L. C., also markets and sells cheerleading uniforms. Respondents sued petitioner for infringing their copyrights in the five designs. The District Court entered summary judgment for petitioner on respondents’ copyright claims on the ground that the designs did not qualify as protectable pictorial, graphic, or sculptural works. It reasoned that the designs served the useful, or “utilitarian,” function of identifying the garments as “cheerleading uniforms” and therefore could not be “physically or conceptually” separated under §101 “from the utilitarian function” of the uniform. 2014 WL 819422, *8–*9 (WD Tenn., Mar. 1, 2014).</p>
     <p>The Court of Appeals for the Sixth Circuit reversed. 799 F. 3d 468, 471 (2015). In its view, the “graphic designs” were “separately identifiable” because the designs “and a blank cheerleading uniform can appear ‘side by side’—one as a graphic design, and one as a cheerleading uniform.” Id., at 491 (quoting Compendium of U. S. Copyright Office Practices §924.2(B) (3d ed. 2014) (Compendium)). And it determined that the designs were “ ‘capable of existing independently’ ” because they could be incorporated onto the surface of different types of garments, or hung on the wall and framed as art. 799 F. 3d, at 491, 492.</p>
     <p>Judge McKeague dissented. He would have held that, because “identifying the wearer as a cheerleader” is a utilitarian function of a cheerleading uniform and the surface designs were “integral to” achieving that function, the designs were inseparable from the uniforms. Id., at 495–496.</p>
@@ -76,9 +75,7 @@
   </opinion>
   <opinion type="Concurrence" author="Ginsburg">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 15–866</p>
-    <p>_________________</p>
     <p>STAR ATHLETICA, L. L. C., PETITIONER v. VARSITY BRANDS, INC., et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the sixth circuit</p>
     <p>[March 22, 2017]</p>
@@ -95,9 +92,7 @@
   </opinion>
   <opinion type="Dissent" author="Breyer">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 15–866</p>
-    <p>_________________</p>
     <p>STAR ATHLETICA, L. L. C., PETITIONER v. VARSITY BRANDS, INC., et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the sixth circuit</p>
     <p>[March 22, 2017]</p>

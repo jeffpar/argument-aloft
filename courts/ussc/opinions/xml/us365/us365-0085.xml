@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us365-0085.html" citation="365 U.S. 85" title="Campbell v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p85">85</n>
-    <h>U.S. Supreme Court</h>
-    <h>Campbell v. United States, <a href="./us365-0085.xml#p85">365 U.S. 85</a> (1961)</h>
-    <h>Campbell v. United States</h>
-    <h>No. 53</h>
-    <h>Argued December 6, 1960</h>
-    <h>Decided January 23, 1961</h>
-    <h><a href="./us365-0085.xml#p85">365 U.S. 85</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE FIRST CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Campbell v. United States, <a href="./us365-0085.xml#p85">365 U.S. 85</a> (1961)</h1>
+    <h2>Campbell v. United States</h2>
+    <h2>No. 53</h2>
+    <h4>Argued December 6, 1960</h4>
+    <h4>Decided January 23, 1961</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE FIRST CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>During a trial in a Federal District Court at which petitioners were convicted of a federal crime, a government witness testified on cross-examination that, while being interviewed by a federal agent, he had made and signed a statement which had been written down by the agent. On motion of petitioners under the so-called Jencks Act, 18 U.S.C. § 3500, the Court directed the Government to produce the document. Government counsel denied possession of such a document, but admitted possession of a report written by a federal agent summarizing an interview with that witness. The trial judge held an inquiry in the jury's absence, at the conclusion of which he refused to order the Government to deliver the agent's report to petitioners and also denied their motion to strike the testimony of the witness. He showed the report to the witness, who denied that it was his statement, and he refused to call as a witness the agent who made the report, though he said that the defendants could do so if they wished.</p>
     <p>Held:</p>
     <p>1. Because of errors in the conduct of the inquiry, petitioners are entitled to a reexamination of their motion for production of the witness' pretrial statements and their motion to strike his testimony. Pp. <a href="./us365-0085.xml#p86">365 U. S. 86</a>-98.</p>
@@ -145,7 +145,7 @@
       <p>The case presents two entirely separate questions under the Jencks Act, and they should be kept apart. First, what</p>
       <n id="p102">102</n>
       <p>are the procedural requirements, under the Jencks statute, when counsel for the United States announces that he cannot produce documents for which a foundation has been laid because he does not possess them and does not know of their existence? Secondly, was the FBI agent's available report producible under the Act?</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>Title 18 U.S.C. § 3500, requires the trial judge, upon a motion by the defendant, to "order the United States to produce any statement . . . of the witness in the possession of the United States" which is relevant to the direct testimony of the government witness. Nothing in the legislative history of the Act remotely suggests that Congress' intent was to require the Government, with penalizing consequences, to preserve all records and notes taken during the countless interviews that are connected with criminal investigation by the various branches of the Government. The legislation narrowed the application of our decision in Jencks v. United States, <a href="../us353/us353-0657.xml#p657">353 U. S. 657</a>, as construed by some of the lower courts, partly by having the relevancy of the material determined by the district judge prior to its production. S.Rep. No. 981, 85th Cong., 1st Sess., p. 2.</p>
       <p>Petitioners' contention that the words "in the possession of" must be interpreted as meaning "possession at any prior or present time" must be rejected. Congress surely did not intend to initiate a game of chance whereby the admission of a witness' testimony is made to depend upon a file clerk's accuracy or care. Senator O'Mahoney, the sponsor of the bill, in illustrating that his measure approved the essential basis of the Jencks case, interpreted Jencks to apply only where the Government "had at the same time in its files a statement" pertinent to a witness' testimony. 103 Cong.Rec. 10120. See also S.Rep. No.</p>
       <n id="p103">103</n>
@@ -154,7 +154,7 @@
       <p>How does the court's duty regarding a claim by defense under the Jencks statute differ from any other claim for the production of a document? We are told that, because Agent Toomey was readily available, it devolved on the judge, instead of on the defendants, to seek whatever light could be thrown on the matter. Is it now the duty of the district judge to do all that a competent defense counsel would do, or would choose, as a matter of trial judgment, not to do? The procedure now suggested places the judge in the position of a voluntary defender for defendants</p>
       <n id="p104">104</n>
       <p>already adequately represented. This seems only the more questionable, since it may well be that counsel here were satisfied that the documents had been disposed of in a bona fide manner. It is not the duty of this Court to invent hypothetical situations in which independent action by the district judge might have revealed unexpected facts. There was no suggestion, not a hint -- either before the trial court, or below, or upon argument here -- that the Government's representation of the nonexistence of the documents was not bona fide, was a piece of chicane and, as such, a fraud upon the court bringing into action the court's protection of its dignity and honor, or a manifestation of professional inadequacy as to call for the court's safeguarding action.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>The other issue presented by the case is the producibility of the FBI agent's report which had been put into possession of the court. Subsection (e) of the Jencks Act thus defines the papers in the Government's possession that are subject to production:</p>
       <p>"(1) a written statement made by said witness and signed or otherwise adopted or approved by him; or"</p>
       <p>"(2) a stenographic, mechanical, electrical, or other recording, or a transcription thereof, which is a substantially verbatim recital of an oral statement made by said witness to an agent of the Government and recorded contemporaneously with the making of such oral statement."</p>
@@ -162,7 +162,7 @@
       <n id="p105">105</n>
       <p>the witness had himself set down on paper, Congress desired that his signature or some other form of approval be shown to assure authenticity. The required approval would also quiet any doubts that the witness had an adequate opportunity to scrutinize for verification the document which he had prepared. These are appropriate safeguards for the use of these documents as a basis for impeaching the witness' testimony on the stand. As to oral statements, the statute prescribes that their content be "a substantially verbatim recital" of the witness' words recorded contemporaneously.</p>
       <p>"Clearly, this provision allows the production of mechanical or stenographic recordings of oral statements, even though later transcribed."</p>
-      <p>Palermo v. United States, <a href="../us360/us360-0343.xml#p343">360 U. S. 343</a>, <a href="../us360/us360-0343.xml#p351">360 U. S. 351</a>-352. Producibility, for purpose of impeachment, of a statement drawn up in the third person by an agent requires that the whole oral statement be contemporaneously recorded. Under this standard, a summarization by an agent of selective portions of testimony by the witness would not fall within the scope of the Act. "[B]eyond mechanical or stenographic statements . . . , a very restrictive standard is to be applied" in defining what is a "statement" under the statutory language. Palermo v. United States, supra, at <a href="../us360/us360-0343.xml#p360">360 U. S. 360</a>. Under subsection (2), it makes no difference whether these agent summaries are signed or approved by the witness;</p>
+      <p>Palermo v. United States, <a href="../us360/us360-0343.xml#p343">360 U. S. 343</a>, <a href="../us360/us360-0343.xml#p351">360 U. S. 351</a>-352. Producibility, for purpose of impeachment, of a statement drawn up in the third person by an agent requires that the whole oral statement be contemporaneously recorded. Under this standard, a summarization by an agent of selective portions of testimony by the witness would not fall within the scope of the Act. "[B]eyond mechanical or stenographic statements . . ., a very restrictive standard is to be applied" in defining what is a "statement" under the statutory language. Palermo v. United States, supra, at <a href="../us360/us360-0343.xml#p360">360 U. S. 360</a>. Under subsection (2), it makes no difference whether these agent summaries are signed or approved by the witness;</p>
       <p>"the legislation was designed to eliminate the danger of distortion and misrepresentation inherent in a report which merely selects portions, albeit accurately, from a lengthy oral recital."</p>
       <p>Palermo v. United States, supra, at <a href="../us360/us360-0343.xml#p352">360 U. S. 352</a>. As the bill originally came out of the House Judiciary Committee, 103 Cong.Rec. 16125, such summaries, when approved by the witness, would have been subject to production. H.R.Rep. No. 700, 85th Cong., 1st Sess., p. 6. However, the subsequent revision of the bill as finally enacted makes</p>
       <n id="p106">106</n>

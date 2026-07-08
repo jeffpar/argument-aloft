@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us476-0409.html" citation="476 U.S. 409" title="Square D Co. v. Niagara Frontier">
   <opinion type="Opinions &amp; Dissents">
     <n id="p409">409</n>
-    <h>U.S. Supreme Court</h>
-    <h>Square D Co. v. Niagara Frontier, <a href="./us476-0409.xml#p409">476 U.S. 409</a> (1986)</h>
-    <h>Square D Co. v. Niagara Frontier Tariff Bureau, Inc.</h>
-    <h>No. 85-21</h>
-    <h>Argued March 3, 1986</h>
-    <h>Decided May 27, 1986</h>
-    <h><a href="./us476-0409.xml#p409">476 U.S. 409</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE SECOND CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Square D Co. v. Niagara Frontier, <a href="./us476-0409.xml#p409">476 U.S. 409</a> (1986)</h1>
+    <h2>Square D Co. v. Niagara Frontier Tariff Bureau, Inc.</h2>
+    <h2>No. 85-21</h2>
+    <h4>Argued March 3, 1986</h4>
+    <h4>Decided May 27, 1986</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE SECOND CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner shippers brought class actions in Federal District Court against respondent motor carriers and respondent ratemaking bureau, alleging that, during the years 1966 through 1981, respondents engaged in a conspiracy, in violation of the Sherman Act, to fix rates for transporting freight between the United States and Canada without complying with an agreement filed by the bureau with, and approved by, the Interstate Commerce Commission. Petitioners sought treble damages, measured by the difference between the allegedly higher rates they paid and the rates they would have paid in a freely competitive market, and also sought declaratory and injunctive relief. The District Court dismissed the complaints on the authority of Keogh v. Chicago &amp; Northwestern R. Co., <a href="../us260/us260-0156.xml#p156">260 U. S. 156</a>, wherein it was held that a private shipper could not recover treble damages under § 7 of the Sherman Act in connection with ICC-filed tariffs. The Court of Appeals affirmed the dismissal as to the treble damages claims.</p>
     <p>Held: Petitioners are not entitled to bring a treble damages antitrust action. Keogh, supra. Pp. <a href="./us476-0409.xml#p415">476 U. S. 415</a>-423.</p>
     <p>(a) Nothing in the Reed-Bulwinkle Act or in its legislative history indicates that Congress intended to change or supplant the Keogh rule. Similarly, there is no evidence that Congress, in enacting the Motor Carrier Act of 1980, intended to change the Keogh rule. And cases like Carnation Co. v. Pacific Westbound Conference, <a href="../us383/us383-0213.xml#p213">383 U. S. 213</a>, emphasizing the necessity to strictly construe immunity of collective ratemaking activities from antitrust laws, do not render Keogh invalid. Pp. <a href="./us476-0409.xml#p417">476 U. S. 417</a>-422.</p>
@@ -23,7 +23,7 @@
     <p>Petitioners have alleged that rates filed with the Interstate Commerce Commission by respondent motor carriers during the years 1966 through 1981 were fixed pursuant to an agreement forbidden by the Sherman Act, 26 Stat. 209, as amended, 15 U.S.C. § 1 et seq. The question presented is whether the carriers are subject to treble damages liability in a private antitrust action if the allegation is true.</p>
     <n id="p411">411</n>
     <p>The question requires us to give careful consideration to the way in which Congress has accommodated the sometimes conflicting policies of the antitrust laws and the Interstate Commerce Act, 49 U.S.C. § 10101 et seq. (1982 ed. and Supp. II). Our analysis of the question will include three components: (1) the sufficiency of the complaint allegations in light of the bare language of the relevant statutes; (2) the impact of the Court's decision of an analogous question in 1922 in Keogh v. Chicago &amp; Northwestern R. Co., <a href="../us260/us260-0156.xml#p156">260 U. S. 156</a>; and (3) the extent to which the rule of the Keogh case remains part of our law today.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Two class action complaints making parallel allegations against the same six defendants were filed in the United States District Court for the District of Columbia and then transferred to Buffalo, New York, where a similar action brought by the United States was pending. The Government case was ultimately settled by the entry of a consent decree; [<a id="nf1" href="#fn1">Footnote 1</a>] after the two private actions had been consolidated, the District Court granted a motion to dismiss the complaints. We therefore take the well-pleaded facts as true. [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
     <p>Five of the respondents are Canadian motor carriers engaged in the transportation of freight between the United States and Canada. They are subject to regulation by the Ontario Highway Transport Board, and by the Interstate</p>
     <n id="p412">412</n>
@@ -41,7 +41,7 @@
     <p>The District Court nevertheless dismissed the complaints on the authority of the Keogh case. <a href="https://law.justia.com/cases/federal/district-courts/FSupp/596/153/1676739/">596 F. Supp. 153</a> (WDNY 1984). The Court of Appeals for the Second Circuit affirmed insofar as the District Court's judgment dismissed the claims for treble damages based on respondents' filed rates, but remanded for a further hearing to determine whether petitioners are entitled to injunctive relief and to give them an opportunity to amend their complaints to state possible claims for damages not arising from the filed tariffs. 760 F.2d 1347 (1985). We granted certiorari to consider whether the rule of the Keogh case was correctly applied in barring a treble damages action based on the filed tariffs, and,</p>
     <n id="p415">415</n>
     <p>if so, whether that case should be overruled. 474 U.S. 815 (1985).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>In Keogh, as in this case, a shipper's complaint alleged that rates filed with the ICC by the defendants had been fixed pursuant to an agreement prohibited by the Sherman Act. The rates had been set by an agreement among executives of railroad companies "which would otherwise be competing carriers," 260 U.S. at <a href="../us260/us260-0156.xml#p160">260 U. S. 160</a>. They were "higher than the rates would have been if competition had not been thus eliminated." Ibid. The shipper claimed treble damages measured by the difference between the rates set pursuant to agreement and those that had previously been in effect.</p>
     <p>In their special plea, defendants averred that every rate complained of had been filed with the ICC and that, after hearings in which Keogh had participated, the rates had been approved by the Commission. That approval established that the fixed rates were "reasonable and nondiscriminatory," id. at <a href="../us260/us260-0156.xml#p161">260 U. S. 161</a>, but it did not foreclose the possibility that slightly lower rates would also have been within the zone of reasonableness that the Commission would also have found lawful under the Interstate Commerce Act. Nor did the ICC's approval require rejection of Keogh's contention that the combination among the railroads violated the Sherman Act. [<a id="nf17" href="#fn17">Footnote 17</a>] The Court nevertheless held that, Keogh, a private shipper, could not "recover damages under § 7 because he lost the benefit</p>
     <n id="p416">416</n>
@@ -52,7 +52,7 @@
     <p>rights as defined by the tariff cannot be varied or enlarged by either contract or tort of the carrier. Texas &amp; Pacific R. R. Co. v. Mugg, <a href="https://law.justia.com/us/202/242/">202 U. S. 242</a>; Louisville &amp; Nashville R. R. Co. v. Maxwell, <a href="https://law.justia.com/us/237/94/">237 U. S. 94</a>; Atchison, Topeka &amp; Santa Fe Ry. Co. v. Robinson, <a href="https://law.justia.com/us/233/173/">233 U. S. 173</a>; Dayton Iron Co. v. Cincinnati, New Orleans &amp; Texas Pacific Ry. Co., <a href="https://law.justia.com/us/239/446/">239 U. S. 446</a>; Erie R. R. Co. v. Stone, <a href="https://law.justia.com/us/244/332/">244 U. S. 332</a>. And they are not affected by the tort of a third party. Compare Pittsburgh, Cincinnati, Chicago &amp; St. Louis Ry. Co. v. Fink, <a href="https://law.justia.com/us/250/577/">250 U. S. 577</a>. This stringent rule prevails, because otherwise the paramount purpose of Congress -- prevention of unjust discrimination -- might be defeated."</p>
     <p>Id. at <a href="../us260/us260-0156.xml#p163">260 U. S. 163</a>.</p>
     <p>In this case, unlike Keogh, respondents' rates, established in the tariffs that had been filed with the ICC, were not challenged in a formal ICC hearing before they were allowed to go into effect. They were, however, duly submitted, lawful rates under the Interstate Commerce Act in the same sense that the rates filed in Keogh were lawful. Under the Court's holding in that case, it therefore follows that petitioners may not bring a treble damages antitrust action. [<a id="nf19" href="#fn19">Footnote 19</a>] The question, then, is whether we should continue to respect the rule of Keogh.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Petitioners, supported by the Solicitor General of the United States, ask us to overrule Keogh. They submit that</p>
     <n id="p418">418</n>
     <p>Keogh was implicitly rejected in the Reed-Bulwinkle Act and in the Motor Carrier Act of 1980, Pub.L. 96-296, 94 Stat. 793; that Keogh in effect created an implied immunity from the antitrust laws and that its reasoning is thus inconsistent with later cases, particularly Carnation Co. v. Pacific Westbound Conference, <a href="../us383/us383-0213.xml#p213">383 U. S. 213</a> (1966); and that the rationales of the Keogh decision are no longer valid.</p>
@@ -77,7 +77,7 @@
     <p>We disagree, however, with petitioners' view that the issue in Keogh and in this case is properly characterized as an "immunity" question. The alleged collective activities of the defendants in both cases were subject to scrutiny under the antitrust laws by the Government and to possible criminal sanctions or equitable relief. Keogh simply held that an award of treble damages is not an available remedy for a private shipper claiming that the rate submitted to, and approved by, the ICC was the product of an antitrust violation. Such a holding is far different from the creation of an antitrust immunity, [<a id="nf28" href="#fn28">Footnote 28</a>] and makes the challenge to Keogh's role in the settled law of this area still more doubtful. [<a id="nf29" href="#fn29">Footnote 29</a>]</p>
     <n id="p423">423</n>
     <p>Finally, petitioners point to various developments, discussed by the Court of Appeals, that seem to undermine some of the reasoning in Justice Brandeis' Keogh opinion -- the development of class actions, which might alleviate the expressed concern about unfair rebates; [<a id="nf30" href="#fn30">Footnote 30</a>] the emergence of precedents permitting treble damages remedies even when there is a regulatory remedy available; [<a id="nf31" href="#fn31">Footnote 31</a>] the greater sophistication in evaluating damages, which might mitigate the expressed fears about the speculative nature of such damages; [<a id="nf32" href="#fn32">Footnote 32</a>] and the development of procedures in which judicial proceedings can be stayed pending regulatory proceedings. [<a id="nf33" href="#fn33">Footnote 33</a>] Even if it is true that these developments cast Justice Brandeis' reasons in a different light, however, it is also true that the Keogh rule has been an established guidepost at the intersection of the antitrust and interstate commerce statutory regimes for some 6 1/2 decades. The emergence of subsequent procedural and judicial developments does not minimize Keogh's role as an essential element of the settled legal context in which Congress has repeatedly acted in this area.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>The Court of Appeals, in Judge Friendly's characteristically thoughtful and incisive opinion, suggested that, in view</p>
     <n id="p424">424</n>
     <p>of subsequent developments, this Court might be prepared to overrule Keogh. We conclude, however, that the developments in the six decades since Keogh was decided are insufficient to overcome the strong presumption of continued validity that adheres in the judicial interpretation of a statute. [<a id="nf34" href="#fn34">Footnote 34</a>] As Justice Brandeis himself observed, a decade after his Keogh decision, in commenting on the presumption of stability in statutory interpretation:</p>

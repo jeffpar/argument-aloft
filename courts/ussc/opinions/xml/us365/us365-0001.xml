@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us365-0001.html" citation="365 U.S. 1" title="FPC v. Transcontinental Gas Pipe Line Corp.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p1">1</n>
-    <h>U.S. Supreme Court</h>
-    <h>FPC v. Transcontinental Gas Pipe Line Corp., <a href="./us365-0001.xml#p1">365 U.S. 1</a> (1961)</h>
-    <h>Federal Power Commission v.</h>
-    <h>Transcontinental Gas Pipe Line Corp.</h>
-    <h>No. 45</h>
-    <h>Argued November 15, 1960</h>
-    <h>Decided January 23, 1961<a href="./us365-0001.xml#p1">365 U.S. 1</a>ast|&gt;*</h>
-    <h><a href="./us365-0001.xml#p1">365 U.S. 1</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE THIRD CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>FPC v. Transcontinental Gas Pipe Line Corp., <a href="./us365-0001.xml#p1">365 U.S. 1</a> (1961)</h1>
+    <h2>Federal Power Commission v.</h2>
+    <h2>Transcontinental Gas Pipe Line Corp.</h2>
+    <h2>No. 45</h2>
+    <h4>Argued November 15, 1960</h4>
+    <h4>Decided January 23, 1961<a href="./us365-0001.xml#p1">365 U.S. 1</a>ast|&gt;*</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE THIRD CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>A public utility company in New York City contracted for the direct purchase of natural gas from producers in Texas, not for resale but for consumption under its own boilers, and it arranged with a pipeline company for transportation of the gas to New York City. The pipeline company applied to the Federal Power Commission for a certificate of public convenience and necessity under § 7(e) of the Natural Gas Act, and offered proof, which was not challenged, that its application met all the conventional tests. The Commission denied the certificate after considering, inter alia, the desirability of the particular end use to which this gas would be put, the possibility of preemption of pipeline capacity and gas reserves by sales to industrial users, the price agreed upon, and the effect of this and similar future transactions on the price and availability of natural gas generally.</p>
     <p>Held: the Commission did not exceed its authority or abuse its discretion in denying the certificate on the basis of these considerations. Pp. <a href="./us365-0001.xml#p3">365 U. S. 3</a>-31.</p>
     <p>(a) The desirability of the use to which the gas would be put and the possibility of preemption of pipeline capacity and gas</p>
@@ -241,7 +241,7 @@
       <n id="p32">32</n>
       <p>the denial of a certificate in this case had to be premised on factors present in this particular transaction, I think the proper course is to remand the case to the Commission for further consideration on proper postulates.</p>
       <p>At the outset, it is important to note the procedural context of our review. In denying a petition for rehearing, the Commission made clear that the "end use" factor was neither of "decisive" nor of "determinative" importance; inferiority of end use was but one of several factors which together, and not individually, justified denial of this certificate in the Commission's view. These other factors failing, as they do in my opinion, the denial of the certificate cannot stand.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>PREMISES OF THE COMMISSION'S DENIAL</p>
       <p>I think it manifest that the Commission weighed against certification the fact that the sale to Consolidated Edison was direct to a consumer, and hence not subject to normal Commission regulation of sales to pipeline companies for resale. [Footnote 2/1] The Trial Examiner referred to "The Staff's opposition" as based, among other reasons, on the fact that:</p>
       <p>"The proposal is obviously an attempt to evade the jurisdiction of the Commission over the sale of natural</p>
@@ -269,7 +269,7 @@
       <p>Ibid.</p>
       <p>Thus, the Commission has quite evidently asserted a power to frown upon any transaction which does not take the form of a sale to a pipeline for resale. On that basis, it was in this case, and would hereafter be, unnecessary for the Commission to decide whether a particular sale to a consumer or distributing company results in a waste of jurisdictional resources or an unwarranted boosting of field prices. Since, in the Commission's view, sales not to pipelines, as a class, generally have these unfortunate characteristics, it is sufficient that the particular transaction is one of that class. The Commission has made clear that it was the harms inherent in the form this sale took that weighed against the issuance of a transportation certificate, not the unfortunate effects of the transaction itself. I cannot agree that the Commission had discretion to adopt this position when it had available to it far less drastic alternatives.</p>
       <n id="p36">36</n>
-      <h>II</h>
+      <h2>II</h2>
       <p>POSTULATES ON WHICH THE COMMISSION</p>
       <p>SHOULD HAVE PROCEEDED</p>
       <p>Without purporting to exhaust the full reach of its discretion, the premises on which the Commission, in my view, should have proceeded will be now indicated. Basically, I think it was open to the Commission to decide whether the particular transportation service before it would tend to waste gas, unduly preempt pipeline capacity, or raise field prices. I think the Commission can properly assert this more limited power as an incident of its transportation certificating powers. [Footnote 2/5] It is quite true, of course, that Consolidated Edison need not have resorted to the Federal Power Commission if the purchase transaction had been possible without the interstate transportation of the gas in jurisdictional pipelines, since this was not a purchase of natural gas for resale. <a href="./us365-0001.xml#p1">365 U.S. 1</a>fn2/1|&gt;Note 1, supra. However, it does not follow that the Commission had to blind itself to the effects of the purchase and use of the gas when its authority to certificate the transportation of the gas was invoked. To recognize that the transaction was, as a practical matter, impossible without the use of jurisdictional facilities for the interstate transportation</p>
@@ -278,7 +278,7 @@
       <p>Assuming that it is results only made possible by jurisdictional transportation that the Commission wishes to consider, an attempted distinction between transportation and sale certification proceedings simply obscures the important question: what undesirable results are envisioned by § 1(b) to be the concern of the States, and not the concern of the Federal Power Commission? We hold in this case that the economic waste of natural gas that might otherwise be available for jurisdictional transactions ending in superior uses is such a legitimate concern. Similar considerations pertain to the preemption of pipeline capacity. <a href="./us365-0001.xml#p1">365 U.S. 1</a>fn2/4|&gt;Note 4, supra. Finally, we have held in Atlantic Refining Co. v. Public Service Commission, <a href="../us360/us360-0378.xml#p378">360 U. S. 378</a>, <a href="../us360/us360-0378.xml#p379">360 U. S. 379</a>, that the Commission must consider the effect on field prices for future jurisdictional sales of an excessive purchase price. Asserting power to consider these effects does not involve assuming jurisdiction over matters that Congress has reserved to the States in § 1(b), for it does not involve protecting citizens of either the producing or consuming State against harms that local regulatory bodies have the power to prevent. These effects being the legitimate concern of the Federal Power Commission, they are no less so in a certification proceeding for transportation</p>
       <n id="p38">38</n>
       <p>than in such a proceeding for the sale of natural gas. Each of these effects, if materially furthered by the transportation being considered, can properly be relied upon, on a case-by-case basis, in the denial of a transportation certificate.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>DEFICIENCIES OF THE COMMISSION'S REPORT</p>
       <p>If, as I have argued, the Commission has power to decide on an adequate record to deny a transportation certificate in part because the gas to be transported is to be used for inferior purposes or because that gas was purchased at a price adversely affecting the prices of later jurisdictional sales, I do not think there is any basis for the Commission's further claim of authority to consider as an adverse factor the mere fact that the sale was direct to a consumer or distributor. As to inferior end use or preemption of pipeline capacity, the latter being another aspect of the former, the invalidity of the Commission's claim is easily established. Once the Commission has weighed against the grant of the certificate the fact that it results in economic waste, there is nothing added by the circumstance that it is also a direct sale to a consumer and the Commission's belief that most of such sales result in economic waste.</p>
       <p>The Commission's consideration of the impact on field prices is more refined, although no more solidly grounded. The Commission did not merely consider that the price of these sales would be unregulatable and argue that, therefore, all sales to consumers or distributors must be forbidden. So it is not a complete answer to repeat what has just been said about the Commission's consideration of inferior "end use" and pipeline preemption -- that those factors can be fully considered on a case-by-case basis. The Commission passed beyond the possible problem of</p>

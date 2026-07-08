@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us070-0304.html" citation="70 U.S. 304" title="Mining Company v. Boggs">
   <opinion type="Opinions &amp; Dissents">
     <n id="p304">304</n>
-    <h>U.S. Supreme Court</h>
-    <h>Mining Company v. Boggs, 70 U.S. 304 (1865)</h>
-    <h>Mining Company v. Boggs</h>
-    <h>70 U.S. (3 Wall.) 304</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Mining Company v. Boggs, 70 U.S. 304 (1865)</h1>
+    <h2>Mining Company v. Boggs</h2>
+    <h2>70 U.S. (3 Wall.) 304</h2>
+    <h2>Syllabus</h2>
     <p>1. In a suit to recover mineral lands on the Pacific coast, with the mines therein, an allegation of record of prior possession of the land for the purpose of taking out the minerals, without an allegation that such possession is had under authority, or by some treaty or statute of the United States, does not give this Court jurisdiction to reexamine the case under the 25th section of the Judiciary Act of 1789.</p>
     <p>2. Nor has the Court jurisdiction where the decision below is that, as a matter of fact, no such license exists, the courts of the state,</p>
     <p>"to whose highest court of law and equity the writ of error is sent, having the power, under the Constitution of its state to decide both law and fact upon submission of the case by the parties."</p>

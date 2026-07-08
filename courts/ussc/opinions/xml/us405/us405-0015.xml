@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us405-0015.html" citation="405 U.S. 15" title="Roudebush v. Hartke">
   <opinion type="Opinions &amp; Dissents">
     <n id="p15">15</n>
-    <h>U.S. Supreme Court</h>
-    <h>Roudebush v. Hartke, <a href="./us405-0015.xml#p15">405 U.S. 15</a> (1972)</h>
-    <h>Roudebush v. Hartke</h>
-    <h>No. 70-66</h>
-    <h>Argued December 13, 1971</h>
-    <h>Decided February 23, 1972<a href="./us405-0015.xml#p15">405 U.S. 15</a>ast|&gt;*</h>
-    <h><a href="./us405-0015.xml#p15">405 U.S. 15</a></h>
-    <h>APPEAL FROM THE UNITED STATES DISTRICT COURT</h>
-    <h>FOR THE SOUTHERN DISTRICT OF INDIANA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Roudebush v. Hartke, <a href="./us405-0015.xml#p15">405 U.S. 15</a> (1972)</h1>
+    <h2>Roudebush v. Hartke</h2>
+    <h2>No. 70-66</h2>
+    <h4>Argued December 13, 1971</h4>
+    <h4>Decided February 23, 1972<a href="./us405-0015.xml#p15">405 U.S. 15</a>ast|&gt;*</h4>
+    <h2>APPEAL FROM THE UNITED STATES DISTRICT COURT</h2>
+    <h2>FOR THE SOUTHERN DISTRICT OF INDIANA</h2>
+    <h2>Syllabus</h2>
     <p>Incumbent Senator Hartke was certified by the Indiana Secretary of State to the Governor as the winner of the close 1970 Indiana senatorial election. Candidate Roudebush filed a timely recount petition in state court. The state court denied Hartke's motion to dismiss on the grounds of conflict with the Indiana and Federal Constitutions, and granted the petition for a recount. Hartke sought an injunction against the recount in United States District Court, invoking jurisdiction under 28 U.S.C. § 1343(3) and claiming that the recount was barred by Art. I, § 5, of the Federal Constitution, delegating to the Senate the power to judge the elections, returns, and qualifications of its members. The three-judge District Court issued the requested injunction. After appeals were filed here, the Senate seated Hartke</p>
     <p>"without prejudice to the outcome of an appeal pending in the Supreme Court . . . and without prejudice to the outcome of any recount that the Supreme Court might order."</p>
     <p>Hartke then moved to dismiss the appeals as moot.</p>
@@ -35,14 +35,14 @@
     <p>On January 21, 1971, shortly after the jurisdictional statements were filed, the Senate administered the oath of office to Hartke, who had been issued a certificate of election by the Governor. Hartke was seated, however,</p>
     <p>"without prejudice to the outcome of an appeal pending in the Supreme Court of the United States, and without prejudice to the outcome of any recount that the Supreme Court might order. . . . [<a id="nf5" href="#fn5">Footnote 5</a>]"</p>
     <p>Following the Senate's decision to seat him, Hartke moved to dismiss the appeals as moot. We consolidated both appeals and postponed further consideration of questions of jurisdiction to the hearing of the cause on the merits. 401 U.S. 972.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>We consider first the claim that these appeals are moot. This claim is based upon the proposition, as stated in appellee Hartke's brief, that the "basic issue" before the Court is "whether appellee Hartke or appellant Roudebush is entitled to the office of United States Senator from Indiana." Since the Senate has now seated Hartke, and since this Court is without power to alter the Senate's</p>
     <n id="p19">19</n>
     <p>judgment, [<a id="nf6" href="#fn6">Footnote 6</a>] it follows, the argument goes, that the cause is moot.</p>
     <p>The difficulty with this argument is that it is based on an erroneous statement of the "basic issue." Which candidate is entitled to be seated in the Senate is, to be sure, a nonjusticiable political question -- a question that would not have been the business of this Court even before the Senate acted. [<a id="nf7" href="#fn7">Footnote 7</a>] The actual question before us, however, is a different one. It is whether an Indiana recount of the votes in the 1970 election is a valid exercise of the State's power, under Art. I, § 4, to prescribe the times, places, and manner of holding elections, [<a id="nf8" href="#fn8">Footnote 8</a>] or is a forbidden infringement upon the Senate's power under Art. I, § 5.</p>
     <p>That question is not moot, because the Senate has postponed making a final determination of who is entitled to the office of Senator pending the outcome of this lawsuit. Once this case is resolved and the Senate is assured that it has received the final Indiana tally, the Senate will be free to make an unconditional and final judgment under Art. I, § 5. Until that judgment is made, this controversy remains alive, and we are obliged to consider it. [<a id="nf9" href="#fn9">Footnote 9</a>]</p>
     <n id="p20">20</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>It is the position of the appellants that, quite apart from the merits of the controversy, the three-judge District Court was barred from issuing an injunction by reason of 28 U.S.C. § 2283, which prohibits a federal court from enjoining state court proceedings except in a few specific instances. [<a id="nf10" href="#fn10">Footnote 10</a>] This argument has weight, of course, only if the Indiana statutory recount procedure is a "proceeding in a State court" within the meaning of § 2283. This Court has said of a predecessor to § 2283, [<a id="nf11" href="#fn11">Footnote 11</a>]</p>
     <p>"The provision expresses on its face the duty of 'hands off' by the federal courts in the use of the injunction to stay litigation in a state court. [<a id="nf12" href="#fn12">Footnote 12</a>]"</p>
     <p>More recently, we characterized the statute as designed to assure "the maintenance of state judicial systems for the decision of legal controversies." [<a id="nf13" href="#fn13">Footnote 13</a>]</p>
@@ -58,7 +58,7 @@
     <p>And finally, Hartke's complaint in this cause did not ask the three-judge federal court to restrain the action of the Indiana court as such. It did not seek to enjoin the state court from ruling on the formal correctness of the petition; it did not even seek to enjoin the state court's appointive function. It sought, rather, to enjoin the recount commission from proceeding after the court had appointed the members of the commission. [<a id="nf17" href="#fn17">Footnote 17</a>]</p>
     <n id="p23">23</n>
     <p>We conclude that the three-judge District Court was not prohibited by § 2283 from issuing, and had power under 28 U.S.C. § 2281 to issue, an injunction in this cause.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>We turn, therefore, to the merits of the District Court's decision. The Indiana Election Code calls for the vote to be initially counted, in each precinct, by an election board. After recording the voting machine totals, the board seals the machines. Paper ballots, including absentee ballots, are then counted and tallied. Counted ballots are placed in a bag and sealed. Ballots that bear distinguishing marks or are mutilated or do not clearly reveal the voter's choice are not counted. These rejected ballots are sealed in a separate bag. Both bags are preserved for six months, and may not be opened except in the case of a recount. [<a id="nf18" href="#fn18">Footnote 18</a>]</p>
     <p>If a recount is conducted in any county, the voting machine tallies are checked and the sealed bags containing the paper ballots are opened. The recount commission may make new and independent determinations as to which ballots shall be counted. In other words, it may reject ballots initially counted and count ballots initially rejected. Disputes within the commission are settled by a majority vote. When the commission finishes its task, it seals the ballots it counted in one bag, and the ballots it rejected in another. Once the recount is completed, all previous returns are superseded. [<a id="nf19" href="#fn19">Footnote 19</a>]</p>
     <p>The District Court held these procedures to be contrary to the Constitution in two ways. First, the court found that, in making judgments as to which ballots to</p>

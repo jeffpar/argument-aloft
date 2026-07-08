@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us434-0497.html" citation="434 U.S. 497" title="Arizona v. Washington">
   <opinion type="Opinions &amp; Dissents">
     <n id="p497">497</n>
-    <h>U.S. Supreme Court</h>
-    <h>Arizona v. Washington, <a href="./us434-0497.xml#p497">434 U.S. 497</a> (1978)</h>
-    <h>Arizona v. Washington</h>
-    <h>No. 76-1168</h>
-    <h>Argued October 31, 1977</h>
-    <h>Decided February 21, 1978</h>
-    <h><a href="./us434-0497.xml#p497">434 U.S. 497</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Arizona v. Washington, <a href="./us434-0497.xml#p497">434 U.S. 497</a> (1978)</h1>
+    <h2>Arizona v. Washington</h2>
+    <h2>No. 76-1168</h2>
+    <h4>Argued October 31, 1977</h4>
+    <h4>Decided February 21, 1978</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>After respondent was found guilty of murder, the Arizona trial court granted a new trial because the prosecution had withheld exculpatory evidence from the defense. At the beginning of the new trial, the trial judge, after extended argument, granted the prosecutor's motion for a mistrial predicated on improper and prejudicial comment during defense counsel's opening statement that evidence had been hidden from respondent at the first trial, but the judge did not expressly find that there was "manifest necessity" for a mistrial or expressly state that he had considered alternative solutions. The Arizona Supreme Court refused to review the mistrial ruling, and respondent sought a writ of habeas corpus in Federal District Court. While agreeing that defense counsel's opening statement was improper, that court held that respondent could not be placed in further jeopardy and granted the writ because the state trial judge had failed to find "manifest necessity" for a mistrial. The Court of Appeals affirmed.</p>
     <p>Held:</p>
     <p>1. Although the extent of the possible juror bias cannot be measured and some trial judges might have proceeded with the trial after giving the jury appropriate cautionary instructions, nevertheless the overriding interest in the evenhanded administration of justice requires that the highest degree of respect be accorded to the trial judge's decision to declare a mistrial based on his assessment of the prejudicial impact of defense counsel's opening statement. Pp. <a href="./us434-0497.xml#p503">434 U. S. 503</a>-514.</p>
@@ -22,7 +22,7 @@
     <p>STEVENS, J., delivered the opinion of the Court, in which BURGER, C.J., and STEWART, POWELL, and REHNQUIST, JJ., joined. BLACKMUN, J., concurred in the result. WHITE, J., filed a dissenting opinion, post, p. <a href="./us434-0497.xml#p517">434 U. S. 517</a>. MARSHALL, J., filed a dissenting opinion, in which BRENNAN, J., joined, post, p. <a href="./us434-0497.xml#p519">434 U. S. 519</a>.</p>
     <p>MR. JUSTICE STEVENS delivered the opinion of the Court.</p>
     <p>An Arizona trial judge granted the prosecutor's motion for a mistrial predicated on improper and prejudicial comment during defense counsel's opening statement. In a subsequent habeas corpus proceeding, a Federal District Court held that the Double Jeopardy Clause protected the defendant from another trial. The Court of Appeals for the Ninth Circuit affirmed. [<a id="nf1" href="#fn1">Footnote 1</a>] The questions presented are whether the record reflects the kind of "necessity" for the mistrial ruling that will avoid a valid plea of double jeopardy, and if so, whether the plea must nevertheless be allowed because the Arizona trial judge did not fully explain the reasons for his mistrial ruling.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In 1971, respondent was found guilty of murdering a hotel night clerk. In 1973, the Superior Court of Pima County, Ariz., ordered a new trial because the prosecutor had withheld exculpatory evidence from the defense. The Arizona Supreme Court affirmed the new trial order in an unpublished opinion.</p>
     <p>Respondent's second trial began in January, 1975. During the voir dire examination of prospective jurors, the prosecutor made reference to the fact that some of the witnesses whose testimony the jurors would hear had testified in proceedings</p>
     <n id="p499">499</n>
@@ -46,7 +46,7 @@
     <p>without reaching the question whether there could, nevertheless, be a fair trial."</p>
     <p>546 F.2d at 833.</p>
     <p>We are persuaded that the Court of Appeals applied an inappropriate standard of review to mistrial rulings of this kind, and attached undue significance to the form of the ruling. We therefore reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>A State may not put a defendant in jeopardy twice for the same offense. Benton v. Maryland, <a href="../us395/us395-0784.xml#p784">395 U. S. 784</a>. The constitutional protection against double jeopardy unequivocally prohibits a second trial following an acquittal. The public interest in the finality of criminal judgments is so strong that an acquitted defendant may not be retried even though "the acquittal was based upon an egregiously erroneous foundation." See Fong Foo v. United States, <a href="../us369/us369-0141.xml#p141">369 U. S. 141</a>, <a href="../us369/us369-0141.xml#p143">369 U. S. 143</a>. If the innocence of the accused has been confirmed by a final judgment, the Constitution conclusively presumes that a second trial would be unfair.</p>
     <p>Because jeopardy attaches before the judgment becomes final, the constitutional protection also embraces the defendant's "valued right to have his trial completed by a particular tribunal." [<a id="nf11" href="#fn11">Footnote 11</a>] The reasons why this "valued right" merits constitutional protection are worthy of repetition. Even if the first trial is not completed, a second prosecution may be grossly unfair. It increases the financial and emotional burden</p>
     <n id="p504">504</n>
@@ -84,7 +84,7 @@
     <p>There are compelling institutional considerations militating in favor of appellate deference to the trial judge's evaluation of the significance of possible juror bias. [<a id="nf33" href="#fn33">Footnote 33</a>] He has seen and</p>
     <n id="p514">514</n>
     <p>heard the jurors during their voir dire examination. He is the judge most familiar with the evidence and the background of the case on trial. He has listened to the tone of the argument as it was delivered, and has observed the apparent reaction of the jurors. In short, he is far more "conversant with the factors relevant to the determination" than any reviewing court can possibly be. See Wade v. Hunter, <a href="../us336/us336-0684.xml#p684">336 U. S. 684</a>, <a href="../us336/us336-0684.xml#p687">336 U. S. 687</a>.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Our conclusion that a trial judge's decision to declare a mistrial based on his assessment of the prejudicial impact of improper argument is entitled to great deference does not, of course, end the inquiry. As noted earlier, a constitutionally protected interest is inevitably affected by any mistrial decision. The trial judge, therefore,</p>
     <p>"must always temper the decision whether or not to abort the trial by considering the importance to the defendant of being able, once and for all, to conclude his confrontation with society through the verdict of a tribunal he might believe to be favorably disposed to his fate."</p>
     <p>United States v. Jorn, 400 U.S. at <a href="../us400/us400-0470.xml#p486">400 U. S. 486</a> (Harlan, J.). In order to ensure that this interest is adequately protected, reviewing courts have an obligation to satisfy themselves that, in the words of Mr. Justice Story, the trial judge exercised "sound discretion" in declaring a mistrial.</p>
@@ -93,7 +93,7 @@
     <p>counsel aired improper and highly prejudicial evidence before the jury, the possible impact of which the trial judge was in the best position to assess. The trial judge did not act precipitately in response to the prosecutor's request for a mistrial. On the contrary, evincing a concern for the possible double jeopardy consequences of an erroneous ruling, he gave both defense counsel and the prosecutor full opportunity to explain</p>
     <n id="p516">516</n>
     <p>their positions on the propriety of a mistrial. We are therefore persuaded by the record that the trial judge acted responsibly and deliberately, and accorded careful consideration to respondent's interest in having the trial concluded in a single proceeding. Since he exercised "sound discretion" in handling the sensitive problem of possible juror bias created by the improper comment of defense counsel, the mistrial order is supported by the "high degree" of necessity which is required in a case of this kind. [<a id="nf35" href="#fn35">Footnote 35</a>] Neither party has a right to have his case decided by a jury which may be tainted by bias; [<a id="nf36" href="#fn36">Footnote 36</a>] in these circumstances, "the public's interest in fair trials designed to end in just judgements" [<a id="nf37" href="#fn37">Footnote 37</a>] must prevail over the defendant's "valued right" to have his trial concluded before the first jury impaneled.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>One final matter requires consideration. The absence of an explicit finding of "manifest necessity" appears to have been determinative for the District Court, and may have been so for the Court of Appeals. If those courts regarded that omission as critical, [<a id="nf38" href="#fn38">Footnote 38</a>] they required too much. Since the record provides</p>
     <n id="p517">517</n>
     <p>sufficient justification for the state court ruling, the failure to explain that ruling more completely does not render it constitutionally defective.</p>

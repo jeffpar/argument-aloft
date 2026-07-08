@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us471-0681.html" citation="471 U.S. 681" title="Landreth Timber Co. v. Landreth">
   <opinion type="Opinions &amp; Dissents">
     <n id="p681">681</n>
-    <h>U.S. Supreme Court</h>
-    <h>Landreth Timber Co. v. Landreth, <a href="./us471-0681.xml#p681">471 U.S. 681</a> (1985)</h>
-    <h>Landreth Timber Co. v. Landreth</h>
-    <h>No. 83-1961.</h>
-    <h>Argued March 26, 1985</h>
-    <h>Decided May 28, 1985</h>
-    <h><a href="./us471-0681.xml#p681">471 U.S. 681</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE</h>
-    <h>NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Landreth Timber Co. v. Landreth, <a href="./us471-0681.xml#p681">471 U.S. 681</a> (1985)</h1>
+    <h2>Landreth Timber Co. v. Landreth</h2>
+    <h4>No. 83-1961.</h4>
+    <h4>Argued March 26, 1985</h4>
+    <h4>Decided May 28, 1985</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE</h2>
+    <h2>NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondents father and sons, who owned all of the common stock of a lumber business that they operated, offered their stock for sale through brokers. The company's sawmill was subsequently damaged by fire, but potential purchasers were told that the mill would be rebuilt and modernized. Thereafter, a stock purchase agreement for all of the stock was executed, and ultimately petitioner company was formed by the purchasers. Respondent father agreed to stay on as a consultant for some time to help with the daily operations of the mill. After the acquisition was completed, the mill did not live up to the purchasers' expectations. Eventually, petitioner sold the mill at a loss and went into receivership. Petitioner then filed suit in Federal District Court for rescission of the sale of stock and damages, alleging that respondents had violated the registration provisions of the Securities Act of 1933 (1933 Act) and the antifraud provisions of the Securities Exchange Act of 1934 (1934 Act). The court granted summary judgment for respondents, holding that, under the "sale of business" doctrine, the stock could not be considered a "security" for purposes of the Acts because managerial control of the business had passed into the hands of the purchasers, who bought 100% of the stock. The court concluded that the transaction thus was a commercial venture, rather than a typical investment. The Court of Appeals affirmed.</p>
     <p>Held: The stock at issue here is a "security" within the definition of the Acts, United Housing Foundation, Inc. v. Forman, <a href="../us421/us421-0837.xml#p837">421 U. S. 837</a>, distinguished, and the "sale of business" doctrine does not apply. Pp. <a href="./us471-0681.xml#p685">471 U. S. 685</a>-697.</p>
     <p>(a) Section 2(1) of the 1933 Act and § 3(a)(10) of the 1934 Act define a "security" as including "stock" and other listed types of instruments. Although the fact that instruments bear the label "stock" is not of itself sufficient to invoke the Acts' coverage, when an instrument is both called "stock" and bears stock's usual characteristics as identified in Forman, supra, a purchaser justifiably may assume that the federal securities laws apply. The stock involved here possesses all of the characteristics traditionally associated with common stock. Moreover, reading the securities laws to apply to the sale of stock at issue here comports with Congress' remedial purpose in enacting the legislation to protect investors. Pp. <a href="./us471-0681.xml#p685">471 U. S. 685</a>-688.</p>
@@ -24,7 +24,7 @@
     <n id="p683">683</n>
     <p>JUSTICE POWELL delivered the opinion of the Court.</p>
     <p>This case presents the question whether the sale of all of the stock of a company is a securities transaction subject to the antifraud provisions of the federal securities laws (the Acts).</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Respondents Ivan K. Landreth and his sons owned all of the outstanding stock of a lumber business they operated in Tonasket, Washington. The Landreth family offered their stock for sale through both Washington and out-of-state brokers. Before a purchaser was found, the company's sawmill was heavily damaged by fire. Despite the fire, the brokers continued to offer the stock for sale. Potential purchasers were advised of the damage, but were told that the mill would be completely rebuilt and modernized.</p>
     <p>Samuel Dennis, a Massachusetts tax attorney, received a letter offering the stock for sale. On the basis of the letter's representations concerning the rebuilding plans, the predicted productivity of the mill, existing contracts, and expected profits, Dennis became interested in acquiring the stock. He talked to John Bolten, a former client who had retired to Florida, about joining him in investigating the offer. After having an audit and an inspection of the mill conducted, a stock purchase agreement was negotiated, with Dennis the purchaser of all of the common stock in the lumber company. Ivan Landreth agreed to stay on as a consultant for some time to help with the daily operations of the mill. Pursuant to the terms of the stock purchase agreement, Dennis assigned the stock he purchased to B &amp; D Co., a corporation formed for the sole purpose of acquiring the lumber company stock. B &amp; D then merged with the lumber company, forming</p>
     <n id="p684">684</n>
@@ -34,7 +34,7 @@
     <n id="p685">685</n>
     <p>transaction with the anticipation of earning profits derived from the efforts of others. Finding that managerial control of the business had passed into the hands of the purchasers, and thus that the transaction was a commercial venture, rather than a typical investment, the District Court dismissed the complaint.</p>
     <p>The United States Court of Appeals for the Ninth Circuit affirmed the District Court's application of the sale of business doctrine. 731 F.2d 1348 (1984). It agreed that it was bound by United Housing Foundation, Inc. v. Forman, supra, and SEC v. W. J. Howey Co., supra, to determine in every case whether the economic realities of the transaction indicated that the Acts applied. Because the Courts of Appeals are divided over the applicability of the federal securities laws when a business is sold by the transfer of 100% of its stock, we granted certiorari. 469 U.S. 1016 (1984). We now reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>It is axiomatic that "[t]he starting point in every case involving construction of a statute is the language itself." Blue Chip Stamps v. Manor Drug Stores, <a href="../us421/us421-0723.xml#p723">421 U. S. 723</a>, <a href="../us421/us421-0723.xml#p756">421 U. S. 756</a> (1975) (POWELL, J., concurring); accord, Teamsters v. Daniel, <a href="../us439/us439-0551.xml#p551">439 U. S. 551</a>, <a href="../us439/us439-0551.xml#p558">439 U. S. 558</a> (1979). Section 2(1) of the 1933 Act, 48 Stat. 74, as amended and as set forth in 15 U.S.C. § 77b(1), defines a "security" as including</p>
     <p>"any note, stock, treasury stock, bond, debenture, evidence of indebtedness, certificate of interest or participation in any profit-sharing agreement, collateral-trust certificate, preorganization certificate or subscription, transferable share, investment contract, voting-trust certificate, certificate of deposit for a security, fractional undivided interest in oil, gas, or other mineral rights, . . . or, in general, any interest or instrument commonly known as a 'security,' or any certificate of interest or participation in, temporary or interim certificate for, receipt</p>
     <n id="p686">686</n>
@@ -49,7 +49,7 @@
     <p>SEC v. W. J. Howey Co., 328 U.S. at <a href="../us328/us328-0293.xml#p299">328 U. S. 299</a> (quoting H.R.Rep. No. 85, 73d Cong., 1st Sess., 11 (1933)). Although we recognize that Congress did not intend to provide a comprehensive federal remedy for</p>
     <n id="p688">688</n>
     <p>all fraud, Marine Bank v. Weaver, supra, at <a href="../us455/us455-0551.xml#p556">455 U. S. 556</a>, we think it would improperly narrow Congress' broad definition of "security" to hold that the traditional stock at issue here falls outside the Acts' coverage.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Under other circumstances, we might consider the statutory analysis outlined above to be a sufficient answer compelling judgment for petitioner. [<a id="nf3" href="#fn3">Footnote 3</a>] Respondents urge, however, that language in our previous opinions, including Forman, requires that we look beyond the label "stock" and the characteristics of the instruments involved to determine whether application of the Acts is mandated by the economic substance of the transaction. Moreover, the Court of Appeals rejected the view that the plain meaning of the definition would be sufficient to hold this stock covered, because it saw "no principled way," 731 F.2d at 1353, to justify treating notes, bonds, and other of the definitional categories differently. We address these concerns in turn.</p>
     <p>A</p>
     <p>It is fair to say that our cases have not been entirely clear on the proper method of analysis for determining when an instrument is a "security." This Court has decided a number of cases in which it looked to the economic substance of the transaction, rather than just to its form, to determine whether the Acts applied. In SEC v. C. M. Joiner Leasing Corp., for example, the Court considered whether the 1933 Act applied to the sale of leasehold interests in land near a proposed oil well drilling. In holding that the leasehold interests were "securities," the Court noted that "the reach of the Act does not stop with the obvious and commonplace." 320 U.S. at <a href="../us320/us320-0344.xml#p351">320 U. S. 351</a>. Rather, it ruled that unusual devices such</p>
@@ -81,7 +81,7 @@
     <p>his credit card slip is not selling a security, even though his signature is an 'evidence of indebtedness.' But stock (except for the residential wrinkle) is so quintessentially a security as to foreclose further analysis."</p>
     <p>Id. at 212 (emphasis in original).</p>
     <p>We recognize that in SEC v. C. M. Joiner Leasing Corp., <a href="../us320/us320-0344.xml#p344">320 U. S. 344</a> (1943), the Court equated "notes" and "bonds" with "stock" as categories listed in the statutory definition that were standardized enough to rest on their names. Id. at <a href="../us320/us320-0344.xml#p355">320 U. S. 355</a>. Nonetheless, in Forman, we characterized Joiner's language as dictum. 421 U.S. at <a href="../us421/us421-0837.xml#p850">421 U. S. 850</a>. As we recently suggested in a different context in Securities Industry Assn. v. Board of Governors, FRS, <a href="../us468/us468-0137.xml#p137">468 U. S. 137</a> (1984), "note" may now be viewed as a relatively broad term that encompasses instruments with widely varying characteristics, depending on whether issued in a consumer context, as commercial paper, or in some other investment context. See id. at <a href="../us468/us468-0137.xml#p149">468 U. S. 149</a>-153. We here expressly leave until another day the question whether "notes" or "bonds" or some other category of instrument listed in the definition might be shown "by proving [only] the document itself." SEC v. C. M. Joiner Leasing Corp., supra, at <a href="../us320/us320-0344.xml#p355">320 U. S. 355</a>. We hold only that "stock" may be viewed as being in a category by itself for purposes of interpreting the scope of the Acts' definition of "security."</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>We also perceive strong policy reasons for not employing the sale of business doctrine under the circumstances of this case. [<a id="nf7" href="#fn7">Footnote 7</a>] By respondents' own admission, application of the</p>
     <n id="p695">695</n>
     <p>doctrine depends in each case on whether control has passed to the purchaser. It may be argued that, on the facts of this case, the doctrine is easily applied, since the transfer of 100% of a corporation's stock normally transfers control. We think even that assertion is open to some question, however, as Dennis and Bolten had no intention of running the sawmill themselves. Ivan Landreth apparently stayed on to manage the daily affairs of the business. Some commentators</p>
@@ -90,7 +90,7 @@
     <p>More importantly, however, if applied to this case, the sale of business doctrine would also have to be applied to cases in which less than 100% of a company's stock was sold. This inevitably would lead to difficult questions of line-drawing. The Acts' coverage would in every case depend not only on the percentage of stock transferred, but also on such factors as the number of purchasers and what provisions for voting and veto rights were agreed upon by the parties. As we explain more fully in Gould v. Refenacht, post at <a href="./us471-0701.xml#p704">471 U. S. 704</a>-706, decided today as a companion to this case, coverage by the Acts would in most cases be unknown and unknowable to the parties at the time the stock was sold. These uncertainties attending the applicability of the Acts would hardly be in the best interests of either party to a transaction. Cf. Marine Bank v. Weaver, 455 U.S. at <a href="../us455/us455-0551.xml#p559">455 U. S. 559</a>, n. 9 (rejecting the argument that the certificate of deposit at issue there was transformed, chameleon-like, into a "security" once it was pledged). Respondents argue that adopting petitioner's approach will increase the workload of the federal courts by converting state and common law fraud claims into federal claims. We find more daunting, however, the prospect that parties to a transaction may never know whether they are</p>
     <n id="p697">697</n>
     <p>covered by the Acts until they engage in extended discovery and litigation over a concept as often elusive as the passage of control. Accord, Golden v. Garafalo, 678 F.2d at 1145-1146.</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>In sum, we conclude that the stock at issue here is a "security" within the definition of the Acts, and that the sale of business doctrine does not apply. The judgment of the United States Court of Appeals for the Ninth Circuit is therefore</p>
     <p>Reversed.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>

@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us046-0295.html" citation="46 U.S. 295" title="Cook v. Moffat">
   <opinion type="Opinions &amp; Dissents">
     <n id="p295">295</n>
-    <h>U.S. Supreme Court</h>
-    <h>Cook v. Moffat, 46 U.S. 295 (1847)</h>
-    <h>Cook v. Moffat</h>
-    <h>46 U.S. (5 How.) 295</h>
-    <h>ERROR TO THE CIRCUIT COURT OF THE</h>
-    <h>UNITED STATES FOR THE DISTRICT OF MARYLAND</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Cook v. Moffat, 46 U.S. 295 (1847)</h1>
+    <h2>Cook v. Moffat</h2>
+    <h2>46 U.S. (5 How.) 295</h2>
+    <h2>ERROR TO THE CIRCUIT COURT OF THE</h2>
+    <h2>UNITED STATES FOR THE DISTRICT OF MARYLAND</h2>
+    <h2>Syllabus</h2>
     <p>A contract made in New York is not affected by a discharge of the debtor under the insolvent laws of Maryland, where the debtor resided, although the insolvent law was passed antecedently to the contract.</p>
     <p>The prior decisions of this Court upon this subject reviewed and examined.</p>
     <p>Cook was a citizen of Maryland, and Moffat and Curtis were citizens of New York.</p>

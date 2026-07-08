@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us461-0001.html" citation="461 U.S. 1" title="Morris v. Slappy">
   <opinion type="Opinions &amp; Dissents">
     <n id="p1">1</n>
-    <h>U.S. Supreme Court</h>
-    <h>Morris v. Slappy, <a href="./us461-0001.xml#p1">461 U.S. 1</a> (1983)</h>
-    <h>Morris v. Slappy</h>
-    <h>No. 81-1095</h>
-    <h>Argued December 1, 1982</h>
-    <h>Decided April 20, 1983</h>
-    <h><a href="./us461-0001.xml#p1">461 U.S. 1</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Morris v. Slappy, <a href="./us461-0001.xml#p1">461 U.S. 1</a> (1983)</h1>
+    <h2>Morris v. Slappy</h2>
+    <h2>No. 81-1095</h2>
+    <h4>Argued December 1, 1982</h4>
+    <h4>Decided April 20, 1983</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>When respondent was charged in California Superior Court with various crimes, including rape, robbery, and burglary, all concerning the same female victim, the court assigned the Deputy Public Defender to defend respondent. The Deputy Public Defender represented respondent at the preliminary hearing and supervised an extensive investigation. Shortly before the trial, the Deputy Public Defender was hospitalized for surgery, and six days before the scheduled trial date, a senior trial attorney in the Public Defender's Office was assigned to represent respondent. After the trial was under way, respondent moved for a continuance, claiming that his newly assigned attorney did not have time to prepare the case. The attorney, however, told the court that he was fully prepared and "ready" for trial, and the court denied a continuance. Respondent was convicted on some counts, but there was a mistrial on other counts on which the jury could not agree. A second trial, during which respondent refused to cooperate with his lawyer, also resulted in convictions. The California Court of Appeal affirmed the convictions on all counts, and the California Supreme Court denied review. Thereafter, respondent filed a habeas corpus petition in Federal District Court, alleging that the California Superior Court abused its discretion in denying a continuance. The District Court denied the writ. The Court of Appeals reversed, holding that the Sixth Amendment guarantees a right to counsel with whom the accused has a "meaningful attorney-client relationship," and that the state trial judge abused his discretion</p>
     <n id="p2">2</n>
     <p>and violated this right by arbitrarily denying a continuance that would have permitted the Deputy Public Defender to try the case.</p>
@@ -90,13 +90,13 @@
     <p>Ibid. (emphasis added). The court seems to have determined, solely on the basis of respondent's confusing and contradictory remarks on the subject, that respondent had developed such a "meaningful attorney-client relationship" with Goldfine but not with Hotchkiss.</p>
     <n id="p11">11</n>
     <p>The Court of Appeals next stated that the trial court, having failed to inquire about the probable length of Goldfine's absence, could not have weighed respondent's interest in continued representation by Goldfine against the State's interest in proceeding with the scheduled trial. The Court of Appeals concluded that the trial court's failure to conduct this balancing test ignored respondent's Sixth Amendment right to a "meaningful attorney-client relationship," and hence violated respondent's right to counsel; [<a id="nf4" href="#fn4">Footnote 4</a>] this violation was held to require reversal without any need to show prejudice. The Court of Appeals directed that the writ issue unless respondent received a new trial on all five counts.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Not every restriction on counsel's time or opportunity to investigate or to consult with his client or otherwise to prepare for trial violates a defendant's Sixth Amendment right to counsel. See Chambers v. Maroney, <a href="../us399/us399-0042.xml#p42">399 U. S. 42</a>, <a href="../us399/us399-0042.xml#p53">399 U. S. 53</a>-54 (1970). Trial judges necessarily require a great deal of latitude in scheduling trials. Not the least of their problems is that of assembling the witnesses, lawyers, and jurors at the same place at the same time, and this burden counsels against continuances except for compelling reasons. Consequently, broad discretion must be granted trial courts on matters of continuances; only an unreasoning and arbitrary "insistence upon expeditiousness in the face of a justifiable</p>
     <n id="p12">12</n>
     <p>request for delay" violates the right to the assistance of counsel. Unar v. Sarafite, <a href="../us376/us376-0575.xml#p575">376 U. S. 575</a>, <a href="../us376/us376-0575.xml#p589">376 U. S. 589</a> (1964).</p>
     <p>We have set out at greater length than usual the record facts showing Hotchkiss' prompt action in taking Goldfine's place, his prompt study of the investigation, his careful review of the materials prepared by Goldfine for trial, his conferences with respondent, and his representation to the court that "a further continuance would not benefit me in presenting the case," App. 11. In the face of the unequivocal and uncontradicted statement by a responsible officer of the court that he was fully prepared and "ready" for trial, it was far from an abuse of discretion to deny a continuance. On this record, it would have been remarkable had the trial court not accepted counsel's assurances.</p>
     <p>Nor is there ay merit to the claim that the denial of a continuance prevented Hotchkiss from being fully prepared for trial. Despite respondent's adamant -- even contumacious -- refusal to cooperate with Hotchkiss or to take the stand as Hotchkiss advised, in spite of respondent's numerous outbursts and disruptions, and in the face of overwhelming evidence of guilt, Hotchkiss succeeded in getting a "hung jury" on the two most serious charges at the first trial. Given the undisputed and overwhelming evidence of guilt, the jury's failure at the first trial to convict the defendant on the more serious charges cannot reflect other than favorably on Hotchkiss' readiness for trial.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>In holding that the trial judge violated respondent's right to the assistance of counsel by arbitrarily refusing a continuance that would have permitted Goldfine to try the case, the Court of Appeals misread the record and the controlling law and announced a new constitutional standard which is unsupported by any authority.</p>
     <p>A</p>
     <p>The Court of Appeals' first error was in reading the record as indicating that respondent timely and in good faith moved</p>
@@ -107,7 +107,7 @@
     <p>The Court of Appeals' conclusion that the Sixth Amendment right to counsel "would be without substance if it did not include the right to a meaningful attorney-client relationship," 649 F.2d at 720 (emphasis added), is without basis in the law. No authority was cited for this novel ingredient of the Sixth Amendment guarantee of counsel, and of course none could be. No court could possibly guarantee that a defendant will develop the kind of rapport with his attorney -- privately retained or provided by the public -- that</p>
     <n id="p14">14</n>
     <p>the Court of Appeals thought part of the Sixth Amendment guarantee of counsel. Accordingly, we reject the claim that the Sixth Amendment guarantees a "meaningful relationship" between an accused and his counsel. [<a id="nf6" href="#fn6">Footnote 6</a>]</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>We have gone to unusual length in discussing the facts and relevant authorities in order to evaluate the claim of abuse of discretion by the trial judge and to deal with the novel idea that the Sixth Amendment guarantees an accused a "meaningful attorney-client relationship." Had the Court of Appeals examined the record more carefully, it would have had no occasion to consider, let alone announce, a new constitutional rule under the Sixth Amendment.</p>
     <p>In its haste to create a novel Sixth Amendment right, the court wholly failed to take into account the interest of the victim of these crimes in not undergoing the ordeal of yet a third trial in this case. Of course, inconvenience and embarrassment to witnesses cannot justify failing to enforce constitutional rights of an accused: when prejudicial error is made that clearly impairs a defendant's constitutional rights, the burden of a new trial must be borne by the prosecution, the courts, and the witnesses; the Constitution permits nothing less. But in the administration of criminal justice, courts may not ignore the concerns of victims. Apart from all other factors, such a course would hardly encourage victims to report violations to the proper authorities; this is especially so when the crime is one calling for public testimony about a humiliating and degrading experience such as was involved here. Precisely what weight should be given to the ordeal of reliving such an experience for the third time need not be decided</p>
     <n id="p15">15</n>
@@ -139,7 +139,7 @@
       <p>"[i]n its haste to create a novel Sixth Amendment right, the [Court of Appeals] wholly failed to take into account the interest of the victim of these crimes in not undergoing the ordeal of yet a third trial in this case."</p>
       <p>Ante at <a href="./us461-0001.xml#p14">461 U. S. 14</a>. Unfortunately, it could just as easily be said of the Court that, in its haste to "deal with the novel idea that the Sixth Amendment guarantees an accused a meaningful attorney-client relationship,'" ibid., the Court reaches issues unnecessary to its judgment, mischaracterizes the Court of Appeals' opinion, and disregards the crucial role of a defendant's right to counsel in our system of criminal justice. For the reasons described below, I concur only in the Court's reversal of the Court of Appeals' judgment.</p>
       <n id="p16">16</n>
-      <h>I</h>
+      <h2>I</h2>
       <p>After reviewing the record of the proceedings in the state trial court, the Court of Appeals concluded that respondent moved for a continuance based on he unavailability of Harvey Goldfine, the Deputy Public Defender originally appointed to represent him. 649 F.2d 718, 719-720 (CA9 1981). The court, therefore, proceeded to consider whether the trial court had denied respondent's Sixth Amendment right to counsel by refusing to grant his motion for a continuance until Goldfine was well enough to represent him at trial. Id. at 720. In considering this question, the Court of Appeals acknowledged that "an indigent defendant does not have an unqualified right to the appointment of counsel of his own choosing." Ibid. The court stated, however, that after a particular attorney is appointed to represent a defendant, the defendant and his attorney develop a relationship that is encompassed by the Sixth Amendment right to counsel. Ibid. In the court's view, the attorney-client relationship is important to a defendant's Sixth Amendment right to counsel because it affects the quality of representation and the defendant's ability to present an effective defense. Id. at 720-721. In this regard, the court noted that unreasonable denials of continuances when a defendant has retained counsel can amount to a denial of the right to counsel or to a violation of due process. Id. at 721. The court saw no reason "to distinguish between appointed and retained counsel in the context of preserving an attorney-client relationship." Ibid.</p>
       <p>In light of "the importance of the attorney-client relationship to the substance of the defendant's sixth amendment right to counsel," the court held that</p>
       <p>"the sixth amendment (as incorporated by the fourteenth amendment) encompasses the right to have the trial judge accord weight to that relationship in determining whether to grant a continuance founded on the temporary unavailability of a defendant's particular attorney."</p>
@@ -149,7 +149,7 @@
       <p>"the trial court must balance the defendant's constitutional right to counsel against the societal interest in the 'prompt and efficient administration of justice.'"</p>
       <p>Ibid. (citation omitted). In this case, the trial judge failed to inquire into the expected length of Goldfine's unavailability and, therefore, could not "engage in the balancing required to protect [respondent's] rights." Id. at 722. As a result, respondent had been denied his right to counsel as that right was construed by the Court of Appeals. Ibid. [Footnote 2/1]</p>
       <p>The Court of Appeals next concluded that no showing of prejudice was required for reversal of the conviction. Ibid. In reaching this conclusion, the court stated that this case did not involve a claim of ineffective asistance of counsel, which it previously had held to require a showing of prejudice to justify reversal. Id. at 722, and n. 4. Instead, the court analogized this case to cases in which counsel is either not provided or in which counsel is prevented from fulfilling normal functions. Id. at 723. In such cases, a defendant is not required to demonstrate prejudice. Ibid. [Footnote 2/2]</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>I agree with the Court that the Court of Appeals misread the record in concluding, at least implicitly, that respondent made a timely motion for a continuance based on Goldfine's</p>
       <n id="p18">18</n>
       <p>unavailability and on his desire to have Goldfine represent him at trial. Ante at <a href="./us461-0001.xml#p12"> 461 U. S. 12</a>-13. [Footnote 2/3]</p>
@@ -160,7 +160,7 @@
       <p>Because respondent did not make a timely motion for a continuance based on Goldfine's unavailability, I concur in the Court's reversal of the Court of Appeals' judgment. We need go no further to support a reversal. The Court recognizes as much when it states that</p>
       <p>"[t]he facts shown by the record conclusively rebut [respondent's] claims and are alone dispositive, independent of the correctness of the novel Sixth Amendment guarantee announced by the Court of Appeals."</p>
       <p>Ante at <a href="./us461-0001.xml#p4">461 U. S. 4</a>. See also ante at <a href="./us461-0001.xml#p14">461 U. S. 14</a>.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>Despite the Court's recognition that it is unnecessary to its decision, the Court rejects summarily "the claim that the Sixth Amendment guarantees a meaningful relationship' between an accused and his counsel." Ibid. (footnote omitted). The Court states simply that the Court of Appeals cited no authority "for this novel ingredient of the Sixth Amendment guarantee of counsel, and of course none could be." Ante at <a href="./us461-0001.xml#p13">461 U. S. 13</a>. In the Court's view,</p>
       <p>"[n]o court could possibly guarantee that a defendant will develop the kind of rapport with his attorney -- privately retained or provided by the public -- that the Court of Appeals thought part of the Sixth Amendment guarantee of counsel."</p>
       <p>Ante at <a href="./us461-0001.xml#p13">461 U. S. 13</a>-14. This is the extent of the Court's analysis. Properly understood, however, the interest recognized by the Court of Appeals does find</p>
@@ -199,7 +199,7 @@
       <p>into a claim of harmless error here would require, unlike most cases, unguided speculation."</p>
       <p>Id. at <a href="../us435/us435-0475.xml#p490">435 U. S. 490</a>-491 (emphasis in original).</p>
       <p>In this case, there is no way to know whether the character of the proceedings would have changed, whether counsel would have made different decisions, or whether the defense strategy would have been different if Goldfine had represented respondent. Conclusions based on inquiries into such questions would amount to nothing more than "unguided speculation." Under these circumstances, it is reasonable and just not to require a showing of prejudice. [Footnote 2/9]</p>
-      <h>IV</h>
+      <h2>IV</h2>
       <p>While the Court of Appeals may have misread the record, its opinion reflects a thoughtful and dedicated effort to protect the rights of an indigent criminal defendant. Despite their poverty and the fact that they stand accused of a crime, indigent defendants are entitled to the enforcement of procedural rules that protect substantive rights guaranteed by the Constitution. [Footnote 2/10] The Court of Appeals should be commended,</p>
       <n id="p29">29</n>
       <p>not criticized, for carrying out its obligation to respect this entitlement.</p>

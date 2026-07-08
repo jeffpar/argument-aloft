@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us602-23-370.html" citation="602 U.S. 23-370" title="Erlinger v. United States">
   <opinion type="Opinion" author="Gorsuch">
     <p>NOTICE: This opinion is subject to formal revision before publication in the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, pio@supremecourt.gov, of any typographical or other formal errors.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 23–370</p>
-    <p>_________________</p>
     <p>PAUL ERLINGER, PETITIONER v. UNITED STATES</p>
     <p>on writ of certiorari to the united states court of appeals for the seventh circuit</p>
     <p>[June 21, 2024]</p>
@@ -82,13 +81,11 @@
     <f n="7"><a id="fn1-7" href="#nf1-7">7</a> See 1840 Ala. Sess. Laws 153; 1868 Kan. Sess. Laws pp. 380–381; State v. Hudson, 32 La. Ann. 1052, 1053 (1880).</f>
     <f n="8"><a id="fn1-8" href="#nf1-8">8</a> Toulmin, Digest of the Laws of the State of Alabama, at 377.</f>
     <f n="9"><a id="fn1-9" href="#nf1-9">9</a> Of the trials where proceedings were bifurcated, the National Association of Federal Defenders observes, some “have resulted in acquittal or dismissal” at the first stage where prejudicial past conduct was omitted; another has resulted in acquittal at the second stage after the jury found the government had not carried its burden of showing the defendant’s prior offenses were committed on separate occasions; three others “have resulted in guilty verdicts” at both stages. NAFD Brief 21–22.</f>
-    <f n="10"><a id="fn1-10" href="#nf1-10">10</a> Once more parting ways with the parties and defense bar amici, Justice Jackson asserts that Apprendi’s rule confining judges at sentencing to the facts found by the jury hurts defendants and makes “racial disparities” in our criminal justice system “worse.” Post, at 16–17. As we have seen, however, Apprendi allows judges to lower sentences based on their own factual findings; it only prohibits judges from using their own facts to increase a defendant’s exposure to punishment. See n. 1, supra. As the defense bar amici are quick to point out, that helps defendants. It seems, too, Justice Jackson has directed her fire at the wrong target. The reports and law review article cited by Justice Jackson attribute sentencing disparities to this Court’s remedial decision in United States v. Booker, <a href="../us543/us543-0220.xml#p220">543 U.S. 220</a>, 245–246 (2005), as well as various other factors: judges, “prosecutors, law enforcement officials, probation officers . . . , overworked defense attorneys, and other actors involved in maintaining the court system.” K. Klein &amp; S. Klein, A Ra-cially Biased Obstacle Course: Apprendi Transformed the Federal Sentencing Guidelines into a Series of Judicial Obstacles; Can Shame Reduce the Racial Disparities?, 99 N. C. L. Rev. 1391, 1405, 1423 (2021). And, unlike Justice Jackson, the authors of the very article she cites “celebrate Apprendi” because, in their view, it “unequivocally” gives a “bargaining chip” to defendants to seek more favorable plea offers. Id., at 1399, and n. 33; see Blakely, 542 U. S., at 311–313.</f>
+    <f n="10"><a id="fn1-10" href="#nf1-10">10</a> Once more parting ways with the parties and defense bar amici, Justice Jackson asserts that Apprendi’s rule confining judges at sentencing to the facts found by the jury hurts defendants and makes “racial disparities” in our criminal justice system “worse.” Post, at 16–17. As we have seen, however, Apprendi allows judges to lower sentences based on their own factual findings; it only prohibits judges from using their own facts to increase a defendant’s exposure to punishment. See n. 1, supra. As the defense bar amici are quick to point out, that helps defendants. It seems, too, Justice Jackson has directed her fire at the wrong target. The reports and law review article cited by Justice Jackson attribute sentencing disparities to this Court’s remedial decision in United States v. Booker, <a href="../us543/us543-0220.xml#p220">543 U.S. 220</a>, 245–246 (2005), as well as various other factors: judges, “prosecutors, law enforcement officials, probation officers . . ., overworked defense attorneys, and other actors involved in maintaining the court system.” K. Klein &amp; S. Klein, A Ra-cially Biased Obstacle Course: Apprendi Transformed the Federal Sentencing Guidelines into a Series of Judicial Obstacles; Can Shame Reduce the Racial Disparities?, 99 N. C. L. Rev. 1391, 1405, 1423 (2021). And, unlike Justice Jackson, the authors of the very article she cites “celebrate Apprendi” because, in their view, it “unequivocally” gives a “bargaining chip” to defendants to seek more favorable plea offers. Id., at 1399, and n. 33; see Blakely, 542 U. S., at 311–313.</f>
   </opinion>
   <opinion type="Concurrence" author="Roberts">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 23–370</p>
-    <p>_________________</p>
     <p>PAUL ERLINGER, PETITIONER v. UNITED STATES</p>
     <p>on writ of certiorari to the united states court of appeals for the seventh circuit</p>
     <p>[June 21, 2024]</p>
@@ -97,9 +94,7 @@
   </opinion>
   <opinion type="Concurrence" author="Thomas">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 23–370</p>
-    <p>_________________</p>
     <p>PAUL ERLINGER, PETITIONER v. UNITED STATES</p>
     <p>on writ of certiorari to the united states court of appeals for the seventh circuit</p>
     <p>[June 21, 2024]</p>
@@ -110,9 +105,7 @@
   </opinion>
   <opinion type="Dissent" author="Kavanaugh">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 23–370</p>
-    <p>_________________</p>
     <p>PAUL ERLINGER, PETITIONER v. UNITED STATES</p>
     <p>on writ of certiorari to the united states court of appeals for the seventh circuit</p>
     <p>[June 21, 2024]</p>
@@ -216,9 +209,7 @@
   </opinion>
   <opinion type="Dissent" author="Jackson">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 23–370</p>
-    <p>_________________</p>
     <p>PAUL ERLINGER, PETITIONER v. UNITED STATES</p>
     <p>on writ of certiorari to the united states court of appeals for the seventh circuit</p>
     <p>[June 21, 2024]</p>
@@ -273,7 +264,7 @@
     <p>III</p>
     <p>So what do my concerns about Apprendi have to do with my analysis of the question presented in this case? The doubts I have make me reluctant to join a ruling that extends Apprendi’s holding unnecessarily. And, here, we need not conclude that the occasions finding in ACCA is one to which the Apprendi rule applies, as Justice Kavanaugh explains. Ante, at 3 (dissenting opinion). Indeed, we have already recognized that “[j]udges may,” consistent with the Apprendi rule, “resolve questions about a defendant’s past crimes . . . that are relevant not to the defendant’s guilt for the present offense but rather to the length of the defendant’s sentence.” Ante, at 3; see also Almendarez-Torres, 523 U. S., at 239, 247.</p>
     <p>I will use this opportunity to make one additional observation: Not only is the majority’s approach to ACCA’s occasions finding inconsistent with our precedent (as Justice Kavanaugh observes, ante, at 3–4), it is also unworkable in practice, due to the limitations inherent in jury presentations. That is, for all the majority’s talk of constitutional theory, it gives little thought to “proportionality, uniformity, and administrability,” which “are all aspects of that basic ‘fairness’ that the Constitution demands.” Apprendi, 530 U. S., at 559 (Breyer, J., dissenting).</p>
-    <p>As a reminder, ACCA directs sentencing courts to impose a 15-year mandatory minimum for a violation of 18 U. S. C. §922(g) if the defendant has three qualifying prior convictions “committed on occasions different from one another.” 18 U. S. C. §924(e)(1). In Wooden, we explained that ACCA’s occasions finding is not a simple up-or-down assessment; rather, the factfinder must consider “a range of circumstances,” including the timing, location, character, and relationship of the crimes. 595 U. S., at 369. The majority now concludes that, “given the intensely factual nature of this inquiry . . . , a jury must resolve it.” Ante, at 4. I come to exactly the opposite conclusion, based on the nature of the factfinding that judges and juries engage in—and their relative competencies. In my view, “the intensely factual nature of this inquiry,” ibid., when combined with the fact that ACCA’s occasions finding often pertains to long-past prior criminal behavior by the defendant, is precisely why a jury is poorly situated to make such a finding, as opposed to a judge. As I explain below, the particular factfinding determination that the occasions inquiry requires is unsuitable for juries to decide in terms of both fairness and efficiency—two crucial criteria for procedural requirements in a criminal justice system.</p>
+    <p>As a reminder, ACCA directs sentencing courts to impose a 15-year mandatory minimum for a violation of 18 U. S. C. §922(g) if the defendant has three qualifying prior convictions “committed on occasions different from one another.” 18 U. S. C. §924(e)(1). In Wooden, we explained that ACCA’s occasions finding is not a simple up-or-down assessment; rather, the factfinder must consider “a range of circumstances,” including the timing, location, character, and relationship of the crimes. 595 U. S., at 369. The majority now concludes that, “given the intensely factual nature of this inquiry . . ., a jury must resolve it.” Ante, at 4. I come to exactly the opposite conclusion, based on the nature of the factfinding that judges and juries engage in—and their relative competencies. In my view, “the intensely factual nature of this inquiry,” ibid., when combined with the fact that ACCA’s occasions finding often pertains to long-past prior criminal behavior by the defendant, is precisely why a jury is poorly situated to make such a finding, as opposed to a judge. As I explain below, the particular factfinding determination that the occasions inquiry requires is unsuitable for juries to decide in terms of both fairness and efficiency—two crucial criteria for procedural requirements in a criminal justice system.</p>
     <p>A</p>
     <p>As to fairness, ACCA’s occasions determination involves facts about a defendant’s past crimes that can prejudice the jury against the defendant and thereby make it more difficult for the jury to find in the defendant’s favor with respect to the occasions issue.</p>
     <p>Past criminality on a defendant’s part “is a traditional, if not the most traditional, basis for a sentencing court’s increasing an offender’s sentence.” Almendarez-Torres, 523 U. S., at 243. And there is a good reason judges have long been entrusted with finding facts related to recidivism—because “the introduction of evidence of a defendant’s prior crimes” to a jury “risks significant prejudice.” Id., at 235. This Court has specifically recognized the substantial risk of “generalizing a defendant’s earlier bad act into bad character and taking that as raising the odds that he did the later bad act now charged.” Old Chief v. United States, <a href="../us519/us519-0172.xml#p172">519 U.S. 172</a>, 180–181 (1997). Empirical research has further confirmed the commonsense conclusion that criminal history is prejudicial. See, e.g., T. Eisenberg &amp; V. Hans, Taking a Stand on Taking the Stand: The Effect of a Prior Criminal Record on the Decision To Testify and on Trial Outcomes, 94 Cornell L. Rev. 1353, 1357 (2009) (“Juries appear to rely on criminal records to convict when other evidence in the case normally would not support conviction”).</p>

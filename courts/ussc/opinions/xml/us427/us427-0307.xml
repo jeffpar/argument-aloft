@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us427-0307.html" citation="427 U.S. 307" title="Massachusetts Bd. of Retirement v. Murgia">
   <opinion type="Opinions &amp; Dissents">
     <n id="p307">307</n>
-    <h>U.S. Supreme Court</h>
-    <h>Massachusetts Bd. of Retirement v. Murgia, <a href="./us427-0307.xml#p307">427 U.S. 307</a> (1976)</h>
-    <h>Massachusetts Board of Retirement v. Murgia</h>
-    <h>No. 74-1044</h>
-    <h>Argued December 10, 1975</h>
-    <h>Decided June 25, 1976</h>
-    <h><a href="./us427-0307.xml#p307">427 U.S. 307</a></h>
-    <h>APPEAL FROM THE UNITED STATES DISTRICT COURT</h>
-    <h>FOR THE DISTRICT OF MASSACHUSETTS</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Massachusetts Bd. of Retirement v. Murgia, <a href="./us427-0307.xml#p307">427 U.S. 307</a> (1976)</h1>
+    <h2>Massachusetts Board of Retirement v. Murgia</h2>
+    <h2>No. 74-1044</h2>
+    <h4>Argued December 10, 1975</h4>
+    <h4>Decided June 25, 1976</h4>
+    <h2>APPEAL FROM THE UNITED STATES DISTRICT COURT</h2>
+    <h2>FOR THE DISTRICT OF MASSACHUSETTS</h2>
+    <h2>Syllabus</h2>
     <p>A Massachusetts statute making it mandatory for a uniformed state police officer to retire at age 50 held not to deny equal protection of the laws in violation of the Fourteenth Amendment.</p>
     <p>(a) Rationality, rather than strict scrutiny, is the proper standard for determining whether the statute violates equal protection. Equal protection analysis requires strict scrutiny of a legislative classification only when it impermissibly interferes with the exercise of a fundamental right or operates to the peculiar disadvantage of a suspect class. Here, mandatory retirement at 50 does not implicate any fundamental right of a uniformed state police officer over that age, since a right of governmental employment per se is not fundamental, and the class of such officers over 50 does not constitute a suspect class, since classifications based on age are not considered suspect.</p>
     <p>(b) Since physical ability generally declines with age, mandatory retirement at 50 serves to remove from police service those whose fitness for uniformed police work has presumptively diminished with age and is, therefore, rationally related to the State's announced legitimate objective of protecting the public by assuring the physical preparedness of its uniformed police. There is no indication that the statute has the effect of excluding from service so few officers who are in fact unqualified as to render age 50 a criterion wholly unrelated to such objective. While the State perhaps has not chosen the best means to accomplish its purpose, where rationality is the test, a statute "does not violate the Equal Protection Clause merely because the classifications made by [it] are imperfect." Dandridge v. Williams, <a href="../us397/us397-0471.xml#p471">397 U. S. 471</a>, <a href="../us397/us397-0471.xml#p485">397 U. S. 485</a>.</p>
@@ -33,7 +33,7 @@
     <p>In assessing appellee's equal protection claim, the District Court found it unnecessary to apply a strict-scrutiny test, see Shapiro v. Thompson, <a href="../us394/us394-0618.xml#p618">394 U. S. 618</a> (1969), for</p>
     <n id="p312">312</n>
     <p>it determined that the age classification established by the Massachusetts statutory scheme could not in any event withstand a test of rationality, see Dandridge v. Williams, <a href="../us397/us397-0471.xml#p471">397 U. S. 471</a> (1970). Since there had been no showing that reaching age 50 forecasts even "imminent change" in an officer's physical condition, the District Court held that compulsory retirement at age 50 was irrational under a scheme that assessed the capabilities of officers individually by means of comprehensive annual physical examinations. We agree that rationality is the proper standard by which to test whether compulsory retirement at age 50 violates equal protection. We disagree, however, with the District Court's determination that the age 50 classification is not rationally related to furthering a legitimate state interest.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>We need state only briefly our reasons for agreeing that strict scrutiny is not the proper test for determining whether the mandatory retirement provision denies appellee equal protection. San Antonio School District v. Rodriguez, <a href="../us411/us411-0001.xml#p1">411 U. S. 1</a>, <a href="../us411/us411-0001.xml#p16">411 U. S. 16</a> (1973), reaffirmed that equal protection analysis requires strict scrutiny of a legislative classification only when the classification impermissibly interferes with the exercise of a fundamental right [<a id="nf3" href="#fn3">Footnote 3</a>] or operates to the peculiar disadvantage of a suspect class. [<a id="nf4" href="#fn4">Footnote 4</a>] Mandatory retirement at age 50</p>
     <n id="p313">313</n>
     <p>under the Massachusetts statute involves neither situation.</p>
@@ -44,7 +44,7 @@
     <n id="p314">314</n>
     <p>our normal span. Even if the statute could be said to impose a penalty upon a class defined as the aged, it would not impose a distinction sufficiently akin to those classifications that we have found suspect to call for strict judicial scrutiny.</p>
     <p>Under the circumstances, it is unnecessary to subject the State's resolution of competing interests in this case to the degree of critical examination that our cases under the Equal Protection Clause recently have characterized as "strict judicial scrutiny."</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>We turn then to examine this state classification under the rational basis standard. This inquiry employs a relatively relaxed standard reflecting the Court's awareness that the drawing of lines that create distinctions is peculiarly a legislative task and an unavoidable one. Perfection in making the necessary classifications is neither possible nor necessary. Dandridge v. Williams, supra at <a href="../us397/us397-0471.xml#p485">397 U. S. 485</a>. Such action by a legislature is presumed to be valid. [<a id="nf5" href="#fn5">Footnote 5</a>]</p>
     <p>In this case, the Massachusetts statute clearly meets the requirements of the Equal Protection Clause, for the State's classification rationally furthers the purpose identified by the State: [<a id="nf6" href="#fn6">Footnote 6</a>] through mandatory retirement at age 50, the legislature seeks to protect the public by assuring physical preparedness of its uniformed police. [<a id="nf7" href="#fn7">Footnote 7</a>]</p>
     <n id="p315">315</n>
@@ -107,7 +107,7 @@
       <p>Today the Court holds that it is permissible for the Commonwealth of Massachusetts to declare that members of its state police force who have been proved medically fit for service are nonetheless legislatively unfit to be policemen and must be terminated -- involuntarily "retired" -- because they have reached the age of 50. Although we have called the right to work "of the very essence of the personal freedom and opportunity that it was the purpose of the [Fourteenth] Amendment to secure," Truax v. Raich, <a href="../us239/us239-0033.xml#p33">239 U. S. 33</a>, <a href="../us239/us239-0033.xml#p41">239 U. S. 41</a> (1915), the Court finds that the right to work is not a fundamental right. And, while agreeing that "the treatment of the aged in this Nation has not been wholly free of discrimination," ante at <a href="./us427-0307.xml#p313">427 U. S. 313</a>, the Court holds that the elderly are not a</p>
       <n id="p318">318</n>
       <p>suspect class. Accordingly, the Court undertakes the scrutiny mandated by the bottom tier of its two-tier equal protection framework, finds the challenged legislation not to be "wholly unrelated" to its objective, and holds, therefore, that it survives equal protection attack. I respectfully dissent.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>Although there are signs that its grasp on the law is weakening, the rigid two-tier model still holds sway as the Court's articulated description of the equal protection test. Again, I must object to its perpetuation. The model's two fixed modes of analysis, strict scrutiny and mere rationality, simply do not describe the inquiry the Court has undertaken -- or should undertake in equal protection cases. Rather, the inquiry has been much more sophisticated, and the Court should admit as much. It has focused upon the character of the classification in question, the relative importance to individuals in the class discriminated against of the governmental benefits that they do not receive, and the state interests asserted in support of the classification. Marshall v. United States, <a href="../us414/us414-0417.xml#p417">414 U. S. 417</a>, <a href="../us414/us414-0417.xml#p432">414 U. S. 432</a>-433 (1974) (MARSHALL, J., dissenting); San Antonio School District v. Rodriguez, <a href="../us411/us411-0001.xml#p1">411 U. S. 1</a>, <a href="../us411/us411-0001.xml#p98">411 U. S. 98</a>-110 (1973) (MARSHALL, J., dissenting); Richardson v. Belcher, <a href="../us404/us404-0078.xml#p78">404 U. S. 78</a>, <a href="../us404/us404-0078.xml#p90">404 U. S. 90</a>-91 (1971) (MARSHALL, J., dissenting); Dandridge v. Williams, <a href="../us397/us397-0471.xml#p471">397 U. S. 471</a>, <a href="../us397/us397-0471.xml#p519">397 U. S. 519</a>-530 (1970) (MARSHALL, J., dissenting). See also City of Charlotte v. Firefighters, <a href="../us426/us426-0283.xml#p283">426 U. S. 283</a>, <a href="../us426/us426-0283.xml#p286">426 U. S. 286</a> (1976); Memorial Hospital v. Maricopa County, <a href="../us415/us415-0250.xml#p250">415 U. S. 250</a>, <a href="../us415/us415-0250.xml#p253">415 U. S. 253</a>-254 (1974); Dunn v. Blumstein, <a href="../us405/us405-0330.xml#p330">405 U. S. 330</a>, <a href="../us405/us405-0330.xml#p335">405 U. S. 335</a> (1972); Kramer v. Union School Dist., <a href="../us395/us395-0621.xml#p621">395 U. S. 621</a>, <a href="../us395/us395-0621.xml#p626">395 U. S. 626</a> (1969); Williams v. Rhodes, <a href="../us393/us393-0023.xml#p23">393 U. S. 23</a>, <a href="../us393/us393-0023.xml#p30">393 U. S. 30</a> (1968).</p>
       <p>Although the Court outwardly adheres to the two-tier model, it has apparently lost interest in recognizing further</p>
       <n id="p319">319</n>
@@ -119,7 +119,7 @@
       <n id="p321">321</n>
       <p>These cases make clear that the Court has rejected, albeit sub silentio, its most deferential statements of the rationality standard in assessing the validity under the Equal Protection Clause of much noneconomic legislation.</p>
       <p>But there are problems with deciding cases based on factors not encompassed by the applicable standards. First, the approach is rudderless, affording no notice to interested parties of the standards governing particular cases and giving no firm guidance to judges who, as a consequence, must assess the constitutionality of legislation before them on an ad hoc basis. Second, and not unrelatedly, the approach is unpredictable and requires holding this Court to standards it has never publicly adopted. Thus, the approach presents the danger that, as I suggest has happened here, relevant factors will be misapplied or ignored. All interests not "fundamental" and all classes not "suspect" are not the same; and it is time for the Court to drop the pretense that, for purposes of the Equal Protection Clause, they are.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>The danger of the Court's verbal adherence to the rigid two-tier test, despite its effective repudiation of that test in the cases, is demonstrated by its efforts here. There is simply no reason why a statute that tells able-bodied police officers, ready and willing to work, that they no longer have the right to earn a living in their chosen profession merely because they are 50 years old should be judged by the same minimal standards of rationality that we use to test economic legislation that discriminates against business interests. See New Orleans v. Dukes, supra; Williamson v. Lee Optical Co., <a href="../us348/us348-0483.xml#p483">348 U. S. 483</a> (1955). Yet, the Court today not only invokes the minimal level of scrutiny, it wrongly adheres to it. Analysis</p>
       <n id="p322">322</n>
       <p>of the three factors I have identified above -- the importance of the governmental benefits denied, the character of the class, and the asserted state interests -- demonstrates the Court's error.</p>

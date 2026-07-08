@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us480-0386.html" citation="480 U.S. 386" title="Town of Newton v. Rumery">
   <opinion type="Opinions &amp; Dissents">
     <n id="p386">386</n>
-    <h>U.S. Supreme Court</h>
-    <h>Town of Newton v. Rumery, <a href="./us480-0386.xml#p386">480 U.S. 386</a> (1987)</h>
-    <h>Town of Newton v. Rumery</h>
-    <h>No. 85-1449</h>
-    <h>Argued December 8, 1986</h>
-    <h>Decided March 9, 1987</h>
-    <h><a href="./us480-0386.xml#p386">480 U.S. 386</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE FIRST CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Town of Newton v. Rumery, <a href="./us480-0386.xml#p386">480 U.S. 386</a> (1987)</h1>
+    <h2>Town of Newton v. Rumery</h2>
+    <h2>No. 85-1449</h2>
+    <h4>Argued December 8, 1986</h4>
+    <h4>Decided March 9, 1987</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE FIRST CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>After learning that a friend, David Champy, had been indicted by a New Hampshire county grand jury for aggravated felonious sexual assault, respondent sought more information from a mutual acquaintance, who coincidentally was the victim of the assault and was expected to be the principal witness against Champy. The victim called the town of Newton's Chief of Police and told him that respondent was trying to force her to drop the charges against Champy. Ultimately, respondent was arrested and accused of the state law felony of tampering with a witness. Respondent's attorney and the prosecutor negotiated an agreement whereby the prosecutor would dismiss the charges against him if he would agree to release any claims he might have against the town, its officials, or the victim for any harm caused by his arrest. Three days later, he signed the "release-dismissal agreement," and the criminal charges against him were dropped. Ten months later, he filed this action under 42 U.S.C. § 1983 in Federal District Court, alleging that the town and its officers had violated his constitutional rights by arresting him, defaming him, and imprisoning him falsely. The suit was dismissed on the basis of the assertion by the defendants (petitioners here) of the release-dismissal agreement as an affirmative defense. The court rejected respondent's argument that the agreement was unenforceable because it violated public policy, and concluded that a release of claims under § 1983 was valid if, as here, it resulted from a decision that was voluntary, deliberate, and informed. The Court of Appeals reversed, adopting a per se rule invalidating release-dismissal agreements.</p>
     <p>Held: The judgment is reversed, and the case is remanded.</p>
     <p>778 F.2d 66, reversed and remanded.</p>
@@ -28,7 +28,7 @@
     <n id="p389">389</n>
     <p>JUSTICE POWELL announced the judgment of the Court and delivered the opinion of the Court with respect to Parts I, II, III-A, IV, and V, and an opinion with respect to Part III-B, in which THE CHIEF JUSTICE, JUSTICE WHITE, and JUSTICE SCALIA join.</p>
     <p>The question in this case is whether a court properly may enforce an agreement in which a criminal defendant releases his right to file an action under 42 U.S.C. § 1983 in return for a prosecutor's dismissal of pending criminal charges.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In 1983, a grand jury in Rockingham County, New Hampshire, indicted David Champy for aggravated felonious sexual assault. Respondent Bernard Rumery, a friend of Champy's, read about the charges in a local newspaper. Seeking information about the charges, he telephoned Mary Deary, who was acquainted with both Rumery and Champy. Coincidentally, Deary had been the victim of the assault in question, and was expected to be the principal witness against Champy. The record does not reveal directly the date or substance of this conversation between Rumery and Deary, but Deary apparently was disturbed by the call. On March 12, according to police records, she called David Barrett, the Chief of Police for the town of Newton. She told him that Rumery was trying to force her to drop the charges against Champy. Rumery talked to Deary again on May 11. The substance of this conversation also is disputed. Rumery claims that Deary called him and that she raised the subject of Champy's difficulties. According to the police records, however, Deary told Chief Barrett that Rumery had threatened that, if Deary went forward on the Champy case, she would "end up like" two women who recently had been</p>
     <n id="p390">390</n>
     <p>murdered in Lowell, Massachusetts. App. 49. Barrett arrested Rumery and accused him of tampering with a witness in violation of N.H.Rev.Stat.Ann. § 641:5(I)(b) (1986), a Class B felony.</p>
@@ -47,9 +47,9 @@
     <p>778 F.2d 66, 69 (1985).</p>
     <n id="p392">392</n>
     <p>Because the case raises a question important to the administration of criminal justice, we granted the town's petition for a writ of certiorari. <a href="../us475/us475-1118.xml#p1118">475 U. S. 1118</a> (1986). We reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>We begin by noting the source of the law that governs this case. The agreement purported to waive a right to sue conferred by a federal statute. The question whether the policies underlying that statute may in some circumstances render that waiver unenforceable is a question of federal law. We resolve this question by reference to traditional common law principles, as we have resolved other questions about the principles governing § 1983 actions. E.g., Pulliam v. Allen, <a href="../us466/us466-0522.xml#p522">466 U. S. 522</a>, <a href="../us466/us466-0522.xml#p539">466 U. S. 539</a>-540 (1984). The relevant principle is well established: a promise is unenforceable if the interest in its enforcement is outweighed in the circumstances by a public policy harmed by enforcement of the agreement. [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The Court of Appeals concluded that the public interests related to release-dismissal agreements justified a per se rule of invalidity. We think the court overstated the perceived problems and also failed to credit the significant public interests that such agreements can further. Most importantly, the Court of Appeals did not consider the wide variety of factual situations that can result in release-dismissal agreements. Thus, although we agree that, in some cases, these agreements may infringe important interests of the criminal defendant and of society as a whole, we do not believe that the mere possibility of harm to these interests calls for a per se rule.</p>
     <n id="p393">393</n>
     <p>A</p>
@@ -74,12 +74,12 @@
     <n id="p397">397</n>
     <p>Against this background of discretion, the mere opportunity to act improperly does not compel an assumption that all -- or even a significant number of -- release-dismissal agreements stem from prosecutors abandoning "the independence of judgment required by [their] public trust," Imbler v. Pachtman, <a href="../us424/us424-0409.xml#p409">424 U. S. 409</a>, <a href="../us424/us424-0409.xml#p423">424 U. S. 423</a> (1976). [<a id="nf7" href="#fn7">Footnote 7</a>] Rather, tradition and experience justify our belief that the great majority of prosecutors will be faithful to their duty. Indeed, the merit of this view is illustrated by this case, where the only evidence of prosecutorial misconduct is the agreement itself.</p>
     <p>Because release-dismissal agreements may further legitimate prosecutorial and public interests, we reject the Court of Appeals' holding that all such agreements are invalid per se. [<a id="nf8" href="#fn8">Footnote 8</a>]</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>Turning to the agreement presented by this case, we conclude that the District Court's decision to enforce the agreement was correct. As we have noted supra at <a href="./us480-0386.xml#p394">480 U. S. 394</a>, it is</p>
     <n id="p398">398</n>
     <p>clear that Rumery voluntarily entered the agreement. Moreover, in this case the prosecutor had an independent, legitimate reason to make this agreement directly related to his prosecutorial responsibilities. The agreement foreclosed both the civil and criminal trials concerning Rumery, in which Deary would have been a key witness. She therefore was spared the public scrutiny and embarrassment she would have endured if she had had to testify in either of those cases. [<a id="nf9" href="#fn9">Footnote 9</a>] Both the prosecutor and the defense attorney testified in the District Court that this was a significant consideration in the prosecutor's decision. Supra at <a href="./us480-0386.xml#p390">480 U. S. 390</a>.</p>
     <p>In sum, we conclude that this agreement was voluntary, that there is no evidence of prosecutorial misconduct, and that enforcement of this agreement would not adversely affect the relevant public interests. [<a id="nf10" href="#fn10">Footnote 10</a>]</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>We reverse the judgment of the Court of Appeals, and remand the case to the District Court for dismissal of the complaint.</p>
     <p>It is so ordered.</p>
     <n id="p399">399</n>
@@ -137,7 +137,7 @@
       <p>The question whether the release-dismissal agreement signed by respondent is unenforceable is much more complex than the Court's opinion indicates. A complete analysis of the question presented by this case cannot end with the observation that respondent made a knowing and voluntary choice to sign a settlement agreement. Even an intelligent and informed, but completely innocent, person accused of crime should not be required to choose between a threatened indictment and trial, with their attendant publicity and the omnipresent possibility of wrongful conviction, and surrendering the right to a civil remedy against individuals who have violated his or her constitutional rights. Moreover, the prosecutor's representation of competing and possibly conflicting interests compounds the dangerous potential of release-dismissal</p>
       <n id="p404">404</n>
       <p>agreements. To explain my disagreement with the majority, I shall first discuss the dilemma confronted by respondent at the time his lawyer advised him to sign the agreement, then comment on the three different interests the prosecutor represented, and finally discuss the plurality's evaluation of the relevant public interests in this case.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>Respondent is an innocent man. As a matter of law, he must be presumed to be innocent. As a matter of fact, the uncontradicted sworn testimony of respondent, [Footnote 2/1] and his</p>
       <n id="p405">405</n>
       <p>lawyer, [Footnote 2/2] buttressed by the circumstantial evidence, [Footnote 2/3] overwhelmingly attest to his innocence. [Footnote 2/4] There was no written statement by the alleged victim, sworn or unsworn, implicating respondent in any criminal activity. The charge that respondent had threatened the victim was reported to the police by the victim's daughter, and the substance of the conversation, as summarized in Chief Barrett's report, was based in part on his conversation with the daughter, in part on conversations between another police officer and the victim, and in part on his own conversation with the victim when she was</p>
@@ -163,7 +163,7 @@
       <p>The plurality assumes that many § 1983 suits "are marginal and some are frivolous," ante at <a href="./us480-0386.xml#p395">480 U. S. 395</a>. Whether that assumption is correct or incorrect, the validity of each ought to be tested by the adversary process. [Footnote 2/13] Experience teaches us that some § 1983 suits in which release-dismissal agreements are sought are meritorious. [Footnote 2/14] Whatever the true value of a § 1983 claim may be, a defendant who is required to give up such a claim in exchange for a dismissal of a criminal charge is being forced to pay a price that is unrelated to his possible wrongdoing, as reflected in that charge. Indeed, if the defendant is forced to abandon a claim that has a value of $1,000, the price that he pays is the functional equivalent of a $1,000 payment to a police department's retirement benefit fund.</p>
       <p>Thus, even though respondent's decision in this case was deliberate, informed, and voluntary, this observation does not address two distinct objections to enforcement of the release-dismissal agreement. The prosecutor's offer to drop charges if the defendant accedes to the agreement is inherently coercive; moreover, the agreement exacts a price unrelated to the character of the defendant's own conduct.</p>
       <n id="p412">412</n>
-      <h>II</h>
+      <h2>II</h2>
       <p>When the prosecutor negotiated the agreement with respondent, he represented three potentially conflicting interests. His primary duty, of course, was to represent the sovereign's interest in the even-handed and effective enforcement of its criminal laws. See Berger v. United States, <a href="../us295/us295-0078.xml#p78">295 U. S. 78</a>, <a href="../us295/us295-0078.xml#p88">295 U. S. 88</a> (1935). In addition, as the covenant demonstrates, he sought to represent the interests of the town of Newton and its Police Department in connection with their possible civil liability to respondent. Finally, as the inclusion of Mary Deary as a covenantee indicates, the prosecutor also represented the interest of a potential witness who allegedly accused both respondent and a mutual friend of separate instances of wrongdoing.</p>
       <p>If we view the problem from the standpoint of the prosecutor's principal client, the State of New Hampshire, it is perfectly clear that the release-dismissal agreement was both unnecessary and unjustified. For both the prosecutor and the State of New Hampshire enjoy absolute immunity from common law and § 1983 liability arising out of a prosecutor's decision to initiate criminal proceedings. See Imbler v. Pachtman, <a href="../us424/us424-0409.xml#p409">424 U. S. 409</a>, <a href="../us424/us424-0409.xml#p427">424 U. S. 427</a> (1976). The agreement thus gave the State and the prosecutor no protection that the law did not already provide.</p>
       <p>The record in this case indicates that an important reason for obtaining the covenant was "[t]o protect the police department." [Footnote 2/15] There is, however, an obvious potential conflict between the prosecutor's duty to enforce the law and his objective of protecting members of the Police Department who are accused of unlawful conduct. The public is entitled to have the prosecutor's decision to go forward with a criminal case, or to dismiss it, made independently of his concerns about the potential damages liability of the Police Department. It is equally clear that this separation of functions</p>
@@ -188,7 +188,7 @@
       <p>the advice -- of the prosecutor that created the risk that the victim might have to testify in open court. [Footnote 2/20]</p>
       <p>The need for Deary's testimony in the pending sexual assault case against Champy simply cannot justify denying this respondent a remedy for a violation of his Fourth Amendment rights. Presumably, if there had been an actual trial of the pending charge against Champy, [Footnote 2/21] that trial would have concluded long before Deary would have been required to testify in any § 1983 litigation.</p>
       <p>It may well be true that a full development of all the relevant facts would provide a legitimate justification for enforcing the release-dismissal agreement. In my opinion, however, the burden of developing those facts rested on the defendants in the § 1983 litigation, and that burden has not been met by mere conjecture and speculation concerning the emotional distress of one reluctant witness.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>Because this is the first case of this kind that the Court has reviewed, I am hesitant to adopt an absolute rule invalidating all such agreements. [Footnote 2/22] I am, however, persuaded that the</p>
       <n id="p418">418</n>
       <p>federal policies reflected in the enactment and enforcement of § 1983 mandate a strong presumption against the enforceability of such agreements, and that the presumption is not overcome in this case by the facts or by any of the policy concerns discussed by the plurality. [Footnote 2/23] The very existence of the statute identifies the important federal interests in providing a remedy for the violation of constitutional rights and in having</p>

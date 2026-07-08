@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us421-0794.html" citation="421 U.S. 794" title="Murphy v. Florida">
   <opinion type="Opinions &amp; Dissents">
     <n id="p794">794</n>
-    <h>U.S. Supreme Court</h>
-    <h>Murphy v. Florida, <a href="./us421-0794.xml#p794">421 U.S. 794</a> (1975)</h>
-    <h>Murphy v. Florida</h>
-    <h>No. 74-5116</h>
-    <h>Argued April 15, 1975</h>
-    <h>Decided June 16, 1975</h>
-    <h><a href="./us421-0794.xml#p794">421 U.S. 794</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE FIFTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Murphy v. Florida, <a href="./us421-0794.xml#p794">421 U.S. 794</a> (1975)</h1>
+    <h2>Murphy v. Florida</h2>
+    <h2>No. 74-5116</h2>
+    <h4>Argued April 15, 1975</h4>
+    <h4>Decided June 16, 1975</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE FIFTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner, who was convicted in state court of robbery, contends in this habeas corpus proceeding that he was denied a fair trial because jurors had learned from news accounts of prior felony convictions or certain facts about the robbery charge. In the course of jury selection 78 members of the panel were questioned, 70 being excused (30 for personal reasons, 20 peremptorily, and 20 by the court as having prejudged petitioner), and eight being selected (including two alternates). The District Court and the Court of Appeals denied relief.</p>
     <p>Held:</p>
     <p>1. Juror exposure to information about a state defendant's prior convictions or to news accounts of the crime with which he is charged do not alone presumptively deprive the defendant of due process. Irvin v. Dowd, <a href="../us366/us366-0717.xml#p717">366 U. S. 717</a>; Rideau v. Louisiana, <a href="../us373/us373-0723.xml#p723">373 U. S. 723</a>; Estes v. Texas, <a href="../us381/us381-0532.xml#p532">381 U. S. 532</a>; Sheppard v. Maxwell, <a href="../us384/us384-0333.xml#p333">384 U. S. 333</a>, distinguished. Pp. <a href="./us421-0794.xml#p797">421 U. S. 797</a>-799.</p>
@@ -21,7 +21,7 @@
     <n id="p795">795</n>
     <p>MR. JUSTICE MARSHALL delivered the opinion of the Court.</p>
     <p>The question presented by this case is whether the petitioner was denied a fair trial because members of the jury had learned from news accounts about a prior felony conviction or certain facts about the crime with which he was charged. Under the circumstances of this case, we find that petitioner has not been denied due process, and we therefore affirm the judgment below.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Petitioner was convicted in the Dade County, Fla., Criminal Court in 1970 of breaking and entering a home, while armed, with intent to commit robbery, and of assault with intent to commit robbery. The charges stemmed from the January, 1968, robbery of a Miami Beach home and petitioner's apprehension, with three others, while fleeing from the scene.</p>
     <p>The robbery and petitioner's arrest received extensive press coverage because petitioner had been much in the news before. He had first made himself notorious for his part in the 1964 theft of the Star of India sapphire from a museum in New York. His flamboyant lifestyle made him a continuing subject of press interest; he was generally referred to -- at least in the media -- as "Murph the Surf."</p>
     <p>Before the date set for petitioner's trial on the instant charges, he was indicted on two counts of murder in</p>
@@ -32,7 +32,7 @@
     <n id="p797">797</n>
     <p>At trial, petitioner did not testify or put in any evidence; assertedly in protest of the selected jury, he did not cross-examine any of the State's witnesses. He was convicted on both counts, and, after an unsuccessful appeal, he sought habeas corpus relief in the District Court for the Southern District of Florida.</p>
     <p>The District Court denied petitioner relief, <a href="https://law.justia.com/cases/federal/district-courts/FSupp/363/1224/2254374/">363 F. Supp. 1224</a> (1973), and the Court of Appeals for the Fifth Circuit affirmed. 495 F.2d 553 (1974). We granted certiorari, 419 U.S. 1088 (1974), in order to resolve the apparent conflict between the decision below and that of the Third Circuit in United States ex rel. Doggett v. Yeager, 472 F.2d 229 (1973), over the applicability of Marshall v. United States, <a href="../us360/us360-0310.xml#p310">360 U. S. 310</a> (1959), to state criminal proceedings.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The defendant in Marshall was convicted of dispensing certain drugs without a prescription. In the course of the trial, seven of the jurors were exposed to various news accounts relating that Marshall had previously been convicted of forgery, that he and his wife had been arrested for other narcotics offenses, and that he had for some time practiced medicine without a license. After interviewing the jurors, however, the trial judge denied a motion for a mistrial, relying on the jurors' assurances that they could maintain impartiality in spite of the news articles.</p>
     <p>Noting that the jurors had been exposed to information with a high potential for prejudice, this Court reversed the conviction. It did so, however, expressly "[i]n the exercise of [its] supervisory power to formulate and apply proper standards for enforcement of the criminal law in the federal courts," and not as a matter of constitutional compulsion. Id. at 313.</p>
     <n id="p798">798</n>
@@ -43,7 +43,7 @@
     <n id="p799">799</n>
     <p>held. In those cases, the influence of the news media, either in the community at large or in the courtroom itself, pervaded the proceedings. In Rideau, the defendant had "confessed" to the murder of which he stood convicted. A 20-minute film of his confession was broadcast three times by a television station in the community where the crime and the trial took place. In reversing, the Court did not examine the voir dire for evidence of actual prejudice because it considered the trial under review "but a hollow formality" -- the real trial had occurred when tens of thousands of people, in a community of 150,000, had seen and heard the defendant admit his guilt before the cameras.</p>
     <p>The trial in Estes had been conducted in a circus atmosphere, due in large part to the intrusions of the press, which was allowed to sit within the bar of the court and to overrun it with television equipment. Similarly, Sheppard arose from a trial infected not only by a background of extremely inflammatory publicity, but also by a courthouse given over to accommodate the public appetite for carnival. The proceedings in these cases were entirely lacking in the solemnity and sobriety to which a defendant is entitled in a system that subscribes to any notion of fairness and rejects the verdict of a mob. They cannot be made to stand for the proposition that juror exposure to information about a state defendant's prior convictions or to news accounts of the crime with which he is charged alone presumptively deprives the defendant of due process. To resolve this case, we must turn, therefore, to any indications in the totality of circumstances that petitioner's trial was not fundamentally fair.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The constitutional standard of fairness requires that a defendant have "a panel of impartial, indifferent' jurors." Irvin v. Dowd, 366 U.S. at <a href="../us366/us366-0717.xml#p722">366 U. S. 722</a>. Qualified</p>
     <n id="p800">800</n>
     <p>jurors need not, however, be totally ignorant of the facts and issues involved.</p>

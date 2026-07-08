@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us603-22-859.html" citation="603 U.S. 22-859" title="SEC v. Jarkesy">
   <opinion type="Opinion" author="Roberts">
     <p>NOTICE: This opinion is subject to formal revision before publication in the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, pio@supremecourt.gov, of any typographical or other formal errors.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 22–859</p>
-    <p>_________________</p>
     <p>Securities and Exchange Commission, PETITIONER v. George R. Jarkesy, Jr., et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the fifth circuit</p>
     <p>[June 27, 2024]</p>
@@ -96,9 +95,7 @@
   </opinion>
   <opinion type="Concurrence" author="Gorsuch">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 22–859</p>
-    <p>_________________</p>
     <p>Securities and Exchange Commission, PETITIONER v. George R. Jarkesy, Jr., et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the fifth circuit</p>
     <p>[June 27, 2024]</p>
@@ -178,9 +175,7 @@
   </opinion>
   <opinion type="Dissent" author="Sotomayor">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 22–859</p>
-    <p>_________________</p>
     <p>Securities and Exchange Commission, PETITIONER v. George R. Jarkesy, Jr., et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the fifth circuit</p>
     <p>[June 27, 2024]</p>

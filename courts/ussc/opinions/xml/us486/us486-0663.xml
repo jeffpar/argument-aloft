@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us486-0663.html" citation="486 U.S. 663" title="Huffman v. Western Nuclear, Inc.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p663">663</n>
-    <h>U.S. Supreme Court</h>
-    <h>Huffman v. Western Nuclear, Inc., <a href="./us486-0663.xml#p663">486 U.S. 663</a> (1988)</h>
-    <h>Huffman v. Western Nuclear, Inc.</h>
-    <h>No. 87-645</h>
-    <h>Argued April 27, 1988</h>
-    <h>Decided June 15, 1988</h>
-    <h><a href="./us486-0663.xml#p663">486 U.S. 663</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE TENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Huffman v. Western Nuclear, Inc., <a href="./us486-0663.xml#p663">486 U.S. 663</a> (1988)</h1>
+    <h2>Huffman v. Western Nuclear, Inc.</h2>
+    <h2>No. 87-645</h2>
+    <h4>Argued April 27, 1988</h4>
+    <h4>Decided June 15, 1988</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE TENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Section 161(v) of the Atomic Energy Act of 1954 authorizes the Department of Energy (DOE) to offer its services, for a fee, to convert natural uranium into the enriched uranium used for fuel in commercial reactors, and provides that DOE "shall" restrict its enrichment of foreign-source uranium intended for use in domestic facilities "to the extent necessary to assure the maintenance of a viable domestic uranium industry." DOE has determined that the domestic uranium industry has not been "viable" since 1983, and that the imposition of restrictions on DOE's enrichment of foreign uranium would not assure viability. Respondent domestic uranium mining and milling companies filed suit against petitioners (DOE and some of its officers and employees) in Federal District Court, alleging that DOE's failure to impose restrictions on the enrichment of foreign uranium for use in domestic facilities constituted a violation of § 161(v). Respondents moved for summary judgment based on this claim, arguing that two facts -- that the domestic industry was not viable and that DOE imposed no restrictions on enrichment of foreign uranium -- established their entitlement to judgment as a matter of law under § 161(v). Petitioners filed a cross-motion for summary judgment, contending that § 161(v) did not require restrictions when those restrictions would not serve the statutory goal of assuring the maintenance of a viable domestic industry. The court entered summary judgment for respondents, holding that the statute gave DOE no discretion to determine not to impose restrictions if the domestic industry was not viable. The Court of Appeals affirmed the judgment in relevant part.</p>
     <p>Held: Section 161(v) does not require DOE to restrict the enrichment of foreign uranium where such restriction would not achieve the statutory goal of "assur[ing] the maintenance of a viable domestic uranium industry," for the statute ties the amount of restriction to be imposed to the achievement of that goal. Pp. <a href="./us486-0663.xml#p671">486 U. S. 671</a>-674.</p>
     <p>825 F.2d 1430, reversed and remanded.</p>
@@ -21,7 +21,7 @@
     <p>Section 161(v) of the Atomic Energy Act of 1954, as amended, 78 Stat. 606, 42 U.S.C. § 2201(v), provides that the Department of Energy (DOE) shall restrict its enrichment of foreign-source uranium intended for use in domestic facilities "to the extent necessary to assure the maintenance of a viable domestic uranium industry." DOE has determined that the domestic uranium industry has not been "viable" [<a id="nf1" href="#fn1">Footnote 1</a>] since 1983, and that the imposition of restrictions on the enrichment of foreign uranium would not assure viability. In this case, we consider whether § 161(v) requires DOE to restrict the enrichment of foreign uranium, irrespective of</p>
     <n id="p665">665</n>
     <p>whether such restriction would make the domestic industry viable. We conclude that it does not.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In 1964, as part of its efforts to move the nuclear power industry into the private sector, Congress enacted the Private Ownership of Special Nuclear Materials Act (Act), Pub.L. 88-489, 78 Stat. 602, which amended the Atomic Energy Act of 1954 to permit privately owned utilities operating nuclear reactors also to own, for the first time, the uranium used for fuel in their reactors. At the time of the statute's enactment, DOE's predecessor, the Atomic Energy Commission (AEC), was the only entity in the world with the facilities to convert natural uranium into the enriched uranium used for fuel in commercial reactors. [<a id="nf2" href="#fn2">Footnote 2</a>] In § 161(v), Congress accounted for this de facto monopoly by authorizing the AEC to offer "toll enrichment" services whereby utilities could obtain unenriched uranium on the open market and have it enriched by the AEC for a fee. It was to protect the uranium mining and milling industry from foreign competition during the period of transition from a Government-controlled market to an open one that Congress included in § 161(v) the requirement that the AEC, in written "criteria," restrict its enrichment of foreign-source uranium for domestic use "to the extent necessary to assure the maintenance of a viable domestic uranium industry." [<a id="nf3" href="#fn3">Footnote 3</a>]</p>
     <n id="p666">666</n>
     <p>The criteria initially established by the AEC provided that it would enrich no foreign-source uranium for domestic use. See 31 Fed.Reg. 16479 (1966). In 1974, expecting an increase in the demand for uranium to match the anticipated expansion in the commercial use of nuclear power, the AEC amended the criteria and provided for the gradual elimination by the end of 1983 of restrictions on its enrichment of foreign-source uranium for domestic use. See 39 Fed.Reg. 38016 (1974). The phase-out took place according to schedule, and DOE, which has replaced AEC for these purposes, [<a id="nf4" href="#fn4">Footnote 4</a>] has not reimposed restrictions on the enrichment of foreign uranium.</p>
@@ -52,7 +52,7 @@
     <p>Ibid.</p>
     <n id="p671">671</n>
     <p>At DOE's request, the Court of Appeals stayed its mandate pending this Court's final disposition of DOE's petition for certiorari. App. 4. We granted the writ. 484 U.S. 1003 (1988).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>We begin by emphasizing that the question presented here is a narrow one which comes to us as a challenge to the entry of summary judgment. That judgment rests on a legal conclusion drawn from two uncontested facts: that the domestic uranium industry was not viable, and that DOE was imposing no restrictions on the enrichment of foreign-source uranium for use in domestic facilities. On the basis of these facts alone, the courts below determined that DOE was violating the law, for they read § 161(v)</p>
     <p>"to require the DOE to restrict enrichment of foreign uranium whenever the domestic industry is not viable -- whether or not such restriction would result in successful resuscitation of the uranium industry."</p>
     <p>825 F.2d at 1437. Therefore, neither DOE's underlying assessment that the industry was not viable, nor its assessment that no amount of restriction would assure the industry's viability, nor, indeed, what it means to "assure the maintenance of a viable . . . industry" are before us at this time for review. The only question presented is whether, regardless of the effects restrictions would have on the viability of the domestic industry, DOE must impose restrictions on the enrichment of foreign-source uranium whenever the domestic industry is determined not to be viable.</p>
@@ -67,7 +67,7 @@
     <p>DOE's reading strikes us as the more natural one. [<a id="nf9" href="#fn9">Footnote 9</a>] While the parties, on remand, can argue over whether DOE properly determined that no amount of restriction would assure viability, and, indeed, what it means to assure viability, it seems strained to assert that, even if DOE properly determined that no amount of restriction would assure the viability of the industry, Congress nevertheless intended DOE to impose restrictions that were somehow calculated to serve that unattainable goal. [<a id="nf10" href="#fn10">Footnote 10</a>] Indeed, it is impossible to ascertain</p>
     <n id="p674">674</n>
     <p>from the statute how DOE would calculate the extent of restriction to be imposed under respondents' interpretation of the statute. The only guidepost DOE has is the amount necessary to assure the viability of the domestic industry. See 825 F.2d at 1438 (interpreting the phrase "to the extent necessary to assure the maintenance of a viable domestic industry" as "inform[ing] the DOE of the amount of restriction required") (emphasis in original). Where DOE determines that no such amount exists, it is without guidance in setting restrictions. The determination of the courts below that DOE was barred from enriching any foreign-source uranium rests on the assumption that the greater the restrictions, the more assured is the domestic industry's viability. This assumption cannot be grounded in the statutory language and, indeed, for the purpose of this case's summary judgment status, we must accept DOE's assertion that the assumption is false.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Because we conclude that Congress did not intend to force DOE to impose enrichment restrictions where such restrictions would not achieve the statutory goal they were intended to achieve, the judgment of the Court of Appeals is reversed and the case is remanded for further proceedings consistent with this opinion. [<a id="nf11" href="#fn11">Footnote 11</a>]</p>
     <p>It is so ordered.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us456-0444.html" citation="456 U.S. 444" title="Greene v. Lindsey">
   <opinion type="Opinions &amp; Dissents">
     <n id="p444">444</n>
-    <h>U.S. Supreme Court</h>
-    <h>Greene v. Lindsey, <a href="./us456-0444.xml#p444">456 U.S. 444</a> (1982)</h>
-    <h>Greene v. Lindsey</h>
-    <h>No. 81341</h>
-    <h>Argued February 23, 1982</h>
-    <h>Decided May 17, 1982</h>
-    <h><a href="./us456-0444.xml#p444">456 U.S. 444</a></h>
-    <h>APPEAL FROM THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE SIXTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Greene v. Lindsey, <a href="./us456-0444.xml#p444">456 U.S. 444</a> (1982)</h1>
+    <h2>Greene v. Lindsey</h2>
+    <h2>No. 81341</h2>
+    <h4>Argued February 23, 1982</h4>
+    <h4>Decided May 17, 1982</h4>
+    <h2>APPEAL FROM THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE SIXTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>A Kentucky statute permits service of process in forcible entry or detainer actions to be made by posting a summons "in a conspicuous place on the premises," if the defendant or a member of the defendant's family over 16 years of age cannot be found on the premises. Service of process under this statute was made on appellee tenants in a public housing project by posting a summons on the door of each of their apartments. Appellees claim that they never saw the summonses and did not know of the eviction proceedings until they were served with writs of possession, executed after default judgments had been entered against them and their opportunity for appeal had lapsed. They then filed a class action in Federal District Court against appellant public officials, seeking declaratory and injunctive relief under 42 U.S.C. § 1983 and alleging that the notice procedures employed violated the Due Process Clause of the Fourteenth Amendment. The District Court granted summary judgment for appellants, holding that such notice procedures did not deny due process. The Court of Appeals reversed.</p>
     <p>Held: In failing to afford appellees adequate notice of the proceedings against them before issuing final orders of eviction, the State deprived them of property without due process of law required by the Fourteenth Amendment. Pp. <a href="./us456-0444.xml#p449">456 U. S. 449</a>-456.</p>
     <p>(a) "An elementary and fundamental requirement of due process in any proceeding which is to be accorded finality is notice reasonably calculated, under all the circumstances, to apprise interested parties of the pendency of the action and afford them an opportunity to present their objections." Mullane v. Central Hanover Bank &amp; Trust Co., <a href="../us339/us339-0306.xml#p306">339 U. S. 306</a>,3 <a href="../us339/us339-0009.xml#p14">339 U. S. 14</a>. Pp. <a href="./us456-0444.xml#p449">456 U. S. 449</a>-450.</p>
@@ -26,7 +26,7 @@
     <p>JUSTICE BRENNAN delivered the opinion of the Court.</p>
     <p>A Kentucky statute provides that in forcible entry or detainer actions, service of process may be made under certain circumstances by posting a summons on the door of a tenant's apartment. The question presented is whether this statute, as applied to tenants in a public housing project, fails to afford those tenants the notice of proceedings initiated against them required by the Due Process Clause of the Fourteenth Amendment.</p>
     <n id="p446">446</n>
-    <h>I</h>
+    <h2>I</h2>
     <p>Appellees Linnie Lindsey, Barbara Hodgens, and Pamela Ray are tenants in a Louisville, Ky., housing project. Appellants are the Sheriff of Jefferson County, Ky., and certain unnamed Deputy Sheriffs charged with responsibility for serving process in forcible entry and detainer actions. In 1975, the Housing Authority of Louisville initiated detainer actions against each of appellees, seeking repossession of their apartments. Service of process was made pursuant to Ky.Rev.Stat. § 454.030 (1975), which states:</p>
     <p>"If the officer directed to serve notice on the defendant in forcible entry or detainer proceedings cannot find the defendant on the premises mentioned in the writ, he may explain and leave a copy of the notice with any member of the defendant's family thereon over sixteen (16) years of age, and if no such person is found he may serve the notice by posting a copy thereof in a conspicuous place on the premises. The notice shall state the time and place of meeting of the court."</p>
     <p>In each instance, notice took the form of posting a copy of the writ of forcible entry and detainer on the door of the tenant's apartment. [<a id="nf1" href="#fn1">Footnote 1</a>] Appellees claim never to have seen these posted summonses; they state that they did not learn of the</p>
@@ -43,7 +43,7 @@
     <p>649 F.2d at 428, quoting Mullane, supra, at <a href="../us339/us339-0306.xml#p319">339 U. S. 319</a>. [<a id="nf2" href="#fn2">Footnote 2</a>] The court held, therefore, that the notice provided</p>
     <n id="p449">449</n>
     <p>pursuant to § 454.030 was constitutionally deficient. We noted probable jurisdiction, 454 U.S. 938 (1981), and now affirm.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>A</p>
     <p>"The fundamental requisite of due process of law is the opportunity to be heard." Grannis v. Ordean, <a href="../us234/us234-0385.xml#p385">234 U. S. 385</a>, <a href="../us234/us234-0385.xml#p394">234 U. S. 394</a> (1914). And the</p>
     <p>"right to be heard has little reality or worth unless one is informed that the matter is pending and can choose for himself whether to appear or default, acquiesce or contest,"</p>
@@ -71,7 +71,7 @@
     <p>As noted by the Court of Appeals, and as we noted in Mullane, the mails provide an "efficient and inexpensive means of communication," id. at <a href="../us339/us339-0306.xml#p319">339 U. S. 319</a>, upon which prudent men will ordinarily rely in the conduct of important affairs, id. at <a href="../us339/us339-0306.xml#p319">339 U. S. 319</a>-320. Notice by mail in the circumstances of this case would surely go a long way toward providing the constitutionally required assurance that the State has not allowed its power to be invoked against a person who has had no opportunity to present a defense despite a continuing interest in the resolution of the controversy. [<a id="nf9" href="#fn9">Footnote 9</a>] Particularly where the subject matter of the action also happens to be the mailing address of the defendant, and where personal service is ineffectual, notice by mail may reasonably be relied upon to provide interested persons with actual notice of judicial proceedings. We need not go so far as to insist that, in order to "dispense with personal service, the substitute that is most likely to reach the defendant is the least that ought to be required," McDonald v. Mabee, 243 U.S. at <a href="../us243/us243-0090.xml#p92">243 U. S. 92</a>, in order to recognize that, where an inexpensive and efficient mechanism such as mail service is available to enhance the reliability of an otherwise unreliable notice procedure, the State's continued exclusive reliance on an ineffective means of service is not notice "reasonably calculated to reach those who could</p>
     <n id="p456">456</n>
     <p>easily be informed by other means at hand." Mullane, supra, at <a href="../us339/us339-0306.xml#p319">339 U. S. 319</a>. [<a id="nf10" href="#fn10">Footnote 10</a>]</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>We conclude that, in failing to afford appellees adequate notice of the proceedings against them before issuing final orders of eviction, the State has deprived them of property without the due process of law required by the Fourteenth Amendment. The judgment of the Court of Appeals is therefore</p>
     <p>Affirmed.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>

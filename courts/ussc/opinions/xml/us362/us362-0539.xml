@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us362-0539.html" citation="362 U.S. 539" title="Mitchell v. Trawler Racer, Inc.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p539">539</n>
-    <h>U.S. Supreme Court</h>
-    <h>Mitchell v. Trawler Racer, Inc., <a href="./us362-0539.xml#p539">362 U.S. 539</a> (1960)</h>
-    <h>Mitchell v. Trawler Racer, Inc.</h>
-    <h>No. 176</h>
-    <h>Argued January 21, 1960</h>
-    <h>Decided May 16, 1960</h>
-    <h><a href="./us362-0539.xml#p539">362 U.S. 539</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE FIRST CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Mitchell v. Trawler Racer, Inc., <a href="./us362-0539.xml#p539">362 U.S. 539</a> (1960)</h1>
+    <h2>Mitchell v. Trawler Racer, Inc.</h2>
+    <h2>No. 176</h2>
+    <h4>Argued January 21, 1960</h4>
+    <h4>Decided May 16, 1960</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE FIRST CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>In an action by a seaman who was a member of the crew of a fishing trawler to recover damages for personal injuries sustained as a result of unseaworthiness due to the temporary presence on the ship's rail of slime and fish gurry remaining there from recent unloading operations, the shipowner's actual or constructive knowledge of the temporary unseaworthy condition is not an essential element of the seaman's case. Pp. <a href="./us362-0539.xml#p539">362 U. S. 539</a>-550.</p>
     <p>(a) A shipowner's duty to furnish a seaworthy ship is absolute, and it is not limited by concepts of common law negligence. Pp. <a href="./us362-0539.xml#p542">362 U. S. 542</a>-549.</p>
     <p>(b) Liability of the shipowner for a temporary unseaworthy condition is not different from the liability which attaches when the unseaworthy condition is permanent. Pp. <a href="./us362-0539.xml#p549">362 U. S. 549</a>-550.</p>
@@ -39,7 +39,7 @@
     <p>This was the historical background behind Mr. Justice Brown's much quoted second proposition in The Osceola, <a href="../us189/us189-0158.xml#p158">189 U. S. 158</a>, <a href="../us189/us189-0158.xml#p175">189 U. S. 175</a>:</p>
     <p>"That the vessel and her owner are, both by English and American law, liable to an indemnity for injuries received by seamen in consequence of the unseaworthiness of the ship, or a failure to supply and keep in order the proper appliances appurtenant to the ship."</p>
     <p>In support of this proposition, the Court's opinion noted that</p>
-    <p>"[i]t will be observed in these cases that a departure has been made from the Continental Codes in allowing an indemnity beyond the expense of maintenance and cure in cases arising from unseaworthiness. This departure originated in England in the Merchants' shipping act of 1876 . . . , and, in this country, in a general consensus of opinion among the circuit and</p>
+    <p>"[i]t will be observed in these cases that a departure has been made from the Continental Codes in allowing an indemnity beyond the expense of maintenance and cure in cases arising from unseaworthiness. This departure originated in England in the Merchants' shipping act of 1876 . . ., and, in this country, in a general consensus of opinion among the circuit and</p>
     <n id="p546">546</n>
     <p>district courts, that an exception should be made from the general principle before obtaining in favor of seamen suffering injury through the unseaworthiness of the vessel. We are not disposed to disturb so wholesome a doctrine by any contrary decision of our own."</p>
     <p>189 U.S. at <a href="../us189/us189-0158.xml#p175">189 U. S. 175</a>.</p>
@@ -47,7 +47,7 @@
     <n id="p547">547</n>
     <p>the kinds of negligence for which the shipowner is liable, as well as limitations imposed by the fellow servant doctrine, by extending to seamen the remedies made available to railroad workers under the Federal Employers' Liability Act. [<a id="nf9" href="#fn9">Footnote 9</a>]</p>
     <p>The first reference in this Court to the shipowner's obligation to furnish a seaworthy ship as explicitly unrelated to the standard of ordinary care in a personal injury case appears in Carlisle Packing Co. v. Sandanger, <a href="../us259/us259-0255.xml#p255">259 U. S. 255</a>. There, it was said,</p>
-    <p>"we think the trial court might have told the jury that without regard to negligence the vessel was unseaworthy when she left the dock . . . , and that, if thus unseaworthy and one of the crew received damage as the direct result thereof, he was entitled to recover compensatory damages."</p>
+    <p>"we think the trial court might have told the jury that without regard to negligence the vessel was unseaworthy when she left the dock . . ., and that, if thus unseaworthy and one of the crew received damage as the direct result thereof, he was entitled to recover compensatory damages."</p>
     <p>259 U.S. at <a href="../us259/us259-0255.xml#p259">259 U. S. 259</a>. This characterization of unseaworthiness as unrelated to negligence was probably not necessary to the decision in that case, where the respondent's injuries had clearly in fact been caused by failure to exercise ordinary care (putting gasoline in a can labeled "coal oil" and neglecting to provide the vessel with life preservers). Yet there is no reason to suppose that the Court's language was inadvertent. [<a id="nf10" href="#fn10">Footnote 10</a>]</p>
     <p>During the two decades that followed the Carlisle decision, there came to be a general acceptance of the view that The Osceola had enunciated a concept of absolute liability for unseaworthiness unrelated to principles of negligence law. Personal injury litigation based upon unseaworthiness was substantial. See, Gilmore and Black, The Law of Admiralty (1957), p. 316. And the standard texts accepted that theory of liability without question.</p>
     <n id="p548">548</n>
@@ -126,7 +126,7 @@
       <n id="p552">552</n>
       <p>injury caused by a negligently created unseaworthy condition was compensable even when, under the rule laid down in The Osceola, <a href="../us189/us189-0158.xml#p158">189 U. S. 158</a>, negligent injury without unseaworthiness would not be. 112 Wash. 480, 192 P. 1005.</p>
       <p>The matter was dealt with in this Court in the few lines innovating the rule of absolute liability:</p>
-      <p>"we think the trial court might have told the jury that, without regard to negligence, the vessel was unseaworthy when she left the dock . . . , and that if . . . one of the crew received damage as the direct result thereof, he was entitled to recover compensatory damages."</p>
+      <p>"we think the trial court might have told the jury that, without regard to negligence, the vessel was unseaworthy when she left the dock . . ., and that if . . . one of the crew received damage as the direct result thereof, he was entitled to recover compensatory damages."</p>
       <p>259 U.S. at <a href="../us259/us259-0255.xml#p259">259 U. S. 259</a>. (The full text is quoted in the margin. [Footnote 2/1]) No explication accompanied this dogmatic pronouncement on an issue not presented by an issue of the affirmed judgment. It was strangely deemed sufficient to rely on the unelaborated citation of two cases in this Court (The Silvia, <a href="../us171/us171-0462.xml#p462">171 U. S. 462</a>, <a href="../us171/us171-0462.xml#p464">171 U. S. 464</a>, and The Southwark, <a href="../us191/us191-0001.xml#p1">191 U. S. 1</a>, <a href="../us191/us191-0001.xml#p8">191 U. S. 8</a>) which were concerned not with the rights of seamen, but with the shipowner's liability for cargo damage. The abrupt, unreasoned conclusion was reached without benefit of argument: the parties had presented the case solely on the basis on which the action was instituted and in the terms in which it had been decided by the Supreme Court of Washington -- liability founded on negligence. Neither our own investigation nor that of the parties here has disclosed a single case in an English or an American court prior to Sandanger in which the absolute duty to</p>
       <n id="p553">553</n>
       <p>provide a seaworthy vessel for cargo carriage and marine insurance contracts was applied to a seaman's suit for personal injury. Sandanger was an unillumined departure in the law of the sea. Reasoned decision of the case before us, in which extension is sought of a rule so dubiously initiated, [Footnote 2/2] requires that its rational, historical and social basis be scrutinized, and not merely accepted as unquestionable dogma.</p>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us495-0660.html" citation="495 U.S. 660" title="Citibank, N.A. v. Wells Fargo Asia Ltd.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p660">660</n>
-    <h>U.S. Supreme Court</h>
-    <h>Citibank, N.A. v. Wells Fargo Asia Ltd., <a href="./us495-0660.xml#p660">495 U.S. 660</a> (1990)</h>
-    <h>Citibank, N.A. v. Wells Fargo Asia Ltd.</h>
-    <h>No. 88-1260</h>
-    <h>Argued March 19, 1990</h>
-    <h>Decided May 29, 1990</h>
-    <h><a href="./us495-0660.xml#p660">495 U.S. 660</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE SECOND CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Citibank, N.A. v. Wells Fargo Asia Ltd., <a href="./us495-0660.xml#p660">495 U.S. 660</a> (1990)</h1>
+    <h2>Citibank, N.A. v. Wells Fargo Asia Ltd.</h2>
+    <h2>No. 88-1260</h2>
+    <h4>Argued March 19, 1990</h4>
+    <h4>Decided May 29, 1990</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE SECOND CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondent Wells Fargo Asia Limited (WFAL), a Singapore-chartered bank wholly owned by a United States-chartered bank, agreed to make two time deposits in Eurodollars -- i.e., United States dollars that have been deposited with a banking institution located outside the country, with a corresponding obligation on the part of that institution to repay the deposits in United States dollars -- with Citibank/Manila, a branch of petitioner Citibank, N.A. (Citibank), which is chartered in the United States. The parties received telexes detailing the deposits' terms from the money broker who had arranged them. The parties also exchanged slips confirming the deposits and stating that repayment was to occur in New York. Citibank/Manila refused to repay the deposits when they matured because a Philippine government decree prevented it from repaying them with its Philippine assets. WFAL commenced suit in the District Court, claiming that Citibank in New York was liable for the funds deposited with Citibank/Manila. Finding that there was a distinction between "repayment," which refers to the physical location for transacting discharge of the debt, and "collection," which refers to the location where assets may be taken to satisfy the debt, the court determined that the parties' confirmation slips established an agreement to repay the deposits in New York, but that there was neither an express agreement nor one that could be implied from custom or usage in the Eurodollar market on the issue of where the deposits could be collected; that no provision of Philippine law barred an agreement making WFAL's deposits collectible outside Manila; that, in the absence of such an agreement, New York law, rather than Philippine law, applied and required that Citibank be found liable for WFAL's deposits with Citibank/Manila; and that WFAL could look to Citibank's worldwide assets for satisfaction of its deposits. T he Court of Appeals affirmed on different grounds. It concluded that the District Court's finding that the parties had agreed to repay WFAL's deposits in New York was not clearly erroneous under Federal Rule of Civil Procedure 52(a) and reasoned that, under general banking law principles, if parties agree that repayment of a foreign bank deposit may occur at another location, they authorize demand and collection of the deposit at that location. Thus, it held that</p>
     <n id="p661">661</n>
     <p>WFAL was entitled to collect its deposits out of Citibank's New York assets.</p>
@@ -26,7 +26,7 @@
     <p>KENNEDY, J., delivered the opinion of the Court, in which REHNQUIST, C.J., and BRENNAN, WHITE, MARSHALL, BLACKMUN, O'CONNOR, and SCALIA, JJ., joined. REHNQUIST, C.J., filed a concurring opinion, post, p. <a href="./us495-0660.xml#p674"> 495 U. S. 674</a>. STEVENS, J., filed a dissenting opinion., post, p. <a href="./us495-0660.xml#p674">495 U. S. 674</a>.</p>
     <p>JUSTICE KENNEDY delivered the opinion of the Court.</p>
     <p>At issue here is whether the home office of a United States bank is obligated to use its general assets to repay a Eurodollar deposit made at one of its foreign branches, after the foreign country's government has prohibited the branch from making repayment out of its own assets.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The case arises from a transaction in what is known in the banking and financial communities as the Eurodollar market. As the District Court defined the term, Eurodollars are</p>
     <n id="p663">663</n>
     <p>United States dollars that have been deposited with a banking institution located outside the United States, with a corresponding obligation on the part of the banking institution to repay the deposit in United States dollars. See App. to Pet. for Cert. 42a; P. Oppenheim, International Banking 243 (5th ed. 1987). The banking institution receiving the deposit can be either a foreign branch of a United States bank or a foreign bank.</p>
@@ -72,7 +72,7 @@
     <p>location, they authorize demand and collection at that other location."</p>
     <p>852 F.2d at 660. The court noted that the District Court had found that Citibank had agreed to repay WFAL's deposits in New York. It concluded that the District Court's finding was not clearly erroneous under Federal Rule of Civil Procedure 52(a), and held that, as a result, WFAL was entitled "to collect the deposits out of Citibank assets in New York." 852 F.2d at 661.</p>
     <p>We granted certiorari. 493 U.S. 990 (1989). We decide that the factual premise on which the Second Circuit relied in deciding the case contradicts the factual determinations made by the District Court, determinations that are not clearly erroneous. We vacate the judgment and remand the case to the Court of Appeals for further consideration of the additional legal questions in the case.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Little need be said respecting the operation or effect of the Philippine decree at this stage of the case, for no party questions the conclusion reached by both the District Court and the Court of Appeals that Philippine law does not bar the collection of WFAL's deposits from the general assets of Citibank in the State of New York. See 852 F.2d at 660-661; App. to Pet. for Cert. 18a. The question, rather, is whether Citibank is obligated to allow collection in New York, and on this point two principal theories must be examined. The first is that there was an agreement between the parties to permit collection in New York, or indeed at any place where Citibank has assets, an agreement implied from all the facts in the case as being within the contemplation of the parties. A second, and alternative, theory for permitting collection is that, assuming no such agreement, there is a duty to pay in New York in any event, a duty that the law creates when the parties have not contracted otherwise. See 3 A. Corbin, Contracts § 561, pp. 276-277 (1960).</p>
     <n id="p669">669</n>
     <p>The Court of Appeals appears to have relied upon the first theory we have noted, adopting the premise that the parties did contract to permit recovery from the general assets of Citibank in New York. Yet the District Court had made it clear that there is a distinction between an agreement on "repayment," which refers to the physical location for transacting discharge of the debt, and an agreement respecting "collection," which refers to the location where assets may be taken to satisfy it, and, in quite specific terms, it found that the only agreement the parties made referred to repayment.</p>

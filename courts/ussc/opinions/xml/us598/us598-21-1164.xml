@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us598-21-1164.html" citation="598 U.S. 21-1164" title="Wilkins v. United States">
   <opinion type="Opinion" author="Sotomayor">
     <p>NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 21–1164</p>
-    <p>_________________</p>
     <p>LARRY STEVEN WILKINS, et al., PETITIONERS v. UNITED STATES</p>
     <p>on writ of certiorari to the united states court of appeals for the ninth circuit</p>
     <p>[March 28, 2023]</p>
@@ -14,7 +13,7 @@
     <p>Petitioners sued over the scope of the easement under the Quiet Title Act, which allows challenges to the United States’ rights in real property. Invoking the Act’s 12-year time limit, 28 U. S. C. §2409a(g), the Government maintains that the suit is jurisdictionally barred. Petitioners counter, and the Court holds, that §2409a(g) is a nonjurisdictional claims-processing rule.</p>
     <p>I</p>
     <p>Robbins Gulch Road runs through about a mile of private property. Petitioners acquired their properties along the road in 1991 and 2004. Back in 1962, petitioners’ predecessors in interest had granted the United States an easement for the road. The Government contends that the easement includes public access, which petitioners dispute. On petitioners’ telling, the easement does not allow access to the general public and requires the Government to maintain and patrol the road.</p>
-    <p>In 2018, petitioners brought suit under the Quiet Title Act. The Government moved to dismiss the action on the ground that the Act’s 12-year time limit had expired. Under the Act, “[a]ny civil action . . . , except for an action brought by a State, shall be barred unless it is commenced within twelve years of the date upon which it accrued.” §2409a(g). Accrual occurs “on the date the plaintiff or his predecessor in interest knew or should have known of the claim of the United States.” Ibid. The parties disagreed as to whether the Act’s time limit is jurisdictional, which is relevant to the procedures for litigating whether §2409a(g) bars petitioners’ claim.[<a id="nf1-1" href="#fn1-1">1</a>]</p>
+    <p>In 2018, petitioners brought suit under the Quiet Title Act. The Government moved to dismiss the action on the ground that the Act’s 12-year time limit had expired. Under the Act, “[a]ny civil action . . ., except for an action brought by a State, shall be barred unless it is commenced within twelve years of the date upon which it accrued.” §2409a(g). Accrual occurs “on the date the plaintiff or his predecessor in interest knew or should have known of the claim of the United States.” Ibid. The parties disagreed as to whether the Act’s time limit is jurisdictional, which is relevant to the procedures for litigating whether §2409a(g) bars petitioners’ claim.[<a id="nf1-1" href="#fn1-1">1</a>]</p>
     <p>The District Court agreed with the Government and dismissed the case for lack of subject-matter jurisdiction. The Ninth Circuit affirmed the dismissal for lack of jurisdiction. 13 F. 4th 791 (2021). Applying Circuit precedent, the Court of Appeals held that this Court had already interpreted §2409a(g) as jurisdictional in Block v. North Dakota ex rel. Board of Univ. and School Lands, <a href="../us461/us461-0273.xml#p273">461 U.S. 273</a> (1983). This further entrenched a divide among the Courts of Appeals.[<a id="nf1-2" href="#fn1-2">2</a>] This Court granted certiorari to resolve the split, 596 U. S. ___ (2022), and now reverses the Ninth Circuit’s judgment.</p>
     <p>II</p>
     <p>A</p>
@@ -50,9 +49,7 @@
   </opinion>
   <opinion type="Dissent" author="Thomas">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 21–1164</p>
-    <p>_________________</p>
     <p>LARRY STEVEN WILKINS, et al., PETITIONERS v. UNITED STATES</p>
     <p>on writ of certiorari to the united states court of appeals for the ninth circuit</p>
     <p>[March 28, 2023]</p>

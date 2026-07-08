@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us500-0291.html" citation="500 U.S. 291" title="Farrey v. Sanderfoot">
   <opinion type="Opinions &amp; Dissents">
     <n id="p291">291</n>
-    <h>U.S. Supreme Court</h>
-    <h>Farrey v. Sanderfoot, <a href="./us500-0291.xml#p291">500 U.S. 291</a> (1990)</h>
-    <h>Farrey v. Sanderfoot</h>
-    <h>No. 90-350</h>
-    <h>Argued March 25, 1991</h>
-    <h>Decided May 23, 1991</h>
-    <h><a href="./us500-0291.xml#p291">500 U.S. 291</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SEVENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Farrey v. Sanderfoot, <a href="./us500-0291.xml#p291">500 U.S. 291</a> (1990)</h1>
+    <h2>Farrey v. Sanderfoot</h2>
+    <h2>No. 90-350</h2>
+    <h4>Argued March 25, 1991</h4>
+    <h4>Decided May 23, 1991</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SEVENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>When petitioner Farrey and respondent Sanderfoot divorced, a Wisconsin court awarded each one-half of their marital estate. Among other things, the decree awarded Farrey's interest in the family home and real estate to Sanderfoot and ordered him to make payments to Farrey to equalize their net marital assets. To secure the award, the court granted Farrey a lien against Sanderfoot's real property. Sanderfoot did not pay Farrey, and subsequently filed for bankruptcy, listing the marital home and real estate as exempt homestead property. The Bankruptcy Court denied his motion to avoid Farrey's lien under 11 U.S.C. § 522(f)(1) -- which provides, inter alia, that a debtor "may avoid the fixing of a [judicial] lien on an interest of the debtor in property" -- finding that the lien could not be avoided because it protected Farrey's preexisting interest in the marital property. The District Court reversed, and the Court of Appeals affirmed.</p>
     <p>Held:</p>
     <p>1. Section 522(f)(1) requires a debtor to have possessed an interest to which a lien attached, before it attached, to avoid the fixing of a lien on that interest. The statute does not permit avoidance of any lien on a property, but instead expressly permits avoidance of "the fixing of a lien on an interest of the debtor." A fixing that takes place before the debtor acquires an interest, by definition, is not on the debtor's interest. This reading fully comports with § 522(f)'s purpose, which is to protect the debtor's exempt property, and its legislative history, which suggests that Congress primarily intended § 522(f)(1) as a device to thwart creditors who, sensing an impending bankruptcy, rush to court to obtain a judgment to defeat the debtor's exemptions. To permit lien avoidance where the debtor at no point possessed the interest without the judicial lien would allow judicial lienholders to be defrauded through the conveyance of an encumbered interest to a prospective debtor. Pp. <a href="./us500-0291.xml#p295">500 U. S. 295</a>-299.</p>
@@ -22,7 +22,7 @@
     <p>WHITE, J., delivered the opinion of the Court, in which REHNQUIST, C.J., and MARSHALL, BLACKMUN, STEVENS, O'CONNOR, KENNEDY, and SOUTER, JJ., joined, and in all but the penultimate paragraph of Part III of which SCALIA, J., joined. KENNEDY, J., filed a concurring opinion, in which SOUTER, J., joined, post, p. <a href="./us500-0291.xml#p301">500 U. S. 301</a>.</p>
     <p>JUSTICE WHITE delivered the opinion of the Court.</p>
     <p>In this case we consider whether § 522(f) of the Bankruptcy Code allows a debtor to avoid the fixing of a lien on a homestead, where the lien is granted to the debtor's former spouse under a divorce decree that extinguishes all previous interests the parties had in the property, and in no event secures more than the value of the nondebtor spouse's former interest. We hold that it does not.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Petitioner Jeanne Farrey and respondent Gerald Sanderfoot were married on August 12, 1966. The couple eventually built a home on 27 acres of land in Hortonville, Wisconsin, where they raised their three children. On September 12, 1986, the Wisconsin Court for Outagamie County entered a bench decision granting a judgment of divorce and property division that resolved all contested issues and terminated</p>
     <n id="p293">293</n>
     <p>the marriage. See Wis.Stat. § 767.37(3) (1989-1990). A written decree followed on February 5, 1987.</p>
@@ -35,7 +35,7 @@
     <p>v. Robinson, 741 F.2d 1112, 1115 (CA8 1984) (Ross, J., dissenting))</p>
     <p>Judge Posner, in dissent, argued that, to avoid a lien under § 522(f), a debtor must have an interest in the property at the time the court places the lien on that interest. Judge Posner concluded that, because the same decree that gave the entire property to Sanderfoot simultaneously created the lien in favor of Farrey, the lien did not attach to a preexisting interest of the husband. The dissent's conclusion followed the result, though not the rationale, of Boyd, supra, In re Borman, 886 F.2d 273 (CA10 1989), and In re Donahue, 862 F.2d 259 (CA10 1988).</p>
     <p>We granted certiorari to resolve the conflict of authority. 495 U.S. 980 (1990). We now reverse the Court of Appeals' judgment and remand.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Section 522(f)(1) provides in relevant part:</p>
     <p>"Notwithstanding any waiver of exemptions, the debtor may avoid the fixing of a lien on an interest of the debtor in property to the extent that such lien impairs an exemption to which the debtor would have been entitled under subsection (b) of this section, if such lien is -- "</p>
     <p>"(1) a judicial lien. . . ."</p>
@@ -55,7 +55,7 @@
     <p>Conversely, the text, history, and purpose of § 522(f)(1) also indicate what the provision is not concerned with. It cannot be concerned with liens that fixed on an interest before the debtor acquired that interest. Neither party contends otherwise. Section 522(f)(1) does not state that any fixing of a lien may be avoided; instead, it permits avoidance of the "fixing of a lien on an interest of the debtor." If the fixing took place before the debtor acquired that interest, the "fixing," by definition, was not on the debtor's interest. Nor could the statute apply, given its purpose of preventing a creditor from beating the debtor to the courthouse, since the debtor at no point possessed the interest without the judicial lien. There would be no fixing to avoid, since the lien was already there. To permit lien avoidance in these circumstances, in fact, would be to allow judicial lienholders to be defrauded through the conveyance of an encumbered interest to a prospective debtor. See In re McCormick, 18 B.R.</p>
     <n id="p299">299</n>
     <p>911, 913-914 (Bkrtcy.Ct. WD Pa.1982). For these reasons, it is settled that a debtor cannot use § 522(f)(1) to avoid a lien on an interest acquired after the lien attached. See, e.g., In re McCormick, supra; In re Stephens, 15 B.R. 485 (Bkrtcy.Ct. WD NC 1981); In re Scott, 12 B.R. 613 (Bkrtcy.Ct. WD Okla.1981). As before, the critical inquiry remains whether the debtor ever possessed the interest to which the lien fixed, before it fixed. If he or she did not, § 522(f)(1) does not permit the debtor to avoid the fixing of the lien on that interest.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>We turn to the application of § 522(f)(1) to this case.</p>
     <p>Whether Sanderfoot ever possessed an interest to which the lien fixed, before it fixed, is a question of state law. Farrey contends that, prior to the divorce judgment, she and her husband held title to the real estate in joint tenancy, each possessing an undivided one-half interest. She further asserts that the divorce decree extinguished these previous interests. At the same time and in the same transaction, she concludes, the decree created new interests in place of the old: for Sanderfoot, ownership in fee simple of the house and real estate; for Farrey, various assets and a debt of $29,208.44 secured by a lien on the Sanderfoot's new fee simple interest. Both in his briefs and at oral argument, Sanderfoot agreed on each point. (Brief for Respondent 7-8; Tr. of Oral Arg. 39).</p>
     <p>On the assumption that the parties characterize Wisconsin law correctly, Sanderfoot must lose. Under their view, the lien could not have fixed on Sanderfoot's preexisting undivided half interest, because the divorce decree extinguished it. Instead, the only interest that the lien encumbers is debtor's wholly new fee simple interest. The same decree that awarded Sanderfoot his fee simple interest simultaneously granted the lien to Farrey. As the judgment stated, he acquired the property "free and clear" of any claim "except as expressly provided in this [decree]." (App. to Pet.</p>
@@ -65,7 +65,7 @@
     <p>The result, on either theory, accords with the provision's main purpose. As noted, the legislative history suggests that Congress primarily intended § 522(f)(1) as a device to thwart creditors who, sensing an impending bankruptcy, rush to court to obtain a judgment to defeat the debtor's exemptions. That is not what occurs in a divorce proceeding such as this. Farrey obtained the lien not to defeat</p>
     <n id="p301">301</n>
     <p>Sanderfoot's preexisting interest in the homestead, but to protect her own preexisting interest in the homestead that was fully equal to that of her spouse. The divorce court awarded the lien to secure an obligation the court imposed on the husband in exchange for the court's simultaneous award of the wife's homestead interest to the husband. We agree with Judge Posner that to permit a debtor in these circumstances to use the Code to deprive a spouse of this protection would neither follow the language of the statute nor serve the main goal it was designed to address.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>We hold that § 522(f)(1) of the Bankruptcy Code requires a debtor to have possessed an interest to which a lien attached, before it attached, to avoid the fixing of the lien on that interest. Accordingly, the judgment of the Court of Appeals is reversed, and the case is remanded for further proceedings consistent with this opinion.</p>
     <p>It is so ordered.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>

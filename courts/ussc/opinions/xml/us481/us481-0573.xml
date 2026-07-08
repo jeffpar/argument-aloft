@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us481-0573.html" citation="481 U.S. 573" title="NLRB v. IBEW">
   <opinion type="Opinions &amp; Dissents">
     <n id="p573">573</n>
-    <h>U.S. Supreme Court</h>
-    <h>NLRB v. IBEW, <a href="./us481-0573.xml#p573">481 U.S. 573</a> (1987)</h>
-    <h>National Labor Relations Board v. International Brotherhood</h>
-    <h>of Electrical Workers</h>
-    <h>No. 85-1924</h>
-    <h>Argued February 25, 1987</h>
-    <h>Decided May 18, 1987</h>
-    <h><a href="./us481-0573.xml#p573">481 U.S. 573</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>NLRB v. IBEW, <a href="./us481-0573.xml#p573">481 U.S. 573</a> (1987)</h1>
+    <h2>National Labor Relations Board v. International Brotherhood</h2>
+    <h2>of Electrical Workers</h2>
+    <h4>No. 85-1924</h4>
+    <h4>Argued February 25, 1987</h4>
+    <h4>Decided May 18, 1987</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondent Union fined two of its members (Schoux and Choate), who worked as supervisors, for violating its constitution by working for employers that did not have a collective bargaining agreement with the Union. The employers filed unfair labor practice charges with the National Labor Relations Board (NLRB), alleging that the Union had violated § 8(b)(1)(B) of the National Labor Relations Act (Act), which makes it an unfair labor practice for a union</p>
     <p>"to restrain or coerce . . . an employer in the selection of his representatives for the purposes of collective bargaining or the adjustment of grievances."</p>
     <p>An Administrative Law Judge (ALJ) agreed, finding, inter alia, that (1) Schoux and Choate were supervisors within the meaning of § 2(11) of the Act, (2) under the "reservoir doctrine," they were also employer representatives for the purposes of "collective bargaining or the adjustment of grievances" covered by § 8(b)(1)(B), even though neither performed such duties, since § 2(11) supervisors form the logical "reservoir" from which the employer is likely to select his future representatives for collective bargaining or grievance adjustment, and (3) the Union had restrained or coerced the employers within the meaning of § 8(b)(1)(B) even though the Union did not have a collective bargaining relationship with the employers at the time of the fines, since the Union's action could have the effect of forcing the representatives to quit, and since, in any event, the Union intended to represent the employers' employees in the future. The NLRB adopted the ALJ's findings and conclusions, entered an order against the Union, and sought enforcement of its order in the Court of Appeals. Reversing the finding of a § 8(b)(1)(B) violation, the court agreed that Schoux and Choate were employer representatives for § 8(b)(1)(B) purposes, but rejected the NLRB's conclusion that the Union intended to represent the employers' employees. T he court held that, if a union does not represent or intend to represent the complaining employer's employees, there can be no § 8(b)(1)(B) violation when the union disciplines its members who are the employer's designated bargaining representatives.</p>
@@ -27,7 +27,7 @@
     <p>The question for decision is whether a union</p>
     <p>"restrain[s] or coerce[s] . . . an employer in the selection of his representatives for the purposes of collective bargaining or the adjustment of grievances,"</p>
     <p>29 U.S.C. § 158(b)(1)(B), when it disciplines a supervisor union member who does not participate in collective bargaining or adjust contractual grievances, and whose employer has not entered into a collective bargaining agreement with the union.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Royal Electric (Royal) and Nutter Electric (Nutter) are members of the National Electrical Contractors Association (NECA). In May 1981, the last in a series of collective bargaining agreements between NECA and the International Brotherhood of Electrical Workers, Local 340 (IBEW or Union), expired. Negotiations for a new agreement failed shortly thereafter, and the Union struck all NECA employers, including Royal and Nutter.</p>
     <n id="p576">576</n>
     <p>The strike lasted several months. On September 15, 1981, the Union sent NECA a disclaimer of interest "in representing . . . the employees of the multi-[employer] bargaining unit previously established," 271 N.L.R.B. 995, 996 (1984); NECA accepted the disclaimer the following day. The Union then filed petitions seeking to represent the employees of 17 NECA members in single-employer units. Neither then nor thereafter did the Union file a petition to represent the employees of Royal or Nutter.</p>
@@ -54,7 +54,7 @@
     <p>"ha[s] no incentive to either influence [the employer's] choice of bargaining representatives or affect [the supervisor-member's] loyalty to [the employer]."</p>
     <p>We granted certiorari, 479 U.S. 811 (1986), to resolve a conflict in the Circuits. [<a id="nf4" href="#fn4">Footnote 4</a>] We now affirm.</p>
     <n id="p580">580</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>We first review the Court of Appeals' holding that Schoux and Choate were § 8(b)(1)(B) employer representatives. To address this issue, it is first necessary to retrace briefly the treatment of § 8(b)(1)(B) by the Board and this Court.</p>
     <p>Section 8(b)(1)(B) of the NLRA provides:</p>
     <p>"It shall be an unfair labor practice for a labor organization or its agents -- "</p>
@@ -99,7 +99,7 @@
     <p>We conclude that the union discipline at issue was not an unfair labor practice. Although both Schoux and Choate were supervisors within the meaning of § 2(11), neither had grievance-adjustment or collective bargaining responsibilities protected by § 8(b)(1)(B). [<a id="nf12" href="#fn12">Footnote 12</a>] The possibility that a § 2(11)</p>
     <n id="p589">589</n>
     <p>supervisor might someday perform § 8(b)(1)(B) functions, and that past discipline might then have an adverse effect on the performance of such duties, is simply too speculative to support a finding that an employer has been "restrain[ed] or coerce[d]" "in the selection of his representatives for the purposes of collective bargaining or the adjustment of grievances."</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The Court of Appeals found, as a matter of law, that the Union did not have a collective bargaining relationship with Royal or Nutter, and that it did not seek to represent their employees in the future. It held that such a finding precluded union liability for violation of § 8(b)(1)(B). The NLRB argues, however, that, even under these circumstances, the Union's enforcement of its no-contract-no-work rule against its supervisor-members would restrain or coerce Royal and Nutter by affecting the way in which the supervisor-members performed their § 8(b)(1)(B) tasks, and by restricting the selection of § 8(b)(1)(B) representatives. On reasoning analogous to that in <a href="./us481-0573.xml#p580">481 U. S.</a> we find that the absence of a collective bargaining relationship between the union and the employer, like the absence of § 8(b)(1)(B) responsibilities in a disciplined supervisor-member, makes the possibility that the Union's discipline of Schoux and Choate will coerce Royal and Nutter too attenuated to form the basis of an unfair labor practice charge.</p>
     <n id="p590">590</n>
     <p>First, the discipline will not affect the manner in which employer representatives perform grievance adjustment or collective bargaining tasks. When a union has a collective bargaining relationship with an employer, it may have an incentive to affect its supervisor-member's handling of grievance adjustment and collective bargaining chores. Moreover, union discipline of employer representatives for behavior that occurs during performance of § 8(b)(1)(B) duties might adversely affect the future performance of those duties. See supra at <a href="./us481-0573.xml#p585">481 U. S. 585</a>-586. But when a union has no collective bargaining relationship with an employer, and does not seek to establish one, both the incentive to affect a supervisor's performance and the possibility that an adverse effect will occur vanish. The union has nothing to gain by interference with the supervisor-member's loyalty during grievance adjustment or collective bargaining; nor can the employer representative reasonably expect that he or she will be subject to discipline for the manner in which those duties are performed in the future. [<a id="nf13" href="#fn13">Footnote 13</a>] In other words, the assumption underpinning Florida Power and ABC -- that an adverse effect can occur simply by virtue of the fact that an employer representative is disciplined for behavior that occurs during performance of § 8(b)(1)(B) tasks -- is not applicable when the employer has no continuing relationship with the union. [<a id="nf14" href="#fn14">Footnote 14</a>]</p>
@@ -119,7 +119,7 @@
     <n id="p595">595</n>
     <p>In ABC, the Court determined that the employer was coerced despite the fact that it could order the supervisor-members to leave the union and free themselves from further threats of discipline. But, as the Court pointed out, when ABC was decided, supervisor-members were not free to leave the union at any time. In ABC, for example, the union had a "known policy not to permit a member to resign during a strike and for a period of six months thereafter," so plainly "the employer's only recourse would have been to replace [the supervisor-members] as his grievance representatives." 437 U.S. at <a href="../us437/us437-0411.xml#p436">437 U. S. 436</a>-437.</p>
     <p>The law has since changed. Recently, this Court decided in Pattern Makers v. NLRB, <a href="../us473/us473-0095.xml#p95">473 U. S. 95</a> (1985), that union members have a right to resign from a union at any time and avoid imposition of union discipline. The employer may order its representatives to leave the union immediately, and there is no barrier to a supervisor-member's obedience to that order. The very least that may be derived from Pattern Makers is that union rules or discipline that merely diminish an employer representative's willingness to serve no longer restrain or coerce the employer in its selection of a § 8(b)(1)(B) representative.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>Section 8(b)(1)(B) was enacted to protect the integrity of the processes of grievance adjustment and collective bargaining -- two private dispute-resolution systems on which the national labor laws place a high premium. Although some union discipline might impermissibly affect the manner in which a supervisor-member carries out § 8(b)(1)(B) tasks or coerce the employer in its selection of a § 8(b)(1)(B) representative, union discipline directed at supervisor-members without § 8(b)(1)(B) duties, working for employers with whom the union neither has nor seeks a collective bargaining relationship, cannot and does not adversely affect the performance of § 8(b)(1)(B) duties. Consequently, such union</p>
     <n id="p596">596</n>
     <p>action does not coerce the employer in its selection of § 8(b)(1)(B) representatives. The order of the Court of Appeals for the Ninth Circuit is therefore</p>

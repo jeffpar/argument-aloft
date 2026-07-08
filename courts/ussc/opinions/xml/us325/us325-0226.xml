@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us325-0226.html" citation="325 U.S. 226" title="Williams v. North Carolina">
   <opinion type="Opinions &amp; Dissents">
     <n id="p226">226</n>
-    <h>U.S. Supreme Court</h>
-    <h>Williams v. North Carolina, <a href="./us325-0226.xml#p226">325 U.S. 226</a> (1945)</h>
-    <h>Williams v. North Carolina</h>
-    <h>No. 84</h>
-    <h>Argued October 13, 1944</h>
-    <h>Decided May 21, 1945</h>
-    <h><a href="./us325-0226.xml#p226">325 U.S. 226</a></h>
-    <h>CERTIORARI TO THE SUPREME COURT OF NORTH CAROLINA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Williams v. North Carolina, <a href="./us325-0226.xml#p226">325 U.S. 226</a> (1945)</h1>
+    <h2>Williams v. North Carolina</h2>
+    <h2>No. 84</h2>
+    <h4>Argued October 13, 1944</h4>
+    <h4>Decided May 21, 1945</h4>
+    <h2>CERTIORARI TO THE SUPREME COURT OF NORTH CAROLINA</h2>
+    <h2>Syllabus</h2>
     <p>1. A man and a woman, domiciled in North Carolina, left their spouses in North Carolina, obtained decrees of divorce in Nevada, married, and returned to North Carolina to live. Prosecuted in North Carolina for bigamous cohabitation, they pleaded the Nevada divorce decrees in defense, but were convicted.</p>
     <p>Held: that, upon the record, the judgments of conviction were not invalid as denying the Nevada divorce decrees the full faith and credit required by Art. IV, § 1 of the Constitution. Pp. <a href="./us325-0226.xml#p234">325 U. S. 234</a>, <a href="./us325-0226.xml#p236">325 U. S. 236</a>.</p>
     <p>2. A decree of divorce rendered in one State may be collaterally impeached in another by proof that the court which rendered the decree had no jurisdiction, even though the record of the proceedings in that court purports to show jurisdiction. P. <a href="./us325-0226.xml#p229">325 U. S. 229</a>.</p>
@@ -136,7 +136,7 @@
       <n id="p246">246</n>
       <p>contradictory inferences may be made as strikes the local trier's fancy. The abdication only becomes more obviously explicit when we avowedly confess that the faith and credit due may be determined either way, wherever "it cannot reasonably be claimed that one set of inferences, rather than another" could not be drawn concerning the very matter determined by the judgment, and the final choice upon such a balance is left with the local jury.</p>
       <p>No more unstable foundation for state policies or marital relations could be formulated or applied. In no region of adjudication or legislation is stability more essential for jurisdictional foundations. Beyond abnegating our function, we make instability itself the constitutional policy when the crux is so conceived and pivoted.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>What, exactly are the effects of the decision? The Court is careful not to say that Nevada's judgment is not valid in Nevada. To repeat, the Court could not so declare it unless a different test applies to sustain that judgment than supports North Carolina's. Presumably the same standard applies to both, and each state accordingly is free to follow its own policy, wherever the evidence, whether the same or different, permits conflicting inferences of domicil, as it always does when the question becomes important. [Footnote 2/4]</p>
       <p>This must be true unless, contrary to the disclaimer, this Court itself is "to retry the facts." The Court no more could say that the Nevada evidence permitted no conclusion of domicil there than it now can say the North Carolina evidence would not allow a finding either way. This apparently is conceded. The proof was not identical. But it was not so one-sided in either case that only one conclusion was compelled. The evidence in Nevada was</p>
       <n id="p247">247</n>
@@ -155,7 +155,7 @@
       <p>If this means what it says, the proviso is big. It swallows the provision. Unless "matrimonial domicil," banished in Williams v. North Carolina I, has returned renamed in Williams v. North Carolina II, every decree becomes vulnerable in every state. Every divorce, wherever granted, whether upon a residence of six weeks, six months, or six years, may now be reexamined by every other state, upon the same or different evidence, to redetermine the "jurisdictional fact," always the ultimate conclusion of "domicil." For the grounds of the decision wholly negate that its effect can be limited to decrees of states having so-called "liberal" divorce policies; or to decrees recently granted; or to cases where different evidence is presented. It is implicit and inherent in the "unitary-domicil, jurisdictional-fact, permissible-inference" rule that any decree, granted after any length of time, upon any ground for divorce, and however solid the proof, may be reexamined either by "the state of domiciliary origin" or by any other state, as the case uncertainly may be. And all that is needed to disregard it is some evidence from which a jury reasonably may conclude there was no domiciliary intent when the decree was rendered. That is, unless the Court means to reserve</p>
       <n id="p249">249</n>
       <p>decision upon the weight of the evidence, and thus "to retry the facts," contrary to its declared intention, in some case or cases not defined or indicated.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>Obviously more is involved than full faith and credit for judgments of other states. Beneath the judgment of Nevada lie her statutory law and policy. These too are denied recognition. This is not a case in which the denial extends, or could extend, to the judgment alone. For the North Carolina verdict and judgment do not purport to rest on any finding of fraud or other similar ground, whereby the petitioners procured judgments from the Nevada courts which the manner of their procurement vitiates. [Footnote 2/7]</p>
       <p>No such issue, impeaching the Nevada decree, has been made. The state asked no instructions on such a theory, and none was given. [Footnote 2/8] The verdict and judgment therefore</p>
       <n id="p250">250</n>
@@ -186,7 +186,7 @@
       <n id="p255">255</n>
       <p>the states nor we are free to disregard it. The "local public policy" exception is not an exception, properly speaking. It is a nullifying compromise of the provision's terms and purpose.</p>
       <p>The effort at such compromise, in matters of divorce and remarriage, has not been successful. Together with the instrument by which the various attempts have been made -- i.e., the notion of "unitary domicil" constitutionalized as "jurisdictional fact" -- this effort has been the source of the long confusion in the circle of decision here. To it may be attributed the reification of the marital status, now discarded in name, if not in substance, and the splitting of the res to make two people husband and wife in one state, divorced in another. Haddock v. Haddock, supra; cf. Williams v. North Carolina II. Now it leads to practical abandonment of the effort, of this Court's function, and of the obligation placed upon the states, by committing to their juries for all practical effects the final choice to disregard it.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>I do not concur in the abdication. I think a major operation is required to prevent it. The Constitution does not mention domicil. Nowhere does it posit the powers of the states or the nation upon that amorphous, highly variable common law conception. Judges have imported it. The importation, it should be clear by now, has failed in creating a workable constitutional criterion for this delicate region. In its origin, the idea of domicil was stranger to the federal system and the problem of allocating power within it. The principal result of transplanting it to constitutional soil has been to make more complex, variable, and confusing than need be inherently the allocation of authority in the federal scheme. The corollary consequence for individuals has been more and more to infuse with uncertainty, confusion, and caprice those human relations which most require stability and depend for it upon how the distribution of power is made.</p>
       <n id="p256">256</n>
       <p>In my opinion, these consequences are inevitable as long as "unitary domicil" usurps the role of "jurisdictional fact" and is applied under the "permissible inference" rule to turn questions of power first for creating jurisdiction, then for nullifying the effects of its exercise, to settle and then unsettle the human relations resting upon the power's exertion. The conception has outlived its jurisdictional usefulness unless caprice, confusion, and contradiction are the desirable criteria and consequences of jurisdictional conceptions.</p>
@@ -275,7 +275,7 @@
       <n id="p269">269</n>
       <p>Constitution declared it to be a state question. The logic of the Court does not persuade me that we should ignore these mandates of the Congress and the Constitution. Nevada's decrees purported to grant petitioners an absolute divorce with a right to remarry. No "law or usage" of Nevada has been pointed out to us which would indicate that Nevada would, under any circumstances, consider its decrees so "void" as to warrant imprisoning those who have remarried in reliance upon such existing and unannulled decrees.</p>
       <p>A judgment may be "void" in the general sense, and yet give rise to rights and obligations. While on the books, its existence is a fact, not a theory. And it may be said of decrees, later invalidated, as of statutes held unconstitutional, that</p>
-      <p>"The past cannot always be erased by a new judicial declaration. The effect of the subsequent ruling as to invalidity may have to be considered in various aspects -- with respect to particular relations, individual and corporate, and particular conduct, private and official . . . , an all-inclusive statement of a principle of absolute retroactive invalidity cannot be justified."</p>
+      <p>"The past cannot always be erased by a new judicial declaration. The effect of the subsequent ruling as to invalidity may have to be considered in various aspects -- with respect to particular relations, individual and corporate, and particular conduct, private and official . . ., an all-inclusive statement of a principle of absolute retroactive invalidity cannot be justified."</p>
       <p>Chicot County Drainage District v. Baxter State Bank, <a href="../us308/us308-0371.xml#p371">308 U. S. 371</a>, <a href="../us308/us308-0371.xml#p374">308 U. S. 374</a>. Despite the conclusion that a judgment is "void," courts have, in the interest of substantial justice and fairness, declined to attribute a meaning to that word which would make such judgments, for all purposes, worthless scraps of paper. [Footnote 3/9] After a judgment has been declared "void," it still remains to decide as to the consequences attached to good faith conduct between its rendition and its nullification. That determination, I think, must, in this case, under the Full Faith and Credit Clause, be made in</p>
       <n id="p270">270</n>
       <p>accordance with the "law or usage" of Nevada -- not of North Carolina or the Federal government.</p>

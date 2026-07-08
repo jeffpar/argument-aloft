@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us491-0524.html" citation="491 U.S. 524" title="Florida Star v. B.J.F.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p524">524</n>
-    <h>U.S. Supreme Court</h>
-    <h>Florida Star v. B.J.F., <a href="./us491-0524.xml#p524">491 U.S. 524</a> (1989)</h>
-    <h>Florida Star v. B.J.F.</h>
-    <h>No. 87-329</h>
-    <h>Argued March 21, 1989</h>
-    <h>Decided June 21, 1989</h>
-    <h><a href="./us491-0524.xml#p524">491 U.S. 524</a></h>
-    <h>APPEAL FROM THE DISTRICT COURT OF APPEAL OF FLORIDA,</h>
-    <h>FIRST DISTRICT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Florida Star v. B.J.F., <a href="./us491-0524.xml#p524">491 U.S. 524</a> (1989)</h1>
+    <h2>Florida Star v. B.J.F.</h2>
+    <h2>No. 87-329</h2>
+    <h4>Argued March 21, 1989</h4>
+    <h4>Decided June 21, 1989</h4>
+    <h2>APPEAL FROM THE DISTRICT COURT OF APPEAL OF FLORIDA,</h2>
+    <h2>FIRST DISTRICT</h2>
+    <h2>Syllabus</h2>
     <p>Appellant, The Florida Star, is a newspaper which publishes a "Police Reports" section containing brief articles describing local criminal incidents under police investigation. After appellee B.J.F. reported to the Sheriff's Department (Department) that she had been robbed and sexually assaulted, the Department prepared a report, which identified B.J.F. by her full name, and placed it in the Department's pressroom. The Department does not restrict access to the room or to the reports available there. A Star reporter-trainee sent to the pressroom copied the police report verbatim, including B.J.F.'s full name. Consequently, her name was included in a "Police Reports" story in the paper, in violation of the Star's internal policy. Florida Stat. § 794.03 makes it unlawful to "print, publish, or broadcast . . . in any instrument of mass communication" the name of the victim of a sexual offense. B.J.F. filed suit in a Florida court alleging, inter alia, that the Star had negligently violated § 794.03. The trial court denied the Star's motion to dismiss, which claimed, among other things, that imposing civil sanctions on the newspaper pursuant to § 794.03 violated the First Amendment. However, it granted B.J.F.'s motion for a directed verdict on the issue of negligence, finding the Star per se negligent based on its violation of § 794.03. The jury then awarded B.J.F. both compensatory and punitive damages. The verdict was upheld on appeal.</p>
     <p>Held: Imposing damages on the Star for publishing B.J.F.'s name violates the First Amendment. Pp. <a href="./us491-0524.xml#p530">491 U. S. 530</a>-541.</p>
     <p>(a) The sensitivity and significance of the interests presented in clashes between First Amendment and privacy rights counsels the Court to rely on limited principles that sweep no more broadly than the appropriate context of the instant case, rather than to accept invitations to hold broadly that truthful publication may never be punished consistent with the First Amendment or that publication of a rape victim's name never enjoys constitutional protection. One such principle is that,</p>
@@ -27,7 +27,7 @@
     <p>WHITE, J., filed a dissenting opinion, in which REHNQUIST, C.J., and O'CONNOR, J., joined.</p>
     <p>JUSTICE MARSHALL delivered the opinion of the Court.</p>
     <p>Florida Stat. § 794.03 (1987) makes it unlawful to "print, publish, or broadcast . . . in any instrument of mass communication" the name of the victim of a sexual offense. [<a id="nf1" href="#fn1">Footnote 1</a>] Pursuant to this statute, appellant The Florida Star was found civilly liable for publishing the name of a rape victim which it had obtained from a publicly released police report. The issue presented here is whether this result comports with the First Amendment. We hold that it does not.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The Florida Star is a weekly newspaper which serves the community of Jacksonville, Florida, and which has an average circulation of approximately 18,000 copies. A regular feature of the newspaper is its "Police Reports" section.</p>
     <n id="p527">527</n>
     <p>That section, typically two to three pages in length, contains brief articles describing local criminal incidents under police investigation.</p>
@@ -44,7 +44,7 @@
     <p>The First District Court of Appeal affirmed in a three-paragraph per curiam opinion. 499 So. 2d 883 (1986). In the paragraph devoted to The Florida Star's First Amendment claim, the court stated that the directed verdict for B.J.F. had been properly entered because, under § 794.03, a rape victim's name is "of a private nature and not to be published as a matter of law." Id. at 884, citing Doe v. Sarasota-Bradenton Florida Television Co., 436 So. 2d 328, 330 (Fla.App.1983) (footnote omitted). [<a id="nf3" href="#fn3">Footnote 3</a>] The Supreme Court of Florida denied discretionary review.</p>
     <p>The Florida Star appealed to this Court. [<a id="nf4" href="#fn4">Footnote 4</a>] We noted probable jurisdiction, 488 U.S. 887 (1988), and now reverse.</p>
     <n id="p530">530</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>The tension between the right which the First Amendment accords to a free press, on the one hand, and the protections which various statutes and common law doctrines accord to personal privacy against the publication of truthful information, on the other, is a subject we have addressed several times in recent years. Our decisions in cases involving government attempts to sanction the accurate dissemination of information as invasive of privacy have not, however, exhaustively considered this conflict. On the contrary, although our decisions have without exception upheld the press' right to publish, we have emphasized each time that we were resolving this conflict only as it arose in a discrete factual context. [<a id="nf5" href="#fn5">Footnote 5</a>]</p>
     <p>The parties to this case frame their contentions in light of a trilogy of cases which have presented, in different contexts, the conflict between truthful reporting and state-protected privacy interests. In Cox Broadcasting Corp. v. Cohn, <a href="../us420/us420-0469.xml#p469">420 U. S. 469</a> (1975), we found unconstitutional a civil damages award entered against a television station for broadcasting the name of a rape-murder victim which the station had obtained from courthouse records. In Oklahoma Publishing</p>
     <n id="p531">531</n>
@@ -92,7 +92,7 @@
     <p>When a State attempts the extraordinary measure of punishing truthful publication in the name of privacy, it must demonstrate its commitment to advancing this interest by applying its prohibition evenhandedly, to the small-time disseminator as well as the media giant. Where important First Amendment interests are at stake, the mass scope of disclosure is not an acceptable surrogate for injury. A ban on disclosures effected by "instrument[s] of mass communication" simply cannot be defended on the ground that partial prohibitions may effect partial relief. See Daily Mail, 443 U.S. at <a href="../us443/us443-0097.xml#p104">443 U. S. 104</a>-105 (statute is insufficiently tailored to interest in protecting anonymity where it restricted only newspapers, not</p>
     <n id="p541">541</n>
     <p>the electronic media or other forms of publication, from identifying juvenile defendants); id. at <a href="../us443/us443-0097.xml#p110">443 U. S. 110</a> (REHNQUIST, J., concurring in judgment) (same); cf. Arkansas Writers' Project, Inc. v. Ragland, <a href="../us481/us481-0221.xml#p221">481 U. S. 221</a>, <a href="../us481/us481-0221.xml#p229">481 U. S. 229</a> (1987); Minneapolis Star &amp; Tribune Co. v. Minnesota Comm'r of Revenue, <a href="../us460/us460-0575.xml#p575">460 U. S. 575</a>, <a href="../us460/us460-0575.xml#p585">460 U. S. 585</a> (1983). Without more careful and inclusive precautions against alternative forms of dissemination, we cannot conclude that Florida's selective ban on publication by the mass media satisfactorily accomplishes its stated purpose. [<a id="nf9" href="#fn9">Footnote 9</a>]</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Our holding today is limited. We do not hold that truthful publication is automatically constitutionally protected, or that there is no zone of personal privacy within which the State may protect the individual from intrusion by the press, or even that a State may never punish publication of the name of a victim of a sexual offense. We hold only that, where a newspaper publishes truthful information which it has lawfully obtained, punishment may lawfully be imposed, if at all, only when narrowly tailored to a state interest of the highest order, and that no such interest is satisfactorily served by imposing liability under § 794.03 to appellant under the facts of this case. The decision below is therefore</p>
     <p>Reversed.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>
@@ -133,7 +133,7 @@
       <n id="p543">543</n>
       <p>her home, and was even threatened with being raped again. Yet today the Court holds that a jury award of $75,000 to compensate B.J.F. for the harm she suffered due to the Star's negligence is at odds with the First Amendment. I do not accept this result.</p>
       <p>The Court reaches its conclusion based on an analysis of three of our precedents and a concern with three particular aspects of the judgment against appellant. I consider each of these points in turn, and then consider some of the larger issues implicated by today's decision.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>The Court finds its result compelled, or at least supported in varying degrees, by three of our prior cases: Cox Broadcasting Corp. v. Cohn, <a href="../us420/us420-0469.xml#p469">420 U. S. 469</a> (1975); Oklahoma Publishing Co. v. Oklahoma County District Court, <a href="../us430/us430-0308.xml#p308">430 U. S. 308</a> (1977); and Smith v. Daily Mail Publishing Co., <a href="../us443/us443-0097.xml#p97">443 U. S. 97</a> (1979). I disagree. None of these cases requires the harsh outcome reached today.</p>
       <p>Cox Broadcasting reversed a damages award entered against a television station, which had obtained a rape victim's name from public records maintained in connection with the judicial proceedings</p>
       <n id="p544">544</n>
@@ -151,7 +151,7 @@
       <n id="p546">546</n>
       <p>(which, as I suggest above, was perhaps not even meant as a rule in the first place).</p>
       <p>Consequently, I cannot agree that Cox Broadcasting, or Oklahoma Publishing, or Daily Mail requires -- or even substantially supports -- the result reached by the Court today.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>We are left, then, to wonder whether the three "independent reasons" the Court cites for reversing the judgment for B.J.F. support its result. See ante at <a href="./us491-0524.xml#p537">491 U. S. 537</a>-541.</p>
       <p>The first of these reasons relied on by the Court is the fact "appellant gained access to [B.J.F.'s name] through a government news release." Ante at <a href="./us491-0524.xml#p538">491 U. S. 538</a>.</p>
       <p>"The government's issuance of such a release, without qualification, can only convey to recipients that the government considered dissemination lawful,"</p>
@@ -168,7 +168,7 @@
       <n id="p550">550</n>
       <p>noted above, merely provided the standard of care in this litigation), but rather the whole of Florida privacy tort law. As to the latter, Florida does recognize a tort of publication of private facts. [Footnote 2/3] Thus, it is quite possible that the neighborhood gossip whom the Court so fears being left scot-free to spread news of a rape victim's identity would be subjected to the same (or similar) liability regime under which appellant was taxed. The Court's myopic focus on § 794.03 ignores the probability that Florida law is more comprehensive than the Court gives it credit for being.</p>
       <p>Consequently, neither the State's "dissemination" of B.J.F.'s name, nor the standard of liability imposed here, nor the underinclusiveness of Florida tort law requires setting aside the verdict for B.J.F. And as noted above, such a result is not compelled by our cases. I turn, therefore, to the more general principles at issue here to see if they recommend the Court's result.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>At issue in this case is whether there is any information about people, which -- though true -- may not be published in the press. By holding that only "a state interest of the highest order" permits the State to penalize the publication of truthful information, and by holding that protecting a rape victim's right to privacy is not among those state interests of the highest order, the Court accepts appellant's invitation, see Tr. of Oral Arg. 10-11, to obliterate one of the most noteworthy legal inventions of the 20th century: the tort of the publication of private facts. W. Prosser, J. Wade, &amp; V. Schwartz, Torts 951-952 (8th ed.1988). Even if the Court's opinion does not say as much today, such obliteration will follow inevitably from the Court's conclusion here. If the First Amendment prohibits wholly private persons</p>
       <n id="p551">551</n>
       <p>(such as B.J.F.) from recovering for the publication of the fact that she was raped, I doubt that there remain any "private facts" which persons may assume will not be published in the newspapers or broadcast on television. [Footnote 2/4]</p>

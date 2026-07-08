@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us386-0162.html" citation="386 U.S. 162" title="Levin v. Mississippi River Fuel Corp.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p162">162</n>
-    <h>U.S. Supreme Court</h>
-    <h>Levin v. Mississippi River Fuel Corp., <a href="./us386-0162.xml#p162">386 U.S. 162</a> (1967)</h>
-    <h>Levin v. Mississippi River Fuel Corp.</h>
-    <h>No. 352</h>
-    <h>Argued January 19, 1967</h>
-    <h>Decided February 27, 1967<a href="./us386-0162.xml#p162">386 U.S. 162</a>ast|&gt;*</h>
-    <h><a href="./us386-0162.xml#p162">386 U.S. 162</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE EIGHTH CIRCUIT</h>
-    <h>Syllabus</h>
-    <p>The capital stock of the Missouri Pacific Railroad Company (MoPac), a Missouri corporation, consists of two classes, A and B. Class A, with 1,849,576 shares outstanding, is preferentially entitled to noncumulative dividends not to exceed $5 a share annually, and its equity is limited to $100 a share. Class B, with 39,731 shares outstanding, is entitled to the earnings and equity in excess of the Class A preferences, and its equity is currently valued at about $6,500 a share. MoPac's corporate charter provides that each share of each class is entitled to one vote, with the proviso that a separate vote of each class is required on any proposal affecting the preferences or relative rights of either class. Section 5(11) of the Interstate Commerce Act requires for ICC approval of a voluntary railroad merger the assent of the majority of the shares entitled to vote "unless a different vote is required under applicable State law." Missouri law applicable to mergers provides for approval by at least a two-thirds vote of all outstanding shares (Mo.Rev.Stat. § 351.425). Another section of state law provides for class voting where a corporation's charter so requires (§ 351.270). A plan to consolidate MoPac and a subsidiary railroad was approved by their boards of directors and submitted for ICC approval, including provision for an exchange of each MoPac share, without regard to class, for four shares of the new corporation. The proposed plan was to be passed on by the stockholders voting collectively, rather than by class. Charging that the proposed exchange was unfair in view of the far greater value of the Class B stock than that of the Class A stock, appellants, Class B stockholders, brought this suit for declaratory relief. The District Court upheld appellants' contention that the collective voting plan would violate MoPac's corporate charter and both state and federal law. The Court of Appeals reversed on the ground that, despite Missouri law, the "plenary character of § 5(11) . . . , with its consequent preemptive nature" compelled a contrary result.</p>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Levin v. Mississippi River Fuel Corp., <a href="./us386-0162.xml#p162">386 U.S. 162</a> (1967)</h1>
+    <h2>Levin v. Mississippi River Fuel Corp.</h2>
+    <h2>No. 352</h2>
+    <h4>Argued January 19, 1967</h4>
+    <h4>Decided February 27, 1967<a href="./us386-0162.xml#p162">386 U.S. 162</a>ast|&gt;*</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE EIGHTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
+    <p>The capital stock of the Missouri Pacific Railroad Company (MoPac), a Missouri corporation, consists of two classes, A and B. Class A, with 1,849,576 shares outstanding, is preferentially entitled to noncumulative dividends not to exceed $5 a share annually, and its equity is limited to $100 a share. Class B, with 39,731 shares outstanding, is entitled to the earnings and equity in excess of the Class A preferences, and its equity is currently valued at about $6,500 a share. MoPac's corporate charter provides that each share of each class is entitled to one vote, with the proviso that a separate vote of each class is required on any proposal affecting the preferences or relative rights of either class. Section 5(11) of the Interstate Commerce Act requires for ICC approval of a voluntary railroad merger the assent of the majority of the shares entitled to vote "unless a different vote is required under applicable State law." Missouri law applicable to mergers provides for approval by at least a two-thirds vote of all outstanding shares (Mo.Rev.Stat. § 351.425). Another section of state law provides for class voting where a corporation's charter so requires (§ 351.270). A plan to consolidate MoPac and a subsidiary railroad was approved by their boards of directors and submitted for ICC approval, including provision for an exchange of each MoPac share, without regard to class, for four shares of the new corporation. The proposed plan was to be passed on by the stockholders voting collectively, rather than by class. Charging that the proposed exchange was unfair in view of the far greater value of the Class B stock than that of the Class A stock, appellants, Class B stockholders, brought this suit for declaratory relief. The District Court upheld appellants' contention that the collective voting plan would violate MoPac's corporate charter and both state and federal law. The Court of Appeals reversed on the ground that, despite Missouri law, the "plenary character of § 5(11) . . ., with its consequent preemptive nature" compelled a contrary result.</p>
     <p>Held: In a consolidation such as that proposed here, Missouri law</p>
     <n id="p163">163</n>
     <p>applies, and § 351.270 of that law requires application of the corporate charter provision, which, in turn, requires a majority assent of the stockholders on a separate class-vote basis. Pp. <a href="./us386-0162.xml#p167">386 U. S. 167</a>-170.</p>
@@ -22,7 +22,7 @@
     <p>Three separate declaratory judgment actions were filed by different Class B shareholders seeking a declaration</p>
     <n id="p164">164</n>
     <p>that the plan requires the separate approval of the holders of the Class B shares by majority vote. Upon a limited consolidation of the cases, the District Court held that MoPac's Articles of Association prohibited the consolidation unless class voting was observed, and that § 5(11) [<a id="nf1" href="#fn1">Footnote 1</a>] of the Interstate Commerce Act, by adopting state law, required the separate approval of each class of shareholders. 233 F. Supp. 747. The Court of Appeals reversed on the ground that, despite Missouri law, the "plenary character of § 5(11) . . . with its consequent preemptive nature" compelled a contrary result. 359 F.2d 106, at 119. We granted certiorari. 385 U.S. 814. We have concluded that Missouri law, as provided by § 5(11), is controlling on the point and that the judgment must, therefore, be reversed.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Background of the Parties and the Litigation</p>
     <p>MoPac, a Missouri corporation, is an interstate common carrier railroad. It had been in reorganization proceedings under 77 of the Bankruptcy Act, as amended,</p>
     <n id="p165">165</n>
@@ -37,7 +37,7 @@
     <p>As we have indicated, the Court of Appeals held that, even though MoPac's Articles of Association required a class vote on consolidation and Missouri law, therefore, demanded such a vote, it nevertheless was</p>
     <p>"impressed with the significance of the national transportation policy and its emphasis on railroad consolidation, with the stated exclusive and plenary character of § 5(11), and with its consequent preemptive nature."</p>
     <p>359 F.2d at 119. The Court felt that, by virtue of the federal statute, it was compelled to conclude that it should apply the general standard as to voting rights, i.e., the majority of all voting shares, rather than honor the exception, i.e., class voting, as provided under Missouri law.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Conclusion</p>
     <p>We believe the Court of Appeals erred in so construing § 5(11) of the Act. That section specifically provides that voluntary consolidations of railroads must have the assent</p>
     <p>"of a majority [vote of all shares], unless a different vote is required under applicable State law, in which case the number so required shall assent, of the votes of the holders of the shares entitled to vote. . . ."</p>

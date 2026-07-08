@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us609-24-1046.html" citation="609 U.S. 24-1046" title="Wolford v. Lopez">
   <opinion type="Opinion" author="Alito">
     <p>NOTICE: This opinion is subject to formal revision before publication in the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, pio@supremecourt.gov, of any typographical or other formal errors.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 24–1046</p>
-    <p>_________________</p>
     <p>JASON WOLFORD, et al., PETITIONERS v. ANNE E. LOPEZ, ATTORNEY GENERAL OF HAWAII</p>
     <p>on writ of certiorari to the united states court of appeals for the ninth circuit</p>
     <p>[June 25, 2026]</p>
@@ -108,9 +107,7 @@
   </opinion>
   <opinion type="Concurrence" author="Barrett">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 24–1046</p>
-    <p>_________________</p>
     <p>JASON WOLFORD, et al., PETITIONERS v. ANNE E. LOPEZ, ATTORNEY GENERAL OF HAWAII</p>
     <p>on writ of certiorari to the united states court of appeals for the ninth circuit</p>
     <p>[June 25, 2026]</p>
@@ -159,9 +156,7 @@
   </opinion>
   <opinion type="Dissent" author="Jackson">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 24–1046</p>
-    <p>_________________</p>
     <p>JASON WOLFORD, et al., PETITIONERS v. ANNE E. LOPEZ, ATTORNEY GENERAL OF HAWAII</p>
     <p>on writ of certiorari to the united states court of appeals for the ninth circuit</p>
     <p>[June 25, 2026]</p>
@@ -204,7 +199,7 @@
     <p>C</p>
     <p>Rather than respond to Hawaii’s evidence that the right to exclude resolves this case at the first step of Bruen, the majority moves the goal posts. It announces that, at step one, courts must look only to the “plain text” of the Second Amendment devoid of any historical understanding. Ante, at 7, 13. And it rejects Hawaii’s attempts to clarify the meaning of the plain text as it relates to the relevant conduct: carrying a firearm onto private property without express consent. History, according to the majority, is “out of place at Bruen’s first step.” Ante, at 16. Instead, the majority seeks to confine history to Bruen’s second step—when the government must identify a history and tradition that relevantly limits the scope of the Second Amendment right. Ante, at 7–8; see 597 U. S., at 19. This shift is surprising, not only as a matter of precedent but also in light of the majority’s chosen methodology.</p>
     <p>First of all, step one of Bruen is supposed to be an interpretive exercise focused on the text of the Constitution. 597 U. S., at 17. As such, our cases require that history play a role. True, Bruen holds for step-one purposes that “when the Second Amendment’s plain text covers an individual’s conduct, the Constitution presumptively protects that conduct.” Ibid. But its analysis demonstrates that “plain text” means text supported by historical understanding.</p>
-    <p>Specifically, Bruen relied heavily on Heller, which “demand[ed] a test rooted in the Second Amendment’s text, as informed by history.” 597 U. S., at 19 (emphasis added).[<a id="nf3-8" href="#fn3-8">8</a>] According to Bruen, Heller had “relied on text and history” for “defining the character of the right . . . , suggesting the outer limits of the right, [and] assessing the constitutionality of a particular regulation.” Bruen, 597 U. S., at 22 (emphasis added). This characterization of Heller made sense, as the main point of Heller’s analysis was to explain that the text of the Second Amendment codified a pre-existing right. 554 U. S., at 592. History, then, was necessary for interpreting the text.</p>
+    <p>Specifically, Bruen relied heavily on Heller, which “demand[ed] a test rooted in the Second Amendment’s text, as informed by history.” 597 U. S., at 19 (emphasis added).[<a id="nf3-8" href="#fn3-8">8</a>] According to Bruen, Heller had “relied on text and history” for “defining the character of the right . . ., suggesting the outer limits of the right, [and] assessing the constitutionality of a particular regulation.” Bruen, 597 U. S., at 22 (emphasis added). This characterization of Heller made sense, as the main point of Heller’s analysis was to explain that the text of the Second Amendment codified a pre-existing right. 554 U. S., at 592. History, then, was necessary for interpreting the text.</p>
     <p>Bruen then derived its first step from the “test . . . set forth in Heller.” 597 U. S., at 26. Heller indicated that it is appropriate to consider history in ascertaining the scope of the Second Amendment right—what Bruen later adopted as step one. 554 U. S., at 592. And step one is supposed to have a function: It operates as a check to make sure that Second Amendment challengers demonstrate that the Amendment actually implicates their desired conduct. Bruen, 597 U. S., at 32 (analyzing whether the “plain text of the Second Amendment protects [the] proposed course of conduct”). In so doing, Bruen’s first step requires “defining the character of the right,” which, again, Heller instructs involves consideration of history. Bruen, 597 U. S., at 22.</p>
     <p>Although Bruen did not conduct a historical analysis itself, that was because Bruen’s step-one “plain text” determination was obvious after Heller. In other words, the interpretive question the Bruen Court was asked to answer required no interpretation of the text of the Amendment beyond what Heller had done. 597 U. S., at 32. Heller had already reviewed the historical record and had essentially concluded that the proposed course of conduct at issue in Bruen—“carrying handguns publicly for self-defense”—was covered by the text of the Second Amendment. Bruen, 597 U. S., at 32 (citing Heller, 554 U. S., at 592). Indeed, the parties in Bruen did not dispute this point. 597 U. S., at 33.</p>
     <p>Here, the parties do not agree about the meaning of the Second Amendment, nor have our past cases established the meaning of the Second Amendment applicable to petitioners’ proposed conduct—namely, “carrying firearms on private property open to the public without first getting express permission from the proprietor.” Brief for Petitioners 24. So today’s step-one question is whether the Second Amendment protects armed carry onto private property open to the public without express consent. And that inquiry demands additional interpretation of the pre-existing limits baked into the Second Amendment. See Heller, 554 U. S., at 576–578, 592–595.[<a id="nf3-9" href="#fn3-9">9</a>]</p>
@@ -270,9 +265,7 @@
   </opinion>
   <opinion type="Dissent" author="Kagan">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 24–1046</p>
-    <p>_________________</p>
     <p>JASON WOLFORD, et al., PETITIONERS v. ANNE E. LOPEZ, ATTORNEY GENERAL OF HAWAII</p>
     <p>on writ of certiorari to the united states court of appeals for the ninth circuit</p>
     <p>[June 25, 2026]</p>

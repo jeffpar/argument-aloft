@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us475-0657.html" citation="475 U.S. 657" title="United States v. City of Fulton">
   <opinion type="Opinions &amp; Dissents">
     <n id="p657">657</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. City of Fulton, <a href="./us475-0657.xml#p657">475 U.S. 657</a> (1986)</h>
-    <h>United States v. City of Fulton</h>
-    <h>No. 84-1725</h>
-    <h>Argued January 21, 1986</h>
-    <h>Decided April 7, 1986</h>
-    <h><a href="./us475-0657.xml#p657">475 U.S. 657</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE FEDERAL CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. City of Fulton, <a href="./us475-0657.xml#p657">475 U.S. 657</a> (1986)</h1>
+    <h2>United States v. City of Fulton</h2>
+    <h4>No. 84-1725</h4>
+    <h4>Argued January 21, 1986</h4>
+    <h4>Decided April 7, 1986</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE FEDERAL CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Section 5 of the Flood Control Act of 1944 (Act) authorizes the Secretary of Energy (Secretary), acting through Administrators of regional Power Marketing Administrations, to fix rates for the sale of hydroelectric power generated at federally owned dams, and provides that "the rate schedules [shall] become effective upon confirmation and approval by the Secretary." Pursuant to the Secretary's regulatory scheme. new schedules increasing rates were developed by the Southwestern Power Administration after public participation, were approved and placed into effect on an interim basis, effective April 1, 1979, and were ultimately approved on a final basis by the Federal Energy Regulatory Commission (the Secretary's delegate) in January, 1982. Respondent cities, who had entered into power purchase contracts with the Government, paid the new increased rates and then filed suit in the Court of Claims to recover money paid pursuant to the interim rate increase between April, 1979, and January, 1982, contending that the Secretary violated § 5 of the Act and the terms of the power purchase contracts by putting the new rates into effect on an interim basis. The contracts in question provided that rates could be increased or modified, and that such rates would become effective</p>
     <p>"on the effective date specified in the order of the Federal Power Commission [a predecessor of the Secretary with respect to § 5] containing such confirmation and approval."</p>
     <p>The Court of Claims ruled for respondents on the question of liability (the subsequently organized Claims Court later entered judgment in their favor), and the Court of Appeals for the Federal Circuit affirmed.</p>
@@ -26,7 +26,7 @@
     <p>This case presents the question whether the Secretary of Energy violated § 5 of the Flood Control Act of 1944, 16 U.S.C. § 825s, or his contractual obligations by putting rates for hydroelectric power generated at federally owned dams into effect on an interim basis pending further review by the Federal Energy Regulatory Commission. The Court of Claims held that the Secretary's actions exceeded his contractual and statutory authority, and granted summary</p>
     <n id="p659">659</n>
     <p>judgment to respondents. 230 Ct.Cl. 635, 680 F.2d 115 (1982). After further proceedings, the Court of Appeals for the Federal Circuit affirmed, finding that the Court of Claims' decision was the law of the case and correct on the merits. 751 F.2d 1255 (1985). We granted certiorari, 473 U.S. 903 (1985), and we now reverse.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>A</p>
     <p>In the Flood Control Act, Congress authorized the construction of a number of dam and reservoir projects, operated by the Army Corps of Engineers and producing large blocks of hydroelectric power. Congress had granted authority for several such projects before 1944, but had enacted no "general law governing the sale and distribution of power" so generated. S.Rep. No. 1030, 78th Cong., 2d Sess., 3 (1944). Intending "to place by law the responsibility for disposal of such power in an existing Federal agency," ibid., Congress provided:</p>
     <p>"Electric power and energy generated at reservoir projects under the control of the War Department and in the opinion of the Secretary of War not required in the operation of such projects shall be delivered to the Secretary of the Interior, who shall transmit and dispose of such power and energy in such manner as to encourage the most widespread use thereof at the lowest possible rates to consumers consistent with sound business principles, the rate schedules to become effective upon confirmation and approval by the Federal Power Commission. Rate schedules shall be drawn having regard to the recovery (upon the basis of the application of such rate schedules to the capacity of the electric facilities of the projects) of the cost of producing and transmitting such electric energy, including the amortization of the capital investment allocated to power over a reasonable period of years. . . ."</p>
@@ -49,7 +49,7 @@
     <p>The Assistant Secretary, after his interim confirmation and approval, submits the proposed rates to FERC for final confirmation and approval. FERC views its role in this process as "in the nature of an appellate body," 45 Fed.Reg. 79545, 79547 (1980); its function is to determine from the record before it whether</p>
     <p>"due process requirements have been met and [whether] the Administrator's program of rate schedules and the decision of the [Assistant Secretary] are rational and consistent with the statutory standards."</p>
     <p>Ibid. In exercising that appellate function, FERC relies on the record before it, remanding for supplementation if necessary. If it disapproves the interim rates confirmed and approved by the Assistant Secretary, the Assistant Secretary has the responsibility to submit acceptable substitute rates. Overcharges attributable to excessive interim rates must be refunded with interest to affected customers. 10 CFR § 903.22 (1985).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The dispute in this case involves the price charged for the sale of hydroelectric power by the Southwestern Power Administration</p>
     <n id="p664">664</n>
     <p>(SWPA) to respondent cities of Lamar, Fulton, and Thayer, Missouri. Respondents and the United States first signed power purchase contracts in 1952, 1956, and 1963 respectively; the Lamar and Fulton contracts were renewed in early 1977. The language of the 1977 contract is typical:</p>
@@ -61,7 +61,7 @@
     <p>developed new studies scaling down its estimate of necessary revenues, and developed new proposed rate schedules increasing basic rates only 33%. On March 1, 1979, the Assistant Secretary confirmed and approved the rates and placed them into effect on an interim basis, effective April 1, 1979. 44 Fed.Reg., at 13073.</p>
     <p>In June, 1981, FERC disapproved the rates as insufficiently supported, finding them likely to be too low. 46 Fed.Reg. 30877 (1981). On reconsideration in January, 1982, however, FERC concluded that the rates, while "on the low side," were nonetheless reasonable; it confirmed and approved the rates through September 30, 1982. 47 Fed.Reg. 4562, 4563 (1982).</p>
     <p>Respondents paid the increased rates assessed by SWPA. They then filed suit, seeking to recover money paid pursuant to the interim rate increase between April, 1979, and January, 1982. The Court of Claims ruled for respondents on the question of liability, 230 Ct.Cl. 635, 680 F.2d 115 (1982), the Claims Court entered a $954,816 judgment in their favor, App. to Pet. for Cert. 19a-21a, and the Court of Appeals for the Federal Circuit affirmed, 751 F.2d 1255 (1985).</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Respondents contend that interim approval of rate increases by the Assistant Secretary violates the Flood Control Act and their power purchase contracts. They predicate their argument on the statutory direction that rate increases shall "become effective upon confirmation and approval by the Federal Power Commission," and on the similar contractual language quoted supra at <a href="./us475-0657.xml#p659">475 U. S. 659</a>. That language, according to respondents, by its terms precludes interim rate increases.</p>
     <p>It is important to note what questions are not before this Court. Respondents do not contest that the DOE Act transferred the FPC's rate-approval function to the Secretary of Energy. See Brief for Respondents 39. They agree that</p>
     <n id="p666">666</n>
@@ -93,7 +93,7 @@
     <n id="p672">672</n>
     <p>contractual language unambiguously bars the imposition of interim rates. We can detect no such absolute bar.</p>
     <p>Respondents have presented no evidence demonstrating that the parties intended the contractual language, which tracks that of the statute, to do anything other than incorporate the statute's procedural requirements. The Court of Claims based its acceptance of respondents' position on its desire to construe the contracts "in harmony with" its interpretation of the statutory language, which, it noted, "is incorporated into the contract terms"; on its conclusion that there was no significant administrative practice of interim rate increases; and on its conclusion that the plain meaning of the contractual language unambiguously bars such rate increases. 230 Ct.Cl. at 641-645, 680 F.2d at 119-121. The first premise is no longer helpful to respondents, since we have determined that the statute allows the imposition of interim rate increases. We have also rejected the second premise, see supra at <a href="./us475-0657.xml#p661">475 U. S. 661</a>-663. We now reject the third. The contractual provision that rate increases will become effective "on the effective date specified in the order of the Federal Power Commission containing such confirmation and approval" is, by its terms, no more of a bar to rate increases becoming effective upon interim "confirmation and approval" than is the parallel statutory language. If the Government had meant by that contractual language to bind itself with restrictions going beyond those contained in the statute, we believe that such restrictions would have been set out more explicitly.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>We conclude that nothing in the Flood Control Act or the power purchase contracts at issue in this case precludes the Secretary from making hydroelectric power rates effective upon interim confirmation and approval, even though further review is still pending. The judgment of the Court of Appeals for the Federal Circuit, accordingly, is reversed.</p>
     <p>It is so ordered.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>

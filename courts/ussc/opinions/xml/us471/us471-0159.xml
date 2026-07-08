@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us471-0159.html" citation="471 U.S. 159" title="CIA v. Sims">
   <opinion type="Opinions &amp; Dissents">
     <n id="p159">159</n>
-    <h>U.S. Supreme Court</h>
-    <h>CIA v. Sims, <a href="./us471-0159.xml#p159">471 U.S. 159</a> (1985)</h>
-    <h>Central Intelligence Agency v. Sims</h>
-    <h>No. 83-1075</h>
-    <h>Argued December 4, 1984</h>
-    <h>Decided April 16, 1985<a href="./us471-0159.xml#p159">471 U.S. 159</a>ast|&gt;*</h>
-    <h>�<a href="./us471-0159.xml#p159">471 U.S. 159</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE</h>
-    <h>DISTRICT OF COLUMBIA CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>CIA v. Sims, <a href="./us471-0159.xml#p159">471 U.S. 159</a> (1985)</h1>
+    <h2>Central Intelligence Agency v. Sims</h2>
+    <h2>No. 83-1075</h2>
+    <h4>Argued December 4, 1984</h4>
+    <h4>Decided April 16, 1985<a href="./us471-0159.xml#p159">471 U.S. 159</a>ast|&gt;*</h4>
+    <h2>�<a href="./us471-0159.xml#p159">471 U.S. 159</a></h2>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE</h2>
+    <h2>DISTRICT OF COLUMBIA CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Between 1953 and 1966, the Central Intelligence Agency (CIA) financed a research project, code-named MKULTRA, that was established to counter Soviet and Chinese advances in brainwashing and interrogation techniques. Subprojects were contracted out to various universities, research foundations, and similar institutions. In 1977, respondents in No. 83-1075 (hereafter respondents) filed a request with the CIA under the Freedom of Information Act (FOIA), seeking, inter alia, the names of the institutions and individuals who had performed the research under MKULTRA. Citing Exemption 3 of the FOIA -- which provides that an agency need not disclose</p>
     <p>"matters that are . . . specifically exempted from disclosure by statute . . . provided that such statute . . . refers to particular types of matters to be withheld"</p>
     <p>-- the CIA declined to disclose the requested information. The CIA invoked, as the exempting statute referred to in Exemption 3, § 102(d)(3) of the National Security Act of 1947, which states that</p>
@@ -28,7 +29,7 @@
     <p>BURGER, C.J., delivered the opinion of the Court, in which WHITE, BLACKMUN, POWELL, REHNQUIST, STEVENS, and O'CONNOR, JJ., joined. MARSHALL, J., filed an opinion concurring in the result, in which BRENNAN, J., joined, post, p. <a href="./us471-0159.xml#p181">471 U. S. 181</a>.</p>
     <p>CHIEF JUSTICE BURGER delivered the opinion of the Court.</p>
     <p>In No. 83-1075, we granted certiorari to decide whether § 102(d)(3) of the National Security Act of 1947, as incorporated in Exemption 3 of the Freedom of Information Act, exempts from disclosure only those sources of intelligence information to which the Central Intelligence Agency had to guarantee confidentiality in order to obtain the information. In No. 83-1249, the cross-petition, we granted certiorari to decide whether the Freedom of Information Act requires the Agency to disclose the institutional affiliations of persons whose identities are exempt from disclosure as "intelligence sources."</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Between 1953 and 1966, the Central Intelligence Agency financed a wide-ranging project, code-named MKULTRA, concerned with</p>
     <p>"the research and development of chemical, biological, and radiological materials capable of employment in clandestine operations to control human behavior. [<a id="nf1" href="#fn1">Footnote 1</a>]"</p>
     <p>The</p>
@@ -58,7 +59,7 @@
     <n id="p166">166</n>
     <p>At the outset, the court rejected the suggestion that it reconsider the definition of "intelligence sources." Id. at 271, 709 F.2d at 97. The court then criticized the District Court for focusing its inquiry on whether the Agency had in fact promised confidentiality to individual researchers. The court held that the District Court's decision automatically to exempt from disclosure those researchers to whom confidentiality had been promised was erroneous; it directed the District Court on remand to focus its inquiry on whether the Agency offered sufficient proof that it needed to cloak its efforts in confidentiality in order to obtain the type of information provided by the researcher. Only upon such a showing would the individual qualify as an "intelligence source" exempt from disclosure under the FOIA. [<a id="nf8" href="#fn8">Footnote 8</a>]</p>
     <p>We granted certiorari, 465 U.S. 1078 (1984) and 467 U.S. 1240 (1984). We now reverse in part and affirm in part.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>No. 83-1075</p>
     <p>A</p>
     <p>The mandate of the FOIA calls for broad disclosure of Government records. [<a id="nf9" href="#fn9">Footnote 9</a>] Congress recognized, however, that</p>
@@ -99,7 +100,7 @@
     <p>Against this background highlighting the requirements of effective intelligence operations, Congress expressly made the Director of Central Intelligence responsible for "protecting intelligence sources and methods from unauthorized disclosure." This language stemmed from President Truman's Directive of January 22, 1946, 11 Fed.Reg. 1337, in which he established the National Intelligence Authority and the Central Intelligence Group, the Agency's predecessors. These institutions were charged with "assur[ing] the most effective accomplishment of the intelligence mission related to the national security," ibid., and accordingly made "responsible</p>
     <n id="p173">173</n>
     <p>for fully protecting intelligence sources and methods," id. at 1339. The fact that the mandate of § 102(d)(3) derives from this Presidential Directive reinforces our reading of the legislative history that Congress gave the Agency broad power to control the disclosure of intelligence sources.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>A</p>
     <p>Applying the definition of "intelligence sources" fashioned by the Congress in § 102(d)(3), we hold that the Director of Central Intelligence was well within his statutory authority to withhold the names of the MKULTRA researchers from disclosure under the FOIA. The District Court specifically ruled that the Agency "could reasonably determine that this research was needed for its intelligence function," [<a id="nf17" href="#fn17">Footnote 17</a>] and the Court of Appeals did not question this ruling. Indeed, the record shows that the MKULTRA research was related to the Agency's intelligence-gathering function in part because it revealed information about the ability of foreign governments to use drugs and other biological, chemical, or physical agents in warfare or intelligence operations against adversaries. During the height of the cold war period, the Agency was concerned, not without reason, that other countries were charting new advances in brainwashing and interrogation techniques. [<a id="nf18" href="#fn18">Footnote 18</a>]</p>
     <p>Consistent with its responsibility to maintain national security, the Agency reasonably determined that major research</p>
@@ -125,7 +126,7 @@
     <p>public sources of information that interest the Agency. The inquiries pursued by the Agency can often tell our adversaries something that is of value to them. See 228 U.S.App.D.C. at 277, 709 F.2d at 103 (Bork, J., concurring in part and dissenting in part). For example, disclosure of the fact that the Agency subscribes to an obscure but publicly available Eastern European technical journal could thwart the Agency's efforts to exploit its value as a source of intelligence information. Similarly, had foreign governments learned the Agency was using certain public journals and ongoing open research projects in its MKULTRA research of "brainwashing" and possible countermeasures, they might have been able to infer both the general nature of the project and the general scope that the Agency's inquiry was taking. [<a id="nf21" href="#fn21">Footnote 21</a>]</p>
     <p>C</p>
     <p>The "statutory mandate" of § 102(d)(3) is clear: Congress gave the Director wide-ranging authority to "protec[t] intelligence sources and methods from unauthorized disclosure." Snepp v. United States, supra, at <a href="../us444/us444-0507.xml#p509">444 U. S. 509</a>, n. 3. An intelligence source provides, or is engaged to provide, information the Agency needs to fulfill its statutory obligations. The record establishes that the MKULTRA researchers did in fact provide the Agency with information related to the Agency's intelligence function. We therefore hold that the Director was authorized to withhold the identities of these researchers from disclosure under the FOIA.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>No. 83-1249</p>
     <p>The cross-petition, No. 83-1249, calls for decision on whether the District Court and the Court of Appeals correctly</p>
     <n id="p178">178</n>
@@ -144,7 +145,7 @@
     <p>The national interest sometimes makes it advisable, or even imperative, to disclose information that may lead to the identity of intelligence sources. And it is the responsibility of the Director of Central Intelligence, not that of the judiciary, to weigh the variety of complex and subtle factors in determining whether disclosure of information may lead to an unacceptable risk of compromising the Agency's intelligence-gathering process. Here Admiral Turner, as Director, decided that the benefits of disclosing the identities of institutions that had no objection to disclosure outweighed the costs</p>
     <n id="p181">181</n>
     <p>of doing so. But Congress, in § 102(d)(3), entrusted this discretionary authority to the Director, and the fact that Admiral Turner made that determination in 1978 does not bind his successors to make the same determination, in a different context, with respect to institutions requesting that their identities not be disclosed. See, e.g., Salisbury v. United States, 223 U.S.App.D.C. 243, 248, 690 F.2d 966, 971 (1982).</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>We hold that the Director of Central Intelligence properly invoked § 102(d)(3) of the National Security Act of 1947 to withhold disclosure of the identities of the individual MKULTRA researchers as protected "intelligence sources." We also hold that the FOIA does not require the Director to disclose the institutional affiliations of the exempt researchers in light of the record which supports the Agency's determination that such disclosure would lead to an unacceptable risk of disclosing the sources' identities.</p>
     <p>Accordingly, we reverse that part of the judgment of the Court of Appeals regarding the disclosure of the individual researchers and affirm that part of the judgment pertaining to disclosure of the researchers' institutional affiliations.</p>
     <p>It is so ordered.</p>
@@ -242,7 +243,7 @@
       <p>To give meaning to the term "intelligence source" as it is used in § 102(d)(3) of the National Security Act of 1947, the Court today correctly concludes that the very narrow definition offered by the Court of Appeals is incorrect. [Footnote 2/1] That the</p>
       <n id="p182">182</n>
       <p>Court of Appeals erred does not, however, compel the conclusion that the Agency's sweeping alternative definition is in fact the correct one. [Footnote 2/2] The Court nonetheless simply adopts wholesale the Agency's definition of "intelligence source." That definition is mandated neither by the language or legislative history of any congressional Act, nor by legitimate policy considerations, and it in fact thwarts congressional efforts to balance the public's interest in information and the Government's need for secrecy. I therefore decline to join the opinion of the Court.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>The Freedom of Information Act (FOIA or Act) established a broad mandate for disclosure of governmental information by requiring that all materials be made public "unless explicitly allowed to be kept secret by one of the exemptions. . . ." S.Rep. No. 813, 89th Cong., 1st Sess., 10 (1965). The Act requires courts to review de novo agency claims of exemption, and it places on the agency the burden of defending its withholding of information. 5 U.S.C. § 552(a)(4)(B). Congress, it is clear, sought to assure that the Government would not operate behind a veil of secrecy, and it narrowly tailored the exceptions to the fundamental goal of disclosure.</p>
       <p>Two of these few exceptions are at issue in this case. The first, on which the Court focuses, is Exemption 3, which exempts information "specifically exempted from disclosure by statute," if the statute affords the agency no discretion on disclosure, § 552(b)(3)(A), establishes particular criteria for withholding the information, § 552(b)(3)(B), or refers to the particular types of material to be withheld, ibid. The Court</p>
       <n id="p183">183</n>
@@ -254,7 +255,7 @@
       <p>Exemption 1 thus plays a crucial role in the protection of Central Intelligence Agency information. That the Court does not mention this Exemption even once, in the course of its lengthy analysis on the policy reasons for broadly interpreting</p>
       <n id="p184">184</n>
       <p>the "intelligence source" provision, is extraordinary. By focusing myopically on the single statutory provision on which the Agency has chosen to rely in asserting its secrecy right, the Court rewards the Agency's decision not to invoke Exemption 1 in these cases. [Footnote 2/3] Of course, the Agency may fairly assert any possible ground for decision, and it has no duty to select that which is narrowest. But the Court, intent to assure that important information is protected, today plays into the Agency's hands by stretching the "intelligence source" exception beyond its natural limit; it does so while simply ignoring the fact that the information sought could properly have been withheld on other grounds -- on which the Agency chose not to rely. The cost of acceding to the Agency's litigation strategy, rather than undertaking a thorough analysis of the entire statutory scheme, is to mangle, seriously, a carefully crafted statutory scheme.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>I turn, then, to consider in light of this statutory framework the Court's analysis of Exemption 3. After concluding that Exemption 3 incorporates § 102(d)(3) as a withholding provision, the Court sets out to define the term "intelligence source." First, it looks to the "plain meaning" of the phrase and concludes that an "intelligence source" is self-evidently the same as an "information source." Ante at <a href="./us471-0159.xml#p169">471 U. S. 169</a>-170. Second, the Court looks to the legislative history. Pulling</p>
       <n id="p185">185</n>
       <p>together pieces of testimony from congressional hearings on the need to establish a centralized agency to gather information, it concludes that Congress knew that the Agency would collect information from diverse sources, and that "Congress was plainly alert to the need for maintaining confidentiality" so as not to lose covert sources of information. Ante at <a href="./us471-0159.xml#p172">471 U. S. 172</a>; see also Brief for Petitioners in No. 83-1075, pp. 18-21. Third, the Court chastises the Court of Appeals for adopting a "crabbed" reading of the statute, and explains how, as a policy matter, the</p>
@@ -283,7 +284,7 @@
       <p>If the class thus freed from judicial review were carefully defined, this result conceivably could make sense. It could</p>
       <n id="p191">191</n>
       <p>mean that Congress had decided to slice out from all the Agency's possible documents a class of material that may always be protected, no matter what the scope of the existing executive order. But the class that the Court defines is boundless. It is difficult to conceive of anything the Central Intelligence Agency might have within its many files that might not disclose or enable an observer to discover something about where the Agency gathers information. Indeed, even newspapers and public libraries, road maps and telephone books appear to fall within the definition adopted by the Court today. The result is to cast an irrebuttable presumption of secrecy over an expansive array of information in Agency files, whether or not disclosure would be detrimental to national security, and to rid the Agency of the burden of making individualized showings of compliance with an executive order. Perhaps the Court believes all Agency documents should be susceptible to withholding in this way. But Congress, it must be recalled, expressed strong disagreement by passing, and then amending, Exemption 1. In light of the Court's ruling, the Agency may nonetheless circumvent the procedure Congress has developed, and thereby undermine this explicit effort to keep from the Agency broad and unreviewable discretion over an expansive class of information.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>The Court today reads its own concerns into the single phrase, "intelligence source." To justify its expansive reading of these two words in the National Security Act, the Court explains that the Agency must be wary, protect itself, and not allow observers to learn either of its information resources or of the topics of its interest.</p>
       <p>"Disclosure of the subject matter of the Agency's research efforts and inquiries may compromise the Agency's ability to gather intelligence as much as disclosure of the identities of intelligence sources,"</p>
       <p>ante at <a href="./us471-0159.xml#p176">471 U. S. 176</a>, the Court observes, and the "intelligence source"</p>
@@ -291,7 +292,7 @@
       <p>exemption must bear the weight of that concern as well. That the Court points to no legislator or witness before Congress who expressed a concern for protecting such information through this provision is irrelevant to the Court. That each of the examples the Court offers of material that might disclose a topic of interest, and that should not be disclosed, could be protected through other existing statutory provisions, is of no moment. [Footnote 2/7] That the public already knows all about the MKULTRA project at issue in this case, except for the names of the researchers, and therefore that the Court's concern about disclosure of the Agency's "topics of interest" argument is not appropriate to this case, is of no consequence. And finally, that the Agency now has virtually unlimited discretion to label certain information "secret," in contravention of Congress' explicit efforts to confine the Agency's discretion both substantively and procedurally, is of no importance. Instead, simply because the Court can think of information that it believes should not be disclosed, and that might otherwise not fall within this exemption, the Court undertakes the task of interpreting the exemption to cover that information. I cannot imagine the canon of statutory construction upon which this reasoning is based.</p>
       <n id="p193">193</n>
       <p>Congress gave to the Agency considerable discretion to decide for itself whether the topics of its interest should remain secret, and through Exemption 1, it provided the Executive with the means to protect such information. If the Agency decides to classify the identities of nonconfidential contributors of information so as not to reveal the subject matter or kinds of interests it is pursuing, it may seek an Exemption 1 right to withhold. Under Congress' scheme, that is properly a decision for the Executive. It is not a decision for this Court. Congress has elsewhere identified particular types of information that it believes may be withheld regardless of the existence of an executive order, such as the identities of Agency employees, or, recently, the contents of Agency operational files. See 50 U.S.C. § 403g (exempting from disclosure requirements the organization, functions, names, official titles, salaries, or numbers of personnel employed by the Agency); Central Intelligence Agency Information Act, Pub.L. 98-477, § 701(a), 98 Stat. 2209, 50 U.S.C. § 431 (1982 ed., Supp. III) (exempting the Agency's operational files from disclosure under FOIA). Each of these categorical exemptions reflects a congressional judgment that, as to certain information, the public interest will always tip in favor of nondisclosure. In these cases, we have absolutely no indication that Congress has ever determined that the broad range of information that will hereinafter be enshrouded in secrecy should be inherently and necessarily confidential. Nevertheless, today the Court reaches out to substitute its own policy judgments for those of Congress.</p>
-      <h>IV</h>
+      <h2>IV</h2>
       <p>To my mind, the language and legislative history of § 102(d)(3), along with the policy concerns expressed by the Agency, support only an exemption for sources who provide information based on an implicit or explicit promise of confidentiality and information leading to disclosure of such sources. That reading of the "intelligence source" exemption poses no threat that sources will "clam up" for fear of</p>
       <n id="p194">194</n>
       <p>exposure, while at the same time it avoids an injection into the statutory scheme of the additional concerns of the Members of this Court. The Court of Appeals, however, ordered the release of even more material than I believe should be disclosed. Accordingly, I would reverse and remand this case for reconsideration in light of what I deem to be the proper definition of the term "intelligence source."</p>

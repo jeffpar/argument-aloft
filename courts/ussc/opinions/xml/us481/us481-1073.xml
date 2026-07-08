@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us481-1073.html" citation="481 U.S. 1073" title="TUCKER v. KEMP">
   <opinion type="Opinions &amp; Dissents">
     <n id="p1073">1073</n>
-    <h>U.S. Supreme Court</h>
-    <h>TUCKER v. KEMP , <a href="./us481-1073.xml#p1073">481 U.S. 1073</a> (1987)</h>
-    <h> <a href="./us481-1073.xml#p1073">481 U.S. 1073</a></h>
-    <h>William Boyd TUCKER v. Ralph KEMP, Warden No. 86-6955 (A-860)</h>
-    <h>Supreme Court of the United States</h>
-    <h>May 29, 1987</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>TUCKER v. KEMP, <a href="./us481-1073.xml#p1073">481 U.S. 1073</a> (1987)</h1>
+    <h2>William Boyd TUCKER v. Ralph KEMP, Warden No. 86-6955 (A-860)</h2>
+    <h2>Supreme Court of the United States</h2>
+    <h4>May 29, 1987</h4>
     <p>On petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit.</p>
     <p>The application for stay of execution of the sentence of death presented to Justice POWELL and by him referred to the Court is denied. The petition for writ of certiorari is denied. The order heretofore entered staying the execution of the sentence of death until 7 p.m., May 29, 1987, will not be extended.</p>
     <p>Justice BRENNAN, with whom Justice MARSHALL joins, and with whom Justice BLACKMUN joins as to Part II, dissenting.</p>
@@ -40,7 +40,7 @@
     <n id="p1078">1078</n>
     <p>isted." Affidavits of Robert B. Remar and Eric G. Kocher (Exhibits E and F in Petition For Writ of Certiorari).2</p>
     <p>In Franklin we held that a charge identical in all pertinent respects to the one given here violated the Fourteenth Amendment's requirement that the State prove every element of a criminal offense beyond a reasonable doubt. Here, the Court permits a man to be executed despite the likelihood that his conviction was obtained in violation of this fundamental tenet of our criminal law. It does so on the untenable ground that petitioner has abused the writ by failing to anticipate that a claim repeatedly held without merit by the State Supreme Court would ultimately be vindicated here. I dissent.</p>
-    <h>Footnotes</h>
+    <h2>Footnotes</h2>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>
       <p>Both the District Court and the Court of Appeals found that, because Franklin did not represent a substantial break in precedent with Sandstrom v. Oklahoma, <a href="../us442/us442-0510.xml#p510">442 U.S. 510</a> (1979), Tucker had no excuse for failing to raise the claim in his first petition.</p>
     </f>

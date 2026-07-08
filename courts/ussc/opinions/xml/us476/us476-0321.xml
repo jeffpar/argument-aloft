@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us476-0321.html" citation="476 U.S. 321" title="Henderson v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p321">321</n>
-    <h>U.S. Supreme Court</h>
-    <h>Henderson v. United States, <a href="./us476-0321.xml#p321">476 U.S. 321</a> (1986)</h>
-    <h>Henderson v. United States</h>
-    <h>No. 84-1744</h>
-    <h>Argued April 1, 1986</h>
-    <h>Decided May 19, 1986</h>
-    <h><a href="./us476-0321.xml#p321">476 U.S. 321</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Henderson v. United States, <a href="./us476-0321.xml#p321">476 U.S. 321</a> (1986)</h1>
+    <h2>Henderson v. United States</h2>
+    <h4>No. 84-1744</h4>
+    <h4>Argued April 1, 1986</h4>
+    <h4>Decided May 19, 1986</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>The Speedy Trial Act (Act) commands that a defendant be tried within 70 days of the latest of either the filing of an indictment or information, or the first appearance before a judge or magistrate. However, a provision of the Act, 18 U.S.C. § 3161(h)(1)(F) (hereafter subsection (F)), excludes from this time</p>
     <p>"[a]ny period of delay resulting from other proceedings concerning the defendant, including . . . delay resulting from any pretrial motion, from the filing of the motion through the conclusion of the hearing on, or other prompt disposition of, such motion."</p>
     <p>With regard to petitioners, who were ultimately convicted in Federal District Court of charges relating to the manufacture, possession, and distribution of controlled substances, the Act's 70-day period commenced on September 3, 1980, but the trial did not begin until November 1, 1982, because of various delays, including those resulting from overlapping filings by petitioners and the Government with respect to a motion to suppress certain evidence, a hearing and posthearing submissions by the parties on that motion, petitioners' motion for reconsideration of the court's denial of the motion to suppress, and petitioners' motion to dismiss the indictment because of violation of the Act. The Court of Appeals affirmed petitioners' convictions, rejecting their contention that, under subsection (F), only delays that were "reasonably necessary" could be excluded from the Act's 70-day period.</p>
@@ -27,7 +27,7 @@
     <p>The Speedy Trial Act, 18 U.S.C. § 3161 et seq. (1982 ed. and Supp. II), as amended in 1979 and in 1984, commands that a defendant be tried within 70 days of the latest of either the filing of an indictment or information, or the first appearance before a judge or magistrate. Section 3161(h)(1)(F) excludes from this time</p>
     <p>"delay resulting from any pretrial motion, from the filing of the motion through the conclusion of the hearing on, or other prompt disposition of, such motion."</p>
     <p>This case requires us to decide the narrow questions whether that exclusion is limited to reasonably necessary delays, and whether it applies to delays occasioned by the filing of posthearing briefs on motions.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>A jury convicted petitioners of charges arising out of manufacture, possession, and distribution of controlled substances .</p>
     <n id="p323">323</n>
     <p>[<a id="nf1" href="#fn1">Footnote 1</a>] The evidence at trial showed that, in February and April, 1980, petitioner Henderson, under the alias "Richard Martin," placed orders with a scientific supply company in Ohio for chemicals that could be used in the manufacture of illegal drugs. The orders attracted the attention of the Drug Enforcement Agency. Agents obtained a warrant from a United States Magistrate, authorizing installation of an electronic transmitter in one of the chemical containers. Henderson drove from California to Ohio, picked up the second order of chemicals on June 24, and headed west. Agents lost the tracking signal despite their following by both car and plane, only to receive it later in July from petitioner Freedman's house near Watsonville, California. A search pursuant to warrant on July 17 revealed an illicit drug factory. The last of the codefendants, Peter Bell, was arraigned on September 3, 1980. [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
@@ -39,7 +39,7 @@
     <p>On July 23, 1982, Thornton filed a motion to dismiss the superseding indictment for violation of the Speedy Trial Act. The other two petitioners subsequently joined this motion. The District Judge held a hearing almost two months later, on September 8, and denied the motion from the bench on that date. He filed a memorandum and order outlining his reasons exactly 30 days later. At that time, the judge also entered an order excluding the time from October 8 to November 1, again based on the "interests of justice." 3 Record, Doc. Nos. 98-99. Trial commenced on November 1, 1982.</p>
     <p>Petitioners appealed their convictions, arguing, inter alia, that the District Court could exclude from their Speedy Trial Act computation only delays that were "reasonably necessary." 746 F.2d 619, 622 (CA9 1984). The Court of Appeals held that the statute "excludes delays resulting from pretrial motions without qualification." Ibid. The court noted that Congress had explicitly provided that the excludability of certain other delays depended on their reasonableness, but had not done so for delays from pretrial motions. Ibid. Judge Ferguson dissented, relying on the Act's legislative history and the interpretations of other Circuits. Id. at 625-626. We granted certiorari to resolve a conflict among the Circuits. [<a id="nf6" href="#fn6">Footnote 6</a>] 474 U.S. 900 (1985). We now affirm.</p>
     <n id="p326">326</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>The Speedy Trial Act requires that a criminal trial must commence within 70 days of the latest of a defendant's indictment, information, or appearance, barring periods of excludable delay. United States v. Rojas-Contreras, <a href="../us474/us474-0231.xml#p231">474 U. S. 231</a> (1985); see 18 U.S.C. § 3161(c)(1). Section 3161(h) (1)(F) (subsection (F)) excludes from these 70 days certain delays occasioned by the filing of pretrial motions:</p>
     <p>"(h) The following periods of delay shall be excluded in computing the time within which an information or an indictment must be filed, or in computing the time within which the trial of any such offense must commence:"</p>
     <p>"(1) Any period of delay resulting from other proceedings concerning the defendant, including but not limited to -- "</p>
@@ -76,7 +76,7 @@
     <n id="p331">331</n>
     <p>from other proceedings concerning the defendant"). Although the language of subsection (F) is not clear on this point, we are convinced that its structure, as well as reason, requires that such time be excluded.</p>
     <p>The provisions of the Act are designed to exclude all time that is consumed in placing the trial court in a position to dispose of a motion. See, e.g., S.Rep. No. 96-212, at 9-10. District courts often find it impossible to resolve motions on which hearings have been held until the parties have submitted posthearing briefs or additional factual materials, especially where the motion presents complicated issues. It would not have been sensible for Congress to exclude automatically all the time prior to the hearing on a motion and 30 days after the motion is taken under advisement, but not the time during which the court remains unable to rule because it is awaiting the submission by counsel of additional materials. Moreover, for motions decided solely on the papers, Congress has allowed exclusion of time during which the parties are filing their briefs. 18 U.S.C. §§ 3161(h)(1)(F), (J); see supra, at <a href="./us476-0321.xml#p328">476 U. S. 328</a>-329. It is consistent with this exclusion to exclude time when the court awaits the briefs and materials needed to resolve a motion on which a hearing has been held -- motions that the Senate Judiciary Committee recognized as typically more difficult than motions decided on the papers. See S.Rep. No. 96-212, at 34. We therefore hold that subsection (F) excludes time after a hearing has been held where a district court awaits additional filings from the parties that are needed for proper disposition of the motion.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>We now calculate the number of nonexcludable days before petitioners' trial. The Act began to run on September 3, 1980, the date of arraignment of codefendant Bell. On October 22, 1980, the District Court entered -- with the consent of the parties -- a continuance through November 12. The District Court excluded that continuance from the Speedy Trial</p>
     <n id="p332">332</n>
     <p>Act's 70-day limit under § 3161(h)(8)(A) in "the interest of justice." App. 26-27; see 746 F.2d at 623-624. That exclusion is not challenged in this Court.</p>
@@ -84,7 +84,7 @@
     <p>On January 25, 1982, the Government filed a motion to set the case for trial, noticed for February 3. We need not decide whether this time is excludable under subsection (F), as it does not affect the disposition of this case. On February 3, the court continued the case until April 21 to afford defense counsel the opportunity to file a motion to reconsider the suppression ruling. Ibid. The District Court subsequently found that this time was excludable under § 3161(h)(8)(A) as a continuance necessary for the "interests of justice." Id. at 34. [<a id="nf10" href="#fn10">Footnote 10</a>] On March 23, petitioners filed their motion for reconsideration. Under subsection (F), an exclusion for this pending motion ran from March 23 until the disposition by hearing on May 10. See App. 33. At that time, the court stated that it would exclude under § 3161(h)(8)(A) the time from May 10 to September 13, the new trial date, because of the difficulty of coordinating the schedules of five defense attorneys. The court entered a similar order on September 13</p>
     <n id="p333">333</n>
     <p>that extended through the ultimate trial date of November 1, 1982. Neither of those orders is properly before us. As the case stands here, it presents 69 nonexcludable days of delay, and therefore the Speedy Trial Act was not violated. [<a id="nf11" href="#fn11">Footnote 11</a>]</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>The judgment of the Court of Appeals for the Ninth Circuit is affirmed.</p>
     <p>It is so ordered.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>

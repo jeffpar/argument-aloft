@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us383-0039.html" citation="383 U.S. 39" title="United States v. Adams">
   <opinion type="Opinions &amp; Dissents">
     <n id="p39">39</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Adams, <a href="./us383-0039.xml#p39">383 U.S. 39</a> (1966)</h>
-    <h>United States v. Adams</h>
-    <h>No. 55</h>
-    <h>Argued October 14, 1965</h>
-    <h>Decided February 21, 1966</h>
-    <h><a href="./us383-0039.xml#p39">383 U.S. 39</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF CLAIMS</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Adams, <a href="./us383-0039.xml#p39">383 U.S. 39</a> (1966)</h1>
+    <h2>United States v. Adams</h2>
+    <h2>No. 55</h2>
+    <h4>Argued October 14, 1965</h4>
+    <h4>Decided February 21, 1966</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF CLAIMS</h2>
+    <h2>Syllabus</h2>
     <p>Respondents sued the Government under 28 U.S. C. §1498 charging infringement and breach of contract to compensate for use of a wet battery on which a patent had been issued to respondent Adams. The battery consisted of a magnesium electrode (anode) and a cuprous chloride electrode (cathode) placed in a container with water to be supplied as the electrolyte, providing a constant voltage and current without the use of acids. Despite initial disbelief in the battery's efficacy by government experts to whose attention Adams brought his invention, the Government ultimately (but without notifying Adams) put the battery to many uses. In opposition to respondents' suit, the Government claimed the device unpatentable because the use of magnesium and cuprous chloride to perform the function shown by Adams had been previously well known in the art and their combination represented no significant change compared to the prior art wet battery designs such as those using a zinc anode and silver chloride cathode for which magnesium and cuprous chloride were known substitutes. The Court of Claims adopted the Trial Commissioner's finding that the patent was valid and infringed by some of the accused devices. Six months later, following respondents' motion to amend the judgment, that court found no breach of contract. More than 90 days after the initial judgment, but less than that period after the contract decision, the Government sought a time extension for review as to the issue of patent validity. Such review was later granted though service on respondents of the petition for writ of certiorari was delayed beyond the time prescribed by this Court's rules.</p>
     <p>Held:</p>
     <p>1. The petition for certiorari was timely, since the 90-day filing period commenced not with the initial judgment, but with the judgment on the contract issue; nor did failure to comply with the Court's rules as to service of the petition bar this review, since the service requirements therein are not jurisdictional, and no prejudice resulted from the Government's inadvertent failure to meet those requirements. Pp. <a href="./us383-0039.xml#p41">383 U. S. 41</a>-42.</p>
@@ -29,13 +29,13 @@
     <p>This is a companion case to No. 11, Graham v. John Deere Co., decided this day along with Nos. 37 and 43, Calmar, Inc. v. Cook Chemical Co. and Colgate-Palmolive Co. v. Cook Chemical Co. The United States seeks review of a judgment of the Court of Claims, holding valid and infringed a patent on a wet battery issued to</p>
     <n id="p41">41</n>
     <p>Adams. This suit under 28 U.S.C. § 1498 (1964 ed.) was brought by Adams and others holding an interest in the patent against the Government charging both infringement and breach of an implied contract to pay compensation for the use of the invention. The Government challenged the validity of the patent, denied that it had been infringed or that any contract for its use had ever existed. The Trial Commissioner held that the patent was valid and infringed in part, but that no contract, express or implied, had been established. The Court of Claims adopted these findings, initially reaching only the patent questions, 330 F.2d 622, 165 Ct.Cl. 576, but subsequently, on respondents' motion to amend the judgment, deciding the contract claims as well. 330 F.2d at 634, 165 Ct.Cl. at 598. The United States sought certiorari on the patent validity issue only. We granted the writ, along with the others, in order to settle the important issues of patentability presented by the four cases. 380 U.S. 949. We affirm.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>While this case is controlled on the merits by No. 11, Graham, ante, p. <a href="./us383-0001.xml#p1">383 U. S. 1</a>, respondents have raised threshold issues as to our jurisdiction which require separate handling. They say that the petition for certiorari came too late, contending that the 90-day period for filing began with the date of the initial judgment, rather than the date of the decision on the contract issue, citing FTC v. Minneapolis-Honeywell Co., <a href="../us344/us344-0206.xml#p206">344 U. S. 206</a> (1952). We cannot agree, first, because that case did not involve a timely motion to amend the judgment, [<a id="nf1" href="#fn1">Footnote 1</a>] and, secondly, because here the Government's liability was inextricably</p>
     <n id="p42">42</n>
     <p>linked with the alleged contract action, which was not determined until the latter judgment.</p>
     <p>Nor is there merit in respondents' contention that the Government failed to comply with the requirements of our Rules 21(1) and 33 as to service, since these requirements are not jurisdictional, no prejudice resulted, and the failure was inadvertent.</p>
     <p>We turn now to the merits.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The Patent in Issue and Its Background</p>
     <p>The patent under consideration, U.S. No. 2,322,210, was issued in 1943 upon an application filed in December, 1941, by Adams. It relates to a nonrechargeable, as opposed to a storage, electrical battery. Stated simply, the battery comprises two electrodes -- one made of magnesium, the other of cuprous chloride -- which are placed in a container. The electrolyte, or battery fluid, used may be either plain or salt water.</p>
     <p>The specifications of the patent state that the object of the invention is to provide constant voltage and current without the use of acids, conventionally employed in storage batteries, and without the generation of dangerous fumes. Another object is "to provide a battery which is relatively light in weight with respect to capacity" and which</p>
@@ -54,7 +54,7 @@
     <p>See Tenth Annual Battery Research and Development Conference, Signal Corps Engineering Laboratories, Fort Monmouth, N.J., p. 25 (1956). Also, see Finding No. 24, 330 F.2d at 632, 165 Ct.Cl. at 592.</p>
     <p>Surprisingly, the Government did not notify Adams of its changed views, nor of the use to which it was putting his device, despite his repeated requests. In 1955, upon examination of a battery produced for the Government by the Burgess Company, he first learned of the Government's action. His request for compensation was denied in 1960, resulting in this suit.</p>
     <n id="p45">45</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>The Prior Art</p>
     <p>The basic idea of chemical generation of electricity is, of course, quite old. Batteries trace back to the epic discovery by the Italian scientist Volta in 1795, who found that when two dissimilar metals are placed in an electrically conductive fluid, an electromotive force is set up and electricity generated. Essentially, the basic elements of a chemical battery are a pair of electrodes of different electrochemical properties and an electrolyte which is either a liquid (in "wet" batteries) or a moist paste of various substances (in the so-called "drycell" batteries). Various materials which may be employed as electrodes, various electrolyte possibilities, and many combinations of these elements have been the object of considerable experiment for almost 175 years. See generally, Vinal, Primary Batteries (New York 1950).</p>
     <p>At trial, the Government introduced in evidence 24 patents and treatises as representing the art as it stood in 1938, the time of the Adams invention. [<a id="nf2" href="#fn2">Footnote 2</a>] Here, however, the Government has relied primarily upon only six of these references, [<a id="nf3" href="#fn3">Footnote 3</a>] which we may summarize as follows.</p>
@@ -75,7 +75,7 @@
     <p>Finally, the Skrivanoff patent depended upon by the Government relates to a battery designed to give intermittent, as opposed to continuous, service. While the patent claims magnesium as an electrode, it specifies that the electrolyte to be used in conjunction with it must be a solution of "alcoline, chloro-chromate, or a permanganate strengthened with sulphuric acid." The cathode was a copper or carbon electrode faced with a paste of "phosphoric acid, amorphous phosphorous, metallic copper in spangles, and cuprous chloride." This paste is to be mixed with hot sulfuric acid before applying to the electrode. The Government's expert testified in trial that he had no information as to whether the cathode, as placed in the battery, would, after having been mixed with the other chemicals prescribed, actually</p>
     <n id="p48">48</n>
     <p>contain cuprous chloride. Furthermore, respondents' expert testified without contradiction that he had attempted to assemble a battery made in accordance with Skrivanoff's teachings, but was met first with a fire when he sought to make the cathode, and then with an explosion when he attempted to assemble the complete battery.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>The Validity of the Patent</p>
     <p>The Government challenges the validity of the Adams patent on grounds of lack of novelty under 35 U.S.C. § 102(a) (1964 ed.), as well as obviousness under 35 U.S.C. § 103 (1964 ed.) As we have seen in Graham v. John Deere Co., ante, p. <a href="./us383-0001.xml#p1">383 U. S. 1</a>, novelty and nonobviousness -- as well as utility -- are separate tests of patentability, and all must be satisfied in a valid patent.</p>
     <p>The Government concludes that wet batteries comprising a zinc anode and silver chloride cathode are old in the art, and that the prior art shows that magnesium may be substituted for zinc and cuprous chloride for silver chloride. Hence, it argues that the</p>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us461-0300.html" citation="461 U.S. 300" title="Commissioner v. Tufts">
   <opinion type="Opinions &amp; Dissents">
     <n id="p300">300</n>
-    <h>U.S. Supreme Court</h>
-    <h>Commissioner v. Tufts, <a href="./us461-0300.xml#p300">461 U.S. 300</a> (1983)</h>
-    <h>Commissioner v. Tufts</h>
-    <h>No. 81-1536</h>
-    <h>Argued November 29, 1982</h>
-    <h>Decided May 2, 1983</h>
-    <h><a href="./us461-0300.xml#p300">461 U.S. 300</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE FIFTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Commissioner v. Tufts, <a href="./us461-0300.xml#p300">461 U.S. 300</a> (1983)</h1>
+    <h2>Commissioner v. Tufts</h2>
+    <h2>No. 81-1536</h2>
+    <h4>Argued November 29, 1982</h4>
+    <h4>Decided May 2, 1983</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE FIFTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Section 72(d) of the Internal Revenue Code of 1954 (IRC) provides that liabilities involved in the sale or exchange of a partnership interest are to be treated "in the same manner as liabilities in connection with the sale or exchange of property not associated with partnerships." Under § 1001(a) of the IRC, the gain or loss from a sale or other disposition of property is defined as the difference between "the amount realized" on the disposition and the property's adjusted basis. Section 1001(b) defines the "amount realized" as "the sum of any money received plus the fair market value of the property (other than money) received." A general partnership formed by respondents in 1970 to construct an apartment complex entered into a $1,851,500 nonrecourse mortgage loan with a savings association. The complex was completed in 1971. Due to the partners' capital contributions to the partnership and income tax deductions for their allocable shares of ordinary losses and depreciation, the partnership's claimed adjusted basis in the property in 1972 was $1,455,740. Because of an unanticipated reduction in rental income, the partnership was unable to make the payments due on the mortgage. Each partner thereupon sold his interest to a third party, who assumed the mortgage. The fair market value on the date of transfer did not exceed $1,400,000. Each partner reported the sale on his income tax return and indicated a partnership loss of $55,740. The Commissioner of Internal Revenue, however, determined that the sale resulted in a partnership gain of approximately $400,000 on the theory that the partnership had realized the full amount of the nonrecourse obligation. The United States Tax Court upheld the deficiencies, but the Court of Appeals reversed.</p>
     <p>Held: When a taxpayer sells or disposes of property encumbered by a nonrecourse obligation exceeding the fair market value of the property sold, as in this case, the Commissioner may require him to include in the "amount realized" the outstanding amount of the obligation; the fair market value of the property is irrelevant to this calculation. Cf. Crane v. Commissioner, <a href="../us331/us331-0001.xml#p1">331 U. S. 1</a>. Pp. <a href="./us461-0300.xml#p304">461 U. S. 304</a>-317.</p>
     <n id="p301">301</n>
@@ -24,7 +24,7 @@
     <p>Over 35 years ago, in Crane v. Commissioner, <a href="../us331/us331-0001.xml#p1">331 U. S. 1</a> (1947), this Court ruled that a taxpayer, who sold property encumbered by a nonrecourse mortgage (the amount of the</p>
     <n id="p302">302</n>
     <p>mortgage being less than the property's value), must include the unpaid balance of the mortgage in the computation of the amount the taxpayer realized on the sale. The case now before us presents the question whether the same rule applies when the unpaid amount of the nonrecourse mortgage exceeds the fair market value of the property sold.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>On August 1, 1970, respondent Clark Pelt, a builder, and his wholly owned corporation, respondent Clark, Inc., formed a general partnership. The purpose of the partnership was to construct a 120-unit apartment complex in Duncanville, Tex., a Dallas suburb. Neither Pelt nor Clark, Inc., made any capital contribution to the partnership. Six days later, the partnership entered into a mortgage loan agreement with the Farm &amp; Home Savings Association (F&amp;H). Under the agreement, F&amp;H was committed for a $1,851,500 loan for the complex. In return, the partnership executed a note and a deed of trust in favor of F&amp;H. The partnership obtained the loan on a nonrecourse basis: neither the partnership nor its partners assumed any personal liability for repayment of the loan. Pelt later admitted four friends and relatives, respondents Tufts, Steger, Stephens, and Austin, as general partners. None of them contributed capital upon entering the partnership.</p>
     <p>The construction of the complex was completed in August, 1971. During 1971, each partner made small capital contributions to the partnership; in 1972, however, only Pelt made a contribution. The total of the partners' capital contributions was $44,212. In each tax year, all partners claimed as income tax deductions their allocable shares of ordinary losses and depreciation. The deductions taken by the partners in 1971 and 1972 totalled $439,972. Due to these contributions and deductions, the partnership's adjusted basis in the property in August, 1972, was $1,455,740.</p>
     <n id="p303">303</n>
@@ -33,7 +33,7 @@
     <p>Relying on Millar v. Commissioner, 577 F.2d 212, 215 (CA3), cert. denied, 439 U.S. 1046 (1978), the United States Tax Court, in an unreviewed decision, upheld the asserted deficiencies. 70 T.C. 756 (1978). The United States Court of Appeals for the Fifth Circuit reversed. 651 F.2d 1058 (1981). That court expressly disagreed with the Millar analysis, and, in limiting Crane v. Commissioner, supra, to its facts, questioned the theoretical underpinnings of the Crane</p>
     <n id="p304">304</n>
     <p>decision. We granted certiorari to resolve the conflict. 456 U.S. 960 (1982).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Section 752(d) of the Internal Revenue Code of 1954, 26 U.S.C. § 752(d), specifically provides that liabilities involved in the sale or exchange of a partnership interest are to "be treated in the same manner as liabilities in connection with the sale or exchange of property not associated with partnerships." Section 1001 governs the determination of gains and losses on the disposition of property. Under § 1001(a), the gain or loss from a sale or other disposition of property is defined as the difference between "the amount realized" on the disposition and the property's adjusted basis. Subsection (b) of § 1001 defines "amount realized":</p>
     <p>"The amount realized from the sale or other disposition of property shall be the sum of any money received plus the fair market value of the property (other than money) received."</p>
     <p>At issue is the application of the latter provision to the disposition of property encumbered by a nonrecourse mortgage of an amount in excess of the property's fair market value.</p>
@@ -74,7 +74,7 @@
     <p>In the specific circumstances of Crane, the economic benefit theory did support the Commissioner's treatment of the nonrecourse mortgage as a personal obligation. The footnote in Crane acknowledged the limitations of that theory when applied to a different set of facts. Crane also stands for the broader proposition, however, that a nonrecourse loan should be treated as a true loan. We therefore hold that a taxpayer must account for the proceeds of obligations he has received tax-free and included in basis. Nothing in either § 1001(b) or in the Court's prior decisions requires the Commissioner to permit a taxpayer to treat a sale of encumbered property asymmetrically, by including the proceeds of the nonrecourse obligation in basis but not accounting for the proceeds upon transfer of the encumbered property. See</p>
     <n id="p314">314</n>
     <p>Estate of Levine v. Commissioner, 634 F.2d 12, 15 (CA2 1980).</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Relying on the Code's § 752(c), 26 U.S.C. § 752(c), however, respondents argue that Congress has provided for precisely this type of asymmetrical treatment in the sale or disposition of partnership property. Section 752 prescribes the tax treatment of certain partnership transactions, [<a id="nf14" href="#fn14">Footnote 14</a>] and § 752(c) provides that,</p>
     <p>"[f]or purposes of this section, a liability to which property is subject shall, to the extent of the fair market value of such property, be considered as a liability of the owner of the property."</p>
     <p>Section 752(c) could be read to apply to a sale or disposition of partnership property, and thus to limit the amount realized to the fair market value of the property transferred. Inconsistent with this interpretation, however, is the language of § 752(d), which specifically mandates that partnership liabilities be treated "in the same manner as liabilities in connection with the sale or exchange</p>
@@ -87,7 +87,7 @@
     <p>By placing a fair market value limitation on liabilities connected with property contributions to and distributions from partnerships under subsections (a) and (b), Congress apparently intended § 752(c) to prevent a partner from inflating the basis of his partnership interest. Otherwise, a partner with no additional capital at risk in the partnership could raise the § 704(d) limit on his distributive share of partnership losses or could reduce his taxable gain upon disposition of his partnership</p>
     <n id="p317">317</n>
     <p>interest. See Newman, The Resurgence of Footnote 37: Tufts v. Commissioner, 18 Wake Forest L.Rev. 1, 16, n. 116 (1982). There is no potential for similar abuse in the context of § 752(d) sales of partnership interests to unrelated third parties. In light of the above, we interpret subsection (c) to apply only to § 752(a) and (b) transactions, and not to limit the amount realized in a sale or exchange of a partnership interest under § 752(d).</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>When a taxpayer sells or disposes of property encumbered by a nonrecourse obligation, the Commissioner properly requires him to include among the assets realized the outstanding amount of the obligation. The fair market value of the property is irrelevant to this calculation. We find this interpretation to be consistent with Crane v. Commissioner, <a href="../us331/us331-0001.xml#p1">331 U. S. 1</a> (1947), and to implement the statutory mandate in a reasonable manner. National Muffler Dealers Assn. v. United States, <a href="../us440/us440-0472.xml#p472">440 U. S. 472</a>, <a href="../us440/us440-0472.xml#p476">440 U. S. 476</a> (1979).</p>
     <p>The judgment of the Court of Appeals is therefore reversed.</p>
     <p>It is so ordered.</p>

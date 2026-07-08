@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us467-0735.html" citation="467 U.S. 735" title="SEC v. Jerry T. O'Brien, Inc.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p735">735</n>
-    <h>U.S. Supreme Court</h>
-    <h>SEC v. Jerry T. O'Brien, Inc., <a href="./us467-0735.xml#p735">467 U.S. 735</a> (1984)</h>
-    <h>Securities and Exchange Commission v. Jerry T. O'Brien, Inc.</h>
-    <h>No. 83-751</h>
-    <h>Argued April 17, 1984</h>
-    <h>Decided June 18, 1984</h>
-    <h><a href="./us467-0735.xml#p735">467 U.S. 735</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>SEC v. Jerry T. O'Brien, Inc., <a href="./us467-0735.xml#p735">467 U.S. 735</a> (1984)</h1>
+    <h2>Securities and Exchange Commission v. Jerry T. O'Brien, Inc.</h2>
+    <h2>No. 83-751</h2>
+    <h4>Argued April 17, 1984</h4>
+    <h4>Decided June 18, 1984</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>During its nonpublic investigation into possible violations of the federal securities laws involving respondents, the Securities and Exchange Commission (SEC) issued subpoenas to certain of the respondents for the production of financial records. Ultimately, respondents filed suit in Federal District Court to enjoin the SEC's investigation and to prevent compliance with some of the subpoenas. After the District Court dismissed the claims for injunctive relief, the SEC issued subpoenas to third parties. Respondents then renewed their requests to the District Court for injunctive relief and sought notice of the third-party subpoenas. The court denied the requested relief, but the Court of Appeals reversed with respect to the District Court's denial of respondents' request for notice of subpoenas issued to third parties.</p>
     <p>Held: The SEC is not required to notify the "targets" of nonpublic investigations into possible violations of the securities laws when the SEC issues subpoenas to third parties. The SEC has discretion to determine when such notice would be appropriate and when it would not. Pp. <a href="./us467-0735.xml#p741">467 U. S. 741</a>-751.</p>
     <p>(a) Notice to "targets" is not required by any constitutional provision. When a federal administrative agency, without notifying a person under investigation, uses its subpoena power to gather evidence adverse to him, the Due Process Clause of the Fifth Amendment is not implicated, because an administrative investigation adjudicates no legal rights, and the Confrontation Clause of the Sixth Amendment is not offended, since it does not come into play until the initiation of criminal proceedings. Nor may a person inculpated by materials sought by a subpoena issued to a third party seek shelter in the Self-Incrimination Clause of the Fifth Amendment, since the subpoena does not "compel" anyone other than the person to whom it is directed to be a witness against himself. Finally, respondents cannot contend that notice of subpoenas issued to third parties is necessary to enable a "target" to prevent a search or seizure of his papers violative of the Fourth Amendment; when a person communicates information to a third party, even on the understanding that the communication is confidential, he cannot object if the third party</p>
@@ -23,7 +23,7 @@
     <n id="p737">737</n>
     <p>JUSTICE MARSHALL delivered the opinion of the Court.</p>
     <p>The Securities and Exchange Commission (SEC or Commission) has statutory authority to conduct nonpublic investigations into possible violations of the securities laws and, in the course thereof, to issue subpoenas to obtain relevant information. The question before us is whether the Commission must notify the "target" of such an investigation when it issues a subpoena to a third party.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>This case represents one shard of a prolonged investigation by the SEC into the affairs of respondent Harry F. Magnuson and persons and firms with whom he has dealt. The investigation began in 1980, when the Commission's staff reported to the Commission that information in their possession tended to show that Magnuson and others had been trading in the stock of specified mining companies in a manner violative of the registration, reporting, and antifraud provisions of the Securities Act of 1933 and the Securities Exchange Act of 1934. In response, the Commission issued a Formal</p>
     <n id="p738">738</n>
     <p>Order of Investigation [<a id="nf1" href="#fn1">Footnote 1</a>] authorizing employees of its Seattle Regional Office to initiate a "private investigation" into the transactions in question and, if necessary, to subpoena testimony and documents "deemed relevant or material to the inquiry." Complaint, Exhibit A, pp. 3-4.</p>
@@ -40,7 +40,7 @@
     <n id="p741">741</n>
     <p>SEC and other agencies to conduct nonpublic investigations into possible violations of federal law. Ibid.</p>
     <p>We granted certiorari because of the importance of the issue presented. 464 U.S. 1038 (1984). We now reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Congress has vested the SEC with broad authority to conduct investigations into possible violations of the federal securities laws and to demand production of evidence relevant to such investigations. E.g., 15 U.S.C. §§ 77s(b), 78u(a), (b). [<a id="nf8" href="#fn8">Footnote 8</a>] Subpoenas issued by the Commission are not self-enforcing, and the recipients thereof are not subject to penalty for refusal to obey. But the Commission is authorized to bring suit in federal court to compel compliance with its process. E.g., 15 U.S.C. §§ 77v(b), 78u(c). [<a id="nf9" href="#fn9">Footnote 9</a>]</p>
     <p>No provision in the complex of statutes governing the SEC's investigative power expressly obliges the Commission to notify the "target" of an investigation when it issues a subpoena to a third party. If such an obligation is to be imposed on the Commission, therefore, it must be derived from one of three sources: a constitutional provision; an understanding on the part of Congress, inferable from the structure of the securities laws, regarding how the SEC should conduct its inquiries; or the general standards governing judicial</p>
     <n id="p742">742</n>
@@ -84,7 +84,7 @@
     <n id="p751">751</n>
     <p>where speed in locating and halting violations of the law is so important, we would be loathe to place such potent weapons in the hands of persons with a desire to keep the Commission at bay.</p>
     <p>We acknowledge that our ruling may have the effect in practice of preventing some persons under investigation by the SEC from asserting objections to subpoenas issued by the Commission to third parties for improper reasons. However, to accept respondents' proposal "would unwarrantedly cast doubt upon and stultify the [Commission's] every investigatory move," Donaldson v. United States, 400 U.S. at <a href="../us400/us400-0517.xml#p531">400 U. S. 531</a>. Particularly in view of Congress' manifest disinclination to require the Commission to notify targets whenever it seeks information from others, see supra at <a href="./us467-0735.xml#p746">467 U. S. 746</a>-747, we refuse so to curb the Commission's exercise of its statutory power. [<a id="nf25" href="#fn25">Footnote 25</a>]</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Nothing in this opinion should be construed to imply that it would be improper for the SEC to inform a target that it has issued a subpoena to someone else. But, for the reasons indicated above, we decline to curtail the Commission's discretion to determine when such notice would be appropriate and when it would not. Accordingly, the judgment of the Court of Appeals is reversed, and the case is remanded for further proceedings consistent with this opinion.</p>
     <p>It is so ordered.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>

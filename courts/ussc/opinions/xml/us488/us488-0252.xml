@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us488-0252.html" citation="488 U.S. 252" title="Goldberg v. Sweet">
   <opinion type="Opinions &amp; Dissents">
     <n id="p252">252</n>
-    <h>U.S. Supreme Court</h>
-    <h>Goldberg v. Sweet, <a href="./us488-0252.xml#p252">488 U.S. 252</a> (1989)</h>
-    <h>Goldberg v. Sweet</h>
-    <h>No. 87-826</h>
-    <h>Argued October 12, 1988</h>
-    <h>Decided January 10, 1989<a href="./us488-0252.xml#p252">488 U.S. 252</a>ast|&gt;*</h>
-    <h><a href="./us488-0252.xml#p252">488 U.S. 252</a></h>
-    <h>APPEAL FROM THE SUPREME COURT OF ILLINOIS</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Goldberg v. Sweet, <a href="./us488-0252.xml#p252">488 U.S. 252</a> (1989)</h1>
+    <h2>Goldberg v. Sweet</h2>
+    <h2>No. 87-826</h2>
+    <h4>Argued October 12, 1988</h4>
+    <h4>Decided January 10, 1989<a href="./us488-0252.xml#p252">488 U.S. 252</a>ast|&gt;*</h4>
+    <h2>APPEAL FROM THE SUPREME COURT OF ILLINOIS</h2>
+    <h2>Syllabus</h2>
     <p>In light of recent technological changes creating billions of possible electronic paths that an interstate telephone call can take from one point to another, which paths are often indirect, typically bear no relation to state boundaries, and are virtually impossible to trace and record, Illinois passed its Telecommunications Excise Tax Act (Tax Act), which, inter alia, imposes a 5% tax on the gross charges of interstate telecommunications originated or terminated in the State and charged to an Illinois service address, regardless of where a particular call is billed or paid; provides a credit to any taxpayer upon proof that another State has taxed the same call; and requires telecommunications retailers, like appellant GTE Sprint Communications Corporation (Sprint), to collect the tax from consumers. The Illinois trial court held that the tax violates the Commerce Clause of the Federal Constitution in a class action brought by appellant Illinois residents, who were subject to and paid the tax, against appellee Director of the State's Department of Revenue and various long-distance telephone carriers, including Sprint, which crossclaimed against the Director. However, the State Supreme Court reversed, ruling that the tax satisfies the four-pronged test set forth in Complete Auto Transit, Inc. v. Brady, <a href="../us430/us430-0274.xml#p274">430 U. S. 274</a>, and its progeny, for determining compliance with the Commerce Clause. All parties concede in this Court that the tax satisfies the first prong of the Complete Auto test; i.e., it is applied to an activity having a substantial nexus with Illinois.</p>
     <p>Held: The Illinois tax does not violate the Commerce Clause, since it satisfies the final three prongs of the Complete Auto test. Pp. <a href="./us488-0252.xml#p259">488 U. S. 259</a>-267.</p>
     <p>(a) The tax is fairly apportioned. It is internally consistent, since it is so structured that, if every State were to impose an identical tax on only those interstate phone calls which are charged to an in-state service address, only one State would tax each such call and, accordingly, no multiple taxation would result. The tax is also externally consistent even though it is assessed on the gross charges of an interstate activity, since</p>
@@ -23,7 +23,7 @@
     <n id="p254">254</n>
     <p>JUSTICE MARSHALL delivered the opinion of the Court.</p>
     <p>In this appeal, we must decide whether a tax on interstate telecommunications imposed by the State of Illinois violates the Commerce Clause. We hold that it does not.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>A</p>
     <p>These cases come to us against a backdrop of massive technological and legal changes in the telecommunications industry. [<a id="nf1" href="#fn1">Footnote 1</a>] Years ago, all interstate telephone calls were relayed through electric wires and transferred by human operators working switchboards. Those days are past. Today, a computerized network of electronic paths transmits thousands of electronic signals per minute through a complex system of microwave radios, fiber optics, satellites and cables. DOJ</p>
     <n id="p255">255</n>
@@ -48,7 +48,7 @@
     <p>"the benefits afforded by other States in facilitating the same interstate telecommunication are too speculative to override the substantial benefits extended by Illinois."</p>
     <p>Id. at 504, 512 N.E.2d at 1267.</p>
     <p>Having found that the Tax Act satisfied the requirements of Complete Auto, the Illinois Supreme Court concluded that it did not violate the Commerce Clause. Sprint, Goldberg, and McTigue appealed to this Court. We noted probable jurisdiction, 484 U.S. 1057 (1988), and now affirm.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>A</p>
     <p>This Court has frequently had occasion to consider whether state taxes violate the Commerce Clause. The wavering doctrinal Lines of our pre-Complete Auto cases reflect the tension between two competing concepts: the view that interstate commerce enjoys a "free trade" immunity from state taxation and the view that businesses engaged in interstate commerce may be required to pay their own way. Complete Auto, supra, at <a href="../us430/us430-0274.xml#p278">430 U. S. 278</a>-279; see also American Trucking Assns., Inc. v. Scheiner, <a href="../us483/us483-0266.xml#p266">483 U. S. 266</a>, <a href="../us483/us483-0266.xml#p281">483 U. S. 281</a>, <a href="../us483/us483-0266.xml#p282">483 U. S. 282</a>, nn. 12, 13 (1987); Commonwealth Edison Co. v. Montana, <a href="../us453/us453-0609.xml#p609">453 U. S. 609</a>, <a href="../us453/us453-0609.xml#p645">453 U. S. 645</a> (1981) (BLACKMUN, J., dissenting). Complete Auto sought to resolve this tension by specifically rejecting the view that the States cannot tax interstate commerce, while at the same time placing limits on state taxation of interstate commerce. 430 U.S. at <a href="../us430/us430-0274.xml#p288">430 U. S. 288</a>; see also Commonwealth Edison Co., supra, at <a href="../us453/us453-0609.xml#p645">453 U. S. 645</a>. [<a id="nf11" href="#fn11">Footnote 11</a>] Since the Complete Auto decision, we have</p>
     <n id="p260">260</n>
@@ -91,7 +91,7 @@
     <p>"interstate commerce may be required to contribute to the cost of providing all governmental services, including those services from which it arguably receives no direct 'benefit.'"</p>
     <p>Ibid. (emphasis in original). The fourth prong of the Complete Auto test thus focuses on the wide range of benefits provided to the taxpayer, not just the precise activity connected to the interstate activity at issue. Indeed, last Term, in D. H. Holmes, supra, at <a href="../us486/us486-0024.xml#p32">486 U. S. 32</a>, we noted that a taxpayer's receipt of police and fire protection, the use of public roads and mass transit, and the other advantages of civilized society, satisfied the requirement that the tax be fairly related to benefits provided by the State to the taxpayer.</p>
     <p>In light of the foregoing, we have little difficulty concluding that the Tax Act is fairly related to the benefits received by Illinois telephone consumers. The benefits that Illinois provides cannot be limited to those exact services provided to the equipment used during each interstate telephone call. Illinois telephone consumers also subscribe to telephone service in Illinois, own or rent telephone equipment at an Illinois service address, and receive police and fire protection as well as the other general services provided by the State of Illinois.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>For the reasons stated above, we hold that the telecommunications tax imposed by the Tax Act is consistent with the Commerce Clause. It is fairly apportioned, does not discriminate against interstate commerce, and is fairly related</p>
     <n id="p268">268</n>
     <p>to services which the State of Illinois provides to the taxpayer. The judgment of the Illinois Supreme Court is hereby</p>

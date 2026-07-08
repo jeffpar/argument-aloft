@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us468-0576.html" citation="468 U.S. 576" title="Block v. Rutherford">
   <opinion type="Opinions &amp; Dissents">
     <n id="p576">576</n>
-    <h>U.S. Supreme Court</h>
-    <h>Block v. Rutherford, <a href="./us468-0576.xml#p576">468 U.S. 576</a> (1984)</h>
-    <h>Block v. Rutherford</h>
-    <h>No. 83-317</h>
-    <h>Argued March 28, 1984</h>
-    <h>Decided July 3, 1984</h>
-    <h><a href="./us468-0576.xml#p576">468 U.S. 576</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Block v. Rutherford, <a href="./us468-0576.xml#p576">468 U.S. 576</a> (1984)</h1>
+    <h2>Block v. Rutherford</h2>
+    <h2>No. 83-317</h2>
+    <h4>Argued March 28, 1984</h4>
+    <h4>Decided July 3, 1984</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondents, pretrial detainees at the Los Angeles County Central Jail, brought a class action in Federal District Court against the County Sheriff and other officials, challenging, on due process grounds, the jail's policy of denying pretrial detainees contact visits with their spouses, relatives, children, and friends, and the jail's practice of conducting random, irregular "shakedown" searches of cells while the detainees were away at meals, recreation, or other activities. The District Court sustained the challenges, and ordered that low risk detainees incarcerated for more than a month be allowed contact visits, and that all detainees be allowed to watch searches of their cells if they are in the area when the searches are conducted. The Court of Appeals affirmed.</p>
     <p>Held:</p>
     <p>1. Where it is alleged that a pretrial detainee has been deprived of liberty without due process, the dispositive inquiry is whether the challenged practice or policy constitutes punishment or is reasonably related to a legitimate governmental objective. Bell v. Wolfish, <a href="../us441/us441-0520.xml#p520">441 U. S. 520</a>. In considering whether a specific practice or policy is "reasonably related" to security interests, courts should play a very limited role, since such considerations are peculiarly within the province and professional expertise of corrections officials. Id. at <a href="../us441/us441-0520.xml#p540">441 U. S. 540</a>-541, n. 23. Pp. <a href="./us468-0576.xml#p583">468 U. S. 583</a>-585.</p>
@@ -23,7 +23,7 @@
     <p>BURGER, C.J., delivered the opinion of the Court, in which WHITE, POWELL, REHNQUIST, and O'CONNOR, JJ., joined. BLACKMUN, J., filed an opinion concurring in the judgment, post, p. <a href="./us468-0576.xml#p592">468 U. S. 592</a>. MARSHALL, J., filed a dissenting opinion, in which BRENNAN and STEVENS, JJ., joined, post, p. <a href="./us468-0576.xml#p596">468 U. S. 596</a>.</p>
     <p>CHIEF JUSTICE BURGER delivered the opinion of the Court.</p>
     <p>We granted certiorari to decide whether pretrial detainees have a right guaranteed by the United States Constitution to contact visits and to observe shakedown searches of their cells by prison officials.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Los Angeles County Central Jail is one of seven principal facilities operated by the Sheriff of Los Angeles County. The three-story jail complex, located in downtown Los Angeles, is the largest jail in the country, with a capacity of over 5,000 inmates. It is the primary facility in Los Angeles County for male pretrial detainees, the vast majority of</p>
     <n id="p578">578</n>
     <p>whom remain at the facility at most a few days or weeks while they await trial.</p>
@@ -57,7 +57,7 @@
     <p>The Court of Appeals also rejected petitioners' contention that Wolfish precluded an order that pretrial detainees be permitted to observe cell searches. The Court of Appeals, as had the District Court, identified "significant differences" between the order invalidated in Wolfish and that entered by the District Court. [<a id="nf5" href="#fn5">Footnote 5</a>]</p>
     <p>We granted certiorari because of both the importance of the issue to the administration of detention facilities and the conflict among the Federal Courts of Appeals. [<a id="nf6" href="#fn6">Footnote 6</a>] 464 U.S. 959 (1983). We reverse.</p>
     <n id="p583">583</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>The administration of seven separate jail facilities for a metropolitan area of more than seven million people is a task of monumental proportions. Housed in these facilities annually are 200,000 persons awaiting trial and confined because they are unable to meet the requirements for release on bail. Generalizations are of little value, but no one familiar with even the barest outline of the problems of the administration of a prison or jail, or with the administration of criminal justice, could fail to be aware of the ease with which one can obtain release on bail or personal recognizance. The very fact of nonrelease pending trial thus is a significant factor bearing on the security measures that are imperative to proper administration of a detention facility.</p>
     <p>Four Terms ago, in Bell v. Wolfish, <a href="../us441/us441-0520.xml#p520">441 U. S. 520</a> (1979), we considered for the first time, in light of these security concerns, the scope of constitutional protection that must be accorded pretrial detainees. The respondents in Wolfish challenged numerous conditions of their confinement at the pretrial detention facility in New York City and various policies and practices of that institution. We held that, where it is alleged that a pretrial detainee has been deprived of liberty without due process, the dispositive inquiry is whether the challenged condition, practice, or policy constitutes punishment,</p>
     <p>"[f]or under the Due Process Clause, a detainee must not be punished prior to an adjudication of guilt in accordance with due process of law."</p>
@@ -78,7 +78,7 @@
     <p>Id. at 540-541, n. 23 (quoting Pell v. Procunier, <a href="../us417/us417-0817.xml#p817">417 U. S. 817</a>, <a href="../us417/us417-0817.xml#p827">417 U. S. 827</a> (1974)). We also cautioned:</p>
     <p>"[P]rison administrators [are to be] accorded wide-ranging deference in the adoption and execution of policies and practices that in their judgment are needed to preserve internal order and discipline and to maintain institutional security."</p>
     <p>441 U.S. at <a href="../us441/us441-0520.xml#p547">441 U. S. 547</a> (citing cases). The principles articulated in Wolfish govern resolution of this case.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>A</p>
     <p>Petitioners' first contention is that it was error to conclude that even low-risk detainees incarcerated for more than a month are constitutionally entitled to contact visits from friends and relatives. Petitioners maintain, as they have throughout these proceedings that, in the interest of institutional and public security, it is within their discretion as officials of a detention facility to impose an absolute prohibition on contact visits. [<a id="nf7" href="#fn7">Footnote 7</a>] The District Court did not find, nor did the Court of Appeals suggest, that the purpose of petitioners' policy of denying contact visitation is to punish the inmates. To the contrary, the District Court found that petitioners are</p>
     <n id="p586">586</n>
@@ -180,7 +180,7 @@
       <p>This case marks the fourth time in recent years that the Court has turned a deaf ear to inmates' claims that the conditions of their confinement violate the Federal Constitution. See Rhodes v. Chapman, <a href="../us452/us452-0337.xml#p337">452 U. S. 337</a> (1981); Bell v. Wolfish, <a href="../us441/us441-0520.xml#p520">441 U. S. 520</a> (1979); Hudson v. Palmer, ante, p. <a href="./us468-0517.xml#p517">468 U. S. 517</a>. Guided by an unwarranted confidence in the good faith and "expertise" of prison administrators and by a pinched conception of the meaning of the Due Process Clauses and the Eighth Amendment, a majority of the Court increasingly appears willing to sanction any prison condition for which the majority can imagine a colorable rationale, no matter how oppressive or ill-justified that condition is in fact. So, here, the Court upholds two policies in force at the Los Angeles County Central Jail. Under one, a pretrial detainee is not permitted any physical contact with members of his family,</p>
       <n id="p597">597</n>
       <p>regardless of how long he is incarcerated pending his trial or how slight is the risk that he will abuse a visitation privilege. Under the other, detainees are not allowed to observe searches of their cells, despite the fact that such searches frequently result in arbitrary destruction or confiscation of the detainees' property. In my view, neither of these policies comports with the Constitution.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>In Bell v. Wolfish, supra, the Court established a set of principles defining constitutionally permissible treatment of incarcerated persons who have not been convicted of crimes. In the years since Wolfish, I have not abandoned my view that the Court's decision in that case was fundamentally misconceived. See 441 U.S. at <a href="../us441/us441-0520.xml#p563">441 U. S. 563</a>-579 (MARSHALL, J., dissenting). However, even if I thought the doctrine enunciated in Wolfish was defensible, I could not abide the manner in which the majority construes and applies that doctrine to dispose of respondents' challenge to the jail's rule against contact visitation.</p>
       <p>One of the premises of the principal holding in Wolfish was that the plaintiffs' claims did not implicate any "fundamental liberty interests" such as those</p>
       <p>"delineated in . . . Roe v. Wade, <a href="https://law.justia.com/us/410/113/">410 U. S. 113</a> (1973); Eisenstadt v. Baird, <a href="https://law.justia.com/us/405/438/">405 U. S. 438</a> (1972); Stanley v. Illinois, <a href="https://law.justia.com/us/405/645/">405 U. S. 645</a> (1972); Griswold v. Connecticut, <a href="https://law.justia.com/us/381/479/">381 U. S. 479</a> (1965); [and] Meyer v. Nebraska, <a href="https://law.justia.com/us/262/390/">262 U. S. 390</a> (1923)."</p>
@@ -212,7 +212,7 @@
       <n id="p604">604</n>
       <p>Court's order would be expensive. Ante at <a href="./us468-0576.xml#p588">468 U. S. 588</a>, n. 9. Again, the District Court's findings are decisive; the court found that only "modest" changes in the jail facilities would be required. App. to Pet. for Cert. 33. More fundamentally, a desire to run a jail as cheaply as possible is not a legitimate reason for abridging the constitutional rights of its occupants. Finally, the majority suggests that the District Court's order might cause some dissension in the jail, because inmates denied visitation privileges would resent those granted such privileges. Ante at <a href="./us468-0576.xml#p587">468 U. S. 587</a>. There is no evidence whatsoever in the record to support this speculative observation.</p>
       <p>In sum, neither petitioners nor the majority have shown that permitting low-risk pretrial detainees who have been incarcerated for more than a month occasionally to have contact visits with their spouses and children would frustrate the achievement of any substantial state interest. [Footnote 2/17] Because such visitation would significantly alleviate the adverse impact of the jail's current policies upon respondents' familial rights, its deprivation violates the Due Process Clause.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>The majority brusquely rejects respondents' challenge to the jail's policy of refusing to permit detainees to observe</p>
       <n id="p605">605</n>
       <p>searches of their cells on the ground that respondents' claim is foreclosed by the decision in Wolfish. If respondents' claim were indeed identical to that presented by the Wolfish plaintiffs, I would vote to affirm on this issue for the reasons stated in my dissenting opinion in Wolfish. See 441 U.S. at <a href="../us441/us441-0520.xml#p576">441 U. S. 576</a>. In fact, however, the two cases differ in a crucial respect, and that difference provides an independent ground for sustaining the judgment below.</p>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us499-0244.html" citation="499 U.S. 244" title="EEOC v. Arabian American Oil Co.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p244">244</n>
-    <h>U.S. Supreme Court</h>
-    <h>EEOC v. Arabian American Oil Co., <a href="./us499-0244.xml#p244">499 U.S. 244</a> (1991)</h>
-    <h>Equal Employment Opportunity Commission v.</h>
-    <h>Arabian American Oil Company</h>
-    <h>Nos. 89-1838, 89-1845</h>
-    <h>Argued Jan. 16, 1991</h>
-    <h>Decided March 26, 1991</h>
-    <h><a href="./us499-0244.xml#p244">499 U.S. 244</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE FIFTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>EEOC v. Arabian American Oil Co., <a href="./us499-0244.xml#p244">499 U.S. 244</a> (1991)</h1>
+    <h2>Equal Employment Opportunity Commission v.</h2>
+    <h2>Arabian American Oil Company</h2>
+    <h4>Nos. 89-1838, 89-1845</h4>
+    <h4>Argued Jan. 16, 1991</h4>
+    <h4>Decided March 26, 1991</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE FIFTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner Boureslan, a naturalized United States citizen born in Lebanon and working in Saudi Arabia, was discharged by his employer, respondent Arabian American Oil Company, a Delaware corporation. After filing a charge with petitioner Equal Employment Opportunity Commission (EEOC), he instituted suit in the District Court, seeking relief under, inter alia, Title VII of the Civil Rights Act of 1964, on the ground that he had been discriminated against because of his race, religion, and national origin. In dismissing this claim, the court ruled that it lacked subject matter jurisdiction because Title VII's protections do not extend to United States citizens employed abroad by American employers. The Court of Appeals affirmed.</p>
     <p>Held: Title VII does not apply extraterritorially to regulate the employment practices of United States firms that employ American citizens abroad. Petitioners' evidence, while not totally lacking in probative value, falls short of demonstrating the clearly expressed affirmative congressional intent that is required to overcome the well-established presumption against statutory extraterritoriality. Pp. <a href="./us499-0244.xml#p248">499 U. S. 249</a>-259.</p>
     <p>(a) Petitioners argue unpersuasively that Title VII's "broad jurisdictional language" -- which extends the Act's protections to commerce "between a State and any place outside thereof" -- evinces a clear intent to legislate extraterritorially. The language relied on is ambiguous, does not speak directly to the question presented here, and constitutes boilerplate language found in any number of congressional Acts, none of which have been held to apply overseas. Petitioners' argument also finds no support in this Court's decisions, which have repeatedly held that even statutes containing broad language in their definitions of "commerce" that expressly refer to "foreign commerce" do not apply abroad. See, e.g., McCulloch v. Sociedad Nacional de Marineros de Honduras, <a href="../us372/us372-0010.xml#p10">372 U. S. 10</a>, <a href="../us372/us372-0010.xml#p15">372 U. S. 15</a>, <a href="../us372/us372-0010.xml#p19">372 U. S. 19</a>. Steele v. Bulova Watch Co., <a href="../us344/us344-0280.xml#p280">344 U. S. 280</a>, <a href="../us344/us344-0280.xml#p286">344 U. S. 286</a>, distinguished. Pp. <a href="./us499-0244.xml#p249">499 U. S. 249</a>-253.</p>
@@ -119,7 +119,7 @@
     <p>into congressional intent in this setting is informed by the traditional</p>
     <p>"canon of construction which teaches that legislation of Congress, unless a contrary intent appears, is meant to apply only within the territorial jurisdiction of the United States."</p>
     <p>Foley Bros., Inc. v. Filardo, <a href="../us336/us336-0281.xml#p281">336 U. S. 281</a>, <a href="../us336/us336-0281.xml#p285">336 U. S. 285</a> (1949). But contrary to what one would conclude from the majority's analysis, this canon is not a "clear statement" rule, the application of which relieves a court of the duty to give effect to all available indicia of the legislative will. Rather, as our case law applying the presumption against extraterritoriality well illustrates, a court may properly rely on this presumption only after exhausting all of the traditional tools "whereby unexpressed congressional intent may be ascertained." Ibid. When these tools are brought to bear on the issue in this case, the conclusion is inescapable that Congress did intend Title VII to protect United States citizens from discrimination by United States employers operating overseas. Consequently, I dissent.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Because it supplies the driving force of the majority's analysis, I start with</p>
     <p>"[t]he canon . . . that legislation of Congress, unless a contrary intent appears, is meant to apply only within the territorial jurisdiction of the United States."</p>
     <p>Ibid. The majority recasts this principle as "the need to make a clear statement that a statute applies overseas." Ante at <a href="./us499-0244.xml#p258">499 U. S. 258</a> (emphasis added). So conceived, the presumption against extraterritoriality allows the majority to derive meaning from various instances of statutory silence -- from Congress' failure, for instance, "to mention foreign nations or foreign proceedings," ante at <a href="./us499-0244.xml#p256">499 U. S. 256</a>, "to provide any mechanisms for overseas enforcement," ibid., or to "addres[s] the subject of conflicts with foreign laws and procedures," ante at <a href="./us499-0244.xml#p256">499 U. S. 256</a>. At other points, the majority relies on its reformulation of the presumption to avoid the "need [to] choose between . . . competing interpretations" of affirmative</p>
@@ -147,7 +147,7 @@
     <p>Because petitioners advance a construction of Title VII that would extend its extraterritorial reach only to United States nationals, it is the weak presumption of Foley Brothers, not the strict clear statement rule of Benz and McCulloch,</p>
     <n id="p266">266</n>
     <p>that should govern our inquiry here. Under Foley Brothers, a court is not free to invoke the presumption against extraterritoriality until it has exhausted all available indicia of Congress' intent on this subject. Once these indicia are consulted and given effect in this case, I believe there can be no question that Congress intended Title VII to protect United States citizens from discrimination by United States employers abroad.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>A</p>
     <p>Title VII states:</p>
     <p>"It shall be an unlawful employment practice for an employer . . . to fail or refuse to hire or to discharge any individual, or otherwise to discriminate against any individual with respect to his compensation, terms, conditions, or privileges of employment, because of such individual's race, color, religion, sex, or national origin."</p>
@@ -191,7 +191,7 @@
     <p>The legislative history of Title VII, moreover, furnishes direct support for such a construction. See H.R.Rep. No. 570, at 4 (explaining that alien exemption provision applies to "employment of aliens outside the United States by an</p>
     <n id="p275">275</n>
     <p>American enterprise" (emphasis added)), reprinted in Civil Rights Hearings, at 2303; S.Rep. No. 867, at 11 (alien exemption provision directed at "U.S. employers employing citizens of foreign countries in foreign lands" (emphasis added)); see also EEOC Policy Statement No. 125, BNA EEOC Compliance Manual 605:0061 (April, 1989) (construing nationality of employer abroad to be "significant" under Title VII). Thus, although the issue is not before us in this case, we would not be at a loss for interpretive resources for narrowing Title VII's extraterritorial reach to United States employers should such a construction be necessary in order to avoid conflicts with foreign law.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The extraterritorial application of Title VII is supported not only by its language and legislative history, but also by pertinent administrative interpretations. See Foley Bros, 336 U.S. at <a href="../us336/us336-0281.xml#p288">336 U. S. 288</a>, the EEOC has been on record as construing Title VII to apply to United States companies employing United States citizens abroad:</p>
     <p>"Section [2000e-2(a)(1)] provides that it is unlawful to discriminate against 'any individual' with respect to his employment. . . . The only exception to 'any individual' appears to be that contained in Section [2000e-1], i.e., aliens working outside the U.S. and to employees of certain religious and educational institutions."</p>
     <p>"Giving Section [2000e-1] its normal meaning would indicate a Congressional intent to exclude from the coverage of the statute aliens employed by covered employers working in the employers' operations outside of the United States."</p>
@@ -212,7 +212,7 @@
     <n id="p278">278</n>
     <p>§ 1606.1 was in effect, the EEOC was representing to Congress that Title VII did protect United States citizens from discrimination by United States employers abroad. See Letter from William A. Carey, EEOC General Counsel, supra, at 16. The majority's insistence that the EEOC was contradicting itself fails to give the agency the deference that it is due on the interpretation of its own regulations. See Udall v. Tallman, <a href="../us380/us380-0001.xml#p1">380 U. S. 1</a>, <a href="../us380/us380-0001.xml#p16">380 U. S. 16</a>-17 (1965).</p>
     <p>In sum, there is no reason not to give effect to the considered and consistently expressed views of the two agencies assigned to enforce Title VII.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>In the hands of the majority, the presumption against extraterritoriality is transformed from a "valid approach whereby unexpressed congressional intent may be ascertained," Foley Bros., 336 U.S. at <a href="../us336/us336-0281.xml#p285">336 U. S. 285</a>, into a barrier to any genuine inquiry into the sources that reveal Congress' actual intentions. Because the language, history, and administrative interpretations of the statute all support application of Title VII to United States companies employing United States citizens abroad, I dissent.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>
       <p>The majority quotes this language, see ante at <a href="./us499-0244.xml#p248">499 U. S. 248</a>, but then proceeds to disregard it completely in the course of its analysis.</p>

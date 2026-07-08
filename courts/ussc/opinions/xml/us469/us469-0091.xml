@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us469-0091.html" citation="469 U.S. 91" title="Smith v. Illinois">
   <opinion type="Opinions &amp; Dissents">
     <n id="p91">91</n>
-    <h>U.S. Supreme Court</h>
-    <h>Smith v. Illinois, <a href="./us469-0091.xml#p91">469 U.S. 91</a> (1984)</h>
-    <h>Smith v. Illinois</h>
-    <h>No. 84-5332</h>
-    <h>Decided December 10, 1984</h>
-    <h><a href="./us469-0091.xml#p91">469 U.S. 91</a></h>
-    <h>ON PETITION FOR WRIT OF CERTIORARI TO</h>
-    <h>THE SUPREME COURT OF ILLINOIS</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Smith v. Illinois, <a href="./us469-0091.xml#p91">469 U.S. 91</a> (1984)</h1>
+    <h2>Smith v. Illinois</h2>
+    <h2>No. 84-5332</h2>
+    <h4>Decided December 10, 1984</h4>
+    <h2>ON PETITION FOR WRIT OF CERTIORARI TO</h2>
+    <h2>THE SUPREME COURT OF ILLINOIS</h2>
+    <h2>Syllabus</h2>
     <p>Shortly after his arrest for armed robbery, petitioner was taken to an interrogation room and read his rights under Miranda v. Arizona, <a href="../us384/us384-0436.xml#p436">384 U. S. 436</a>. When asked whether he understood his right to consult with a lawyer and to have a lawyer present during the questioning, he replied: "Uh, yeah. I'd like to do that." However, rather than terminate the interrogation to meet petitioner's request, the interrogating officers continued the interrogation; ultimately, he made incriminating statements. Petitioner's motion to suppress the statements was denied by the Illinois trial court, and he was convicted of armed robbery. The conviction was affirmed by both the Illinois Appellate Court and the Illinois Supreme Court, which held that petitioner's subsequent responses to continued police questioning rendered his initial request for counsel "ambiguous" and that the officers therefore were not required to terminate their questioning.</p>
     <p>Held: An accused who, during custodial interrogation, has expressed his desire to deal with the police only through counsel is not subject to further interrogation by the authorities until counsel has been made available to him unless he validly waives his earlier request for the assistance of counsel. Edwards v. Arizona, <a href="../us451/us451-0477.xml#p477">451 U. S. 477</a>. Where nothing about a request for counsel or the circumstances leading up to the request renders it ambiguous, all questioning must cease. An accused's postrequest responses to further interrogation may not be used to cast doubt upon the clarity of his initial request for counsel. His subsequent statements are relevant only to the entirely distinct question whether he waived the right he had invoked. Here, there was no ambiguity in petitioner's initial request for counsel.</p>
     <p>Certiorari granted; <a href="https://law.justia.com/cases/illinois/supreme-court/1984/58422-7.html">102 Ill. 2d 365</a>, <a href="https://law.justia.com/cases/illinois/supreme-court/1984/58422-7.html">466 N.E.2d 236</a>, reversed and remanded.</p>
@@ -18,7 +18,7 @@
     <p>The petitioner Steven Smith was convicted of armed robbery and sentenced to a 9-year prison term. He contends that the police improperly elicited a confession from him after he clearly had requested the assistance of counsel, and that</p>
     <n id="p92">92</n>
     <p>the trial court's refusal to suppress the confession therefore violated Miranda v. Arizona, <a href="../us384/us384-0436.xml#p436">384 U. S. 436</a> (1966), and Edwards v. Arizona, <a href="../us451/us451-0477.xml#p477">451 U. S. 477</a> (1981). The Illinois Supreme Court held that Smith's responses to continued police questioning rendered his initial request for counsel "ambiguous," and that the officers therefore were not required to terminate their questioning. <a href="https://law.justia.com/cases/illinois/supreme-court/1984/58422-7.html">102 Ill. 2d 365</a>, 373-374, <a href="https://law.justia.com/cases/illinois/supreme-court/1984/58422-7.html">466 N.E.2d 236</a>, 240 (1984). Under Miranda and Edwards, however, an accused's postrequest responses to further interrogation may not be used to cast doubt on the clarity of his initial request for counsel. Finding no ambiguity in Smith's initial request, we accordingly grant the petition and reverse.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Shortly after his arrest, 18-year-old Steven Smith was taken to an interrogation room at the Logan County Safety Complex for questioning by two police detectives. The session began as follows:</p>
     <p>"Q. Steve, I want to talk with you in reference to the armed robbery that took place at McDonald's restaurant on the morning of the 19th. Are you familiar with this?"</p>
     <p>"A. Yeah. My cousin Greg was."</p>
@@ -48,7 +48,7 @@
     <p>"when [the request] is considered with other statements -- as it should be it is clear that Smith was undecided about exercising his right to counsel"</p>
     <p>and "never made an effective request for counsel." Id. at 309-310, 447 N.E.2d at 558-559. Rather, Smith had made "merely an indecisive inquiry into the right to counsel." Id. at 310, 447 N.E.2d at 559.</p>
     <p>The Illinois Supreme Court affirmed in a 4-3 vote. The majority agreed with the lower court that "Smith's statements, considered in total, were ambiguous, and did not effectively invoke his right to counsel." 102 Ill. 2d at 373, 466 N.E.2d at 240. Specifically, the majority noted that although Smith stated "I'd like to do that" upon learning he had a right to his counsel's presence at the interrogation, Smith subsequently replied "Yeah and no, uh, I don't know what's what really," and "All right. I'll talk to you then." Id. at 372, 466 N.E.2d at 240. In light of these subsequent remarks, the majority reasoned, "Steven Smith did not clearly assert his right to counsel." Id. at 373, 466 N.E.2d at 240 (emphasis in original).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>An accused in custody,</p>
     <p>"having expressed his desire to deal with the police only through counsel, is not subject to further interrogation by the authorities until counsel has been made</p>
     <n id="p95">95</n>
@@ -67,7 +67,7 @@
     <p>responses to cast doubt on the adequacy of the initial request itself is even more intolerable.</p>
     <p>"No authority, and no logic, permits the interrogator to proceed . . . on his own terms and as if the defendant had requested nothing, in the hope that the defendant might be induced to say something casting retrospective doubt on his initial statement that he wished to speak through an attorney or not at all."</p>
     <p>102 Ill. 2d at 376, 466 N.E.2d at 241 (Simon, J., dissenting). [<a id="nf8" href="#fn8">Footnote 8</a>]</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Our decision is a narrow one. We do not decide the circumstances in which an accused's request for counsel may be</p>
     <n id="p100">100</n>
     <p>characterized as ambiguous or equivocal as a result of events preceding the request or of nuances inherent in the request itself, nor do we decide the consequences of such ambiguity or equivocation. We hold only that, under the clear logical force of settled precedent, an accused's postrequest responses to further interrogation may not be used to cast retrospective doubt on the clarity of the initial request itself. Such subsequent statements are relevant only to the distinct question of waiver.</p>

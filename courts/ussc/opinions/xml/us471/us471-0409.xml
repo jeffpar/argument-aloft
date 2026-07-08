@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us471-0409.html" citation="471 U.S. 409" title="Tennessee v. Street">
   <opinion type="Opinions &amp; Dissents">
     <n id="p409">409</n>
-    <h>U.S. Supreme Court</h>
-    <h>Tennessee v. Street, <a href="./us471-0409.xml#p409">471 U.S. 409</a> (1985)</h>
-    <h>Tennessee v. Street</h>
-    <h>No. 83-2143</h>
-    <h>Argued March 18, 1985</h>
-    <h>Decided May 13, 1985</h>
-    <h><a href="./us471-0409.xml#p409">471 U.S. 409</a></h>
-    <h>CERTIORARI TO THE COURT OF CRIMINAL APPEALS OF TENNESSEE,</h>
-    <h>EASTERN DISTRICT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Tennessee v. Street, <a href="./us471-0409.xml#p409">471 U.S. 409</a> (1985)</h1>
+    <h2>Tennessee v. Street</h2>
+    <h2>No. 83-2143</h2>
+    <h4>Argued March 18, 1985</h4>
+    <h4>Decided May 13, 1985</h4>
+    <h2>CERTIORARI TO THE COURT OF CRIMINAL APPEALS OF TENNESSEE,</h2>
+    <h2>EASTERN DISTRICT</h2>
+    <h2>Syllabus</h2>
     <p>At respondent's Tennessee state court trial for murder, the State relied on a confession that respondent made to the Sheriff. Respondent testified that his confession was coercively derived from an accomplice's written confession, claiming that the Sheriff read from the accomplice's confession and directed respondent to say the same thing. In rebuttal, the State called the Sheriff, who denied that respondent was read the accomplice's confession and who read that confession to the jury after the trial judge had instructed the jury that the confession was not admitted for the purpose of proving its truthfulness, but for the purpose of rebuttal only. The prosecutor then elicited from the Sheriff testimony emphasizing the differences between respondent's confession and the accomplice's confession. Respondent was found guilty and sentenced to life imprisonment. The Tennessee Court of Criminal Appeals reversed, holding that the introduction of the accomplice's confession denied respondent his Sixth Amendment right to confront witnesses, even though the confession was introduced for the nonhearsay purpose of rebutting respondent's testimony.</p>
     <p>Held: Respondent's rights under the Confrontation Clause of the Sixth Amendment were not violated by the introduction of the accomplice's confession for rebuttal purposes. Pp. <a href="./us471-0409.xml#p413">471 U. S. 413</a>-417.</p>
     <p>(a) The nonhearsay aspect of the accomplice's confession -- not to prove what happened at the murder scene but to prove what happened when respondent confessed -- raises no Confrontation Clause concerns. The Clause's fundamental role in protecting the right of cross-examination was satisfied by the Sheriff's presence on the witness stand. Pp. <a href="./us471-0409.xml#p413">471 U. S. 413</a>-414.</p>
@@ -22,7 +22,7 @@
     <p>BURGER, C.J., delivered the opinion of the Court, in which all other Members joined, except POWELL, J., who took no part in the consideration or decision of the case. BRENNAN, J., filed a concurring opinion, in which MARSHALL, J., joined, post, p. <a href="./us471-0409.xml#p417">471 U. S. 417</a>.</p>
     <p>CHIEF JUSTICE BURGER delivered the opinion of the Court.</p>
     <p>We granted certiorari to decide whether respondent's rights under the Confrontation Clause were violated by the introduction of the confession of an accomplice for the nonhearsay purpose of rebutting respondent's testimony that his own confession was coercively derived from the accomplice's statement.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Ben Tester was last seen alive on August 26, 1981, as he walked toward his home in Hampton, Tennessee. The next day, Tester's body was found hanging by a nylon rope from an</p>
     <n id="p411">411</n>
     <p>apple tree in his yard. Tester's house had been ransacked, and it appeared that Tester had struggled with his assailants.</p>
@@ -57,7 +57,7 @@
     <p>Respondent correctly notes that Sheriff Papantoniou could have pointed out the differences between the two statements without reading Peele's confession. But such a rebuttal presentation was not the only option constitutionally open. After respondent testified that his confession was based on Peele's, the Sheriff read Peele's confession to the jury and answered questions that emphasized the differences. In closing argument, the prosecutor recited the details that appeared only in respondent's confession, and argued that respondent knew these facts because he participated in the murder. The whole of the State's rebuttal, therefore, was designed to focus the jury's attention on the differences, not the similarities between the two confessions.</p>
     <p>Finally, we reject the Court of Criminal Appeals' implicit holding that the State was required to call Peele to testify or to forgo effective rebuttal of respondent's testimony. 674 S.W.2d at 745. Because Peele's confession was introduced to refute respondent's claim of coercive interrogation, Peele's testimony would not have made the State's point. And respondent's cross-examination of Peele would have been ineffective to undermine the prosecutor's limited purpose in introducing Peele's confession. It was appropriate that, instead of forcing the State to call a witness who could offer no relevant testimony on the immediate issue of coercion, [<a id="nf8" href="#fn8">Footnote 8</a>] the trial judge left to respondent the choice whether to call Peele. [<a id="nf9" href="#fn9">Footnote 9</a>]</p>
     <n id="p417">417</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>The State introduced Peele's confession for the legitimate, nonhearsay purpose of rebutting respondent's testimony that his own confession was a coerced "copy" of Peele's statement. The jury's attention was directed to this distinctive and limited purpose by the prosecutor's questions and closing argument. In this context, we hold that the trial judge's instructions were the appropriate way to limit the jury's use of that evidence in a manner consistent with the Confrontation Clause. Accordingly, the judgment of the Court of Criminal Appeals is</p>
     <p>Reversed.</p>
     <p>JUSTICE POWELL took no part in the consideration or decision in this case.</p>

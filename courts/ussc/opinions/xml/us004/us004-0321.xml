@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us004-0321.html" citation="4 U.S. 321" title="DUPONT v. PICHON">
   <opinion type="Opinions &amp; Dissents">
     <n id="p321">321</n>
-    <h>U.S. Supreme Court</h>
-    <h>DUPONT v. PICHON, <a href="./us004-0321.xml#p321">4 U.S. 321</a> (1805)</h>
-    <h> <a href="./us004-0321.xml#p321">4 U.S. 321</a> (Dall.)</h>
-    <h>Dupont v. Pichon.</h>
-    <h>Supreme Court of Pennsylvania.</h>
-    <h>March Term, 1805</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>DUPONT v. PICHON, <a href="./us004-0321.xml#p321">4 U.S. 321</a> (1805)</h1>
+    <h2>Dupont v. Pichon.</h2>
+    <h2>Supreme Court of Pennsylvania.</h2>
+    <h4>March Term, 1805</h4>
     <p>THE plaintiff had issued a capias against the defendant, in an action upon the case, &amp;c. and a citation was served upon him, in the following terms:-</p>
     <n id="p322">322</n>
     <p>'SIR,</p>
@@ -24,7 +24,7 @@
     <p>and that, at least, proof should be produced from the secretary of state of his reception as a minister, before he was discharged from the capias, upon the claim of privilege.</p>
     <p>THE COURT.</p>
     <p>The COURT were decidedly of opinion, that Mr. Pichon would be entitled to privilege as charge d'affaires, till his return to France; but Chief Justice SHIPPEN seemed inclined to wait for information, from the department of state, as to his actual reception by the president in that character. On its being intimated, however, that the attorney of the district had become responsible to the sheriff for Mr. Pichon's appearance, only till the sense of the Court could be obtained; and that Mr. Pichon must now, probably, submit to imprisonment under the capias: the judges concurred in discharging him absolutely from the process.</p>
-    <h>Footnotes</h>
+    <h2>Footnotes</h2>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>
       <p>SHIPPEN, Chief Justice, and SMITH and BRACKENRIDGE, Justices, composed the Court.</p>
     </f>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us455-0642.html" citation="455 U.S. 642" title="McElroy v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p642">642</n>
-    <h>U.S. Supreme Court</h>
-    <h>McElroy v. United States, <a href="./us455-0642.xml#p642">455 U.S. 642</a> (1982)</h>
-    <h>McElroy v. United States</h>
-    <h>No. 80-6680</h>
-    <h>Argued January 12, 1982</h>
-    <h>Decided March 23, 1982</h>
-    <h><a href="./us455-0642.xml#p642">455 U.S. 642</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE THIRD CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>McElroy v. United States, <a href="./us455-0642.xml#p642">455 U.S. 642</a> (1982)</h1>
+    <h2>McElroy v. United States</h2>
+    <h2>No. 80-6680</h2>
+    <h4>Argued January 12, 1982</h4>
+    <h4>Decided March 23, 1982</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE THIRD CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner was convicted in Federal District Court of two counts of violating 18 U.S.C. § 2314, which prohibits the transportation "in interstate or foreign commerce [of] any . . . forged . . . securities . . knowing the same to have been . . . forged." The proof at trial showed that blank checks had been stolen in Ohio, and that, several months later, petitioner used two of the checks, on which signatures had been forged, to pay for a car and for a boat and trailer purchased in separate transactions in Pennsylvania. The trial court instructed the jury that, in order to find petitioner guilty, it must find that he transported the checks in a forged condition in "interstate commerce," and that such transportation could take place entirely within Pennsylvania if it was a "continuation of the movement that began out of state." The court rejected petitioner's objection to the instruction on the asserted ground that, under § 2314, the Government had the burden of proving that the checks had been forged in Ohio before being transported across state lines to Pennsylvania. The Court of Appeals affirmed petitioner's convictions.</p>
     <p>Held: Section 2314 does not require proof that the securities were forged before being taken across state lines, and thus the trial court's jury instructions were correct. Pp. <a href="./us455-0642.xml#p647">455 U. S. 647</a>-659.</p>
     <p>(a) Use of the past tense "forged" in § 2314 does not establish Congress' intent to prohibit only the transportation of securities that were forged before crossing state lines. Congress' use of the phrase "interstate commerce," rather than "state borders," as well as the legislative history of the phrase, shows that Congress intended it to be as broad in scope as this Court's decisions holding that interstate commerce begins well before state lines are crossed and ends only when movement of the item in question has ceased in the destination State. Moreover, § 2314's purpose of aiding the States in detection and punishment of criminals who evade state authorities by using channels of interstate commerce supports the conclusion that Congress could not have intended to require federal prosecutors to prove that the securities had been forged before crossing state lines. Pp. <a href="./us455-0642.xml#p648">455 U. S. 648</a>-656.</p>
@@ -22,7 +22,7 @@
     <p>O'CONNOR, J., delivered the opinion of the Court, in which BURGER C.J., and BRENNAN, WHITE, MARSHALL, BLACKMUN, POWELL, and REHNQUIST, JJ., joined. STEVENS, J., filed a dissenting opinion, post, p. <a href="./us455-0642.xml#p659">455 U. S. 659</a>.</p>
     <p>JUSTICE O'CONNOR delivered the opinion of the Court.</p>
     <p>The petitioner was convicted of two counts of transporting a forged security in interstate commerce in violation of 18 U.S.C. § 2314. He challenges his conviction on the ground that the statute requires proof, concededly lacking at trial, that the securities had been forged before being taken across state lines. Because of a conflict among the Circuits on this issue of statutory construction, we granted certiorari. 454 U.S. 815 (1981). For the reasons stated below, we affirm the petitioner's conviction.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Petitioner Charles McElroy was indicted by a federal grand jury on three counts. Counts 1 and 3 charged that, on two occasions, the petitioner transported in interstate commerce falsely made and forged securities from Ohio to Pennsylvania in violation of 18 U.S.C. § 2314, the National Stolen Property Act. [<a id="nf1" href="#fn1">Footnote 1</a>] Count 2 charged McElroy with transporting</p>
     <n id="p644">644</n>
     <p>a stolen car in interstate commerce from Pennsylvania to Ohio in violation of 18 U.S.C. § 2312. [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
@@ -39,7 +39,7 @@
     <p>presented sufficient evidence to sustain the convictions, and that the trial judge correctly had instructed the jury that the Government need not prove that the stolen checks had been forged before crossing state lines.</p>
     <p>"It is immaterial whether the signatures were forged in Ohio or in Pennsylvania. If at any point in the interstate movement the check was in a forged condition, the statute was satisfied."</p>
     <p>Id. at 279. All but one judge agreed with the majority's construction of the phrase "interstate commerce" as used in § 2314. [<a id="nf8" href="#fn8">Footnote 8</a>]</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The question presented by this case is one of statutory construction. [<a id="nf9" href="#fn9">Footnote 9</a>] The petitioner claims that the language and legislative history of § 2314 demonstrate congressional intent to limit the reach of that provision to those persons who transport forged securities across state lines. As a fallback position, the petitioner contends that § 2314's use of the expression "interstate commerce" is sufficiently ambiguous to</p>
     <n id="p648">648</n>
     <p>require this Court to apply the principle of lenity and construe the provision in the petitioner's favor. [<a id="nf10" href="#fn10">Footnote 10</a>]</p>
@@ -50,7 +50,7 @@
     <p>of § 10 suggests that crossing state lines is not the sole manifestation of "interstate commerce." [<a id="nf11" href="#fn11">Footnote 11</a>]</p>
     <p>The origin of the "interstate commerce" element of § 2314 was the National Motor Vehicle Theft Act (Dyer Act), 41 Stat. 324, [<a id="nf12" href="#fn12">Footnote 12</a>] which was enacted in 1919 to provide "severe punishment</p>
     <n id="p650">650</n>
-    <p>of those guilty of the stealing of automobiles in interstate or foreign commerce." H.R.Rep. No. 312, 66th Cong. , 1st Sess. , 1 (1919). See S.Rep. No. 202, 66th Cong. , 1st Sess., 1 (1919) (describing the bill as designed to "punish the transportation of stolen motor vehicles in interstate or foreign commerce"). Representative Dyer, the sponsor of the bill that was enacted, defended Congress' authority to enact the proposed law, noting that the courts had upheld a variety of regulatory statutes enacted under the Commerce Clause, including a criminal statute declaring unlawful the "[l]arceny of goods from railroad cars being transported in interstate commerce." 58 Cong.Rec. 5472 (1919). [<a id="nf13" href="#fn13">Footnote 13</a>] In response to a question from Representative Anderson concerning possible differences in the meaning of "interstate commerce" in §§ 2 and 4 of the Act, Representative Dyer replied:</p>
+    <p>of those guilty of the stealing of automobiles in interstate or foreign commerce." H.R.Rep. No. 312, 66th Cong., 1st Sess., 1 (1919). See S.Rep. No. 202, 66th Cong., 1st Sess., 1 (1919) (describing the bill as designed to "punish the transportation of stolen motor vehicles in interstate or foreign commerce"). Representative Dyer, the sponsor of the bill that was enacted, defended Congress' authority to enact the proposed law, noting that the courts had upheld a variety of regulatory statutes enacted under the Commerce Clause, including a criminal statute declaring unlawful the "[l]arceny of goods from railroad cars being transported in interstate commerce." 58 Cong.Rec. 5472 (1919). [<a id="nf13" href="#fn13">Footnote 13</a>] In response to a question from Representative Anderson concerning possible differences in the meaning of "interstate commerce" in §§ 2 and 4 of the Act, Representative Dyer replied:</p>
     <p>"[I]f there is any difference there, which I do not see, the matter would be construed by the Supreme Court, which has passed many times upon what is meant by interstate and foreign commerce."</p>
     <p>Ibid. [<a id="nf14" href="#fn14">Footnote 14</a>]</p>
     <n id="p651">651</n>
@@ -75,10 +75,10 @@
     <n id="p658">658</n>
     <p>framed by the Court was whether "in commerce or affecting commerce" modified "possesses" as well as "transports," since the respondent, a convicted felon, had been charged with possession of a shotgun, but the Government had made no effort to show that he had possessed the firearm "in commerce or affecting commerce." The Court found both the language of the provision and its legislative history ambiguous on this question, and decided on two grounds to read the statute narrowly, that is, to read "in commerce or affecting commerce" as modifying "possesses" as well as "transports." The Court reasoned that ambiguity concerning the reach of a criminal statute should be resolved by reading the statute narrowly in order to encourage Congress to speak clearly, thus giving the populace "fair warning" of the line between criminal and lawful activity, and in order to have the Legislature, not the courts, define criminal activity. Id. at <a href="../us404/us404-0336.xml#p347">404 U. S. 347</a>-348. Also, absent a clear statement of purpose from Congress, the Court was unwilling to read a federal criminal statute in a way that would encroach on a traditional area of state criminal jurisdiction.</p>
     <p>The present case, however, does not raise significant questions of ambiguity, for the statutory language and legislative history of the Dyer Act indicate that Congress defined the term "interstate commerce" more broadly than the petitioner contends. We hold that Congress intended to use the term "interstate commerce" as this Court had been using it in Commerce Clause cases before 1919. As we observed in United States v. Bramblett, <a href="../us348/us348-0503.xml#p503">348 U. S. 503</a>, <a href="../us348/us348-0503.xml#p509">348 U. S. 509</a>-510 (1955), although</p>
-    <p>"criminal statutes are to be construed strictly . . . , this does not mean that every criminal statute must be given the narrowest possible meaning in complete disregard of the purpose of the legislature."</p>
+    <p>"criminal statutes are to be construed strictly . . ., this does not mean that every criminal statute must be given the narrowest possible meaning in complete disregard of the purpose of the legislature."</p>
     <p>(Footnote omitted.) [<a id="nf22" href="#fn22">Footnote 22</a>]</p>
     <n id="p659">659</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>Through § 2314, Congress has sought to aid the States in their detection and punishment of criminals who evade state authorities by using the channels of interstate commerce. Based on this congressional purpose, the trial judge in the present case correctly instructed the jury that they could find the petitioner guilty of violating § 2314 if they found that the forgeries occurred during the course of interstate commerce, which includes a "continuation of a movement that began out of state," even though movement of the forged checks was restricted to one State. Accordingly, we affirm the judgment of the court below.</p>
     <p>So ordered.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>
@@ -193,7 +193,7 @@
       <p>If the Court's reading of this language is consistently applied to all of the statutes in which the same jurisdictional predicate appears, this is an extremely important case. If the Court's holding is limited to the situation in which a check has been carried across a state line and then forged in the</p>
       <n id="p661">661</n>
       <p>destination State, the holding is not very significant. Although it would be illogical to limit the holding in that way, a review of the relevant legislative history will demonstrate that the holding should not be extended to its logical conclusion. That review also demonstrates, I believe, that today's holding does not faithfully reflect the intent of Congress.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>"[T]he issue in the present case is the meaning that Congress ascribed to the phrase interstate commerce' in § 2314." Ante at <a href="./us455-0642.xml#p647">455 U. S. 647</a>, n. 9. More specifically, the question is "whether the statutory phrase `interstate commerce' comprehends movement of a forged security [wholly] within the destination State," ante at <a href="./us455-0642.xml#p648">455 U. S. 648</a>, or whether petitioner is correct that Congress intended "to limit the reach of that provision to those persons who transport forged securities across state lines," ante at <a href="./us455-0642.xml#p647">455 U. S. 647</a>. For the answer to this question, the Court correctly looks to the legislative history of § 3 of the Dyer Act, the precursor of § 2314. The interstate commerce language that was enacted as § 3 of the Dyer Act in 1919 has been retained in § 2314; for our purposes, the subsequent enactments in 1934 and 1939 merely expanded the coverage of § 3 to other types of stolen property and to forged securities, respectively.</p>
       <p>Section 3 of the Dyer Act proscribes, in accurate paraphrase, the transportation in interstate commerce of stolen motor vehicles. See 41 Stat. 325. The phrase, standing alone, admittedly is ambiguous. It is clarified by § 2(b) of the same statute, which provides that "[t]he term interstate . . . commerce' as used in this Act shall include transportation from one State . . . to another State." Ibid. Any lingering ambiguity is dispelled by the legislative history.</p>
       <p>The problem that gave rise to the legislation, the House Judiciary Committee reported, was that</p>
@@ -274,7 +274,7 @@
       <p>58 Cong.Rec. 5477 (1919). Immediately after this colloquy, Representative Dyer asked for a vote, and the House passed the bill. If we were construing § 2315, which is the successor to § 4 of the Dyer Act,</p>
       <n id="p672">672</n>
       <p>then this colloquy would seem to indicate that § 4 requires the automobile to have crossed state lines, notwithstanding the confusing reference to "interstate commerce" in that section and Representative Dyer's answer to Representative Anderson's observation. In any event, we are not construing § 2315, but § 2314, and the definition of "interstate commerce" included in the Dyer Act, as well as the statute's legislative history, clearly indicates that § 3, the precursor of § 2314, proscribed only the transportation across state lines of stolen automobiles.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>The National Stolen Property Act, enacted in 1934, merely extended the Dyer Act to the transportation in interstate commerce of other types of stolen property. [Footnote 2/10] The Act was passed with little debate, but its legislative history confirms the points made above. As they did in 1919, the Committees and Members of Congress used the phrase "transportation in interstate commerce of stolen property" interchangeably with such phrases as "interstate transportation of stolen property" or "transportation across state lines of stolen property." The Senate Judiciary Committee Report described the Dyer Act as "concerned [with] interstate transportation of stolen motor vehicles." S.Rep. No. 538, 73d Cong., 2d Sess., 2 (1934). The House Judiciary Committee Report stated that "[t]his bill is designed to punish interstate transportation of stolen property, securities, or money." H.R.Rep. No. 1462, 73d Cong,2d Sess., 2 (1934). It also noted</p>
       <n id="p673">673</n>
       <p>that "[p]revious Congresses have considered bills providing punishment for interstate shipment of stolen property." Ibid. Senator Ashurst told the Senate:</p>
@@ -287,13 +287,13 @@
       <n id="p674">674</n>
       <p>fixed in the bill required to give the Federal Government jurisdiction are the figures asked and recommended by the Attorney General."</p>
       <p>H.R.Rep. No. 1462, supra, at 2. The Senate acceded to the increase. The point to be made is that Congress recognized that federal law enforcement authorities had limited resources. This recognition makes it all the more likely that Congress did not intend in 1934 to extend its proscription beyond the interstate transportation of stolen property.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>Quoting from United States v. Sheridan, <a href="../us329/us329-0379.xml#p379">329 U. S. 379</a>, <a href="../us329/us329-0379.xml#p384">329 U. S. 384</a>, the Court declares that,</p>
       <p>"in [enacting] § 2314, Congress 'contemplated coming to the aid of the states in detecting and punishing criminals whose offenses are complete under state law, but who utilize the channels of interstate commerce to make a successful getaway, and thus make the state's detecting and punitive processes impotent.'"</p>
       <p>Ante at <a href="./us455-0642.xml#p654">455 U. S. 654</a>. Ironically, this quote actually refutes the Court's position. The Court assumes, as it must, that the state offense committed by petitioner -- forging a check -- was committed in Pennsylvania, rather than in Ohio, from which petitioner commenced his interstate journey. This is not a case, therefore, in which the defendant's offense was complete under state law before he crossed state lines to make his getaway. Rather, this is a case in which the defendant crossed state lines and then committed the underlying state offense. [Footnote 2/11] It is even more ironic that, although the issue of the meaning of the interstate commerce phrase of § 2314 was not before the Court in Sheridan, the Court thrice referred to that element as the "interstate transportation" of forged securities. See 329 U.S. at <a href="../us329/us329-0379.xml#p384">329 U. S. 384</a>, <a href="../us329/us329-0379.xml#p385">329 U. S. 385</a>, <a href="../us329/us329-0379.xml#p387">329 U. S. 387</a>. Remarkably, the Court today places so much significance upon the statutory formulation of the interstate</p>
       <n id="p675">675</n>
       <p>commerce element of § 2314 even though, in referring to that element, the Committees and Members of the 1919 and 1934 Congresses, as well this Court in Sheridan, repeatedly used the formulation that the Court rejects today as too narrow.</p>
-      <h>IV</h>
+      <h2>IV</h2>
       <p>The petitioner's argument that he was prosecuted and convicted under the wrong statute may generate little sympathy. [Footnote 2/12] Our primary concern, however, is not with the fate of this defendant. Rather, our concern is to identify the scope of the Federal Government's responsibility for law enforcement. That scope is a matter for Congress to determine. In this case, it is clear to me that the Court has allowed the prosecutor to encroach into an area of state responsibility and to cross a line that Congress has drawn. I therefore respectfully dissent.</p>
       <p>[Footnote 2/1]</p>
       <p>See, e.g., 18 U.S.C. § 844(d) (explosives); 18 U.S.C. § 924(b) (1976 ed., Supp. IV) (firearms); 18 U.S.C. § 1201(a)(1) (1976 ed., Supp. IV) (kidnaping); 18 U.S.C. § 1231 (strikebreaking); 18 U.S.C. § 1301 (lotteries); 18 U.S.C. § 1465 (obscenity); 18 U.S.C. §§ 2251, 2252 (1976 ed., Supp. IV) (sexual exploitation of children); 18 U.S.C. § 2312 (stolen motor vehicles and aircraft); 18 U.S.C. § 2314 (other stolen property); 18 U.S.C. § 2318 (1976 ed., Supp. IV) (counterfeit phonograph records); 18 U.S.C. § 2421 (prostitution); 18 U.S.C. §§ 2511(1)(b)(iii), 2512(1) (electronic eavesdropping).</p>

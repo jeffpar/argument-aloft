@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us342-0246.html" citation="342 U.S. 246" title="Morissette v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p246">246</n>
-    <h>U.S. Supreme Court</h>
-    <h>Morissette v. United States, <a href="./us342-0246.xml#p246">342 U.S. 246</a> (1952)</h>
-    <h>Morissette v. United States</h>
-    <h>No. 12</h>
-    <h>Argued October 9-10, 1951</h>
-    <h>Decided January 7, 1952</h>
-    <h><a href="./us342-0246.xml#p246">342 U.S. 246</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SIXTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Morissette v. United States, <a href="./us342-0246.xml#p246">342 U.S. 246</a> (1952)</h1>
+    <h2>Morissette v. United States</h2>
+    <h2>No. 12</h2>
+    <h4>Argued October 9-10, 1951</h4>
+    <h4>Decided January 7, 1952</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SIXTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>1. A criminal intent is an essential element of an offense under 18 U.S.C. § 641, which provides that "whoever embezzles, steals, purloins, or knowingly converts" property of the United States is punishable by fine and imprisonment. Pp. <a href="./us342-0246.xml#p247">342 U. S. 247</a>-273.</p>
     <p>(a) Mere omission from § 641 of any mention of intent is not to be construed as eliminating that element from the crimes defined. United States v. Behrman, <a href="../us258/us258-0280.xml#p280">258 U. S. 280</a>, and United States v. Balint, <a href="../us258/us258-0250.xml#p250">258 U. S. 250</a>, distinguished. Pp. <a href="./us342-0246.xml#p250">342 U. S. 250</a>-263.</p>
     <p>(b) The history and purposes of § 641 afford no ground for inferring any affirmative instruction from Congress to eliminate intent from the offense of "knowingly converting" or stealing government property. Pp. <a href="./us342-0246.xml#p263">342 U. S. 263</a>-273.</p>
@@ -38,7 +38,7 @@
     <p>The Court of Appeals suggested that "greater restraint in expression should have been exercised," but affirmed the conviction because, "As we have interpreted the statute, appellant was guilty of its violation beyond a shadow of doubt, as evidenced even by his own admissions." Its construction of the statute is that it creates several separate and distinct offenses, one being knowing</p>
     <n id="p250">250</n>
     <p>conversion of government property. The court ruled that this particular offense requires no element of criminal intent. This conclusion was thought to be required by the failure of Congress to express such a requisite and this Court's decisions in United States v. Behrman, <a href="../us258/us258-0280.xml#p280">258 U. S. 280</a>, and United States v. Balint, <a href="../us258/us258-0250.xml#p250">258 U. S. 250</a>.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In those cases, this Court did construe mere omission from a criminal enactment of any mention of criminal intent as dispensing with it. If they be deemed precedents for principles of construction generally applicable to federal penal statutes, they authorize this conviction. Indeed, such adoption of the literal reasoning announced in those cases would do this and more -- it would sweep out of all federal crimes, except when expressly preserved, the ancient requirement of a culpable state of mind. We think a resume of their historical background is convincing that an effect has been ascribed to them more comprehensive than was contemplated and one inconsistent with our philosophy of criminal law.</p>
     <p>The contention that an injury can amount to a crime only when inflicted by intention is no provincial or transient notion. It is as universal and persistent in mature systems of law as belief in freedom of the human will and a consequent ability and duty of the normal individual to choose between good and evil. [<a id="nf4" href="#fn4">Footnote 4</a>] A relation between some mental element and punishment for a</p>
     <n id="p251">251</n>
@@ -69,7 +69,7 @@
     <p>for penalizing violations whether intentional or not, that they were punishable only by fine "moderate in amount", but cautiously added that, in sustaining the power so to fine unintended violations "we are not to be understood as sustaining to a like length the power to imprison. We leave that question open." People ex rel. Price v. Sheffield Farms Co., 1918, 225 N.Y. 25, 32-33, 121 N.E. 474, 476, 477.</p>
     <p>Thus, for diverse but reconcilable reasons, state courts converged on the same result, discontinuing inquiry into intent in a limited class of offenses against such statutory regulations.</p>
     <p>Before long, similar questions growing out of federal legislation reached this Court. Its judgments were in harmony with this consensus of state judicial opinion, the existence of which may have led the Court to overlook the need for full exposition of their rationale in the context of federal law. In overruling a contention that there can be no conviction on an indictment which makes no charge of criminal intent but alleges only making of a sale of a narcotic forbidden by law, Chief Justice Taft, wrote:</p>
-    <p>"While the general rule at common law was that the scienter was a necessary element in the indictment and proof of every crime, and this was followed in regard to statutory crimes even where the statutory definition did not, in terms, include it . . . , there has been a modification of this view in respect to prosecutions under statutes the purpose of which would be obstructed by such a requirement. It is a question of legislative intent to be construed by the court. . . ."</p>
+    <p>"While the general rule at common law was that the scienter was a necessary element in the indictment and proof of every crime, and this was followed in regard to statutory crimes even where the statutory definition did not, in terms, include it . . ., there has been a modification of this view in respect to prosecutions under statutes the purpose of which would be obstructed by such a requirement. It is a question of legislative intent to be construed by the court. . . ."</p>
     <p>United States v. Balint, supra, <a href="../us258/us258-0250.xml#p251">258 U. S. 251</a>-252.</p>
     <p>He referred, however, to</p>
     <p>"regulatory measures in the exercise of what is called the police power where the emphasis</p>
@@ -96,7 +96,7 @@
     <p>The Government asks us by a feat of construction radically to change the weights and balances in the scales of justice. The purpose and obvious effect of doing away with the requirement of a guilty intent is to ease the prosecution's path to conviction, to strip the defendant of such benefit as he derived at common law from innocence of evil purpose, and to circumscribe the freedom heretofore allowed juries. Such a manifest impairment of the immunities of the individual should not be extended to common law crimes on judicial initiative.</p>
     <p>The spirit of the doctrine which denies to the federal judiciary power to create crimes forthrightly [<a id="nf22" href="#fn22">Footnote 22</a>] admonishes that we should not enlarge the reach of enacted crimes by constituting them from anything less than the incriminating components contemplated by the words used in the statute. And where Congress borrows terms of art in which are accumulated the legal tradition and meaning of centuries of practice, it presumably knows and adopts the cluster of ideas that were attached to each borrowed word in the body of learning from which it was taken and the meaning its use will convey to the judicial mind unless otherwise instructed. In such case, absence of contrary direction may be taken as satisfaction with widely accepted definitions, not as a departure from them.</p>
     <p>We hold that mere omission from § 641 of any mention of intent will not be construed as eliminating that element from the crimes denounced.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>It is suggested, however, that the history and purposes of § 641 imply something more affirmative as to elimination of intent from at least one of the offenses charged under it in this case. The argument does not contest</p>
     <n id="p264">264</n>
     <p>that criminal intent is retained in the offenses of embezzlement, stealing and purloining, as incorporated into this section. But it is urged that Congress joined with those, as a new, separate and distinct offense, knowingly to convert government property, under circumstances which imply that it is an offense in which the mental element of intent is not necessary.</p>
@@ -126,7 +126,7 @@
     <n id="p273">273</n>
     <p>in drafting such a statute is to avoid gaps and loopholes between offenses. It is significant that the English and State codifiers have tried to cover the same type of conduct that we are suggesting as the purpose of Congress here, without, however, departing from the common law tradition that these are crimes of intendment.</p>
     <p>We find no grounds for inferring any affirmative instruction from Congress to eliminate intent from any offense with which this defendant was charged.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>As we read the record, this case was tried on the theory that, even if criminal intent were essential, its presence (a) should be decided by the court (b) as a presumption</p>
     <n id="p274">274</n>
     <p>of law, apparently conclusive, (c) predicated upon the isolated act of taking, rather than upon all of the circumstances. In each of these respects we believe the trial court was in error.</p>

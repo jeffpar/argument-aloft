@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us316-0174.html" citation="316 U.S. 174" title="State Tax Comm'n v. Aldrich">
   <opinion type="Opinions &amp; Dissents">
     <n id="p174">174</n>
-    <h>U.S. Supreme Court</h>
-    <h>State Tax Comm'n v. Aldrich, <a href="./us316-0174.xml#p174">316 U.S. 174</a> (1942)</h>
-    <h>State Tax Commission of Utah v. Aldrich</h>
-    <h>No. 814</h>
-    <h>Argued March 12, 1942</h>
-    <h>Decided April 27, 1942</h>
-    <h><a href="./us316-0174.xml#p174">316 U.S. 174</a></h>
-    <h>CERTIORARI TO THE SUPREME COURT OF UTAH</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>State Tax Comm'n v. Aldrich, <a href="./us316-0174.xml#p174">316 U.S. 174</a> (1942)</h1>
+    <h2>State Tax Commission of Utah v. Aldrich</h2>
+    <h2>No. 814</h2>
+    <h4>Argued March 12, 1942</h4>
+    <h4>Decided April 27, 1942</h4>
+    <h2>CERTIORARI TO THE SUPREME COURT OF UTAH</h2>
+    <h2>Syllabus</h2>
     <p>A State may, consistently with the Fourteenth Amendment, impose a tax upon a transfer by death of shares of stock in a corporation which is incorporated under its laws, even though the decedent, of whose estate the share were a part, was domiciled at the time of death in another State, where the certificates representing the shares were held, though the certificates were never within the State of incorporation, and though, for many years, the corporation had kept its stock books, records, and transfer agents in the State where decedent was domiciled, and had maintained none of these in the State of incorporation. First National Bank v. Maine, <a href="../us284/us284-0312.xml#p312">284 U. S. 312</a>, overruled. P. 180.</p>
     <p>116 P.2d 923 reversed:</p>
     <p>Certiorari, 315 U.S. 789, to review the affirmance of a declaratory judgment that the transfer of stock by death, here involved, was not subject to tax under the Utah Inheritance Tax Law.</p>
@@ -85,7 +85,7 @@
       <p>State taxation of transfer by death of intangible property is in something of a jurisdictional snarl, to the solution of which this Court owes all that it has of wisdom and power. The theoretical basis of some decisions in the very practical matter of taxation is not particularly satisfying. [Footnote 2/1] But a switch of abstract concepts is hardly to be expected without at least careful consideration of its impact on the very practical and concrete problems of states and taxpayers.</p>
       <n id="p186">186</n>
       <p>Weighing the highly doctrinaire reasons advanced for this decision against its practical effects on our economy and upon our whole constitutional law of state taxation, I can see nothing in the Court's decision more useful than the proverbial leap from the frying pan into the fire.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>There is little persuasion, and certainly no compulsion, in the authorities mustered by the Court's present opinion, which are either admittedly overruled cases, such as Blackstone v. Miller, <a href="../us188/us188-0189.xml#p189">188 U. S. 189</a>, or admittedly distinguishable ones, such as Curry v. McCanless, <a href="../us307/us307-0357.xml#p357">307 U. S. 357</a>; Graves v. Elliott, <a href="../us307/us307-0383.xml#p383">307 U. S. 383</a>; Wisconsin v. J. C. Penney Co., <a href="../us311/us311-0435.xml#p435">311 U. S. 435</a>. Such authorities are not impressive in vindication of such a judgment. Without discussion of the academic merits of the decision that is being overruled, I am willing to proceed on the estimate of it made at the time of its pronouncement by the present Chief Justice, who said in his dissent:</p>
       <p>"Situs of an intangible, for taxing purposes, as the decisions of this court, including the present one, abundantly demonstrate, is not a dominating reality, but a convenient fiction which may be judicially employed or discarded, according to the result desired."</p>
       <p>First National Bank v. Maine, <a href="../us284/us284-0312.xml#p312">284 U. S. 312</a>, <a href="../us284/us284-0312.xml#p332">284 U. S. 332</a>.</p>
@@ -104,7 +104,7 @@
       <p>trackage are in Utah and that, during 1939, the railway operating revenue from Utah intrastate business plus the Utah proportion on a mileage basis of its interstate business was 8.97% of the entire gross operating revenues of the company.</p>
       <p>What gives the Union Pacific stock its value, all of which is appropriated by this decision to Utah's taxing power, is its operation in interstate commerce, a privilege which comes from the United States and one which Utah does not give or protect, and could not deny. The Union Pacific system itself is in interstate operation, embracing thirteen states and drawing its business from the whole country. Approximately 37% of its total tonnage was received from connecting lines. [Footnote 2/13] If the values derived from privileges extended by the National Government and from rendering national transportation were to be allocated to any single state for tax purposes, a realistic basis would entitle the five States of Idaho, Kansas, Nebraska, Oregon, and Washington to some consideration, for each embraces, authorizes, and protects by its laws more miles of trackage than does Utah. [Footnote 2/14]</p>
       <p>These facts leave nothing of Utah's claim to tax the full value of Union Pacific shares when transferred by death of a nonresident stockholder, and no basis for the Court's decision that it may do so, except the metaphysics of the corporate charter.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>The theories on which this case is decided contrast sharply with certain hard facts which measure the decision's practical wisdom, or lack of it.</p>
       <n id="p191">191</n>
       <p>1. The effect of the Court's decision is to intensify the already unwholesome conflict and friction between the states of the Union in competitive exploitation of intangible property as a source of death duties.</p>
@@ -135,7 +135,7 @@
       <p>the limitations on its taxing power which this Court had established by the decision we now overrule. [Footnote 2/21] Until it can adjust its constitutional provisions, such a state may not take advantage of the tax privileges the Court confers today, although other states may do so. We have not been advised as to the number of states which have repealed or modified reciprocity or credit provisions in their own statutes or constitutions in reliance upon the decision we overrule. Credit provisions contained in statutes may be the foundation for claims for refund against domiciliary states as chartering states proceed to take advantage of the privilege of retroactive taxation accorded them by this decision. Estates closed and distributed under existing laws become indebted by force of this decision to chartering states on claims for transfer tax that may have existed in the state statutes, but had never been suspected of having constitutional validity. For what periods these claims may have vitality depends on state</p>
       <n id="p199">199</n>
       <p>statutes of limitation. Whether personal liability may be asserted against executors and administrators for failure to pay taxes that our decisions did not tolerate at the time the estates were closed likewise depends on the laws of the chartering states. With confidence, we may anticipate that this decision will produce much confusion, some controversy between the states, and a lusty crop of litigation.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>The Court casts aside former limitations on state power to tax nonresidents in such terms as to leave doubt whether any legal limitations are hereafter to be recognized or applied. The opinion of the Court says that the state may "constitutionally make its exaction" "which can demonstrate the practical fact of its power.'" The concurring opinion adds that</p>
       <p>"State of Each the Union has the same taxing power as an independent government except insofar as that power has been curtailed by the federal Constitution,"</p>
       <p>and it enumerates three limitations, each of which prohibits a kind of tax or protects kinds of business from tax, but none of them restrains taxation by reference to what we have usually expressed by "jurisdiction." It is true that the concurring opinion says that "the Due Process Clause has its application to the taxing powers of the States," but we are not told what it may be, and it is difficult to conceive of a situation where it will ever be useful if it may not be considered as a test of jurisdiction to impose a tax.</p>

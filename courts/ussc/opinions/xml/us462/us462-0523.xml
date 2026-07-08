@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us462-0523.html" citation="462 U.S. 523" title="Jones &amp;amp; Laughlin Steel Corp. v. Pfeifer">
   <opinion type="Opinions &amp; Dissents">
     <n id="p523">523</n>
-    <h>U.S. Supreme Court</h>
-    <h>Jones &amp; Laughlin Steel Corp. v. Pfeifer, <a href="./us462-0523.xml#p523">462 U.S. 523</a> (1983)</h>
-    <h>Jones &amp; Laughlin Steel Corp. v. Pfeifer</h>
-    <h>No. 82-131</h>
-    <h>Argued February 28, 1983</h>
-    <h>Decided June 15, 1983</h>
-    <h><a href="./us462-0523.xml#p523">462 U.S. 523</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE THIRD CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Jones &amp; Laughlin Steel Corp. v. Pfeifer, <a href="./us462-0523.xml#p523">462 U.S. 523</a> (1983)</h1>
+    <h2>Jones &amp; Laughlin Steel Corp. v. Pfeifer</h2>
+    <h2>No. 82-131</h2>
+    <h4>Argued February 28, 1983</h4>
+    <h4>Decided June 15, 1983</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE THIRD CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondent was injured in the course of his employment while employed by petitioner as a loading helper on petitioner's coal barge in Pennsylvania. The injury made respondent permanently unable to return to his job or to perform other than light work. Respondent brought an action in Federal District Court against petitioner, alleging that his injury had been "caused by the negligence of the vessel" within the meaning of § 5(b) of the Longshoremen's and Harbor Workers' Compensation Act (LHWCA). The District Court found in respondent's favor and awarded damages of $275,881.31, holding that receipt of compensation from petitioner under § 4 of the LHWCA did not bar a separate recovery of damages for negligence. In calculating the damages, the court did not increase the award to take inflation into account nor did it discount the award to reflect the present value of the future stream of income. Instead, the court followed a decision of the Pennsylvania Supreme Court, which had held "as a matter of law that future inflation shall be presumed equal to future interest rates with these factors offsetting." The Court of Appeals affirmed.</p>
     <p>Held:</p>
     <p>1. A longshoreman may bring a negligence action under § 5(b) against the owner of a vessel who acts as his own stevedore, even though the longshoreman has received compensation from the owner-employer under § 4. The plain language of § 5(a), which provides that the liability of an employer for compensation prescribed in § 4 "shall be exclusive and in place of all other liability of such an employer to the employee," appears to support petitioner's contention that since, as respondent's employer, it had paid compensation to him under § 4, § 5(a) absolves it of all other responsibility to respondent for damages. But such contention is undermined by the plain language of § 5(b), which authorizes a longshoreman whose injury is caused by the negligence of a vessel to bring a separate action against such a vessel as a third party, unless the injury was caused by the negligence of persons engaged in providing stevedoring services to the vessel. If § 6(a) had been intended to bar all negligence suits against owner-employers, there would have been no need to put an additional sentence in § 5(b) barring suits against owner-employers</p>
@@ -67,7 +67,7 @@
     <p>The Damages Issue</p>
     <p>The District Court found that respondent was permanently disabled as a result of petitioner's negligence. He therefore was entitled to an award of damages to compensate him for his probable pecuniary loss over the duration of his career, reduced to its present value. It is useful at the outset to review the way in which damages should be measured in a hypothetical inflation-free economy. We shall then consider how price inflation alters the analysis. Finally, we shall decide whether the District Court committed reversible error in this case.</p>
     <n id="p533">533</n>
-    <h>I</h>
+    <h2>I</h2>
     <p>In calculating damages, it is assumed that, if the injured party had not been disabled, he would have continued to work, and to receive wages at periodic intervals until retirement, disability, or death. An award for impaired earning capacity is intended to compensate the worker for the diminution in that stream of income. [<a id="nf8" href="#fn8">Footnote 8</a>] The award could, in theory, take the form of periodic payments, but, in this country, it has traditionally taken the form of a lump sum, paid at the conclusion of the litigation. [<a id="nf9" href="#fn9">Footnote 9</a>] The appropriate lump sum cannot be computed without first examining the stream of income it purports to replace.</p>
     <p>The lost stream's length cannot be known with certainty; the worker could have been disabled or even killed in a different, non-work-related accident at any time. The probability that he would still be working at a given date is constantly diminishing. [<a id="nf10" href="#fn10">Footnote 10</a>] Given the complexity of trying to make an</p>
     <n id="p534">534</n>
@@ -92,7 +92,7 @@
     <p>Thus, although the notion of a damages award representing the present value of a lost stream of earnings in an inflation-free economy rests on some fairly sophisticated economic concepts, the two elements that determine its calculation can be stated fairly easily. They are: (1) the amount that the employee would have earned during each year that he could have been expected to work after the injury; and (2) the appropriate</p>
     <n id="p538">538</n>
     <p>discount rate, reflecting the safest available investment. The trier of fact should apply the discount rate to each of the estimated installments in the lost stream of income, and then add up the discounted installments to determine the total award. [<a id="nf22" href="#fn22">Footnote 22</a>]</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Unfortunately for triers of fact, ours is not an inflation-free economy. Inflation has been a permanent fixture in our economy for many decades, and there can be no doubt that it ideally should affect both stages of the calculation described in the previous section. The difficult problem is how it can do so in the practical context of civil litigation under § 5(b) of the Act.</p>
     <p>The first stage of the calculation required an estimate of the shape of the lost stream of future income. For many workers, including respondent, a contractual "cost-of-living adjustment" automatically increases wages each year by the percentage change during the previous year in the consumer price index calculated by the Bureau of Labor Statistics. Such a contract provides a basis for taking into account an additional societal factor -- price inflation -- in estimating the worker's lost future earnings.</p>
     <p>The second stage of the calculation requires the selection of an appropriate discount rate. Price inflation -- or more precisely, anticipated price inflation -- certainly affects market</p>
@@ -128,7 +128,7 @@
     <n id="p547">547</n>
     <p>unpredictability create a substantial risk that the damages award will prove to have little relation to the lost wages it purports to replace. Third, the question of lost earnings can arise in many different contexts. In some sectors of the economy, it is far easier to assemble evidence of an individual's most likely career path than in others.</p>
     <p>These conclusions all counsel hesitation. Having surveyed the multitude of options available, we will do no more than is necessary to resolve the case before us. We limit our attention to suits under § 5(b) of the Act, noting that Congress has provided generally for an award of damages, but has not given specific guidance regarding how they are to be calculated. Within that narrow context, we shall define the general boundaries within which a particular award will be considered legally acceptable.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The Court of Appeals correctly noted that respondent's cause of action "is rooted in federal maritime law." Pope &amp; Talbot, Inc. v. Hawn, <a href="../us346/us346-0406.xml#p406">346 U. S. 406</a>, <a href="../us346/us346-0406.xml#p409">346 U. S. 409</a> (1953). See also H.R.Rep. No. 92-1441 (1972). The fact that Pennsylvania has adopted the total offset rule for all negligence cases in that forum is therefore not of controlling importance in this case. Moreover, the reasons which may support the adoption of the rule for a State's entire judicial system -- for a broad class of cases encompassing a variety of claims affecting a number of different industries and occupations -- are not necessarily applicable to the special class of workers covered by this Act.</p>
     <p>In calculating an award for a longshoreman's lost earnings caused by the negligence of a vessel, the discount rate should be chosen on the basis of the factors that are used to estimate the lost stream of future earnings. If the trier of fact relies on a specific forecast of the future rate of price inflation, and if the estimated lost stream of future earnings is calculated to include price inflation along with individual factors and other</p>
     <n id="p548">548</n>
@@ -148,7 +148,7 @@
     <p>On remand, the decision on whether to reopen the record should be left to the sound discretion of the trial court. It bears mention that the present record already gives reason to believe a fair award may be more confidently expected in</p>
     <n id="p552">552</n>
     <p>this case than in many. The employment practices in the longshoring industry appear relatively stable and predictable. The parties seem to have had no difficulty in arriving at the period of respondent's future work expectancy, or in predicting the character of the work that he would have been performing during that entire period if he had not been injured. Moreover, the record discloses that respondent's wages were determined by a collective bargaining agreement that explicitly provided for "cost of living" increases, id. at 310, and that recent company history also included a "general" increase and a "job class increment increase." Although the trial court deemed the latter increases irrelevant during its first review because it felt legally compelled to assume they would offset any real interest rate, further study of them on remand will allow the court to determine whether that assumption should be made in this case.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>We do not suggest that the trial judge should embark on a search for "delusive exactness." [<a id="nf33" href="#fn33">Footnote 33</a>] It is perfectly obvious that the most detailed inquiry can, at best, produce an approximate result. [<a id="nf34" href="#fn34">Footnote 34</a>] And one cannot ignore the fact that, in many instances, the award for impaired earning capacity may be overshadowed by a highly impressionistic award for pain and suffering. [<a id="nf35" href="#fn35">Footnote 35</a>] But we are satisfied that whatever rate the District Court may choose to discount the estimated stream of</p>
     <n id="p553">553</n>
     <p>future earnings, it must make a deliberate choice, rather than assuming that it is bound by a rule of state law.</p>

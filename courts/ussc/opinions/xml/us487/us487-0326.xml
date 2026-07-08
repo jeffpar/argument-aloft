@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us487-0326.html" citation="487 U.S. 326" title="United States v. Taylor">
   <opinion type="Opinions &amp; Dissents">
     <n id="p326">326</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Taylor, <a href="./us487-0326.xml#p326">487 U.S. 326</a> (1988)</h>
-    <h>United States v. Taylor</h>
-    <h>No. 87-573</h>
-    <h>Argued April 25, 1988</h>
-    <h>Decided June 24, 1988</h>
-    <h><a href="./us487-0326.xml#p326">487 U.S. 326</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Taylor, <a href="./us487-0326.xml#p326">487 U.S. 326</a> (1988)</h1>
+    <h2>United States v. Taylor</h2>
+    <h2>No. 87-573</h2>
+    <h4>Argued April 25, 1988</h4>
+    <h4>Decided June 24, 1988</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>The Speedy Trial Act of 1974 requires that an indictment be dismissed if the defendant is not brought to trial within a 70-day period, and requires the court, in determining whether to dismiss with or without prejudice, to</p>
     <p>"consider, among others, each of the following factors: the seriousness of the offense, the facts and circumstances . . . which led to the dismissal; and the impact of a reprosecution on the administration of [the Act and] of justice."</p>
     <p>18 U.S.C. § 3162(a)(2). After respondent failed to appear for his trial on federal narcotics charges, which was scheduled to commence in the Federal District Court in Seattle one day prior to the expiration of the 70-day period, 15 days not otherwise excludable under the Act elapsed between his subsequent arrest in California and the issuance by a federal grand jury in Seattle of a superseding indictment. Respondent's return to Seattle for trial during this period was delayed for various reasons, including slow processing by the Government. The District Court granted respondent's § 3162(a)(2) motion to dismiss with prejudice, finding that, although respondent was charged with serious offenses, the Government's "lackadaisical behavior" was inexcusable, and that the administration of the Act and of justice required a stern response. The Court of Appeals affirmed, concluding that, in light of the case's "peculiar circumstances," the lower court had not abused its discretion in dismissing with prejudice in order to send a strong message to the Government that the Act must be observed.</p>
@@ -28,7 +28,7 @@
     <p>This case requires us to consider the bounds of a district court's discretion to choose between dismissal, with and without</p>
     <n id="p328">328</n>
     <p>prejudice, as a remedy for a violation of the Speedy Trial Act of 1974, as amended, 18 U.S.C. § 3161 et seq. (1982 ed. and Supp. IV).</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>On July 25, 1984, respondent Larry Lee Taylor was indicted by a federal grand jury on charges of conspiracy to distribute cocaine and possession of 400 grams of cocaine with intent to distribute. His trial was scheduled to commence in the United States District Court for the Western District of Washington in Seattle on November 19, 1984, the day prior to the expiration of the 70-day period within which the Act requires the Government to bring an indicted individual to trial. See 18 U.S.C. § 3161(c)(1). [<a id="nf1" href="#fn1">Footnote 1</a>] Respondent failed to appear for trial, and a bench warrant was issued for his arrest. On February 5, 1985, respondent was arrested by local police officers in San Mateo County, Cal., on state charges that subsequently were dismissed. Respondent's return to Seattle for his federal trial was delayed for a number of reasons, some related to his being required to testify as a defense witness in a federal narcotics prosecution then pending in San Francisco and others involving slow processing, the convenience of the United States Marshals Service, and what the District Court would later describe as the "lackadaisical" attitude on the part of the Government. App. to Pet. for Cert. 30a. On April 24, 1985, while respondent was back in San Francisco to testify at a retrial of the narcotics prosecution, a federal grand jury in Seattle issued a superseding indictment against respondent, adding a failure-to-appear</p>
     <n id="p329">329</n>
     <p>charge based on his nonappearance at the scheduled November 19, 1984, trial.</p>
@@ -50,7 +50,7 @@
     <p>nonexcludable under the statute -- was of such studied, deliberate, and callous nature as to justify dismissal with prejudice."</p>
     <p>Id. at 1387.</p>
     <p>On the Government's petition, which suggested that further guidance was needed with respect to the application of the Speedy Trial Act's remedy provision, § 3162, we granted certiorari. 484 U.S. 1025 (1988).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>A</p>
     <p>Neither party has asked this Court to review the lower courts' decision that a violation of the Act actually occurred. [<a id="nf6" href="#fn6">Footnote 6</a>] And the statute admits no ambiguity in its requirement that, when such a violation has been demonstrated, "the information or indictment shall be dismissed on motion of the defendant." § 3162(a)(2). The only question before us, therefore, is whether the District Court abused its discretion under the Act in dismissing the indictment with prejudice, rather than permitting reprosecution. In relevant part, the Act's remedy provision, § 3162(a)(2), instructs:</p>
     <p>"If a defendant is not brought to trial within the time limit required by section 3161(c) as extended by 3161(h),</p>
@@ -74,7 +74,7 @@
     <n id="p337">337</n>
     <p>Only then can an appellate court ascertain whether a district court has ignored or slighted a factor that Congress has deemed pertinent to the choice of remedy, thereby failing to act within the limits prescribed by Congress.</p>
     <p>Factual findings of a district court are, of course, entitled to substantial deference, and will be reversed only for clear error. Anderson v. Bessemer City, <a href="../us470/us470-0564.xml#p564">470 U. S. 564</a> (1985). A judgment that must be arrived at by considering and applying statutory criteria, however, constitutes the application of law to fact, and requires the reviewing court to undertake more substantive scrutiny to ensure that the judgment is supported in terms of the factors identified in the statute. Nevertheless, when the statutory factors are properly considered, and supporting factual findings are not clearly in error, the district court's judgment of how opposing considerations balance should not lightly be disturbed.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Because the District Court did not fully explicate its reasons for dismissing with prejudice the substantive drug charges against respondent, we are left to speculate in response to some of the parties' arguments pro and con. Respondent, for example, argues that the District Court may have taken into account the fact that respondent's codefendant had been sentenced on the same charges to three years' imprisonment, and that, by dismissing the drug charges but sentencing respondent to five years' imprisonment on the failure-to-appear charge, it would be possible to effect substantial justice while sending, at the same time, "a strong message" to the Marshals Service and the local United States Attorney. See Tr. of Oral Arg. 29, 32. There are several problems with that line of reasoning, not the least of which is that the District Court did not articulate it. To the extent that respondent is suggesting that his codefendant's 3-year sentence implies that the offenses with which both were charged were not "serious," his argument is directly at odds</p>
     <n id="p338">338</n>
     <p>with the District Court's statement expressly to the contrary: "there is no question that the drug violations with which [respondent] is charged are serious," App. to Pet. for Cert. 30a. We have no reason to doubt the court's conclusion in that regard. Moreover, at the time the District Court decided to dismiss the drug charges against respondent, he had not yet entered a plea to the failure-to-appear charge, so that the court could not be certain that any opportunity would arise to take the drug violations into account in sentencing. [<a id="nf9" href="#fn9">Footnote 9</a>]</p>
@@ -94,7 +94,7 @@
     <p>Perhaps there was more to the District Court's decision than meets the eye. It is always difficult to review a cold appellate record and acquire a full understanding of all the</p>
     <n id="p343">343</n>
     <p>facts, nuances, and attitudes that influence a trial judge's decisionmaking, and we undertake such close review with reluctance. That is why the administration of the Speedy Trial Act and the necessity for thorough appellate review require that a district court carefully express its decision whether or not to bar reprosecution in terms of the guidelines specified by Congress. When the decision whether to bar reprosecution is analyzed in the framework established by the Act, it is evident from the record before us that the District Court abused its discretion in this case. The court did not explain how it factored in the seriousness of the offenses with which respondent stood charged. The District Court relied heavily on its unexplained characterization of the Government conduct as "lackadaisical," while failing to consider other relevant facts and circumstances leading to dismissal. Seemingly ignored were the brevity of the delay and the consequential lack of prejudice to respondent, as well as respondent's own illicit contribution to the delay. At bottom, the District Court appears to have decided to dismiss with prejudice in this case in order to send a strong message to the Government that unexcused delays will not be tolerated. That factor alone, by definition, implicated in almost every Speedy Trial Act case, does not suffice to justify barring reprosecution in light of all the other circumstances present. [<a id="nf15" href="#fn15">Footnote 15</a>]</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>Ordinarily, a trial court is endowed with great discretion to make decisions concerning trial schedules and to respond to abuse and delay where appropriate. The Speedy Trial Act, however, confines the exercise of that discretion more narrowly,</p>
     <n id="p344">344</n>
     <p>mandating dismissal of the indictment upon violation of precise time limits and specifying criteria to consider in deciding whether to bar reprosecution. The District Court failed to consider all the factors relevant to the choice of a remedy under the Act. What factors it did rely on were unsupported by factual findings or evidence in the record. We conclude that the District Court abused its discretion under the Act, and that the Court of Appeals erred in holding otherwise. Accordingly, the judgment of the Court of Appeals is reversed.</p>

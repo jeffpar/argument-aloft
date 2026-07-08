@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us489-0235.html" citation="489 U.S. 235" title="U.S. v. Ron Pair Enterprises">
   <opinion type="Opinions &amp; Dissents">
     <n id="p235">235</n>
-    <h>U.S. Supreme Court</h>
-    <h>U.S. v. Ron Pair Enterprises, <a href="./us489-0235.xml#p235">489 U.S. 235</a> (1989)</h>
-    <h>United States v. Ron Pair Enterprises, Inc.</h>
-    <h>No. 87-1043</h>
-    <h>Argued October 31, 1988</h>
-    <h>Decided February 22, 1989</h>
-    <h><a href="./us489-0235.xml#p235">489 U.S. 235</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE SIXTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>U.S. v. Ron Pair Enterprises, <a href="./us489-0235.xml#p235">489 U.S. 235</a> (1989)</h1>
+    <h2>United States v. Ron Pair Enterprises, Inc.</h2>
+    <h2>No. 87-1043</h2>
+    <h4>Argued October 31, 1988</h4>
+    <h4>Decided February 22, 1989</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE SIXTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>After respondent filed a petition under Chapter 11 of the Bankruptcy Code of 1978 (Code), the Government filed proof of a prepetition claim for unpaid withholding and social security taxes, penalties, and prepetition interest. The claim was perfected through a tax lien on property owned by respondent. Respondent's ensuing reorganization plan provided for full payment of the claim, but did not provide for post-petition interest. The Government objected, contending that § 506(b) of the Code -- which allows the holder of an oversecured claim to recover, in addition to the prepetition amount of the claim, "interest on such claim, and any reasonable fees, costs, or charges provided for under the agreement under which such claim arose" -- allowed recovery of post-petition interest, since the property securing its claim had a value greater than the amount of the principal debt. The Bankruptcy Court overruled this objection, but the District Court reversed. The Court of Appeals reversed the District Court, holding that § 506(b) codified the pre-Code standard that allowed post-petition interest on an oversecured claim only where the lien on the claim was consensual in nature.</p>
     <p>Held: Section 506(b) entitles a creditor to receive post-petition interest on a nonconsensual oversecured claim allowed in a bankruptcy proceeding. Pp. <a href="./us489-0235.xml#p238">489 U. S. 238</a>-249.</p>
     <p>(a) The natural reading of the phrase in § 506(b) that</p>
@@ -26,19 +26,19 @@
     <n id="p237">237</n>
     <p>JUSTICE BLACKMUN delivered the opinion of the Court.</p>
     <p>In this case, we must decide the narrow statutory issue whether § 506(b) of the Bankruptcy Code of 1978, 11 U.S.C. § 506(b) (1982 ed., Supp. IV), entitles a creditor to receive post-petition interest on a nonconsensual oversecured claim allowed in a bankruptcy proceeding. We conclude that it does, and we therefore reverse the judgment of the Court of Appeals.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Respondent Ron Pair Enterprises, Inc., filed a petition for reorganization under Chapter 11 of the Bankruptcy Code on May 1, 1984, in the United States Bankruptcy Court for the Eastern District of Michigan. The Government filed timely proof of a prepetition claim of $52,277.93, comprised of assessments for unpaid withholding and Social Security taxes, penalties, and prepetition interest. The claim was perfected through a tax lien on property owned by respondent. Respondent's First Amended Plan of Reorganization, filed October 1, 1985, provided for full payment of the prepetition claim, but did not provide for post-petition interest on that claim. The Government filed a timely objection, claiming that § 506(b) allowed recovery of post-petition interest, since the property securing the claim had a value greater than the' amount of the principal debt. At the Bankruptcy Court hearing, the parties stipulated that the claim was oversecured, but the court subsequently overruled the Government's objection. The Government appealed to the United States District Court for the Eastern District of Michigan. That court reversed the Bankruptcy Court's judgment, concluding that the plain language of § 506(b) entitled the Government to post-petition interest.</p>
     <p>The United States Court of Appeals for the Sixth Circuit, in its turn, reversed the District Court. 828 F.2d 367 (1987). While not directly ruling that the language of § 506(b) was ambiguous, the court reasoned that reference to pre-Code law was appropriate "in order to better understand</p>
     <n id="p238">238</n>
     <p>the context in which the provision was drafted and therefore the language itself." Id. at 370. The court went on to note that, under pre-Code law, the general rule was that post-petition interest on an oversecured prepetition claim was allowable only where the lien was consensual in nature. In light of this practice, and of the lack of any legislative history evincing an intent to change the standard, the court held that § 506(b) codified the preexisting standard, and that post-petition interest was allowable only on consensual claims. Because this result was in direct conflict with the view of the Court of Appeals for the Fourth Circuit, see Best Repair Co. v. United States, 789 F.2d 1080 (CA4 1986), and with the views of other courts, [<a id="nf1" href="#fn1">Footnote 1</a>] we granted certiorari, 485 U.S. 958 (1988), to resolve the conflict.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Section 506, [<a id="nf2" href="#fn2">Footnote 2</a>] enacted as part of the extensive 1978 revision of the bankruptcy laws, governs the definition and treatment</p>
     <n id="p239">239</n>
     <p>of secured claims, i.e., claims by creditors against the estate that are secured by a lien on property in which the estate has an interest. Subsection (a) of § 606 provides that a claim is secured only to the extent of the value of the property on which the lien is fixed; the remainder of that claim is considered unsecured. [<a id="nf3" href="#fn3">Footnote 3</a>] Subsection (b) is concerned specifically with oversecured claims, that is, any claim that is for an amount less than the value of the property securing it. Thus, if a $50,000 claim were secured by a lien on property having a value of $75,000, the claim would be oversecured, provided the trustee's costs of preserving or disposing of the property were less than $25,000. Section 506(b) allows a</p>
     <n id="p240">240</n>
     <p>holder of an oversecured claim to recover, in addition to the prepetition amount of the claim, "interest on such claim, and any reasonable fees, costs, or charges provided for under the agreement under which such claim arose."</p>
     <p>The question before us today arises because there are two types of secured claims: (1) voluntary (or consensual) secured claims, each created by agreement between the debtor and the creditor and called a "security interest" by the Code, 11 U.S.C. § 101(45) (1982 ed., Supp. IV), and (2) involuntary secured claims, such as a judicial or statutory lien, see 11 U.S.C. §§ 101(32) and (47) (1982 ed., Supp. IV), which are fixed by operation of law and do not require the consent of the debtor. The claim against respondent's estate was of this latter kind. Prior to the passage of the 1978 Code, some Courts of Appeals drew a distinction between the two types for purposes of determining post-petition interest. The question we must answer is whether the 1978 Code recognizes and enforces this distinction, or whether Congress intended that all oversecured claims be treated the same way for purposes of post-petition interest.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Initially, it is worth recalling that Congress worked on the formulation of the Code for nearly a decade. It was intended to modernize the bankruptcy laws, see H.R.Rep. No. 95-595, p. 3 (1977) (Report), and as a result made significant changes in both the substantive and procedural laws of bankruptcy. See Northern Pipeline Construction Co. v. Marathon Pipe Line Co., <a href="../us458/us458-0050.xml#p50">458 U. S. 50</a>, <a href="../us458/us458-0050.xml#p52">458 U. S. 52</a>-53 (1982) (plurality opinion). In particular, Congress intended "significant changes from current law in . . . the treatment of secured creditors and secured claims." Report, at 180. In such a substantial overhaul of the system, it is not appropriate or realistic to expect Congress to have explained with particularity each step it took. Rather, as long as the statutory scheme is coherent and consistent, there generally is no</p>
     <n id="p241">241</n>
     <p>need for a court to inquire beyond the plain language of the statute.</p>

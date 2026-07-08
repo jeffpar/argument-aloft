@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us124-0200.html" citation="124 U.S. 200" title="In re Sawyer">
   <opinion type="Opinions &amp; Dissents">
     <n id="p200">200</n>
-    <h>U.S. Supreme Court</h>
-    <h>In re Sawyer, <a href="./us124-0200.xml#p200">124 U.S. 200</a> (1888)</h>
-    <h>In re Sawyer</h>
-    <h>Argued December 12, 1887</h>
-    <h>Decided January 9, 1888</h>
-    <h><a href="./us124-0200.xml#p200">124 U.S. 200</a></h>
-    <h>ORIGINAL</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>In re Sawyer, <a href="./us124-0200.xml#p200">124 U.S. 200</a> (1888)</h1>
+    <h2>In re Sawyer</h2>
+    <h4>Argued December 12, 1887</h4>
+    <h4>Decided January 9, 1888</h4>
+    <h2>ORIGINAL</h2>
+    <h2>Syllabus</h2>
     <p>A court of equity has no jurisdiction of a bill to stay criminal proceedings.</p>
     <p>A court of equity has no jurisdiction of a bill to restrain the removal of a public officer.</p>
     <p>The circuit court of the United States has no jurisdiction or authority to entertain a bill in equity to restrain the mayor and committee of a city</p>

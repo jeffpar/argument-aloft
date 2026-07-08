@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us404-0418.html" citation="404 U.S. 418" title="Reliance Elec. Co. v. Emerson Elec. Co.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p418">418</n>
-    <h>U.S. Supreme Court</h>
-    <h>Reliance Elec. Co. v. Emerson Elec. Co., <a href="./us404-0418.xml#p418">404 U.S. 418</a> (1972)</h>
-    <h>Reliance Electric Co. v. Emerson Electric Co.</h>
-    <h>No. 70-79</h>
-    <h>Argued November 111, 1971</h>
-    <h>Decided January 11, 1972</h>
-    <h><a href="./us404-0418.xml#p418">404 U.S. 418</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE EIGHTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Reliance Elec. Co. v. Emerson Elec. Co., <a href="./us404-0418.xml#p418">404 U.S. 418</a> (1972)</h1>
+    <h2>Reliance Electric Co. v. Emerson Electric Co.</h2>
+    <h2>No. 70-79</h2>
+    <h4>Argued November 111, 1971</h4>
+    <h4>Decided January 11, 1972</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE EIGHTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondent, the owner of more than 10% of Dodge Mfg. Co.'s stock, within six months of the purchase thereof sold enough shares to a broker to reduce its holding to 9.96%, for the purpose of immunizing the disposal of the remainder from liability under § 16(b) of the Securities Exchange Act of 1934. Under that provision, a corporation may recover for itself the profits realized by an owner of more than 10% of its shares from a purchase and sale of its stock within any six-month period, provided the owner held more than 10% "both at the time of purchase and sale."</p>
     <p>Held: Under the terms of § 16(b), respondent is not liable to petitioner (Dodge's successor) for profits derived from the sale of the 9.96% to Dodge within six months of purchase. Pp. 422-427.</p>
     <p>434 F.2d 918, affirmed.</p>
@@ -21,7 +21,7 @@
     <p>Section 16(b) of the Securities Exchange Act of 1934, 48 Stat. 896, 15 U.S.C. § 78p(b), provides, among other things, that a corporation may recover for itself the profits realized by an owner of more than 10% of its shares from a purchase and sale of its stock within any six-month period, provided that the owner held more than 10% "both at the time of the purchase and sale." [<a id="nf1" href="#fn1">Footnote 1</a>] In this case, the respondent, the owner of 13.2% of a corporation's shares, disposed of its entire holdings in two sales, both of them within six months of purchase. The</p>
     <n id="p420">420</n>
     <p>first sale reduced the respondent's holdings to 9.96%, and the second disposed of the remainder. The question presented is whether the profits derived from the second sale are recoverable by the Corporation under § 16(b). We hold that they are not.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>On June 16, 1967, the respondent, Emerson Electric Co., acquired 13.2% of the outstanding common stock of Dodge Manufacturing Co., pursuant to a tender offer made in an unsuccessful attempt to take over Dodge. The purchase price for this stock was $63 per share. Shortly thereafter, the shareholders of Dodge approved a merger with the petitioner, Reliance Electric Co. Faced with the certain failure of any further attempt to take over Dodge, and with the prospect of being forced to exchange its Dodge shares for stock in the merged corporation in the near future, [<a id="nf2" href="#fn2">Footnote 2</a>] Emerson, following a plan outlined by its general counsel, decided to dispose of enough shares to bring its holdings below 10% in order to immunize the disposal of the remainder of its shares from liability under § 16(b). Pursuant to counsel's recommendation, Emerson on August 28 sold 37,000 shares of Dodge common stock to a brokerage house at $68 per share. This sale reduced Emerson's holdings in Dodge to 9.96% of the outstanding common stock. The remaining shares were then sold to Dodge at $69 per share on September 11.</p>
     <p>After a demand on it by Reliance for the profits realized on both sales, Emerson filed this action seeking a declaratory judgment as to its liability under § 16(b). Emerson first claimed that it was not liable at all,</p>
     <n id="p421">421</n>
@@ -32,7 +32,7 @@
     <p>On an interlocutory appeal under 28 U.S.C. § 1292(b), the Court of Appeals upheld the finding that Emerson "split" its sale of Dodge stock simply in order to avoid most of its potential liability under § 16(b), but it held this fact irrelevant under the statute so long as the two sales are "not legally tied to each other and [are] made at different times to different buyers. . . ." 434 F.2d 918, 926. Accordingly, the Court of Appeals reversed the District Court's judgment as to Emerson's liability for its profits on the September 11 sale, and remanded for a determination of the amount of Emerson's liability on the August 28 sale. Reliance filed a petition for certiorari, which we granted</p>
     <n id="p422">422</n>
     <p>in order to consider an unresolved question under an important federal statute. 401 U.S. 1008.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The history and purpose of § 16(b) have been exhaustively reviewed by federal courts on several occasions since its enactment in 1934. See, e.g., Smolowe v. Delendo Corp., 136 F.2d 231; Adler v. Klawans, 267 F.2d 840; Blau v. Max Factor &amp; Co., 342 F.2d 304. Those courts have recognized that the only method Congress deemed effective to curb the evils of insider trading was a flat rule taking the profits out of a class of transactions in which the possibility of abuse was believed to be intolerably great. As one court observed:</p>
     <p>"In order to achieve its goals, Congress chose a relatively arbitrary rule capable of easy administration. The objective standard of Section 16(b) imposes strict liability upon substantially all transactions occurring within the statutory time period, regardless of the intent of the insider or the existence of actual speculation. This approach maximized the ability of the rule to eradicate speculative abuses by reducing difficulties in proof. Such arbitrary and sweeping coverage was deemed necessary to insure the optimum prophylactic effect."</p>
     <p>Bershad v. McDonough, 428 F.2d 693, 696. Thus, Congress did not reach every transaction in which an investor actually relies on inside information. A person avoids liability if he does not meet the statutory definition of an "insider," or if he sells more than six months after purchase. Liability cannot be imposed simply because the investor structured his transaction with the intent of avoiding liability under § 16(b). The question is, rather, whether the method used to "avoid" liability is one permitted by the statute.</p>
@@ -47,7 +47,7 @@
     <p>To be sure, where alternative constructions of the terms of § 16(b) are possible, those terms are to be given the construction that best serves the congressional purpose of curbing short-swing speculation by corporate insiders. [<a id="nf4" href="#fn4">Footnote 4</a>] But a construction of the term "at the time</p>
     <n id="p425">425</n>
     <p>of . . . sale" that treats two sales as one upon proof of a preexisting intent by the seller is scarcely in harmony with the congressional design of predicating liability upon an "objective measure of proof." Smolowe v. Delendo Corp., supra, at 235. Were we to adopt the approach urged by Reliance, we could be sure that investors would not in the future provide such convenient proof of their intent as Emerson did in this case. If a "two-step" sale of a 10% owner's holdings within six months of purchase is thought to give rise to the kind of evil that Congress sought to correct through § 16(b), those transactions can be more effectively deterred by an amendment to the statute that preserves its mechanical quality than by a judicial search for the will-o'-the-wisp of an investor's "intent" in each litigated case.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The Securities and Exchange Commission, participating as amicus curiae, argues for an interpretation of the statute that both covers Emerson's transaction and preserves the mechanical quality of the statute. Seizing upon a fragment of legislative history -- a brief exchange between one of the principal authors of the bill and two members of the Senate Committee during hearings on the bill [<a id="nf5" href="#fn5">Footnote 5</a>] -- the Commission suggests that the sole purpose</p>
     <n id="p426">426</n>
     <p>of the requirement of 10% ownership at the time of both purchase and sale was to exclude from the statute's coverage those persons who became 10% shareholders "involuntarily," as, for example, by legal succession or by a reduction in the total number of outstanding shares of the corporation. The effect of such an interpretation would be to bring within § 16(b) all sales within six months by one who has gained the position of a 10% owner through voluntary purchase, regardless of the amount of his holdings at the time of the sale. We cannot accept such a construction of the Act.</p>
@@ -99,7 +99,7 @@
       <p>Because this sale purportedly comprised two "independent" transactions, the first of which reduced Emerson's holdings to 9.96% of the outstanding Dodge common stock, the Court today holds that the profit from the second transaction is beyond the contemplation of § 16(b) of the Securities Exchange Act. [Footnote 2/1] So Emerson</p>
       <n id="p428">428</n>
       <p>need not account to the corporation for these gains. In my view, this result is a mutilation of the Act, contrary to its broad remedial purpose, inconsistent with the flexibility required in the interpretation of securities legislation, and not required by the language of the statute itself.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>Section 16(b) is a "prophylactic" rule, Blau v. Lehman, <a href="../us368/us368-0403.xml#p403">368 U. S. 403</a>, <a href="../us368/us368-0403.xml#p413">368 U. S. 413</a>, whose wholesome purpose is to control the insiders whose access to confidential information gives them unfair advantage in the trading of their corporation's securities. [Footnote 2/2]</p>
       <n id="p429">429</n>
       <p>The congressional investigations which led to the enactment of the Securities Exchange Act unearthed convincing evidence that disregard by corporate insiders of their fiduciary positions was widespread and pervasive. [Footnote 2/3] Indeed,</p>
@@ -112,7 +112,7 @@
       <p>Section 16(b) was drafted to combat these "predatory operations," S.Rep. No. 1455, supra, at 68, by removing all possibility of profit from those short-swing insider trades occurring within the statutory period of six</p>
       <n id="p431">431</n>
       <p>months. [Footnote 2/7] The statute is written broadly, and the liability it imposes is strict. Profits are forfeit without proof of an insider's intent to gain from inside information, and without proof that the insider was even privy to such information. [Footnote 2/8] Feder v. Martin Marietta Corp., 406 F.2d 260, 262 (CA2).</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>Today, however, in the guise of an "objective" approach, the Court undermines the statute. By the simple expedient of dividing what would ordinarily be a single transaction into two parts -- both of which could be performed on the same day, so far as it appears from the Court's opinion -- a more-than-10% owner may realize windfall profits on 10% of his corporation's outstanding stock. This result, "plainly at variance with the policy of the legislation as a whole,'" <a href="../us310/us310-0534.xml#p534">United States v. American</a></p>
       <n id="p432">432</n>
       <p>Trucking Assns., <a href="../us310/us310-0534.xml#p534">310 U. S. 534</a>, <a href="../us310/us310-0534.xml#p543">310 U. S. 543</a>, is said to be required because Emerson, owning only 9.96%, was not a "beneficial owner" of more than 10% within the meaning of § 16(b) "at the time of" the disposition of this block of Dodge stock.</p>
@@ -136,7 +136,7 @@
       <p>"necessitates a logical inconsistency insofar as the phrase 'at the time of purchase and sale' is treated as meaning the moment after purchase and the moment before sale."</p>
       <p>Recent Developments, 57 Col.L.Rev. 287, 289. Yet, as in the present case, "the discrepancy seems slight in view of the broader statutory policies involved." Ibid.</p>
       <p>Thus, should the broadly remedial statutory purpose of § 16(b) require it, the literal language of the statute would not preclude an analysis in which the two transactions herein at issue are treated as part of a single "sale."</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>The potential for abuse of inside information in the present case is self-evident. Equally obvious is the fact</p>
       <n id="p435">435</n>
       <p>that the modern-day insider is no less prone than his counterpart of a generation ago to succumb to the lure of insider trading where windfall profits are in the offing. Indeed, in a survey of "reputable" businessmen, 42% of those responding indicated they would themselves trade on inside information, and 61% believed that the "average" executive would do likewise. [Footnote 2/10] Thus, it would appear both that § 16(b) was directed at such conduct as is herein at issue and that the protection § 16(b) affords is as necessary today as it was when the statute was enacted.</p>
@@ -166,7 +166,7 @@
       <p>Such a rule would not, moreover, import questions of "intent" into the statutory scheme. Any factual inquiry would involve only an objective analysis of the circumstances of the various dispositions in the series, applying the "various tests" established by the cases "to determine whether a transaction, objectively defined, falls within or without the terms of the statute." Ante at <a href="./us404-0418.xml#p424"> 404 U. S. 424</a> n. 4.</p>
       <n id="p440">440</n>
       <p>Only if a beneficial owner carried an affirmative burden of proof -- that his series of dispositive transactions was not of a type that afforded him an opportunity for speculative abuse of his position as an insider -- should we say that he was not such a beneficial owner "at the time of . . . sale." [Footnote 2/13]</p>
-      <h>IV</h>
+      <h2>IV</h2>
       <p>The Court suggests two additional factors militating against Emerson's liability under § 16(b). First, the Court implies that it is contrary to the SEC's own rules. This argument rests on the power given to the SEC by § 16(b) to exempt from its scope those transactions that are "not comprehended within the purpose" of the section. Pursuant to this authority, the SEC has promulgated Rule 16a-10, providing that transactions not required to be reported under § 16(a) are exempt from § 16(b) as well.</p>
       <p>The SEC's reporting requirements are contained in "Form 4." Until recently, this Form required insiders -- officers, directors, and more-than-10% owners -- only to report transactions occurring in a calendar month in which they met the formal requirements to be denominated such an insider. Emerson sold down to 9.96% in August, then sold out in September. Presumably, it did not have to report the September sale on Form 4, and thus, by operation of Rule 16a-10, the September sale is argued to be exempt from the operations of § 16(b) as well.</p>
       <n id="p441">441</n>
@@ -178,7 +178,7 @@
       <p>Second, the Court analogizes Emerson's "plan" to a sale "conceived" during the six-month period but not made until after the expiration of the statutory limitation. The Court incorrectly assumes that such a sale could not fall within § 16(b). If the "conception" were sufficiently concrete to be construed as a "contract to sell," or an "option," there would indeed be liability. Cf. Bershad v. McDonough, supra. In any event, the analogy fails because the purposes of the six-month rule are different from the purpose of the 10% rule.</p>
       <p>The six-month limitation is based on Congress' estimation that, beyond this time period, normal market fluctuations sufficiently deter attempts to trade on inside information. Blau v. Max Factor &amp; Co., supra, at 308. Thus, it is consistent with the statutory scheme to permit an insider to "plan" a sale within the six-month period that will not take place until six months have passed from a matching purchase.</p>
       <p>But the 10% rule is based upon a conclusive statutory presumption that ownership of this quantity of stock suffices to provide access to inside information. Newmark v. RKO General, Inc., 425 F.2d 348 (CA2). The rationale of the six-month rule implies that such information will be presumed to be useful during that length of time. It follows that all sales by a more-than-10% owner within the six-month period carry the presumption of a taint, even if a prior transaction within the period has reduced the beneficial ownership to 10% or below.</p>
-      <h>V</h>
+      <h2>V</h2>
       <p>In sum, neither the statutory language nor the purposes articulated by the majority justify the result reached today. Rather than deprive § 16(b) of vitality in the course of a vain search for a nonexistent purity of operation, we should reverse the judgment of the Court of Appeals and remand the case for further proceedings.</p>
       <p>[Footnote 2/1]</p>
       <p>15 U.S.C. § 78p(b):</p>
@@ -197,7 +197,7 @@
       <p>Id. at 70-130.</p>
       <p>[Footnote 2/7]</p>
       <p>The six-month period is, as Mr. Corcoran said during the hearings on the bill, a "crude rule of thumb," Hearings on Stock Exchange Practices before the Senate Committee on Banking and Currency pursuant to S.Res. 84, 56, and 97, 73d Cong., 1st and 2d Sess., pt. 15, p. 6557. It represents a balance struck between the need to deter short-swings based on inside information and a desire to avoid unduly inhibiting long-term corporate investment. S.Rep. No. 792, 73d Cong., 2d Sess., 6. Six months was hit upon, presumably, on the view that,</p>
-      <p>"where the insider is obliged to hold the original security . . . for longer than six months . . . , market fluctuations are likely to wipe out his profits."</p>
+      <p>"where the insider is obliged to hold the original security . . . for longer than six months . . ., market fluctuations are likely to wipe out his profits."</p>
       <p>Comment, 117 U.Pa.L.Rev. 1034, 1054 (1969).</p>
       <p>[Footnote 2/8]</p>
       <p>"This approach maximized the ability of the rule to eradicate speculative abuses by reducing difficulties in proof. Such arbitrary and sweeping coverage was deemed necessary to insure the optimum prophylactic effect."</p>
@@ -207,7 +207,7 @@
       <p>See Twentieth Century Fund, Stock Market Control 114-118 (1934).</p>
       <p>[Footnote 2/10]</p>
       <p>Baumhart, How Ethical Are Businessmen?, Harv.Bus.Rev. July Aug.1961, p. 6, at 16. The survey had posed the following hypothetical:</p>
-      <p>"What would you do if . . . , as a director of a large corporation, you learned at a board meeting of an impending merger with a smaller company? Suppose this company has had an unprofitable year, and its stock is selling at a price so low that you are certain it will rise when news of the merger becomes public knowledge."</p>
+      <p>"What would you do if . . ., as a director of a large corporation, you learned at a board meeting of an impending merger with a smaller company? Suppose this company has had an unprofitable year, and its stock is selling at a price so low that you are certain it will rise when news of the merger becomes public knowledge."</p>
       <p>Id. at 7.</p>
       <p>[Footnote 2/11]</p>
       <p>Such an inquiry might well be extensive. The following commentary, aimed at the Court of Appeals decision below, applies with equal force to the majority's approach:</p>
@@ -216,7 +216,7 @@
       <p>"What facts? What of separate sales to the same vendee? How separate must the parties be -- different companies, different corporations, different entities? Must there be an interval between the sales? How long? If Emerson is to be followed, would the question be not so much how discreet [sic] the sales are as how discreet counsel has been? The inquiry seems to lead away from the legislative intent that all potential violators be held to the full sanctions of section 16(b)."</p>
       <p>Recent Decisions, 5 Ga.L.Rev. 584, 590 (footnote omitted).</p>
       <p>[Footnote 2/12]</p>
-      <p>Such a presumption is not a novel suggestion in the interpretation of securities legislation. The Securities Act of 1933, 48 Stat. 74, as amended, 15 U.S.C. § 77a et seq., for example, requires that public securities offerings be registered with the SEC. § 5, 15 U.S.C. § 77e. But registration is not required of stock sold in a so-called "private placement." § 4(2) , 15 U.S.C. § 77d(2). The purchaser of such stock, however, cannot avoid the registration requirements when he resells it unless his original purchase was not made "with a view to . . . distribution." § 2(11), 15 U.S.C. § 77b(11). The difficulties inherent in determining this elusive "view," see 1 L. Loss, Securities Regulation 665-687 (2d ed.1961), have prompted the suggestion that there be a rebuttable presumption that a sale made within two years of purchase indicates the original purchase was made with a view to distribution. 4 id. at 2652 (Supplement to 2d ed.1969); see also The Wheat Report, Disclosure to Investors 165 (CCH 1969).</p>
+      <p>Such a presumption is not a novel suggestion in the interpretation of securities legislation. The Securities Act of 1933, 48 Stat. 74, as amended, 15 U.S.C. § 77a et seq., for example, requires that public securities offerings be registered with the SEC. § 5, 15 U.S.C. § 77e. But registration is not required of stock sold in a so-called "private placement." § 4(2), 15 U.S.C. § 77d(2). The purchaser of such stock, however, cannot avoid the registration requirements when he resells it unless his original purchase was not made "with a view to . . . distribution." § 2(11), 15 U.S.C. § 77b(11). The difficulties inherent in determining this elusive "view," see 1 L. Loss, Securities Regulation 665-687 (2d ed.1961), have prompted the suggestion that there be a rebuttable presumption that a sale made within two years of purchase indicates the original purchase was made with a view to distribution. 4 id. at 2652 (Supplement to 2d ed.1969); see also The Wheat Report, Disclosure to Investors 165 (CCH 1969).</p>
       <p>A similar rebuttable presumption applies in the case of a "controlling person" (as defined in Rule 405, 17 CFR § 230.405(f)). Such a person need not register his sales under the 1933 Act if, in any six-month period, they amount to no more than 1% of the issuer's outstanding stock. Rule 154, 17 CFR § 230.154. But,</p>
       <p>"if a plan exists to effect a series of sales during successive 6 months' periods, such sales cannot be considered in the category of routine trades, but must be deemed a distribution not exempted by the rule."</p>
       <p>Securities Act Release No. 4818, 31 Fed.Reg. 2545 (1966).</p>

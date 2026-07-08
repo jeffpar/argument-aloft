@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us408-0471.html" citation="408 U.S. 471" title="Morrissey v. Brewer">
   <opinion type="Opinions &amp; Dissents">
     <n id="p471">471</n>
-    <h>U.S. Supreme Court</h>
-    <h>Morrissey v. Brewer, <a href="./us408-0471.xml#p471">408 U.S. 471</a> (1972)</h>
-    <h>Morrissey v. Brewer</h>
-    <h>No. 71-5103</h>
-    <h>Argued April 11, 1972</h>
-    <h>Decided June 29, 1972</h>
-    <h><a href="./us408-0471.xml#p471">408 U.S. 471</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE EIGHTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Morrissey v. Brewer, <a href="./us408-0471.xml#p471">408 U.S. 471</a> (1972)</h1>
+    <h2>Morrissey v. Brewer</h2>
+    <h2>No. 71-5103</h2>
+    <h4>Argued April 11, 1972</h4>
+    <h4>Decided June 29, 1972</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE EIGHTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioners in these habeas corpus proceedings claimed that their paroles were revoked without a hearing and that they were thereby deprived of due process. The Court of Appeals, in affirming the District Court's denial of relief, reasoned that, under controlling authorities, parole is only "a correctional device authorizing service of sentence outside a penitentiary," and concluded that a parolee, who is still "in custody," is not entitled to a full adversary hearing such as would be mandated in a criminal proceeding.</p>
     <p>Held:</p>
     <p>1. Though parole revocation does not call for the full panoply of rights due a defendant in a criminal proceeding, a parolee's liberty involves significant values within the protection of the Due Process Clause of the Fourteenth Amendment, and termination of that liberty requires an informal hearing to give assurance that the finding of a parole violation is based on verified facts to support the revocation. Pp. <a href="./us408-0471.xml#p480">408 U. S. 480</a>-482.</p>
@@ -41,7 +41,7 @@
     <n id="p477">477</n>
     <p>and that neither of the petitioners was among the three who denied them.</p>
     <p>We must therefore treat this case in the posture and on the record respondents elected to rely on in the District Court and the Court of Appeals. If the facts are otherwise, respondents may make a showing in the District Court that petitioners in fact, have admitted the violations charged before a neutral officer.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Before reaching the issue of whether due process applies to the parole system, it is important to recall the function of parole in the correctional process.</p>
     <p>During the past 60 years, the practice of releasing prisoners on parole before the end of their sentences has become an integral part of the penological system. Note, Parole Revocation in the Federal System, 56 Geo.L.J. 705 (1968). Rather than being an ad hoc exercise of clemency, parole is an established variation on imprisonment of convicted criminals. Its purpose is to help individuals reintegrate into society as constructive individuals as soon as they are able, without being confined for the full term of the sentence imposed. It also serves to alleviate the costs to society of keeping an individual in prison. [<a id="nf2" href="#fn2">Footnote 2</a>] The essence of parole is release from prison, before the completion of sentence, on the condition that the prisoner abide by certain rules during the balance of the sentence. Under some systems, parole is granted automatically after the service of a certain portion of a prison term. Under others, parole is granted by the discretionary action of a board, which evaluates an array of information about a prisoner</p>
     <n id="p478">478</n>
@@ -54,7 +54,7 @@
     <p>Implicit in the system's concern with parole violation is the notion that the parolee is entitled to retain his liberty as long as he substantially abides by the conditions of his parole. The first step in a revocation decision thus involves a wholly retrospective factual question: whether the parolee has in fact, acted in violation of one or more conditions of his parole. Only if it is determined that</p>
     <n id="p480">480</n>
     <p>the parolee did violate the conditions does the second question arise: should the parolee be recommitted to prison, or should other steps be taken to protect society and improve chances of rehabilitation? The first step is relatively simple; the second is more complex. The second question involves the application of expertise by the parole authority in making a prediction as to the ability of the individual to live in society without committing antisocial acts. This part of the decision, too, depends on facts, and therefore it is important for the board to know not only that some violation was committed, but also to know accurately how many and how serious the violations were. Yet this second step, deciding what to do about the violation once it is identified, is not purely factual, but also predictive and discretionary. If a parolee is returned to prison, he usually receives no credit for the time "served" on parole. [<a id="nf7" href="#fn7">Footnote 7</a>] Thus, the returnee may face a potential of substantial imprisonment.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>We begin with the proposition that the revocation of parole is not part of a criminal prosecution, and thus the full panoply of rights due a defendant in such a proceeding does not apply to parole revocations. Cf. Mempa v. Rhay, <a href="../us389/us389-0128.xml#p128">389 U. S. 128</a> (1967). Parole arises after the end of the criminal prosecution, including imposition of sentence. Supervision is not directly by the court, but by an administrative agency, which is sometimes an arm of the court and sometimes of the executive. Revocation deprives an individual not of the absolute liberty to which every citizen is entitled, but only of the conditional liberty properly dependent on observance of special parole restrictions.</p>
     <n id="p481">481</n>
     <p>We turn, therefore, to the question whether the requirements of due process in general apply to parole revocations. As MR. JUSTICE BLACKMUN has written recently,</p>
@@ -73,7 +73,7 @@
     <n id="p484">484</n>
     <p>the conditions of parole. The parolee is not the only one who has a stake in his conditional liberty. Society has a stake in whatever may be the chance of restoring him to normal and useful life within the law. Society thus has an interest in not having parole revoked because of erroneous information or because of an erroneous evaluation of the need to revoke parole, given the breach of parole conditions. See People ex rel. Menechino v. Warden, 27 N.Y.2d 376, 379, and n. 2, 267 N.E.2d 238, 239, and n. 2 (1971) (parole board had less than full picture of facts). And society has a further interest in treating the parolee with basic fairness: fair treatment in parole revocations will enhance the chance of rehabilitation by avoiding reactions to arbitrariness. [<a id="nf11" href="#fn11">Footnote 11</a>]</p>
     <p>Given these factors, most States have recognized that there is no interest on the part of the State in revoking parole without any procedural guarantees at all. [<a id="nf12" href="#fn12">Footnote 12</a>] What is needed is an informal hearing structured to assure that the finding of a parole violation will be based on verified facts, and that the exercise of discretion will be informed by an accurate knowledge of the parolee's behavior.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>We now turn to the nature of the process that is due, bearing in mind that the interest of both State and</p>
     <n id="p485">485</n>
     <p>parolee will be furthered by an effective but informal hearing. In analyzing what is due, we see two important stages in the typical process of parole revocation.</p>

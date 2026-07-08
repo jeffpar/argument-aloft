@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us471-0462.html" citation="471 U.S. 462" title="Burger King Corp. v. Rudzewicz">
   <opinion type="Opinions &amp; Dissents">
     <n id="p462">462</n>
-    <h>U.S. Supreme Court</h>
-    <h>Burger King Corp. v. Rudzewicz, <a href="./us471-0462.xml#p462">471 U.S. 462</a> (1985)</h>
-    <h>Burger King Corp. v. Rudzewicz</h>
-    <h>No. 83-2097</h>
-    <h>Argued January 8, 1985</h>
-    <h>Decided May 20, 1985</h>
-    <h><a href="./us471-0462.xml#p462">471 U.S. 462</a></h>
-    <h>APPEAL FROM THE UNITED STATES COURT OF APPEALS FOR THE</h>
-    <h>ELEVENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Burger King Corp. v. Rudzewicz, <a href="./us471-0462.xml#p462">471 U.S. 462</a> (1985)</h1>
+    <h2>Burger King Corp. v. Rudzewicz</h2>
+    <h4>No. 83-2097</h4>
+    <h4>Argued January 8, 1985</h4>
+    <h4>Decided May 20, 1985</h4>
+    <h2>APPEAL FROM THE UNITED STATES COURT OF APPEALS FOR THE</h2>
+    <h2>ELEVENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Appellant is a Florida corporation whose principal offices are in Miami. It conducts most of its restaurant business through a franchise operation, under which franchisees are licensed to use appellant's trademarks and service marks in leased standardized restaurant facilities for a period of 20 years. The governing contracts provide that the franchise relationship is established in Miami and governed by Florida law, and call for payment of all required monthly fees and forwarding of all relevant notices to the Miami headquarters. The Miami headquarters sets policy and works directly with the franchisees in attempting to resolve major problems. Day-to-day monitoring of franchisees, however, is conducted through district offices that, in turn, report to the Miami headquarters. Appellee is a Michigan resident who, along with another Michigan resident, entered into a 20-year franchise contract with appellant to operate a restaurant in Michigan. Subsequently, when the restaurant's patronage declined, the franchisees fell behind in their monthly payments. After extended negotiations among the franchisees, the Michigan district office, and the Miami headquarters proved unsuccessful in solving the problem, headquarters terminated the franchise and ordered the franchisees to vacate the premises. They refused, and continued to operate the restaurant. Appellant then brought a diversity action in Federal District Court in Florida, alleging that the franchisees had breached their franchise obligations and requesting damages and injunctive relief. The franchisees claimed that, because they were Michigan residents and because appellant's claim did not "arise" within Florida, the District Court lacked personal jurisdiction over them. But the court held that the franchisees were subject to personal jurisdiction pursuant to Florida's long-arm statute, which extends jurisdiction to any person, whether or not a citizen or resident of the State, who breaches a contract in the State by failing to perform acts that the contract requires to be performed there. Thereafter, the court entered judgment against the franchisees on the merits. The Court of Appeals reversed, holding that "[j]urisdiction under these circumstances would offend the fundamental fairness which is the touchstone of due process."</p>
     <p>Held: The District Court's exercise of jurisdiction pursuant to Florida's long-arm statute did not violate the Due Process Clause of the Fourteenth Amendment. Pp. <a href="./us471-0462.xml#p471">471 U. S. 471</a>-487.</p>
     <n id="p463">463</n>
@@ -24,7 +24,7 @@
     <p>The State of Florida's long-arm statute extends jurisdiction to "[a]ny person, whether or not a citizen or resident of this state," who, inter alia, "[b]reach[es] a contract in this state by failing to perform acts required by the contract to be performed in this state," so long as the cause of action</p>
     <n id="p464">464</n>
     <p>arises from the alleged contractual breach. Fla.Stat. § 48.193 (1)(g) (Supp.1984). The United States District Court for the Southern District of Florida, sitting in diversity, relied on this provision in exercising personal jurisdiction over a Michigan resident who allegedly had breached a franchise agreement with a Florida corporation by failing to make required payments in Florida. The question presented is whether this exercise of long-arm jurisdiction offended "traditional conception[s] of fair play and substantial justice" embodied in the Due Process Clause of the Fourteenth Amendment. International Shoe Co. v. Washington, <a href="../us326/us326-0310.xml#p310">326 U. S. 310</a>, 320 (1945).</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>A</p>
     <p>Burger King Corporation is a Florida corporation whose principal offices are in Miami. It is one of the world's largest restaurant organizations, with over 3,000 outlets in the 50 States, the Commonwealth of Puerto Rico, and 8 foreign nations. Burger King conducts approximately 80% of its business through a franchise operation that the company styles the "Burger King System" -- "a comprehensive restaurant format and operating system for the sale of uniform and quality food products." App. 46. [<a id="nf1" href="#fn1">Footnote 1</a>] Burger King licenses its franchisees to use its trademarks and service marks for a period of 20 years, and leases standardized restaurant facilities to them for the same term. In addition, franchisees acquire a variety of proprietary information concerning the "standards, specifications, procedures and methods for operating</p>
     <n id="p465">465</n>
@@ -56,7 +56,7 @@
     <p>Burger King appealed the Eleventh Circuit's judgment to this Court pursuant to 28 U.S.C. § 1254(2), and we postponed probable jurisdiction. 469 U.S. 814 (1984). Because it is unclear whether the Eleventh Circuit actually held that Fla.Stat. § 48.193(1)(g) (Supp.1984) itself is unconstitutional as applied to the circumstances of this case, we conclude that jurisdiction by appeal does not properly lie, and therefore dismiss the appeal. [<a id="nf12" href="#fn12">Footnote 12</a>] Treating the jurisdictional</p>
     <n id="p471">471</n>
     <p>statement as a petition for a writ of certiorari, see 28 U.S.C. § 2103, we grant the petition, and now reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>A</p>
     <p>The Due Process Clause protects an individual's liberty interest in not being subject to the binding judgments of a</p>
     <n id="p472">472</n>
@@ -117,7 +117,7 @@
     <p>Anderson v. Bessemer City, <a href="../us470/us470-0564.xml#p564">470 U. S. 564</a>, <a href="../us470/us470-0564.xml#p573">470 U. S. 573</a>-576 (1985). To the contrary, Rudzewicz was represented by counsel throughout these complex transactions and, as Judge Johnson observed in dissent below, was himself an experienced accountant</p>
     <p>"who for five months conducted negotiations with Burger King over the terms of the franchise and lease agreements, and who obligated himself personally to contracts requiring over time payments that exceeded $1 million."</p>
     <p>724 F.2d at 1514. Rudzewicz was able to secure a modest reduction in rent and other concessions from Miami headquarters, see nn. <a id="nf8" href="#fn8">8</a> <a id="nf9" href="#fn9">9</a> supra; moreover, to the extent that Burger King's terms were inflexible, Rudzewicz presumably decided that the advantages of affiliating with a national organization provided sufficient commercial benefits to offset the detriments.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Notwithstanding these considerations, the Court of Appeals apparently believed that it was necessary to reject jurisdiction in this case as a prophylactic measure, reasoning that an affirmance of the District Court's judgment would result in the exercise of jurisdiction over "out-of-state consumers to collect payments due on modest personal purchases" and would "sow the seeds of default judgments against franchisees owing smaller debts." 724 F.2d at 1511. We share the Court of Appeals' broader concerns, and therefore reject any talismanic jurisdictional formulas; "the</p>
     <n id="p486">486</n>
     <p>facts of each case must [always] be weighed" in determining whether personal jurisdiction would comport with "fair play and substantial justice." [<a id="nf28" href="#fn28">Footnote 28</a>] Kulko v. California Superior Court, 436 U.S. at <a href="../us436/us436-0084.xml#p92">436 U. S. 92</a>. [<a id="nf29" href="#fn29">Footnote 29</a>] The "quality and nature" of an interstate transaction may sometimes be so "random," "fortuitous," or "attenuated" [<a id="nf30" href="#fn30">Footnote 30</a>] that it cannot fairly be said that the potential defendant "should reasonably anticipate being haled into court" in another jurisdiction. World-Wide Volkswagen Corp. v. Woodson, 444 U.S. at <a href="../us444/us444-0286.xml#p297">444 U. S. 297</a>; see also <a id="nf18" href="#fn18">n</a> 18, supra. We also have emphasized that jurisdiction may not be grounded on a contract whose terms have been obtained through "fraud, undue influence, or overweening bargaining power," and whose application would render litigation "so gravely difficult and inconvenient that [a party] will for all practical purposes be deprived of his day in court." The Bremen v. Zapata Off-Shore Co., 407 U.S. at <a href="../us407/us407-0001.xml#p12">407 U. S. 12</a>, <a href="../us407/us407-0001.xml#p18">407 U. S. 18</a>. Cf. Fuentes v. Shevin, <a href="../us407/us407-0067.xml#p67">407 U. S. 67</a>, <a href="../us407/us407-0067.xml#p94">407 U. S. 94</a>-96 (1972); National Equipment Rental, Ltd. v. Szukhent, <a href="../us375/us375-0311.xml#p311">375 U. S. 311</a>, <a href="../us375/us375-0311.xml#p329">375 U. S. 329</a> (1964) (Black, J., dissenting) (jurisdictional rules may not be employed against small consumers so as to "crippl[e] their defense"). Just as the Due Process Clause allows flexibility in ensuring that commercial actors are not effectively "judgment proof" for the consequences of obligations they voluntarily assume in other States, McGee v. International Life Insurance Co., 355 U.S. at <a href="../us355/us355-0220.xml#p223">355 U. S. 223</a>, so too does it prevent rules that would unfairly enable them to obtain default judgments against unwitting customers. Cf. United States v. Rumely, <a href="../us345/us345-0041.xml#p41">345 U. S. 41</a>, <a href="../us345/us345-0041.xml#p44">345 U. S. 44</a> (1953) (courts must not be "blind'" to what "`[a]ll others can see and understand'").</p>

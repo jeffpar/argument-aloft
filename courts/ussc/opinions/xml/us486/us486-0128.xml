@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us486-0128.html" citation="486 U.S. 128" title="McLaughlin v. Richland Shoe Co.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p128">128</n>
-    <h>U.S. Supreme Court</h>
-    <h>McLaughlin v. Richland Shoe Co., <a href="./us486-0128.xml#p128">486 U.S. 128</a> (1988)</h>
-    <h>McLaughlin v. Richland Shoe Co.</h>
-    <h>No. 86-1520</h>
-    <h>Argued February 24, 1988</h>
-    <h>Decided May 16, 1988</h>
-    <h><a href="./us486-0128.xml#p128">486 U.S. 128</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE THIRD CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>McLaughlin v. Richland Shoe Co., <a href="./us486-0128.xml#p128">486 U.S. 128</a> (1988)</h1>
+    <h2>McLaughlin v. Richland Shoe Co.</h2>
+    <h2>No. 86-1520</h2>
+    <h4>Argued February 24, 1988</h4>
+    <h4>Decided May 16, 1988</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE THIRD CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>The Fair Labor Standards Act (FLSA) requires that a civil enforcement action be commenced within two years after the cause of action accrued, except that a cause of action arising out of a "willful" violation may be commenced within three years. In the Secretary of Labor's enforcement action based on respondent's alleged failure to pay overtime compensation required by the FLSA, the District Court rejected respondent's claim that the 2-year statute of limitations applied, finding the 3-year exception applicable under the standard of Coleman v. Jiffy June Farms, Inc., 458 F.2d 1139, whereby an action is "willful" if there is substantial evidence that the employer "knew or suspected that his actions might violate the FLSA," i.e., if he merely knew that the FLSA was "in the picture." Vacating the judgment against respondent and remanding, the Court of Appeals rejected the Jiffy June standard in favor of the test employed in Trans World Airlines, Inc. v. Thurston, <a href="../us469/us469-0111.xml#p111">469 U. S. 111</a>.</p>
     <p>Held: The standard of willfulness adopted in Thurston -- that the employer either knew or showed reckless disregard as to whether its conduct was prohibited by the FLSA -- must be satisfied in order for the 3-year statute of limitations to apply. This standard represents a fair reading of the Act's plain language, since it comports with the general understanding that the word "willful" refers to conduct that is "voluntary," "deliberate," or "intentional," and not merely negligent. In contrast, the statute's plain language does not support the Jiffy June standard, which effectively limits the normal 2-year statute of limitations to employers who are unaware of the FLSA and its potential applicability, and thereby virtually obliterates the distinction between willful and nonwillful violations which Congress obviously intended to draw. Also rejected is the alternative, two-step standard espoused by the Secretary, whereby an FLSA violation would be deemed "willful"</p>
     <p>"if the employer, recognizing it might be covered by the FLSA, acted without a reasonable basis for believing that it was complying with the statute."</p>
@@ -22,7 +22,7 @@
     <p>STEVENS J., delivered the opinion of the Court, in which REHNQUIST, C.J., and WHITE, O'CONNOR, SCALIA, and KENNEDY, JJ., joined. MARSHALL, J., filed a dissenting opinion, in which BRENNAN and BLACKMUN, JJ., joined, post, p. <a href="./us486-0128.xml#p135">486 U. S. 135</a>.</p>
     <p>JUSTICE STEVENS delivered the opinion of the Court.</p>
     <p>The question presented concerns the meaning of the word "willful" as used in the statute of limitations applicable to civil actions to enforce the Fair Labor Standards Act (FLSA). The statute provides that such actions must be commenced within two years "except that a cause of action arising out of a willful violation may be commenced within three years after the cause of action accrued." 61 Stat. 88, 29 U.S.C. § 255(a).</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Respondent, a manufacturer of shoes and boots, employed seven mechanics to maintain and repair its equipment. In 1984, the Secretary of Labor (Secretary) filed a complaint alleging that, "in many work weeks," respondent had failed to pay those employees the overtime compensation required by the FLSA. As an affirmative defense, respondent pleaded the 2-year statute of limitations. The District Court found, however, that the 3-year exception applied because respondent's violations were willful, and entered judgment requiring</p>
     <n id="p130">130</n>
     <p>respondent to pay a total of $11,084.26, plus interest, to the seven employees. Donovan v. Richland Shoe Co., <a href="https://law.justia.com/cases/federal/district-courts/FSupp/623/667/1514551/">623 F. Supp. 667</a> (ED Pa.1985).</p>
@@ -38,7 +38,7 @@
     <n id="p131">131</n>
     <p>the District Court's judgment and remanded the case for reconsideration under the proper standard.</p>
     <p>The Secretary filed a petition for certiorari asking us to resolve the post-Thurston conflict among the Circuits concerning the meaning of the word "willful" in this statute. [<a id="nf1" href="#fn1">Footnote 1</a>] The petition noted that the statute applies not only to actions to enforce the overtime and recordkeeping provisions of the FLSA, but also to the Equal Pay Act, [<a id="nf2" href="#fn2">Footnote 2</a>] the Davis-Bacon Act, [<a id="nf3" href="#fn3">Footnote 3</a>] the Walsh-Healey Act, [<a id="nf4" href="#fn4">Footnote 4</a>] and the Age Discrimination in Employment Act (ADEA). [<a id="nf5" href="#fn5">Footnote 5</a>] Somewhat surprisingly, the petition did not endorse the Jiffy June standard that the Secretary had relied on in the District Court and the Court of Appeals, but instead invited us to adopt an intermediate standard. We granted certiorari, 484 U.S. 813 (1987), and now affirm.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Because no limitations period was provided in the original 1938 enactment of the FLSA, civil actions brought thereunder were governed by state statutes of limitations. In the Portal-to-Portal Act of 1947, 61 Stat. 84, 29 U.S.C. §§ 216, 251-262, however, as part of its response to this Court's expansive</p>
     <n id="p132">132</n>
     <p>reading of the FLSA, [<a id="nf6" href="#fn6">Footnote 6</a>] Congress enacted the 2-year statute to place a limit on employers' exposure to unanticipated contingent liabilities. [<a id="nf7" href="#fn7">Footnote 7</a>] As originally enacted, the 2-year limitations period drew no distinction between willful and nonwillful violations.</p>

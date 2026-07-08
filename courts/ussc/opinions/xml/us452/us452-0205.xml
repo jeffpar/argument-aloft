@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us452-0205.html" citation="452 U.S. 205" title="Anderson Bros. Ford v. Valencia">
   <opinion type="Opinions &amp; Dissents">
     <n id="p205">205</n>
-    <h>U.S. Supreme Court</h>
-    <h>Anderson Bros. Ford v. Valencia, <a href="./us452-0205.xml#p205">452 U.S. 205</a> (1981)</h>
-    <h>Anderson Bros. Ford v. Valencia</h>
-    <h>No. 80-84</h>
-    <h>Argued March 23, 1981</h>
-    <h>Decided June 8, 1981</h>
-    <h><a href="./us452-0205.xml#p205">452 U.S. 205</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE SEVENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Anderson Bros. Ford v. Valencia, <a href="./us452-0205.xml#p205">452 U.S. 205</a> (1981)</h1>
+    <h2>Anderson Bros. Ford v. Valencia</h2>
+    <h2>No. 80-84</h2>
+    <h4>Argued March 23, 1981</h4>
+    <h4>Decided June 8, 1981</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE SEVENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Section 128(a)(10) of the Truth in Lending Act (TILA) provides that in connection with closed-end consumer credit transactions, the creditor must disclose</p>
     <p>"any security interest held or to be retained or acquired by the creditor in connection with the extension of credit, and a clear identification of the property to which the security interest relates."</p>
     <p>Regulation Z of the Federal Reserve Board (Board), promulgated pursuant to the Board's authority under the TILA, essentially repeats the statute's disclosure requirement, defines "security interest" and "security" as "any interest in property which secures payment or performance of an obligation," and sets forth a nonexhaustive list of interests included in the terms. In 1977, respondents purchased an automobile from petitioner dealer under a retail installment contract that was assigned to petitioner Ford Motor Credit Co. A provision on the face of the contract disclosed that the seller retained a security interest in the automobile, but did not refer to a provision on the back of the contract whereby the buyers, who were required to purchase physical damage insurance on the automobile protecting the interests of both the buyers and the seller, assigned to the seller any unearned insurance premiums that might be returned if the policy were canceled. Before making any payments on the contract or the insurance policy, respondents returned the automobile to the dealer and filed suit in federal court, alleging that the contract violated the TILA for failure to disclose on its face that the seller had acquired a "security interest" in unearned insurance premiums, and seeking statutory damages, attorney's fees, and costs. The District Court granted summary judgment for respondents, holding that the assignment of unearned insurance premiums created a "security interest" within the meaning of § 128(a)(10), and the Court of Appeals affirmed.</p>
@@ -25,7 +25,7 @@
     <n id="p207">207</n>
     <p>JUSTICE WHITE delivered the opinion of the Court.</p>
     <p>The issue presented in this case is whether an assignment of certain unearned insurance premiums created a "security interest" that should have been disclosed pursuant to the Truth in Lending Act (TILA), 82 Stat. 146, as amended, 15 U.S.C. § 1601 et seq. [<a id="nf1" href="#fn1">Footnote 1</a>]</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In September, 1977, respondents purchased an automobile from petitioner Anderson Bros. Ford. They signed the dealer's standard automobile retail installment contract. This contract was assigned for value to petitioner Ford Motor Credit Co. A provision on the face of the contract disclosed that the seller retained a security interest in the automobile. [<a id="nf2" href="#fn2">Footnote 2</a>] A provision on the back of the contract stated that the buyer was required to purchase and maintain physical damage insurance on the automobile, "protecting the interests of Buyer and Seller," and further stated:</p>
     <p>"Buyer hereby assigns to Seller any monies payable under such insurance, by whomever obtained, including returned or unearned premiums, and Seller hereby is authorized on behalf of both Buyer and Seller to receive or collect same, to endorse checks or drafts in payment thereof, to cancel such insurance or to release or settle any claim with respect thereto. The proceeds from such insurance, by whomever obtained, shall be applied toward replacement of the Property or payment of the indebtedness hereunder in the sole discretion of Seller. "</p>
     <n id="p208">208</n>
@@ -45,7 +45,7 @@
     <p>12 CFR § 226.2(gg) (1980). The Court of Appeals concluded that the assignment of unearned insurance premiums created an "interest in property which secure[d] payment or performance of an obligation" within the meaning of Regulation Z, and thus created a "security interest" that must be disclosed under § 18(a)(10). The Court of Appeals accordingly affirmed the judgment below. [<a id="nf8" href="#fn8">Footnote 8</a>]</p>
     <n id="p211">211</n>
     <p>We granted certiorari to settle whether such an assignment of unearned insurance premiums must be disclosed as a "security interest" under the TILA. [<a id="nf9" href="#fn9">Footnote 9</a>] 449 U.S. 981 (1980). We reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Although the Court of Appeals' construction of the Act and of Regulation Z is shared by three of the four other Courts of Appeals that have ruled on the question, [<a id="nf10" href="#fn10">Footnote 10</a>] this view, which is essentially a claim that the plain language of the statute and the regulation requires the result reached by</p>
     <n id="p212">212</n>
     <p>the court below, has recently been challenged on several fronts. First, based in part on the legislative history of the 1980 amendments to the TILA, see infra at <a href="./us452-0205.xml#p218">452 U. S. 218</a>-219, the Court of Appeals for the Tenth Circuit has concluded that the meaning of the term "security interest," as used in the TILA, is not so plain, and has held that the creditor's interest in unearned insurance premiums need not be disclosed as a security interest under either the statute or Regulation Z. James v. Ford Motor Credit Co., 638 F.2d 147 (1980).</p>
@@ -85,7 +85,7 @@
     <n id="p219">219</n>
     <p>case is Gennuso v. Commercial Bank and Trust Co., 455 F. Supp. 461 (W.D.Pa.1976); 566 F.2d 437, (3rd Cir.1977), which required the creditor's right in property insurance proceeds and unearned property insurance premiums to be disclosed as a 'security interest.' Although, as presently written, the law does not require that result, S. 108 should prevent such ludicrous interpretations by requiring merely a positive indication if a security interest is being taken in the property purchased and if it is in property not being purchased in the transaction, simply a general listing of the type of property without a listing of incidental related interests."</p>
     <p>125 Cong.Rec. 9160 (1979). With one exception not pertinent here, the Committee Chairman, Senator Proxmire, who was the sponsor of the TILA, agreed with these remarks. Id. at 9159, 9972. In light of these indications from the 1980 Act's history, it is unlikely that the courts would invalidate as contrary to the 1980 Act or the TILA either the security interest disclosure provisions with respect to unearned insurance premiums in revised Regulation Z or the interpretation of the unrevised regulation contained in FC-0173.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Of course, neither the legislative history of the 1980 Act nor the Board's construction of the term "security interest" under either the TILA or the 1980 Act conclusively establishes the meaning of these words in the TILA. But as we so plainly recognized in Ford Motor Credit Co. v. Milhollin, <a href="../us444/us444-0555.xml#p555">444 U. S. 555</a> (1980), absent some obvious repugnance to the statute, the Board's regulation implementing this legislation should be accepted by the courts, as should the Board's interpretation of its own regulation. We discern no such repugnance with any provision in the TILA.</p>
     <p>The purpose of the TILA is to promote the "informed use of credit" by consumers. 15 U.S.C. § 1601. See Ford</p>
     <n id="p220">220</n>
@@ -115,7 +115,7 @@
     </f>
     <f n="3"><a id="fn3" href="#nf3">Footnote 3</a>
       <p>Respondents contend that, under the contract provision quoted above, unearned insurance premiums could only be used to replace the automobile or to make payments on the buyer's debt. Petitioners assert that,</p>
-      <p>"[u]nder the assignment provision . . . , any unearned [insurance] premiums will be used to provide replacement insurance coverage or applied to the debt."</p>
+      <p>"[u]nder the assignment provision . . ., any unearned [insurance] premiums will be used to provide replacement insurance coverage or applied to the debt."</p>
       <p>Brief for Petitioners 4. The Court of Appeals stated that the unearned premiums "may be used to purchase replacement insurance coverage," citing petitioners' brief on appeal. 617 F.2d 1278, 1281 (CA7 1980). We need not resolve the proper interpretation of this contract provision to decide the issue before us.</p>
     </f>
     <f n="4"><a id="fn4" href="#nf4">Footnote 4</a>

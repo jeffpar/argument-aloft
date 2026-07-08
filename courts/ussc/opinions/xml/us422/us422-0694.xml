@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us422-0694.html" citation="422 U.S. 694" title="United States v. NASD, Inc.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p694">694</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. NASD, Inc., <a href="./us422-0694.xml#p694">422 U.S. 694</a> (1975)</h>
-    <h>United States v. National Association of Securities Dealers, Inc.</h>
-    <h>No. 73-1701</h>
-    <h>Argued March 17, 1975</h>
-    <h>Decided June 26, 1975</h>
-    <h><a href="./us422-0694.xml#p694">422 U.S. 694</a></h>
-    <h>APPEAL FROM THE UNITED STATES DISTRICT COURT</h>
-    <h>FOR THE DISTRICT OF COLUMBIA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. NASD, Inc., <a href="./us422-0694.xml#p694">422 U.S. 694</a> (1975)</h1>
+    <h2>United States v. National Association of Securities Dealers, Inc.</h2>
+    <h4>No. 73-1701</h4>
+    <h4>Argued March 17, 1975</h4>
+    <h4>Decided June 26, 1975</h4>
+    <h2>APPEAL FROM THE UNITED STATES DISTRICT COURT</h2>
+    <h2>FOR THE DISTRICT OF COLUMBIA</h2>
+    <h2>Syllabus</h2>
     <p>Section 22(d) of the Investment Company Act of 1940 provides that</p>
     <p>"no dealer shall sell [mutual fund shares] to any person except a dealer, a principal underwriter, or the issuer, except at a current public offering price described in the prospectus."</p>
     <p>Section 22(f) authorizes mutual funds to impose restrictions on the negotiability and transferability of shares, provided they conform with the fund's registration statement and do not contravene any rules and regulations that the Securities and Exchange Commission (SEC) may prescribe in the interests of the holders of all of the outstanding securities. Section 2(a)(6) defines a "broker" as a person engaged in the business of effecting transactions in securities for the account of others, and § 2(a)(11) defines a "dealer" as a person regularly engaged in the business of buying and selling securities for his own account. The Maloney Act of 1938 (§ 15A of the Securities Exchange Act of 1934) supplements the SEC's regulation of over-the-counter markets by providing a system of cooperative self-regulation through voluntary associations of brokers and dealers. The Government brought this action against appellee National Association of Securities Dealers (NASD), certain mutual funds, mutual fund underwriters, and broker-dealers, alleging that appellees, in violation of § 1 of the Sherman Act, combined and agreed to restrict the sale and fix the resale prices of mutual fund shares in secondary market transactions between dealers, from an investor to a dealer, and between investors through brokered transactions, and sought to enjoin such agreements. Count I of the complaint charged a horizontal combination and conspiracy among NASD's members to prevent the growth of a secondary dealer market in the purchase and sale of mutual fund shares, the Government contending that such count was not to be read as a direct attack on NASD rules, but on NASD's interpretations and appellees' extension of the rules so as to include a secondary market. Counts II-VIII alleged various vertical restrictions on secondary</p>
@@ -33,7 +33,7 @@
     <n id="p697">697</n>
     <p>Opinion of the Court by MR JUSTICE POWELL, announced by MR. JUSTICE BLACKMUN.</p>
     <p>This appeal requires the Court to determine the extent to which the regulatory authority conferred upon the Securities and Exchange Commission by the Maloney Act, 52 Stat. 1070, as amended, 15 U.S.C. § 78o-3, and the Investment Company Act of 1940, 54 Stat. 789, as amended, 15 U.S.C. § 80a-1 et seq., displaces the strong antitrust policy embodied in § 1 of the Sherman Act, 26 Stat. 209, as amended, 15 U.S.C. § 1. At issue is whether certain sales and distribution practices employed in marketing securities of open-end management companies, popularly referred to as "mutual funds," are immune from antitrust liability. We conclude that they are, and accordingly affirm the judgment of the District Court.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>An "investment company" invests in the securities of other corporations and issues securities of its own. [<a id="nf1" href="#fn1">Footnote 1</a>]</p>
     <n id="p698">698</n>
     <p>Shares in an investment company thus represent proportionate interests in its investment portfolio, and their value fluctuates in relation to the changes in the value of the securities it owns. The most common form of investment company, the "open end" company or mutual fund, is required by law to redeem its securities on demand at a price approximating their proportionate share of the fund's net asset value at the time of redemption. [<a id="nf2" href="#fn2">Footnote 2</a>] In order to avoid liquidation through redemption, mutual funds continuously issue and sell new shares. These features -- continuous and unlimited distribution and compulsory redemption -- are, as the Court recently recognized, "unique characteristic[s]" of this form of investment. United States v. Cartwright, <a href="../us411/us411-0546.xml#p546">411 U. S. 546</a>, <a href="../us411/us411-0546.xml#p547">411 U. S. 547</a> (1973).</p>
@@ -54,7 +54,7 @@
     <p>The position of the United States in this appeal can be summarized briefly. Noting that implied repeals of the antitrust laws are not favored, see, e.g., United States v. Philadelphia National Bank, <a href="../us374/us374-0321.xml#p321">374 U. S. 321</a>, <a href="../us374/us374-0321.xml#p348">374 U. S. 348</a> (1963), the United States urges that the antitrust immunity conferred by § 22 of the Investment Company</p>
     <n id="p704">704</n>
     <p>Act should not extend beyond its precise terms, none of which, it maintains, requires or authorizes the practices here challenged. The United States maintains, moreover, that the District Court expanded the limits of the implied immunity doctrine beyond those recognized by decisions of this Court. In response, appellees advance all of the positions relied on by the District Court. They are joined by the Securities and Exchange Commission (hereinafter SEC or Commission), which asserts as amicus curiae that the regulatory authority conferred upon it by § 22(f) of the Investment Company Act displaces § 1 of the Sherman Act. The SEC contends, therefore, that the District Court properly dismissed Counts II-VIII, but takes no position with respect to Count I.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>A</p>
     <p>The Investment Company Act of 1940 originated in congressional concern that the Securities Act of 1933, 48 Stat. 74, 15 U.S.C. § 77a et seq., and the Securities Exchange Act of 1934, 48 Stat. 881, 15 U.S.C. § 78a et seq., were inadequate to protect the purchasers of investment company securities. Thus, in § 30 of the Public Utility Holding Company Act, 49 Stat. 837, 15 U.S.C. § 79z-4, Congress directed the SEC to study the structures, practices, and problems of investment companies with a view toward proposing further legislation. Four years of intensive scrutiny of the industry culminated in the publication of the Investment Trust Study and the recommendation of legislation to rectify the problems and abuses it identified. After extensive congressional consideration, the Investment Company Act of 1940 was adopted.</p>
     <p>The Act vests in the SEC broad regulatory authority</p>
@@ -83,7 +83,7 @@
     <p>The issues presented in this litigation revolve around subsections (d) and (f) of § 22. Bearing in mind the history and purposes of the Investment Company Act, we now consider the effect of these subsections on the</p>
     <n id="p711">711</n>
     <p>question of potential antitrust liability for the practices here challenged.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Section 22(d) prohibits mutual funds from selling shares at other than the current public offering price to any person except either to or through a principal underwriter for distribution. It further commands that</p>
     <p>"no dealer shall sell [mutual fund shares] to any person except a dealer, a principal underwriter, or the issuer, except at a current public offering price described in the prospectus."</p>
     <p>15 U.S.C. § 80a-22(d). [<a id="nf20" href="#fn20">Footnote 20</a>] By its terms, § 22(d) excepts inter-dealer sales from its price maintenance requirement. Accordingly, this section cannot be relied upon by appellees as justification for the restrictions imposed upon inter-dealer transactions. At issue, rather, is the narrower question whether the § 22(d) price maintenance mandate for sales by "dealers" applies to transactions in which a broker-dealer acts as a statutory "broker", rather than a statutory "dealer." The District Court concluded that it does, and thus that § 22(d) governs transactions in which the broker-dealer acts as an agent for an investor as well as those in which he acts as a principal selling shares for his own account.</p>
@@ -121,7 +121,7 @@
     <p>We therefore hold that the price maintenance mandate of § 22(d) cannot be stretched beyond its literal terms to encompass transactions by broker-dealers acting as statutory "brokers." Congress defined the limitations for the mandatory price maintenance requirement of the Investment Company Act.</p>
     <p>"We are not only bound by those limitations, but we are bound to construe them strictly, since resale price maintenance is a privilege restrictive of a free economy."</p>
     <p>United States v. McKesson &amp; Robbins, <a href="../us351/us351-0305.xml#p305">351 U. S. 305</a>, <a href="../us351/us351-0305.xml#p316">351 U. S. 316</a> (1956). Accordingly, we hold that the District Court erred in relying on § 22(d) in determining that the activities here questioned are immune from antitrust liability.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>Our determination that the restrictions on the secondary market are not immunized by § 22(d) does not end the inquiry, for the District Court also found them sheltered from antitrust liability by § 22(f). Appellees, joined by the SEC, defend this ruling and urge that it requires dismissal of the challenge to the vertical restrictions sought to be enjoined in Counts II-VIII.</p>
     <p>Section 22(f) authorizes mutual funds to impose</p>
     <n id="p721">721</n>
@@ -157,7 +157,7 @@
     <p>The SEC, the federal agency responsible for regulating the conduct of the mutual fund industry, urges that its authority will be compromised seriously if these agreements are deemed actionable under the Sherman Act. [<a id="nf41" href="#fn41">Footnote 41</a>] We agree. There can be no reconciliation of its authority under § 22(f) to permit these and similar restrictive agreements with the Sherman Act's declaration that they are illegal per se. In this instance, the antitrust laws must give way if the regulatory scheme established</p>
     <n id="p730">730</n>
     <p>by the Investment Company Act is to work. Silver v. New York Stock Exchange, <a href="../us373/us373-0341.xml#p341">373 U. S. 341</a> (1963). We conclude, therefore, that such agreements are not actionable under the Sherman Act, and that the District Court properly dismissed Counts II-VIII.</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>It remains to be determined whether the District Court properly dismissed Count I of the Government's complaint, which charged activities allegedly constituting a horizontal conspiracy between the NASD and its members to "prevent the growth of a secondary dealer market and a brokerage market in the purchase and sale of mutual fund shares." App. 9.</p>
     <p>The precise nature of the allegations of the complaint are obscured by subsequent concessions made by the Government to the District Court and reiterated here. It is clear, however, that Count I alleges activities that are neither required by § 22(d) nor authorized under § 22(f). And since they cannot find antitrust shelter in these provisions of the Investment Company Act, the question presented is whether the SEC's exercise of regulatory authority under this statute and the Maloney Act is sufficiently pervasive to confer an implied immunity. We hold that it is, and accordingly affirm the District Court's dismissal of this portion of the complaint.</p>
     <p>Count I originally appeared to be a general attack on the NASD's role in encouraging the restrictions on secondary market activities challenged in the remainder of the Government's complaint. The acts charged in Count I focused in large part on NASD rules, and on information distributed by that association to its members. [<a id="nf42" href="#fn42">Footnote 42</a>]</p>
@@ -365,7 +365,7 @@
       <p>Although I do not disagree with much of the Court's opinion in its construction of §§ 22(d) and (f) of the</p>
       <n id="p736">736</n>
       <p>Investment Company Act, 54 Stat. 824, as amended, 15 U.S.C. §§ 80a-22(d) and (f), its ultimate holding, which, in contrast to the earlier portions of its opinion, is devoid of detailed discussion of the applicable law, I find unacceptable. Under that holding, in light of the context of this case, implied antitrust immunity becomes the rule where a regulatory agency has authority to approve business conduct whether or not the agency is directed to consider antitrust factors in making its regulatory decisions and whether or not there is other evidence that Congress intended to displace judicial with administrative antitrust enforcement.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>If Congress itself expressly permits or directs particular private conduct that would otherwise violate the antitrust laws, it can be safely assumed that Congress has made the necessary policy choices and preferred to permit, rather than to prevent, the acts in question. There is no dispute in this case, for example, that compliance with § 22(d)'s requirement that open-end funds and dealers sell at the public offering price is not subject to attack under the antitrust laws.</p>
       <p>It also happens that, in subjecting areas of commercial activity to regulation, Congress frequently authorizes a regulatory agency to approve certain kinds of transactions if they conform to the appropriate regulatory standard such as the "public interest" or the "public convenience and necessity" and correspondingly provides that, when approved, those transactions will be immune from attack under the antitrust laws. Section 414 of the Federal Aviation Act of 1958, 72 Stat. 770, 49 U.S.C. § 1384, for example, provides that any person affected by an order issued under §§ 408, 409, or 412 of that Act, 49 U.S.C. §§ 1378, 1379, 1382, is "relieved from the</p>
       <n id="p737">737</n>
@@ -397,7 +397,7 @@
       <p>The rule of law that should be applied in this case, therefore, as it comes to us from these precedents, is that, absent an express antitrust immunization conferred</p>
       <n id="p743">743</n>
       <p>by Congress in a statute, such an immunity can be implied only if Congress has clearly supplanted the antitrust laws and their model of competition with a differing competitive regime, defined by particularized competitive standards and enforced by an administrative agency, and has thereby purged an otherwise obvious antitrust violation of its illegality. When viewed in the light of this rule of law, the argument for implied immunity in this case becomes demonstrably untenable.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>Section 22(f) of the Investment Company Act provides that</p>
       <p>"[n]o registered open-end company shall restrict the transferability or negotiability of any security of which it is the issuer except in conformity with the statements with respect thereto contained in its registration statement nor in contravention of such rules and regulations as the Commission may prescribe in the interests of the holders of all of the outstanding securities of such investment company."</p>
       <p>The majority concludes from these words and their sparse legislative history that the "funds and the SEC" have the authority to impose "SEC-approved restrictions on transferability and negotiability," ante at <a href="./us422-0694.xml#p724">422 U. S. 724</a>, <a href="./us422-0694.xml#p725">422 U. S. 725</a>, including the restrictions involved here effecting resale price maintenance and concerted refusals to deal, all aimed at stifling competition that might come from the secondary market. The majority concludes that "[t]here can be no reconciliation of [SEC] authority . . . to permit these and similar restrictive agreements" with their illegality under the Sherman Act, and that, therefore, "the antitrust laws must give way if the regulatory scheme established by the Investment Company Act is to work." Ante at <a href="./us422-0694.xml#p729">422 U. S. 729</a>, <a href="./us422-0694.xml#p730">422 U. S. 730</a>.</p>
@@ -420,7 +420,7 @@
       <n id="p747">747</n>
       <p>341 (1963); Pan American World Airways, Inc. v. United States, <a href="https://law.justia.com/us/371/296/">371 U. S. 296</a> (1963); California v. FPC, <a href="https://law.justia.com/us/369/482/">369 U. S. 482</a> (1962); United States v. Borden Co., <a href="https://law.justia.com/us/308/188/">308 U. S. 188</a> (1939). This principle has led us to construe the Shipping Act as conferring only a 'limited antitrust exemption' in light of the fact that 'antitrust laws represent a fundamental national economic policy.' Carnation Co. v. Pacific Westbound Conference, 383 U.S. at <a href="https://law.justia.com/us/383/213/#219">383 U. S. 219</a>, 218."</p>
       <p>411 U.S. at <a href="../us411/us411-0726.xml#p732">411 U. S. 732</a>-733 (footnotes omitted).</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>Exempting the NASD from antitrust scrutiny based on the existence of Commission power to approve or disapprove NASD rules is likewise unacceptable under our cases for very similar reasons. The majority relies on Hughes Tool Co. v. Trans World Airlines, <a href="../us409/us409-0363.xml#p363">409 U. S. 363</a> (1973), and Pan American World Airways v. United States, <a href="../us371/us371-0296.xml#p296">371 U. S. 296</a> (1963). But in Hughes, exemption for the transactions there involved was based on the express immunities conferred by § 414 of the Federal Aviation Act, and in Pan American, immunity followed from the Board's authority to adjudicate unfair competitive practices in accordance with the distinctive competitive standard Congress itself supplied in the regulatory statute. Nothing comparable is to be found in the relevant provisions of the statutes involved here.</p>
       <p>It is especially interesting to find the Court, on the one hand, concluding that the selling practices under scrutiny here are essential to the working of the statutory scheme, but, on the other hand, recognizing that the Commission itself has requested that the NASD rules be amended to prohibit agreements between underwriters and broker-dealers that preclude broker-dealers, acting as agents, from matching orders to buy and sell fund</p>
       <n id="p748">748</n>

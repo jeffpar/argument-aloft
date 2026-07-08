@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us467-0001.html" citation="467 U.S. 1" title="Kirby Forest Indus. v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p1">1</n>
-    <h>U.S. Supreme Court</h>
-    <h>Kirby Forest Indus. v. United States, <a href="./us467-0001.xml#p1">467 U.S. 1</a> (1984)</h>
-    <h>Kirby Forest Industries, Inc. v. United States</h>
-    <h>No. 82-1994</h>
-    <h>Argued February 22, 1984</h>
-    <h>Decided May 21, 1984</h>
-    <h><a href="./us467-0001.xml#p1">467 U.S. 1</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE FIFTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Kirby Forest Indus. v. United States, <a href="./us467-0001.xml#p1">467 U.S. 1</a> (1984)</h1>
+    <h2>Kirby Forest Industries, Inc. v. United States</h2>
+    <h4>No. 82-1994</h4>
+    <h4>Argued February 22, 1984</h4>
+    <h4>Decided May 21, 1984</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE FIFTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner manufacturer of forest products owns substantial timberland in Texas. On August 21, 1978, after negotiations to acquire over 2,000 acres of this land for a national preserve had broken down, the United States filed a "straight condemnation" complaint under 40 U.S.C. § 257. Shortly thereafter, the United States filed a notice of lis pendens, notifying the public of the institution of the proceeding. The District Court referred the matter to a special commission to ascertain the compensation due petitioner. Trial before the commission began on March 6, 1979, and after hearing competing testimony as to the fair market value of the land, the commission entered a report recommending compensation in the amount of $2,331,202. The District Court entered judgment awarding petitioner compensation for that amount, plus 6% interest for the period from the date the complaint was filed to the date the Government deposited the adjudicated value of the land with the court. On March 26, 1982, the United States deposited the amount of the judgment in the District Court's registry, and, on that same date, acquired title to the land. The Court of Appeals reversed the award of interest to petitioner, holding that the date of the taking should be deemed the date on which the compensation award was paid, and that, hence, no interest was due on that award. The court also ruled that the commission inadequately explained its valuation of the land, and accordingly remanded the case to the District Court for further findings regarding the value.</p>
     <n id="p2">2</n>
     <p>Held:</p>
@@ -24,7 +24,7 @@
     <n id="p3">3</n>
     <p>JUSTICE MARSHALL delivered the opinion of the Court.</p>
     <p>Title 40 U.S.C. § 257, in conjunction with Rule 71A of the Federal Rules of Civil Procedure, prescribes a procedure pursuant to which the United States may appropriate privately owned land by eminent domain. The central issue in this case is whether the manner in which the value of the land is determined and paid to its owner under that procedure comports with the requirement, embodied in the Fifth Amendment, that private property not be taken for public use without just compensation.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>A</p>
     <p>The United States customarily employs one of three methods when it appropriates private land for a public purpose. The most frequently used is the so-called "straight condemnation" procedure prescribed in 40 U.S.C. § 257. Under that statute, an "officer of the Government" who is "authorized to procure real estate for the erection of a public building or for other public uses" [<a id="nf1" href="#fn1">Footnote 1</a>] makes an application to the Attorney General who, within 30 days, must initiate condemnation proceedings. The form of those proceedings is</p>
     <n id="p4">4</n>
@@ -55,7 +55,7 @@
     <n id="p9">9</n>
     <p>in this case, the date of the taking should be deemed the date on which the compensation award was paid. [<a id="nf11" href="#fn11">Footnote 11</a>] Consequently, no interest was due on that award. [<a id="nf12" href="#fn12">Footnote 12</a>]</p>
     <p>We granted certiorari to resolve a conflict in the Circuits regarding the date on which the taking, in a "straight condemnation" proceeding, should be deemed to occur and the constitutional obligation of the United States to pay interest on the adjudicated value of the property. [<a id="nf13" href="#fn13">Footnote 13</a>] 464 U.S. 913 (1983). We now affirm.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The United States has the authority to take private property for public use by eminent domain, Kohl v. United States, <a href="../us091/us091-0367.xml#p367">91 U. S. 367</a>, <a href="../us091/us091-0367.xml#p371">91 U. S. 371</a> (1876), but is obliged by the Fifth Amendment to provide "just compensation" to the owner thereof.</p>
     <n id="p10">10</n>
     <p>"Just compensation," we have held, means in most cases the fair market value of the property on the date it is appropriated. United States v. 564.54 Acres of Land, <a href="../us441/us441-0506.xml#p506">441 U. S. 506</a>, <a href="../us441/us441-0506.xml#p511">441 U. S. 511</a>-513 (1979). [<a id="nf14" href="#fn14">Footnote 14</a>] "Under this standard, the owner is entitled to receive what a willing buyer would pay in cash to a willing seller' at the time of the taking." Id. at <a href="../us441/us441-0506.xml#p511">441 U. S. 511</a> (quoting United States v. Miller, <a href="../us317/us317-0369.xml#p369">317 U. S. 369</a>, <a href="../us317/us317-0369.xml#p374">317 U. S. 374</a> (1943)). [<a id="nf15" href="#fn15">Footnote 15</a>]</p>
@@ -64,7 +64,7 @@
     <p>Phelps v. United States, <a href="../us274/us274-0341.xml#p341">274 U. S. 341</a>, <a href="../us274/us274-0344.xml#p344">274 U. S. 344</a> (1927); Seaboard Air Line R. Co. v. United States, <a href="../us261/us261-0299.xml#p299">261 U. S. 299</a>, <a href="../us261/us261-0299.xml#p306">261 U. S. 306</a> (1923). [<a id="nf16" href="#fn16">Footnote 16</a>]</p>
     <p>From the foregoing, it should be apparent that identification of the time a taking of a tract of land occurs is crucial to determination of the amount of compensation to which the owner is constitutionally entitled. The Government contends that, in straight condemnation proceedings like that at issue here, the date of taking must be deemed the date the United States tenders payment to the owner of the land. The Government's position is amply supported by prior decisions by this Court and by indications of congressional intent derivable from the structure of the pertinent statutory scheme and the governing procedural rule.</p>
     <p>In Danforth v. United States, supra, we were called upon to determine the date on which the Government, in an exercise of its eminent domain power under the Flood Control Act of 1928, ch. 569, 45 Stat. 534, as amended, 33 U.S.C. § 702a et seq., appropriated the petitioner's property. We held that,</p>
-    <p>"[u]nless a taking has occurred previously in actuality or by a statutory provision . . . , we are of the view that the taking in a condemnation suit under this statute takes place upon the payment of the money award by the condemnor."</p>
+    <p>"[u]nless a taking has occurred previously in actuality or by a statutory provision . . ., we are of the view that the taking in a condemnation suit under this statute takes place upon the payment of the money award by the condemnor."</p>
     <p>308 U.S. at <a href="../us308/us308-0271.xml#p284">308 U. S. 284</a>. [<a id="nf17" href="#fn17">Footnote 17</a>] In response to the contention</p>
     <n id="p12">12</n>
     <p>that such a procedure was unfair, we observed, "[t]he owner is protected by the rule that title does not pass until compensation has been ascertained and paid. . . .'" Id. at <a href="../us308/us308-0271.xml#p284">308 U. S. 284</a>-285 (quoting Albert Hanson Lumber Co. v. United States, <a href="../us261/us261-0581.xml#p581">261 U. S. 581</a>, <a href="../us261/us261-0581.xml#p587">261 U. S. 587</a> (1923)).</p>
@@ -84,7 +84,7 @@
     <n id="p16">16</n>
     <p>taking and thereby peremptorily to appropriate the tract in order to protect it from alteration. But the likelihood that the United States would have responded in that fashion to an attempt by petitioner to make productive use of the land weakens, rather than strengthens, petitioner's position, because it suggests that petitioner had the option, at any time, to precipitate an immediate taking of the land and to obtain compensation therefor as of that date merely by informing the Government of its intention to cut down the trees.</p>
     <p>We conclude, in sum, that petitioner has failed to demonstrate that its interests were impaired in any constitutionally significant way before the Government tendered payment and acquired title in the usual course. [<a id="nf26" href="#fn26">Footnote 26</a>] Accordingly, we approve the finding of the Court of Appeals that the taking of petitioner's land occurred on March 26, 1982. Because the award was paid on that date, no interest was due thereon.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The foregoing conclusion does not dispose of this case. We still must determine whether the award itself satisfied the strictures of the Fifth Amendment. As indicated above, petitioner is constitutionally entitled to the fair market value of its property on the date of the taking. See supra at 10. Petitioner points out that $2,331,202 represents the commission's best estimate of the value of the land on March 6, 1979. To the extent that that figure is less than the value of the land on March 26, 1982, the date of the taking, petitioner contends, it has been denied just compensation.</p>
     <p>The Government attempts to meet this objection by emphasizing the pragmatic constraints on determination of the value of real property. The Government contends that it is imperative that the trier of fact in a condemnation action be given a fixed date as of which the value of the land is to be assessed. At the time of trial, no one knows when the</p>
     <n id="p17">17</n>
@@ -97,7 +97,7 @@
     <p>In other cases, such an option may not be available. However, the Federal Rules of Civil Procedure contain a procedural device that could do tolerable service in this cause. Rule 60(b) empowers a federal court, upon motion of a party, to withdraw or amend a final order for "any . . . reason justifying relief from the operation of the judgment." This provision seems to us expansive enough to encompass a motion, by the owner of condemned land, to amend a condemnation award. The evidence adduced in consideration of such a motion would be very limited. The parties would not be permitted to question the adjudicated value of the tract as of the date of its original valuation; they would be limited to the presentation of evidence and arguments on the issue of how the market value of the property altered between that date and the date on which the judgment was paid by the Government. So focused, the consideration of such a motion would be expeditious and relatively inexpensive for the</p>
     <n id="p19">19</n>
     <p>parties involved. [<a id="nf29" href="#fn29">Footnote 29</a>] Further refinement of this procedural option we leave to the courts called upon to administer it. [<a id="nf30" href="#fn30">Footnote 30</a>]</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>For the reasons set forth above, we agree with the Court of Appeals that no interest was due on the condemnation award paid to petitioner. Petitioner's meritorious contention that it is constitutionally entitled to the value of its land on the date of the taking, not on the date of the valuation, can be accommodated by allowing petitioner, on remand, to present evidence pertaining to change in the market value of the tract during the period between those two dates. On the understanding that petitioner will be afforded that opportunity, the judgment is</p>
     <p>Affirmed.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>

@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us571-0161.html" citation="571 U.S. 161" title="Mississippi ex rel. Hood v. AU Optronics Corp.">
   <opinion type="Opinion" author="Sotomayor">
     <n id="p161">161</n>
     <p>NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 12–1036</p>
-    <p>_________________</p>
     <p>MISSISSIPPI ex rel. JIM HOOD, ATTORNEYGENERAL, PETITIONER v. AU OPTRONICSCORPORATION et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the fifth circuit</p>
     <p>[January 14, 2014]</p>
@@ -54,8 +53,8 @@
     <f n="3"><a id="fn3" href="#nf3">3</a> The Court of Appeals did so on the rationale that because individual Mississippi consumers are real parties in interest to the State’s restitution claim, the general public exception’s requirement that “all ofthe claims” must be “asserted on behalf of the general public (and not on behalf of individual claimants)” was not satisfied. .</f>
     <f n="4"><a id="fn4" href="#nf4">4</a> See .v., 699 F. 3d 385 (CA4 2012); v., 672 F. 3d 661 (CA9 2012); v., 665 F. 3d 768 (CA7 2011).</f>
     <f n="5"><a id="fn5" href="#nf5">5</a> Congress could of course require a real party in interest inquiry in a statute that uses the term “plaintiff” simply by saying so. But it has not done that here.</f>
-    <f n="6"><a id="fn6" href="#nf6">6</a> Respondents suggest that a district court might be able to exercise supplemental jurisdiction over the claims that fall beneath $75,000, thereby avoiding the problem of identifying and remanding such claims to the state court. We need not decide the issue here, but we note that at least one Court of Appeals has rejected that view. See v., 483 F. 3d 1184, 1206, n. 51 (CA11 2007) (holding that because supplemental jurisdiction does not apply where a federal statute “ ‘expressly provide[s] otherwise,’ ” , the mass action provision’s explicit exclusion of jurisdiction over claims beneath $75,000 negates supplemental jurisdiction over such claims).</f>
+    <f n="6"><a id="fn6" href="#nf6">6</a> Respondents suggest that a district court might be able to exercise supplemental jurisdiction over the claims that fall beneath $75,000, thereby avoiding the problem of identifying and remanding such claims to the state court. We need not decide the issue here, but we note that at least one Court of Appeals has rejected that view. See v., 483 F. 3d 1184, 1206, n. 51 (CA11 2007) (holding that because supplemental jurisdiction does not apply where a federal statute “ ‘expressly provide[s] otherwise,’ ”, the mass action provision’s explicit exclusion of jurisdiction over claims beneath $75,000 negates supplemental jurisdiction over such claims).</f>
     <f n="7"><a id="fn7" href="#nf7">7</a> The parties both point to the “general public exception,” §1332(d)(11)(B)(ii)(III), in support of their respective positions. But because the foregoing arguments resolve this case, we need not construe that provision here.</f>
-    <f n="8"><a id="fn8" href="#nf8">8</a> We have also applied a real party in interest inquiry in contexts other than that of determining citizenship for purposes of diversity jurisdiction. See v. , –376 (1923) (state sovereign immunity); v. , –393 (1938) (original jurisdiction). But even if we were to indulge in a presumption that Congress somehow intended to import the inquiry applied in those particular contexts into the mass action provision’s distinct numerosity requirement, we would find any such presumption overridden by CAFA’s text.</f>
+    <f n="8"><a id="fn8" href="#nf8">8</a> We have also applied a real party in interest inquiry in contexts other than that of determining citizenship for purposes of diversity jurisdiction. See v., –376 (1923) (state sovereign immunity); v., –393 (1938) (original jurisdiction). But even if we were to indulge in a presumption that Congress somehow intended to import the inquiry applied in those particular contexts into the mass action provision’s distinct numerosity requirement, we would find any such presumption overridden by CAFA’s text.</f>
   </opinion>
 </case>

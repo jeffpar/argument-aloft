@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us446-0740.html" citation="446 U.S. 740" title="Walker v. Armco Steel Corp.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p740">740</n>
-    <h>U.S. Supreme Court</h>
-    <h>Walker v. Armco Steel Corp., <a href="./us446-0740.xml#p740">446 U.S. 740</a> (1980)</h>
-    <h>Walker v. Armco Steel Corp.</h>
-    <h>No. 78-1862</h>
-    <h>Argued January 8, 1980</h>
-    <h>Decided June 2, 1980</h>
-    <h><a href="./us446-0740.xml#p740">446 U.S. 740</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE TENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Walker v. Armco Steel Corp., <a href="./us446-0740.xml#p740">446 U.S. 740</a> (1980)</h1>
+    <h2>Walker v. Armco Steel Corp.</h2>
+    <h4>No. 78-1862</h4>
+    <h4>Argued January 8, 1980</h4>
+    <h4>Decided June 2, 1980</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE TENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>An Oklahoma statute provides that an action shall not be deemed to be "commenced" for purposes of the statute of limitations until service of summons on the defendant, but further provides (§ 97) that, if the complaint is filed within the limitations period, the action is deemed to have commenced from the date of that filing if the plaintiff serves the defendant within 60 days, even though such service occurs outside the limitations period. Federal Rule of Civil Procedure 3 provides that a civil action is commenced by filing a complaint. In this case, petitioner's personal injury action, based on diversity of citizenship, was brought against respondent m Federal District Court in Oklahoma, and, although the complaint was filed within Oklahoma's 2-year statute of limitations, service on respondent was not effectuated until after the 2-year limitation period and the 60-day service period specified in § 97 had expired. The District Court dismissed the complaint as barred by the Oklahoma statute of limitations, holding that § 97 was an integral part of such statute and that, therefore, under Ragan v. Merchants Transfer &amp; Warehouse Co., <a href="../us337/us337-0530.xml#p530">337 U. S. 530</a>, state law, not Rule 3, applied. The Court of Appeals affirmed.</p>
     <p>Held: The action is barred by the Oklahoma statute of limitations. Ragan, supra. Pp. <a href="./us446-0740.xml#p744">446 U. S. 744</a>-753.</p>
     <p>(a) The scope of Rule 3 is not sufficiently broad to control the issue before the District Court. Hanna v. Plumer, <a href="../us380/us380-0460.xml#p460">380 U. S. 460</a>, distinguished. There is no indication that the Rule was intended to toll a state statute of limitations, much less that it purported to displace state tolling rules for purposes of state statutes of limitations. In diversity actions, Rule 3 governs the date from which various timing requirements of the Federal Rules begin to run, but does not affect state statutes of limitations. Pp. <a href="./us446-0740.xml#p748">446 U. S. 748</a>-751.</p>
@@ -23,7 +23,7 @@
     <p>MARSHALL, J., delivered the opinion for a unanimous Court.</p>
     <p>MR. JUSTICE MARSHALL delivered the opinion of the Court.</p>
     <p>This case presents the issue whether, in a diversity action, the federal court should follow state law or, alternatively, Rule 3 of the Federal Rules of Civil Procedure in determining when an action is commenced for the purpose of tolling the state statute of limitations.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>According to the allegations of the complaint, petitioner, a carpenter, was injured on August 22, 1975, in Oklahoma City, Okla., while pounding a Sheffield nail into a cement wall. Respondent was the manufacturer of the nail. Petitioner claimed that the nail contained a defect which caused its head to shatter and strike him in the right eye, resulting in permanent injuries. The defect was allegedly caused by respondent's negligence in manufacture and design.</p>
     <p>Petitioner is a resident of Oklahoma, and respondent is a foreign corporation having its principal place of business in a</p>
     <n id="p742">742</n>
@@ -34,7 +34,7 @@
     <n id="p744">744</n>
     <p>The United States Court of Appeals for the Tenth Circuit affirmed. 592 F.2d 1133 (1979). That court concluded that Okla.Stat., Tit. 12, § 97 (171), was in "direct conflict" with Rule 3. 592 F.2d at 1135. However, the Oklahoma statute was "indistinguishable" from the statute involved in Ragan, and the court felt itself "constrained" to follow Ragan. 592 F.2d at 1136.</p>
     <p>We granted certiorari, 444 U.S. 823 (1979), because of a conflict among the Courts of Appeals. [<a id="nf6" href="#fn6">Footnote 6</a>] We now affirm.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The question whether state or federal law should apply on various issues arising in an action based on state law which has been brought in federal court under diversity of citizenship jurisdiction has troubled this Court for many years. In the landmark decision of Erie R. Co. v. Tompkins, <a href="../us304/us304-0064.xml#p64">304 U. S. 64</a> (1938), we overturned the rule expressed in <a href="../us041/us041-0001.xml#p1">Swift v. Tyson</a>, 16 Pet 1 (1842), that federal courts exercising diversity jurisdiction need not, in matters of "general jurisprudence," apply the nonstatutory law of the State. The Court noted</p>
     <n id="p745">745</n>
     <p>that</p>
@@ -66,7 +66,7 @@
     <n id="p748">748</n>
     <p>Federal Rules. But the holding of each such case was not that Erie commanded displacement of a Federal Rule by an inconsistent state rule, but rather that the scope of the Federal Rule was not as broad as the losing party urged, and therefore, there being no Federal Rule which covered the point in dispute, Erie commanded the enforcement of state law."</p>
     <p>380 U.S. at <a href="../us380/us380-0460.xml#p470">380 U. S. 470</a>. The Court cited Ragan as one of the examples of this proposition, 380 U.S. at <a href="../us380/us380-0460.xml#p470">380 U. S. 470</a>, n. 12. [<a id="nf7" href="#fn7">Footnote 7</a>] The Court explained that where the Federal Rule was clearly applicable, as in Hanna, the test was whether the Rule was within the scope of the Rules Enabling Act, 28 U.S.C. § 2072, and if so, within a constitutional grant of power such as the Necessary and Proper Clause of Art. I. 380 U.S. at <a href="../us380/us380-0460.xml#p470">380 U. S. 470</a>-472.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The present case is indistinguishable from Ragan. The statutes in both cases require service of process to toll the statute of limitations, and in fact the predecessor to the Oklahoma statute in this case was derived from the predecessor to the Kansas statute in Ragan. See Dr. Koch Vegetable Tea Co. v. Davis, <a href="https://law.justia.com/cases/oklahoma/supreme-court/1914/18738.html">48 Okla. 14</a>, 22, 145 P. 337, 340 (1914). Here, as in Ragan, the complaint was filed in federal court under diversity jurisdiction within the 2-year statute of limitations, but service of process did not occur until after the 2-year period and the 60-day service period had run. In both cases, the suit would concededly have been barred in the applicable state court, and, in both instances, the state service statute was held to be an integral part of the statute of limitations by the lower court more familiar than we with state law. Accordingly, as the Court of Appeals held below,</p>
     <n id="p749">749</n>
     <p>the instant action is barred by the statute of limitations unless Ragan is no longer good law.</p>

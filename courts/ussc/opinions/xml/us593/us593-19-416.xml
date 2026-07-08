@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us593-19-416.html" citation="593 U.S. 19-416" title="Nestlé USA, Inc. v. Doe">
   <opinion type="Opinion" author="Sotomayor">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 19–416 and 19–453</p>
-    <p>_________________</p>
     <p>NESTLE USA, INC., PETITIONER</p>
     <p>19–416v.</p>
     <p>JOHN DOE I, et al.</p>
@@ -50,9 +49,7 @@
   <opinion type="Opinion" author="Thomas">
     <p>NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 19–416 and 19–453</p>
-    <p>_________________</p>
     <p>NESTLE USA, INC., PETITIONER</p>
     <p>19–416v.</p>
     <p>JOHN DOE I, et al.</p>
@@ -71,7 +68,7 @@
     <p>II</p>
     <p>Petitioners and the United States argue that respondents improperly seek extraterritorial application of the ATS. We agree.</p>
     <p>Our precedents “reflect a two-step framework for analyzing extraterritoriality issues.” RJR Nabisco, Inc. v. European Community, 579 U.S. 325, 337 (2016). First, we presume that a statute applies only domestically, and we ask “whether the statute gives a clear, affirmative indication” that rebuts this presumption. Ibid. For the ATS, Kiobel answered that question in the negative. 569 U. S., at 124. Although we have interpreted its purely jurisdictional text to implicitly enable courts to create causes of action, the ATS does not expressly “regulate conduct” at all, much less “evince a ‘clear indication of extraterritoriality.’ ” Id., at 115–118. Courts thus cannot give “extraterritorial reach” to any cause of action judicially created under the ATS. Id., at 117–118. Second, where the statute, as here, does not apply extraterritorially, plaintiffs must establish that “the conduct relevant to the statute’s focus occurred in the United States.” RJR Nabisco, 579 U. S., at 337. “[T]hen the case involves a permissible domestic application even if other conduct occurred abroad.” Ibid.</p>
-    <p>The parties dispute what conduct is relevant to the “focus” of the ATS. Respondents seek a judicially created cause of action to sue petitioners for aiding and abetting forced labor overseas. Arguing that aiding and abetting is not even a tort, but merely secondary liability for a tort, petitioners and the United States contend that “the conduct relevant to the [ATS’s] focus” is the conduct that directly caused the injury. See id., at 346 (a plaintiff who “does not overcome the presumption against extraterritoriality . . . therefore must allege and prove a domestic injury”). All of that alleged conduct occurred overseas in this suit. The United States also argues that the “focus” inquiry is beside the point; courts should not create an aiding-and-abetting cause of action under the ATS at all. See Central Bank of Denver, N. A. v. First Interstate Bank of Denver, N. A., <a href="../us511/us511-0164.xml#p164">511 U.S. 164</a>, 182–183 (1994) (“[W]hen Congress enacts a statute under which a person may sue and recover damages from a private defendant . . . , there is no general presumption that the plaintiff may also sue aiders and abettors” because that would create a “vast expansion of federal law”). For their part, respondents argue that aiding and abetting is a freestanding tort and that courts may create a private right of action to enforce it under the ATS. They also contend that the “focus” of the ATS is conduct that violates international law, that aiding and abetting forced labor is a violation of international law, and that domestic conduct can aid and abet an injury that occurs overseas.</p>
+    <p>The parties dispute what conduct is relevant to the “focus” of the ATS. Respondents seek a judicially created cause of action to sue petitioners for aiding and abetting forced labor overseas. Arguing that aiding and abetting is not even a tort, but merely secondary liability for a tort, petitioners and the United States contend that “the conduct relevant to the [ATS’s] focus” is the conduct that directly caused the injury. See id., at 346 (a plaintiff who “does not overcome the presumption against extraterritoriality . . . therefore must allege and prove a domestic injury”). All of that alleged conduct occurred overseas in this suit. The United States also argues that the “focus” inquiry is beside the point; courts should not create an aiding-and-abetting cause of action under the ATS at all. See Central Bank of Denver, N. A. v. First Interstate Bank of Denver, N. A., <a href="../us511/us511-0164.xml#p164">511 U.S. 164</a>, 182–183 (1994) (“[W]hen Congress enacts a statute under which a person may sue and recover damages from a private defendant . . ., there is no general presumption that the plaintiff may also sue aiders and abettors” because that would create a “vast expansion of federal law”). For their part, respondents argue that aiding and abetting is a freestanding tort and that courts may create a private right of action to enforce it under the ATS. They also contend that the “focus” of the ATS is conduct that violates international law, that aiding and abetting forced labor is a violation of international law, and that domestic conduct can aid and abet an injury that occurs overseas.</p>
     <p>Even if we resolved all these disputes in respondents’ favor, their complaint would impermissibly seek extraterritorial application of the ATS. Nearly all the conduct that they say aided and abetted forced labor—providing training, fertilizer, tools, and cash to overseas farms—occurred in Ivory Coast. The Ninth Circuit nonetheless let this suit proceed because respondents pleaded as a general matter that “every major operational decision by both companies is made in or approved in the U. S.” App. 314. But allegations of general corporate activity—like decisionmaking—cannot alone establish domestic application of the ATS.</p>
     <p>As we made clear in Kiobel, a plaintiff does not plead facts sufficient to support domestic application of the ATS simply by alleging “mere corporate presence” of a defendant. 569 U. S., at 125. Pleading general corporate activity is no better. Because making “operational decisions” is an activity common to most corporations, generic allegations of this sort do not draw a sufficient connection between the cause of action respondents seek—aiding and abetting forced labor overseas—and domestic conduct. “[T]he presumption against extraterritorial application would be a craven watchdog indeed if it retreated to its kennel whenever some domestic activity is involved in the case.” Morrison v. National Australia Bank Ltd., <a href="../us561/us561-0247.xml#p247">561 U.S. 247</a>, 266 (2010). To plead facts sufficient to support a domestic application of the ATS, plaintiffs must allege more domestic conduct than general corporate activity. The Ninth Circuit erred when it held otherwise.</p>
     <p>III</p>
@@ -98,9 +95,7 @@
   </opinion>
   <opinion type="Concurrence" author="Gorsuch">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 19–416 and 19–453</p>
-    <p>_________________</p>
     <p>NESTLE USA, INC., PETITIONER</p>
     <p>19–416v.</p>
     <p>JOHN DOE I, et al.</p>
@@ -128,9 +123,7 @@
   </opinion>
   <opinion type="Dissent" author="Alito">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 19–416 and 19–453</p>
-    <p>_________________</p>
     <p>NESTLE USA, INC., PETITIONER</p>
     <p>19–416v.</p>
     <p>JOHN DOE I, et al.</p>

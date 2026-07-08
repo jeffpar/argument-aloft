@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us401-0745.html" citation="401 U.S. 745" title="United States v. White">
   <opinion type="Opinions &amp; Dissents">
     <n id="p745">745</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. White, <a href="./us401-0745.xml#p745">401 U.S. 745</a> (1971)</h>
-    <h>United States v. White</h>
-    <h>No. 13</h>
-    <h>Argued November 10, 1969</h>
-    <h>Reargued October 20, 1970</h>
-    <h>Decided April 5, 1971</h>
-    <h><a href="./us401-0745.xml#p745">401 U.S. 745</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SEVENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. White, <a href="./us401-0745.xml#p745">401 U.S. 745</a> (1971)</h1>
+    <h2>United States v. White</h2>
+    <h2>No. 13</h2>
+    <h4>Argued November 10, 1969</h4>
+    <h4>Reargued October 20, 1970</h4>
+    <h4>Decided April 5, 1971</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SEVENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondent was convicted in 1966 of narcotics violations following a trial where evidence was admitted of certain incriminating statements of respondent that were overheard by warrantless electronic eavesdropping by Government agents by means of a transmitter which an informer consented to wear during his meetings with respondent. The informer could not be located at trial, and the trial court overruled objections to the testimony of the agents who conducted the electronic surveillance. Reading Katz v. United States, <a href="../us389/us389-0347.xml#p347">389 U. S. 347</a> (1967), as overruling On Lee v. United States, <a href="../us343/us343-0747.xml#p747">343 U. S. 747</a> (1952), the Court of Appeals held that the agents' testimony was impermissible under the Fourth Amendment, and reversed respondent's conviction.</p>
     <p>Held: The judgment is reversed. Pp. <a href="./us401-0745.xml#p748">401 U. S. 748</a>-756.</p>
     <p>405 F.2d 838, reversed.</p>
@@ -30,7 +30,7 @@
     <p>overheard by monitoring the frequency of a radio transmitter carried by Jackson and concealed on his person. [<a id="nf1" href="#fn1">Footnote 1</a>] On four occasions, the conversations took place in Jackson's home; each of these conversations was overheard by an agent concealed in a kitchen closet with Jackson's consent and by a second agent outside the house using a radio receiver. Four other conversations -- one in respondent's home, one in a restaurant, and two in Jackson's car -- were overheard by the use of radio equipment. The prosecution was unable to locate and produce Jackson at the trial, and the trial court overruled objections to the testimony of the agents who conducted the electronic surveillance. The jury returned a guilty verdict, and defendant appealed.</p>
     <p>The Court of Appeals read Katz v. United States, <a href="../us389/us389-0347.xml#p347">389 U. S. 347</a> (1967), as overruling On Lee v. United States, <a href="../us343/us343-0747.xml#p747">343 U. S. 747</a> (1952), and interpreting the Fourth Amendment to forbid the introduction of the agents' testimony in the circumstances of this case. Accordingly, the court reversed, but without adverting to the fact that the transactions at issue here had occurred before Katz was decided in this Court. In our view, the Court of Appeals misinterpreted both the Katz case and the Fourth Amendment and, in any event, erred in applying the Katz case to events that occurred before that decision was rendered by this Court. [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
     <n id="p748">748</n>
-    <h>I</h>
+    <h2>I</h2>
     <p>Until Katz v. United States, neither wiretapping nor electronic eavesdropping violated a defendant's Fourth Amendment rights</p>
     <p>"unless there has been an official search and seizure of his person, or such a seizure of his papers or his tangible material effects, or an actual physical invasion of his house 'or curtilage' for the purpose of making a seizure."</p>
     <p>Olmstead v. United States, <a href="../us277/us277-0438.xml#p438">277 U. S. 438</a>, <a href="../us277/us277-0438.xml#p466">277 U. S. 466</a> (1928); Goldman v. United States, <a href="../us316/us316-0129.xml#p129">316 U. S. 129</a>, <a href="../us316/us316-0129.xml#p135">316 U. S. 135</a>-136 (1942). But where "eavesdropping was accomplished by means of an unauthorized physical penetration into the premises occupied" by the defendant, although falling short of a "technical trespass under the local property law," the Fourth Amendment was violated, and any evidence of what was seen and heard, as well as tangible objects seized, was considered the inadmissible fruit of an unlawful invasion. Silverman v. United States, <a href="../us365/us365-0505.xml#p505">365 U. S. 505</a>, <a href="../us365/us365-0505.xml#p509">365 U. S. 509</a>, 511 (1961); see also Wong Sun v. United States, <a href="../us371/us371-0471.xml#p471">371 U. S. 471</a> (1963); Berger v. New York, <a href="../us388/us388-0041.xml#p41">388 U. S. 41</a>, <a href="../us388/us388-0041.xml#p52">388 U. S. 52</a> (1967); Alderman v. United States, <a href="../us394/us394-0165.xml#p165">394 U. S. 165</a>, <a href="../us394/us394-0165.xml#p177">394 U. S. 177</a>-178 (1969).</p>
@@ -58,7 +58,7 @@
     <p>No different result should obtain where, as in On Lee and the instant case, the informer disappears and is unavailable</p>
     <n id="p754">754</n>
     <p>at trial; for the issue of whether specified events on a certain day violate the Fourth Amendment should not be determined by what later happens to the informer. His unavailability at trial and proffering the testimony of other agents may raise evidentiary problems or pose issues of prosecutorial misconduct with respect to the informer's disappearance, but they do not appear critical to deciding whether prior events invaded the defendant's Fourth Amendment rights.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The Court of Appeals was in error for another reason. In Desist v. United States, <a href="../us394/us394-0244.xml#p244">394 U. S. 244</a> (1969), we held that our decision in Katz v. United States applied only to those electronic surveillances that occurred subsequent to the date of that decision. Here, the events in question took place in late 1965 and early 1966, long prior to Katz. We adhere to the rationale of Desist, see Williams v. United States, ante, p. <a href="./us401-0646.xml#p646">401 U. S. 646</a>. It was error for the Court of Appeals to dispose of this case based on its understanding of the principles announced in the Katz case. The court should have judged this case by the pre-Katz law and under that law, as On Lee clearly holds, the electronic surveillance here involved did not violate White's rights to be free from unreasonable searches and seizures.</p>
     <p>The judgment of the Court of Appeals is reversed.</p>
     <p>It is so ordered.</p>
@@ -82,7 +82,7 @@
       <n id="p756">756</n>
       <p>dissent, and need not be repeated here. It suffices to say that, for those reasons, I remain of the view that the Fourth Amendment imposes the warrant requirement in both the On Lee and Lopez situations.</p>
       <p>MR. JUSTICE DOUGLAS, dissenting.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>The issue in this case is clouded and concealed by the very discussion of it in legalistic terms. What the ancients knew as "eavesdropping" we now call "electronic surveillance," but to equate the two is to treat man's first gunpowder on the same level as the nuclear bomb. Electronic surveillance is the greatest leveler of human privacy ever known. How most forms of it can be held "reasonable" within the meaning of the Fourth Amendment is a mystery. To be sure, the Constitution and Bill of Rights are not to be read as covering only the technology known in the 18th century. Otherwise its concept of "commerce" would be hopeless when it comes to the management of modern affairs. At the same time, the concepts of privacy which the Founders enshrined in the Fourth Amendment vanish completely when we slavishly allow an all-powerful government, proclaiming law and order, efficiency, and other benign purposes, to penetrate all the walls and doors which men need to shield them from the pressures of a turbulent life around them and give them the health and strength to carry on.</p>
       <p>That is why a "strict construction" of the Fourth Amendment is necessary if every man's liberty and privacy are to be constitutionally honored.</p>
       <p>When Franklin D. Roosevelt, on May 21, 1940, authorized wiretapping in cases of "fifth column" activities and sabotage and limited it "insofar as possible to aliens," he said that,</p>
@@ -97,7 +97,7 @@
       <p>When one reads what is going on in this area today, our judicial treatment of the subject seems as remote from</p>
       <n id="p758">758</n>
       <p>reality as the well known Baron Parke was remote from the social problems of his day. See Chapman, "Big Brother" in the Justice Department, The Progressive, April 1971, p. 27.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>We held in Berger v. New York, <a href="../us388/us388-0041.xml#p41">388 U. S. 41</a>, that wiretapping is a search and seizure within the meaning of the Fourth Amendment, and therefore must meet its requirements, viz., there must be a prior showing of probable cause, the warrant authorizing the wiretap must particularly describe "the place to be searched, and the persons or things to be seized," and that it may not have the breadth, generality, and long life of the general warrant against which the Fourth Amendment was aimed.</p>
       <p>In Katz v. United States, <a href="../us389/us389-0347.xml#p347">389 U. S. 347</a>, we held that an electronic device, used without trespass onto any given enclosure (there a telephone booth), was a search for which a Fourth Amendment warrant was needed. [Footnote 2/1] MR. JUSTICE STEWART, speaking for the Court, said: "Wherever a man may be, he is entitled to know that he will remain free from unreasonable searches and seizures." Id. at <a href="../us389/us389-0347.xml#p359">389 U. S. 359</a>.</p>
       <p>As a result of Berger and of Katz, both wiretapping and electronic surveillance through a "bug" or other device are now covered by the Fourth Amendment.</p>
@@ -139,7 +139,7 @@
       <n id="p765">765</n>
       <p>imagine nothing that has a more chilling effect on people speaking their minds and expressing their views on important matters. The advocates of that regime should spend some time in totalitarian countries and learn first-hand the kind of regime they are creating here. [Footnote 2/6]</p>
       <n id="p766">766</n>
-      <h>III</h>
+      <h2>III</h2>
       <p>The decision not to make Katz retroactive to any electronic surveillance which occurred prior to December 18, 1967 (the day we decided Katz), is not, in my view, a tenable one for the reasons stated by MR. JUSTICE HARLAN and me in our dissents in Desist v. United States, <a href="../us394/us394-0244.xml#p244">394 U. S. 244</a>, <a href="../us394/us394-0244.xml#p255">394 U. S. 255</a>, <a href="../us394/us394-0244.xml#p256">394 U. S. 256</a>.</p>
       <p>|<a href="./us401-0745.xml#p745">401 U.S. 745</a>app1|</p>
       <p>APPENDIX I TO OPINION OF DOUGLAS, J., DISSENTING</p>
@@ -212,7 +212,7 @@
       <n id="p769">769</n>
       <p>WHITE itself makes clear, important constitutional developments since On Lee mandate that we reassess that case, which has continued to govern official behavior of this sort in spite of the subsequent erosion of its doctrinal foundations. With all respect, my agreement with the plurality opinion ends at that point.</p>
       <p>I think that a perception of the scope and role of the Fourth Amendment, as elucidated by this Court since On Lee was decided, and full comprehension of the precise issue at stake lead to the conclusion that On Lee can no longer be regarded as sound law. Nor do I think the date we decided Katz v. United States, <a href="../us389/us389-0347.xml#p347">389 U. S. 347</a> (1967), can be deemed controlling both for the reasons discussed in my dissent in Desist v. United States, <a href="../us394/us394-0244.xml#p244">394 U. S. 244</a>, <a href="../us394/us394-0244.xml#p256">394 U. S. 256</a> (1969), and my separate opinion in Mackey v. United States (and companion cases), ante, p. <a href="./us401-0667.xml#p675">401 U. S. 675</a> (the case before us being here on direct review), and because, in my view, it requires no discussion of the holding in Katz, as distinguished from its underlying rationale as to the reach of the Fourth Amendment, to comprehend the constitutional infirmity of On Lee.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>Before turning to matters of precedent and policy, several preliminary observations should be made. We deal here with the constitutional validity of instantaneous third-party electronic eavesdropping, conducted by federal law enforcement officers, without any prior judicial approval of the technique utilized, but with the consent and cooperation of a participant in the conversation, [Footnote 3/1]</p>
       <n id="p770">770</n>
       <p>and where the substance of the matter electronically overheard [Footnote 3/2] is related in a federal criminal trial by those who eavesdropped as direct, not merely corroborative, evidence of the guilt of the nonconsenting party. The magnitude of the issue at hand is evidenced not simply by the obvious doctrinal difficulty of weighing such activity in the Fourth Amendment balance, but also, and more importantly, by the prevalence of police utilization of this technique. Professor Westin has documented in careful detail the numerous devices that make technologically feasible the Orwellian Big Brother. Of immediate relevance is his observation that</p>
@@ -222,7 +222,7 @@
       <n id="p772">772</n>
       <p>Finally, given the importance of electronic eavesdropping as a technique for coping with the more deep-seated kinds of criminal activity, and the complexities that are encountered in striking a workable constitutional balance between the public and private interests at stake, I believe that the courts should proceed with specially measured steps in this field. More particularly, I think this Court should not foreclose itself from reconsidering doctrines that would prevent the States from seeking, independently of the niceties of federal restrictions as they may develop, solutions to such vexing problems, see Mapp v. Ohio, <a href="../us037/us037-0524.xml#p643">37 U. S. 643</a> (1961), and Ker v. California, <a href="../us374/us374-0023.xml#p23">374 U. S. 23</a> (1963), and see also Berger v. New York, <a href="../us388/us388-0041.xml#p41">388 U. S. 41</a> (1967); Baldwin v. New York, <a href="../us399/us399-0066.xml#p66">399 U. S. 66</a>, <a href="../us399/us399-0117.xml#p117">399 U. S. 117</a> (1970) (dissenting opinion); California v. Green, <a href="../us399/us399-0149.xml#p149">399 U. S. 149</a>, <a href="../us399/us399-0149.xml#p172">399 U. S. 172</a> (1970) (concurring opinion). I also think that, in the adjudication of federal cases, the Court should leave ample room for congressional developments.</p>
       <n id="p773">773</n>
-      <h>II</h>
+      <h2>II</h2>
       <p>On these premises, I move to the problem of third-party "bugging." To begin by tracing carefully the evolution of Fourth Amendment doctrine in post-On Lee decisions has proved useful in several respects. It serves to cast in perspective both the issue involved here and the imperative necessity for reconsidering On Lee afresh. Additionally, a full exposition of the dynamics of the decline of the trespass rationale underlying On Lee strikingly illuminates the deficiencies of the plurality opinion's retroactivity analysis.</p>
       <p>A</p>
       <p>On Lee involved circumstances virtually identical to those now before us. There, Government agents enlisted the services of Chin Poy, a former friend of Lee, who was suspected of engaging in illegal narcotics traffic. Poy was equipped with a "minifon" transmitting device which enabled outside Government agents to monitor Poy's conversations with Lee. In the privacy of his laundry, Lee made damaging admissions to Poy which were overheard by the agents and later related at trial. Poy did not testify. Mr. Justice Jackson, writing for five Justices, held the testimony admissible. Without reaching the question of whether a conversation could be the subject of a "seizure" for Fourth Amendment purposes, as yet an unanswered if not completely open question, [Footnote 3/5] the</p>
@@ -267,7 +267,7 @@
       <p>are Terry v. Ohio, supra, and Davis v. Mississippi, <a href="../us394/us394-0721.xml#p721">394 U. S. 721</a> (1969), which were also harbingers of the new thrust in Fourth Amendment doctrine. There, the Court rejected the contention that only an arrest triggered the "incident to arrest" exception to the warrant requirement of the Fourth Amendment, and held that any restraint of the person, however brief and however labeled, was subject to a reasonableness examination. 392 U.S. at <a href="../us392/us392-0001.xml#p19">392 U. S. 19</a>. The controlling principle is</p>
       <p>"to recognize that the Fourth Amendment governs all intrusions by agents of the public upon personal security, and to make the scope of the particular intrusion, in light of all the exigencies of the case, a central element in the analysis of reasonableness."</p>
       <p>392 U.S. at <a href="../us392/us392-0001.xml#p18">392 U. S. 18</a> n. 15. See also Davis v. Mississippi, 394 U.S. at <a href="../us394/us394-0721.xml#p727">394 U. S. 727</a>. [Footnote 3/20]</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>A</p>
       <p>That the foundations of On Lee have been destroyed does not, of course, mean that its result can no longer stand. Indeed, the plurality opinion today fastens upon our decisions in Lopez, Lewis v. United States, <a href="../us385/us385-0206.xml#p206">385 U. S. 206</a> (1966), and Hoffa v. United States, <a href="../us385/us385-0293.xml#p293">385 U. S. 293</a> (1966), to resist the undercurrents of more recent cases emphasizing the warrant procedure as a safeguard to privacy. But this category provides insufficient support. In each of these cases, the risk the general populace faced was different from that surfaced by the instant case. No surreptitious third ear was present, and, in each opinion, that fact was carefully noted.</p>
       <n id="p785">785</n>
@@ -295,7 +295,7 @@
       <n id="p790">790</n>
       <p>not end electronic eavesdropping. It would prevent public officials from engaging in that practice unless they first had probable cause to suspect an individual of involvement in illegal activities and had tested their version of the facts before a detached judicial officer. The interest On Lee fails to protect is the expectation of the ordinary citizen, who has never engaged in illegal conduct in his life, that he may carry on his private discourse freely, openly, and spontaneously without measuring his every word against the connotations it might carry when instantaneously heard by others unknown to him and unfamiliar with his situation or analyzed in a cold, formal record played days, months, or years after the conversation. Interposition of a warrant requirement is designed not to shield "wrongdoers," but to secure a measure of privacy and a sense of personal security throughout our society.</p>
       <p>The Fourth Amendment does, of course, leave room for the employment of modern technology in criminal law enforcement, but in the stream of current developments in Fourth Amendment law, I think it must be held that third-party electronic monitoring, subject only to the self-restraint of law enforcement officials has no place in our society.</p>
-      <h>IV</h>
+      <h2>IV</h2>
       <p>I reach these conclusions notwithstanding seemingly contrary views espoused by both Congress and an American Bar Association study group. [Footnote 3/25] Both the ABA</p>
       <n id="p791">791</n>
       <p>study and Title III of the Omnibus Crime Control and Safe Streets Act of 1968, 82 Stat. 212, 18 U.S.C. § 2510 et seq. (1964 ed., Supp. V), appear to reflect little more than this Court's prior decisions. Indeed, the comprehensive provisions of Title III are evidence of the extent of congressional concern with the impact of electronic surveillance on the right to privacy. This concern is further manifested in the introductory section of the Senate Committee Report. [Footnote 3/26] Although § 2511(2)(c) exempts consensual and participant monitoring by law enforcement agents from the general prohibitions against surveillance without prior judicial authorization and makes the fruits admissible in court, see § 2515, congressional malaise with such conduct is evidenced by the contrastingly limited endorsement of consensual surveillance carried out by private individuals. [Footnote 3/27] While individual Congressmen expressed concern about and criticized the provisions for unsupervised consensual electronic surveillance contained in § 2511, [Footnote 3/28] the Senate Committee Report comment, to the effect that "[i]t [§ 2511(2)(c)] largely reflects existing law," S.Rep. No. 1097, 90th Cong., 2d Sess., 994 (1968), followed by citations to On Lee and Lopez, [Footnote 3/29] strongly suggests that the provisions represent not intractable approval of these practices, but rather an intention to adopt these holdings and to leave to the courts the task of determining their viability in</p>
@@ -307,7 +307,7 @@
       <p>spirit of the principle is captured by the oft-quoted language of Boyd v. United States, 116 U.S. at <a href="../us116/us116-0616.xml#p630">116 U. S. 630</a>:</p>
       <p>"The principles laid down in this opinion [speaking of Entick v. Carrington, 19 How.St.Tr. 1029 (1765)] affect the very essence of constitutional liberty and security. They reach farther than the concrete form of the case then before the court, with its adventitious circumstances; they apply to all invasions on the part of the government and its employes of the sanctity of a man's home and the privacies of life. It is not the breaking of his doors, and the rummaging of his drawers, that constitutes the essence of the offence; but it is the invasion of his indefeasible right of personal security. . . ."</p>
       <p>What this means is that the burden of guarding privacy in a free society should not be on its citizens; it is the Government that must justify its need to electronically eavesdrop.</p>
-      <h>V</h>
+      <h2>V</h2>
       <p>Not content to rest upon the proposition that On Lee remains sound law, the plurality opinion would also hold that the Court of Appeals erred further in disposing "of this case based on its understanding of the principles announced in the Katz case," ante at <a href="./us401-0745.xml#p754">401 U. S. 754</a>, because Desist v. United States, <a href="../us394/us394-0244.xml#p244">394 U. S. 244</a> (1969), held that Katz governed only governmental conduct occurring after the decision in Katz. It is difficult to know where to begin to analyze such a truly extraordinary assertion respecting the operation of the judicial process.</p>
       <p>Because this case is here on direct review, even were the issues squarely controlled by Katz, I would unhesitatingly apply here the rule there adopted, for the reasons first expressed in my dissent in Desist, 394 U.S. at <a href="../us394/us394-0244.xml#p256">394 U. S. 256</a>, and elaborated in my separate opinion in Mackey</p>
       <n id="p794">794</n>

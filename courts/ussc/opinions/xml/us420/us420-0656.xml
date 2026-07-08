@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us420-0656.html" citation="420 U.S. 656" title="Austin v. New Hampshire">
   <opinion type="Opinions &amp; Dissents">
     <n id="p656">656</n>
-    <h>U.S. Supreme Court</h>
-    <h>Austin v. New Hampshire, <a href="./us420-0656.xml#p656">420 U.S. 656</a> (1975)</h>
-    <h>Austin v. New Hampshire</h>
-    <h>No. 73-2060</h>
-    <h>Argued January 15, 1975</h>
-    <h>Decided March 19, 1975</h>
-    <h><a href="./us420-0656.xml#p656">420 U.S. 656</a></h>
-    <h>APPEAL FROM THE SUPREME COURT OF NEW HAMPSHIRE</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Austin v. New Hampshire, <a href="./us420-0656.xml#p656">420 U.S. 656</a> (1975)</h1>
+    <h2>Austin v. New Hampshire</h2>
+    <h4>No. 73-2060</h4>
+    <h4>Argued January 15, 1975</h4>
+    <h4>Decided March 19, 1975</h4>
+    <h2>APPEAL FROM THE SUPREME COURT OF NEW HAMPSHIRE</h2>
+    <h2>Syllabus</h2>
     <p>The New Hampshire Commuters Income Tax imposes a tax on nonresidents' New Hampshire-derived income above $2,000 at a 4% rate, except that, if the nonresident's State of residence would impose a lesser tax had the income been earned in that State, the New Hampshire tax is reduced to that amount. The Commuters Income Tax contains provisions that, in practical effect exempt from tax income earned by New Hampshire residents outside the State, and New Hampshire imposes no tax on its residents' domestic earned income.</p>
     <p>Held: Under the rule requiring substantial equality of treatment for the citizens of the taxing State and nonresident taxpayers, the New Hampshire Commuters Income Tax violates the Privileges and Immunities Clause, since the tax falls exclusively on nonresidents' incomes and is not offset even approximately by other taxes imposed upon residents alone. Pp. <a href="./us420-0656.xml#p665">420 U. S. 665</a>-668.</p>
     <p>(a) The State's contention that the tax's ultimate burden is not in effect more onerous on nonresidents because their total tax liability is unchanged once the tax credit received from their State of residence is taken into account cannot be squared with the underlying policy of comity that the Privileges and Immunities Clause requires. Pp. <a href="./us420-0656.xml#p665">420 U. S. 665</a>-666.</p>
@@ -20,7 +20,7 @@
     <n id="p657">657</n>
     <p>MR. JUSTICE MARSHALL delivered the opinion of the Court.</p>
     <p>Appellants are residents of Maine who were employed in New Hampshire during the 1970 tax year and, as such, were subject to the New Hampshire Commuters Income Tax. On behalf of themselves and others similarly situated, they petitioned the New Hampshire Superior Court for a declaration that the tax violates the Privileges and Immunities and Equal Protection Clauses of the Constitutions of New Hampshire and of the United States. The cause was transferred directly to the New Hampshire Supreme Court, which upheld the tax. 114 N.H. 137, 316 A.2d 165 (1974). We noted probable jurisdiction of the federal constitutional claims, 419 U.S. 822 (1974), and, on the basis of the Privileges and Immunities Clause of Art. IV, we now reverse.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The New Hampshire Commuters Income Tax imposes a tax on nonresidents' New Hampshire-derived income in</p>
     <n id="p658">658</n>
     <p>excess of $2,000. [<a id="nf1" href="#fn1">Footnote 1</a>] The tax rate is 4%, except that, if the nonresident taxpayer's State of residence would impose a lesser tax had the income been earned in that State, the New Hampshire tax is reduced to the amount of the tax that the State of residence would impose. Employers are required to withhold 4% of the nonresident's income, however, even if his home State would tax him at less than the full 4%. Any excess tax withheld is refunded to the nonresident upon his filing a New Hampshire tax return after the close of the tax year showing that he is entitled to be taxed at a rate less than 4%.</p>
@@ -28,7 +28,7 @@
     <n id="p659">659</n>
     <p>The effect of these imposition and exemption features is that no resident of New Hampshire is taxed on his out-of-state income. Nor is the domestic earned income of New Hampshire residents taxed. In effect, then, the State taxes only the incomes of nonresidents working in New Hampshire; [<a id="nf3" href="#fn3">Footnote 3</a>] it is on the basis of this disparate treatment of residents and nonresidents that appellants challenge New Hampshire's right to tax their income from employment in that State. [<a id="nf4" href="#fn4">Footnote 4</a>]</p>
     <n id="p660">660</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>The Privileges and Immunities Clause of Art. IV, § 2, cl. 1, provides: "The Citizens of each State shall be entitled to all Privileges and Immunities of Citizens in the several States." The Clause thus establishes a norm of comity without specifying the particular subjects as to which citizens of one State coming within the jurisdiction of another are guaranteed equality of treatment. The origins of the Clause do reveal, however, the concerns of central import to the Framers. During the pre-constitutional period, the practice of some States denying to outlanders the treatment that its citizens demanded for themselves was widespread. The fourth of the Articles of Confederation was intended to arrest this centrifugal tendency with some particularity. It provided:</p>
     <p>"The better to secure and perpetuate mutual friendship and intercourse among the people of the different States in this Union, the free inhabitants of each of these States, paupers, vagabonds and fugitives from justice excepted, shall be entitled to all privileges and immunities of free citizens in the several States; and the people of each State shall have free ingress and regress to and from any other State, and shall enjoy therein all the privileges of trade and commerce, subject to the same duties, impositions and restrictions as the inhabitants thereof respectively."</p>
     <p>The discriminations at which this Clause was aimed were by no means eradicated during the short life of the Confederation, [<a id="nf5" href="#fn5">Footnote 5</a>]</p>
@@ -49,9 +49,9 @@
     <p>The principles of Ward and Travellers' were applied to taxes on nonresidents' local incomes in Shaffer v. Carter, <a href="../us252/us252-0037.xml#p37">252 U. S. 37</a> (1920), and Travis v. Yale &amp; Towne Mfg. Co., supra. Shaffer upheld the Oklahoma tax on income derived from local property and business by a nonresident where the State also taxed the income from wherever derived -- of its own citizens. Putting aside "theoretical distinctions" and looking to "the practical effect and operation" of the scheme, the nonresident was not treated more onerously than the resident in any particular, and, in fact, was called upon to make no more than his ratable contribution to the support of the state government. The New York tax on residents' and nonresidents' income at issue in Travis, by contrast, could not be sustained when its actual effect was considered. The tax there granted personal exemptions to each resident</p>
     <n id="p665">665</n>
     <p>taxpayer for himself and each dependent, but it made no similar provision for nonresidents. The disparity could not be "deemed to be counterbalanced" by an exemption for nonresidents' interest and dividend income because it was not likely "to benefit nonresidents to a degree corresponding to the discrimination against them." Looking to "the concrete, the particular incidence" of the tax, therefore, the Court said of the many New Jersey and Connecticut residents who worked in New York:</p>
-    <p>"They pursue their several occupations side by side with residents of the State of New York -- in effect competing with them as to wages, salaries, and other terms of employment. Whether they must pay a tax upon the first $1,000 or $2,000 of income, while their associates and competitors who reside in New York do not, makes a substantial difference. . . . This is not a case of occasional or accidental inequality due to circumstances personal to the taxpayer . . . , but a general rule, operating to the disadvantage of all nonresidents . . . and favoring all residents. . . ."</p>
+    <p>"They pursue their several occupations side by side with residents of the State of New York -- in effect competing with them as to wages, salaries, and other terms of employment. Whether they must pay a tax upon the first $1,000 or $2,000 of income, while their associates and competitors who reside in New York do not, makes a substantial difference. . . . This is not a case of occasional or accidental inequality due to circumstances personal to the taxpayer . . ., but a general rule, operating to the disadvantage of all nonresidents . . . and favoring all residents. . . ."</p>
     <p>252 U.S. at <a href="../us252/us252-0060.xml#p80">252 U. S. 80</a>-81 (citations omitted).</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Against this background establishing a rule of substantial equality of treatment for the citizens of the taxing State and nonresident taxpayers, the New Hampshire Commuters Income Tax cannot be sustained. The overwhelming fact, as the State concedes, is that the tax falls exclusively on the income of nonresidents, and it is not offset even approximately by other taxes imposed upon residents alone. [<a id="nf10" href="#fn10">Footnote 10</a>] Rather, the argument advanced in favor</p>
     <n id="p666">666</n>
     <p>of the tax is that the ultimate burden it imposes is "not more onerous in effect," Shaffer v. Carter, supra, on nonresidents because their total state tax liability is unchanged once the tax credit they receive from their State of residence is taken into account. See <a id="nf4" href="#fn4">n</a> 4, supra. While this argument has an initial appeal, it cannot be squared with the underlying policy of comity to which the Privileges and Immunities Clause commits us.</p>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us479-0305.html" citation="479 U.S. 305" title="West Virginia v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p305">305</n>
-    <h>U.S. Supreme Court</h>
-    <h>West Virginia v. United States, <a href="./us479-0305.xml#p305">479 U.S. 305</a> (1987)</h>
-    <h>West Virginia v. United States</h>
-    <h>No. 85-937</h>
-    <h>Argued November 10, 1986</h>
-    <h>Decided January 13, 1987</h>
-    <h><a href="./us479-0305.xml#p305">479 U.S. 305</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE FOURTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>West Virginia v. United States, <a href="./us479-0305.xml#p305">479 U.S. 305</a> (1987)</h1>
+    <h2>West Virginia v. United States</h2>
+    <h2>No. 85-937</h2>
+    <h4>Argued November 10, 1986</h4>
+    <h4>Decided January 13, 1987</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE FOURTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>The President declared floods that occurred in 1972 in West Virginia to be "major disasters," qualifying the affected areas for federal relief under the Disaster Relief Act of 1970 (DRA) (later repealed). Section 226(a) of the DRA provided that any mobile home or temporary housing for displaced persons was to be placed on a site provided by the State "without charge to the United States." In the aftermath of the disasters here, the Army Corps of Engineers, at the State's request, prepared sites for mobile homes and, in late 1972 and early 1973, billed the State for such services. The State acknowledged the bills, but failed to make any payment. After delaying at the State's request, the United States brought suit against the State in 1978, seeking to recover site preparation costs plus prejudgment interest. The District Court held that the State was contractually obligated to the Corps for site preparation services, but denied the United States' motion for an order of prejudgment interest on the debt. The Court of Appeals affirmed the District Court's holding that the State was contractually obligated on the debt, but reversed the determination that the State was not liable for prejudgment interest.</p>
     <p>Held: West Virginia is liable for prejudgment interest on the debt arising from the contractual obligation to reimburse the United States for services rendered by the Corps. The rule governing the interest to be recovered as damages for delayed payment of a contractual obligation to the United States is not controlled by state law. While there are instances in which state law may be adopted as the federal rule of decision, this case presents no compelling reason for doing so. A single nationwide rule is preferable, and the incorporation of state law would not give due regard to the federal interest in maintaining the apportionment of responsibility Congress devised in the DRA. Before applying to a State the usual federal rule that private parties owing debts to the Federal Government must pay prejudgment interest where the underlying claim is a contractual obligation to pay money, Royal Indemnity Co. v. United States, <a href="../us313/us313-0289.xml#p289">313 U. S. 289</a>, a federal court should consider the interests of the two governments involved. Board of Comm'rs of Jackson County v. United States, <a href="../us308/us308-0343.xml#p343">308 U. S. 343</a>, <a href="../us308/us308-0343.xml#p350">308 U. S. 350</a>. Here, federal policy plainly calls for an award of interest. The DRA's purpose was not to relieve States of the entire burden of disaster relief, but to apportion that responsibility</p>
     <n id="p306">306</n>
@@ -20,7 +20,7 @@
     <p>MARSHALL, J., delivered the opinion for a unanimous Court.</p>
     <p>JUSTICE MARSHALL delivered the opinion of the Court.</p>
     <p>The issue in this case is whether the State of West Virginia is liable for prejudgment interest on a debt arising from a contractual obligation to reimburse the United States for services rendered by the Army Corps of Engineers.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>On February 26, 1972, heavy rains and resulting floods caused the collapse of a coal waste dam on Buffalo Creek in southwestern West Virginia. The "Buffalo Creek disaster" caused over 100 deaths and millions of dollars of property damage, and left thousands homeless. In August of that year, a series of storms caused widespread flooding and mudslides in the same region of the State. Although there</p>
     <n id="p307">307</n>
     <p>was no additional loss of life, the "Gilbert Creek disaster" caused substantial property damage.</p>
@@ -31,7 +31,7 @@
     <n id="p308">308</n>
     <p>the outstanding debt. [<a id="nf1" href="#fn1">Footnote 1</a>] The District Court denied the motion. It held that the appropriate analysis required an examination of the congressional purpose underlying the DRA and the relative equities between the parties. After completing that analysis, the District Court concluded that the State should not be liable for prejudgment interest. Civ.Action No. R-78-2049 (SD W.Va. Jan. 28, 1983).</p>
     <p>The United States Court of Appeals for the Fourth Circuit affirmed the District Court's holding that the State was contractually obligated on the debt, but reversed the determination that the State was not liable for prejudgment interest. 764 F.2d 1028 (1985). It held that the question was governed by federal law, under which prejudgment interest was allowable as a matter of right in a breach-of-contract action where the amount due was liquidated, ascertained, or agreed to. Id. at 1030-1031. The Court of Appeals rejected the District Court's conclusion that the determination whether prejudgment interest was owing depended on a balancing of equities, but held that, even if it were to apply the balancing test, the United States would prevail. Id. at 1032-1033. It remanded the case to the District Court to enter an award of prejudgment interest. We granted certiorari, limited to the question whether West Virginia was properly required to pay prejudgment interest. 475 U.S. 1009 (1986). We affirm.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>"[T]he rule governing the interest to be recovered as damages for delayed payment of a contractual obligation to the United States is not controlled by state statute or local common law. In the absence of an applicable federal statute, it is for the federal courts to determine, according to their own criteria, the appropriate measure of damage, expressed in terms of interest, for nonpayment of the amount found to be</p>
     <n id="p309">309</n>
     <p>due."</p>

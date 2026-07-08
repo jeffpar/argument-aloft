@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us596-20-322.html" citation="596 U.S. 20-322" title="Garland v. Gonzalez">
   <opinion type="Opinion" author="Alito">
     <p>NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 20–322</p>
-    <p>_________________</p>
     <p>MERRICK B. GARLAND, ATTORNEY GENERAL, et al., PETITIONERS v. ESTEBAN ALEMAN GONZALEZ, et al.</p>
     <p>MERRICK B. GARLAND, ATTORNEY GENERAL, et al., PETITIONERS v. EDWIN OMAR FLORES TEJADA, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the ninth circuit</p>
@@ -61,9 +60,7 @@
   </opinion>
   <opinion type="Concurrence" author="Sotomayor">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 20–322</p>
-    <p>_________________</p>
     <p>MERRICK B. GARLAND, ATTORNEY GENERAL, et al., PETITIONERS v. ESTEBAN ALEMAN GONZALEZ, et al.</p>
     <p>MERRICK B. GARLAND, ATTORNEY GENERAL, et al., PETITIONERS v. EDWIN OMAR FLORES TEJADA, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the ninth circuit</p>
@@ -72,7 +69,7 @@
     <p>The Court holds that lower federal courts are powerless to issue classwide injunctive relief against the Executive Branch’s violation of noncitizens’ rights under several provisions of the Immigration and Nationality Act (INA). It reaches this conclusion in a purportedly textualist opinion that, in truth, elevates piecemeal dictionary definitions and policy concerns over plain meaning and context. I respectfully dissent from the Court’s blinkered analysis, which will leave many vulnerable noncitizens unable to protect their rights.[<a id="nf2-1" href="#fn2-1">1</a>]</p>
     <p>I</p>
     <p>Respondents in these two cases are named plaintiffs in two class actions: Esteban Aleman Gonzalez and Jose Eduardo Gutierrez Sanchez in the Aleman Gonzalez litigation, and Edwin Omar Flores Tejada in the Flores Tejada litigation. Respondents sought withholding of removal under the INA based on their fear that, if returned to their countries of origin, they would face persecution or torture. See ante, at 2; Johnson v. Guzman Chavez, 594 U. S. ___, ___–___ (2021) (slip op., at 5–7) (explaining “withholding-only proceedings”). The Government detained them pending their proceedings, a detention this Court has held authorized by 8 U. S. C. §1231. See Guzman Chavez, 594 U. S., at ___ (slip op., at 1).</p>
-    <p>In both cases, respondents raised statutory and constitutional challenges to their prolonged detention without bond hearings. In both cases, respondents moved to certify classes of similarly situated individuals. In Aleman Gonzalez, the District Court certified a class of “ ‘all individuals who are detained pursuant to 8 U. S. C. §1231(a)(6) in the Ninth Circuit . . . and who have reached or will reach six months in detention, and have been or will be denied a prolonged detention bond hearing before an Immigration Judge.’ ” Gonzalez v. Sessions, 325 F.R.D. 616, 621, 626 (ND Cal. 2018). In Flores Tejada, the District Court certified a class of “ ‘[a]ll individuals who (1) were placed in withholding only proceedings . . . in the Western District of Washington . . . , and (2) have been detained for 180 days (a) without a custody hearing or (b) since receiving a custody hearing.’ ” App. to Pet. for Cert. 149a. By these definitions, the specified classes include only individuals against whom the Government has initiated removal proceedings.</p>
+    <p>In both cases, respondents raised statutory and constitutional challenges to their prolonged detention without bond hearings. In both cases, respondents moved to certify classes of similarly situated individuals. In Aleman Gonzalez, the District Court certified a class of “ ‘all individuals who are detained pursuant to 8 U. S. C. §1231(a)(6) in the Ninth Circuit . . . and who have reached or will reach six months in detention, and have been or will be denied a prolonged detention bond hearing before an Immigration Judge.’ ” Gonzalez v. Sessions, 325 F.R.D. 616, 621, 626 (ND Cal. 2018). In Flores Tejada, the District Court certified a class of “ ‘[a]ll individuals who (1) were placed in withholding only proceedings . . . in the Western District of Washington . . ., and (2) have been detained for 180 days (a) without a custody hearing or (b) since receiving a custody hearing.’ ” App. to Pet. for Cert. 149a. By these definitions, the specified classes include only individuals against whom the Government has initiated removal proceedings.</p>
     <p>Both District Courts held that §1231(a)(6) did not authorize prolonged detention exceeding six months without bond hearings.[<a id="nf2-2" href="#fn2-2">2</a>] Both District Courts issued classwide injunctive relief (preliminary in Aleman Gonzalez and permanent in Flores Tejada) requiring individualized bond hearings. The Ninth Circuit affirmed in relevant part.</p>
     <p>When the Government petitioned for certiorari, it challenged only the lower courts’ interpretations of §1231(a)(6) as requiring bond hearings after six months of detention. See Pet. for Cert. I. The Court granted certiorari on the question presented by the Government in these cases and a companion case from the Third Circuit. 594 U. S. ___ (2021); see Johnson v. Arteaga-Martinez, 596 U. S. ___ (2022). The Court additionally directed the parties in these cases “to brief and argue the following question: Whether, under 8 U. S. C. §1252(f )(1), the courts below had jurisdiction to grant classwide injunctive relief.” 594 U. S. ___. As to that question, the Court now holds that §1252(f )(1) barred the lower courts from granting such relief.</p>
     <p>II</p>

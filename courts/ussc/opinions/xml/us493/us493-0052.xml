@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us493-0052.html" citation="493 U.S. 52" title="U.S. v. Sperry Corp.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p52">52</n>
-    <h>U.S. Supreme Court</h>
-    <h>U.S. v. Sperry Corp., <a href="./us493-0052.xml#p52">493 U.S. 52</a> (1989)</h>
-    <h>United States v. Sperry Corporation</h>
-    <h>No. 88-952</h>
-    <h>Argued Oct. 10, 1989</h>
-    <h>Decided Nov. 28, 1989</h>
-    <h><a href="./us493-0052.xml#p52">493 U.S. 52</a></h>
-    <h>APPEAL FROM THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE FEDERAL CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>U.S. v. Sperry Corp., <a href="./us493-0052.xml#p52">493 U.S. 52</a> (1989)</h1>
+    <h2>United States v. Sperry Corporation</h2>
+    <h2>No. 88-952</h2>
+    <h4>Argued Oct. 10, 1989</h4>
+    <h4>Decided Nov. 28, 1989</h4>
+    <h2>APPEAL FROM THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE FEDERAL CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Prior to the 1979 seizure of the United States Embassy in Tehran, appellees, American parent and subsidiary corporations (hereinafter Sperry), entered into contracts with the Government of Iran. After the Embassy seizure, Sperry filed suit for claims against Iran in a Federal District Court and obtained a prejudgment attachment of Iranian assets. Subsequently, the United States and Iran entered into the Algiers Accords, which, inter alia, established the Iran-United States Claims Tribunal (Tribunal) to arbitrate Americans' claims against Iran, specified that Tribunal awards are final, binding, and enforceable in the courts of any nation, and placed $1 billion of Iranian assets in a Security Account for the payment of awards to the Federal Reserve Bank of New York (FRB) and thence to claimants. After Executive Orders implementing the Accords invalidated Sperry's attachment and prohibited it from further pursuing its claim in American courts, it filed a claim with the Tribunal and ultimately entered into a settlement agreement whereby Iran promised to pay it $2.8 million, which agreement was recorded as an award of the Tribunal. Congress then enacted § 502 of the Foreign Relations Authorization Act, Fiscal Years 1986 and 1987, which requires the FRB to deduct from any Tribunal award and to pay into the United States Treasury before remitting the award to the claimant a percentage of the award</p>
     <p>"as reimbursement to the . . . Government for expenses incurred in connection with the arbitration of claims . . . before [the] Tribunal and the maintenance of the Security Account."</p>
     <p>When the FRB so deducted a percentage of Sperry's award, Sperry renewed a suit it had previously filed in the Claims Court, arguing that the deduction authorized by § 502 was unconstitutional. The court rejected the claim and dismissed the suit, but the Court of Appeals reversed.</p>
@@ -27,7 +27,7 @@
     <p>WHITE, J., delivered the opinion for a unanimous Court.</p>
     <p>Justice WHITE delivered the opinion of the Court.</p>
     <p>Section 502 of the Foreign Relations Authorization Act, Fiscal Years 1986 and 1987, 99 Stat. 438, note following 50 U.S.C. § 1701 (1982 ed., Supp. V), requires the Federal Reserve Bank of New York to deduct and pay into the United States Treasury a percentage of any award made by the Iran-United States Claims Tribunal in favor of an American claimant before remitting the award to the claimant. We are asked to consider in this case whether § 502 violates the Just Compensation Clause or Due Process Clause of the Fifth Amendment [<a id="nf1" href="#fn1">Footnote 1</a>] or the Origination Clause of Article I, § 7. [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Appellees Sperry Corporation and Sperry World Trade, Inc. (hereinafter Sperry) [<a id="nf3" href="#fn3">Footnote 3</a>] are American corporations that</p>
     <n id="p55">55</n>
     <p>entered into contracts with the Government of Iran prior to the seizure of the United States Embassy in Tehran on November 4, 1979. The details of the seizure of the Embassy and diplomatic personnel and the ensuing diplomatic crisis want no repetition here. We need address only the means eventually established by the Governments of the United States and Iran to resolve claims by American companies against Iran.</p>
@@ -51,7 +51,7 @@
     <p>The United States invoked our appellate jurisdiction under the version of 28 U.S.C. § 1252 (1982 ed.) in effect before its</p>
     <n id="p59">59</n>
     <p>amendment in 1988. [<a id="nf5" href="#fn5">Footnote 5</a>] We noted probable jurisdiction, 489 U.S. 1009 (1989), and we now reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Sperry argues that the deduction is a part of Congress' scheme to shift to American claimants against Iran those costs of settling the diplomatic crisis that should have been borne by the Nation as a whole. As we see it, however, Sperry has not identified any of its property that was taken without just compensation. To the extent the Court of Appeals' decision may be read as concluding that Sperry suffered a taking of its property because its prejudgment attachment against Iranian assets was nullified by the Executive Orders implementing the Accords, see 853 F.2d at 907, that conclusion is incorrect; we held in Dames &amp; Moore v. Regan, 463 U.S. at <a href="../us463/us463-0646.xml#p674"> 463 U. S. 674</a>, n. 6, that American litigants against Iran had no property interest in such attachments. Nor did Sperry suffer the deprivation of its claim against Iran. Sperry presented its claim to the Tribunal and settled the claim for a substantial sum. [<a id="nf6" href="#fn6">Footnote 6</a>] And we note that Sperry makes no claim that the gross amount of the award was less</p>
     <n id="p60">60</n>
     <p>than what would have been recovered in ordinary litigation and that being forced to take the lesser amount was an unconstitutional taking of property. The case thus turns only on the constitutionality of the deduction.</p>
@@ -69,7 +69,7 @@
     <p>It is not at all dispositive that the award to Sperry was more the result of private negotiations between Sperry and Iran than the Tribunal procedures placed.at Sperry's disposal. Sperry filed its claim with the Tribunal and had a formal award entered. Furthermore, Sperry may be required to pay a charge for the availability of the Tribunal even if it never actually used the Tribunal; Sperry received the "benefit from [the Tribunal] in the sense that the services are available for [its] use." Massachusetts v. United States, supra,</p>
     <n id="p64">64</n>
     <p>at 435 U.S. 468; see also Clyde Mallory Lines v. Alabama ex rel. State Docks Comm'n, <a href="../us296/us296-0261.xml#p261">296 U. S. 261</a>, <a href="../us296/us296-0261.xml#p266">296 U. S. 266</a>-267 (1935). Had Sperry's negotiations with Iran failed, it would have then had the opportunity to use the hearing rooms, translation facilities, and facilities for service of documents made available through the Tribunal and the State Department. The Tribunal made available to claimants such as Sperry sufficient benefits to justify the imposition of a reasonable user fee.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>We turn next to Sperry's due process claims. Sperry urges that § 502 violates the Due Process Clause because the deductions apply to awards, such as Sperry's, made by the Tribunal prior to the enactment of the statute. Our standard of review is settled:</p>
     <p>"[R]etroactive legislation does have to meet a burden not faced by legislation that has only future effects."</p>
     <p>"It does not follow . . . that what Congress can legislate prospectively it can legislate retrospectively. The retroactive aspects of legislation, as well as the prospective aspects, must meet the test of due process, and the justifications for the latter may not suffice for the former."</p>
@@ -81,7 +81,7 @@
     <p>Nor does § 502 violate the equal protection component of the Due Process Clause [<a id="nf10" href="#fn10">Footnote 10</a>] because it assesses a user fee only against claimants who have actually received an award from the Tribunal, and not against all claimants before the Tribunal. The classification implicitly made by § 502 neither burdens fundamental constitutional rights nor creates suspect classifications, so again our standard of review is that of rationality. See United States Railroad Retirement Board v. Fritz, <a href="../us449/us449-0166.xml#p166">449 U. S. 166</a>, <a href="../us449/us449-0166.xml#p174">449 U. S. 174</a>-175 (1980). Congress could have rationally concluded that only those who are successful before the Tribunal realize a benefit therefrom sufficient to justify assessment of a fee. Congress could also have determined that assessing a user fee against all claimants would undesirably deter those whose claims were small or uncertain of success from presenting them to the Tribunal. This case is wholly unlike Rinaldi v. Yeager, <a href="../us384/us384-0305.xml#p305">384 U. S. 305</a> (1966), where the Court was unable to discern any legitimate interest that was served by a requirement that the State be reimbursed for the cost of criminal trial transcripts by incarcerated prisoners unsuccessful in their appeals but not by other indigent appellants, even other unsuccessful ones who had not been incarcerated. Here the costs are imposed on only the successful claimants, not, as in Rinaldi, only the unsuccessful ones, a situation presenting entirely different considerations.</p>
     <n id="p66">66</n>
     <p>Moreover, as discussed supra at <a href="./us493-0052.xml#p65">493 U. S. 65</a>, a sensible distinction may be made between successful claimants who have completed the Tribunal proceedings and all other claimants.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>As a final ground for affirming the judgment below, Sperry relies on an argument presented to but not passed on by the Court of Appeals, i.e., that § 502 was enacted in violation of the Origination Clause of Article I, § 7, which provides that</p>
     <p>"[a]ll Bills for raising Revenue shall originate in the House of Representatives; but the Senate may propose or concur with Amendments as on other Bills."</p>
     <p>Sperry refers us to the legislative history of the Foreign Relations Authorization Act, which indicates that § 502 was added as a Senate amendment to a bill that contained no revenue-raising provisions when it originated in the House.</p>

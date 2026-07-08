@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us437-0019.html" citation="437 U.S. 19" title="Greene v. Massey">
   <opinion type="Opinions &amp; Dissents">
     <n id="p19">19</n>
-    <h>U.S. Supreme Court</h>
-    <h>Greene v. Massey, <a href="./us437-0019.xml#p19">437 U.S. 19</a> (1978)</h>
-    <h>Greene v. Massey</h>
-    <h>No. 76-6617</h>
-    <h>Argued November 28, 1977</h>
-    <h>Decided June 14, 1978</h>
-    <h><a href="./us437-0019.xml#p19">437 U.S. 19</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE FIFTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Greene v. Massey, <a href="./us437-0019.xml#p19">437 U.S. 19</a> (1978)</h1>
+    <h2>Greene v. Massey</h2>
+    <h2>No. 76-6617</h2>
+    <h4>Argued November 28, 1977</h4>
+    <h4>Decided June 14, 1978</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE FIFTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>On appeal of the first-degree murder convictions of petitioner and another, the Florida Supreme Court reversed by a per curiam opinion and ordered a new trial. That opinion, which a majority of four justices joined, stated that "the evidence was definitely lacking in establishing beyond a reasonable doubt that the defendants committed murder in the first degree," and that the "interests of justice require a new trial." Three justices dissented without opinion. Three of the justices who had joined the per curiam also filed a "special concurrence," which, though concerned only with trial error, concluded that, "[f]or the reasons stated, the judgments should be reversed and remanded for a new trial, so we have agreed to the Per curiam order doing so." Before the second trial, defendants unsuccessfully contended in the state courts that the per curiam opinion was tantamount to a finding that the trial court should have directed a verdict of not guilty, and that a second trial for first-degree murder would constitute double jeopardy; and the defendants were retried and convicted of first-degree murder. Petitioner and his codefendant, by appeal in the state courts and petitioner by application for habeas corpus in the District Court and Court of Appeals, unavailingly pressed their double jeopardy claims.</p>
     <p>Held: Burks v. United States, ante <a href="./us437-0001.xml#p1">437 U. S.</a> 1, precludes a second trial once a reviewing court has determined that the evidence introduced at trial is insufficient to sustain the verdict. Standing by itself, the per curiam would therefore clearly compel the conclusion that petitioner's second trial violated the Double Jeopardy Clause. But the special concurrence leaves open the possibility that three of the justices who joined the per curiam were concerned simply with trial error, and joined in the remand solely to give the defendants an error-free trial -- even though they were satisfied that the evidence was sufficient to support the verdict. So that the ambiguity can be resolved, the case is remanded to the Court of Appeals for reconsideration in light of the Court's opinion and Burks, supra. Pp. <a href="./us437-0019.xml#p24">437 U. S. 24</a>-27.</p>
     <p>546 F.2d 51, reversed and remanded.</p>
@@ -20,7 +20,7 @@
     <p>J., filed a concurring opinion, post, p. 27. REHNQUIST, J., filed an opinion concurring in the judgment, post, p. <a href="./us437-0019.xml#p27">437 U. S. 27</a>. BLACKMUN, J., took no part in the consideration or decision of the case.</p>
     <p>MR. CHIEF JUSTICE BURGER delivered the opinion of the Court.</p>
     <p>We granted certiorari to decide whether a State may retry a defendant after his conviction has been reversed by an appellate court on the ground that the evidence introduced at the prior trial was insufficient, as a matter of law, to sustain the jury's verdict.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>On September 7, 1965, petitioner Greene and Jose Manuel Sosa were indicted by a Florida grand jury for the murder of Nicanor Martinez. The indictment charged that Sosa "did hire, procure, aid, abet and counsel" Greene to murder Martinez, and that petitioner had carried out the premeditated plan, shooting the victim to death with a pistol. A state court jury subsequently found the defendants guilty of first-degree murder, without a recommendation of mercy. Pursuant to Florida law at the time, the trial court sentenced both defendants to death.</p>
     <p>On appeal to the Florida Supreme Court, the convictions of Greene and Sosa were reversed and new trials ordered. The reviewing court was sharply divided, however, with a majority composed of four justices joining a brief per curiam opinion which disposed of the case in the following terms:</p>
     <p>"After a careful review of the voluminous evidence here, we are of the view that the evidence was definitely lacking</p>
@@ -43,7 +43,7 @@
     <n id="p24">24</n>
     <p>dismiss the petition. From this ruling, petitioner appealed to the Court of Appeal, which affirmed the District Court on the basis of an earlier Fifth Circuit case, United States v. Musquiz, 445 F.2d 963 (1971). 546 F.2d 51 (177). The Musquiz decision had interpreted several of this Court's cases [<a id="nf6" href="#fn6">Footnote 6</a>] to mean that, under 28 U.S.C. § 2106, a court of appeals could order a new trial after a conviction had been reversed due to evidentiary insufficiency "if a motion for a new trial was made in the trial court." 546 F.2d at 56. Noting that Greene had made a motion for a new trial after his first conviction, and that the Florida Supreme Court had "review power at least equal to that possessed by this Court [of Appeals] under § 2106," ibid., the court held that a new trial had been a constitutionally permissible remedy.</p>
     <p>We granted certiorari, 432 U.S. 905 (1977), to review the judgment of the United States Court of Appeals.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>In Burks v. United States, ante p. 1, decided today, we have held that the Double Jeopardy Clause precludes a second trial once a reviewing court has determined that the evidence introduced at trial was insufficient to sustain the verdict. Since the constitutional prohibition against double jeopardy is fully applicable to state criminal proceedings, Benton v. Maryland, supra, we are bound to apply the standard announced in Burks to the case now under review.</p>
     <p>If we were confronted only with the per curiam opinion of the Florida Supreme Court, reversal in this case would follow.</p>
     <n id="p25">25</n>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us481-0770.html" citation="481 U.S. 770" title="Hilton v. Braunskill">
   <opinion type="Opinions &amp; Dissents">
     <n id="p770">770</n>
-    <h>U.S. Supreme Court</h>
-    <h>Hilton v. Braunskill, <a href="./us481-0770.xml#p770">481 U.S. 770</a> (1987)</h>
-    <h>Hilton v. Braunskill</h>
-    <h>No. 86-108</h>
-    <h>Argued March 25, 1987</h>
-    <h>Decided May 26, 1987</h>
-    <h><a href="./us481-0770.xml#p770">481 U.S. 770</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE THIRD CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Hilton v. Braunskill, <a href="./us481-0770.xml#p770">481 U.S. 770</a> (1987)</h1>
+    <h2>Hilton v. Braunskill</h2>
+    <h2>No. 86-108</h2>
+    <h4>Argued March 25, 1987</h4>
+    <h4>Decided May 26, 1987</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE THIRD CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Federal Rule of Appellate Procedure 23(c) provides that, when a State appeals a federal court decision granting a writ of habeas corpus to a state prisoner, the habeas petitioner shall be released from custody "unless the court or justice or judge rendering the decision, or the court of appeals or the Supreme Court, or a judge or justice of either court shall otherwise order." Rule 23(d) states that initial orders issued pursuant to Rule 23(c) shall</p>
     <p>"govern review in the court of appeals and in the Supreme Court unless for special reasons shown . . . the order shall be modified, or an independent order respecting custody, enlargement or surety shall be made."</p>
     <p>Respondent, a prisoner serving a state court sentence, filed a habeas corpus petition in the Federal District Court, which found that his constitutional rights had been violated at his state court trial and ordered that a writ of habeas corpus "shall issue unless within 30 days" the State granted a new trial. The court subsequently denied petitioners' motion to stay its order pending appeal, basing its denial on Third Circuit authority that, under Rules 23(c) and (d), a federal court deciding whether to release a successful habeas petitioner could consider only the risk that the prisoner would not appear for subsequent proceedings, not his danger to the community, and finding that petitioners had failed to show such risk here. The Court of Appeals denied petitioners' motion for a stay of the District Court's order releasing respondent.</p>
@@ -78,7 +78,7 @@
       <p>In light of the differences between general civil litigation and habeas corpus proceedings, we have recognized that there are some circumstances where a civil rule of procedure should not govern habeas proceedings. See Harris v. Nelson, <a href="../us394/us394-0286.xml#p286">394 U. S. 286</a>, 294 (1969); see also Fed.Rule Civ.Proc. 81(a)(2). Neither Harris v. Nelson, supra, nor Federal Rule of Civil Procedure 81(a)(2), however, forecloses the approach we uphold today. Where, as here, the need is evident for principles to guide the conduct of habeas proceedings, it is entirely appropriate to "use . . . [general civil] rules by analogy or otherwise." Harris v. Nelson, supra, at <a href="../us394/us394-0286.xml#p294">394 U. S. 294</a>.</p>
       <p>JUSTICE MARSHALL, with whom JUSTICE BRENNAN and JUSTICE BLACKMUN join, dissenting.</p>
       <p>This Court construes Federal Rules of Appellate Procedure 23(c) and 23(d) to invest federal courts with broad discretion to keep a successful habeas petitioner in custody pending appeal by the State. Because I believe that this novel approach allows federal courts to usurp the role of the state courts and undermine the purpose of habeas corpus proceedings, I dissent.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>In our federal system, state courts are the appropriate forums for deciding questions of release for those charged with state offenses. The law that applies in these state proceedings is state bail law; in this case, state law grants respondent a right to be admitted to bail. Federal courts are not free to deprive respondent of that right, merely because the State's representative asks them to. Federal Rules of Procedure cannot supplant either substantive rights guaranteed under the state law or the state processes developed to enforce those rights.</p>
       <p>In holding that the federal courts can consider a prevailing habeas petitioner's danger to the community, the majority rejects the Third Circuit's well-reasoned decision to the contrary in Carter v. Rafferty, 781 F.2d 993 (1986). [Footnote 2/1] In that case, a Federal District Court had granted a writ of habeas corpus to Rubin "Hurricane" Carter, who had previously been convicted of murder in a New Jersey state court, and ordered him released from state custody. The State maintained that Carter was a danger to the community, and sought an order from the Court of Appeals, pursuant to Rule 23(d), to keep him in custody pending appeal. The court's analysis of Rules 23(c) and 23(d) started with several general principles: first, there is a presumption that a successful habeas</p>
       <n id="p781">781</n>
@@ -94,7 +94,7 @@
       <p>The majority suggests that refusal to allow federal courts to consider danger to the community is somehow inconsistent with the practice of granting "conditional writs" of habeas corpus, [Footnote 2/3] in which a federal court orders that the State release</p>
       <n id="p783">783</n>
       <p>the habeas petitioner within a specified period unless it retries him within that time. I do not believe that the traditional practice of issuing conditional writs is implicated by the decision in this case, which turns on fundamental principles of federal noninterference with the procedures for vindication of state law rights in state courts. I note, however, that the practice is entirely consistent with the traditional concept of deference to state courts. By delaying issuance of the writ for a reasonable period, the federal court gives the State an opportunity to correct the constitutional defect itself through retrial in its own courts.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>Under today's decision, a federal court can disregard both state law and state processes and authorize the indefinite detention of a successful habeas petitioner, without a full-blown adversary hearing, without appointing counsel, with out providing immediate appellate review of its decision, and without satisfying any elevated burden of proof. Compare United States v. Salerno, ante at <a href="./us481-0739.xml#p747">481 U. S. 747</a>, <a href="./us481-0739.xml#p751">481 U. S. 751</a>-752. The Court's analysis in this area strikes me as result-oriented, to say the least. Writing for the Court in Salerno, THE CHIEF JUSTICE chose to rely on the "numerous procedural safeguards" contained in the Bail Reform Act of 1984 to sustain the statute's constitutionality. Ante at <a href="./us481-0739.xml#p756">481 U. S. 756</a>. Recognizing the "individual's strong interest in liberty," CHIEF JUSTICE REHNQUIST stated:</p>
       <n id="p784">784</n>
       <p>"We do not minimize the importance and fundamental nature of this right. But, as our cases hold, this right may, in circumstances where the government's interest is sufficiently weighty, be subordinated to the greater needs of society. We think that Congress' careful delineation of the circumstances under which detention will be permitted satisfies this standard."</p>
@@ -107,7 +107,7 @@
       <p>to provide "protection against illegal custody." Brown v. Allen, <a href="../us344/us344-0443.xml#p443">344 U. S. 443</a>, <a href="../us344/us344-0443.xml#p465">344 U. S. 465</a> (1953); see also Preiser v. Rodriguez, <a href="../us411/us411-0475.xml#p475">411 U. S. 475</a>, <a href="../us411/us411-0475.xml#p485">411 U. S. 485</a>-486 (1973). In this case, at the time the writ issued, respondent had spent five years in prison. He would have been eligible for parole in approximately eight months. [Footnote 2/4] Had the State obtained a stay of release, he undoubtedly would have to serve the entire sentence imposed pursuant to a conviction now determined to be unconstitutional. The writ of habeas corpus would have provided him no protection against illegal custody. If a prisoner's confinement is to continue pending appeal, it should only be for reasons consistent with, or at least not in conflict with, the primary purpose of habeas corpus. These reasons cannot include continuation of punishment, as the majority implies. See ante at <a href="./us481-0770.xml#p777">481 U. S. 777</a>.</p>
       <p>Finally, continued reliance on the state conviction in this case ignores the nature of the constitutional defect identified by the District Court: the error in this case directly implicates the truthfinding process. Respondent has consistently maintained that this is a case of mistaken identity, and that he was elsewhere on the night of the crime. As part of his defense, he sought to introduce the testimony of an alibi witness. Because his counsel failed to file a timely notice of alibi testimony, the trial court refused to allow him to do so. Even without the benefit of the witness' testimony, the jury deliberated for 2 1/2 days before returning a guilty verdict. The District Court noted that an alibi witness would have strengthened respondent's case and created reasonable doubt, <a href="https://law.justia.com/cases/federal/district-courts/FSupp/629/511/1577152/">629 F. Supp. 511</a>, 523 (NJ 1986); it concluded that the trial court's refusal to allow respondent to introduce this testimony violated his Sixth Amendment right to present witnesses to establish a defense. Ibid.</p>
       <n id="p786">786</n>
-      <h>III</h>
+      <h2>III</h2>
       <p>Title 28 U.S.C. § 2243, cited by the majority, ante at <a href="./us481-0770.xml#p775">481 U. S. 775</a>, authorizes federal courts to dispose of habeas corpus matters "as law and justice require." The majority's construction of Rules 23(c) and 23(d) is contrary to both law and justice. It is inconsistent with this Court's longstanding notions of federalism and comity. It allows federal courts to substitute their own ad hoc standards for the rules and procedures the States have established for regulating the pretrial release of those accused of state law offenses.</p>
       <p>I therefore dissent.</p>
       <p>[Footnote 2/1]</p>

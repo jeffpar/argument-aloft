@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us375-0411.html" citation="375 U.S. 411" title="England v. Medical Examiners">
   <opinion type="Opinions &amp; Dissents">
     <n id="p411">411</n>
-    <h>U.S. Supreme Court</h>
-    <h>England v. Medical Examiners, <a href="./us375-0411.xml#p411">375 U.S. 411</a> (1964)</h>
-    <h>England v. Louisiana State Board of Medical Examiners</h>
-    <h>No. 7</h>
-    <h>Argued October 15, 1963</h>
-    <h>Decided January 13, 1964</h>
-    <h><a href="./us375-0411.xml#p411">375 U.S. 411</a></h>
-    <h>APPEAL FROM THE UNITED STATES DISTRICT COURT</h>
-    <h>FOR THE EASTERN DISTRICT OF LOUISIANA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>England v. Medical Examiners, <a href="./us375-0411.xml#p411">375 U.S. 411</a> (1964)</h1>
+    <h2>England v. Louisiana State Board of Medical Examiners</h2>
+    <h2>No. 7</h2>
+    <h4>Argued October 15, 1963</h4>
+    <h4>Decided January 13, 1964</h4>
+    <h2>APPEAL FROM THE UNITED STATES DISTRICT COURT</h2>
+    <h2>FOR THE EASTERN DISTRICT OF LOUISIANA</h2>
+    <h2>Syllabus</h2>
     <p>Appellants are chiropractors who seek to practice in Louisiana without complying with the educational requirements of the Louisiana Medical Practice Act. They brought this action against appellee Board of Medical Examiners in a Federal District Court for an injunction and a declaration that, as applied to them, the Act violated the Fourteenth Amendment. A three-judge court invoked the doctrine of abstention and remitted the parties to the state courts on the ground that a decision that the Act does not apply to chiropractors might end the controversy. Appellants then brought proceedings in the state courts, unreservedly submitting for decision not only the state law question, but also their Fourteenth Amendment claims, which were resolved against them. Appellants returned to the District Court, which dismissed the complaint on the ground that the federal questions had been decided by the state courts and the proper remedy was by appeal from the state courts to the Supreme Court.</p>
     <p>Held: On the record in this case, the judgment is reversed and the case is remanded to the District Court for decision on the merits of appellants' Fourteenth Amendment claims. Pp. <a href="./us375-0411.xml#p412">375 U. S. 412</a>-423.</p>
     <p>1. A party remitted to state courts by an abstention order of a Federal District Court has the right to return to the District Court, after obtaining the authoritative state court ruling for which the court abstained, for a determination of his federal claims. Pp. <a href="./us375-0411.xml#p415">375 U. S. 415</a>-417.</p>
@@ -81,7 +81,7 @@
     </f>
     <f n="3"><a id="fn3" href="#nf3">Footnote 3</a>
       <p>Appellants' petition in the Louisiana trial court appended a copy of the abstention order and opinion, and recited that the state proceeding was brought "in pursuance of and obedience to" the abstention order. Like the complaint filed in the federal court, the petition sought both declaratory and injunctive relief. The allegations were that the Medical Practice Act was inapplicable to chiropractors, and also,</p>
-      <p>"[i]n the alternative, in the event the court should hold that the Medical Practice Act does apply to your plaintiffs . . . , said Act is unconstitutional"</p>
+      <p>"[i]n the alternative, in the event the court should hold that the Medical Practice Act does apply to your plaintiffs . . ., said Act is unconstitutional"</p>
       <p>because in violation of the Fourteenth Amendment. The petition challenged the statute's validity under that Amendment in terms substantially identical to those in the federal court complaint. The trial court, on the basis of the same documentary evidence that had been submitted to the three-judge District Court, sustained appellees' defense of "no cause of action."</p>
     </f>
     <f n="4"><a id="fn4" href="#nf4">Footnote 4</a>
@@ -113,7 +113,7 @@
       <p>See Note, 59 Col.L.Rev. 749, 773 (1959); Note, 73 Harv.L.Rev. 1358, 1364 (1960), quoting brief for appellant, p. 5, in Lassiter v. Northampton County Board of Elections, <a href="../us360/us360-0045.xml#p45">360 U. S. 45</a>.</p>
     </f>
     <f n="12"><a id="fn12" href="#nf12">Footnote 12</a>
-      <p>It has been suggested that state courts may "take no more pleasure than do federal courts in deciding cases piecemeal . . . ," and</p>
+      <p>It has been suggested that state courts may "take no more pleasure than do federal courts in deciding cases piecemeal . . .," and</p>
       <p>"probably prefer to determine their questions of law with complete records of cases in which they can enter final judgments before them."</p>
       <p>Clay v. Sun Ins. Office, <a href="../us363/us363-0207.xml#p207">363 U. S. 207</a>, <a href="../us363/us363-0207.xml#p227">363 U. S. 227</a> (dissenting opinion). We are confident that state courts, sharing the abstention doctrine's purpose of "furthering the harmonious relation between state and federal authority," Railroad Comm'n of Texas v. Pullman Co., <a href="../us312/us312-0496.xml#p496">312 U. S. 496</a>, <a href="../us312/us312-0496.xml#p501">312 U. S. 501</a>, will respect a litigant's reservation of his federal claims for decision by the federal courts. See Spector Motor Service, Inc. v. Walsh, 135 Conn. 37, 40-41, 61 A.2d 89, 92. However, evidence that a party has been compelled by the state courts to litigate his federal claims there will, of course, preclude a finding that he has voluntarily done so. And if the state court has declined to decide the state question because of the litigant's refusal to submit without reservation the federal question as well, the District Court will have no alternative but to vacate its order of abstention.</p>
     </f>
@@ -124,7 +124,7 @@
       <p>The District Court's abstention order, in instructing appellants to obtain a state court determination not of the state question alone, but of "the issues here presented," was also misleading.</p>
       <p>MR. JUSTICE DOUGLAS, concurring.</p>
       <p>The judge-made rule we announce today promises to have such a serious impact on litigants who are properly in the federal courts that I think a reappraisal of Railroad Comm'n of Texas v. Pullman Co., <a href="../us312/us312-0496.xml#p496">312 U. S. 496</a>, from which today's decision stems, is necessary. Although the propriety of the Pullman doctrine, either as originally decided or as it has evolved, has not been raised by the parties, I think it is time for the Court, sua sponte, to reevaluate it.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>The Pullman case, decided a little over 20 years ago, launched an experiment in the management of federal-state relations that has inappropriately been called the "abstention doctrine." There are numerous occasions when a federal court abstains, dismissing an action or declining to entertain it because a state tribunal is a more appropriate one for resolving the controversy. A bankruptcy court commonly sends its trustee into state courts to have complex questions of local law adjudicated. Thompson v. Magnolia Co., <a href="../us309/us309-0478.xml#p478">309 U. S. 478</a>. A federal court refuses to exercise its equity powers by appointing receivers to take charge of a failing business, where state procedures afford adequate protection to all private rights. Pennsylvania v. Williams, <a href="../us294/us294-0176.xml#p176">294 U. S. 176</a>. A federal court will normally not entertain a suit to enjoin criminal prosecutions in state tribunals, with review of such convictions by this Court being restricted to constitutional issues. Beal v. Missouri Pac. R. Co., <a href="../us312/us312-0045.xml#p45">312 U. S. 45</a>. A federal court declines to entertain an action for declaratory relief against state taxes because of the federal policy against</p>
       <n id="p424">424</n>
       <p>interfering with them by injunction. Great Lakes Dredge &amp; Dock Co. v. Huffman, <a href="../us319/us319-0293.xml#p293">319 U. S. 293</a>. Where state administrative action is challenged, a federal court will normally not intervene where there is an adequate state court review which is protective of any federal constitutional claim. Burford v. Sun Oil Co., <a href="../us319/us319-0315.xml#p315">319 U. S. 315</a>; Alabama Public Service Comm'n v. Southern R. Co., <a href="../us341/us341-0341.xml#p341">341 U. S. 341</a>. The examples could be multiplied where the federal court adopts a hands-off policy and remits the litigants to a state tribunal.</p>
@@ -135,7 +135,7 @@
       <p>We therefore remanded the case</p>
       <p>"with directions to retain the bill pending a determination of proceedings, to be brought will reasonable promptness, in the state court in conformity with this opinion."</p>
       <p>Id. at <a href="../us312/us312-0496.xml#p501">312 U. S. 501</a>-502.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>I was a member of the Court that launched Pullman and sent it on its way. But if I had realized the creature it was to become, my doubts would have been far deeper than they were.</p>
       <p>Pullman from the start seemed to have some qualities of a legal research luxury. As I said in Clay v. Sun Ins. Office, <a href="../us363/us363-0207.xml#p207">363 U. S. 207</a>, <a href="../us363/us363-0207.xml#p228">363 U. S. 228</a> (dissenting opinion):</p>
       <p>"Some litigants have long purses. Many, however, can hardly afford one lawsuit, let alone two. Shuttling the parties between state and federal tribunals is a sure way of defeating the ends of justice. The pursuit of justice is not an academic exercise. There are no foundations to finance the resolution of nice state law questions involved in federal court litigation. The parties are entitled -- absent unique and rare situations -- to adjudication of their rights in the tribunals which Congress has empowered to act."</p>
@@ -172,7 +172,7 @@
       <p>Perhaps the Court does that to avoid the consequences of res judicata. But res judicata is not a constitutional principle; it has no higher dignity than the principle we announce today. In Propper v. Clark, supra, we said that, to avoid res judicata, the District Court should stay the state proceedings. Better that we approve that judge-made procedure than to overlay the treacherous requirement of the Pullman case with this new judge-made requirement.</p>
       <p>What we do today makes the Pullman case something of a Frankenstein. Any presumption should work the other way -- that he who is required to go to the state courts and does what we require him to do when he gets there is not there voluntarily, and does not forsake his federal suit unless he does something in the state courts that he is not required to do, and that evinces an election to litigate the matter finally, and not preliminarily in the state courts.</p>
       <p>As, if, and when he exhausts the state procedure and decides to come here, as was done in NAACP v. Button, <a href="../us371/us371-0415.xml#p415">371 U. S. 415</a>, he has elected to abandon the federal for the state forum. Id. at <a href="../us371/us371-0415.xml#p428">371 U. S. 428</a>. But, short of that, he seldom can be said to have made such an election. For when he pursues the matter through the hierarchy of the state courts, he is doing only what he is required to do. The only time when he goes beyond that requirement is when he takes the fork in the road leading here, rather than the one to the District Court.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>If the Pullman doctrine is to be preserved, we should lighten, rather than make more ponderous, the procedures which we have been imposing. We have made Pullman mandatory, not discretionary, with the District Courts. As stated in Louisiana P. &amp; L. Co. v. Thibodaux, <a href="../us360/us360-0025.xml#p25">360 U. S. 25</a>, <a href="../us360/us360-0025.xml#p28">360 U. S. 28</a>,</p>
       <p>". . . we have required District Courts,</p>
       <n id="p430">430</n>
@@ -183,7 +183,7 @@
       <p>360 U.S. at <a href="../us360/us360-0025.xml#p36">360 U. S. 36</a>-37.</p>
       <p>Thus, the Pullman doctrine reflects an antipathy to federal courts passing on state law questions.</p>
       <n id="p431">431</n>
-      <h>IV</h>
+      <h2>IV</h2>
       <p>There have been historic clashes between the federal courts and the States, some of them needless. See Warren, Federal and State Court Interference, 43 Harv.L.Rev. 345 (1930). The examples are numerous. Thus, federal courts, free and easy with injunctions, interfered wholesale with public utility rate orders, [Footnote 2/3] with efforts of the States to collect their revenue, [Footnote 2/4] and with suits in state courts. [Footnote 2/5] Prior to Erie R. Co. v. Tompkins, supra, the "mischievous results" (304 U.S. at <a href="../us304/us304-0064.xml#p74">304 U. S. 74</a>) of the earlier rule of <a href="../us041/us041-0001.xml#p1">Swift v. Tyson</a>, 16 Pet. 1, were apparent, federal courts, by their formulation of "general law," often defeating legitimate state policies. 304 U.S. at <a href="../us304/us304-0064.xml#p73">304 U. S. 73</a>-78. Federal courts, inflating the Due Process Clause of the Fourteenth Amendment, became a sort of super-legislature, reviewing the wisdom of a wide variety of state law. See, e.g., Lochner v. New York, <a href="../us198/us198-0045.xml#p45">198 U. S. 45</a>; Burns Baking Co. v. Bryan, <a href="../us264/us264-0504.xml#p504">264 U. S. 504</a>.</p>
       <p>Those chapters have ended, sometimes as a result of judicial housekeeping, [Footnote 2/6] at other times as a consequence of federal legislation. [Footnote 2/7] What mostly remain are clashes and conflicts between State and Nation inherent in the performance of the functions of a referee in the federal system. Such was the unavoidable consequence of the effort of the Marshall Court, beginning at least with <a href="../us022/us022-0001.xml#p1">Gibbons</a></p>
       <n id="p432">432</n>
@@ -196,8 +196,8 @@
       <p>". . . that the parties to the suit or any of them may apply at any time to the court below, by bill or otherwise, as they may be advised, for a further order or decree, in case it shall appear that the statute has been then construed by the highest court of Florida as applicable to the transactions in controversy here."</p>
       <p>Another alternative is for the District Court to follow the certificate route, when one is available. The Florida Supreme Court is authorized [Footnote 2/9] to provide by Rule [Footnote 2/10] for</p>
       <n id="p434">434</n>
-      <p>answering certificates concerning state law questions tendered by the federal courts. We use that procedure [Footnote 2/11] on Florida state law perplexities (Dresner v. Tallahassee, <a href="./us375-0136.xml#p136">375 U. S. 136</a>; Aldrich v. Aldrich, <a href="./us375-0075.xml#p75">375 U. S. 75</a>). We cannot require the States to provide such a procedure, but ,by asserting the independence of the federal courts and insisting on prompt adjudications, we will encourage its use.</p>
-      <h>V</h>
+      <p>answering certificates concerning state law questions tendered by the federal courts. We use that procedure [Footnote 2/11] on Florida state law perplexities (Dresner v. Tallahassee, <a href="./us375-0136.xml#p136">375 U. S. 136</a>; Aldrich v. Aldrich, <a href="./us375-0075.xml#p75">375 U. S. 75</a>). We cannot require the States to provide such a procedure, but,by asserting the independence of the federal courts and insisting on prompt adjudications, we will encourage its use.</p>
+      <h2>V</h2>
       <p>After today's decision, application of the Pullman doctrine to the field of civil rights, particularly to controversies involving the rights of Negroes, will have, I think, serious effects. Harrison v. NAACP, <a href="../us360/us360-0167.xml#p167">360 U. S. 167</a>, and NAACP v. Button, supra, are harbingers of things to come. The complaint in those cases was filed November 28, 1956, and our decision on the merits was not announced until January 14, 1963. In other words, nearly seven years elapsed between the institution of the litigation and an adjudication on the merits. The end product could still be described as a sizable collision between Nation and State.</p>
       <p>Cases where Negroes are prosecuted and convicted in state courts can find their way expeditiously to this Court, provided they present constitutional questions. Yet instances where Negroes assert their rights in judicial proceedings will continue to be numerous. Those suits will be civil ones, and almost always instituted in the Federal</p>
       <n id="p435">435</n>

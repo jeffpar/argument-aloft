@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us423-0122.html" citation="423 U.S. 122" title="United States v. Moore">
   <opinion type="Opinions &amp; Dissents">
     <n id="p122">122</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Moore, <a href="./us423-0122.xml#p122">423 U.S. 122</a> (1975)</h>
-    <h>United States v. Moore</h>
-    <h>No. 74-759</h>
-    <h>Argued October 7, 1975</h>
-    <h>Decided December 9, 1975</h>
-    <h><a href="./us423-0122.xml#p122">423 U.S. 122</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE DISTRICT OF COLUMBIA CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Moore, <a href="./us423-0122.xml#p122">423 U.S. 122</a> (1975)</h1>
+    <h2>United States v. Moore</h2>
+    <h2>No. 74-759</h2>
+    <h4>Argued October 7, 1975</h4>
+    <h4>Decided December 9, 1975</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE DISTRICT OF COLUMBIA CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondent, a licensed physician registered under the Controlled Substances Act (CSA), 21 U.S.C. § 801 et seq., was convicted of knowing and unlawful distribution and dispensation of methadone (a controlled substance or addictive drug used in the treatment of heroin addicts) in violation of 21 U.S.C. § 841(a)(1), which makes it unlawful for "any person" knowingly or intentionally to distribute or dispense a controlled substance, except as authorized by the CSA. The evidence disclosed that respondent prescribed large quantities of methadone for patients without giving them adequate physical examinations or specific instructions for its use and charged fees according to the quantity of methadone prescribed, rather than fees for medical services rendered. The Court of Appeals, however, reversed the conviction on the grounds that respondent was exempted from prosecution under § 841 by virtue of his status as a registrant and that a registrant can be prosecuted only under §§ 842 and 843, which prescribe less severe penalties than § 841.</p>
     <p>Held: Registered physicians can be prosecuted under § 841 when, as here, their activities fall outside the usual course of professional practice. Pp. <a href="./us423-0122.xml#p131">423 U. S. 131</a>-145.</p>
     <p>(a) Only the lawful acts of registrants under the CSA are exempted from prosecution under § 841. That section, by its terms, reaches "any person," and does not exempt (as it could have) "all registrants" or "all persons registered under the Act." The language of the qualified authorization of § 822(b), which authorizes registrants to possess, distribute, or dispense controlled substances to the extent authorized by their registration and in conformity with other CSA provisions, and which was added merely to ensure that persons engaged in lawful activities could not be prosecuted, cannot be fairly read to support the view that all activities of registered physicians are beyond the reach of § 841 simply because of their status. Pp. <a href="./us423-0122.xml#p131">423 U. S. 131</a>-133.</p>
@@ -27,7 +27,7 @@
     <n id="p124">124</n>
     <p>MR. JUSTICE POWELL delivered the opinion of the Court.</p>
     <p>The issue in this case is whether persons who are registered under the Controlled Substances Act (CSA or Act), 84 Stat. 1242, 21 U.S.C. § 801 et seq., can be prosecuted under § 841 for dispensing or distributing controlled substances. The United States Court of Appeals for the District of Columbia Circuit reversed the conviction of respondent, a licensed physician registered under the Act, on the ground that he was exempted from prosecution under § 841 by virtue of his status as a registrant. We reverse, and hold that registered physicians can be prosecuted under § 841 when their activities fall outside the usual course of professional practice.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Dr. Moore was charged, in a 639-count indictment, with the knowing and unlawful distribution and dispensation of methadone (Dolophine), a Schedule II controlled substance, [<a id="nf1" href="#fn1">Footnote 1</a>] in violation of 21 U.S.C. § 841(a)(1). That subsection provides:</p>
     <p>"Except as authorized by this subchapter, it shall be unlawful for any person knowingly or intentionally -- "</p>
     <p>"(1) to manufacture, distribute, or dispense, or</p>
@@ -54,7 +54,7 @@
     <p>It said, further, that §§ 842 and 843 were enacted to enforce that scheme, while § 841 was reserved for prosecution of those outside the "legitimate distribution chain." Persons registered under the Act were "authorized by [the] subchapter" within the meaning of § 841, and thus were thought to be immunized against prosecution under that section. [<a id="nf7" href="#fn7">Footnote 7</a>]</p>
     <n id="p131">131</n>
     <p>Respondent advances two basic arguments, contending that each requires affirmance of the Court of Appeals: (i) as that court held, registered physicians may be prosecuted only under §§ 842 and 843; and (ii) in any event, respondent cannot be prosecuted under § 841 because his conduct was "authorized by [the] subchapter" in question. We now consider each of these arguments.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>A</p>
     <p>Section 841(a)(1) makes distribution and dispensing of drugs unlawful "[e]xcept as authorized by this subchapter. . . ." Relying on this language, the Court of Appeals held that a physician registered under the Act is per se exempted from prosecution under § 841 because of his status as a registrant. We take a different view, and hold that only the lawful acts of registrants are exempted. By its terms, § 841 reaches "any person." It does not exempt (as it could have) "all registrants" or "all persons registered under this Act."</p>
     <p>The Court of Appeals relied also on § 822(b), which provides:</p>
@@ -88,7 +88,7 @@
     <n id="p138">138</n>
     <p>§ 843 so long as the technical requirements are complied with.</p>
     <p>But we think it immaterial whether Dr. Moore also could have been prosecuted for his violation of statutory provisions relating to dispensing procedures. There is nothing in the statutory scheme or the legislative history that justifies a conclusion that a registrant who may be prosecuted for the relatively minor offense of violating § 829 is thereby exempted from prosecution under § 841 for the significantly greater offense of acting as a drug "pusher." [<a id="nf15" href="#fn15">Footnote 15</a>]</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Respondent argues that, even if Congress did not intend to exempt registrants from all prosecutions under § 841, he cannot be prosecuted under that section because the specific conduct for which he was prosecuted was "authorized by [the] subchapter," and thus falls within the express exemption of the section.</p>
     <p>The trial judge assumed that a physician's activities are authorized only if they are within the usual course of professional practice. He instructed the jury that it had to find</p>
     <p>"beyond a reasonable doubt that a physician, who knowingly or intentionally, did dispense or distribute</p>
@@ -117,7 +117,7 @@
     <p>The evidence presented at trial was sufficient for the jury to find that respondent's conduct exceeded the bounds of "professional practice." [<a id="nf20" href="#fn20">Footnote 20</a>] As detailed above, he gave inadequate physical examinations or none at all.</p>
     <n id="p143">143</n>
     <p>He ignored the results of the tests he did make. He did not give methadone at the clinic, and took no precautions against its misuse and diversion. He did not regulate the dosage at all, prescribing as much and as frequently as the patient demanded. He did not charge for medical services rendered, but graduated his fee according to the number of tablets desired. In practical effect, he acted as a large-scale "pusher" -- not as a physician.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>Respondent further contended at trial that he was experimenting with a new "blockade" theory of detoxification. The jury did not believe him. Congress understandably was concerned that the drug laws not impede legitimate research, and that physicians be allowed reasonable discretion in treating patients and testing new theories. But respondent's interpretation of the Act would go far beyond authorizing legitimate research and experimentation by physicians. It would even compel exemption from the provisions of § 841 of all "registrants," including manufacturers, wholesalers, and pharmacists -- in addition to physicians.</p>
     <p>In enacting the Comprehensive Drug Abuse Prevention and Control Act of 1970, 84 Stat. 1236, Title II of which is the CSA, Congress faced the problem directly. Because of the potential for abuse, it decided that some limits on free experimentation with drugs were necessary. But it was also aware of the concern expressed by the Prettyman Commission:</p>
     <p>"[A] controversy has existed for fifty years over the extent to which narcotic drugs may be administered to an addict solely because he is an addict."</p>
@@ -129,7 +129,7 @@
     <p>In the case of methadone treatment, the limits of approved practice are particularly clear. As Dr. Moore admitted at trial, [<a id="nf22" href="#fn22">Footnote 22</a>] he was authorized only to dispense methadone for detoxification purposes. His authorization by the FDA to engage in a methadone maintenance program had been revoked. Nor was respondent unfamiliar with the procedures for conducting a legitimate detoxification program. Charges arising</p>
     <n id="p145">145</n>
     <p>out of his 1969 treatment program, which involved a combination of "long-term" and "short-term" detoxification, were dropped after he testified before a grand jury and agreed to abide by certain medical procedures in future methadone programs. These included obtaining a medical history of each patient, conducting a reasonably thorough physical examination, abiding by the results of urine tests, recording times and amounts of dosages, and either administering the methadone in his office or prescribing no more than a daily dosage. [<a id="nf23" href="#fn23">Footnote 23</a>] At trial, respondent admitted that he had failed to follow these procedures. [<a id="nf24" href="#fn24">Footnote 24</a>]</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>Respondent argues finally that the statute is sufficiently ambiguous that it must be construed in his favor despite the clear intent of the Congress. It is true that,</p>
     <p>"when choice has to be made between two readings of what conduct Congress has made a crime, it is appropriate, before we choose the harsher alternative, to require that Congress should have spoken in language that is clear and definite."</p>
     <p>United States v. Universal C.I.T. Credit Corp., <a href="../us344/us344-0218.xml#p218">344 U. S. 218</a>, <a href="../us344/us344-0218.xml#p221">344 U. S. 221</a>-222 (1952). In this case, however, the principle set forth in United States v. Brown, <a href="../us333/us333-0018.xml#p18">333 U. S. 18</a>, <a href="../us333/us333-0018.xml#p25">333 U. S. 25</a>-26 (1948), is appropriately followed:</p>

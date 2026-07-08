@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us073-0247.html" citation="73 U.S. 247" title="The Mayor v. Cooper">
   <opinion type="Opinions &amp; Dissents">
     <n id="p247">247</n>
-    <h>U.S. Supreme Court</h>
-    <h>The Mayor v. Cooper, 73 U.S. 247 (1867)</h>
-    <h>The Mayor v. Cooper</h>
-    <h>73 U.S. (6 Wall.) 247</h>
-    <h>ERROR TO THE CIRCUIT COURT FOR</h>
-    <h>THE MIDDLE DISTRICT OF TENNESSEE</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>The Mayor v. Cooper, 73 U.S. 247 (1867)</h1>
+    <h2>The Mayor v. Cooper</h2>
+    <h2>73 U.S. (6 Wall.) 247</h2>
+    <h2>ERROR TO THE CIRCUIT COURT FOR</h2>
+    <h2>THE MIDDLE DISTRICT OF TENNESSEE</h2>
+    <h2>Syllabus</h2>
     <p>1. Where a court has no jurisdiction of a case, it cannot award costs, or order execution for them to issue.</p>
     <p>2. where a party removes under a statute of the United States from a state court to the circuit court of the United States a case depending in point of merits on the right construction of such statute, the circuit court</p>
     <p>cannot dismiss and remand the case, upon motion, on the ground that it has no jurisdiction, because the statute is unconstitutional and void.</p>

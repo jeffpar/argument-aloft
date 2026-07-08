@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us417-0134.html" citation="417 U.S. 134" title="Commissioner v. National Alfalfa">
   <opinion type="Opinions &amp; Dissents">
     <n id="p134">134</n>
-    <h>U.S. Supreme Court</h>
-    <h>Commissioner v. National Alfalfa, <a href="./us417-0134.xml#p134">417 U.S. 134</a> (1974)</h>
-    <h>Commissioner of Internal Revenue v.</h>
-    <h>National Alfalfa Dehydrating &amp; Milling Co.</h>
-    <h>No. 73-9</h>
-    <h>Argued January 14, 1974</h>
-    <h>Decided May 28, 1974</h>
-    <h><a href="./us417-0134.xml#p134">417 U.S. 134</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE TENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Commissioner v. National Alfalfa, <a href="./us417-0134.xml#p134">417 U.S. 134</a> (1974)</h1>
+    <h2>Commissioner of Internal Revenue v.</h2>
+    <h2>National Alfalfa Dehydrating &amp; Milling Co.</h2>
+    <h2>No. 73-9</h2>
+    <h4>Argued January 14, 1974</h4>
+    <h4>Decided May 28, 1974</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE TENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondent corporate taxpayer, pursuant to a recapitalization plan, issued $50 face value 5% sinking fund debentures in exchange for its outstanding unlisted $50 par 5% cumulative preferred shares, which at the time were quoted at approximately $33 per share on the over-the-counter market. Based on the exchange, respondent claimed on its income tax returns for several years deductions for debt discount under § 163(a) of the Internal Revenue Code of 1954, which allows deductions for interest paid on indebtedness. Respondent asserted that the debt discount, measured by the difference between a claimed $33 per share value for the preferred and the face amount of the debentures, amortized over the life of the debentures, constituted deductible interest within the purview of that provision. The Commissioner disallowed the deductions, and was upheld by the Tax Court, but the Court of Appeals reversed.</p>
     <p>Held: Respondent did not incur amortizable debt discount upon the issuance of its debentures in exchange for its outstanding preferred stock. Pp. <a href="./us417-0134.xml#p142">417 U. S. 142</a>-155.</p>
     <p>(a) In determining whether debt discount arises in the situation presented here, the relevant inquiry must be whether the corporate taxpayer has incurred, as a result of the transaction, some cost or expense of acquiring the use of capital. P. <a href="./us417-0134.xml#p147">417 U. S. 147</a>.</p>
@@ -27,7 +27,7 @@
     <n id="p136">136</n>
     <p>MR. JUSTICE BLACKMUN delivered the opinion of the Court.</p>
     <p>A corporate taxpayer in 1957 issued $50 face value 5% sinking fund debentures in exchange for its outstanding $50 par 5% cumulative preferred shares. At the time, the preferred apparently had a fair market value f less than $50 per share. This case presents the question whether, under § 163(a) of the Internal Revenue Code of 1954, 26 U.S.C. § 163(a), [<a id="nf1" href="#fn1">Footnote 1</a>] the taxpayer is entitled to an income tax deduction for amortizable debt discount claimed to be the difference between the face amount of the debentures and the preferred's value at the time of the exchange.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The facts are stipulated. The respondent, National Alfalfa Dehydrating and Milling Company (hereinafter called "NAD" or the "taxpayer"), is a Delaware corporation organized in May, 1946. It has its principal office at Shawnee Mission, Kansas. It is engaged in the business of dehydrating and milling alfalfa.</p>
     <p>At its organization, NAD was authorized to issue $50 par cumulative preferred shares and $1 par common shares. The preferred was entitled to preferential dividends at the rate of 5% per annum and was redeemable, in whole or in part, at the discretion of the board of directors or through the operation of a sinking fund, at a stated, variable price which, in 1957, was $51 per share plus</p>
     <n id="p137">137</n>
@@ -59,7 +59,7 @@
     <n id="p142">142</n>
     <p>the face amount of the obligations issued upon the exchange. The market value of the preferred at the time of the exchange, therefore, would be of no relevance.</p>
     <p>On appeal, the United States Court of Appeals for the Tenth Circuit, by a divided vote, reversed. 472 F.2d 796 (1973). Relying upon American Smelting &amp; Refining Co. v. United States, 130 F.2d 883 (CA3 1942), and Atchison, T. &amp; S. F. R. Co. v. United States, 443 F.2d 147 (CA10 1971), the court held that the difference between the value of the preferred and the face amount of the debentures at the time of the exchange represented a discount or expense of borrowing, and qualified as an interest deduction to be properly amortized over the life of the debentures. We granted certiorari to resolve the indicated conflict. 414 U.S. 817 (1973).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The situation with which we are here concerned, therefore, is one where a taxpayer corporation issued debt obligations, namely, debentures, in exchange for its own outstanding preferred shares. It is not one where the taxpayer issued debt obligations in exchange for cash in an amount less than the obligations' face amount, or in exchange for property other than its own stock.</p>
     <p>Section 163(a), which is set forth in <a id="nf1" href="#fn1">n</a> 1, supra, is the statute NAD seeks to invoke in order to have the benefit of a deduction for what it claims is amortizable debt discount. The statute relates simply to "all interest paid or accrued within the taxable year on indebtedness." NAD's debentures obviously represented debt, and the stated 5% interest due semiannually on those debentures just as obviously would qualify as a deduction from gross income for NAD under § 163(a). The issue here, however, is whether NAD is also entitled, in addition to the deduction for the stated interest, to a further deduction,</p>
     <n id="p143">143</n>
@@ -81,7 +81,7 @@
     <n id="p147">147</n>
     <p>1235-1239 (1969); Montana Power Co. v. United States, 141 Ct.Cl. 620, 159 F. Supp. 593, cert. denied, 358 U.S. 842 (1958); Montana Power Co. v. United States, 232 F.2d 541 (CA3) (en banc), [<a id="nf10" href="#fn10">Footnote 10</a>] cert. denied, 352 U.S. 843 (1956), to the effect that it is not available. This, of course, is a broader question than the one presented in the present case, and we need not, and do not, decide that broader issue. We are concerned, instead, only with the narrow issue whether debt discount arises where a corporate taxpayer issues an obligation in exchange for its own outstanding preferred shares.</p>
     <p>In order properly to determine whether debt discount may be said to arise in such a situation, it becomes necessary to recognize the reason or factor that has been thought to justify the deduction. This has been the economic resemblance, in both form and function, which bond discount bears to stated interest for which the Revenue Acts and the Codes have allowed a deduction. Although, as has been noted, there has been some descriptive confusion in the regulations, with their references to "loss" as well as to "interest," and, as has also been noted, this Court, in Helvering v. Union Pacific R. Co., 23 U.S. at <a href="../us023/us023-0246.xml#p286">23 U. S. 286</a>, seemed to describe discount both as "interest paid for the use of capital" and as "loss resulting from the funding operation," the relevant inquiry in each case must be whether the issuer-taxpayer has incurred, as a result of the transaction, some cost or expense of acquiring the use of capital. It is to that inquiry we now turn.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>It is NAD's position, of course, that amortizable bond discount arose on the exchange of its debentures for its</p>
     <n id="p148">148</n>
     <p>outstanding preferred. It, and the Court of Appeals' majority, would look to what it calls the "economic realities" of the transaction in order to determine whether a cost of borrowing was incurred. The Court of Appeals likened the transaction to one where the corporation actually issued its $50 debenture for $33 in cash upon the open market (or to a holder of preferred) and then used that cash to purchase and retire outstanding preferred at $33 per share. 472 F.2d at 802. Upon such a transaction, it is claimed, there can be no question whatsoever that a deductible discount of $17 per debenture would result. It is argued that to deny similar treatment to the transaction which did take place, where a direct exchange was made with the preferred shareholder, would require a corporate taxpayer in the future to engage in a complex and expensive series of securities transactions in order to establish its entitlement to a deduction.</p>
@@ -100,7 +100,7 @@
     <n id="p151">151</n>
     <p>1933). Thus, implicit in the concept of debt discount is the assumption, and indeed the requirement, that the transaction be subject to the exigencies of the competitive money market.</p>
     <p>Here, there has been no demonstration that the difference between the claimed $33 per share value of NAD's preferred (laying aside for the moment the aforementioned difficulties in arriving at that determination) and the face amount of the debentures is attributable to debt discount. As the Tax Court noted, 57 T.C. at 52 n. 6, there is no evidence of what the fair market value of the bonds was at the time of their issuance. Other factors that would have to be considered would include NAD's financial condition at the time of the exchange, including both its credit position and its profits prospects, and the availability and cost of capital in the general market as well as from its preferred shareholders. Normally, the market itself performs this evaluative process. Aside from the fact that the transaction was insulated from the market processes, there has been no attempt here to show that the discount rate was determined with a view toward accounting for these several factors, rather than simply having been predicated on the par value of the preferred. Accordingly, the requisite evaluation of the property to be exchanged cannot occur in this intracorporate transaction and debt discount cannot be determined. Cf. Gulf, M. &amp; O. R. Co. v. United States, supra; Southern Fertilizer &amp; Chemical Co. v. Edwards, 167 F. Supp. at 881.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>It has not been demonstrated that NAD, by the exchange, incurred any additional cost for the use of capital. NAD merely replaced that portion of its paid-in capital represented by its preferred with paid-in capital represented by its debentures. From the perspective of the</p>
     <n id="p152">152</n>
     <p>corporation, the transaction was the exchange of one form of interest or participation in the corporation for another. But the corporate assets were neither increased nor diminished. [<a id="nf11" href="#fn11">Footnote 11</a>]</p>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us445-0326.html" citation="445 U.S. 326" title="Deposit Guar. Nat'l Bank of Jackson v. Roper">
   <opinion type="Opinions &amp; Dissents">
     <n id="p326">326</n>
-    <h>U.S. Supreme Court</h>
-    <h>Deposit Guar. Nat'l Bank of Jackson v. Roper, <a href="./us445-0326.xml#p326">445 U.S. 326</a> (1980)</h>
-    <h>Deposit Guaranty National Bank of Jackson v. Roper</h>
-    <h>No. 78-904</h>
-    <h>Argued October 2, 1979</h>
-    <h>Decided March 19, 1980</h>
-    <h><a href="./us445-0326.xml#p326">445 U.S. 326</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE FIFTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Deposit Guar. Nat'l Bank of Jackson v. Roper, <a href="./us445-0326.xml#p326">445 U.S. 326</a> (1980)</h1>
+    <h2>Deposit Guaranty National Bank of Jackson v. Roper</h2>
+    <h2>No. 78-904</h2>
+    <h4>Argued October 2, 1979</h4>
+    <h4>Decided March 19, 1980</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE FIFTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondents, holders of credit cards issued by petitioner bank, sued petitioner for damages in Federal District Court, seeking to represent both their own interests and those of a class of similarly situated credit card customers. The complaint, based on the National Bank Act, alleged that usurious finance charges had been made against the accounts of respondents and the putative class. The District Court denied respondents' motion to certify the class, ruling that the circumstances did not meet all the requirements of Federal Rule of Civil Procedure 23(b)(3). After the Court of Appeals denied respondents' motion for interlocutory appeal, petitioner tendered to each respondent the maximum amount that each could have recovered, but respondents refused to accept the tender. The District Court, over respondents' objections, then entered judgment in their favor on the basis of the tender and dismissed the action, the amount of the tender being deposited by petitioner in the court's registry. Respondents thereafter sought review of the class certification ruling, and the Court of Appeals concluded, inter alia, that the case had not been mooted by the entry of judgment in respondents' favor and reversed the adverse certification ruling.</p>
     <p>Held: Neither petitioner's tender nor the District Court's entry of judgment in favor of respondents over their objections mooted their private case or controversy, and their individual interest in the litigation -- as distinguished from whatever may be their representative responsibilities to the putative class -- is sufficient to permit their appeal of the adverse certification ruling. Pp. <a href="./us445-0326.xml#p331">445 U. S. 331</a>-340.</p>
     <p>(a) In an appropriate case, appeal may be permitted from an adverse ruling collateral to the judgment on the merits at the behest of the party who has prevailed on the merits, so long as that party retains a stake in the appeal satisfying Art. III's case or controversy requirements. Here, neither the rejected tender nor the dismissal of the action over respondents' objections mooted their claim on the merits so long as they retained an economic interest in class certification. Pp. <a href="./us445-0326.xml#p332">445 U. S. 332</a>-335.</p>
@@ -22,7 +22,7 @@
     <p>BURGER, C.J., delivered the opinion of the Court, in which BRENNAN, WHITE, MARSHALL, REHNQUIST, and STEVENS, JJ., joined. REHNQUIST, J., post, p. <a href="./us445-0326.xml#p340">445 U. S. 340</a>, and STEVENS, J., post, p. <a href="./us445-0326.xml#p342">445 U. S. 342</a>, filed concurring opinions. BLACKMUN, J., filed an opinion concurring in the judgment, post, p. <a href="./us445-0326.xml#p344">445 U. S. 344</a>. POWELL, J., filed a dissenting opinion, in which STEWART, J., joined, post, p. <a href="./us445-0326.xml#p344">445 U. S. 344</a>.</p>
     <p>MR. CHIEF JUSTICE BURGER delivered the opinion of the Court.</p>
     <p>We granted certiorari to decide whether a tender to named plaintiffs in a class action of the amounts claimed in their individual capacities, followed by the entry of judgment in their favor on the basis of that tender, over their objection, moots the case and terminates their right to appeal the denial of class certification.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Respondents, holders of credit cards issued on the "BankAmericard" plan by petitioner Deposit Guaranty National Bank, sued the bank in the United States District Court for the Southern District of Mississippi, seeking to represent both</p>
     <n id="p328">328</n>
     <p>their own interests and those of a class of similarly aggrieved customers. The complaint alleged that usurious finance charges had been made against the accounts of respondents and a putative class of some 90,000 other Mississippi credit card holders.</p>
@@ -39,7 +39,7 @@
     <p>does not moot the controversy so as to prevent the named plaintiffs from appealing an adverse certification ruling.</p>
     <p>Having rejected the bank's mootness argument, the Court of Appeals reviewed the District Court's ruling on the class certification question. It concluded that all the requisites of Rule 23 had been satisfied, and accordingly reversed the adverse certification ruling; it remanded with directions to certify the class and for further proceedings.</p>
     <p>Certiorari was sought to review the holdings of the Court of Appeals on both mootness and class certification. We granted the writ, limited to the question of mootness, to resolve conflicting holdings in the Courts of Appeals. [<a id="nf4" href="#fn4">Footnote 4</a>] 440 U.S. 945.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>We begin by identifying the interests to be considered when questions touching on justiciability are presented in the class action context. First is the interest of the named plaintiffs: their personal stake in the substantive controversy and their related right as litigants in a federal court to employ in appropriate circumstances the procedural device of a Rule 23 class action to pursue their individual claims. A separate consideration, distinct from their private interests, is the responsibility of named plaintiffs to represent the collective interests of the putative class. Two other interests are implicated: the rights of putative class members as potential intervenors, and the responsibilities of a district court to protect both the absent class and the integrity of the judicial process by monitoring the actions of the parties before it.</p>
     <p>The Court of Appeals did not distinguish among these distinct interests. It reviewed all possible interests that, in its view, had a bearing on whether an appeal of the denial of certification should be allowed. These diverse interests are interrelated, but we distinguish among them for purposes</p>
     <n id="p332">332</n>
@@ -147,7 +147,7 @@
       <n id="p345">345</n>
       <p>action late in 1971 to recover those charges plus a penalty equal to the same amount, for individual totals of $683.30 and $322.70. App. 59. Respondents also sought relief on behalf of a class alleged to include 90,000 persons with claims aggregating $12 million. After four years of litigation, the District Court denied respondents' motion for class certification. Seven months later, petitioner tendered to respondents the full amount of their individual claims plus legal interest and court costs. Over respondents' objection, the District Court entered final judgment in their favor. Petitioner then deposited the full amount due with the Clerk of the Court.</p>
       <p>No one disputes that the petitioner has tendered everything that respondents could have recovered from it in this action. Nevertheless, the Court of Appeals for the Fifth Circuit rejected petitioner's suggestion of mootness and reversed the denial of class certification. This Court affirms the judgment of the Court of Appeals, after finding that respondents retain a personal stake in sharing the expense of litigation with members of the putative class. Ante at <a href="./us445-0326.xml#p334">445 U. S. 334</a>, n. 6, <a href="./us445-0326.xml#p336">445 U. S. 336</a>. This speculative interest simply will not sustain the jurisdiction of an Art. III court under established and controlling precedents. Accordingly, I dissent.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>Although there are differences, this case is similar to United States Parole Comm'n v. Geraghty, post, p. <a href="./us445-0388.xml#p388">445 U. S. 388</a>, in one important respect: both require us to decide whether putative class representatives may appeal the denial of class certification when they can derive no benefit whatever from the relief sought in the action. Here, as in Geraghty, the District Court refused to certify a class. In this case, however, the Court recognizes established Art. III doctrine. It states that the "right . . . to employ Rule 23" is a "procedural right only, ancillary to the litigation of substantive claims." Ante at <a href="./us445-0326.xml#p332">445 U. S. 332</a>. It also agrees that a federal court "retains no jurisdiction</p>
       <n id="p346">346</n>
       <p>over the controversy" when the parties' "substantive claims become moot in the Art. III sense." Ibid. Moreover, the Court acknowledges the familiar principle that a party who has no personal stake in the outcome of an action presents no case or controversy cognizable in a federal court of appeals. Ante at <a href="./us445-0326.xml#p334">445 U. S. 334</a>, <a href="./us445-0326.xml#p336">445 U. S. 336</a>. These are indeed the dispositive principles. My disagreement is with the way in which the Court applies them in this case. In my view, these principles unambiguously require a finding of mootness.</p>
@@ -179,7 +179,7 @@
       <p>Respondents do not suggest that their claims are "capable of repetition, yet evading review." Cf. Gerstein v. Pugh, <a href="../us420/us420-0103.xml#p103">420 U. S. 103</a>, <a href="../us420/us420-0103.xml#p110">420 U. S. 110</a>-111, n. 11 (1975). [Footnote 3/12] And not a single one of the alleged 90,000 class members has sought to intervene in the nine years since this action was filed. Cf. United Airlines, Inc. v. McDonald, <a href="../us432/us432-0385.xml#p385">432 U. S. 385</a> (1977). Nor has anyone challenged the allegedly usurious charges by informal complaint</p>
       <n id="p353">353</n>
       <p>or protest. Tr. of Oral Arg. 4. Even after certification was denied, the action lay dormant during the seven months in which respondents sought to take an interlocutory appeal, without provoking a response from anyone who previously may have thought that the class action would protect his rights. Apart from the persistence of the lawyers, this has been a noncase since the petitioner tendered full satisfaction of the respondents' individual claims. To be sure, respondents' counsel may have the same interest in an enlarged recovery that is inherent in any contingent fee arrangement. But I know of no decision by any court that holds that a lawyer's interest in a larger fee, to be paid by third persons not present in court, creates the personal stake in the outcome required by Art. III.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>Despite the absence of an Art. III controversy, the Court directs a remand in which this federal action will be litigated by lawyers whose only "clients" are unidentified class members who have shown no desire to be represented by anyone. [Footnote 3/13] The Court appears to endorse this form of litigation for reasons of policy and practice. It is said to be an effective "response to the existence of injuries unremedied by the regulatory action of government." Ante at <a href="./us445-0326.xml#p339">445 U. S. 339</a>. I am not aware that such a consideration ever before has influenced this Court in determining whether the Constitution confers jurisdiction on the federal courts. In any event, the consequences of a finding of mootness are not likely to be a restrictive as the Court seems to fear. And the Court fails to recognize that allowing this action to proceed without an interested plaintiff will itself generate practical difficulties of some magnitude.</p>
       <n id="p354">354</n>
       <p>A</p>
@@ -198,7 +198,7 @@
       <p>The Court's holding well may prevent future "forced settlements" of class action litigation. Thus, the difficulties faced by the District Court on remand in this case may not arise again in precisely analogous circumstances. But today's result also authorizes appeals by putative class representatives who have litigated and prevailed on the merits of their individual claims. If the order denying class certification is reversed in that situation, the named plaintiffs on remand will have no more continuing relationship to the putative class than respondents have here. A remand for certification could also lead to "one-way intervention" in direct violation of Rule 23. See supra at <a href="./us445-0326.xml#p354">445 U. S. 354</a>, and n. 14. These tensions,</p>
       <n id="p358">358</n>
       <p>arising from the express terms of the Rule, undermine the Court's conclusion that the policies underlying Rule 23 dictate the result reached today.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>In sum, the Court's attempted solution to the problem of forced settlements in consumer class actions departs from settled principles of Art. III jurisprudence. [Footnote 3/21] It unnecessarily</p>
       <n id="p359">359</n>
       <p>creates significant problems in the administration of Rule 23. And it may work a serious injustice in this case. [Footnote 3/22] I would vacate the judgment of the Court of Appeals and remand with instructions to dismiss the appeal as moot.</p>

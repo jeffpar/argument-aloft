@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us600-20-1199.html" citation="600 U.S. 20-1199" title="Students for Fair Admissions, Inc. v. President and Fellows of Harvard College">
   <opinion type="Opinion" author="Roberts">
     <p>NOTICE: This opinion is subject to formal revision before publication in the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, pio@supremecourt.gov, of any typographical or other formal errors.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 20–1199 and 21–707</p>
-    <p>_________________</p>
     <p>STUDENTS FOR FAIR ADMISSIONS, INC., PETITIONER</p>
     <p>20–1199v.</p>
     <p>PRESIDENT AND FELLOWS OF HARVARD COLLEGE</p>
@@ -37,7 +36,7 @@
     <p>Article III of the Constitution limits “[t]he judicial power of the United States” to “cases” or “controversies,” ensuring that federal courts act only “as a necessity in the determination of real, earnest and vital” disputes. Muskrat v. United States, <a href="../us219/us219-0346.xml#p346">219 U.S. 346</a>, 351, 359 (1911) (internal quotation marks omitted). “To state a case or controversy under Article III, a plaintiff must establish standing.” Arizona Christian School Tuition Organization v. Winn, <a href="../us563/us563-0125.xml#p125">563 U.S. 125</a>, 133 (2011). That, in turn, requires a plaintiff to demonstrate that it has “(1) suffered an injury in fact, (2) that is fairly traceable to the challenged conduct of the defendant, and (3) that is likely to be redressed by a favorable judicial decision.” Spokeo, Inc. v. Robins, 578 U.S. 330, 338 (2016).</p>
     <p>In cases like these, where the plaintiff is an organization, the standing requirements of Article III can be satisfied in two ways. Either the organization can claim that it suffered an injury in its own right or, alternatively, it can assert “standing solely as the representative of its members.” Warth v. Seldin, <a href="../us422/us422-0490.xml#p490">422 U.S. 490</a>, 511 (1975). The latter approach is known as representational or organizational standing. Ibid.; Summers, 555 U. S., at 497–498. To invoke it, an organization must demonstrate that “(a) its members would otherwise have standing to sue in their own right; (b) the interests it seeks to protect are germane to the organization’s purpose; and (c) neither the claim asserted nor the relief requested requires the participation of individual members in the lawsuit.” Hunt v. Washington State Apple Advertising Comm’n, <a href="../us432/us432-0333.xml#p333">432 U.S. 333</a>, 343 (1977).</p>
     <p>Respondents do not contest that SFFA satisfies the three-part test for organizational standing articulated in Hunt, and like the courts below, we find no basis in the record to conclude otherwise. See 980 F. 3d, at 182–184; 397 F. Supp. 3d, at 183–184; No. 1:14–cv–954 (MDNC, Sept. 29, 2018), App. D to Pet. for Cert. in No. 21–707, pp. 237–245 (2018 DC Opinion). Respondents instead argue that SFFA was not a “genuine ‘membership organization’ ” when it filed suit, and thus that it could not invoke the doctrine of organizational standing in the first place. Brief for University Respondents in No. 21–707, at 24. According to respondents, our decision in Hunt established that groups qualify as genuine membership organizations only if they are controlled and funded by their members. And because SFFA’s members did neither at the time this litigation commenced, respondents’ argument goes, SFFA could not represent its members for purposes of Article III standing. Brief for University Respondents in No. 21–707, at 24 (citing Hunt, 432 U. S., at 343).</p>
-    <p>Hunt involved the Washington State Apple Advertising Commission, a state agency whose purpose was to protect the local apple industry. The Commission brought suit challenging a North Carolina statute that imposed a labeling requirement on containers of apples sold in that State. The Commission argued that it had standing to challenge the requirement on behalf of Washington’s apple industry. See id., at 336–341. We recognized, however, that as a state agency, “the Commission [wa]s not a traditional voluntary membership organization . . . , for it ha[d] no members at all.” Id., at 342. As a result, we could not easily apply the three-part test for organizational standing, which asks whether an organization’s members have standing. We nevertheless concluded that the Commission had standing because the apple growers and dealers it represented were effectively members of the Commission. Id., at 344. The growers and dealers “alone elect[ed] the members of the Commission,” “alone . . . serve[d] on the Commission,” and “alone finance[d] its activities”—they possessed, in other words, “all of the indicia of membership.” Ibid. The Commission was therefore a genuine membership organization in substance, if not in form. And it was “clearly” entitled to rely on the doctrine of organizational standing under the three-part test recounted above. Id., at 343.</p>
+    <p>Hunt involved the Washington State Apple Advertising Commission, a state agency whose purpose was to protect the local apple industry. The Commission brought suit challenging a North Carolina statute that imposed a labeling requirement on containers of apples sold in that State. The Commission argued that it had standing to challenge the requirement on behalf of Washington’s apple industry. See id., at 336–341. We recognized, however, that as a state agency, “the Commission [wa]s not a traditional voluntary membership organization . . ., for it ha[d] no members at all.” Id., at 342. As a result, we could not easily apply the three-part test for organizational standing, which asks whether an organization’s members have standing. We nevertheless concluded that the Commission had standing because the apple growers and dealers it represented were effectively members of the Commission. Id., at 344. The growers and dealers “alone elect[ed] the members of the Commission,” “alone . . . serve[d] on the Commission,” and “alone finance[d] its activities”—they possessed, in other words, “all of the indicia of membership.” Ibid. The Commission was therefore a genuine membership organization in substance, if not in form. And it was “clearly” entitled to rely on the doctrine of organizational standing under the three-part test recounted above. Id., at 343.</p>
     <p>The indicia of membership analysis employed in Hunt has no applicability in these cases. Here, SFFA is indisputably a voluntary membership organization with identifiable members—it is not, as in Hunt, a state agency that concededly has no members. See 2018 DC Opinion 241–242. As the First Circuit in the Harvard litigation observed, at the time SFFA filed suit, it was “a validly incorporated 501(c)(3) nonprofit with forty-seven members who joined voluntarily to support its mission.” 980 F. 3d, at 184. Meanwhile in the UNC litigation, SFFA represented four members in particular—high school graduates who were denied admission to UNC. See 2018 DC Opinion 234. Those members filed declarations with the District Court stating “that they have voluntarily joined SFFA; they support its mission; they receive updates about the status of the case from SFFA’s President; and they have had the opportunity to have input and direction on SFFA’s case.” Id., at 234–235 (internal quotation marks omitted). Where, as here, an organization has identified members and represents them in good faith, our cases do not require further scrutiny into how the organization operates. Because SFFA complies with the standing requirements demanded of organizational plaintiffs in Hunt, its obligations under Article III are satisfied.</p>
     <p>III</p>
     <p>A</p>
@@ -134,9 +133,7 @@
   </opinion>
   <opinion type="Concurrence" author="Thomas">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 20–1199 and 21–707</p>
-    <p>_________________</p>
     <p>STUDENTS FOR FAIR ADMISSIONS, INC., PETITIONER</p>
     <p>20–1199v.</p>
     <p>PRESIDENT AND FELLOWS OF HARVARD COLLEGE</p>
@@ -300,9 +297,7 @@
   </opinion>
   <opinion type="Concurrence" author="Gorsuch">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 20–1199 and 21–707</p>
-    <p>_________________</p>
     <p>STUDENTS FOR FAIR ADMISSIONS, INC., PETITIONER</p>
     <p>20–1199v.</p>
     <p>PRESIDENT AND FELLOWS OF HARVARD COLLEGE</p>
@@ -385,9 +380,7 @@
   </opinion>
   <opinion type="Concurrence" author="Kavanaugh">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 20–1199 and 21–707</p>
-    <p>_________________</p>
     <p>STUDENTS FOR FAIR ADMISSIONS, INC., PETITIONER</p>
     <p>20–1199v.</p>
     <p>PRESIDENT AND FELLOWS OF HARVARD COLLEGE</p>
@@ -428,9 +421,7 @@
   </opinion>
   <opinion type="Dissent" author="Sotomayor">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 20–1199 and 21–707</p>
-    <p>_________________</p>
     <p>STUDENTS FOR FAIR ADMISSIONS, INC., PETITIONER</p>
     <p>20–1199v.</p>
     <p>PRESIDENT AND FELLOWS OF HARVARD COLLEGE</p>
@@ -641,9 +632,7 @@
   </opinion>
   <opinion type="Dissent" author="Jackson">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 20–1199 and 21–707</p>
-    <p>_________________</p>
     <p>STUDENTS FOR FAIR ADMISSIONS, INC., PETITIONER</p>
     <p>20–1199v.</p>
     <p>PRESIDENT AND FELLOWS OF HARVARD COLLEGE</p>

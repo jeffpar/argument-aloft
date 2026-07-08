@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us607-24-568.html" citation="607 U.S. 24-568" title="Bost v. Illinois Bd. of Elections">
   <opinion type="Opinion" author="Roberts">
     <p>NOTICE: This opinion is subject to formal revision before publication in the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, pio@supremecourt.gov, of any typographical or other formal errors.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 24–568</p>
-    <p>_________________</p>
     <p>MICHAEL J. BOST, et al., PETITIONERS v. ILLINOIS STATE BOARD OF ELECTIONS, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the seventh circuit</p>
     <p>[January 14, 2026]</p>
@@ -47,9 +46,7 @@
   </opinion>
   <opinion type="Concurrence" author="Barrett">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 24–568</p>
-    <p>_________________</p>
     <p>MICHAEL J. BOST, et al., PETITIONERS v. ILLINOIS STATE BOARD OF ELECTIONS, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the seventh circuit</p>
     <p>[January 14, 2026]</p>
@@ -70,9 +67,7 @@
   </opinion>
   <opinion type="Dissent" author="Jackson">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 24–568</p>
-    <p>_________________</p>
     <p>MICHAEL J. BOST, et al., PETITIONERS v. ILLINOIS STATE BOARD OF ELECTIONS, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the seventh circuit</p>
     <p>[January 14, 2026]</p>
@@ -92,7 +87,7 @@
     <p>In any event, I agree that we need not “theorize” about the significance of these interests, for one thing is indisputably clear: Our democracy was founded on the “self-evident” truth that a government is legitimate only insofar as it derives its “just powers from the consent of the governed.” Declaration of Independence ¶2. Candidates come and go, but the voters’ collective interest in the “right to elect legislators in a free and unimpaired fashion” is enduring and indispensable. Reynolds v. Sims, <a href="../us377/us377-0533.xml#p533">377 U.S. 533</a>, 562 (1964). Against this backdrop, the Court’s effort to isolate and elevate a candidate’s “distinct” interest in electoral integrity, ante, at 5, falls flat.</p>
     <p>For today’s standing purposes, the key realization is that, in a democracy, the (existential) interest in fair and accurate elections is common to all members of the voting public. I acknowledge that “[t]hose who spend untold time and resources seeking to claim the right to voice the will of the people,” ibid.—candidates—have a particularized interest in getting the job. That is precisely why candidates do have Article III standing if an unlawful election rule creates a substantial risk of harm to that interest (the risk of an election loss). But when what is at stake is the overall fairness of the electoral process, it is the people’s shared interest in democracy itself (and not just the candidate’s job prospects) that hangs in the balance.</p>
     <p>B</p>
-    <p>The Court’s standing analysis elides all this by employing the commonsense intuition that, “[w]in or lose, candidates suffer when the process departs from the law.” Ante, at 4. But how is that a particularized injury? Anyone and everyone who is governed by law is similarly harmed by any departure from the law’s requirements. Moreover, this Court has repeatedly instructed that litigants “may not sue based only on an ‘asserted right to have the Government act in accordance with law.’ ” FDA v. Alliance for Hippocratic Medicine, 602 U.S. 367, 381 (2024) (quoting Allen v. Wright, <a href="../us468/us468-0737.xml#p737">468 U.S. 737</a>, 754 (1984)); see also Massachusetts v. Mellon, <a href="../us262/us262-0447.xml#p447">262 U.S. 447</a>, 488 (1923) (rejecting theory that taxpayers have standing to challenge an allegedly unlawful government action requiring the use of public funds because “[t]he party who invokes the [judicial] power must be able to show . . . that he has sustained or is immediately in danger of sustaining some direct injury. . . , and not merely that he suffers in some indefinite way in common with people generally”).</p>
+    <p>The Court’s standing analysis elides all this by employing the commonsense intuition that, “[w]in or lose, candidates suffer when the process departs from the law.” Ante, at 4. But how is that a particularized injury? Anyone and everyone who is governed by law is similarly harmed by any departure from the law’s requirements. Moreover, this Court has repeatedly instructed that litigants “may not sue based only on an ‘asserted right to have the Government act in accordance with law.’ ” FDA v. Alliance for Hippocratic Medicine, 602 U.S. 367, 381 (2024) (quoting Allen v. Wright, <a href="../us468/us468-0737.xml#p737">468 U.S. 737</a>, 754 (1984)); see also Massachusetts v. Mellon, <a href="../us262/us262-0447.xml#p447">262 U.S. 447</a>, 488 (1923) (rejecting theory that taxpayers have standing to challenge an allegedly unlawful government action requiring the use of public funds because “[t]he party who invokes the [judicial] power must be able to show . . . that he has sustained or is immediately in danger of sustaining some direct injury. . ., and not merely that he suffers in some indefinite way in common with people generally”).</p>
     <p>Here, the generalized nature of the “fair process” harm is indisputable: If Illinois’s vote-count rule is unlawful, all participants in the electoral process—not only candidates for office but also every voter who has cast a ballot in the election—would be deprived “of a fair process and an accurate result.” Ante, at 4. But, as this Court has time and again explained, such an assertion of injury “amount[s] to little more than [an] attemp[t ] ‘to employ a federal court as a forum in which to air . . . generalized grievances about the conduct of government.” Valley Forge, 454 U. S., at 483 (omission in original) (quoting Flast v. Cohen, <a href="../us392/us392-0083.xml#p83">392 U.S. 83</a>, 106 (1968)).</p>
     <p>Indeed, our standing precedents make crystal clear that, absent a showing of particularized harm, these sorts of fair-process grievances must be resolved through the political branches. For it is in those branches “where democratic debate can occur and a wide variety of interests and views can be weighed.” Alliance for Hippocratic Medicine, 602 U. S., at 380. By contrast, the exercise of judicial power, “which can so profoundly affect the lives, liberty, and property of those to whom it extends,” is a “tool of last resort,” to be invoked only “when the question is raised by a party whose interests entitle him to raise it.” Valley Forge, 454 U. S., at 473–474 (internal quotation marks omitted).</p>
     <p>Finding no support for a nonparticularized “fair process” harm in either our precedents or the practices of the lower courts, the Court pivots to an analogy. It suggests that, as a candidate running for office who has been told that votes will continue to be counted after election day, Bost is no different from a competitor in a 100-meter dash whose race is “unexpectedly extended to 105 meters.” Ante, at 6. According to the majority, each runner in the newly announced 105-meter race would obviously suffer, regardless of whether he “expects to finish strong.” Ibid. But whether any given runner is harmed by this rule change depends on a number of factors particular to each competitor, none of which the majority deigns to identify. And, indeed, it is far from obvious that a runner with a track record like Bost’s—who expects to win both races based on sound statistical analyses of his current and past performance—would have the injury that begets Article III standing to involve the Judiciary in this rule-change dispute.</p>

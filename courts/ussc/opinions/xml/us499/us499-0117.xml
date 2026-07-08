@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us499-0117.html" citation="499 U.S. 117" title="N. &amp;amp; W. Ry. v. Train Dispatchers">
   <opinion type="Opinions &amp; Dissents">
     <n id="p117">117</n>
-    <h>U.S. Supreme Court</h>
-    <h>N. &amp; W. Ry. v. Train Dispatchers, <a href="./us499-0117.xml#p117">499 U.S. 117</a> (1991)</h>
-    <h>Norfolk &amp; Western Railway Company v.</h>
-    <h>American Train Dispatchers Association</h>
-    <h>Nos. 89-1027, 89-1028</h>
-    <h>Argued Dec. 3, 1990</h>
-    <h>Decided March 19, 1991</h>
-    <h><a href="./us499-0117.xml#p117">499 U.S. 117</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE DISTRICT OF COLUMBIA CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>N. &amp; W. Ry. v. Train Dispatchers, <a href="./us499-0117.xml#p117">499 U.S. 117</a> (1991)</h1>
+    <h2>Norfolk &amp; Western Railway Company v.</h2>
+    <h2>American Train Dispatchers Association</h2>
+    <h2>Nos. 89-1027, 89-1028</h2>
+    <h4>Argued Dec. 3, 1990</h4>
+    <h4>Decided March 19, 1991</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE DISTRICT OF COLUMBIA CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Once the Interstate Commerce Commission (ICC) has approved a rail carrier consolidation under the conditions set forth in Chapter 113 of the Interstate Commerce Act (Act), 49 U.S.C. § 11301 et seq., a carrier in such a consolidation</p>
     <p>"is exempt from the antitrust laws and from all other law, including State and municipal law, as necessary to let [it] carry out the transaction. . . ."</p>
     <p>§ 11341(a). In these cases, the ICC issued orders exempting parties to approved railway mergers from the provisions of collective bargaining agreements. The Court of Appeals reversed and remanded, holding that § 11341(a) does not authorize the ICC to relieve a party of collectively bargained obligations that impede implementation of an approved transaction. Reasoning, inter alia, that the legislative history demonstrates a congressional intent that § 11341(a) apply to specific types of positive laws, and not to common law rules of liability such as those governing contracts, the court declined to decide whether the section could operate to override provisions of the Railway Labor Act (RLA) governing the formation, construction, and enforcement of the collective bargaining agreements at issue.</p>
@@ -26,7 +26,7 @@
     <p>The Interstate Commerce Commission has the authority to approve rail carrier consolidations under certain conditions. 49 U.S.C. § 11301 et seq. A carrier in an approved consolidation</p>
     <p>"is exempt from the antitrust laws and from all other law, including State and municipal law, as necessary to let [it] carry out the transaction. . . ."</p>
     <p>49 U.S.C. § 11341(a). These cases require us to decide whether the carrier's exemption under § 11341(a) "from all other law" extends to its legal obligations under a collective bargaining agreement. We hold that it does.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>A</p>
     <p>"Prior to 1920, competition was the desideratum of our railroad economy." St. Joe Paper Co. v. Atlantic Coast Line R. Co., <a href="../us347/us347-0298.xml#p298">347 U. S. 298</a>, <a href="../us347/us347-0298.xml#p315">347 U. S. 315</a> (1954). Following a period of government ownership during World War I, however, "many of the railroads were in very weak condition, and their continued survival was in jeopardy." Id. at <a href="../us347/us347-0298.xml#p315">347 U. S. 315</a>. At that time, the Nation made a commitment to railroad carrier consolidation as a means of promoting the health and efficiency of the railroad industry. Beginning with the Transportation Act, 1920, ch. 91, 41 Stat. 456,</p>
     <p>"consolidation of the railroads of the country, in the interest of economy and efficiency, became an established national policy . . . so intimately related to the maintenance of an adequate and efficient rail transportation system that the 'public interest' in the one cannot be dissociated from that in the other."</p>
@@ -67,7 +67,7 @@
     <p>In ruling that § 11341(a) did not apply to collective bargaining agreements, the court "decline[d] to address the question" whether the section could operate to override provisions of the RLA. Brotherhood of Railway Carmen, supra, at 247-250, 880 F.2d at 570-573. It also declined to consider whether the labor protective conditions required by § 11347 are exclusive, or whether § 4 of the New York Dock conditions gives an arbitration committee the right to override provisions of a collective bargaining agreement. 279 U.S.App.D.C. at 250, 880 F.2d at 573. The court remanded the case to the agency for a determination on these issues.</p>
     <p>After the Court of Appeals denied the carriers' petitions for rehearing, the carriers in the consolidated cases filed petitions for certiorari, which we granted on March 26, 1990. 494 U.S. 1055 (1990). [<a id="nf2" href="#fn2">Footnote 2</a>] We now reverse.</p>
     <n id="p127">127</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>Title 49 U.S.C. § 11341(a) provides:</p>
     <p>". . . A carrier, corporation, or person participating in that approved or exempted transaction is exempt from the antitrust laws and from all other law, including State and municipal law, as necessary to let that person carry out the transaction, hold, maintain, and operate property, and exercise control or franchises acquired through the transaction. . . ."</p>
     <p>We address the narrow question whether the exemption in § 11341(a) from "all other law" includes a carrier's legal obligations under a collective bargaining agreement.</p>
@@ -138,7 +138,7 @@
       <n id="p136">136</n>
       <p>than, that of a bankruptcy court's power to approve a trustee's rejection of a bankrupt's executory private contracts. [Footnote 2/2] Through nothing short of a tour de force, however, can one find any such power in 49 U.S.C. § 11341, or in either of its predecessors. Obviously, consolidated carriers would find it useful to have the ability to disavow disadvantageous long-term leases on obsolete car repair facilities, employment contracts with high salaried executives whose services are no longer needed, as well as collective bargaining agreements that provide costly job security to a shrinking workforce. If Congress had intended to give the ICC such broad ranging power to impair contracts, it would have done so in language much clearer than anything that can be found in the present Act.</p>
       <p>The Court's contrary conclusion rests on its reading of the "plain meaning" of the present statutory text and our decision in Schwabacher v. United States, <a href="../us334/us334-0182.xml#p182">334 U. S. 182</a> (1948). Neither of these reasons is sufficient. Moreover, the Court's reading is inconsistent with other unambiguous provisions in the statute.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>With or without the ejusdem generis canon, I believe that the normal reader would assume that the text of § 11341 encompasses the antitrust laws, as well as other federal or state laws, that would otherwise prohibit rail carriers from consummating approved mergers, and nothing more. See ante at <a href="./us499-0117.xml#p128">499 U. S. 128</a>. That text contains no suggestion that, whenever a criminal law, tort law, or any regulatory measure impedes the efficient operation of a new merged carrier, the carrier can avoid such a restriction by virtue of the ICC approval of that merger. Nor does the text of § 11341 contain any suggestion</p>
       <n id="p137">137</n>
       <p>that such an approval would impair the obligation of private contracts. [Footnote 2/3] Rather, as both an application of the ejusdem generis canon and an examination of the legislative history show, the purpose of the exemption was to relieve the carriers "from the operation of the antitrust and other restrictive or prohibitory laws." H.R.Conf.Rep. No. 650, 66th Cong., 2d Sess., 64 (1920) (emphasis added).</p>
@@ -149,7 +149,7 @@
       <n id="p139">139</n>
       <p>law" should be read to encompass the restraints created by private contract. [Footnote 2/5] Ante at <a href="./us499-0117.xml#p129">499 U. S. 129</a>-130. Even if the text of the present Act could bear that reading, it is flatly inconsistent with the text of the 1920 Act, which relieved the participating carriers "from the operation of the antitrust laws' . . . and of all other restraints, limitations, and prohibitions of law, Federal and State. . . . " 41 Stat. 482. Moreover, given the respect that our legal system has always paid to the enforceability of private contracts -- a respect that is evidenced by express language in the Constitution itself [Footnote 2/6] -- there should be a powerful presumption against finding an implied authority to impair contracts in a statute that was enacted to alleviate a legitimate concern about the antitrust laws. Had Congress intended to convey the message the Court finds in § 11341, it surely would have said expressly that the exemption was from all restraints imposed by law or by private contract. [Footnote 2/7]</p>
       <p>Page 499 U. S. 140</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>In my opinion, the Court's reliance on the decision in Schwabacher v. United States, <a href="../us334/us334-0182.xml#p182">334 U. S. 182</a> (1948), is misplaced. In that case, the owners of two percent of the outstanding preferred stock of the Pere Marquette Railway brought suit in the United States District Court to set aside an ICC order approving a merger between that corporation and the Chesapeake and Ohio Railway Corporation. In approving the merger, the ICC had found that the market value of plaintiffs' preferred shares ranged, at different times, from $87 to $99 per share, and that the stock that they received in exchange pursuant to the merger agreement would have realized about $90 and $111 on the same dates. Thus, the terms of the merger, as applied to the plaintiffs' class, were just and reasonable. Plaintiffs contended, however, that the exchange value of their shares amounted to $172.50 per share because the merger was a "liquidation" as a matter of Michigan law, and the Pere Marquette charter provided that, in the event of liquidation or dissolution, the preferred shareholders were entitled to receive full payment of par value plus all accrued unpaid dividends.</p>
       <p>The ICC order approving the merger did not resolve the Michigan law question. The ICC considered the issue too insignificant to affect the validity of the entire transaction, and left the matter for resolution by negotiation or later litigation. On appeal from the District Court's judgment sustaining the ICC order, this Court held that the ICC's finding that the exchange value was just and reasonable foreclosed any other claim that the dissenting shareholders might assert</p>
       <n id="p141">141</n>
@@ -160,7 +160,7 @@
       <p>Id. 334 U.S. at <a href="../us334/us334-0182.xml#p200">334 U. S. 200</a>-201.</p>
       <p>It is true that the effect of the Schwabacher decision was to extinguish whatever contractual rights the dissenting shareholders possessed as a matter of Michigan law. But the Court did require the ICC, on remand, to consider whatever value the Michigan law claims might have in connection with its final conclusion that the merger plan was "just and reasonable." A fair reading of the entire opinion makes it clear that the holding was based more on the ICC's "complete control of the capital structure to result from a merger" id. at <a href="../us334/us334-0182.xml#p195">334 U. S. 195</a>, than on the exemption at issue in this case. Schwabacher cannot fairly be read as authorizing carriers to renounce private contracts that limit the benefits achievable through the merger.</p>
       <n id="p142">142</n>
-      <h>III</h>
+      <h2>III</h2>
       <p>There is tension between the Court's interpretation of the exemption that is now codified in 49 U.S.C. § 11341(a) and the labor protection conditions set forth in 49 U.S.C. § 11347. The latter section requires an ICC order approving a railroad merger to impose conditions that are "no less protective" of the employees than those established pursuant to the Rail Passenger Service Act, 84 Stat. 1337, as amended, 45 U.S.C. § 565. One of the conditions established by the Secretary of Labor under the Amtrak Act was essentially the same as § 2 of the New York Dock conditions described by the Court, ante at <a href="./us499-0117.xml#p120">499 U. S. 120</a>-121. As the Court notes, that condition provides that the benefits protected</p>
       <p>"under applicable laws and/or existing collective bargaining agreements . . . shall be preserved unless changed by future collective bargaining agreements."</p>
       <p>Ibid. (citation omitted). This provision unambiguously indicates that Congress intended and expected that collective bargaining agreements would survive any ICC approved merger.</p>

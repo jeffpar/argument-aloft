@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us384-0678.html" citation="384 U.S. 678" title="Nicolas v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p678">678</n>
-    <h>U.S. Supreme Court</h>
-    <h>Nicolas v. United States, <a href="./us384-0678.xml#p678">384 U.S. 678</a> (1966)</h>
-    <h>Nicolas v. United States</h>
-    <h>No. 650</h>
-    <h>Argued April 19, 1966</h>
-    <h>Decided June 13, 1966</h>
-    <h><a href="./us384-0678.xml#p678">384 U.S. 678</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE FIFTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Nicolas v. United States, <a href="./us384-0678.xml#p678">384 U.S. 678</a> (1966)</h1>
+    <h2>Nicolas v. United States</h2>
+    <h2>No. 650</h2>
+    <h4>Argued April 19, 1966</h4>
+    <h4>Decided June 13, 1966</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE FIFTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>A corporation filed a petition for an arrangement with unsecured creditors under Chapter XI of the Bankruptcy Act. While operating its business as a debtor in possession, the corporation withheld federal income and social security taxes, and collected cabaret excise taxes. It then filed a petition in bankruptcy, and was adjudged a bankrupt. Petitioner, who was appointed trustee in bankruptcy, did not pay the taxes when they later became due, nor did he file the required tax return. The Government filed an administrative expense statement in the bankruptcy proceeding claiming the principal of the taxes due plus penalties and interest. The referee allowed the claim for taxes, but denied the claims for penalties and interest, and the District Court affirmed. The Court of Appeals reversed, and allowed the claims for penalties and interest.</p>
     <p>Held:</p>
     <p>1. The United States is not entitled to interest in this case. Pp. <a href="./us384-0678.xml#p682">384 U. S. 682</a>-692.</p>
@@ -33,7 +33,7 @@
     <p>and interest that had accumulated and would continue to accumulate on the taxes and penalties until they were paid. [<a id="nf6" href="#fn6">Footnote 6</a>]</p>
     <p>The referee in bankruptcy allowed the Government's claim for the principal of the taxes, but disallowed the claims for penalties and interest. [<a id="nf7" href="#fn7">Footnote 7</a>] The referee's order was affirmed in all respects by the District Court. The Court of Appeals for the Fifth Circuit reversed the judgment of the District Court, and allowed the claims for penalties and interest on the taxes. 346 F.2d 32. Shortly after that decision, the Court of Appeals for the Eighth Circuit reached the opposite result with respect to a similar claim by the Government for interest on taxes incurred during a Chapter XI proceeding, [<a id="nf8" href="#fn8">Footnote 8</a>] and we granted certiorari to resolve this conflict. 382 U.S. 971.</p>
     <n id="p682">682</n>
-    <h>I</h>
+    <h2>I</h2>
     <p>It is a well settled principle of American bankruptcy law that, in cases of ordinary bankruptcy, the accumulation of interest on claims against a bankrupt estate is suspended as of the date the petition in bankruptcy is filed. Sexton v. Dreyfus, <a href="../us219/us219-0339.xml#p339">219 U. S. 339</a>. [<a id="nf9" href="#fn9">Footnote 9</a>] That rule, grounded in historical considerations of equity and administrative convenience, was specifically made applicable to the accumulation of interest on claims for taxes by the decision of this Court in New York v. Saper, <a href="../us336/us336-0328.xml#p328">336 U. S. 328</a>. [<a id="nf10" href="#fn10">Footnote 10</a>]</p>
     <n id="p683">683</n>
     <p>The debts in Sexton, like the taxes in Saper, were incurred during the regular business operations of the taxpayer, prior to the invocation of any procedures under the Bankruptcy Act, whereas the taxes in the present case were incurred after a petition invoking Chapter XI of the Act had been filed. On the basis of that distinction, the Government contends that the taxes here in question were entitled to bear interest throughout the bankruptcy period. We draw no such conclusion from that distinction.</p>
@@ -64,7 +64,7 @@
     <p>Code. [<a id="nf22" href="#fn22">Footnote 22</a>] We need not here determine whether, with regard to the principal of those taxes, the general language of § 7501(a) overrides the strong policy of § 64a(1) of the Bankruptcy Act, which establishes a sharply defined priority that places all expenses of administration on a parity, including claims for taxes. [<a id="nf23" href="#fn23">Footnote 23</a>] Cf. Guarantee Title and Trust Co. v. Title Guaranty &amp; Surety Co., <a href="../us224/us224-0152.xml#p152">224 U. S. 152</a>; Davis v. Pringle, <a href="../us268/us268-0315.xml#p315">268 U. S. 315</a>; Missouri v. Ross, <a href="../us299/us299-0072.xml#p72">299 U. S. 72</a>. The second sentence of § 7501(a) specifically provides that interest on such a trust fund is collectible in the same manner as the taxes from which the fund arose. Since we have already determined that no interest on any of the taxes here in question accrues beyond the period of the arrangement proceeding, no interest could accumulate on a trust fund composed of the withholding and cabaret taxes. [<a id="nf24" href="#fn24">Footnote 24</a>]</p>
     <n id="p692">692</n>
     <p>We therefore reverse the judgment of the Court of Appeals with regard to the liability of the trustee for the interest on the taxes.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The validity of the claim by the United States against the trustee for penalties for failure to file the returns for the taxes in question presents a completely different issue. The result here is governed squarely by the rationale of our decision in Boteler v. Ingels, <a href="../us308/us308-0057.xml#p57">308 U. S. 57</a>, in which we sustained a penalty against a trustee in bankruptcy who failed to pay state automobile license taxes incurred while he was operating the business of the bankrupt estate for the purpose of liquidation. We held in Boteler that Congress, under the predecessor of 28 U.S.C. § 960, [<a id="nf25" href="#fn25">Footnote 25</a>] had</p>
     <p>"with vigor and clarity declared that a trustee and other court appointees who operate businesses must do so subject to State taxes 'the same as if such business[es] were conducted by an individual or corporation.'"</p>
     <p>308 U.S. at <a href="../us308/us308-0057.xml#p61">308 U. S. 61</a>. As we stated in Boteler, if the trustee were exempt from the penalty, a</p>
@@ -199,7 +199,7 @@
       <p>The issue is whether a penalty for the trustee's failure to file withholding, social security and cabaret tax returns is payable out of the assets of the estate. The Court holds that it is, even though the acts giving rise to tax liability occurred during the operation of the business by the debtor in possession prior to the trustee's</p>
       <n id="p697">697</n>
       <p>assumption of office. Although the Court concedes that the trustee is not obligated to pay the tax except at the time and within the limits provided by the Bankruptcy Act, he must nevertheless undertake the sometimes difficult task of assembling all the information necessary to file the tax returns that the debtor in possession would have had to file had bankruptcy not occurred. For several reasons, I do not agree.</p>
-      <p>1. The bankruptcy laws do not favor saddling an estate with penalties. Section 57j states that "[d]ebts owing to the United States or to any State or any subdivision thereof as a penalty or forfeiture shall not be allowed . . . ," Bankruptcy Act, § 57j, as amended, 11 U.S.C. § 93(j) (1964 ed.), and this Court has held the section applicable to a federal tax claim even where it is secured by a lien. Simonson v. Granquist, <a href="../us369/us369-0038.xml#p38">369 U. S. 38</a>. That case reaffirmed the</p>
+      <p>1. The bankruptcy laws do not favor saddling an estate with penalties. Section 57j states that "[d]ebts owing to the United States or to any State or any subdivision thereof as a penalty or forfeiture shall not be allowed . . .," Bankruptcy Act, § 57j, as amended, 11 U.S.C. § 93(j) (1964 ed.), and this Court has held the section applicable to a federal tax claim even where it is secured by a lien. Simonson v. Granquist, <a href="../us369/us369-0038.xml#p38">369 U. S. 38</a>. That case reaffirmed the</p>
       <p>"broad aim of the Act to provide for the conservation of the estates of insolvents, to the end that there may be as equitable a distribution of assets as is consistent with the type of claims involved. . . . Enforcement of penalties against the estates of bankrupts, however, would serve not to punish the delinquent taxpayers, but rather their entirely innocent creditors."</p>
       <p>Id. at <a href="../us369/us369-0038.xml#p40">369 U. S. 40</a>-41. It is true that § 57j deals with penalties claimed against the debtor, and here the penalty is claimed to arise from the trustee's alleged default. But the general policy against diluting the claims of creditors by charging penalties against the estate -- very similar to the policy against allowing interest during bankruptcy which the Court rightly makes much of in this case -- requires, at the very least, weighty and persuasive reasons for imposing upon the estate and the other creditors a penalty for the trustee's failure to file a return relating to the prebankruptcy operations of the business. If the tax return date in this case had fallen on the day before bankruptcy, § 57j would bar the penalty. I see little</p>
       <n id="p698">698</n>

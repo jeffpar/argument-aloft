@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us483-0027.html" citation="483 U.S. 27" title="Citicorp Indus. Credit v. Brock">
   <opinion type="Opinions &amp; Dissents">
     <n id="p27">27</n>
-    <h>U.S. Supreme Court</h>
-    <h>Citicorp Indus. Credit v. Brock, <a href="./us483-0027.xml#p27">483 U.S. 27</a> (1987)</h>
-    <h>Citicorp Industrial Credit, Inc. v. Brock</h>
-    <h>No. 86-88</h>
-    <h>Argued April 20, 1987</h>
-    <h>Decided June 22, 1987</h>
-    <h><a href="./us483-0027.xml#p27">483 U.S. 27</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE SIXTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Citicorp Indus. Credit v. Brock, <a href="./us483-0027.xml#p27">483 U.S. 27</a> (1987)</h1>
+    <h2>Citicorp Industrial Credit, Inc. v. Brock</h2>
+    <h2>No. 86-88</h2>
+    <h4>Argued April 20, 1987</h4>
+    <h4>Decided June 22, 1987</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE SIXTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Section 15(a)(1) of the Fair Labor Standards Act (FLSA or Act) prohibits "any person" from introducing into interstate commerce goods produced in violation of the minimum wage or overtime pay provisions of §§ 6 and 7 of the Act. Under a financing agreement with manufacturer Ely Group, Inc. (Ely), petitioner perfected a security interest in Ely's inventory. After Ely began to fail financially, petitioner took possession of the inventory, part of which was manufactured during a period in which Ely's employees were not paid. Concluding that such items were "hot goods" under § 15(a)(1), the United States Department of Labor filed suits in two Federal District Courts, each of which granted a preliminary injunction prohibiting the transportation or sale of the goods in interstate commerce. The Court of Appeals affirmed the consolidated cases.</p>
     <p>Held: Section 15(a)(1) applies to secured creditors who acquire "hot goods" pursuant to a security agreement. Pp. <a href="./us483-0027.xml#p32">483 U. S. 32</a>-38.</p>
     <p>(a) The goods produced during the period when Ely's employees were not paid were manufactured in violation of § 6 and/or § 7 of the Act, and are "hot goods" for the purposes of § 15(a)(1). Pp. <a href="./us483-0027.xml#p32">483 U. S. 32</a>-33.</p>
@@ -26,7 +26,7 @@
     <p>Section 15(a)(1) of the Fair Labor Standards Act of 1938, 52 Stat. 1068, prohibits "any person" from introducing into</p>
     <n id="p29">29</n>
     <p>interstate commerce goods produced in violation of the minimum wage or overtime provisions of the Act. The question in this case is whether § 15(a)(1) applies to holders of collateral obtained pursuant to a security agreement.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In 1983, petitioner entered into a financing agreement with Qualitex Corporation, a clothing manufacturer and the corporate predecessor to Ely Group, Inc., and its subsidiaries Rockford Textile Mills, Inc., and Ely &amp; Walker, Inc. (collectively Ely). Under the terms of the financing arrangement, petitioner agreed to loan up to $11 million to provide working capital for Ely. In return, Ely granted petitioner a security interest in inventory, accounts receivable, and other assets. Petitioner perfected its security interest under applicable state law.</p>
     <p>The financing agreement imposed various reporting requirements on Ely, including the submission to petitioner of a weekly schedule of inventory, a monthly balance sheet and income statement, and reports of accounts receivable. Petitioner also monitored the collateral upon which it made cash advances through a system of audits and on-site inspections. In the fall of 1984, Ely's sales began to fall below projections, and the balance on the loan began to increase, reaching over $9.5 million by February, 1985. Ely stopped reporting to petitioner in January, 1985. On February 8, petitioner stopped advancing funds and demanded payment in full. At the request of Ely's management, however, petitioner did not immediately foreclose. It gave Ely an opportunity to devise a plan for continuing its operations, but Ely was unable to do so. Petitioner waited until February 19, at which time it took possession of the collateral, including Ely's inventory of finished goods.</p>
     <p>Ely's employees continued to work until February 19, when Ely ceased all operations and closed its manufacturing facilities. Because Ely defaulted on its payroll, the employees</p>
@@ -42,7 +42,7 @@
     <n id="p32">32</n>
     <p>(1986). Following the plain language of § 15(a)(1), the majority concluded that "any person," as used in that section, applies to secured creditors. Id. at 1202-1203. Like the District Courts, it found this result consistent with the purpose of the FLSA: to exclude tainted goods from interstate commerce. Id. at 1203. The Court of Appeals rejected the reasoning of the Second Circuit in Wirtz v. Powell Knitting Mills Co., 360 F.2d 730 (1966), which had held § 15(a)(1) inapplicable to secured creditors who take possession of goods produced in violation of the FLSA. 788 F.2d at 1204-1205. The Sixth Circuit noted that Congress created only two exceptions to the broad scope of § 15(a)(1), one for common carriers and one for good faith purchasers, id. at 1205, and concluded that "Powell Knitting Mills created an exception for secured creditors that Congress did not and has not deemed appropriate." Id. at 1206. The dissenting judge would have followed Powell Knitting Mills. He maintained that, in enacting the "hot goods" provision, Congress was concerned with violations of the Act occurring in the course of the ongoing production of goods by a solvent manufacturer, not, as here, by an insolvent corporation that has ceased operations. Id. at 1207.</p>
     <p>We granted certiorari to resolve this conflict among the Circuits. [<a id="nf3" href="#fn3">Footnote 3</a>] 479 U.S. 929 (1986). We now affirm.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>A</p>
     <p>The FLSA mandates the payment of minimum wage and overtime compensation to covered employees. Section 6(a) provides that every employer, as defined in the Act, "shall</p>
     <n id="p33">33</n>
@@ -76,7 +76,7 @@
     <n id="p39">39</n>
     <p>wages does not give the employees a "lien" on the assets superior to that of a secured creditor. [<a id="nf10" href="#fn10">Footnote 10</a>]</p>
     <p>In numerous other statutes, Congress has exercised its authority under the Commerce Clause to exclude from interstate commerce goods which, for a variety of reasons, it considers harmful. Like the FLSA, these regulatory measures bar goods not produced in conformity with specified standards from the channels of commerce. [<a id="nf11" href="#fn11">Footnote 11</a>] As the District Courts in this case recognized, secured creditors take their security interests subject to the laws of the land. See 621 F. Supp. at 26; 608 F. Supp. at 217. If, for example, the goods at issue in this case were fabrics that failed to meet federal flammability standards and were therefore banned from interstate commerce under the Flammable Fabrics Act, 67 Stat. 111, as amended, 15 U.S.C. § 1191 et seq., surely petitioner could not argue that it had a right to sell the inventory merely by virtue of its status as a secured creditor. "Hot goods" are not inherently hazardous, but Congress has determined that they are contraband nonetheless. We see no reason for a different result merely because a different form of contraband is involved.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>We hold that § 15(a)(1)'s broad prohibition on interstate shipment of "hot goods" applies to secured creditors who acquire the goods pursuant to a security agreement. This result is mandated by the plain language of the statute, and it</p>
     <n id="p40">40</n>
     <p>furthers the goal of eliminating the competitive advantage enjoyed by goods produced under substandard labor conditions. Accordingly, the judgment of the Court of Appeals is</p>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us392-0364.html" citation="392 U.S. 364" title="Mancusi v. DeForte">
   <opinion type="Opinions &amp; Dissents">
     <n id="p364">364</n>
-    <h>U.S. Supreme Court</h>
-    <h>Mancusi v. DeForte, <a href="./us392-0364.xml#p364">392 U.S. 364</a> (1968)</h>
-    <h>Mancusi v. DeForte</h>
-    <h>No. 844</h>
-    <h>Argued April 25, 1968</h>
-    <h>Decided June 17, 1968</h>
-    <h><a href="./us392-0364.xml#p364">392 U.S. 364</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SECOND CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Mancusi v. DeForte, <a href="./us392-0364.xml#p364">392 U.S. 364</a> (1968)</h1>
+    <h2>Mancusi v. DeForte</h2>
+    <h2>No. 844</h2>
+    <h4>Argued April 25, 1968</h4>
+    <h4>Decided June 17, 1968</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SECOND CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>The Nassau County District Attorney issued a subpoena duces tecum to the Union of which respondent was an officer calling for the production of certain books and records. The Union refused to comply, and the state officials, without a warrant, seized union records from an office shared by respondent and several other union officials despite the protests of respondent, who was present in the office and had custody of the papers at the time of seizure. The seized materials were admitted at his trial for conspiracy, coercion, and extortion, and he was convicted. The federal District Court denied a writ of habeas corpus, but the Court of Appeals reversed and directed that the writ issue on the ground that respondent's Fourth and Fourteenth Amendment rights were violated by the search and seizure. and that the materials were inadmissible under Mapp v. Ohio, <a href="../us367/us367-0643.xml#p643">367 U. S. 643</a>. Respondent argues for affirmance on this ground alone.</p>
     <p>Held:</p>
     <p>1. One has standing to object to a search of his office, as well as of his home, and respondent was entitled to expect that records in his custody at his office in union headquarters would not be taken without his permission or that of his union superiors, whether he occupied a "private" office or shared one with other union officials. Respondent thus had standing to object to the admission of the seized papers at his trial. Jones v. United States, <a href="../us362/us362-0257.xml#p257">362 U. S. 257</a>. Pp. <a href="./us392-0364.xml#p367">392 U. S. 367</a>-370.</p>
@@ -23,13 +23,13 @@
     <p>On direct appeal to the New York courts, [<a id="nf1" href="#fn1">Footnote 1</a>] DeForte unsuccessfully argued, inter alia, that the seized material was constitutionally inadmissible in state proceedings under the rule laid down in Mapp v. Ohio, <a href="../us367/us367-0643.xml#p643">367 U. S. 643</a>, because the search and seizure occurred without a warrant. [<a id="nf2" href="#fn2">Footnote 2</a>] DeForte subsequently brought a federal habeas</p>
     <n id="p366">366</n>
     <p>corpus proceeding, in which he made the same contention. The United States District Court for the Western District of New York denied the writ, 261 F. Supp. 579, but, on appeal, the Court of Appeals for the Second Circuit reversed and directed that the writ issue. 379 F.2d 897. We granted certiorari, 390 U.S. 903, to consider the State's [<a id="nf3" href="#fn3">Footnote 3</a>] contention that the Court of Appeals erred in upsetting this state conviction. Concluding that the Court of Appeals was right, we affirm.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>It is desirable at the outset to make clear what is and what is not involved in this case. The decision below was based solely upon a finding that DeForte's Fourth and Fourteenth Amendment rights, see Ker v. California, <a href="../us374/us374-0023.xml#p23">374 U. S. 23</a>, <a href="../us374/us374-0023.xml#p30">374 U. S. 30</a>-34, were violated by the search and seizure, and that the seized material was therefore inadmissible under Mapp. It is on this ground alone that DeForte argues for affirmance. Consequently, there is no occasion to consider whether DeForte might successfully have asserted his Fifth Amendment right against self-incrimination with respect to the use against him of the seized records. Cf. United States v. White, <a href="../us322/us322-0694.xml#p694">322 U. S. 694</a>; Wilson v. United States, <a href="../us221/us221-0361.xml#p361">221 U. S. 361</a>. Nor is there any need to inquire whether DeForte could have asserted a Fourth or Fifth Amendment claim on behalf of the Union, for he did not do so. Moreover, this is not a case in which it is necessary to decide whether the traditional doctrine that Fourth Amendment rights</p>
     <p>"are personal rights, and . . . may be enforced by exclusion of evidence only at the instance of one whose own protection was infringed by the search and seizure,"</p>
     <p>Simmons v. United States, <a href="../us390/us390-0377.xml#p377">390 U. S. 377</a>, at 389, should be modified. Cf. id. at <a href="../us390/us390-0377.xml#p390">390 U. S. 390</a>, n. 12. For DeForte claims</p>
     <n id="p367">367</n>
     <p>that, under the traditional rule, he does have standing to challenge the admission against him at trial of union records seized from the office where he worked. The questions for decision, then, are whether DeForte has Fourth Amendment standing to object to the seizure of the records and, if so, whether the search was one prohibited by the Fourth Amendment.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>We deal, first, with the question of "standing." The Fourth Amendment guarantees that</p>
     <p>"The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated."</p>
     <p>The papers which were seized in this case belonged not to DeForte, but to the Union. Hence, DeForte can have personal standing only if, as to him, the search violated the "right of the people to be secure in their . . . houses. . . ." [<a id="nf4" href="#fn4">Footnote 4</a>] This Court has held that the word "houses," as it appears in the Amendment, is not to be taken literally, and that the protection of the Amendment may extend to commercial premises. See, e.g., See v. Seattle, <a href="../us387/us387-0541.xml#p541">387 U. S. 541</a>; Go-Bart Importing Co. v. United States, <a href="../us282/us282-0344.xml#p344">282 U. S. 344</a>; Silverthorne Lumber Co. v. United States, <a href="../us251/us251-0385.xml#p385">251 U. S. 385</a>.</p>
@@ -45,7 +45,7 @@
     <n id="p370">370</n>
     <p>Union or some of its officials might validly have consented to a search of the area where the records were kept, regardless of DeForte's wishes, for it is not claimed that any such consent was given, either expressly or by implication.</p>
     <p>Our conclusion that DeForte had standing finds strong support in Jones v. United States, supra. Jones was the occasional occupant of an apartment to which the owner had given him a key. The police searched the apartment while Jones was present, and seized narcotics which they found in a bird's nest in an awning outside a window. Thus, like DeForte, Jones was not the owner of the searched premises. Like DeForte, Jones had little expectation of absolute privacy, since the owner and those authorized by him were free to enter. There was no indication that the area of the apartment near the bird's nest had been set off for Jones' personal use, so that he might have expected more privacy there than in the rest of the apartment; in this, it was like the part of DeForte's office where the union records were kept. Hence, we think that our decision that Jones had standing clearly points to the result which we reach here.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The remaining question is whether the search of DeForte's office was "unreasonable" within the meaning of the Fourth Amendment. The State does not deny that the search and seizure were without a warrant, and it is settled for purposes of the Amendment that,</p>
     <p>"except in certain carefully defined classes of cases, a search of private property without proper consent is 'unreasonable' unless it has been authorized by a valid search warrant."</p>
     <p>Camara v. Municipal Court, <a href="../us387/us387-0523.xml#p523">387 U. S. 523</a>, <a href="../us387/us387-0523.xml#p528">387 U. S. 528</a>-529. [<a id="nf7" href="#fn7">Footnote 7</a>] We</p>

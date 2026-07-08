@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us463-0765.html" citation="463 U.S. 765" title="Illinois v. Andreas">
   <opinion type="Opinions &amp; Dissents">
     <n id="p765">765</n>
-    <h>U.S. Supreme Court</h>
-    <h>Illinois v. Andreas, <a href="./us463-0765.xml#p765">463 U.S. 765</a> (1983)</h>
-    <h>Illinois v. Andreas</h>
-    <h>No. 81-1843</h>
-    <h>Argued March 30, 1983</h>
-    <h>Decided July 5, 1983</h>
-    <h><a href="./us463-0765.xml#p765">463 U.S. 765</a></h>
-    <h>CERTIORARI TO THE APPELLATE COURT OF ILLINOIS, FIRST</h>
-    <h>JUDICIAL DISTRICT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Illinois v. Andreas, <a href="./us463-0765.xml#p765">463 U.S. 765</a> (1983)</h1>
+    <h2>Illinois v. Andreas</h2>
+    <h4>No. 81-1843</h4>
+    <h4>Argued March 30, 1983</h4>
+    <h4>Decided July 5, 1983</h4>
+    <h2>CERTIORARI TO THE APPELLATE COURT OF ILLINOIS, FIRST</h2>
+    <h2>JUDICIAL DISTRICT</h2>
+    <h2>Syllabus</h2>
     <p>A large, locked metal container, shipped by air from Calcutta to respondent in Chicago, was opened by a customs officer at the airport, who found a wooden table with marihuana concealed in a compartment. A Drug Enforcement Administration (DEA) agent confirmed that it was marihuana, and the table and container were resealed. The next day, the DEA agent and a Chicago police officer posed as delivery men and delivered the container to respondent, leaving it in the hallway outside his apartment. The DEA agent stationed himself to keep the container in sight and observed respondent take the container into his apartment. When the other officer left to secure a warrant to search the apartment, the DEA agent maintained surveillance of the apartment. Some 30 or 45 minutes after the delivery, but before the other officer could return with a warrant, respondent emerged from the apartment with the shipping container and was immediately arrested and taken to the police station; there the container was reopened and the marihuana found inside the table was seized. No search warrant had been obtained. Prior to trial on charges of possession of controlled substances, the Illinois state trial court granted respondent's motion to suppress the marihuana. The Illinois Appellate Court affirmed, holding that a "controlled delivery" had not been made, so as to render a warrant unnecessary, because the DEA agent was not present when the container was resealed at the airport by the customs officers and the container was out of sight while it was in respondent's apartment.</p>
     <p>Held: The warrantless reopening of the container following its reseizure did not violate respondent's rights under the Fourth Amendment. Pp. <a href="./us463-0765.xml#p769">463 U. S. 769</a>-773.</p>
     <p>(a) If an inspection by police does not intrude upon a legitimate expectation of privacy, there is no "search" subject to the Warrant Clause. No protected privacy interest remains in contraband in a container once government officers lawfully (as here) have opened that container and identified its contents as illegal. The simple act of resealing the container to enable the police to make a controlled delivery does not operate to revive or restore the lawfully invaded privacy rights, and the subsequent reopening of the container is not a "search" within the intendment of the Fourth Amendment. The rigors and contingencies inescapable in</p>
@@ -23,7 +23,7 @@
     <p>CHIEF JUSTICE BURGER delivered the opinion of the Court.</p>
     <p>The question presented is whether a warrant was required to reopen a sealed container in which contraband drugs had been discovered in an earlier lawful border search when the container was seized by the police after it had been delivered to respondent under police supervision.</p>
     <n id="p767">767</n>
-    <h>I</h>
+    <h2>I</h2>
     <p>A large, locked metal container was shipped by air from Calcutta to respondent in Chicago. When the container arrived at O'Hare International Airport, a customs inspector opened it and found a wooden table approximately three feet in diameter and 8 to 10 inches thick. Marihuana was found concealed inside the table.</p>
     <p>The customs inspector informed the Drug Enforcement Administration of these facts and Special Agent Labek came to the airport later that day. Labek chemically tested the substance contained in the table, confirming that it was marihuana. The table and the container were resealed.</p>
     <p>The next day, Labek put the container in a delivery van and drove to respondent's building. He was met there by Chicago Police Inspector Lipsek. Posing as delivery men, Labek and Lipsek entered the apartment building and announced they had a package for respondent. Respondent came to the lobby and identified himself. In response to Lipsek's comment about the weight of the package, respondent answered that it "wasn't that heavy; that he had packaged it himself, that it only contained a table." App. 14.</p>
@@ -38,7 +38,7 @@
     <p>Ibid. Accordingly, the Illinois court held that the warrantless reopening of the container violated the Fourth Amendment.</p>
     <n id="p769">769</n>
     <p>We granted certiorari, 459 U.S. 904 (1982), and we reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The lawful discovery by common carriers or customs officers of contraband in transit [<a id="nf1" href="#fn1">Footnote 1</a>] presents law enforcement authorities [<a id="nf2" href="#fn2">Footnote 2</a>] with an opportunity to identify and prosecute the person or persons responsible for the movement of the contraband. To accomplish this, the police, rather than simply seizing the contraband and destroying it, make a so-called controlled delivery of the container to its consignee, allowing the container to continue its journey to the destination contemplated by the parties. The person dealing in the contraband can then be identified upon taking possession of and asserting dominion over the container. [<a id="nf3" href="#fn3">Footnote 3</a>]</p>
     <n id="p770">770</n>
     <p>The typical pattern of a controlled delivery was well described by one court:</p>
@@ -54,7 +54,7 @@
     <p>In fashioning a standard, we must be mindful of three Fourth Amendment principles. First, the standard should be workable for application by rank-and-file, trained police officers. See New York v. Belton, <a href="../us453/us453-0454.xml#p454">453 U. S. 454</a>, <a href="../us453/us453-0454.xml#p458">453 U. S. 458</a>-460 (1981); United States v. Ross, <a href="../us456/us456-0798.xml#p798">456 U. S. 798</a>, <a href="../us456/us456-0798.xml#p821">456 U. S. 821</a> (1982).</p>
     <n id="p773">773</n>
     <p>Second, it should be reasonable; for example, it would be absurd to recognize as legitimate an expectation of privacy where there is only a minimal probability that the contents of a particular container had been changed. Third, the standard should be objective, not dependent on the belief of individual police officers. See Terry v. Ohio, <a href="../us392/us392-0001.xml#p1">392 U. S. 1</a>, <a href="../us392/us392-0001.xml#p21">392 U. S. 21</a>-22 (1968). A workable, objective standard that limits the risk of intrusion on legitimate privacy interests is whether there is a substantial likelihood that the contents of the container have been changed during the gap in surveillance. We hold that, absent a substantial likelihood that the contents have been changed, there is no legitimate expectation of privacy in the contents of a container previously opened under lawful authority.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Applying these principles, we conclude there was no substantial likelihood here that the contents of the shipping container were changed during the brief period that it was out of sight of the surveilling officer. The unusual size of the container, its specialized purpose, and the relatively short break in surveillance combine to make it substantially unlikely that the respondent removed the table or placed new items inside the container while it was in his apartment. Thus, reopening the container did not intrude on any legitimate expectation of privacy and did not violate the Fourth Amendment.</p>
     <p>The judgment of the Illinois Appellate Court is reversed, and the case is remanded for proceedings not inconsistent with this opinion.</p>
     <p>It is so ordered.</p>
@@ -78,7 +78,7 @@
       <p>at <a href="./us463-0765.xml#p772">463 U. S. 772</a>, not subject to the protection of the Fourth Amendment. I suppose one should be grateful that the Court has not explicitly opened one more breach in the general rule that</p>
       <p>""searches conducted outside the judicial process, without prior approval by judge or magistrate, are per se unreasonable under the Fourth Amendment -- subject only to a few specifically established and well-delineated exceptions.'""</p>
       <p>United States v. Ross, <a href="../us456/us456-0798.xml#p798">456 U. S. 798</a>, <a href="../us456/us456-0798.xml#p825">456 U. S. 825</a> (1982), quoting Mincey v. Arizona, <a href="../us437/us437-0385.xml#p385">437 U. S. 385</a>, <a href="../us437/us437-0385.xml#p390">437 U. S. 390</a> (1978), in turn quoting Katz v. United States, <a href="../us389/us389-0347.xml#p347">389 U. S. 347</a>, <a href="../us389/us389-0347.xml#p357">389 U. S. 357</a> (1967). [Footnote 2/1] On the other hand, the Court's rationale, even though limited to a very specific fact pattern, is nevertheless astounding in its implications. We have, to my knowledge, never held that the physical opening and examination of a container in the possession of an individual was anything other than a "search." It might be a permissible search or an impermissible search, require a warrant or not require a warrant, but it is, in any event, a "search." [Footnote 2/2]</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>A</p>
       <p>The Court's primary argument in favor of its "no-search" holding can be stated briefly:</p>
       <p>"The threshold question . . . is whether an individual has a legitimate expectation of privacy in the contents of a</p>
@@ -112,7 +112,7 @@
       <p>I agree entirely with the Court that "controlled delivery" is a proper and effective tool of responsible law enforcement. See ante at <a href="./us463-0765.xml#p769">463 U. S. 769</a>-770. If contraband is discovered in a package passing through customs inspection, the authorities are not required to seize it then and there, but may make use of their discovery to obtain more evidence and to capture the culprits behind the contraband. The "controlled delivery" technique,</p>
       <n id="p781">781</n>
       <p>however, would be just as effective, and decidedly more proper, if the second search that came at its culmination were authorized by a valid search warrant. Under these circumstances, I am not at all sure what interest the Court thinks it is vindicating by its determined if awkward exertions.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>Even if the Court were correct that the "reopening" of a package after a properly controlled "controlled delivery" is not a "search," I could still not agree with the standard it fashions to put that principle into effect, or with the result it reaches in this case. The Court holds that a "reopening" is not a "search" as long as there is not a "substantial likelihood that the contents of the container have been changed during [a] gap in surveillance." Ante at <a href="./us463-0765.xml#p773">463 U. S. 773</a>. Of course,</p>
       <p>"the rigors and contingencies inescapable in an investigation into illicit drug traffic often make 'perfect' controlled deliveries and . . . 'absolute certainty' . . . impossible,"</p>
       <p>ante at <a href="./us463-0765.xml#p772">463 U. S. 772</a>. Nevertheless, the very justifications proffered by the Court for its "no-search" analysis should have at least led it to require something very close to "absolute certainty." Cf. post, p. <a href="./us463-0765.xml#p782">463 U. S. 782</a> (STEVENS, J., dissenting). After all, if a person has no reasonable expectation of privacy in a package whose contents are already legally known to the authorities, a reasonable expectation of privacy should reattach if the person has unobserved access to the package and any opportunity to change its contents. By adopting a vague intermediate standard, the Court makes more likely serious intrusions into what even it would consider to be "reasonable expectations of privacy." Moreover, I cannot see how as indistinct a phrase as "substantial likelihood" could in any way serve the Court's interest in fashioning a standard "workable for application by rank-and-file, trained police officers." Ante at <a href="./us463-0765.xml#p772">463 U. S. 772</a>.</p>

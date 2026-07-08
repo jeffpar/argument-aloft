@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us408-0125.html" citation="408 U.S. 125" title="United State v. Byrum">
   <opinion type="Opinions &amp; Dissents">
     <n id="p125">125</n>
-    <h>U.S. Supreme Court</h>
-    <h>United State v. Byrum, <a href="./us408-0125.xml#p125">408 U.S. 125</a> (1972)</h>
-    <h>United State v. Byrum</h>
-    <h>No. 71-308</h>
-    <h>Argued March 1, 1972</h>
-    <h>Decided June 26, 1972</h>
-    <h><a href="./us408-0125.xml#p125">408 U.S. 125</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SIXTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United State v. Byrum, <a href="./us408-0125.xml#p125">408 U.S. 125</a> (1972)</h1>
+    <h2>United State v. Byrum</h2>
+    <h2>No. 71-308</h2>
+    <h4>Argued March 1, 1972</h4>
+    <h4>Decided June 26, 1972</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SIXTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Decedent transferred to an irrevocable trust for the benefit of his children (and if they died before the trust ended, their surviving children) stock in three unlisted corporations that he controlled, retaining the right to vote the transferred stock, to veto the transfer by the trustee (a bank) of any of the stock, and to remove the trustee and appoint another corporate trustee as successor. The right to vote the transferred stock, together with the vote of the stock decedent owned at the time of his death, gave him a majority vote in each of the corporations. The Commissioner of Internal Revenue determined that the transferred stock was includable in decedent's gross estate under § 2036(a) of the Internal Revenue Code of 1954, which requires the inclusion in a decedent's gross estate of the value of any property he has transferred by inter vivos gift, if he retained for his lifetime</p>
     <p>"(1) the . . . enjoyment of . . . the property transferred, or (2) the right, either alone or in conjunction with any person, to designate the persons who shall . . . enjoy . . . the income therefrom."</p>
     <p>The Commissioner claimed that decedent's right to vote the transferred shares and to veto any sale by the trustee, together with the ownership of other shares, made the transferred shares includable under § 2036(a)(2), because decedent retained control over corporate dividend policy and, by regulating the flow of income to the trust, could shift or defer the beneficial enjoyment of trust income between the present beneficiaries and remaindermen, and under § 2036(a)(1) because, by reason of decedent's retained control over the corporations, he had the right to continue to benefit economically from the transferred shares during his lifetime.</p>
@@ -36,7 +36,7 @@
     <n id="p131">131</n>
     <p>therefrom." [<a id="nf3" href="#fn3">Footnote 3</a>] The Commissioner determined that the stock transferred into the trust should be included in Byrum's gross estate because of the rights reserved by him in the trust agreement. It was asserted that his right to vote the transferred shares and to veto any sale thereof by the trustee, together with the ownership of other shares, enabled Byrum to retain the "enjoyment of . . . the property," and also allowed him to determine the flow of income to the trust, and thereby "designate the persons who shall . . . enjoy . . . the income."</p>
     <p>The executrix of Byrum's estate paid an additional tax of $13,202.45, and thereafter brought this refund action in District Court. The facts not being in dispute, the court ruled for the executrix on cross-motions for summary judgment. <a href="https://law.justia.com/cases/federal/district-courts/FSupp/311/892/2127253/">311 F. Supp. 892</a> (SD Ohio 1970). The Court of Appeals affirmed, one judge dissenting. 440 F.2d 949 (CA6 1971). We granted the Government's petition for certiorari. 404 U.S. 937 (1971).</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The Government relies primarily on its claim, made under § 2036(a)(2), that Byrum retained the right to</p>
     <n id="p132">132</n>
     <p>designate the persons who shall enjoy the income from the transferred property. The argument is a complicated one. By retaining voting control over the corporations whose stock was transferred, Byrum was in a position to select the corporate directors. He could retain this position by not selling the shares he owned and by vetoing any sale by the trustee of the transferred shares. These rights, it is said, gave him control over corporate dividend policy. By increasing, decreasing, or stopping dividends completely, it is argued that Byrum could "regulate the flow of income to the trust," and thereby shift or defer the beneficial enjoyment of trust income between the present beneficiaries and the remaindermen. The sum of this retained power is said to be tantamount to a grantor-trustee's power to accumulate income in the trust, which this Court has recognized constitutes the power to designate the persons who shall enjoy the income from transferred property. [<a id="nf4" href="#fn4">Footnote 4</a>]</p>
@@ -81,7 +81,7 @@
     <n id="p144">144</n>
     <p>We find no merit to the Government's contention that Byrum's de facto "control," subject as it was to the economic and legal constraints set forth above, was tantamount to the right to designate the persons who shall enjoy trust income, specified by § 2036(a)(2). [<a id="nf26" href="#fn26">Footnote 26</a>]</p>
     <n id="p145">145</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>The Government asserts an alternative ground for including the shares transferred to the trust within Byrum's gross estate. It argues that, by retaining control, Byrum guaranteed himself continued employment and remuneration, as well as the right to determine whether and when the corporations would be liquidated or merged. Byrum is thus said to have retained "the . . . enjoyment of . . . the property," making it includable within his gross estate under § 2036(a)(1). The Government concedes that the retention of the voting rights of an "unimportant minority interest" would not require inclusion of the transferred shares under § 2036(a)(1). It argues, however,</p>
     <p>"where the cumulative effect of the retained powers and the rights flowing from the shares not placed in trust leaves the grantor in control of a close corporation, and assures that control for his lifetime, he has retained the 'enjoyment' of the transferred stock. [<a id="nf27" href="#fn27">Footnote 27</a>]"</p>
     <p>Brief for United States 23.</p>
@@ -274,7 +274,7 @@
       <p>Moreover, there is nothing in the record of this case with respect to Byrum's compensation. There is no showing that his control of these corporations gave him an enjoyment with respect to compensation that he would not have had upon rendering similar services without owning any stock.</p>
       <p>MR. JUSTICE WHITE, with whom MR. JUSTICE BRENNAN and MR. JUSTICE BLACKMUN join, dissenting.</p>
       <p>I think the majority is wrong in all substantial respects.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>The tax code commands the payment of an estate tax on transfers effective in name and form during life if the now-deceased settlor retained during his life either (1) "the possession or enjoyment of" the property transferred or (2) the right to designate the persons who would enjoy the transferred property or the income therefrom. 26 U.S.C. §§ 2036(a)(1) and (2). Our cases explicate this congressional directive to mean that, if one wishes to avoid a tax at death, he must be self-abnegating enough to totally surrender his property interest during life.</p>
       <p>"[A]n estate tax cannot be avoided by any trust transfer except by a bona fide transfer in which the settlor, absolutely, unequivocally, irrevocably, and without possible reservations, parts with all of his title and all of his possession and all of his enjoyment of the transferred property."</p>
       <p>Commissioner v. Estate of Church, <a href="../us335/us335-0632.xml#p632">335 U. S. 632</a>, <a href="../us335/us335-0632.xml#p645">335 U. S. 645</a> (1949).</p>
@@ -285,7 +285,7 @@
       <n id="p153">153</n>
       <p>Byrum's control over the flow of trust income renders his estate scheme repugnant to § 2036(a)(2) as well as § 2036(a)(1).</p>
       <p>To me, it is thus clear that Byrum's shares were not truly, totally, "absolutely, unequivocally" alienated during his life. When it is apparent that, if tolerated, Byrum's scheme will open a gaping hole in the estate tax laws, on what basis does the majority nonetheless conclude that Byrum should have his enjoyment, his control, and his estate free from taxes?</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>I can find nothing in the majority's three arguments purporting to deal with § 2036(a)(1) that might justify the conclusion that Byrum did not "enjoy" a benefit from the shares his estate now asserts are immune from taxation.</p>
       <p>1. The majority says that, in Reinecke v. Northern Trust Co., <a href="../us278/us278-0339.xml#p339">278 U. S. 339</a> (1929),</p>
       <p>"the Court held that reserved powers of management of trust assets, similar to Byrum's power over the three corporations, did not subject an inter vivos trust to the federal estate tax."</p>
@@ -298,7 +298,7 @@
       <p>is not important, that it either cannot be held by a private shareholder or that it is of so little use and relevance the taxpayer can hardly be said to have "enjoyed" it. This view of corporate life is refuted by the case law; [Footnote 2/4] by the commentators; [Footnote 2/5] and by every-day transactions on the stock exchange, where offers and trades repeatedly demonstrate that the power to "control" a corporation will fetch a substantial premium. [Footnote 2/6] Moreover, the majority's view is belied by Byrum's own conduct. He obviously valued control, because he forbade the bank that served as trustee to sell the trust shares in these corporations without his -- Byrum's -- approval, whatever their return, their prospects, their value, or the trust's needs. Trust Agreement � 5.15, App. 14.</p>
       <p>In sum, the majority's discourse on § 2036(a)(1) is an unconvincing rationalization for allowing Byrum the tax-free "enjoyment" of the control privileges he retained through the voting power of shares he supposedly "absolutely" and "unequivocally" gave up.</p>
       <n id="p156">156</n>
-      <h>III</h>
+      <h2>III</h2>
       <p>I find no greater substance in the greater length of the majority's discussion of § 2036(a)(2).</p>
       <p>A</p>
       <p>Approaching the § 2036(a)(2) problem afresh, one would think United States v. O'Malley, <a href="../us383/us383-0627.xml#p627">383 U. S. 627</a> (1966), would control this case. In O'Malley, the settlor "had relinquished all of his rights" to stock, but he appointed himself one of three trustees for each of the five trusts he created, and he drafted the trust agreement so that the trustees had the freedom to allocate trust income to the life tenant or to accumulate it for the remainderman "in their sole discretion." The District Court held that the value of securities transferred was includable in the settlor's gross estate under § 811(c) and (d) of the Internal Revenue Code of 1939, as amended, § 811(c)(1)(B) being the similarly worded predecessor of § 2036(a), because the settlor had retained the power to allocate income between the beneficiaries without being constrained by a "definite ascertainable standard" according to which the trust would be administered. O'Malley v. United States, <a href="https://law.justia.com/cases/federal/district-courts/FSupp/220/30/1815454/">220 F. Supp. 30</a>, 33 (1963). The court noted "plaintiff's contention that the required external standard is imposed generally by the law of Illinois," but found this point to be "without merit."</p>
@@ -338,7 +338,7 @@
       <p>And we spoke of:</p>
       <p>"This power he exercised by accumulating and adding income to principal, and this same power he held until the moment of his death. . . ."</p>
       <p>383 U.S. at <a href="../us383/us383-0627.xml#p634">383 U. S. 634</a> (emphasis supplied). Other passages could be quoted.</p>
-      <h>IV</h>
+      <h2>IV</h2>
       <p>Apparently sensing that considerations of logic, policy, and recent case law point to the inclusion of Byrum's trust in his estate, the majority would blunt these considerations by invoking the principle that courts should refrain from decisions detrimental to litigants who have taken a position in legitimate reliance on possibly outdated, but once established, case law. This principle is said to bring great weight to bear in Byrum's favor.</p>
       <p>I need not quarrel with the principle. I think, however, that its application in this context is inappropriate.</p>
       <p>The majority recites these facts: this Court has never held that retention of power to manage trust assets compels inclusion of a trust in a settlor's estate. In fact, Reinecke v. Northern Trust Co., <a href="../us278/us278-0339.xml#p339">278 U. S. 339</a> (1929), specifically held a trust arrangement immune from taxation though the settlor retained power to decide how the trust assets were to be invested. Though Northern Trust was decided before the passage of § 2036(a)(2), it has been followed by "several" more recent lower court decisions. Though most of the lower court decisions provide only the most oblique reference to circumstances like those of this case, a 1962 unappealed Tax Court decision, Estate of King v. Commissioner, 37 T.C. 973, is squarely in point.</p>
@@ -372,7 +372,7 @@
       <p>"1. Exercise broad and virtually unlimited investment powers. . . ."</p>
       <p>Tax-Wise Drafting of Fiduciary Powers, 4 Tax Counsellor's Quarterly 333, 336.</p>
       <p>More could be said, but I think it is clear that the majority should find no solace in its reliance argument.</p>
-      <h>V</h>
+      <h2>V</h2>
       <p>The majority, I repeat, has erred in every substantial respect. It remains only to note that if it is wrong in any substantial respect -- i.e., either in its § 2036(a)(1) or (a)(2) arguments -- Byrum's trust is by law liable to taxation.</p>
       <p>[Footnote 2/1]</p>
       <p>The trust held $89,000 worth of stock in Byrum-controlled corporations, and only one other asset: three Series E United States Savings Bonds worth a total of $300 at maturity. See "Yearly List of [Trust] Assets," App. 27-29. Consequently, I do not accord much weight to the majority's point that Byrum could not prevent the trustee from making payments "from other trust assets."</p>

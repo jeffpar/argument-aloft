@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us435-0371.html" citation="435 U.S. 371" title="United States v. Culbert">
   <opinion type="Opinions &amp; Dissents">
     <n id="p371">371</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Culbert, <a href="./us435-0371.xml#p371">435 U.S. 371</a> (1978)</h>
-    <h>United States v. Culbert</h>
-    <h>No. 77-142</h>
-    <h>Argued January 11, 1978</h>
-    <h>Decided March 28, 1978</h>
-    <h><a href="./us435-0371.xml#p371">435 U.S. 371</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Culbert, <a href="./us435-0371.xml#p371">435 U.S. 371</a> (1978)</h1>
+    <h2>United States v. Culbert</h2>
+    <h2>No. 77-142</h2>
+    <h4>Argued January 11, 1978</h4>
+    <h4>Decided March 28, 1978</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondent was convicted under the Hobbs Act, 18 U.S.C. § 1951 (1976 ed.), of attempting to obtain money from federally insured bank by means of threats of violence to its president. The Curt of Appeals reversed, holding that the Government had failed to prove that respondent's conduct constituted "racketeering," which, in its view, was a necessary element of a Hobbs Act offense.</p>
     <p>Held: The plain language and legislative history of the statute make clear that Congress did not intend to limit the statute's scope by reference to an undefined category of conduct termed "racketeering," but rather that Congress intended to reach all conduct within the express terms of the statute. Pp. <a href="./us435-0371.xml#p373">435 U. S. 373</a>-380.</p>
     <p>548 F.2d 1355, reversed.</p>
@@ -26,7 +26,7 @@
     <p>""although an activity may be within the literal language of the Hobbs Act, it must constitute racketeering' to be within the perimeters of the Act.""</p>
     <p>548 F.2d 1355, 1357, quoting United States v. Yokley, 542 F.2d 300, 304 (CA6 1976). We granted certiorari, 434 U.S. 816 (1977), [<a id="nf2" href="#fn2">Footnote 2</a>] and we now reverse.</p>
     <n id="p373">373</n>
-    <h>I</h>
+    <h2>I</h2>
     <p>Nothing on the face of the statute suggests a congressional intent to limit its coverage to persons who have engaged in "racketeering." To the contrary, the statutory language sweeps within it all persons who have "in any way or degree . . . affect[ed] commerce . . . by robbery or extortion." 18 U.S.C. § 1951(a) (1976 ed.). These words do not lend themselves to restrictive interpretation; as we have recognized, they</p>
     <p>"manifest . . . a purpose to use all the constitutional power Congress has to punish interference with interstate commerce by extortion, robbery or physical violence,"</p>
     <p>Stirone v. United States, <a href="../us361/us361-0212.xml#p212">361 U. S. 212</a>, <a href="../us361/us361-0212.xml#p215">361 U. S. 215</a> (1960). The statute, moreover, carefully defines its key terms, such as "robbery," "extortion," and "commerce." [<a id="nf3" href="#fn3">Footnote 3</a>] Hence, the absence of any reference to "racketeering" -- much less any definition of the word -- is strong evidence that Congress did not intend to make "racketeering" an element of a Hobbs Act violation.</p>
@@ -34,7 +34,7 @@
     <p>Respondent nevertheless argues that we should read a racketeering requirement into the statute. To do so, however, might create serious constitutional problems in view of the absence of any definition of racketeering in the statute. Neither respondent nor either of the two Courts of Appeals that have read this requirement into the statute has even attempted to provide a definition. Without such a definition, the statute might well violate "the first essential of due process of law": it would forbid</p>
     <p>"the doing of an act in terms so vague that [persons] of common intelligence [would] necessarily [have to] guess at its meaning and differ as to its application."</p>
     <p>Connally v. General Constr. Co., <a href="../us269/us269-0385.xml#p385">269 U. S. 385</a>, <a href="../us269/us269-0385.xml#p391">269 U. S. 391</a> (1926); see, e.g., Hynes v. Mayor of Oradell, <a href="../us425/us425-0610.xml#p610">425 U. S. 610</a>, <a href="../us425/us425-0610.xml#p620">425 U. S. 620</a> (1976). But we need not concern ourselves with these potential constitutional difficulties because a construction that avoids them is virtually compelled by the language and structure of the statute.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>A</p>
     <p>Nothing in the legislative history supports the interpretation of the statute adopted by the Court of Appeals. [<a id="nf4" href="#fn4">Footnote 4</a>] The predecessor to the Hobbs Act, the Anti-Racketeering Act of 1934, ch. 569, 48 Stat. 979, was enacted, as its name implies, at a time when Congress was very concerned about racketeering activities. Despite these concerns, however, the Act, which was written in broad language similar to the language of the</p>
     <n id="p375">375</n>
@@ -58,7 +58,7 @@
     <p>91 Cong.Rec. 11904 (1945) (remarks of Rep. Hancock). See id. at 11912 (remarks of Rep. Hobbs).</p>
     <p>It is inconceivable that, at the same time Congress was so concerned about clearly defining the acts prohibited under the bill, it intended to make proof of racketeering -- a term not mentioned in the statute -- a separate prerequisite to criminal liability under the Hobbs Act. [<a id="nf9" href="#fn9">Footnote 9</a>]</p>
     <n id="p379">379</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>We therefore conclude that respondent's position has no support in either the statute or its legislative history. Respondent also invokes, as did the court below, two maxims of statutory construction, but neither is applicable here. It is true that "ambiguity concerning the ambit of criminal statutes should be resolved in favor of lenity," Rewis v. United States, <a href="../us401/us401-0808.xml#p808">401 U. S. 808</a>, <a href="../us401/us401-0808.xml#p812">401 U. S. 812</a> (1971), and that, "unless Congress conveys its purpose clearly, it will not be deemed to have significantly changed the federal-state balance," United States v. Bass, <a href="../us404/us404-0336.xml#p336">404 U. S. 336</a>, <a href="../us404/us404-0336.xml#p349">404 U. S. 349</a> (1971). But here, Congress has conveyed its purpose clearly, and we decline to manufacture ambiguity where none exists. The two maxims only apply "when we are uncertain about the statute's meaning"; they are "not to be used in complete disregard of the purpose of the legislature.'" Scarborough v. United States, <a href="../us431/us431-0563.xml#p563">431 U. S. 563</a>, <a href="../us431/us431-0563.xml#p577">431 U. S. 577</a> (1977), quoting United States v. Bramblett, <a href="../us348/us348-0503.xml#p503">348 U. S. 503</a>, <a href="../us348/us348-0503.xml#p510">348 U. S. 510</a> (1955).</p>
     <p>With regard to the concern about disturbing the federal-state balance, moreover, there is no question that Congress intended to define as a federal crime conduct that it knew was punishable under state law. The legislative debates are replete with statements that the conduct punishable under the Hobbs Act was already punishable under state robbery and extortion statutes. See, e.g., 91 Cong.Rec. 11848 (1945) (remarks of Rep. Powell); id. at 11900 (remarks of Rep. Hancock); id. at 11904 (remarks of Rep. Gwynne). Those who opposed the Act argued that it was a grave interference with the rights of the States. See, e.g., id. at 11903 (remarks</p>
     <n id="p380">380</n>

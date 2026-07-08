@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us432-0233.html" citation="432 U.S. 233" title="Hankerson v. North Carolina">
   <opinion type="Opinions &amp; Dissents">
     <n id="p233">233</n>
-    <h>U.S. Supreme Court</h>
-    <h>Hankerson v. North Carolina, <a href="./us432-0233.xml#p233">432 U.S. 233</a> (1977)</h>
-    <h>Hankerson v. North Carolina</h>
-    <h>No. 75-6568</h>
-    <h>Argued February 23, 1977</h>
-    <h>Decided June 17, 1977</h>
-    <h><a href="./us432-0233.xml#p233">432 U.S. 233</a></h>
-    <h>CERTIORARI TO THE SUPREME COURT OF NORTH CAROLINA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Hankerson v. North Carolina, <a href="./us432-0233.xml#p233">432 U.S. 233</a> (1977)</h1>
+    <h2>Hankerson v. North Carolina</h2>
+    <h2>No. 75-6568</h2>
+    <h4>Argued February 23, 1977</h4>
+    <h4>Decided June 17, 1977</h4>
+    <h2>CERTIORARI TO THE SUPREME COURT OF NORTH CAROLINA</h2>
+    <h2>Syllabus</h2>
     <p>Prior to the decision in Mullaney v. Wilbur, <a href="../us421/us421-0684.xml#p684">421 U. S. 684</a>, petitioner was convicted in a North Carolina court of second-degree murder over his claim that he acted in self-defense. The trial judge had instructed the jury that, if the State proved beyond a reasonable doubt that petitioner intentionally killed the victim with a deadly weapon the law raised presumptions that the killing was unlawful and that it was done with malice, and that, in order to excuse his act, petitioner had to prove to the jury's "satisfaction" that he acted in self-defense. The North Carolina Supreme Court affirmed over petitioner's objection to such instructions, refusing to give retroactive application to Mullaney. Although holding that a burden to "satisfy" a jury of a fact is not "significantly less" than persuasion by a preponderance of the evidence, and that therefore the charge was erroneous under Mullaney, which required the State to establish all elements of a criminal offense beyond a reasonable doubt and which invalidated presumptions that shifted the burden of proving such elements to the defendant, the court concluded that the retroactive application of Mullaney would have a devastating impact on the administration of justice.</p>
     <p>Held:</p>
     <p>1. The North Carolina Supreme Court erred in declining to hold the Mullaney rule retroactive. Ivan v. v. City of New York, <a href="../us407/us407-0203.xml#p203">407 U. S. 203</a>. While, in deciding whether a new constitutional rule is to be applied retroactively, it is proper to consider the State's reliance on the old rule and the impact of the new rule on the administration of justice if the degree to which the new rule enhances the integrity of the factfinding process is sufficiently small,</p>
@@ -23,7 +23,7 @@
     <p>WHITE, J., delivered the opinion of the Court, in which BURGER, C.J., and BRENNAN, STEWART, BLACKMUN, ad STEVENS, JJ., joined. BLACKMUN, J., filed a concurring statement, in which BURGER, C.J., joined, post, p. <a href="./us432-0233.xml#p245">432 U. S. 245</a>. MARSHALL, J., post, p. <a href="./us432-0233.xml#p245">432 U. S. 245</a>, and POWELL, J., post, p. <a href="./us432-0233.xml#p246">432 U. S. 246</a>, filed opinions concurring in the judgment. REHNQUIST, J., took no part in the consideration or decision of the case.</p>
     <p>MR. JUSTICE WHITE delivered the opinion of the Court.</p>
     <p>The issue in this case is whether the North Carolina Supreme Court correctly declined to give retroactive application to this Court's decision in Mullaney v. Wilbur, <a href="../us421/us421-0684.xml#p684">421 U. S. 684</a> (1975).</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Petitioner Hankerson was convicted after a jury trial of second-degree murder and sentenced to 20-25 years in prison. It was conceded at his trial that petitioner killed a man named Gregory Ashe by shooting him through the heart with a pistol at 11 at night on September 29, 1974. The issue at trial was whether petitioner acted in self-defense. The relevant evidence is described below.</p>
     <p>Ashe and two friends, Dancy and Whitley, were, according to the testimony of the latter two, driving around in Ashe's</p>
     <n id="p235">235</n>
@@ -52,7 +52,7 @@
     <n id="p240">240</n>
     <p>eight States that the court identified as placing the burden of proving self-defense on the defendant. Accordingly, it declined to apply Mullaney to trials occurring before the date on which it was decided.</p>
     <p>This Court granted Hankerson's petition for a writ of certiorari, which raised the single question whether Mullaney should be held retroactive. 429 U.S. 815. The State of North Carolina has filed an answering brief in which it argues (1) that the North Carolina Supreme Court was correct in holding Mullaney not retroactive; and (2) that, in any event, the judgment below should be affirmed because the instructions given in this case did leave the burden of disproving self-defense beyond a reasonable doubt on the prosecution, or at least did not require the accused to prove self-defense by a preponderance of the evidence in contravention of Mullaney. These are the only two issues before this Court, and we treat them in order. [<a id="nf6" href="#fn6">Footnote 6</a>]</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The Supreme Court of North Carolina erred in declining to hold retroactive the rule in Mullaney v. Wilbur, supra. In Ivan V. v. City of New York, supra at <a href="../us407/us407-0258.xml#p294">407 U. S. 204</a>-205, this Court addressed the question whether our decision in In re Winship, supra -- holding the reasonable doubt standard applicable to</p>
     <n id="p241">241</n>
     <p>state juvenile proceedings -- was to be applied retroactively. The Court there said:</p>
@@ -73,7 +73,7 @@
     <p>407 U.S. at <a href="../us407/us407-0203.xml#p204">407 U. S. 204</a> (emphasis added). The reasonable doubt standard of proof is as "substantial" [<a id="nf7" href="#fn7">Footnote 7</a>] a</p>
     <n id="p244">244</n>
     <p>requirement under Mullaney as it was in Winship. Respondent's attempt to distinguish Ivan V. is without merit. [<a id="nf8" href="#fn8">Footnote 8</a>]</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Respondent next argues in support of the judgment below that the instruction in this case -- that the defendant must "satisfy" the jury that he acted in self-defense -- is the equivalent of an instruction that the jury should acquit if it entertains a reasonable doubt on the subject, or is so nearly the equivalent of such an instruction that it is not in violation of the rule announced in Mullaney, where the burden impermissibly placed on the defendant was to persuade the jury by a preponderance of the evidence. Respondent's argument is squarely contrary to the construction given by the North Carolina Supreme Court to the jury charge in this case. That court concluded that a burden to "satisfy" the jury of self-defense places a burden on a defendant "no greater and at the same time one not significantly less than persuasion by a preponderance of the evidence." 288 N.C. at 648, 220 S.E.2d at 587. The Court has no basis for disagreeing with this interpretation of the charge, which is essentially a question of</p>
     <n id="p245">245</n>
     <p>state law. Since the issue of whether due process requires the prosecution to disprove self-defense beyond a reasonable doubt under North Carolina law was not raised by either party in this case, we decline to consider it now.</p>

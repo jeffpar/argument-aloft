@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us606-23-997.html" citation="606 U.S. 23-997" title="Stanley v. City of Sanford">
   <opinion type="Opinion" author="Gorsuch">
     <p>NOTICE: This opinion is subject to formal revision before publication in the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, pio@supremecourt.gov, of any typographical or other formal errors.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 23–997</p>
-    <p>_________________</p>
     <p>KARYN D. STANLEY, PETITIONER v. CITY OF SANFORD, FLORIDA</p>
     <p>on writ of certiorari to the united states court of appeals for the eleventh circuit</p>
     <p>[June 20, 2025]</p>
@@ -66,9 +65,7 @@
   </opinion>
   <opinion type="Opinion" author="Thomas">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 23–997</p>
-    <p>_________________</p>
     <p>KARYN D. STANLEY, PETITIONER v. CITY OF SANFORD, FLORIDA</p>
     <p>on writ of certiorari to the united states court of appeals for the eleventh circuit</p>
     <p>[June 20, 2025]</p>
@@ -93,7 +90,7 @@
     <p>Redirecting our focus to a different question is also highly disruptive to our deliberative process, as it often leads to a lack of adversarial briefing. We take seriously the need for adversarial briefing. For example, when no party defends the judgment below, we ordinarily appoint counsel to offer argument and briefing in support of that judgment. E.g., Martin v. United States, 605 U. S. ___ (2025). The absence of briefing on the legal issue before us may complicate or even thwart our efforts to resolve it. See, e.g., City and County of San Francisco v. Sheehan, <a href="../us575/us575-0600.xml#p600">575 U.S. 600</a>, 610 (2015) (dismissing a question presented as improvidently granted in part due to a lack of “adversarial briefing”).</p>
     <p>Moreover, redirecting our focus to a different question has the effect of undermining this Court’s efforts to manage its merits docket. We receive thousands of petitions each year, and the vast majority of those petitions raise issues of deep importance to the parties involved in those cases. “To use our resources most efficiently,” we must confine our review to “those cases that will enable us to resolve particularly important questions.” Yee v. Escondido, <a href="../us503/us503-0519.xml#p519">503 U.S. 519</a>, 536 (1992); accord, U. S. Philips Corp., 510 U. S., at 33. If we were “to entertain questions not presented in the petition for certiorari, much of this efficiency would vanish, as parties who feared an inability to prevail on the question presented would be encouraged to fill their limited briefing space and argument time with discussion of issues other than the one on which certiorari was granted.” Yee, 503 U. S., at 536.</p>
     <p>We have reached issues outside the question presented “ ‘only in the most exceptional cases,’ ” when required by considerations of “urgency” or “economy.” Id., at 535. I do not object to going beyond the question presented in such circumstances. But, there is nothing exceptional about Stanley’s case. To start, had she been more transparent at the certiorari stage, I doubt this Court would have granted review of her alternative question. See this Court’s Rule 10. Stanley’s new theory of liability is that she can base her ADA claim on discrimination that allegedly occurred while she was still employed by the City. To address that theory, however, we would first need to decide whether the Eleventh Circuit erroneously applied its own issue-preservation rules and erred in concluding that Stanley had disclaimed this theory below. Stanley did not petition for review of the Eleventh Circuit’s issue-preservation determination. And, I doubt that we would have agreed to review the factbound application of uncontested Eleventh Circuit precedents. “A petition for a writ of certiorari is rarely granted when the asserted error consists of erroneous factual findings or the misapplication of a properly stated rule of law.” Ibid.</p>
-    <p>Even if this Court were willing to bypass the Eleventh Circuit’s issue-preservation determination, it is unlikely that we would have agreed to opine on the merits of Stanley’s alternative theory in the first instance. Neither the District Court nor the Eleventh Circuit passed on whether Stanley could base her claim on events that occurred while she was still employed. That no court has decided this question is reason enough for us to decline to do so. We are “a court of review, not of first view.” Cutter v. Wilkinson, <a href="../us544/us544-0709.xml#p709">544 U.S. 709</a>, 718, n. 7 (2005). We thus ordinarily wait to see if “the crucible of adversarial testing . . . , along with the experience of our thoughtful colleagues on the district and circuit benches, [can] yield insights (or reveal pitfalls) we cannot muster guided only by our own lights.” Maslenjak v. United States, 582 U.S. 335, 354 (2017) (Gorsuch, J., concurring in part and concurring in judgment).</p>
+    <p>Even if this Court were willing to bypass the Eleventh Circuit’s issue-preservation determination, it is unlikely that we would have agreed to opine on the merits of Stanley’s alternative theory in the first instance. Neither the District Court nor the Eleventh Circuit passed on whether Stanley could base her claim on events that occurred while she was still employed. That no court has decided this question is reason enough for us to decline to do so. We are “a court of review, not of first view.” Cutter v. Wilkinson, <a href="../us544/us544-0709.xml#p709">544 U.S. 709</a>, 718, n. 7 (2005). We thus ordinarily wait to see if “the crucible of adversarial testing . . ., along with the experience of our thoughtful colleagues on the district and circuit benches, [can] yield insights (or reveal pitfalls) we cannot muster guided only by our own lights.” Maslenjak v. United States, 582 U.S. 335, 354 (2017) (Gorsuch, J., concurring in part and concurring in judgment).</p>
     <p>In all events, our usual practice is to respect and leave undisturbed a lower court’s issue-preservation determination when that determination is not itself under review. Singleton v. Wulff, <a href="../us428/us428-0106.xml#p106">428 U.S. 106</a>, 121 (1976). I see no reason to depart from that practice here.</p>
     <p>* * *</p>
     <p>Stanley asked this Court to grant certiorari to resolve a discrete Circuit split. After we agreed to do so, she asked us to resolve an entirely different legal question. I do not find it “profitable” to reward Stanley’s bait-and-switch in these circumstances. Ante, at 13.</p>
@@ -104,9 +101,7 @@
   </opinion>
   <opinion type="Concurrence" author="Sotomayor">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 23–997</p>
-    <p>_________________</p>
     <p>KARYN D. STANLEY, PETITIONER v. CITY OF SANFORD, FLORIDA</p>
     <p>on writ of certiorari to the united states court of appeals for the eleventh circuit</p>
     <p>[June 20, 2025]</p>
@@ -117,9 +112,7 @@
   </opinion>
   <opinion type="Dissent" author="Jackson">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 23–997</p>
-    <p>_________________</p>
     <p>KARYN D. STANLEY, PETITIONER v. CITY OF SANFORD, FLORIDA</p>
     <p>on writ of certiorari to the united states court of appeals for the eleventh circuit</p>
     <p>[June 20, 2025]</p>

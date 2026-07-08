@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us358-0334.html" citation="358 U.S. 334" title="United States v. RCA">
   <opinion type="Opinions &amp; Dissents">
     <n id="p334">334</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. RCA, <a href="./us358-0334.xml#p334">358 U.S. 334</a> (1959)</h>
-    <h>United States v. Radio Corporation of America</h>
-    <h>No. 54</h>
-    <h>Argued December 8, 1958</h>
-    <h>Decided February 24, 1959</h>
-    <h><a href="./us358-0334.xml#p334">358 U.S. 334</a></h>
-    <h>APPEAL FROM THE UNITED STATES DISTRICT COURT FOR</h>
-    <h>THE EASTERN DISTRICT OF PENNSYLVANIA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. RCA, <a href="./us358-0334.xml#p334">358 U.S. 334</a> (1959)</h1>
+    <h2>United States v. Radio Corporation of America</h2>
+    <h2>No. 54</h2>
+    <h4>Argued December 8, 1958</h4>
+    <h4>Decided February 24, 1959</h4>
+    <h2>APPEAL FROM THE UNITED STATES DISTRICT COURT FOR</h2>
+    <h2>THE EASTERN DISTRICT OF PENNSYLVANIA</h2>
+    <h2>Syllabus</h2>
     <p>Approval by the Federal Communications Commission of appellees' agreement to exchange their television station in Cleveland for one in Philadelphia, which has since been consummated, does not bar this independent civil action by the Government under § 4 of the Sherman Act attacking the exchange as being in furtherance of a conspiracy to violate § 1 of that Act. Pp. <a href="./us358-0334.xml#p335">358 U. S. 335</a>-353.</p>
     <p>1. The legislative history of the Communications Act of 1934, as amended, reveals that the Commission was not given the power to decide antitrust issues as such, and that Commission action was not intended to prevent enforcement of the antitrust laws in federal courts. Pp. <a href="./us358-0334.xml#p339">358 U. S. 339</a>-346.</p>
     <p>(a) A different result is not required by the fact that the 1952 amendments to the Act repealed the last sentence of § 311, which specifically provided that the granting of a license should not estop the United States or any aggrieved person from proceeding against the licensee under the antitrust laws. Pp. <a href="./us358-0334.xml#p344">358 U. S. 344</a>-345.</p>
@@ -35,7 +35,7 @@
     <p>Against this background, appellees assert that the FCC had authority to pass on the antitrust questions presented, and, in any case, that the regulatory scheme of the Communications Act has so displaced that of the Sherman Act that the FCC had primary jurisdiction to license the exchange transaction, with the result that any attack for antitrust reasons on the exchange transaction must have been by direct review of the license grant. Relying on this premise, they then contend that the only method available to the Government for redressing its antitrust grievances was to intervene in the FCC proceedings; that, since it did not, the antitrust issues were determined adversely to it when the exchange was approved, so that it is barred by principles of collateral estoppel and res</p>
     <n id="p339">339</n>
     <p>judicata; and that, in any case, the long delay between approval of the exchange and filing of this suit bars the suit because of laches.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Whether these contentions are to prevail depends substantially upon the extent to which Congress authorized the FCC to pass on antitrust questions, and this, in turn, requires examination of the relevant legislative history. Two sections of the Communications Act of 1934, 48 Stat. 1064, as amended, 47 U.S.C. § 151 et seq., deal specifically with antitrust considerations, Sections 311 and 313:</p>
     <p>"Sec. 311. The Commission is hereby directed to refuse a station license and/or the permit hereinafter required for the construction of a station to any person (or to any person directly or indirectly controlled by such person) whose license has been revoked by a court under section 313. . . ."</p>
     <p>"* * * *"</p>
@@ -76,7 +76,7 @@
     <p>Second, appellees urge that the italicized sentence, as originally enacted, had a very narrow scope; that it was intended to insure only that the granting of a license would not estop the Government from prosecuting antitrust violations subsequent to the transaction giving rise to the license proceeding, or of which the transaction was merely a small part. They argue that the sentence was intended to permit only actions such as in Packaged Programs v. Westinghouse Broadcasting Co., 255 F.2d 708. But the language of the sentence cannot be naturally read in such a narrow manner, and it would take persuasive legislative history so to restrict its application. Appellees point to no such history, nor to any cases to holding.</p>
     <n id="p346">346</n>
     <p>Thus, the legislative history of the Act reveals that the Commission was not given the power to decide antitrust issues as such, and that Commission action was not intended to prevent enforcement of the antitrust laws in federal courts.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>We now reach the question whether, despite the legislative history, the over-all regulatory scheme of the Act requires invocation of a primary jurisdiction doctrine. The doctrine originated with Mr. Justice (later Chief Justice) White in Texas &amp; Pacific R. Co. v. Abilene Cotton Oil Co., <a href="../us204/us204-0426.xml#p426">204 U. S. 426</a>. It was grounded on the necessity for administrative uniformity, and, in that particular case, for maintenance of uniform rates to all shippers. [<a id="nf14" href="#fn14">Footnote 14</a>] A second reason for the doctrine was suggested by Mr. Justice Brandeis in Great Northern R. Co. v. Merchants Elevator Co., <a href="../us259/us259-0285.xml#p285">259 U. S. 285</a>, <a href="../us259/us259-0285.xml#p291">259 U. S. 291</a>, where he pointed to the need for administrative skill "commonly to be found only in a body of experts" in handling the "intricate facts" of, in that case, the transportation industry.</p>
     <p>Thus, when questions arose as to the applicability of the doctrine to transactions allegedly violative of the antitrust</p>
     <n id="p347">347</n>
@@ -96,7 +96,7 @@
     <p>This is not to imply that federal antitrust policy may not be considered in determining whether the "public interest, convenience, and necessity" will be served by proposed action of a broadcaster, for this Court has held the contrary. [<a id="nf19" href="#fn19">Footnote 19</a>] National Broadcasting Co. v. United States, <a href="../us319/us319-0190.xml#p190">319 U. S. 190</a>, <a href="../us319/us319-0190.xml#p222">319 U. S. 222</a>-224. Moreover, in a given case, the Commission might find that antitrust considerations alone would keep the statutory standard from being met, as when the publisher of the sole newspaper in an area applies for a license for the only available radio and television</p>
     <n id="p352">352</n>
     <p>facilities, which, if granted, would give him a monopoly of that area's major media of mass communication. See 98 Cong.Rec. 7399; Mansfield Journal Co. v. Federal Communications Comm'n, 86 U.S.App.D.C. 102, 107, 109, 180 F.2d 28, 33, 34.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The other contentions of appellees fall of their own weight if the FCC has no power to decide antitrust questions. Thus, before we can find the Government collaterally estopped by the FCC licensing, we must find</p>
     <p>"whether or not, in the earlier litigation, the representative of the United States had authority to represent its interests in a final adjudication of the issue in controversy."</p>
     <p>Sunshine Anthracite Coal Co. v. Adkins, <a href="../us310/us310-0381.xml#p381">310 U. S. 381</a>, <a href="../us310/us310-0381.xml#p403">310 U. S. 403</a>. (Emphasis supplied.) But the issue in controversy before the Commission was whether the exchange would serve the public interest, not whether § 1 of the Sherman Act had been violated. Consequently, there could be no estoppel. Res judicata principles are even more inapposite.</p>

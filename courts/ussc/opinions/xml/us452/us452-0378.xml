@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us452-0378.html" citation="452 U.S. 378" title="National Gerimedical Hosp. v. Blue Cross">
   <opinion type="Opinions &amp; Dissents">
     <n id="p378">378</n>
-    <h>U.S. Supreme Court</h>
-    <h>National Gerimedical Hosp. v. Blue Cross, <a href="./us452-0378.xml#p378">452 U.S. 378</a> (1981)</h>
-    <h>National Gerimedical Hospital and Gerontology Center v.</h>
-    <h>Blue Cross of Kansas City</h>
-    <h>No. 80-802</h>
-    <h>Argued April 29, 1981</h>
-    <h>Decided June 15, 1981</h>
-    <h><a href="./us452-0378.xml#p378">452 U.S. 378</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE EIGHTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>National Gerimedical Hosp. v. Blue Cross, <a href="./us452-0378.xml#p378">452 U.S. 378</a> (1981)</h1>
+    <h2>National Gerimedical Hospital and Gerontology Center v.</h2>
+    <h2>Blue Cross of Kansas City</h2>
+    <h2>No. 80-802</h2>
+    <h4>Argued April 29, 1981</h4>
+    <h4>Decided June 15, 1981</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE EIGHTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Prior to the completion of its construction, petitioner, a private, acute care community hospital in the Kansas City, Mo., metropolitan area, sought to enter into a participating hospital agreement with respondent Blue Cross of Kansas City (Blue Cross), a nonprofit provider of individual and group health care reimbursement plans in the area. Blue Cross refused on the basis of its policy barring participation by any new hospital that could not show that it was meeting a clearly evident need for health care services in its service area. Blue Cross relied on petitioner's failure to obtain approval for construction from the Mid-America Health Systems Agency (MAHSA), a private, nonprofit, federally funded corporation which was the local "health system agency" (HSA) designated for the area under the National Health Planning and Resources Development Act of 1974 (NHPRDA). MAHSA's major function is health planning for the Kansas City metropolitan area. Petitioner had not sought approval of its construction from MAHSA because of the latter's announced policy that it would not approve any addition of acute care beds in view of its determination that there was a surplus of hospital beds in the area. Alleging a wrongful refusal to deal and a conspiracy between Blue Cross and MAHSA, which resulted in a competitive disadvantage to it, petitioner filed suit against respondents Blue Cross and the National Blue Cross Association for violation of the Sherman Act. Respondents contended that the NHPRDA had impliedly repealed the antitrust laws as applied to the conduct in question. The District Court granted judgment for respondents, finding a clear repugnancy between the NHPRDA and the antitrust laws, and congressional intent to repeal the antitrust laws in this context. The Court of Appeals affirmed.</p>
     <p>Held: Although respondents may have acted with only the highest motives in seeking to implement the plans of the local HSA, they cannot defeat petitioner's antitrust claim by the assertion of immunity from the requirements of the Sherman Act. Pp. <a href="./us452-0378.xml#p388">452 U. S. 388</a>-393.</p>
     <n id="p379">379</n>
@@ -24,7 +24,7 @@
     <n id="p380">380</n>
     <p>JUSTICE POWELL delivered the opinion of the Court.</p>
     <p>The petitioner in this case, National Gerimedical Hospital and Gerontology Center (National Gerimedical) filed an antitrust suit against respondents, Blue Cross of Kansas City (Blue Cross) and the national Blue Cross Association, challenging the refusal of Blue Cross to accept petitioner as a participating member provider under its health insurance plan. The issue presented here is whether this refusal by Blue Cross is immunized from antitrust scrutiny because it was intended to aid implementation of the plans of the "health systems agency" designated for the Kansas City area under the National Health Planning and Resources Development Act of 1974.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Petitioner National Gerimedical is a private, acute care community hospital opened in 1978 in the Kansas City, Mo., metropolitan area. [<a id="nf1" href="#fn1">Footnote 1</a>] Prior to the completion of construction, petitioner sought to enter into a participating hospital agreement with Blue Cross, a nonprofit provider of individual and group health care reimbursement plans in Missouri and Kansas. Under such an agreement, participating hospitals receive direct reimbursement of the full costs of covered services rendered to individual Blue Cross subscribers. [<a id="nf2" href="#fn2">Footnote 2</a>] When subscribers receive care in hospitals that are not participating members, Blue Cross pays only 80% of the cost, and these payments are made to the subscriber, rather than directly to the hospital.</p>
     <n id="p381">381</n>
     <p>Blue Cross refused to enter into a participating hospital agreement with petitioner on the basis of its official policy barring participation by any new hospital that could not show that it was meeting "a clearly evident need for health care services in its defined service area." [<a id="nf3" href="#fn3">Footnote 3</a>] In determining that petitioner had not satisfied this requirement, Blue Cross relied on petitioner's failure to obtain approval for construction from the local "health systems agency" or "HSA" -- the Mid-America Health Systems Agency (MAHSA). [<a id="nf4" href="#fn4">Footnote 4</a>] This agency is a private, nonprofit corporation, federally funded under the National Health Planning and Resources Development Act of 1974 (NHPRDA), 88 Stat. 2229, as amended, 42 U.S.C. § 300l (1976 ed. and Supp. IV). Its major function is health planning for the Kansas City metropolitan area.</p>
@@ -40,14 +40,14 @@
     <p>"finding of clear repugnancy between the Act and the antitrust laws, as the Act and regulatory scheme clearly call for the action which has now become the basis of an antitrust claim."</p>
     <p>Id. at 1055-1056. It then quoted in full the District Court's argument for the view that Congress intended repeal of the antitrust laws in this context.</p>
     <p>We granted a writ of certiorari to review this important question. 449 U.S. 1123 (1981).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Our decision in this case requires careful attention to the structure and goals of the NHPRDA, as well as a review of this Court's decisions in the area of implied repeals of the antitrust laws. We begin with a description of the complex scheme of regulatory and planning agencies established by the NHPRDA in order to assess the legal significance of that Act with respect to the antitrust claim brought here.</p>
     <p>MAHSA, the health systems agency whose refusal to approve new hospital construction in the Kansas City area prompted Blue Cross not to accept petitioner as a participating hospital, is but one part of a larger statutory scheme. The NHPRDA, 42 U.S.C. § 300k et seq., created federal. state, and local bodies that coordinate their activities in the area of health planning and policy. Building on existing planning and development statutes, [<a id="nf7" href="#fn7">Footnote 7</a>] Congress sought in 1974</p>
     <n id="p384">384</n>
     <p>to create a statutory scheme that would assist in preventing overinvestment in and maldistribution of health facilities. See 1974 Senate Report at 39.</p>
     <p>HSA's such as MAHSA are concerned with health planning in a particular metropolitan area. See generally H.R.Rep. No. 93 1382, pp. 401 (1974). Each is a nonprofit private corporation, public regional planning body, or single unit of local government, serving a particular "health service area." 42 U.S.C. § 300l-1(b)(1). The statute requires that a majority of HSA board members be consumers of health care, and that at least 40% be health care "providers." 300l-1(b)(3)(C). The "primary responsibility" of each HSA is</p>
     <p>"effective health planning for its health service area and the promotion of the development within the area of health services, manpower, and facilities which meet identified needs, reduce documented inefficiencies, and implement the health plans of the agency."</p>
-    <p>§ 300l-2(a). As originally enacted, the Act established four general goals: "improving the health of residents," "increasing the accessibility . . . , acceptability, continuity, and quality of . . . health services," "restraining increases in the cost of . . . health services," and "'preventing unnecessary duplication of health resources." § 300l-2(a). [<a id="nf8" href="#fn8">Footnote 8</a>] To accomplish these goals, the Act requires each HSA to formulate a "detailed statement of goals" called a "health systems plan," § 300l-2(b)(2), an "annual implementation plan" describing the objectives that will achieve the goals of the general plan, § 300l-2(b)(3),</p>
+    <p>§ 300l-2(a). As originally enacted, the Act established four general goals: "improving the health of residents," "increasing the accessibility . . ., acceptability, continuity, and quality of . . . health services," "restraining increases in the cost of . . . health services," and "'preventing unnecessary duplication of health resources." § 300l-2(a). [<a id="nf8" href="#fn8">Footnote 8</a>] To accomplish these goals, the Act requires each HSA to formulate a "detailed statement of goals" called a "health systems plan," § 300l-2(b)(2), an "annual implementation plan" describing the objectives that will achieve the goals of the general plan, § 300l-2(b)(3),</p>
     <n id="p385">385</n>
     <p>and "specific plans and projects for achieving the objectives established in the" annual implementation plan, § 300l-2(b)(4). Each HSA is instructed to</p>
     <p>"seek, to the extent practicable, to implement [its plans] with the assistance of individuals and public and private entities in its health service area."</p>
@@ -69,7 +69,7 @@
     <p>1979 Senate Report at 3. [<a id="nf12" href="#fn12">Footnote 12</a>] Toward this end, Congress added a number of provisions requiring promotion of competition at the local, state, and federal levels. 42 U.S.C. §§ 300k-2(b), 300l-2(a)(5) (1976 ed., Supp. IV); 42 U.S.C. § § 300n-1(c)(11), (1 2) (1976 ed., Supp . IV). See generally H.R.Conf.Rep. No. 96-420, p. 58 (1979). In so doing, however, Congress recognized a distinction between areas where competition could serve a useful purpose and</p>
     <n id="p388">388</n>
     <p>those where some other allocation of resources remained necessary. [<a id="nf13" href="#fn13">Footnote 13</a>]</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>National Gerimedical contends that the denial by Blue Cross of participating hospital status violated the antitrust laws. Blue Cross defends on the ground that it acted pursuant to the local HSA plan and only intended to further the purposes of the NHPRDA. It argues that, despite the absence of any reference to the antitrust laws in the NHPRDA, the creation of the planning structure summarized above implied a repeal of those laws, as applied to this conduct.</p>
     <p>On a number of occasions, this Court has faced similar claims of antitrust immunity in the context of various regulated industries. The general principles applicable to such claims are well established. The antitrust laws represent a "fundamental national economic policy." Carnation Co. v. Pacific Westbound Conference, <a href="../us383/us383-0213.xml#p213">383 U. S. 213</a> 218 (1966); see Lafayette v. Louisiana Power &amp; Light Co., <a href="../us435/us435-0389.xml#p389">435 U. S. 389</a>, <a href="../us383/us383-0392.xml#p398">383 U. S. 398</a>-399 (1978).</p>
     <p>"Implied antitrust immunity is not favored, and can be justified only by a convincing showing of clear repugnancy between the antitrust laws and the regulatory system."</p>

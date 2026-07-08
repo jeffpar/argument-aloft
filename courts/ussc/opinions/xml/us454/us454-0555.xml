@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us454-0555.html" citation="454 U.S. 555" title="United States v. Clark">
   <opinion type="Opinions &amp; Dissents">
     <n id="p555">555</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Clark, <a href="./us454-0555.xml#p555">454 U.S. 555</a> (1981)</h>
-    <h>United States v. Clark</h>
-    <h>No. 80-1121</h>
-    <h>Argued November 3, 1981</h>
-    <h>Decided January 12, 1982</h>
-    <h><a href="./us454-0555.xml#p555">454 U.S. 555</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF CLAIMS</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Clark, <a href="./us454-0555.xml#p555">454 U.S. 555</a> (1981)</h1>
+    <h2>United States v. Clark</h2>
+    <h2>No. 80-1121</h2>
+    <h4>Argued November 3, 1981</h4>
+    <h4>Decided January 12, 1982</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF CLAIMS</h2>
+    <h2>Syllabus</h2>
     <p>There are two principal pay systems for federal employees: (1) The General Schedule (GS), which applies to "white-collar" employees and which is divided into numbered pay grades and subdivided into rates of pay or "steps" within each grade, with the salary for each "step" uniform nationwide; and (2) the prevailing wage system (WS), which primarily applies to "blue-collar" employees specifically excluded from GS, and which is also divided into grades and subdivided into "steps," with the rates of pay for each "step" based upon prevailing wage rates for comparable work in local areas. Salary treatment for employees shifted or hired into the GS system is governed by 5 U.S.C. 5334 and implementing regulations. An employee's salary after promotion is determined by reference either to the "highest previous rate" rule under § 5334(a) and the governing regulation or to the "two-step increase" rule under § 5334(b), which provides for such an increase when an employee is promoted to a position in a higher "grade." Title 5 U.S.C. § 5331 assigns the word "grade" the meaning given by § 5102(a)(5), which in turn defines the word as those positions sufficiently similar to warrant their inclusion within one range of rates of basic pay "in the General Schedule." Respondents, after being promoted from WS to GS positions, were administratively held to be entitled to a salary increase determined by the "highest previous rate" rule, which gave them a smaller increase than they would have received under the "two-step increase" rule. They then filed an action in the Court of Claims, contending that they were entitled to a two-step increase in pay pursuant to § 5334(b). The Court of Claims upheld their claim, and accordingly invalidated a regulation which construed § 5334(b) as limited to transfers or promotions within the GS.</p>
     <p>Held: Section 5334(b) does not apply to WS employees promoted to GS positions. Pp. <a href="./us454-0555.xml#p560">454 U. S. 560</a>-567.</p>
     <p>(a) Giving 5334(b) its plain meaning, when an employee is promoted to a position in a higher grade "in the General Schedule," he is entitled to pay which exceeds by two step increases his pay in the grade "in the General Schedule" from which he was promoted. Absent statutory language indicating that Congress intended to include employees promoted from WS to GS within 5334(b)'s two-step requirement, the statute reveals an intent to apply such requirement only to promotions of employees already within the GS system. Pp. <a href="./us454-0555.xml#p560">454 U. S. 560</a>-561.</p>
@@ -21,7 +21,7 @@
     <p>O'CONNOR, J., delivered the opinion for a unanimous Court.</p>
     <p>JUSTICE O'CONNOR delivered the opinion of the Court.</p>
     <p>The issue in this case is whether 5 U.S.C. § 5334(b), which requires a two-step pay increase for federal employees "promoted . . . to a position in a higher grade," applies to prevailing wage rate employees promoted to General Schedule positions. We hold that it does not apply, and reverse the judgment of the Court of Claims.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>This case involves the relationship between the two principal pay systems for federal employees and the pay treatment to which an employee moving from one system to another is entitled. Both systems are governed by Title 5, United States Code.</p>
     <p>One of the pay systems, the General Schedule (GS), 5 U.S.C. § 5331 et seq. (1976 ed. and Supp. V), applies to federal "white-collar" employees. See R. Vaughn, Principles</p>
     <n id="p557">557</n>
@@ -37,7 +37,7 @@
     <n id="p560">560</n>
     <p>(1969), [<a id="nf6" href="#fn6">Footnote 6</a>] determined they were entitled to a two-step increase under § 5334(b). Accordingly, the court invalidated, as inconsistent with the statute, 5 CFR § 531.204(a) (1969), which construed § 5334(b) as limited to transfers or promotions within the GS. 220 Ct.Cl. 278, 599 F.2d 411 (1979).</p>
     <p>After remand, the parties stipulated to the amount of respondents' recovery, and the court entered final judgment on August 8, 1980. We granted the Government's petition for writ of certiorari to the United States Court of Claims. 450 U.S. 993 (1981). We have jurisdiction based upon 28 U.S.C. § 1255.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>We look first to the language and organization of the statutes governing General Schedule pay rates and the prevailing rate wage system. If the statutory language is clear, it is ordinarily conclusive. See Consumer Product Safety Comm'n v. GTE Sylvania, Inc., <a href="../us447/us447-0102.xml#p102">447 U. S. 102</a> (1980).</p>
     <p>Section 5334 is part of subchapter III, chapter 53 of Title 5, entitled "General Schedule Pay Rates." Subsection 5334(a) describes the general conditions, including promotions, under which a GS employee is entitled to a change in basic pay. It directs simply that the rate is "governed by regulations prescribed by the [Civil Service Commission]. . . ." Following that direction, the Civil Service Commission promulgated the "highest previous rate" rule. [<a id="nf7" href="#fn7">Footnote 7</a>]</p>
     <n id="p561">561</n>
@@ -45,7 +45,7 @@
     <p>"An employee who is promoted or transferred to a position in a higher grade is entitled to basic pay at the lowest rate of the higher grade which exceeds his existing rate of basic pay by not less than two step-increases of the grade from which he is promoted or transferred."</p>
     <p>For purposes of subchapter III, 5 U.S.C. § 5331 assigns the word "grade" the meaning given the term by 5 U.S.C. § 5102(a)(5). That section, in turn, defines a grade as those positions sufficiently similar to warrant their inclusion within one range of rates of basic pay "in the General Schedule." Giving § 5334(b) its plain meaning, then, when an employee is promoted to a position in a higher grade "in the General Schedule," he is entitled to pay which exceeds by two step increases his pay in the grade "in the General Schedule" from which he was promoted.</p>
     <p>The Wage System, on the other hand, is governed by subchapter IV of chapter 53, Title 5. No express statutory provision in subchapter IV defines how an employee's salary should be set when a WS employee is promoted to a GS position. Thus, the only applicable statutory provisions are those found in subchapter III and its accompanying regulations, which specifically limit the two-step increase to promotions within the GS. Nothing in the statutory language indicates Congress intended to include employees promoted from WS to GS within the two-step requirement of § 5334(b). Absent such language, the statute and the accompanying regulations reveal a congressional intent to apply the two-step increase provision of § 5334(b) only to promotions or transfers of employees already within the GS system.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Although the language of the statute is clear, any lingering doubt as to its proper construction may be resolved by examining the legislative history of the statute and by according</p>
     <n id="p562">562</n>
     <p>due deference to the longstanding interpretation given the statute by the agencies charged with its interpretation. See NLRB v. Bell Aerospace Co., <a href="../us416/us416-0267.xml#p267">416 U. S. 267</a> (1974). The legislative history of § 5334(b) reinforces the apparent intent of the statutory language. The predecessor to § 5334(b) was § 802(b) of the Classification Act of 1949, 63 Stat. 954, 5 U.S.C. § 1071 et seq. (1946 ed. and Supp. IV) (1949 Act). [<a id="nf8" href="#fn8">Footnote 8</a>] Through the 1949 Act, Congress completely revised the Classification Act of 1923, Pub.L. 516, 42 Stat. 1488, 5 U.S.C. § 661 et seq. (1921926 ed.). Under the latter statute, an employee who was at the top step of his grade could receive little or no salary increase upon promotion to a higher grade. That inequity resulted because the salary for the higher steps in one grade could equal or exceed the salary for the lower steps in the next higher grade. Congress' 1949 revision plainly undertook to correct this problem: the 1949 Act numbered among its stated purposes the need</p>
@@ -63,14 +63,14 @@
     <p>The absence of any indication that Congress intended § 5334(b) to apply to promotions into the GS from the WS is hardly surprising, since the two systems have no necessary or obvious relationship. First, because the WS involves an entirely separate pay structure based on prevailing rates in local wage areas, no necessary overlap occurs between WS and GS salaries. In fact, since WS rates vary by locale, an employee changing from a WS position to a GS position could receive a greater salary, a lesser salary, or the same salary as another employee making the identical change in another part of the country. Moreover, although by definition a change to a higher grade within the GS system involves a change to a position with greater responsibility (see 5 U.S.C. § 5102(a)(5) (1976 ed., Supp. V)), no similar relationship necessarily exists between a WS grade and a GS grade. [<a id="nf12" href="#fn12">Footnote 12</a>]</p>
     <n id="p565">565</n>
     <p>Although the legislative history does not expressly indicate that Congress intended to limit § 5334(b) and its predecessor to GS employees, the history provides ample indication that such was Congress' intent. Moreover, the reasons for enactment of the provision are consistent with such a limitation.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>Although not determinative, the construction of a statute by those charged with its administration is entitled to great deference, particularly when that interpretation has been followed consistently over a long period of time. See Piper v. Chris-Craft Industries, Inc., <a href="../us430/us430-0001.xml#p1">430 U. S. 1</a> (1977). In this instance, the agency responsible for proposing and administering § 5334(b) has consistently construed it to apply only to promotions within the GS.</p>
     <p>Section 802(b) of the 1949 Act was drafted and submitted to the Congress by the Civil Service Commission. [<a id="nf13" href="#fn13">Footnote 13</a>] Soon after its enactment, the Civil Service Commission promulgated regulations interpreting the section. The first regulations guaranteed a pay increase to one promoted "to a higher grade between Classification Act [GS] positions. . . ." 15 Fed.Reg. 7868 (1950), 5 CFR § 25.104(a) (Supp.1951). [<a id="nf14" href="#fn14">Footnote 14</a>] In contrast, an employee promoted or transferred from another</p>
     <n id="p566">566</n>
     <p>pay system into the Classification Act system was subject to the "highest previous rate" rule. 15 Fed Reg. 1235 (1950), 5 CFR § 25.103(b) (Supp.1951). Subsequent versions of the regulations continued to apply the automatic salary increase of § 802(b) and, later, of § 5334(b), only to promotions or transfers within the Classification Act, or GS, system. [<a id="nf15" href="#fn15">Footnote 15</a>] In fact, the regulation in effect when respondents were promoted expressly provided that the two-step pay increase provision of § 5334(b) applied</p>
     <p>"only (i) to a transfer from one General Schedule position to a higher General Schedule position, and (ii) to a promotion from one General Schedule grade to a higher General Schedule grade."</p>
     <p>33 Fed.Reg. 12450 (1968), 5 CFR § 531.204(a)(1) (1969). [<a id="nf16" href="#fn16">Footnote 16</a>]</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>The language of the statute, the entire statutory scheme, the legislative history, and consistent administrative interpretation</p>
     <n id="p567">567</n>
     <p>all demonstrate the soundness of the Government's position that § 5334(b) is inapplicable to promotions from the Wage System to the General Schedule.</p>
@@ -87,7 +87,7 @@
       <p>(6) his employment status is otherwise changed; or</p>
       <p>(7) his position is changed from one grade to another grade.</p>
       <p>At the time of respondents' promotions, 33 Fed.Reg. 12450 (1968), 5 CFR § 531.203(c) (1969), one of the regulations prescribed by authority of § 5334(a), provided in part:</p>
-      <p>"Subject to § 531.204 . . . , when an employee is reemployed, transferred, reassigned, promoted, or demoted, the agency may pay him at any rate of his grade which does not exceed his highest previous rate; however, if his highest previous rate falls between two rates of his grade, the agency may pay him at the higher rate."</p>
+      <p>"Subject to § 531.204 . . ., when an employee is reemployed, transferred, reassigned, promoted, or demoted, the agency may pay him at any rate of his grade which does not exceed his highest previous rate; however, if his highest previous rate falls between two rates of his grade, the agency may pay him at the higher rate."</p>
     </f>
     <f n="3"><a id="fn3" href="#nf3">Footnote 3</a>
       <p>The "two-step increase" rule is codified in 5 U.S.C. § 5334(b) (1976 ed., Supp. V), which provides in pertinent part:</p>

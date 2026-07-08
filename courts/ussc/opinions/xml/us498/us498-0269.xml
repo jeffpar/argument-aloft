@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us498-0269.html" citation="498 U.S. 269" title="FirsTier Mtg. v. Investors Mtg.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p269">269</n>
-    <h>U.S. Supreme Court</h>
-    <h>FirsTier Mtg. v. Investors Mtg., <a href="./us498-0269.xml#p269">498 U.S. 269</a> (1991)</h>
-    <h>FirsTier Mortgage Company v.</h>
-    <h>Investors Mortgage Insurance Company</h>
-    <h>No. 89-1063</h>
-    <h>Argued Oct. 10, 1990</h>
-    <h>Decided Jan. 15, 1991</h>
-    <h><a href="./us498-0269.xml#p269">498 U.S. 269</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE TENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>FirsTier Mtg. v. Investors Mtg., <a href="./us498-0269.xml#p269">498 U.S. 269</a> (1991)</h1>
+    <h2>FirsTier Mortgage Company v.</h2>
+    <h2>Investors Mortgage Insurance Company</h2>
+    <h2>No. 89-1063</h2>
+    <h4>Argued Oct. 10, 1990</h4>
+    <h4>Decided Jan. 15, 1991</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE TENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Federal Rule of Appellate Procedure 4(a)(2) provides that a</p>
     <p>"notice of appeal filed after the announcement of a decision or order but before the entry of the judgment or order shall be treated as filed after such entry and on the day thereof."</p>
     <p>On January 26, 1989, the District Court announced from the bench that it intended to grant a motion for summary judgment filed by respondent Investors Mortgage Insurance Co. (IMI) in a suit brought by petitioner FirsTier Mortgage Co. against IMI, requested that the parties file proposed findings of fact and conclusions of law to support that ruling, and clarified that its ruling extinguished all of FirsTier's claims. FirsTier filed a notice of appeal on February 8, identifying the January 26 ruling as the decision from which it was appealing, but the District Court did not enter judgment until March 3. The Court of Appeals dismissed the appeal on the ground that the January 26 decision was not a final decision appealable under 28 U.S.C. § 1291.</p>
@@ -24,7 +24,7 @@
     <p>Federal Rule of Appellate Procedure 4(a)(2) provides that a</p>
     <p>"notice of appeal filed after the announcement of a decision or order but before the entry of the judgment or order shall be treated as filed after such entry and on the day thereof."</p>
     <p>In this case, petitioner filed its notice of appeal after the District Court announced from the bench that it intended to grant summary judgment for respondent, but before entry of judgment and before the parties had, at the court's request, submitted proposed findings of fact and conclusions of law. The question presented is whether the bench ruling is a "decision" under Rule 4(a)(2). We hold that it is.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Respondent, Investors Mortgage Insurance Co. (IMI), issued eight insurance policies to petitioner, FirsTier Mortgage Co. (FirsTier). The parties intended these policies to insure FirsTier for the risk of borrower default on eight real estate loans that FirsTier had made. After the eight borrowers defaulted, FirsTier submitted claims on the policies, which IMI refused to pay. Invoking the District Court's diversity jurisdiction under 28 U.S.C. § 1332, FirsTier filed suit, seeking damages for IMI's alleged breach of contract and breach of its duty of good faith and fair dealing.</p>
     <p>On January 26, 1989, the District Court held a hearing on IMI's motion for summary judgment. After hearing argument from counsel, the District Court announced from the bench that it was granting IMI's motion. The judge stated</p>
     <n id="p271">271</n>
@@ -40,7 +40,7 @@
     <n id="p272">272</n>
     <p>FirsTier filed its notice of appeal on February 8, 1989, identifying the January 26 bench ruling as the decision from which it was appealing. On March 3, 1989, the District Court issued its findings of fact and conclusions of law in support of its ruling that IMI was entitled to summary judgment. In a separate document, also dated March 3, 1989, the District Court entered judgment. See Fed.Rule Civ.Proc. 58 (requiring that "[e]very judgment shall be set forth on a separate document").</p>
     <p>After notifying the parties that it was considering dismissing FirsTier's appeal for lack of jurisdiction, the Court of Appeals requested that the parties brief two issues: first, whether the February 8 notice of appeal was filed prematurely, and second, whether the January 26 bench ruling was a final decision appealable under 28 U.S.C. § 1291. See App. to Pet. for Cert. B-2. The Court of Appeals dismissed the appeal on the ground that the January 26 decision was not final under § 1291. The court did not address whether FirsTier's notice of appeal could be effective as a notice of appeal from the March 3 final judgment despite the fact that it identified the January 26 ruling as the ruling appealed from. See id. at A-2. We granted certiorari, 494 U.S. 1003 (1990), and now reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The issue before us is whether FirsTier's February 8 notice of appeal is fatally premature. Federal Rule of Appellate Procedure 4(a)(1) requires an appellant to file its notice of appeal "within 30 days after the date of entry of the judgment or order appealed from." See also 28 U.S.C. § 2107. In this case, FirsTier filed its notice of appeal close to a month before entry of judgment. However, under Federal Rule of Appellate Procedure 4(a)(2), a notice of appeal</p>
     <p>"filed after the announcement of a decision or order but before the entry of the judgment or order shall be treated as filed after</p>
     <n id="p273">273</n>
@@ -62,7 +62,7 @@
     <n id="p277">277</n>
     <p>Applying this principle to the case at hand, we conclude that the District Court's January 26 bench ruling was a "decision" for purposes of Rule 4(a)(2). Even assuming that the January 26 bench ruling was not final because the District Court could have changed its mind prior to entry of judgment, the fact remains that the bench ruling did announce a decision purporting to dispose of all of FirsTier's claims. Had the judge set forth the judgment immediately following the bench ruling, and had the clerk entered the judgment on the docket, see Fed.Rules Civ.Proc. 58 and 79(a), there is no question that the bench ruling would have been "final" under § 1291. Under such circumstances, FirsTier's belief in the finality of the January 26 bench ruling was reasonable, and its premature February 8 notice therefore should be treated as an effective notice of appeal from the judgment entered on March 3. [<a id="nf7" href="#fn7">Footnote 7</a>]</p>
     <p>In reaching our conclusion, we observe that this case presents precisely the situation contemplated by Rule 4(a)(2)'s drafters. FirsTier's confusion as to the status of the litigation at the time it filed its notice of appeal was understandable. By its February 8 notice of appeal, FirsTier clearly sought, albeit inartfully, to appeal from the judgment that in fact was entered on March 3. No unfairness to IMI results from allowing the appeal to go forward.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Because the District Court rendered a final judgment on March 3, and because, by virtue of Rule 4(a)(2), FirsTier's February 8 notice of appeal constituted a timely notice of appeal from that judgment, the Court of Appeals erred in dismissing FirsTier's appeal. Accordingly, the judgment of</p>
     <n id="p278">278</n>
     <p>the Court of Appeals is reversed, and the case is remanded for further proceedings consistent with this opinion.</p>

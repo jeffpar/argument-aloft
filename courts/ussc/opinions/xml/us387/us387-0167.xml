@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us387-0167.html" citation="387 U.S. 167" title="Gardner v. Toilet Goods Assn., Inc.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p167">167</n>
-    <h>U.S. Supreme Court</h>
-    <h>Gardner v. Toilet Goods Assn., Inc., <a href="./us387-0167.xml#p167">387 U.S. 167</a> (1967)</h>
-    <h>Gardner v. Toilet Goods Association, Inc.</h>
-    <h>No. 438</h>
-    <h>Argued January 16, 1967</h>
-    <h>Decided May 22, 1967</h>
-    <h><a href="./us387-0167.xml#p167">387 U.S. 167</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SECOND CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Gardner v. Toilet Goods Assn., Inc., <a href="./us387-0167.xml#p167">387 U.S. 167</a> (1967)</h1>
+    <h2>Gardner v. Toilet Goods Association, Inc.</h2>
+    <h2>No. 438</h2>
+    <h4>Argued January 16, 1967</h4>
+    <h4>Decided May 22, 1967</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SECOND CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>The Commissioner of Food and Drugs, by delegation from the Secretary of Health, Education, and Welfare, issued three regulations under the Color Additive Amendments of 1960 to the Federal Food, Drug, and Cosmetic Act, which the respondents challenge in a pre-enforcement action on the ground that the Commissioner impermissibly expanded the reach of the statute. The regulations (1) amplified the statutory definition of color additives by including diluents therein, (2) included certain cosmetics within the scope of color additives, and (3) limited the exemption for hair dyes to those as to which the "patch test" is effective and excluded from the exemption certain components other than the coloring ingredient of the dye. The Court of Appeals affirmed the District Court's judgment that it had jurisdiction to hear the suit. See Toilet Goods Assn. v. Gardner, ante, p. <a href="./us387-0158.xml#p158">387 U. S. 158</a>.</p>
     <p>Held: Under the standards set forth in Abbott Laboratories v. Gardner, ante, p. <a href="./us387-0136.xml#p136">387 U. S. 136</a>, namely, the appropriateness of the issues for judicial determination and the immediate severity of the regulations' impact on the respondents, the pre-enforcement challenge to these regulations is ripe for judicial review. Pp. <a href="./us387-0167.xml#p170">387 U. S. 170</a>-174.</p>
     <p>(a) The issue as framed by the parties, what general classifications of ingredients fall within the coverage of the Color Additive Amendments, is a straightforward legal one, the consideration of which would not necessarily be facilitated if it were raised in the context of a specific attempt to enforce the regulations. Pp. <a href="./us387-0167.xml#p170">387 U. S. 170</a>-171.</p>
@@ -24,7 +24,7 @@
     <p>The regulations challenged here were promulgated under the Color Additive Amendments of 1960, 74 Stat. 397, 21 U.S.C. §§ 321-376. These statutory provisions, in brief, allow the Secretary of Health, Education, and Welfare and his delegate, the Commissioner of Food and Drugs, 22 Fed.Reg. 1051, 25 Fed.Reg. 8625, to prescribe conditions for the use of color additives in foods, drugs, and cosmetics. The Act requires clearance of every color additive in the form of a regulation prescribing conditions</p>
     <n id="p169">169</n>
     <p>for use of that particular additive, and also certification of each "batch" unless exempted by regulation. A color additive is defined as</p>
-    <p>"a dye, pigment, or other substance . . . [which] when added or applied to a food, drug, or cosmetic, or to the human body or any part thereof, is capable (alone or through reaction with other substance) of imparting color thereto . . . ,"</p>
+    <p>"a dye, pigment, or other substance . . . [which] when added or applied to a food, drug, or cosmetic, or to the human body or any part thereof, is capable (alone or through reaction with other substance) of imparting color thereto . . .,"</p>
     <p>21 U.S.C. § 321(t)(1).</p>
     <p>Under his general rulemaking power, § 701(a), 21 U.S.C. § 371(a), the Commissioner amplified the statutory definition to include as color additives all diluents, that is,</p>
     <p>"any component of a color additive mixture that is not of itself a color additive and has been intentionally mixed therein to facilitate the use of the mixture in coloring foods, drugs, or cosmetics or in coloring the human body."</p>
@@ -87,7 +87,7 @@
       <p>Switchmen's Union v. Board, <a href="../us320/us320-0297.xml#p297">320 U. S. 297</a>, <a href="../us320/us320-0297.xml#p301">320 U. S. 301</a> (1943). Where Congress has provided a method of review, the requisite showing to induce the courts otherwise to bring a governmental program to a halt may not be made by a mere showing of the impact of the regulation and the customary hardships of interim compliance. At least in cases</p>
       <n id="p178">178</n>
       <p>where the claim is of erroneous action, rather than the lack of jurisdiction or denial of procedural due process, a suit for injunctive or declaratory relief will not lie absent a clear demonstration that the type of review available under the statute would not be "adequate," that the controversies are otherwise "ripe" for judicial decision, and that no public interest exists which offsets the private values which the litigation seeks to vindicate. As I shall discuss, no such showing is or can be made here.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>Since enactment of the Federal Food, Drug, and Cosmetic Act in 1938, the mechanism for judicial review of agency actions under its provisions has been well understood. Except for specific types of agency regulations and actions to which I shall refer, judicial review has been confined to enforcement actions instituted by the Attorney General on recommendation of the agency. As the recurrent debate over this technique demonstrates, this restricted avenue for challenge has been deemed necessary because of the direct and urgent relationship of the field of regulation to the public health. [Footnote 2/3] It is this avenue that applies with respect to the regulations at issue in the present cases.</p>
       <p>The scheme of the Act, in this respect, is as follows: "Prohibited acts" are listed in § 301, 52 Stat. 1042, as amended, 21 U.S.C. § 331. Subsequent sections authorize the Attorney General to institute three types of proceedings. First, under § 302, 52 Stat. 1043, as amended, 21 U.S.C. § 332, he may apply to the district courts of the United States for injunctive relief. If an injunction is violated, jury trial is assured on demand of the accused. Second, under § 304, 52 Stat. 1044, as</p>
       <n id="p179">179</n>
@@ -119,7 +119,7 @@
       <n id="p187">187</n>
       <p>the regulations, being to protect the consumer from unsafe, potentially harmful, and "misbranded" foods, drugs, devices, and cosmetics, were to be subject to challenge only by way of defense to enforcement proceedings. It was Congress' judgment, after much controversy, that the special nature of the Act and its administration required this protection against delay and disruption. We should not arrogate to ourselves the power to override this judgment. Not a single case cited by the majority in which agency action was held reviewable arose against this kind of background of legislative hostility to threshold review in the district courts.</p>
       <p>The Court is in error, I submit, in its approach to this problem; and, as I shall attempt to show, it is in error in its decision that, even given this permissive approach to the use of judicial injunctive power, these controversies are "ripe" or appropriate for decision.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>I come then to the questions whether the review otherwise available under the statute is "adequate," whether the controversies are "ripe" or appropriate for review in terms of the evaluation of the competing private and public interests. I discuss these together because the questions of adequacy and ripeness or appropriateness for review are interrelated. I again note that no constitutional issues are raised, and, indeed, no issues as to the authority of the agency to issue regulations of the general sort involved. The only issue is whether that authority was properly exercised.</p>
       <p>There is, of course, no abstract or mechanical method for determining the adequacy of review provisions. Where personal status or liberties are involved, the courts may well insist upon a considerable ease of challenging administrative orders or regulations. Cf. Rusk v Cort, <a href="../us369/us369-0367.xml#p367">369 U. S. 367</a> (1962); but cf. <a href="../us345/us345-0229.xml#p229">345 U. S.</a></p>
       <n id="p188">188</n>

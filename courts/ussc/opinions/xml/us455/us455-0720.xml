@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us455-0720.html" citation="455 U.S. 720" title="United States v. New Mexico">
   <opinion type="Opinions &amp; Dissents">
     <n id="p720">720</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. New Mexico, <a href="./us455-0720.xml#p720">455 U.S. 720</a> (1982)</h>
-    <h>United States v. New Mexico</h>
-    <h>No. 80-702</h>
-    <h>Argued December 8, 1981</h>
-    <h>Decided March 24, 1982</h>
-    <h><a href="./us455-0720.xml#p720">455 U.S. 720</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE TENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. New Mexico, <a href="./us455-0720.xml#p720">455 U.S. 720</a> (1982)</h1>
+    <h2>United States v. New Mexico</h2>
+    <h2>No. 80-702</h2>
+    <h4>Argued December 8, 1981</h4>
+    <h4>Decided March 24, 1982</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE TENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Sandia Corporation and Zia Company have contracts with the Federal Government to manage certain Government-owned atomic laboratories located in New Mexico. Los Alamos Constructors, Inc., has a Government contract for construction and repair work at one of the laboratories. The contracts use an "advanced funding" procedure to meet contractor costs whereby the contractor is allowed to pay creditors and employees with drafts drawn on a special bank account in which United States Treasury funds are deposited, so that only federal funds are expended when the contractor meets its obligations. New Mexico imposes a gross receipts tax and a compensating use tax on those doing business within the State. The gross receipts tax in effect operates as a tax on the sale of goods and services. The use tax is imposed on property acquired out-of-state in a transaction that would have been subject to the gross receipts tax if it had occurred within the State. The Government brought suit in Federal District Court, seeking a declaratory judgment that advanced funds are not taxable gross receipts to the contractors; that the receipts of vendors selling property to the Government through the contractors cannot be taxed by the State; and that the use of Government-owned property by the contractors is not subject to the- use tax. The District Court granted summary judgment for the Government. The Court of Appeals reversed, taking the view that the Government-contractor relationships in question did not so incorporate the contractors into the Government structure as to make them "instrumentalities of the United States" immune from the New Mexico taxes.</p>
     <p>Held: The contractors, as independent taxable entities, are not protected by the Constitution's guarantee of federal supremacy, and hence are subject to the state taxes in question. Pp. <a href="./us455-0720.xml#p730">455 U. S. 730</a>-744.</p>
     <p>(a) Federal immunity from state taxation cannot be conferred simply because the tax has an effect on the United States, or because the Federal Government shoulders the entire economic burden of the levy, or because the tax falls on the earnings of a contractor providing services to the Government. And where a use tax is involved, immunity cannot be conferred simply because the State levies the tax on the use of federal property in private hands, or, indeed, simply because the tax is paid with</p>
@@ -23,7 +23,7 @@
     <n id="p722">722</n>
     <p>JUSTICE BLACKMUN delivered the opinion of the Court.</p>
     <p>We are presented here with a recurring problem: to what extent may a State impose taxes on contractors that conduct business with the Federal Government?</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>A</p>
     <p>This case concerns the contractual relationship between three private entities and the United States. The three agreements involved are typical in most respects of management contracts devised by the Atomic Energy Commission</p>
     <n id="p723">723</n>
@@ -66,7 +66,7 @@
     <n id="p730">730</n>
     <p>The other contractual provisions relied on by the District Court -- federal control over procurement systems, management practices, and the like -- failed to impress the Court of Appeals. It concluded that the Government-contractor relationship, viewed as a whole, did not "so incorporat[e] [the contractors] into the government structure as to [make them] instrumentalities of the United States. . . .'" Id. at 118, quoting United States v. Boyd, <a href="../us378/us378-0039.xml#p39">378 U. S. 39</a>, <a href="../us378/us378-0039.xml#p48">378 U. S. 48</a> (1964). And that Sandia received no fee for its services was of little consequence, in the court's view, because "decisions on the amount of fee, if any, to be paid a government contractor are not made primarily with agency consequences in mind." 624 F.2d at 120. Since the 1977 contractual amendments, by their terms, added nothing of substance to the agreements, they did not affect the court's analysis. The District Court was directed to enter summary judgment for New Mexico. Id. at 121.</p>
     <p>The United States sought certiorari, and we granted the writ to consider the seemingly intractable problems posed by state taxation of federal contractors. 450 U.S. 909 (1981).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>A</p>
     <p>With the famous declaration that "the power to tax involves the power to destroy," <a href="../us017/us017-0316.xml#p316">McCulloch v. Maryland</a>, 4 Wheat. 316, <a href="../us017/us017-0316.xml#p431">17 U. S. 431</a> (1819), Chief Justice Marshall announced for the Court the doctrine of federal immunity from state taxation. In so doing he introduced the Court to what has become a "much litigated and often confused field," United States v. City of Detroit, <a href="../us355/us355-0466.xml#p466">355 U. S. 466</a>, <a href="../us355/us355-0466.xml#p473">355 U. S. 473</a> (1958), one that has been marked from the beginning by inconsistent decisions and excessively delicate distinctions.</p>
     <p>McCulloch itself relied on generalized notions of federal supremacy to invalidate a state tax on the Second Bank of the</p>
@@ -108,7 +108,7 @@
     <p>If the immunity of federal contractors is to be expanded beyond its narrow constitutional limits, it is Congress that must take responsibility for the decision, by so expressly providing as respects contracts in a particular form, or contracts under particular programs. James v. Dravo Contracting Co., 302 U.S. at <a href="../us302/us302-0134.xml#p161">302 U. S. 161</a>; Carson v. Roane-Anderson Co., <a href="../us342/us342-0232.xml#p232">342 U. S. 232</a>, <a href="../us342/us342-0232.xml#p234">342 U. S. 234</a> (1952). And this allocation of responsibility is wholly</p>
     <n id="p738">738</n>
     <p>appropriate, for the political process is "uniquely adapted to accommodating the competing demands" in this area. Massachusetts v. United States, <a href="../us435/us435-0444.xml#p444">435 U. S. 444</a>, <a href="../us435/us435-0444.xml#p456">435 U. S. 456</a> (1978) (plurality opinion). See United States v. City of Detroit, 355 U.S. at <a href="../us355/us355-0466.xml#p474">355 U. S. 474</a>. But, absent congressional action, we have emphasized that the States' power to tax can be denied only under "the clearest constitutional mandate." Michelin Tire Corp. v. Wages, <a href="../us423/us423-0276.xml#p276">423 U. S. 276</a>, <a href="../us423/us423-0276.xml#p293">423 U. S. 293</a> (1976).</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>It remains to apply these principles to the Sandia, Zia, and LACI contracts. The Government concedes that the legal incidence of the gross receipts and use taxes falls on the contractors, Brief for United States 25, and we do not disagree. See United States v. New Mexico, 581 F.2d 803, 806 (CA10 1978). The issue, then, is whether the contractors can realistically be considered entities independent of the United States. If so, a tax on them cannot be viewed as a tax on the United States itself.</p>
     <p>So far as the use tax is concerned, United States v. Boyd, supra, controls this case. The contracts at issue in Boyd were standard AEC management contracts, in all relevant respects identical to the ones here. The contractors performed maintenance and construction work at Government facilities, under the general direction of the Government. They procured materials, and paid for the goods with Government funds under an advanced funding arrangement; title passed directly from the vendor to the United States. The contractors owned none of the property involved, and received a fixed annual fee. Indeed, one of the contractor's purchase orders stated that it made purchases "for and on behalf of the Government." 378 U.S. at <a href="../us378/us378-0039.xml#p42">378 U. S. 42</a>, n. 4. And the Tennessee use tax did not differ in any significant way from the use tax now before us. [<a id="nf12" href="#fn12">Footnote 12</a>]</p>
     <n id="p739">739</n>

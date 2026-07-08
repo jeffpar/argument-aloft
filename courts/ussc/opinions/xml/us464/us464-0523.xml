@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us464-0523.html" citation="464 U.S. 523" title="Daily Income Fund, Inc. v. Fox">
   <opinion type="Opinions &amp; Dissents">
     <n id="p523">523</n>
-    <h>U.S. Supreme Court</h>
-    <h>Daily Income Fund, Inc. v. Fox, <a href="./us464-0523.xml#p523">464 U.S. 523</a> (1984)</h>
-    <h>Daily Income Fund, Inc. v. Fox</h>
-    <h>No. 82-1200</h>
-    <h>Argued November 7, 1983</h>
-    <h>Decided January 18, 1984</h>
-    <h><a href="./us464-0523.xml#p523">464 U.S. 523</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SECOND CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Daily Income Fund, Inc. v. Fox, <a href="./us464-0523.xml#p523">464 U.S. 523</a> (1984)</h1>
+    <h2>Daily Income Fund, Inc. v. Fox</h2>
+    <h2>No. 82-1200</h2>
+    <h4>Argued November 7, 1983</h4>
+    <h4>Decided January 18, 1984</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SECOND CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondent, a shareholder of petitioner Daily Income Fund, Inc. (Fund), an open-end diversified management investment company regulated by the Investment Company Act of 1940 (Act), filed suit in Federal District Court against both the Fund and petitioner Reich &amp; Tang, Inc. (R&amp;T), which provides the Fund with investment advice and management services. Respondent alleged that fees paid to R&amp;T by the Fund were unreasonable, in violation of § 36(b) of the Act, which imposes a fiduciary duty on an investment company's adviser "with respect to the receipt of compensation for services" paid by the company and provides that</p>
     <p>"[a]n action may be brought under this subsection by the [Securities and Exchange] Commission, or by a security holder of such registered investment company on behalf of such company"</p>
     <p>against the adviser and other affiliated parties. The complaint sought damages in favor of the Fund as well as payment of respondent's costs, expenses, and attorney's fees. The District Court dismissed the suit, finding that § 36(b) actions are subject to the "demand requirement" of Federal Rule of Civil Procedure 23.1 -- which governs</p>
@@ -27,7 +27,7 @@
     <p>The question for decision is whether Rule 23.1 of the Federal Rules of Civil Procedure requires that an investment company security holder first make a demand upon the company's board of directors before bringing an action under § 36(b) of the Investment Company Act of 1940 to recover allegedly excessive fees paid by the company to its investment adviser. The Court of Appeals for the Second Circuit</p>
     <n id="p525">525</n>
     <p>held in this case that the demand requirement of Rule 23.1 does not apply to such actions. Fox v. Reich &amp; Tang, Inc., 692 F.2d 250 (1982). Two other Courts of Appeals have reached a contrary conclusion. [<a id="nf1" href="#fn1">Footnote 1</a>] We granted certiorari to resolve the conflict, 460 U.S. 1021 (1983), and now affirm.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Respondent is a shareholder of petitioner Daily Income Fund, Inc. (Fund), an open-end diversified management investment company, or "mutual fund," regulated by the Investment Company Act of 1940 (ICA or Act), 15 U.S.C. § 80a-1 et seq. (1982 ed.). The Fund invests in a portfolio of short-term money market instruments with the aim of achieving high current income while preserving capital. Under a written contract, petitioner Reich &amp; Tang, Inc. (R&amp;T), provides the Fund with investment advice and other management services in exchange for a fee currently set at one-half of one percent of the Fund's net assets. From 1978 to 1981, the Fund experienced substantial growth; its net assets increased from about $75 million to $775 million. During this period, R&amp;T's fee of one-half of one percent of net assets remained the same. Accordingly, annual payments by the Fund to R&amp;T rose from about $375,000 to an estimated $3,875,000 in 1981.</p>
     <p>Alleging that these fees were unreasonable, respondent brought this action in the United States District Court for the Southern District of New York, naming both the Fund and R&amp;T as defendants. The complaint alleged that, because the Fund's assets had been continually reinvested in a limited number of instruments, R&amp;T's investment decisions had remained routine and substantially unchanged as the Fund grew. By receiving significantly higher fees for essentially the same services, R&amp;T had, according to respondent, violated the fiduciary duty owed investment companies by</p>
     <n id="p526">526</n>
@@ -39,7 +39,7 @@
     <n id="p527">527</n>
     <p>Rule 23.1 "demand requirement" does not apply to actions brought under § 36(b) of the ICA and that, in any event, demand was excused because the Fund's directors had participated in the alleged wrongdoing, and would be hostile to the suit. The District Court, finding Rule 23.1 applicable to § 36(b) actions and, finding no excuse based on the directors' possible self-interest or bias, dismissed the action. Fox v. Reich &amp; Tang, Inc., 94 F.R.D. 94 (1982).</p>
     <p>The Court of Appeals reversed. Fox v. Rech &amp; Tang, Inc., 692 F.2d 250 (1982). The court concluded that Rule 23.1, by its terms, applies only when the corporation could itself "assert,' in a court, the same action under the same rule of law on which the shareholder plaintiff relies." Id. at 254. Relying on both the language and the legislative history of § 36(b), the court determined that an investment company may not itself sue under that section to recover excessive adviser fees. Id. at 254-261. Accordingly, the court held that Rule 23.1 does not apply to actions by security holders brought under § 36(b). Id. at 261.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Although any action in which a shareholder asserts the rights of a corporation could be characterized as "derivative,"</p>
     <n id="p528">528</n>
     <p>see <a id="nf11" href="#fn11">n</a> 11, infra, Rule 23.1 applies in terms only to a</p>
@@ -68,7 +68,7 @@
     <p>In sum, the conceptual basis and purposes of Rule 23.1 confirm what its language suggests: the Rule governs only suits "to enforce a right of a corporation" when the corporation</p>
     <n id="p534">534</n>
     <p>itself has "failed to enforce a right which may properly be asserted by it" in court. In this case, therefore, we must decide whether the right asserted by a shareholder suing under § 36(b) of the ICA could be judicially enforced by the investment company. [<a id="nf10" href="#fn10">Footnote 10</a>] We turn to consider that question.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>In determining whether § 36(b) confers a right that could be judicially enforced by an investment company, we look first, of course, at the language of the statute. As noted in <a id="nf2" href="#fn2">n</a> 2, supra, § 36(b) imposes a fiduciary duty on an investment company's adviser "with respect to the receipt of compensation</p>
     <n id="p535">535</n>
     <p>tion for services" paid by the company, and provides that</p>
@@ -98,7 +98,7 @@
     <p>"even a requirement that all of the directors of an externally managed investment company be persons unaffiliated with the company's adviser-underwriter would not be an effective check on advisory fees and other forms of management compensation"). This policy choice strongly indicates that Congress intended security holder and SEC actions under § 36(b), on the one hand, and directorial approval of adviser contracts, on the other, to act as independent checks on excessive fees.</p>
     <p>Nor do other factors on which we have relied to identify an implied cause of action support petitioners' claim that the right asserted by a shareholder in a § 36(b) action could be enforced by the investment company. First, investment companies, as well as the investing public, are undoubtedly within "the class for whose especial benefit" § 36(b) was enacted, Cort v. Ash, 422 U.S. at <a href="../us422/us422-0066.xml#p78">422 U. S. 78</a> (emphasis in original); see <a id="nf11" href="#fn11">n</a> 11, supra. Section § 36(b)'s express provision for actions by security holders, however, ensures that, even if the company's directors cannot bring an action in the fund's name, the company's rights under the statute can be fully vindicated by plaintiffs authorized to act on its behalf. For this reason, it is unnecessary to infer a right of action in favor of the corporation in order to serve the statute's "broad remedial purposes." Cf. Herman &amp; MacLean v. Huddleston, <a href="../us459/us459-0375.xml#p375">459 U. S. 375</a>, <a href="../us459/us459-0375.xml#p386">459 U. S. 386</a>-387 (1983). See also Middlesex County Sewerage Authority v. National Sea Clammers Assn., 453 U.S. at <a href="../us453/us453-0001.xml#p13">453 U. S. 13</a>-15. Second, because § 36(b) creates an entirely new right, it was obviously not enacted "in a statutory context in which an implied private remedy [had] already been recognized by the courts." Cf. Merrill Lynch, Pierce, Fenner &amp; Smith, Inc. v. Curran, 456 U.S. at <a href="../us456/us456-0353.xml#p378">456 U. S. 378</a>; Herman &amp; MacLean v. Huddleston, supra, at <a href="../us459/us459-0375.xml#p384">459 U. S. 384</a>-386. Third, a corporation's rights against its directors or third parties with whom it has contracted are generally governed by state, not federal, law. Burks v. Lasker, supra, at <a href="../us441/us441-0471.xml#p478">441 U. S. 478</a>. See Cort v. Ash, supra, at <a href="../us422/us422-0066.xml#p78">422 U. S. 78</a>.</p>
     <n id="p542">542</n>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>A shareholder derivative action is an exception to the normal rule that the proper party to bring a suit on behalf of a corporation is the corporation itself, acting through its directors or a majority of its shareholders. Accordingly, Rule 23.1, which establishes procedures designed to prevent minority shareholders from abusing this equitable device, is addressed only to situations in which shareholders seek to enforce a right that "may properly be asserted" by the corporation itself. In contrast, as the language of § 36(b) indicates, Congress intended the fiduciary duty imposed on investment advisers by that statute to be enforced solely by security holders of the investment company and the SEC. It would be anomalous, therefore, to apply a Rule intended to prevent a shareholder from improperly suing in place of the corporation to a statute, like § 36(b), conferring a right which the corporation itself cannot enforce. It follows that Rule 23.1 does not apply to an action brought by a shareholder under § 36(b) of the Investment Company Act, and that the plaintiff in such a case need not first make a demand upon the fund's directors before bringing suit.</p>
     <p>The judgment of the Court of Appeals is therefore</p>
     <p>Affirmed.</p>

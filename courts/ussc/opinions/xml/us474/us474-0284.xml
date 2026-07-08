@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us474-0284.html" citation="474 U.S. 284" title="Wainwright v. Greenfield">
   <opinion type="Opinions &amp; Dissents">
     <n id="p284">284</n>
-    <h>U.S. Supreme Court</h>
-    <h>Wainwright v. Greenfield, <a href="./us474-0284.xml#p284">474 U.S. 284</a> (1986)</h>
-    <h>Wainwright v. Greenfield</h>
-    <h>No. 84-1480</h>
-    <h>Argued November 13, 1985</h>
-    <h>Decided January 14, 1986</h>
-    <h><a href="./us474-0284.xml#p284">474 U.S. 284</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE ELEVENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Wainwright v. Greenfield, <a href="./us474-0284.xml#p284">474 U.S. 284</a> (1986)</h1>
+    <h2>Wainwright v. Greenfield</h2>
+    <h2>No. 84-1480</h2>
+    <h4>Argued November 13, 1985</h4>
+    <h4>Decided January 14, 1986</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE ELEVENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>On three occasions shortly after his arrest in Florida for sexual battery, respondent was given Miranda warnings, and in each instance he exercised his right to remain silent and stated that he wished to speak with an attorney before answering any questions. Respondent later pleaded not guilty by reason of insanity, and in the closing arguments in the Florida trial court, the prosecutor, over defense counsel's objection, reviewed police officer testimony as to the occasions on which respondent had exercised his right to remain silent, and suggested that respondent's repeated refusals to answer questions without first consulting an attorney demonstrated a degree of comprehension that was inconsistent with his claim of insanity. Respondent's subsequent conviction was affirmed by the Florida Court of Appeal, which held that the general rule precluding prosecutorial comment as to a defendant's exercise of his right to remain silent did not apply to a case in which an insanity plea was filed. Respondent then unsuccessfully sought habeas corpus relief in Federal District Court, but the Court of Appeals reversed, holding that, under the reasoning of Doyle v. Ohio, <a href="../us426/us426-0610.xml#p610">426 U. S. 610</a>, respondent was entitled to a new trial.</p>
     <p>Held: The prosecutor's use of respondent's postarrest, post-Miranda warnings silence as evidence of sanity violated the Due Process Clause of the Fourteenth Amendment. Pp. <a href="./us474-0284.xml#p289">474 U. S. 289</a>-295.</p>
     <p>(a) In Doyle, supra, it was held that the prosecutor's impeachment of the defendants' exculpatory testimony by asking them on cross-examination why they had not explained their conduct at the time of their arrest was fundamentally unfair, and therefore violated the Due Process Clause. The source of the unfairness was the implicit assurance contained in Miranda warnings that silence will carry no penalty. Pp. <a href="./us474-0284.xml#p289">474 U. S. 289</a>-291.</p>
@@ -25,7 +25,7 @@
     <p>JUSTICE STEVENS delivered the opinion of the Court.</p>
     <p>Respondent entered a plea of not guilty by reason of insanity to a charge of sexual battery. At his trial in the Circuit Court for Sarasota County, Florida, the prosecutor argued that respondent's silence after receiving Miranda warnings was evidence of his sanity. The question presented is whether such use of a defendant's silence violates the Due Process Clause of the Fourteenth Amendment as construed in Doyle v. Ohio, <a href="../us426/us426-0610.xml#p610">426 U. S. 610</a> (1976).</p>
     <n id="p286">286</n>
-    <h>I</h>
+    <h2>I</h2>
     <p>The battery occurred in woods near a beach in the vicinity of Sarasota, Florida. After respondent released his victim, she drove directly to the police station to report the incident. Based on her description, Officer Pilifant identified respondent on the beach and placed him under arrest about two hours after the assault occurred. After handcuffing him, the officer gave respondent the warnings required by our decision in Miranda v. Arizona, <a href="../us384/us384-0436.xml#p436">384 U. S. 436</a>, <a href="../us384/us384-0436.xml#p467">384 U. S. 467</a>-473 (1966). Specifically, Officer Pilifant stated:</p>
     <p>"You have a right to remain silent. Anything you say can and will be used against you in a court of law. You have the right to talk to a lawyer and have him present with you while you are being questioned. If you cannot afford to hire a lawyer, one will be appointed to represent you before any questioning, if you wish. You can decide at any time to exercise these rights and not answer any questions or make any statements. Do you understand each of these rights I have explained to you? Having these rights in mind, do you wish to talk to us now?"</p>
     <p>App. 73.</p>
@@ -43,7 +43,7 @@
     <n id="p289">289</n>
     <p>Magistrate, however, agreed with the Florida courts' disposition of the merits and recommended that the habeas corpus petition be denied. The District Court accepted that recommendation. [<a id="nf3" href="#fn3">Footnote 3</a>]</p>
     <p>The United States Court of Appeals for the Eleventh Circuit reversed. 741 F.2d 329 (1984). Disagreeing with two other Federal Courts of Appeals [<a id="nf4" href="#fn4">Footnote 4</a>] -- but not with the position taken by the Florida Supreme Court in a case decided after this respondent had exhausted his state remedies, see State v. Burwick, <a href="https://law.justia.com/cases/florida/supreme-court/1983/61630-0.html">442 So. 2d 944</a> (1983), cert. denied, 466 U.S. 931 (1984) -- the Court of Appeals held that, under the reasoning of Doyle v. Ohio, <a href="../us426/us426-0610.xml#p610">426 U. S. 610</a> (1976), respondent was entitled to a new trial. We agree.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Doyle, the defendants had taken the witness stand and offered an exculpatory explanation for their participation in what the State's evidence had portrayed as a routine marihuana transaction. On cross-examination, the prosecutor impeached their testimony by asking them why they had not explained their conduct at the time of their arrest. The Court held that such cross-examination was fundamentally unfair</p>
     <n id="p290">290</n>
     <p>and therefore violated the Due Process Clause of the Fourteenth Amendment.</p>

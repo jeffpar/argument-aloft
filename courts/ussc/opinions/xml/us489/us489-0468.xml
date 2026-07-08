@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us489-0468.html" citation="489 U.S. 468" title="Volt Information Sciences, Inc. v. Board of Trustees of Stanford University">
   <opinion type="Opinions &amp; Dissents">
     <n id="p468">468</n>
-    <h>U.S. Supreme Court</h>
-    <h>Volt Inf. Sciences v. Stanford Univ., <a href="./us489-0468.xml#p468">489 U.S. 468</a> (1989)</h>
-    <h>Volt Information Sciences, Inc. v. Board of Trustees,</h>
-    <h>Leland Stanford Junior University</h>
-    <h>No. 87-1318</h>
-    <h>Argued November 30, 1988</h>
-    <h>Decided March 6, 1989</h>
-    <h><a href="./us489-0468.xml#p468">489 U.S. 468</a></h>
-    <h>APPEAL FROM THE COURT OF APPEAL OF CALIFORNIA, SIXTH</h>
-    <h>APPELLATE DISTRICT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h4>Volt Inf. Sciences v. Stanford Univ., <a href="./us489-0468.xml#p468">489 U.S. 468</a> (1989)</h4>
+    <h2>Volt Information Sciences, Inc. v. Board of Trustees,</h2>
+    <h2>Leland Stanford Junior University</h2>
+    <h2>No. 87-1318</h2>
+    <h4>Argued November 30, 1988</h4>
+    <h4>Decided March 6, 1989</h4>
+    <h2>APPEAL FROM THE COURT OF APPEAL OF CALIFORNIA, SIXTH</h2>
+    <h2>APPELLATE DISTRICT</h2>
+    <h2>Syllabus</h2>
     <p>A construction contract between appellant and appellee contained an agreement to arbitrate all disputes arising out of the contract and a choice-of-law clause providing that the contract would be governed by the law of "the place where the Project is located." When a dispute arose under the contract, appellant made a formal demand for arbitration. In response, appellee filed an action against appellant in the California Superior Court alleging fraud and breach of contract; in the same action, appellee sought indemnity from two other parties involved in the construction project, with whom it did not have arbitration agreements. The trial court denied appellant's motion to compel arbitration and granted appellee's motion to stay arbitration under Cal.Civ.Proc.Code Ann. § 1281.2(c), which allows such a stay pending resolution of related litigation between a party to the arbitration agreement and third parties not bound by it. The State Court of Appeal affirmed, holding that (1) by specifying that the contract would be governed by "the law of the place where the Project is located," the choice-of-law clause incorporated the California rules of arbitration, including § 1281.2(c), into the parties' arbitration agreement, and (2) application of § 1281.2(c) was not preempted by the Federal Arbitration Act (FAA or Act), even though the contract involved interstate commerce.</p>
     <p>Held:</p>
     <p>1. The Court of Appeal's conclusion that the parties intended the choice-of-law clause to incorporate the California arbitration rules into their arbitration agreement is a question of state law, which this Court will not set aside. Pp. <a href="./us489-0468.xml#p474">489 U. S. 474</a>-476.</p>
@@ -96,7 +96,7 @@
       <n id="p481">481</n>
       <p>conclusion, the court relied on no extrinsic evidence of the parties' intent, but solely on the language of the form contract that the "law of the place where the project is located'" would govern. App. 66-67. [Footnote 2/3]</p>
       <p>This Court now declines to review that holding, which denies effect to an important federal statute, apparently because it finds no question of federal law involved. I can accept neither the state court's unusual interpretation of the parties' contract nor this Court's unwillingness to review it. I would reverse the judgment of the California Court of Appeal. [Footnote 2/4]</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>Contrary to the Court's view, the state court's construction of the choice-of-law clause is reviewable for two independent reasons.</p>
       <p>A</p>
       <p>The Court's decision not to review the state court's interpretation of the choice-of-law clause appears to be based on the principle that "the interpretation of private contracts is ordinarily a question of state law, which this Court does</p>
@@ -135,7 +135,7 @@
       <p>While appearing to recognize that the state court's interpretation of the contract does raise a question of federal law, the Court nonetheless refuses to determine whether the state court misconstrued that agreement. There is no warrant for failing to do so. The FAA requires that a court determining a question of arbitrability not stop with the application of state law rules for construing the parties' intentions, but that it also take account of the command of federal law that "those intentions [be] generously construed as to issues of arbitrability." Mitsubishi Motors, supra, at <a href="../us473/us473-0614.xml#p626">473 U. S. 626</a>. Thus, the decision below is based on both state and federal law, which are thoroughly intertwined. In such circumstances the state court judgment cannot be said to rest on an "adequate and independent state ground," so as to bar review by this Court. See Enterprise Irrigation Dist. v. Farmers Mutual Canal Co., <a href="../us243/us243-0157.xml#p157">243 U. S. 157</a>, <a href="../us243/us243-0157.xml#p164">243 U. S. 164</a> (1917) ("But where the nonfederal</p>
       <n id="p488">488</n>
       <p>ground is so interwoven with the other as not to be an independent matter . . . our jurisdiction is plain"). With a proper application of federal law in this case, the state court's judgment might have been different, and our review is therefore not barred. Cf. Ake v. Oklahoma, <a href="../us470/us470-0068.xml#p68">470 U. S. 68</a>, <a href="../us470/us470-0068.xml#p74">470 U. S. 74</a>-75 (1985) ("[W]hen resolution of the state procedural law question depends on a federal constitutional ruling, the state law prong of the court's holding is not independent of federal law, and our jurisdiction is not precluded").</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>Construed with deference to the opinion of the California Court of Appeal, yet "with a healthy regard for the federal policy favoring arbitration," Moses H. Cone, supra, at <a href="../us460/us460-0001.xml#p24">460 U. S. 24</a>, it is clear that the choice-of-law clause cannot bear the interpretation the California court assigned to it.</p>
       <p>Construction of a contractual provision is, of course, a matter of discerning the parties' intent. It is important to recall, in the first place, that, in this case, there is no extrinsic evidence of their intent. We must therefore rely on the contract itself. But the provision of the contract at issue here was not one that these parties drafted themselves. Rather, they incorporated portions of a standard form contract commonly used in the construction industry. That makes it most unlikely that their intent was in any way at variance with the purposes for which choice-of-law clauses are commonly written and the manner in which they are generally interpreted.</p>
       <p>It seems to me beyond dispute that the normal purpose of such choice-of-law clauses is to determine that the law of one State, rather than that of another State, will be applicable; they simply do not speak to any interaction between state and federal law. A cursory glance at standard conflicts texts confirms this observation: they contain no reference at all to the relation between federal and state law in their discussions of contractual choice-of-law clauses. See, e.g.,</p>
@@ -153,7 +153,7 @@
       <p>Id. at <a href="../us458/us458-0141.xml#p157">458 U. S. 157</a>, n. 12. We should similarly conclude here that the choice-of-law</p>
       <n id="p492">492</n>
       <p>clause was not intended to make federal law inapplicable to this contract.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>Most commercial contracts written in this country contain choice-of-law clauses, similar to the one in the Stanford-Volt contract, specifying which State's law is to govern the interpretation of the contract. See Scoles &amp; Hay, Conflict of Laws, at 632-633 ("Party autonomy means that the parties are free to select the law governing their contract, subject to certain limitations. They will usually do so by means of an express choice-of-law clause in their written contract"). Were every state court to construe such clauses as an expression of the parties' intent to exclude the application of federal law, as has the California Court of Appeal in this case, the result would be to render the Federal Arbitration Act a virtual nullity as to presently existing contracts. I cannot believe that the parties to contracts intend such consequences to flow from their insertion of a standard choice-of-law clause. Even less can I agree that we are powerless to review decisions of state courts that effectively nullify a vital piece of federal legislation. I respectfully. dissent.</p>
       <p>[Footnote 2/1]</p>
       <p>American Institute of Architects Document A201, General Conditions of the Contract for Construction § 7.1.1 (1976). See App. 40.</p>

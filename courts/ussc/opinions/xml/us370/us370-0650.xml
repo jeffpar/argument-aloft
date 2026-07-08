@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us370-0650.html" citation="370 U.S. 650" title="Gilbert v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p650">650</n>
-    <h>U.S. Supreme Court</h>
-    <h>Gilbert v. United States, <a href="./us370-0650.xml#p650">370 U.S. 650</a> (1962)</h>
-    <h>Gilbert v. United States</h>
-    <h>No. 478</h>
-    <h>Argued April 10, 1962</h>
-    <h>Decided June 25, 1962</h>
-    <h><a href="./us370-0650.xml#p650">370 U.S. 650</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Gilbert v. United States, <a href="./us370-0650.xml#p650">370 U.S. 650</a> (1962)</h1>
+    <h2>Gilbert v. United States</h2>
+    <h2>No. 478</h2>
+    <h4>Argued April 10, 1962</h4>
+    <h4>Decided June 25, 1962</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>One who endorses a government check by signing the name of the payee and then his own, as agent, when in fact he has no such authority, is not thereby guilty of forgery under 18 U.S.C. § 495. Pp. <a href="./us370-0650.xml#p650">370 U. S. 650</a>-659.</p>
     <p>(a) On the record in this case, including the judge's instructions, the jury's verdict of guilty might have been based on a finding that petitioner had purported to make an agency endorsement. Pp. <a href="./us370-0650.xml#p653">370 U. S. 653</a>-655.</p>
     <p>(b) The word "forges" in § 495 was intended to have its common law meaning, and it does not include a purported but unauthorized agency endorsement. Pp. <a href="./us370-0650.xml#p655">370 U. S. 655</a>-659.</p>
@@ -33,7 +33,7 @@
     <p>Petitioner claimed that a written power of attorney, allegedly signed by both Bartfields in his office, authorized him to endorse tax refund checks, and that "Trustee" after his name served to designate the particular bank account where he deposited and held all client refunds until December of each year against the possibility of there being a refund adjustment and until his contingent fee was settled. The Bartfields acknowledged that the signatures on the power of attorney were theirs, but disclaimed recollection of signing the instrument, and denied that they ever authorized petitioner orally or in writing to receive or endorse checks. [<a id="nf3" href="#fn3">Footnote 3</a>]</p>
     <p>On these premises, the Court of Appeals, concluding that the evidence was sufficient to permit the jury to find that petitioner had endorsed the checks without authority (a conclusion which, for present purposes, we accept), held that one who endorses a government check by signing the name of the payee and then his own, as agent, when in fact he has no such authority, is guilty of forgery under § 495. We granted certiorari to consider the correctness of that view of the statute. 368 U.S. 816. While not mentioned in the petition for certiorari, though discussed in the briefs on the merits, the Court of Appeals for the Tenth Circuit, after the Court of Appeals' decision in the present case, held that "forgery" under § 495 does not embrace a purported, but misrepresented, agency endorsement (hereafter called simply an "agency endorsement"). Selvidge v. United States, 290 F.2d 894. For reasons given in this opinion we agree with the Tenth Circuit.</p>
     <n id="p653">653</n>
-    <h>I</h>
+    <h2>I</h2>
     <p>At the outset, we are met with the Government's suggestion that the statutory construction question need not be faced in this case. Before the Court of Appeals, as in the petition for certiorari, it was assumed by all that the two checks (which, after the trial and before the case reached this Court, had for some reason become mislaid) had been endorsed "by R. Milo Gilbert, Trustee." (Emphasis added.) That was a mistaken assumption for, as the checks themselves show (supra, p. <a href="./us370-0650.xml#p651">370 U. S. 651</a>), there was no "by" before "R. Milo Gilbert, Trustee."</p>
     <p>Arguing that the jury might have found that the word "Trustee" after Gilbert's signature did not purport to indicate an agency endorsement, but was merely intended as a designation for routing the checks for deposit in one of Gilbert's "client" bank accounts, the Government suggests that a plain case of forgery is made out, and the agency endorsement question is not in truth presented by the record.</p>
     <p>We cannot so easily dispose of the case. For, accepting the premise that the jury could have found that petitioner did not purport to act in a representative capacity when he endorsed the checks, it was surely also permissible for the jury to find that petitioner had purported to make an agency endorsement in both instances, and we are thus left to speculate on which theory its verdict in fact rested. Indeed the record before us seems to indicate that this aspect of the case was tried at least primarily, on an agency endorsement theory. The trial judge's instructions to the jury on this phase of the case were, at best, opaque. Having refused to instruct the jury that an agency endorsement was not forgery under § 495, [<a id="nf4" href="#fn4">Footnote 4</a>] he at</p>
@@ -42,7 +42,7 @@
     <p>In this posture of things, the Government's proposal that we bypass decision of the question that brought the case here must be rejected. If an agency endorsement</p>
     <n id="p655">655</n>
     <p>does not constitute forgery under § 495, the petitioner is at least entitled to a new trial under proper jury instructions.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The original predecessor of § 495 was enacted in 1823, 3 Stat. 771, and, in respects here pertinent, has throughout the intervening years been in substantially the same form as § 495. There is no significant legislative history illuminating § 495 or any of its predecessors. In deciding whether "forges" under § 495 embraces agency endorsements, it is therefore important to inquire, as the Government recognizes, into the common law meaning of forgery at the time the 1823 statute was enacted. For, in the absence of anything to the contrary, it is fair to assume that Congress used that word in the statute in its common law sense.</p>
     <p>In 1847, it was decided in the English case of Regina v. White, 2 Car. &amp; K. 404, 175 Eng.Rep. 167 (Nisi Prius, Book 6), that</p>
     <p>"indorsing a bill of exchange under a false assumption of authority to indorse it per procuration, is not forgery, there being no false making. [<a id="nf6" href="#fn6">Footnote 6</a>]"</p>

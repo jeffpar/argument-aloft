@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us412-0306.html" citation="412 U.S. 306" title="Doe v. McMillan">
   <opinion type="Opinions &amp; Dissents">
     <n id="p306">306</n>
-    <h>U.S. Supreme Court</h>
-    <h>Doe v. McMillan, <a href="./us412-0306.xml#p306">412 U.S. 306</a> (1973)</h>
-    <h>Doe v. McMillan</h>
-    <h>No. 71-6356</h>
-    <h>Argued December 13, 1972</h>
-    <h>Decided May 29, 1973</h>
-    <h><a href="./us412-0306.xml#p306">412 U.S. 306</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE DISTRICT OF COLUMBIA CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Doe v. McMillan, <a href="./us412-0306.xml#p306">412 U.S. 306</a> (1973)</h1>
+    <h2>Doe v. McMillan</h2>
+    <h2>No. 71-6356</h2>
+    <h4>Argued December 13, 1972</h4>
+    <h4>Decided May 29, 1973</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE DISTRICT OF COLUMBIA CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioners, parents of District of Columbia (D.C.) school children, brought this action seeking damages and declaratory and injunctive relief for invasion of privacy that they claimed resulted from the dissemination of a congressional report on the D.C. school system that included identification of students in derogatory contexts. The named defendants included members of a House committee, Committee employees, a Committee investigator, and a consultant; the Public Printer and the Superintendent of Documents; and officials and employees connected with the school system. The Court of Appeals affirmed the District Court's dismissal of the complaint on the grounds that the first two categories of defendants were immune by reason of the Speech or Debate Clause, and that the D.C. officials and the legislative employees were protected by the official immunity doctrine recognized in Barr v. Matteo, <a href="../us360/us360-0564.xml#p564">360 U. S. 564</a>.</p>
     <p>Held:</p>
     <p>1. The congressional committee members, members of their staff, the consultant, and the investigator are absolutely immune under the Speech or Debate Clause insofar as they engaged in the legislative acts of compiling the report, referring it to the House, or voting for its publication. Pp. <a href="./us412-0306.xml#p311">412 U. S. 311</a>-313.</p>
@@ -35,7 +35,7 @@
     <p>the objectionable material, and for an order recalling the reports to the extent practicable and deleting the objectionable material from the reports already in circulation. Petitioners also asked for compensatory and punitive damages. [<a id="nf3" href="#fn3">Footnote 3</a>]</p>
     <p>The District Court, after a hearing on motions for a temporary restraining order and for an order against further distribution of the report, dismissed the action against the individual defendants on the ground that the conduct complained of was absolutely privileged. [<a id="nf4" href="#fn4">Footnote 4</a>] A divided panel of the United States Court of Appeals for the District of Columbia Circuit affirmed. Without determining whether the complaint stated a cause of action under the Constitution or any applicable law, the majority held that the Members of Congress, the Committee staff employees, and the Public Printer and Superintendent of Documents were immune from the liability asserted against them because of the Speech or Debate Clause and that the official immunity doctrine recognized in Barr v. Matteo, supra, barred any liability on the part of the District of Columbia officials as well as the legislative employees. [<a id="nf5" href="#fn5">Footnote 5</a>] We granted certiorari, 408 U.S. 922.</p>
     <n id="p311">311</n>
-    <h>I</h>
+    <h2>I</h2>
     <p>To "prevent intimidation of legislators by the Executive and accountability before a possibly hostile judiciary," Gravel v. United States, <a href="../us408/us408-0606.xml#p606">408 U. S. 606</a>, <a href="../us408/us408-0606.xml#p617">408 U. S. 617</a> (1972), Art. I, § 6, cl. 1, of the Constitution provides that "for any Speech or Debate in either House, they [Members of Congress] shall not be questioned in any other Place."</p>
     <p>"The Speech or Debate Clause was designed to assure a co-equal branch of the government wide freedom of speech, debate, and deliberation without intimidation or threats from the Executive Branch. It thus protects Members against prosecutions that directly impinge upon or threaten the legislative process."</p>
     <p>Id. at <a href="../us408/us408-0606.xml#p616">408 U. S. 616</a>. [<a id="nf6" href="#fn6">Footnote 6</a>] The Speech or Debate Clause has been read "broadly to effectuate its purposes," United States v. Johnson, <a href="../us383/us383-0169.xml#p169">383 U. S. 169</a>, <a href="../us383/us383-0169.xml#p180">383 U. S. 180</a> (1966); Gravel v. United States, supra, at <a href="../us408/us408-0606.xml#p624">408 U. S. 624</a>, and includes within its protections anything "generally done in a session of the House by one of its members in relation to the business before it." Kilbourn v. Thompson, <a href="../us103/us103-0168.xml#p168">103 U. S. 168</a>, <a href="../us103/us103-0168.xml#p204">103 U. S. 204</a> (1881); United States v. Johnson, supra, at <a href="../us383/us383-0169.xml#p179">383 U. S. 179</a>; Gravel v. United States, supra, at <a href="../us408/us408-0606.xml#p624">408 U. S. 624</a>; Powell v. McCormack, <a href="../us395/us395-0486.xml#p486">395 U. S. 486</a>, <a href="../us395/us395-0486.xml#p502">395 U. S. 502</a> (1969); United States v. Brewster, <a href="../us408/us408-0501.xml#p501">408 U. S. 501</a>, <a href="../us408/us408-0501.xml#p509">408 U. S. 509</a>, <a href="../us408/us408-0501.xml#p512">408 U. S. 512</a>-513 (1972). Thus, "voting by Members and committee reports are protected," and</p>
@@ -69,7 +69,7 @@
     <n id="p318">318</n>
     <p>anything more than conduct the hearings, prepare the report, and authorize its publication. As we have stated, such acts by those respondents are protected by the Speech or Debate Clause, and may not serve as a predicate for a suit. The complaint was therefore properly dismissed as to these respondents. Other respondents, however, are alleged to have carried out a public distribution and to be ready to continue such dissemination.</p>
     <p>In response to these latter allegations, the Court of Appeals, after receiving sufficient assurances from the respondents that they had no intention of seeking a republication or carrying out further distribution of the report, concluded that there was no basis for injunctive relief. But this left the question whether any part of the previous publication and public distribution by respondents other than the Members of Congress and Committee personnel went beyond the limits of the legislative immunity provided by the Speech or Debate Clause of the Constitution. Until that question was resolved, the complaint should not have been dismissed on threshold immunity grounds, unless the Court of Appeals was correct in ruling that the action against the other respondents was foreclosed by the doctrine of official immunity, a question to which we now turn. [<a id="nf12" href="#fn12">Footnote 12</a>]</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The official immunity doctrine, which "has, in large part, been of judicial making," Barr v. Matteo, 360 U.S.</p>
     <n id="p319">319</n>
     <p>at <a href="../us360/us360-0564.xml#p569">360 U. S. 569</a>, confers immunity on Government officials of suitable rank for the reason that</p>
@@ -159,11 +159,11 @@
     </f>
     <f n="16"><a id="fn16" href="#nf16">Footnote 16</a>
       <p>We thus have no occasion to consider Art. I, § 5, cl. 3, which requires that</p>
-      <p>"Each House shall keep a Journal of its Proceedings, and from time to time publish the same, excepting such Parts as may in their Judgment require Secrecy . . . ,"</p>
+      <p>"Each House shall keep a Journal of its Proceedings, and from time to time publish the same, excepting such Parts as may in their Judgment require Secrecy . . .,"</p>
       <p>nor need we deal with publications of the Judicial Branch and the legal immunities that may be attached thereto.</p>
       <p>MR. JUSTICE DOUGLAS, whom MR. JUSTICE BRENNAN and MR. JUSTICE MARSHALL join, concurring.</p>
       <p>I agree with the Court that the issue tendered is justiciable, and that the complaint states a cause of action. Though I join the opinion of the Court, I amplify my own views as they touch on the merits.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>Respondents, relying primarily on Gravel v. United States, <a href="../us408/us408-0606.xml#p606">408 U. S. 606</a>, urge that the report, concededly part and parcel of the legislative process, is immune from the purview of the courts under the Speech or Debate Clause of Art. I, § 6, of the Constitution. [Footnote 2/1] In Gravel, we held that neither Senator Gravel nor his</p>
       <n id="p326">326</n>
       <p>aides could be held accountable or questioned with respect to events occurring at the subcommittee hearing at which the Pentagon Papers were introduced into the public record. The immunity in that case attached to the Senator and his aides, and there is no intimation whatsoever that committee reports are sacrosanct from judicial scrutiny. In fact, the Court disclaimed any need to</p>
@@ -186,7 +186,7 @@
       <p>I cannot agree, then, that the question for us is</p>
       <p>"whether [public dissemination], simply because authorized by Congress, must always be considered 'an integral part of the deliberative and communicative processes by which Members participate in committee and House proceedings' with respect to legislative or other matters before the House."</p>
       <p>A legislator's function in informing the public concerning matters before Congress or concerning the administration of Government is essential to maintaining our representative democracy. Unless we are to put blinders on our Congressmen and isolate them from their constituents, the informing function must be entitled to the same protection of the Speech or Debate Clause as those activities which relate directly and necessarily to the immediate function of legislating. See Gravel v. United States, supra, at <a href="../us408/us408-0606.xml#p634">408 U. S. 634</a>-637 (DOUGLAS, J., dissenting), id. at <a href="../us408/us408-0606.xml#p649">408 U. S. 649</a>-662 (BRENNAN, J., dissenting). In my view, the question to which we should direct our attention is whether the House Report infringes upon the constitutional rights of petitioners and therefore is subject to scrutiny by the federal courts.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>The House authorized its District Committee</p>
       <p>"to conduct a full and complete investigation and study of . . . (1) the organization, management, operation, and administration of any department or agency of the government of the District of Columbia; (2) the organization, management, operation, and administration of any independent</p>
       <n id="p329">329</n>
@@ -269,7 +269,7 @@
       <p>I concur in the Court's holding that the respondent Members of Congress and their committee aides and employees are immune under the Speech or Debate Clause for preparation of the Committee report for distribution</p>
       <n id="p339">339</n>
       <p>within the halls of Congress. I dissent from the Court's holding that Members of Congress might be held liable if they were in fact, responsible for public dissemination of a committee report, and that, therefore, the Public Printer or the Superintendent of Documents might likewise be liable for such distribution. And quite apart from the immunity which I believe the Speech or Debate Clause confers upon congressionally authorized public distribution of committee reports, I believe that the principle of separation of powers absolutely prohibits any form of injunctive relief in the circumstances here presented.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>In Gravel v. United States, <a href="../us408/us408-0606.xml#p606">408 U. S. 606</a> (1972), we decided that the Speech or Debate Clause of the Constitution did not protect private republication of a committee report, but left open the question of whether publication and public distribution of such reports authorized by Congress would be included within the privilege. Id. at <a href="../us408/us408-0606.xml#p626">408 U. S. 626</a> n. 16. While there are intimations in today's opinion that the privilege does not cover such authorized public distribution, the ultimate holding is apparently that the District Court must take evidence and determine for itself whether or not such publication in this case was within the "legitimate legislative needs of Congress," ante at <a href="./us412-0306.xml#p324">412 U. S. 324</a>.</p>
       <p>While there is no reason for a rigid, mechanical application of the Speech or Debate Clause, there would seem to be equally little reason for a completely ad hoc, factual determination in each case of public distribution as to whether that distribution served the "legitimate legislative needs of Congress." A supposed privilege against being held judicially accountable for an act is of virtually no use to the claimant of the privilege if it may only be sustained after elaborate judicial inquiry into the circumstances under which the act was performed. This</p>
       <n id="p340">340</n>
@@ -286,7 +286,7 @@
       <p>"It does indeed go without saying that an official who is in fact guilty of using his powers to vent his spleen upon others, or for any other personal motive not connected with the public good, should not escape</p>
       <n id="p343">343</n>
       <p>liability for the injuries he may so cause; and, if it were possible in practice to confine such complaints to the guilty, it would be monstrous to deny recovery. The justification for doing so is that it is impossible to know whether the claim is well founded until the case has been tried, and that to submit all officials, the innocent as well as the guilty, to the burden of a trial and to the inevitable danger of its outcome would dampen the ardor of all but the most resolute, or the most irresponsible, in the unflinching discharge of their duties. Again and again the public interest calls for action which may turn out to be founded on a mistake, in the face of which an official may later find himself hard put to it to satisfy a jury of his good faith. There must indeed be means of punishing public officers who have been truant to their duties, but that is quite another matter from exposing such as have been honestly mistaken to suit by anyone who has suffered from their errors. As is so often the case, the answer must be found in a balance between the evils inevitable in either alternative. In this instance, it has been thought in the end better to leave unredressed the wrongs done by dishonest officers than to subject those who try to do their duty to the constant dread of retaliation."</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>Entirely apart from the immunity conferred by the Speech or Debate Clause on these respondents, I believe that the principle of separation of powers forbids the granting of injunctive relief by the District Court in a case such as this. We have jurisdiction to review the completed acts of the Legislative and Executive Branches. See, e.g., <a href="../us005/us005-0137.xml#p137">5 U. S.</a> Madison, 1 Cranch 137 (1803);</p>
       <n id="p344">344</n>
       <p>Youngstown Sheet &amp; Tube Co. v. Sawyer, <a href="../us343/us343-0579.xml#p579">343 U. S. 579</a> (1952); Kilbourn v. Thompson, supra. But the prospect of the District Court's enjoining a committee of Congress, which, in the legislative scheme of things, is for all practical purposes Congress itself, from undertaking to publicly distribute one of its reports in the manner that Congress has by statute prescribed that it be distributed, is one that I believe would have boggled the minds of the Framers of the Constitution.</p>

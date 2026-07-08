@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us418-0001.html" citation="418 U.S. 1" title="Commissioner v. Idaho Power Co.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p1">1</n>
-    <h>U.S. Supreme Court</h>
-    <h>Commissioner v. Idaho Power Co., <a href="./us418-0001.xml#p1">418 U.S. 1</a> (1974)</h>
-    <h>Commissioner of Internal Revenue v. Idaho Power Co.</h>
-    <h>No. 73-263</h>
-    <h>Argued February 27, 1974</h>
-    <h>Decided June 24, 1974</h>
-    <h><a href="./us418-0001.xml#p1">418 U.S. 1</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Commissioner v. Idaho Power Co., <a href="./us418-0001.xml#p1">418 U.S. 1</a> (1974)</h1>
+    <h2>Commissioner of Internal Revenue v. Idaho Power Co.</h2>
+    <h2>No. 73-263</h2>
+    <h4>Argued February 27, 1974</h4>
+    <h4>Decided June 24, 1974</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Section 167(a) of the Internal Revenue Code of 1954 allows a depreciation deduction from gross income for "property used in the [taxpayer's] trade or business" or "held for the production of income," whereas § 263(a)(1) of the Code disallows a deduction for "[a]ny amount paid out for new buildings or for permanent improvements or betterments made to increase the value of any property or estate," expenditures which, the regulations state, include the "cost of acquisition, construction, or erection of buildings." Section 161 makes the deductions specified in that part of the Code, including § 167(a), subject to the exceptions provided in the part including § 263. Respondent public utility claimed a deduction from gross income under § 167(a) for all the depreciation for the year on its transportation equipment (car, trucks, etc.), including that portion attributable to its use in constructing capital facilities, although, on its books, as required by the regulatory agencies, it charged such equipment, to the extent it was used in construction, to the capital assets so constructed. The Commissioner of Internal Revenue disallowed the deduction for the construction-related depreciation, ruling that that depreciation was a nondeductible capital expenditure under § 263(a).</p>
     <n id="p2">2</n>
     <p>The Commissioner was upheld by the Tax Court, but the Court of Appeals reversed, holding that a deduction expressly enumerated in the Code, such as that for depreciation, may properly be taken even if it relates to a capital item, and that § 263(a)(1) was inapplicable because depreciation is not an "amount paid out" as required by that section.</p>
@@ -30,7 +30,7 @@
     <p>This case presents the sole issue whether, for federal income tax purposes, a taxpayer is entitled to a deduction from gross income, under § 167(a) of the Internal Revenue Code of 1954, 26 U.S.C. § 167(a), [<a id="nf1" href="#fn1">Footnote 1</a>] for depreciation on equipment the taxpayer owns and uses in the construction of its own capital facilities, or whether the capitalization provision of § 263(a)(1) of the Code, 26 U.S.C. § 263(a)(1), [<a id="nf2" href="#fn2">Footnote 2</a>] bars the deduction.</p>
     <n id="p4">4</n>
     <p>The taxpayer claimed the deduction, but the Commissioner of Internal Revenue disallowed it. The Tax Court (Scott, J., in an opinion not reviewed by the full court) upheld the Commissioner's determination. 29 T.C.M. 383 (1970). The United States Court of Appeals for the Ninth Circuit, declining to follow a Court of Claims decision, Southern Natural Gas Co. v. United States, 188 Ct.Cl. 302, 372-380, 412 F.2d 1222, 1264-1269 (1969), reversed. 477 F.2d 688 (1973). We granted certiorari in order to resolve the apparent conflict between the Court of Claims and the Court of Appeals. 414 U.S. 999 (1973).</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Nearly all the relevant facts are stipulated. The taxpayer-respondent, Idaho Power Company, is a Maine corporation organized in 1915, with its principal place of business at Boise, Idaho. It is a public utility engaged in the production, transmission, distribution, and sale of electric energy. The taxpayer keeps its books and files its federal income tax returns on the calendar year accrual basis. The tax years at issue are 1962 and 1963.</p>
     <p>For many years, the taxpayer has used its own equipment and employees in the construction of improvements and additions to its capital facilities. [<a id="nf3" href="#fn3">Footnote 3</a>] The major work has consisted of transmission lines, transmission switching stations, distribution lines, distribution stations, and connecting facilities.</p>
     <n id="p5">5</n>
@@ -57,7 +57,7 @@
     <p>It is worth noting the various items that are not at issue here. The mathematics, as such, is not in dispute. The taxpayer has capitalized, as part of its cost of acquisition of capital assets, the operating and maintenance costs (other than depreciation, pension contributions, and social security and motor vehicle taxes) of the transportation equipment attributable to construction. This is not contested. The Commissioner does not dispute that the portion of the transportation equipment's depreciation allocable to operation and maintenance of facilities, in contrast with construction thereof, qualifies as a deduction from gross income. There is no disagreement</p>
     <n id="p10">10</n>
     <p>as to the allocation of depreciation between construction and maintenance. The issue thus comes down primarily to a question of timing, as the Court of Appeals recognized, 477 F.2d at 692, that is, whether the construction-related depreciation is to be amortized and deducted over the shorter life of the equipment or, instead, is to be amortized and deducted over the longer life of the capital facilities constructed.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Our primary concern is with the necessity to treat construction-related depreciation in a manner that comports with accounting and taxation realities. Over a period of time, a capital asset is consumed and, correspondingly over that period, its theoretical value and utility are thereby reduced. Depreciation is an accounting device which recognizes that the physical consumption of a capital asset is a true cost, since the asset is being depleted. [<a id="nf7" href="#fn7">Footnote 7</a>] As the process of consumption continues, and depreciation is claimed and allowed, the asset's adjusted income tax basis is reduced to reflect the distribution of its cost over the accounting periods affected. The Court stated in Hertz Corp. v. United States, <a href="../us364/us364-0122.xml#p122">364 U. S. 122</a>, <a href="../us364/us364-0122.xml#p126">364 U. S. 126</a> (1960):</p>
     <p>"[T]he purpose of depreciation accounting is to allocate the expense of using an asset to the various periods</p>
     <n id="p11">11</n>
@@ -192,7 +192,7 @@
       <p>"[D]epreciation sustained on construction equipment owned by a taxpayer and used in the erection of capital improvements for its own use is not an allowable deduction, but shall be added to and made a part of the cost of the capital improvements. So much thereof as is applicable to the cost of depreciable capital improvements is recoverable through deductions for depreciation over the useful life of such capital improvements."</p>
       <p>"In the instant case, the capital improvements constructed constitute property to be used in the trade or business or property held for the production of income. However, the building equipment used in the construction cannot be considered as property used in the regular trade or business of the taxpayer."</p>
       <p>[Footnote 2/4]</p>
-      <p>"[D]epartmental rulings not promulgated by the Secretary are of little aid in interpreting a tax statute . . . ,' Biddle v. Commissioner, <a href="https://law.justia.com/us/302/573/">302 U. S. 573</a>, <a href="https://law.justia.com/us/302/573/#582">302 U. S. 582</a>. Indeed, each issue of the Internal Revenue Bulletin warns that 'Revenue Rulings . . . reported in the Bulletin do not have the force and effect of Treasury Department Regulations. . . ."</p>
+      <p>"[D]epartmental rulings not promulgated by the Secretary are of little aid in interpreting a tax statute . . .,' Biddle v. Commissioner, <a href="https://law.justia.com/us/302/573/">302 U. S. 573</a>, <a href="https://law.justia.com/us/302/573/#582">302 U. S. 582</a>. Indeed, each issue of the Internal Revenue Bulletin warns that 'Revenue Rulings . . . reported in the Bulletin do not have the force and effect of Treasury Department Regulations. . . ."</p>
     </f>
   </opinion>
 </case>

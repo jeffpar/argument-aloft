@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us481-0851.html" citation="481 U.S. 851" title="IBEW v. Hechler">
   <opinion type="Opinions &amp; Dissents">
     <n id="p851">851</n>
-    <h>U.S. Supreme Court</h>
-    <h>IBEW v. Hechler, <a href="./us481-0851.xml#p851">481 U.S. 851</a> (1987)</h>
-    <h>International Brotherhood of Electrical Workers, AFL-CIO v. Hechler</h>
-    <h>No. 85-1360</h>
-    <h>Argued January 20, 1987</h>
-    <h>Decided May 26, 1987</h>
-    <h><a href="./us481-0851.xml#p851">481 U.S. 851</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE ELEVENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>IBEW v. Hechler, <a href="./us481-0851.xml#p851">481 U.S. 851</a> (1987)</h1>
+    <h2>International Brotherhood of Electrical Workers, AFL-CIO v. Hechler</h2>
+    <h2>No. 85-1360</h2>
+    <h4>Argued January 20, 1987</h4>
+    <h4>Decided May 26, 1987</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE ELEVENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondent, an electrical apprentice employed by Florida Power and Light Company (Florida Power), was injured while assigned to a job that required her to perform tasks allegedly beyond the scope of her training and experience. She brought suit in a Florida court against petitioner unions (collectively referred to as the Union), alleging that, "pursuant to contracts and agreements" between the Union and Florida Power, "to which . . . [she] was a third-party beneficiary," and "pursuant to the relationship by and between" the Union and her, the Union had a duty of care to ensure her a safe workplace, which it had breached by allowing her to be assigned to work in a dangerous location. The Union removed the action to federal court on the grounds that its alleged duty arose solely from the collective bargaining agreement, and therefore that any breach of its duty was actionable solely under § 301 of the Labor Management Relations Act, 1947. The Union then moved to dismiss the complaint as untimely under the applicable federal statute of limitations. Respondent argued that the basic nature of her action was a state common-law "suit in tort," and prayed that the case be remanded to the state court. The District Court granted the Union's motion to dismiss, holding that the Union's alleged duty flowed from the collective bargaining agreement, and that respondent's claim thus was preempted by § 301, and was untimely under federal law. The Court of Appeals reversed.</p>
     <p>Held:</p>
     <p>1. Respondent's claim is not sufficiently independent of the collective bargaining agreement to withstand § 301's preemptive force. Pp. <a href="./us481-0851.xml#p855">481 U. S. 855</a>-862.</p>
@@ -46,7 +46,7 @@
     <p>"Though the [collective bargaining] contract may be of use in defining the scope of the duty owed, liability will turn on basic negligence principles as developed by state law."</p>
     <p>Id. at 794. Finding that "federal labor law was not invoked in plaintiff's complaint," id. at 799, the court directed that the District Court remand the case to the state court for adjudication on the merits.</p>
     <p>Because the Eleventh Circuit's decision appeared to conflict with the decision of the Sixth Circuit in Michigan Mutual Ins. Co. v. Steelworkers, 774 F.2d 104 (1985), we granted certiorari. 476 U.S. 1113 (1986).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>A</p>
     <p>In Allis-Chalmers Corp. v. Lueck, <a href="../us471/us471-0202.xml#p202">471 U. S. 202</a> (1985), we reviewed the preemptive scope of § 301. [<a id="nf1" href="#fn1">Footnote 1</a>] We think it useful, at the outset, to repeat briefly the background outlined in the opinion in Allis-Chalmers. In Textile Workers v. Lincoln Mills, <a href="../us353/us353-0448.xml#p448">353 U. S. 448</a> (1957), the Court held that § 301 does more than simply confer jurisdiction on federal courts to hear suits charging violations of collective bargaining agreements. Id. at <a href="../us353/us353-0448.xml#p450">353 U. S. 450</a>-451. The Court concluded that Congress, through § 301, had authorized federal courts to create a body of federal law for the enforcement of collective bargaining agreements -- law "which the courts must fashion from the policy of our national labor laws." Id. at <a href="../us353/us353-0448.xml#p456">353 U. S. 456</a>. It was explained in Allis-Chalmers, 471 U.S. at</p>
     <n id="p856">856</n>
@@ -87,7 +87,7 @@
     <n id="p862">862</n>
     <p>In order to determine the Union's tort liability, however, a court would have to ascertain, first, whether the collective bargaining agreement in fact placed an implied duty of care on the Union to ensure that Hechler was provided a safe workplace, and, second, the nature and scope of that duty, that is, whether, and to what extent, the Union's duty extended to the particular responsibilities alleged by respondent in her complaint. Thus, in this case, as in Allis-Chalmers, it is clear that "questions of contract interpretation . . . underlie any finding of tort liability." 471 U.S. at <a href="../us471/us471-0202.xml#p218">471 U. S. 218</a>. The need for federal uniformity in the interpretation of contract terms therefore mandates that here, as in Allis-Chalmers, respondent is precluded from evading the preemptive force of § 301 by casting her claim as a state law tort action. [<a id="nf5" href="#fn5">Footnote 5</a>]</p>
     <n id="p863">863</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>If respondent's suit is treated as a § 301 claim, a court must determine whether her claim is time-barred by the applicable</p>
     <n id="p864">864</n>
     <p>statute of limitations under federal law. The Union argues that respondent's claim can be characterized only as a "duty of fair representation" claim against the Union for failing properly to represent Hechler's interests before the employer, and that her claim must therefore be governed by the 6-month period of limitations prescribed by DelCostello v. Teamsters, <a href="../us462/us462-0151.xml#p151">462 U. S. 151</a> (1983). [<a id="nf6" href="#fn6">Footnote 6</a>] Respondent argues, however, that her suit is not a "duty of fair representation" claim, but is simply a § 301 claim, on the basis of her status as a third-party beneficiary of the collective bargaining agreement</p>

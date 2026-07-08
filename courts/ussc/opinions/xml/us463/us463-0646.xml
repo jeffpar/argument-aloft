@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us463-0646.html" citation="463 U.S. 646" title="Dirks v. SEC">
   <opinion type="Opinions &amp; Dissents">
     <n id="p646">646</n>
-    <h>U.S. Supreme Court</h>
-    <h>Dirks v. SEC, <a href="./us463-0646.xml#p646">463 U.S. 646</a> (1983)</h>
-    <h>Dirks v. SEC</h>
-    <h>No. 82-276</h>
-    <h>Argued March 21, 1983</h>
-    <h>Decided July 1, 1983</h>
-    <h><a href="./us463-0646.xml#p646">463 U.S. 646</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE DISTRICT OF COLUMBIA CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Dirks v. SEC, <a href="./us463-0646.xml#p646">463 U.S. 646</a> (1983)</h1>
+    <h2>Dirks v. SEC</h2>
+    <h2>No. 82-276</h2>
+    <h4>Argued March 21, 1983</h4>
+    <h4>Decided July 1, 1983</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE DISTRICT OF COLUMBIA CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>While serving as an officer of a broker-dealer, petitioner, who specialized in providing investment analysis of insurance company securities to institutional investors, received information from a former officer of an insurance company that its assets were vastly overstated as the result of fraudulent corporate practices, and that various regulatory agencies had failed to act on similar charges made by company employees. Upon petitioner's investigation of the allegations, certain company employees corroborated the fraud charges, but senior management denied any wrongdoing. Neither petitioner nor his firm owned or traded any of the company's stock, but, throughout his investigation, he openly discussed the information he had obtained with a number of clients and investors, some of whom sold their holdings in the company. The Wall Street Journal declined to publish a story on the fraud allegations, as urged by petitioner. After the price of the insurance company's stock fell during petitioner's investigation, the New York Stock Exchange halted trading in the stock. State insurance authorities then impounded the company's records and uncovered evidence of fraud. Only then did the Securities and Exchange Commission (SEC) file a complaint against the company, and only then did the Wall Street Journal publish a story based largely on information assembled by petitioner. After a hearing concerning petitioner's role in the exposure of the fraud, the SEC found that he had aided and abetted violations of the antifraud provisions of the federal securities laws, including § 10(b) of the Securities Exchange Act of 1934 and SEC Rule 10b-5, by repeating the allegations of fraud to members of the investment community who later sold their stock in the insurance company. Because of petitioner's role in bringing the fraud to light, however, the SEC only censured him. On review, the Court of Appeals entered judgment against petitioner.</p>
     <p>Held:</p>
     <p>1. Two elements for establishing a violation of § 10(b) and Rule 10b-5 by corporate insiders are the existence of a relationship affording access to inside information intended to be available only for a corporate purpose, and the unfairness of allowing a corporate insider to take advantage</p>
@@ -28,7 +28,7 @@
     <p>POWELL, J., delivered the opinion of the Court, in which BURGER, C.J., and WHITE, REHNQUIST, STEVENS, and O'CONNOR, JJ., joined. BLACKMUN, J., filed a dissenting opinion, in which BRENNAN and MARSHALL, JJ., joined, post, p. <a href="./us463-0646.xml#p667">463 U. S. 667</a>.</p>
     <p>JUSTICE POWELL delivered the opinion of the Court.</p>
     <p>Petitioner Raymond Dirks received material nonpublic information from "insiders" of a corporation with which he had no connection. He disclosed this information to investors who relied on it in trading in the shares of the corporation. The question is whether Dirks violated the antifraud provisions of the federal securities laws by this disclosure.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In 1973, Dirks was an officer of a New York broker-dealer firm who specialized in providing investment analysis of insurance company securities to institutional investors. [<a id="nf1" href="#fn1">Footnote 1</a>] On</p>
     <n id="p649">649</n>
     <p>March 6, Dirks received information from Ronald Secrist, a former officer of Equity Funding of America. Secrist alleged that the assets of Equity Funding, a diversified corporation primarily engaged in selling life insurance and mutual funds, were vastly overstated as the result of fraudulent corporate practices. Secrist also stated that various regulatory agencies had failed to act on similar charges made by Equity Funding employees. He urged Dirks to verify the fraud and disclose it publicly.</p>
@@ -49,14 +49,14 @@
     <p>220 U.S.App.D.C. 309, 324, 681 F.2d 824, 839 (1982). Alternatively, Judge Wright concluded that, as an employee of a broker-dealer, Dirks had violated "obligations to the SEC and to the public completely independent of any obligations he acquired" as a result of receiving the information. Id. at 325, 681 F.2d at 840.</p>
     <p>In view of the importance to the SEC and to the securities industry of the question presented by this case, we granted a writ of certiorari. 459 U.S. 1014 (1982). We now reverse.</p>
     <n id="p653">653</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>In the seminal case of In re Cady, Roberts &amp; Co., 40 S.E.C. 907 (1961), the SEC recognized that the common law in some jurisdictions imposes on "corporate insiders,' particularly officers, directors, or controlling stockholders" an "affirmative duty of disclosure . . . when dealing in securities." Id. at 911, and n. 13. [<a id="nf10" href="#fn10">Footnote 10</a>] The SEC found that not only did breach of this common law duty also establish the elements of a Rule 10b-5 violation, [<a id="nf11" href="#fn11">Footnote 11</a>] but that individuals other than corporate insiders could be obligated either to disclose material nonpublic information [<a id="nf12" href="#fn12">Footnote 12</a>] before trading or to abstain from trading altogether. Id. at 912. In Chiarella, we accepted the two elements set out in Cady, Roberts for establishing a Rule 10b-5 violation:</p>
     <p>"(i) the existence of a relationship affording access to inside information intended to be available only for a corporate purpose, and (ii) the unfairness of allowing a corporate insider to take advantage of that information</p>
     <n id="p654">654</n>
     <p>by trading without disclosure."</p>
     <p>445 U.S. at <a href="../us445/us445-0222.xml#p227">445 U. S. 227</a>. In examining whether Chiarella had an obligation to disclose or abstain, the Court found that there is no general duty to disclose before trading on material nonpublic information, [<a id="nf13" href="#fn13">Footnote 13</a>] and held that "a duty to disclose under § 10(b) does not arise from the mere possession of nonpublic market information." Id. at <a href="../us445/us445-0222.xml#p235">445 U. S. 235</a>. Such a duty arises, rather, from the existence of a fiduciary relationship. See id. at <a href="../us445/us445-0222.xml#p227">445 U. S. 227</a>-235.</p>
     <p>Not "all breaches of fiduciary duty in connection with a securities transaction," however, come within the ambit of Rule 10b-5. Santa Fe Industries, Inc. v. Green, <a href="../us430/us430-0462.xml#p462">430 U. S. 462</a>, <a href="../us430/us430-0462.xml#p472">430 U. S. 472</a> (1977). There must also be "manipulation or deception." Id. at <a href="../us430/us430-0462.xml#p473">430 U. S. 473</a>. In an inside trading case, this fraud derives from the "inherent unfairness involved where one takes advantage" of "information intended to be available only for a corporate purpose and not for the personal benefit of anyone." In re Merrill Lynch, Pierce, Fenner &amp; Smith, Inc., 43 S.E.C. 933, 936 (1968). Thus, an insider will be liable under Rule 10b-5 for inside trading only where he fails to disclose material nonpublic information before trading on it, and thus makes "secret profits." Cady, Roberts, supra, at 916, n. 31.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>We were explicit in Chiarella in saying that there can be no duty to disclose where the person who has traded on inside information</p>
     <p>"was not [the corporation's] agent, . . . was not a fiduciary, [or] was not a person in whom the sellers [of the securities] had placed their trust and confidence."</p>
     <p>445 U.S. at <a href="../us445/us445-0222.xml#p232">445 U. S. 232</a>. Not to require such a fiduciary relationship, we recognized, would "depar[t] radically from the established doctrine that duty arises from a specific relationship between</p>
@@ -79,7 +79,7 @@
     <p>220 U.S.App.D.C. at 322, 681 F.2d at 837. See Chiarella, 445 U.S. at <a href="../us445/us445-0222.xml#p235">445 U. S. 235</a>, n. 20. We reaffirm today that</p>
     <p>"[a] duty [to disclose]</p>
     <n id="p658">658</n>
-    <p>arises from the relationship between parties . . . , and not merely from one's ability to acquire information because of his position in the market."</p>
+    <p>arises from the relationship between parties . . ., and not merely from one's ability to acquire information because of his position in the market."</p>
     <p>Id. at <a href="../us445/us445-0222.xml#p231">445 U. S. 231</a>-232, n. 14.</p>
     <p>Imposing a duty to disclose or abstain solely because a person knowingly receives material nonpublic information from an insider and trades on it could have an inhibiting influence on the role of market analysts, which the SEC itself recognizes is necessary to the preservation of a healthy market. [<a id="nf17" href="#fn17">Footnote 17</a>] It is commonplace for analysts to "ferret out and analyze information," 21 S.E.C. Docket at 1406, [<a id="nf18" href="#fn18">Footnote 18</a>] and this often is done by meeting with and questioning corporate officers and others who are insiders. And information that the analysts</p>
     <n id="p659">659</n>
@@ -107,13 +107,13 @@
     <p>Laws, 93 Harv.L.Rev. 322, 348 (1979) ("The theory . . . is that the insider, by giving the information out selectively, is in effect selling the information to its recipient for cash, reciprocal information, or other things of value for himself . . ."). There are objective facts and circumstances that often justify such an inference. For example, there may be a relationship between the insider and the recipient that suggests a quid pro quo from the latter, or an intention to benefit the particular recipient. The elements of fiduciary duty and exploitation of nonpublic information also exist when an insider makes a gift of confidential information to a trading relative or friend. The tip and trade resemble trading by the insider himself followed by a gift of the profits to the recipient.</p>
     <p>Determining whether an insider personally benefits from a particular disclosure, a question of fact, will not always be easy for courts. But it is essential, we think, to have a guiding principle for those whose daily activities must be limited and instructed by the SEC's inside trading rules, and we believe that there must be a breach of the insider's fiduciary duty before the tippee inherits the duty to disclose or abstain. In contrast, the rule adopted by the SEC in this case would have no limiting principle. [<a id="nf24" href="#fn24">Footnote 24</a>]</p>
     <n id="p665">665</n>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>Under the inside trading and tipping rules set forth above, we find that there was no actionable violation by Dirks. [<a id="nf25" href="#fn25">Footnote 25</a>] It is undisputed that Dirks himself was a stranger to Equity Funding, with no preexisting fiduciary duty to its shareholders. [<a id="nf26" href="#fn26">Footnote 26</a>] He took no action, directly or indirectly, that induced the shareholders or officers of Equity Funding to repose trust or confidence in him. There was no expectation by Dirks' sources that he would keep their information in confidence. Nor did Dirks misappropriate or illegally obtain the information about Equity Funding. Unless the insiders breached their Cady, Roberts duty to shareholders in disclosing the nonpublic information to Dirks, he breached no duty when he passed it on to investors as well as to the Wall Street Journal.</p>
     <n id="p666">666</n>
     <p>It is clear that neither Secrist nor the other Equity Funding employees violated their Cady, Roberts duty to the corporation's shareholders by providing information to Dirks. [<a id="nf27" href="#fn27">Footnote 27</a>]</p>
     <n id="p667">667</n>
     <p>The tippers received no monetary or personal benefit for revealing Equity Funding's secrets, nor was their purpose to make a gift of valuable information to Dirks. As the facts of this case clearly indicate, the tippers were motivated by a desire to expose the fraud. See supra at <a href="./us463-0646.xml#p648">463 U. S. 648</a>-649. In the absence of a breach of duty to shareholders by the insiders, there was no derivative breach by Dirks. See <a id="nf20" href="#fn20">n</a> 20, supra. Dirks therefore could not have been "a participant after the fact in [an] insider's breach of a fiduciary duty." Chiarella, 445 U.S. at <a href="../us445/us445-0222.xml#p230">445 U. S. 230</a>, n. 12.</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>We conclude that Dirks, in the circumstances of this case, had no duty to abstain from use of the inside information that he obtained. The judgment of the Court of Appeals therefore is</p>
     <p>Reversed.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>
@@ -238,7 +238,7 @@
       <p>The Court today takes still another step to limit the protections provided investors by § 10(b) of the Securities Exchange</p>
       <n id="p668">668</n>
       <p>Act of 1934. [Footnote 2/1] See Chiarella v. United States, <a href="../us445/us445-0222.xml#p222">445 U. S. 222</a>, <a href="../us445/us445-0222.xml#p246">445 U. S. 246</a> (1980) (dissenting opinion). The device employed in this case engrafts a special motivational requirement on the fiduciary duty doctrine. This innovation excuses a knowing and intentional violation of an insider's duty to shareholders if the insider does not act from a motive of personal gain. Even on the extraordinary facts of this case, such an innovation is not justified.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>As the Court recognizes, ante at <a href="./us463-0646.xml#p658">463 U. S. 658</a>, n. 18, the facts here are unusual. After a meeting with Ronald Secrist, a former Equity Funding employee, on March 7, 1973, App. 226, petitioner Raymond Dirks found himself in possession of material nonpublic information of massive fraud within the company. [Footnote 2/2] In the Court's words, "[h]e uncovered . . . startling information that required no analysis or exercise of judgment as to</p>
       <n id="p669">669</n>
       <p>its market relevance." Ibid. In disclosing that information to Dirks, Secrist intended that Dirks would disseminate the information to his clients, those clients would unload their Equity Funding securities on the market, and the price would fall precipitously, thereby triggering a reaction from the authorities. App. 16, 25, 27.</p>
@@ -246,7 +246,7 @@
       <n id="p670">670</n>
       <p>information, he selectively disclosed it to his clients. To those holding Equity Funding securities, he gave the "hard" story -- all the allegations; others received the "soft" story -- a recitation of vague factors that might reflect adversely on Equity Funding's management. See id. at 211, n. 24.</p>
       <p>Dirks' attempts to disseminate the information to nonclients were feeble, at best. On March 12, he left a message for Herbert Lawson, the San Francisco bureau chief of The Wall Street Journal. Not until March 19 and 20 did he call Lawson again, and outline the situation. William Blundell, a Journal investigative reporter based in Los Angeles, got in touch with Dirks about his March 20 telephone call. On March 21, Dirks met with Blundell in Los Angeles. Blundell began his own investigation, relying in part on Dirks' contacts, and on March 23 telephoned Stanley Sporkin, the SEC's Deputy Director of Enforcement. On March 26, the next business day, Sporkin and his staff interviewed Blundell and asked to see Dirks the following morning. Trading was halted by the New York Stock Exchange at about the same time Dirks was talking to Los Angeles SEC personnel. The next day, March 28, the SEC suspended trading in Equity Funding securities. By that time, Dirks' clients had unloaded close to $15 million of Equity Funding stock and the price had plummeted from $26 to $15. The effect of Dirks' selective dissemination of Secrist's information was that Dirks' clients were able to shift the losses that were inevitable due to the Equity Funding fraud from themselves to uninformed market participants.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>A</p>
       <p>No one questions that Secrist himself could not trade on his inside information to the disadvantage of uninformed shareholders and purchasers of Equity Funding securities. See Brief for United States as Amicus Curiae 19, n. 12. Unlike the printer in Chiarella, Secrist stood in a fiduciary relationship</p>
       <n id="p671">671</n>
@@ -268,7 +268,7 @@
       <n id="p676">676</n>
       <p>set Ford Motor Company dividend policies to benefit public at expense of shareholders).</p>
       <p>As Mosser demonstrates, the breach consists in taking action disadvantageous to the person to whom one owes a duty. In this case, Secrist owed a duty to purchasers of Equity Funding shares. The Court's addition of the bad-purpose element to a breach of fiduciary duty claim is flatly inconsistent with the principle of Mosser. I do not join this limitation of the scope of an insider's fiduciary duty to shareholders. [Footnote 2/13]</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>The improper purpose requirement not only has no basis in law, but it also rests implicitly on a policy that I cannot accept. The Court justifies Secrist's and Dirks' action because the general benefit derived from the violation of Secrist's duty to shareholders outweighed the harm caused to those</p>
       <n id="p677">677</n>
       <p>shareholders, see Heller, Chiarella, SEC Rule 14e-3 and Dirks: "Fairness" versus Economic Theory, 37 Bus.Lawyer 517, 550 (1982); Easterbrook, Insider Trading, Secret Agents, Evidentiary Privileges, and the Production of Information, 1981 S.Ct.Rev. 309, 338 -- in other words, because the end justified the means. Under this view, the benefit conferred on society by Secrist's and Dirks' activities may be paid for with the losses caused to shareholders trading with Dirks' clients. [Footnote 2/14]</p>
@@ -276,7 +276,7 @@
       <n id="p678">678</n>
       <p>norm out of that ethical norm, see ibid., but because it actually rewards Dirks for his aiding and abetting.</p>
       <p>Dirks and Secrist were under a duty to disclose the information or to refrain from trading on it. [Footnote 2/16] I agree that disclosure in this case would have been difficult. Ibid. I also recognize that the SEC seemingly has been less than helpful in its view of the nature of disclosure necessary to satisfy the disclose-or-refrain duty. The Commission tells persons with inside information that they cannot trade on that information unless they disclose; it refuses, however, to tell them how to disclose. [Footnote 2/17] See In re Faberge, Inc., 45 S.E.C. 249, 256 (1973) (disclosure requires public release through public media designed to reach investing public generally). This seems to be a less than sensible policy, which it is incumbent on the Commission to correct. The Court, however, has no authority to remedy the problem by opening a hole in the congressionally mandated prohibition on insider trading, thus rewarding such trading.</p>
-      <h>IV</h>
+      <h2>IV</h2>
       <p>In my view, Secrist violated his duty to Equity Funding shareholders by transmitting material nonpublic information to Dirks with the intention that Dirks would cause his clients to trade on that information. Dirks, therefore, was under a duty to make the information publicly available or to refrain from actions that he knew would lead to trading. Because Dirks caused his clients to trade, he violated § 10(b) and Rule 10b-5. Any other result is a disservice to this country's attempt to provide fair and efficient capital markets. I dissent.</p>
       <p>[Footnote 2/1]</p>
       <p>See, e.g., Blue Chip Stamps v. Manor Drug Stores, <a href="../us421/us421-0723.xml#p723">421 U. S. 723</a> (1975); Ernst &amp; Ernst v. Hochfelder, <a href="../us425/us425-0185.xml#p185">425 U. S. 185</a> (1976); Piper v. ChrisCraft Industries, Inc., <a href="../us430/us430-0001.xml#p1">430 U. S. 1</a> (1977); Chiarella v. United States, <a href="../us445/us445-0222.xml#p222">445 U. S. 222</a> (1980); Aaron v. SEC, <a href="../us446/us446-0680.xml#p680">446 U. S. 680</a> (1980). This trend frustrates the congressional intent that the securities laws be interpreted flexibly to protect investors, see Affiliated Ute Citizens v. United States, <a href="../us406/us406-0128.xml#p128">406 U. S. 128</a>, <a href="../us406/us406-0128.xml#p151">406 U. S. 151</a> (1972); SEC v. Capital Gains Research Bureau, Inc., <a href="../us375/us375-0180.xml#p180">375 U. S. 180</a>, <a href="../us375/us375-0180.xml#p186">375 U. S. 186</a> (1963), and to regulate deceptive practices "detrimental to the interests of the investor," S.Rep. No. 792, 73d Cong., 2d Sess., 18 (1934); see H.R.Rep. No. 1383, 73d Cong., 2d Sess., 10 (1934). Moreover, the Court continues to refuse to accord to SEC administrative decisions the deference it normally gives to an agency's interpretation of its own statute. See, e.g., Blum v. Bacon, <a href="../us457/us457-0132.xml#p132">457 U. S. 132</a> (1982).</p>

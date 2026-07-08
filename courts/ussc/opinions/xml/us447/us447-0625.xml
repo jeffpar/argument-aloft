@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us447-0625.html" citation="447 U.S. 625" title="Beck v. Alabama">
   <opinion type="Opinions &amp; Dissents">
     <n id="p625">625</n>
-    <h>U.S. Supreme Court</h>
-    <h>Beck v. Alabama, <a href="./us447-0625.xml#p625">447 U.S. 625</a> (1980)</h>
-    <h>Beck v. Alabama</h>
-    <h>No. 78-6621</h>
-    <h>Argued February 20, 1980</h>
-    <h>Decided June 20, 1980</h>
-    <h><a href="./us447-0625.xml#p625">447 U.S. 625</a></h>
-    <h>CERTIORARI TO THE SUPREME COURT OF ALABAMA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Beck v. Alabama, <a href="./us447-0625.xml#p625">447 U.S. 625</a> (1980)</h1>
+    <h2>Beck v. Alabama</h2>
+    <h2>No. 78-6621</h2>
+    <h4>Argued February 20, 1980</h4>
+    <h4>Decided June 20, 1980</h4>
+    <h2>CERTIORARI TO THE SUPREME COURT OF ALABAMA</h2>
+    <h2>Syllabus</h2>
     <p>Under Alabama law, felony murder is a lesser included offense of the capital crime of robbery-intentional killing. Under the Alabama death penalty statute, the trial judge is prohibited from giving the jury the option of convicting the defendant of the lesser included offense; instead, the jury must either convict the defendant of the capital crime, in which case it must impose the death penalty, or acquit him. If the defendant is convicted, the trial judge must hold a hearing to consider aggravating and mitigating circumstances, and may then refuse to impose the death sentence and instead sentence the defendant to life imprisonment. Petitioner was convicted of robbery-intentional killing, and the jury accordingly imposed the death sentence, which the Alabama trial court refused to overturn. At petitioner's trial, his own testimony established his participation in the robbery, but he denied killing, or any intent to kill, the victim. Because of the statutory prohibition, the trial court did not instruct the jury as to the lesser included offense of felony murder. The Alabama appellate courts upheld the conviction and death sentence, rejecting petitioner's constitutional attack on the statutory prohibition on lesser included offense instructions.</p>
     <p>Held: The death sentence may not constitutionally be imposed after a jury verdict of guilt of a capital offense where the jury was not permitted to consider a verdict of guilt of a lesser included offense. Pp. <a href="./us447-0625.xml#p633">447 U. S. 633</a>-646.</p>
     <p>(a) Providing the jury with the "third option" of convicting on a lesser included offense ensures that the jury will accord the defendant the full benefit of the reasonable doubt standard. This procedural safeguard is especially important in cases such as this one. For when the evidence establishes that the defendant is guilty of a serious, violent offense but leaves some doubt as to an element justifying conviction of a capital offense, the failure to give the jury such a "third option" inevitably enhances the risk of an unwarranted conviction. Such a risk cannot be tolerated in a case in which the defendant's life is at stake. Pp. <a href="./us447-0625.xml#p633">447 U. S. 633</a>-638.</p>
@@ -42,7 +42,7 @@
     <p>In this Court, petitioner contends that the prohibition on giving lesser included offense instructions in capital cases violates both the Eighth Amendment as made applicable to the States by the Fourteenth Amendment and the Due Process Clause of the Fourteenth Amendment by substantially increasing the risk of error in the factfinding process. Petitioner argues that, in a case in which the evidence clearly establishes the defendant's guilt of a serious noncapital crime such as felony murder, forcing the jury to choose between conviction on the capital offense and acquittal creates a danger that it will resolve any doubts in favor of conviction. [<a id="nf8" href="#fn8">Footnote 8</a>]</p>
     <n id="p633">633</n>
     <p>In response, Alabama argues that the preclusion of lesser included offense instructions does not impair the reliability of the factfinding process or prejudice the defendant in any way. Rather, it argues that the apparently mandatory death penalty will make the jury more prone to acquit in a doubtful case, and that the jury's ability to force a mistrial by refusing to return a verdict acts as a viable third option in a case in which the jury has doubts but is nevertheless unwilling to acquit. The State also contends that prohibiting lesser included offense instructions is a reasonable way of assuring that the death penalty is not imposed arbitrarily and capriciously as a result of compromise verdicts. Finally, it argues that any error in the imposition of the death penalty by the jury can be cured by the judge after a hearing on aggravating and mitigating circumstances.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>At common law, the jury was permitted to find the defendant guilty of any lesser offense necessarily included in the offense charged. [<a id="nf9" href="#fn9">Footnote 9</a>] This rule originally developed as an aid to the prosecution in cases in which the proof failed to establish some element of the crime charged. See 2 C. Wright, Federal Practice and Procedure § 515, n. 54 (1969). But it has long been recognized that it can also be beneficial to the defendant because it affords the jury a less drastic alternative than the choice between conviction of the offense charged and acquittal. As MR. JUSTICE BRENNAN explained in his opinion</p>
     <n id="p634">634</n>
     <p>for the Court in Keeble v. United States, <a href="../us412/us412-0205.xml#p205">412 U. S. 205</a>, <a href="../us412/us412-0205.xml#p208">412 U. S. 208</a>, providing the jury with the "third option" of convicting on a lesser included offense ensures that the jury will accord the defendant the full benefit of the reasonable doubt standard:</p>
@@ -63,7 +63,7 @@
     <n id="p638">638</n>
     <p>reason, rather than caprice or emotion."</p>
     <p>Gardner v. Florida, <a href="../us430/us430-0349.xml#p349">430 U. S. 349</a>, <a href="../us430/us430-0349.xml#p357">430 U. S. 357</a>-358 (opinion of STEVENS, J.). To insure that the death penalty is indeed imposed on the basis of "reason, rather than caprice or emotion," we have invalidated procedural rules that tended to diminish the reliability of the sentencing determination. [<a id="nf13" href="#fn13">Footnote 13</a>] The same reasoning must apply to rules that diminish the reliability of the guilt determination. Thus, if the unavailability of a lesser included offense instruction enhances the risk of an unwarranted conviction, Alabama is constitutionally prohibited from withdrawing that option from the jury in a capital case. [<a id="nf14" href="#fn14">Footnote 14</a>]</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Alabama argues, however, that petitioner's factual premise is wrong and that, in the context of an apparently mandatory</p>
     <n id="p639">639</n>
     <p>death penalty statute, the preclusion of lesser included offense instructions heightens, rather than diminishes, the reliability of the guilt determination. The State argues that, because the jury is led to believe that a death sentence will automatically follow a finding of guilt, [<a id="nf15" href="#fn15">Footnote 15</a>] it it will be more likely to acquit than to convict whenever it has anything approaching a reasonable doubt. In support of this theory, the State relies on the historical data described in Woodson v. North Carolina, 428 U.S. at <a href="../us428/us428-0280.xml#p293">428 U. S. 293</a> (opinion of STEWART, POWELL, and STEVENS, JJ.), which indicated that American juries have traditionally been so reluctant to impose the death penalty that they have</p>
@@ -82,7 +82,7 @@
     <p>In the final analysis, the difficulty with the Alabama statute is that it interjects irrelevant considerations into the factfinding process, diverting the jury's attention from the central issue of whether the State has satisfied its burden of proving beyond a reasonable doubt that the defendant is guilty of a capital crime. Thus, on the one hand, the unavailability of the third option of convicting on a lesser included offense may encourage the jury to convict for an impermissible reason -- its belief that the defendant is guilty of some serious crime and should be punished. On the other hand, the apparently mandatory nature of the death penalty may encourage it to</p>
     <n id="p643">643</n>
     <p>acquit for an equally impermissible reason -- that, whatever his crime, the defendant does not deserve death. [<a id="nf19" href="#fn19">Footnote 19</a>] In any particular case, these two extraneous factors may favor the defendant or the prosecution, or they may cancel each other out. But in every case they introduce a level of uncertainty and unreliability into the factfinding process that cannot be tolerated in a capital case.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The State also argues that, whatever the effect of precluding lesser included offense instructions might otherwise be, there is no possibility of harm under the Alabama statute because of two additional safeguards. First, although the jury may not convict the defendant of a lesser included offense, the State argues that it may refuse to return any verdict at all in a doubtful case, thus creating a mistrial. After a mistrial, the State may reindict on the capital offense or on lesser included offenses. [<a id="nf20" href="#fn20">Footnote 20</a>] In this case, the jury was instructed</p>
     <n id="p644">644</n>
     <p>that a mistrial would be declared if it was unable to agree on a verdict or if it was unable to agree on fixing the death penalty; it was also told that, in the event of a mistrial, the defendant could be tried again. Record 743.</p>

@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us565-0432.html" citation="565 U.S. 432" title="Reynolds v. United States">
   <opinion type="Opinion" author="Breyer">
     <n id="p432">432</n>
     <p>NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 10–6549</p>
-    <p>_________________</p>
     <p>BILLY JOE REYNOLDS, PETITIONER v. UNITED STATES</p>
     <p>on writ of certiorari to the united states court of appeals for the third circuit</p>
     <p>[January 23, 2012]</p>
@@ -78,9 +77,7 @@
   </opinion>
   <opinion type="Dissent" author="Scalia">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 10–6549</p>
-    <p>_________________</p>
     <p>BILLY JOE REYNOLDS, PETITIONER v. UNITED STATES</p>
     <p>on writ of certiorari to the united states court of appeals for the third circuit</p>
     <p>[January 23, 2012]</p>
@@ -92,6 +89,6 @@
     <p>Indeed, it is not entirely clear to me that Congress can constitutionally leave it to the Attorney General to decide—with no statutory standard whatever governing his discretion—whether a criminal statute will or will not apply to certain individuals. That seems to me sailing close to the wind with regard to the principle that legislative powers are nondelegable, see Whitman v. American Trucking Assns., Inc., 531 U. S. 457 –476 (2001); Loving v. United States, 517 U. S. 748 –777 (1996) (Scalia, J., concurring in part and concurring in judgment), and “[i]t is our settled policy to avoid an interpretation of a federal statute that engenders constitutional issues if a reasonable alternative interpretation poses no constitutional question.” Gomez v. United States, 490 U. S. 858, 864 (1989) . Construing the Act to give the Attorney General the power to reduce congressionally imposed requirements fits that bill, because such a power is little more than a formalized version of the time-honored practice of prosecutorial discretion.</p>
     <p>The Court points out that there might have been need for “different federal registration treatment of different categories of pre-Act offenders,” ante, at 8, and that absent a “ruling from the Attorney General” pre-Act offenders would be uncertain “about whether, or how, the new registration requirements applied to them,” ante, at 9. But attending to those details would certainly come within the Attorney General’s authority to “specify” application of the Act—and so would the temporary suspension of registration requirements pending the Attorney General’s reso-lution of those details. And of course the uncertainty of where to register could form the basis for the Attorney General’s exercise of his discretion not to prosecute in individual cases. Neither problem, it seems to me, justifies the extraordinary interpretation that this Act does not apply to pre-Act offenders unless and until the Attorney General, in his discretion, says so.</p>
     <p>For these reasons, I respectfully dissent.</p>
-    <f n="1"><a id="fn2-1" href="#nf2-1">1</a> * The Court reaches this conclusion based on an inquiry into legislative history. See ante, at 9–10. That inquiry is quite superfluous, however since the text of the Act itself makes clear that Congress sought to “establis[h] a comprehensive national system for the registration of [sex offenders],” , with “sex offender” defined broadly to “mea[n] an individual who was convicted of a sex offense,” §16911(1) (emphasis added).</f>
+    <f n="1"><a id="fn2-1" href="#nf2-1">1</a> * The Court reaches this conclusion based on an inquiry into legislative history. See ante, at 9–10. That inquiry is quite superfluous, however since the text of the Act itself makes clear that Congress sought to “establis[h] a comprehensive national system for the registration of [sex offenders],”, with “sex offender” defined broadly to “mea[n] an individual who was convicted of a sex offense,” §16911(1) (emphasis added).</f>
   </opinion>
 </case>

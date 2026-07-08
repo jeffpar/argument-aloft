@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us286-0437.html" citation="286 U.S. 437" title="Ex Parte Green">
   <opinion type="Opinions &amp; Dissents">
     <n id="p437">437</n>
-    <h>U.S. Supreme Court</h>
-    <h>Ex Parte Green, <a href="./us286-0437.xml#p437">286 U.S. 437</a> (1932)</h>
-    <h>Ex Parte Green</h>
-    <h>No. ___, Original</h>
-    <h>Motion submitted May 2, 1932</h>
-    <h>Decided May 23, 1932</h>
-    <h><a href="./us286-0437.xml#p437">286 U.S. 437</a></h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Ex Parte Green, <a href="./us286-0437.xml#p437">286 U.S. 437</a> (1932)</h1>
+    <h2>Ex Parte Green</h2>
+    <h2>No. ___, Original</h2>
+    <h4>Motion submitted May 2, 1932</h4>
+    <h4>Decided May 23, 1932</h4>
+    <h2>Syllabus</h2>
     <p>An admiralty court in which a suit is pending to limit the liability of a vessel owner in respect of a claim upon which an earlier common law action for damage is pending against him in a state court, should restrain the prosecution of that action if the claimant persists in making the owner's right to limit liability an issue in it. Langnes v. Green, <a href="../us282/us282-0531.xml#p531">282 U. S. 531</a>. P. <a href="./us286-0440.xml#p440">286 U. S. 440</a>.</p>
     <p>Motion denied.</p>
     <p>Motion for leave to file a petition for a writ of mandamus.</p>
@@ -23,7 +23,7 @@
     <p>But we also said that the district court, as a matter of precaution, should retain the petition for a limitation of liability</p>
     <p>"to be dealt with in the possible but (since it must be assumed that respondent's motion was not an idle gesture, but was made with full appreciation of the state court's entire lack of admiralty jurisdiction) the unlikely event that the right of petitioner to a limited liability might be brought into question in the state court, or the case otherwise assume such form in that court as to bring it within the exclusive power of a court of admiralty."</p>
     <p>As authority for that disposition of the matter, we cited The Lotta, 150 F. 219, 223, where Judge Brawley, dealing with a similar situation, had taken that course. We quoted from his opinion, among other things, the following (p. 223):</p>
-    <p>"All that the petitioner can fairly claim is that he should not be subject to a personal judgment for an indefinite amount and beyond the value of his interest in the Lotta and her freight. . . . If it should hereafter appear in the course of the proceedings in the state court that a question is raised as to the right of petitioner to a limited liability, this Court has exclusive cognizance of such a question . . . , and the decision upon the question of the injunction is predicated upon the assumption that that question is not involved in the suit in the state court, and that the only questions to be decided there are, first, whether the defendant is liable at all, and, if so, as to the value of the vessel and her freight, which is the limit of defendant's liability."</p>
+    <p>"All that the petitioner can fairly claim is that he should not be subject to a personal judgment for an indefinite amount and beyond the value of his interest in the Lotta and her freight. . . . If it should hereafter appear in the course of the proceedings in the state court that a question is raised as to the right of petitioner to a limited liability, this Court has exclusive cognizance of such a question . . ., and the decision upon the question of the injunction is predicated upon the assumption that that question is not involved in the suit in the state court, and that the only questions to be decided there are, first, whether the defendant is liable at all, and, if so, as to the value of the vessel and her freight, which is the limit of defendant's liability."</p>
     <p>It is clear from our opinion that the state court has no jurisdiction to determine the question of the owner's</p>
     <n id="p440">440</n>
     <p>right to a limited liability, and that, if the value of the vessel be not accepted as the limit of the owner's liability, the federal court is authorized to resume jurisdiction and dispose of the whole case.</p>

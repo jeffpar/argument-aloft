@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us477-0079.html" citation="477 U.S. 79" title="McMillan v. Pennsylvania">
   <opinion type="Opinions &amp; Dissents">
     <n id="p79">79</n>
-    <h>U.S. Supreme Court</h>
-    <h>McMillan v. Pennsylvania, <a href="./us477-0079.xml#p79">477 U.S. 79</a> (1986)</h>
-    <h>McMillan v. Pennsylvania</h>
-    <h>No. 85-215</h>
-    <h>Argued March 4, 1986</h>
-    <h>Decided June 19, 1986</h>
-    <h><a href="./us477-0079.xml#p79">477 U.S. 79</a></h>
-    <h>CERTIORARI TO THE SUPREME COURT OF PENNSYLVANIA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>McMillan v. Pennsylvania, <a href="./us477-0079.xml#p79">477 U.S. 79</a> (1986)</h1>
+    <h2>McMillan v. Pennsylvania</h2>
+    <h2>No. 85-215</h2>
+    <h4>Argued March 4, 1986</h4>
+    <h4>Decided June 19, 1986</h4>
+    <h2>CERTIORARI TO THE SUPREME COURT OF PENNSYLVANIA</h2>
+    <h2>Syllabus</h2>
     <p>Pennsylvania's Mandatory Minimum Sentencing Act (Act) provides that anyone convicted of certain enumerated felonies is subject to a mandatory minimum sentence of five years' imprisonment if the sentencing judge -- upon considering the evidence introduced at the trial and any additional evidence offered by either the defendant or the Commonwealth at the sentencing hearing -- finds, by a preponderance of the evidence, that the defendant "visibly possessed a firearm" during the commission of the offense. The Act, which also provides that visible possession shall not be an element of the crime, operates to divest the judge of discretion to impose any sentence of less than five years for the underlying felony, but does not authorize a sentence in excess of that otherwise allowed for the offense. Each of the petitioners was convicted of one of the Act's enumerated felonies, and in each case the Commonwealth gave notice that at sentencing it would seek to proceed under the Act. However, each of the sentencing judges found the Act unconstitutional and imposed a lesser sentence than that required by the Act. The Pennsylvania Supreme Court consolidated the Commonwealth's appeals, vacated petitioners' sentences, and remanded for sentencing pursuant to the Act. The court held that the Act was consistent with due process, rejecting petitioners' principal argument that visible possession of a firearm was an element of the crimes for which they were sentenced, and thus must be proved beyond a reasonable doubt under In re Winship, <a href="../us397/us397-0358.xml#p358">397 U. S. 358</a>, and Mullaney v. Wilbur, <a href="../us421/us421-0684.xml#p684">421 U. S. 684</a>.</p>
     <p>Held:</p>
     <p>1. A State may properly treat visible possession of a firearm as a sentencing consideration rather than an element of a particular offense that must be proved beyond a reasonable doubt. This case is controlled by Patterson v. New York, <a href="../us432/us432-0197.xml#p197">432 U. S. 197</a>, which rejected a claim that, whenever a State links the "severity of punishment" to the "presence or absence of an identified fact" the State must prove that fact beyond a reasonable doubt. While there are constitutional limits beyond which the States may not go in this regard, the applicability of the reasonable doubt standard is usually dependent on how a State defines the offense that is charged in any given case. Here, the Pennsylvania Legislature has made visible possession of a firearm a sentencing factor that comes into play only after the defendant has been found guilty of one of the</p>
@@ -23,7 +23,7 @@
     <p>JUSTICE REHNQUIST delivered the opinion of the Court.</p>
     <p>We granted certiorari to consider the constitutionality, under the Due Process Clause of the Fourteenth Amendment and the jury trial guarantee of the Sixth Amendment, of Pennsylvania's Mandatory Minimum Sentencing Act, 42 Pa.Cons.Stat. § 9712 (1982) (the Act).</p>
     <n id="p81">81</n>
-    <h>I</h>
+    <h2>I</h2>
     <p>The Act was adopted in 1982. It provides that anyone convicted of certain enumerated felonies is subject to a mandatory minimum sentence of five years' imprisonment if the sentencing judge finds, by a preponderance of the evidence, that the person "visibly possessed a firearm" during the commission of the offense. At the sentencing hearing, the judge is directed to consider the evidence introduced at trial and any additional evidence offered by either the defendant or the Commonwealth. § 9712(b). [<a id="nf1" href="#fn1">Footnote 1</a>] The Act operates to divest</p>
     <n id="p82">82</n>
     <p>the judge of discretion to impose any sentence of less than five years for the underlying felony; it does not authorize a sentence in excess of that otherwise allowed for that offense.</p>
@@ -34,7 +34,7 @@
     <n id="p84">84</n>
     <p>commit crimes with guns is as compelling as a convicted defendant's contervailing liberty interest, which has been substantially diminished by a guilty verdict. Moreover, the risk of error in the context of a § 9712 proceeding is comparatively slight -- visible possession is a simple, straightforward issue susceptible of objective proof. On balance, the court concluded, it is reasonable for the defendant and the Commonwealth to share equally in any risk of error. The court vacated petitioners' sentences and remanded for sentencing pursuant to the Act. One justice concurred and filed a separate opinion.</p>
     <p>We granted certiorari, 474 U.S. 815 (1985), and now affirm.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Petitioners argue that, under the Due Process Clause as interpreted in Winship and Mullaney, if a State wants to punish visible possession of a firearm, it must undertake the burden of proving that fact beyond a reasonable doubt. We disagree. Winship held that</p>
     <p>"the Due Process Clause protects the accused against conviction except upon proof beyond a reasonable doubt of every fact necessary to constitute the crime with which he is charged."</p>
     <p>397 U.S. at <a href="../us397/us397-0358.xml#p364">397 U. S. 364</a>. In Mullaney v. Wilbur, we held that the Due Process Clause</p>
@@ -79,14 +79,14 @@
     <n id="p91">91</n>
     <p>n. 14 (POWELL, J., dissenting) (approving new scheme under which State put burden on armed robbery defendant to prove that gun was unloaded or inoperative in order to receive lower sentence).</p>
     <p>We have noted a number of differences between this case and Winship, Mullaney, and Specht, and we find these differences controlling here. Our inability to lay down any "bright line" test may leave the constitutionality of statutes more like those in Mullaney and Specht than is the Pennsylvania statute to depend on differences of degree, but the law is full of situations in which differences of degree produce different results. We have no doubt that Pennsylvania's Mandatory Minimum Sentencing Act falls on the permissible side of the constitutional line.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Having concluded that States may treat "visible possession of a firearm" as a sentencing consideration, rather than an element of a particular offense, we now turn to petitioners' subsidiary claim that due process nonetheless requires that visible possession be proved by at least clear and convincing evidence. Like the court below, we have little difficulty concluding that, in this case, the preponderance standard satisfies due process. Indeed, it would be extraordinary if the Due Process Clause, as understood in Patterson, plainly sanctioned Pennsylvania's scheme, while the same Clause explained in some other line of less clearly relevant cases imposed more stringent requirements. There is, after all, only one Due Process Clause in the Fourteenth Amendment. Furthermore, petitioners do not and could not claim that a sentencing court may never rely on a particular fact in passing sentence without finding that fact by "clear and convincing evidence." Sentencing courts have traditionally heard evidence and found facts without any prescribed burden of proof at all. See Williams v. New York, <a href="../us337/us337-0241.xml#p241">337 U. S. 241</a> (1949). Pennsylvania has deemed a particular fact relevant and prescribed a</p>
     <n id="p92">92</n>
     <p>particular burden of proof. We see nothing in Pennsylvania's scheme that would warrant constitutionalizing burdens of proof at sentencing. [<a id="nf8" href="#fn8">Footnote 8</a>]</p>
     <p>Petitioners apparently concede that Pennsylvania's scheme would pass constitutional muster if only it did not remove the sentencing court's discretion, i.e., if the legislature had simply directed the court to consider visible possession in passing sentence. Brief for Petitioners 31-32. We have some difficulty fathoming why the due process calculus would change simply because the legislature has seen fit to provide sentencing courts with additional guidance. Nor is there merit to the claim that a heightened burden of proof is required because visible possession is a fact "concerning the crime committed," rather than the background or character of the defendant. Ibid. Sentencing courts necessarily consider the circumstances of an offense in selecting the appropriate punishment, and we have consistently approved sentencing schemes that mandate consideration of facts related to the crime, e.g., Proffitt v. Florida, <a href="../us428/us428-0242.xml#p242">428 U. S. 242</a> (1976), without suggesting that those facts must be proved beyond a reasonable doubt. The Courts of Appeals have uniformly rejected due process challenges to the preponderance standard under the federal "dangerous special offender" statute, 18</p>
     <n id="p93">93</n>
     <p>U.S.C. § 3575, which provides for an enhanced sentence if the court concludes that the defendant is both "dangerous" and a "special offender." See United States v. Davis, 710 F.2d 104, 106 (CA3) (collecting cases), cert. denied, 464 U.S. 1001 (1983).</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>In light of the foregoing, petitioners' final claim -- that the Act denies them their Sixth Amendment right to a trial by jury -- merits little discussion. Petitioners again argue that the jury must determine all ultimate facts concerning the offense committed. Having concluded that Pennsylvania may properly treat visible possession as a sentencing consideration, and not an element of any offense, we need only note that there is no Sixth Amendment right to jury sentencing, even where the sentence turns on specific findings of fact. See Spaziano v. Florida, 468 U.S. at <a href="../us468/us468-0447.xml#p459">468 U. S. 459</a>.</p>
     <p>For the foregoing reasons, the judgment of the Supreme Court of Pennsylvania is affirmed.</p>
     <p>It is so ordered.</p>
@@ -133,7 +133,7 @@
       <p>JUSTICE STEVENS, dissenting.</p>
       <p>Petitioner Dennison, a 73-year-old man, committed an aggravated assault upon a neighborhood youth whom he suspected of stealing money from his house. After a trial at which the Commonwealth proved the elements of the offense of aggravated assault beyond a reasonable doubt, the trial judge imposed a sentence of imprisonment of 11 1/2 to 23 months. Because he had concluded that Pennsylvania's recently enacted Mandatory Minimum Sentencing Act, 42 Pa.Cons.Stat. § 9712 (1982), was unconstitutional, the trial judge refused to impose the 5-year minimum sentence mandated by that Act whenever the Commonwealth proves -- by a preponderance of the evidence -- that the defendant "visibly possessed a firearm during the commission of the offense," 9712(b).</p>
       <p>The judge presiding over Dennison's trial, as well as the judges in the other three petitioners' trials and the Superior Court Judges hearing the appeals, all concluded that visible possession of a firearm was an element of the offense. "</p>
-      <h>V</h>
+      <h2>V</h2>
       <p>isibly possessed a firearm' is inarguably language which refers to behavior which the legislature intended to prohibit." App. to Pet. for Cert. A35. As a consequence, the prohibited conduct had to be established by proof beyond a reasonable doubt. The Pennsylvania Supreme Court agreed that visible possession of a firearm is conduct that the Pennsylvania General Assembly intended to prohibit, Commonwealth v. Wright, 508 Pa. 25, 42, <a href="https://law.justia.com/cases/pennsylvania/supreme-court/1985/508-pa-25-1.html">494 A.2d 354</a>, 363 (1985) (Larsen, J., concurring); id. at 49, 494 A.2d at 366 (concurring opinion joined by the majority opinion), and it recognized that evidence of such conduct would mandate a minimum sentence of imprisonment more than twice as severe as the maximum the trial judge would otherwise have imposed on petitioner Dennison, id. at 29, n. 1, 494 A.2d at 356, n. 1. But it nonetheless held that visible possession of a firearm was not an element of the offense because the Pennsylvania</p>
       <n id="p96">96</n>
       <p>General Assembly had the foresight to declare in § 9712(b) that "Provisions of this section shall not be an element of the crime."</p>

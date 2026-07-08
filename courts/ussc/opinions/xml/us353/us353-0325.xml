@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us353-0325.html" citation="353 U.S. 325" title="Baltimore &amp;amp; Ohio Ry. Co. v. Jackson">
   <opinion type="Opinions &amp; Dissents">
     <n id="p325">325</n>
-    <h>U.S. Supreme Court</h>
-    <h>Baltimore &amp; Ohio Ry. Co. v. Jackson, <a href="./us353-0325.xml#p325">353 U.S. 325</a> (1957)</h>
-    <h>Baltimore &amp; Ohio Railway Co. v. Jackson</h>
-    <h>No. 370</h>
-    <h>Argued March 28, April 1, 1957</h>
-    <h>Decided May 13, 1957</h>
-    <h><a href="./us353-0325.xml#p325">353 U.S. 325</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE DISTRICT OF COLUMBIA CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Baltimore &amp; Ohio Ry. Co. v. Jackson, <a href="./us353-0325.xml#p325">353 U.S. 325</a> (1957)</h1>
+    <h2>Baltimore &amp; Ohio Railway Co. v. Jackson</h2>
+    <h2>No. 370</h2>
+    <h4>Argued March 28, April 1, 1957</h4>
+    <h4>Decided May 13, 1957</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE DISTRICT OF COLUMBIA CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>In this suit under the Federal Employers' Liability Act, a section foreman of a railroad was awarded damages for injuries sustained while operating a gasoline-powered motor track car pulling a hand car hauling material, tools, and equipment. Each car had only four wheels. The cars were fastened together by a pin, not a coupler. The motor track car had only hand brakes, and the hand car had no brakes. There was evidence that the accident resulted from want of adequate brakes for the use to which the cars were being put. The sole issue before this Court was whether such vehicles, when used in the manner here involved, are within the coverage of the Safety Appliance Acts.</p>
     <p>Held:</p>
     <p>1. The motor track car and hand car, when used in the manner employed here, must be equipped in accordance with the requirements of the Safety Appliance Acts. Pp. <a href="./us353-0325.xml#p328">353 U. S. 328</a>-333.</p>
@@ -50,7 +50,7 @@
     <p>Id. at <a href="../us196/us196-0001.xml#p15">196 U. S. 15</a>-16. See also Spokane &amp; Inland E. R. Co. v. Campbell, <a href="../us241/us241-0497.xml#p497">241 U. S. 497</a> (1916).</p>
     <p>While there is a paucity of cases on the point, with none to the contrary of our holding here, as early as 1934, in Hoffman v. New York, N.H. &amp; H. R. Co., 74 F.2d 227, the Court of Appeals for the Second Circuit held a hand car or push truck, identical with the one here involved, and a small gasoline tractor subject to the Acts. The hand car was attached to the gasoline tractor by means of a hook (though the engine had an automatic coupler on one end), and the petitioner was injured when the hook dislodged and he was pinned between the car and the locomotive. The court unanimously held that, if a hand car</p>
     <p>"is to be operated by a locomotive [which it held the gasoline tractor to be], rather than by hand, we are not inclined to depart from the literal terms of the statute and dispense with the requirement of an automatic coupler."</p>
-    <p>Id., 74 F.2d at 232. Three years later, the requirement of the Acts as to power or train brakes was held applicable to other than standard equipment in United States v. Ft. Worth &amp; D.C. R. Co., <a href="https://law.justia.com/cases/federal/district-courts/FSupp/21/916/1943521/">21 F. Supp. 916</a>. There, a trial court in the Northern District of Texas held that, where a locomotive crane was "used to haul cars . . . , it is being used for the purposes for which a locomotive is used and is a locomotive . . . , regardless of whatever else it might also be." Id. at 918. In 1955, the Supreme Court of Florida unanimously, held in Martin v. Johnston, <a href="https://law.justia.com/cases/florida/supreme-court/1955/79-so-2d-419-0.html">79 So. 2d 419</a>, that the same type motor track car as is involved here came within the terms of the Acts. There, the motor track car was being used entirely separately and independently from any other vehicle. The Safety Acts require all cars to be equipped with "efficient hand brakes." The failure of the brakes was the cause of</p>
+    <p>Id., 74 F.2d at 232. Three years later, the requirement of the Acts as to power or train brakes was held applicable to other than standard equipment in United States v. Ft. Worth &amp; D.C. R. Co., <a href="https://law.justia.com/cases/federal/district-courts/FSupp/21/916/1943521/">21 F. Supp. 916</a>. There, a trial court in the Northern District of Texas held that, where a locomotive crane was "used to haul cars . . ., it is being used for the purposes for which a locomotive is used and is a locomotive . . ., regardless of whatever else it might also be." Id. at 918. In 1955, the Supreme Court of Florida unanimously, held in Martin v. Johnston, <a href="https://law.justia.com/cases/florida/supreme-court/1955/79-so-2d-419-0.html">79 So. 2d 419</a>, that the same type motor track car as is involved here came within the terms of the Acts. There, the motor track car was being used entirely separately and independently from any other vehicle. The Safety Acts require all cars to be equipped with "efficient hand brakes." The failure of the brakes was the cause of</p>
     <n id="p333">333</n>
     <p>the injury. The court commented:</p>
     <p>"There being as much reason for requiring the motor car in question to be equipped with efficient handbrakes, to insure its safe operation when propelled under its own power, as there is for the requirement that such a car be equipped with automatic couplers, where it is to be used in connection with a train movement, we have the view that the Safety Appliance Acts are applicable and that we are not authorized to depart from the literal terms of the statute."</p>
@@ -73,7 +73,7 @@
     </f>
     <f n="4"><a id="fn4" href="#nf4">Footnote 4</a>
       <p>We note that, in 1953, the Interstate Commerce Commission, in a proceeding to prescribe rules governing inspection of electrically operated units and multiple-unit equipment, has itself declared a "self-propelled unit of equipment capable of moving other equipment" to be a locomotive under the Act. Ex parte No. 179, 297 I.C.C. 177, 192. While the proceeding did not involve motor track cars, the language of the Commission casts some light on that problem. The Commission pointed out that</p>
-      <p>"The language in the act is all-inclusive, and, considering its purpose . . . , the words 'any locomotive' as used in section 2 must be construed as intended to encompass all of the motive equipment of any carrier subject to the act. . . . Appearance clearly cannot determine the classification into which this type of equipment should be placed."</p>
+      <p>"The language in the act is all-inclusive, and, considering its purpose . . ., the words 'any locomotive' as used in section 2 must be construed as intended to encompass all of the motive equipment of any carrier subject to the act. . . . Appearance clearly cannot determine the classification into which this type of equipment should be placed."</p>
       <p>(Emphasis added.) Id. at 191-192.</p>
     </f>
     <f n="5"><a id="fn5" href="#nf5">Footnote 5</a>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us489-0749.html" citation="489 U.S. 749" title="DOJ v. Reporters Comm. for Free Press">
   <opinion type="Opinions &amp; Dissents">
     <n id="p749">749</n>
-    <h>U.S. Supreme Court</h>
-    <h>DOJ v. Reporters Comm. for Free Press, <a href="./us489-0749.xml#p749">489 U.S. 749</a> (1989)</h>
-    <h>Department of Justice v. Reporters Committee</h>
-    <h>for Freedom of the Press</h>
-    <h>No. 87-1379</h>
-    <h>Argued December 7, 1988</h>
-    <h>Decided March 22, 1989</h>
-    <h><a href="./us489-0749.xml#p749">489 U.S. 749</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE DISTRICT OF COLUMBIA CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>DOJ v. Reporters Comm. for Free Press, <a href="./us489-0749.xml#p749">489 U.S. 749</a> (1989)</h1>
+    <h2>Department of Justice v. Reporters Committee</h2>
+    <h2>for Freedom of the Press</h2>
+    <h2>No. 87-1379</h2>
+    <h4>Argued December 7, 1988</h4>
+    <h4>Decided March 22, 1989</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE DISTRICT OF COLUMBIA CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>On the basis of information provided by local, state, and federal law enforcement agencies, the Federal Bureau of Investigation (FBI) compiles and maintains criminal identification records or "rap-sheets" on millions of persons, which contain descriptive information as well as a history of arrests, charges, convictions, and incarcerations. After the FBI denied Freedom of Information Act (FOIA) requests by respondents, a CBS news correspondent and the Reporters Committee for Freedom of the Press, they filed suit in the District Court seeking the rap-sheet for one Charles Medico insofar as it contained "matters of public record." Since the Pennsylvania Crime Commission had identified Medico's family company as a legitimate business dominated by organized crime figures, and since the company allegedly had obtained a number of defense contracts as a result of an improper arrangement with a corrupt Congressman, respondents asserted that a record of financial crimes by Medico would potentially be a matter of public interest. Petitioner Department of Justice responded that it had no record of such crimes, but refused to confirm or deny whether it had any information concerning nonfinancial crimes by Medico. The court granted summary judgment for the Department, holding, inter alia, that the rap-sheet was protected by Exemption 7(C) of the FOIA, which excludes from that statute's disclosure requirements records or information compiled for law enforcement purposes</p>
     <p>"to the extent that the production of such [materials] . . . could reasonably be expected to constitute an unwarranted invasion of"</p>
     <p>personal privacy.</p>
@@ -28,7 +28,7 @@
     <n id="p751">751</n>
     <p>JUSTICE STEVENS delivered the opinion of the Court.</p>
     <p>The Federal Bureau of Investigation (FBI) has accumulated and maintains criminal identification records, sometimes referred to as "rap-sheets," on over 24 million persons. The question presented by this case is whether the disclosure of the contents of such a file to a third party "could reasonably be expected to constitute an unwarranted invasion of personal privacy" within the meaning of the Freedom of Information Act (FOIA), 5 U.S.C. § 552(b)(7)(C) (1982 ed., Supp. V).</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In 1924, Congress appropriated funds to enable the Department of Justice (Department) to establish a program to collect and preserve fingerprints and other criminal identification records. 43 Stat. 217. That statute authorized the Department to exchange such information with "officials of States, cities and other institutions." Ibid. Six years later, Congress created the FBI's identification division, and gave it responsibility for</p>
     <p>"acquiring, collecting, classifying, and preserving criminal identification and other crime records and the exchanging of said criminal identification records with the duly authorized officials of governmental agencies</p>
     <n id="p752">752</n>
@@ -43,7 +43,7 @@
     <p>Although much rap-sheet information is a matter of public record, the availability and dissemination of the actual rap-sheet to the public is limited. Arrests, indictments, convictions, and sentences are public events that are usually documented in court records. In addition, if a person's entire criminal history transpired in a single jurisdiction, all of the contents of his or her rap-sheet may be available upon request in that jurisdiction. That possibility, however, is present in only three States. [<a id="nf1" href="#fn1">Footnote 1</a>] All of the other 47 States place substantial restrictions on the availability of criminal history summaries, even though individual events in those summaries are matters of public record. Moreover, even in Florida, Wisconsin, and Oklahoma, the publicly available</p>
     <n id="p754">754</n>
     <p>summaries may not include information about out-of-state arrests or convictions. [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The statute known as the FOIA is actually a part of the Administrative Procedure Act (APA). Section 3 of the APA, as enacted in 1946, gave agencies broad discretion concerning the publication of governmental records. [<a id="nf3" href="#fn3">Footnote 3</a>] In 1966, Congress amended that section to implement "a general philosophy of full agency disclosure.'" [<a id="nf4" href="#fn4">Footnote 4</a>] The amendment required agencies to publish their rules of procedure in the Federal Register, 5 U.S.C. § 552(a)(1)(C), and to make available for public inspection and copying their opinions, statements of policy, interpretations, and staff manuals and instructions that are not published in the Federal Register, § 552(a)(2). In addition, § 522(a)(3) requires every agency, "upon any request for</p>
     <p>Page 489 U. S. 755</p>
     <p>records which. . . reasonably describes such records" to make such records "promptly available to any person." [<a id="nf5" href="#fn5">Footnote 5</a>] If an agency improperly withholds any documents, the district court has jurisdiction to order their production. Unlike the review of other agency action that must be upheld if supported by substantial evidence and not arbitrary or capricious, the FOIA expressly places the burden "on the agency to sustain its action," and directs the district courts to "determine the matter de novo." [<a id="nf6" href="#fn6">Footnote 6</a>]</p>
@@ -54,7 +54,7 @@
     <p>§ 552(b)(7)(C).</p>
     <p>Exemption 7(C)'s privacy language is broader than the comparable language in Exemption 6 in two respects. First, whereas Exemption 6 requires that the invasion of privacy be "clearly unwarranted," the adverb "clearly" is omitted from Exemption 7(C). This omission is the product of a 1974 amendment adopted in response to concerns expressed by the President. [<a id="nf8" href="#fn8">Footnote 8</a>] Second, whereas Exemption 6 refers to disclosures that "would constitute" an invasion of privacy, Exemption 7(C) encompasses any disclosure that "could reasonably be expected to constitute" such an invasion. This difference is also the product of a specific amendment. [<a id="nf9" href="#fn9">Footnote 9</a>] Thus, the standard for evaluating a threatened invasion of privacy interests resulting from the disclosure of records compiled for law enforcement purposes is somewhat broader than the standard applicable to personnel, medical, and similar files.</p>
     <n id="p757">757</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>This case arises out of requests made by a CBS news correspondent and the Reporters Committee for Freedom of the Press (respondents) for information concerning the criminal records of four members of the Medico family. The Pennsylvania Crime Commission had identified the family's company, Medico Industries, as a legitimate business dominated by organized crime figures. Moreover, the company allegedly had obtained a number of defense contracts as a result of an improper arrangement with a corrupt Congressman.</p>
     <p>The FOIA requests sought disclosure of any arrests, indictments, acquittals, convictions, and sentences of any of the four Medicos. Although the FBI originally denied the requests, it provided the requested data concerning three of the Medicos after their deaths. In their complaint in the District Court, respondents sought the rap-sheet for the fourth, Charles Medico (Medico), insofar as it contained "matters of public record." App. 33.</p>
     <p>The parties filed cross-motions for summary judgment. Respondents urged that any information regarding "a record of bribery, embezzlement or other financial crime" would potentially be a matter of special public interest. Id. at 97. In answer to that argument, the Department advised respondents and the District Court that it had no record of any financial crimes concerning Medico, but the Department continued to refuse to confirm or deny whether it had any information concerning nonfinancial crimes. Thus, the issue was narrowed to Medico's nonfinancial crime history insofar as it is a matter of public record.</p>
@@ -81,7 +81,7 @@
     <p>Id. at 371, 831 F.2d at 1130 (emphasis in original).</p>
     <n id="p762">762</n>
     <p>The Court of Appeals denied rehearing en banc, with four judges dissenting. App. to Pet. for Cert. 64a-66a. Because of the potential effect of the Court of Appeals' opinion on values of personal privacy, we granted certiorari. 485 U.S. 1005 (1988). We now reverse. [<a id="nf12" href="#fn12">Footnote 12</a>]</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>Exemption 7(C) requires us to balance the privacy interest in maintaining, as the Government puts it, the "practical obscurity" of the rap-sheets against the public interest in their release.</p>
     <p>The preliminary question is whether Medico's interest in the nondisclosure of any rap-sheet the FBI might have on him is the sort of "personal privacy" interest that Congress intended Exemption 7(C) to protect. [<a id="nf13" href="#fn13">Footnote 13</a>] As we have pointed out before,</p>
     <p>"[t]he cases sometimes characterized as protecting 'privacy' have in fact involved at least two different kinds of interests. One is the individual interest in avoiding disclosure of personal matters, and another is the interest in independence in making certain kinds of important decisions."</p>
@@ -128,7 +128,7 @@
     <p>Rehnquist, Is an Expanded Right of Privacy Consistent with Fair and Effective Law Enforcement?, Nelson Timothy Stephens Lectures, University of Kansas Law School, pt. 1, p. 13 (Sept. 26-27,</p>
     <n id="p771">771</n>
     <p>1974). The privacy interest in a rap-sheet is substantial. The substantial character of that interest is affected by the fact that, in today's society, the computer can accumulate and store information that would otherwise have surely been forgotten long before a person attains the age of 80, when the FBI's rap-sheets are discarded.</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>Exemption 7(C), by its terms, permits an agency to withhold a document only when revelation "could reasonably be expected to constitute an unwarranted invasion of personal privacy." We must next address what factors might warrant an invasion of the interest described in <a href="./us489-0749.xml#p762">489 U. S.</a> supra.</p>
     <p>Our previous decisions establish that whether an invasion of privacy is warranted cannot turn on the purposes for which the request for information is made. Except for cases in which the objection to disclosure is based on a claim of privilege and the person requesting disclosure is the party protected by the privilege, the identity of the requesting party has no bearing on the merits of his or her FOIA request. Thus, although the subject of a presentence report can waive a privilege that might defeat a third party's access to that report, United States Department of Justice v. Julian, <a href="../us486/us486-0001.xml#p1">486 U. S. 1</a>, <a href="../us486/us486-0001.xml#p13">486 U. S. 13</a>-14 (1988), and although the FBI's policy of granting the subject of a rap-sheet access to his own criminal history is consistent with its policy of denying access to all other members of the general public, see supra, at 752, the rights of the two press respondents in this case are no different from those that might be asserted by any other third party, such as a neighbor or prospective employer. As we have repeatedly stated, Congress "clearly intended" the FOIA "to give any member of the public as much right to disclosure as one with a special interest [in a particular document]." NLRB v. Sears, Roebuck &amp; Co., <a href="../us421/us421-0132.xml#p132">421 U. S. 132</a>, <a href="../us421/us421-0132.xml#p149">421 U. S. 149</a> (1975); see NLRB v. Robbins Tire &amp; Rubber Co., <a href="../us437/us437-0214.xml#p214">437 U. S. 214</a>, <a href="../us437/us437-0214.xml#p221">437 U. S. 221</a> (1978); FBI v. Abramson, <a href="../us456/us456-0615.xml#p615">456 U. S. 615</a> (1982). As Professor</p>
     <n id="p772">772</n>
@@ -149,7 +149,7 @@
     <p>"if disclosure of the information is in the public interest because it is likely to contribute significantly to public understanding of the operations or activities of the government and is not primarily in the commercial interest of the requester."</p>
     <p>5 U.S.C. § 552(a)(4)(A)(iii) (1982 ed., Supp. V). Although such a provision obviously implies that there will be requests that do not meet such a "public interest" standard, we think it relevant to today's inquiry regarding the public interest in release of rap-sheets on private citizens that Congress once again expressed the core purpose of the FOIA as "contribut[ing] significantly to public understanding of the operations or activities of the government."</p>
     <n id="p776">776</n>
-    <h>VI</h>
+    <h2>VI</h2>
     <p>Both the general requirement that a court "shall determine the matter de novo" and the specific reference to an "unwarranted" invasion of privacy in Exemption 7(C) indicate that a court must balance the public interest in disclosure against the interest Congress intended the Exemption to protect. Although both sides agree that such a balance must be undertaken, how such a balance should be done is in dispute. The Court of Appeals majority expressed concern about assigning federal judges the task of striking a proper case-by-case, or ad hoc, balance between individual privacy interests and the public interest in the disclosure of criminal history information without providing those judges standards to assist in performing that task. Our cases provide support for the proposition that categorical decisions may be appropriate, and individual circumstances disregarded, when a case fits into a genus in which the balance characteristically tips in one direction. The point is well illustrated by both the majority and dissenting opinions in NLRB v. Robbins Tire &amp; Rubber Co., <a href="../us437/us437-0214.xml#p214">437 U. S. 214</a> (1978).</p>
     <p>In Robbins, the majority held that Exemption 7(A), which protects from disclosure law enforcement records or information that "could reasonably. be expected to interfere with enforcement proceedings," applied to statements of witnesses whom the National Labor Relations Board (NLRB or Board) intended to call at an unfair labor practice hearing. Although we noted that the language of Exemptions 7(B), (C), and (D) seems to contemplate a case-by-case showing "that the factors made relevant by the statute are present in each distinct situation," id. at <a href="../us437/us437-0214.xml#p223">437 U. S. 223</a>; see id. at <a href="../us437/us437-0214.xml#p234">437 U. S. 234</a>, we concluded that Exemption 7(A) "appears to contemplate that certain generic determinations might be made." Id. at <a href="../us437/us437-0214.xml#p224">437 U. S. 224</a>. Thus, our ruling encompassed the entire category of NLRB witness statements, and a concurring opinion pointed out that the category embraced enforcement proceedings by other agencies</p>
     <n id="p777">777</n>

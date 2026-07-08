@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us445-0001.html" citation="445 U.S. 1" title="Whirlpool Corp. v. Marshall">
   <opinion type="Opinions &amp; Dissents">
     <n id="p1">1</n>
-    <h>U.S. Supreme Court</h>
-    <h>Whirlpool Corp. v. Marshall, <a href="./us445-0001.xml#p1">445 U.S. 1</a> (1980)</h>
-    <h>Whirlpool Corp. v. Marshall</h>
-    <h>No. 78-1870</h>
-    <h>Argued January 9, 1980</h>
-    <h>Decided February 26, 1980</h>
-    <h><a href="./us445-0001.xml#p1">445 U.S. 1</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SIXTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Whirlpool Corp. v. Marshall, <a href="./us445-0001.xml#p1">445 U.S. 1</a> (1980)</h1>
+    <h2>Whirlpool Corp. v. Marshall</h2>
+    <h4>No. 78-1870</h4>
+    <h4>Argued January 9, 1980</h4>
+    <h4>Decided February 26, 1980</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SIXTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Section 11(c)(1) of the Occupational Safety and Health Act of 1970 (Act) prohibits an employer from discharging or discriminating against any employee who exercises "any right afforded by" the Act. Respondent Secretary of Labor promulgated a regulation providing that, among other rights protected by the Act, is the right of an employee to choose not to perform his assigned task because of a reasonable apprehension of death or serious injury coupled with a reasonable belief that no less drastic alternative is available. Claiming that a suspended wire mesh screen in petitioner's manufacturing plant used to protect employees from objects occasionally falling from an overhead conveyor was unsafe, two employees of petitioner refused to comply with their foreman's order to perform their usual maintenance duties on the screen. They were then ordered to punch out without working or being paid for the remainder of their shift, and subsequently received written reprimands, which were placed in their employment files. Thereafter, respondent brought suit in Federal District Court, alleging that petitioner's actions against the two employees constituted discrimination in violation of § 11(c)(1) of the Act, and seeking injunctive and other relief. While finding that the implementing regulation justified the employees' refusals to obey their foreman's order, the District Court</p>
     <n id="p2">2</n>
     <p>nevertheless denied relief, holding that the regulation was inconsistent with the Act, and therefore invalid. The Court of Appeals reversed and remanded, agreeing that the employees' actions were justified under the regulation but disagreeing with the conclusion that the regulation was invalid.</p>
@@ -26,7 +26,7 @@
     <n id="p4">4</n>
     <p>of death or serious injury coupled with a reasonable belief that no less drastic alternative is available. [<a id="nf3" href="#fn3">Footnote 3</a>] The question presented in the case before us is whether this regulation is consistent with the Act.</p>
     <n id="p5">5</n>
-    <h>I</h>
+    <h2>I</h2>
     <p>The petitioner company maintains a manufacturing plant in Marion, Ohio, for the production of household appliances. Overhead conveyors transport appliance components throughout the plant. To protect employees from objects that occasionally fall from these conveyors, the petitioner has installed a horizontal wire-mesh guard screen approximately 20 feet above the plant floor. This mesh screen is welded to angle-iron frames suspended from the building's structural steel skeleton.</p>
     <p>Maintenance employees of the petitioner spend several hours each week removing objects from the screen, replacing paper spread on the screen to catch grease drippings from the material on the conveyors, and performing occasional maintenance work on the conveyors themselves. To perform these duties, maintenance employees usually are able to stand on the iron frames, but sometimes find it necessary to step onto the steel mesh screen itself.</p>
     <p>In 1973, the company began to install heavier wire in the screen because its safety had been drawn into question. Several employees had fallen partly through the old screen, and on one occasion an employee had fallen completely through to the plant floor below, but had survived. A number of maintenance employees had reacted to these incidents by bringing the unsafe screen conditions to the attention of their foremen. The petitioner company's contemporaneous safety instructions admonished employees to step only on the angle-iron frames.</p>
@@ -41,7 +41,7 @@
     <n id="p8">8</n>
     <p>and that no reasonable alternative had realistically been open to them other than to refuse to work. The District Court nevertheless denied relief, holding that the Secretary's regulation was inconsistent with the Act, and therefore invalid. Usery v. Whirlpool Corp., <a href="https://law.justia.com/cases/federal/district-courts/FSupp/416/30/1500916/">416 F. Supp. 30</a>, 32-34.</p>
     <p>The Court of Appeals for the Sixth Circuit reversed the District Court's judgment. 593 F.2d 715. Finding ample support in the record for the District Court's factual determination that the actions of Deemer and Cornwell had been justified under the Secretary's regulation, id. at 719, n. 5, [<a id="nf10" href="#fn10">Footnote 10</a>] the appellate court disagreed with the District Court's conclusion that the regulation is invalid. Id. at 721-736. It accordingly remanded the case to the District Court for further proceedings. Id. at 73. We granted certiorari, 444 U.S. 823, because the decision of the Court of Appeals in this case conflicts with those of two other Courts of Appeals on the important question in issue. See Marshall v. Daniel Construction Co., 563 F.2d 707 (CA5 1977); Marshall v. Certified Welding Corp., No. 77-2048 (CA10 Dec. 28, 1978). That question, as stated at the outset of this opinion, is whether the Secretary's regulation authorizing employee "self-help" in some circumstances, 29 CFR § 1977.12(b)(2) (1979), is permissible under the Act.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The Act itself creates an express mechanism for protecting workers from employment conditions believed to pose an emergent threat of death or serious injury. Upon receipt of an employee inspection request stating reasonable grounds to believe that an imminent danger is present in a workplace,</p>
     <n id="p9">9</n>
     <p>OSHA must conduct an inspection. 29 U.S.C. § 657(f)(1). In the event this inspection reveals workplace conditions or practices that</p>

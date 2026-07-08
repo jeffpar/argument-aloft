@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us429-0610.html" citation="429 U.S. 610" title="United States Steel Corp. v. Fortner Enterprises, Inc.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p610">610</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States Steel Corp. v. Fortner Enterprises, Inc., <a href="./us429-0610.xml#p610">429 U.S. 610</a> (1977)</h>
-    <h>United States Steel Corp. v. Fortner Enterprises, Inc.</h>
-    <h>No. 75-853</h>
-    <h>Argued November 1, 1976</h>
-    <h>Decided February 22, 1977</h>
-    <h><a href="./us429-0610.xml#p610">429 U.S. 610</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SIXTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States Steel Corp. v. Fortner Enterprises, Inc., <a href="./us429-0610.xml#p610">429 U.S. 610</a> (1977)</h1>
+    <h2>United States Steel Corp. v. Fortner Enterprises, Inc.</h2>
+    <h2>No. 75-853</h2>
+    <h4>Argued November 1, 1976</h4>
+    <h4>Decided February 22, 1977</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SIXTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>In exchange for respondent real estate development corporation's promise to purchase prefabricated houses to be erected on certain land, petitioner United States Steel Corp.'s Home Division (the manufacturer of the houses) and petitioner Credit Corp., a wholly owned subsidiary that provides financing to the Home Division's customers, agreed to finance respondent's cost of acquiring and developing the land. After difficulties arose while the development was in progress, respondent brought a treble damages action against petitioners, alleging that the transaction was a tying arrangement forbidden by the Sherman Act, because the competition for prefabricated houses (the tied product) was restrained by petitioners abuse of power over credit (the tying product). After this Court, in a prior review of the case upon reversing a summary judgment in petitioners' favor, held that the agreement affected a "not insubstantial" amount of commerce in the tied product, and that respondent was entitled to an opportunity to prove that petitioners possessed "appreciable economic power" in the market for the tying product, the District Court ultimately held that the evidence justified the conclusion that petitioners did have sufficient economic power in the credit market to make the tying arrangement unlawful, and the Court of Appeals affirmed. That evidence related to four propositions: (1) petitioner Credit Corp. and the Home Division were owned by one of the Nation's largest corporations; (2) petitioners entered into tying arrangements with a significant number of customers in addition to respondent; (3) the Home Division charged respondent a noncompetitive price for its prefabricated houses; and (4) the financing provided to respondent was "unique," primarily because it covered 100% of respondent's acquisition and development costs.</p>
     <p>Held: The record does not support the conclusion that petitioners had appreciable economic power in the market for credit, the tying product. Where the record merely shows that the credit terms are unique because the seller was willing to accept a lesser profit -- or to incur greater risks -- than its competitors, such uniqueness does not give rise to any inference of economic power in the credit market. The</p>
     <n id="p611">611</n>
@@ -26,12 +26,12 @@
     <n id="p613">613</n>
     <p>had been proved was only reached after two trials. At the first trial following our remand, the District Court directed a verdict in favor of Fortner on the issue of liability, and submitted only the issue of damages to the jury. The jury assessed damages, before trebling, of $93,200. The Court of Appeals reversed the directed verdict and remanded for a new trial on liability. 452 F.2d 1095 (CA6 1971), cert. denied, 406 U.S. 919. The parties then waived the jury; the trial judge heard additional evidence, and entered extensive findings of fact which were affirmed on appeal. 523 F.2d 961 (1975). Both courts held that the findings justified the conclusion that petitioners had sufficient economic power in the credit market to make the tying arrangement unlawful.</p>
     <p>Before explaining why we disagree with the ultimate conclusion of the courts below, we first describe the tying arrangement, and then summarize the findings on the economic power issue.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Only the essential features of the arrangement between the parties need be described. Fortner is a corporation which was activated by an experienced real estate developer for the purpose of buying and improving residential lots. One petitioner, United States Steel Corp., operates a "Home Division" which manufactures and assembles components of prefabricated houses; the second petitioner, the "Credit Corp.," is a wholly owned subsidiary, which provides financing to customers of the Home Division in order to promote sales. Although their common ownership and control make it appropriate to regard the two as a single seller, they sell two separate products -- prefabricated houses and credit. The credit extended to Fortner was not merely for the price of the homes. Petitioners agreed to lend Fortner over $2,000,000 in exchange for Fortner's promise to purchase the components of 210 homes for about $689,000. The additional borrowed funds were intended to cover Fortner's cost of acquiring and</p>
     <n id="p614">614</n>
     <p>developing the vacant real estate, and the cost of erecting the houses.</p>
     <p>The impact of the agreement on the market for the tied product (prefabricated houses) is not in dispute. On the one hand, there is no claim -- nor could there be that the Home Division had any dominance in the prefabricated housing business. The record indicates that it was only moderately successful, and that its sales represented a small fraction of the industry total. [<a id="nf3" href="#fn3">Footnote 3</a>] On the other hand, we have already held that the dollar value of the sales to respondent was sufficient to meet the "not insubstantial" test described in earlier cases. See 394 U.S. at <a href="../us394/us394-0495.xml#p501">394 U. S. 501</a>-502. We therefore confine our attention to the source of the tying arrangement -- petitioners' "economic power" in the credit market.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The evidence supporting the conclusion that the Credit Corp. had appreciable economic power in the credit market relates to four propositions: (1) petitioner Credit Corp. and the Home Division were owned by one of the Nation's largest corporations; (2) petitioners entered into tying arrangements with a significant number of customers in addition to Fortner; (3) the Home Division charged respondent a noncompetitive price for its prefabricated homes; and (4) the financing provided to Fortner was "unique," primarily because it covered 100% of Fortner's acquisition and development costs.</p>
     <p>The Credit Corp. was established in 1954 to provide financing for customers of the Home Division. The United States Steel Corp. not only provided the equity capital, but also allowed the Credit Corp. to use its credit in order</p>
     <n id="p615">615</n>
@@ -48,7 +48,7 @@
     <p>"that all of the required elements of an illegal tie-in agreement did exist since the tie-in itself was present, a not insubstantial amount of interstate commerce in the tied product was restrained and the Credit Corporation did possess sufficient economic power or leverage to effect such restraint."</p>
     <p>Id. at 1602.</p>
     <n id="p617">617</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>Without the finding that the financing provided to Fortner was "unique," it is clear that the District Court's findings would be insufficient to support the conclusion that the Credit Corp. possessed any significant economic power in the credit market.</p>
     <p>Although the Credit Corp. is owned by one of the Nation's largest manufacturing corporations, there is nothing in the record to indicate that this enabled it to borrow funds on terms more favorable than those available to competing lenders, or that it was able to operate more efficiently than other lending institutions. In short, the affiliation between the petitioners does not appear to have given the Credit Corp. any cost advantage over its competitors in the credit market. Instead, the affiliation was significant only because the Credit Corp. provided a source of funds to customers of the Home Division. That fact tells us nothing about the extent of petitioners' economic power in the credit market.</p>
     <p>The same may be said about the fact that loans from the Credit Corp. were used to obtain house sales from Fortner and others. In some tying situations, a disproportionately large volume of sales of the tied product resulting from only a few strategic sales of the tying product may reflect a form of economic "leverage" that is probative of power in the market for the tying product. If, as some economists have suggested, the purpose of a tie-in is often to facilitate price discrimination, such evidence would imply the existence of power that a free market would not tolerate. [<a id="nf7" href="#fn7">Footnote 7</a>] But, in this case, Fortner was only required to purchase houses for the number of lots for which it received financing. The tying product produced no commitment from Fortner to purchase varying quantities of the tied product over an extended period of time. This record, therefore, does not describe</p>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us394-0404.html" citation="394 U.S. 404" title="Federal Marine Terminals v. Burnside Shipping">
   <opinion type="Opinions &amp; Dissents">
     <n id="p404">404</n>
-    <h>U.S. Supreme Court</h>
-    <h>Federal Marine Terminals v. Burnside Shipping, <a href="./us394-0404.xml#p404">394 U.S. 404</a> (1969)</h>
-    <h>Federal Marine Terminals, Inc. v. Burnside Shipping Co., Ltd.</h>
-    <h>No. 291</h>
-    <h>Argued January 16, 1969</h>
-    <h>Decided April 1, 1969</h>
-    <h><a href="./us394-0404.xml#p404">394 U.S. 404</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SEVENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Federal Marine Terminals v. Burnside Shipping, <a href="./us394-0404.xml#p404">394 U.S. 404</a> (1969)</h1>
+    <h2>Federal Marine Terminals, Inc. v. Burnside Shipping Co., Ltd.</h2>
+    <h2>No. 291</h2>
+    <h4>Argued January 16, 1969</h4>
+    <h4>Decided April 1, 1969</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SEVENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner, Marine Terminals, was hired by its affiliate, the time charterer of respondent's ship, to continue readying the vessel, then in Chicago, for its grain cargo. While that operation (which the ship's crew had begun) was in progress, one of petitioner's employees was killed by falling into an unprotected deep tank opening. The employee's widow filed a claim under the Longshoremen's and Harbor Workers' Compensation Act, and compensation was awarded against petitioner for weekly payments, the potential total liability for which is about $70,000. As administratrix of the estate, the widow also filed a wrongful death action against respondent in the District Court, under an Illinois statute which then limited the amount recoverable to $30,000. Respondent sued Marine Terminals for indemnification for any judgment it might be required to pay in the wrongful death action, charging that petitioner's negligence had breached its warranty that services to the vessel would be performed "in a safe, workmanlike and seamanlike manner," and gave rise to an obligation to save respondent harmless from liability occasioned by the employee's death. Petitioner counterclaimed for compensation benefits paid or to be paid to the employee's dependents, alleging that respondent owed petitioner as stevedoring contractor, "the duty of providing and maintaining a safe place to work" which respondent allegedly breached by failing to protect the deep tank opening. The District Court granted respondent's motion to dismiss petitioner's counterclaim. Though it recognized the availability at common law in certain situations of a direct right over, the court concluded that petitioner's sole remedy is under § 33 of the Longshoremen's and Harbor Workers' Compensation Act, which provides that an employer paying compensation benefits to a deceased employee's representative may be subrogated to the rights of the representative against third persons. The Court of Appeals, holding the statutory remedy, in any event, exclusive, affirmed.</p>
     <p>Held:</p>
     <p>1. Nothing on the face of § 33 of the Longshoremen's and Harbor Workers' Compensation Act or in the Act's legislative history limits the employer's remedy against third persons to subrogation</p>
@@ -26,7 +26,7 @@
     <p>benefits to the representative of a deceased employee may be subrogated to the rights of the representative</p>
     <n id="p407">407</n>
     <p>against third persons. [<a id="nf2" href="#fn2">Footnote 2</a>] The question presented by this case is whether a stevedoring contractor whose longshoreman employee was killed in the course of his employment is limited to this subrogation remedy in seeking reimbursement from a shipowner on whose vessel the longshoreman met his death. Both the District Court [<a id="nf3" href="#fn3">Footnote 3</a>] and the Court of Appeals [<a id="nf4" href="#fn4">Footnote 4</a>] held that statutory subrogation is the stevedoring contractor's exclusive remedy against the shipowner, and we granted certiorari to consider this novel question under the Act. [<a id="nf5" href="#fn5">Footnote 5</a>]</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>According to the stipulation of facts, the M/V Otterburn, owned and operated by respondent Burnside Shipping Co., was under time charter to Federal Commerce and Navigation Co., a Canadian corporation affiliated with the petitioner, Federal Marine Terminals, Inc. Federal Commerce hired Marine Terminals to continue the operation, already commenced by the ship's crew, of preparing the vessel to receive a cargo of grain. While the ship was docked in Detroit, the crew had commenced installation of "grain feeders" -- walled-in structures</p>
     <n id="p408">408</n>
     <p>erected in the 'tween deck hatches to the height of the main deck hatch. After Marine Terminals had been employed to continue the work of readying the ship for its cargo, the boatswain, acting on the instructions of the ship's Chief Officer, "winged out" the deep tank lids -- that is, pulled them outboard into the wings of the 'tween deck. No railing, wire, or guard of any kind was placed around the resulting deep tank openings.</p>
@@ -48,7 +48,7 @@
     <p>This case thus presents two questions. First, does § 33 of the Act exclude whatever other rights of action the stevedoring contractor might have against the shipowner for compensation payments to an employee or his representative? Second, if statutory subrogation is not an</p>
     <n id="p412">412</n>
     <p>exclusive remedy, does the shipowner owe the stevedoring contractor any duty whose breach will give rise to a direct action? We consider these questions in order below.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The Court of Appeals was clearly mistaken in its assertion that "[t]he statutory method provides that the [stevedoring contractor] can sue only as a subrogee." [<a id="nf11" href="#fn11">Footnote 11</a>] Nothing on the face of § 33 of the Act purports to limit the employer's remedy against third persons to subrogation to the rights of the deceased employee's representative. The provision of § 33 that the employer's payment of compensation</p>
     <p>"shall operate as an assignment to the employer of all right of the legal representative of the deceased . . . to recover damages against such third person"</p>
     <p>contains no words of limitation. Congress thereby gave the employer, in return for his absolute liability to the employee's representative, part of the latter's rights against others. But the legislative grant of a new right does not ordinarily cut off or preclude other nonstatutory rights in the absence of clear language to that effect. When Congress imposed on the employer absolute liability for compensation, it explicitly made that liability exclusive. [<a id="nf12" href="#fn12">Footnote 12</a>] Yet, in the same Act, it attached</p>
@@ -57,7 +57,7 @@
     <p>Nothing in the legislative history of the Act remotely supports the construction adopted by the courts below. And we can perceive no reason why Congress would have intended so to curtail the stevedoring contractor's rights against the shipowner. The exclusivity of the statutory compensation remedy against the employer was designed to counterbalance the imposition of absolute liability; there is no comparable quid pro quo in the relationship between the employer and third persons. On the contrary, as we emphasized in Ryan Stevedoring Co. v. Pan-Atlantic S.S. Corp., <a href="../us350/us350-0124.xml#p124">350 U. S. 124</a>, the Act is concerned only with the rights and obligations as between the stevedoring contractor and the employee or his representative. It does not affect independent relationships between the stevedoring contractor and the shipowner. Neither this Court [<a id="nf13" href="#fn13">Footnote 13</a>] nor, before this case, any other</p>
     <n id="p414">414</n>
     <p>court [<a id="nf14" href="#fn14">Footnote 14</a>] has held that statutory subrogation is the employer's exclusive remedy against third party wrongdoers, and we decline to so hold today.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>We must also reject the implication of the Court of Appeals' opinion that, under federal maritime law, the shipowner owed the stevedoring contractor no duties whose breach would give rise to a direct action for damages.</p>
     <n id="p415">415</n>
     <p>As we held in Kermarec v. Compagnie Generale Transatlantiqe, <a href="../us358/us358-0625.xml#p625">358 U. S. 625</a>, <a href="../us358/us358-0625.xml#p632">358 U. S. 632</a>,</p>
@@ -72,7 +72,7 @@
     <n id="p418">418</n>
     <p>new judicial rules of contribution" between the shipowner and the stevedoring contractor as joint tortfeasors. Marine Terminals is not seeking contribution. It is not asking Burnside to share responsibility for their joint negligence with respect to McNeill. Rather, the counterclaim seeks recovery of the full amount of Marine Terminals' liability under the Act to McNeill's representative; and it is founded not on Burnside's wrong to McNeill, but on its independent wrong to Marine Terminals.</p>
     <p>We further note that, at this stage of the case, it must be assumed that Marine Terminals was faultless vis-a-vis Burnside, for the claim that Marine Terminals breached its Ryan warranty of workmanlike service has not yet been adjudicated, and is not before us. We decide nothing today with respect to the interaction between the shipowner's breach of warranty claim and the stevedoring contractor's tort claim. Marine Terminals has charged Burnside with negligence not as a defense to the latter's Ryan claim, but in a counterclaim for damages, and we have considered that claim without regard to the implications of the shipowner's countervailing cause of action. Our holding is perforce limited to a rejection of Burnside's argument that "a shipowner's tortious conduct may be used as a shield, but not as a sword."</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>In holding that the stevedoring contractor has a direct action in tort, we do not preclude the possibility of a direct action under some other theory. Marine Terminals argues in this case, for example, that, just as a stevedoring contractor impliedly warrants to a shipowner under Ryan that it will perform the stevedoring services in a workmanlike manner, so also there are reciprocal contractual warranties running from the shipowner to</p>
     <n id="p419">419</n>
     <p>the stevedoring contractor. [<a id="nf19" href="#fn19">Footnote 19</a>] Burnside counters with the observation that the stevedoring contract in this case is between Marine Terminals and its affiliate Federal Commerce, the time charterer, and that there is therefore no privity of contract between Marine Terminals and Burnside. Because the record before us contains neither the contract for stevedoring services nor the charter agreement, we cannot now assess these arguments. We do not know, for instance, whether any provisions of the time charter contain express or implied warranties which would inure to the benefit of Marine Terminals as stevedoring contractor. [<a id="nf20" href="#fn20">Footnote 20</a>]</p>

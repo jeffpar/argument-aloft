@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us422-0659.html" citation="422 U.S. 659" title="Gordon v. New York Stock Exchange, Inc.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p659">659</n>
-    <h>U.S. Supreme Court</h>
-    <h>Gordon v. New York Stock Exchange, Inc., <a href="./us422-0659.xml#p659">422 U.S. 659</a> (1975)</h>
-    <h>Gordon v. New York Stock Exchange, Inc.</h>
-    <h>No. 74-304</h>
-    <h>Argued March 25-26, 1975</h>
-    <h>Decided June 26, 1975</h>
-    <h><a href="./us422-0659.xml#p659">422 U.S. 659</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SECOND CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Gordon v. New York Stock Exchange, Inc., <a href="./us422-0659.xml#p659">422 U.S. 659</a> (1975)</h1>
+    <h2>Gordon v. New York Stock Exchange, Inc.</h2>
+    <h2>No. 74-304</h2>
+    <h4>Argued March 25-26, 1975</h4>
+    <h4>Decided June 26, 1975</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SECOND CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner, individually and on behalf of an asserted class of small investors, filed suit against respondents -- the New York Stock Exchange, the American Stock Exchange, and two member firms of the Exchanges -- claiming that the system of fixed commission rates utilized by the Exchanges at that time for transactions of less than $500,000 violated §§ 1 and 2 of the Sherman Act. The District Court and the Court of Appeals both concluded that the fixed commission rates were immunized from antitrust attack because of the authority of the Securities and Exchange Commission (SEC) under § 19(b)(9) of the Securities Exchange Act of 1934 to approve or disapprove exchange commission rates and its exercise of that power.</p>
     <p>Held: The system of fixed commission rates, which is under the active supervision of the SEC, is beyond the reach of the antitrust laws. Pp. <a href="./us422-0659.xml#p663">422 U. S. 663</a>-691.</p>
     <p>(a) The statutory provision authorizing regulation of rates, § 19(b)(9), the SEC's long regulatory practice in reviewing proposed rate changes and in making detailed studies of rates, culminating in the adoption of a rule requiring a transition to competitive rates, and continued congressional approval of the SEC's authority over rates, all show that Congress intended the Securities Exchange Act to leave the supervision of the fixing of reasonable rates to the SEC. Pp. <a href="./us422-0659.xml#p663">422 U. S. 663</a>-682.</p>
@@ -22,7 +22,7 @@
     <p>J., filed a concurring opinion, in which BRENNAN, J., joined, post, p. <a href="./us422-0659.xml#p692">422 U. S. 692</a>.</p>
     <p>MR. JUSTICE BLACKMUN delivered the opinion of the Court.</p>
     <p>This case presents the problem of reconciliation of the antitrust laws with a federal regulatory scheme in the particular context of the practice of the securities exchanges and their members of using fixed rates of commission. The United States District Court for the Southern District of New York and the United States Court of Appeals for the Second Circuit concluded that fixed commission rates were immunized from antitrust attack because of the Securities and Exchange Commission's authority to approve or disapprove exchange commission rates and its exercise of that power.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In early 1971, petitioner Richard A. Gordon, individually and on behalf of an asserted class of small investors, filed this suit against the New York Stock</p>
     <n id="p661">661</n>
     <p>Exchange, Inc. (NYSE), the American Stock Exchange, Inc. (Amex), and two member firms of the Exchanges. [<a id="nf1" href="#fn1">Footnote 1</a>] The complaint challenged a variety of exchange rules and practices and, in particular, claimed that the system of fixed commission rates, utilized by the Exchanges at that time for transactions less than $500,000, violated §§ 1 and 2 of the Sherman Act, 26 Stat. 209, as amended, 15 U.S.C. §§ 1 and 2. Other challenges in the complaint focused on (1) the volume discount on trades of over 1,000 shares, and the presence of negotiated, rather than fixed rates for transactions in excess of $500,000; [<a id="nf2" href="#fn2">Footnote 2</a>] (2) the rules limiting the number of exchange memberships; and (3) the rules denying discounted commission rates to nonmembers using exchange facilities. [<a id="nf3" href="#fn3">Footnote 3</a>]</p>
@@ -33,7 +33,7 @@
     <n id="p663">663</n>
     <p>power, the Court of Appeals determined that this case differed from Silver, and that antitrust immunity was proper.</p>
     <p>By his petition for certiorari, petitioner sought review only of the determination that fixed commission rates are beyond the reach of the antitrust laws. Because of the vital importance of the question, and at the urging of all the parties, we granted certiorari. 419 U.S. 1018 (1974).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Resolution of the issue of antitrust immunity for fixed commission rates may be made adequately only upon a thorough investigation of the practice in the light of statutory restrictions and decided cases. We begin with a brief review of the history of commission rates in the securities industry.</p>
     <p>Commission rates for transactions on the stock exchanges have been set by agreement since the establishment of the first exchange in this country. The New York Stock Exchange was formed with the Buttonwood Tree Agreement of 1792, and, from the beginning, minimum fees were set and observed by the members. That Agreement itself stated:</p>
     <p>"'We the Subscribers, Brokers for the Purchase and Sale of Public Stock, do hereby solemnly promise and pledge ourselves to each other that we will not buy or sell from this day for any person whatsoever any kind of Public Stock at a less rate than one-quarter per cent. Commission on the Specie value, and that we will give a preference to each other in our Negotiations.'"</p>
@@ -61,7 +61,7 @@
     <p>"Two types of regulation are reflected in the Act. Some provisions impose direct requirements and prohibitions. Among these are mandatory exchange registration, restrictions on broker and dealer borrowing, and the prohibition of manipulative or deceptive practices. Other provisions are flexible, and rely on the technique of self-regulation to achieve their objectives. . . . Supervised self-regulation, although consonant with the traditional private governance of exchanges, allows the Government to monitor exchange business in the public interest."</p>
     <p>The congressional reports confirm that, while the development of rules for the governing of exchanges, as enumerated in § 19(b), was left to the exchanges themselves in the first instance, the SEC could compel adoption of those changes it felt were necessary to insure fair dealing and protection of the public. See H.R.Rep. No. 1383, 73d Cong., 2d Sess., 15 (1934); S.Rep. No. 792, 73d Cong., 2d Sess., 13 (1934). The latter report, id. at 15, noted that registered exchanges were required to provide the SEC with "complete information" regarding its rules.</p>
     <n id="p668">668</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>With this legislative history in mind, we turn to the actual post-1934 experience of commission rates on the NYSE and Amex. After these two Exchanges had registered in 1934 under § 6 of the Exchange Act, 15 U.S.C. § 78f, both proceeded to prescribe minimum commission rates just as they had prior to the Act. App. A42, A216. These rates were changed periodically by the Exchanges, [<a id="nf6" href="#fn6">Footnote 6</a>] after their submission to the SEC pursuant to § 6(a)(4), 15 U.S.C. § 78f(a)(4), and SEC Rule 17a-8, 17 CFR § 240.17a-8. Although several rate changes appear to have been effectuated without comment by the SEC, in other instances the SEC thoroughly exercised its supervisory powers. Thus, for example, as early as 1958 a study of the NYSE commission rates to determine whether the rates were "reasonable and in accordance with the standards contemplated by applicable provisions of the Securities Exchange Act of 1934," was announced by the SEC. SEC Exchange Act Release No. 5678, Apr. 14, 1958, App. A240. This study resulted in an agreement by the NYSE to reduce commission rates in certain transactions, to engage in further study of the rate structure by the NYSE in collaboration with the SEC, and to provide the SEC with greater advance notice of proposed rate changes. SEC Exchange Act Release No. 5889, Feb. 20, 1959, App. A247. The SEC specifically stated that it had undertaken the study</p>
     <p>"in view of the responsibilities and duties imposed upon the Commission by Section 19(b). . . with respect to the rules of national</p>
     <n id="p669">669</n>
@@ -130,7 +130,7 @@
     <p>This lengthy history can be summarized briefly: in enacting the Securities Exchange Act of 1934, the Congress gave clear authority to the SEC to supervise exchange self-regulation with respect to the "fixing of reasonable rates of commission." Upon SEC determination that exchange rules or practices regarding commission rates required change in order to protect investors or to insure fair dealing, the SEC was authorized to</p>
     <n id="p682">682</n>
     <p>require adoption of such changes as were deemed necessary or appropriate. This legislative permission for the fixing of commission rates under the supervision of the SEC occurred seven years after this Court's decision in United States v. Trenton Potteries Co., <a href="../us273/us273-0392.xml#p392">273 U. S. 392</a> (1927), to the effect that price-fixing was a per se violation of the Sherman Act. Since the Exchange Act's adoption, and primarily in the last 15 years, the SEC has been engaged in thorough review of exchange commission rate practices. The committees of the Congress, while recently expressing some dissatisfaction with the progress of the SEC in implementing competitive rates, have generally been content to allow the SEC to proceed without new legislation. As of May 1, 1975, the SEC, by order, has abolished fixed rates. And new legislation, enacted into law June 5, 1975, codifies this result, although still permitting the SEC some discretion to reimpose fixed rates if warranted.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>This Court has considered the issue of implied repeal of the antitrust laws in the context of a variety of regulatory schemes and procedures. Certain axioms of construction are now clearly established. Repeal of the antitrust laws by implication is not favored, and not casually to be allowed. Only where there is a "plain repugnancy between the antitrust and regulatory provisions" will repeal be implied. United States v. Philadelphia National Bank, <a href="../us374/us374-0321.xml#p321">374 U. S. 321</a>, <a href="../us374/us374-0321.xml#p350">374 U. S. 350</a>-351 (1963). See also Merrill Lynch, Pierce, Fenner &amp; Smith v. Ware, 414 U.S. at <a href="../us414/us414-0117.xml#p126">414 U. S. 126</a>; Hughes Tool Co. v. Trans World Airlines, Inc., <a href="../us409/us409-0363.xml#p363">409 U. S. 363</a>, <a href="../us409/us409-0363.xml#p385">409 U. S. 385</a>-389 (1973); Carnation Co. v. Pacific Conference, <a href="../us383/us383-0213.xml#p213">383 U. S. 213</a>, <a href="../us383/us383-0213.xml#p217">383 U. S. 217</a>-218 (1966); Silver v. New York Stock Exchange, 373 U.S.</p>
     <n id="p683">683</n>
     <p>at <a href="../us373/us373-0341.xml#p357">373 U. S. 357</a>-358; United States v. Borden Co., <a href="../us308/us308-0188.xml#p188">308 U. S. 188</a>, <a href="../us308/us308-0188.xml#p198">308 U. S. 198</a>-199 (1939). See United States v. National Assn. of Securities Dealers, post at <a href="./us422-0694.xml#p719">422 U. S. 719</a>-720, <a href="./us422-0694.xml#p729">422 U. S. 729</a>-730.</p>

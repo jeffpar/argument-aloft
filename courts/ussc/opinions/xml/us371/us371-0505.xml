@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us371-0505.html" citation="371 U.S. 505" title="FTC v. Sun Oil Co.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p505">505</n>
-    <h>U.S. Supreme Court</h>
-    <h>FTC v. Sun Oil Co., <a href="./us371-0505.xml#p505">371 U.S. 505</a> (1963)</h>
-    <h>Federal Trade Commission v. Sun Oil Co.</h>
-    <h>No. 56</h>
-    <h>Argued November 15, 1962</h>
-    <h>Decided January 14, 1963</h>
-    <h><a href="./us371-0505.xml#p505">371 U.S. 505</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE FIFTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>FTC v. Sun Oil Co., <a href="./us371-0505.xml#p505">371 U.S. 505</a> (1963)</h1>
+    <h2>Federal Trade Commission v. Sun Oil Co.</h2>
+    <h2>No. 56</h2>
+    <h4>Argued November 15, 1962</h4>
+    <h4>Decided January 14, 1963</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE FIFTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondent, a refiner-supplier of its own branded gasoline, was charged with price discrimination in violation of § 2(a) of the Clayton Act, as amended by the Robinson-Patman Act, when it granted a reduction in price to one of its independently owned retail station customers, but not to others of its similarly owned station customers who were located nearby and who were shown to have been competitively harmed by the discriminatory reduction. The allowance to the favored station was given in order to enable it to meet the price reductions of a competing service station owned and operated by a retail chain selling a different brand of gasoline.</p>
     <p>Held: Respondent is not entitled under § 2(b) of the Act to the defense that its discriminatory lower price was given "in good faith to meet the equally low price of a competitor," since the competing station is not a "competitor" of respondent within the meaning of § 2(b), which contemplates that a seller may meet the lower price of its own, and not its customer's, competitor. Pp. <a href="./us371-0505.xml#p506">371 U. S. 506</a>-529.</p>
     <p>294 F.2d 465 reversed.</p>
@@ -19,7 +19,7 @@
     <p>MR. JUSTICE GOLDBERG delivered the opinion of the Court.</p>
     <p>This case grows out of a gasoline "price war" in Jacksonville, Florida. The question presented is whether a refiner-supplier of gasoline charged with the granting of a price discrimination in violation of § 2(a) of the Clayton Act, [<a id="nf1" href="#fn1">Footnote 1</a>] as amended by the Robinson-Patman Act, has available to it, under § 2(b) of the Act, [<a id="nf2" href="#fn2">Footnote 2</a>] the defense that the discriminatory lower price was given "in good faith to meet an equally low price of a competitor," when the gasoline refiner-supplier shows that it gave the discriminatory price to only one of a number of its independently owned retail station customers in a particular region in order to enable that station to meet price reductions of a competing service station owned and operated by a retail chain selling a different brand of gasoline.</p>
     <p>The Federal Trade Commission held the § 2(b) defense to be unavailable under such circumstances. 55 F.T.C. 955. The Court of Appeals for the Fifth Circuit reversed, 294 F.2d 465, and this Court granted certiorari, 368 U.S. 984, to review this difficult and important question concerning the scope and application of the § 2(b) defense.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The relevant facts are not seriously disputed.</p>
     <p>Respondent, Sun Oil Company ("Sun"), is a New Jersey corporation and a major integrated refiner and distributor of petroleum products, including gasoline. At the time of the alleged violation here in issue, Sun marketed in 18 States a single grade of gasoline sold under the tradename "Sunoco." Sun does not ordinarily sell directly to the motorist, but usually distributes its gasoline and other related products to the consuming public</p>
     <n id="p507">507</n>
@@ -47,7 +47,7 @@
     <p>discrimination otherwise illegal under § 2(a) have been shown.</p>
     <p>As indicated, the Court of Appeals assumed, as have a number of commentators on the case, [<a id="nf6" href="#fn6">Footnote 6</a>] that Super Test was an integrated supplier-retailer of gasoline. The record does not support this conclusion, however, and therefore, as the case comes to us, availability of the § 2(b) defense to Sun is determined on the assumption that Super Test was engaged solely in retail operations; similarly, since there is in the record no evidence as to Super Test's source of supply or the price at which it bought gasoline, we assume that Super Test was not the beneficiary of any enabling price cut from its own supplier. [<a id="nf7" href="#fn7">Footnote 7</a>]</p>
     <p>The precise question presented has not heretofore been resolved by this Court. The only reported judicial decision (other than that of the Court of Appeals in this case) considering the issue is a District Court opinion supporting the view of the Commission. Enterprise Industries, Inc. v. Texas Co., <a href="https://law.justia.com/cases/federal/district-courts/FSupp/136/420/1964901/">136 F. Supp. 420</a>, reversed on other grounds, 240 F.2d 457, cert. denied, 353 U.S. 965. The Commission itself has, in the past, taken a view contrary to the one urged here, but, since 1956, has been maintaining its present position.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The context in which the conflicting contentions of both the Commission and respondent Sun must first be considered is that framed by the language of the statute itself. Section 2(a) of the Clayton Act, as amended by the Robinson-Patman</p>
     <n id="p513">513</n>
     <p>Act, makes it unlawful for</p>
@@ -66,7 +66,7 @@
     <n id="p516">516</n>
     <p>retail offer. But this too extends the statute beyond its immediately apparent meaning; the language of the section contains no implication that it comprehends a two-stage price reduction effected by two separate economic units at different levels of distribution as the measure of setting the "equally low" price. [<a id="nf10" href="#fn10">Footnote 10</a>]</p>
     <p>Enough has been said to demonstrate that a reading in context of the § 2(b) proviso to give its words their normal and usual meaning strongly suggests, though it does not inexorably compel, an interpretation of the defense contrary to that urged by respondent. Moreover, the narrower interpretation of the statute is consonant with overall rationality and broader statutory consistency and purpose, and effects a result compatible with legislative history and economic reality. We now turn to consideration of such other factors.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Prior to passage of the 1936 Robinson-Patman Act, § 2 of the Clayton Act prohibited price discriminations, and allowed as one defense a demonstration that the price concession was "made in good faith to meet competition." 38 Stat. 730. Because of Congress' growing concern that this exemption was overly broad, and did not sufficiently inhibit business concentration thought to be fostered in substantial part by unwarranted price favoritism shown by suppliers to large buyers, particularly large retail chains then threatening smaller local merchants, the Robinson-Patman Act was passed to strengthen the Clayton Act prohibitions on price discrimination. See, e.g., H.R.Rep.No.2287, 74th Cong., 2d Sess. 3-6; Rowe, Price Discrimination Under the Robinson-Patman Act (1962), pp. 3-24. Not only was § 2(a) amended to eliminate certain</p>
     <n id="p517">517</n>
     <p>asserted weaknesses, but the § 2(b) proviso legitimatizing discriminations made to "meet competition" was limited to protect only discriminations made "to meet an equally low price of a competitor."</p>
@@ -74,7 +74,7 @@
     <p>"This proviso represents a contraction of an exemption now contained in section 2 of the Clayton Act which permits discriminations without limit where made in good faith to meet competition. It should be noted that, while the seller is permitted to meet local competition, it does not permit him to cut local prices until his competitor has first offered lower prices, and then he can go no further than to meet those prices. If he goes further, he must do so likewise with all his other customers, or make himself liable to all of the penalties of the act, including treble damages. In other words, the proviso permits the seller to meet the price actually previously offered by a local competitor. It permits him to go no further."</p>
     <p>H.R.Rep.No. 2287, 74th Cong., 2d Sess. 16. (Emphasis supplied.) While such language in the congressional materials suggests the reading limiting § 2(b) to the meeting of the seller's own competition, it is, of course, not conclusive, since not directed to the specific problem here presented. Neither the briefs nor the arguments of the parties nor of the amici have pointed to any more explicit congressional guide to resolution of the precise question before us. No more can be said than that there appears to be nothing in the legislative history to directly contradict what we deem to be the ordinary meaning of the statutory language, or to indicate that a different reading was specifically intended; what few guides there are support the interpretation we here adopt.</p>
     <n id="p518">518</n>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>We thus turn to the fundamental purposes of the Robinson-Patman Act and the antitrust laws in general for guidance more impressive than that found in the recited legislative history.</p>
     <p>Relying on the general purpose of the Act to protect the small independent businessman, respondent Sun argues that the statutory policy supports its price-cutting action, even though discriminatory, because that action was designed to protect and preserve a small independent businessman, McLean. It is asserted that the limited resources available to McLean bar his survival in a gasoline price war of any duration. McLean's small margin of profit, his relative inability to lower his retail price because a direct function of the price he pays his supplier, here Sun, and other factors make his continued independent existence in a present-day price war wholly dependent upon receipt of aid -- in the form of a price reduction -- from his supplier. Whatever their accuracy, these assertions ignore the other station operators -- the nearby Sun dealers competing with McLean -- who were also vitally interested in the particular competitive struggle to which Sun was moved to respond by making price concessions only to McLean. These dealers were hurt, it was found below, by Sun's discriminatory price to McLean, and this finding is not challenged here by Sun. Their sales declined appreciably after the December 27, 1955, cut in price by Sun to McLean, and, while perhaps not all of the attrition in sales was attributable to the fact that McLean was thereby enabled to drop his price, certain of the dealers were able to identify customers who, apparently retaining a preference for Sun products, shifted their patronage from the competing Sun stations to McLean.</p>
     <n id="p519">519</n>
@@ -98,7 +98,7 @@
     <p>It is argued, however, that to deny Sun the right to reduce its prices, as it did here, is to impair price flexibility and promote price rigidity, the very antithesis of competition. We think that the contrary is the case. While allowance of the discriminatory price cut here may produce localized and temporary flexibility, it inevitably encourages maintenance of the long-range and generalized price rigidity which the discrimination in fact protects. So long as the wholesaler can meet challenges to his pricing structure by wholly local and individualized responses, it has no incentive to alter its overall pricing policy. Moreover, as indicated, the large supplier's ability to "spot price" will discourage the enterprising and resourceful retailer from seeking to initiate price reductions on his own. Such reasoning may be particularly applicable in the oligopolistic environment of the oil industry. [<a id="nf12" href="#fn12">Footnote 12</a>]</p>
     <p>We see no reason to permit Sun discriminatorily to pit its greater strength at the supplier level against Super Test, which, so far as appears from the record, is able to sell its gasoline at a lower price simply because it is a more efficient merchandiser, particularly when Super Test's challenge as an "independent" may be the only meaningful source of price competition offered the "major" oil companies, of which Sun is one.</p>
     <n id="p524">524</n>
-    <h>V</h>
+    <h2>V</h2>
     <p>Respondent Sun makes several other arguments in support of its position. First, it asserts that the interpretation of § 2(b) urged here by the Commission completely ignores the competitive realities of the gasoline vending business. In essence, Sun argues that, practically viewed, Super Test was not merely a competitor of McLean, but also a competitor of Sun. Oil companies, whether major or minor, integrated or nonintegrated, it is asserted, compete not at the wholesale or jobber level, but almost exclusively at the retail level. [<a id="nf13" href="#fn13">Footnote 13</a>] All competition, Sun says, is directed to sales of the final product -- gasoline -- to the motoring consumer, and anything that threatens to reduce the sales of a branded gasoline at the retailer's pump is a threat to the supplier whose business is a direct function of its stations' marketing success or failure. It is contended that the individual station is but a "conduit" for the supplier, and that Sun is thus in competition with Super Test, considered even only as a retailer. [<a id="nf14" href="#fn14">Footnote 14</a>]</p>
     <p>In a very real sense, however, every retailer is but a "conduit" for the goods which it sells, and every supplier could, in the same sense, be considered a competitor of retailers selling competing goods. We are sure Congress had no such broad conception of competition in mind when it established the § 2(b) defense and, certainly, it</p>
     <n id="p525">525</n>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us405-0538.html" citation="405 U.S. 538" title="Lynch v. Household Finance Corp.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p538">538</n>
-    <h>U.S. Supreme Court</h>
-    <h>Lynch v. Household Finance Corp., <a href="./us405-0538.xml#p538">405 U.S. 538</a> (1972)</h>
-    <h>Lynch v. Household Finance Corp.</h>
-    <h>No. 70-5058</h>
-    <h>Argued December 7, 1971</h>
-    <h>Decided March 23, 1972</h>
-    <h><a href="./us405-0538.xml#p538">405 U.S. 538</a></h>
-    <h>APPEAL FROM THE UNITED STATES DISTRICT COURT</h>
-    <h>FOR THE DISTRICT OF CONNECTICUT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Lynch v. Household Finance Corp., <a href="./us405-0538.xml#p538">405 U.S. 538</a> (1972)</h1>
+    <h2>Lynch v. Household Finance Corp.</h2>
+    <h2>No. 70-5058</h2>
+    <h4>Argued December 7, 1971</h4>
+    <h4>Decided March 23, 1972</h4>
+    <h2>APPEAL FROM THE UNITED STATES DISTRICT COURT</h2>
+    <h2>FOR THE DISTRICT OF CONNECTICUT</h2>
+    <h2>Syllabus</h2>
     <p>Appellee Household Finance Corp. sued appellant Lynch in state court alleging nonpayment of a promissory note, and, prior to serving her with process, garnished her savings account under Connecticut law authorizing summary pre-judicial garnishment. Appellant challenged the validity of the state statutes under the Equal Protection and Due Process Clauses of the Fourteenth Amendment, and sought declaratory and injunctive relief under 42 U.S.C. § 1983 and its jurisdictional counterpart, 28 U.S.C. § 1343(3). The District Court dismissed the complaint on the grounds (1) that it lacked jurisdiction under § 1343(3), as that section applies only if "personal" rights, as opposed to "property" rights, are impaired, and (2) that relief was barred by 28 U.S.C. § 2283, proscribing injunctions against state court proceedings.</p>
     <p>Held:</p>
     <p>1. There is no distinction between personal liberties and proprietary rights with respect to jurisdiction under 28 U.S.C. § 1343(3). Pp. <a href="./us405-0538.xml#p542">405 U. S. 542</a>-552.</p>
@@ -31,7 +31,7 @@
     <p>The District Court did not reach the merits of the case. It dismissed the complaint without an evidentiary hearing on the grounds that it lacked jurisdiction under § 1343(3), and that relief was bared by the statute prohibiting injunctions against state court proceedings, 28 U.S.C. § 2283. <a href="https://law.justia.com/cases/federal/district-courts/FSupp/318/1111/1481020/">318 F. Supp. 1111</a>. We noted probable jurisdiction, pursuant to 28 U.S.C. § 1253, [<a id="nf5" href="#fn5">Footnote 5</a>] to consider the jurisdictional issues presented. 401 U.S. 935.</p>
     <n id="p542">542</n>
     <p>We hold, for the reasons that follow, that neither § 1343(3) nor § 2283 warranted dismissal of the appellant's complaint. Accordingly, we remand the case to the District Court for consideration of the remaining issues in this litigation.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In dismissing the appellant's complaint, the District Court held that § 1343(3) applies only if "personal" rights, as opposed to "property" rights, are allegedly impaired. The court relied on the decision of the Court of Appeals for the Second Circuit in Eisen v. Eastman, 421 F.2d 560, 563, which rested, in turn, on Mr. Justice Stone's well known opinion a generation ago in Hague v. CIO, <a href="../us307/us307-0496.xml#p496">307 U. S. 496</a>, <a href="../us307/us307-0496.xml#p531">307 U. S. 531</a>. See also, e.g., Weddle v. Director, 436 F.2d 342; Bussie v. Long, 383 F.2d 766; Howard v. Higgins, 379 F.2d 227.</p>
     <p>This Court has never adopted the distinction between personal liberties and proprietary rights as a guide to the contours of § 1343(3) jurisdiction. [<a id="nf6" href="#fn6">Footnote 6</a>] Today we expressly reject that distinction.</p>
     <n id="p543">543</n>
@@ -66,7 +66,7 @@
     <n id="p552">552</n>
     <p>before us presents a good example of the conceptual difficulties created by the test. [<a id="nf21" href="#fn21">Footnote 21</a>]</p>
     <p>Such difficulties indicate that the dichotomy between personal liberties and property rights is a false one. Property does not have rights. People have rights. The right to enjoy property without unlawful deprivation, no less than the right to speak or the right to travel, is, in truth, a "personal" right, whether the "property" in question be a welfare check, a home, or a savings account. In fact, a fundamental interdependence exists between the personal right to liberty and the personal right in property. Neither could have meaning without the other. That rights in property are basic civil rights has long been recognized. J. Locke, Of Civil Government 82-85 (1924); J. Adams, A Defence of the Constitutions of Government of the United States of America, in F. Coker, Democracy, Liberty, and Property 121-132 (1942); 1 W. Blackstone, Commentaries *138-140. Congress recognized these rights in 1871 when it enacted the predecessor of §§ 1983 and 1343(3). We do no more than reaffirm the judgment of Congress today.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Under 28 U.S.C. § 2283, a federal court may not</p>
     <p>"grant an injunction to stay proceedings in a State court except as expressly authorized by Act of Congress, or where necessary in aid of its jurisdiction, or to protect or effectuate its judgments."</p>
     <p>The District Court relied upon this statute as an alternative ground for the dismissal</p>

@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us409-0063.html" citation="409 U.S. 63" title="Gottschalk v. Benson">
   <opinion type="Opinions &amp; Dissents">
     <n id="p63">63</n>
-    <h>U.S. Supreme Court</h>
-    <h>Gottschalk v. Benson, <a href="./us409-0063.xml#p63">409 U.S. 63</a> (1972)</h>
-    <h>Gottschalk v. Benson</h>
-    <h>No. 71-485</h>
-    <h>Argued October 16, 1972</h>
-    <h>Decided November 20, 1972</h>
-    <h><a href="./us409-0063.xml#p63">409 U.S. 63</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT</h>
-    <h>OF CUSTOMS AND PATENT APPALS</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Gottschalk v. Benson, <a href="./us409-0063.xml#p63">409 U.S. 63</a> (1972)</h1>
+    <h2>Gottschalk v. Benson</h2>
+    <h2>No. 71-485</h2>
+    <h4>Argued October 16, 1972</h4>
+    <h4>Decided November 20, 1972</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT</h2>
+    <h2>OF CUSTOMS AND PATENT APPALS</h2>
+    <h2>Syllabus</h2>
     <p>Respondents' method for converting numerical information from binary-coded decimal numbers into pure binary numbers, for use in programming conventional general purpose digital computers, is merely a series of mathematical calculations or mental steps, and does not constitute a patentable "process" within the meaning of the Patent Act, 35 U.S.C. § 100(b). Pp. <a href="./us409-0063.xml#p64">409 U. S. 64</a>-73.</p>
     <p>___ C.C.P.A. (Pat.) ___, 441 F.2d 682, reversed.</p>
     <p>DOUGLAS, J., delivered the opinion of the Court, in which all members joined except STEWART, BLACKMUN, and POWELL, JJ., who took no part in the consideration or decision of the case.</p>
     <n id="p64">64</n>
     <p>MR. JUSTICE DOUGLAS delivered the opinion of the Court.</p>
-    <p>Respondents filed in the Patent Office an application for an invention which was described as being related "to the processing of data by program and more particularly to the programmed conversion of numerical information" in general purpose digital computers. They claimed a method for converting binary-coded decimal (BCD) numerals into pure binary numerals. The claims were not limited to any particular art or technology, to any particular apparatus or machinery, or to any particular end use. They purported to cover any use of the claimed method in a general purpose digital computer of any type. Claims 8 and 13 [<a id="nf1" href="#fn1">Footnote 1</a>] were rejected by the Patent Office but sustained by the Court of Customs and Patent Appeals, C.C.P.A. (Pat.) , 441 F.2d 682. The case is here on a petition for a writ of certiorari. 405 U.S. 915.</p>
+    <p>Respondents filed in the Patent Office an application for an invention which was described as being related "to the processing of data by program and more particularly to the programmed conversion of numerical information" in general purpose digital computers. They claimed a method for converting binary-coded decimal (BCD) numerals into pure binary numerals. The claims were not limited to any particular art or technology, to any particular apparatus or machinery, or to any particular end use. They purported to cover any use of the claimed method in a general purpose digital computer of any type. Claims 8 and 13 [<a id="nf1" href="#fn1">Footnote 1</a>] were rejected by the Patent Office but sustained by the Court of Customs and Patent Appeals, C.C.P.A. (Pat.), 441 F.2d 682. The case is here on a petition for a writ of certiorari. 405 U.S. 915.</p>
     <p>The question is whether the method described and claimed is a "process" within the meaning of the Patent Act. [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
     <n id="p65">65</n>
     <p>A digital computer, as distinguished from an analog computer, operates on data expressed in digits, solving a problem by doing arithmetic as a person would do it by head and hand. [<a id="nf3" href="#fn3">Footnote 3</a>] Some of the digits are stored as components of the computer. Others are introduced into the computer in a form which it is designed to recognize. The computer operates then upon both new and previously stored data. The general purpose computer is designed to perform operations under many different programs.</p>

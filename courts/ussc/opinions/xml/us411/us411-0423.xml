@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us411-0423.html" citation="411 U.S. 423" title="United States v. Russell">
   <opinion type="Opinions &amp; Dissents">
     <n id="p423">423</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Russell, <a href="./us411-0423.xml#p423">411 U.S. 423</a> (1973)</h>
-    <h>United States v. Russell</h>
-    <h>No. 71-1585</h>
-    <h>Argued February 27, 1973</h>
-    <h>Decided April 24, 1973</h>
-    <h><a href="./us411-0423.xml#p423">411 U.S. 423</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Russell, <a href="./us411-0423.xml#p423">411 U.S. 423</a> (1973)</h1>
+    <h2>United States v. Russell</h2>
+    <h2>No. 71-1585</h2>
+    <h4>Argued February 27, 1973</h4>
+    <h4>Decided April 24, 1973</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>An undercover narcotics agent investigating respondent and his confederates for illicitly manufacturing a drug, offered them an essential ingredient which was difficult to obtain, though legally available. After the agent had observed the process and contributed the ingredient in return for a share of the finished product, respondent was found guilty by a jury which had been given the standard entrapment instruction. The Court of Appeals reversed, concluding that there had been "an intolerable degree of governmental participation in the criminal enterprise."</p>
     <p>Held: The entrapment defense, which, as explicated in Sorrells v. United States, <a href="../us287/us287-0435.xml#p435">287 U. S. 435</a>, and Sherman v. United States, <a href="../us356/us356-0369.xml#p369">356 U. S. 369</a>, prohibits law enforcement officers from instigating criminal acts by otherwise innocent persons in order to lure them to commit crimes and punish them, did not bar the conviction of respondent in view of the evidence of respondent's involvement in making the drug before and after the agent's visits, and respondent's concession "that he may have harbored a predisposition to commit the charged offenses." Nor was the agent's infiltration of the drug-making operation of such a nature as to violate fundamental principles of due process. Pp. <a href="./us411-0423.xml#p428">411 U. S. 428</a>-436.</p>
     <p>459 F.2d 671, reversed.</p>
@@ -141,7 +141,7 @@
       <p>It is common ground that "[t]he conduct with which the defense of entrapment is concerned is the manufacturing of crime by law enforcement officials and their agents." Lopez v. United States, <a href="../us373/us373-0427.xml#p427">373 U. S. 427</a>, <a href="../us373/us373-0427.xml#p434">373 U. S. 434</a> (1963). For the Government cannot be permitted to instigate the commission of a criminal offense in order to prosecute someone for committing it. Sherman v. United States, <a href="../us356/us356-0363.xml#p363">356 U. S. 363</a>, <a href="../us356/us356-0369.xml#p372">356 U. S. 372</a> (1958). As Mr. Justice Brandeis put it, the Government "may not provoke or create a crime and then punish the criminal, its creature." Casey v. United States, <a href="../us276/us276-0413.xml#p413">276 U. S. 413</a>, <a href="../us276/us276-0413.xml#p423">276 U. S. 423</a> (1928) (dissenting opinion). It is to prevent this situation from occurring in the administration of federal criminal justice that the defense of entrapment exists. Sorrells v. United States, <a href="../us287/us287-0435.xml#p435">287 U. S. 435</a> (1932); Sherman v. United States, supra. Cf. Masciale v. United States, <a href="../us356/us356-0386.xml#p386">356 U. S. 386</a> (1958); Lopez v. United States, supra. But the Court has been sharply divided as to the proper basis, scope, and focus of the entrapment defense, and</p>
       <n id="p440">440</n>
       <p>as to whether, in the absence of a conclusive showing, the issue of entrapment is for the judge or the jury to determine.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>In Sorrells v. United States, supra, and Sherman v. United States, supra, the Court took what might be called a "subjective" approach to the defense of entrapment. In that view, the defense is predicated on an unexpressed intent of Congress to exclude from its criminal statutes the prosecution and conviction of persons, "otherwise innocent," who have been lured to the commission of the prohibited act through the Government's instigation. Sorrells v. United States, supra, at <a href="../us287/us287-0435.xml#p448">287 U. S. 448</a>. The key phrase in this formulation is "otherwise innocent," for the entrapment defense is available under this approach only to those who would not have committed the crime but for the Government's inducements. Thus, the subjective approach focuses on the conduct and propensities of the particular defendant in each individual case: if he is "otherwise innocent," he may avail himself of the defense; but if he had the "predisposition" to commit the crime, or if the "criminal design" originated with him, then -- regardless of the nature and extent of the Government's participation -- there has been no entrapment. Id. at <a href="../us287/us287-0435.xml#p451">287 U. S. 451</a>. And, in the absence of a conclusive showing one way or the other, the question of the defendant's "predisposition" to the crime is a question of fact for the jury. The Court today adheres to this approach.</p>
       <p>The concurring opinion of Mr. Justice Roberts, joined by Justices Brandeis and Stone, in the Sorrells case, and that of Mr. Justice Frankfurter, joined by Justices DOUGLAS, Harlan, and BRENNAN, in the Sherman case, took a different view of the entrapment defense. In their concept, the defense is not grounded on some unexpressed</p>
       <n id="p441">441</n>
@@ -170,7 +170,7 @@
       <p>This does not mean, of course, that the Government's use of undercover activity, strategy, or deception is necessarily unlawful. Lewis v. United States, <a href="../us385/us385-0206.xml#p206">385 U. S. 206</a>, <a href="../us385/us385-0206.xml#p208">385 U. S. 208</a>-209 (1966). Indeed, many crimes, especially so-called victimless crimes, could not otherwise be detected. Thus, government agents may engage in conduct that is likely, when objectively considered, to afford a person ready and willing to commit the crime an opportunity to do so. Osborn v. United States, <a href="../us385/us385-0323.xml#p323">385 U. S. 323</a>, <a href="../us385/us385-0323.xml#p331">385 U. S. 331</a>-332 (1966). See also Sherman v. United States, supra, at <a href="../us356/us356-0369.xml#p383">356 U. S. 383</a>-384 (Frankfurter, J., concurring).</p>
       <p>But when the agents' involvement in criminal activities goes beyond the mere offering of such an opportunity, and when their conduct is of a kind that could induce or instigate the commission of a crime by one not ready and willing to commit it, then -- regardless of the character or propensities of the particular person induced -- I think entrapment has occurred. For in that situation, the Government has engaged in the impermissible manufacturing of crime, and the federal courts should bar the prosecution in order to preserve the institutional integrity of the system of federal criminal justice. [Footnote 2/3]</p>
       <n id="p446">446</n>
-      <h>II</h>
+      <h2>II</h2>
       <p>In the case before us, I think that the District Court erred in submitting the issue of entrapment to the jury with instructions to acquit only if it had a reasonable doubt as to the respondent's predisposition to committing the crime. Since, under the objective test of entrapment, predisposition is irrelevant and the issue is to be decided by the trial judge, the Court of Appeals, I believe, would have been justified in reversing the conviction on this basis alone. But since the appellate court did not remand for consideration of the issue by the District Judge under an objective standard, but rather found entrapment as a matter of law and directed that the indictment be dismissed, we must reach the merits of the respondent's entrapment defense.</p>
       <p>Since, in my view, it does not matter whether the respondent was predisposed to commit the offense of which he was convicted, the focus must be, rather, on the conduct of the undercover government agent. What the agent did here was to meet with a group of suspected producers of methamphetamine, including the respondent; to request the drug; to offer to supply the chemical phenyl-2-propanone in exchange for one-half of the methamphetamine to be manufactured therewith; and, when that offer was accepted, to provide the needed chemical ingredient and to purchase some of the drug from the respondent.</p>
       <n id="p447">447</n>

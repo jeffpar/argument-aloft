@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us604-23-852.html" citation="604 U.S. 23-852" title="Bondi v. Vanderstok">
   <opinion type="Opinion" author="Gorsuch">
     <p>NOTICE: This opinion is subject to formal revision before publication in the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, pio@supremecourt.gov, of any typographical or other formal errors.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 23–852</p>
-    <p>_________________</p>
     <p>PAMELA BONDI, ATTORNEY GENERAL, et al., PETITIONERS v. JENNIFER VANDERSTOK, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the fifth circuit</p>
     <p>[March 26, 2025]</p>
@@ -59,7 +58,7 @@
     <p>A</p>
     <p>Working with another example drawn from the record helps illustrate why this is so. The first photograph below depicts the complete frame of a Glock-variant firearm, the second a partially complete frame that Polymer80 sells.</p>
     <p>App. 259, 263.</p>
-    <p>The main differences between the completed frame and Polymer80’s product are the plastic tabs circled in red. Brief for Petitioners 34–35. The record suggests that those tabs “are easily removable by a person with novice skill, using common tools . . . , within minutes.” App. 262. Once the tabs are gone and a “few holes are drilled for the pins that hold [other] parts in place—again, a task that anyone can complete in minutes—the Polymer80 product is a fully functional frame.” Brief for Petitioners 35.</p>
+    <p>The main differences between the completed frame and Polymer80’s product are the plastic tabs circled in red. Brief for Petitioners 34–35. The record suggests that those tabs “are easily removable by a person with novice skill, using common tools . . ., within minutes.” App. 262. Once the tabs are gone and a “few holes are drilled for the pins that hold [other] parts in place—again, a task that anyone can complete in minutes—the Polymer80 product is a fully functional frame.” Brief for Petitioners 35.</p>
     <p>A number of reasons persuade us that this qualifies as a “frame” for purposes of subsection (B). First, like the word “weapon” in subsection (A), the terms “frame” and “receiver” in subsection (B) are artifact nouns. And, as artifact nouns, they may sometimes describe not-yet-complete objects. Recall the author who refers to her manuscript as a novel, or your friend who calls his IKEA kit a table. In much the same way, an ordinary speaker might well call Polymer80’s product a firearm “frame,” even though a little work is required to complete it. Just look again at the second photo. What else would you call it?</p>
     <p>Next, consider how the GCA uses the words “frame” and “receiver” elsewhere. Section 923(i) spells out the Act’s serialization mandate. It requires those who make or sell “firearms” to identify their products “by means of a serial number engraved or cast on the receiver or frame.” Though this directive may seem simple enough, it is complicated by the fact that the statutory definition of “firearm” includes some incomplete “weapon[s],” “muffler[s],” “silencer[s],” and “destructive device[s].” §921(a)(3). Sometimes, those items lack a finished or prototypical firearm frame or receiver. Yet, all the same, §923(i) treats them as “firearms” that must have a serial number engraved or cast on their “frame[s]” or “receiver[s].” And if the words “frame” and “receiver” encompass some unfinished and unconventional frames or receivers in §923(i), it is hard to see how those same words might bear a more restrictive meaning when they appear just a few sections away in §921(a)(3)(B). See Azar v. Allina Health Services, 587 U.S. 566, 574 (2019) (recounting the usual rule that a word carries the same meaning throughout a single statute); post, at 18 (Thomas, J., dissenting) (admitting that a contrary interpretation requires giving the terms “frame” and “receiver” different meanings in different places).</p>
     <p>Here, too, examples help. Imagine a handgun that is otherwise ready to shoot, but contains Polymer80’s incomplete frame. An ordinary person, using ordinary tools, can finish the frame in minutes. App. 262. For reasons explored in Part II, supra, that gun is a weapon capable of ready conversion into a working firearm under subsection (A). So §923(i) requires the gun’s “frame”—the very item that isn’t fully finished—to bear a serial number. Along similar lines, consider silencers. They lack traditional frames, but §923(i) requires manufacturers and importers to serialize them. To accommodate that instruction, ATF has long deemed the “outer tube . . . that provides housing or a structure for the primary internal component” to be a silencer’s “frame or receiver.” 27 CFR §478.12(b); accord, §478.92(a)(4)(ii) (supplying directions for “destructive devices”). In all these ways and more, §923(i) uses the phrase “frame or receiver” to reach some unfinished and unconventional frames and receivers, making it only sensible to think the same phrase does the same work a few doors away in §921(a)(3)(B).</p>
@@ -85,9 +84,7 @@
   </opinion>
   <opinion type="Concurrence" author="Sotomayor">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 23–852</p>
-    <p>_________________</p>
     <p>PAMELA BONDI, ATTORNEY GENERAL, et al., PETITIONERS v. JENNIFER VANDERSTOK, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the fifth circuit</p>
     <p>[March 26, 2025]</p>
@@ -99,9 +96,7 @@
   </opinion>
   <opinion type="Concurrence" author="Kavanaugh">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 23–852</p>
-    <p>_________________</p>
     <p>PAMELA BONDI, ATTORNEY GENERAL, et al., PETITIONERS v. JENNIFER VANDERSTOK, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the fifth circuit</p>
     <p>[March 26, 2025]</p>
@@ -114,9 +109,7 @@
   </opinion>
   <opinion type="Concurrence" author="Jackson">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 23–852</p>
-    <p>_________________</p>
     <p>PAMELA BONDI, ATTORNEY GENERAL, et al., PETITIONERS v. JENNIFER VANDERSTOK, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the fifth circuit</p>
     <p>[March 26, 2025]</p>
@@ -126,9 +119,7 @@
   </opinion>
   <opinion type="Dissent" author="Thomas">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 23–852</p>
-    <p>_________________</p>
     <p>PAMELA BONDI, ATTORNEY GENERAL, et al., PETITIONERS v. JENNIFER VANDERSTOK, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the fifth circuit</p>
     <p>[March 26, 2025]</p>
@@ -230,9 +221,7 @@
   </opinion>
   <opinion type="Dissent" author="Alito">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 23–852</p>
-    <p>_________________</p>
     <p>PAMELA BONDI, ATTORNEY GENERAL, et al., PETITIONERS v. JENNIFER VANDERSTOK, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the fifth circuit</p>
     <p>[March 26, 2025]</p>

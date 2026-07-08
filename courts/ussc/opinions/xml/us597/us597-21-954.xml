@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us597-21-954.html" citation="597 U.S. 21-954" title="Biden v. Texas">
   <opinion type="Opinion" author="Roberts">
     <p>NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 21–954</p>
-    <p>_________________</p>
     <p>JOSEPH R. BIDEN, JR., PRESIDENT OF THE UNITED STATES, et al., PETITIONERS v. TEXAS, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the fifth circuit</p>
     <p>[June 30, 2022]</p>
@@ -82,9 +81,7 @@
   </opinion>
   <opinion type="Concurrence" author="Kavanaugh">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 21–954</p>
-    <p>_________________</p>
     <p>JOSEPH R. BIDEN, JR., PRESIDENT OF THE UNITED STATES, et al., PETITIONERS v. TEXAS, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the fifth circuit</p>
     <p>[June 30, 2022]</p>
@@ -103,9 +100,7 @@
   </opinion>
   <opinion type="Dissent" author="Alito">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 21–954</p>
-    <p>_________________</p>
     <p>JOSEPH R. BIDEN, JR., PRESIDENT OF THE UNITED STATES, et al., PETITIONERS v. TEXAS, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the fifth circuit</p>
     <p>[June 30, 2022]</p>
@@ -136,7 +131,7 @@
     <p>A</p>
     <p>As described above, the INA gives DHS three options regarding the treatment of the aliens in question while they await removal or asylum proceedings. They may be (1) detained in this country or (2) returned to Mexico or (3) paroled on a case-by-case basis. Congress has provided no fourth option, but the majority now creates one. According to the majority, an alien who cannot be detained due to a shortage of detention facilities but could be returned to Mexico may simply be released. That is wrong.</p>
     <p>1</p>
-    <p>The language of 8 U. S. C. §1225(b)(2)(A) is unequivocal. With narrow exceptions that are inapplicable here,[<a id="nf3-4" href="#fn3-4">4</a>] it provides that every alien “who is an applicant for admission” and who “the examining immigration officer determines . . . is not clearly and beyond a doubt entitled to be admitted . . . shall be detained for a [removal] proceeding.” (Emphasis added.) Six years ago, the Government argued strenuously that this requirement is mandatory, and its brief could hardly have been more categorical or emphatic in making this point. See Brief for Petitioners in Jennings v. Rodriguez, O. T. 2017, No. 15–1204, p. 15 (“Aliens seeking admission who are not ‘clearly and beyond a doubt entitled to be admitted’ are statutorily prohibited from physically entering the United States and must be detained during removal proceedings . . . , unless the Secretary exercises his discretion to release them on parole”); id., at 17 (“Unlike the word ‘may,’ which implies discretion, the word ‘shall’ usually connotes a requirement. And here, the repeated ‘shall be detained’ clearly means what it says” (internal quotation marks and citations omitted)).</p>
+    <p>The language of 8 U. S. C. §1225(b)(2)(A) is unequivocal. With narrow exceptions that are inapplicable here,[<a id="nf3-4" href="#fn3-4">4</a>] it provides that every alien “who is an applicant for admission” and who “the examining immigration officer determines . . . is not clearly and beyond a doubt entitled to be admitted . . . shall be detained for a [removal] proceeding.” (Emphasis added.) Six years ago, the Government argued strenuously that this requirement is mandatory, and its brief could hardly have been more categorical or emphatic in making this point. See Brief for Petitioners in Jennings v. Rodriguez, O. T. 2017, No. 15–1204, p. 15 (“Aliens seeking admission who are not ‘clearly and beyond a doubt entitled to be admitted’ are statutorily prohibited from physically entering the United States and must be detained during removal proceedings . . ., unless the Secretary exercises his discretion to release them on parole”); id., at 17 (“Unlike the word ‘may,’ which implies discretion, the word ‘shall’ usually connotes a requirement. And here, the repeated ‘shall be detained’ clearly means what it says” (internal quotation marks and citations omitted)).</p>
     <p>The Jennings Court correctly accepted that argument, which was central to our holding. See 583 U. S., at ___ (slip op., at 13) (“Read most naturally, §§1225(b)(1) and (b)(2) thus mandate detention of applicants for admission until certain proceedings have concluded”). But now, in an about-face, the Government argues that “shall be detained” actually means “may be detained.” See Brief for Petitioners 29 (“[T]he Court will not construe a provision stating that law enforcement ‘shall’ take some action as a ‘true mandate’ absent ‘some stronger indication from the . . . Legislature’ ”).</p>
     <p>The Government was correct in Jennings and is wrong here. “[S]hall be detained” means “shall be detained.” The Government points out that it lacks the facilities to detain all the aliens in question, and no one questions that fact. But use of the contiguous-return authority would at least reduce the number of aliens who are released in violation of the INA’s command. The District Court made a factual finding that rescinding MPP would cause additional violations of Congress’s unambiguous detention mandate. 554 F. Supp. 3d, at 851–852. It also found that “the termination of MPP has contributed to the current border surge” by giving aliens the “perverse incentiv[e],” id., at 837, App. 196, to cross the border illegally in hopes of being paroled and released. Id., at 79. Thus, the Government is failing to meet the statutory detention mandate, not only because of limitations on its detention capacity but also because it refuses to use the contiguous-territory return authority.</p>
     <p>Other than the argument that “shall” means “may,” the Government’s only other textual argument is that it is paroling aliens “on a case-by-case basis for urgent humanitarian reasons or significant public benefit,” as permitted under §1182(d)(5)(A). But the number of aliens paroled each month under that provision—more than 27,000 in April of this year[<a id="nf3-5" href="#fn3-5">5</a>]—gives rise to a strong inference that the Government is not really making these decisions on a case-by-case basis. The Government argues that respondents had the burden to show that it is not making case-by-case determinations and that they have not met that burden, see Brief for Petitioners 34, but information about the true nature of these proceedings is in the Government’s possession, and it has revealed little about what actually takes place. At argument, however, the Solicitor General argued that the case-by-case determination requirement can be met simply by going through a brief checklist for each alien. See Tr. of Oral Arg. 58–60. Even the rudimentary step of verifying that an alien does not have a criminal record is not performed in every case. Id., at 31. Such procedures are inconsistent with the ordinary meaning of “case-by-case” review, and as the Court of Appeals pointed out, the circumstances under which §1182(d)(5)(B)) was adopted bolster that conclusion. See 20 F. 4th, at 947 (After “the executive branch on multiple occasions purported to use the parole power to bring in large groups of immigrants,” “Congress twice amended 8 U. S. C. §1182(d)(5) to limit the scope of the parole power and prevent the executive branch from using it as a programmatic policy tool” (citing T. Aleinikoff et al., Immigration and Citizenship: Process and Policy 300 (9th ed. 2021))).</p>
@@ -175,9 +170,7 @@
   </opinion>
   <opinion type="Dissent" author="Barrett">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 21–954</p>
-    <p>_________________</p>
     <p>JOSEPH R. BIDEN, JR., PRESIDENT OF THE UNITED STATES, et al., PETITIONERS v. TEXAS, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the fifth circuit</p>
     <p>[June 30, 2022]</p>

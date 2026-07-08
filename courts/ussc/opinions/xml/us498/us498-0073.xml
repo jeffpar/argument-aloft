@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us498-0073.html" citation="498 U.S. 73" title="Arcadia, Ohio v. Ohio Power Co.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p73">73</n>
-    <h>U.S. Supreme Court</h>
-    <h>Arcadia, Ohio v. Ohio Power Co., <a href="./us498-0073.xml#p73">498 U.S. 73</a> (1990)</h>
-    <h>Arcadia, Ohio v. Ohio Power Company</h>
-    <h>No. 89-1283</h>
-    <h>Argued Oct. 1, 1990</h>
-    <h>Decided Nov. 27, 1990</h>
-    <h><a href="./us498-0073.xml#p73">498 U.S. 73</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE DISTRICT OF COLUMBIA CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Arcadia, Ohio v. Ohio Power Co., <a href="./us498-0073.xml#p73">498 U.S. 73</a> (1990)</h1>
+    <h2>Arcadia, Ohio v. Ohio Power Company</h2>
+    <h2>No. 89-1283</h2>
+    <h4>Argued Oct. 1, 1990</h4>
+    <h4>Decided Nov. 27, 1990</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE DISTRICT OF COLUMBIA CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondent Ohio Power Co. is subject to the overlapping regulatory jurisdiction of the Securities and Exchange Commission (SEC) under the Public Utility Holding Company Act (PUHCA) and the Federal Energy Regulatory Commission (FERC) under the Federal Power Act (FPA). In a series of orders authorizing Ohio Power to establish and capitalize an affiliate to secure and develop a reliable source of coal, the SEC specified that the price Ohio Power paid for such coal could be no greater than (and, in one order, equal to) the affiliate's actual costs. Subsequently, FERC declared coal charges complying with this specification unreasonable, and thus unrecoverable in Ohio Power's rates to its wholesale customers, including petitioner municipalities, rejecting Ohio Power's argument that the SEC, by the above-mentioned orders, had "approved" the affiliate's charges, and that § 318 of the FPA ousts FERC of jurisdiction. The Court of Appeals reversed, holding FERC's disallowance of the charges to be precluded by § 318, which is captioned "Conflict of jurisdiction," and which provides that</p>
-    <p>"[i]f, with respect to the issue, sale, or guaranty of a, security, or assumption of obligation or liability in respect of a security, the method of keeping accounts, the filing of reports, or the acquisition or disposition of any security, capital assets, facilities, or any other subject matter, any person is subject both to a requirement of [PUHCA] and to a requirement of [the FPA], the [PUHCA] requirement . . . shall apply . . . , and such person shall not be subject to the [FPA] requirement . . . with respect to the same subject matter. . . ."</p>
+    <p>"[i]f, with respect to the issue, sale, or guaranty of a, security, or assumption of obligation or liability in respect of a security, the method of keeping accounts, the filing of reports, or the acquisition or disposition of any security, capital assets, facilities, or any other subject matter, any person is subject both to a requirement of [PUHCA] and to a requirement of [the FPA], the [PUHCA] requirement . . . shall apply . . ., and such person shall not be subject to the [FPA] requirement . . . with respect to the same subject matter. . . ."</p>
     <p>(Emphasis added.)</p>
     <p>Held:</p>
     <p>1. Section 318 has no application to this case. The phrase "or any other subject matter" does not, as the lower court assumed, parallel the other listed subjects "with respect to [which]" duplicative agency requirements will trigger the preemption rule. Rather, it is part of the phrase that reads "the acquisition or disposition of any security, capital assets, facilities, or any other subject matter." Besides being more faithful to the precise words of the text, this reading allows § 318 to take on a shape that gives meaning to what otherwise seems a random listing of specific subject matters (with "any other subject matter" tagged on at the end). The section addresses conflicts of jurisdiction within four</p>
@@ -25,7 +25,7 @@
     <n id="p75">75</n>
     <p>Justice SCALIA delivered the opinion of the Court.</p>
     <p>This case concerns the interpretation of § 318 of the Federal Power Act, as added, 49 Stat. 863, 16 U.S.C. § 825q, entitled "Conflict of jurisdiction," which governs certain overlapping responsibilities of the Federal Energy Regulatory Commission (FERC) and the Securities and Exchange Commission (SEC) in the regulation of power companies under the Public Utility Act of 1935, 49 Stat. 803.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The Public Utility Act subjects some companies that transmit and distribute electric power to overlapping regulatory jurisdiction of both the SEC and of FERC, successor to the Federal Power Commission (FPC). Title I, known as the Public Utility Holding Company Act (PUHCA), 49 Stat. 803, gives the SEC jurisdiction over certain transactions among registered public utility holding companies and their subsidiaries and affiliates. Title II, the Federal Power Act (FPA), 49 Stat. 838, gives FERC jurisdiction over the transmission and sale at wholesale of electric power in interstate commerce. FERC-regulated electric power companies that are subsidiaries or affiliates of registered public utility holding companies are therefore subject to SEC regulation as well. Respondent Ohio Power, part of the American Electric Power system (AEP), is one such company; petitioners are 15 small Ohio villages and cities that are AEP's wholesale customers.</p>
     <p>The dispute in this case begins in a series of orders issued by the SEC in the 1970's, authorizing Ohio Power to establish</p>
     <n id="p76">76</n>
@@ -34,7 +34,7 @@
     <n id="p77">77</n>
     <p>calculated to recover from its customers no more than the comparable market price for coal, and to refund prior overcharges. The agency rejected Ohio Power's argument that the SEC, by the above-mentioned orders, had "approved" the coal charges by SOCCO, and that § 318 of the FPA ousts FERC of jurisdiction to regulate the same "subject matter" by declaring those charges unreasonable, and thus unrecoverable in Ohio Power's wholesale rates. Ohio Power Co., 39 FERC � 61,098 (1987).</p>
     <p>The United States Court of Appeals for the District of Columbia Circuit reversed, holding FERC's disallowance of the charges to be precluded by § 318. Ohio Power Co. v. FERC, 279 U.S.App.D.C. 327, 880 F.2d 1400 (1989). We granted certiori. 494 U.S. (1990).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>As decided by the Court of Appeals, and as argued here, two questions were presented in this case: (1) whether § 318 bars all FERC regulation of a subject matter regulated by the SEC, or only such regulation as actually imposes a conflicting requirement; and (2) if an actual conflict is prerequisite, whether it exists here. In our view, however, there is another question antecedent to these and ultimately dispositive of the present dispute: whether the SEC and FERC orders before us impose requirements with respect to a subject matter that is within the scope of § 318. We believe they do not.</p>
     <p>Section 318 provides as follows:</p>
     <p>"Conflict of jurisdiction."</p>
@@ -61,7 +61,7 @@
     <p>exist be one of those specifically enumerated, and not some different, more general "other subject matter" -- such as what the Court of Appeals relied upon, "[t]he price term of sales contracts between associated companies," 279 U.S.App.D.C. at 333, 880 F.2d at 1406. In the context of the present case, the only enumerated subject matter conceivably pertinent is contained within what we have referred to as the fourth category. To prevail under § 318, respondent would have to establish that it has been subjected both to a SEC requirement under PUHCA and to a FERC requirement under the FPA, "with respect to . . . the acquisition or disposition of any security, capital assets, facilities, or any other subject matter." The acquisition of SOCCO by Ohio Power might fit the quoted description, so that requirements in the SEC orders might qualify; but it is impossible to identify any FERC requirement that is imposed (as § 318 demands) "with respect to the same subject matter." One might say, we suppose, that a FERC rate requirement is imposed "with respect to the disposition" of electric power -- though it does some violence to the interpretive rule of ejusdem generis to say that electric power qualifies as an "other subject matter" at the end of a list that includes securities, capital assets and facilities, see, e.g., Harrison v. PPG Industries, Inc., <a href="../us446/us446-0578.xml#p578">446 U. S. 578</a>, <a href="../us446/us446-0578.xml#p588">446 U. S. 588</a> (1980); id. at <a href="../us446/us446-0578.xml#p601">446 U. S. 601</a> (REHNQUIST, J., dissenting); Third National Bank in Nashville</p>
     <n id="p85">85</n>
     <p>v. Impac Limited, Inc., <a href="../us432/us432-0312.xml#p312">432 U. S. 312</a>, <a href="../us432/us432-0312.xml#p322">432 U. S. 322</a> (1977). But even if one accepts that FERC's rate order is a requirement qualifying under § 318, it is still a requirement with respect to a different subject matter from (and not, as § 318 requires, "with respect to the same subject matter" as) the acquisition of SOCCO. The combination of SEC requirements with respect to the acquisition of SOCCO and FERC requirements with respect to the disposition of electric power would not bring § 318 into play. [<a id="nf3" href="#fn3">Footnote 3</a>]</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Our conclusion that § 318 has no application to this case does not end review of the FERC order. Remaining to be resolved is the alternate ground relied upon by Judge Mikva's concurrence in the Court of Appeals, Ohio Power Co. v. FERC, 279 U.S.App.D.C. at 337, 880 F.2d at 1410 -- namely, the argument that FERC's decision violates its own regulation, which provides that, where the price of fuel purchased from an affiliate "is subject to the jurisdiction of a regulatory body, such cost shall be deemed to be reasonable and includable" in wholesale rates. 18 CFR § 35.14(a)(7) (1990). Also available, and unresolved by the Court of Appeals, is the argument that the FERC-prescribed rate is not "just and reasonable" because it "traps" costs which the government itself has approved -- disregarding a governmental assurance, possibly implicit in the SEC approvals, that Ohio Power will be permitted to recoup the cost of acquiring and operating SOCCO. Cf. Nantahala Power &amp; Light Co. v. Thornburg, <a href="../us476/us476-0953.xml#p953">476 U. S. 953</a> (1986). We express no view on these questions, and leave them to be resolved by the Court of Appeals.</p>
     <n id="p86">86</n>
     <p>The judgment is reversed, and the case remanded for further proceedings consistent with this opinion.</p>

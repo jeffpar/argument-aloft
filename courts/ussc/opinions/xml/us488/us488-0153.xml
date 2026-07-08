@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us488-0153.html" citation="488 U.S. 153" title="Beech Aircraft Corp. v. Rainey">
   <opinion type="Opinions &amp; Dissents">
     <n id="p153">153</n>
-    <h>U.S. Supreme Court</h>
-    <h>Beech Aircraft Corp. v. Rainey, <a href="./us488-0153.xml#p153">488 U.S. 153</a> (1988)</h>
-    <h>Beech Aircraft Corporation v. Rainey</h>
-    <h>No. 87-981</h>
-    <h>Argued October 4, 1988</h>
-    <h>Decided December 12, 1988<a href="./us488-0153.xml#p153">488 U.S. 153</a>ast|&gt;*</h>
-    <h><a href="./us488-0153.xml#p153">488 U.S. 153</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE ELEVENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Beech Aircraft Corp. v. Rainey, <a href="./us488-0153.xml#p153">488 U.S. 153</a> (1988)</h1>
+    <h2>Beech Aircraft Corporation v. Rainey</h2>
+    <h2>No. 87-981</h2>
+    <h4>Argued October 4, 1988</h4>
+    <h4>Decided December 12, 1988<a href="./us488-0153.xml#p153">488 U.S. 153</a>ast|&gt;*</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE ELEVENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondents' spouses, a Navy flight instructor and her student, were killed when, during training exercises, their Navy aircraft banked sharply to avoid another plane, lost altitude, and crashed. At the trial of respondents' product liability suit against petitioners, the companies which manufactured and serviced the plane in question, the only seriously disputed issue was whether the crash was caused by pilot error or equipment malfunction. Having previously determined that a Navy investigative report of the incident (the JAG Report or Report) was sufficiently trustworthy to be admissible, the District Court admitted, over respondents' objections, most of the Report's "opinions," including a statement suggesting that pilot error was the most probable cause of the accident. Moreover, after respondent Rainey, who was himself a Navy flight instructor, admitted on direct examination as an adverse witness that he had made certain statements arguably supporting a pilot error theory in a detailed letter in which he took issue with some of the JAG Report's findings, his counsel attempted to ask him on cross-examination whether the letter did not also say that the most probable primary cause of the mishap was a loss of power due to equipment malfunction. However, before Rainey could answer, the court sustained a defense objection on the ground that the question asked for Rainey's opinion, and cut off further questioning along this line. After the jury returned a verdict for petitioners, the Court of Appeals reversed and remanded for a new trial. The court held itself bound by Smith v. Ithaca Corp., 612 F.2d 215 (CA5), such that Federal Rule of Evidence 803(8)(C) -- which excepts from the hearsay rule "public records and reports" setting forth "factual findings resulting from an investigation made pursuant to authority granted by law, unless the sources of information or other circumstances indicate lack of trustworthiness" -- did not encompass the JAG Report's evaluative conclusions or opinions. The court also held that Federal Rule of Evidence 106 forbade the trial court to prohibit cross-examination about additional portions of Rainey's letter which would</p>
     <n id="p154">154</n>
     <p>have put in context the admissions elicited from him on direct examination. On rehearing en banc, the Court of Appeals did not disturb the panel's judgment.</p>
@@ -27,7 +27,7 @@
     <n id="p156">156</n>
     <p>JUSTICE BRENNAN delivered the opinion of the Court.</p>
     <p>In this case, we address a longstanding conflict among the federal courts of appeals over whether Federal Rule of Evidence 803(8)(C), which provides an exception to the hearsay rule for public investigatory reports containing "factual findings," extends to conclusions and opinions contained in such reports. We also consider whether, on the facts of this case, the trial court abused its discretion in refusing to admit, on cross-examination, testimony intended to provide a more complete picture of a document about which the witness had testified on direct.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>This litigation stems from the crash of a Navy training aircraft at Middleton Field, Alabama, on July 13, 1982, which took the lives of both pilots on board, Lieutenant Commander Barbara Ann Rainey and Ensign Donald Bruce Knowlton. The accident took place while Rainey, a Navy flight instructor, and Knowlton, her student, were flying "touch-and-go" exercises in a T-34C Turbo-Mentor aircraft, number 3E955. Their aircraft and several others flew in an oval pattern, each plane making successive landing/takeoff maneuvers on the runway. Following its fourth pass at the runway, 3E955 appeared to make a left turn prematurely, cutting out the aircraft ahead of it in the pattern and threatening a collision. After radio warnings from two other pilots, the plane banked sharply to the right in order to avoid the other aircraft. At that point, it lost altitude rapidly, crashed, and burned.</p>
     <p>Because of the damage to the plane and the lack of any survivors, the cause of the accident could not be determined with certainty. The two pilots' surviving spouses brought a product liability suit against petitioners Beech Aircraft Corporation, the plane's manufacturer, and Beech Aerospace Services, which serviced the plane under contract with the Navy. [<a id="nf1" href="#fn1">Footnote 1</a>] The plaintiffs alleged that the crash had been</p>
     <n id="p157">157</n>
@@ -60,7 +60,7 @@
     <n id="p161">161</n>
     <p>to have prohibited cross-examination about additional portions of Rainey's letter which would have put in context the admissions elicited from him on direct. [<a id="nf5" href="#fn5">Footnote 5</a>]</p>
     <p>On rehearing en banc, the Court of Appeals divided evenly on the question of Rule 803(8)(C). 827 F.2d 1498 (CA11 1987). It therefore held that Smith was controlling, and consequently reinstated the panel judgment. On the Rule 106 question, the court unanimously reaffirmed the panel's decision that Rule 106 (or alternatively Rule 801(d)(1)(B)) required reversal. We granted certiorari to consider both issues. 485 U.S. 903 (1988).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Federal Rule of Evidence 803 provides that certain types of hearsay statements are not made excludable by the hearsay rule, whether or not the declarant is available to testify. Rule 803(8) defines the "public records and reports" which are not excludable, as follows:</p>
     <p>"Records, reports, statements, or data compilations, in any form, of public offices or agencies, setting forth (A) the activities of the office or agency, or (B) matters observed pursuant to duty imposed by law as to which matters there was a duty to report, . . . or (C) in civil actions and proceedings and against the Government in criminal cases, factual findings resulting from an investigation made pursuant to authority granted by law, unless the sources of information or other circumstances indicate lack of trustworthiness."</p>
     <p>Controversy over what "public records and reports" are made not excludable by Rule 803(8)(C) has divided the federal courts from the beginning. In the present case, the Court of Appeals followed the "narrow" interpretation of Smith v. Ithaca Corp., supra, at 220-223, which held that the</p>
@@ -99,7 +99,7 @@
     <p>A broad approach to admissibility under Rule 803(8)(C), as we have outlined it, is also consistent with the Federal Rules' general approach of relaxing the traditional barriers to "opinion" testimony. Rules 702-705 permit experts to testify in the form of an opinion, and without any exclusion of opinions on "ultimate issues." And Rule 701 permits even a lay witness to testify in the form of opinions or inferences drawn from her observations when testimony in that form will be helpful to the trier of fact. We see no reason to strain to reach an interpretation of Rule 803(8)(C) that is contrary to the liberal thrust of the Federal Rules. [<a id="nf12" href="#fn12">Footnote 12</a>]</p>
     <n id="p170">170</n>
     <p>We hold, therefore, that portions of investigatory reports otherwise admissible under Rule 803(8)(C) are not inadmissible merely because they state a conclusion or opinion. As long as the conclusion is based on a factual investigation and satisfies the Rule's trustworthiness requirement, it should be admissible along with other portions of the report. [<a id="nf13" href="#fn13">Footnote 13</a>] As the trial judge in this case determined that certain of the JAG Report's conclusions were trustworthy, he rightly allowed them to be admitted into evidence. We therefore reverse the judgment of the Court of Appeals in respect of the Rule 803(8)(C) issue.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Respondents also contended on appeal that reversal was required because the District Court improperly restricted the cross-examination of plaintiff Rainey by his own counsel in regard to the letter Rainey had addressed to Lieutenant Commander Morgan. We agree with the unanimous holding of the Court of Appeals en banc that the District Court erred in refusing to permit Rainey to present a more complete picture of what he had written to Morgan.</p>
     <p>We have no doubt that the jury was given a distorted and prejudicial impression of Rainey's letter. The theory of Rainey's case was that the accident was the result of a power failure, and, read in its entirety, his letter to Morgan was fully consistent with that theory. While Rainey did discuss problems his wife had encountered the morning of the accident which led her to attempt to cancel the flight, and also agreed that her airplane had violated pattern integrity in turning left prematurely, the thrust of his letter was to challenge</p>
     <n id="p171">171</n>
@@ -123,7 +123,7 @@
     <p>Although, as is frequently the case in the heat of a trial, counsel did not explain the evidentiary basis of his argument as thoroughly as might ideally be desired, we are satisfied that he substantially satisfied the requirement of putting the court on notice as to his concern. In the colloquy following the defense objection to his question, [<a id="nf20" href="#fn20">Footnote 20</a>] and before he was cut off first by defense counsel and then by the judge, Rainey's counsel began to articulate the argument that his question should be allowed because the defense had been able to question Rainey concerning his letter. Moreover, the judge's response [<a id="nf21" href="#fn21">Footnote 21</a>] suggests that he perceived the completeness argument. We cannot say that the point was not sufficiently made. [<a id="nf22" href="#fn22">Footnote 22</a>]</p>
     <n id="p175">175</n>
     <p>Rainey therefore was not barred from pursuing this issue on appeal.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>We hold, first, that statements in the form of opinions or conclusions are not, by that fact, excluded from the scope of Federal Rule of Evidence 803(8)(C). We therefore reverse the judgment of the Court of Appeals in that respect. Second, we hold that, on the facts of this case, the District Court abused its discretion in restricting the scope of cross-examination of respondent Rainey by his counsel, and, to that extent, we affirm the Court of Appeals' judgment. The case is remanded for further proceedings consistent with this opinion.</p>
     <n id="p176">176</n>
     <p>It is so ordered.</p>

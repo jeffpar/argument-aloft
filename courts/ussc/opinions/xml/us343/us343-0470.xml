@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us343-0470.html" citation="343 U.S. 470" title="FTC v. Ruberoid Co.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p470">470</n>
-    <h>U.S. Supreme Court</h>
-    <h>FTC v. Ruberoid Co., <a href="./us343-0470.xml#p470">343 U.S. 470</a> (1952)</h>
-    <h>Federal Trade Commission v. Ruberoid Co.</h>
-    <h>No. 448</h>
-    <h>Argued March 31 and April 1, 1952</h>
-    <h>Decided May 26, 1952<a href="./us343-0470.xml#p470">343 U.S. 470</a>ast|&gt;*</h>
-    <h><a href="./us343-0470.xml#p470">343 U.S. 470</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SECOND CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>FTC v. Ruberoid Co., <a href="./us343-0470.xml#p470">343 U.S. 470</a> (1952)</h1>
+    <h2>Federal Trade Commission v. Ruberoid Co.</h2>
+    <h2>No. 448</h2>
+    <h4>Argued March 31 and April 1, 1952</h4>
+    <h4>Decided May 26, 1952<a href="./us343-0470.xml#p470">343 U.S. 470</a>ast|&gt;*</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SECOND CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>A company which was engaged in the manufacture of roofing materials was found by the Federal Trade Commission to have discriminated among customers in the prices charged for its products. The Commission held that the discriminations violated § 2(a) of the Clayton Act, as amended, and ordered the company to cease and desist from selling</p>
     <p>"products of like grade and quality to any purchaser at prices lower than those granted other purchasers who in fact compete with the favored purchaser in the resale or distribution of such products."</p>
     <p>Upon the company's petition for review, the Court of Appeals affirmed, but refused an order of enforcement.</p>
@@ -147,7 +147,7 @@
       <p>If the unsound result here were an isolated example of malaise in the administrative scheme, its tolerance by the Court would be less troubling, though no less wrong. But I think its decision may encourage a deterioration of the administrative process of which this case is symptomatic, and which invites invasion of the independent agency administrative field by executive agencies. Other symptoms, betokening the same basic confusion, are the numerous occasions when administrative findings are inadequate for purposes of review and recent instances in which part of the government appears before us fighting another part -- usually a wholly executive-controlled agency attacking one of the independent administrative agencies -- the Departments of Agriculture (Secretary of</p>
       <n id="p483">483</n>
       <p>Agriculture v. United States et al., No. 710, now pending in this Court) and Justice (United States v. Interstate Commerce Commission, <a href="../us337/us337-0426.xml#p426">337 U. S. 426</a>), against the Interstate Commerce Commission, the Department of Justice against the Maritime Commission (Far East Conference v. United States, <a href="../us342/us342-0570.xml#p570">342 U. S. 570</a>), the Secretary of the Interior against the Federal Power Commission (United States ex rel. Chapman v. Federal Power Commission, No. 658, now pending in this Court, certiorari granted, 343 U.S. 941). Abstract propositions may not solve concrete cases, but, when basic confusion is responsible for a particular result, resort to the fundamental principles which determine the position of the administrative process in our system may help to illuminate the shortcomings of that result.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>The Act, like many regulatory measures, sketches a general outline which contemplates its completion and clarification by the administrative process before court review or enforcement.</p>
       <p>This section of the Act admittedly is complicated and vague, in itself, and even more so in its context. Indeed, the Court of Appeals seems to have thought it almost beyond understanding. By the Act, nothing is commanded to be done or omitted unconditionally, and no conduct or omission is per se punishable. The commercial discriminations which it forbids are those only which meet three statutory conditions and survive the test of five statutory provisos. To determine which of its overlapping and conflicting policies shall govern a particular case involves inquiry into grades and qualities of goods, discriminations and their economic effects on interstate commerce, competition between customers, the economic effect of price differentials to lessen competition or tend to create a monopoly, allowance for differences in cost of</p>
       <n id="p484">484</n>
@@ -165,7 +165,7 @@
       <p>Such legislation represents inchoate law in the sense that it does not lay down rules which call for immediate compliance on pain of punishment by judicial process. The intervention of another authority must mature and perfect an effective rule of conduct before one is subject to coercion. The statute, in order to rule any individual case, requires an additional exercise of discretion and that</p>
       <n id="p487">487</n>
       <p>last touch of selection which neither the primary legislator nor the reviewing court can supply. The only reason for the intervention of an administrative body is to exercise a grant of unexpended legislative power to weigh what the legislature wants weighed, to reduce conflicting abstract policies to a concrete net remainder of duty or right. Then, and then only, do we have a completed expression of the legislative will in an administrative order which we may call a sort of secondary legislation, ready to be enforced by the courts.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>The constitutional independence of the administrative tribunal presupposes that it will perform the function of completing unfinished law.</p>
       <p>The rise of administrative bodies probably has been the most significant legal trend of the last century, and perhaps more values today are affected by their decisions than by those of all the courts, review of administrative decisions apart. They also have begun to have important consequences on personal rights. Cf. United States v. Spector, <a href="./us343-0169.xml#p169">343 U. S. 169</a>. They have become a veritable fourth branch of the Government, which has deranged our three-branch legal theories much as the concept of a fourth dimension unsettles our three-dimensional thinking.</p>
       <p>Courts have differed in assigning a place to these seemingly necessary bodies in our constitutional system. Administrative agencies have been called quasi-legislative, quasi-executive, or quasi-judicial, as the occasion required, in order to validate their functions within the separation of powers scheme of the Constitution. The mere retreat to the qualifying "quasi" is implicit with confession that all recognized classifications have broken</p>
@@ -190,7 +190,7 @@
       <n id="p492">492</n>
       <p>Federal Power Commission v. Hope Natural Gas Co., <a href="../us320/us320-0591.xml#p591">320 U. S. 591</a>.</p>
       <p>Courts are no better equipped to handle policy questions and no more empowered to exercise legislative discretion on contempt proceedings than on review proceedings. It is plain that, if the scheme of regulating complicated enterprises through unfinished legislation is to be just and effective, we must insist that the legislative function be performed and exhausted by the administrative body before the case is passed on to the courts.</p>
-      <h>IV</h>
+      <h2>IV</h2>
       <p>This proceeding should be remanded for a more definitive and circumscribed order.</p>
       <p>Returning to this case, I cannot find that ten years of litigation have served any useful purpose whatever. No doubt, it is administratively convenient to blanket an industry under a comprehensive prohibition in bulk -- an undiscriminating prohibition of discrimination. But this not only fails to give the precision and concreteness of legal duties to the abstract policies of the Act, it really promulgates an inaccurate partial paraphrase of its indeterminate generalities. Instead of completing the legislation by an order which will clarify the petitioner's duty, it confounds confusion by literally ordering it to cease what the statute permits it to do.</p>
       <p>This Court and the court below defer solution of the problems inherent in such an order on the theory that, if petitioner offends again, there may be an enforcement order, and if it then offends again, there may be a contempt proceeding, and that will be time enough for the court to decide what the order against the background of the Act really means. While I think this less than justice, I am not greatly concerned about what the Court's decision does to this individual petitioner, for whom I foresee no danger more serious than endless litigation.</p>
@@ -222,7 +222,7 @@
       <p>For an excellent study of English "Delegated Legislation Today," see Willis, Parliamentary Powers of English Government Departments, c. II, p. 47. For the extent to which this system has been used in England, see Lord Macmillan, Local Government Law and Administration in England and Wales, Vol. I, Preface.</p>
       <p>[Footnote 2/8]</p>
       <p>The legislative history of the Fair Labor Standards Act, 29 U.S.C. § 201 et seq., exemplifies the choice which Congress must make between itself completing the legislation and delegating the completion to an administrative agency. H.R.Rep. No. 2738, 75th Cong., 3d Sess., sets forth a summary of both the House Bill and the Senate Bill. The Senate Bill provided for the creation of a Labor Standards Board composed of five members, which was empowered to declare from time to time, for such occupations as are brought within the bill, minimum wages</p>
-      <p>"which shall be as nearly adequate as economically feasible without curtailing opportunity for employment, to maintain a minimum standard of living necessary for health, efficiency, and general wellbeing . . . ,"</p>
+      <p>"which shall be as nearly adequate as economically feasible without curtailing opportunity for employment, to maintain a minimum standard of living necessary for health, efficiency, and general wellbeing . . .,"</p>
       <p>but not in excess of 40 cents per hour. Id. at 15. Similar provisions empowered the Board to determine maximum hours provided that in no case should the maximum be set at less than 40 hours. Id. at 16. Likewise, the Board was empowered to require the elimination of substandard labor conditions. Id. at 17.</p>
       <p>The House Bill, on the other hand, itself laid down the minimum wage and maximum hour requirements, id. 22-23, and gave to the Secretary of Labor discretion only to determine which industries were within the terms of the law, plus the power to investigate compliance with the law. Id. at 23. The Act as ultimately adopted followed the House Bill; although there was created the office of Administrator of the Wage and Hour Division in the Department of Labor, the Administrator was given discretion only in minor matters relating to the applicability of the congressional standards. 52 Stat. 1060, 29 U.S.C. § 201 et seq.</p>
       <p>The Administration favored the plan of delegating legislative discretion to an independent administrative body to apply general standards to concrete cases. See testimony of Secretary of Labor Frances Perkins, Joint Hearings before the Senate Committee on Educations and Labor and the House Committee on Labor on S. 2475 and H.R. 7200, 75th Cong., 1st Sess. 178. However, the attempt of Congress itself to complete this complex law for enforcement by the Executive, through the courts, not only flooded the courts with litigation, but the courts' interpretation of the Act, contrary to the policy which Congress thought it had indicated, had disastrous consequences. 61 Stat. 84, 29 U.S.C. § 251 et seq.</p>

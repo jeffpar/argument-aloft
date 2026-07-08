@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us049-0073.html" citation="49 U.S. 73" title="Nathan v. Louisiana">
   <opinion type="Opinions &amp; Dissents">
     <n id="p73">73</n>
-    <h>U.S. Supreme Court</h>
-    <h>Nathan v. Louisiana, 49 U.S. 73 (1850)</h>
-    <h>Nathan v. Louisiana</h>
-    <h>49 U.S. (8 How.) 73</h>
-    <h>ERROR TO THE SUPREME COURT</h>
-    <h>OF THE STATE OF LOUISIANA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Nathan v. Louisiana, 49 U.S. 73 (1850)</h1>
+    <h2>Nathan v. Louisiana</h2>
+    <h2>49 U.S. (8 How.) 73</h2>
+    <h2>ERROR TO THE SUPREME COURT</h2>
+    <h2>OF THE STATE OF LOUISIANA</h2>
+    <h2>Syllabus</h2>
     <p>A tax imposed by a state upon all money or exchange brokers is not void for repugnance to the constitutional power of Congress to regulate commerce.</p>
     <p>Foreign bills of exchange are instruments of commerce, it is true, but so also are the products of agriculture or manufactures, over which the taxing power of a state extends until they are separated from the general mass of property by becoming exports.</p>
     <p>A state has a right to tax its own citizens for the prosecution of any particular business or profession within the state.</p>

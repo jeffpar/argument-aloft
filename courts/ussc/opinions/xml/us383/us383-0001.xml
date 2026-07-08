@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us383-0001.html" citation="383 U.S. 1" title="Graham v. John Deere Co.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p1">1</n>
-    <h>U.S. Supreme Court</h>
-    <h>Graham v. John Deere Co., <a href="./us383-0001.xml#p1">383 U.S. 1</a> (1966)</h>
-    <h>Graham v. John Deere Co. of Kansas City</h>
-    <h>No. 11</h>
-    <h>Argued October 14, 1965</h>
-    <h>Decided February 21, 1966<a href="./us383-0001.xml#p1">383 U.S. 1</a>ast|&gt;*</h>
-    <h><a href="./us383-0001.xml#p1">383 U.S. 1</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE EIGHTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Graham v. John Deere Co., <a href="./us383-0001.xml#p1">383 U.S. 1</a> (1966)</h1>
+    <h2>Graham v. John Deere Co. of Kansas City</h2>
+    <h2>No. 11</h2>
+    <h4>Argued October 14, 1965</h4>
+    <h4>Decided February 21, 1966<a href="./us383-0001.xml#p1">383 U.S. 1</a>ast|&gt;*</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE EIGHTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>In No. 11, petitioners sued for infringement of a patent, consisting of a combination of old mechanical elements, for a device designed to absorb shock from plow shanks in rocky soil to prevent damage to the plow. In 1955, the Fifth Circuit held the patent valid, ruling that a combination is patentable when it produces an "old result in a cheaper and otherwise more advantageous way." Here, the Eighth Circuit held that, since there was no new result in the combination, the patent was invalid. Petitioners in Nos. 37 and 43 filed actions for declaratory judgments declaring invalid respondent's patent relating to a plastic finger sprayer with a "hold-down" cap used as a built-in dispenser for containers with liquids, principally insecticides. By cross-action, respondent claimed infringement. The District Court and the Court of Appeals sustained the patent. Held: The patents do not meet the test of the "nonobvious" nature of the "subject matter sought to be patented" to a person having ordinary skill in the pertinent art, set forth in § 103 of the Patent Act of 1952, and are therefore invalid. Pp. <a href="./us383-0001.xml#p3">383 U. S. 3</a>-37.</p>
     <n id="p2">2</n>
     <p>(a) In carrying out the constitutional command of Art. I, § 8, that a patent system "promote the Progress of . . . useful Arts," Congress established the two statutory requirements of novelty and utility in the Patent Act of 1793. Pp. <a href="./us383-0001.xml#p3">383 U. S. 3</a>, <a href="./us383-0001.xml#p6">383 U. S. 6</a>, <a href="./us383-0001.xml#p12">383 U. S. 12</a>.</p>
@@ -28,14 +28,14 @@
     <p>The questions, involved in each of the companion cases before us, are what effect the 1952 Act had upon traditional statutory and judicial tests of patentability and what definitive tests are now required. We have concluded that the 1952 Act was intended to codify judicial precedents embracing the principle long ago</p>
     <n id="p4">4</n>
     <p>announced by this Court in <a href="../us052/us052-0248.xml#p248">Hotchkiss v. Greenwood</a>, 11 How. 248 (1851), and that, while the clear language of § 103 places emphasis on an inquiry into obviousness, the general level of innovation necessary to sustain patentability remains the same.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The Cases</p>
     <p>(a) No. 11, Graham v. John Deere Co., an infringement suit by petitioners, presents a conflict between two Circuits over the validity of a single patent on a "Clamp for vibrating Shank Plows." The invention, a combination of old mechanical elements, involves a device designed to absorb shock from plow shanks as they plow through rocky soil, and thus to prevent damage to the plow. In 1955, the Fifth Circuit had held the patent valid under its rule that, when a combination produces an "old result in a cheaper and otherwise more advantageous way," it is patentable. Jeoffroy Mfg., Inc. v. Graham, 219 F.2d 511, cert. denied, 350 U.S. 826. In 1964, the Eighth Circuit held, in the case at bar, that there was no new result in the patented combination, and that the patent was therefore not valid. 333 F.2d 529, reversing <a href="https://law.justia.com/cases/federal/district-courts/FSupp/216/272/2339362/">216 F. Supp. 272</a>. We granted certiorari, 379 U.S. 956. Although we have determined that neither Circuit applied the correct test, we conclude that the patent is invalid under § 103, and therefore we affirm the judgment of the Eighth Circuit.</p>
     <p>(b) No. 37, Calmar, Inc. v. Cook Chemical Co., and No. 43, Colgate-Palmolive Co. v. Cook Chemical Co., both from the Eighth Circuit, were separate declaratory judgment actions, but were filed contemporaneously. Petitioner in Calmar is the manufacturer of a finger-operated sprayer with a "hold-down" cap of the type commonly seen on grocers' shelves inserted in bottles of insecticides and other liquids prior to shipment. Petitioner in Colgate-Palmolive is a purchaser of the sprayers, and</p>
     <n id="p5">5</n>
     <p>uses them in the distribution of its products. Each action sought a declaration of invalidity and noninfringement of a patent on similar sprayers issued to Cook Chemical as assignee of Baxter I. Scoggin, Jr., the inventor. By cross-action, Cook Chemical claimed infringement. The actions were consolidated for trial, and the patent was sustained by the District Court. 220 F. Supp. 414. The Court of Appeals affirmed, 336 F.2d 110, and we granted certiorari, 380 U.S. 949. We reverse.</p>
     <p>Manifestly, the validity of each of these patents turns on the facts. The basic problems, however, are the same in each case, and require initially a discussion of the constitutional and statutory provisions covering the patentability of the inventions.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>At the outset, it must be remembered that the federal patent power stems from a specific constitutional provision which authorizes the Congress "To promote the Progress of . . . useful Arts, by securing for limited Times to . . . Inventors the exclusive Right to their . . . Discoveries." Art. I, § 8, cl. 8. [<a id="nf1" href="#fn1">Footnote 1</a>] The clause is both a grant of power and a limitation. This qualified authority, unlike the power often exercised in the sixteenth and seventeenth centuries by the English Crown, is limited to the promotion of advances in the "useful arts." It was written against the backdrop of the practices -- eventually curtailed by the Statute of Monopolies -- of the Crown in granting monopolies to court favorites in goods or businesses which had long before been enjoyed by the public. See Meinhardt, Inventions, Patents and Monopoly, pp. 30-35 (London, 1946). The Congress in the</p>
     <n id="p6">6</n>
     <p>exercise of the patent power may not overreach the restraints imposed by the stated constitutional purpose. Nor may it enlarge the patent monopoly without regard to the innovation, advancement or social benefit gained thereby. Moreover, Congress may not authorize the issuance of patents whose effects are to remove existent knowledge from the public domain, or to restrict free access to materials already available. Innovation, advancement, and things which add to the sum of useful knowledge are inherent requisites in a patent system which, by constitutional command, must "promote the Progress of . . . useful Arts." This is the standard expressed in the Constitution, and it may not be ignored. And it is in this light that patent validity "requires reference to a standard written into the Constitution." Great A. &amp; P. Tea Co. v. Supermarket Equipment Corp., supra, at <a href="../us340/us340-0147.xml#p154">340 U. S. 154</a> (concurring opinion).</p>
@@ -60,7 +60,7 @@
     <p>Jefferson's correspondence. [<a id="nf3" href="#fn3">Footnote 3</a>] Despite the board's efforts, Jefferson saw "with what slow progress a system of general rules could be matured." Because of the "abundance" of cases and the fact that the investigations occupied</p>
     <p>"more time of the members of the board than they could spare from higher duties, the whole was turned over to the judiciary, to be matured into a system under which every one might know when his actions were safe and lawful."</p>
     <p>Letter to McPherson, supra, at 181, 182. Apparently Congress agreed with Jefferson and the board that the courts should develop additional conditions for patentability. Although the Patent Act was amended, revised or codified some 50 times between 1790 and 1950, Congress steered clear of a statutory set of requirements other than the bare novelty and utility tests reformulated in Jefferson's draft of the 1793 Patent Act.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The difficulty of formulating conditions for patentability was heightened by the generality of the constitutional grant and the statutes implementing it, together with the underlying policy of the patent system that "the things which are worth to the public the embarrassment</p>
     <n id="p11">11</n>
     <p>of an exclusive patent," as Jefferson put it, must outweigh the restrictive effect of the limited patent monopoly. The inherent problem was to develop some means of weeding out those inventions which would not be disclosed or devised but for the inducement of a patent.</p>
@@ -72,7 +72,7 @@
     <n id="p12">12</n>
     <p>or not."</p>
     <p>McClain v. Ortmayer, <a href="../us141/us141-0419.xml#p419">141 U. S. 419</a>, <a href="../us141/us141-0419.xml#p427">141 U. S. 427</a> (1891); Great A. &amp; P. Tea Co. v. Supermarket Equipment Corp., supra, at <a href="../us340/us340-0147.xml#p151">340 U. S. 151</a>. Its use as a label brought about a large variety of opinions as to its meaning both in the Patent Office, in the courts, and at the bar. The Hotchkiss formulation, however, lies not in any label, but in its functional approach to questions of patentability. In practice, Hotchkiss has required a comparison between the subject matter of the patent, or patent application, and the background skill of the calling. It has been from this comparison that patentability was in each case determined.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>The 1952 Patent Act</p>
     <p>The Act sets out the conditions of patentability in three sections. An analysis of the structure of these three sections indicates that patentability is dependent upon three explicit conditions: novelty and utility, as articulated and defined in § 101 and § 102, and nonobviousness, the new statutory formulation, as set out in § 103. The first two sections, which trace closely the 1874 codification, express the "new and useful" tests which have always existed in the statutory scheme and, for our purposes here, need no clarification. [<a id="nf5" href="#fn5">Footnote 5</a>] The pivotal</p>
     <n id="p13">13</n>
@@ -95,7 +95,7 @@
     <p>of the section</p>
     <p>"paraphrases language which has often been used in decisions of the courts, and the section is added to the statute for uniformity and definiteness."</p>
     <p>We believe that this legislative history, as well as other sources, [<a id="nf9" href="#fn9">Footnote 9</a>] show that the revision was not intended by Congress to change the general level of patentable invention. We conclude that the section was intended merely as a codification of judicial precedents embracing the Hotchkiss condition, with congressional directions that inquiries into the obviousness of the subject matter sought to be patented are a prerequisite to patentability.</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>Approached in this light, the § 103 additional condition, when followed realistically, will permit a more practical test of patentability. The emphasis on non-obviousness is one of inquiry, not quality, and, as such, comports with the constitutional strictures.</p>
     <p>While the ultimate question of patent validity is one of law, Great A. &amp; P. Tea Co. v. Supermarket Equipment Corp., supra, at <a href="../us340/us340-0147.xml#p155">340 U. S. 155</a>, the § 103 condition, which is but one of three conditions, each of which must be satisfied, lends itself to several basic factual inquiries. Under § 103, the scope and content of the prior art are to be determined; differences between the prior art and the claims at issue are to be ascertained; and the level of ordinary skill in the pertinent art resolved. Against this background, the obviousness or nonobviousness of the subject matter is determined. Such secondary considerations as commercial success, long felt but unsolved needs, failure of others, etc., might be utilized to give light to the circumstances</p>
     <n id="p18">18</n>
@@ -105,7 +105,7 @@
     <n id="p19">19</n>
     <p>bring about a closer concurrence between administrative and judicial precedent. [<a id="nf10" href="#fn10">Footnote 10</a>]</p>
     <p>Although we conclude here that the inquiry which the Patent Office and the courts must make as to patentability must be beamed with greater intensity on the requirements of § 103, it bears repeating that we find no change in the general strictness with which the overall test is to be applied. We have been urged to find in § 103 a relaxed standard, supposedly a congressional reaction to the "increased standard" applied by this Court in its decisions over the last 20 or 30 years. The standard has remained invariable in this Court. Technology, however, has advanced, and with remarkable rapidity in the last 50 years. Moreover, the ambit of applicable art in given fields of science has widened by disciplines unheard of a half century ago. It is but an evenhanded application to require that those persons granted the benefit of a patent monopoly be charged with an awareness of these changed conditions. The same is true of the less technical, but still useful, arts. He who seeks to build a better mousetrap today has a long path to tread before reaching the Patent Office.</p>
-    <h>VI</h>
+    <h2>VI</h2>
     <p>We now turn to the application of the conditions found necessary for patentability to the cases involved here:</p>
     <p>A. The Patent in Issue in No. 11, Graham v. John Deere Co.</p>
     <p>This patent, No. 2,627,798 (hereinafter called the '798 patent) relates to a spring clamp which permits plow shanks to be pushed upward when they hit obstructions</p>
@@ -133,7 +133,7 @@
     <p>stirrup or bracket that would not disturb its flexing qualities. Certainly a person having ordinary skill in the prior art, given the fact that the flex in the shank could be utilized more effectively if allowed to run the entire length of the shank, would immediately see that the thing to do was what Graham did, i.e., invert the shank and the hinge plate.</p>
     <p>Petitioners' argument basing validity on the free-flex theory, raised for the first time on appeal, is reminiscent of Lincoln Engineering Co. of Illinois v. Stewart-Warner Corp., <a href="../us303/us303-0545.xml#p545">303 U. S. 545</a> (1938), where the Court called such an effort</p>
     <p>"an afterthought. No such function . . . is hinted at in the specifications of the patent. If this were so vital an element in the functioning of the apparatus, it is strange that all mention of it was omitted."</p>
-    <p>At p. <a href="../us303/us303-0545.xml#p550">303 U. S. 550</a>. No "flexing" argument was raised in the Patent Office. Indeed, the trial judge specifically found that "flexing is not a claim of the patent in suit . . . ," and would not permit interrogation as to flexing in the accused devices. Moreover, the clear testimony of petitioners' experts shows that the flexing advantages flowing from the '798 arrangement are not, in fact, a significant feature in the patent. [<a id="nf13" href="#fn13">Footnote 13</a>]</p>
+    <p>At p. <a href="../us303/us303-0545.xml#p550">303 U. S. 550</a>. No "flexing" argument was raised in the Patent Office. Indeed, the trial judge specifically found that "flexing is not a claim of the patent in suit . . .," and would not permit interrogation as to flexing in the accused devices. Moreover, the clear testimony of petitioners' experts shows that the flexing advantages flowing from the '798 arrangement are not, in fact, a significant feature in the patent. [<a id="nf13" href="#fn13">Footnote 13</a>]</p>
     <p>We find no nonobvious facets in the '798 arrangement. The wear and repair claims were sufficient to overcome</p>
     <n id="p26">26</n>
     <p>the patent examiner's original conclusions as to the validity of the patent. However, some of the prior art, notably Glencoe, was not before him. There the hinge plate is below the shank, but, as the courts below found, all of the elements in the '798 patent are present in the Glencoe structure. Furthermore, even though the position of the shank and hinge plate appears reversed in Glencoe, the mechanical operation is identical. The shank there pivots about the underside of the stirrup, which in Glencoe is above the shank. In other words, the stirrup in Glencoe serves exactly the same function as the heel of the hinge plate in '798. The mere shifting of the wear point to the heel of the '798 hinge plate from the stirrup of Glencoe -- itself a part of the hinge plate -- presents no operative mechanical distinctions, much less nonobvious differences.</p>
@@ -258,7 +258,7 @@
     </f>
     <f n="12"><a id="fn12" href="#nf12">Footnote 12</a>
       <p>Even petitioners' expert testified to that effect:</p>
-      <p>"Q. Given the same length of the forward portion of the clamp . . . , you would anticipate that the magnitude of flex [in '798] would be precisely the same or substantially the same as in 811, wouldn't you?"</p>
+      <p>"Q. Given the same length of the forward portion of the clamp . . ., you would anticipate that the magnitude of flex [in '798] would be precisely the same or substantially the same as in 811, wouldn't you?"</p>
       <p>"A. I would think so."</p>
     </f>
     <f n="13"><a id="fn13" href="#nf13">Footnote 13</a>

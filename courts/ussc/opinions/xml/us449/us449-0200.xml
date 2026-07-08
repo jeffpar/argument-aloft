@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us449-0200.html" citation="449 U.S. 200" title="United States v. Will">
   <opinion type="Opinions &amp; Dissents">
     <n id="p200">200</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Will, <a href="./us449-0200.xml#p200">449 U.S. 200</a> (1980)</h>
-    <h>United States v. Will</h>
-    <h>No. 79-983</h>
-    <h>Argued October 13, 1980</h>
-    <h>Decided December 15, 1980<a href="./us449-0200.xml#p200">449 U.S. 200</a>ast|&gt;*</h>
-    <h><a href="./us449-0200.xml#p200">449 U.S. 200</a></h>
-    <h>APPEAL FROM THE UNITED STATES DISTRICT COURT</h>
-    <h>FOR THE NORTHERN DISTRICT OF ILLINOIS</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Will, <a href="./us449-0200.xml#p200">449 U.S. 200</a> (1980)</h1>
+    <h2>United States v. Will</h2>
+    <h2>No. 79-983</h2>
+    <h4>Argued October 13, 1980</h4>
+    <h4>Decided December 15, 1980<a href="./us449-0200.xml#p200">449 U.S. 200</a>ast|&gt;*</h4>
+    <h2>APPEAL FROM THE UNITED STATES DISTRICT COURT</h2>
+    <h2>FOR THE NORTHERN DISTRICT OF ILLINOIS</h2>
+    <h2>Syllabus</h2>
     <p>An interlocking network of federal statutes fixes the compensation of high-level federal officials, including federal judges, and provides for annual cost-of-living adjustments in salary determined in the same way as those for federal employees generally. In four consecutive fiscal years (hereafter Years 1, 2, 3, and 4), Congress, with respect to these high-level officials, enacted statutes to stop or reduce previously authorized cost-of-living increases initially intended to be automatically operative under that statutory scheme. In Years 2 and 3, the statutes became law before the start of the fiscal year, and in Years 1 and 4 became law on or after the first day of the fiscal year. A number of United States District Court Judges (appellees) filed class actions against the United States in District Court, challenging the validity of the statutes under the Compensation Clause of the Constitution, which provides that federal judges shall receive compensation which "shall not be diminished during their Continuance in Office." The District Court granted summary judgments for appellees.</p>
     <p>Held:</p>
     <p>1. This Court has jurisdiction of the appeals under 28 U.S.C. § 1252, providing for appeals to this Court from judgments holding an Act of Congress unconstitutional in any civil action to which the United States is a party. And the District Court had jurisdiction over the actions under 28 U.S.C. § 1346(a)(2), which confers on district courts and the Court of Claims concurrent jurisdiction over actions against the United States based on the Constitution when the amount in controversy does not exceed $10,000, none of the individual claims here having been alleged to have exceeded that amount. Pp. <a href="./us449-0200.xml#p210">449 U. S. 210</a>-211.</p>
@@ -29,7 +29,7 @@
     <p>BURGER, C.J., delivered the opinion of the Court, in which all other Members joined, except BLACKMUN, J., who took no part in the decision of the cases.</p>
     <p>CHIEF JUSTICE BURGER delivered the opinion of the Court.</p>
     <p>These appeals present the questions whether under the Compensation Clause, Art. III, § 1, Congress may repeal or modify a statutorily defined formula for annual cost-of-living increases in the compensation of federal judges, and, if so, whether it must act before the particular increases take effect.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Congress has enacted an interlocking network of statutes to fix the compensation of high-level officials in the Executive, Legislative, and Judicial Branches, including federal judges. It provides for quadrennial review of overall salary levels and annual cost-of-living adjustments determined in the same fashion as those for federal employees generally. In four consecutive fiscal years, Congress, with respect to these high-level</p>
     <n id="p203">203</n>
     <p>Executive Branch, Legislative, and Judicial salaries, enacted statutes to stop or to reduce previously authorized cost-of-living increases initially intended to be automatically operative under that statutory scheme, once the Executive had determined the amount. In two of these years, the legislation was signed by the President and became law before the start of the fiscal year; in the other two years, on or after the first day of the fiscal year.</p>
@@ -78,7 +78,7 @@
     <n id="p210">210</n>
     <p>Illinois on October 19, 1979, after the District Court had entered judgment in No. 79-983. At issue this time were the statutes in Years 3 and 4. The same 13 judges, joined by one other, again sought to represent two classes of Article III judges defined by the years. [<a id="nf8" href="#fn8">Footnote 8</a>] The United States is defendant. The case was referred to the same member of the District Court who had presided over the proceedings in No. 79-983.</p>
     <p>On January 31, 1980, the District Court entered an order certifying the classes and granting summary judgment for the plaintiffs, appellees in No. 79-1689. Based on its decision in No. 79-983, the court held that the statute in Year 3 violated the Compensation Clause. The court noted with respect to Year 4 that the relevant statute referred only to "executive employees." It then held that, while it was doubtful Congress intended the statute to apply to judges, the statute would be unconstitutional if Congress did so intend. In either case, the Adjustment Act increase for Year 4 took effect. Judgment for appellees was formally entered February 12. On the Government's appeal to this Court, we postponed consideration of jurisdiction to the merits and consolidated this case with No. 79-983 for briefing and oral argument. 447 U.S. 919 (1980).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>A</p>
     <p>Jurisdiction</p>
     <p>Although it is clear that the District Judge and all Justices of this Court have an interest in the outcome of these cases, there is no doubt whatever as to this Court's jurisdiction</p>
@@ -120,7 +120,7 @@
     <n id="p217">217</n>
     <p>The congressional purpose so clearly expressed in the Reports gives no hint of altering the ancient Rule of Necessity, a doctrine that had not been questioned under prior judicial disqualification statutes. [<a id="nf20" href="#fn20">Footnote 20</a>] The declared purpose of § 455 is to guarantee litigants a fair forum in which they can pursue their claims. Far from promoting this purpose, failure to apply the Rule of Necessity would have a contrary effect, for without the Rule, some litigants would be denied their right to a forum. The availability of a forum becomes especially important in these cases. As this Court has observed elsewhere, the Compensation Clause is designed to benefit not the judges as individuals, but the public interest in a competent and independent judiciary. Evans v. Gore, supra at <a href="../us253/us253-0245.xml#p253">253 U. S. 253</a>. The public might be denied resolution of this crucial matter if first the District Judge, and now all the Justices of this Court, were to ignore the mandate of the Rule of Necessity and decline to answer the questions presented. On balance, the public interest would not be served by requiring disqualification under § 455.</p>
     <p>We therefore hold that § 455 was not intended by Congress to alter the time-honored Rule of Necessity. And we would not casually infer that the Legislative and Executive Branches sought by the enactment of § 455 to foreclose federal courts from exercising "the province and duty of the judicial department to say what the law is." <a href="../us005/us005-0137.xml#p137">Marbury v. Madison</a>, 1 Cranch 137, <a href="../us005/us005-0137.xml#p177">5 U. S. 177</a> (1803).</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The Compensation Clause</p>
     <p>The Compensation Clause has its roots in the longstanding Anglo-American tradition of an independent Judiciary. A</p>
     <n id="p218">218</n>
@@ -146,7 +146,7 @@
     <p>This Court has recognized that the Compensation Clause</p>
     <n id="p221">221</n>
     <p>also serves another, related purpose. As well as promoting judicial independence, it ensures a prospective judge that, in abandoning private practice -- more often than not more lucrative than the bench -- the compensation of the new post will not diminish. Beyond doubt, such assurance has served to attract able lawyers to the bench, and thereby enhances the quality of justice. Evans v. Gore, 253 U.S. at <a href="../us253/us253-0245.xml#p253">253 U. S. 253</a>; 1 J. Kent, Commentaries on American Law 276 (1826).</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>The four statutes now before us present an issue never before addressed by this Court: when, if ever, does the Compensation Clause prohibit the Congress from repealing salary increases that otherwise take effect automatically pursuant to a formula previously enacted? We must decide when a salary increase authorized by Congress under such a formula "vests" -- i.e., becomes irreversible under the Compensation Clause. Is the protection of the Clause first invoked when the formula is enacted or when increases take effect</p>
     <p>A</p>
     <p>Appellees argue that we need not reach this constitutional question. They contend that Congress intended these four statutes do no more than halt funding for the salary increases under the Adjustment Act. If, as appellees contend, the statutes are appropriations measures that do not alter substantive law, the increases in all four years nevertheless are now in effect and the Government is obliged to pay them; it has simply to authorize that payment. Accordingly, appellees submit, these congressional actions violate the Compensation Clause regardless of whether Congress could have rescinded increases previously passed.</p>
@@ -184,7 +184,7 @@
     <n id="p230">230</n>
     <p>Judicial Branches as well. [<a id="nf34" href="#fn34">Footnote 34</a>] The title does not control over the terms of the statute. The statutes in the three preceding years undeniably applied to judges, and we can discern no indication that the Congress chose to single them out for an exemption when it was including Executive and Legislative officials. Most important, both the Conference Report and the Chairman of the House Appropriations Committee, speaking on the floor, made explicit what already was implicit: the limiting statute would apply to judges as well. See H.R.Conf.Rep. No. 96-513, p. 3 (1979); 125 Cong.Rec. 27530, 27532 (1979) (remarks of Rep. Whitten). [<a id="nf35" href="#fn35">Footnote 35</a>]</p>
     <p>Having concluded that the statute in Year 4 was intended to apply to judges as well as other high-level federal officials, we are confronted with a situation similar to that in Year 1. Here again, the statute purported to revoke an increase in judges' compensation after those statutes had taken effect. For the reasons governing the statute as to Year 1, we hold that the statute revoking the increase for Year 4 violated the Compensation Clause insofar as it applied to members of the certified class.</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>The District Court has not yet calculated the precise dollar amounts involved in Years 1 and 4, the years in which we hold the statutes violated the Compensation Clause. Further proceedings are required to resolve these questions. Accordingly, the judgment of the District Court in No. 79-983</p>
     <n id="p231">231</n>
     <p>is affirmed in part and reversed in part, the judgment in No. 79-1689 is affirmed in part and reversed in part, and the cases are remanded for further proceedings consistent with this opinion.</p>

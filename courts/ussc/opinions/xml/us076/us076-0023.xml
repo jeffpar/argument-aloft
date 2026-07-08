@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us076-0023.html" citation="76 U.S. 23" title="McGoon v. Scales">
   <opinion type="Opinions &amp; Dissents">
     <n id="p23">23</n>
-    <h>U.S. Supreme Court</h>
-    <h>McGoon v. Scales, 76 U.S. 23 (1869)</h>
-    <h>McGoon v. Scales</h>
-    <h>76 U.S. (9 Wall.) 23</h>
-    <h>ERROR TO THE CIRCUIT COURT</h>
-    <h>FOR THE DISTRICT OF WISCONSIN</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>McGoon v. Scales, 76 U.S. 23 (1869)</h1>
+    <h2>McGoon v. Scales</h2>
+    <h2>76 U.S. (9 Wall.) 23</h2>
+    <h2>ERROR TO THE CIRCUIT COURT</h2>
+    <h2>FOR THE DISTRICT OF WISCONSIN</h2>
+    <h2>Syllabus</h2>
     <p>1. A sale of the public land for state taxes while the land is still owned by the United States is invalid.</p>
     <p>2. The law of the state in which land is situated governs its alienation and transfer, and the effect and construction of deeds conveying it, wherever they may be made.</p>
     <p>3. The statute of Wisconsin of 1850 abolishes all passive trusts which require no duty to be performed by the trustee, and vests the title in the cestui que trust.</p>

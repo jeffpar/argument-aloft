@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us433-0562.html" citation="433 U.S. 562" title="Zacchini v. Scripps-Howard Broadcasting Co.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p562">562</n>
-    <h>U.S. Supreme Court</h>
-    <h>Zacchini v. Scripps-Howard Broadcasting Co., <a href="./us433-0562.xml#p562">433 U.S. 562</a> (1977)</h>
-    <h>Zacchini v. Scripps-Howard Broadcasting Co.</h>
-    <h>No. 76-577</h>
-    <h>Argued April 25, 1977</h>
-    <h>Decided June 28, 1977</h>
-    <h><a href="./us433-0562.xml#p562">433 U.S. 562</a></h>
-    <h>CERTIORARI TO THE SUPREME COURT OF OHIO</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Zacchini v. Scripps-Howard Broadcasting Co., <a href="./us433-0562.xml#p562">433 U.S. 562</a> (1977)</h1>
+    <h2>Zacchini v. Scripps-Howard Broadcasting Co.</h2>
+    <h2>No. 76-577</h2>
+    <h4>Argued April 25, 1977</h4>
+    <h4>Decided June 28, 1977</h4>
+    <h2>CERTIORARI TO THE SUPREME COURT OF OHIO</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner's 15-second "human cannonball" act, in which he is shot from a cannon into a net some 200 feet away, was, without his consent, videotaped in its entirety at a county fair in Ohio by a reporter for respondent broadcasting company and shown on a television news program later the same day. Petitioner then brought a damages action in state court against respondent, alleging an "unlawful appropriation" of his "professional property." The trial court's summary judgment for respondent was reversed by the Ohio Court of Appeals on the ground that the complaint stated a cause of action. The Ohio Supreme Court, while recognizing that petitioner had a cause of action under state law on his "right to the publicity value of his performance," nevertheless, relying on Time, Inc. v. Hill, <a href="../us385/us385-0374.xml#p374">385 U. S. 374</a>, rendered judgment for respondent on the ground that it is constitutionally privileged to include in its newscasts matters of public interest that would otherwise be protected by the right of publicity, absent an intent to injure or to appropriate for some nonprivileged purpose.</p>
     <p>Held:</p>
     <p>1. It appears from the Ohio Supreme Court's opinion syllabus (which is to be looked to for the rule of law in the case), as clarified by the opinion itself, that the judgment below did not rest on an adequate and independent state ground, but rested solely on federal grounds, in that the court considered the source of respondent's privilege to be the First and Fourteenth Amendments, and therefore this Court has jurisdiction to decide the federal issue. Pp. <a href="./us433-0562.xml#p566">433 U. S. 566</a>-568.</p>
@@ -37,7 +37,7 @@
     <p>We granted certiorari, 429 U.S. 1037 (1977), to consider an issue unresolved by this Court: whether the First and Fourteenth Amendments immunized respondent from damages for its alleged infringement of petitioner's state law "right of publicity." Pet. for Cert. 2. Insofar as the Ohio Supreme Court held that the First and Fourteenth Amendments of the</p>
     <n id="p566">566</n>
     <p>United States Constitution required judgment for respondent, we reverse the judgment of that court.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>If the judgment below rested on an independent and adequate state ground, the writ of certiorari should be dismissed as improvidently granted, Wilson v. Loew's Inc., <a href="../us355/us355-0597.xml#p597">355 U. S. 597</a> (1958), for</p>
     <p>"[o]ur only power over state judgments is to correct them to the extent that they incorrectly adjudge federal rights. And our power is to correct wrong judgments, not to revise opinions. We are not permitted to render an advisory opinion, and if the same judgment would be rendered by the state court after we corrected its views of federal laws, our review could amount to nothing more than an advisory opinion."</p>
     <p>Herb v. Pitcairn, <a href="../us324/us324-0117.xml#p117">324 U. S. 117</a>, <a href="../us324/us324-0117.xml#p125">324 U. S. 125</a>-126 (1945). We are confident, however, that the judgment below did not rest on an adequate and independent state ground and that we have jurisdiction to decide the federal issue presented in this case.</p>
@@ -53,7 +53,7 @@
     <p>"held as it did because it felt under compulsion of federal law as enunciated by this Court so to hold, it should be relieved of that compulsion. It should be freed to decide . . . these suits according to its own local law."</p>
     <p>Missouri ex rel. Southern R. Co. v. Mayfield, <a href="../us340/us340-0001.xml#p1">340 U. S. 1</a>, <a href="../us340/us340-0001.xml#p5">340 U. S. 5</a> (1950).</p>
     <n id="p569">569</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>The Ohio Supreme Court held that respondent is constitutionally privileged to include in its newscasts matters of public interest that would otherwise be protected by the right of publicity, absent an intent to injure or to appropriate for some nonprivileged purpose. If, under this standard, respondent had merely reported that petitioner was performing at the fair and described or commented on his act, with or without showing his picture on television, we would have a very different case. But petitioner is not contending that his appearance at the fair and his performance could not be reported by the press as newsworthy items. His complaint is that respondent filmed his entire act and displayed that film on television for the public to see and enjoy. This, he claimed, was an appropriation of his professional property. The Ohio Supreme Court agreed that petitioner had "a right of publicity" that gave him "personal control over commercial display and exploitation of his personality and the exercise of his talents." [<a id="nf4" href="#fn4">Footnote 4</a>] This right of "exclusive control over the publicity given to his performances" was said to be such a "valuable part of the benefit which may be attained by his talents and efforts" that it was entitled to legal protection. It was</p>
     <n id="p570">570</n>
     <p>also observed, or at least expressly assumed, that petitioner had not abandoned his rights by performing under the circumstances present at the Geauga County Far Grounds.</p>
@@ -149,7 +149,7 @@
       <p>Goldstein involved a California statute outlawing "record piracy" -- the unauthorized duplication of recordings of performances by major musical artists. Petitioners there launched a multifaceted constitutional attack on the statute, but they did not argue that the statute violated the First Amendment. In rejecting this broad-based constitutional attack, the Court concluded:</p>
       <p>"The California statutory scheme evidences a legislative policy to prohibit 'tape piracy' and 'record piracy,' conduct that may adversely affect the continued production of new recordings, a large industry in California. Accordingly, the State has, by statute, given to recordings the attributes of property. No restraint has been placed on the use of an idea or concept; rather, petitioners and other individuals remain free to record the same compositions in precisely the same manner and with the same personnel as appeared on the original recording."</p>
       <p>"* * * *"</p>
-      <p>"Until and unless Congress takes further action with respect to recordings . . . , the California statute may be enforced against acts of piracy such as those which occurred in the present case."</p>
+      <p>"Until and unless Congress takes further action with respect to recordings . . ., the California statute may be enforced against acts of piracy such as those which occurred in the present case."</p>
       <p>412 U.S. at <a href="../us412/us412-0546.xml#p571">412 U. S. 571</a>. (Emphasis added.) We note that Federal District Courts have rejected First Amendment challenges to the federal copyright law on the ground that "no restraint [has been] placed on the use of an idea or concept." United States v. Bodin, <a href="https://law.justia.com/cases/federal/district-courts/FSupp/375/1265/1669878/">375 F. Supp. 1265</a>, 1267 (WD Okla.1974). See also Walt Disney Productions v. Air Pirates, 345 F, Supp. 108, 115-116 (ND Cal.1972) (citing Nimmer, Does Copyright Abridge The First Amendment Guarantees of Free Speech and Press?, 17 UCLA L.Rev. 1180 (1970), who argues that copyright law does not abridge the First Amendment because it does not restrain the communication of ideas or concepts); Robert Stigwood Group Ltd. v. O'Reilly, <a href="https://law.justia.com/cases/federal/district-courts/FSupp/346/376/1878623/">346 F. Supp. 376</a> (Conn.1972) (also relying on Nimmer, supra). Of course, this case does not involve a claim that respondent would be prevented by petitioner's "right of publicity" from staging or filming its own "human cannonball" act.</p>
       <p>In Kewanee. this Court upheld the constitutionality of Ohio's trade secret law, although again no First Amendment claim was presented. Citing Goldstein, the Court stated:</p>
       <p>"Just as the State may exercise regulatory power over writings, so may the States regulate with respect to discoveries. States may hold diverse viewpoints in protecting intellectual property relating to invention as they do in protecting the intellectual property relating to the subject matter of copyright. The only limitation on the States is that, in regulating the area of patents and copyrights, they do not conflict with the operation of the laws in this area passed by Congress. . . ."</p>

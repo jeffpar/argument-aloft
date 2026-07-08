@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us345-0001.html" citation="345 U.S. 1" title="United States v. Reynolds">
   <opinion type="Opinions &amp; Dissents">
     <n id="p1">1</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Reynolds, <a href="./us345-0001.xml#p1">345 U.S. 1</a> (1953)</h>
-    <h>United States v. Reynolds</h>
-    <h>No. 21. Argued October 21, 1952</h>
-    <h>Decided March 9, 1953</h>
-    <h><a href="./us345-0001.xml#p1">345 U.S. 1</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE THIRD CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Reynolds, <a href="./us345-0001.xml#p1">345 U.S. 1</a> (1953)</h1>
+    <h2>United States v. Reynolds</h2>
+    <h4>No. 21. Argued October 21, 1952</h4>
+    <h4>Decided March 9, 1953</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE THIRD CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>A military aircraft on a flight to test secret electronic equipment crashed, and certain civilian observers aboard were killed. Their widows sued the United States under the Tort Claims Act and moved under Rule 34 of the Federal Rules of Civil Procedure for production of the Air Force's accident investigation report and statements made by surviving crew members during the investigation. The Secretary of the Air Force filed a formal claim of privilege, stating that the matters were privileged against disclosure under Air Force regulations issued under R.S. § 161, and that the aircraft and its personnel were "engaged in a highly secret mission." The Judge Advocate General filed an affidavit stating that the material could not be furnished "without seriously hampering national security," but he offered to produce the surviving crew members for examination by plaintiffs and to permit them to testify as to all matters except those of a "classified nature."</p>
     <p>Held: in this case, there was a valid claim of privilege under Rule 34; and a judgment based under Rule 37 on refusal to produce the documents subjected the United States to liability to which Congress did not consent by the Tort Claims Act. Pp. <a href="./us345-0001.xml#p2">345 U. S. 2</a>-12.</p>
     <p>(a) As used in Rule 34, which compels production only of matters "not privileged," the term "not privileged" refers to "privileges" as that term is understood in the law of evidence. P. <a href="./us345-0001.xml#p6">345 U. S. 6</a>.</p>
@@ -89,7 +89,7 @@
       <p>"* * * *"</p>
       <p>"(b) Failure to Comply With Order."</p>
       <p>"* * * *"</p>
-      <p>"(2) Other Consequences. If any party or an officer or managing agent of a party refuses to obey . . . an order made under Rule 34 to produce any document . . . , the court may make such orders in regard to the refusal as are just, and, among others, the following: "</p>
+      <p>"(2) Other Consequences. If any party or an officer or managing agent of a party refuses to obey . . . an order made under Rule 34 to produce any document . . ., the court may make such orders in regard to the refusal as are just, and, among others, the following: "</p>
       <p>"(i) An order that the matters regarding which the questions were asked, or the character or description of the thing or land, or the contents of the paper, or the physical or mental condition of the party, or any other designated facts shall be taken to be established for the purposes of the action in accordance with the claim of the party obtaining the order. . . ."</p>
     </f>
     <f n="8"><a id="fn8" href="#nf8">Footnote 8</a>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us493-0146.html" citation="493 U.S. 146" title="John Doe Agcy. v. John Doe Corp.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p146">146</n>
-    <h>U.S. Supreme Court</h>
-    <h>John Doe Agcy. v. John Doe Corp., <a href="./us493-0146.xml#p146">493 U.S. 146</a> (1989)</h>
-    <h>John Doe Agency v. John Doe Corporation</h>
-    <h>No. 88-1083</h>
-    <h>Argued Oct. 2, 1989</h>
-    <h>Decided Dec. 11, 1989</h>
-    <h><a href="./us493-0146.xml#p146">493 U.S. 146</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE SECOND CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>John Doe Agcy. v. John Doe Corp., <a href="./us493-0146.xml#p146">493 U.S. 146</a> (1989)</h1>
+    <h2>John Doe Agency v. John Doe Corporation</h2>
+    <h2>No. 88-1083</h2>
+    <h4>Argued Oct. 2, 1989</h4>
+    <h4>Decided Dec. 11, 1989</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE SECOND CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>In connection with a 1978 periodic audit, respondent defense contractor and petitioner Defense Contract Auditing Agency (DCAA) corresponded concerning respondent's accounting treatment of certain costs. Eight years later, a federal grand jury investigating possible fraudulent practices by respondent issued a subpoena requesting respondent's documents relating to the 1978 cost allocation question. Respondent submitted to the DCAA a Freedom of Information Act (FOIA) request for any documents relating to the subject matter of their correspondence. The DCAA denied the request citing, inter alia, Exemption 7(A) of the FOIA, which exempts from disclosure "records or information compiled for law enforcement purposes" under certain circumstances. Two days later, the requested records were transferred to petitioner Federal Bureau of Investigation, which denied respondent's renewed FOIA request, citing Exemption 7(A). Respondent sought review in the District Court, which ruled that petitioners were not required to turn over any of the documents and dismissed the complaint, stating that disclosure would jeopardize the grand jury proceeding. The Court of Appeals reversed, ruling that the Government may not invoke Exemption 7(A) to protect from disclosure materials that were not investigatory records when originally collected, but have since acquired investigative significance.</p>
     <p>Held: Exemption 7(A) may be invoked to prevent the disclosure of documents not originally created for, but later gathered for, law enforcement purposes. The plain words of the statute contain no requirement that compilation be effected at a specific time, but merely require that the objects sought be compiled when the Government invokes the Exemption. The Court of Appeals erred in interpreting the word "compile" to mean "originally compiled," since "compiled" naturally refers to the process of gathering at one time records and information that were generated on an earlier occasion, and for a different purpose. This reading of the statute recognizes the balance struck by Congress between the public's interest in greater access to information and the Government's need to protect certain kinds of information from disclosure, and is supported by the FOIA's legislative history. Pp. <a href="./us493-0146.xml#p153">493 U. S. 153</a>-158.</p>
     <p>850 F.2d 105 (CA 21988), reversed and remanded.</p>
@@ -23,7 +23,7 @@
     <n id="p148">148</n>
     <p>a lawful national security intelligence investigation, information furnished by a confidential source, (E) would disclose techniques and procedures for law enforcement investigations or prosecutions, or would disclose guidelines for law enforcement investigations or prosecutions if such disclosure could reasonably be expected to risk circumvention of the law, or (F) could reasonably be expected to endanger the life or physical safety of any individual. . . ."</p>
     <p>Our focus is on the Exemption's threshold requirement that the materials be "records or information compiled for law enforcement purposes."</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Respondent John Doe Corporation (Corporation) is a defense contractor. As such, it is subject to periodic audits by the Defense Contract Audit Agency (DCAA), the accounting branch of the Department of Defense. [<a id="nf1" href="#fn1">Footnote 1</a>] See 32 CFR §§ 357.2 and 357.4 (1988). In 1978, in connection with an audit, an exchange of correspondence took place between the DCAA and the Corporation concerning the proper accounting treatment of certain costs. The Government auditor, by letter dated May 2 of that year, claimed that the costs should have been charged to identifiable programs instead of to a technical overhead account. About $4.7 million in 1977 costs were discussed. The Corporation, by letter dated July 11, replied and defended its allocation. App. 22-28. No</p>
     <n id="p149">149</n>
     <p>further action regarding the allocation of those costs was taken by the DCAA or the Corporation during the next eight years.</p>
@@ -43,7 +43,7 @@
     <p>to Congress. [<a id="nf3" href="#fn3">Footnote 3</a>] Ibid. The court ruled, nonetheless, that on remand the Government was to be allowed to bring to the District Court's attention "any particular matter that, if disclosed, would expose some secret aspect of the grand jury's investigation." Id. at 110.</p>
     <p>The court refused to stay its mandate; it was issued on November 28, 1988.App. to Pet. for Cert. 15a. On remand, the District Court concluded that the Second Circuit's opinion required that the Vaughn Index be turned over to the Corporation. App. 86. The Court of Appeals, on January 16, 1989, refused to stay the District Court's order requiring the furnishing of the Index, id. at 96, but later that same day the Circuit Justice entered a temporary stay pending a response from the Corporation. On January 30, the Circuit Justice granted a full stay. See <a href="../us488/us488-1306.xml#p1306">488 U. S. 488</a> U.S. 1306 (MARSHALL, J., in chambers).</p>
     <p>Because of the importance and sensitivity of the issue and because of differing interpretations of the pertinent language of Exemption 7, [<a id="nf4" href="#fn4">Footnote 4</a>] we granted certiorari. 489 U.S. 1009 (1989).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>This Court repeatedly has stressed the fundamental principle of public access to Government documents that animates the FOIA.</p>
     <p>"Without question, the Act is broadly conceived. It seeks to permit access to official information long shielded unnecessarily from public view and attempts to create a judicially enforceable public right to secure such information from possibly unwilling official hands."</p>
     <p><a href="../us410/us410-0073.xml#p73">EPA v. Mink</a>, 410</p>
@@ -58,7 +58,7 @@
     <p>H.R. Rep. No. 1497, 89th Cong., 2d Sess., 6 (1966), U.S.Code Cong. &amp; Admin.News 1966, pp. 2418, 2423. See also EPA v. Mink, 410</p>
     <n id="p153">153</n>
     <p>U.S. at <a href="../us410/us410-0073.xml#p80">410 U. S. 80</a>. The Act's broad provisions favoring disclosure, coupled with the specific exemptions, reveal and present the "balance" Congress has struck.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>We have noted above that our focus here is on § 552(b)(7)'s exemption from production of "records or information compiled for law enforcement purposes" to the extent that such production meets any one of six specified conditions or enumerated harms. Before it may invoke this provision, the Government has the burden of proving the existence of such a compilation for such a purpose. In deciding whether Exemption 7 applies, moreover, a court must be mindful of this Court's observations that the FOIA was not intended to supplement or displace rules of discovery. See Robbins Tire, 437 U.S. at <a href="../us437/us437-0214.xml#p236">437 U. S. 236</a>-239, 242 (STEVENS, J., concurring). See also United States v. Weber Aircraft Corp., <a href="../us465/us465-0792.xml#p792">465 U. S. 792</a>, <a href="../us465/us465-0792.xml#p801">465 U. S. 801</a>-802 (1984). Indeed, the Court of Appeals acknowledged that this was not a principal intention of Congress. 850 F.2d at 108.</p>
     <p>As is customary, we look initially at the language of the statute itself. The wording of the phrase under scrutiny is simple and direct: "compiled for law enforcement purposes." The plain words contain no requirement that compilation be effected at a specific time. The objects sought merely must have been "compiled" when the Government invokes the Exemption. A compilation, in its ordinary meaning, is something composed of materials collected and assembled from various sources or other documents. See Webster's Third New International Dictionary 464 (1961); Webster's Ninth New Collegiate Dictionary 268 (1983). This definition seems readily to cover documents already collected by the Government originally for non-law-enforcement purposes. See Gould Inc. v. GSA, <a href="https://law.justia.com/cases/federal/district-courts/FSupp/688/689/2134480/">688 F. Supp. 689</a>, 698 (DC 1988).</p>
     <n id="p154">154</n>

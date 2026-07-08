@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us463-0110.html" citation="463 U.S. 110" title="Nevada v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p110">110</n>
-    <h>U.S. Supreme Court</h>
-    <h>Nevada v. United States, <a href="./us463-0110.xml#p110">463 U.S. 110</a> (1983)</h>
-    <h>Nevada v. United States</h>
-    <h>No. 81-2245</h>
-    <h>Argued April 27, 1983</h>
-    <h>Decided June 24, 1983<a href="./us463-0110.xml#p110">463 U.S. 110</a>ast|&gt;*</h>
-    <h><a href="./us463-0110.xml#p110">463 U.S. 110</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Nevada v. United States, <a href="./us463-0110.xml#p110">463 U.S. 110</a> (1983)</h1>
+    <h2>Nevada v. United States</h2>
+    <h2>No. 81-2245</h2>
+    <h4>Argued April 27, 1983</h4>
+    <h4>Decided June 24, 1983<a href="./us463-0110.xml#p110">463 U.S. 110</a>ast|&gt;*</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>In 1913, the United States sued in Federal District Court, in what is known as the Orr Ditch litigation, to adjudicate water rights to the Truckee River for the benefit of both the Pyramid Lake Indian Reservation (Reservation) and the Newlands Reclamation Project (Project). Named as defendants were all water users on the Truckee River in Nevada. Eventually, in 1944, the District Court entered a final decree, pursuant to a settlement agreement, awarding various water rights to the Reservation and the Project, which by this time was now under the management of the Truckee-Carson Irrigation District (TCID). In 1973, the United States filed the present action in the same District Court on behalf of the Reservation, seeking additional rights to the Truckee River, and the Pyramid Lake Paiute Tribe (Tribe) was permitted to intervene in support of the United States. Named as defendants were all persons presently claiming water rights to the Truckee River and its tributaries in Nevada, including the defendants in the Orr Ditch litigation and their successors, individual farmers who owned land in the Project, and the TCID. The defendants asserted res judicata as an affirmative defense, claiming that the United States and the Tribe were precluded by the Orr Ditch decree from litigating the asserted claim. The District Court sustained the defense and dismissed the complaint. The Court of Appeals affirmed in part and reversed in part, holding that the Orr Ditch decree concluded the dispute between, on the one hand, the Orr Ditch defendants, their successors in interest, and subsequent appropriators of the Truckee River, and, on the other hand, the United States and the Tribe, but not the dispute between the Tribe and the Project landowners. The court found that, since neither the Tribe nor the Project landowners were parties in Orr Ditch, but instead were represented by the United States, and since their interests may have conflicted in that proceeding, it could not be found that the United States had intended to bind these nonparties inter se, absent a specific statement of adversity in the pleadings.</p>
     <n id="p111">111</n>
     <p>Held: Res judicata prevents the United States and the Tribe from litigating the instant claim. Pp. <a href="./us463-0110.xml#p121">463 U. S. 121</a>-145.</p>
@@ -25,7 +25,7 @@
     <p>JUSTICE REHNQUIST delivered the opinion of the Court.</p>
     <p>In 1913, the United States sued to adjudicate water rights to the Truckee River for the benefit of the Pyramid Lake Indian Reservation and the planned Newlands Reclamation Project. Thirty-one years later, in 1944, the United States District Court for the District of Nevada entered a final decree in the case pursuant to a settlement agreement. In 1973. the United States filed the present action in the same court on behalf of the Pyramid Lake Indian Reservation, seeking additional water rights to the Truckee River. The issue thus presented is whether the Government may partially undo the 1944 decree, or whether principles of res judicata prevent it, and the intervenor Pyramid Lake Paiute Tribe, from litigating this claim on the merits.</p>
     <n id="p114">114</n>
-    <h>I</h>
+    <h2>I</h2>
     <p>Nevada has, on the average, less precipitation than any other State in the Union. Except for drainage in the southeastern part of the State into the Colorado River, and drainage in the northern part of the State into the Columbia River, the rivers that flow in Nevada generally disappear into "sinks." Department of Agriculture Yearbook, Climate and Man (1941). The present litigation relates to water rights in the Truckee River, one of the three principal rivers flowing through west central Nevada. It rises in the High Sierra in Placer County, Cal., flows into and out of Lake Tahoe, and thence down the eastern slope of the Sierra Nevada mountains. It flows through Reno, Nev., and, after a course of some 120 miles, debouches into Pyramid Lake, which has no outlet.</p>
     <p>It has been said that Pyramid Lake is</p>
     <p>"widely considered the most beautiful desert lake in North America [and that its] fishery [has] brought it worldwide fame. A species of cutthroat trout . . . grew to world record size in the desert lake and attracted anglers from throughout the world."</p>
@@ -62,7 +62,7 @@
     <n id="p121">121</n>
     <p>under the earlier pleadings or unless the specific issue in dispute was actually litigated in the earlier case and the court found that neither exception applied here.</p>
     <p>The Court of Appeals conceded that "[a] strict adversity requirement does not necessarily fit the realities of water adjudications." 649 F.2d at 1309. Nevertheless, the court found that, since neither the Tribe nor the Project landowners were parties in Orr Ditch, but instead were both represented by the United States, and since their interests may have conflicted in that proceeding, the court would not find that the Government had intended to bind these nonparties inter se absent a specific statement of adversity in the pleadings. We granted certiorari in the cases challenging the Court of Appeals' decision, 459 U.S. 904 (1982), and we now affirm in part and reverse in part.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The Government opens the "Summary of Argument" portion of its brief by stating:</p>
     <p>"The court of appeals has simply permitted a reallocation of the water decreed in Orr Ditch to a single party -- the United States -- from reclamation uses to a Reservation use with an earlier priority. The doctrine of res judicata does not bar a single party from reallocating its water in this fashion. . . ."</p>
     <p>Brief for United States 21. We are bound to say that the Government's position, if accepted, would do away with half a century of decided case law relating to the Reclamation Act of 1902 and water rights in the public domain of the West.</p>
@@ -98,7 +98,7 @@
     <p>But Congress in its wisdom, when it enacted the Reclamation Act of 1902, required the Secretary of the Interior to assume substantial obligations with respect to the reclamation of arid lands in the western part of the United States. Additionally, in § 26 of the Act of Apr. 21, 1904, 33 Stat. 225, Congress provided for the inclusion of irrigable lands of the Pyramid Lake Indian Reservation within the Newlands Project, and further authorized the Secretary, after allotting five acres of such land to each Indian belonging to the Reservation, to reclaim and dispose of the remainder of the irrigable Reservation land to settlers under the Reclamation Act.</p>
     <p>Today, particularly from our vantage point nearly half a century after the enactment of the Indian Reorganization Act of 1934, 48 Stat. 984, 25 U.S.C. § 461 et seq., it may well appear that Congress was requiring the Secretary of the Interior to carry water on at least two shoulders when it delegated to him both the responsibility for the supervision of the Indian tribes and the commencement of reclamation projects in areas adjacent to reservation lands. But Congress chose to do this, and it is simply unrealistic to suggest that the Government may not perform its obligation to represent Indian tribes in litigation when Congress has obliged it to represent other interests as well. In this regard, the Government cannot follow the fastidious standards of a private fiduciary, who would breach his duties to his single beneficiary solely by representing potentially conflicting interests without the beneficiary's consent. The Government does not "compromise" its obligation to one interest that Congress obliges it to represent by the mere fact that it simultaneously performs another task for another interest that Congress has obligated it by statute to do.</p>
     <p>With these observations in mind, we turn to the principles of res judicata that we think are involved in this case.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Recent cases in which we have discussed principles of estoppel by judgment include <a href="../us452/us452-0394.xml#p394">Federated Department Stores</a>,</p>
     <n id="p129">129</n>
     <p>Inc. v. Moitie, <a href="../us452/us452-0394.xml#p394">452 U. S. 394</a> (1981); Allen v. McCurry, <a href="../us449/us449-0090.xml#p90">449 U. S. 90</a> (1980); Brown v. Felsen, <a href="../us442/us442-0127.xml#p127">442 U. S. 127</a> (1979); Montana v. United States, <a href="../us440/us440-0147.xml#p147">440 U. S. 147</a> (1979). But what we said with respect to this doctrine more than 80 years ago is still true today; it ensures</p>
@@ -189,7 +189,7 @@
     <n id="p144">144</n>
     <p>personam actions, water adjudications are more in the nature of in rem proceedings. Nonparties such as the subsequent appropriators in these cases have relied just as much on the Orr Ditch decree in participating in the development of western Nevada as have the parties of that case. We agree with the Court of Appeals that under "these circumstances it would be manifestly unjust . . . not to permit subsequent appropriators" to hold the Reservation to the claims it made in Orr Ditch; "[a]ny other conclusion would make it impossible ever finally to quantify a reserved water right." 649 F.2d at 1309. [<a id="nf16" href="#fn16">Footnote 16</a>]</p>
     <n id="p145">145</n>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>In conclusion, we affirm the Court of Appeals' finding that the cause of action asserted below and the cause of action asserted in Orr Ditch are one and the same. We also affirm the Court of Appeals' finding that the Orr Ditch decree concluded the controversy on this cause of action between, on the one hand, the Orr Ditch defendants, their successors in interest, and subsequent appropriators of the Truckee River, and, on the other hand, the United States and the Tribe. We reverse the Court of Appeals, however, with respect to its finding concerning TCID, and the Project farmers it represents, and hold instead that the Orr Ditch decree also ended the dispute raised between these parties and the plaintiffs below.</p>
     <p>It is so ordered.</p>
     <p>* Together with No. 81-2276, Truckee-Carson Irrigation District v. United States et al.; and No. 82-38, Pyramid Lake Paiute Tribe of Indians v. Truckee-Carson Irrigation District et al., also on certiorari to the same court.</p>

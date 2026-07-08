@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us339-0725.html" citation="339 U.S. 725" title="United States v. Gerlach Live Stock Co.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p725">725</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Gerlach Live Stock Co., <a href="./us339-0725.xml#p725">339 U.S. 725</a> (1950)</h>
-    <h>United States v. Gerlach Live Stock Co.</h>
-    <h>No. 4</h>
-    <h>Argued March 1, 1949</h>
-    <h>Reargued March 29-30, 1950</h>
-    <h>Decided June 5, 1950<a href="./us339-0725.xml#p725">339 U.S. 725</a>ast|&gt;*</h>
-    <h><a href="./us339-0725.xml#p725">339 U.S. 725</a></h>
-    <h>CERTIORARI TO THE COURT OF CLAIMS</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Gerlach Live Stock Co., <a href="./us339-0725.xml#p725">339 U.S. 725</a> (1950)</h1>
+    <h2>United States v. Gerlach Live Stock Co.</h2>
+    <h2>No. 4</h2>
+    <h4>Argued March 1, 1949</h4>
+    <h4>Reargued March 29-30, 1950</h4>
+    <h4>Decided June 5, 1950<a href="./us339-0725.xml#p725">339 U.S. 725</a>ast|&gt;*</h4>
+    <h2>CERTIORARI TO THE COURT OF CLAIMS</h2>
+    <h2>Syllabus</h2>
     <p>Respondents are owners of so-called "uncontrolled grass lands" along the San Joaquin River in California which depend for water upon seasonal inundations resulting from overflows of the River. The value of these lands will be impaired by the construction by the United States of the Friant Dam and its dependent irrigation system, as part of the Central Valley Project, a gigantic undertaking by the Federal Government to redistribute the principal fresh water resources of California. While the project will have some relatively insignificant effects on navigation, its principal economic effects pertain to values realized from storage and redistribution of water for power, irrigation, reclamation, flood control, and other similar purposes. Claiming under California law riparian rights to the benefits from the annual inundations of their lands, respondents sued in the Court of Claims for compensation. The Government contended that the damage was noncompensable, on the ground that the entire project was authorized by Congress, under the commerce power, as a measure for the control of navigation.</p>
     <p>Held: judgments of the Court of Claims in favor of respondents are affirmed. Pp. <a href="./us339-0725.xml#p727">339 U. S. 727</a>-756.</p>
     <p>1. Even if it be assumed that Friant Dam bears some relation to control of navigation, nevertheless Congress elected to treat it as a reclamation project, to recognize any state-created rights and to take them under its power of eminent domain, and the provisions of the Reclamation Act, 43 U.S.C. §§ 371 et seq., providing for reimbursement, are applicable to these claims. Pp. <a href="./us339-0725.xml#p731">339 U. S. 731</a>-742.</p>
@@ -43,7 +43,7 @@
     <p>Uncontrolled grass lands involved in the claims are parts of a large riparian area which benefits from the natural seasonal overflow of the stream. Each year, with predictable regularity, the stream swells and submerges and saturates these low-lying lands. They are moistened and enriched by these inundations, so that forage and pasturage thrive, as otherwise they cannot. The high stage of the river, while fluctuating in height and variable in arrival, is not a flood in the sense of an abnormal and sudden deluge. The river rises and falls in rhythm with the cycle of seasons, expansion being normal for its time as curtailment is for others, and both are repeated with considerable constancy over the years. It should be noted, however, that claimants' benefit comes only from the very crest of this seasonal stage, which crest must be elevated and borne to their lands on the base of a full river, none of which can be utilized for irrigation above and little of it below them. Their claim of right is, in other words, to enjoy natural, seasonal fluctuation unhindered, which presupposes a peak flow largely unutilized.</p>
     <p>The project puts an end to all this. Except at rare intervals, there will be no spill over Friant Dam, the bed of the San Joaquin along claimants' lands will be parched, and their grass lands will be barren. Unlike the supply utilized for nearby crop and "controlled" lands, the vanishing San Joaquin inundation cannot be replaced with Sacramento water. Claimants have been severally awarded compensation for this taking of their annual inundations on the theory that, as part of the natural flow, its continuance is a right annexed to their riparian property. 111 Ct.Cl. 1, 89, 76 F. Supp. 87, 99. The principal issues are common to the six cases in which we granted certiorari. 335 U.S. 883.</p>
     <n id="p731">731</n>
-    <h>I</h>
+    <h2>I</h2>
     <p>. NAVIGATION OR RECLAMATION PROJECT? The Solicitor General contends that this overall project, and each part of it, has been authorized by Congress, under the commerce power, as a measure for control of navigation. Claimants, on the other hand, urge that, although improvement of navigation was one objective of the Central Valley undertaking as a whole, nevertheless construction of the Friant Dam and the consequent taking of San Joaquin water rights had no purpose or effect except for irrigation and reclamation. This, it is claimed, was not only the actual, but the avowed, purpose of Congress. On these conflicting assumptions, the parties predicate contrary conclusions as to the right to compensation.</p>
     <p>In the Rivers and Harbors Act of August 26, 1937, § 2, 50 Stat. 844, 850, and again in the Rivers and Harbors Act of October 17, 1940, 54 Stat. 1198, 1199-1200, Congress said that</p>
     <p>"The entire Central Valley project . . . is . . . declared to be for the purposes of improving navigation, regulating the flow of the San Joaquin River and the Sacramento River, controlling floods, providing for storage and for the delivery of the stored waters thereof. . . ."</p>
@@ -87,7 +87,7 @@
     <n id="p742">742</n>
     <p>the escrow fund in an amount not exceeding $9 per acre. However, if final judgments dismiss the claims, the escrowed funds go to Miller &amp; Lux. The substance of this strange transaction is that the Government, which now asks us to hold that there are no such riparian rights, has already bought and paid for them at the price which the Court of Claims has allowed. The results of the Government's bargain are that, if we hold there are no rights, Miller &amp; Lux will be paid for them, and, if we hold there are such rights, they will be paid from what otherwise goes to Miller &amp; Lux. As to these three cases, the Government is defending against the claims not as the real party in interest, but because it undertook to do so on behalf of Miller &amp; Lux.</p>
     <p>Of course, this Court is not bound by administrative mistakes. If the Government had contracted to pay for rights which are nonexistent, it would not preclude us from upholding later and better advised contentions. But when a project has been regarded by the highest Executive authorities as a reclamation project, and has been carried as such from its initiation to final payment for these rights, and Congress, knowing its history, has given the approvals that it has, we think there is no ground for asking us to hold that the provisions of the Reclamation Act do not apply. We hold that they do apply, and therefore turn, as that Act bids us, to the laws of the State to determine the rights and liabilities of landowner and appropriator.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>. CLAIMANTS' RIPARIAN RIGHTS UNDER CALIFORNIA LAW The adversaries in this case invoke rival doctrines of water law which have been in competition throughout California legal history. The claims are expressly based on common law riparian rights doctrines as declared by California courts. The United States, on the other hand,</p>
     <n id="p743">743</n>
     <p>by virtue of the Reclamation Act, stands in the position of an upstream appropriator for a beneficial use.</p>
@@ -149,7 +149,7 @@
     <n id="p755">755</n>
     <p>courts have recognized a private right to have no interception of their flow except upon compensation.</p>
     <p>We think the awards of the Court of Claims correctly applied the law of California as made applicable to these claims by Congress.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>. OTHER ISSUES The Government also assigns as error determination of the date from which interest is to be allowed. The Court of Claims adopted as the date of taking the first substantial impoundment of water which occurred on October 20, 1941, even though it had not then prevented benefits from reaching the property. The contract between the Government and Miller &amp; Lux contemplated this as the date of taking, for it puts the $511,350 in escrow to protect the Government against suits "initiated prior to the sixth anniversary after the initial storage or diversion." Since the Government itself has adopted this date for the expiration of its protection by contract, we see no reason why it should challenge the Court of Claims for use of the same date for accrual of the claims. Regardless of how this might have been fixed in the absence of such an administrative determination, we decline to set aside the finding on this subject.</p>
     <p>Second, the Government claims that the court below misconstrued reservations in the deeds between the three claimants and Miller &amp; Lux. It is not apparent from the facts we have recited that the Government is the real party in interest as to this question, which seems to be in the nature of a private controversy between claimants and Miller &amp; Lux. In any event, it presents a question of conveyancing and real property law peculiar to this one case, and depending on local law. It is not a question of general interest, nor is there any manifest error, and we accept, without review, the finding of the Court of Claims thereon.</p>
     <n id="p756">756</n>

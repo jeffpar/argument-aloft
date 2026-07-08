@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us426-0271.html" citation="426 U.S. 271" title="FPC v. Conway Corp.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p271">271</n>
-    <h>U.S. Supreme Court</h>
-    <h>FPC v. Conway Corp., <a href="./us426-0271.xml#p271">426 U.S. 271</a> (1976)</h>
-    <h>Federal Power Commission v. Conway Corp.</h>
-    <h>No. 75-342</h>
-    <h>Argued April 21, 1976</h>
-    <h>Decided June 7, 1976</h>
-    <h><a href="./us426-0271.xml#p271">426 U.S. 271</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE DISTRICT OF COLUMBIA CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>FPC v. Conway Corp., <a href="./us426-0271.xml#p271">426 U.S. 271</a> (1976)</h1>
+    <h2>Federal Power Commission v. Conway Corp.</h2>
+    <h2>No. 75-342</h2>
+    <h4>Argued April 21, 1976</h4>
+    <h4>Decided June 7, 1976</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE DISTRICT OF COLUMBIA CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>An Arkansas public utility company (hereinafter Company) that makes wholesale interstate electricity sales, as well as retail industrial sales in competition with some of its wholesale customers (including respondents, seven municipally owned electric systems and two cooperatives, operating within Arkansas) filed a wholesale rate increase with the Federal Power Commission (FPC). Respondents sought to intervene before the FPC, urging that the increase be rejected on the ground that it was</p>
     <p>"an attempt to squeeze [respondents] . . . out of competition and make them more susceptible to the persistent efforts of the Company to take over the publicly owned systems in the State."</p>
     <p>The FPC allowed only limited intervention, excluding the alleged anticompetitive activities as outside the FPC's jurisdiction, which does not reach retail sales. The Court of Appeals, on review, took a contrary position, holding that the Company's retail rates</p>
-    <p>"in a market in which it is competing with its own customers are part of the factual context in which the proposed wholesale rate will function . . . ,"</p>
+    <p>"in a market in which it is competing with its own customers are part of the factual context in which the proposed wholesale rate will function . . .,"</p>
     <p>and should be considered in determining whether or not the rate increase was just and reasonable.</p>
     <p>Held: The FPC's jurisdiction to review a petition to set aside or reduce a public utility's wholesale electric rate increase permits consideration of the utility's alleged purpose to forestall its customers from competing with it at retail. Pp. <a href="./us426-0271.xml#p276">426 U. S. 276</a>-282.</p>
     <p>(a) Though the Federal Power Act confers jurisdiction on the FPC with respect to the sale of electric energy at wholesale in interstate commerce, and the FPC has no authority to correct an alleged discriminatory relationship between wholesale and retail rates by regulating the nonjurisdictional, retail price, § 205(b) of the Act forbids the maintenance of any "unreasonable difference in rates" or service "with respect to any . . . sale" subject to the FPC's jurisdiction, and a jurisdictional sale is necessarily implicated in respondents' charge that the difference between the Company's wholesale and retail rates is unreasonable</p>
@@ -29,7 +29,7 @@
     <p>The question in this case is this: when a power company that sells electricity at both wholesale and retail seeks to raise its wholesale rates, does the Federal Power Commission (Commission) have jurisdiction to consider the allegations of the company's wholesale customers</p>
     <n id="p273">273</n>
     <p>that the proposed wholesale rates, which are within the Commission's jurisdiction, are discriminatory and noncompetitive when considered in relation to the company's retail rates, which are not within the jurisdiction of the Commission? We hold that it does.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Arkansas Power &amp; Light Co. (Company) is a public utility engaged in the sale of electric energy at wholesale in interstate commerce under the meaning of § 201 of the Federal Power Act (Act), as added, 49 Stat. 847, 16 U.S.C. § 824. Its wholesale rates are thus within reach of the Commission's powers under § 206(a) of the Act to establish rates which are just, reasonable, and nondiscriminatory. 16 U.S.C. § 824e(a). [<a id="nf1" href="#fn1">Footnote 1</a>] The Company also sells at retail, and seeks industrial sales in competition with some of its wholesale customers. These wholesale customers include the seven municipally owned</p>
     <n id="p274">274</n>
     <p>electric systems and the two electric power cooperatives which are respondents here. [<a id="nf2" href="#fn2">Footnote 2</a>] Each of these respondents (Customers) operates in the State of Arkansas, and each borders on or is surrounded by the territory served by the Company.</p>
@@ -47,9 +47,9 @@
     <p>Id. at 55.</p>
     <p>The Customers sought review of the Commission's action in the Court of Appeals for the District of Columbia Circuit. The Court of Appeals, disagreeing with the Commission's view as to the reach of its powers, held</p>
     <n id="p276">276</n>
-    <p>that the Commission's jurisdiction over wholesale rates for electricity sold in interstate commerce furnished the necessary authority to consider the alleged discriminatory and anticompetitive effects of the requested increase. The Company's retail rates, the court held, "in a market in which it is competing with its own customers are part of the factual context in which the proposed wholesale rate will function . . . ," and should be considered in determining whether or not the rate increase was just and reasonable. 167 U.S.App.D.C. 43, 52, 510 F.2d 1264, 1273 (1975). The case was therefore remanded to the Commission for further proceedings.</p>
+    <p>that the Commission's jurisdiction over wholesale rates for electricity sold in interstate commerce furnished the necessary authority to consider the alleged discriminatory and anticompetitive effects of the requested increase. The Company's retail rates, the court held, "in a market in which it is competing with its own customers are part of the factual context in which the proposed wholesale rate will function . . .," and should be considered in determining whether or not the rate increase was just and reasonable. 167 U.S.App.D.C. 43, 52, 510 F.2d 1264, 1273 (1975). The case was therefore remanded to the Commission for further proceedings.</p>
     <p>We granted the Commission's petition for certiorari to consider the question whether the Court of Appeals had correctly construed the statutes controlling the Commission's jurisdiction. 423 U.S. 945 (1975). We now affirm the judgment of the Court of Appeals.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Section 201(b) of the Act, 16 U.S.C. § 824(b), confers jurisdiction on the Commission with respect to the sale of electric energy at wholesale in interstate commerce. [<a id="nf4" href="#fn4">Footnote 4</a>] The prohibition against discriminatory or preferential rates or services imposed by § 205(b) and the Commission's power to set just and reasonable rates under § 206(a) are accordingly limited to sales "subject to the jurisdiction of the Commission," that is,, to sales of electric energy at wholesale. The Commission has no power to prescribe the rates for retail sales of power companies. Nor, accordingly, would it have power to remedy</p>
     <n id="p277">277</n>
     <p>an alleged discriminatory or anticompetitive relationship between wholesale and retail rates by ordering the company to increase its retail rates.</p>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us473-0667.html" citation="473 U.S. 667" title="United States v. Bagley">
   <opinion type="Opinions &amp; Dissents">
     <n id="p667">667</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Bagley, <a href="./us473-0667.xml#p667">473 U.S. 667</a> (1985)</h>
-    <h>United States v. Bagley</h>
-    <h>No. 84-48</h>
-    <h>Argued March 20, 1985</h>
-    <h>Decided July 2, 1985</h>
-    <h><a href="./us473-0667.xml#p667">473 U.S. 667</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE</h>
-    <h>NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Bagley, <a href="./us473-0667.xml#p667">473 U.S. 667</a> (1985)</h1>
+    <h2>United States v. Bagley</h2>
+    <h2>No. 84-48</h2>
+    <h4>Argued March 20, 1985</h4>
+    <h4>Decided July 2, 1985</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE</h2>
+    <h2>NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondent was indicted on charges of violating federal narcotics and firearms statutes. Before trial, he filed a discovery motion requesting, inter alia, "any deals, promises or inducements made to [Government] witnesses in exchange for their testimony." The Government's response did not disclose that any "deals, promises or inducements" had been made to its two principal witnesses, who had assisted the Bureau of Alcohol, Tobacco and Firearms (ATF) in conducting an undercover investigation of respondent. But the Government did produce signed affidavits by these witnesses recounting their undercover dealing with respondent and concluding with the statement that the affidavits were made without any threats or rewards or promises of reward. Respondent waived his right to a jury trial and was tried before the District Court. The two principal Government witnesses testified about both the firearms and narcotics charges, and the court found respondent guilty on the narcotics charges but not guilty on the firearms charges. Subsequently, in response to requests made pursuant to the Freedom of Information Act and the Privacy Act, respondent received copies of ATF contracts signed by the principal Government witnesses during the undercover investigation and stating that the Government would pay money to the witnesses commensurate with the information furnished. Respondent then moved to vacate his sentence, alleging that the Government's failure in response to the discovery motion to disclose these contracts, which he could have used to impeach the witnesses, violated his right to due process under Brady v. Maryland, <a href="../us373/us373-0083.xml#p83">373 U. S. 83</a>, which held that the prosecution's suppression of evidence favorable to an accused upon request violates due process where the evidence is material either to guilt or punishment. The District Court denied the motion, finding beyond a reasonable doubt that, had the existence of the ATF contracts been disclosed to it during trial, the disclosure would not have affected the outcome, because the principal Government witnesses' testimony was primarily devoted to the firearms charges on which respondent was acquitted, and was exculpatory on the narcotics charges. The Court of Appeals reversed, holding that the Government's failure to disclose the requested impeachment evidence that respondent could have used to conduct an effective cross-examination of the Government's principal</p>
     <n id="p668">668</n>
     <p>witnesses required automatic reversal. The Court of Appeals also stated that it "disagree[d]" with the District Court's conclusion that the nondisclosure was harmless beyond a reasonable doubt, noting that the witnesses' testimony was in fact inculpatory on the narcotics charges.</p>
@@ -27,7 +27,7 @@
     <p>In Brady v. Maryland, <a href="../us373/us373-0083.xml#p83">373 U. S. 83</a>, <a href="./us473-0061.xml#p87">473 U. S. 87</a> (1963), this Court held that</p>
     <p>"the suppression by the prosecution of evidence favorable to an accused upon request violates due process where the evidence is material either to guilt or punishment."</p>
     <p>The issue in the present case concerns the standard of materiality to be applied in determining whether a conviction should be reversed because the prosecutor failed to disclose requested evidence that could have been used to impeach Government witnesses.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In October, 1977, respondent Hughes Anderson Bagley was indicted in the Western District of Washington on 15 charges of violating federal narcotics and firearms statutes. On November 18, 24 days before trial, respondent filed a discovery motion. The sixth paragraph of that motion requested:</p>
     <p>"The names and addresses of witnesses that the government intends to call at trial. Also the prior criminal records of witnesses, and any deals, promises or inducements</p>
     <n id="p670">670</n>
@@ -59,7 +59,7 @@
     <p>"we hold that the government's failure to provide requested Brady information to Bagley so that he could effectively cross-examine two important government witnesses requires an automatic reversal."</p>
     <p>719 F.2d at 1464.</p>
     <p>We granted certiorari, 469 U.S. 1016 (1984), and we now reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The holding in Brady v. Maryland requires disclosure only of evidence that is both favorable to the accused and "material either to guilt or to punishment." 373 U.S. at <a href="../us373/us373-0083.xml#p87">373 U. S. 87</a>. See also Moore v. Illinois, <a href="../us408/us408-0786.xml#p786">408 U. S. 786</a>, <a href="../us408/us408-0786.xml#p794">408 U. S. 794</a>-795 (1972). The Court explained in United States v. Agurs, <a href="../us427/us427-0097.xml#p97">427 U. S. 97</a>, <a href="../us427/us427-0097.xml#p104">427 U. S. 104</a> (1976):</p>
     <p>"A fair analysis of the holding in Brady indicates that implicit in the requirement of materiality is a concern that the suppressed evidence might have affected the outcome of</p>
     <n id="p675">675</n>
@@ -86,7 +86,7 @@
     <p>Page 473 U. S. 678</p>
     <p>v. Illinois, <a href="../us390/us390-0129.xml#p129">390 U. S. 129</a>, <a href="../us390/us390-0129.xml#p131">390 U. S. 131</a> (1968)). See also United States v. Cronic, <a href="../us466/us466-0648.xml#p648">466 U. S. 648</a>, <a href="../us466/us466-0648.xml#p659">466 U. S. 659</a> (1984).</p>
     <p>The present case, in contrast, does not involve any direct restriction on the scope of cross-examination. The defense was free to cross-examine the witnesses on any relevant subject, including possible bias or interest resulting from inducements made by the Government. The constitutional error, if any, in this case was the Government's failure to assist the defense by disclosing information that might have been helpful in conducting the cross-examination. As discussed above, such suppression of evidence amounts to a constitutional violation only if it deprives the defendant of a fair trial. Consistent with "our overriding concern with the justice of the finding of guilt," United States v. Agurs, 427 U.S. at <a href="../us427/us427-0097.xml#p112">427 U. S. 112</a>, a constitutional error occurs, and the conviction must be reversed, only if the evidence is material in the sense that its suppression undermines confidence in the outcome of the trial.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>A</p>
     <p>It remains to determine the standard of materiality applicable to the nondisclosed evidence at issue in this case. Our starting point is the framework for evaluating the materiality of Brady evidence established in United States v. Agurs. The Court in Agurs distinguished three situations involving the discovery, after trial, of information favorable to the accused that had been known to the prosecution but unknown to the defense. The first situation was the prosecutor's knowing use of perjured testimony or, equivalently, the prosecutor's knowing failure to disclose that testimony used to convict the defendant was false. The Court noted the well-established rule that</p>
     <p>"a conviction obtained by the knowing use of perjured testimony is fundamentally unfair, and must be set aside if there is any reasonable likelihood that the false testimony could have affected the judgment of the jury.</p>
@@ -172,7 +172,7 @@
       <p>Ante at <a href="./us473-0667.xml#p682">473 U. S. 682</a>. As the Justice correctly observes, this standard is "sufficiently flexible" to cover all instances of prosecutorial failure to disclose evidence favorable to the accused. Ibid. Given the flexibility of the standard and the inherently fact-bound nature of the cases to which it will be applied, however, I see no reason to attempt to elaborate on the relevance to the inquiry of the specificity of the defense's request for disclosure, either generally or with respect to this case. I would hold simply that the proper standard is one of reasonable probability, and that the Court of Appeals' failure to apply this standard necessitates reversal. I therefore concur in the judgment.</p>
       <p>JUSTICE MARSHALL, with whom JUSTICE BRENNAN joins, dissenting.</p>
       <p>When the Government withholds from a defendant evidence that might impeach the prosecution's only witnesses, that failure to disclose cannot be deemed harmless error. Because that is precisely the nature of the undisclosed evidence in this case, I would affirm the judgment of the Court of Appeals, and would not remand for further proceedings.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>The federal grand jury indicted the respondent, Hughes Anderson Bagley, on charges involving possession of firearms</p>
       <n id="p686">686</n>
       <p>and controlled substances with intent to distribute. Following a bench trial, Bagley was found not guilty of the firearms charges, guilty of two counts of knowingly and intentionally distributing Valium, and guilty of several counts of a lesser included offense of possession of controlled substances. He was sentenced to six months' imprisonment and a special parole term of five years on the first count of distribution, and to three years of imprisonment, which were suspended, and five years' probation, on the second distribution count. He received a suspended sentence and five years' probation for the possession convictions.</p>
@@ -211,7 +211,7 @@
       <p>Bagley prosecutor would have disclosed information had he known of it). The sole difference between the two cases lies in the fact that, in Giglio, the prosecutor affirmatively stated to the trier of fact that no promises had been made. Here, silence in response to a defense request took the place of an affirmative error at trial -- although the prosecutor did make an affirmative misrepresentation to the defense in the affidavits. Thus, in each case, the trier of fact was left unaware of powerful reasons to question the credibility of the witnesses.</p>
       <p>"[T]he truth-seeking process is corrupted by the withholding of evidence favorable to the defense, regardless of whether the evidence is directly contradictory to evidence offered by the prosecution."</p>
       <p>Agurs, supra, at <a href="../us427/us427-0097.xml#p120">427 U. S. 120</a> (MARSHALL, J., dissenting). In this case, as in Giglio, a new trial is in order, and the Court of Appeals correctly reversed the District Court's denial of such relief.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>Instead of affirming, the Court today chooses to reverse and remand the case for application of its newly stated standard to the facts of this case. While I believe that the evidence at issue here, which remained undisclosed despite a particular request, undoubtedly was material under the Court's standard, I also have serious doubts whether the Court's definition of the constitutional right at issue adequately takes account of the interests this Court sought to protect in its decision in Brady v. Maryland, <a href="../us373/us373-0083.xml#p83">373 U. S. 83</a> (1963).</p>
       <p>A</p>
       <p>I begin from the fundamental premise, which hardly bears repeating, that "[t]he purpose of a trial is as much the acquittal of an innocent person as it is the conviction of a guilty one." Application of Kapatos, <a href="https://law.justia.com/cases/federal/district-courts/FSupp/208/883/1866817/">208 F. Supp. 883</a>, 888 (SDNY 1962); see Giles v. Maryland, <a href="../us386/us386-0066.xml#p66">386 U. S. 66</a>, <a href="../us386/us386-0066.xml#p98">386 U. S. 98</a> (1967) (Fortas, J., concurring in judgment) ("The State's obligation is not to convict, but to see that, so far as possible, truth emerges"). When evidence favorable to the defendant is known to exist,</p>

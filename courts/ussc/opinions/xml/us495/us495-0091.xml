@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us495-0091.html" citation="495 U.S. 91" title="Minnesota v. Olson">
   <opinion type="Opinions &amp; Dissents">
     <n id="p91">91</n>
-    <h>U.S. Supreme Court</h>
-    <h>Minnesota v. Olson, <a href="./us495-0091.xml#p91">495 U.S. 91</a> (1990)</h>
-    <h>Minnesota v. Olson</h>
-    <h>No. 88-1916</h>
-    <h>Argued Feb. 26, 1990</h>
-    <h>Decided April 18, 1990</h>
-    <h><a href="./us495-0091.xml#p91">495 U.S. 91</a></h>
-    <h>CERTIORARI TO THE SUPREME COURT OF MINNESOTA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Minnesota v. Olson, <a href="./us495-0091.xml#p91">495 U.S. 91</a> (1990)</h1>
+    <h2>Minnesota v. Olson</h2>
+    <h4>No. 88-1916</h4>
+    <h4>Argued Feb. 26, 1990</h4>
+    <h4>Decided April 18, 1990</h4>
+    <h2>CERTIORARI TO THE SUPREME COURT OF MINNESOTA</h2>
+    <h2>Syllabus</h2>
     <p>Police suspected respondent Olson of being the driver of the getaway car used in a robbery-murder. After recovering the murder weapon and arresting the suspected murderer, they surrounded the home of two women with whom they believed Olson had been staying. When police telephoned the home and told one of the women that Olson should come out, a male voice was heard saying "tell them I left." Without seeking permission, and with weapons drawn, they entered the home, found Olson hiding in a closet, and arrested him. Shortly thereafter, he made an inculpatory statement, which the trial court refused to suppress. He was convicted of murder, armed robbery, and assault. The Minnesota Supreme Court reversed, ruling that Olson had a sufficient interest in the women's home to challenge the legality of his warrantless arrest, that the arrest was illegal because there were no exigent circumstances to justify warrantless entry, and that his statement was tainted, and should have been suppressed.</p>
     <p>Held: The arrest violated Olson's Fourth Amendment rights.</p>
     <p>(a) Olson's status as an overnight guest is alone sufficient to show that he had an expectation of privacy in the home that society is prepared to recognize as reasonable. See Rakas v. Illinois, <a href="../us439/us439-0128.xml#p128">439 U. S. 128</a>, <a href="../us439/us439-0128.xml#p143">439 U. S. 143</a>-144; cf. Jones v. United States, <a href="../us362/us362-0257.xml#p257">362 U. S. 257</a>. The distinctions relied on by the State between this case and Jones -- that there, the overnight guest was left alone and had a key to the premises with which he could come and go and admit and exclude others -- are not legally determinative. All citizens share the expectation that hosts will more likely than not respect their guests' privacy interests even if the guests have no legal interest in the premises and do not have the legal authority to determine who may enter the household. Pp. <a href="./us495-0091.xml#p95">495 U. S. 95</a>-100.</p>
@@ -22,7 +22,7 @@
     <n id="p93">93</n>
     <p>Justice WHITE delivered the opinion of the Court.</p>
     <p>The police in this case made a warrantless, nonconsensual entry into a house where Olson was an overnight guest and arrested him. The issue is whether the arrest violated Olson's Fourth Amendment rights. We hold that it did.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Shortly before 6 a.m. on Saturday, July 18, 1987, a lone gunman robbed an Amoco gasoline station in Minneapolis, Minnesota, and fatally shot the station manager. A police officer heard the police dispatcher report and suspected Joseph Ecker. The officer and his partner drove immediately to Ecker's home, arriving at about the same time that an Oldsmobile arrived. The Oldsmobile took evasive action, spun out of control, and came to a stop. Two men fled the car on foot. Ecker, who was later identified as the gunman, was captured shortly thereafter inside his home. The second man escaped.</p>
     <p>Inside the abandoned Oldsmobile, police found a sack of money and the murder weapon. They also found a title certificate with the name Rob Olson crossed out as a secured party, a letter addressed to a Roger R. Olson of 3151 Johnson Street, and a videotape rental receipt made out to Rob Olson and dated two days earlier. The police verified that a Robert Olson lived at 3151 Johnson Street.</p>
     <p>The next morning, Sunday, July 19, a woman identifying herself as Dianna Murphy called the police and said that a man by the name of Rob drove the car in which the gas station killer left the scene, and that Rob was planning to leave town by bus. About noon, the same woman called again, gave her address and phone number, and said that a man named Rob had told a Maria and two other women, Louanne and Julie, that he was the driver in the Amoco robbery. The caller stated that Louanne was Julie's mother, and that the two women lived at 2406 Fillmore Northeast. The detective-in-charge who took the second phone call sent police</p>
@@ -33,7 +33,7 @@
     <n id="p95">95</n>
     <p>statement was tainted by that illegality and should have been suppressed. [<a id="nf2" href="#fn2">Footnote 2</a>] Because the admission of the statement was not harmless beyond reasonable doubt, the court reversed Olson's conviction and remanded for a new trial. [<a id="nf3" href="#fn3">Footnote 3</a>]</p>
     <p>We granted the State's petition for certiorari, 493 U.S. 806 (1989), and now affirm.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>It was held in Payton v. New York, <a href="../us445/us445-0573.xml#p573">445 U. S. 573</a> (1980), that a suspect should not be arrested in his house without an arrest warrant, even though there is probable cause to arrest him. The purpose of the decision was not to protect the person of the suspect but to protect his home from entry in the absence of a magistrate's finding of probable cause. In this case, the court below held that Olson's warrantless arrest was illegal because he had a sufficient connection with the premises to be treated like a householder. The State challenges that conclusion.</p>
     <p>Since the decision in Katz v. United States, <a href="../us389/us389-0347.xml#p347">389 U. S. 347</a> (1967), it has been the law that</p>
     <p>"capacity to claim the protection of the Fourth Amendment depends . . . upon whether the person who claims the protection of the Amendment has a legitimate expectation of privacy in the invaded place."</p>
@@ -59,7 +59,7 @@
     <n id="p100">100</n>
     <p>an adult daughter temporarily living in the home of her parents would have no legitimate expectation of privacy, because her right to admit or exclude would be subject to her parents' veto.</p>
     <p>Because respondent's expectation of privacy in the Bergstrom home was rooted in "understandings that are recognized and permitted by society," Rakas, supra, at <a href="../us439/us439-0128.xml#p144">439 U. S. 144</a>, n. 12, it was legitimate, and respondent can claim the protection of the Fourth Amendment.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>In Payton v. New York, the Court had no occasion to</p>
     <p>"consider the sort of emergency or dangerous situation, described in our cases as 'exigent circumstances,' that would justify a warrantless entry into a home for the purpose of either arrest or search,"</p>
     <p>445 U.S. at <a href="../us445/us445-0573.xml#p583">445 U. S. 583</a>. This case requires us to determine whether the Minnesota Supreme Court was correct in holding that there were no exigent circumstances that justified the warrantless entry into the house to make the arrest.</p>
@@ -71,7 +71,7 @@
     <p>that, although a grave crime was involved, respondent "was known not to be the murderer, but thought to be the driver of the getaway car," ibid., and that the police had already recovered the murder weapon, ibid.</p>
     <p>"The police knew that Louanne and Julie were with the suspect in the upstairs duplex, with no suggestion of danger to them. Three or four Minneapolis police squads surrounded the house. The time was 3 p.m., Sunday. . . . It was evident the suspect was going nowhere. If he came out of the house, he would have been promptly apprehended."</p>
     <p>Ibid. We do not disturb the state court's judgment that these facts do not add up to exigent circumstances.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>We therefore affirm the judgment of the Minnesota Supreme Court.</p>
     <p>It is so ordered.</p>
     <p>Chief Justice REHNQUIST and Justice BLACKMUN dissent.</p>

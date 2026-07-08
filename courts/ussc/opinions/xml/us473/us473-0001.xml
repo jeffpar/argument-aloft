@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us473-0001.html" citation="473 U.S. 1" title="Marek v. Chesney">
   <opinion type="Opinions &amp; Dissents">
     <n id="p1">1</n>
-    <h>U.S. Supreme Court</h>
-    <h>Marek v. Chesney, <a href="./us473-0001.xml#p1">473 U.S. 1</a> (1985)</h>
-    <h>Marek v. Chesney</h>
-    <h>No. 83-1437</h>
-    <h>Argued December 5, 1984</h>
-    <h>Decided June 27, 1985</h>
-    <h><a href="./us473-0001.xml#p1">473 U.S. 1</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE SEVENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Marek v. Chesney, <a href="./us473-0001.xml#p1">473 U.S. 1</a> (1985)</h1>
+    <h2>Marek v. Chesney</h2>
+    <h2>No. 83-1437</h2>
+    <h4>Argued December 5, 1984</h4>
+    <h4>Decided June 27, 1985</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE SEVENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner police officers, in answering a call on a domestic disturbance, shot and killed respondent's adult son. Respondent, in his own behalf and as administrator of his son's estate, filed suit against petitioners in Federal District Court under 42 U.S.C. § 1983 and state tort law. Prior to trial, petitioners made a timely offer of settlement of $100,000, expressly including accrued costs and attorney's fees, but respondent did not accept the offer. The case went to trial and respondent was awarded $5,000 on the state law claim, $52,000 for the § 1983 violation, and $3,000 in punitive damages. Respondent then filed a request for attorney's fees under 42 U.S.C. § 1988, which provides that a prevailing party in a § 1983 action may be awarded attorney's fees "as part of the costs." The claimed attorney's fees included fees for work performed subsequent to the settlement offer. The District Court declined to award these latter fees pursuant to Federal Rule of Civil Procedure 68, which provides that, if a timely pretrial offer of settlement is not accepted and "the judgment finally obtained by the offeree is not more favorable than the offer, the offeree must pay the costs incurred after the making of the offer." The Court of Appeals reversed.</p>
     <p>Held: Petitioners are not liable for the attorney's fees incurred by respondent after petitioners' offer of settlement. Pp. <a href="../us474/us474-0003.xml#p5">474 U. S. 5</a>-12.</p>
     <n id="p2">2</n>
@@ -22,7 +22,7 @@
     <n id="p3">3</n>
     <p>CHIEF JUSTICE BURGER delivered the opinion of the Court.</p>
     <p>We granted certiorari to decide whether attorney's fees incurred by a plaintiff subsequent to an offer of settlement under Federal Rule of Civil Procedure 68 must be paid by the defendant under 42 U.S.C. § 1988, when the plaintiff recovers a judgment less than the offer.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Petitioners, three police officers, in answering a call on a domestic disturbance, shot and killed respondent's adult son. Respondent, in his own behalf and as administrator of his son's estate, filed suit against the officers in the United States District Court under 42 U.S.C. § 1983 and state tort law.</p>
     <p>Prior to trial, petitioners made a timely offer of settlement "for a sum, including costs now accrued and attorney's fees,</p>
     <n id="p4">4</n>
@@ -34,7 +34,7 @@
     <p>blunted because of a little known rule of court."</p>
     <p>Id. at 479.</p>
     <p>We granted certiorari, 466 U.S. 949 (1984). We reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Rule 68 provides that, if a timely pretrial offer of settlement is not accepted and</p>
     <p>"the judgment finally obtained by the offeree is not more favorable than the offer, the offeree must pay the costs incurred after the making of the offer."</p>
     <p>(Emphasis added.) The plain purpose of Rule 68 is to encourage settlement and avoid litigation. Advisory Committee Note on Rules of Civil Procedure, Report of Proposed Amendments, 5 F.R.D. 433, 483, n. 1 (1946), 28 U.S.C.App. p. 637; Delta Air Lines, Inc. v. August, <a href="../us450/us450-0346.xml#p346">450 U. S. 346</a>, <a href="../us450/us450-0346.xml#p352">450 U. S. 352</a> (1981). The Rule prompts both parties to a suit to evaluate the risks and costs of litigation, and to balance them against the likelihood of success upon trial on the merits. This case requires us to decide whether the offer in this case was a proper one under Rule 68, and whether the term "costs," as used in Rule 68, includes attorney's fees awardable under 42 U.S.C. § 1988.</p>
@@ -73,7 +73,7 @@
     <n id="p11">11</n>
     <p>To be sure, application of Rule 68 will require plaintiffs to "think very hard" about whether continued litigation is worthwhile; that is precisely what Rule 68 contemplates. This effect of Rule 68, however, is in no sense inconsistent with the congressional policies underlying § 1983 and § 1988. Section 1988 authorizes courts to award only "reasonable" attorney's fees to prevailing parties. In Hensley v. Eckerhart, supra, we held that "the most critical factor" in determining a reasonable fee "is the degree of success obtained." Id. at <a href="../us461/us461-0424.xml#p436">461 U. S. 436</a>. We specifically noted that prevailing at trial "may say little about whether the expenditure of counsel's time was reasonable in relation to the success achieved." Ibid. In a case where a rejected settlement offer exceeds the ultimate recovery, the plaintiff -- although technically the prevailing party -- has not received any monetary benefits from the postoffer services of his attorney. This case presents a good example: the $139,692 in postoffer legal services resulted in a recovery $8,000 less than petitioners' settlement offer. Given Congress' focus on the success achieved, we are not persuaded that shifting the postoffer costs to respondent in these circumstances would in any sense thwart its intent under § 1988.</p>
     <p>Rather than "cutting against the grain" of § 1988, as the Court of Appeals held, we are convinced that applying Rule 68 in the context of a § 1983 action is consistent with the policies and objectives of § 1988. Section 1988 encourages plaintiffs to bring meritorious civil rights suits; Rule 68 simply encourages settlements. There is nothing incompatible in these two objectives.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Congress, of course, was well aware of Rule 68 when it enacted § 1988, and included attorney's fees as part of recoverable costs. The plain language of Rule 68 and § 1988 subjects such fees to the cost-shifting provision of Rule 68. Nothing revealed in our review of the policies underlying § 1988 constitutes "the necessary clear expression of congressional</p>
     <n id="p12">12</n>
     <p>intent" required "to exempt . . . [the] statute from the operation of" Rule 68. Califano v. Yamasaki, <a href="../us442/us442-0682.xml#p682">442 U. S. 682</a>, <a href="../us442/us442-0682.xml#p700">442 U. S. 700</a> (1979). We hold that petitioners are not liable for costs of $139,692 incurred by respondent after petitioners' offer of settlement.</p>
@@ -105,7 +105,7 @@
       <p>I dissent. The Court's reasoning is wholly inconsistent with the history and structure of the Federal Rules, and its application to the over 100 attorney's fees statutes enacted by Congress will produce absurd variations in Rule 68's operation</p>
       <n id="p15">15</n>
       <p>based on nothing more than picayune differences in statutory phraseology. Neither Congress nor the drafters of the Rules could possibly have intended such inexplicable variations in settlement incentives. Moreover, the Court's interpretation will "seriously undermine the purposes behind the attorney's fees provisions" of the civil rights laws, Delta Air Lines, Inc. v. August, <a href="../us450/us450-0346.xml#p346">450 U. S. 346</a>, <a href="../us450/us450-0346.xml#p378">450 U. S. 378</a> (1981) (REHNQUIST, J., dissenting) -- provisions imposed by Congress pursuant to § 5 of the Fourteenth Amendment. [Footnote 2/4] Today's decision therefore violates the most basic limitations on our rulemaking authority as set forth in the Rules Enabling Act, 28 U.S.C. § 2072, and as summarized in Alyeska Pipeline Co. v. Wilderness Society, <a href="../us421/us421-0240.xml#p240">421 U. S. 240</a> (1975). Finally, both Congress and the Judicial Conference of the United States have been engaged for years in considering possible amendments to Rule 68 that would bring attorney's fees within the operation of the Rule. That process strongly suggests that Rule 68 has not previously been viewed as governing fee awards, and it illustrates the wisdom of deferring to other avenues of amending Rule 68, rather than ourselves engaging in "standardless judicial lawmaking." Delta Air Lines, Inc. v. August, supra, at <a href="../us450/us450-0346.xml#p378">450 U. S. 378</a> (REHNQUIST, J., dissenting).</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>The Court's "plain language" analysis, ante at <a href="./us473-0001.xml#p11">473 U. S. 11</a>, goes as follows: Section 1988 provides that a "prevailing party" may recover "a reasonable attorney's fee as part of the costs." Rule 68 in turn provides that, where an offeree obtains a judgment for less than the amount of a previous settlement offer, "the offeree must pay the costs incurred after the making of the offer." Because "attorney's fees" are "costs," the Court concludes, the "plain meaning" of Rule 68 per se prohibits a prevailing civil rights plaintiff from recovering fees</p>
       <n id="p16">16</n>
       <p>incurred after he rejected the proposed out-of-court settlement. Ante at <a href="./us473-0001.xml#p9">473 U. S. 9</a>.</p>
@@ -153,7 +153,7 @@
       <p>"[n]o persuasive justification exists for subjecting these plaintiffs to differing penalties for failure to accept a Rule 68 offer, and no persuasive justification can be offered as to how such a reading of Rule 68 would in any way further the intent of the Rule, which is to encourage settlement"</p>
       <p>on a uniform basis. [Footnote 2/37]</p>
       <n id="p28">28</n>
-      <h>II</h>
+      <h2>II</h2>
       <p>A</p>
       <p>Although the Court's opinion fails to discuss any of the problems reviewed above, it does devote some space to arguing that its interpretation of Rule 68 "is in no sense inconsistent with the congressional policies underlying § 1983 and § 1988." Ante at <a href="./us473-0001.xml#p11">473 U. S. 11</a>. The Court goes so far as to assert that its interpretation fits in smoothly with § 1988 as interpreted by Hensley v. Eckerhart, <a href="../us461/us461-0424.xml#p424">461 U. S. 424</a> (1983). Ante at <a href="./us473-0001.xml#p11">473 U. S. 11</a>.</p>
       <p>The Court is wrong. Congress has instructed that attorney's fee entitlement under § 1988 be governed by a reasonableness standard. [Footnote 2/38] Until today, the Court always has recognized that this standard precludes reliance on any mechanical "bright-line" rules automatically denying a portion of fees, acknowledging that such "mathematical approach[es]" provide "little aid in determining what is a reasonable fee in light of all the relevant factors." 461 U.S. at <a href="../us461/us461-0424.xml#p435">461 U. S. 435</a>-436, n. 11. Although the starting point is always "the number of hours reasonably expended on the litigation," this "does not end the inquiry": a number of considerations set forth in the legislative history of § 1988 "may lead the district court to adjust the fee upward or downward." Id. at <a href="../us461/us461-0424.xml#p433">461 U. S. 433</a>-434 (emphasis added). [Footnote 2/39] We also have emphasized that</p>
@@ -197,7 +197,7 @@
       <n id="p38">38</n>
       <p>apparent that the circumstances under which attorney's fees are to be awarded and the range of discretion of the courts in making these awards are matters for Congress to determine,"</p>
       <p>id. at <a href="../us421/us421-0240.xml#p257">421 U. S. 257</a>, <a href="../us421/us421-0240.xml#p262">421 U. S. 262</a> (emphasis added), and that "courts are not free to fashion drastic new rules with respect to the allowance" or disallowance of attorney's fees, id. at <a href="../us421/us421-0240.xml#p269">421 U. S. 269</a>. By permitting a mechanical per se rule to supplant the congressionally prescribed reasonableness standard of § 1988, and by divesting courts of the discretion Congress intended them to exercise, the Court has assumed a forbidden "roving authority" to "make major inroads on a policy matter that Congress has reserved for itself." Id. at <a href="../us421/us421-0240.xml#p260">421 U. S. 260</a>, <a href="../us421/us421-0240.xml#p269">421 U. S. 269</a>. It matters not whether such "roving authority" is exercised on a case-by-case basis or, as here, in interpreting a Federal Rule promulgated pursuant to Congress' delegation of rulemaking authority: in either event, the result is to "abridge" and to "modify" the substance of § 1988 "in the guise of regulating procedure." Sibbach v. Wlson &amp; Co., supra, at <a href="../us312/us312-0001.xml#p10">312 U. S. 10</a>. [Footnote 2/55]</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>For several years now, both the Judicial Conference and Congress have been engaged in an extensive reexamination of Rule 68, and have considered numerous proposals to amend the Rule to include attorney's fees. The Advisory Committee on the Federal Rules initially proposed an amendment to Rule 68 in August, 1983, that would have applied equally to plaintiffs and defendants and that would have left application of the Rule's fee provisions in the courts' informed discretion. [Footnote 2/56]</p>
       <n id="p39">39</n>
       <p>The proposal received extensive criticism, [Footnote 2/57] and subsequently was replaced with a revised version in September, 1984. The attorney's fee provisions of that proposal would</p>

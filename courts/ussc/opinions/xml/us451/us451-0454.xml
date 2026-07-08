@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us451-0454.html" citation="451 U.S. 454" title="Estelle v. Smith">
   <opinion type="Opinions &amp; Dissents">
     <n id="p454">454</n>
-    <h>U.S. Supreme Court</h>
-    <h>Estelle v. Smith, <a href="./us451-0454.xml#p454">451 U.S. 454</a> (1981)</h>
-    <h>Estelle v. Smith</h>
-    <h>No. 79-1127</h>
-    <h>Argued October 8, 1980</h>
-    <h>Decided May 18, 1981</h>
-    <h><a href="./us451-0454.xml#p454">451 U.S. 454</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE FIFTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Estelle v. Smith, <a href="./us451-0454.xml#p454">451 U.S. 454</a> (1981)</h1>
+    <h2>Estelle v. Smith</h2>
+    <h2>No. 79-1127</h2>
+    <h4>Argued October 8, 1980</h4>
+    <h4>Decided May 18, 1981</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE FIFTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>After respondent was indicted in Texas for murder, the State announced its intention to seek the death penalty. At an ensuing psychiatric examination, ordered by the trial court to determine respondent's competency to stand trial and conducted in the jail where he was being held, the examining doctor determined that respondent was competent. Thereafter, respondent was tried by a jury and convicted. A separate sentencing proceeding was then held before the same jury, as required by Texas law. At such a proceeding, the jury must resolve three critical issues to determine whether or not the death sentence will be imposed. One of these issues involves the future dangerousness of the defendant, i.e., whether there is a probability that he would commit criminal acts of violence that would constitute a continuing threat to society. At the sentencing hearing, the doctor who had conducted the pretrial psychiatric examination was allowed to testify for the State over defense counsels' objection that his name did not appear on the list of witnesses the State planned to use at either the guilt or penalty stages of the proceedings. His testimony was based on the pretrial examination, and stated in substance that respondent would be a danger to society. The jury then resolved the issue of future dangerousness, as well as the other two issues, against respondent, and thus, under Texas law, the death penalty was mandatory. The Texas Court of Criminal Appeals affirmed the conviction and death sentence. After unsuccessfully seeking a writ of habeas corpus in the state courts, respondent petitioned for such relief in Federal District Court. That court vacated the death sentence because it found constitutional error in admitting the doctor's testimony at the penalty phase. The United States Court of Appeals affirmed.</p>
     <p>Held:</p>
     <p>1. The admission of the doctor's testimony at the penalty phase violated respondent's Fifth Amendment privilege against compelled self-incrimination, because he was not advised before the pretrial psychiatric examination that he had a right to remain silent and that any statement he made could be used against him at a capital sentencing proceeding. Pp. <a href="./us451-0454.xml#p461"> 451 U. S. 461</a>-469.</p>
@@ -27,7 +27,7 @@
     <p>post, p. <a href="./us451-0454.xml#p474">451 U. S. 474</a>. STEWART, J., filed an opinion concurring in the judgment, in which POWELL, J., joined, post, p. <a href="./us451-0454.xml#p474">451 U. S. 474</a>. REHNQUIST, J., filed an opinion concurring in the judgment, post, p. <a href="./us451-0454.xml#p474">451 U. S. 474</a>.</p>
     <p>CHIEF JUSTICE BURGER delivered the opinion of the Court.</p>
     <p>We granted certiorari to consider whether the prosecution's use of psychiatric testimony at the sentencing phase of respondent's capital murder trial to establish his future dangerousness violated his constitutional rights. 445 U.S. 926 (1980).</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>A</p>
     <p>On December 28, 1973, respondent Ernest Benjamin Smith was indicted for murder arising from his participation in the armed robbery of a grocery store during which a clerk was fatally shot, not by Smith, but by his accomplice. In accordance with Art. 1257(b)(2) of the Tex.Penal Code Ann. (Vernon 1974) concerning the punishment for murder with malice aforethought, the State of Texas announced its intention to seek the death penalty. Thereafter, a judge of the 195th Judicial District Court of Dallas County, Texas, informally ordered the State's attorney to arrange a psychiatric</p>
     <n id="p457">457</n>
@@ -57,7 +57,7 @@
     <p>Id. at 709. Because Smith was not accorded these rights, his death sentence was set aside. While</p>
     <p>"leav[ing] to state authorities any questions that arise about the appropriate way to proceed when the state cannot legally execute a defendant whom it has sentenced to death,"</p>
     <p>the court indicated that "the same testimony from Dr. Grigson, based on the same examination of Smith" could not be used against Smith at any future resentencing proceeding. Id. at 703, n. 13, 709, n. 20.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>A</p>
     <p>Of the several constitutional issues addressed by the District Court and the Court of Appeals, we turn first to whether the admission of Dr. Grigson's testimony at the penalty phase violated respondent's Fifth Amendment privilege against compelled self-incrimination because respondent was not advised before the pretrial psychiatric examination that he had a right to remain silent and that any statement he made could be used against him at a sentencing proceeding. Our initial inquiry must be whether the Fifth Amendment privilege is applicable in the circumstances of this case.</p>
     <n id="p462">462</n>
@@ -90,7 +90,7 @@
     <p>"the prosecution may not use statements, whether exculpatory or inculpatory, stemming from custodial interrogation of the defendant unless it demonstrates the use of procedural safeguards effective to secure the privilege against self-incrimination."</p>
     <p>Id. at <a href="../us384/us384-0436.xml#p444">384 U. S. 444</a>. Thus, absent other fully effective procedures,</p>
     <n id="p467">467</n>
-    <p>a person in custody must receive certain warnings before any official interrogation ,including that he has a "right to remain silent" and that "anything said can and will be used against the individual in court." Id. at <a href="../us384/us384-0436.xml#p467">384 U. S. 467</a>-469. The purpose of these admonitions is to combat what the Court saw as "inherently compelling pressures" at work on the person, and to provide him with an awareness of the Fifth Amendment privilege and the consequences of forgoing it, which is the prerequisite for "an intelligent decision as to its exercise." Ibid.</p>
+    <p>a person in custody must receive certain warnings before any official interrogation,including that he has a "right to remain silent" and that "anything said can and will be used against the individual in court." Id. at <a href="../us384/us384-0436.xml#p467">384 U. S. 467</a>-469. The purpose of these admonitions is to combat what the Court saw as "inherently compelling pressures" at work on the person, and to provide him with an awareness of the Fifth Amendment privilege and the consequences of forgoing it, which is the prerequisite for "an intelligent decision as to its exercise." Ibid.</p>
     <p>The considerations calling for the accused to be warned prior to custodial interrogation apply with no less force to the pretrial psychiatric examination at issue here. Respondent was in custody at the Dallas County Jail when the examination was ordered and when it was conducted. That respondent was questioned by a psychiatrist designated by the trial court to conduct a neutral competency examination, rather than by a police officer, government informant, or prosecuting attorney, is immaterial. When Dr. Grigson went beyond simply reporting to the court on the issue of competence and testified for the prosecution at the penalty phase on the crucial issue of respondent's future dangerousness, his role changed, and became essentially like that of an agent of the State recounting unwarned statements made in a post-arrest custodial setting. During the psychiatric evaluation, respondent assuredly was "faced with a phase of the adversary system," and was "not in the presence of [a] perso[n] acting solely in his interest." Id. at <a href="../us384/us384-0436.xml#p469">384 U. S. 469</a>. Yet he was given no indication that the compulsory examination would be used to gather evidence necessary to decide whether, if convicted, he should be sentenced to death. He was not informed that, accordingly, he had a constitutional right not to answer the questions put to him.</p>
     <p>The Fifth Amendment privilege is "as broad as the mischief against which it seeks to guard," <a href="../us147/us147-0538.xml#p547">Counselman v. Hitchcock</a>,</p>
     <n id="p468">468</n>
@@ -123,7 +123,7 @@
     <p>In responding to the argument that foretelling future behavior is impossible the joint opinion stated:</p>
     <p>"[P]rediction of future criminal conduct is an essential element in many of the decisions rendered throughout our criminal justice system. The decision whether to admit a defendant to bail, for instance, must often turn on a judge's prediction of the defendant's future conduct. And any sentencing authority must predict a convicted person's probable future conduct when it engages in the process of determining what punishment to impose. For those sentenced to prison, these same predictions must be made by parole authorities. The task that a Texas jury must perform in answering the statutory question in issue is thus basically no different from the task performed countless times each day throughout the American system of criminal justice."</p>
     <p>Id. at <a href="../us428/us428-0262.xml#p275">428 U. S. 275</a>-276 (footnotes omitted). While in no sense disapproving the use of psychiatric testimony bearing on the issue of future dangerousness, the holding in Jurek was guided by recognition that the inquiry mandated by Texas law does not require resort to medical experts.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Respondent's Fifth and Sixth Amendment rights were abridged by the State's introduction of Dr. Grigson's testimony at the penalty phase, and, as the Court of Appeals concluded, his death sentence must be vacated. [<a id="nf17" href="#fn17">Footnote 17</a>] Because respondent's underlying conviction has not been challenged and remains undisturbed, the State is free to conduct further proceedings</p>
     <n id="p474">474</n>
     <p>not inconsistent with this opinion. Accordingly, the judgment of the Court of Appeals is</p>

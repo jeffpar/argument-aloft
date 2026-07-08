@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us376-0120.html" citation="376 U.S. 120" title="Costello v. INS">
   <opinion type="Opinions &amp; Dissents">
     <n id="p120">120</n>
-    <h>U.S. Supreme Court</h>
-    <h>Costello v. INS, <a href="./us376-0120.xml#p120">376 U.S. 120</a> (1964)</h>
-    <h>Costello v. Immigration and Naturalization Service</h>
-    <h>No. 83</h>
-    <h>Argued December 12, 1963</h>
-    <h>Decided February 17, 1964</h>
-    <h><a href="./us376-0120.xml#p120">376 U.S. 120</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SECOND CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Costello v. INS, <a href="./us376-0120.xml#p120">376 U.S. 120</a> (1964)</h1>
+    <h2>Costello v. Immigration and Naturalization Service</h2>
+    <h2>No. 83</h2>
+    <h4>Argued December 12, 1963</h4>
+    <h4>Decided February 17, 1964</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SECOND CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner, while a naturalized citizen, was convicted of two separate offenses involving moral turpitude. Following his subsequent denaturalization on the ground that his citizenship had been acquired by willful misrepresentation, proceedings were brought against him under § 241(a)(4) of the Immigration and Nationality Act of 1952, which provides for deportation of an alien who at any time after entry "is convicted" of two crimes involving moral turpitude. He was found deportable, and the Court of Appeals dismissed his petition for review.</p>
     <p>Held:</p>
     <p>1. The two convictions relied upon to support deportation both occurred at a time when petitioner was a naturalized citizen, and he was therefore not deportable, the statute permitting only deportation of one who was an alien at the time of his convictions. Eichenlaub v. Shaughnessy, <a href="../us338/us338-0521.xml#p521">338 U. S. 521</a>, distinguished. Pp. <a href="./us376-0120.xml#p121">376 U. S. 121</a>-128.</p>
@@ -124,7 +124,7 @@
       <p>The Eichenlaub statute carried with it no such qualifying provision, which reinforces the conclusion that the decision in Eichenlaub is of no basic relevance to the issue here. See <a id="nf3" href="#fn3">note 3</a> supra. Section 19 of the Immigration Act of 1917, 39 Stat. 874, the predecessor of § 241(a)(4), on the other hand, did contain a relief provision similar to § 241(b)(2). See 39 Stat. 889-890.</p>
     </f>
     <f n="14"><a id="fn14" href="#nf14">Footnote 14</a>
-      <p>"It shall be the duty of the United States district attorneys for the respective districts . . . to institute proceedings . . . for the purpose of revoking and setting aside the order admitting such person to citizenship and canceling the certificate of naturalization . . . , and such revocation and setting aside of the order admitting such person to citizenship and such canceling of certificate of naturalization shall be effective as of the original date of the order and certificate, respectively. . . ."</p>
+      <p>"It shall be the duty of the United States district attorneys for the respective districts . . . to institute proceedings . . . for the purpose of revoking and setting aside the order admitting such person to citizenship and canceling the certificate of naturalization . . ., and such revocation and setting aside of the order admitting such person to citizenship and such canceling of certificate of naturalization shall be effective as of the original date of the order and certificate, respectively. . . ."</p>
       <p>66 Stat. 260, 8 U.S.C. § 1451(a).</p>
     </f>
     <f n="15"><a id="fn15" href="#nf15">Footnote 15</a>
@@ -141,7 +141,7 @@
       <p>MR. JUSTICE WHITE, with whom MR. JUSTICE CLARK concurs, dissenting.</p>
       <p>It has not been contended, and the majority does not now hold, that there is a constitutional impediment to the deportation of an alien who is convicted of the commission of two crimes involving moral turpitude, regardless of his citizenship status at the time the crimes were committed. The question in this case is whether §§ 241 and 340 of the Immigration and Nationality Act of 1952 manifest a congressional intent to achieve such a result. I find the Court's decision inconsistent with the language of the statute, with its history and background, and with any reasonable purpose which can be ascribed to Congress in enacting it.</p>
       <n id="p133">133</n>
-      <h>I</h>
+      <h2>I</h2>
       <p>Petitioner, born in Italy, entered the United States as an alien in 1895, and in 1925 became a naturalized citizen of this country. In 1954, he was convicted on two separate counts of having attempted to defeat and evade the payment of income taxes by filing false and fraudulent returns for the years 1948 and 1949. The convictions were affirmed by this Court. Costello v. United States, <a href="../us350/us350-0359.xml#p359">350 U. S. 359</a>. In 1959 his certificate of naturalization was canceled on the ground that it had been procured by willful misrepresentation, and this judgment was also affirmed. Costello v. United States, <a href="../us365/us365-0265.xml#p265">365 U. S. 265</a>. The United States has now brought deportation proceedings under § 241(a)(4) of the Immigration and Nationality Act of 1952, which provides that:</p>
       <p>"Any alien in the United States . . . shall . . . be deported . . . who at any time after entry is convicted of two crimes involving moral turpitude. . . ."</p>
       <p>This description of the deportable alien fits Costello exactly and unambiguously. He is an alien now and was an alien at the time of entry, an alien who "at any time after entry is convicted of two crimes. . . ." The all-embracing language of the section recognizes no exception based upon the time the crimes were committed.</p>
@@ -156,7 +156,7 @@
       <p>Costello is an alien now, and his criminal propensities remain the same even though the crimes for which he has been convicted were committed while he was a nominal citizen. Nor is his present undesirability diminished by the fact that his citizenship upon which he relies was obtained by fraud and at a time when the law, as it has since 1917, provided for deportation upon the commission of two crimes involving moral turpitude.</p>
       <p>Today's holding has an anomalous result. The alien who has not become a citizen is deportable for the commission of two crimes. But not so the alien who has committed two crimes and has also been denaturalized for fraud practiced in procuring his citizenship. [Footnote 2/3] His fraud becomes his ready and effective shield, a result which I cannot believe Congress intended to enact into law.</p>
       <n id="p136">136</n>
-      <h>II</h>
+      <h2>II</h2>
       <p>The foregoing interpretation of § 241(a)(4) is fortified by an examination of the background against which it was enacted. The same issue that is presented by the instant case was resolved by this Court in 1950, a little over two years before the final passage of the 1952 Immigration and Nationality Act, in Eichenlaub v. Shaughnessy and its companion case Willumeit v. Shaughnessy, <a href="../us338/us338-0521.xml#p521">338 U. S. 521</a>. Eichenlaub and Willumeit were both born in Germany and entered this country in 1930 and 1925, respectively. In the 1930's, they were naturalized, but their naturalization certificates were canceled for fraud in 1944. In 1941 and 1942, during the time they enjoyed citizenship status, they had been convicted of violations of the Espionage Act of 1917. The question was whether they were deportable under the Act of May 10, 1920, which declared deportable as undesirable residents:</p>
       <p>"All aliens who, since August 1, 1914, have been or may hereafter be convicted of any violation [of the Espionage Act, among others]."</p>
       <p>As in the instant case, Eichenlaub and Willumeit argued that deportability is conditioned on alienage status at the time of conviction. [Footnote 2/4] This Court's answer to that contention was:</p>
@@ -172,7 +172,7 @@
       <p>The petitioner contends that Eichenlaub is distinguishable on the ground that the statute in that case applied to aliens who "have been or may hereafter be" convicted, whereas § 241(a)(4) refers to any alien who "is" convicted. His argument is that, by use of dual verbs, the statute in Eichenlaub explicitly referred to two groups of aliens, those who were and those who were not citizens when convicted. In his view, therefore, the decision in Eichenlaub must have rested upon the "have been" leg of the statute. But both the majority and the dissent in Eichenlaub recognized that the use of past and present verbs in the 1920 Act was necessary because that Act provided for two definite periods of time -- between August 1,</p>
       <n id="p139">139</n>
       <p>1914, and May 10, 1920; and after 1920 -- in which the convictions might occur. [Footnote 2/6] The coalescence of two verbs was thus unrelated to citizenship status at the time of conviction. [Footnote 2/7]</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>Whatever doubt as to congressional intent the majority may have after examining § 241(a) standing alone should be dispelled by § 340(a) of the Immigration and Nationality Act, which provides that revocation of a naturalization certificate relates back to, and is deemed</p>
       <n id="p140">140</n>
       <p>"effective as of the original date of the order and certificate." [Footnote 2/8] Under this section, petitioner was not a citizen in 1954, because he did not become a citizen in 1924. It is therefore useless to talk about whether § 241(a)(4) makes an exception for aliens who were citizens when convicted, because § 340 makes clear that, in Congress' view, they were always aliens. The distinction which the Court reads into § 241 is a distinction which § 340 declares nonexistent.</p>
@@ -188,7 +188,7 @@
       <p>The Government's theory as to the reason for this change is that, since this Court's failure to pass on the relation-back rule in Eichenlaub cast doubt upon its continuing vitality as a judicial doctrine, Congress felt constrained to insure against the doctrine's being limited to derivative citizenship questions. While this is a reasonable suggestion, it is neither expressly supported nor rejected</p>
       <n id="p143">143</n>
       <p>by the legislative history. This much, however, is clear: prior to the passage of the 1952 Act, four cases in the Courts of Appeals had applied the relation-back principle; two of these cases dealt with derivative citizenship rights, and the other two with deportability. The 1952 Act not only dealt specifically with derivative citizenship, but separately and expressly provided generally that denaturalization for concealment or willful misrepresentation was to be effective as of the date of the naturalization order. Congress thus provided its own relation-back doctrine, and, under it, unless it is to be rendered meaningless, Costello never legally became a citizen. He remained an alien, and was an alien when he was convicted of the two crimes for which he has been ordered deported.</p>
-      <h>IV</h>
+      <h2>IV</h2>
       <p>The majority finds support for its holding in supposed implications from the recommendation provision of § 241(b). In the Court's view, the recommendation provision was intended to apply to all cases in which an alien might be deportable under § 241(a)(4); the unavailability of this provision to one who was not an alien at the time of the second conviction is therefore evidence that Congress did not intend such aliens to be deportable, it is asserted. The Court thus holds that the authority to deport under subsection (a)(4) is limited to those cases in which the deportee can invoke a recommendation against deportation.</p>
       <p>My view of § 241(b) is somewhat different. Congress defined in § 241(a) the criteria for deportability, and described those classes of aliens who were no longer qualified to stay in this country by reason of their past acts and conduct. But, in the case of § 241(a)(4) aliens, those convicted of crimes involving moral turpitude, Congress</p>
       <n id="p144">144</n>

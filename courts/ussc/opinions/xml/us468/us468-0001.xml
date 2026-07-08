@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us468-0001.html" citation="468 U.S. 1" title="Reed v. Ross">
   <opinion type="Opinions &amp; Dissents">
     <n id="p1">1</n>
-    <h>U.S. Supreme Court</h>
-    <h>Reed v. Ross, <a href="./us468-0001.xml#p1">468 U.S. 1</a> (1984)</h>
-    <h>Reed v. Ross</h>
-    <h>No. 83-218</h>
-    <h>Argued March 27, 1984</h>
-    <h>Decided June 27, 1984</h>
-    <h><a href="./us468-0001.xml#p1">468 U.S. 1</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE FOURTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Reed v. Ross, <a href="./us468-0001.xml#p1">468 U.S. 1</a> (1984)</h1>
+    <h2>Reed v. Ross</h2>
+    <h2>No. 83-218</h2>
+    <h4>Argued March 27, 1984</h4>
+    <h4>Decided June 27, 1984</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE FOURTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>In 1969, respondent was convicted of first-degree murder in a North Carolina state court and sentenced to life imprisonment. At trial, he had claimed lack of malice and self-defense, and, in accordance with well-settled North Carolina law, the trial judge instructed the jury that respondent had the burden of proving each of these defenses. Although respondent appealed his conviction on several grounds, he did not challenge the constitutionality of this instruction. In 1975, Mullaney v. Wilbur, <a href="../us421/us421-0684.xml#p684">421 U. S. 684</a>, struck down, as violative of due process, the requirement that the defendant bear the burden of proving lack of malice. In 1977, Hankerson v. North Carolina, <a href="../us432/us432-0233.xml#p233">432 U. S. 233</a>, held that Mullaney was to have retroactive application. Subsequently, after exhausting his state remedies, respondent brought a habeas corpus proceeding in Federal District Court under 28 U.S.C. § 2254, challenging the jury instruction, but the court held that habeas relief was barred because respondent had failed to raise the issue on appeal as required by North Carolina law. The Court of Appeals summarily affirmed, but this Court vacated and remanded for further consideration in light of Engle v. Isaac, <a href="../us456/us456-0107.xml#p107">456 U. S. 107</a>, and United States v. Frady, <a href="../us456/us456-0152.xml#p152">456 U. S. 152</a>, both of which addressed the standard for procedural bars under § 2254 whereby a state prisoner may not obtain federal habeas corpus relief absent a showing of "cause and actual prejudice," when a procedural default bars litigation of a constitutional claim in state court. On remand, the Court</p>
     <n id="p2">2</n>
     <p>of Appeals reversed, holding that respondent had satisfied the "cause" requirement because the Mullaney issue was so novel at the time of his state appeal that his attorney could not reasonably be expected to have raised it. And the State conceded the existence of "prejudice."</p>
@@ -24,7 +24,7 @@
     <n id="p3">3</n>
     <p>JUSTICE BRENNAN delivered the opinion of the Court.</p>
     <p>In March, 1969, respondent Daniel Ross was convicted of first-degree murder in North Carolina and sentenced to life imprisonment. At trial, Ross had claimed lack of malice and self-defense. In accordance with well-settled North Carolina law, the trial judge instructed the jury that Ross, the defendant, had the burden of proving each of these defenses. Six years later, this Court decided Mullaney v. Wilbur, <a href="../us421/us421-0684.xml#p684">421 U. S. 684</a> (1975), which struck down, as violative of due process, the requirement that the defendant bear the burden of proving lack of malice. Id. at <a href="../us421/us421-0684.xml#p704">421 U. S. 704</a>. Two years later, Hankerson v. North Carolina, <a href="../us432/us432-0233.xml#p233">432 U. S. 233</a> (1977), held that Mullaney was to have retroactive application. The question presented in this case is whether Ross' attorney forfeited Ross' right to relief under Mullaney and Hankerson by failing, several years before those cases were decided, to raise on appeal the unconstitutionality of the jury instruction on the burden of proof.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>A</p>
     <p>In 1970, this Court decided In re Winship, <a href="../us397/us397-0358.xml#p358">397 U. S. 358</a>, the first case in which we directly addressed the constitutional foundation of the requirement that criminal guilt be established beyond a reasonable doubt. That case held that,</p>
     <p>"[l]est there remain any doubt about the constitutional stature of the reasonable doubt standard, . . . the Due Process Clause protects the accused against conviction except upon proof beyond a reasonable doubt of every fact necessary to constitute the crime with which he is charged."</p>
@@ -58,7 +58,7 @@
     <p>Carolina under 28 U.S.C. § 2254. The District Court, however, held that habeas relief was barred because Ross had failed to raise the issue on appeal as required by North Carolina law, [<a id="nf5" href="#fn5">Footnote 5</a>] App. 27, and the Court of Appeals for the Fourth Circuit dismissed Ross' appeal summarily. 660 F.2d 492 (1982). On Ross' first petition for certiorari, however, this Court vacated the judgment of the Court of Appeals and remanded the case for further consideration in light of Engle v. Isaac, <a href="../us456/us456-0107.xml#p107">456 U. S. 107</a> (1982), and United States v. Frady, <a href="../us456/us456-0152.xml#p152">456 U. S. 152</a> (1982), two cases in which we addressed the "cause</p>
     <n id="p9">9</n>
     <p>and prejudice" standard for procedural bars under § 2254. 456 U.S. 921 (1982). On remand, the Court of Appeals reversed, holding that Ross' claim met the "cause and prejudice" requirements, and that the District Court had therefore erred in denying his petition for a writ of habeas corpus. 704 F.2d 705 (1983). The Court of Appeals found the "cause" requirement satisfied because the Mullaney issue was so novel at the time of Ross' appeal that Ross' attorney could not reasonably be expected to have raised it. 704 F.2d at 708-709. And the State had conceded the existence of "prejudice" in light of evidence that had been introduced to indicate that Ross might have acted reflexively in self-defense. The Court of Appeals went on to hold that the jury instruction concerning the burden of proof for both malice and self-defense violated Mullaney. 7 04 F.2d at 709. [<a id="nf6" href="#fn6">Footnote 6</a>] We granted certiorari, 464 U.S. 1007 (1983), to determine whether the Court of Appeals erred in concluding that Ross had "cause" for failing to raise the Mullaney question on appeal. We now affirm.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>A</p>
     <p>Our decisions have uniformly acknowledged that federal courts are empowered under 28 U.S.C. § 2254 to look beyond a state procedural forfeiture and entertain a state prisoner's contention that his constitutional rights have been violated. See, e.g., Francis v. Henderson, <a href="../us425/us425-0536.xml#p536">425 U. S. 536</a>, <a href="../us425/us425-0536.xml#p538">425 U. S. 538</a> (1976); Fay v. Noia, <a href="../us372/us372-0391.xml#p391">372 U. S. 391</a>, <a href="../us372/us372-0391.xml#p398">372 U. S. 398</a>-399 (1963). See generally W. Duker, A Constitutional History of Habeas Corpus 181-211 (1980). The more difficult question, and the one that lies at the heart of this case, is: what standards should govern the exercise of the habeas court's equitable discretion in the use of this power?</p>
     <n id="p10">10</n>
@@ -115,7 +115,7 @@
     <n id="p20">20</n>
     <p>proof.</p>
     <p>456 U.S. at <a href="../us456/us456-0107.xml#p131">456 U. S. 131</a>-132. None of these bases of decision relied upon in Engle v. Isaac is present in this case.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>We therefore conclude that Ross' claim was sufficiently novel in 1969 to excuse his attorney's failure to raise the Mullaney issue at that time. Accordingly, we affirm the decision of the Court of Appeals with respect to the question of "cause." [<a id="nf12" href="#fn12">Footnote 12</a>]</p>
     <p>It is so ordered.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>

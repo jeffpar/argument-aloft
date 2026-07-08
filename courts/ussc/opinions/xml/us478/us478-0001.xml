@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us478-0001.html" citation="478 U.S. 1" title="Press-Enterprise Co. v. Superior Ct.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p1">1</n>
-    <h>U.S. Supreme Court</h>
-    <h>Press-Enterprise Co. v. Superior Ct., <a href="./us478-0001.xml#p1">478 U.S. 1</a> (1986)</h>
-    <h>Press-Enterprise Co. v. Superior Court</h>
-    <h>No. 84-1560</h>
-    <h>Argued February 26, 1986</h>
-    <h>Decided June 30, 1986</h>
-    <h><a href="./us478-0001.xml#p1">478 U.S. 1</a></h>
-    <h>CERTIORARI TO THE SUPREME COURT OF CALIFORNIA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Press-Enterprise Co. v. Superior Ct., <a href="./us478-0001.xml#p1">478 U.S. 1</a> (1986)</h1>
+    <h2>Press-Enterprise Co. v. Superior Court</h2>
+    <h2>No. 84-1560</h2>
+    <h4>Argued February 26, 1986</h4>
+    <h4>Decided June 30, 1986</h4>
+    <h2>CERTIORARI TO THE SUPREME COURT OF CALIFORNIA</h2>
+    <h2>Syllabus</h2>
     <p>California filed a complaint against a nurse charging him with murdering 12 patients by administering massive doses of the heart drug lidocaine. The Magistrate granted the defendant's motion to exclude the public from the preliminary hearing on the complaint under a California statute that requires such proceedings to be open unless "exclusion of the public is necessary in order to protect the defendant's right to a fair and impartial trial." At the conclusion of the 41-day preliminary hearing, the Magistrate refused petitioner's request that the transcript of the proceedings be released. Thereafter, the State, supported by petitioner and opposed by the defendant, moved unsuccessfully in the California Superior Court to have the transcript released. Petitioner then filed a peremptory writ of mandate with the California Court of Appeal. Meanwhile, the defendant waived his right to a jury trial, and the Superior Court released the transcript. After holding that the controversy was not moot, the Court of Appeal denied the writ. The California Supreme Court also denied the writ, holding that there is no general First Amendment right of access to preliminary hearings, and that. under the California statute, if the defendant establishes a "reasonable likelihood of substantial prejudice," the burden shifts to the prosecution or the media to show by a preponderance of the evidence that there is no such reasonable probability of prejudice.</p>
     <n id="p2">2</n>
     <p>Held:</p>
@@ -22,7 +22,7 @@
     <n id="p3">3</n>
     <p>CHIEF JUSTICE BURGER delivered the opinion of the Court.</p>
     <p>We granted certiorari to decide whether petitioner has a First Amendment right of access to the transcript of a preliminary hearing growing out of a criminal prosecution.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>On December 23, 1981, the State of California filed a complaint in the Riverside County Municipal Court, charging Robert Diaz with 12 counts of murder and seeking the death penalty. The complaint alleged that Diaz, a nurse, murdered 12 patients by administering massive doses of the heart drug lidocaine. The preliminary hearing on the complaint commenced on July 6, 1982. Diaz moved to exclude the public from the proceedings under Cal.Penal Code Ann. § 868 (West 1985), which requires such proceedings to be</p>
     <n id="p4">4</n>
     <p>open unless "exclusion of the public is necessary in order to protect the defendant's right to a fair and impartial trial." [<a id="nf1" href="#fn1">Footnote 1</a>] The Magistrate granted the unopposed motion, finding that closure was necessary because the case had attracted national publicity and "only one side may get reported in the media." App. 22a.</p>
@@ -36,9 +36,9 @@
     <n id="p6">6</n>
     <p>would be proper under the California access statute, Cal.Penal Code Ann. § 868 (West 1985). Under the statute, the court reasoned, if the defendant establishes a "reasonable likelihood of substantial prejudice," the burden shifts to the prosecution or the media to show by a preponderance of the evidence that there is no such reasonable probability of prejudice. 37 Cal. 3d at 782, 691 P.2d at 1032.</p>
     <p>We granted certiorari. 474 U.S. 899 (1985). We reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>We must first consider whether we have jurisdiction under Article III, § 2, of the Constitution. In this Court, petitioner challenges the Superior Court's original refusal to release the transcript of the preliminary hearing. As noted above, the specific relief petitioner seeks has already been granted -- the transcript of the preliminary hearing was released after Diaz waived his right to a jury trial. However, as in Globe Newspaper, supra, at <a href="../us457/us457-0596.xml#p603">457 U. S. 603</a>, and Gannett Co. v. DePasquale, <a href="../us443/us443-0368.xml#p368">443 U. S. 368</a>, <a href="../us443/us443-0368.xml#p377">443 U. S. 377</a>-378 (1979), this controversy is "capable of repetition, yet evading review.'" It can reasonably be assumed that petitioner will be subjected to a similar closure order and, because criminal proceedings are typically of short duration, such an order will likely evade review. Globe and Gannett, therefore, require the conclusion that this case is not moot. Accordingly, we turn to the merits.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>It is important to identify precisely what the California Supreme Court decided:</p>
     <p>"[W]e conclude that the magistrate shall close the preliminary hearing upon finding a reasonable likelihood of substantial prejudice which would impinge upon the right to a fair trial. Penal code section 868 makes clear that the primary right is the right to a fair trial, and that the public's right of access must give way when there is conflict."</p>
     <p>37 Cal. 3d at 781, 691 P.2d at 1032.</p>
@@ -61,7 +61,7 @@
     <n id="p10">10</n>
     <p>determine whether the closure order was properly entered."</p>
     <p>464 U.S. at <a href="../us464/us464-0501.xml#p510">464 U. S. 510</a>.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>A</p>
     <p>The considerations that led the Court to apply the First Amendment right of access to criminal trials in Richmond Newspapers and Globe, and the selection of jurors in Press-Enterprise I, lead us to conclude that the right of access applies to preliminary hearings as conducted in California.</p>
     <p>First, there has been a tradition of accessibility to preliminary hearings of the type conducted in California. Although grand jury proceedings have traditionally been closed to the public and the accused, preliminary hearings conducted before neutral and detached magistrates have been open to the public. Long ago, in the celebrated trial of Aaron Burr for treason, for example, with Chief Justice Marshall sitting as trial judge, the probable cause hearing was held in the Hall of the House of Delegates in Virginia, the courtroom being too small to accommodate the crush of interested citizens. United States v. Burr, 25 F. Cas. 1 (No. 14,692) (CC Va. 1807). From Burr until the present day, the near-uniform practice of state and federal courts has been to conduct preliminary hearings in open court. [<a id="nf3" href="#fn3">Footnote 3</a>] As we noted in Gannett,</p>
@@ -122,7 +122,7 @@
       <n id="p17">17</n>
       <p>case," id. at E-14. [Footnote 2/2] The California Supreme Court similarly denied petitioner's request for a peremptory writ of mandate, affirming that a preliminary hearing transcript can be sealed upon a showing of a "reasonable likelihood of substantial prejudice which would impinge upon the right to a fair trial." <a href="https://law.justia.com/cases/california/supreme-court/3d/37/772.html">37 Cal. 3d 772</a>, 781, <a href="https://law.justia.com/cases/california/supreme-court/3d/37/772.html">691 P.2d 1026</a>, 1032 (1984).</p>
       <p>In view of the above, the trial judge had an obvious and legitimate reason for refusing to make the transcript public any sooner than he did. His decision plainly did not violate the defendant's right to a public trial under the Sixth Amendment, for it was the defendant who objected to release of the transcript. See Gannett Co. v. DePasquale, <a href="../us443/us443-0368.xml#p368">443 U. S. 368</a>, <a href="../us443/us443-0368.xml#p383">443 U. S. 383</a>-384 (1979). In my opinion, the judge's decision did not violate the First Amendment, either.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>Although perhaps obvious, it bears emphasis that the First Amendment right asserted</p>
       <n id="p18">18</n>
       <p>by petitioner is not a right to publish or otherwise communicate information lawfully or unlawfully acquired. That right, which lies at the core of the First Amendment, and which erased the legacy of restraints on publication against which the drafters of that Amendment rebelled, see Grosjean v. American Press Co., <a href="../us297/us297-0233.xml#p233">297 U. S. 233</a>, <a href="../us297/us297-0233.xml#p245">297 U. S. 245</a>-250 (1936), may be overcome only by a governmental objective of the highest order attainable in a no less intrusive way. See, e.g., Smith v. Daily Mail Publishing Co., <a href="../us443/us443-0097.xml#p97">443 U. S. 97</a>, <a href="../us443/us443-0097.xml#p101">443 U. S. 101</a>-106 (1979); Landmark Communications, Inc. v. Virginia, <a href="../us435/us435-0829.xml#p829">435 U. S. 829</a>, <a href="../us435/us435-0829.xml#p837">435 U. S. 837</a>-845 (1978); Oklahoma Publishing Co. v. District Court, <a href="../us430/us430-0308.xml#p308">430 U. S. 308</a>, <a href="../us430/us430-0308.xml#p310">430 U. S. 310</a>-312 (1977) (per curiam); Nebraska Press Assn. v. Stuart, <a href="../us427/us427-0539.xml#p539">427 U. S. 539</a>, <a href="../us427/us427-0539.xml#p556">427 U. S. 556</a>-570 (1976); Cox Broadcasting Corp. v. Cohn, <a href="../us420/us420-0469.xml#p469">420 U. S. 469</a>, <a href="../us420/us420-0469.xml#p487">420 U. S. 487</a>-497 (1975). The First Amendment right asserted by petitioner in this case, in contrast, is not the right to publicize information in its possession, but the right to acquire access thereto.</p>
@@ -140,7 +140,7 @@
       <p>"broad order"); id. at <a href="../us464/us464-0501.xml#p515">464 U. S. 515</a> (BLACKMUN, J., concurring). Cf. Waller v. Georgia, <a href="../us467/us467-0039.xml#p39">467 U. S. 39</a>, <a href="../us467/us467-0039.xml#p48">467 U. S. 48</a>, n. 7, <a href="../us467/us467-0039.xml#p49">467 U. S. 49</a>, n. 8 (1984). [Footnote 2/4]</p>
       <p>But it has always been apparent that the freedom to obtain information that the government has a legitimate interest in not disclosing, see Globe Newspaper Co. v. Superior Court, 457 U.S. at <a href="../us457/us457-0596.xml#p621">457 U. S. 621</a> (STEVENS, J., dissenting), is far narrower than the freedom to disseminate information, which is "virtually absolute" in most contexts, Richmond Newspapers, Inc. v. Virginia, 448 U.S. at <a href="../us448/us448-0555.xml#p582">448 U. S. 582</a> (STEVENS, J., concurring). In this case, the risk of prejudice to the defendant's right to a fair trial is perfectly obvious. For me, that risk is far more significant than the countervailing interest in publishing the transcript of the preliminary hearing sooner, rather than later. Cf. Gannett Co. v. DePasquale, 443 U.S. at <a href="../us443/us443-0368.xml#p393">443 U. S. 393</a> (upholding closure of suppression hearing in part because "any denial of access in this case was not absolute, but only temporary"). The interest in prompt publication -- in my view -- is no greater than the interest in prompt publication of grand jury transcripts. As explained more fully below, we have always recognized the legitimacy of the governmental interest in the secrecy of grand jury proceedings, and I am unpersuaded that the difference between such proceedings and the rather elaborate procedure for determining probable cause that California has adopted strengthens the First Amendment claim to access asserted in this case.</p>
       <n id="p21">21</n>
-      <h>II</h>
+      <h2>II</h2>
       <p>The Court nevertheless reaches the opposite conclusion by applying the "two complementary considerations," ante at <a href="./us478-0001.xml#p8">478 U. S. 8</a>, of "experience and logic," ante at <a href="./us478-0001.xml#p9">478 U. S. 9</a>. In my view, neither the Court's reasoning nor the result it reaches is supported by our precedents.</p>
       <p>The historical evidence proffered in this case is far less probative than the evidence adduced in prior cases granting public access to criminal proceedings. In those cases, a common law tradition of openness at the time the First Amendment was ratified suggested an intention and expectation on the part of the Framers and ratifiers that those proceedings would remain presumptively open. Thus, in Richmond Newspapers, Inc. v. Virginia, 448 U.S. at <a href="../us448/us448-0555.xml#p564">448 U. S. 564</a>, THE CHIEF JUSTICE explained that "[w]hat is significant for present purposes is that, throughout its evolution, the trial has been open to all who cared to observe."</p>
       <p>"[T]he historical evidence demonstrates conclusively that, at the time when our organic laws were adopted, criminal trials both here and in England had long been presumptively open."</p>

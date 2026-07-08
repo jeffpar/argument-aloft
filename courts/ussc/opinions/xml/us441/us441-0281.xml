@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us441-0281.html" citation="441 U.S. 281" title="Chrysler Corp. v. Brown">
   <opinion type="Opinions &amp; Dissents">
     <n id="p281">281</n>
-    <h>U.S. Supreme Court</h>
-    <h>Chrysler Corp. v. Brown, <a href="./us441-0281.xml#p281">441 U.S. 281</a> (1979)</h>
-    <h>Chrysler Corp. v. Brown</h>
-    <h>No. 77-922</h>
-    <h>Argued November 8, 1978</h>
-    <h>Decided April 18, 1979</h>
-    <h><a href="./us441-0281.xml#p281">441 U.S. 281</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE THIRD CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Chrysler Corp. v. Brown, <a href="./us441-0281.xml#p281">441 U.S. 281</a> (1979)</h1>
+    <h2>Chrysler Corp. v. Brown</h2>
+    <h2>No. 77-922</h2>
+    <h4>Argued November 8, 1978</h4>
+    <h4>Decided April 18, 1979</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE THIRD CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner, as a party to numerous Government contracts, was required to comply with Executive Orders 11246 and 11375, which charge the Secretary of Labor with ensuring that corporations that benefit from Government contracts provide equal employment opportunity regardless of race or sex. Regulations promulgated by the Department of Labor's Office of Federal Contract Compliance Programs (OFCCP) require Government contractors to furnish reports about their affirmative action programs and the general composition of their workforces, and provide that, notwithstanding exemption from mandatory disclosure under the Freedom of Information Act (FOIA), records obtained pursuant to Executive Order 11246 shall be made available for inspection if it is determined that the requested inspection furthers the public interest and does not impede agency functions, except in the case of records disclosure of which is prohibited by law. After the Department of Defense's Defense Logistics Agency (DLA), the designated compliance agency responsible for monitoring petitioner's employment practices, informed petitioner that third parties had made an FOIA request for disclosure of certain materials that had been furnished to the DLA by petitioner, petitioner objected to release of the materials. The DLA determined that the materials were subject to disclosure under the FOIA and OFCCP disclosure rules, and petitioner then filed a complaint in the Federal District Court seeking to enjoin release of the documents. Petitioner contended, inter alia, that disclosure was barred by the FOIA and was inconsistent with the Trade Secrets Act, 18 U.S.C. § 1905, which imposes criminal sanctions on Government employees who disclose or make known, in any manner or to any extent "not authorized by law," certain classes of information submitted to a Government agency, including trade secrets and confidential statistical data. Finding jurisdiction to subject the disclosure decision to review under the Administrative Procedure Act (APA), the District Court held that certain of the requested information fell within Exemption 4 of the FOIA, relating to trade secrets and commercial or financial information; that whether the requested information may or must be withheld thus</p>
     <n id="p282">282</n>
     <p>depended on applicable agency regulations; and that, here, a regulation (29 CFR § 70.21(a) (1977)) which states that no officer or employee of the Department of Labor is to violate 18 U.S.C. § 1905, and which proscribes specified disclosures if "not authorized by law," required that the information be withheld. Both sides appealed, and the Court of Appeals vacated the District Court's judgment. While agreeing with the District Court that the FOIA does not compel withholding of information that falls within its exemptions, and that analysis must proceed under the APA, the Court of Appeals reached a different conclusion as to the interpretation of 29 CFR § 70.21(a). In the Court of Appeals' view, disclosures made pursuant to OFCCP disclosure regulations are "authorized by law" by virtue of those regulations.</p>
@@ -35,7 +35,7 @@
     <p>This case belongs to a class that has been popularly denominated "reverse-FOIA" suits. The Chrysler Corp. (hereinafter Chrysler) seeks to enjoin agency disclosure on the grounds that it is inconsistent with the FOIA and 18 U.S.C. § 1905, a criminal statute with origins in the 19th century that proscribes disclosure of certain classes of business and personal information. We agree with the Court of Appeals for the Third Circuit that the FOIA is purely a disclosure statute. and affords Chrysler no private right of action to enjoin agency disclosure. But we cannot agree with that court's conclusion that this disclosure is "authorized by law" within the meaning of § 1905. Therefore, we vacate the Court of Appeals' judgment and remand so that it can consider</p>
     <n id="p286">286</n>
     <p>whether the documents at issue in this case fall within the terms of § 1905.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>As a party to numerous Government contracts, Chrysler is required to comply with Executive Orders 1146 and 11375, which charge the Secretary of Labor with ensuring that corporations that benefit from Government contracts provide equal employment opportunity regardless of race or sex. [<a id="nf1" href="#fn1">Footnote 1</a>] The United States Department of Labor's Office of Federal Contract Compliance Programs (OFCCP) has promulgated regulations which require Government contractors to furnish reports and other information about their affirmative action programs and the general composition of their workforces. [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
     <p>The Defense Logistics Agency (DLA) (formerly the Defense Supply Agency) of the Department of Defense is the designated compliance agency responsible for monitoring Chrysler's employment practices. [<a id="nf3" href="#fn3">Footnote 3</a>] OFCCP regulations require that Chrysler make available to this agency written affirmative action programs (AAP's) and annually submit Employer Information Reports, known as EEO-1 Reports. The agency may also conduct "compliance reviews" and "complaint investigations," which culminate in Compliance Review Reports (CRR's) and Complaint Investigation Reports (CIR's), respectively. [<a id="nf4" href="#fn4">Footnote 4</a>]</p>
     <n id="p287">287</n>
@@ -54,7 +54,7 @@
     <p>The Court of Appeals also disagreed with the District Court's view of the scope of review under the APA. It held that the District Court erred in conducting a de novo review; review should have been limited to the agency record. However, the Court of Appeals found that record inadequate in this case, and directed that the District Court remand to the agency for supplementation. Because of a conflict in the Circuits [<a id="nf7" href="#fn7">Footnote 7</a>] and the general importance of these "reverse-FOIA"</p>
     <n id="p290">290</n>
     <p>cases, we granted certiorari, 435 U.S. 914, and now vacate the judgment of the Third Circuit and remand for further proceedings.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>We have decided a number of FOIA cases in the last few years. [<a id="nf8" href="#fn8">Footnote 8</a>] Although we have not had to face squarely the question whether the FOIA ex proprio vigore forbids governmental agencies from disclosing certain classes of information to the public, we have, in the course of at least one opinion, intimated an answer. [<a id="nf9" href="#fn9">Footnote 9</a>] We have, moreover, consistently recognized that the basic objective of the Act is disclosure. [<a id="nf10" href="#fn10">Footnote 10</a>]</p>
     <n id="p291">291</n>
     <p>In contending that the FOIA bars disclosure of the requested equal employment opportunity information, Chrysler relies on the Act's nine exemptions and argues that they require an agency to withhold exempted material. In this case, it relies specifically on Exemption 4:</p>
@@ -78,7 +78,7 @@
     <p>". . . There may be legitimate reasons for nondisclosure and [the FOIA] is designed to permit nondisclosure in such cases."</p>
     <p>"[The FOIA] lists in a later subsection the specific categories of information which may be exempted from disclosure. [<a id="nf16" href="#fn16">Footnote 16</a>]"</p>
     <p>We therefore conclude that Congress did not limit an agency's discretion to disclose information when it enacted the FOIA. It necessarily follows that the Act does not afford Chrysler any right to enjoin agency disclosure.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Chrysler contends, however, that, even if its suit for injunctive relief cannot be based on the FOIA, such an action can be premised on the Trade Secrets Act, 18 U.S.C. § 1905. The Act provides:</p>
     <p>"Whoever, being an officer or employee of the United States or of any department or agency thereof, publishes, divulges, discloses, or makes known in any manner or to any extent not authorized by law any information coming to him in the course of his employment or official duties or by reason of any examination or investigation made by, or return, report or record made to or filed with, such</p>
     <n id="p295">295</n>
@@ -165,7 +165,7 @@
     <p>We reject, however, Chrysler's contention that the Trade Secrets Act affords a private right of action to enjoin disclosure in violation of the statute. In Cort v. Ash, <a href="../us422/us422-0066.xml#p66">422 U. S. 66</a> (1975), we noted that this Court has rarely implied a private right of action under a criminal statute, and, where it has done so, "there was at least a statutory basis for inferring that a civil cause of action of some sort lay in favor of someone." [<a id="nf46" href="#fn46">Footnote 46</a>] Nothing in § 1905 prompts such an inference. Nor are other pertinent circumstances outlined in Cort present here. As our review of the legislative history of § 1905 -- or</p>
     <n id="p317">317</n>
     <p>lack of same -- might suggest, there is no indication of legislative intent to create a private right of action. Most importantly, a private right of action under § 1905 is not "necessary to make effective the congressional purpose," J. I. Case Co. v. Borak, <a href="../us377/us377-0426.xml#p426">377 U. S. 426</a>, <a href="../us377/us377-0426.xml#p433">377 U. S. 433</a> (1964), for we find that review of DLA's decision to disclose Chrysler's employment data is available under the APA. [<a id="nf47" href="#fn47">Footnote 47</a>]</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>While Chrysler may not avail itself of any violations of the provisions of § 1905 in a separate cause of action, any such violations may have a dispositive effect on the outcome of judicial review of agency action pursuant to § 10 of the APA. Section 10(a) of the APA provides that</p>
     <p>"[a] person suffering legal wrong because of agency action, or adversely affected or aggrieved by agency action . . . is entitled to judicial review thereof."</p>
     <p>5 U.S.C. § 702. Two exceptions to this general rule of reviewability are set out in § 10. Review is not available where "statutes preclude judicial review" or where "agency action is committed to agency discretion by law." 5 U.S.C. §§ 701(a)(1), (2). In Citizens to Preserve Overton Park, Inc. v. Volpe, <a href="../us401/us401-0402.xml#p402">401 U. S. 402</a>, <a href="../us401/us401-0402.xml#p410">401 U. S. 410</a> (1971), the Court held that the latter exception applies "where statutes are drawn in such broad terms that, in a given case, there is no law to apply,'" quoting S.Rep. No. 752, 79th Cong., 1st Sess., 26 (1945). Were we simply confronted with the authorization in 5 U.S.C. § 301 to prescribe regulations regarding "the custody, use, and preservation of [agency] records, papers, and property," it would be difficult to derive any standards limiting agency conduct which might constitute "law to apply." But our discussion in <a href="./us441-0281.xml#p294">441 U. S.</a> S. 318� that § 1905 and any "authoriz[ation] by law" contemplated by that section place substantive limits on agency action. [<a id="nf48" href="#fn48">Footnote 48</a>] Therefore, we conclude that DLA's decision to disclose the Chrysler reports is reviewable agency action, and Chrysler is a person "adversely affected or aggrieved" within the meaning of § 10(a).</p>

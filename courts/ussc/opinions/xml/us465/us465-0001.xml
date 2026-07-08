@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us465-0001.html" citation="465 U.S. 1" title="Southland Corp. v. Keating">
   <opinion type="Opinions &amp; Dissents">
     <n id="p1">1</n>
-    <h>U.S. Supreme Court</h>
-    <h>Southland Corp. v. Keating, <a href="./us465-0001.xml#p1">465 U.S. 1</a> (1984)</h>
-    <h>Southland Corp. v. Keating</h>
-    <h>No. 82-500</h>
-    <h>Argued October 4, 1984</h>
-    <h>Decided January 23, 1984</h>
-    <h><a href="./us465-0001.xml#p1">465 U.S. 1</a></h>
-    <h>APPEAL FROM THE SUPREME COURT OF CALIFORNIA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Southland Corp. v. Keating, <a href="./us465-0001.xml#p1">465 U.S. 1</a> (1984)</h1>
+    <h2>Southland Corp. v. Keating</h2>
+    <h2>No. 82-500</h2>
+    <h4>Argued October 4, 1984</h4>
+    <h4>Decided January 23, 1984</h4>
+    <h2>APPEAL FROM THE SUPREME COURT OF CALIFORNIA</h2>
+    <h2>Syllabus</h2>
     <p>Appellant Southland Corp. (hereafter appellant) is the owner and franchisor of 7-Eleven convenience stores. Appellees are 7-Eleven franchisees. Each franchise agreement between appellant and appellees contains a clause requiring arbitration of any controversy or claim arising out of or relating to the agreement or breach thereof. Several of the appellees filed individual actions against appellant in California Superior Court, alleging fraud, misrepresentation, breach of contract, breach of fiduciary duty, and violation of the disclosure requirements of the California Franchise Investment Law. These actions were consolidated with a subsequent class action filed by another appellee making substantially the same claims. Appellant moved to compel arbitration of the claims pursuant to the contract. The Superior Court granted the motion as to all claims except those based on the Franchise Investment Law, and did not pass on appellees' request for class certification. The California Court of Appeal reversed the trial court's refusal to compel arbitration of the claims under the Franchise Investment Law, construing the arbitration clause to require arbitration of such claims and holding that the Franchise Investment Law did not invalidate arbitration agreements and that, if it rendered such agreements involving commerce unenforceable, it would conflict with § 2 of the United States Arbitration Act, which provides that</p>
     <p>"a contract evidencing a transaction involving commerce to settle by arbitration a controversy . . . arising out of such contract or transaction . . . shall be valid, irrevocable, and enforceable,</p>
     <n id="p2">2</n>
@@ -28,7 +28,7 @@
     <p>BURGER, C.J., delivered the opinion of the Court, in which BRENNAN, WHITE, MARSHALL, BLACKMUN, and POWELL, JJ., joined. STEVENS, J., filed an opinion concurring in part and dissenting in part, post, p. <a href="./us465-0001.xml#p17">465 U. S. 17</a>. O'CONNOR, J., filed a dissenting opinion, in which REHNQUIST, J., joined, post, p. <a href="./us465-0001.xml#p21">465 U. S. 21</a>.</p>
     <p>CHIEF JUSTICE BURGER delivered the opinion of the Court.</p>
     <p>This case presents the questions (a) whether the California Franchise Investment Law, which invalidates certain arbitration agreements covered by the Federal Arbitration Act, violates the Supremacy Clause and (b) whether arbitration under the federal Act is impaired when a class action structure is imposed on the process by the state courts.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Appellant Southland Corp. is the owner and franchisor of 7-Eleven convenience stores. Southland's standard franchise agreement provides each franchisee with a license to use certain registered trademarks, a lease or sublease of a convenience store owned or leased by Southland, inventory</p>
     <n id="p4">4</n>
     <p>financing, and assistance in advertising and merchandising. The franchisees operate the stores, supply bookkeeping data, and pay Southland a fixed percentage of gross profits. The franchise agreement also contains the following provision requiring arbitration:</p>
@@ -42,7 +42,7 @@
     <p>The California Supreme Court, by a vote of 4-2, reversed the ruling that claims asserted under the Franchise Investment Law are arbitrable. Keating v. Superior Court of Alameda County, <a href="https://law.justia.com/cases/california/supreme-court/3d/31/584.html">31 Cal. 3d 584</a>, 645 P.2d 1192 (1982). The California Supreme Court interpreted the Franchise Investment Law to require judicial consideration of claims brought under that statute, and concluded that the California statute did not contravene the federal Act. Id. at 604, 645 P.2d 1203-1204. The court also remanded the case to the trial court for consideration of appellees' request for classwide arbitration.</p>
     <n id="p6">6</n>
     <p>We postponed consideration of the question of jurisdiction pending argument on the merits. 459 U.S. 1101 (1983). We reverse in part and dismiss in part.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>A</p>
     <p>Jurisdiction of this Court is asserted under 28 U.S.C. § 1257(2), which provides for an appeal from a final judgment of the highest court of a state when the validity of a challenged state statute is sustained as not in conflict with federal law. Here Southland challenged the California Franchise Investment Law as it was applied to invalidate a contract for arbitration made pursuant to the Federal Arbitration Act. Appellees argue that the action of the California Supreme Court with respect to this claim is not a "final judgment or decree" within the meaning of § 1257(2).</p>
     <p>Under Cox Broadcasting Corp. v. Cohn, <a href="../us420/us420-0469.xml#p469">420 U. S. 469</a>, <a href="../us420/us420-0469.xml#p482">420 U. S. 482</a>-483 (1975), judgments of state courts that finally decide a federal issue are immediately appealable when</p>
@@ -67,7 +67,7 @@
     <p>California Supreme Court. [<a id="nf3" href="#fn3">Footnote 3</a>] Nor does the record show that the California Supreme Court passed upon the question whether superimposing class action procedures on a contract arbitration was contrary to the federal Act. [<a id="nf4" href="#fn4">Footnote 4</a>]</p>
     <p>Since it does not affirmatively appear that the validity of the state statute was "drawn in question" on federal grounds by Southland, this Court is without jurisdiction to resolve this question as a matter of federal law under 28 U.S.C. § 1257(2). See Bailey v. Anderson, <a href="../us326/us326-0203.xml#p203">326 U. S. 203</a>, <a href="../us326/us326-0207.xml#p207">326 U. S. 207</a> (1945)</p>
     <n id="p10">10</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>As previously noted, the California Franchise Investment Law provides:</p>
     <p>"Any condition, stipulation or provision purporting to bind any person acquiring any franchise to waive compliance with any provision of this law or any rule or order hereunder is void."</p>
     <p>Cal.Corp.Code Ann. § 31512 (West 1977). The California Supreme Court interpreted this statute to require judicial consideration of claims brought under the state statute, and accordingly refused to enforce the parties' contract to arbitrate such claims. So interpreted, the California Franchise Investment Law directly conflicts with § 2 of the Federal Arbitration Act, and violates the Supremacy Clause.</p>
@@ -105,7 +105,7 @@
     <p>intent to place "[a]n arbitration agreement . . . upon the same footing as other contracts, where it belongs." H.R.Rep. No. 96, 68th Cong., 1st Sess., 1 (1924).</p>
     <p>In creating a substantive rule applicable in state as well as federal courts, [<a id="nf10" href="#fn10">Footnote 10</a>] Congress intended to foreclose state legislative attempts to undercut the enforceability of arbitration agreements. [<a id="nf11" href="#fn11">Footnote 11</a>] We hold that § 31512 of the California Franchise Investment Law violates the Supremacy Clause.</p>
     <n id="p17">17</n>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>The judgment of the California Supreme Court denying enforcement of the arbitration agreement is reversed; as to the question whether the Federal Arbitration Act precludes a class action arbitration and any other issues not raised in the California courts, no decision by this Court would be appropriate at this time. As to the latter issues, the case is remanded for further proceedings not inconsistent with this opinion.</p>
     <p>It is so ordered.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>
@@ -192,7 +192,7 @@
       <p>Today, the Court takes the facial silence of § 2 as a license to declare that state as well as federal courts must apply § 2. In addition, though this is not spelled out in the opinion, the Court holds that, in enforcing this newly discovered federal right, state courts must follow procedures specified in § 3. The Court's decision is impelled by an understandable desire to encourage the use of arbitration, but it utterly fails to recognize</p>
       <n id="p23">23</n>
       <p>the clear congressional intent underlying the FAA. Congress intended to require federal, not state, courts to respect arbitration agreements.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>The FAA was enacted in 1925. As demonstrated infra at <a href="./us465-0001.xml#p24">465 U. S. 24</a>-29, Congress thought it was exercising its power to dictate either procedure or "general federal law" in federal courts. The issue presented here is the result of three subsequent decisions of this Court.</p>
       <p>In 1938, this Court decided Erie R. Co. v. Tompkins, <a href="../us304/us304-0064.xml#p64">304 U. S. 64</a>. Erie denied the Federal Government the power to create substantive law solely by virtue of the Art. III power to control federal court jurisdiction. Eighteen years later, the Court decided Bernhardt v. Polygraphic Co., <a href="../us350/us350-0198.xml#p198">350 U. S. 198</a> (1956). Bernhardt held that the duty to arbitrate a contract dispute is outcome-determinative -- i.e. "substantive" -- and therefore a matter normally governed by state law in federal diversity cases.</p>
       <p>Bernhardt gave rise to concern that the FAA could thereafter constitutionally be applied only in federal court cases arising under federal law, not in diversity cases. [Footnote 2/4] In Prima Paint Corp. v. Flood &amp; Conklin Mfg. Co., <a href="../us388/us388-0395.xml#p395">388 U. S. 395</a>, <a href="../us388/us388-0395.xml#p404">388 U. S. 404</a>-405 (1967), we addressed that concern, and held that the FAA may constitutionally be applied to proceedings in a federal diversity court. [Footnote 2/5] The FAA covers only contracts involving interstate commerce or maritime affairs, and Congress "plainly has power to legislate" in that area. Id. at <a href="../us388/us388-0395.xml#p405">388 U. S. 405</a>.</p>
@@ -200,7 +200,7 @@
       <p>Nevertheless, the Prima Paint decision</p>
       <p>"carefully avoided any explicit endorsement of the view that the Arbitration Act embodied substantive policies that were to be applied to all contracts within its scope, whether sued on in state or federal courts."</p>
       <p>P. Bator, P. Mishkin, D. Shapiro, &amp; H. Wechsler, Hart and Wechsler's The Federal Courts and the Federal System 731-732 (2d ed.1973). [Footnote 2/6] Today's case is the first in which this Court has had occasion to determine whether the FAA applies to state court proceedings. One statement on the subject did appear in Moses H. Cone Memorial Hospital v. Mercury Construction Corp., <a href="../us460/us460-0001.xml#p1">460 U. S. 1</a> (1983), but that case involved a federal, not a state, court proceeding; its dictum concerning the law applicable in state courts was wholly unnecessary to its holding.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>The majority opinion decides three issues. First, it holds that § 2 creates federal substantive rights that must be enforced by the state courts. Second, though the issue is not raised in this case, the Court states, ante at <a href="./us465-0001.xml#p15">465 U. S. 15</a>-16, n. 9, that § 2 substantive rights may not be the basis for invoking federal court jurisdiction under 28 U.S.C. § 1331. Third, the Court reads § 2 to require state courts to enforce § 2 rights using procedures that mimic those specified for federal courts by FAA §§ 3 and 4. The first of these conclusions is unquestionably wrong as a matter of statutory construction; the second appears to be an attempt to limit the damage done by the first; the third is unnecessary and unwise.</p>
       <n id="p25">25</n>
       <p>A</p>
@@ -233,7 +233,7 @@
       <p>388 U.S. at <a href="../us388/us388-0395.xml#p424">388 U. S. 424</a> (footnotes omitted). Nothing in the Prima Paint majority opinion contradicts this statement.</p>
       <p>The Prima Paint majority gave full but precise effect to the original congressional intent -- it recognized that, notwithstanding the intervention of Erie, the FAA's restrictive focus on maritime and interstate contracts permits its application in federal diversity courts. Today's decision, in contrast, glosses over both the careful crafting of Prima Paint and the historical reasons that made Prima Paint necessary, and gives the FAA a reach far broader than Congress intended. [Footnote 2/19]</p>
       <n id="p31">31</n>
-      <h>III</h>
+      <h2>III</h2>
       <p>Section 2, like the rest of the FAA, should have no application whatsoever in state courts. Assuming, to the contrary, that § 2 does create a federal right that the state courts must enforce, state courts should nonetheless be allowed, at least in the first instance, to fashion their own procedures for enforcing the right. Unfortunately, the Court seems to direct that the arbitration clause at issue here must be specifically enforced; apparently no other means of enforcement is permissible. [Footnote 2/20]</p>
       <p>It is settled that a state court must honor federally created rights, and that it may not unreasonably undermine them by invoking contrary local procedure. "[T]he assertion of federal rights, when plainly and reasonably made, is not to be defeated under the name of local practice.'" Brown v. Western R. Co. of Alabama, <a href="../us338/us338-0294.xml#p294">338 U. S. 294</a>, <a href="../us338/us338-0294.xml#p299">338 U. S. 299</a> (1949). But absent specific direction from Congress, the state courts have always been permitted to apply their own reasonable procedures when enforcing federal rights. Before we undertake to read a set of complex and mandatory procedures into § 2's brief and general language, we should, at a minimum, allow state courts and legislatures a chance to develop their own methods for enforcing the new federal rights. Some might choose to award compensatory or punitive damages for the violation of an arbitration agreement; some might award litigation costs to the party who remained willing to arbitrate; some might affirm the "validity and enforceability"</p>
       <n id="p32">32</n>
@@ -243,7 +243,7 @@
       <n id="p33">33</n>
       <p>"The general rule, bottomed deeply in belief in the importance of state control of state judicial procedure, is that federal law takes the state courts as it finds them. . . . Some differences in remedy and procedure are inescapable if the different governments are to retain a measure of independence in deciding how justice should be administered. If the differences become so conspicuous as to affect advance calculations of outcome, and so to induce an undesirable shopping between forums, the remedy does not lie in the sacrifice of the independence of either government. It lies rather in provision by the federal government, confident of the justice of its own procedure, of a federal forum equally accessible to both litigants. [Footnote 2/24]"</p>
       <p>In summary, even were I to accept the majority's reading of § 2, I would disagree with the Court's disposition of this case. After articulating the nature and scope of the federal right it discerns in § 2, the Court should remand to the state court, which has acted, heretofore, under a misapprehension of federal law. The state court should determine, at least in the first instance, what procedures it will follow to vindicate the newly articulated federal rights. Cf. Missouri ex rel. Southern R. Co. v. Mayfield, <a href="../us340/us340-0001.xml#p1">340 U. S. 1</a>, <a href="../us340/us340-0001.xml#p5">340 U. S. 5</a> (1950).</p>
-      <h>IV</h>
+      <h2>IV</h2>
       <p>The Court, ante at <a href="./us465-0001.xml#p15">465 U. S. 15</a>-16, rejects the idea of requiring the FAA to be applied only in federal courts partly out of concern with the problem of forum shopping. The concern is unfounded. Because the FAA makes the federal courts equally accessible to both parties to a dispute, no forum shopping would be possible even if we gave the FAA a construction</p>
       <n id="p34">34</n>
       <p>tion faithful to the congressional intent. In controversies involving incomplete diversity of citizenship, there is simply no access to federal court, and therefore no possibility of forum shopping. In controversies with complete diversity of citizenship, the FAA grants federal court access equally to both parties; no party can gain any advantage by forum shopping. Even when the party resisting arbitration initiates an action in state court, the opposing party can invoke FAA § 4 and promptly secure a federal court order to compel arbitration. See, e.g., Moses H. Cone Memorial Hospital v. Mercury Construction Corp., <a href="../us460/us460-0001.xml#p1">460 U. S. 1</a> (1983).</p>
@@ -251,7 +251,7 @@
       <n id="p35">35</n>
       <p>state legislation. The key language of the Uniform Act for Commercial Arbitration was, accordingly, identical to that in § 2 of the FAA. [Footnote 2/29]</p>
       <p>In summary, forum-shopping concerns in connection with the FAA are a distraction that does not withstand scrutiny. The Court ignores the drafters' carefully devised plan for dealing with those problems.</p>
-      <h>V</h>
+      <h2>V</h2>
       <p>Today's decision adds yet another chapter to the FAA's already colorful history. In 1842, this Court's ruling in Swift v. Tyson, supra, set up a major obstacle to the enforcement of state arbitration laws in federal diversity courts. In 1925, Congress sought to rectify the problem by enacting the FAA; the intent was to create uniform law binding only in the federal courts. In Erie R. Co. v. Tompkins, <a href="../us304/us304-0064.xml#p64">304 U. S. 64</a> (1938), and then in Bernhardt Polygraphic Co., <a href="../us350/us350-0198.xml#p198">350 U. S. 198</a> (1956), this Court significantly curtailed federal power. In 1967, our decision in Prima Paint upheld the application of the FAA in a federal court proceeding as a valid exercise of Congress' Commerce Clause and admiralty powers. Today the Court discovers a federal right in FAA § 2 that the state courts must enforce. Apparently confident that state courts are not competent to devise their own procedures for protecting the newly discovered federal right, the Court summarily prescribes a specific procedure, found nowhere in § 2 or its common law origins, that the state courts are to follow.</p>
       <n id="p36">36</n>
       <p>Today's decision is unfaithful to congressional intent, unnecessary, and, in light of the FAA's antecedents and the intervening contraction of federal power, inexplicable. Although arbitration is a worthy alternative to litigation, today's exercise in judicial revisionism goes too far. I respectfully dissent.</p>

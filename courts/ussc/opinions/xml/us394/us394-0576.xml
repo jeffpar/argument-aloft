@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us394-0576.html" citation="394 U.S. 576" title="Street v. New York">
   <opinion type="Opinions &amp; Dissents">
     <n id="p576">576</n>
-    <h>U.S. Supreme Court</h>
-    <h>Street v. New York, <a href="./us394-0576.xml#p576">394 U.S. 576</a> (1969)</h>
-    <h>Street v. New York</h>
-    <h>No. 5</h>
-    <h>Argued October 21, 1968</h>
-    <h>Decided April 21, 1969</h>
-    <h><a href="./us394-0576.xml#p576">394 U.S. 576</a></h>
-    <h>APPEAL FROM THE COURT OF APPEALS' OF NEW YORK</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Street v. New York, <a href="./us394-0576.xml#p576">394 U.S. 576</a> (1969)</h1>
+    <h2>Street v. New York</h2>
+    <h2>No. 5</h2>
+    <h4>Argued October 21, 1968</h4>
+    <h4>Decided April 21, 1969</h4>
+    <h2>APPEAL FROM THE COURT OF APPEALS' OF NEW YORK</h2>
+    <h2>Syllabus</h2>
     <p>Appellant, having heard a news broadcast of the shooting of James Meredith, a civil rights leader, took an American flag which he owned to a street corner near his home in New York and ignited the flag. He was arrested and thereafter charged by information with malicious mischief for violating § 1425, subd. 16, par. d, of the New York Penal Law, which makes it a crime publicly to mutilate or "publicly [to] defy . . . or cast contempt upon [any American flag] either by words or act." The information charged appellant with burning the American flag and publicly speaking defiant or contemptuous words about the flag. Appellant unsuccessfully moved to dismiss the information on the ground that the statute violated his constitutional right to free expression by punishing him for activity which he contended was a constitutionally protected "demonstration" or "protest." Appellant was tried before a judge without a jury and convicted. The arresting officer testified that, at the time of arrest, appellant was standing on a corner speaking to a small and not unruly group, which did not block the street or sidewalk; on the opposite corner was the burning flag; appellant told the group: "We don't need no damn flag," and said to the officer, "If they let that happen to Meredith, we don't need an American flag." Appellant also challenged the constitutionality of the "words" part of the statute in the Appellate Term and in the New York Court of Appeals, both of which affirmed his conviction, the latter court upholding the constitutionality of the statute without alluding to the "words" part.</p>
     <p>Held:</p>
     <p>1. Appellant has met the burden of showing that the federal question of constitutionality of the "words" part of the statute was adequately raised in the state courts, by appellant's motion to dismiss in the trial court and his briefs in the appellate courts. Pp. <a href="./us394-0576.xml#p581">394 U. S. 581</a>-585.</p>
@@ -36,7 +36,7 @@
     <n id="p581">581</n>
     <p>punish one who publicly destroys or damages an American flag as a means of protest, because such an act constitutes expression protected by the Fourteenth Amendment. We deem it unnecessary to consider the latter two arguments, for we hold that § 1425, subd. 16, par. d, was unconstitutionally applied in appellant's case because it permitted him to be punished merely for speaking defiant or contemptuous words about the American flag. In taking this course, we resist the pulls to decide the constitutional issues involved in this case on a broader basis than the record before us imperatively requires.</p>
     <p>Though our conclusion is a narrow one, it requires pursuit of four lines of inquiry: (1) whether the constitutionality of the "words" part of the statute was passed upon by the New York Court of Appeals; (2) whether, if appellant's conviction may have rested in whole or in part on his utterances and if the statute as thus applied is unconstitutional, these factors in themselves require reversal; (3) whether Street's words may, in fact, have counted independently in his conviction, and (4) whether the "words" provision of the statute, as presented by this case, is unconstitutional.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The New York Court of Appeals did not mention in its opinion the constitutionality of the "words" part of § 1425, subd. 16, par. d. [<a id="nf4" href="#fn4">Footnote 4</a>] Hence, in order to vindicate our jurisdiction to deal with this particular issue, we must inquire whether that question was presented to the New York courts in such a manner that it was necessarily decided by the New York Court of Appeals when it affirmed</p>
     <n id="p582">582</n>
     <p>appellant's conviction. If the question was not so presented, then we have no power to consider it. See 28 U.S.C. §§ 1257(2), 1257(3); Bailey v. Anderson, <a href="../us326/us326-0203.xml#p203">326 U. S. 203</a>, <a href="../us326/us326-0203.xml#p206">326 U. S. 206</a>-207 (1945). Moreover, this Court has stated that, when, as here, the highest state court has failed to pass upon a federal question, it will be assumed that the omission was due to want of proper presentation in the state courts, unless the aggrieved party in this Court can affirmatively show the contrary. See, e.g., Bailey v. Anderson, supra; Chicago, I. &amp; L. R. Co. v. McGuire, <a href="../us196/us196-0128.xml#p128">196 U. S. 128</a>, <a href="../us196/us196-0128.xml#p131">196 U. S. 131</a>-133 (1905).</p>
@@ -53,7 +53,7 @@
     <p>(Footnote omitted.) We think this requirement was satisfied by appellant's previously quoted motion in the trial court and</p>
     <n id="p585">585</n>
     <p>his raising of the issue in the two appellate courts. [<a id="nf7" href="#fn7">Footnote 7</a>] We therefore conclude that the question is properly before us.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>We next consider whether it is our duty to reverse if we find, as we do in Parts III and IV, infra that Street's words could have been an independent cause of his conviction and that a conviction for uttering such words would violate the Constitution.</p>
     <p>That such is our duty is made apparent by a number of decisions of this Court. In the leading case of Stromberg v. California, <a href="../us283/us283-0359.xml#p359">283 U. S. 359</a> (1931), the appellant was convicted by a jury under a California statute making it an offense publicly to display a red flag for any one of three purposes. Finding that it would be unconstitutional to punish one who displayed for the first-named reason, this Court rejected the state court's reasoning that the appellant's conviction could nevertheless be sustained because the other two statutory reasons were severable and constitutional. This Court said:</p>
     <p>"The verdict against the appellant was a general one. It did not specify the ground upon which it rested. . . . [I]t is impossible to say under which clause of the statute the conviction was obtained. If any one of these clauses . . . was invalid, it cannot</p>
@@ -72,16 +72,16 @@
     <n id="p588">588</n>
     <p>As in Thomas, appellant here was charged with two acts violative of the statute: burning a flag and publicly speaking defiant or contemptuous words about the flag, and evidence was introduced to show the commission of both acts. Here too the verdict was general and the sentence a single penalty. Hence, unless the record negates the possibility that the conviction was based on both alleged violations, Thomas dictates that "[t]he judgment . . . must be affirmed as to both or as to neither."</p>
     <p>We take the rationale of Thomas to be that, when a single-count indictment or information charges the commission of a crime by virtue of the defendant's having done both a constitutionally protected act and one which may be unprotected, and a guilty verdict ensues without elucidation, there is an unacceptable danger that the trier of fact will have regarded the two acts as "intertwined" and have rested the conviction on both together. See 323 U.S. at <a href="../us323/us323-0516.xml#p528">323 U. S. 528</a>-529, <a href="../us323/us323-0516.xml#p540">323 U. S. 540</a>-541. There is no comparable hazard when the indictment or information is in several counts and the conviction is explicitly declared to rest on findings of guilt on certain of those counts, [<a id="nf9" href="#fn9">Footnote 9</a>] for, in such instances, there is positive evidence that the trier of fact considered each count on its own merits, and separately from the others.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>We turn to considering whether appellant's words could have been the sole cause of his conviction, or whether</p>
     <n id="p589">589</n>
     <p>the conviction could have been based on both his words and his burning of the flag. As Stromberg teaches, we cannot take the opinion of the New York Court of Appeals as obviating our duty to examine the record for ourselves in order to ascertain whether the conviction may have rested upon such grounds. The sworn information which charged appellant with the crime of malicious mischief, and which is quoted more fully supra at <a href="./us394-0576.xml#p579">394 U. S. 579</a>, recited not only that appellant had burned an American flag, but also that he "[did] shout,</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>f they did that to Meredith, We don't need an American Flag.'" Section 1425, subd. 16, par. d, the statute which appellant was charged with violating, made it a crime not only publicly to mutilate a flag, but also "publicly [to] defy . . . or cast contempt upon [any American flag] by words." The State argues that appellant's words were, at most, used to establish his unlawful intent in burning the flag. [<a id="nf10" href="#fn10">Footnote 10</a>] However, after a careful examination of the comparatively brief trial record, we find ourselves unable to say with certainty that appellant's words were not an independent cause of his conviction. While it is true that, at trial, greater emphasis was placed upon appellant's</p>
     <n id="p590">590</n>
     <p>action in burning the flag than upon his words, a police officer did testify to the utterance of the words. The State never announced that it was relying exclusively upon the burning. The trial judge never indicated during the trial that he regarded appellant's words as relating solely to intent. The judge found appellant guilty immediately after the end of the trial, and he delivered no oral or written opinion.</p>
     <p>In the face of an information explicitly setting forth appellant's words as an element of his alleged crime, and of appellant's subsequent conviction under a statute making it an offense to speak words of that sort, we find this record insufficient to eliminate the possibility either that appellant's words were the sole basis of his conviction or that appellant was convicted for both his words and his deed.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>We come finally to the question whether, in the circumstances of this case, New York may constitutionally inflict criminal punishment upon one who ventures "publicly [to] defy . . . or cast contempt upon [any American flag] by words. . . ."</p>
     <p>The relevant evidence introduced at appellant's trial, considered in the light most favorable to the State, must be taken to establish the following. At the time of his arrest, appellant was standing on a street corner and speaking to a small crowd; on the opposite corner lay the burning flag. Appellant said to the crowd: "We don't need no damn flag", and, when questioned by a police officer, appellant stated: "If they let that happen to Meredith we don't need an American flag." According to the officer, the crowds which gathered around appellant and around the flag did not obstruct the street or sidewalk and were neither unruly nor threatening.</p>
     <p>In these circumstances, we can think of four governmental interests which might conceivably have been</p>
@@ -148,7 +148,7 @@
       <p>Any distinctions between the above questions are without a significant difference. The parties obviously believe that the constitutionality of flag desecration statutes is before the Court. The question posed by the Court of Appeals is the most succinct. Chief Judge Fuld, writing for a unanimous Court of Appeals, answered the question squarely; we should do likewise if we are to meet our responsibility. But the Court specifically refuses to decide this issue. Instead, it searches microscopically for the opportunity to decide the case on the</p>
       <n id="p596">596</n>
       <p>peripheral Stromberg ground, holding that it is impossible to determine the basis for appellant's conviction. In my opinion a reading of the short trial record leaves no doubt that appellant was convicted solely for burning the American flag.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>From the beginning to the end of the proceedings below the parties placed only two matters in issue: (1) is burning the flag protected symbolic speech and (2) did appellant burn the flag for the purpose of casting contempt upon it or did he burn it in a dignified manner? [Footnote 2/4] The information alleged that</p>
       <p>"Sidney Street did commit the crime of Malicious Mischief in that the defendant did willfully and unlawfully defile, cast contempt upon and burn an American Flag, in violation of 1425-16-D of the Penal Law, under the following circumstances: on the aforesaid date, place and time, the defendant did willfully and unlawfully set fire to an American Flag and shout, 'If they did that to Meredith, We don't need an American Flag.'"</p>
       <p>Although the Court stresses the mention of appellant's words in the information as indicative that he was convicted for uttering these words, the trial proceedings demonstrate that the words were employed only to show appellant's purpose in burning the flag.</p>
@@ -174,7 +174,7 @@
       <n id="p600">600</n>
       <p>that appellant burned a flag but would have left open the possibility that the burning was designed to destroy it in a dignified manner. The fact that appellant's words supplied an element of the State's case does not mean that he was convicted for uttering these words. See Giboney v. Empire Storage &amp; Ice Co., <a href="../us336/us336-0490.xml#p490">336 U. S. 490</a>, <a href="../us336/us336-0490.xml#p498">336 U. S. 498</a> (1949)</p>
       <p>Neither the prosecution nor the defense nor the New York courts attached any independent significance to his words. To interpret this record in any other manner ignores the very basic fact that the trial judge and the parties thought that there was one issue in this trial -- whether appellant could be criminally punished for burning the flag. This record is not sufficiently ambiguous to justify the Court's speculation that the verdict below might rest even in part upon a conviction for appellant's words.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>I do not believe that the Stromberg line of cases allows us to avoid deciding whether flag burning is protected by the First Amendment. This case does not fit the Stromberg mold.</p>
       <p>Miss Stromberg was one of the supervisors of a children's summer camp. She directed a daily ceremony during which the children raised the Soviet flag and recited a pledge of allegiance "to the worker's red flag." A California statute made it a criminal offense for any person to display a red flag (1) as a symbol of opposition to organized government or (2) as an invitation to anarchistic action or (3) as an aid to propaganda of a seditious character. The trial judge, following the express terms of the statute, charged that Miss Stromberg could be convicted if she displayed a red flag for any one of the three prohibited purposes. The Court first determined that a criminal conviction for display of a red flag as a symbol of opposition to organized government</p>
       <n id="p601">601</n>
@@ -194,7 +194,7 @@
       <p>the occasion and of all that was said or done. . . . How one might 'laud unionism,' as the State and the State Supreme Court concede Thomas was free to do, yet in these circumstances not imply an invitation, is hard to conceive. This is the nub of the case, which the State fails to meet because it cannot do so."</p>
       <p>Id. at <a href="../us323/us323-0516.xml#p534">323 U. S. 534</a>-535. Having so held, it was unnecessary for the Court to determine if an individual solicitation could have been enjoined. The union organizer therefore was entitled to relief without regard to whether his conviction was based upon the general or the individual solicitation.</p>
       <p>I reiterate my belief that appellant was convicted for his act not his words. Stromberg and the cases based upon it do not allow us the luxury of refusing to treat appellant's claim that the burning of the flag as a protest is worthy of constitutional protection.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>I am in complete agreement with the general rule that this Court should not treat broad constitutional questions when narrow ones will suffice to dispose of the litigation. However, where only the broad question is presented, it is our task and our responsibility to confront that question squarely and resolve it. In a time when the American flag has increasingly become an integral part of public protests, the constitutionality of the flag desecration statutes enacted by all of the States [Footnote 2/8] and Congress [Footnote 2/9] is a matter of the most widespread concern. Both those who seek constitutional shelter for acts of flag desecration perpetrated in the course of a political</p>
       <n id="p605">605</n>
       <p>protest and those who must enforce the law are entitled to know the scope of constitutional protection. The Court's explicit reservation of the constitutionality of flag-burning prohibitions encourages others to test in the streets the power of our States and National Government to impose criminal sanctions upon those who would desecrate the flag.</p>

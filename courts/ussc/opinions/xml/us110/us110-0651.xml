@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us110-0651.html" citation="110 U.S. 651" title="Ex parte Yarbrough">
   <opinion type="Opinions &amp; Dissents">
     <n id="p651">651</n>
-    <h>U.S. Supreme Court</h>
-    <h>Ex parte Yarbrough, <a href="./us110-0651.xml#p651">110 U.S. 651</a> (1884)</h>
-    <h>Ex parte Yarbrough</h>
-    <h>Argued January 23, 24, 1884</h>
-    <h>Decided March 3, 1884</h>
-    <h><a href="./us110-0651.xml#p651">110 U.S. 651</a></h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Ex parte Yarbrough, <a href="./us110-0651.xml#p651">110 U.S. 651</a> (1884)</h1>
+    <h2>Ex parte Yarbrough</h2>
+    <h4>Argued January 23, 24, 1884</h4>
+    <h4>Decided March 3, 1884</h4>
+    <h2>Syllabus</h2>
     <p>This Court has no general authority to review on error or appeal the judgments of Circuit Courts in cases within their criminal jurisdiction.</p>
     <p>When a prisoner is held under sentence of a court of the United States in a matter wholly beyond the jurisdiction of that court, it is within the authority of the Supreme Court, when the matter is properly brought to its attention, to inquire into it, and to discharge the prisoner if it be found that the matter was not within the jurisdiction of the court below.</p>
     <p>Errors of law committed by a Circuit Court which passed sentence upon a prisoner cannot be inquired into in a proceeding on an application for habeas corps to test the jurisdiction of the court which passed sentence.</p>

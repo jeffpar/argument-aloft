@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us497-0154.html" citation="497 U.S. 154" title="Portland Golf Club v. Commissioner">
   <opinion type="Opinions &amp; Dissents">
     <n id="p154">154</n>
-    <h>U.S. Supreme Court</h>
-    <h>Portland Golf Club v. Commissioner, <a href="./us497-0154.xml#p154">497 U.S. 154</a> (1990)</h>
-    <h>Portland Golf Club v. Commissioner of Internal Revenue</h>
-    <h>No. 89-530</h>
-    <h>Argued April 17, 1990</h>
-    <h>Decided June 21, 1990</h>
-    <h><a href="./us497-0154.xml#p154">497 U.S. 154</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Portland Golf Club v. Commissioner, <a href="./us497-0154.xml#p154">497 U.S. 154</a> (1990)</h1>
+    <h2>Portland Golf Club v. Commissioner of Internal Revenue</h2>
+    <h2>No. 89-530</h2>
+    <h4>Argued April 17, 1990</h4>
+    <h4>Decided June 21, 1990</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>As a nonprofit corporation that owns and operates a private social club, petitioner's income derived from membership fees and other receipts from members is exempt from income tax. However, all other income is nonexempt "unrelated business taxable income," defined in § 512(a)(3)(A) of the Internal Revenue Code as</p>
     <p>"the gross income (excluding any exempt function income), less the deductions allowed by this chapter which are directly connected with the production of the gross income (excluding exempt function income)."</p>
     <p>Petitioner has nonexempt income from sales of food and drink to nonmembers, and from return on its investments. During its 1980 and 1981 tax years, petitioner offset net losses on nonmember sales against the earnings from its investments, and reported no unrelated business taxable income. In computing its losses, petitioner identified two categories of expenses incurred in nonmember sales: (1) variable (direct) expenses, such as the cost of food, which, in each year in question, were exceeded by gross income from nonmember sales; and (2) fixed (indirect) overhead expenses, which would have been incurred whether or not sales had been made to nonmembers. It determined what portions of fixed expenses were attributable to nonmember sales by employing an allocation formula known as the "gross-to-gross method," based on the ratio that nonmember sales bore to total sales. The total of these fixed expenses and variable costs exceeded petitioner's gross income from nonmember sales. On audit, the Commissioner determined that petitioner could deduct expenses associated with nonmember sales up to the amount of receipts from the sales themselves, but could not use losses from those activities to offset its investment income because it had failed to show that its nonmember sales were undertaken with an intent to profit. Petitioner sought redetermination, and the Tax Court ruled in petitioner's favor, concluding that petitioner had adequately demonstrated that it had a profit motive, since its gross receipts from nonmember sales consistently exceeded the variable costs associated with those activities. The Court of Appeals reversed, holding that the Tax Court had applied an incorrect legal standard in determining that petitioner had demonstrated an intent to profit, because profit in this context meant the production of gains in excess of all direct and indirect</p>
@@ -27,7 +27,7 @@
     <n id="p156">156</n>
     <p>Justice BLACKMUN delivered the opinion of the Court.</p>
     <p>This case requires us to determine the circumstances under which a social club, in calculating its liability for federal income tax, may offset losses incurred in selling food and drink to nonmembers against the income realized from its investments.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Petitioner Portland Golf Club (Portland Golf) is a nonprofit Oregon corporation, most of whose income is exempt from federal income tax under § 501(c)(7) of the Internal Revenue Code of 1954, 26 U.S.C. § 501(c)(7). [<a id="nf1" href="#fn1">Footnote 1</a>] Since 1914, petitioner has owned and operated a private golf and country club with a golf course, restaurant and bar, swimming pool, and tennis courts. The great part of petitioner's income is derived from membership dues and other receipts from the club's members; that income is exempt from tax. Portland Golf also has two sources of nonexempt "unrelated business taxable income": sales of food and drink to nonmembers, and return on its investments. [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
     <n id="p157">157</n>
     <p>The present controversy centers on Portland Golf's federal income tax liability for its fiscal years ended September 30, 1980, and September 30, 1981, respectively. Petitioner received investment income in the form of interest in the amount of $11,752 for fiscal 1980 and in the amount of $21,414 for fiscal 1981. App. 18. It sustained net losses of $28,433 for fiscal 1980 and $69,608 for fiscal 1981 on sales of food and drink to nonmembers. Petitioner offset these losses against the earnings from its investments, and therefore reported no unrelated business taxable income for the two tax years. In computing these losses, petitioner identified two different categories of expenses incurred in selling food and drink to nonmembers. First, petitioner incurred variable (or direct) expenses, such as the cost of food, which varied depending on the amount of food and beverages sold (and therefore would not have been incurred had no sales to nonmembers been made). For each year in question, petitioner's gross income from nonmember sales exceeded these variable costs. [<a id="nf3" href="#fn3">Footnote 3</a>] Petitioner also included, as an unrelated business expense, a portion of the fixed (or indirect) overhead expenses of the club -- expenses which would have been incurred whether or not petitioner had made sales to nonmembers. In determining what portions of its fixed expenses were attributable to nonmember sales, petitioner employed an allocation formula, described as the "gross-to-gross method," based on the ratio that nonmember sales bore to total sales. [<a id="nf4" href="#fn4">Footnote 4</a>] When fixed</p>
@@ -47,7 +47,7 @@
     <p>"Because Portland Golf Club could have reported gains in excess of direct and indirect costs, but did not do so, relying on a method of allocation stipulated to be reasonable by the Commissioner, we REMAND this case to the tax court for a determination of whether Portland Golf Club engaged in its nonmember activities with the intent required under North Ridge to deduct its losses from those activities."</p>
     <p>App. to Pet. for Cert. 2a-3a. [<a id="nf8" href="#fn8">Footnote 8</a>]</p>
     <p>Because of a perceived conflict with the decision of the Sixth Circuit in Cleveland Athletic Club, Inc. v. United States, 779 F.2d 1160 (1985), [<a id="nf9" href="#fn9">Footnote 9</a>] and because of the importance of the issue, we granted certiorari. 493 U.S. 1041 (1990).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Virtually all tax-exempt business organizations are required to pay federal income tax on their "unrelated business taxable income." The law governing social clubs, however, is significantly different from that governing other tax-exempt entities. As to exempt organizations other than social clubs, the Code defines "unrelated business taxable income" as</p>
     <p>"the gross income derived by any organization from any unrelated trade or business (as defined in section 513) regularly carried on by it, less the deductions allowed by this chapter which are directly connected with the carrying on of</p>
     <n id="p161">161</n>
@@ -64,7 +64,7 @@
     <p>no longer simply allowing individuals to join together for recreation or pleasure without tax consequences. Rather, it is bestowing a substantial additional advantage to the members of the club by allowing tax-free dollars to be used for their personal recreational or pleasure purposes. The extension of the exemption to such investment income is, therefore, a distortion of its purpose."</p>
     <p>S.Rep. No. 91-552, p. 71 (1969), U.S.Code Cong. &amp; Admin. News 1969, pp. 1645, 2100.</p>
     <p>In the Tax Reform Act of 1969, Congress extended the tax on "unrelated business income" to social clubs. As to these organizations, however, Congress defined "unrelated business taxable income" to include income derived from investments. Our review of the present case must therefore be informed by two central facts. First, Congress intended that the investment income of social clubs should be subject to federal tax, and indeed Congress devised a definition of "unrelated business taxable income" with that purpose in mind. Second, the statutory scheme for the taxation of social clubs was intended to achieve tax neutrality, not to provide these clubs a tax advantage: even the exemption for income derived from members' payments was designed to ensure that members are not disadvantaged as compared with persons who pursue recreation through private purchases rather than through the medium of an organization.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Petitioner's principal argument is that it may deduct losses incurred through sales to nonmembers without demonstrating that these sales were motivated by an intent to profit. In the alternative, petitioner contends (and the Tax Court agreed) that, if the Code does impose a profit-motive requirement, then that requirement has been satisfied in this case. We address these arguments in turn.</p>
     <p>A</p>
     <p>We agree with the Commissioner and the Court of Appeals that petitioner may use losses incurred in sales to nonmembers</p>
@@ -93,7 +93,7 @@
     <n id="p170">170</n>
     <p>to its nonmember sales, however, are deductions of a different kind. The Code does not state that fixed costs are allocable on a gross-to-gross basis irrespective of economic reality. Rather, petitioner's right to use the gross-to-gross method rests on the club's assertion that this allocation formula reasonably identifies those expenses that are "directly connected" to the nonmember sales, § 512(a)(3)(A), and are "the ordinary and necessary expenses paid or incurred" in selling food and drink to nonmembers, see § 162(a). [<a id="nf20" href="#fn20">Footnote 20</a>] Language such as this, it seems to us, reflects an attempt to measure economic income -- not an effort to use the tax law to serve ancillary purposes. Having calculated its actual losses on the basis of the gross-to-gross formula, petitioner is therefore foreclosed from attempting to demonstrate its intent to profit by arguing that some other allocation method more accurately reflects economic reality. [<a id="nf21" href="#fn21">Footnote 21</a>]</p>
     <n id="p171">171</n>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>We hold that any losses incurred as a result of petitioner's nonmember sales may be offset against its investment income only if the nonmember sales were undertaken with an intent to profit. We also conclude that, in demonstrating the requisite profit motive, Portland Golf must employ the same method of allocating fixed expenses as it uses in calculating its actual loss. Petitioner has failed to show that it intended to earn gross income from nonmember sales in excess of its total (fixed plus variable) costs, where fixed expenses are allocated using the gross-to-gross method. [<a id="nf22" href="#fn22">Footnote 22</a>] The judgment of the Court of Appeals is therefore affirmed.</p>
     <p>It is so ordered.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us474-0931.html" citation="474 U.S. 931" title="NORTH SIDE LUMBER CO. v. BLOCK">
   <opinion type="Opinions &amp; Dissents">
     <n id="p931">931</n>
-    <h>U.S. Supreme Court</h>
-    <h>NORTH SIDE LUMBER CO. v. BLOCK , <a href="./us474-0931.xml#p931">474 U.S. 931</a> (1985)</h>
-    <h> <a href="./us474-0931.xml#p931">474 U.S. 931</a></h>
-    <h>NORTH SIDE LUMBER CO. et al. v. John R. BLOCK, Secretary of Agriculture, et al. No. 85-59</h>
-    <h>Supreme Court of the United States</h>
-    <h>October 21, 1985</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>NORTH SIDE LUMBER CO. v. BLOCK, <a href="./us474-0931.xml#p931">474 U.S. 931</a> (1985)</h1>
+    <h2>NORTH SIDE LUMBER CO. et al. v. John R. BLOCK, Secretary of Agriculture, et al. No. 85-59</h2>
+    <h2>Supreme Court of the United States</h2>
+    <h4>October 21, 1985</h4>
     <p>On petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit.</p>
     <p>The petition for a writ of certiorari is denied.</p>
     <p>Justice WHITE, dissenting.</p>
@@ -21,7 +21,7 @@
     <n id="p934">934</n>
     <p>contrary rule, as announced by the Ninth Circuit in this case, leaves a person who has contracted with the Government but who believes the contract to be void no choice but to breach the contract and assert his claim as a defense, thereby risking liability for damages. I had thought this was precisely the situation the Declaratory Judgment Act was designed to remedy. [<a id="nf4" href="#fn4">Footnote 4</a>]</p>
     <p>Concededly, this case does not at first glance appear to be one of great moment, and I certainly do not mean to express any view of the merits of petitioners' underlying substantive claims. Nonetheless, the Ninth Circuit's expansive reading of the Tucker Act as precluding a declaratory judgment as to the validity of a contract with the United States appears to be in tension with the law of the Second Circuit as well as with ordinary principles governing declaratory actions. I would grant certiorari to consider and resolve the jurisdictional issues this case presents.</p>
-    <h>Footnotes</h>
+    <h2>Footnotes</h2>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>
       <p>The court concluded that the United States' general waiver of sovereign immunity against suits seeking relief other than money damages, 5 U.S.C. 702, was inapplicable by virtue of its proviso, which states that "[n]othing herein . . . confers authority to grant relief if any other statute that grants consent to suit expressly or impliedly forbids the relief which is sought." The court concluded that the Tucker Act impliedly denied consent to suit for nonmonetary relief with respect to all cases involving claims of the type for which the Act authorizes damages actions.</p>
     </f>

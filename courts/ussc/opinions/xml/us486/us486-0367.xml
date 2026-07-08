@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us486-0367.html" citation="486 U.S. 367" title="Mills v. Maryland">
   <opinion type="Opinions &amp; Dissents">
     <n id="p367">367</n>
-    <h>U.S. Supreme Court</h>
-    <h>Mills v. Maryland, <a href="./us486-0367.xml#p367">486 U.S. 367</a> (1988)</h>
-    <h>Mills v. Maryland</h>
-    <h>No. 87-5367</h>
-    <h>Argued March 30, 1988</h>
-    <h>Decided June 6, 1988</h>
-    <h><a href="./us486-0367.xml#p367">486 U.S. 367</a></h>
-    <h>CERTIORARI TO THE COURT OF APPEALS OF MARYLAND</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Mills v. Maryland, <a href="./us486-0367.xml#p367">486 U.S. 367</a> (1988)</h1>
+    <h2>Mills v. Maryland</h2>
+    <h2>No. 87-5367</h2>
+    <h4>Argued March 30, 1988</h4>
+    <h4>Decided June 6, 1988</h4>
+    <h2>CERTIORARI TO THE COURT OF APPEALS OF MARYLAND</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner, a Maryland prison inmate, was tried by a state court jury and convicted of the first-degree murder of his cellmate. In the trial's sentencing phase, the same jury found that the State had established the statutory aggravating factor that petitioner committed the murder while he was confined in a correctional institution, and marked "no" beside each mitigating circumstance referenced on the verdict form, thereby requiring the imposition of the death penalty under Maryland's capital sentencing scheme. Petitioner challenged the sentence on the ground that the Maryland capital punishment statute, as applied to him, was unconstitutionally mandatory. He asserted that the statute, as explained to the jury by the court's instructions and as implemented by the verdict form, required imposition of the death sentence if the jury unanimously found an aggravating circumstance, but could not agree unanimously as to the existence of any particular mitigating circumstance; thus, even if some or all of the jurors were to believe that some mitigating circumstance or circumstances were present, unless they could unanimously agree on the existence of the same mitigating factor, the sentence necessarily would be death. The Maryland Court of Appeals concluded that the death sentence was constitutionally sound, interpreting the statute's unanimity requirement as applying to jury determinations of all critical issues, including the acceptance or rejection of mitigating circumstances. The court observed that the verdict form was to be regarded as requiring the jury to agree unanimously in order to mark "no" with respect to the existence of each mitigating circumstance, and that the trial judge's instructions stressed the need for unanimity on all issues presented. The court concluded that, when a jury could not agree unanimously to accept or reject a particular mitigating circumstance, the answer to that circumstance on the verdict form should be left blank and the jury should proceed to the balancing phase, where each juror should weigh the mitigating circumstances he or she found to be established and balance them against the aggravating circumstances unanimously found.</p>
     <p>Held:</p>
     <p>1. In a capital case, the sentencer may not be precluded from considering, as a mitigating factor, any relevant circumstance, including any aspect of the defendant's character or record and any of the circumstances of the offense that the defendant proffers as a basis for a sentence</p>
@@ -26,7 +26,7 @@
     <p>BLACKMUN, J., delivered the opinion of the Court, in which BRENNAN, WHITE, MARSHALL, and STEVENS, JJ., joined. BRENNAN, J., post, p. <a href="./us486-0367.xml#p389">486 U. S. 389</a>, and WHITE, J., post, p. <a href="./us486-0367.xml#p389">486 U. S. 389</a>, filed concurring opinions. REHNQUIST, C.J., filed a dissenting opinion, in which O'CONNOR, SCALIA, and KENNEDY, JJ., joined, post, p. <a href="./us486-0367.xml#p390">486 U. S. 390</a>.</p>
     <p>JUSTICE BLACKMUN delivered the opinion of the Court.</p>
     <p>Petitioner seeks review of a decision of Maryland's highest court which construes that State's capital sentencing scheme in a manner that preserves its constitutionality, but which may not have been evident at all to the jury charged with the sentencing function in this case. Because we have no reason to believe that the jury also arrived at this "saving" construction, we must vacate the sentence of death and remand the case for resentencing.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Petitioner Ralph Mills was tried by a state court jury and convicted of the first-degree murder of his cellmate in the Maryland Correctional Institution in Hagerstown. The jury found that petitioner repeatedly had stabbed his victim with a "shank" or homemade knife. In the sentencing phase of the trial, the same jury found that the State had established</p>
     <n id="p370">370</n>
     <p>the one statutory aggravating circumstance it propounded, namely, that petitioner "committed the murder at a time when he was confined in a correctional institution." App. 99. Defense counsel sought to persuade the jury of the presence of certain mitigating circumstances, in particular, petitioner's relative youth, his mental infirmity, his lack of future dangerousness, and the State's failure to make any meaningful attempt to rehabilitate petitioner while he was incarcerated. Id. at 89-93. [<a id="nf1" href="#fn1">Footnote 1</a>] On the verdict form provided by the trial court pursuant to the then-existing, but since rescinded, Maryland Rule of Procedure 772A, the jury marked "no" beside each referenced mitigating circumstance, and returned a sentence of death. [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
@@ -42,7 +42,7 @@
     <p>whenever it could not agree unanimously to accept or reject a particular mitigating circumstance, and, pursuant to its statutory authority to fill gaps in the sentencing process, see § 413(1), the Court of Appeals instructed that the jury should proceed to the balancing stage, leaving its answer to that circumstance blank. The court directed that each juror weigh the mitigating circumstances he or she found to be established and balance them against the aggravating circumstances unanimously found by the jury. 310 Md. at 66-68, 527 A.2d at 19-20.</p>
     <p>The dissenting judge sharply disagreed with the majority's view that the state legislature intended to make the rejection of a mitigating circumstance the kind of ultimate issue that requires unanimity. He observed that the law generally requires unanimity only for verdicts, not for an alternative "predicate or historic fact" in support of the verdict. Id. at 95, 527 A.2d at 33. The dissent also concluded that it was probable, or at least reasonably possible, that the jury understood that a "no" answer on the verdict form represented a failure to find unanimously the existence of the circumstance, rather than a unanimous determination that the circumstance did not exist. Id. at 92-95, 527 A.2d at 32-33.</p>
     <p>Because of the importance of the issue in Maryland's capital punishment scheme, we granted certiorari. 484 U.S. 975 (1987).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Petitioner's argument is straightforward, and well illustrated by a hypothetical situation he contends is possible under the Maryland capital sentencing scheme: [<a id="nf5" href="#fn5">Footnote 5</a>]</p>
     <p>"If eleven jurors agree that there are six mitigating circumstances, the result is that no mitigating circumstance</p>
     <n id="p374">374</n>
@@ -57,7 +57,7 @@
     <p>Under Maryland's sentencing scheme, if the sentencer finds that any mitigating circumstance or circumstances have been proved to exist, it then proceeds to decide whether those mitigating circumstances outweigh the aggravating circumstances, and sentences the defendant accordingly. § 413(h). But if petitioner is correct, a jury that does not unanimously agree on the existence of any mitigating circumstance may not give mitigating evidence any effect whatsoever, and must impose the sentence of death. See 310 Md. at 67, 527 A.2d at 19. Under our decisions, it is not relevant whether the barrier to the sentencer's consideration of all mitigating evidence is interposed by statute, Lockett v. Ohio, supra; Hitchcock v. Dugger, <a href="../us481/us481-0393.xml#p393">481 U. S. 393</a> (1987); by the sentencing court, Eddings v. Oklahoma, supra; or by an evidentiary ruling, Skipper v. South Carolina, supra. The same must be true with respect to a single juror's holdout vote against finding the presence of a mitigating circumstance. Whatever the cause, if petitioner's interpretation of the sentencing process is correct, the conclusion would necessarily be the same:</p>
     <p>"Because the [sentencer's] failure to consider all of the mitigating evidence risks erroneous imposition of the death sentence, in plain violation of Lockett, it is our duty to remand this case for resentencing."</p>
     <p>Eddings v. Oklahoma, 455 U.S. at <a href="../us455/us455-0104.xml#p117">455 U. S. 117</a>, n. (O'CONNOR, J., concurring).</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>A</p>
     <p>The critical question, then, is whether petitioner's interpretation of the sentencing process is one a reasonable jury</p>
     <n id="p376">376</n>
@@ -104,7 +104,7 @@
     <p>The decision to exercise the power of the State to execute a defendant is unlike any other decision citizens and public officials are called upon to make. Evolving standards of societal decency have imposed a correspondingly high requirement of reliability on the determination that death is the appropriate</p>
     <n id="p384">384</n>
     <p>penalty in a particular case. The possibility that petitioner's jury conducted its task improperly certainly is great enough to require resentencing.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>We conclude that there is a substantial probability that reasonable jurors, upon receiving the judge's instructions in this case and in attempting to complete the verdict form as instructed, well may have thought they were precluded from considering any mitigating evidence unless all 12 jurors agreed on the existence of a particular such circumstance. Under our cases, the sentencer must be permitted to consider all mitigating evidence. The possibility that a single juror could block such consideration, and consequently require the jury to impose the death penalty, is one we dare not risk.</p>
     <p>We therefore vacate the judgment of the Court of Appeals insofar as it sustained the imposition of the death penalty. [<a id="nf16" href="#fn16">Footnote 16</a>] The case is remanded to that court for further proceedings not inconsistent with this opinion.</p>
     <p>It is so ordered.</p>
@@ -280,7 +280,7 @@
       <p>the Court's opinion addresses, and I am persuaded that the Court reaches the correct solution. Hence, I join the Court's opinion.</p>
       <p>CHIEF JUSTICE REHNQUIST, with whom JUSTICE O'CONNOR, JUSTICE SCALIA, and JUSTICE KENNEDY join, dissenting.</p>
       <p>The Court here decides that the sentence imposed by a Maryland jury is constitutionally infirm because the Court cannot be certain that each juror understood the sentencing instructions and charges to the jury. Last Term, in California v. Brown, <a href="../us479/us479-0538.xml#p538">479 U. S. 538</a> (1987), we reaffirmed our view that the relevant inquiry is not whether an impermissible interpretation of instructions to the jury, however improbable, is literally possible; it is instead "what a reasonable juror could have understood the charge as meaning." Id. at 541. I think the instructions and charges to the jury in this case pass this test, and I would affirm petitioner's sentence, as well as his conviction.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>Petitioner, already serving a 30-year sentence for a murder he committed in 1982, stabbed his cellmate 6 times in the chest and 39 times in the back with a homemade knife. Petitioner had threatened to kill his cellmate several weeks earlier if numerous demands were not met by the prison warden, and on August 6, 1984, he made good on his threat. Evidence at trial strongly suggested that this brutal assault was unprovoked, and was initiated while the victim was asleep.</p>
       <p>After finding petitioner guilty of first-degree murder, the Maryland jury hearing his case proceeded to the sentencing phase of the trial. As part of the sentencing process, the jury was provided with the standard sentencing form. Although the sentencing form is reproduced in the <a href="./us486-0367.xml#p367">486 U.S. 367</a>app|&gt;Appendix to the majority's opinion, I believe it is useful to review the instructions and the charges that confronted the jurors.</p>
       <n id="p391">391</n>
@@ -311,7 +311,7 @@
       <n id="p395">395</n>
       <p>Court also proposes that, "[u]nless we can rule out the substantial possibility that the jury may have rested its verdict" on an improper construction of the sentencing instructions and jury charges, petitioner's sentence must be set aside. Ante at <a href="./us486-0367.xml#p377">486 U. S. 377</a>. This formulation obscures considerably what I view as the correct standard set forth in Brown. Short of ordering a separate trial to investigate the knowledge of each juror and the discussions among all 12, I can envision no method by which the court can ever attain the level of certainty on which the majority insists. Jury deliberations are by nature secret, and the mental processes of individual jurors equally recondite. To demand this degree of assurance in conducting judicial review of jury proceedings would establish a standard which can never be satisfied.</p>
       <p>As the preceding discussion indicates, if the "reasonable juror" standard is employed, the instructions on the sentencing form and the charges given to the jury in this case are constitutionally unexceptionable, and petitioner's sentence should be upheld.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>Since the majority finds dispositive petitioner's argument that the jurors may not have understood the unanimity requirements of the sentencing instructions and jury charges, it does not reach the second issue in the case. See ante at <a href="./us486-0367.xml#p384">486 U. S. 384</a>, n. 16. Because I would reject the challenge to the instructions, I must continue on and deal with petitioner's claim that the trial judge improperly allowed into evidence statements concerning the personal characteristics of the victim, Paul Brown, in violation of our recent decision in Booth v. Maryland, <a href="../us482/us482-0496.xml#p496">482 U. S. 496</a> (1987). Although petitioner failed to object at trial to the introduction of this evidence, [Footnote 2/3] the Maryland Court of Appeals nonetheless found that the information</p>
       <n id="p396">396</n>
       <p>about Brown did not constitute a proscribed victim impact statement. The issue is thus properly before this Court, see Orr v. Orr, <a href="../us440/us440-0268.xml#p268">440 U. S. 268</a>, <a href="../us440/us440-0268.xml#p274">440 U. S. 274</a>-275 (1979); Illinois v. Gates, <a href="../us462/us462-0213.xml#p213">462 U. S. 213</a>, <a href="../us462/us462-0213.xml#p218">462 U. S. 218</a>, n. 1 (1983); McGoldrick v. Compagnie Generale Transatlantique, <a href="../us309/us309-0430.xml#p430">309 U. S. 430</a>, <a href="../us309/us309-0430.xml#p434">309 U. S. 434</a>-435 (1940), and I would uphold the Court of Appeals' determination.</p>

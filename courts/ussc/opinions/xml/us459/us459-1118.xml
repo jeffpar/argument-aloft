@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us459-1118.html" citation="459 U.S. 1118" title="WHITE v. ESTELLE">
   <opinion type="Opinions &amp; Dissents">
     <n id="p1118">1118</n>
-    <h>U.S. Supreme Court</h>
-    <h>WHITE v. ESTELLE , <a href="./us459-1118.xml#p1118">459 U.S. 1118</a> (1983)</h>
-    <h> <a href="./us459-1118.xml#p1118">459 U.S. 1118</a></h>
-    <h>Robert Lee WHITE, petitioner, v. W.J. ESTELLE, Jr., Texas Department of Corrections No. 81-6937</h>
-    <h>Supreme Court of the United States</h>
-    <h>January 10, 1983</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>WHITE v. ESTELLE, <a href="./us459-1118.xml#p1118">459 U.S. 1118</a> (1983)</h1>
+    <h2>Robert Lee WHITE, petitioner, v. W.J. ESTELLE, Jr., Texas Department of Corrections No. 81-6937</h2>
+    <h2>Supreme Court of the United States</h2>
+    <h4>January 10, 1983</h4>
     <p>On petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit.</p>
     <p>The petition for a writ of certiorari is denied.</p>
     <p>Justice MARSHALL, dissenting from denial of certiorari.</p>
@@ -47,7 +47,7 @@
     <n id="p1126">1126</n>
     <p><a href="http://cases.justia.com/us-court-of-appeals/F2/254/725/">254 F.2d 725</a>, 730 (CADC 1957) (opinion of Prettyman and Burger, JJ.) ("the competency of the accused at the time of trial to understand the charges against him and to assist in his defense is a legal question for the judge, not the jury"), cert. denied, 356 U.S. 961 ( 1958). A judge is generally aware of what a defendant must do to participate in his defense. A judge may be guided by his reading of previous cases resolving questions of competency to stand trial and may develop useful experience in making the competency determination. Yet in this case, every state and federal court that faced the question simply deferred to the jury's application of constitutional law once it was found that there was "sufficient" evidence upon which to conclude that White was competent to stand trial.</p>
     <p>The deferential review undertaken by the federal courts below denied petitioner his right to an independent determination of his constitutional claim. It was improper to assume, in the absence of any express findings of fact, that the jury resolved all disputed issues of fact in the manner most favorable to a determination that the defendant was competent to stand trial. Instead, the District Court was required to make an independent resolution of disputed factual issues and then to apply the constitutional standard to the facts that it found. I would grant certiorari to address the lower courts' departure from these accepted principles for collateral review of a state court conviction. I dissent from the Court's refusal to do so.</p>
-    <h>Footnotes</h>
+    <h2>Footnotes</h2>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>
       <p>Tex.Code of Crim.Pro. Art. 46.02, 3(a) permits a court to " appoint disinterested experts experienced and qualified in mental health or mental retardation to examine the defendant with regard to his competency to stand trial and to testify at any trial or hearing on this issue."</p>
     </f>

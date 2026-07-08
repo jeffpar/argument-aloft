@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us370-0269.html" citation="370 U.S. 269" title="RUDOLPH v. UNITED STATES">
   <opinion type="Opinions &amp; Dissents">
     <n id="p269">269</n>
-    <h>U.S. Supreme Court</h>
-    <h>RUDOLPH v. UNITED STATES, <a href="./us370-0269.xml#p269">370 U.S. 269</a> (1962)</h>
-    <h><a href="./us370-0269.xml#p269">370 U.S. 269</a></h>
-    <h>RUDOLPH ET UX. v. UNITED STATES. CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT. No. 396. Argued April 3, 1962. Decided June 18, 1962. </h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>RUDOLPH v. UNITED STATES, <a href="./us370-0269.xml#p269">370 U.S. 269</a> (1962)</h1>
+    <h4>RUDOLPH ET UX. v. UNITED STATES. CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT. No. 396. Argued April 3, 1962. Decided June 18, 1962.</h4>
     <p>An insurance company paid the expenses of a group of its agents and their wives, including petitioners, to New York City to attend an annual convention, and the Commissioner assessed the value of the trip to petitioners as taxable income. In a suit for refund, the District Court found that the trip was provided by the company primarily for the purpose of affording a pleasure trip in the nature of a bonus, reward, and compensation for a job well done and that, from the point of view of petitioners, it was primarily a pleasure trip and that, therefore, the value of the trip was income and the costs were personal and nondeductible. The Court of Appeals approved these findings. Held: Since the ultimate facts are subject to the "clearly erroneous" rule and their review would be of no importance save to the litigants themselves, the writ of certiorari is dismissed as improvidently granted. Pp. 269-270.</p>
     <p>Reported below: <a href="http://cases.justia.com/us-court-of-appeals/F2/291/841/">291 F.2d 841</a>.</p>
     <p>Richard A. Freling argued the cause for petitioners. With him on the briefs was Felix Atwood.</p>
@@ -25,7 +25,7 @@
     <p>The basic facts, found by the District Court, are as follows. Petitioners, husband and wife, reside in Dallas, Texas, where the home office of the husband's employer, the Southland Life Insurance Company, is located. By having sold a predetermined amount of insurance, the husband qualified to attend the company's convention in New York City in 1956 and, in line with company policy, to bring his wife with him. The petitioners, together with 150 other employees and officers of the insurance company and 141 wives, traveled to and from New York City on special trains, and were housed in a single hotel during their two-and-one-half-day visit. One morning was devoted to a "business meeting" and group luncheon, the rest of the time in New York City to "travel, sight-seeing, entertainment, fellowship or free time." The entire trip lasted one week.</p>
     <n id="p272">272</n>
     <p>The company paid all the expenses of the convention-trip which amounted to $80,000; petitioners' allocable share being $560. When petitioners did not include the latter amount in their joint income tax return, the Commissioner assessed a deficiency which was sustained by the District Court, <a href="https://law.justia.com/cases/federal/district-courts/FSupp/189/2/1424380/">189 F. Supp. 2</a>, and also by the Court of Appeals, one judge dissenting, in a per curiam opinion, <a href="http://cases.justia.com/us-court-of-appeals/F2/291/841/">291 F.2d 841</a>, citing its recent decision in Patterson v. Thomas, <a href="http://cases.justia.com/us-court-of-appeals/F2/289/108/">289 F.2d 108</a>, where the same result had been reached. The District Court held that the value of the trip being "in the nature of a bonus, reward, and compensation for a job well done," was income to Rudolph, but being "primarily a pleasure trip in the nature of a vacation," the costs were personal and nondeductible.</p>
-    <h>I.</h>
+    <h2>I.</h2>
     <p>Under 61 of the 1954 Code was the value of the trip to the taxpayer-husband properly includible in gross income? That section defines gross income as "all income from whatever source derived," including, among other items, "compensation for services." Certain sections of the 1954 Code enumerate particular receipts which are included in the concept of "gross income,"[<a id="nf2" href="#fn2">Footnote 2</a>] including prizes and awards (with certain exceptions);[<a id="nf3" href="#fn3">Footnote 3</a>]</p>
     <n id="p273">273</n>
     <p>while other sections, 101-121, specifically exclude certain receipts from "gross income," including, for example, gifts and inheritances[<a id="nf4" href="#fn4">Footnote 4</a>] (see Commissioner v. Duberstein, <a href="../us363/us363-0278.xml#p278">363 U.S. 278</a>), and meals or lodgings furnished for the convenience of the employer.[<a id="nf5" href="#fn5">Footnote 5</a>] The Treasury Regulations emphasize the inclusiveness of the concept of "gross income."[<a id="nf6" href="#fn6">Footnote 6</a>]</p>
@@ -34,7 +34,7 @@
     <n id="p274">274</n>
     <p>excluded from 61 by other sections of the statute, yet not intended to be encompassed by its reach. Conceding that the statutory exclusions from "gross income" are not exhaustive, as the Government seems to recognize is so under Glenshaw, it is not now necessary to explore the extent of any such nonstatutory exclusions.[<a id="nf7" href="#fn7">Footnote 7</a>] For it was surely within the Commissioner's competence to consider as "gross income" a "reward, or a bonus given to . . . employees for excellence in service," which the District Court found was the employer's primary purpose in arranging this trip. I cannot say that this finding, confirmed as it has been by the Court of Appeals, is inadequately supported by this record.[<a id="nf8" href="#fn8">Footnote 8</a>]</p>
     <n id="p275">275</n>
-    <h>II.</h>
+    <h2>II.</h2>
     <p>There remains the question whether, though income, this outlay for transportation, meals, and lodging was deductible by petitioners as an "ordinary and necessary" business expense under 162.[<a id="nf9" href="#fn9">Footnote 9</a>] The relevant factors on this branch of the case are found in Treas. Reg. 1.162-2.[<a id="nf10" href="#fn10">Footnote 10</a>] In summary, the regulation in pertinent part provides:</p>
     <p>Traveling expenses, including meals, lodgings and other incidentals, reasonable and necessary in the conduct of the taxpayer's business and directly attributable to it are deductible, but expenses of a trip</p>
     <n id="p276">276</n>
@@ -51,7 +51,7 @@
     <n id="p278">278</n>
     <p>it is not for this Court to re-examine the evidence, and disturb their findings, unless "clearly erroneous." That is not the situation here.</p>
     <p>I would affirm.</p>
-    <h>Footnotes</h>
+    <h2>Footnotes</h2>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>
       <p>As I see this case, there is no need to explore whether the proper reporting procedure for a deductible expense is not to include it in income in the first place, cf. Treas. Reg. 1.162-17 (b), or to "run it through" the taxpayer's income with an offsetting deduction in the same amount. <a id="fn2" href="#nf2">Footnote 2</a> E. g., 71 (Alimony and separate maintenance payments), 72 (Annuities; certain proceeds of endowment and life insurance contracts), 73 (Services of child).</p>
     </f>
@@ -96,7 +96,7 @@
       <p>Deductions allowed: Coffey v. Commissioner, 21 B. T. A. 1242 (doctor); Coughlin v. Commissioner, <a href="http://cases.justia.com/us-court-of-appeals/F2/203/307/">203 F.2d 307</a> (lawyer); Shutter v. Commissioner, 2 B. T. A. 23 (clergyman); Callinan v. Commissioner, 12 T. C. M. 170 (legal secretary); see Rev. Rul. 59-316, 1959-2 Cum. Bull. 57; Rev. Rul. 60-16, 1960-1 Cum. Bull. 58.</p>
       <p>Deductions not allowed: Duncan v. Commissioner, 30 T.C. 386 (doctor); Ellis v. Burnet, 60 App. D.C. 193, 50 F.2d 343 (lawyer); Reed v. Commissioner, 35 T.C. 199 (lawyer); Patterson v. Thomas, <a href="http://cases.justia.com/us-court-of-appeals/F2/289/108/">289 F.2d 108</a> (insurance agent); Russell v. Commissioner, 11 T. C. M. 334 (railroad fireman).</p>
       <p>MR. JUSTICE DOUGLAS, with whom MR. JUSTICE BLACK joins, dissenting.</p>
-      <h>I.</h>
+      <h2>I.</h2>
       <p>It could not, I think, be seriously contended that a professional man, say a Senator or a Congressman, who attends a convention to read a paper or conduct a seminar with all expenses paid has received "income" within the meaning of the Internal Revenue Code. Nor would it matter, I assume, that he took his wife and that her expenses were also paid. Income has the connotation of something other than the mere payment of expenses. The statute, 26 U.S.C. 61, speaks in terms of financial gain, of compensation for services, "including fees, commissions, and similar items." The form of payment for services covers a wide range. Treasury Regulations 1.61-1 provide:</p>
       <p>"Gross income includes income realized in any form, whether in money, property, or services. Income may be realized, therefore, in the form of services, meals, accommodations, stock, or other property, as well as in cash."</p>
       <p>The formula "all expenses paid" might be the disguise whereby compensation "for services" is paid. Yet it would be a rare case indeed where one could conclude that a person who gets only his expenses for attendance at one convention gets "income" in the statutory sense. If this arrangement were regular and frequent or if it had the earmarks of a sham device as a cloak for remuneration, there would be room for fact-finders to conclude that</p>
@@ -109,7 +109,7 @@
       <p>of life insurance payable at death, disability benefits, the rental values of parsonages, scholarship and fellowship grants, allowances of U.S. employees abroad, mustering-out payments to members of the Armed Forces, etc. Employees may receive from their employers many fringe benefits that are not income. Treasury Regulations 31.3401 (a)-1 (b) (10) provide:</p>
       <p>"Ordinarily, facilities or privileges (such as entertainment, medical services, or so-called `courtesy' discounts on purchases), furnished or offered by an employer to his employees generally, are not considered as wages subject to withholding if such facilities or privileges are of relatively small value and are offered or furnished by the employer merely as a means of promoting the health, good will, contentment, or efficiency of his employees."</p>
       <p>The fringe benefits of this one convention trip are less obviously income than the fringe benefits listed in the Regulations. For the latter are constantly recurring - day after day, week after week. Moreover, on this record the convention promotes the "efficiency" of the agents as much as the other fringe benefits enumerated in the Regulations.</p>
-      <h>II.</h>
+      <h2>II.</h2>
       <p>The expenses, if "income," are plainly deductible. The Government, however, says that our problem is to determine "whether it is consistent with the ends of an equitable and workable tax system" to make them such. The problem of designing an "equitable" tax system is, however, for Congress, not for the Court.</p>
       <p>The test of deductibility to be applied here is whether the expenses are "ordinary and necessary" in the carrying on of petitioner's business. The Act is explicit in permitting the deduction of traveling expenses (including the</p>
       <n id="p281">281</n>
@@ -130,7 +130,7 @@
       <p>". . . the Commissioner has recently withdrawn his objections in two Tax Court cases to the deduction of convention expenses incurred by two IRS employees in attending conventions of the National Association of Internal Revenue Employees.</p>
       <p>"No explanation has been given publicly for the Tax Court action of the Commissioner, it being generally presumed that the IRS employees met the tests of Reg. 1.162-2 (d) by showing a sufficient relationship between the trade or business of being an IRS employee and attendance at conventions of the NAIRE. The National Association of Internal Revenue Employees has hailed the Commissioner's actions as setting a precedent which can be cited by IRS employees when taking deductions for expenses incurred in attending NAIRE conventions." CCH Standard Federal Tax Reports No. 23, April 19, 1961, pt. 1, p. 2.</p>
       <p>It is odd, indeed, that revenue agents need make no accounting of the movies they saw or the nightclubs they attended, in order to get the deduction, while insurance agents must.</p>
-      <h>III.</h>
+      <h2>III.</h2>
       <p>The wife's expenses3 are, on this record, also deductible. The Treasury Regulations state in 1.162-2 (c):</p>
       <p>"Where a taxpayer's wife accompanies him on a business trip, expenses attributable to her travel are</p>
       <n id="p285">285</n>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us487-0392.html" citation="487 U.S. 392" title="Sheridan v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p392">392</n>
-    <h>U.S. Supreme Court</h>
-    <h>Sheridan v. United States, <a href="./us487-0392.xml#p392">487 U.S. 392</a> (1988)</h>
-    <h>Sheridan v. United States</h>
-    <h>No. 87-626</h>
-    <h>Argued April 26, 1988</h>
-    <h>Decided June 24, 1988</h>
-    <h><a href="./us487-0392.xml#p392">487 U.S. 392</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE FOURTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Sheridan v. United States, <a href="./us487-0392.xml#p392">487 U.S. 392</a> (1988)</h1>
+    <h2>Sheridan v. United States</h2>
+    <h2>No. 87-626</h2>
+    <h4>Argued April 26, 1988</h4>
+    <h4>Decided June 24, 1988</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE FOURTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>An obviously intoxicated off-duty serviceman (Carr) fired several rifle shots into petitioners' automobile on a public street near the Bethesda Naval Hospital where Carr worked, causing physical injury to one of the petitioners and damage to the car. Petitioners filed suit against the Government under the Federal Tort Claims Act (FTCA) in Federal District Court, alleging that their injuries were caused by the Government's negligence in allowing Carr to leave the hospital with a loaded rifle in his possession. The facts, as alleged in the complaint and as supplemented by discovery, were that, after finishing his work shift, Carr consumed a large amount of alcoholic beverages; that naval corpsmen found him in a drunken stupor in a hospital building and attempted to take him to the emergency room; that the corpsmen fled when they saw a rifle in his possession; that the corpsmen neither took further action to subdue Carr nor alerted the appropriate authorities that he was intoxicated and brandishing a weapon; and that he fired the shots into petitioners' car later that evening. The District Court dismissed the action on the ground that the claim was barred by the FTCA's intentional tort exception, 28 U.S.C. § 2680(h), which provides that the Act's provisions subjecting the Government to liability for the negligent or wrongful act or omission of a Government employee while acting within the scope of his employment shall not apply to any claim "arising out of " an assault or battery. The court rejected petitioners' argument that § 2680(h) was not applicable because they were relying, not on the fact that Carr was a Government employee when he assaulted them, but rather on the negligence of other Government employees who failed to prevent his use of the rifle. The Court of Appeals affirmed.</p>
     <p>Held: Petitioners' claim is not barred by § 2680(h). Although the words "any claims arising out of " an assault or battery are broad enough to bar all claims based entirely on an assault or battery, in at least some situations, the fact that injury was directly caused by an assault or battery will not preclude liability against the Government for negligently allowing the assault to occur. Cf. United States v. Muniz, <a href="../us374/us374-0150.xml#p150">374 U. S. 150</a>. Even assuming that, when an intentional tort is a sine qua non of recovery, the action "arises out of" that tort, nevertheless the § 2680(h) exception does not bar recovery in this case. The intentional tort exception is inapplicable</p>
     <n id="p393">393</n>
@@ -22,7 +22,7 @@
     <p>On February 6, 1982, an obviously intoxicated off-duty serviceman named Carr fired several rifle shots into an automobile being driven by petitioners on a public street near the</p>
     <n id="p394">394</n>
     <p>Bethesda Naval Hospital. Petitioners brought suit against the United States, alleging that their injuries were caused by the Government's negligence in allowing Carr to leave the hospital with a loaded rifle in his possession. The District Court dismissed the action -- and the Court of Appeals affirmed -- on the ground that the claim is barred by the intentional tort exception to the Federal Tort Claims Act (FTCA). The question we granted certiorari to decide is whether petitioners' claim is one "arising out of" an assault or battery within the meaning of 28 U.S.C. § 2680(h). [<a id="nf1" href="#fn1">Footnote 1</a>]</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>When it granted the Government's motion to dismiss, the District Court accepted petitioners' version of the facts as alleged</p>
     <n id="p395">395</n>
     <p>in their complaint and as supplemented by discovery. That version may be briefly stated. After finishing his shift as a naval medical aide at the hospital, Carr consumed a large quantity of wine, rum, and other alcoholic beverages. He then packed some of his belongings, including a rifle and ammunition, into a uniform bag and left his quarters. Some time later, three naval corpsmen found him lying face down in a drunken stupor on the concrete floor of a hospital building. They attempted to take him to the emergency room, but he broke away, grabbing the bag and revealing the barrel of the rifle. At the sight of the rifle barrel, the corpsmen fled. They neither took further action to subdue Carr nor alerted the appropriate authorities that he was heavily intoxicated and brandishing a weapon. Later that evening, Carr fired the shots that caused physical injury to one of the petitioners and property damage to their car.</p>
@@ -41,7 +41,7 @@
     <p>on the government's breach of a separate legal duty."</p>
     <p>Id. at 824 (footnote omitted).</p>
     <p>The difference between the majority and the dissent in this case is reflected in conflicting decisions among the Circuits as well. [<a id="nf3" href="#fn3">Footnote 3</a>] We therefore granted certiorari to resolve this important conflict. 484 U.S. 1024 (1988).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The FTCA gives federal district courts jurisdiction over claims against the United States for money damages</p>
     <p>"for injury or loss of property, or personal injury or death caused by the negligent or wrongful act or omission of any employee of the Government while acting within the scope of his office or employment, under circumstances where the United States, if a private person, would be liable to the claimant in accordance with the law of the place where the act or omission occurred."</p>
     <p>28 U.S.C. § 1346(b). However, among other limitations, the Act also provides that this broad grant of jurisdiction "shall not apply to . . . [a]ny claim arising out of assault, battery" or other specified intentional torts. 28 U.S.C. § 2680(h).</p>
@@ -107,7 +107,7 @@
       <p>the § 2680(h) exclusion. In any event, to the extent the views I shared there are inconsistent with my present understanding, I think the Court's opinion, which I join, has the better of it.</p>
       <p>JUSTICE KENNEDY, concurring in the judgment.</p>
       <p>The question before us is how to interpret the intentional tort exception in the Federal Tort Claims Act, 28 U.S.C. §§ 1346(b) and 2671-2680, when a plaintiff's injury is caused both by an intentional tort and by negligence that precedes it. The intentional tort exception, 28 U.S.C. § 2680(h), provides, in pertinent part, that the United States shall not be liable for "[a]ny claim arising out of assault, battery. . . ." Both the majority and the dissent provide persuasive reasons for their conclusions. I write separately to set forth the bases for my differences with those opinions, and for my conclusion that the Court correctly decides that the judgment of the Court of Appeals must be reversed.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>In an adaptation of Judge Harlan's analysis in Panella v. United States, 216 F.2d 622 (CA2 1954), the Court asks whether the tortfeasor's actions occurred "while acting within the scope of his office or employment." Ante at <a href="./us487-0392.xml#p400">487 U. S. 400</a>. Since</p>
       <p>"[t]he tortious conduct of an off-duty serviceman, not acting within the scope of his office or employment, does not in itself give rise to Government liability, whether that conduct is intentional or merely negligent,"</p>
       <p>the Court concludes that the intentional tort exception is inapplicable to this case. Ante at <a href="./us487-0392.xml#p401">487 U. S. 401</a>-403. In my view, this analysis is misdirected. Petitioners' claim here is that the Government acted negligently, quite apart from the intentional tort of its employee. The issue then is how to give effect to the Act's express authorization of suits grounded in negligence without eviscerating the Act's prohibition of claims "arising out of" intentional torts. Whether or not the intentional tortfeasor</p>
@@ -121,7 +121,7 @@
       <p>2 F. Harper &amp; F. James, Law of Torts § 20.5, pp. 1143-1145 (1956) (footnotes omitted). See also Restatement (Second) of Torts §§ 447-449 (1965). The dissent's approach implies the converse: that an intentional act somehow obliterates the legal significance of any negligence that precedes or follows it. It must be noted that the phrase "arising out of" refers to claims, not suits. Congress did not bar any suit arising out of intentional torts; it barred only claims arising out of such wrongs. 28 U.S.C. § 2680(h) ("Any claim arising out of assault, battery. . .") (emphasis added). Whatever uncertainty surrounds the intentional tort exception, it is unlikely that Congress intended it, as the dissent suggests, to bar suits for "all injuries associated in any way with an assault or battery." Post at <a href="./us487-0392.xml#p409">487 U. S. 409</a>. It is standard tort doctrine that a reasonably foreseeable injury can arise from multiple causes, each arising from a breach of a different duty and each imposing liability accordingly. The dissent's position violates this basic principle by stating:</p>
       <p>"If we were to construe the words according to their ordinary meaning, we would say that a claim 'arises out of' a battery in any case in which the battery is essential to the claim."</p>
       <p>Post at 487 U.S. 408.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>I am in substantial agreement with the opinion of Chief Judge Winter, who wrote the dissenting opinion when this case was before the Court of Appeals. To determine whether a claim arises from an intentional assault or battery, and is therefore barred by the exception, a court must ascertain whether the alleged negligence was the breach of a duty to select or supervise the employee-tortfeasor or the breach of some separate duty independent from the employment relation. See 823 F.2d 820, 824, 828 (CA4 1987). If the allegation is that the Government was negligent in the supervision or selection of the employee, and that the intentional tort occurred as a result, the intentional tort exception of § 2680(h)</p>
       <n id="p407">407</n>
       <p>bars the claim. Otherwise, litigants could avoid the substance of the exception, because it is likely that many, if not all, intentional torts of Government employees plausibly could be ascribed to the negligence of the tortfeasor's supervisors. To allow such claims would frustrate the purposes of the exception.</p>

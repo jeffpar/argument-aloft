@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us307-0277.html" citation="307 U.S. 277" title="O'Malley v. Woodrough">
   <opinion type="Opinions &amp; Dissents">
     <n id="p277">277</n>
-    <h>U.S. Supreme Court</h>
-    <h>O'Malley v. Woodrough, <a href="./us307-0277.xml#p277">307 U.S. 277</a> (1939)</h>
-    <h>O'Malley v. Woodrough</h>
-    <h>No. 810</h>
-    <h>Argued April 28, 1939</h>
-    <h>Decided May 22, 1939</h>
-    <h><a href="./us307-0277.xml#p277">307 U.S. 277</a></h>
-    <h>APPEAL FROM THE DISTRICT COURT OF THE UNITED STATES</h>
-    <h>FOR THE DISTRICT OF NEBRASKA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>O'Malley v. Woodrough, <a href="./us307-0277.xml#p277">307 U.S. 277</a> (1939)</h1>
+    <h2>O'Malley v. Woodrough</h2>
+    <h2>No. 810</h2>
+    <h4>Argued April 28, 1939</h4>
+    <h4>Decided May 22, 1939</h4>
+    <h2>APPEAL FROM THE DISTRICT COURT OF THE UNITED STATES</h2>
+    <h2>FOR THE DISTRICT OF NEBRASKA</h2>
+    <h2>Syllabus</h2>
     <p>1. The provision of § 22(a) of the Revenue Act of 1936, requiring that there be included in gross income, for the purpose of computing the federal income tax, the compensation of "judges of courts of the United States taking office after June 6, 1932" -- which provision was a reenactment of a similar provision contained in the Revenue Act of June 6, 1932, and part of a taxing measure of general, nondiscriminatory application to all earners of income, -- held constitutional as applied to a judge who was appointed to</p>
     <n id="p278">278</n>
     <p>the Circuit Court of Appeals subsequently to June 6, 1932. P. <a href="./us307-0277.xml#p281">307 U. S. 281</a>.</p>
@@ -119,7 +119,7 @@
       <p>Although the Income Tax Act of 1894 said nothing about the compensation of the judges, Mr. Justice Field construed § 33 [Footnote 2/10] to tax that compensation, and assigned that ground, among others, for joining in the decision that the Act was unconstitutional. Pollock v. Farmers' Loan &amp; Trust Co., <a href="../us157/us157-0429.xml#p429">157 U. S. 429</a>, <a href="../us157/us157-0429.xml#p604">157 U. S. 604</a>-606. Mr. Justice Field, who was confirmed the day this Court ordered Chief Justice Taney's letter entered on its records, had taken his place upon this bench at the beginning of the following term. His opinion recited the facts of that incident, and quoted extensively from the letter, which was printed as an appendix to the volume of the reports containing the opinions in the Pollock case. 157 U.S. 701. The Justice ended his discussion of the matter by stating his belief, based on information, that the opinion of Attorney General Hoar had been followed ever since without question by the Treasury. And, upon reargument of the cause, Attorney General Olney said in his brief: "There has never been a doubt since the opinion of Attorney General Hoar that the salaries of the President and judges were exempt."</p>
       <p>The Revenue Acts of 1913 [Footnote 2/11] and 1916 [Footnote 2/12], being the first two after adoption of the Sixteenth Amendment, expressly</p>
       <n id="p291">291</n>
-      <p>excluded from gross income the compensation of judges then in office. But, after this country engaged in the World War, the Revenue Act of 1918, approved February 24, 1919, defined gross income to include "in the case of the President . . . [and] the judges of the Supreme and inferior courts . . . , the compensation received as such." [Footnote 2/13] The reports of the congressional committees having the measure in charge indicate that the Congress was in doubt as to the constitutional validity of that provision, and intended to have the question decided by the courts. [Footnote 2/14] The question was raised and presented for decision in Evans v. Gore, <a href="../us253/us253-0245.xml#p245">253 U. S. 245</a>. The Collector included the salary for 1918 of Judge Evans, appointed before enactment of the taxing statute, in gross income. Had it been excluded, he would have had no taxable income. He paid the tax and brought suit to recover the amount so exacted. The United States district court for the western district of Kentucky held him not entitled to recover. But, after argument by eminent counsel, including the Solicitor General, this Court held that the clause declaring that compensation of judges "shall not be diminished during their continuance in office" prevents diminution by taxation, and that it has been so construed in the actual practice of the government.</p>
+      <p>excluded from gross income the compensation of judges then in office. But, after this country engaged in the World War, the Revenue Act of 1918, approved February 24, 1919, defined gross income to include "in the case of the President . . . [and] the judges of the Supreme and inferior courts . . ., the compensation received as such." [Footnote 2/13] The reports of the congressional committees having the measure in charge indicate that the Congress was in doubt as to the constitutional validity of that provision, and intended to have the question decided by the courts. [Footnote 2/14] The question was raised and presented for decision in Evans v. Gore, <a href="../us253/us253-0245.xml#p245">253 U. S. 245</a>. The Collector included the salary for 1918 of Judge Evans, appointed before enactment of the taxing statute, in gross income. Had it been excluded, he would have had no taxable income. He paid the tax and brought suit to recover the amount so exacted. The United States district court for the western district of Kentucky held him not entitled to recover. But, after argument by eminent counsel, including the Solicitor General, this Court held that the clause declaring that compensation of judges "shall not be diminished during their continuance in office" prevents diminution by taxation, and that it has been so construed in the actual practice of the government.</p>
       <p>For the purpose of disclosing the reasons for and true meaning of the clause forbidding diminution of compensation of judges, the opinion of the Court, written by Mr. Justice Van Devanter, brought forward statements of Alexander Hamilton, Chief Justice Marshall, Justice Story, Chancellor Kent, Chief Justice Taney, Justice Field, Attorneys General Hoar and Olney and others.</p>
       <n id="p292">292</n>
       <p>Speaking for the Court, he said:</p>
@@ -188,7 +188,7 @@
       <p>[Footnote 2/13]</p>
       <p>§ 213(a), 40 Stat. 1065.</p>
       <p>[Footnote 2/14]</p>
-      <p>H.Rept. No. 767, 65th Cong., 2d sess , p. 29; Sen.Rept. No. 617, 65th Cong., 3d sess., p. 6; 56 Cong.Rec. p. 10370.</p>
+      <p>H.Rept. No. 767, 65th Cong., 2d sess, p. 29; Sen.Rept. No. 617, 65th Cong., 3d sess., p. 6; 56 Cong.Rec. p. 10370.</p>
       <p>[Footnote 2/15]</p>
       <p>Gillespie v. Oklahoma is one of the decisions subjected to condemnatory comment in the concurring opinion in Graves v. New York ex rel. O'Keefe, <a href="../us306/us306-0466.xml#p466">306 U. S. 466</a>. It is there said:</p>
       <p>"A succession of decisions [Gillespie v. Oklahoma is the first cited] thereby withdrew from the taxing power of the States and Nation a very considerable range of wealth without regard to the actual workings of our federalism, and this, too, when the financial needs of all governments began steadily to mount."</p>

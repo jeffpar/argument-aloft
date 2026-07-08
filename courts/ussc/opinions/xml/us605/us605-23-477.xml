@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us605-23-477.html" citation="605 U.S. 23-477" title="United States v. Skrmetti">
   <opinion type="Opinion" author="Roberts">
     <p>NOTICE: This opinion is subject to formal revision before publication in the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, pio@supremecourt.gov, of any typographical or other formal errors.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 23–477</p>
-    <p>_________________</p>
     <p>UNITED STATES, PETITIONER v. JONATHAN SKRMETTI, ATTORNEY GENERAL AND REPORTER FOR TENNESSEE, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the sixth circuit</p>
     <p>[June 18, 2025]</p>
@@ -79,9 +78,7 @@
   </opinion>
   <opinion type="Opinion" author="Alito">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 23–477</p>
-    <p>_________________</p>
     <p>UNITED STATES, PETITIONER v. JONATHAN SKRMETTI, ATTORNEY GENERAL AND REPORTER FOR TENNESSEE, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the sixth circuit</p>
     <p>[June 18, 2025]</p>
@@ -91,7 +88,7 @@
     <p>A</p>
     <p>To begin, I agree with the Court that SB1 does not classify on the basis of “sex” within the meaning of our equal protection precedents. What those cases have always meant by “sex” is the status of having the genes of a male or female. That was the common understanding of the term in 1971 when the Court, in Reed v. Reed, <a href="../us404/us404-0071.xml#p71">404 U.S. 71</a>, 74, first held that a law that discriminated against women violated the Equal Protection Clause. See, e.g., Random House Dictionary of the English Language 1307 (1966) (defining “sex” as “the fact or character of being either male or female”); Webster’s Third New International Dictionary 2081 (1966) (defining “sex” as “one of the two divisions of . . . human beings respectively designated male or female”). And all the Court’s subsequent cases in this line have shared that understanding.</p>
     <p>In Frontiero v. Richardson, <a href="../us411/us411-0677.xml#p677">411 U.S. 677</a> (1973), which was handed down in the next Term after Reed, a plurality referred to “sex” as “an immutable characteristic determined solely by the accident of birth.” 411 U. S., at 686. Twenty-five years later, Justice Ginsburg’s landmark opinion for the Court in United States v. Virginia, <a href="../us518/us518-0515.xml#p515">518 U.S. 515</a> (1996) (VMI), exhibited the same understanding. The opinion observed that the “[p]hysical differences between men and women . . . are enduring” and that the “ ‘[i]nherent differences’ between men and women” are “cause for celebration.” Id., at 533.</p>
-    <p>While the earliest cases in this line referred solely to discrimination on the basis of “sex,” see, e.g., Reed, 404 U. S., at 75–77; Frontiero, 411 U. S., at 682–688 (plurality opinion), later equal protection cases referred to classifications based on “gender,” see Craig v. Boren, <a href="../us429/us429-0190.xml#p190">429 U.S. 190</a>, 192 (1976). But it is clear that these cases used “gender” as a synonym for “sex.” See, e.g., id., at 199 (using “sex” and “gender” interchangeably). In employing the term “gender” in this way, our opinions tracked a change in usage in ordinary speech. As the Oxford English Dictionary explains, “as sex came increasingly to mean sexual intercourse . . . , gender began to replace it . . . as the usual word for the biological grouping of males and females.” Oxford English Dictionary (3d ed., June 2011), https://doi.org/10.1093/ OED/8610510183. Thus, our use of the term “gender” had no substantive significance. None of our equal protection decisions has used “gender” in the sense in which it is now sometimes used, i.e., to denote “a group of people in a society who share particular qualities or ways of behaving which that society associates with being male, female, or another identity.”[<a id="nf2-1" href="#fn2-1">1</a>]</p>
+    <p>While the earliest cases in this line referred solely to discrimination on the basis of “sex,” see, e.g., Reed, 404 U. S., at 75–77; Frontiero, 411 U. S., at 682–688 (plurality opinion), later equal protection cases referred to classifications based on “gender,” see Craig v. Boren, <a href="../us429/us429-0190.xml#p190">429 U.S. 190</a>, 192 (1976). But it is clear that these cases used “gender” as a synonym for “sex.” See, e.g., id., at 199 (using “sex” and “gender” interchangeably). In employing the term “gender” in this way, our opinions tracked a change in usage in ordinary speech. As the Oxford English Dictionary explains, “as sex came increasingly to mean sexual intercourse . . ., gender began to replace it . . . as the usual word for the biological grouping of males and females.” Oxford English Dictionary (3d ed., June 2011), https://doi.org/10.1093/ OED/8610510183. Thus, our use of the term “gender” had no substantive significance. None of our equal protection decisions has used “gender” in the sense in which it is now sometimes used, i.e., to denote “a group of people in a society who share particular qualities or ways of behaving which that society associates with being male, female, or another identity.”[<a id="nf2-1" href="#fn2-1">1</a>]</p>
     <p>For these reasons a party claiming that a law violates the Equal Protection Clause because it classifies on the basis of sex cannot prevail simply by showing that the law draws a distinction on the basis of “gender identity.” See, e.g., Merriam-Webster’s Collegiate Dictionary 520 (11th ed. 2020) (defining “gender identity”). Rather, such a plaintiff must show that the challenged law differentiates between the two biological sexes: male and female.</p>
     <p>B</p>
     <p>1</p>
@@ -159,9 +156,7 @@
   </opinion>
   <opinion type="Concurrence" author="Thomas">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 23–477</p>
-    <p>_________________</p>
     <p>UNITED STATES, PETITIONER v. JONATHAN SKRMETTI, ATTORNEY GENERAL AND REPORTER FOR TENNESSEE, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the sixth circuit</p>
     <p>[June 18, 2025]</p>
@@ -236,9 +231,7 @@
   </opinion>
   <opinion type="Concurrence" author="Barrett">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 23–477</p>
-    <p>_________________</p>
     <p>UNITED STATES, PETITIONER v. JONATHAN SKRMETTI, ATTORNEY GENERAL AND REPORTER FOR TENNESSEE, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the sixth circuit</p>
     <p>[June 18, 2025]</p>
@@ -275,9 +268,7 @@
   </opinion>
   <opinion type="Dissent" author="Sotomayor">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 23–477</p>
-    <p>_________________</p>
     <p>UNITED STATES, PETITIONER v. JONATHAN SKRMETTI, ATTORNEY GENERAL AND REPORTER FOR TENNESSEE, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the sixth circuit</p>
     <p>[June 18, 2025]</p>
@@ -373,9 +364,7 @@
   </opinion>
   <opinion type="Dissent" author="Kagan">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 23–477</p>
-    <p>_________________</p>
     <p>UNITED STATES, PETITIONER v. JONATHAN SKRMETTI, ATTORNEY GENERAL AND REPORTER FOR TENNESSEE, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the sixth circuit</p>
     <p>[June 18, 2025]</p>

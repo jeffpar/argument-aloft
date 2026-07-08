@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us587-17-1484.html" citation="587 U.S. 17-1484" title="Azar v. Allina Health Services">
   <opinion type="Opinion" author="Gorsuch">
     <p>NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 17–1484</p>
-    <p>_________________</p>
     <p>ALEX M. AZAR, II, SECRETARY OF HEALTH AND HUMAN SERVICES, PETITIONER v. ALLINA HEALTH SERVICES, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the district of columbia circuit</p>
     <p>[June 3, 2019]</p>
@@ -60,9 +59,7 @@
   </opinion>
   <opinion type="Dissent" author="Breyer">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 17–1484</p>
-    <p>_________________</p>
     <p>ALEX M. AZAR, II, SECRETARY OF HEALTH AND HUMAN SERVICES, PETITIONER v. ALLINA HEALTH SERVICES, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the district of columbia circuit</p>
     <p>[June 3, 2019]</p>
@@ -76,7 +73,7 @@
     <p>The other two relevant provisions were added in the 1980s. The provision contained in the very next paragraph is the one directly at issue here. It says:</p>
     <p>“No rule, requirement, or other statement of policy . . . that establishes or changes a substantive legal standard governing the scope of benefits, the payment for services, or the eligibility . . . to furnish or receive services or benefits . . . shall take effect unless it is promulgated by the Secretary by regulation under paragraph (1).” §1395hh(a)(2) (emphasis added).</p>
     <p>And the third relevant provision, eight paragraphs away, contains the notice-and-comment requirement:</p>
-    <p>“[B]efore issuing in final form any regulation under subsection (a) . . . , the Secretary shall provide for notice of the proposed regulation in the Federal Register and a period of not less than 60 days for public comment thereon.” §1395hh(b)(1) (emphasis added).</p>
+    <p>“[B]efore issuing in final form any regulation under subsection (a) . . ., the Secretary shall provide for notice of the proposed regulation in the Federal Register and a period of not less than 60 days for public comment thereon.” §1395hh(b)(1) (emphasis added).</p>
     <p>Taken together, these provisions say that the Secretary must use notice-and-comment procedures before promulgating any “regulation,” and that a “rule, requirement, or other statement of policy” counts as a “regulation” whenever it “establishes or changes a substantive legal standard.”</p>
     <p>The question at hand is whether an interpretive rule qualifies as the type of “regulation” that Congress intended to subject to the notice-and-comment requirement when it added the second and third provisions in the 1980s. In my view, the answer is no.</p>
     <p>In the 1980s, the words “regulation” and “substantive” (which I have repeatedly italicized above) carried a special meaning in the context of administrative law. This Court had recognized the “central distinction” drawn by the APA between “ ‘substantive rules’ on the one hand and ‘interpretative rules, general statements of policy, or rules of agency organization, procedure, or practice’ on the other.” Chrysler Corp. v. Brown, <a href="../us441/us441-0281.xml#p281">441 U.S. 281</a>, 301 (1979). A “substantive rule,” often promulgated pursuant to specific statutory authority, is a rule that “ ‘bind[s]’ ” the public or has “ ‘the force and effect of law.’ ” Id., at 301−302. Substantive rules had also come to be known as “legislative rules.” Id., at 302. And some courts referred to substantive rules as “regulations” as well, see, e.g., American Hospital Assn. v. Bowen, 834 F.2d 1037, 1045 (CADC 1987) (“ ‘ “regulations,” “substantive rules,” or “legislative rules” are those which create law’ ”); Cabais v. Egger, 690 F.2d 234, 238 (CADC 1982) (same), although this practice was both less common and less consistent.</p>

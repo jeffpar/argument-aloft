@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us392-0183.html" citation="392 U.S. 183" title="Maryland v. Wirtz">
   <opinion type="Opinions &amp; Dissents">
     <n id="p183">183</n>
-    <h>U.S. Supreme Court</h>
-    <h>Maryland v. Wirtz, <a href="./us392-0183.xml#p183">392 U.S. 183</a> (1968)</h>
-    <h>Maryland v. Wirtz</h>
-    <h>No. 742</h>
-    <h>Argued April 23, 1968</h>
-    <h>Decided June 10, 1968</h>
-    <h><a href="./us392-0183.xml#p183">392 U.S. 183</a></h>
-    <h>APPEAL FROM THE UNITED STATES DISTRICT COURT</h>
-    <h>FOR THE DISTRICT OF MARYLAND</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Maryland v. Wirtz, <a href="./us392-0183.xml#p183">392 U.S. 183</a> (1968)</h1>
+    <h2>Maryland v. Wirtz</h2>
+    <h2>No. 742</h2>
+    <h4>Argued April 23, 1968</h4>
+    <h4>Decided June 10, 1968</h4>
+    <h2>APPEAL FROM THE UNITED STATES DISTRICT COURT</h2>
+    <h2>FOR THE DISTRICT OF MARYLAND</h2>
+    <h2>Syllabus</h2>
     <p>The Fair Labor Standards Act, as enacted in 1938, required every employer to pay each of his employees "engaged in commerce or in the production of goods for commerce" certain minimum wages and overtime pay. The definition of employer excluded States and their political subdivisions. In 1961, the Act's coverage was extended beyond employees individually connected to interstate commerce to include all employees of certain "enterprises" engaged in commerce or production for commerce. In 1966, the Act was amended to cover certain hospitals, institutions, and schools, and to modify the definition of employer to remove the exemption of the States and their subdivisions with respect to employees of hospitals, institutions, and schools. Appellants, 28 States and a school district, sought to enjoin enforcement of the Act as it applies to schools and hospitals operated by the States or their subdivisions. They argued that the "enterprise concept" of coverage and the inclusion of state-operated hospitals and schools were beyond Congress' power under the Commerce Clause, that the remedial provisions of the Act, if applied to the States, would conflict with the Eleventh Amendment, and that school and hospital enterprises do not have the statutorily required relationship to interstate commerce. A three-judge district court declined to issue a declaratory judgment or an injunction, and concluded that the adoption of the "enterprise concept" and the extension of coverage to state institutions do not, on the face of the Act, exceed Congress' commerce power. That court declined to consider the Eleventh Amendment and statutory relationship contentions.</p>
     <p>Held:</p>
     <p>1. The "enterprise concept" of coverage is clearly within the power of Congress under the Commerce Clause. Pp. <a href="./us392-0183.xml#p188">392 U. S. 188</a>-193.</p>
@@ -41,7 +41,7 @@
     <n id="p188">188</n>
     <p>face of the Act, to exceed Congress' power under the Commerce Clause. Both declined to consider the Eleventh Amendment and statutory contentions. Judge Northrop dissented, concluding that the amendments exceeded the commerce power because they transgressed the sovereignty of the States.</p>
     <p>We noted probable jurisdiction of the plaintiffs' appeal, 389 U.S. 1031. For reasons to follow, we affirm the judgment of the District Court.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>We turn first to the adoption in 1961 of the "enterprise concept." Whereas the Act originally extended to every employee "who is engaged in commerce or in the production of goods for commerce," it now protects every employee who "is employed in an enterprise engaged in commerce or in the production of goods for commerce." [<a id="nf9" href="#fn9">Footnote 9</a>] Such an enterprise is defined as one which, along with other qualifications, "has employees engaged in commerce or in the production of goods for commerce. . . ." [<a id="nf10" href="#fn10">Footnote 10</a>] Thus, the effect of the 1961 change was to extend protection to the fellow employees of any employee who would have been protected by the original Act, but not to enlarge the class of employers subject to the Act.</p>
     <p>In United States v. Darby, <a href="../us312/us312-0100.xml#p100">312 U. S. 100</a>, this Court found the original Act a legitimate exercise of congressional power to regulate commerce among the States. Appellants accept the Darby decision, but contend that the extension of protection to fellow employees of those originally covered exceeds the commerce power. We conclude, to the contrary, that the constitutionality of the "enterprise concept" is settled by the reasoning of Darby itself, and is independently established by principles stated in other cases.</p>
     <n id="p189">189</n>
@@ -66,7 +66,7 @@
     <p>Whether the "enterprise concept" is defended on the "competition" theory or on the "labor dispute" theory, it is true that labor conditions in businesses having only a few employees engaged in commerce or production may not affect commerce very much or very often. Appellants therefore contend that defining covered enterprises in terms of their employees is sometimes to permit "the tail to wag the dog." However, while Congress has in some instances left to the courts or to administrative agencies the task of determining whether commerce is affected in a particular instance, Darby itself recognized the power of Congress instead to declare that an entire class of activities affects commerce. [<a id="nf18" href="#fn18">Footnote 18</a>] The only question for the courts is then whether the class is "within the reach of the federal power." [<a id="nf19" href="#fn19">Footnote 19</a>] The contention that, in</p>
     <n id="p193">193</n>
     <p>Commerce Clause cases, the courts have power to excise, as trivial, individual instances falling within a rationally defined class of activities has been put entirely to rest. Wickard v. Filburn, <a href="../us317/us317-0111.xml#p111">317 U. S. 111</a>, <a href="../us317/us317-0111.xml#p127">317 U. S. 127</a>-128; Polsh Alliance v. Labor Board, <a href="../us322/us322-0643.xml#p643">322 U. S. 643</a>, <a href="../us322/us322-0643.xml#p648">322 U. S. 648</a>; Katzenbach v. McClung, supra, at <a href="../us379/us379-0294.xml#p301">379 U. S. 301</a>. The class of employers subject to the Act was not enlarged by the addition of the enterprise concept. The definition of that class is as rational now as it was when Darby was decided.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Appellants' second contention is that the commerce power does not afford a constitutional basis for extension of the Act to schools and hospitals operated by the States or their subdivisions. Since the argument is made in terms of interference with "sovereign state functions," it is important to note exactly what the Act does. Although it applies to "employees," the Act specifically exempts any</p>
     <p>"employee employed in a bona fide executive, administrative, or professional capacity (including any employee employed in the capacity of academic administrative personnel or teacher in elementary or secondary schools). . . . [<a id="nf20" href="#fn20">Footnote 20</a>]"</p>
     <p>We assume, as did the District Court, [<a id="nf21" href="#fn21">Footnote 21</a>] that medical personnel are likewise excluded from coverage under the general language. The Act establishes only a minimum wage and a maximum limit of hours unless overtime wages are paid, and does not otherwise affect the way in which school and hospital duties are performed. Thus, appellants' characterization of the question in this case as whether Congress may, under the guise of the commerce power, tell the States how to perform medical and educational functions is not factually accurate. Congress has "interfered with" these</p>
@@ -98,7 +98,7 @@
     <p>The principle of United States v. California is controlling here. Appellants' argument that the statute involved there was somewhat more directly and obviously a regulation of "commerce," and that the state activity involved there was less central to state sovereignty, misses the mark. This Court has examined and will continue to examine federal statutes to determine whether there is a rational basis for regarding them as regulations of commerce among the States. But it will not carve up the commerce power to protect enterprises</p>
     <n id="p199">199</n>
     <p>indistinguishable in their effect on commerce from private businesses simply because those enterprises happen to be run by the States for the benefit of their citizens. [<a id="nf28" href="#fn28">Footnote 28</a>]</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Appellants raise two further issues, both of which the District Court found it inappropriate to explore fully in a declaratory judgment proceeding. We agree. In each case, we conclude that no showing has been made that warrants declaratory or injunctive relief. In neither instance, however, do we mean to preclude future consideration on the facts of individual cases.</p>
     <p>The first question is whether the Act violates the States' sovereign immunity from suit guaranteed by the Eleventh Amendment. [<a id="nf29" href="#fn29">Footnote 29</a>] The Act provides as follows:</p>
     <p>"Any employer who violates the provisions of section 206 [wages] or section 207 [hours] of this title shall be liable to the employee or employees affected in the amount of their unpaid minimum wages, or their unpaid overtime compensation as the case may be, and in an additional equal amount as liquidated damages. Action to recover such liability may be maintained in any court of competent jurisdiction. . . ."</p>
@@ -202,7 +202,7 @@
     </f>
     <f n="27"><a id="fn27" href="#nf27">Footnote 27</a>
       <p>The dissent suggests that, by use of an "enterprise concept" such as that we have upheld here, Congress could, under today's decision, declare a whole State an "enterprise" affecting commerce, and take over its budgeting activities. This reflects, we think, a misreading of the Act, of Wickard v. Filburn, supra, and of our decision. The Act's definition of "enterprise" reads in part as follows:</p>
-      <p>"'Enterprise' means the related activities performed (either through unified operation or common control) by any person or persons for a common business purpose . . . , but shall not include the related activities performed for such enterprise by an independent contractor. . . ."</p>
+      <p>"'Enterprise' means the related activities performed (either through unified operation or common control) by any person or persons for a common business purpose . . ., but shall not include the related activities performed for such enterprise by an independent contractor. . . ."</p>
       <p>29 U.S.C. § 203(r). We uphold the enterprise concept on the explicit premise that an "enterprise" is a set of operations whose activities in commerce would all be expected to be affected by the wages and hours of any group of employees, which is what Congress obviously intended. So defined, the term is quite cognizant of limitations on the commerce power. Neither here nor in Wickard has the Court declared that Congress may use a relatively trivial impact on commerce as an excuse for broad general regulation of state or private activities. The Court has said only that, where a general regulatory statute bears a substantial relation to commerce, the de minimis character of individual instances arising under that statute is of no consequence.</p>
     </f>
     <f n="28"><a id="fn28" href="#nf28">Footnote 28</a>

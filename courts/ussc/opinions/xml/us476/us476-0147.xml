@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us476-0147.html" citation="476 U.S. 147" title="Poland v. Arizona">
   <opinion type="Opinions &amp; Dissents">
     <n id="p147">147</n>
-    <h>U.S. Supreme Court</h>
-    <h>Poland v. Arizona, <a href="./us476-0147.xml#p147">476 U.S. 147</a> (1986)</h>
-    <h>Poland v. Arizona</h>
-    <h>No. 85-5023</h>
-    <h>Argued February 24, 1986</h>
-    <h>Decided May 5, 1986<a href="./us476-0147.xml#p147">476 U.S. 147</a>ast|&gt;*</h>
-    <h><a href="./us476-0147.xml#p147">476 U.S. 147</a></h>
-    <h>CERTIORARI TO THE SUPREME COURT OF ARIZONA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Poland v. Arizona, <a href="./us476-0147.xml#p147">476 U.S. 147</a> (1986)</h1>
+    <h2>Poland v. Arizona</h2>
+    <h2>No. 85-5023</h2>
+    <h4>Argued February 24, 1986</h4>
+    <h4>Decided May 5, 1986<a href="./us476-0147.xml#p147">476 U.S. 147</a>ast|&gt;*</h4>
+    <h2>CERTIORARI TO THE SUPREME COURT OF ARIZONA</h2>
+    <h2>Syllabus</h2>
     <p>Petitioners robbed a bank van of $281,000 in cash and killed the guards by dumping them into a lake in sacks weighted with rocks. Petitioners were convicted of first-degree murder in an Arizona state court. At a separate hearing, while finding that the statutory aggravating circumstance that the offense was committed for "pecuniary gain" was not present because it applied only to contract killings, the trial judge sentenced petitioners to death upon finding that the statutory aggravating circumstance that the offense was committed in "an especially heinous, cruel, or depraved manner" was present. The Arizona Supreme Court, while reversing and remanding for a retrial on other grounds, held that the evidence was insufficient to support a finding of the "especially heinous" circumstance, but that the trial judge erred in finding the "pecuniary gain" circumstance limited to contract killings, and that, if petitioners were again convicted, the judge might find this circumstance present. On remand, petitioners were again convicted of first-degree murder and the trial judge again sentenced them to death, finding that both the "pecuniary gain" and "especially heinous" circumstances were present. The Arizona Supreme Court affirmed, rejecting petitioners' argument that the Double Jeopardy Clause barred reimposition of the death penalty. The court found the evidence still insufficient to support the "especially heinous" circumstance, but sufficient to support the "pecuniary gain" circumstance.</p>
     <p>Held: Reimposing the death penalty on petitioners did not violate the Double Jeopardy Clause. Pp. <a href="./us476-0147.xml#p152">476 U. S. 152</a>-157.</p>
     <p>(a) When a conviction is reversed on appeal, it is nullified and "the slate wiped clean,'" so that, if the defendant is convicted again, he may constitutionally be subjected to whatever punishment is lawful. Bullington v. Missouri, <a href="../us451/us451-0430.xml#p430">451 U. S. 430</a>, <a href="../us451/us451-0430.xml#p442">451 U. S. 442</a>. This rationale is, however, inapplicable where a jury agrees or an appellate court decides that the prosecution "has not proved its case." Id. at <a href="../us451/us451-0430.xml#p443">451 U. S. 443</a>. Therefore, the relevant inquiry in these cases is whether the sentencing judge or the reviewing court has "decided that the prosecution has not proved its case"</p>
@@ -21,7 +21,7 @@
     <p>WHITE, J., delivered the opinion of the Court, in which BURGER, C.J., and POWELL, REHNQUIST, STEVENS, and O'CONNOR, JJ., joined. MARSHALL, J., filed a dissenting opinion, in which BRENNAN and BLACKMUN, JJ., joined, post, p. <a href="./us476-0147.xml#p157">476 U. S. 157</a>.</p>
     <p>JUSTICE WHITE delivered the opinion of the Court.</p>
     <p>The question presented is whether the Double Jeopardy Clause bars a further capital sentencing proceeding when, on appeal from a sentence of death, the reviewing court finds the evidence insufficient to support the only aggravating factor on which the sentencing judge relied, but does not find the evidence insufficient to support the death penalty.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In 1977, petitioners Patrick and Michael Poland, disguised as police officers, stopped a Purolator van that was making cash deliveries to various banks in northern Arizona. After removing some $281,000 in cash from the van, petitioners took the two Purolator guards to a lake and dumped them into the water in sacks weighted with rocks. Autopsies indicated</p>
     <n id="p149">149</n>
     <p>that the most probable cause of the guards' death was drowning, although one may have died of a heart attack. It was not possible to determine if the guards were drugged, but there was no evidence of a struggle.</p>
@@ -43,7 +43,7 @@
     <p>State v. Poland (Patrick), 144 Ariz. 388, 404, <a href="https://law.justia.com/cases/arizona/supreme-court/1985/4970-2-2.html">698 P.2d 183</a>, 199 (1985). Accord, State v. Poland (Michael), 144 Ariz. 412, <a href="https://law.justia.com/cases/arizona/supreme-court/1985/4969-2-2.html">698 P.2d 207</a> (1985).</p>
     <p>The court found the evidence still insufficient to support the "especially heinous, cruel, or depraved" aggravating circumstance, but sufficient to support the "pecuniary gain" aggravating circumstance with respect to both defendants and the "prior conviction involving violence" circumstance with respect to Patrick Poland. State v. Poland (Patrick), supra, at 404-406, 698 P.2d at 199-201; accord, State v. Poland (Michael), supra. After again reviewing and independently weighing the mitigating and aggravating circumstances, the court concluded that the death penalty was appropriate in each petitioner's case. We granted certiorari to consider whether reimposing the death penalties on petitioners violated the Double Jeopardy Clause. 474 U.S. 816 (1985). We hold that it did not.</p>
     <n id="p152">152</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>In Bullington v. Missouri, supra, this Court held that a defendant sentenced to life imprisonment by a capital sentencing jury is protected by the Double Jeopardy Clause against imposition of the death penalty in the event that he obtains reversal of his conviction and is retried and reconvicted. The Court recognized the usual rule to be that, when a defendant obtains reversal of his conviction on appeal,</p>
     <p>"the original conviction has been nullified, and 'the slate wiped clean.' Therefore, if the defendant is convicted again, he constitutionally may be subjected to whatever punishment is lawful, subject only to the limitation that he receive credit for time served."</p>
     <p>Id. at <a href="../us451/us451-0430.xml#p442">451 U. S. 442</a> (quoting North Carolina v. Pearce, <a href="../us395/us395-0711.xml#p711">395 U. S. 711</a>, <a href="../us395/us395-0711.xml#p721">395 U. S. 721</a> (1969)). However, the Court found that its prior decisions had created an exception to this rule:</p>
@@ -61,7 +61,7 @@
     <p>"[t]he double jeopardy principle relevant to [Rumsey's] case is the same as that invoked in Bullington: an acquittal on the merits by the sole decisionmaker in the proceeding is final, and bars retrial on the same charge."</p>
     <p>Id. at <a href="../us467/us467-0203.xml#p211">467 U. S. 211</a>.</p>
     <p>Under Bullington and Rumsey, therefore, the relevant inquiry in the cases before us is whether the sentencing judge or the reviewing court has "decid[ed] that the prosecution has not proved its case" for the death penalty, and hence has "acquitted" petitioners. Bullington, 451 U.S. at <a href="../us451/us451-0430.xml#p443">451 U. S. 443</a>.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>At no point during petitioners' first capital sentencing hearing and appeal did either the sentencer or the reviewing court hold that the prosecution had "failed to prove its case" that petitioners deserved the death penalty. Plainly, the sentencing judge did not acquit, for he imposed the death penalty. While the Arizona Supreme Court held that the sentencing judge erred in relying on the "especially heinous, cruel, or depraved" aggravating circumstance, it did not hold that the prosecution had failed to prove its case for the death penalty. Indeed, the court clearly indicated that there had been no such failure by remarking that</p>
     <p>"the trial court mistook the law when it did not find that the defendants 'committed the offense as consideration for the receipt, or in expectation of the receipt, of anything of pecuniary value,'"</p>
     <p>and that</p>

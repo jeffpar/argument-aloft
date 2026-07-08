@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us399-0235.html" citation="399 U.S. 235" title="Williams v. Illinois">
   <opinion type="Opinions &amp; Dissents">
     <n id="p235">235</n>
-    <h>U.S. Supreme Court</h>
-    <h>Williams v. Illinois, <a href="./us399-0235.xml#p235">399 U.S. 235</a> (1970)</h>
-    <h>Williams v. Illinois</h>
-    <h>No 1089</h>
-    <h>Argued April 22, 1970</h>
-    <h>Decided June 29, 1970</h>
-    <h><a href="./us399-0235.xml#p235">399 U.S. 235</a></h>
-    <h>APPEAL FROM THE SUPREME COURT OF ILLINOIS</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Williams v. Illinois, <a href="./us399-0235.xml#p235">399 U.S. 235</a> (1970)</h1>
+    <h2>Williams v. Illinois</h2>
+    <h2>No 1089</h2>
+    <h4>Argued April 22, 1970</h4>
+    <h4>Decided June 29, 1970</h4>
+    <h2>APPEAL FROM THE SUPREME COURT OF ILLINOIS</h2>
+    <h2>Syllabus</h2>
     <p>Appellant was given the maximum sentence for petty theft under Illinois law of one year' imprisonment and a $500 fine, plus $5 in court costs. The judgment, as permitted by statute, provided that, if, when the one-year sentence expired, he did not pay the monetary obligation, he had to remain in jail to work them off at the rate of $5 a day. While in jail, appellant, alleging indigency, unsuccessfully petitioned the sentencing judge to vacate that portion of the order confining him to jail after the sentence expired, because of nonpayment of the fine and cost. The Illinois Supreme Court rejected appellant's claim that the State statutory provision constituted discriminatory treatment against those unable to pay a fine and court costs, and affirmed the lower court's dismissal of appellant's petition, holding that "there is no denial of equal protection of the law when an indigent defendant is imprisoned to satisfy payment of the fine."</p>
     <p>Held: Though a State has considerable latitude in fixing the punishment for state crime, and may impose alternative sanction, it may not, under the Equal Protection Clause, subject a certain class of convicted defendants to a period of Imprisonment beyond the statutory maximum solely by reason of their indigency. Pp. <a href="./us399-0235.xml#p239">399 U. S. 239</a>-245.</p>
     <p><a href="https://law.justia.com/cases/illinois/supreme-court/1969/41131-5.html">41 Ill. 2d 511</a>, <a href="https://law.justia.com/cases/illinois/supreme-court/1969/41131-5.html">244 N.E.2d 197</a>, vacated and remanded.</p>
@@ -21,7 +21,7 @@
     <n id="p237">237</n>
     <p>confined for 101 days beyond the maximum period of confinement fixed by the statute, since he could not pay the fine and costs of $505.</p>
     <p>On November 29, 1967, appellant, while still an inmate in the county jail, petitioned the sentencing judge [<a id="nf4" href="#fn4">Footnote 4</a>] to vacate that portion of the order requiring that he remain imprisoned upon expiration of his one-year sentence because of nonpayment of the fine and court costs. Appellant alleged that he was indigent at all stages of the proceeding, was without funds or property to satisfy the money portion of the sentence, and that he would "be able to get a job and earn funds to pay the fine and costs if . . . released from jail upon expiration of his one-year sentence." The State did not dispute the factual allegations, [<a id="nf5" href="#fn5">Footnote 5</a>] and the trial court granted the State's motion to dismiss the petition</p>
-    <p>"for the reason that [appellant] was not legally entitled at that time to the relief requested . . . , because he still has time to serve on his jail sentence, and, when that sentence has been served, his financial ability to pay a fine might not be the same as it is of the date [of sentencing]. "</p>
+    <p>"for the reason that [appellant] was not legally entitled at that time to the relief requested . . ., because he still has time to serve on his jail sentence, and, when that sentence has been served, his financial ability to pay a fine might not be the same as it is of the date [of sentencing]. "</p>
     <n id="p238">238</n>
     <p>Appeal was taken directly to the Supreme Court of Illinois, which appears to have rejected any suggestion by the trial court that the petition was premature, and went on to decide appellant's constitutional claim on the merits. It held that "there is no denial of equal protection of the law when an indigent defendant is imprisoned to satisfy payment of the fine." People v. Williams, <a href="https://law.justia.com/cases/illinois/supreme-court/1969/41131-5.html">41 Ill. 2d 511</a>, 517, <a href="https://law.justia.com/cases/illinois/supreme-court/1969/41131-5.html">244 N.E.2d 197</a>, 200 (1969). [<a id="nf6" href="#fn6">Footnote 6</a>]</p>
     <p>In addition to renewing the constitutional argument rejected by the state courts, appellant advances a host of other claims [<a id="nf7" href="#fn7">Footnote 7</a>] which, in light of our disposition, we find unnecessary to reach or decide. Appellant challenges the constitutionality of § 1-7(k) of the Illinois Criminal Code, and argues primarily that the Equal Protection Clause of the Fourteenth Amendment prohibits imprisonment of an indigent beyond the maximum term authorized by the statute governing the substantive offense when that imprisonment flows directly from his present inability to pay a fine and court costs. In response, the State asserts its interest in the collection of revenues produced by payment of fines, and contends that a "work-off" system, as provided by § 1-7(k), is a rational means of implementing that policy. That interest is substantial and legitimate, but, for present purposes, it is not unlike the State's interest in collecting a fine from an indigent person in circumstances where no imprisonment is included in the judgment. The State argues further that the statute is not constitutionally infirm simply because the legislature could have achieved the same result</p>
@@ -61,7 +61,7 @@
     <p>|<a href="./us399-0235.xml#p235">399 U.S. 235</a>app|</p>
     <p>APPENDIX TO OPINION OF THE COURT <a href="./us399-0235.xml#p235">*</a></p>
     <p>STATE STATUTORY PROVISIONS CONCERNING</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>NCARCERATION FOR FAILURE TO PAY FINE Alabama</p>
     <p>If the fine is not paid, defendant is imprisoned in the county jail, possibly at hard labor. The statute is so worded that defendants who have been fined differing amounts may be imprisoned for the same amount of time in satisfaction of the fine. There is no provision in the statute for payment by installment. Ala.Code Tit. 15, Sec. 341 (1958).</p>
     <p>Alaska</p>
@@ -100,16 +100,16 @@
     <n id="p249">249</n>
     <p>prison until the judgment is satisfied. Hawaii Rev.Stat. Sec. 712-4 (1968).</p>
     <p>A poor person, after having been confined for thirty days, solely for the nonpayment of a fine, may make application to the circuit court for the circuit in which he is imprisoned for release. The person may then be discharged upon the taking of an oath. Id.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>daho A judgment that defendant pay a fine may also direct that the defendant be imprisoned until the fine has been satisfied. Rate of credit: $5 per day. Idaho Code Ann. Sec. 19-2517 (1969 Supp.).</p>
     <p>Substantially the same is provided, for both felonies and misdemeanors, by id., Sec. 18-303.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>llinois In a judgment imposing a fine, the court may order that, upon nonpayment of the fine, the offender may be imprisoned. Rate of credit: $5 per day. But no person may be imprisoned in this fashion for longer than six months. Ill.Rev.Stat. (1969) ch. 38, Sec. 1-7(k).</p>
     <p>If a person confined in jail for failure to pay a fine has no estate with which to pay the fine, the court may release that person. Id. ch. 38, Sec. 180-6.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>ndiana Whenever a person is fined for a felony or a misdemeanor, the judgment shall be that he is committed until the fine is paid. Ind.Ann.Stat. Sec. 9-2228 (1956).</p>
     <p>Rate of credit: $5 per day. Id., Sec. 9-2227a (Supp. 1969).</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>owa The judgment that defendant pay a fine may also direct that he be imprisoned until the fine is satisfied. Iowa Code Ann. Sec. 762.32 (1950).</p>
     <p>Rate of credit: $3 1/3 per day. Id., Sec. 789.17.</p>
     <n id="p250">250</n>
@@ -223,11 +223,11 @@
     <p>Utah</p>
     <p>A judgment that a defendant pay a fine may also direct that he be imprisoned until the fine is satisfied. Utah Code Ann. Sec. 77-35-15 (1953).</p>
     <p>Rate of credit: $2 per day. Id.</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>ermont When a person is sentenced to imprisonment and also to pay a fine, the court may order him imprisoned for failure to pay the fine, the term of imprisonment to begin at the end of the term in the original sentence. Vt.Stat.Ann. Tit. 13, Sec. 7222 (Supp. 1969).</p>
     <p>When a person is sentenced only to pay a fine, the court shall order that, if the sentence is not complied with within twenty-four hours, the person may be imprisoned. Id. Sec. 7223.</p>
     <p>Rate of credit: $1 per day. Id., Secs. 7222 and 7223.</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>irginia The circuit or corporation court in which any judgment for a fine is rendered may commit the defendant to jail until the fine is paid. Va.Code Ann. Sec.19.1-339 (Supp. 1968).</p>
     <n id="p258">258</n>
     <p>In any misdemeanor case tried before a court not of record in which a fine is imposed on a defendant, if no security is given, the defendant may be committed to jail until the fine is paid. Id. Sec.19.1-338.</p>
@@ -328,7 +328,7 @@
       <p>"rule that statutory classifications which either are based upon certain 'suspect' criteria or affect 'fundamental rights' will be held to deny equal protection unless justified by a 'compelling' governmental interest,"</p>
       <p>Shapiro v. Thompson, supra, at <a href="../us394/us394-0618.xml#p658">394 U. S. 658</a> (HARLAN, J., dissenting). In Shapiro, Harper v. Virginia Board of Elections, <a href="../us383/us383-0663.xml#p663">383 U. S. 663</a>, <a href="../us383/us383-0663.xml#p680">383 U. S. 680</a> (1966), and William v. Rhodes, <a href="../us393/us393-0023.xml#p23">393 U. S. 23</a>, <a href="../us393/us393-0023.xml#p41">393 U. S. 41</a> (1968), I attempted to expose the weakness in the precedential and jurisprudential foundation upon which the current doctrine of "equal protection" sits. See also Griffin v. Illinois, <a href="../us351/us351-0012.xml#p12">351 U. S. 12</a>, <a href="../us351/us351-0012.xml#p34">351 U. S. 34</a>-36 (1956) (dissenting opinion); Douglas v. California, <a href="../us372/us372-0353.xml#p353">372 U. S. 353</a>, <a href="../us372/us372-0353.xml#p360">372 U. S. 360</a> (1963) (dissenting opinion). I need not retrace the views expressed in these cases, except to object once again to this rhetorical preoccupation with "equalizing," rather than analyzing the rationality of the legislative distinction in relation to legislative purpose.</p>
       <p>An analysis under due process standards, correctly understood, is, in my view, more conducive to judicial restraint than an approach couched in slogans and ringing phrases, such as "suspect" classification or "invidious" distinctions, or "compelling" state interest, that blur analysis by shifting the focus away from the nature of the individual interest affected, the extent to which it is affected, the rationality of the connection between legislative means and purpose, the existence of alternative means for effectuating the purpose, and the degree of confidence we may have that the statute reflects the legislative concern for the purpose that would legitimately support the means chosen. Accordingly, I turn to the case at hand.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>The State of Illinois has made the unquestionably legitimate determination that the crime of petty larceny</p>
       <n id="p261">261</n>
       <p>should be punished by a jail term of days, up to one year, in combination with a fine of a dollar amount. Anyone who, in the judgment of the trial judge, should receive the stiffest penalty known to Illinois law for this crime may, if he possesses funds, satisfy the demands of the criminal law by paying the fine superimposed on the jail term. If he cannot pay his debt to society, it is surely not unequal, but, to the contrary, most equal, that some substitute sanction be imposed lest the individual of means be subjected to a harsher penalty than one who is impoverished. If equal protection implications of the Court's opinion were to be fully realized, it would require that the consequence of punishment be comparable for all individuals; the State would be forced to embark on the impossible task of developing a system of individualized fines, so that the total disutility of the entire fine, or the marginal disutility of the last dollar taken, would be the same for all individuals. Cf. Michelman, Foreword: On Protecting the Poor Through the Fourteenth Amendment, 83 Harv.L.Rev. 7 (1969). Today's holding, and those in the other so-called "equal protection" decisions, e.g., Douglas v. California, supra; Anders v. California, <a href="../us386/us386-0738.xml#p738">386 U. S. 738</a> (1967), offer no pretense to actually providing such equal treatment. It cannot be argued that the requirement of counsel on appeal is the right to the most skilled advocate who is theoretically at the call of the defendant of means. However desirable and enlightened a theory of social and economic equality may be, it is not a theory that has the blessing of the Fourteenth Amendment. Not</p>
@@ -336,21 +336,21 @@
       <n id="p262">262</n>
       <p>judicial body, be thought of as a general haven for reform movements."</p>
       <p>Reynolds v. Sims, <a href="../us377/us377-0533.xml#p533">377 U. S. 533</a>, 377 U.S. 624-625 (1964) (dissenting opinion).</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>The reluctance of the Court to carry its "equal protection" approach to its most logical consequences accents what I deem to be the true considerations involved in this case, namely, whether the legislature has impermissibly affected an individual right, or has done so in an arbitrary fashion. Cf. Michelman, supra. While legislation usually will not be deemed arbitrary if its means can arguably be supposed to be related to a legitimate purpose (see my dissenting opinion in Shapiro v. Thompson, supra) and generally the burden of demonstrating the existence of a rational connection between means and ends is not borne by the State (see Flemming v. Nestor, supra, and my dissenting opinion in Swann v. Adams, <a href="../us385/us385-0440.xml#p440">385 U. S. 440</a>, <a href="../us385/us385-0440.xml#p447">385 U. S. 447</a> (1967)), the presumption of regularity that comes with legislative judgment is one that is not equally acceptable in all instances, nor is it blind to the nature of the interests affected.</p>
       <p>Thus, as a due process matter, I have subscribed to the admonition of Skinner v. Oklahoma, <a href="../us316/us316-0535.xml#p535">316 U. S. 535</a>, <a href="../us316/us316-0535.xml#p541">316 U. S. 541</a> (1942), where the Court cautioned that there are limits to the extent to which the presumption of constitutionality can be pressed where a "basic liberty" is concerned. See my dissenting opinion in Poe v. Ullman, supra, at <a href="../us367/us367-0497.xml#p543">367 U. S. 543</a>. The same viewpoint was implicit in Flemming v. Nestor, supra, where the Court noted the breadth of latitude to be accorded to a legislative judgment when the interest was that of a "noncontractual benefit under a social welfare program." 363 U.S. at <a href="../us363/us363-0603.xml#p611">363 U. S. 611</a>. Thus, while that</p>
       <p>"interest . . . is of sufficient substance to fall within the protection from arbitrary governmental action</p>
       <n id="p263">263</n>
       <p>afforded by the Due Process Clause,"</p>
       <p>when that interest is the</p>
-      <p>"withholding of a noncontractual benefit under a social welfare program . . . , we must recognize that the Due Process Clause can be thought to interpose a bar only if the statute manifests a patently arbitrary classification, utterly lacking in rational justification."</p>
+      <p>"withholding of a noncontractual benefit under a social welfare program . . ., we must recognize that the Due Process Clause can be thought to interpose a bar only if the statute manifests a patently arbitrary classification, utterly lacking in rational justification."</p>
       <p>Ibid.</p>
       <p>The implication of Flemming is, however, that the deference owed to legislative judgment is not the same in all cases. Thus, legislation that regulates conduct but incidentally affects freedom of expression may, although it is a rational choice to effectuate a legitimate legislative purpose, be invalid because it imposes a burden on that right, or because other means, entailing less imposition, may exist. See NAACP v. Alabama, <a href="../us357/us357-0449.xml#p449">357 U. S. 449</a> (1958); Lovell v. City of Griffin, <a href="../us303/us303-0444.xml#p444">303 U. S. 444</a> (1938); Garner v. Louisiana, <a href="../us368/us368-0157.xml#p157">368 U. S. 157</a>, <a href="../us368/us368-0157.xml#p185">368 U. S. 185</a> (1961) (concurring in the judgment); United States v. O'Brien, <a href="../us391/us391-0367.xml#p367">391 U. S. 367</a>, <a href="../us391/us391-0367.xml#p388">391 U. S. 388</a> (1968) (concurring opinion).</p>
       <p>These decisions, by no means dispositive of the case before us, unquestionably show that this Court will squint hard at any legislation that deprives an individual of his liberty -- his right to remain free. Cf. my dissenting opinion in Poe v. Ullman, supra. While the interest of the State, that of punishing one convicted of crime, is no less substantial, cf. concurring opinion of MR. JUSTICE BRENNAN in Illinois v. Allen, <a href="../us397/us397-0337.xml#p337">397 U. S. 337</a>, <a href="../us397/us397-0337.xml#p347">397 U. S. 347</a> (1970), the</p>
       <p>"balance which our Nation, built upon postulates of respect for the liberty of the individual, has struck between that liberty and the demands of organized society,"</p>
       <p>Poe v. Ullman, supra, at <a href="../us367/us367-0497.xml#p542">367 U. S. 542</a>, "having regard to what history teaches" is not such that the State's interest here outweighs that of the individual so as to bring into full play the application of the usual salutary presumption of rationality.</p>
       <n id="p264">264</n>
-      <h>III</h>
+      <h2>III</h2>
       <p>The State by this statute or any other statute fixing a penalty of a fine, has declared its penological interest -- deterrence, retribution, and rehabilitation -- satisfied by a monetary payment, and disclaimed, as serving any penological purpose in such cases, a term in jail. While there can be no question that the State has a legitimate concern with punishing an individual who cannot pay the fine, there is serious question in my mind whether, having declared itself indifferent as between fine and jail, it can, consistently with due process, refrain from offering some alternative such as payment on the installment plan.</p>
       <p>There are two conceivable justifications for not doing so. The most obvious and likely justification for the present statute is administrative convenience. Given the interest of the individual affected, I do not think a State may, after declaring itself indifferent between a fine and jail, rely on the convenience of the latter as a constitutionally acceptable means for enforcing its interest, given the existence of less restrictive alternatives. Cf. Mullane v. Central Hanover Trust Co., <a href="../us339/us339-0306.xml#p306">339 U. S. 306</a> (1950).</p>
       <p>The second conceivable justification is that the jail alternative serves a penological purpose that cannot be served by collection of a fine over time. It is clear that, having declared itself satisfied by a fine, the alternative of jail to a fine serves neither a rehabilitative nor a retributive interest. The question is, then, whether the requirement of a lump-sum payment can be sustained as a rational legislative determination that deterrence is effective only when a fine is exacted at once after sentence and by lump sum, rather than over a term. This is a highly doubtful proposition, since, apart from the mere fact of conviction and the humiliation associated with it and the token of punishment evidenced by the forfeiture,</p>

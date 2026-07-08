@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us359-0464.html" citation="359 U.S. 464" title="TIME Incorporated v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p464">464</n>
-    <h>U.S. Supreme Court</h>
-    <h>TIME Incorporated v. United States, <a href="./us359-0464.xml#p464">359 U.S. 464</a> (1959)</h>
-    <h>TIME Incorporated v. United States</h>
-    <h>No. 68</h>
-    <h>Argued January 20, 1959</h>
-    <h>Decided May 18, 1959<a href="./us359-0464.xml#p464">359 U.S. 464</a>ast|&gt;*</h>
-    <h><a href="./us359-0464.xml#p464">359 U.S. 464</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEAL</h>
-    <h>FOR THE FIFTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>TIME Incorporated v. United States, <a href="./us359-0464.xml#p464">359 U.S. 464</a> (1959)</h1>
+    <h2>TIME Incorporated v. United States</h2>
+    <h2>No. 68</h2>
+    <h4>Argued January 20, 1959</h4>
+    <h4>Decided May 18, 1959<a href="./us359-0464.xml#p464">359 U.S. 464</a>ast|&gt;*</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEAL</h2>
+    <h2>FOR THE FIFTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>A shipper of goods by a motor carrier certificated by the Interstate Commerce Commission under the Motor Carrier Act of 1935 cannot challenge in post-shipment litigation the reasonableness of the carrier's past charges, which were made in accordance with the applicable tariffs filed under § 217 of the Act. Pp. <a href="./us359-0464.xml#p465">359 U. S. 465</a>-480.</p>
     <p>(a) The structure and history of Part II of the Interstate Commerce Act (the Motor Carrier Act [<a id="nf1" href="#fn1">Footnote 1</a>]) -- when compared with Parts I and III, which expressly grant such rights to shippers by rail and water -- lead to the conclusion that §§ 216 (b) and (d) were not intended to give shippers by motor carriers a statutory cause of action for recovery of past charges at allegedly unreasonable rates, or to enable them to assert "unreasonableness" as a defense in suits by motor carriers to recover past charges at applicable tariff rates. Pp. <a href="./us359-0464.xml#p468">359 U. S. 468</a>-472.</p>
     <p>(b) The Motor Carrier Act does not contemplate that shippers shall have a right at common law to dispute in court litigation the reasonableness of past charges at applicable tariff rates subject to determination of the issue of reasonableness by referral to the Commission. Pp. <a href="./us359-0464.xml#p472">359 U. S. 472</a>-480.</p>
@@ -44,7 +44,7 @@
     <p>rates. In the absence of any indication that Congress intended that despite the absence of any reparations power in the Federal Power Commission the federal courts should entertain suits for reparation of unreasonable rates, and refer to the Commission the controlling issue of past unreasonableness, the Court declined to permit the Commission to accomplish indirectly through such a proceeding that which Congress did not allow it to accomplish directly.</p>
     <p>It is true that, under Parts I and III of the Interstate Commerce Act, relating respectively to rail and water carriers, a shipper may litigate as to the reasonableness of past charges even if those charges were based on the applicable and effective filed rates. The structure and history of Part II (the Motor Carrier Act), however, lead to the conclusion that here, as in the Federal Power Act, Congress did not intend to give shippers a statutory cause of action for the recovery of allegedly unreasonable past rates, or to enable them to assert "unreasonableness" as a defense in carrier suits to recover applicable tariff rates.</p>
     <p>The very provisions of Part I, and their counterparts in Part III, which give a right of action to shippers against carriers for damages incurred by carrier violations of the Act and provide the mechanics for the enforcement of that right are conspicuously absent in the Motor Carrier Act. Thus, whereas § 8 of Part I [<a id="nf7" href="#fn7">Footnote 7</a>] provides that</p>
-    <p>"any common carrier subject to the provisions of this chapter [who] shall do . . . any act . . . in this chapter . . . declared to be unlawful . . . shall be liable to the person or persons injured thereby for the full amount of the damages sustained . . . ,"</p>
+    <p>"any common carrier subject to the provisions of this chapter [who] shall do . . . any act . . . in this chapter . . . declared to be unlawful . . . shall be liable to the person or persons injured thereby for the full amount of the damages sustained . . .,"</p>
     <p>Part I has no comparable provision. Again, whereas § 9 of Part I [<a id="nf8" href="#fn8">Footnote 8</a>] gives an injured shipper the right to sue in the ICC or in the Federal District Court,</p>
     <n id="p471">471</n>
     <p>Part II contains no comparable provision. In addition, §§ 13(1) and 16 of Part I [<a id="nf9" href="#fn9">Footnote 9</a>] give a shipper claiming reparation the right to proceed in the Commission and to enforce his reparation award in the courts, and Part II contains no comparable provisions.</p>
@@ -55,8 +55,8 @@
     <n id="p472">472</n>
     <p>recommended amendment of the Motor Carrier Act to provide a remedy for violation of the statute to persons injured thereby, [<a id="nf11" href="#fn11">Footnote 11</a>] and, once more, the measure failed of adoption.</p>
     <p>In light of the statute and its history, it is plain that, if a shipper has a "justiciable legal right" to recover or resist past motor carrier charges alleged to have been unreasonable, it is necessary to look beyond the Motor Carrier Act for the source of that right.</p>
-    <h>II</h>
-    <p>The Government urges that, even if the Motor Carrier Act does not grant the right which is claimed here, the Act must at least be read to preserve a preexisting common law right of that kind. It relies on § 216(j) of the statute, 49 U.S.C. § 316(j), as showing a congressional intention to confirm such a right in its statement that nothing in § 216 "shall be held to extinguish any remedy or right of action not inconsistent herewith." The contention is that the common law recognized the right of a shipper by common carrier to recover exorbitant rates paid under protest, [<a id="nf12" href="#fn12">Footnote 12</a>] and that, although the doctrine of primary jurisdiction requires that the issue of whether rates which are retrospectively challenged were in fact "unreasonable" be determined by the ICC , the common law right may be vindicated in a suit in the courts through referral of the issue of "unreasonableness" to the Commission.</p>
+    <h2>II</h2>
+    <p>The Government urges that, even if the Motor Carrier Act does not grant the right which is claimed here, the Act must at least be read to preserve a preexisting common law right of that kind. It relies on § 216(j) of the statute, 49 U.S.C. § 316(j), as showing a congressional intention to confirm such a right in its statement that nothing in § 216 "shall be held to extinguish any remedy or right of action not inconsistent herewith." The contention is that the common law recognized the right of a shipper by common carrier to recover exorbitant rates paid under protest, [<a id="nf12" href="#fn12">Footnote 12</a>] and that, although the doctrine of primary jurisdiction requires that the issue of whether rates which are retrospectively challenged were in fact "unreasonable" be determined by the ICC, the common law right may be vindicated in a suit in the courts through referral of the issue of "unreasonableness" to the Commission.</p>
     <n id="p473">473</n>
     <p>The saving clause of § 216(j) must be read in light of the judicial decisions interpreting Part I of the Interstate Commerce Act before 1935, for the course of those decisions illuminates the significance of the striking differences which Congress saw fit to make between the provisions of Part I and those of the Motor Carrier Act. The landmark case is Texas &amp; Pacific R. Co. v. Abilene Cotton Oil Co., <a href="../us204/us204-0426.xml#p426">204 U. S. 426</a>. There, a shipper sued in a state court to recover the difference between an allegedly unreasonable charge exacted from it by a rail carrier pursuant to tariffs filed by the carrier with the ICC and what was claimed would have been a just and reasonable charge. One of the issues before this Court was whether any common law right to recover an exorbitant common carrier freight charge paid under protest survived the passage of the Interstate Commerce Act. The Court held, despite the existence in Part I of a saving clause much broader in scope than that here involved, [<a id="nf13" href="#fn13">Footnote 13</a>] that, because, under the statutory scheme, only the ICC could decide in the first instance whether any filed rate was "unreasonable" either as to the past or future, any common law right was necessarily extinguished as "absolutely inconsistent" with recognition of the Commission's primary jurisdiction. It is important to note that this conclusion did not rest upon the fact that, under Part I, the ICC had reparations authority with respect to unreasonable charges paid by shippers, but, instead, was evidently dictated by the broader conclusion that the crucial question of reasonableness could not be decided by the courts.</p>
     <p>Since the Government concedes that, under Part II, as under Part I, the issue of the unreasonableness of rates</p>

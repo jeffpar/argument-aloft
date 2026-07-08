@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us101-0001.html" citation="101 U.S. 1" title="National Bank v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p1">1</n>
-    <h>U.S. Supreme Court</h>
-    <h>National Bank v. United States, <a href="./us101-0001.xml#p1">101 U.S. 1</a> (1879)</h>
-    <h>National Bank v. United States</h>
-    <h><a href="./us101-0001.xml#p1">101 U.S. 1</a></h>
-    <h>ERROR TO THE CIRCUIT COURT OF THE UNITED</h>
-    <h>STATES FOR THE EASTERN DISTRICT OF ARKANSAS</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>National Bank v. United States, <a href="./us101-0001.xml#p1">101 U.S. 1</a> (1879)</h1>
+    <h2>National Bank v. United States</h2>
+    <h2>ERROR TO THE CIRCUIT COURT OF THE UNITED</h2>
+    <h2>STATES FOR THE EASTERN DISTRICT OF ARKANSAS</h2>
+    <h2>Syllabus</h2>
     <p>1. Sec. 3413 of the Revised Statutes, which enacts that:</p>
     <p>"Every national banking association, state bank, or banker, or association, shall pay a tax of ten percentum on the amount of notes of any town, city, or municipal corporation, paid out by them,"</p>
     <p>is not unconstitutional.</p>

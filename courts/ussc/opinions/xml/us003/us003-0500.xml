@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us003-0500.html" citation="3 U.S. 500" title="DALLAS v. CHALONER'S EX'RS">
   <opinion type="Opinions &amp; Dissents">
     <n id="p500">500</n>
-    <h>U.S. Supreme Court</h>
-    <h>DALLAS v. CHALONER'S EX'RS, <a href="./us003-0500.xml#p500">3 U.S. 500</a> (1799)</h>
-    <h> <a href="./us003-0500.xml#p500">3 U.S. 500</a> (Dall.)</h>
-    <h>Dallas, Secretary of the Commonwealth, v. Chaloner's Executors</h>
-    <h>Supreme Court of Pennsylvania</h>
-    <h>March Term, 1799</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>DALLAS v. CHALONER'S EX'RS, <a href="./us003-0500.xml#p500">3 U.S. 500</a> (1799)</h1>
+    <h2>Dallas, Secretary of the Commonwealth, v. Chaloner's Executors</h2>
+    <h2>Supreme Court of Pennsylvania</h2>
+    <h4>March Term, 1799</h4>
     <p>This was an action of Debt, instituted in the name of the Secretary of the Commonwealth, on an official bond, which the testator had given, with two sureties, for the faithful discharge of his duty as a public Auctioneer, and for well and duly performing the terms and payment imposed by law. 2 Vol. Dall. Edit. 777. At the time of Chaloner's death, a considerable sum was due to the public, for duties on sales at auction; nor had he accounted to many of his creditors, for the proceeds of the goods, which they respectively deposited with him. The action, however, was instituted by the Attorney-General, for the State; and judgment was entered for the penalty, by consent of all parties, to satisfy the amount of the duties, reserving the subsequent claim of the creditors.</p>
     <p>But Lewis and Rawle, on behalf of James Yard, one of the creditors, now contended, that the State was not entitled to</p>
     <n id="p501">501</n>
@@ -18,7 +18,7 @@
     <p>M'Kean, Chief Justice.</p>
     <p>This is an action brought upon the official bond of a public auctioneer, to recover the amount of the duties payable to the State. It is true, that the law directs auctioneers to be displaced, and their bonds to be put in suit, if they do not, once in three months, pay the duties into the Treasury: but there is no provision for annulling the bonds, or forfeiting the remedy of the State upon them, in case that direction should not be complied with. As to the delinquent himself, such a provision would have been absurd; and as to his sureties, it is enough to observe, that their case is not at present before the Court; nor is the objection made with a view to their relief.</p>
     <p>Let the Judgment be entered in favor of the Commonwealth for the amount of the duties, with interest from the time when the money ought to have been paid into the Treasury.</p>
-    <h>Footnotes</h>
+    <h2>Footnotes</h2>
     <p>[Footnote *] M'Kean, Chief Justice. It is an established principle, that the person who first sues, and obtains judgment, on an official Bond, is entitled to take the whole of the penalty, if his demand amounts to so much, in exclusion of every other claimant.</p>
   </opinion>
 </case>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us481-0828.html" citation="481 U.S. 828" title="United States v. Mendoza-Lopez">
   <opinion type="Opinions &amp; Dissents">
     <n id="p828">828</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Mendoza-Lopez, <a href="./us481-0828.xml#p828">481 U.S. 828</a> (1987)</h>
-    <h>United States v. Mendoza-Lopez</h>
-    <h>No. 85-2067</h>
-    <h>Argued March 3, 1987</h>
-    <h>Decided May 26, 1987</h>
-    <h><a href="./us481-0828.xml#p828">481 U.S. 828</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE EIGHTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Mendoza-Lopez, <a href="./us481-0828.xml#p828">481 U.S. 828</a> (1987)</h1>
+    <h2>United States v. Mendoza-Lopez</h2>
+    <h4>No. 85-2067</h4>
+    <h4>Argued March 3, 1987</h4>
+    <h4>Decided May 26, 1987</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE EIGHTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Title 8 U.S.C. § 1326 provides that any alien who has been deported and thereafter enters the United States is guilty of a felony. Respondents, Mexican nationals, were arrested and deported after a group hearing at which they purportedly waived their rights to apply for suspension of deportation and to appeal. Subsequently, respondents were again arrested in this country and indicted on charges of violating § 1326. However, the District Court dismissed the indictments, ruling that respondents could collaterally attack their previous deportation orders. The court found that they had not understood the Immigration Judge's explanation of suspension of deportation, and concluded that the reliability of the proceedings had been totally undermined by the fact that they had not made knowing and intelligent waivers of their right to that remedy or their right to appeal. The Court of Appeals affirmed, holding that, since a material element of the offense prohibited by § 1326 was a "lawful" deportation order, principles of fundamental fairness required a pretrial review of the underlying deportation to determine whether respondents received due process of law. Because they did not fully understand the proceedings, the court found a due process violation rendering the deportation order unlawful, and therefore not a proper basis for the charges against respondents.</p>
     <p>Held:</p>
     <p>1. The text, legislative history, and background of § 1326 indicate that Congress did not intend the validity of an underlying deportation order to be contestable in a § 1326 prosecution. Section 1326's express language does not suggest that only a "lawful" deportation may be an element of the offense, thereby permitting a collateral challenge. Moreover, in enacting § 1326, Congress had available to it at least one predecessor statute containing express language that would have permitted collateral challenges, but failed to include that language in § 1326. While there was, at the time of § 1326's enactment, some case law suggesting that collateral attacks might be permissible under certain circumstances, that principle was not so unequivocally established that Congress must have intended to incorporate it into § 1326. Furthermore, the Immigration and Nationality Act does include sections -- particularly 8 U.S.C. § 1105(a) -- dealing with judicial review of deportation</p>
@@ -26,7 +26,7 @@
     <n id="p830">830</n>
     <p>JUSTICE MARSHALL delivered the opinion of the Court.</p>
     <p>In this case, we must determine whether an alien who is prosecuted under 8 U.S.C. § 1326 for illegal entry following deportation may assert in that criminal proceeding the invalidity of the underlying deportation order.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Respondents, Jose Mendoza-Lopez and Angel Landeros-Quinones, were arrested at separate locations in Lincoln, Nebraska, on October 23, 1984, by agents of the Immigration and Naturalization Service. On October 30, 1984, they were transported to Denver, Colorado, where a group deportation hearing was held for respondents along with 11 other persons, all of whom were, like respondents, Mexican nationals. [<a id="nf1" href="#fn1">Footnote 1</a>] After the hearing, respondents were ordered deported and were bused to El Paso, Texas. They were deported from El Paso on November 1, 1984. Each received, at the time of his deportation, a copy of Form I-294, which advised, in both Spanish and English, that a return to the United States without permission following deportation would constitute a felony.</p>
     <p>On December 12, 1984, both respondents were once again separately arrested in Lincoln, Nebraska. They were subsequently indicted by a grand jury in the District of Nebraska on charges of violating 8 U.S.C. § 1326, which provides:</p>
     <p>"Any alien who -- "</p>
@@ -47,7 +47,7 @@
     <p>Id. at 113. [<a id="nf5" href="#fn5">Footnote 5</a>]</p>
     <n id="p833">833</n>
     <p>To resolve the conflict among the Circuits, [<a id="nf6" href="#fn6">Footnote 6</a>] we granted certiorari. 479 U.S. 811 (1986). We affirm.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>In United States v. Spector, <a href="../us343/us343-0169.xml#p169">343 U. S. 169</a> (1952), we left open whether the validity of an underlying order of deportation may be challenged in a criminal prosecution in which that prior deportation is an element of the crime. [<a id="nf7" href="#fn7">Footnote 7</a>] Today, we</p>
     <n id="p834">834</n>
     <p>squarely confront this question in the context of § 1326, which imposes a criminal penalty on any alien who has been deported and subsequently enters, attempts to enter, or is found in, the United States. The issue before us is whether a federal court must always accept as conclusive the fact of the deportation order, even if the deportation proceeding was not conducted in conformity with due process. [<a id="nf8" href="#fn8">Footnote 8</a>]</p>
@@ -61,7 +61,7 @@
     <n id="p837">837</n>
     <p>pursuant to an order of deportation may obtain judicial review of that order in a habeas corpus proceeding, 8 U.S.C. § 1105a(a)(9). These sections are not directly applicable to this case, since respondents did not ask the District Court to vacate their deportation orders, and the court did not do so. It ruled only that the orders could not properly be used as the predicate for a § 1326 conviction. Yet the text of § 1105a indicates that Congress considered and addressed some of the various circumstances in which challenges to deportation orders might arise and did not mention § 1326. See also 8 U.S.C. § 1101(g) ("For the purposes of this chapter any alien ordered deported . . . who has left the United States, shall be considered to have been deported in pursuance of law . . ."); but see Mendez v. INS, 563 F.2d 956, 959 (CA9 1977). [<a id="nf13" href="#fn13">Footnote 13</a>]</p>
     <p>The text and background of § 1326 thus indicate no congressional intent to sanction challenges to deportation orders in proceedings under § 1326.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>A</p>
     <p>That Congress did not intend the validity of the deportation order to be contestable in a § 1326 prosecution does not end our inquiry. If the statute envisions that a court may impose a criminal penalty for reentry after any deportation, regardless of how violative of the rights of the alien the deportation proceeding may have been, the statute does not comport with the constitutional requirement of due process. [<a id="nf14" href="#fn14">Footnote 14</a>]</p>
     <p>Our cases establish that where a determination made in an administrative proceeding is to play a critical role in the subsequent</p>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us479-0564.html" citation="479 U.S. 564" title="Colorado v. Spring">
   <opinion type="Opinions &amp; Dissents">
     <n id="p564">564</n>
-    <h>U.S. Supreme Court</h>
-    <h>Colorado v. Spring, <a href="./us479-0564.xml#p564">479 U.S. 564</a> (1987)</h>
-    <h>Colorado v. Spring</h>
-    <h>No. 85-1517</h>
-    <h>Argued December 9, 1986</h>
-    <h>Decided January 27, 1987</h>
-    <h><a href="./us479-0564.xml#p564">479 U.S. 564</a></h>
-    <h>CERTIORARI TO THE SUPREME COURT OF COLORADO</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Colorado v. Spring, <a href="./us479-0564.xml#p564">479 U.S. 564</a> (1987)</h1>
+    <h2>Colorado v. Spring</h2>
+    <h2>No. 85-1517</h2>
+    <h4>Argued December 9, 1986</h4>
+    <h4>Decided January 27, 1987</h4>
+    <h2>CERTIORARI TO THE SUPREME COURT OF COLORADO</h2>
+    <h2>Syllabus</h2>
     <p>In February, 1979, respondent and a companion shot and killed one Walker during a hunting trip in Colorado. Thereafter, based on information received from an informant as to respondent's involvement in the interstate transportation of stolen firearms, agents of the Bureau of Alcohol, Tobacco, and Firearms (ATF) set up an undercover purchase of firearms from respondent, and on March 30, 1979, arrested him. After being advised of his Miranda rights, respondent signed a statement that he understood and waived his rights and was willing to answer questions. The agents then questioned him about the firearms transactions that led to his arrest and also asked him whether he had ever shot anyone, to which he answered that he had "shot another guy once." But when asked whether he had shot a man named Walker, he said "no." On May 26, 1979, Colorado law enforcement officers gave respondent Miranda warnings, and he again signed a statement that he understood his rights and was willing to waive them. He then confessed to the Colorado murder and signed a statement to that effect. Upon being charged in a Colorado state court with first-degree murder, respondent moved to suppress both the March 30 and May 26 statements on the ground that his waiver of Miranda rights was invalid. The trial court held that the ATF agents' failure to inform respondent before the March 30 interview that they would question him about the Colorado murder did not affect the waiver, and that therefore the March 30 statement should not be suppressed. But, while ruling that the March 30 statement was inadmissible on other grounds, the court held that the May 26 statement was made freely, voluntarily, and intelligently, and should not be suppressed, and hence admitted it in evidence, and respondent was convicted. The Colorado Court of Appeals reversed, holding that respondent's waiver of his Miranda rights before the March 30 statement was invalid because he was not informed that he would be questioned about the Colorado murder, and that the State had failed to prove the May 26 statement was not the product of the prior illegal statement. The Colorado Supreme Court affirmed, holding that respondent's confession to the murder should have been suppressed because it was the illegal "fruit" of the March 30 statement.</p>
     <n id="p565">565</n>
     <p>Held: A suspect's awareness of all the crimes about which he may be questioned is not relevant to determining the validity of his decision to waive the Fifth Amendment privilege; accordingly, the ATF agents' failure to inform respondent of the subject matter of the interrogation could not affect his decision to waive that privilege in a constitutionally significant manner. Pp. <a href="./us479-0564.xml#p571">479 U. S. 571</a>-577.</p>
@@ -22,7 +22,7 @@
     <n id="p566">566</n>
     <p>JUSTICE POWELL delivered the opinion of the Court.</p>
     <p>In Miranda v. Arizona, <a href="../us384/us384-0436.xml#p436">384 U. S. 436</a> (1966), the Court held that a suspect's waiver of the Fifth Amendment privilege against self-incrimination is valid only if it is made voluntarily, knowingly, and intelligently. Id. at <a href="../us384/us384-0436.xml#p444">384 U. S. 444</a>. This case presents the question whether the suspect's awareness of all the crimes about which he may be questioned is relevant to determining the validity of his decision to waive the Fifth Amendment privilege.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In February, 1979, respondent John Leroy Spring and a companion shot and killed Donald Walker during a hunting trip in Colorado. Shortly thereafter, an informant told agents of the Bureau of Alcohol, Tobacco, and Firearms (ATF) that Spring was engaged in the interstate transportation of stolen firearms. The informant also told the agents that Spring had discussed his participation in the Colorado killing. At the time the ATF agents received this information, Walker's body had not been found and the police had received no report of his disappearance. Based on the information received from the informant relating to the firearms violations, the ATF agents set up an undercover operation to purchase firearms from Spring. On March 30, 1979, ATF agents arrested Spring in Kansas City, Missouri, during the undercover purchase.</p>
     <n id="p567">567</n>
     <p>An ATF agent on the scene of the arrest advised Spring of his Miranda rights. [<a id="nf1" href="#fn1">Footnote 1</a>] Spring was advised of his Miranda rights a second time after he was transported to the ATF office in Kansas City. At the ATF office, the agents also advised Spring that he had the right to stop the questioning at any time or to stop the questioning until the presence of an attorney could be secured. Spring then signed a written form stating that he understood and waived his rights, and that he was willing to make a statement and answer questions.</p>
@@ -58,7 +58,7 @@
     <p>"the majority's conclusion that Spring's waiver of his Miranda rights on March 30, 1979, was invalid simply because he was not informed of all matters that would be reviewed when he was questioned by the police."</p>
     <p>Id. at 881. The court remanded the case for further proceedings consistent with its opinion.</p>
     <p>We granted certiorari, 476 U.S. 1104 (1986), to resolve an arguable Circuit conflict [<a id="nf3" href="#fn3">Footnote 3</a>] and to review the Colorado Supreme Court's determination that a suspect's awareness of the possible subjects of questioning is a relevant and sometimes determinative consideration in assessing whether a waiver of the Fifth Amendment privilege is valid. We now reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>There is no dispute that the police obtained the May 26 confession after complete Miranda warnings and after informing Spring that he would be questioned about the Colorado homicide. The Colorado Supreme Court nevertheless held that the confession should have been suppressed because it was the illegal "fruit" of the March 30 statement. A confession cannot be "fruit of the poisonous tree" if the tree itself is not</p>
     <n id="p572">572</n>
     <p>poisonous. Our inquiry, therefore, centers on the validity of the March 30 statement. [<a id="nf4" href="#fn4">Footnote 4</a>]</p>
@@ -78,12 +78,12 @@
     <p>There is no doubt that Spring's decision to waive his Fifth Amendment privilege was voluntary. He alleges no "coercion</p>
     <n id="p574">574</n>
     <p>of a confession by physical violence or other deliberate means calculated to break [his] will," Oregon v. Elstad, <a href="../us470/us470-0298.xml#p298">470 U. S. 298</a>, <a href="../us470/us470-0298.xml#p312">470 U. S. 312</a> (1985), and the trial court found none. His allegation that the police failed to supply him with certain information does not relate to any of the traditional indicia of coercion:</p>
-    <p>"the duration and conditions of detention . . . , the manifest attitude of the police toward him, his physical and mental state, the diverse pressures which sap or sustain his powers of resistance and self-control."</p>
+    <p>"the duration and conditions of detention . . ., the manifest attitude of the police toward him, his physical and mental state, the diverse pressures which sap or sustain his powers of resistance and self-control."</p>
     <p>Culombe v. Connecticut, <a href="../us367/us367-0568.xml#p568">367 U. S. 568</a>, <a href="../us367/us367-0568.xml#p602">367 U. S. 602</a> (1961) (opinion of Frankfurter, J.). Absent evidence that Spring's "will [was] overborne and his capacity for self-determination critically impaired" because of coercive police conduct, ibid.; see Colorado v. Connelly, <a href="./us479-0157.xml#p157">479 U. S. 157</a>, <a href="./us479-0157.xml#p163">479 U. S. 163</a>-164 (1986), his waiver of his Fifth Amendment privilege was voluntary under this Court's decision in Miranda.</p>
     <p>There also is no doubt that Spring's waiver of his Fifth Amendment privilege was knowingly and intelligently made: that is, that Spring understood that he had the right to remain silent and that anything he said could be used as evidence against him. The Constitution does not require that a criminal suspect know and understand every possible consequence of a waiver of the Fifth Amendment privilege. Moran v. Burbine, supra, at <a href="../us475/us475-0412.xml#p422">475 U. S. 422</a>; Oregon v. Elstad, supra, at <a href="../us470/us470-0298.xml#p316">470 U. S. 316</a>-317. The Fifth Amendment's guarantee is both simpler and more fundamental: A defendant may not be compelled to be a witness against himself in any respect. The Miranda warnings protect this privilege by ensuring that a suspect knows that he may choose not to talk to law enforcement officers, to talk only with counsel present, or to discontinue talking at any time. The Miranda warnings ensure that a waiver of these rights is knowing and intelligent by requiring that the suspect be fully advised of this constitutional privilege, including the critical advice that whatever he chooses to say may be used as evidence against him.</p>
     <n id="p575">575</n>
     <p>In this case, there is no allegation that Spring failed to understand the basic privilege guaranteed by the Fifth Amendment. Nor is there any allegation that he misunderstood the consequences of speaking freely to the law enforcement officials. In sum, we think that the trial court was indisputably correct in finding that Spring's waiver was made knowingly and intelligently within the meaning of Miranda.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>A</p>
     <p>Spring relies on this Court's statement in Miranda that</p>
     <p>"any evidence that the accused was threatened, tricked, or cajoled into a waiver will . . . show that the defendant did not voluntarily waive his privilege."</p>
@@ -100,7 +100,7 @@
     <p>Ibid. [<a id="nf9" href="#fn9">Footnote 9</a>] Here, the additional information could affect only the wisdom of a Miranda waiver, not its essentially voluntary and knowing nature. Accordingly, the failure of the law enforcement officials to inform Spring of the subject matter of the interrogation could not affect Spring's decision to waive his Fifth Amendment privilege in a constitutionally significant manner.</p>
     <p>B</p>
     <p>This Court's holding in Miranda specifically required that the police inform a criminal suspect that he has the right to remain silent and that anything he says may be used against him. There is no qualification of this broad and explicit warning. The warning, as formulated in Miranda, conveys to a suspect the nature of his constitutional privilege and the consequences of abandoning it. Accordingly, we hold that a suspect's awareness of all the possible subjects of questioning in advance of interrogation is not relevant to determining whether the suspect voluntarily, knowingly, and intelligently waived his Fifth Amendment privilege.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>The judgment of the Colorado Supreme Court is reversed, and the case is remanded for further proceedings not inconsistent with this opinion.</p>
     <p>It is so ordered.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>

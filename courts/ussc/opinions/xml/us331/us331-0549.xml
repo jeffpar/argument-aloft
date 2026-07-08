@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us331-0549.html" citation="331 U.S. 549" title="Rescue Army v. Municipal Court of Los Angeles">
   <opinion type="Opinions &amp; Dissents">
     <n id="p549">549</n>
-    <h>U.S. Supreme Court</h>
-    <h>Rescue Army v. Municipal Court of Los Angeles, <a href="./us331-0549.xml#p549">331 U.S. 549</a> (1947)</h>
-    <h>Rescue Army v. Municipal Court of Los Angeles</h>
-    <h>No. 574</h>
-    <h>Argued February 6, 7, 1947</h>
-    <h>Decided June 9, 1947</h>
-    <h><a href="./us331-0549.xml#p549">331 U.S. 549</a></h>
-    <h>APPEAL FROM THE SUPREME COURT OF CALIFORNIA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Rescue Army v. Municipal Court of Los Angeles, <a href="./us331-0549.xml#p549">331 U.S. 549</a> (1947)</h1>
+    <h2>Rescue Army v. Municipal Court of Los Angeles</h2>
+    <h2>No. 574</h2>
+    <h4>Argued February 6, 7, 1947</h4>
+    <h4>Decided June 9, 1947</h4>
+    <h2>APPEAL FROM THE SUPREME COURT OF CALIFORNIA</h2>
+    <h2>Syllabus</h2>
     <p>Being charged in a municipal court in California on two counts with violations of three sections of a municipal code governing the solicitation of contributions for charity, which sections incorporated by reference numerous other sections of an intricate and ambiguous chapter, appellants sued for a writ of prohibition to test the jurisdiction of the trial court, claiming that the code unduly abridged the free exercise of their religion contrary to the First and Fourteenth Amendments. In an opinion which ambiguously incorporated by reference parts of its opinion in another case involving a wider range of issues, the Supreme Court of California sustained the validity of the code and the jurisdiction of the municipal court without clearly identifying or construing the relevant provisions of the code or passing upon questions of local procedure necessarily involved.</p>
     <p>Held:</p>
     <p>1. The State Supreme Court's judgment is "final" within the meaning of § 237(a) of the Judicial Code, and this Court has jurisdiction of an appeal therefrom. Bandini Co. v. Superior Court, <a href="../us284/us284-0008.xml#p8">284 U. S. 8</a>; Bryant v. Zimmerman, <a href="../us278/us278-0063.xml#p63">278 U. S. 63</a>; Plessy v. Ferguson, <a href="../us163/us163-0537.xml#p537">163 U. S. 537</a>, followed. Gospel Army v. Los Angeles, ante, p. <a href="./us331-0543.xml#p543">331 U. S. 543</a>, distinguished. Pp. <a href="./us331-0549.xml#p556">331 U. S. 556</a>-568.</p>
@@ -31,7 +31,7 @@
     <p>That necessity and the difficulties tendered by the extricating problem raise substantial questions concerning</p>
     <n id="p552">552</n>
     <p>the disposition appropriate, in the unusual situation, to be made of this appeal. In order to present the problem with a fair degree of precision, it is necessary to state in some detail the nature of the two proceedings, their relationships to each other, and their procedural, as well as jurisdictional, differences.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>This suit is one for a writ of prohibition. The appeal is from the California Supreme Court's judgment denying appellants' application for such a writ. <a href="https://law.justia.com/cases/california/supreme-court/2d/28/460.html">28 Cal. 2d 460</a>. They instituted the suit in the District Court of Appeal, Second Appellate District, Division Three, of California. Its object was to test the jurisdiction of the respondent Municipal Court of Los Angeles to proceed with a pending criminal prosecution against Murdock, who is an officer of the Rescue Army. In that court, he had been charged with violating three provisions of the city ordinances, had been twice convicted, and twice the convictions had been reversed by the Superior Court of Los Angeles County. [<a id="nf1" href="#fn1">Footnote 1</a>]</p>
     <p>While the case was pending in the Municipal Court after the second reversal, appellants filed their petition in this cause in the District Court of Appeal. Alleging that the Municipal Court was threatening to proceed with a third trial on the same charges, they set forth grounds held sufficient under the state procedure to present for adjudication the question of the Municipal Court's jurisdiction. 28 Cal. 2d at 462-467.</p>
     <p>The District Court of Appeal denied the writ. Thereupon the state Supreme Court transferred the cause to its own docket and issued an alternative writ of prohibition</p>
@@ -50,7 +50,7 @@
     <n id="p556">556</n>
     <p>indirectly through its relation to § 44.05 and § 44.12 directly, as well as numerous other provisions both of Article 4, Chapter IV, and outside it. That article, as we have noted above, consists of Code §§ 44.014.19, entitled "Charities and Relief," and thus includes all of the sections involved here, as well as many others which were in issue in the Gospel Army case.</p>
     <p>It is this setting of dovetailed legislative enactments and judicial decisions which creates the primary problem for our disposition. Those interrelations, of the cases and of the ordinances they involve, will be better understood in the setting of a summary of the general scheme.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The Municipal Code regulates both charitable and other solicitations, as well as pawnbrokers, second-hand dealers, junk dealers, etc. The regulations affecting those dealers lie outside Article 4, and became pertinent in the Gospel Army case because of that organization's activities in collecting, repairing, selling and giving away used articles. [<a id="nf7" href="#fn7">Footnote 7</a>] None of those regulations, however, appears to be involved here. [<a id="nf8" href="#fn8">Footnote 8</a>] The Municipal Court charges, so far as we can now ascertain, relate exclusively to charitable solicitations, and consequently are comprehended within Article 4. [<a id="nf9" href="#fn9">Footnote 9</a>] We therefore are relieved of the necessity for</p>
     <n id="p557">557</n>
     <p>taking account of any of the code provisions outside that article.</p>
@@ -86,7 +86,7 @@
     <n id="p565">565</n>
     <p>§ 44.09(b), without waiting the specified ten-day period (§ 44.05) and undergoing the investigations prescribed by § 44.03 or perhaps actually procuring the card. [<a id="nf24" href="#fn24">Footnote 24</a>]</p>
     <p>It is necessary, in order to complete the environment of the problem presented by the appeal, to set forth somewhat more fully the manner in which the California Supreme Court dealt with §§ 44.09(a), 44.09(b) and 44.12, and related provisions. This, however, may best be deferred at this point, in order to state the legal principles which we think are controlling of our disposition.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The Gospel Army case we have dismissed for the technical, nevertheless important, reason that, under California law, the state Supreme Court's reversal, without more, contemplates further proceedings in the trial court. Consequently, that judgment is not final for the purposes of our jurisdiction on appeal, within the meaning of § 237(a) of the Judicial Code, 28 U.S.C. § 344(a). <a href="./us331-0543.xml#p543">331 U. S. 543</a>.</p>
     <p>On the other hand, this appeal is not subject to that particular infirmity. The effect of the California Supreme Court's judgment, of course, will be to permit further proceedings by the Municipal Court. But under the rule of Bandini Co. v. Superior Court, <a href="../us284/us284-0008.xml#p8">284 U. S. 8</a>, this prohibition proceeding would be an independent suit, in relation to that criminal prosecution, "and the judgment finally disposing of it," as did the state Supreme Court's judgment, "is a final judgment within the meaning of § 237(a) of the Judicial Code." 284 U.S. at <a href="../us284/us284-0008.xml#p14">284 U. S. 14</a>. [<a id="nf25" href="#fn25">Footnote 25</a>]</p>
     <n id="p566">566</n>
@@ -127,7 +127,7 @@
     <p>Those reasons comprise not only obstacles of prematurity and comparative abstractness arising from the nature of the proceeding in prohibition and the manner in which the parties have utilized it for presenting the constitutional</p>
     <n id="p575">575</n>
     <p>questions. They also include related considerations growing out of uncertainties resulting from the volume of legislative provisions possibly involved, their intricate interlacing not only with each other on their face, but also in the California Supreme Court's disposition of them, and especially from its treatment of this case by reference in considerable part to the Gospel Army case, difficulties all accentuated for us, of course, by the necessity for dismissal of that cause here. Because the application of the policy must be relative to the factors specifically dictating such action, a statement of our particular reasons follows.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>In the first place, the constitutional issues come to us in highly abstract form. Although raised technically in the separate proceeding in prohibition, they arise substantially as upon demurrer to the charges against Murdock in the criminal proceeding. The record presents only bare allegations that he was charged criminally with violating §§ 44.09(a), 44.09(b) and 44.12, and that those sections are unconstitutional, on various assignments, as applied to his alleged solicitations. We are therefore without benefit of the precision which would be afforded by proof of conduct made upon trial. Moreover, we do not have the benefit on this record of even the literal text of the charges. [<a id="nf42" href="#fn42">Footnote 42</a>] Indeed, the summarized statement of the pleadings leaves us in doubt whether there were only two or, on the other hand, three distinct offenses charged. [<a id="nf43" href="#fn43">Footnote 43</a>]</p>
     <n id="p576">576</n>
     <p>The pleadings seem to allege that Murdock was charged with violation of three different provisions of Article 4, namely, § 44.09(a), 44.09(b) and 44.12. Yet they allege equally clearly that there were only two counts. The second rested, as we have said, on § 44.12. But, from the state of the pleadings, we cannot be sure whether the first was grounded on § 44.09(a), on § 44.09(b), or on both and, if the latter, whether conjunctively or alternatively.</p>

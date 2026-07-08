@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us499-0573.html" citation="499 U.S. 573" title="United States v. Centennial Savings Bank FSB">
   <opinion type="Opinions &amp; Dissents">
     <n id="p573">573</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Centennial Savings Bank FSB, <a href="./us499-0573.xml#p573">499 U.S. 573</a> (1991)</h>
-    <h>United States v. Centennial Savings Bank FSB</h>
-    <h>No. 89-1926</h>
-    <h>Argued Jan. 15, 1991</h>
-    <h>Decided April 17, 1991</h>
-    <h><a href="./us499-0573.xml#p573">499 U.S. 573</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE FIFTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Centennial Savings Bank FSB, <a href="./us499-0573.xml#p573">499 U.S. 573</a> (1991)</h1>
+    <h2>United States v. Centennial Savings Bank FSB</h2>
+    <h4>No. 89-1926</h4>
+    <h4>Argued Jan. 15, 1991</h4>
+    <h4>Decided April 17, 1991</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE FIFTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>During the 1981 tax year, respondent Centennial Savings Bank FSB exchanged participation interests in a set of mortgage loans for interests in a different set of mortgage loans held by another lender. All of the loans were secured by residential properties and had a face value substantially higher than their fair market value. In a separate set of transactions, Centennial collected early withdrawal penalties from customers who prematurely terminated their certificates of deposit (CD's). In its 1981 federal income tax return, Centennial claimed a deduction for the difference between the face value of the mortgage interests it surrendered and the fair market value of the mortgage interests it received. It also treated the early withdrawal penalties it received as "income from the discharge . . . of indebtedness" excludable from gross income under 26 U.S.C. § 108(a)(1)(C) (1982 ed.). After the Internal Revenue Service disallowed the deduction of the losses associated with the mortgages and determined that Centennial was required to declare the early withdrawal penalties as income, Centennial paid the deficiencies and filed a refund action in the District Court. The court entered a judgment for petitioner United States on the mortgage exchange issue and for Centennial on the early withdrawal penalty issue. The Court of Appeals reversed the mortgage exchange ruling, but affirmed the early withdrawal penalty holding.</p>
     <p>Held:</p>
     <p>1. Centennial realized tax-deductible losses when it exchanged mortgage interests with the other lender. Cottage Savings Assn. v. Commissioner, ante, p. <a href="./us499-0554.xml#p554">499 U. S. 554</a>. P. <a href="./us499-0573.xml#p578">499 U. S. 578</a>-579.</p>
@@ -23,7 +23,7 @@
     <n id="p575">575</n>
     <p>JUSTICE MARSHALL delivered the opinion of the Court. <a href="./us499-0573.xml#p573">*</a></p>
     <p>In this case, we consider two questions relating to the federal income tax liability of respondent Centennial Savings Bank FSB (Centennial). The first is whether Centennial realized deductible losses when it exchanged its interests in one group of residential mortgage loans for another lender's interests in a different group of residential mortgage loans. The second is whether penalties collected by Centennial for the premature withdrawal of federally insured certificates of deposit (CD's) constituted "income by reason of the discharge . . . of indebtedness" excludable from gross income under 26 U.S.C. § 108(a)(1)(C) (1982 ed.). The Court of Appeals answered both questions affirmatively. We agree with the Court of Appeals that Centennial's mortgage exchange gave rise to an immediately deductible loss, but we reverse the Court of Appeals' determination that Centennial was entitled to exclude from its taxable income the early withdrawal penalties collected from its depositors.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Centennial is a mutual savings and loan institution (S &amp; L) formerly regulated by the Federal Home Loan Bank Board (FHLBB). [<a id="nf1" href="#fn1">Footnote 1</a>] At issue in this case are two sets of transactions involving Centennial in the 1981 tax year.</p>
     <p>The first was Centennial's exchange of "90 participation interests" in a set of mortgage loans held by Centennial for "90 participation interests" in a different set of mortgage loans held by the Federal National Mortgage Association (FNMA). [<a id="nf2" href="#fn2">Footnote 2</a>] Secured by residential properties located primarily</p>
     <n id="p576">576</n>
@@ -39,12 +39,12 @@
     <n id="p578">578</n>
     <p>at 601-602. The court rejected the United States' characterization of the penalties as merely a "medium of payment" for Centennial's performance of its "separate obligation" to release the deposits prior to maturity. Id. at 604-605.</p>
     <p>The United States thereafter petitioned this Court for a writ of certiorari. Because the Court of Appeals' dispositions of both the mortgage exchange issue and the early withdrawal penalty issue are in conflict with decisions in other Circuits, and because of the importance of both issues for the savings and loan industry, we granted the petition. 498 U.S. 808 (1990). [<a id="nf3" href="#fn3">Footnote 3</a>]</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The question whether Centennial realized tax-deductible losses when it exchanged mortgage interests with FNMA is controlled by our decision in Cottage Savings Assn. v. Commissioner. In Cottage Savings, we recognized that a property exchange gives rise to a realization event for purposes of § 1001(a) of the Internal Revenue Code [<a id="nf4" href="#fn4">Footnote 4</a>] so long as the exchanged</p>
     <n id="p579">579</n>
     <p>properties are "materially different." Ante at <a href="./us499-0554.xml#p560">499 U. S. 560</a>-562. We concluded that the properties are "different" in the sense "material" to the Code so long as they embody legally distinct entitlements. Ante at <a href="./us499-0554.xml#p564">499 U. S. 564</a>-565.</p>
     <p>That test is easily satisfied here. As in Cottage Savings, the participation interests exchanged here were in loans made to different obligors and secured by different properties. Thus, the interests embodied distinct entitlements. We therefore affirm the Court of Appeals' conclusion that Centennial was entitled to a refund of the disallowed losses claimed on its mortgages.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>We next consider the question whether the early withdrawal penalties collected by Centennial constituted "income by reason of the discharge . . . of indebtedness" excludable from income under 26 U.S.C. § 108(a)(1) (1982 ed.). We conclude that the penalties were not subject to exclusion under § 108 because the depositors who paid these penalties did not "discharge" Centennial from any repayment obligation.</p>
     <p>The version of § 108 in effect for the 1981 tax year states:</p>
     <p>"Gross income does not include any amount which (but for this subsection) would be includible in gross income by reason of the discharge (in whole or in part) of indebtedness of the taxpayer if --"</p>
@@ -66,7 +66,7 @@
     <p>It is true, as Centennial points out, that construing § 108 to apply only to debt reductions stemming from a negotiated forgiveness of a duty to repay withholds a tax incentive to include "anticipatory discharge" terms in the credit agreement at the outset. But we read the statutory language as embodying a legislative choice not to extend the benefits of § 108's deferral mechanism that far. For the reasons that we have stated, Congress could easily have concluded that only debtors seeking a release from a preexisting repayment obligation need or deserve the tax break conferred by § 108. Consistent with the rule that tax exemption and deferral provisions are to be construed narrowly, Commissioner v.</p>
     <n id="p584">584</n>
     <p>Jacobson, supra, 336 U.S. at <a href="../us336/us336-0028.xml#p49">336 U. S. 49</a>; Elam v. Commissioner, 477 F.2d 1333, 1335 (CA6 1973), we conclude that Congress did not intend to extend the benefits of § 108 beyond the setting in which a creditor agrees to release a debtor from an obligation assumed at the outset of the relationship.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>For the foregoing reasons, the judgment of the Court of Appeals is affirmed in part and reversed in part, and the case is remanded for further proceedings consistent with this opinion.</p>
     <p>It is so ordered.</p>
     <p>* JUSTICE WHITE joins Parts I and III of this opinion, and JUSTICE BLACKMUN joins Part III.</p>

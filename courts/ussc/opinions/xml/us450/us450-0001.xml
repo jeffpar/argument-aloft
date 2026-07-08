@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us450-0001.html" citation="450 U.S. 1" title="HCSC-Laundry v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p1">1</n>
-    <h>U.S. Supreme Court</h>
-    <h>HCSC-Laundry v. United States, <a href="./us450-0001.xml#p1">450 U.S. 1</a> (1981)</h>
-    <h>HCSC-Laundry v. United States</h>
-    <h>No. 80-338</h>
-    <h>Decided February 23, 1981</h>
-    <h><a href="./us450-0001.xml#p1">450 U.S. 1</a></h>
-    <h>ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES</h>
-    <h>COURT OF APPEALS FOR THE THIRD CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>HCSC-Laundry v. United States, <a href="./us450-0001.xml#p1">450 U.S. 1</a> (1981)</h1>
+    <h2>HCSC-Laundry v. United States</h2>
+    <h2>No. 80-338</h2>
+    <h4>Decided February 23, 1981</h4>
+    <h2>ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES</h2>
+    <h2>COURT OF APPEALS FOR THE THIRD CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Held: A cooperative hospital service organization cannot qualify for exemption from federal income taxation as a charitable organization under § 501(c)(3) of the Internal Revenue Code of 1954, but instead may qualify only if it performs one of the services listed in § 501(e)(1)(A). This conclusion is supported both by the principle of statutory construction that a specific statute, here subsection (e), controls over a general provision such as subsection (c)(3), particularly when the two are interrelated and closely positioned, and by the legislative history. Since laundry service was deliberately omitted from the list of services in subsection (e), petitioner, a nonprofit corporation organized to provide laundry services for exempt hospitals and an exempt ambulance service, is not entitled to tax-exempt status.</p>
     <p>Certiorari granted; 624 F.2d 428, affirmed.</p>
     <p>PER CURIAM.</p>
@@ -92,7 +92,7 @@
       <p>Today the Court summarily decides that § 501, read in light of the legislative history of § 501(e), requires that nonprofit cooperative hospital laundries be denied an exemption from federal income tax, even though they may satisfy the requirements of §§ 501(a) and 501(c)(3). In my opinion, the Court's summary disposition is ill-advised, because a full understanding of the question presented in this case requires an examination of the history underlying the present state of the law with respect to the tax status of cooperative hospital</p>
       <n id="p9">9</n>
       <p>service organizations. When the statute is read against that background -- indeed, even when it is read in isolation -- its plain language unambiguously entitles this petitioner to an exemption.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>In 1950, Congress amended § 101 of the Internal Revenue Code of 1939 by adding to that section a paragraph dealing with so-called "feeder organizations." Revenue Act of 1950, § 301(b), Pub.L. 814, ch. 994, 64 Stat. 953. This paragraph was subsequently reenacted without substantial change as § 502(a) of the Internal Revenue Code of 1954. [Footnote 2/1] In 1952, the Treasury Department adopted regulation designed to implement the feeder provision of § 101. Treas. Regs. 111, § 29.101-3(b). [Footnote 2/2] Although this regulation did not specifically</p>
       <n id="p10">10</n>
       <p>address cooperative hospital service organizations, it did indicate that the Treasury considered cooperative ventures operated by tax-exempt entities for the purpose of providing necessary services to those entities non-exempt feeder organizations. [Footnote 2/3]</p>
@@ -110,7 +110,7 @@
       <p>Despite the enactment of § 501(e) in 1968, it was not until 1980 that a federal court decided that nonprofit cooperative hospital laundries were not entitled to an income tax exemption under § 501. [Footnote 2/9] Between 1968 and 1980, six federal courts rejected the Treasury's contention that hospital service organizations providing services other than those listed in § 501(e) were not entitled to claim an exemption under § 501(c)(3). [Footnote 2/10] These courts also rejected the Treasury's alternative contention that, even if such entities were not automatically excluded from consideration under § 501(c)(3), they nonetheless were nonexempt feeder organizations under § 502(a) and Treas.Reg. § 1.502-1(b). In 1980, however, three Courts of Appeals concluded that § 501(e) provides the exclusive</p>
       <n id="p15">15</n>
       <p>means by which a hospital service organization may acquire an income tax exemption. [Footnote 2/11] These courts relied primarily upon the 1968 and 1976 legislative history cited by the majority. The decision of the Third Circuit, the first in this series of Court of Appeals decisions, is presently before us.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>In the District Court in this case, the Government argued, as it had on five previous occasions, that, because Congress deliberately omitted hospital laundries from § 501(e), it necessarily followed that they also were outside the scope of § 501(c)(3). See <a href="https://law.justia.com/cases/federal/district-courts/FSupp/473/250/2148378/">473 F. Supp. 250</a>, 252 (ED Pa.1979). The District Court rejected this argument, choosing instead to align itself with the then-unbroken line of precedent. Id. at 253-254. [Footnote 2/12] The District Court also rejected the Government's alternative argument based upon § 502(a). On appeal, the Government abandoned this argument, see 624 F.2d at 432, n. 6, and relied solely upon § 501(e). [Footnote 2/13] Thus, as</p>
       <n id="p16">16</n>
       <p>shaped by the proceedings below, the question presented here is whether Congress, in enacting § 501(e), intended that cooperative hospital service organizations must qualify for tax exemption under that statute or not at all. The Court concludes that the statutory language and legislative history require an affirmative answer to that question. Neither factor, in my judgment, supports the Court's conclusion.</p>

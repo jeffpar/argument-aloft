@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us442-0114.html" citation="442 U.S. 114" title="United States v. Batchelder">
   <opinion type="Opinions &amp; Dissents">
     <n id="p114">114</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Batchelder, <a href="./us442-0114.xml#p114">442 U.S. 114</a> (1979)</h>
-    <h>United States v. Batchelder</h>
-    <h>No. 78-776</h>
-    <h>Argued April 18, 1979</h>
-    <h>Decided June 4, 1979</h>
-    <h><a href="./us442-0114.xml#p114">442 U.S. 114</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SEVENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Batchelder, <a href="./us442-0114.xml#p114">442 U.S. 114</a> (1979)</h1>
+    <h2>United States v. Batchelder</h2>
+    <h2>No. 78-776</h2>
+    <h4>Argued April 18, 1979</h4>
+    <h4>Decided June 4, 1979</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SEVENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondent was found guilty of violating 18 U.S.C. § 922(h), which is part of Title IV of the Omnibus Crime Control and Safe Streets Act of 1968 (Act). That provision prohibits previously convicted felons from receiving a firearm that has traveled in interstate commerce. The District Court sentenced respondent under 18 U.S.C. § 924(a) to five years' imprisonment, the maximum term authorized for violation of § 922(h). The Court of Appeals affirmed the conviction but remanded for resentencing. Noting that the substantive elements of § 922(h) and 18 U.S.C.App. § 1202(a), which is contained in Title VII of the Act, are identical as applied to a convicted felon who unlawfully receives a firearm, the court interpreted the Act to allow no more than the 2-year maximum sentence provided by § 1202(a).</p>
     <p>Held: A defendant convicted of violating § 922(h) is properly sentenced under § 924(a) even though his conduct also violates § 1202(a). Pp. <a href="./us442-0114.xml#p118">442 U. S. 118</a>-126.</p>
     <p>(a) Nothing in the language, structure, or legislative history of the Act suggests that, because of the overlap between §§ 922(h) and 1202(a), a defendant convicted under § 922(h) may be imprisoned for no more than the maximum term specified in § 1202(a). Rather, each substantive statute, in conjunction with its own sentencing provision, operates independently of the other. Pp. <a href="./us442-0114.xml#p118">442 U. S. 118</a>-121.</p>
@@ -27,7 +27,7 @@
     <p>At issue in this case are two overlapping provisions of the Omnibus Crime Control and Safe Streets Act of 1968 (Omnibus</p>
     <n id="p116">116</n>
     <p>Act). [<a id="nf1" href="#fn1">Footnote 1</a>] Both prohibit convicted felons from receiving firearms, but each authorizes different maximum penalties. We must determine whether a defendant convicted of the offense carrying the greater penalty may be sentenced only under the more lenient provision when his conduct violates both statutes.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Respondent, a previously convicted felon, was found guilty of receiving a firearm that had traveled in interstate commerce, in violation of 18 U.S.C. § 922(h). [<a id="nf2" href="#fn2">Footnote 2</a>] The District Court sentenced him under 18 U.S.C. § 924(a) to five years' imprisonment, the maximum term authorized for violation of § 922(h). [<a id="nf3" href="#fn3">Footnote 3</a>]</p>
     <p>The Court of Appeals affirmed the conviction but, by a divided vote, remanded for resentencing. 581 F.2d 626 (CA7 1978). The majority recognized that respondent had been indicted and convicted under § 922(h), and that § 924(a) permits five years' imprisonment for such violations. 581 F.2d at 629. However, noting that the substantive elements</p>
     <n id="p117">117</n>
@@ -37,7 +37,7 @@
     <p>"the long line of cases . . . which hold that where an act may violate more than one criminal statute, the government may elect to prosecute under either, even if [the] defendant risks the harsher penalty, so long as the prosecutor does not discriminate against any class of defendants,"</p>
     <p>the dissent further concluded that the statutory scheme was constitutional. Id. at 637.</p>
     <p>We granted certiorari, 439 U.S. 1066 (1979), and now reverse the judgment vacating respondent's 5-year prison sentence.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>This Court has previously noted the partial redundancy of §§ 922(h) and 1202(a), both as to the conduct they proscribe and the individuals they reach. See United States v. Bass, <a href="../us404/us404-0336.xml#p336">404 U. S. 336</a>, <a href="../us404/us404-0336.xml#p341">404 U. S. 341</a>-343, and n. 9 (1971). However, we find nothing in the language, structure, or legislative history of the Omnibus Act to suggest that, because of this overlap, a defendant convicted under § 922(h) may be imprisoned for no more than the maximum term specified in § 1202(a). As we read the Act, each substantive statute, in conjunction with its own sentencing provision, operates independently of the other.</p>
     <p>Section 922(h), contained in Title IV of the Omnibus Act, prohibits four categories of individuals from receiving "any firearm or ammunition which has been shipped or transported in interstate or foreign commerce." See <a id="nf2" href="#fn2">n</a> 2, supra. Persons who violate Title IV are subject to the penalties provided by § 924(a), which authorizes a maximum fine of $5,000 and imprisonment for up to five years. See <a id="nf3" href="#fn3">n</a> 3, supra. Section 1202(a), located in Title VII of the Omnibus Act, forbids five categories of individuals from "receiv[ing], possess[ing], or transport[ing] in commerce or affecting commerce . . . any firearm." This same section authorizes a maximum fine of</p>
     <n id="p119">119</n>
@@ -53,7 +53,7 @@
     <p>language. See Barrett v. United States, <a href="../us423/us423-0212.xml#p212">423 U. S. 212</a>, <a href="../us423/us423-0212.xml#p217">423 U. S. 217</a> (1976). By its express terms, § 1202(a) limits its penalty scheme exclusively to convictions obtained under that provision. Where, as here, "Congress has conveyed its purpose clearly, . . . we decline to manufacture ambiguity where none exists." United States v. Culbert, supra at <a href="../us435/us435-0371.xml#p379">435 U. S. 379</a>.</p>
     <p>Nor can § 1202(a) be interpreted as implicitly repealing § 924(a) whenever a defendant's conduct might violate both Titles. For it is "not enough to show that the two statutes produce differing results when applied to the same factual situation." Radzanower v. Touche Ross &amp; Co., <a href="../us426/us426-0148.xml#p148">426 U. S. 148</a>, <a href="../us426/us426-0148.xml#p155">426 U. S. 155</a> (1976). Rather, the legislative intent to repeal must be manifest in the "positive repugnancy between the provisions.'" United States v. Borden Co., <a href="../us308/us308-0188.xml#p188">308 U. S. 188</a>, <a href="../us308/us308-0188.xml#p199">308 U. S. 199</a> (1939). In this case, however, the penalty provisions are fully capable of coexisting, because they apply to convictions under different statutes.</p>
     <p>Finally, the maxim that statutes should be construed to avoid constitutional questions offers no assistance here. This "cardinal principle' of statutory construction . . . is appropriate only when [an alternative interpretation] is `fairly possible'" from the language of the statute. Swain v. Pressley, <a href="../us430/us430-0372.xml#p372">430 U. S. 372</a>, <a href="../us430/us430-0372.xml#p378">430 U. S. 378</a> n. 11 (1977); see Crowell v. Benson, <a href="../us285/us285-0022.xml#p22">285 U. S. 22</a>, <a href="../us285/us285-0022.xml#p62">285 U. S. 62</a> (1932); United States v. Sullivan, <a href="../us332/us332-0689.xml#p689">332 U. S. 689</a>, <a href="../us332/us332-0689.xml#p693">332 U. S. 693</a> (1948); Shapiro v. United States, <a href="../us335/us335-0001.xml#p1">335 U. S. 1</a>, <a href="../us335/us335-0001.xml#p31">335 U. S. 31</a> (1948). We simply are unable to discern any basis in the Omnibus Act for reading the term "five" in § 924(a) to mean "two."</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>In resolving the statutory question, the majority below expressed "serious doubts about the constitutionality of two statutes that provide different penalties for identical conduct." 581 F.2d at 633-634 (footnote omitted). Specifically, the court suggested that the statutes might (1) be void for vagueness, (2) implicate "due process and [equal protection interests] in avoiding excessive prosecutorial discretion and in</p>
     <n id="p123">123</n>
     <p>obtaining equal justice," and (3) constitute an impermissible delegation of congressional authority. Id. at 631-633. We find no constitutional infirmities.</p>

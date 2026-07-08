@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us409-1056.html" citation="409 U.S. 1056" title="SCHLESINGER v. LAIRD">
   <opinion type="Opinions &amp; Dissents">
     <n id="p1056">1056</n>
-    <h>U.S. Supreme Court</h>
-    <h>SCHLESINGER v. LAIRD , <a href="./us409-1056.xml#p1056">409 U.S. 1056</a> (1972)</h>
-    <h> <a href="./us409-1056.xml#p1056">409 U.S. 1056</a></h>
-    <h>Michael SCHLESINGER v. Melvin LAIRD. No. A-603.</h>
-    <h>Supreme Court of the United States</h>
-    <h>December 11, 1972</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>SCHLESINGER v. LAIRD, <a href="./us409-1056.xml#p1056">409 U.S. 1056</a> (1972)</h1>
+    <h2>Michael SCHLESINGER v. Melvin LAIRD. No. A-603.</h2>
+    <h2>Supreme Court of the United States</h2>
+    <h4>December 11, 1972</h4>
     <p>Application for stay.</p>
     <p>The application for a stay presented to Mr. Justice DOUGLAS and by him referred to the Court is denied.</p>
     <p>Mr. Justice DOUGLAS, dissenting.</p>
@@ -21,7 +21,7 @@
     <n id="p1058">1058</n>
     <p>might have been made and considerations disclosed which would justify its order as an appropriate safeguard for the interests protected by the Act. There must be such a responsible finding. . . . For the courts cannot exercise their duty of review unless they are advised of the considerations underlying the action under review. . . . [T]he orderly functioning of the process of review requires that the grounds upon which the administrative agency acted be clearly disclosed and adequately sustained.' Certainly, no less protection should be afforded a person who is subjected to significant restraints on his personal liberty as a result of administrative action.</p>
     <p>Since I conclude that the decision of the Surgeon General failed to comport with this basic requirement of procedural due process, I would grant the stay requested.</p>
-    <h>Footnotes</h>
+    <h2>Footnotes</h2>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>
       <p>The Surgeon General apparently considered earlier physical examinations of petitioner in addition to those conducted at the Great Lakes Naval Training Center.</p>
     </f>

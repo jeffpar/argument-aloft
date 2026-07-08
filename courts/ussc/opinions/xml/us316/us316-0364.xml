@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us316-0364.html" citation="316 U.S. 364" title="Williams Mfg. Co. v. United Shoe Machinery Corp.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p364">364</n>
-    <h>U.S. Supreme Court</h>
-    <h>Williams Mfg. Co. v. United Shoe Machinery Corp., <a href="./us316-0364.xml#p364">316 U.S. 364</a> (1942)</h>
-    <h>Williams Manufacturing Co. v. United Shoe Machinery Corp.</h>
-    <h>No. 332</h>
-    <h>Argued February 13, 1942</h>
-    <h>Decided May 25, 1942</h>
-    <h><a href="./us316-0364.xml#p364">316 U.S. 364</a></h>
-    <h>CERTIORARI TO THE CIRCUIT COURT OF APPEALS</h>
-    <h>FOR THE SIXTH DISTRICT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Williams Mfg. Co. v. United Shoe Machinery Corp., <a href="./us316-0364.xml#p364">316 U.S. 364</a> (1942)</h1>
+    <h2>Williams Manufacturing Co. v. United Shoe Machinery Corp.</h2>
+    <h2>No. 332</h2>
+    <h4>Argued February 13, 1942</h4>
+    <h4>Decided May 25, 1942</h4>
+    <h2>CERTIORARI TO THE CIRCUIT COURT OF APPEALS</h2>
+    <h2>FOR THE SIXTH DISTRICT</h2>
+    <h2>Syllabus</h2>
     <p>1. In a patent infringement suit, concurrent findings of the two lower federal courts to the effect that combinations claimed, though involving old mechanical construction, combine these in the machine in a new way, so as to produce a new result, are findings of fact which will not be disturbed by this Court where there is evidence to support them. P. <a href="./us316-0364.xml#p367">316 U. S. 367</a>.</p>
     <p>2. A claim in a patent for a new combination of specified means, applicable to a portion of an old machine, which describes or refers to the older mechanism in order to show the application and operation of the improvement, is not to be construed as embracing the old as well as the new. P. <a href="./us316-0364.xml#p368">316 U. S. 368</a>.</p>
     <p>3. Certain claims of a patent to McFeely for improvements in automatic heel lasting machines, sustained. Pp. <a href="./us316-0364.xml#p364">316 U. S. 364</a>, <a href="./us316-0364.xml#p370">316 U. S. 370</a>.</p>
@@ -72,7 +72,7 @@
     <f n="8"><a id="fn8" href="#nf8">Footnote 8</a>
       <p><a href="../us078/us078-0516.xml#p516">Seymour v. Osborne</a>, 11 Wall. 516, <a href="../us078/us078-0516.xml#p541">78 U. S. 541</a>, <a href="../us078/us078-0516.xml#p548">78 U. S. 548</a>.</p>
       <p>MR. JUSTICE BLACK, dissenting, with whom MR. JUSTICE DOUGLAS and MR. JUSTICE MURPHY concur.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>In 1873, Mr. Justice Bradley, speaking for this Court in Carlton v. Bokee, said:</p>
       <p>"We think it proper to reiterate our disapprobation of these ingenious attempts to expand a simple invention of a distinct device into an all-embracing claim, calculated by its wide generalizations and ambiguous language to discourage further invention in the same department of industry and to cover antecedent inventions. Without deciding that a repetition of substantially the same claim in different words will vitiate a patent, we hold that, where a specification by ambiguity and a needless multiplication of nebulous claims is calculated to deceive and mislead the public, the patent is void."</p>
       <p><a href="../us084/us084-0463.xml#p463">84 U. S. 17</a> Wall. 463, <a href="../us084/us084-0463.xml#p471">84 U. S. 471</a>-472. I believe that the patent of which the five claims now held valid are a part embodies every one of the vices referred to by Mr. Justice Bradley, and many more besides.</p>
@@ -98,7 +98,7 @@
       <p>not at all complex. The tackers and wipers, formerly connected in a manner which permitted some slight independence of movement, were now rigidly interconnected, so that one could not move without the other, and a handle was substituted for a screw nut as a means of making a preliminary manual adjustment for shoes of different sizes. Changes of equal simplicity were made in the "hold-down" and the "heel band," two of the parts which clasp the shoe and hold it in place during the actual lasting process.</p>
       <p>There is no doubt that the United Shoe Machinery Corporation, particularly since it maintains a patent department in which patent lawyers are regularly employed, could have caused these simple improvements to be patented separately and without ambiguity or prolixity. No possible justification can be offered for inextricably combining the description of the alleged improvements with a description of a complete lasting machine. Let us now turn to the patent in suit to see how far it meets the requirement of R.S. § 4888, 35 U.S.C. § 33, that a patentee "shall particularly point out and distinctly claim the part, improvement, or combination which he claims as his invention or discovery."</p>
       <p>The patent as a whole sets out 137 claims covering 16 large closely printed pages; it includes 11 1/2 more pages of specifications and numerous drawings; it has a text of more than 25,000 words, about 14,000 of which are devoted to the claims. Remarks of Judge Learned Hand, made with respect to a patent much shorter than the one before us, are pertinent here:</p>
-      <p>"Such claims violate the very purpose of any claims at all, which is to define the forbidden field. In such a waste of abstract verbiage . . . , it takes the scholastic ingenuity of a St. Thomas with the patience of a yogi to decipher their meaning, as they stand."</p>
+      <p>"Such claims violate the very purpose of any claims at all, which is to define the forbidden field. In such a waste of abstract verbiage . . ., it takes the scholastic ingenuity of a St. Thomas with the patience of a yogi to decipher their meaning, as they stand."</p>
       <p>Victor Talking Mach. Co. v. Thomas A. Edison, Inc., 229 F. 999, 1001. Alexander Graham Bell's basic patent on the</p>
       <n id="p376">376</n>
       <p>telephone, a pioneer invention, [Footnote 2/4] affords an illuminating contrast. All of Bell's claims -- he found five ample -- contain in the aggregate 229 words, less than many single claims of this patent, and the entire text of his patent is about one-tenth the length of this one. [Footnote 2/5] The second McFeely patent, unlike Bell's, discloses no pioneer invention. On the contrary, McFeely stated in his application that he was seeking to patent improvements. Yet, the features of a heel seat laster are set out so comprehensively and in such detail that a trained person would be able to build a complete machine with only this improvement patent as his primary source of information.</p>
@@ -124,7 +124,7 @@
       <p>began years before, and is still continuing, a process by which it appears possible for the respondent to make the monopoly endless. The first McFeely patent, assigned to the respondent, embraced the whole universe of prior development in heel seat lasting machines. About a year after it was issued, the United Shoe Machinery Company became the owner of another patent on a lasting machine, Brock No. 1,188,616. The 77 claims of this patent reembody too many of the features previously covered by the first McFeely to allow enumeration here. Four years later, Pym No. 1,368,968, also on a lasting machine, was issued and assigned to the respondent. Of the 172 claims of this patent, there is another multitude embodying identical features of the first McFeely. Although applied for about a year after the first McFeely, the patent in suit was not issued until 1925, four years after the Pym patent. The second McFeely appears to be only the currently used weapon; the record reveals another in the respondent's arsenal, awaiting service when this one is no longer useful. [Footnote 2/11] To date, the series of overlapping patents has been continuous. There is no reason to suppose that abandonment of so successful a practice is contemplated for the future.</p>
       <p>The discouragement to future invention and the potentialities of deceiving and misleading the public which this Court condemned 70 years ago are here present in fullest measure. Carlton v. Bokee, supra. Opposed to departure from the salutary rule announced by Mr. Justice Bradley, I believe the patent before us should be declared void.</p>
       <n id="p383">383</n>
-      <h>II</h>
+      <h2>II</h2>
       <p>In addition to the foregoing reasons for declaring the entire patent void, there is an independent narrower ground for reversing the decision below. The five claims here relied upon set out only an aggregation of old elements not constituting patentable invention. [Footnote 2/12] And where, as here, an appellate court can determine from a mere construction and comparison of patents that an alleged new invention is in reality identical with inventions claimed in prior patents, the question of patentability should be reviewed. Heald v. Rice, <a href="../us104/us104-0737.xml#p737">104 U. S. 737</a>, <a href="../us104/us104-0737.xml#p749">104 U. S. 749</a>. Cf. Singer Co. v. Cramer, <a href="../us192/us192-0265.xml#p265">192 U. S. 265</a>, <a href="../us192/us192-0265.xml#p275">192 U. S. 275</a>.</p>
       <p>It was the view of both courts below that, although a machine manufactured under McFeely's earlier patent had</p>
       <p>"successfully lasted shoes of specific sizes, it proved incapable of operating satisfactorily upon a range of sizes large enough to adapt it for commercial operation in the ordinary shoe factory."</p>

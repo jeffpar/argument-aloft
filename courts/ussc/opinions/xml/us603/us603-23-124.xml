@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us603-23-124.html" citation="603 U.S. 23-124" title="Harrington v. Purdue Pharma L.P.">
   <opinion type="Opinion" author="Gorsuch">
     <p>NOTICE: This opinion is subject to formal revision before publication in the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, pio@supremecourt.gov, of any typographical or other formal errors.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 23–124</p>
-    <p>_________________</p>
     <p>William K. Harrington, United States Trustee, Region 2, PETITIONER v. Purdue Pharma L. P., et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the second circuit</p>
     <p>[June 27, 2024]</p>
@@ -16,7 +15,7 @@
     <p>The opioid epidemic represents “one of the largest public health crises in this nation’s history.” In re Purdue Pharma L. P., 69 F. 4th 45, 56 (CA2 2023). Between 1999 and 2019, approximately 247,000 people in the United States died from prescription-opioid overdoses. In re Purdue Pharma L. P., 635 B.R. 26, 44 (SDNY 2021). The U. S. Department of Health and Human Services estimates that the opioid epidemic has cost the country between $53 and $72 billion annually. Ibid.</p>
     <p>Purdue sits at the center of these events. In the mid-1990s, it began marketing OxyContin, an opioid prescription pain reliever. 69 F. 4th, at 56. Because of the addictive quality of opioids, doctors had traditionally reserved their use for cancer patients and those “with chronic diseases.” 635 B. R., at 42. But OxyContin, Purdue claimed, had a novel “time-release” formula that greatly diminished the threat of addiction. Ibid. On that basis, Purdue marketed OxyContin for use in “ ‘a much broader range’ ” of applications, including as a “ ‘first-line therapy for the treatment of arthritis.’ ” Ibid.</p>
     <p>Purdue was a “ ‘family company,’ ” owned and controlled by the Sacklers. Id., at 40. Members of the Sackler family served as president and chief executive officer; they dominated the board of directors; and they “were heavily involved” in the firm’s marketing strategies. 69 F. 4th, at 86 (Wesley, J., concurring in judgment). They “pushed sales targets,” too, and “accompanied sales representatives on ‘ride along’ visits to health care providers” in an effort to maximize OxyContin sales. 635 B. R., at 50.</p>
-    <p>Quickly, OxyContin became “ ‘the most prescribed brand-name narcotic medication’ ” in the United States. Id., at 43. Between 1996 and 2019, “Purdue generated approximately $34 billion in revenue . . . , most of which came from OxyContin sales.” Id., at 39. The company’s success propelled the Sacklers onto lists “of the top twenty wealthiest families in America,” with an estimated net worth of $14 billion. Id., at 40.</p>
+    <p>Quickly, OxyContin became “ ‘the most prescribed brand-name narcotic medication’ ” in the United States. Id., at 43. Between 1996 and 2019, “Purdue generated approximately $34 billion in revenue . . ., most of which came from OxyContin sales.” Id., at 39. The company’s success propelled the Sacklers onto lists “of the top twenty wealthiest families in America,” with an estimated net worth of $14 billion. Id., at 40.</p>
     <p>Eventually, however, the firm came under scrutiny. In 2007, a Purdue affiliate pleaded guilty to a federal felony for misbranding OxyContin as “ ‘less addictive’ ” and “ ‘less subject to abuse . . . than other pain medications.’ ” Id., at 48. Thousands of civil lawsuits followed as individuals, families, and governments within and outside the United States sought damages from Purdue and the Sacklers for injuries allegedly caused by their deceptive marketing practices. 69 F. 4th, at 60.</p>
     <p>Appreciating this litigation “would eventually impact them directly,” id., at 59, the Sacklers began what one family member described as a “ ‘milking’ program,” 635 B. R., at 57. In the years before the 2007 plea agreement, Purdue’s distributions to the Sacklers represented less than 15% of its annual revenue. Ibid. After the plea agreement, the Sacklers began taking as much as 70% of the company’s revenue each year. Ibid. Between 2008 and 2016, the family’s distributions totaled approximately $11 billion, draining Purdue’s total assets by 75% and leaving it in “a significantly weakened financial” state. 69 F. 4th, at 59. The Sacklers diverted much of that money to overseas trusts and family-owned companies. 635 B. R., at 71.</p>
     <p>B</p>
@@ -79,9 +78,7 @@
   </opinion>
   <opinion type="Dissent" author="Kavanaugh">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 23–124</p>
-    <p>_________________</p>
     <p>William K. Harrington, United States Trustee, Region 2, PETITIONER v. Purdue Pharma L. P., et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the second circuit</p>
     <p>[June 27, 2024]</p>

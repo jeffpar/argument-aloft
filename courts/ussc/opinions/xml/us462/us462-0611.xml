@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us462-0611.html" citation="462 U.S. 611" title="FNC Bank v. Banco Para el Comercio">
   <opinion type="Opinions &amp; Dissents">
     <n id="p611">611</n>
-    <h>U.S. Supreme Court</h>
-    <h>FNC Bank v. Banco Para el Comercio, <a href="./us462-0611.xml#p611">462 U.S. 611</a> (1983)</h>
-    <h>First National City Bank v. Banco Para el Comercio Exterior de Cuba</h>
-    <h>No. 81-984</h>
-    <h>Argued March 28, 1983</h>
-    <h>Decided June 17, 1983</h>
-    <h><a href="./us462-0611.xml#p611">462 U.S. 611</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE SECOND CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>FNC Bank v. Banco Para el Comercio, <a href="./us462-0611.xml#p611">462 U.S. 611</a> (1983)</h1>
+    <h2>First National City Bank v. Banco Para el Comercio Exterior de Cuba</h2>
+    <h2>No. 81-984</h2>
+    <h4>Argued March 28, 1983</h4>
+    <h4>Decided June 17, 1983</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE SECOND CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>In 1960, the Cuban Government established respondent to serve as an official autonomous credit institution for foreign trade, with full juridical capacity of its own. Respondent sought to collect on a letter of credit issued by petitioner bank in respondent's favor in support of a contract for delivery of Cuban sugar to a buyer in the United States. Shortly thereafter, all of petitioner's assets in Cuba were seized and nationalized by the Cuban Government. When respondent brought suit on the letter of credit in Federal District Court, petitioner counterclaimed, asserting a right to set off the value of its seized Cuban assets. After the suit was brought, but before petitioner filed its counterclaim, respondent was dissolved and its capital was split between Banco Nacional, Cuba's central bank, and certain foreign trade enterprises or houses of the Cuban Ministry of Foreign Trade. Rejecting respondent's contention that its separate juridical status shielded it from liability for the acts of the Cuban Government, the District Court held that, since the value of petitioner's Cuban assets exceeded respondent's claim, the setoff could be granted in petitioner's favor, and therefore dismissed the complaint. The Court of Appeals reversed, holding that respondent was not an alter ego of the Cuban Government for the purpose of petitioner's counterclaim.</p>
     <p>Held: Under principles of equity common to international law and federal common law, petitioner may apply the claimed setoff, notwithstanding the fact that respondent was established as a separate juridical entity. Pp. <a href="./us462-0611.xml#p619">462 U. S. 619</a>-633.</p>
     <p>(a) The Foreign Sovereign Immunities Act of 1976 does not control the determination of whether petitioner may apply the setoff. That Act was not intended to affect the substantive law determining the liability of a foreign state or instrumentality, or the attribution of liability among such instrumentalities. Pp. <a href="./us462-0611.xml#p619">462 U. S. 619</a>-621.</p>
@@ -23,7 +23,7 @@
     <n id="p613">613</n>
     <p>JUSTICE O'CONNOR delivered the opinion of the Court.</p>
     <p>In 1960, the Government of the Republic of Cuba established respondent Banco Para el Comercio Exterior de Cuba (Bancec) to serve as "[a]n official autonomous credit institution for foreign trade . . . with full juridical capacity . . . of its own. . . ." Law No. 793, Art. 1 (1960), App. to Pet. for Cert.2d. In September, 1960, Bancec sought to collect on a letter of credit issued by petitioner First National City Bank (now Citibank) in its favor in support of a contract for delivery of Cuban sugar to a buyer in the United States. Within days after Citibank received the request for collection, all of its assets in Cuba were seized and nationalized by the Cuban Government. When Bancec brought suit on the letter of credit in United States District Court, Citibank counterclaimed, asserting a right to set off the value of its seized Cuban assets. The question before us is whether Citibank may obtain such a setoff, notwithstanding the fact that Bancec was established as a separate juridical entity. Applying principles of equity common to international law and federal common law, we conclude that Citibank may apply a setoff.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Resolution of the question presented by this case requires us to describe in some detail the events giving rise to the current controversy.</p>
     <p>Bancec was established by Law No. 793, of April 25, 1960, as the legal successor to the Banco Cubano del Comercio Exterior (Cuban Foreign Trade Bank), a trading bank established by the Cuban Government in 1954 and jointly owned by the Government and private banks. Law No. 793 contains detailed "By-laws" specifying Bancec's purpose, structure, and administration. Bancec's stated purpose was</p>
     <p>"to contribute to, and collaborate with, the international trade policy of the Government and the application of the measures concerning foreign trade adopted by the 'Banco Nacional de Cuba,'"</p>
@@ -59,7 +59,7 @@
     <p>"a trading corporation wholly owned by a foreign government, but created and operating as a separate juridical entity, is an alter ego of that government for the purpose of recovery for wrongs of the government totally unrelated to the operations, conduct or authority of the instrumentality."</p>
     <p>658 F.2d at 920. [<a id="nf6" href="#fn6">Footnote 6</a>]</p>
     <p>Citibank moved for rehearing, arguing, inter alia, that the panel had ignored the fact that Bancec had been dissolved in February, 1961. The motion, and a suggestion of rehearing en banc, were denied. This Court granted certiorari. 459 U.S. 942 (1982). We reverse, and remand the case for further proceedings.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>A</p>
     <p>As an initial matter, Bancec contends that the Foreign Sovereign Immunities Act of 1976, 28 U.S.C. 1602-1611 (FSIA), immunizes an instrumentality owned by a foreign government from suit on a counterclaim based on actions</p>
     <n id="p620">620</n>
@@ -67,7 +67,7 @@
     <p>"with respect to any counterclaim . . . to the extent that the counterclaim does not seek relief exceeding in amount or differing in kind from that sought by the [instrumentality]."</p>
     <p>It contends, however, that, as a substantive matter, the FSIA prohibits holding a foreign instrumentality owned and controlled by a foreign government responsible for actions taken by that government.</p>
     <p>We disagree. The language and history of the FSIA clearly establish that the Act was not intended to affect the substantive law determining the liability of a foreign state or instrumentality, or the attribution of liability among instrumentalities of a foreign state. Section 1606 of the FSIA provides in relevant part that,</p>
-    <p>"[a]s to any claim for relief with respect to which a foreign state is not entitled to immunity . . . , the foreign state shall be liable in the same manner and to the same extent as a private individual under like circumstances. . . ."</p>
+    <p>"[a]s to any claim for relief with respect to which a foreign state is not entitled to immunity . . ., the foreign state shall be liable in the same manner and to the same extent as a private individual under like circumstances. . . ."</p>
     <p>The House Report on the FSIA states:</p>
     <p>"The bill is not intended to affect the substantive law of liability. Nor is it intended to affect . . . the attribution of responsibility between or among entities of a foreign state; for example, whether the proper entity of a foreign state has been sued, or whether an entity sued is</p>
     <n id="p621">621</n>
@@ -82,7 +82,7 @@
     <p>Bancec contends in the alternative that international law must determine the resolution of the question presented. Citibank, on the other hand, suggests that federal common law governs. The expropriation claim against which Bancec</p>
     <n id="p623">623</n>
     <p>seeks to interpose its separate juridical status arises under international law, which, as we have frequently reiterated, "is part of our law. . . ." The Paquete Habana, <a href="../us175/us175-0677.xml#p677">175 U. S. 677</a>, <a href="../us175/us175-0677.xml#p700">175 U. S. 700</a> (1900). As we set forth below, see infra, at <a href="./us462-0611.xml#p624">462 U. S. 624</a>-630, and nn. <a id="nf19" href="#fn19">19</a> <a id="nf20" href="#fn20">20</a> the principles governing this case are common to both international law and federal common law, which, in these circumstances, is necessarily informed both by international law principles and by articulated congressional policies.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>A</p>
     <p>Before examining the controlling principles, a preliminary observation is appropriate. The parties and amici have repeatedly referred to the phrases that have tended to dominate discussion about the independent status of separately constituted juridical entities, debating whether "to pierce the corporate veil," and whether Bancec is an "alter ego" or a "mere instrumentality" of the Cuban Government. In Berkey v. Third Avenue R. Co., 244 N.Y. 84, 155 N.E. 58 (1926), Justice (then Judge) Cardozo warned in circumstances similar to those presented here against permitting worn epithets to substitute for rigorous analysis.</p>
     <p>"The whole problem of the relation between parent and subsidiary corporations is one that is still enveloped in the mists of metaphor. Metaphors in law are to be narrowly watched, for, starting as devices to liberate thought,they end often by enslaving it."</p>
@@ -134,7 +134,7 @@
     <p>Respondent contends, however, that the transfer of Bancec's assets from the Ministry of Foreign Trade or Banco Nacional to Empresa and Cubazucar effectively insulates it</p>
     <n id="p633">633</n>
     <p>from Citibank's counterclaim. We disagree. Having dissolved Bancec and transferred its assets to entities that may be held liable on Citibank's counterclaim, Cuba cannot escape liability for acts in violation of international law simply by retransferring the assets to separate juridical entities. To hold otherwise would permit governments to avoid the requirements of international law simply by creating juridical entities whenever the need arises. Cf. Federal Republic of Germany v. Elicofon, <a href="https://law.justia.com/cases/federal/district-courts/FSupp/358/747/1412262/">358 F. Supp. 747</a>, 757 (EDNY 1972), aff'd, 478 F.2d 231 (CA2 1973), cert. denied, 415 U.S. 931 (1974). See <a id="nf25" href="#fn25">n</a> 25, supra. We therefore hold that Citibank may set off the value of its assets seized by the Cuban Government against the amount sought by Bancec.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>Our decision today announces no mechanical formula for determining the circumstances under which the normally separate juridical status of a government instrumentality is to be disregarded. [<a id="nf27" href="#fn27">Footnote 27</a>] Instead, it is the product of the application of internationally recognized equitable principles to avoid the injustice that would result from permitting a</p>
     <n id="p634">634</n>
     <p>foreign state to reap the benefits of our courts while avoiding the obligations of international law. [<a id="nf28" href="#fn28">Footnote 28</a>]</p>
@@ -184,7 +184,7 @@
     </f>
     <f n="11"><a id="fn11" href="#nf11">Footnote 11</a>
       <p>Pointing out that 28 U.S.C. § 1606, see supra at <a href="./us462-0611.xml#p620">462 U. S. 620</a>, contains language identical to the Federal Tort Claims Act (FTCA), 28 U.S.C. § 2674, Bancec also contends alternatively that the FSIA, like the FTCA, requires application of the law of the forum State -- here New York -- including its conflicts principles. We disagree. Section 1606 provides that,</p>
-      <p>"[a]s to any claim for relief with respect to which a foreign state is not entitled to immunity . . . , the foreign state shall be liable in the same manner and to the same extent as a private individual under like circumstances."</p>
+      <p>"[a]s to any claim for relief with respect to which a foreign state is not entitled to immunity . . ., the foreign state shall be liable in the same manner and to the same extent as a private individual under like circumstances."</p>
       <p>Thus, where state law provides a rule of liability governing private individuals, the FSIA requires the application of that rule to foreign states in like circumstances. The statute is silent, however, concerning the rule governing the attribution of liability as entities of a foreign state. In Banco Nacional de Cuba v. Sabbatino, <a href="../us376/us376-0398.xml#p398">376 U. S. 398</a>, <a href="../us376/us376-0398.xml#p425">376 U. S. 425</a> (1964), this Court declined to apply the State of New York's act of state doctrine in a diversity action between a United States national and an instrumentality of a foreign state, concluding that matters bearing on the Nation's foreign relations "should not be left to divergent and perhaps parochial state interpretations." When it enacted the FSIA, Congress expressly acknowledged "the importance of developing a uniform body of law" concerning the amenability of a foreign sovereign to suit in United States courts. H.R.Rep. No. 94-1487, p. 32 (1976). See Verlinden B.V. v. Central Bank of Nigeria, <a href="../us461/us461-0480.xml#p480">461 U. S. 480</a>, <a href="../us461/us461-0480.xml#p489">461 U. S. 489</a> (1983). In our view, these same considerations preclude the application of New York law here.</p>
     </f>
     <f n="12"><a id="fn12" href="#nf12">Footnote 12</a>

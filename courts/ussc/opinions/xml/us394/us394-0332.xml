@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us394-0332.html" citation="394 U.S. 332" title="Snyder v. Harris">
   <opinion type="Opinions &amp; Dissents">
     <n id="p332">332</n>
-    <h>U.S. Supreme Court</h>
-    <h>Snyder v. Harris, <a href="./us394-0332.xml#p332">394 U.S. 332</a> (1969)</h>
-    <h>Snyder v. Harris</h>
-    <h>No. 109</h>
-    <h>Argued January 21, 1969</h>
-    <h>Decided March 25, 1969<a href="./us394-0332.xml#p332">394 U.S. 332</a>ast|&gt;*</h>
-    <h><a href="./us394-0332.xml#p332">394 U.S. 332</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE EIGHTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Snyder v. Harris, <a href="./us394-0332.xml#p332">394 U.S. 332</a> (1969)</h1>
+    <h2>Snyder v. Harris</h2>
+    <h2>No. 109</h2>
+    <h4>Argued January 21, 1969</h4>
+    <h4>Decided March 25, 1969<a href="./us394-0332.xml#p332">394 U.S. 332</a>ast|&gt;*</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE EIGHTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Separate and distinct claims presented by and for various claimants in federal diversity actions may not be added together to provide the requisite $10,000 jurisdictional amount in controversy. Fed.Rule Civ.Proc. 23, as amended in 1966, did not change the scope of the statutory grant of district court jurisdiction, as the longstanding judicial interpretation of that statute cannot be changed by an amendment to the Rules, and there is no compelling reason for overturning settled judicial construction of "matter in controversy" in the light of consistent congressional reenactment of that language against a background of judicial interpretation that the phrase does not encompass the aggregation of separate and distinct claims. Pp. <a href="./us394-0332.xml#p332">394 U. S. 332</a>-342.</p>
     <p>No. 109, 39,0 F.2d 204, affirmed; No. 117, 389 F.2d 831, reversed.</p>
     <p>MR. JUSTICE BLACK delivered the opinion of the Court.</p>
@@ -78,7 +78,7 @@
       <n id="p346">346</n>
       <p>U.S.C. § 331. [Footnote 2/4] It was accepted and promulgated by this Court, [Footnote 2/5] and, with congressional acquiescence, became the law of the land on July 1, 1966. 28 U.S.C. § 2072 (1964 ed., Supp. III). Now the Court, for reasons which in my opinion will not stand analysis, defeats the purpose of the amendment as applied to cases like those before us here and insists upon a perpetuation of distinctions which the profession had hoped would become only curiosities of the past.</p>
       <p>The Court is led to this unfortunate result by its insistence upon regarding the method of computing the amount in controversy as embodied in an Act of Congress, as unaffected by the subsequent amendment of Rule 23, and as immune from judicial reexamination because any change would be an impermissible expansion of the jurisdiction of the courts. None of these premises is correct.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>Since the first Judiciary Act, Congress has included in certain grants of jurisdiction to the federal courts -- notably the grants of jurisdiction based on diversity of</p>
       <n id="p347">347</n>
       <p>citizenship, [Footnote 2/6] and the later-established grant of a general jurisdiction to consider cases raising federal questions [Footnote 2/7] -- a requirement that the "matter in controversy" exceed a stated amount of money. Congress has never expanded or explained the bare words of these successive jurisdictional amount statutes. Over the years, the courts themselves have developed a detailed and complex set of rules for determining when the jurisdictional amount requirements are met. [Footnote 2/8]</p>
@@ -96,7 +96,7 @@
       <n id="p350">350</n>
       <p>majority speculates that it is "possible, if not probable," that Congress "implicitly" took into account the existing aggregation doctrines as applied to class action cases when it decided to raise the jurisdictional amount to $10,000, rather than some higher or lower amount. If we are to attribute to Congress any thoughts on this highly technical and specialized matter, it seems to me far more reasonable to assume that Congress was aware that the courts had been developing the interpretation of the jurisdictional amount requirement in class actions and would continue to do so after the 1958 amendments.</p>
       <p>I cannot find any meaningful sense in which the aggregation doctrines in class action cases should be any less subject to reevaluation in the light of new conditions because Congress in 1958 reenacted the jurisdictional amount statute to raise the dollar amount required.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>Whatever the pre-1966 status of the aggregation doctrines in class action cases, the amendment of the Rules in that year permits and even requires a reexamination of the application of the doctrines to such cases. The fundamental change in the law of class actions effected by the new Rule 23 requires that prior subsidiary judicial doctrines developed for application to the old Rule be harmonized with the new procedural law. By Act of Congress, the Rules of Procedure, when promulgated according to the statutorily defined process, have the effect of law and supersede all prior laws in conflict with them. 28 U.S.C. § 2072 (1964 ed., Supp. III). Thus, even if the old aggregation doctrines were embodied in statute -- as they are not -- they could not stand if they conflicted with the new Rule.</p>
       <n id="p351">351</n>
       <p>Under the pre-1966 version of Rule 23, the very availability of the class action device depended on the "joint" or "common" "character of the right sought to be enforced." [Footnote 2/13] If the right were merely "several," only a "spurious" class action could be maintained and only those members of the class who actually appeared as parties were bound by the judgment. [Footnote 2/14] It was in this context of a law of class actions already heavily dependent on categorization of interests as "joint" or "several" that the traditional aggregation doctrines were originally applied to class actions under the Federal Rules. In such a context, those aggregation doctrines which the majority now perpetuates in the quite different context of the new Rule, whatever their other defects, were at least not anomalous and eccentric.</p>
@@ -111,7 +111,7 @@
       <p>The jurisdictional amount statutes require placing a value on the "matter in controversy" in a civil action. Once it is decided under the new Rule that an action may be maintained as a class action, it is the claim of the whole class and not the individual economic stakes of the separate members of the class which is the "matter in controversy." That this is so is perhaps most clearly indicated by the fact that the judgment in a class action, properly maintained as such, includes all members of the class.Rule 23(c)(3). This effect of the new Rule in broadening the scope of the "controversy" in a class action to include the combined interests of all the members of the class is illustrated by the facts of No. 117. That class action, if allowed to proceed, would, under the Rule, determine not merely whether the gas company wrongfully collected $7.81 for taxes from Mr. Coburn. It would also result in a judgment which, subject to the limits of due process, [Footnote 2/18] would determine -- authoritatively and not merely as a matter of precedent -- the status of the taxes collected from the 18,000 other people allegedly in the class Coburn seeks to represent. [Footnote 2/19] That being the case, it is hard to understand why the fact that the alleged claims are, in terms of the old Rule categories, "several", rather than "joint," means that the "matter in controversy" for jurisdictional amount purposes must be regarded as the $7.81 Mr. Coburn claims instead of the thousands of dollars of alleged overcharges of the whole class, the status of all of which would be determined by the judgment.</p>
       <n id="p354">354</n>
       <p>In past development of rules concerning the jurisdictional amount requirement, the courts have, properly, responded to changes in the procedural and substantive law. [Footnote 2/20] Now, confronted by an issue of the meaning of the jurisdictional amount requirement arising in the context of a new procedural law of class actions, we should continue to take account of such changes. We should not allow the judicial interpretation of the jurisdictional amount requirement to become petrified into forms which are products of, and appropriate to, another time. To do this would vitiate a significant part of the reform intended to be accomplished by the amendment of Rule 23. For the majority result will continue to make determinative of the maintainability of a class action just that obsolete conceptualism the amended Rule sought to make irrelevant. In this sense, continued adherence to the old aggregation doctrines conflicts with the new Rule and is improper under 28 U.S.C. § 2072 (1964 ed., Supp. III).</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>Permitting aggregation in class action cases does not involve any violation of the principle, expressed in Rule 82 and inherent in the whole procedure for the</p>
       <n id="p355">355</n>
       <p>promulgation and amendment of the Federal Rules, that the courts cannot by rule expand their own jurisdictions. While the Rules cannot change subject matter jurisdiction, changes in the forms and practices of the federal courts through changes in the Rules frequently and necessarily will affect the occasions on which subject matter jurisdiction is exercised, because they will in some cases make a difference in what cases the federal courts will hear and who will be authoritatively bound by the judgment. [Footnote 2/21] For example, the development of the law of joinder and ancillary jurisdiction under the Federal Rules has influenced the "jurisdiction" of the federal courts in this broader sense. [Footnote 2/22] Indeed, the promulgation of the old Rule 23 provided a new means for resolving in a single federal litigation, based on diversity jurisdiction, the claims of all members of a class, even though some in the class were not of diverse citizenship from parties on the other side. [Footnote 2/23] Similarly, the creation in a Rule having statutory effect of a new type of class action -- one meeting the requirements of the new Rule as to suitability for class-wide resolution,</p>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us397-0159.html" citation="397 U.S. 159" title="Barlow v. Collins">
   <opinion type="Opinions &amp; Dissents">
     <n id="p159">159</n>
-    <h>U.S. Supreme Court</h>
-    <h>Barlow v. Collins, <a href="./us397-0159.xml#p159">397 U.S. 159</a> (1970)</h>
-    <h>Barlow v. Collins</h>
-    <h>No. 249</h>
-    <h>Argued November 19, 1969</h>
-    <h>Decided March 3, 1970</h>
-    <h><a href="./us397-0159.xml#p159">397 U.S. 159</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE FIFTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Barlow v. Collins, <a href="./us397-0159.xml#p159">397 U.S. 159</a> (1970)</h1>
+    <h2>Barlow v. Collins</h2>
+    <h2>No. 249</h2>
+    <h4>Argued November 19, 1969</h4>
+    <h4>Decided March 3, 1970</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE FIFTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioners, who are tenant farmers eligible for payments under the upland cotton program, enacted as part of the Food and Agriculture Act of 1965, challenge the validity of an amended regulation issued b the Secretary of Agriculture in 1966. The program incorporates § 8(g) of the Soil Conservation and Domestic Allotment Act, thereby permitting participating farmers to assign payments only "as security for cash or advances to finance making a crop." The 1966 amendment changed the definition of "making a crop" to permit assignments to secure "the payment of cash rent for land used." Petitioners seek a declaratory judgment holding the amended regulation invalid and an injunction prohibiting respondent federal officials from permitting assignments to petitioners' landlord, claiming that he can now demand assignments as a condition of leasing and that the tenants, who lack any other source of cash or credit, are reduced to obtaining all other necessities from the landlord at high prices and rates of interest. The District Court held that petitioners lacked standing to maintain the action, and the Court of Appeals affirmed.</p>
     <p>Held:</p>
     <p>1. Petitioners have standing to maintain this suit. Data Processing Service v. Camp, ante, p. <a href="./us397-0150.xml#p150">397 U. S. 150</a>. Pp. <a href="./us397-0159.xml#p164">397 U. S. 164</a>-167.</p>
@@ -81,7 +81,7 @@
     </f>
     <f n="5"><a id="fn5" href="#nf5">Footnote 5</a>
       <p>The complaint stated that some of the petitioners "were denied the right to work the land" when they refused to execute assignments to their landlord. The complaint also alleged that</p>
-      <p>"[p]laintiffs have been tenant farmers on this land from eleven to sixty-one years . . . , and [two of them] have been on this land all their lives."</p>
+      <p>"[p]laintiffs have been tenant farmers on this land from eleven to sixty-one years . . ., and [two of them] have been on this land all their lives."</p>
     </f>
     <f n="6"><a id="fn6" href="#nf6">Footnote 6</a>
       <p>In connection with the amended regulations, the Secretary issued under § 1444(d)(10) various rules designed to ensure that tenants receive their fair share of the federal payments. 31 Fed.Reg. 4887-4888, 7 CFR §§ 722.817, 794.3.</p>
@@ -104,7 +104,7 @@
       <p>Again in Barlow, the plaintiff tenant farmers are found to have standing because they alleged injury in fact, and because "tenant farmers are . . . within the zone of interests protected by the Act." Examination of the same statutory materials subsequently leads the Court to the conclusion that the tenant farmers are entitled to judicial review of the Secretary's action because</p>
       <p>"the statutory scheme . . . is to be read as evincing a congressional intent that petitioners may have judicial review of the Secretary's action."</p>
       <p>I submit that, in making such examination of statutory materials an element in the determination of standing, the Court not only performs a useless and unnecessary exercise, but also encourages badly reasoned decisions which may well deny justice in this complex field. When agency action is challenged, standing, reviewability, and the merits pose discrete, and often complicated, issues which can best be resolved by recognizing and treating them as such.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>STANDING</p>
       <p>Although Flast v. Cohen was not a case challenging agency action, its determination of the basis for standing should resolve that question for all cases. We there confirmed what we said in Baker v. Carr, <a href="../us369/us369-0186.xml#p186">369 U. S. 186</a>, <a href="../us369/us369-0186.xml#p204">369 U. S. 204</a> (1962), that the "gist of the question of standing" is whether the party seeking relief has</p>
       <p>"alleged such a personal stake in the outcome of the controversy as to assure that concrete adverseness which sharpens the presentation of issues upon which the court so largely depends for illumination of difficult . . . questions. "</p>
@@ -120,7 +120,7 @@
       <p>In light of Flast, standing exists when the plaintiff alleges, as the plaintiffs in each of these cases alleged, that the challenged action has caused him injury in fact, economic or otherwise. [Footnote 2/5] He thus shows that he has the requisite "personal stake in the outcome" of his suit. Baker v. Carr, supra, at <a href="../us369/us369-0186.xml#p204">369 U. S. 204</a>. We may reasonably expect that a person so harmed will, as best he can, frame the relevant questions with specificity, contest the issues with the necessary adverseness, and pursue the litigation vigorously. [Footnote 2/6]</p>
       <n id="p173">173</n>
       <p>Recognition of his standing to litigate is then consistent with the Constitution, and no further inquiry is pertinent to its existence.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>REVIEWABILITY</p>
       <p>When the legality of administrative action is at issue, standing alone will not entitle the plaintiff to a decision on the merits. Pertinent statutory language, legislative history, and public policy considerations must be examined to determine whether Congress precluded all judicial review, and, if not, whether Congress nevertheless foreclosed review to the class to which the plaintiff belongs. Under the Administrative Procedure Act (APA), "statutes [may] preclude judicial review" or "agency action [may be] committed to agency discretion by law." 5 U.S.C. § 701(a) (1964 ed., Supp. IV). In either case, the plaintiff is out of court not because he had no standing to enter, but because Congress has stripped</p>
       <n id="p174">174</n>
@@ -131,12 +131,12 @@
       <p>5 U.S.C. § 702 (1964 ed., Supp. IV). Congressional intent that a particular plaintiff have review may be found either in express statutory language granting it to the plaintiff's class [Footnote 2/7] or, in the absence of such express language, in statutory indicia from which a right to review may be inferred. [Footnote 2/8] Where, as in the instant cases, there is no express grant of review, reviewability has ordinarily been inferred from evidence that Congress intended the plaintiff's class to be a beneficiary of the statute under which the plaintiff raises his claim. See, for example, the Chicago Junction Case, <a href="../us264/us264-0258.xml#p258">264 U. S. 258</a> (1924); Hardin v. Kentucky Utilities Co., <a href="../us390/us390-0001.xml#p1">390 U. S. 1</a></p>
       <n id="p175">175</n>
       <p>(1968); Norwalk CORE v. Norwalk Redevelopment Agency, 395 F.2d 920 (C.A.2d Cir.1968). In light of Abbott Laboratories, slight indicia that the plaintiff's class is a beneficiary will suffice to support the inference. [Footnote 2/9]</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>THE MERITS</p>
       <p>If it is determined that a plaintiff who alleged injury in fact, is entitled to judicial review, inquiry proceeds to the merits -- to whether the specific legal interest claimed by the plaintiff is protected by the statute and to whether the protested agency action invaded that interest. [Footnote 2/10] It is true, of course, that matters relevant to the merits will already have been touched tangentially in the determination of standing and, in some cases, in the determination of reviewability. The aspect of the merits touched in establishing standing is the identification of injury in fact, the existence of which the plaintiff must prove. The merits are also touched in establishing reviewability in cases where the plaintiff's right to review must be inferred from evidence that his class is a statutory beneficiary. The same statutory indicia that afford the plaintiff a right to review also bear on the merits, because they provide evidence that the statute protects his class, and thus that he is entitled to relief if he can show that the challenged agency action violated the statute. Evidence that the plaintiff's class is a statutory beneficiary, however, need not be as strong for the purpose of obtaining review as</p>
       <n id="p176">176</n>
       <p>for the purpose of establishing the plaintiff's claim on the merits. Under Abbott Laboratories, slight beneficiary indicia will suffice to establish his right to have review, and thus to reach the merits.</p>
-      <h>IV</h>
+      <h2>IV</h2>
       <p>To reiterate, in my view, alleged injury in fact, reviewability, and the merits pose questions that are largely distinct from one another, each governed by its own considerations. To fail to isolate and treat each inquiry independently of the other two, so far as possible, is to risk obscuring what is at issue in a given case, and thus to risk uninformed, poorly reasoned decisions that may result in injustice. Too often these various questions have been merged into one confused inquiry, lumped under the general rubric of "standing." The books are full of opinions that dismiss a plaintiff for lack of "standing" when dismissal, if proper at all, actually rested either upon the plaintiff's failure to prove on the merits the existence of the legally protected interest that he claimed, [Footnote 2/11] or on his failure to prove that the challenged agency action was reviewable at his instance. [Footnote 2/12]</p>
       <p>The risk of ambiguity and injustice can be minimized by cleanly severing, so far as possible, the inquiries into reviewability and the merits from the determination of standing. Today's decisions, however, will only compound present confusion and breed even more litigation over standing. In the first place, the Court's formulation</p>
       <n id="p177">177</n>
@@ -144,7 +144,7 @@
       <p>In the second place, though the Court insists that its nonconstitutional standing inquiry does not involve a determination of the merits, I have grave misgivings on this score. The formulation of the inquiry most certainly bears a disquieting similarity to the erroneous notion that a plaintiff has no standing unless he can establish the existence of a legally protected interest. Finally, assuming that the inquiry does not, in fact, focus on the merits, then surely it serves only to determine whether the challenged agency action is reviewable at the instance of the plaintiff in cases where there is no express statutory grant of review to members of his class. [Footnote 2/13] And, if this is so, it has no place in the determination of standing. In terms of treating related questions with one another, this inquiry is best made</p>
       <n id="p178">178</n>
       <p>in the reviewability context. The Constitution requires for standing only that the plaintiff allege that actual harm resulted to him from the agency action. Investigation to determine whether the constitutional requirement has been met has nothing in common with the inquiry into statutory language, legislative history, and public policy that must be made to ascertain whether Congress has precluded or limited judicial review. [Footnote 2/14] More fundamentally, an approach that treats separately the distinct issues of standing, reviewability, and the merits, and decides each on the basis of its own criteria, assures that these often complex questions will be squarely faced, thus contributing to better reasoned decisions and to greater confidence that justice has in fact, been done. The Court's approach does too little to guard against the possibility that judges will use standing to slam the courthouse door against plaintiffs who are entitled to full consideration of their claims on the merits. The Court's approach must trouble all concerned with the function of the judicial process in today's world. As my Brother DOUGLAS has said:</p>
-      <p>"The judiciary is an indispensable part of the operation of our federal system. With the growing complexities of government it is often the one and only place where effective relief can be obtained. . . . [W]here wrongs to individuals are done . . . , it is abdication for courts to close their doors."</p>
+      <p>"The judiciary is an indispensable part of the operation of our federal system. With the growing complexities of government it is often the one and only place where effective relief can be obtained. . . . [W]here wrongs to individuals are done . . ., it is abdication for courts to close their doors."</p>
       <p>Flast v. Cohen, supra, at <a href="../us392/us392-0083.xml#p111">392 U. S. 111</a> (concurring opinion).</p>
       <n id="p179">179</n>
       <p>* [This opinion applies also to No. 85, Association of Data Processing Service Organizations, Inc., et al. v. Camp, Comptroller of the Currency, et al., ante, p. <a href="./us397-0150.xml#p150">397 U. S. 150</a>.]</p>

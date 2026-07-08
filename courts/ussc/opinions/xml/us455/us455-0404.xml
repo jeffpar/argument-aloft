@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us455-0404.html" citation="455 U.S. 404" title="G. D. Searle &amp;amp; Co. v. Cohn">
   <opinion type="Opinions &amp; Dissents">
     <n id="p404">404</n>
-    <h>U.S. Supreme Court</h>
-    <h>G. D. Searle &amp; Co. v. Cohn, <a href="./us455-0404.xml#p404">455 U.S. 404</a> (1982)</h>
-    <h>G. D. Searle &amp; Co. v. Cohn</h>
-    <h>No. 80-644</h>
-    <h>Argued December 7, 1981</h>
-    <h>Decided February 24, 1982</h>
-    <h><a href="./us455-0404.xml#p404">455 U.S. 404</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE THIRD CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>G. D. Searle &amp; Co. v. Cohn, <a href="./us455-0404.xml#p404">455 U.S. 404</a> (1982)</h1>
+    <h2>G. D. Searle &amp; Co. v. Cohn</h2>
+    <h2>No. 80-644</h2>
+    <h4>Argued December 7, 1981</h4>
+    <h4>Decided February 24, 1982</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE THIRD CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>A New Jersey statute tolls the limitation period for an action against a foreign corporation that "is not represented" in New Jersey by any person or officer upon whom process may be served. In respondents' action against petitioner foreign corporation, originally brought in a New Jersey state court and removed to Federal District Court, petitioner moved for summary judgment based upon the applicable New Jersey statute of limitation, and respondents countered with the tolling provision. Although ruling that petitioner was not represented in New Jersey for purposes of the tolling provision, the District Court nevertheless held that the suit was barred. Reasoning that the tolling provision operated to preserve only causes of action against corporate defendants that were not subject to in personam jurisdiction in New Jersey, and that, with the enactment of New Jersey's long-arm rule, the rationale for the preexisting tolling provision ceased to exist, the District Court found the tolling provision invalid under the Equal Protection Clause of the Fourteenth Amendment. The Court of Appeals reversed. That court's decision was based upon an intervening decision of the New Jersey Supreme Court holding that, as a matter of New Jersey law, the tolling provision continued in force despite the advent of long-arm jurisdiction, and that such provision did not violate the Equal Protection Clause, because the increased difficulty of out-of-state service provided a rational basis for tolling the statute of limitation in a suit against an unrepresented foreign corporation.</p>
     <p>Held:</p>
     <p>1. The tolling provision does not violate the Equal Protection Clause. Rational reasons support the provision despite the institution of long-arm jurisdiction in New Jersey. The unrepresented foreign corporation remains potentially difficult to locate, and the institution of long-arm jurisdiction has not made service upon such a corporation the equivalent of service upon a corporation with a New Jersey representative, but requires additional conditions for effective service. Because of these burdens connected with suing unrepresented foreign corporations, as opposed to suing a domestic corporation or a represented foreign corporation, the tolling provision does not deprive an unrepresented foreign corporation of the equal protection of the laws. Pp. <a href="./us455-0404.xml#p408">455 U. S. 408</a>-412.</p>
@@ -22,7 +22,7 @@
     <p>BLACKMUN, J., delivered the opinion of the Court, in which BRENNAN, WHITE, MARSHALL, REHNQUIST, and O'CONNOR, JJ., joined, and in Parts I and II of which BURGER, C.J., and POWELL, J., joined. POWELL, J., filed an opinion concurring in part and dissenting in part, in which BURGER, C.J., joined, post, p. <a href="./us455-0404.xml#p414">455 U. S. 414</a>. STEVENS, J., filed a dissenting opinion, post, p. <a href="./us455-0404.xml#p420">455 U. S. 420</a>.</p>
     <p>JUSTICE BLACKMUN delivered the opinion of the Court.</p>
     <p>A New Jersey statute, N.J.Stat.Ann. § 2A:14-22 (West 1952), tolls the limitation period for an action against a foreign corporation that is amenable to jurisdiction in New Jersey courts but that has in New Jersey no person or officer upon whom process may be served. The United States Court of Appeals for the Third Circuit in this case held that the statute does not violate the Equal Protection and Due Process Clauses of the Fourteenth Amendment. We agree, but we vacate the Court of Appeals' judgment and remand the case for consideration of petitioner's Commerce Clause challenge to the statute.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Respondents, Susan and Walter Cohn, are husband and wife. In 1963, Susan Cohn suffered a stroke. Eleven years later, in 1974, the Cohns sued petitioner, G. D. Searle &amp; Co., in the Superior Court of New Jersey, Essex County, alleging that Susan Cohn's stroke was caused by her use of an oral</p>
     <n id="p406">406</n>
     <p>contraceptive manufactured by petitioner. [<a id="nf1" href="#fn1">Footnote 1</a>] Petitioner was served under New Jersey's long-arm rule, N.J.Ct.Rule 4:4(c)(1) (1969). Petitioner removed the suit to federal court, and thereafter moved for summary judgment based upon New Jersey's 2-year statute of limitation, N.J.Stat.Ann. § 2A:14-2 (West 1952), governing an "action at law for an injury to the person caused by . . . wrongful act." Respondents countered with § 2A:14-22. That section tolls the statute of limitation for a cause of action against a foreign corporation that "is not represented" in New Jersey "by any person or officer upon whom summons or other original process may be served." [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
@@ -35,7 +35,7 @@
     <p>"Since service of process under the long-arm statute is more difficult and time-consuming to achieve than service within the state, and since out-of-state, non-represented corporate defendants may be difficult to locate let alone serve, tolling the statute of limitations protects New Jersey plaintiffs and facilitates their lawsuits against such defendants."</p>
     <p>Hopkins v. Kelsey-Hayes, Inc., 628 F.2d 801, 811 (CA3 1980).</p>
     <p>Because of the novel and substantial character of the federal issue involved, we granted certiorari, 451 U.S. 905 (1981).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Like the Court of Appeals, we conclude that the New Jersey statute does not violate the Equal Protection Clause. In the absence of a classification that is inherently invidious or that impinges upon fundamental rights, a state statute is to be upheld against equal protection attack if it is rationally related to the achievement of legitimate governmental ends. Schweiker v. Wilson, <a href="../us450/us450-0221.xml#p221">450 U. S. 221</a>, <a href="../us450/us450-0221.xml#p230">450 U. S. 230</a> (1981). The New Jersey tolling provision need satisfy only this constitutional minimum. As the Court explained in Chase Securities Corp. v. Donaldson, <a href="../us325/us325-0304.xml#p304">325 U. S. 304</a>, <a href="../us325/us325-0304.xml#p314">325 U. S. 314</a> (1945):</p>
     <p>"[Statutes of limitation] represent a public policy about the privilege to litigate. Their shelter has never been regarded as what now is called a 'fundamental' right or what used to be called a 'natural' right of the individual. He may, of course, have the protection of the policy while it exists, but the history of pleas of limitation shows them to be good only by legislative grace, and to be subject to a relatively large degree of legislative control."</p>
     <p>See also Campbell v. Holt, <a href="../us115/us115-0620.xml#p620">115 U. S. 620</a> (1885). [<a id="nf6" href="#fn6">Footnote 6</a>]</p>
@@ -57,7 +57,7 @@
     <p>83 N.J. at 293, n. 10, 416 A.2d at 378, n. 10. Thus, under New Jersey law, an amenable, unrepresented foreign corporation may successfully raise a bar to a plaintiffs suit if the plaintiff's delay cannot be excused and the corporation has suffered "prejudice."</p>
     <n id="p412">412</n>
     <p>In sum, because of the burdens connected with serving unrepresented foreign corporations, we agree with the Court of Appeals and the New Jersey Supreme Court that the tolling provision does not deprive an unrepresented foreign corporation of the equal protection of the laws. [<a id="nf7" href="#fn7">Footnote 7</a>] See Dew v. Appleberry, <a href="https://law.justia.com/cases/california/supreme-court/3d/23/630.html">23 Cal. 3d 630</a>, 591 P.2d 509 (1979) (holding similar tolling provision rationally related to a valid governmental interest); Vaughn v. Deitz, <a href="https://law.justia.com/cases/texas/supreme-court/1968/b-738-0.html">430 S.W.2d 487</a>, 490 (Tex.1968) (holding that absence from the State may, consistent with equal protection, support suspension of the statute of limitation). Cf. Bauserman v. Blunt, <a href="../us147/us147-0647.xml#p647">147 U. S. 647</a> (1893) (applying Kansas statute tolling limitation period for out-of-state defendant subject to service, without discussing the constitutional issue).</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Petitioner, however, raises another constitutional challenge. The tolling provision as interpreted by the New Jersey</p>
     <n id="p413">413</n>
     <p>Supreme Court, petitioner argues, violates the Commerce Clause. Petitioner insists that, in order to obtain the benefit of the statute of limitation, it must obtain a certificate of authority by registering to do business in New Jersey. See N.J.Stat.Ann. § 14A:12 (West 1969). As a result, it will subject itself to all the duties and liabilities imposed on a domestic New Jersey corporation. Petitioner points out that it is engaged solely in interstate commerce in New Jersey, and, relying on cases such as Allenberg Cotton Co. v. Pittman, <a href="../us419/us419-0020.xml#p20">419 U. S. 20</a> (1974), and Sioux Remedy Co. v. Cope, <a href="../us235/us235-0197.xml#p197">235 U. S. 197</a> (1914), petitioner contends that New Jersey violates the Commerce Clause by requiring it to register to do business in New Jersey in order to gain the benefit of the statute of limitation. For two reasons, we decline to resolve this issue.</p>
@@ -102,14 +102,14 @@
       <p>remanding on this issue is that one sentence in a footnote to Velmohos v. Maren Engineering Corp., 83 N.J. 282, 293, n. 10, <a href="https://law.justia.com/cases/new-jersey/supreme-court/1980/83-n-j-282-0.html">416 A.2d 372</a>, 378, n. 10 (1980), is "ambiguous."</p>
       <p>The Commerce Clause question was not presented to the District Court by petitioner, [Footnote 2/1] and normally this would fully justify a remand. It was, however, presented and argued to the Court of Appeals for the Third Circuit. Pet. for Cert. 6-7. [Footnote 2/2] Curiously, that court did not mention the question in its opinion. Petitioner continued, as it had a right to do, to rely on the ground. Its petition for certiorari expressly included the question whether New Jersey's tolling statute "constitutes the imposition of a burden [on] interstate commerce." Id. at i. With full knowledge that the Court of Appeals had ignored petitioner's Commerce Clause argument, we granted certiorari. Our grant did not limit the questions presented. See 451 U.S. 905 (1981). And respondents have not suggested that this question is not properly before us. Indeed, the issue was addressed at length by both parties in their briefs and in oral argument. In my view, the question is properly before us.</p>
       <p>As I do not share the Court's view that ambiguity exists as to New Jersey law, I would decide the question on which we granted this case.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>Petitioner argues that, under New Jersey law, the only way a foreign corporation may appoint an agent for service of process, and thereby obtain the benefit of the statute of limitations, is to obtain a certificate of authority to transact business</p>
       <n id="p416">416</n>
       <p>in the State. Respondents answer that other means of appointing such an agent -- without qualifying to do business -- are provided by New Jersey law. This difference between the parties is critical to the resolution of the Commerce Clause question, as significant consequences follow from registration. Neither Velmohos nor any other New Jersey case brought to our attention identifies any means -- other than qualification -- of appointing a duly authorized agent for service of process.</p>
       <p>The Court perceives ambiguity in the following footnote in Velmohos:</p>
       <p>"We note that whatever hardship on foreign corporations might be caused by continued exposure to suit [due to tolling of the statute of limitations] can be easily eliminated by the designation of an agent for service of process within the State."</p>
       <p>83 N.J. at 293, n. 10., 416 A.2d at 378, n. 10. The question before us was not the issue in Velmohos. The footnote merely says that the statute of limitations tolling problem may be eliminated "by the designation of an agent for service of process." This is simply a neutral observation that says nothing as to the means of designation of an agent under New Jersey law. If there were a genuine ambiguity in New Jersey statutes, a remand would indeed be justified. I find no such ambiguity.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>Only three New Jersey statutes have been identified as relevant, one by petitioner and two by respondents.</p>
       <p>Petitioner cites N.J.Stat.Ann. §§ 14A:4-1 and 14A:14 (West 1969). This is a conventional type of statute requiring the qualification of foreign corporations that transact business in the State. It includes the requirement of a registered agent. Section 14A:13-4(1) requires the foreign corporation to file in the office of the Secretary of State an application setting forth specified information, including the</p>
       <n id="p417">417</n>

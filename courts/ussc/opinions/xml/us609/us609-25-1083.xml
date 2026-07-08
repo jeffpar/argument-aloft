@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us609-25-1083.html" citation="609 U.S. 25-1083" title="Mullin v. Doe">
   <opinion type="Opinion" author="Alito">
     <p>NOTICE: This opinion is subject to formal revision before publication in the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, pio@supremecourt.gov, of any typographical or other formal errors.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 25–1083 and 25–1084</p>
-    <p>_________________</p>
     <p>MARKWAYNE MULLIN, SECRETARY, DEPARTMENT OF HOMELAND SECURITY, et al., PETITIONERS</p>
     <p>25–1083v.</p>
     <p>DAHLIA DOE, et al.</p>
@@ -117,9 +116,7 @@
   </opinion>
   <opinion type="Concurrence" author="Thomas">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 25–1083 and 25–1084</p>
-    <p>_________________</p>
     <p>MARKWAYNE MULLIN, SECRETARY, DEPARTMENT OF HOMELAND SECURITY, et al., PETITIONERS</p>
     <p>25–1083v.</p>
     <p>DAHLIA DOE, et al.</p>
@@ -160,9 +157,7 @@
   </opinion>
   <opinion type="Dissent" author="Kagan">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 25–1083 and 25–1084</p>
-    <p>_________________</p>
     <p>MARKWAYNE MULLIN, SECRETARY, DEPARTMENT OF HOMELAND SECURITY, et al., PETITIONERS</p>
     <p>25–1083v.</p>
     <p>DAHLIA DOE, et al.</p>

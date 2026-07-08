@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us448-0122.html" citation="448 U.S. 122" title="Maher v. Gagne">
   <opinion type="Opinions &amp; Dissents">
     <n id="p122">122</n>
-    <h>U.S. Supreme Court</h>
-    <h>Maher v. Gagne, <a href="./us448-0122.xml#p122">448 U.S. 122</a> (1980)</h>
-    <h>Maher v. Gagne</h>
-    <h>No. 78-1888</h>
-    <h>Argued January 9, 1980</h>
-    <h>Decided June 25, 1980</h>
-    <h><a href="./us448-0122.xml#p122">448 U.S. 122</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SECOND CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Maher v. Gagne, <a href="./us448-0122.xml#p122">448 U.S. 122</a> (1980)</h1>
+    <h2>Maher v. Gagne</h2>
+    <h4>No. 78-1888</h4>
+    <h4>Argued January 9, 1980</h4>
+    <h4>Decided June 25, 1980</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SECOND CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondent is a recipient of benefits under Connecticut's federally funded Aid to Families with Dependent Children (AFDC) program. She brought this action in Federal District Court under 42 U.S.C. § 1983, alleging that Connecticut's AFDC regulations denied her credit for substantial portions of her actual work-related expenses, thus reducing the level of her benefits, and that such regulations violated the Social Security Act and the Equal Protection and Due Process Clauses of the Fourteenth Amendment. Ultimately, the case was settled and the District Court entered a consent decree that provided for a substantial increase in the standard allowances for work-related expenses and gave AFDC recipients the right to prove that their actual work-related expenses were in excess of the standard. The District Court then awarded respondent's counsel a fee pursuant to the Civil Rights Attorney's Fees Awards Act of 1976, 42 U.S.C. § 1988, which provides that, in any action to enforce 42 U.S.C. § 1983, inter alia, the court, in its discretion, may allow the prevailing party, other than the United States, a reasonable attorney's fee as part of the costs. The court held that respondent was entitled to fees under the Act because, in addition to her statutory claim, she had alleged constitutional claims that were sufficiently substantial to support federal jurisdiction. The Court of Appeals affirmed.</p>
     <p>Held:</p>
     <p>1. Under § 1988, the district courts' authority to award attorney's fees is not limited to cases in which § 1983 is invoked as a remedy for a constitutional violation or a violation of a federal statute providing for the protection of civil or equal rights. As the Court holds in Maine v. Thiboutot, ante p. <a href="./us448-0001.xml#p1">448 U. S. 1</a>, § 1988 applies to all types of § 1983 actions, including actions based solely on Social Security Act violations. Thus, even if respondent's claim could be characterized as arising solely out of a Social Security Act violation, this would not preclude the award of attorney's fees under § 1988. Pp. <a href="./us448-0122.xml#p128">448 U. S. 128</a>-129.</p>
@@ -34,7 +34,7 @@
     <p>(1978). The court held that respondent was the "prevailing party" within the meaning of § 1988 because, while not prevailing "in every particular," she had won "substantially all of the relief originally sought in her complaint" in the consent decree. Id. at 1347. The court also rejected petitioner's argument that an award of fees against him was barred by the Eleventh Amendment in the absence of a judicial determination that respondent's constitutional rights had been violated. Relying on the basic policy against deciding constitutional claims unnecessarily, the court held that respondent was entitled to fees under the Act because, in addition to her statutory claim, she had alleged constitutional claims that were sufficiently substantial to support federal jurisdiction under the reasoning of Hagans v. Lavine, <a href="../us415/us415-0528.xml#p528">415 U. S. 528</a>.</p>
     <p>The Court of Appeals affirmed, 594 F.2d 336 (CA2 1979), holding that Congress intended to authorize an award of fees in this kind of situation and that it had the constitutional power to do so. [<a id="nf9" href="#fn9">Footnote 9</a>] We granted certiorari to consider both the statutory and constitutional questions. 444 U.S. 824.</p>
     <n id="p128">128</n>
-    <h>I</h>
+    <h2>I</h2>
     <p>Petitioner's first argument is that Congress did not intend to authorize the award of attorney's fees in every type of § 1983 action, but rather limited the courts' authority to award fees to cases in which § 1983 is invoked as a remedy for a constitutional violation or a violation of a federal statute providing for the protection of civil rights or equal rights. In support of this contention, petitioner relies on our holding in Chapman v. Houston Welfare Rights Organization, <a href="../us441/us441-0600.xml#p600">441 U. S. 600</a>, that there is no federal jurisdiction under § 1343 over § 1983 claims outside these categories, and that there is therefore no jurisdiction under § 1343 over a § 1983 claim based solely on a violation of the Social Security Act. Characterizing respondent's claim in this case as arising solely out of a Social Security Act violation, petitioner argues that the District Court had no authority under § 1988 to award her attorney's fees.</p>
     <p>Even if petitioner's characterization of respondent's claim were correct, [<a id="nf10" href="#fn10">Footnote 10</a>] his argument would have to be rejected. In Maine v. Thiboutot, ante p. <a href="./us448-0001.xml#p1">448 U. S. 1</a>, decided this day, we hold that § 1988 applies to all types of § 1983 actions, including actions based solely on Social Security Act violations. As MR. JUSTICE BRENNAN's opinion for the Court in Thiboutot</p>
     <n id="p129">129</n>
@@ -45,7 +45,7 @@
     <p>Nor can we accept petitioner's contention that respondent</p>
     <n id="p130">130</n>
     <p>did not gain sufficient relief through the consent decree to be considered the prevailing party. The District Court's contrary finding was based on its familiarity with the progress of the litigation through the pleading, discovery, and settlement negotiation stages. That finding was upheld by the Court of Appeals, and we see no reason to question its validity. See Graver Mfg. Co. v. Linde Co., <a href="../us336/us336-0271.xml#p271">336 U. S. 271</a>, <a href="../us336/us336-0271.xml#p275">336 U. S. 275</a>.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Petitioner's second argument is that, regardless of Congress' intent, a federal court is barred by the Eleventh Amendment from awarding fees against a State in a case involving a purely statutory, non-civil-rights claim. [<a id="nf12" href="#fn12">Footnote 12</a>] Petitioner argues that Congress may empower federal courts to award fees against the States only insofar as it is exercising its power under § 5 of the Fourteenth Amendment to enforce substantive rights conferred by that Amendment. Thus, petitioner contends that fees can only be assessed in § 1983 actions brought to vindicate Fourteenth Amendment rights or to enforce civil rights statutes that were themselves enacted pursuant to §§5 of the Fourteenth Amendment. [<a id="nf13" href="#fn13">Footnote 13</a>]</p>
     <p>In this case, there is no need to reach the question whether a federal court could award attorney's fees against a State based on a statutory, non-civil-rights claim. For, contrary to petitioner's characterization, respondent did allege violations of her Fourteenth Amendment due process and equal protection</p>
     <n id="p131">131</n>

@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us594-19-1039.html" citation="594 U.S. 19-1039" title="PennEast Pipeline Co. v. New Jersey">
   <opinion type="Opinion" author="Roberts">
     <p>NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 19–1039</p>
-    <p>_________________</p>
     <p>PENNEAST PIPELINE COMPANY, LLC, PETITIONER v. NEW JERSEY, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the third circuit</p>
     <p>[June 29, 2021]</p>
@@ -18,7 +17,7 @@
     <p>In 1938 Congress passed the Natural Gas Act, ch. 556, 52Stat. 821, to regulate the transportation and sale of natural gas in interstate commerce. Congress vested the Federal Power Commission (now the Federal Energy Regulatory Commission) with the authority to administer the NGA, including by approving the construction and extension of interstate pipelines. The NGA provides that in order to build an interstate pipeline, a natural gas company must obtain from FERC a certificate reflecting that such construction “is or will be required by the present or future public convenience and necessity.” 15 U. S. C. §717f(e). The NGA also provides that, before issuing a certificate of public convenience and necessity, FERC “shall set the matter for hearing and shall give such reasonable notice of the hearing thereon to all interested persons.” §717f(c)(1)(B).</p>
     <p>As originally enacted, the NGA did not identify a mechanism for certificate holders to secure property rights necessary to build pipelines. Natural gas companies were instead left to rely on state eminent domain procedures, which were frequently made unavailable to them. In some States, the eminent domain power could be exercised only if the operation of a pipeline would benefit residents. See S. Rep. No. 429, 80th Cong., 1st Sess., 2 (1947) (collecting cases). In others, statutory and constitutional provisions denied state eminent domain power to corporations from other States. See id., at 2–3. The result was that certificate holders often had only an illusory right to build.</p>
     <p>Congress acted to remedy this defect. In 1947, it amended the NGA to authorize certificate holders to exercise the federal eminent domain power. See ch. 333, 61Stat. 459. Under 15 U. S. C. §717f(h):</p>
-    <p>“When any holder of a certificate of public convenience and necessity cannot acquire by contract, or is unable to agree with the owner of property to the compensation to be paid for, the necessary right-of-way to construct, operate, and maintain a pipe line or pipe lines for the transportation of natural gas . . . , it may acquire the same by the exercise of the right of eminent domain in the district court of the United States for the district in which such property may be located, or in the State courts.”</p>
+    <p>“When any holder of a certificate of public convenience and necessity cannot acquire by contract, or is unable to agree with the owner of property to the compensation to be paid for, the necessary right-of-way to construct, operate, and maintain a pipe line or pipe lines for the transportation of natural gas . . ., it may acquire the same by the exercise of the right of eminent domain in the district court of the United States for the district in which such property may be located, or in the State courts.”</p>
     <p>By enabling FERC to vest natural gas companies with the federal eminent domain power, the 1947 amendment ensured that certificates of public convenience and necessity could be given effect.</p>
     <p>B</p>
     <p>Petitioner PennEast Pipeline Co. is a joint venture owned by several energy companies. In 2015, PennEast applied to FERC for a certificate of public convenience and necessity authorizing the construction of a 116-mile pipeline from Luzerne County, Pennsylvania, to Mercer County, New Jersey. FERC published notice of PennEast’s application in the Federal Register, and subsequently received thousands of comments in writing and at public hearings. FERC then issued a draft environmental impact statement for the project, which yielded thousands of additional comments. PennEast made a number of route modifications in response to the concerns commenters had raised.</p>
@@ -76,9 +75,7 @@
   </opinion>
   <opinion type="Dissent" author="Gorsuch">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 19–1039</p>
-    <p>_________________</p>
     <p>PENNEAST PIPELINE COMPANY, LLC, PETITIONER v. NEW JERSEY, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the third circuit</p>
     <p>[June 29, 2021]</p>
@@ -96,9 +93,7 @@
   </opinion>
   <opinion type="Dissent" author="Barrett">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 19–1039</p>
-    <p>_________________</p>
     <p>PENNEAST PIPELINE COMPANY, LLC, PETITIONER v. NEW JERSEY, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the third circuit</p>
     <p>[June 29, 2021]</p>

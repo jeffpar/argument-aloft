@@ -1,44 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us147-0150.html" citation="147 U.S. 150" title="Holmes v. Goldsmith">
   <opinion type="Opinions &amp; Dissents">
     <n id="p150">150</n>
-    <h>U.S. Supreme Court</h>
-    <h>Holmes v. Goldsmith, <a href="./us147-0150.xml#p150">147 U.S. 150</a> (1893)</h>
-    <h>Holmes v. Goldsmith</h>
-    <h>No. 93</h>
-    <h>Argued December 14-15, 1892</h>
-    <h>Decided January 9.1893</h>
-    <h><a href="./us147-0150.xml#p150">147 U.S. 150</a></h>
-    <h>ERROR TO THE CIRCUIT COURT OF THE UNITED</h>
-    <h>STATES FOR THE DISTRICT OF OREGON</h>
-    <h>Syllabus</h>
-    <h>The maker of a promissory note signed it entirely for the benefit of the payee, who was really the party for whose use it was made. The maker and the payee were citizens of the same state. A citizen of another state discounted the note, and paid full consideration for it to the payee, who endorsed it to him. The note not being paid at maturity, the endorsee, who had not parted with it, brought suit upon it against that maker in the Circuit Court of the United States. Held that the court had jurisdiction, notwithstanding the provision in the Act of August 13,</h>
-    <h>Page 147 U. S. 151</h>
-    <h>1888, 2b Stat. 433, 434, c. 866, that such court shall not have cognizance of a suit to recover the contents of a promissory note in favor of an assignee or subsequent holder unless such suit might have been prosecuted in such court if no assignment had been made.</h>
-    <h>When the genuineness of a paper sued on is put in issue, papers not otherwise competent may be introduced in Oregon for the purpose of enabling the jury to make a comparison of handwritings.</h>
-    <h>A witness who has sworn to the genuineness of a disputed signature to a note may be further asked if he would act upon it if it came to him in an ordinary business transaction.</h>
-    <h>The admission of evidence of a collateral fact which might have been rejected by the trial court without committing error does not constitute error which will of itself justify reversal of the judgment below if the case of the plaintiff in error was not injured by it.</h>
-    <h>This was an action brought by L. Goldsmith and Max Goldsmith, doing business as partners under the name of L. Goldsmith &amp; Co., citizens of the State of New York, against M. B. Holmes, John Dillard, and R. Phipps, citizens of the State of Oregon, as makers of a promissory note, in the words and figures following:</h>
-    <h>"$10,000 Portland, Oregon, Aug. 9, 1886"</h>
-    <h>"Six months after date, without grace, we, or either of us, promise to pay to the order of W. F. Owens ten thousand dollars, for value received, with interest from date at the rate of ten percent per annum until paid, principal and interest payable in U.S. gold coin at the First National Bank of Portland, Oregon, and in case suit is instituted to collect this note, or any portion thereof, we promise to pay such additional sum as the court may adjudge reasonable as attorneys' fees in said suit."</h>
-    <h>"M. B. Holmes"</h>
-    <h>"John Dillard."</h>
-    <h>"R. Phipps"</h>
-    <h>On the day of its date, W. F. Owens endorsed the note, waived, in writing, demand, notice, and protest, delivered the note, so endorsed, to the agent of the plaintiffs, and received the sum of ten thousand dollars.</h>
-    <h>Page 147 U. S. 152</h>
-    <h>The complaint alleged that the transaction was a loan by plaintiffs to W. F. Owens; that the defendants executed the note for the accommodation of Owens, to enable him to procure the loan thereon, and that Owens was in fact a maker of said note to the plaintiffs, and never himself had any cause of action thereon against the defendants.</h>
-    <h>To this complaint the defendants demurred on the ground that it did not bring the case within the jurisdiction of the circuit court, and did not state facts sufficient to constitute a cause of action.</h>
-    <h>Upon argument, this demurrer was overruled. 36 F. 484.</h>
-    <h>The defendants answered, denying the execution of the note and knowledge of the other facts alleged in the complaint. At the trial, a verdict was given in favor of the plaintiffs for the amount of the note, with interest from date, and on June 19, 1889, judgment was entered on the verdict, in favor of the plaintiffs and against the defendants for the amount of the note, with interest and with costs and disbursements.</h>
-    <h>A writ of error was duly sued out and allowed, and the case brought into this Court for review.</h>
-    <h>Page 147 U. S. 156</h>
-    <h>MR. JUSTICE SHIRAS delivered the opinion of the Court.</h>
-    <h>The complaint alleges the ownership in the plaintiffs of a chose in action, as to the character, a promissory note, as to amount, ten thousand dollars, as to parties, the plaintiffs, citizens of the State of New York, and the defendants, citizens of the State of Oregon, thus bringing the case within the jurisdiction of a circuit court of the United States, as defined in the Constitution.</h>
-    <h>By the demurrer to the complaint, the defendants invoked the provision of the Act of August 13, 1888, 25 Stat. 434, which is as follows:</h>
-    <h>"Nor shall any circuit or district court have cognizance of any suit except upon foreign bills of exchange to recover the contents of any promissory note or other chose in action in favor of any assignee or of any subsequent holder if such</h>
-    <h>Page 147 U. S. 157</h>
-    <h>instrument be payable to bearer . . . unless such suit might have been prosecuted in such court to recover the said contents if no assignment or transfer had been made."</h>
-    <h>Upon the face of the complaint, the jurisdiction of the circuit court was duly made to appear so far as the requisitions of the Constitution apply. But it has been held, in a series of cases beginning with <a href="../us004/us004-0008.xml#p8">Turner v. Bank of North America</a>, 4 Dall. 8, that it is competent for Congress, in creating a circuit court and prescribing the extent of its jurisdiction, to withhold jurisdiction in the case of a particular controversy.</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Holmes v. Goldsmith, <a href="./us147-0150.xml#p150">147 U.S. 150</a> (1893)</h1>
+    <h2>Holmes v. Goldsmith</h2>
+    <h2>No. 93</h2>
+    <h4>Argued December 14-15, 1892</h4>
+    <h4>Decided January 9.1893</h4>
+    <h2>ERROR TO THE CIRCUIT COURT OF THE UNITED</h2>
+    <h2>STATES FOR THE DISTRICT OF OREGON</h2>
+    <h2>Syllabus</h2>
+    <h2>The maker of a promissory note signed it entirely for the benefit of the payee, who was really the party for whose use it was made. The maker and the payee were citizens of the same state. A citizen of another state discounted the note, and paid full consideration for it to the payee, who endorsed it to him. The note not being paid at maturity, the endorsee, who had not parted with it, brought suit upon it against that maker in the Circuit Court of the United States. Held that the court had jurisdiction, notwithstanding the provision in the Act of August 13,</h2>
+    <h2>Page 147 U. S. 151</h2>
+    <h4>1888, 2b Stat. 433, 434, c. 866, that such court shall not have cognizance of a suit to recover the contents of a promissory note in favor of an assignee or subsequent holder unless such suit might have been prosecuted in such court if no assignment had been made.</h4>
+    <h2>When the genuineness of a paper sued on is put in issue, papers not otherwise competent may be introduced in Oregon for the purpose of enabling the jury to make a comparison of handwritings.</h2>
+    <h2>A witness who has sworn to the genuineness of a disputed signature to a note may be further asked if he would act upon it if it came to him in an ordinary business transaction.</h2>
+    <h2>The admission of evidence of a collateral fact which might have been rejected by the trial court without committing error does not constitute error which will of itself justify reversal of the judgment below if the case of the plaintiff in error was not injured by it.</h2>
+    <h2>This was an action brought by L. Goldsmith and Max Goldsmith, doing business as partners under the name of L. Goldsmith &amp; Co., citizens of the State of New York, against M. B. Holmes, John Dillard, and R. Phipps, citizens of the State of Oregon, as makers of a promissory note, in the words and figures following:</h2>
+    <h4>"$10,000 Portland, Oregon, Aug. 9, 1886"</h4>
+    <h2>"Six months after date, without grace, we, or either of us, promise to pay to the order of W. F. Owens ten thousand dollars, for value received, with interest from date at the rate of ten percent per annum until paid, principal and interest payable in U.S. gold coin at the First National Bank of Portland, Oregon, and in case suit is instituted to collect this note, or any portion thereof, we promise to pay such additional sum as the court may adjudge reasonable as attorneys' fees in said suit."</h2>
+    <h2>"M. B. Holmes"</h2>
+    <h2>"John Dillard."</h2>
+    <h2>"R. Phipps"</h2>
+    <h2>On the day of its date, W. F. Owens endorsed the note, waived, in writing, demand, notice, and protest, delivered the note, so endorsed, to the agent of the plaintiffs, and received the sum of ten thousand dollars.</h2>
+    <h2>Page 147 U. S. 152</h2>
+    <h2>The complaint alleged that the transaction was a loan by plaintiffs to W. F. Owens; that the defendants executed the note for the accommodation of Owens, to enable him to procure the loan thereon, and that Owens was in fact a maker of said note to the plaintiffs, and never himself had any cause of action thereon against the defendants.</h2>
+    <h2>To this complaint the defendants demurred on the ground that it did not bring the case within the jurisdiction of the circuit court, and did not state facts sufficient to constitute a cause of action.</h2>
+    <h2>Upon argument, this demurrer was overruled. 36 F. 484.</h2>
+    <h4>The defendants answered, denying the execution of the note and knowledge of the other facts alleged in the complaint. At the trial, a verdict was given in favor of the plaintiffs for the amount of the note, with interest from date, and on June 19, 1889, judgment was entered on the verdict, in favor of the plaintiffs and against the defendants for the amount of the note, with interest and with costs and disbursements.</h4>
+    <h2>A writ of error was duly sued out and allowed, and the case brought into this Court for review.</h2>
+    <h2>Page 147 U. S. 156</h2>
+    <h2>MR. JUSTICE SHIRAS delivered the opinion of the Court.</h2>
+    <h2>The complaint alleges the ownership in the plaintiffs of a chose in action, as to the character, a promissory note, as to amount, ten thousand dollars, as to parties, the plaintiffs, citizens of the State of New York, and the defendants, citizens of the State of Oregon, thus bringing the case within the jurisdiction of a circuit court of the United States, as defined in the Constitution.</h2>
+    <h4>By the demurrer to the complaint, the defendants invoked the provision of the Act of August 13, 1888, 25 Stat. 434, which is as follows:</h4>
+    <h2>"Nor shall any circuit or district court have cognizance of any suit except upon foreign bills of exchange to recover the contents of any promissory note or other chose in action in favor of any assignee or of any subsequent holder if such</h2>
+    <h2>Page 147 U. S. 157</h2>
+    <h2>instrument be payable to bearer . . . unless such suit might have been prosecuted in such court to recover the said contents if no assignment or transfer had been made."</h2>
+    <h2>Upon the face of the complaint, the jurisdiction of the circuit court was duly made to appear so far as the requisitions of the Constitution apply. But it has been held, in a series of cases beginning with <a href="../us004/us004-0008.xml#p8">Turner v. Bank of North America</a>, 4 Dall. 8, that it is competent for Congress, in creating a circuit court and prescribing the extent of its jurisdiction, to withhold jurisdiction in the case of a particular controversy.</h2>
     <p>In pursuance of this view, it has been frequently held by this Court that in an action in a circuit court of the United States by an assignee of a chose in action, the record must affirmatively show by apt allegations that the assignor could have maintained the action. Thus, Mr. Justice Strong, in delivering the opinion of the Court in the case of <a href="../us086/us086-0081.xml#p81">Morgan's Executors v. Gay</a>, 19 Wall. 81, <a href="../us086/us086-0083.xml#p83">86 U. S. 83</a>, said:</p>
     <p>"In <a href="https://law.justia.com/us/4/8/">Turner v. Bank of North America</a>, 4 Dall. 8, it was distinctly ruled that when an action upon a promissory note is brought in a federal court by an endorser against the maker, the citizenship of not only the parties to the suit but also of the payee and endorser must be averred in the record to be such as to give the court jurisdiction."</p>
     <p>In <a href="../us049/us049-0441.xml#p441">Sheldon v. Sill</a>, 8 How. 441, <a href="../us049/us049-0441.xml#p448">49 U. S. 448</a>, it was contended in favor of the jurisdiction of the circuit court that the provision in the Judiciary Act of 1789 inhibiting a suit by an assignee of a chose in action in cases where the assignor could not have sued if no assignment had been made was invalid because it attempted to deprive the courts of the United States of the judicial power with which the Constitution had invested them; but this Court, speaking through Mr. Justice Grier, said:</p>

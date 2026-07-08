@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us419-0947.html" citation="419 U.S. 947" title="SEDILLO v. U.S.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p947">947</n>
-    <h>U.S. Supreme Court</h>
-    <h>SEDILLO v. U.S. , <a href="./us419-0947.xml#p947">419 U.S. 947</a> (1974)</h>
-    <h> <a href="./us419-0947.xml#p947">419 U.S. 947</a></h>
-    <h>Antonio R. SEDILLO v. UNITED STATES. No. 73-6754.</h>
-    <h>Supreme Court of the United States</h>
-    <h>October 21, 1974</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>SEDILLO v. U.S., <a href="./us419-0947.xml#p947">419 U.S. 947</a> (1974)</h1>
+    <h2>Antonio R. SEDILLO v. UNITED STATES. No. 73-6754.</h2>
+    <h2>Supreme Court of the United States</h2>
+    <h4>October 21, 1974</h4>
     <p>On petition for writ of certiorari to the United States Court of Appeals for the Ninth Circuit.</p>
     <p>The petition for a writ of certiorari is denied.</p>
     <p>Mr. Justice DOUGLAS, with whom Mr. Justice BRENNAN and Mr. Justice MARSHALL concur, dissenting.</p>
@@ -17,7 +17,7 @@
     <p>contraband, or that it contained contraband, or that it was evidence relevant to a crime that [the officer] had probable cause to believe had been committed. Accordingly, the plain view doctrine cannot justify the seizure of the envelope and check.' Id., at 153 (footnote omitted).</p>
     <p>In Coolidge v. New Hampshire, <a href="../us403/us403-0443.xml#p443">403 U.S. 443</a>, 466, 29 L. Ed. 2d 564, the Court pointed out that the plain view doctrine is applicable only 'where it is immediately apparent to the police that they have evidence before them; the 'plain view' doctrine may not be used to extend a general exploratory search from one object to another until something incriminating at last emerges.' To use the plain view rationale in this case is to ignore the limitations on that exception to the warrant requirement which are explained by Coolidge.</p>
     <p>It appears to me that the conviction here results from police conduct which violated the Fourth Amendment. The plain view doctrine is not applicable, and I do not see how any other exceptions to the warrant requirement would justify the conduct of the police.* I would therefore grant certiorari and set this case for argument.</p>
-    <h>Footnotes</h>
+    <h2>Footnotes</h2>
     <p>[Footnote *] Obviously the search and seizure were not incident to arrest, since the arrest did not occur until after the envelope had been removed from petitioner's pocket and opened. I dissented in Terry v. Ohio, <a href="../us392/us392-0001.xml#p1">392 U.S. 1</a>, but even the majority position in that case would not justify the officer's conduct here. Terry permitted a 'reasonable search for weapons for the protection of the police officer, where he has reason to believe that he is dealing with an armed and dangerous individual, regardless of whether he has probable cause to arrest the individual for a crime.' Id., at 27. But that doctrine clearly has no applicability here. As Judge Hufstedler put it, 'No one contends in this case that [the officer's] seizure of the envelope from Sedillo's pocket or the examination of the envelope's contents was necessary to protect the officer's person.' 496 F.2d, at 153.</p>
   </opinion>
 </case>

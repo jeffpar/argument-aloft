@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us009-0234.html" citation="9 U.S. 234" title="Taylor and Quarles v. Brown">
   <opinion type="Opinions &amp; Dissents">
     <n id="p234">234</n>
-    <h>U.S. Supreme Court</h>
-    <h>Taylor and Quarles v. Brown, 9 U.S. 234 (1809)</h>
-    <h>Taylor and Quarles v. Brown</h>
-    <h>9 U.S. (5 Cranch) 234</h>
-    <h>ERROR TO THE DISTRICT</h>
-    <h>COURT FOR KENTUCKY</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Taylor and Quarles v. Brown, 9 U.S. 234 (1809)</h1>
+    <h2>Taylor and Quarles v. Brown</h2>
+    <h2>9 U.S. (5 Cranch) 234</h2>
+    <h2>ERROR TO THE DISTRICT</h2>
+    <h2>COURT FOR KENTUCKY</h2>
+    <h2>Syllabus</h2>
     <p>The first survey, under a military land warrant in Virginia, gives the prior equity. The survey is the act of appropriation.</p>
     <p>The certificate of survey is sufficient evidence that the warrant was in the hands of the surveyors.</p>
     <p>That clause of the land law of Virginia which requires every survey to be recorded within two months after it is made is merely directory to the surveyor, and his neglect to record it does not invalidate the survey.</p>

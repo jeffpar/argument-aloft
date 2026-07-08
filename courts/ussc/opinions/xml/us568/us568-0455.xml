@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us568-0455.html" citation="568 U.S. 455" title="Amgen Inc. v. CT Ret. Plans &amp;amp; Trust Funds">
   <opinion type="Opinion" author="Ginsburg">
     <n id="p455">455</n>
     <p>NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 11–1085</p>
-    <p>_________________</p>
     <p>AMGEN INC., et al., PETITIONERS v. CONNECTICUT RETIREMENT PLANS AND TRUST FUNDS</p>
     <p>on writ of certiorari to the united states court of appeals for the ninth circuit</p>
     <p>[February 27, 2013]</p>
@@ -45,7 +44,7 @@
     <p>B</p>
     <p>Insisting that materiality must be proved at the class-certification stage, Amgen relies chiefly on two arguments, neither of which we find persuasive.[<a id="nf1-6" href="#fn1-6">6</a>]</p>
     <p>1</p>
-    <p>Amgen points first to our statement in Halliburton that “securities fraud plaintiffs must prove certain things in order to invoke Basic’s rebuttable presumption of reliance,” including “that the alleged misrepresentations were publicly known . . . , that the stock traded in an efficient market, and that the relevant transaction took place ‘between the time the misrepresentations were made and the time the truth was revealed.’ ” 563 U. S., at ___ (slip op., at 5–6) (quoting Basic, 485 U. S., at 248, n. 27). See also Dukes, 564 U. S., at ___, n. 6 (slip op., at 11, n. 6) (“[P]laintiffs seeking 23(b)(3) certification [of a securities-fraud class action] must prove that their shares were traded on an efficient market.”). If these fraud-on-the-market predicates must be proved before class certification, Amgen contends, materiality—another fraud-on-the-market predicate—should be treated no differently.</p>
+    <p>Amgen points first to our statement in Halliburton that “securities fraud plaintiffs must prove certain things in order to invoke Basic’s rebuttable presumption of reliance,” including “that the alleged misrepresentations were publicly known . . ., that the stock traded in an efficient market, and that the relevant transaction took place ‘between the time the misrepresentations were made and the time the truth was revealed.’ ” 563 U. S., at ___ (slip op., at 5–6) (quoting Basic, 485 U. S., at 248, n. 27). See also Dukes, 564 U. S., at ___, n. 6 (slip op., at 11, n. 6) (“[P]laintiffs seeking 23(b)(3) certification [of a securities-fraud class action] must prove that their shares were traded on an efficient market.”). If these fraud-on-the-market predicates must be proved before class certification, Amgen contends, materiality—another fraud-on-the-market predicate—should be treated no differently.</p>
     <p>We disagree. As an initial matter, the requirement that a putative class representative establish that it executed trades “between the time the misrepresentations were made and the time the truth was revealed” relates primarily to the Rule 23(a)(3) and (a)(4) inquiries into typicality and adequacy of representation, not to the Rule 23(b)(3) predominance inquiry. Basic, 485 U. S., at 248, n. 27.[<a id="nf1-7" href="#fn1-7">7</a>] A security’s market price cannot be affected by a misrepresentation not yet made, and in an efficient market, a misrepresentation’s impact on market price is quickly nullified once the truth comes to light. Thus, a plaintiff whose relevant transactions were not executed between the time the misrepresentation was made and the time the truth was revealed cannot be said to have indirectly relied on the misrepresentation through its reliance on the integrity of the market price.[<a id="nf1-8" href="#fn1-8">8</a>] Such a plaintiff’s claims, therefore, would not be “typical” of the claims of investors who did trade during the window between misrepresentation and truth revelation. Fed. Rule Civ. Proc. 23(a)(3). Nor could a court confidently conclude that such a plaintiff would “fairly and adequately protect the interests” of investors who traded during the relevant window. Rule 23(a)(4). The requirement that the fraud-on-the-market theory’s trade-timing predicate be established before class certification thus sheds little light on the question whether materiality must also be proved at the class-certification stage.</p>
     <p>Amgen is not aided by Halliburton’s statement that market efficiency and the public nature of the alleged misrepresentations must be proved before a securities-fraud class action can be certified. As Amgen notes, market efficiency, publicity, and materiality can all be proved on a classwide basis. Furthermore, they are all essential predicates of the fraud-on-the-market theory. Unless those predicates are established, there is no basis for presuming that the defendant’s alleged misrepresentations were reflected in the security’s market price, and hence no grounding for any contention that investors indirectly relied on those misrepresentations through their reliance on the integrity of the market price. But unlike materiality, market efficiency and publicity are not indispensable elements of a Rule 10b–5 claim. See Matrixx Initiatives, 563 U. S., at ___ (slip op., at 9) (listing elements of a Rule 10b–5 claim). Thus, where the market for a security is inefficient or the defendant’s alleged misrepresentations were not aired publicly, a plaintiff cannot invoke the fraud-on-the-market presumption. She can, however, attempt to establish reliance through the “traditional” mode of demonstrating that she was personally “aware of [the defendant’s] statement and engaged in a relevant transaction . . . based on that specific misrepresentation.” Halliburton, 563 U. S., at ___ (slip op., at 4). Individualized reliance issues would predominate in such a lawsuit. See Basic, 485 U. S., at 242. The litigation, therefore, could not be certified under Rule 23(b)(3) as a class action, but the initiating plaintiff’s claim would remain live; it would not be “dead on arrival.” 660 F. 3d, at 1175.</p>
     <p>A failure of proof on the issue of materiality, in contrast, not only precludes a plaintiff from invoking the fraud-on-the-market presumption of classwide reliance; it also establishes as a matter of law that the plaintiff cannot prevail on the merits of her Rule 10b–5 claim. Materiality thus differs from the market-efficiency and publicity predicates in this critical respect: While the failure of common, classwide proof on the issues of market efficiency and publicity leaves open the prospect of individualized proof of reliance, the failure of common proof on the issue of materiality ends the case for the class and for all indi- viduals alleged to compose the class. See Brief for United States as Amicus Curiae 20 (“Unless the failure of common proof gives rise to a need for individualized proof, it does not cast doubt on the propriety of class certification.”). In short, there can be no actionable reliance, individually or collectively, on immaterial information. Be- cause a failure of proof on the issue of materiality, unlike the issues of market efficiency and publicity, does not give rise to any prospect of individual questions overwhelming common ones, materiality need not be proved prior to Rule 23(b)(3) class certification.</p>
@@ -81,9 +80,7 @@
   </opinion>
   <opinion type="Concurrence" author="Alito">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 11–1085</p>
-    <p>_________________</p>
     <p>AMGEN INC., et al., PETITIONERS v. CONNECTICUT RETIREMENT PLANS AND TRUST FUNDS</p>
     <p>on writ of certiorari to the united states court of appeals for the ninth circuit</p>
     <p>[February 27, 2013]</p>
@@ -92,9 +89,7 @@
   </opinion>
   <opinion type="Dissent" author="Scalia">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 11–1085</p>
-    <p>_________________</p>
     <p>AMGEN INC., et al., PETITIONERS v. CONNECTICUT RETIREMENT PLANS AND TRUST FUNDS</p>
     <p>on writ of certiorari to the united states court of appeals for the ninth circuit</p>
     <p>[February 27, 2013]</p>
@@ -109,9 +104,7 @@
   </opinion>
   <opinion type="Dissent" author="Thomas">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 11–1085</p>
-    <p>_________________</p>
     <p>AMGEN INC., et al., PETITIONERS v. CONNECTICUT RETIREMENT PLANS AND TRUST FUNDS</p>
     <p>on writ of certiorari to the united states court of appeals for the ninth circuit</p>
     <p>[February 27, 2013]</p>

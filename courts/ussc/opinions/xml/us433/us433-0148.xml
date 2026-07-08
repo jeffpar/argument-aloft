@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us433-0148.html" citation="433 U.S. 148" title="Commissioner v. Standard Life &amp;amp; Acc. Ins. Co.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p148">148</n>
-    <h>U.S. Supreme Court</h>
-    <h>Commissioner v. Standard Life &amp; Acc. Ins. Co., <a href="./us433-0148.xml#p148">433 U.S. 148</a> (1977)</h>
-    <h>Commissioner v. Standard Life &amp; Accident Ins. Co.</h>
-    <h>No. 75-1771</h>
-    <h>Argued March 30, 1977</h>
-    <h>Decided June 23, 1977</h>
-    <h><a href="./us433-0148.xml#p148">433 U.S. 148</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE TENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Commissioner v. Standard Life &amp; Acc. Ins. Co., <a href="./us433-0148.xml#p148">433 U.S. 148</a> (1977)</h1>
+    <h2>Commissioner v. Standard Life &amp; Accident Ins. Co.</h2>
+    <h4>No. 75-1771</h4>
+    <h4>Argued March 30, 1977</h4>
+    <h4>Decided June 23, 1977</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE TENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>The "net valuation" portion of unpaid life insurance premiums (the portion state law requires a life insurance company to add to its reserve), but not the "loading" portion (the portion to be used to pay salesmen's commissions, other expenses such as state taxes and overhead, and profits), held required to be included in a life insurance company's assets and gross premium income, as well as in its reserves, for purposes of computing its federal income tax liability, notwithstanding such computation necessitates making a fictional assumption that the "net valuation" portion has been paid but that the "loading" portion has not. This treatment of unpaid premiums is in accordance with § 818(a) of the Internal Revenue Code of 1954 (as added by the Life Insurance Company Income Tax Act of 1959), which requires computations of a life insurance company's income taxes to be made</p>
     <p>"in a manner consistent with the manner required for purposes of the annual statement approved by the National Association of Insurance Commissioners,"</p>
     <p>unless the NAIC procedures are inconsistent with accrual accounting rules, and to the extent that the Treasury Regulations require different treatment of unpaid premiums they are inconsistent with § 818(a), and therefore invalid. Pp. <a href="./us433-0148.xml#p152">433 U. S. 152</a>-163.</p>
@@ -20,7 +20,7 @@
     <n id="p149">149</n>
     <p>MR. JUSTICE STEVENS delivered the opinion of the Court.</p>
     <p>In this case, for the second time this Term, we are required to construe the complex portion of the Internal Revenue Code concerning life insurance companies. [<a id="nf1" href="#fn1">Footnote 1</a>] The issue in this case is the extent to which deferred and uncollected life insurance premiums are includable in "reserves," "assets," and "gross premium income," as those concepts are used in the Life Insurance Company Income Tax Act of 1959. [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Premiums on respondent's policies are often payable in installments. If an installment is not paid when due, the policy will lapse, generally after a grace period. However, there is no legally enforceable duty to pay the premiums. An installment falling due between the end of the tax year and the policy's anniversary date is called a "deferred premium." In 1961, the most recent year in issue, respondent had $1,572,763 of deferred premiums. Pet. for Cert. 4a. An installment which is overdue at the end of the tax year is called an "uncollected premium" if the policy has not yet lapsed. In 1961, respondent had $231,969 of uncollected premiums. Ibid. For convenience, we shall refer to both deferred and uncollected premiums simply as "unpaid premiums."</p>
     <n id="p150">150</n>
     <p>The amount charged a policyholder -- the "gross premium" -- includes two components. Under state law, the company must add part of the premium to its reserves to ensure that it will have sufficient funds to pay death benefits. This amount, the "net valuation premium," is determined under mortality and interest assumptions. The rest of the gross premium is called "loading," and covers profits and expenses such as salesmen's commissions, state taxes, and overhead.</p>
@@ -33,7 +33,7 @@
     <p>Resolution of the problem before us requires some understanding of how reserves, assets, and premium income enter</p>
     <n id="p152">152</n>
     <p>into the calculation of a life insurance company's taxable income. We therefore begin with a summary of past legislation and of the method by which the tax is no calculated. We then turn to a discussion of § 818(a) and its application to this case.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Throughout the history of the federal income tax, Congress has taken the view that life insurance companies should not be taxed on the amounts collected for the purpose of paying death benefits. This basic theme has been implemented in different ways.</p>
     <p>A</p>
     <p>From 1913 to 1920, life insurance companies, like other companies, were taxed on their entire income, but were allowed a deduction for "the net addition . . . required by law to be made within the year to reserve funds. . . ." [<a id="nf6" href="#fn6">Footnote 6</a>] In that period, the Government first challenged, but then accepted, the industry practice of deducting additions to reserves based on unpaid premiums without taking those premiums into income. [<a id="nf7" href="#fn7">Footnote 7</a>]</p>
@@ -51,7 +51,7 @@
     <p>percentage which is essentially determined by the ratio of the company's reserves to its assets. [<a id="nf14" href="#fn14">Footnote 14</a>] An increase in reserves will therefore reduce the company's taxable investment income, whereas an increase in its assets will increase its tax.</p>
     <p>The company's "gain from operations" includes, in addition to its share of investment income, [<a id="nf15" href="#fn15">Footnote 15</a>] the "gross amount of premiums," § 809(c)(1). Obviously, if unpaid premiums are regarded as part of this gross amount, the company's gain from operations will be increased to that extent. Moreover, since a deduction is allowed for the net increase in reserves, § 809(d)(2), the contribution of unpaid premiums to the reserves diminishes the company's gain.</p>
     <n id="p157">157</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>In a sense, the case presents a question of timing. Respondent claims the right to treat unpaid premiums as creating reserves, and therefore a tax deduction, in one year, but wishes not to recognize the unfavorable tax consequences of increased "assets" and "premium income" until the year in which the premiums are actually paid. [<a id="nf16" href="#fn16">Footnote 16</a>] As the Commissioner forcefully argues, the respondent's position lacks symmetry, and the lack thereof redounds entirely to its benefit.</p>
     <p>A</p>
     <p>We start from the premise that unpaid premiums must be reflected in a life insurance company's reserves. [<a id="nf17" href="#fn17">Footnote 17</a>] This has been the consistent and unbroken practice since the inception of the federal income tax on life insurance companies in 1913. Moreover, the uniform practice of the States since before 1913 has been to require that reserves reflect unpaid premiums. State law is relevant to the statutory definition of reserves, since life insurance reserves generally must be required by state law in order to be recognized for tax purposes. § 801(b)(2). As a matter of state law, a genuine contingent liability exists, and must be reflected on the company's financial records. This liability has effects on the company's business which transcend its income tax consequences. [<a id="nf18" href="#fn18">Footnote 18</a>] In view of the critical importance of the definition of reserves in the entire statutory scheme, [<a id="nf19" href="#fn19">Footnote 19</a>] as well as in the</p>

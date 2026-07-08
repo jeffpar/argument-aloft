@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us442-0500.html" citation="442 U.S. 500" title="United States v. Helstoski">
   <opinion type="Opinions &amp; Dissents">
     <n id="p500">500</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Helstoski, <a href="./us442-0500.xml#p500">442 U.S. 500</a> (1979)</h>
-    <h>United States v. Helstoski</h>
-    <h>No. 78-546</h>
-    <h>Argued March 27, 1979</h>
-    <h>Decided June 18, 1979</h>
-    <h><a href="./us442-0500.xml#p500">442 U.S. 500</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE THIRD CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Helstoski, <a href="./us442-0500.xml#p500">442 U.S. 500</a> (1979)</h1>
+    <h2>United States v. Helstoski</h2>
+    <h2>No. 78-546</h2>
+    <h4>Argued March 27, 1979</h4>
+    <h4>Decided June 18, 1979</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE THIRD CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner, then a Member of Congress, was indicted in 1976 for conspiring to solicit and accept, and for soliciting and accepting, bribes in return for being influenced in the performance of official acts, namely, the introduction of certain private bills in the House of Representatives. He moved in District Court to dismiss the indictment on the ground, inter alia, that the indictment violated the Speech or Debate Clause of the Constitution because the grand jury had heard evidence of legislative acts, but the motion was denied. Thereafter, he petitioned the Court of Appeals for the Third Circuit for a writ of mandamus directing the District Court to dismiss the indictment. The court declined to issue the writ, holding that the indictment did not violate the Speech or Debate Clause.</p>
     <p>Held: Mandamus was not the appropriate means of challenging the validity of the indictment on the ground that it violated the Speech or Debate Clause. Direct appeal to the Court of Appeals was available, and was the proper course. Pp. <a href="./us442-0500.xml#p505">442 U. S. 505</a>-508.</p>
     <p>(a) Once the motion to dismiss the indictment was denied, there was nothing further petitioner could do under the Speech or Debate Clause in the trial court to prevent the trial, and an appeal of the ruling was clearly available. Cf. Abney v. United States, <a href="../us431/us431-0651.xml#p651">431 U. S. 651</a>. Pp. <a href="./us442-0500.xml#p506">442 U. S. 506</a>-507.</p>
@@ -27,7 +27,7 @@
     <p>MR. CHIEF JUSTICE BURGER delivered the opinion of the Court.</p>
     <p>The question in this case is whether mandamus is an appropriate means of challenging the validity of an indictment of a Member of Congress on the ground that it violates the Speech or Debate Clause of the Constitution. [<a id="nf1" href="#fn1">Footnote 1</a>] The Court of Appeals declined to issue the writ. We affirm.</p>
     <n id="p502">502</n>
-    <h>I</h>
+    <h2>I</h2>
     <p>Petitioner Helstoski served in the United States Congress from 1965 through 1976 as a Representative from New Jersey. In 1974, the Department of Justice began investigating reported political corruption, including allegations that aliens had paid money for the introduction and processing of private bills which would suspend the application of the immigration laws so as to allow them to remain in this country.</p>
     <p>In June, 1976, a grand jury returned a 12-count indictment charging Helstoski and others with various criminal acts. Only the first four counts are involved in this case. The first count charged that Helstoski and others had conspired to violate 18 U.S.C. § 201(c)(1) by accepting money in return for Helstoski's "being influenced in the performance of official acts, to-wit: the introduction of private bills in the United States House of Representatives." The charge recited 16 overt acts, 4 of which referred to the actual introduction of private bills; a 5th referred to an agreement to introduce a private bill. The entire conspiracy was charged as a violation of the general conspiracy statute, 18 U.S.C. § 371.</p>
     <p>Counts II, III, and IV were substantive counts charging violations of 18 U.S.C. §§ 201(c)(1) and (2):</p>
@@ -57,7 +57,7 @@
     <n id="p505">505</n>
     <p>acts, which he argued was in violation of the Speech or Debate Clause. The court declined to go behind the indictment, holding that it was valid on its face.</p>
     <p>In seeking reversal here of the Court of Appeals holding, Helstoski argues that the extraordinary remedy of mandamus is appropriate in this case to protect the constitutional command of separation of powers. He contends that the Speech or Debate Clause assigns exclusive jurisdiction over all legislative acts to Congress. The indictment itself, he urges, is a violation of that Clause, because it represents an impermissible assertion of jurisdiction over the legislative function by the grand jury and the federal courts. He challenges the validity of the indictment on two grounds. First, the indictment itself refers to legislative acts. Any attempt at restricting the proof at trial, as approved by the Court of Appeals, will amount to an amendment of the indictment, thereby violating a Fifth Amendment right to be tried only on an indictment in precisely the form issued by a grand jury. Second, he contends the Speech or Debate Clause was violated when the grand jury was allowed to consider evidence of his legislative acts notwithstanding that such evidence and testimony was presented by him.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Almost 100 years ago, this Court explained:</p>
     <p>"The general principle which governs proceedings by mandamus is that whatever can be done without the employment of that extraordinary writ may not be done with it. It lies only when there is practically no other remedy."</p>
     <p>Ex parte Rowland, <a href="../us104/us104-0604.xml#p604">104 U. S. 604</a>, <a href="../us104/us104-0604.xml#p617">104 U. S. 617</a> (1882) (emphasis added). More recently, we summarized certain considerations for determining whether the writ should issue:</p>

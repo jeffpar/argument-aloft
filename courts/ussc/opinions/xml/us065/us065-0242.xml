@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us065-0242.html" citation="65 U.S. 242" title="McEwen v. Den">
   <opinion type="Opinions &amp; Dissents">
     <n id="p242">242</n>
-    <h>U.S. Supreme Court</h>
-    <h>McEwen v. Den, 65 U.S. 242 (1860)</h>
-    <h>McEwen v. Den</h>
-    <h>65 U.S. (24 How.) 242</h>
-    <h>ERROR TO THE CIRCUIT COURT OF THE UNITED</h>
-    <h>STATES FOR THE EASTERN DISTRICT OF TENNESSEE</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>McEwen v. Den, 65 U.S. 242 (1860)</h1>
+    <h2>McEwen v. Den</h2>
+    <h2>65 U.S. (24 How.) 242</h2>
+    <h2>ERROR TO THE CIRCUIT COURT OF THE UNITED</h2>
+    <h2>STATES FOR THE EASTERN DISTRICT OF TENNESSEE</h2>
+    <h2>Syllabus</h2>
     <p>By the laws of Tennessee anterior to 1856, a deed for lands lying in Tennessee could not be acknowledged or proven in another state before the clerk of a court.</p>
     <p>In 1856, a law was passed allowing this to be done. This statute was prospective.</p>
     <p>The circumstance that the law of 1856 was called an amendment of the prior law does not change this view of the subject.</p>

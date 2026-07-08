@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us602-23-250.html" citation="602 U.S. 23-250" title="Becerra v. San Carlos Apache Tribe">
   <opinion type="Opinion" author="Roberts">
     <p>NOTICE: This opinion is subject to formal revision before publication in the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, pio@supremecourt.gov, of any typographical or other formal errors.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 23–250 and 23–253</p>
-    <p>_________________</p>
     <p>XAVIER BECERRA, SECRETARY OF HEALTH AND HUMAN SERVICES, et al., PETITIONERS</p>
     <p>23–250v.</p>
     <p>SAN CARLOS APACHE TRIBE</p>
@@ -82,9 +81,7 @@
   </opinion>
   <opinion type="Dissent" author="Kavanaugh">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 23–250 and 23–253</p>
-    <p>_________________</p>
     <p>XAVIER BECERRA, SECRETARY OF HEALTH AND HUMAN SERVICES, et al., PETITIONERS</p>
     <p>23–250v.</p>
     <p>SAN CARLOS APACHE TRIBE</p>

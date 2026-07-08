@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us466-0243.html" citation="466 U.S. 243" title="TWA v. Franklin Mint Corp.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p243">243</n>
-    <h>U.S. Supreme Court</h>
-    <h>TWA v. Franklin Mint Corp., <a href="./us466-0243.xml#p243">466 U.S. 243</a> (1984)</h>
-    <h>Trans World Airlines, Inc. v. Franklin Mint Corp.</h>
-    <h>No. 82-1186</h>
-    <h>Argued November 30, 1983</h>
-    <h>Decided April 17, 1984<a href="./us466-0243.xml#p243">466 U.S. 243</a>ast|&gt;*</h>
-    <h><a href="./us466-0243.xml#p243">466 U.S. 243</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE SECOND CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>TWA v. Franklin Mint Corp., <a href="./us466-0243.xml#p243">466 U.S. 243</a> (1984)</h1>
+    <h2>Trans World Airlines, Inc. v. Franklin Mint Corp.</h2>
+    <h2>No. 82-1186</h2>
+    <h4>Argued November 30, 1983</h4>
+    <h4>Decided April 17, 1984<a href="./us466-0243.xml#p243">466 U.S. 243</a>ast|&gt;*</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE SECOND CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>The Warsaw Convention (Convention), an international air carriage treaty that the United States ratified in 1934, sets a limit on an air carrier's liability for lost cargo at 250 gold French francs per kilogram, which sum may be converted into any national currency. In 1978, Congress repealed the Par Value Modification Act (PVMA), which set an "official" price of gold in the United States. Nevertheless, the Civil Aeronautics Board (CAB) continued to sanction the use of the last official price of gold as a conversion factor. As a result, a $9.07-per-pound limit of liability remained codified in the CAB regulations governing international air carriers' tariffs filed under the Federal Aviation Act of 1958. Franklin Mint Corp. brought suit in Federal District Court against Trans World Airlines (TWA) to recover damages in the amount of $250,000 for the loss in 1979 of packages containing numismatic materials delivered to TWA for transport from Philadelphia to London. The parties having stipulated that TWA was responsible for the loss, the only dispute was the extent of liability. The District Court ruled that, under the Convention, the liability was limited to $6,475.98, a figure derived from the weight of the packages, the Convention's liability limit, and the last official price of gold in the United States. The Court of Appeals affirmed, but also ruled that, 60 days from the issuance of the mandate, the Convention's liability limit would be unenforceable in the United States, since enforcement of the Convention required a factor for converting the liability limit into dollars, and there was no United States legislation specifying a factor to be used by United States courts.</p>
     <p>Held:</p>
     <p>1. The Convention's cargo liability limit remains enforceable in United States courts, and was not rendered unenforceable by the 1978 repeal of the PVMA. Pp. <a href="./us466-0243.xml#p251">466 U. S. 251</a>-253.</p>
@@ -27,13 +27,13 @@
     <n id="p245">245</n>
     <p>JUSTICE O'CONNOR delivered the opinion of the Court.</p>
     <p>The question presented in this litigation is whether an air carrier's declared liability limit of $9.07 per pound of cargo is inconsistent with the "Warsaw Convention" [<a id="nf1" href="#fn1">Footnote 1</a>] (Convention), an international air carriage treaty that the United States has ratified. As a threshold matter we must determine whether the 1978 repeal of legislation setting an "official" price of gold in the United States renders the Convention's gold-based liability limit unenforceable in this country. We conclude that the 1978 legislation was not intended to affect the enforceability of the Convention in the United States, and that a $9.07-per-pound liability limit is not inconsistent with the Convention.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In 1974, the Civil Aeronautics Board (CAB) informed international air carriers doing business in the United States that the minimum acceptable carrier liability limit for lost cargo would thenceforth be $9.07 per pound. Trans World Airlines, Inc. (TWA), has complied with the CAB order since that time. On March 23, 1979, Franklin Mint Corp. (Franklin</p>
     <n id="p246">246</n>
     <p>Mint) delivered four packages of numismatic materials with a total weight of 714 pounds to TWA for transportation from Philadelphia to London. Franklin Mint made no special declaration of value at the time of delivery. [<a id="nf2" href="#fn2">Footnote 2</a>] The packages were subsequently lost. Franklin Mint brought suit in United States District Court to recover damages in the amount of $250,000. The parties stipulated that TWA was responsible for the loss of the packages. The only dispute concerns the extent of TWA's liability.</p>
     <p>The District Court ruled that, under the Convention, TWA's liability was limited to $6,475.98, a figure derived from the weight of the packages, the liability limit set out in the Convention, and the last official price of gold in the United States. The Court of Appeals for the Second Circuit affirmed the judgment, but "rul[ed]" that, 60 days from the issuance of the mandate, the Convention's liability limit would be unenforceable in the United States. 690 F.2d 303 (1982).</p>
     <p>In a petition for certiorari to this Court, TWA challenged the Court of Appeals' declaration that the Convention's liability limit is prospectively unenforceable. In a cross-petition, Franklin Mint contended that the Court of Appeals' actual holding should have been retrospective as well. We granted both petitions, 462 U.S. 1118 (1983). We now conclude that the Convention's cargo liability limit remains enforceable in United States courts and that the CAB-sanctioned $9.07-per-pound liability limit is not inconsistent with the Convention. Accordingly, we affirm the judgment of the Court of Appeals, but reject its declaration that the Convention is prospectively unenforceable.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The Convention was drafted at international conferences in Paris in 1925, and in Warsaw in 1929. The United States</p>
     <n id="p247">247</n>
     <p>became a signatory in 1934. More than 120 nations now adhere to it. The Convention creates internationally uniform rules governing the air carriage of passengers, baggage, and cargo. Under Article 18, carriers are presumptively liable for the loss of cargo. Article 22 sets a limit on carrier liability:</p>
@@ -61,7 +61,7 @@
     <n id="p251">251</n>
     <p>applicable to 'international transportation' and 'international carriage' . . . [is $] 9.07 [per pound of cargo]. [<a id="nf19" href="#fn19">Footnote 19</a>]"</p>
     <p>Since 1978, the CAB has actively reviewed this $9.07-per-pound liability limit. [<a id="nf20" href="#fn20">Footnote 20</a>] As of 1979, however, the CAB continued to sanction the use of the last official price of gold -- $42.22 per ounce -- as a conversion factor. A CAB Order published on August 14, 1978, restated the CAB's position. [<a id="nf21" href="#fn21">Footnote 21</a>] The $9.07-per-pound limit remained codified in CAB regulations, see 14 CFR § 221.176 (1979), and CAB Order 74-1-16 was still in force. TWA, like other international carriers, remained subject to Order 74-1-16.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The most important issue raised by the parties is whether the 1978 repeal of the Par Value Modification Act rendered the Convention's cargo liability limit unenforceable in the United States. The Court of Appeals so declared, reasoning that (i) enforcement of the Convention requires a factor for converting the liability limit into dollars and (ii) there is no United States legislation specifying a factor to be used by United States courts. We do not accept this analysis.</p>
     <n id="p252">252</n>
     <p>There is, first, a firm and obviously sound canon of construction against finding implicit repeal of a treaty in ambiguous congressional action.</p>
@@ -74,7 +74,7 @@
     <p>Franklin Mint suggests that a treaty ceases to be binding when there has been a substantial change in conditions since its promulgation. [<a id="nf23" href="#fn23">Footnote 23</a>] A treaty is in the nature of a contract between nations. The doctrine of rebus sic stantibus does recognize that a nation that is party to a treaty might conceivably invoke changed circumstances as an excuse for terminating its obligations under the treaty. [<a id="nf24" href="#fn24">Footnote 24</a>] But when the parties to a treaty continue to assert its vitality, a private person who finds the continued existence of the treaty inconvenient may not invoke the doctrine on their behalf.</p>
     <p>For these reasons, the erosion of the international gold standard and the 1978 repeal of the Par Value Modification Act cannot be construed as terminating or repudiating the United States' duty to abide by the Convention's cargo liability limit. We conclude that the limit remains enforceable in United States courts.</p>
     <n id="p254">254</n>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>The Court of Appeals correctly recognized that the Convention's liability limit must be converted into dollars. This requirement derives not from the Convention itself -- the Convention merely permits such a conversion -- but from the tariff requirements of § 403(a) of the FAA. [<a id="nf25" href="#fn25">Footnote 25</a>] 49 U.S.C. § 1373(a).</p>
     <p>In 1979, when Franklin Mint's cargo was lost, TWA's tariffs set the carrier's cargo liability limit at $9.07 per pound. This tariff had been filed with and accepted by the CAB pursuant to § 403(a), and was squarely consistent with CAB Order 74-1-16. The $9.07-per-pound limit thus represented an Executive Branch determination, made pursuant to properly delegated authority, of the appropriate rate for converting the Convention's liability limits into United States dollars. We are bound to uphold that determination unless we find it to be contrary to law established by domestic legislation or by the Convention itself. [<a id="nf26" href="#fn26">Footnote 26</a>]</p>
     <n id="p255">255</n>
@@ -99,7 +99,7 @@
     <p>the Convention's terms, our task is to construe a "contract" among nations. The conduct of the contracting parties in implementing that contract in the first 50 years of its operation cannot be ignored.</p>
     <p>As of March 31, 1978, $9.07 per pound of cargo therefore represented a "correct" conversion of the Convention's liability limit into dollars. [<a id="nf35" href="#fn35">Footnote 35</a>] Though the purchasing power of the dollar has declined somewhat since then, the $9.07-per-pound liability limit, viewed in light of international practice, cannot be declared inconsistent with the purposes of the Convention and the shared understanding of its signatories.</p>
     <p>Moreover, tying the Convention's liability limit to the free market price of gold would no longer serve to maintain a constant value of carriers' liability. Since 1978, gold has been only "a volatile commodity, not related to a price index, or to the rate of inflation, or indeed to any meaningful economic measure. . . ." [<a id="nf36" href="#fn36">Footnote 36</a>] A liability limit tied to the gold market might be convenient for a dispatcher of gold bullion, but such a limit would simply force other air transport users and carriers to become unwilling speculators in the gold market. Whatever other purposes they may have had, the Convention's framers and signatories did not intend to adopt or agree to a liability limit that is fluid, uncertain, and altogether inconvenient. [<a id="nf37" href="#fn37">Footnote 37</a>] The Convention was intended to reduce, not to increase, the economic uncertainties of air transportation.</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>The political branches, which hold the authority to repudiate the Warsaw Convention, have given no indication that</p>
     <n id="p261">261</n>
     <p>they wish to do so. Accordingly, the Convention's cargo liability limit remains enforceable in the United States.</p>
@@ -229,7 +229,7 @@
       <p>The Court states that the Warsaw Convention's liability limitation remains enforceable in United States courts, but that is not what the Court holds. The Court holds that the liability limitation agreed upon by the Convention is not enforceable in United States courts. Rather, a liability limitation set by Trans World Airlines, and accepted by the Civil Aeronautics Board, is held to be enforceable in United States courts, because that limitation is deemed to correspond more closely to the Convention's "purposes" than the limitation</p>
       <n id="p262">262</n>
       <p>actually selected by the Convention itself. Thus, instead of enforcing the Convention's liability limitation, the Court has rewritten it.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>A treaty is essentially a contract between or among sovereign nations. See Washington v. Washington Commercial Passenger Fishing Vessel Assn., <a href="../us443/us443-0658.xml#p658">443 U. S. 658</a>, <a href="../us443/us443-0658.xml#p675">443 U. S. 675</a> (1979). General rules of construction apply to international agreements. See <a href="../us003/us003-0199.xml#p199">Ware v. Hylton</a>, 3 Dall.199, <a href="../us003/us003-0199.xml#p240">3 U. S. 240</a>-241 (1796) (opinion of Chase, J.). As with any written document, there</p>
       <p>"is a strong presumption that the literal meaning is the true one, especially as against a construction that is not interpretation, but perversion. . . ."</p>
       <p>The Five Per Cent. Discount Cases, <a href="../us243/us243-0097.xml#p97">243 U. S. 97</a>, <a href="../us243/us243-0097.xml#p106">243 U. S. 106</a> (1917). International agreements, like</p>
@@ -245,7 +245,7 @@
       <n id="p264">264</n>
       <p>extent which the parties have declared, and not otherwise. We are not at liberty to dispense with any of the conditions or requirements of the treaty, or take away any qualification or integral part of any stipulation, upon any notion of equity or general convenience, or substantial justice. The terms which the parties have chosen to fix, the forms which they have prescribed, and the circumstances under which they are to have operation rest in the exclusive discretion of the contracting parties, and, whether they belong to the essence or the modal parts of the treaty, equally give the rule to judicial tribunals. The same powers which have contracted are alone competent to change or dispense with any formality. The doctrine of a performance cy pres, so just and appropriate in the civil concerns of private persons, belongs not to the solemn compacts of nations so far as judicial tribunals are called upon to interpret or enforce them. We can as little dispense with forms as with substance."</p>
       <p><a href="../us019/us019-0001.xml#p1">The Amiable Isabella</a>, 6 Wheat. 1, <a href="../us019/us019-0001.xml#p71">19 U. S. 71</a>-73 (1821).</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>Two years after Charles Lindbergh captured the world's imagination by piloting the Spirit of St. Louis from New York to Paris, delegates from two dozen nations met in Warsaw and drafted an international agreement to encourage the establishment of a secure international civil aviation industry. The Warsaw Convention provided a uniform system of documentation for international flights, and, more significantly, a uniform limitation on international carriers' liability to passengers and shippers. International uniformity, naturally, was the touchstone of the Convention. See Preamble of Convention, note following 49 U.S.C. § 1502.</p>
       <p>Air transportation was then viewed as dangerous. The liability limitation was deemed necessary in order to enable air carriers "to attract capital that might otherwise be</p>
       <n id="p265">265</n>
@@ -297,7 +297,7 @@
       <p>Joint Resolution of June 5, 1933, 48 Stat. 113, 31 U.S.C. § 463(a) (1976 ed.). [Footnote 2/3] The important point is that there simply was no question as to the purpose and effect of such a clause, absent some valid exercise of governmental power over the currency to subvert it. It</p>
       <p>"calls for the payment of value in money, measured by a stated number of gold dollars of the standard defined in the clause. Feist v. Societe Intercommunale Belge d'Electricite, [1934] A. C. 161, 170-173; Serbian and Brazilian Bond Cases, P.C.I.J., series A. Nos. 20-21, pp. 32-34, 109-119. In the absence of any further exertion of governmental power, that obligation plainly could not be satisfied by payment of the same number of dollars, either specie or paper, measured by a gold dollar of lesser weight, regardless of their purchasing power or the state of our internal economy at the due date."</p>
       <p>Perry v. United States, <a href="../us294/us294-0330.xml#p330">294 U. S. 330</a>, <a href="../us294/us294-0330.xml#p358">294 U. S. 358</a>-359 (1935) (Stone, J., concurring); see also Norman v. Baltimore &amp; Ohio R. Co., <a href="../us294/us294-0240.xml#p240">294 U. S. 240</a> (1935); Nortz v. United States, <a href="../us294/us294-0317.xml#p317">294 U. S. 317</a> (1935); id. at <a href="../us294/us294-0330.xml#p364">294 U. S. 364</a> (McReynolds, J., dissenting) (gold clauses intended to afford definite standard or measure of value and thus guard against fluctuations in currency); see generally Guaranty Trust Co. v. Henwood, <a href="../us307/us307-0247.xml#p247">307 U. S. 247</a> (1939).</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>The United States did not participate in the Warsaw proceedings, though it did send an observer. The Aeronautics</p>
       <n id="p273">273</n>
       <p>Branch of the Commerce Department studied the Convention and communicated with United States air carriers, who universally gave it their strong support. Lowenfeld &amp; Mendelsohn, The United States and the Warsaw Convention, 80 Harv.L.Rev. 497, 502 (1967). The President submitted the Convention to the Senate in 1934, which gave its advice and consent by voice vote without committee hearings, committee reports, or floor debate. 78 Cong.Rec. 11582 (1934).</p>
@@ -318,7 +318,7 @@
       <p>J. Mill, Principles of Political Economy 486 (1936). Basically, TWA invites us to call a dime a dollar, in order to cancel</p>
       <n id="p277">277</n>
       <p>a debt of 80,000 dollars by the payment of 80,000 dimes. We should not accept that invitation.</p>
-      <h>IV</h>
+      <h2>IV</h2>
       <p>The approach of the Court to this litigation is quite different from mine. Rather than attempting to ascertain the intent of the Convention and then applying the liability limitation thought appropriate by the Convention, the Court considers its function to make one up, with the aid of the Civil Aeronautics Board, so long as its "choice" is "sufficiently consistent" with the broad "purposes" of the Convention. Ante at <a href="./us466-0243.xml#p256">466 U. S. 256</a>. [Footnote 2/6]</p>
       <n id="p278">278</n>
       <p>The purported textual basis in the Convention for the Court's freewheeling approach to this case is Article 22(4), which permits the sums of gold specified therein to be converted</p>
@@ -332,7 +332,7 @@
       <p>essence, the Court agrees with the rationale of the Court of Appeals: that the limit is unenforceable on grounds of frustration of purpose. The Court differs with the Court of</p>
       <n id="p282">282</n>
       <p>Appeals only in terms of the remedy. Whereas the Court of Appeals thought the appropriate remedy to be rescission of the agreement, the Court thinks the appropriate remedy is reformation of the agreement. Of course, if the premise of the Court is correct, and the liability limitation is unworkable in today's world, there is but one remedy: amendment of the Convention by the parties. [Footnote 2/10]</p>
-      <h>V</h>
+      <h2>V</h2>
       <p>Some students of the Court take for granted that our decisions represent the will of the judges, rather than the will of the law. [Footnote 2/11] This dogma may be the current fashion, but I remain convinced that such remarks reflect a profound misunderstanding of the nature of our work. Unfortunately, however, cynics -- parading under the banner of legal realism -- are given a measure of credibility whenever the Court bases a decision on its own notions of sound policy, rather</p>
       <n id="p283">283</n>
       <p>than on what the law commands. [Footnote 2/12] It does so today. [Footnote 2/13] The task of revising an international treaty is not one that this Court has any authority to perform. I respectfully dissent.</p>

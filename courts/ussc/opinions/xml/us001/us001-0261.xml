@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us001-0261.html" citation="1 U.S. 261" title="PHELPS v. HOLKER">
   <opinion type="Opinions &amp; Dissents">
     <n id="p261">261</n>
-    <h>U.S. Supreme Court</h>
-    <h>PHELPS v. HOLKER, <a href="./us001-0261.xml#p261">1 U.S. 261</a> (1788)</h>
-    <h> <a href="./us001-0261.xml#p261">1 U.S. 261</a> (Dall.)</h>
-    <h>Phelps et al. v. Holker et al.</h>
-    <h>Supreme Court of Pennsylvania</h>
-    <h>April Term, 1788</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>PHELPS v. HOLKER, <a href="./us001-0261.xml#p261">1 U.S. 261</a> (1788)</h1>
+    <h2>Phelps et al. v. Holker et al.</h2>
+    <h2>Supreme Court of Pennsylvania</h2>
+    <h4>April Term, 1788</h4>
     <p>A Foreign attachment issued in Hampshire county, in the State of Massachusetts, against the Defendants, to which the Sheriff made return, that 'he had attached one Blanket, shown to him as the reputed property of the Defendants;' and no appearance being entered, Judgment was given for the Plaintiff at the second Term. An action of debt was afterwards brought here, upon this Judgment, and a question stated for the opinion of the Court, to wit, 'whether the Judgment was conclusive evidence of the debt?'</p>
     <p>Ingersoll, for the Plaintiff. An action of debt lies upon Foreign Judgments; though, it is true, they are only prima facie evidence of the debt, and may be enquired into. Doug. 1. But the Judgment, upon which the present action is brought, cannot be considered as a foreign Judgment, for, it is the record of a Court of one of the States of the Union, and, as such, it is entitled to full faith and credit in each of them. Art. of Confed. art. 4.</p>
     <p>Bowie, for the Defendant. Judgments given in one State, are not made obligatory upon the Courts of another, by the Articles of Confederation; which only provide, that, in matters of evidence,</p>
@@ -28,7 +28,7 @@
     <p>Atlee, Justice.</p>
     <p>Concurred.</p>
     <p>By the Court: The Judgment obtained in the Court of the State of Massachusetts, in a Foreign attachment, between the same parties, is not conclusive evidence, in this cause, of the debt claimed by the Plaintiff.*</p>
-    <h>Footnotes</h>
+    <h2>Footnotes</h2>
     <p>[Footnote *] The accuracy of this decision will appear from the Journals of Congress, of the 12 of January 1777, when that honorable body was considering certain articles which were proposed to be added to the Confederation. To the clause, that 'full faith and credit shall be given in each of these States to the records, acts, and judicial proceedings of the Courts and Magistrates of every other State,' it was moved to add, 'and an action of debt may be commenced in a Court of law of any State for the recovery of a debt due on a judgment of any Court in any other State; provided the judgment creditor shall give bond with sufficient sureties before the said Court, in which the action shall be brought, to answer in damages to the adverse party, in case the original judgment shall be afterwards, revised and set aside, and provided the party against whom such judgment may have been obtained had notice in fact of the service of the original writ upon which such judgment shall be founded.' But this motion was rejected.</p>
   </opinion>
 </case>

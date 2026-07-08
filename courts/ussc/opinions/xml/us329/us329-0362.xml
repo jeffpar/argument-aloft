@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us329-0362.html" citation="329 U.S. 362" title="Illinois v. Campbell">
   <opinion type="Opinions &amp; Dissents">
     <n id="p362">362</n>
-    <h>U.S. Supreme Court</h>
-    <h>Illinois v. Campbell, <a href="./us329-0362.xml#p362">329 U.S. 362</a> (1946)</h>
-    <h>Illinois ex rel. Gordon v. Campbell</h>
-    <h>No. 35</h>
-    <h>Argued March 28, 1946</h>
-    <h>Reargued November 19, 1946</h>
-    <h>Decided December 23, 1946</h>
-    <h><a href="./us329-0362.xml#p362">329 U.S. 362</a></h>
-    <h>CERTIORARI TO THE SUPREME COURT OF ILLINOIS</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Illinois v. Campbell, <a href="./us329-0362.xml#p362">329 U.S. 362</a> (1946)</h1>
+    <h2>Illinois ex rel. Gordon v. Campbell</h2>
+    <h2>No. 35</h2>
+    <h4>Argued March 28, 1946</h4>
+    <h4>Reargued November 19, 1946</h4>
+    <h4>Decided December 23, 1946</h4>
+    <h2>CERTIORARI TO THE SUPREME COURT OF ILLINOIS</h2>
+    <h2>Syllabus</h2>
     <p>Having filed notice of a lien for state unemployment compensation taxes under Jones Ill.Stat.Ann., 1944, § 45.154, creating a lien "upon all the personal property" of an employer "used by him in connection with his . . . business," the state Director of Labor brought suit in a state court to enforce the lien, alleging that the employer was insolvent and that a creditor had obtained judgment and execution against him subsequent to the filing of notice of the lien. The court enjoined all creditors from interfering with the employer's property and appointed a receiver, who took charge of all his assets. Thereafter, the Collector of Internal Revenue filed claims on behalf of the United States for federal social security taxes</p>
     <n id="p363">363</n>
     <p>under § 1400 of the Internal Revenue Code and an intervening petition alleging that the debtor was insolvent, and claiming priority of payment. The receiver liquidated all of the debtors assets and realized less than enough to satisfy the claims of creditors.</p>
@@ -30,7 +30,7 @@
     <p>and that execution had issued on this judgment June 3, 1942, but that the interest of Associated Agencies was subordinate to that of the lien sought to be foreclosed. This</p>
     <p>"for the reason that the execution upon said judgment was issued long after notice of the lien of the Director of Labor was recorded with the Recorder of Deeds. [<a id="nf2" href="#fn2">Footnote 2</a>]"</p>
     <p>The Director alleged further upon information and belief that the Chicago Waste and Textile Company was insolvent, and that</p>
-    <p>"the personal property subject to the lien herein being foreclosed is scant security for the debt due the Director of Labor . . . , and that, unless a receiver be appointed for all of said property pending a full and complete hearing upon the issues herein, the plaintiff will suffer financial loss and said property will be wasted."</p>
+    <p>"the personal property subject to the lien herein being foreclosed is scant security for the debt due the Director of Labor . . ., and that, unless a receiver be appointed for all of said property pending a full and complete hearing upon the issues herein, the plaintiff will suffer financial loss and said property will be wasted."</p>
     <p>Granting the immediate relief requested, the Circuit Court enjoined all creditors of the Chicago Waste and Textile Company from interfering with the property of the company, whether by judicial action [<a id="nf3" href="#fn3">Footnote 3</a>] or otherwise, and also appointed a receiver "for the property of the Chicago Waste and Textile Company."</p>
     <p>Subsequently, respondent, the Collector of Internal Revenue for the First District of Illinois, filed claims on behalf of the United States amounting to $1,954.07 plus interest. Of this amount, $522.91 was for federal insurance contribution taxes and $1,431.16 was for federal unemployment taxes. Of the federal insurance contribution taxes, $229.91 represented employees' taxes, see Helvering v. Davis, <a href="../us301/us301-0619.xml#p619">301 U. S. 619</a>, collected by the employer under statutory</p>
     <n id="p366">366</n>
@@ -40,7 +40,7 @@
     <p>Illinois ex rel. Gordon v. United States, <a href="../us328/us328-0008.xml#p8">328 U. S. 8</a>, held that, in circumstances which called into application Rev.Stat. § 3466, 31 U.S.C. § 191, the claims of the United States for federal insurance contributions taxes under Title 8 of the Social Security Act, 49 Stat. 620, 636, and for federal unemployment compensation taxes under Title 9 of the Social Security Act, 49 Stat. at 639, had priority over claims of Illinois for taxes under its Unemployment</p>
     <n id="p367">367</n>
     <p>Compensation Act. [<a id="nf5" href="#fn5">Footnote 5</a>] That decision is controlling, of course, upon the same feature of this case, although the federal insurance contributions taxes claimed by the United States arise under the 1939 amendments of the Social Security Act, rather than, as in the case last term, under the original act itself. Compare §§ 801, 802, 804, 807(c) of the original Social Security Act, 49 Stat. 620, with §§ 1400, 1401, 1410, and 1430 of the Internal Revenue Code, 53 Stat. 175 as amended by 53 Stat. 1381.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>But the state urges that § 3466 does not apply in the facts of this case. This argument, as well as another -- that the lien of the state was so specific and perfected as to defeat the priority, if any, of the United States under Rev.Stat. § 3466 -- must be met before the case can be affirmed on the authority of Illinois ex rel. Gordon v. United States, supra.</p>
     <p>Rev.Stat. § 3466 provides:</p>
     <p>"Whenever any person indebted to the United States is insolvent, or whenever the estate of any deceased debtor, in the hands of the executors or</p>
@@ -60,7 +60,7 @@
     <n id="p370">370</n>
     <p>for, when its property was liquidated, there was not enough to satisfy the claims of the two contesting creditors at the bar.</p>
     <p>Thus, the fifth act of bankruptcy was committed, and, in consequence, the United States has the benefit of the priority given it by Rev.Stat. § 3466. We therefore turn to the argument of the state that the specificity of its lien defeated this priority.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The United States was given the priority now incorporated in Rev.Stat. § 3466, in 1797, 1 Stat. 515. [<a id="nf9" href="#fn9">Footnote 9</a>] See also the discussion in Price v. United States, <a href="../us269/us269-0492.xml#p492">269 U. S. 492</a>, <a href="../us269/us269-0492.xml#p500">269 U. S. 500</a>-501. Yet the Court has never decided whether the priority is overcome by a fully perfected and specific lien. See Rogee, The Differences in the Priority of the United States in Bankruptcy and in Equity Receiverships (1929), 41 Harv.L.Rev. 251, 267-270. The question, however, has been reserved many times in express terms. See <a href="../us026/us026-0386.xml#p386">Conard v. Atlantic Insurance Co.</a>, 1 Pet. 386, <a href="../us026/us026-0386.xml#p442">26 U. S. 442</a>; <a href="../us035/us035-0596.xml#p596">Brent v. Bank of Washington</a>, 10 Pet. 596, <a href="../us035/us035-0596.xml#p611">35 U. S. 611</a>-612; Spokane County v. United States, <a href="../us279/us279-0080.xml#p80">279 U. S. 80</a>, <a href="../us279/us279-0095.xml#p95">279 U. S. 95</a>; New York v. Maclay, <a href="../us288/us288-0290.xml#p290">288 U. S. 290</a>, <a href="../us288/us288-0294.xml#p294">288 U. S. 294</a>; United States v. Texas, <a href="../us314/us314-0480.xml#p480">314 U. S. 480</a>, <a href="../us314/us314-0480.xml#p485">314 U. S. 485</a>-486. United States v. Waddill, Holland &amp; Flinn Co., <a href="../us323/us323-0353.xml#p353">323 U. S. 353</a>, <a href="../us323/us323-0353.xml#p355">323 U. S. 355</a>. [<a id="nf10" href="#fn10">Footnote 10</a>] And again we need not decide it,</p>
     <n id="p371">371</n>
     <p>for we are of the opinion that the Illinois lien was not sufficiently specific or perfected, in the purview of controlling decisions, to defeat the Government's priority.</p>

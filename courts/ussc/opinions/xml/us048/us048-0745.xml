@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us048-0745.html" citation="48 U.S. 745" title="McDonald v. Hobson">
   <opinion type="Opinions &amp; Dissents">
     <n id="p745">745</n>
-    <h>U.S. Supreme Court</h>
-    <h>McDonald v. Hobson, 48 U.S. 745 (1849)</h>
-    <h>McDonald v. Hobson</h>
-    <h>48 U.S. (7 How.) 745</h>
-    <h>ERROR TO THE CIRCUIT COURT OF THE</h>
-    <h>UNITED STATES FOR THE DISTRICT OF OHIO</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>McDonald v. Hobson, 48 U.S. 745 (1849)</h1>
+    <h2>McDonald v. Hobson</h2>
+    <h2>48 U.S. (7 How.) 745</h2>
+    <h2>ERROR TO THE CIRCUIT COURT OF THE</h2>
+    <h2>UNITED STATES FOR THE DISTRICT OF OHIO</h2>
+    <h2>Syllabus</h2>
     <p>Where the complainant and respondent in a suit in chancery entered into a mutual covenant, that, pending the suit, they would divide the money between them in certain proportions and that if, in the said suit, it should be decreed that these were not the correct proportions, they would respectively pay the difference so as to conform to the decree, and the result of said suit was a dismissal of the complainant's bill with costs, and the respondent brought an action of covenant against the complainant, reciting the agreement in his declaration with an averment that, by virtue of the decree of dismissal, he was entitled to receive a certain sum of money, this declaration was bad.</p>
     <p>The agreement looked to a judicial determination of the rights of the parties in some court of law or equity, and the declaration omits all averment that these rights had been so settled.</p>
     <p>The decree of dismissal did not of itself prove that the complainant owed the respondent anything. It only proved that the respondent was not indebted to the complainant.</p>

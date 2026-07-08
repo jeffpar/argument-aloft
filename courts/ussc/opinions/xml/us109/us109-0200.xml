@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us109-0200.html" citation="109 U.S. 200" title="United States v. Gibbons">
   <opinion type="Opinions &amp; Dissents">
     <n id="p200">200</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Gibbons, <a href="./us109-0200.xml#p200">109 U.S. 200</a> (1883)</h>
-    <h>United States v. Gibbons</h>
-    <h>Argued October 23 1883</h>
-    <h>Decided November 12, 1883</h>
-    <h><a href="./us109-0200.xml#p200">109 U.S. 200</a></h>
-    <h>APPEAL FROM THE COURT OF CLAIMS</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Gibbons, <a href="./us109-0200.xml#p200">109 U.S. 200</a> (1883)</h1>
+    <h2>United States v. Gibbons</h2>
+    <h4>Argued October 23 1883</h4>
+    <h4>Decided November 12, 1883</h4>
+    <h2>APPEAL FROM THE COURT OF CLAIMS</h2>
+    <h2>Syllabus</h2>
     <p>1. Where the language of a contract is susceptible of two meanings, the court will infer the intention of the parties and their relative rights and obligations from the circumstances attending the transaction.</p>
     <p>2. The parties contracted for the rebuilding of a shop at the Norfolk Navy Yard, which had been destroyed by fire. The specifications provided that</p>
     <p>"the foundation and the brick walls now standing that were uninjured by the fire will remain and will be carried up to the height designated in the plan by new work."</p>

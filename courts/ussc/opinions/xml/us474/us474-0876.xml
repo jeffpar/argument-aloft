@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us474-0876.html" citation="474 U.S. 876" title="PATTEN v. FLORIDA">
   <opinion type="Opinions &amp; Dissents">
     <n id="p876">876</n>
-    <h>U.S. Supreme Court</h>
-    <h>PATTEN v. FLORIDA , <a href="./us474-0876.xml#p876">474 U.S. 876</a> (1985)</h>
-    <h> <a href="./us474-0876.xml#p876">474 U.S. 876</a></h>
-    <h>Robert PATTEN v. FLORIDA. No. 84-6873</h>
-    <h>Supreme Court of the United States</h>
-    <h>October 7, 1985</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>PATTEN v. FLORIDA, <a href="./us474-0876.xml#p876">474 U.S. 876</a> (1985)</h1>
+    <h2>Robert PATTEN v. FLORIDA. No. 84-6873</h2>
+    <h2>Supreme Court of the United States</h2>
+    <h4>October 7, 1985</h4>
     <p>On petition for writ of certiorari to the Supreme Court of Florida.</p>
     <p>The petition for writ of certiorari is denied.</p>
     <p>Justice BRENNAN dissenting:</p>
@@ -25,7 +25,7 @@
     <p>effect of the Missouri jury's decision for life that was considered in Bullington, the recommendation is presumed final, subject to reversal only where "virtually no reasonable person could differ."</p>
     <p>Because a Florida jury's life recommendation is not completely final, this Court has held that the Double Jeopardy Clause does not bar the judge's override of a jury's life recommendation. Spaziano v. Florida, supra. However, where a defendant is deprived of the benefits of a jury's life recommendation without any subsequent finding by the trial judge that that recommendation was "clear[ly] and convincing[ly]" unreasonable, I believe there to be a double jeopardy bar to the State's demand that the defendant convince yet another jury that he does not deserve to die. If not held unreasonable, a jury's life recommendation should end a Florida defendant's jeopardy as surely as a life verdict ended that of the Missouri defendant in Bullington.</p>
     <p>Petitioner was deprived of a jury's life recommendation without any court having found that advisory verdict unreasonable. Under Florida law, a 6-to-6 vote is a life recommendation. See Rose v. State, supra, at 525. When the trial judge received the jury's note indicating that it was deadlocked 6 to 6, there was therefore nothing left for him to do but recall the jury and apply the Tedder standard to its life recommendation. I can scarcely believe that the trial judge would have overridden such a recommendation in this case; had he done so, he doubtless would have been reversed on appeal. [<a id="nf2" href="#fn2">Footnote 2</a>] But instead, the trial judge altered the verdict by giving an Allen charge. Then, even while holding the judge to have erred in giving the charge, the Florida Supreme Court proceeded to disregard the fact that the jury's deadlock was a finding for defendant on the issue of death. The Supreme Court's decision to remand was not based upon any finding that a life sentence was unreasonable. The Supreme Court remanded only because the jury's report of a 6-to-6 deadlock had not been contained in a formal recommendation. Since I do not believe that this adherence to formalism is consistent with the double jeopardy concerns implicated by the Supreme Court's demand that petitioner convince yet another jury that he does not deserve to die, I must dissent from this Court's refusal to hear this case.</p>
-    <h>Footnotes</h>
+    <h2>Footnotes</h2>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>
       <p>Allen v. United States, <a href="../us164/us164-0492.xml#p492">164 U.S. 492</a>, 501-502, 157 (1896).</p>
     </f>

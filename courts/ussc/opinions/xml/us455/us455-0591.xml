@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us455-0591.html" citation="455 U.S. 591" title="Sumner v. Mata">
   <opinion type="Opinions &amp; Dissents">
     <n id="p591">591</n>
-    <h>U.S. Supreme Court</h>
-    <h>Sumner v. Mata, <a href="./us455-0591.xml#p591">455 U.S. 591</a> (1982)</h>
-    <h>Sumner v. Mata</h>
-    <h>No. 81-844</h>
-    <h>Decided March 22, 1982</h>
-    <h><a href="./us455-0591.xml#p591">455 U.S. 591</a></h>
-    <h>ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES</h>
-    <h>COURT OF APPEALS FOR THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Sumner v. Mata, <a href="./us455-0591.xml#p591">455 U.S. 591</a> (1982)</h1>
+    <h2>Sumner v. Mata</h2>
+    <h2>No. 81-844</h2>
+    <h4>Decided March 22, 1982</h4>
+    <h2>ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES</h2>
+    <h2>COURT OF APPEALS FOR THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Title 28 U.S.C. § 2254(d) requires federal courts in habeas corpus proceedings to accord a presumption of correctness to state court findings of fact unless specified factors are present. In earlier proceedings in this case, this Court held that the Court of Appeals had not followed § 2254(d) in concluding -- contrary to the California Court of Appeal's decision on respondent's appeal from his state murder conviction -- that pretrial photographic lineup procedures used by the state police were so impermissibly suggestive as to deprive respondent of due process. The case was remanded so that the federal court could review its determination and either apply the statutory presumption of correctness of the state court findings or explain why the presumption did not apply in light of the factors listed in § 2254(d). The Court of Appeals then concluded that § 2254(d) was irrelevant in this case because its findings of fact did not differ from those of the state court, the disagreement being over the constitutional significance of certain facts. It reinstated its conclusion that the pretrial procedures were impermissibly suggestive and that respondent therefore was entitled to release or a new trial.</p>
     <p>Held: The case must be remanded again. The ultimate question as to the constitutionality of the pretrial identification procedures is a mixed question of law and fact that is not governed by § 2254(d). In deciding this question, the federal courts may give different weight to the facts as found by the state court, and may reach a different conclusion in light of the legal standard. However, the questions of fact that underlie this ultimate conclusion are governed by the statutory presumption. Thus, the circumstances of the pretrial identification procedures in this case present questions of fact as to which the statutory presumption applies. The Court of Appeals should either apply the presumption or explain why it is not applicable in view of the factors listed in the statute.</p>
     <p>Certiorari granted; 649 F.2d 713, vacated and remanded.</p>
@@ -18,7 +18,7 @@
     <p>This is the second time that this matter has come before us. In Sumner v. Mata, <a href="../us449/us449-0539.xml#p539">449 U. S. 539</a> (1981), decided last Term, we held that 28 U.S.C. § 2254(d) requires federal courts in</p>
     <n id="p592">592</n>
     <p>habeas proceedings to accord a presumption of correctness to state court findings of fact. This requirement could not be plainer. The statute explicitly provides that</p>
-    <p>"a determination after a hearing on the merits of a factual issue, made by a State court of competent jurisdiction . . . , shall be presumed to be correct."</p>
+    <p>"a determination after a hearing on the merits of a factual issue, made by a State court of competent jurisdiction . . ., shall be presumed to be correct."</p>
     <p>Only when one of seven specified factors is present or the federal court determines that the state court finding of fact "is not fairly supported by the record" may the presumption properly be viewed as inapplicable or rebutted. [<a id="nf1" href="#fn1">Footnote 1</a>]</p>
     <p>We held further that the presumption of correctness is</p>
     <n id="p593">593</n>
@@ -82,7 +82,7 @@
       <p>In dissent, JUSTICE BRENNAN argued that there was no conflict between the facts as found by the state court and as found by the Court of Appeals. He argued that the California court's finding that the witnesses had an opportunity to view the killing was not in conflict with a finding by the Court of Appeals that the witnesses were "quite likely" distracted at the time of the killing. He argued further that the California court's finding that the descriptions given by the witnesses were "accurate" was not in conflict with a finding that these descriptions were not detailed. Finally, the dissent appears to have considered that the existence of influence by prison officials was a not a question of fact, but of law. 449 U.S. at <a href="../us449/us449-0539.xml#p556">449 U. S. 556</a>. It is obvious that a majority of the Court did not find this reasoning persuasive. On our remand, the Court of Appeals apparently adopted JUSTICE BRENNAN's dissenting views. See 649 F.2d 713, 716 (CA9 1981).</p>
     </f>
     <f n="7"><a id="fn7" href="#nf7">Footnote 7</a>
-      <p>"Lest the reviewing court 'be left to guess' as to our reasons for granting habeas relief notwithstanding the provisions of § 2254(d), we reiterate: as our original analysis indicates . . . , we substantially agree with the 'historical' or 'basic' facts adduced by the California Court of Appeal Fifth Appellate District. . . . We disagree, however, with the application of the Simmons standard . . . to the totality of the circumstances of this case."</p>
+      <p>"Lest the reviewing court 'be left to guess' as to our reasons for granting habeas relief notwithstanding the provisions of § 2254(d), we reiterate: as our original analysis indicates . . ., we substantially agree with the 'historical' or 'basic' facts adduced by the California Court of Appeal Fifth Appellate District. . . . We disagree, however, with the application of the Simmons standard . . . to the totality of the circumstances of this case."</p>
       <p>Id. at 717.</p>
     </f>
     <f n="8"><a id="fn8" href="#nf8">Footnote 8</a>

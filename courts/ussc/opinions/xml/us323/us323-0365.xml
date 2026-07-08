@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us323-0365.html" citation="323 U.S. 365" title="McKenzie v. Irving Trust Co.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p365">365</n>
-    <h>U.S. Supreme Court</h>
-    <h>McKenzie v. Irving Trust Co., <a href="./us323-0365.xml#p365">323 U.S. 365</a> (1945)</h>
-    <h>McKenzie v. Irving Trust Co.</h>
-    <h>No. 188</h>
-    <h>Argued December 14, 1944</h>
-    <h>Decided January 8, 1945</h>
-    <h><a href="./us323-0365.xml#p365">323 U.S. 365</a></h>
-    <h>CERTIORARI TO THE COURT OF APPEALS OF NEW YORK</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>McKenzie v. Irving Trust Co., <a href="./us323-0365.xml#p365">323 U.S. 365</a> (1945)</h1>
+    <h2>McKenzie v. Irving Trust Co.</h2>
+    <h2>No. 188</h2>
+    <h4>Argued December 14, 1944</h4>
+    <h4>Decided January 8, 1945</h4>
+    <h2>CERTIORARI TO THE COURT OF APPEALS OF NEW YORK</h2>
+    <h2>Syllabus</h2>
     <p>1. The purpose of the Assignment of Claims Act of October 9, 1940, 54 Stat. 1029, is the protection of the Government, and not the regulation of equities of claimants as between themselves. P. <a href="./us323-0365.xml#p369">323 U. S. 369</a>.</p>
     <p>2. For the purpose of determining whether a transfer is a preference under § 60a of the Bankruptcy Act, that section provides that the transfer shall be deemed to have been made</p>
     <p>"when it became so far perfected that no bona fide purchaser from the debtor and no creditor could thereafter have acquired any rights in the property so transferred superior to the rights of the transferee therein."</p>
@@ -66,7 +66,7 @@
     </f>
     <f n="3"><a id="fn3" href="#nf3">Footnote 3</a>
       <p>The Court of Appeals said, 292 N.Y. 347, 358-359:</p>
-      <p>"The test under the statute as amended in 1938 is, as I have said, whether no 'bona fide purchaser from the debtor and no creditor could thereafter have acquired any rights in the property so transferred superior to the rights of the transferee therein.' The 'standards which applicable state law would enforce against a good faith purchaser' for value or against a creditor must be applied here. . . . It is unnecessary to decide . . . whether a purchaser for value or a creditor could have obtained any rights in the moneys until they were paid to the contractor and the check mailed to the [respondent] on November 27th. It seems clear that, at least from that time, the transfer was perfected. . . . [From] the time that the check was deposited in the mail . . . , delivery of the moneys to the assignee was complete."</p>
+      <p>"The test under the statute as amended in 1938 is, as I have said, whether no 'bona fide purchaser from the debtor and no creditor could thereafter have acquired any rights in the property so transferred superior to the rights of the transferee therein.' The 'standards which applicable state law would enforce against a good faith purchaser' for value or against a creditor must be applied here. . . . It is unnecessary to decide . . . whether a purchaser for value or a creditor could have obtained any rights in the moneys until they were paid to the contractor and the check mailed to the [respondent] on November 27th. It seems clear that, at least from that time, the transfer was perfected. . . . [From] the time that the check was deposited in the mail . . ., delivery of the moneys to the assignee was complete."</p>
     </f>
   </opinion>
 </case>

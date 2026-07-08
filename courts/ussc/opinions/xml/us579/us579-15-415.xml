@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us579-15-415.html" citation="579 U.S. 15-415" title="Encino Motorcars, LLC v. Navarro">
   <opinion type="Opinion" author="Kennedy">
     <p>NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 15–415</p>
-    <p>_________________</p>
     <p>ENCINO MOTORCARS, LLC, PETITIONER v.HECTOR NAVARRO, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the ninth circuit</p>
     <p>[June 20, 2016]</p>
@@ -27,7 +26,7 @@
     <p>B</p>
     <p>Petitioner is a Mercedes-Benz automobile dealership in the Los Angeles area. Respondents are or were employed by petitioner as service advisors. They assert that petitioner required them to be at work from 7 a.m. to 6 p.m. at least five days per week, and to be available for work matters during breaks and while on vacation. App. 39–40. Respondents were not paid a fixed salary or an hourly wage for their work; instead, they were paid commissions on the services they sold. Id., at 40–41.</p>
     <p>Respondents sued petitioner in the United States District Court for the Central District of California, alleging that petitioner violated the FLSA by failing to pay them overtime compensation when they worked more than 40 hours in a week. Id., at 42–44. Petitioner moved to dismiss, arguing that the FLSA overtime provisions do not apply to respondents because service advisors are covered by the statutory exemption in §213(b)(10)(A). The District Court agreed and granted the motion to dismiss.</p>
-    <p>The Court of Appeals for the Ninth Circuit reversed in relevant part. It construed the statute by deferring under Chevron U. S. A. Inc. v. Natural Resources Defense Council, Inc., 467 U. S. 837 (1984) , to the interpretation set forth by the Department in its 2011 regulation. Applying that deference, the Court of Appeals held that service advisors are not covered by the §213(b)(10)(A) exemption. 780 F. 3d 1267 (2015). The Court of Appeals recognized, however, that its decision conflicted with cases from a number of other courts. Id., at 1274 (citing, inter alia, Walton v. Greenbrier Ford, Inc., 370 F. 3d 446 (CA4 2004); Deel Motors, 475 F. 2d 1095; Thompson v. J. C. Billion, Inc., 368 Mont. 299, 294 P. 3d 397 (2013)). This Court granted certiorari to resolve the question. 577 U. S. ___ (2016).</p>
+    <p>The Court of Appeals for the Ninth Circuit reversed in relevant part. It construed the statute by deferring under Chevron U. S. A. Inc. v. Natural Resources Defense Council, Inc., 467 U. S. 837 (1984), to the interpretation set forth by the Department in its 2011 regulation. Applying that deference, the Court of Appeals held that service advisors are not covered by the §213(b)(10)(A) exemption. 780 F. 3d 1267 (2015). The Court of Appeals recognized, however, that its decision conflicted with cases from a number of other courts. Id., at 1274 (citing, inter alia, Walton v. Greenbrier Ford, Inc., 370 F. 3d 446 (CA4 2004); Deel Motors, 475 F. 2d 1095; Thompson v. J. C. Billion, Inc., 368 Mont. 299, 294 P. 3d 397 (2013)). This Court granted certiorari to resolve the question. 577 U. S. ___ (2016).</p>
     <p>II</p>
     <p>A</p>
     <p>The full text of the statutory subsection at issue states that the overtime provisions of the FLSA shall not apply to:</p>
@@ -49,9 +48,7 @@
   </opinion>
   <opinion type="Concurrence" author="Ginsburg">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 15–415</p>
-    <p>_________________</p>
     <p>ENCINO MOTORCARS, LLC, PETITIONER v.HECTOR NAVARRO, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the ninth circuit</p>
     <p>[June 20, 2016]</p>
@@ -64,14 +61,12 @@
   </opinion>
   <opinion type="Dissent" author="Thomas">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 15–415</p>
-    <p>_________________</p>
     <p>ENCINO MOTORCARS, LLC, PETITIONER v.HECTOR NAVARRO, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the ninth circuit</p>
     <p>[June 20, 2016]</p>
     <p>Justice Thomas, with whom Justice Alito joins, dissenting.</p>
-    <p>The Court granted this case to decide whether an exemption under the Fair Labor Standards Act (FLSA), 29 U. S. C. §201 et seq., “requires payment of increased compensation to certain automobile dealership employees”— known as service advisors—“for overtime work.” Ante, at 1; see also ante, at 2, 7. The majority declines to resolve that question. Instead, after explaining why the Court owes no deference to the Department of Labor’s regulation purporting to interpret this provision, see Chevron U. S. A. Inc. v. Natural Resources Defense Council, Inc., 467 U. S. 837, 843 (1984) , the majority leaves it “for the Court of Appeals to interpret the statute in the first instance.” Ante, at 12.</p>
+    <p>The Court granted this case to decide whether an exemption under the Fair Labor Standards Act (FLSA), 29 U. S. C. §201 et seq., “requires payment of increased compensation to certain automobile dealership employees”— known as service advisors—“for overtime work.” Ante, at 1; see also ante, at 2, 7. The majority declines to resolve that question. Instead, after explaining why the Court owes no deference to the Department of Labor’s regulation purporting to interpret this provision, see Chevron U. S. A. Inc. v. Natural Resources Defense Council, Inc., 467 U. S. 837, 843 (1984), the majority leaves it “for the Court of Appeals to interpret the statute in the first instance.” Ante, at 12.</p>
     <p>I agree with the majority’s conclusion that we owe no Chevron deference to the Department’s position because “deference is not warranted where [a] regulation is ‘procedurally defective.’ ” Ante, at 8. But I disagree with its ultimate decision to punt on the issue before it. We have an “obligation . . . to decide the merits of the question presented.” CBOCS West, Inc. v. Humphries, 553 U. S. 442, 472 (2008) (Thomas, J., dissenting). We need not wade into the murky waters of Chevron deference to decide whether the Ninth Circuit’s reading of the statute was correct. We must instead examine the statutory text. That text reveals that service advisors are salesmen primarily engaged in the selling of services for automobiles. Accordingly, I would reverse the Ninth Circuit’s judgment. Federal law requires overtime pay for certain employees who work more than 40 hours per week. §207(a)(2)(C). But the FLSA exempts various categories of employees from this overtime requirement. §213. The question before the Court is whether the following exemption encompasses service advisors:</p>
     <p>“The provisions of section 207 of this title shall not apply with respect to—</p>
     <p>. . . . . “(10)(A) any salesman, partsman, or mechanic primarily engaged in selling or servicing automobiles, trucks, or farm implements, if he is employed by a nonmanufacturing establishment primarily engaged in the business of selling such vehicles or implements to ultimate purchasers.” §213(b).</p>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us376-0375.html" citation="376 U.S. 375" title="A. L. Mechling Barge Lines, Inc. v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p375">375</n>
-    <h>U.S. Supreme Court</h>
-    <h>A. L. Mechling Barge Lines, Inc. v. United States, <a href="./us376-0375.xml#p375">376 U.S. 375</a> (1964)</h>
-    <h>A. L. Mechling Barge Lines, Inc. v. United States</h>
-    <h>No. 58</h>
-    <h>Argued February 18, 1964</h>
-    <h>Decided March 23, 1964<a href="./us376-0375.xml#p375">376 U.S. 375</a>ast|&gt;*</h>
-    <h><a href="./us376-0375.xml#p375">376 U.S. 375</a></h>
-    <h>APPEAL FROM THE UNITED STATES DISTRICT COURT</h>
-    <h>FOR THE NORTHERN DISTRICT OF ILLINOIS</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>A. L. Mechling Barge Lines, Inc. v. United States, <a href="./us376-0375.xml#p375">376 U.S. 375</a> (1964)</h1>
+    <h2>A. L. Mechling Barge Lines, Inc. v. United States</h2>
+    <h2>No. 58</h2>
+    <h4>Argued February 18, 1964</h4>
+    <h4>Decided March 23, 1964<a href="./us376-0375.xml#p375">376 U.S. 375</a>ast|&gt;*</h4>
+    <h2>APPEAL FROM THE UNITED STATES DISTRICT COURT</h2>
+    <h2>FOR THE NORTHERN DISTRICT OF ILLINOIS</h2>
+    <h2>Syllabus</h2>
     <p>The Interstate Commerce Commission (ICC), after a hearing, issued an order permitting appellee railroad to depart from the long- and short-haul restrictions of § 4 of the Interstate Commerce Act. The ICC refused to pass on: the contention of the appellant Board of Trade that the proposed rail rates discriminated against Chicago grain merchants and processors (§ 3(1) of the Act); appellant barge line's contention that the rates discriminated between connecting carriers (§ 3(4) of the Act); and the claim that the rates were not just and reasonable (§ 1(5) of the Act). Nor did the ICC make a direct finding, despite appellants' insistence, that the railroad's new rate structure did not violate the National Transportation Policy. The District Court approved the action of the Commission.</p>
     <p>Held: Appellants' claims that the proposed rail rates violated other sections of the Act and were contrary to the National Transportation Policy were ripe for adjudication, and should have been considered in the § 4 proceeding; the ICC's failure to consolidate the issues and reach the merits of the several contentions could only result in manifest inequities, potential windfalls to some carriers, and contravention of the National Transportation Policy. Pp. <a href="./us376-0375.xml#p376">376 U. S. 376</a>-388.</p>
     <p>209 F. Supp. 744 reversed and remanded.</p>
@@ -20,7 +20,7 @@
     <p>This direct appeal from a final judgment of a three-judge District Court is but another episode in the long and continued struggle between the railroads and competing barge lines. In 1960, the Interstate Commerce Commission issued an order permitting a departure from the long- and short-haul provision of § 4 of the Interstate</p>
     <n id="p377">377</n>
     <p>Commerce Act. [<a id="nf1" href="#fn1">Footnote 1</a>] 310 I.C.C. 437. This order permitted the New York Central and connecting carriers to inaugurate a rate structure on its Belt Line west of Kankakee, Illinois, to eastern destinations under which lower rates were charged for some long hauls than for shorter ones on the same route. The District Court approved this action by dismissing a complaint to set aside the order. 209 F. Supp. 744. We noted probable jurisdiction, 374 U.S. 823, and now reverse the judgment with directions that the District Court vacate the order of the Commission and remand for further consideration in light of this opinion.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The New York Central operates the Kankakee Belt Line, which extends from South Bend, Indiana, through Kankakee, Illinois, and westward to Zearing, Illinois. That portion of the line west of Kankakee to Moronts, Illinois, roughly parallels the Illinois River in Northern Illinois, and is used in large part to transport corn toward eastern markets. In the mid-1930's, the Illinois River was developed for barge movement, and almost all of the corn</p>
     <n id="p378">378</n>
     <p>traffic was drawn away from the rails to the river, corn being moved to Chicago by barge and then shipped to the East by rail. [<a id="nf2" href="#fn2">Footnote 2</a>] Prior to 1957, barge rates from ports along the Illinois River to Chicago averaged 4.625� per hundred pounds of corn. [<a id="nf3" href="#fn3">Footnote 3</a>] From Chicago to eastern destinations, rail rates were 49� per hundred pounds of corn and 49.5� for corn products, so that the total shipping cost from ports on the Illinois River to the East was 53.625� for corn and 54.125� for corn products. At the same time, rates for shipping corn via all-rail routes from origins on the Belt Line to eastern markets averaged 72� for corn and 72.5� for corn products, computed either as through rates or as a combination of a 23� rail rate to Chicago and the 49� or 49.5� rate from Chicago to the East.</p>
@@ -39,7 +39,7 @@
     <p>We have concluded that there is error in the holding in two respects: (1) The Commission should have passed upon the questions raised and evidence offered that the rates violated other sections of the Act; (2) the Commission</p>
     <n id="p382">382</n>
     <p>erred in failing to specifically consider and pass upon the question of whether the rates violated the National Transportation Policy.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Contentions were made and proof was offered by the Chicago Board of Trade of discriminatory violations of § 3(1) of the Act, especially discrimination against whole corn by the "milling in transit" limitation. Under the conclusion of the Examiner that the fourth section application should be denied, it was not necessary to pass upon the § 3(1) contention. However, when the Commission took the opposite view on the § 4 application, the claim under § 3(1) was ripe for decision. The Commission found that,</p>
     <p>"[a]lthough the New York Central intends to remove the 'milling in transit' limitation, these issues do not directly deal with the fourth section principles here involved, but are properly matters which may be raised in investigation or complaint proceedings."</p>
     <p>310 I.C.C. 437, 451.</p>
@@ -64,7 +64,7 @@
     <p>54 Stat. 899, 49 U.S.C., note preceding § 1.</p>
     <n id="p386">386</n>
     <p>We do not say that such a rule of consolidation is an absolute. Many of these applications are filed each year, and the Commission summarily disposes of the majority of them. Certainly, where issues are not raised or brought to adversary position, there is no need to consolidate. Likewise, where consolidation would inordinately delay the § 4 proceeding, good administration would require its denial. However, in the instant case, we see no practical reason why the merits of the several contentions should not have been reached. [<a id="nf14" href="#fn14">Footnote 14</a>] To require the parties to begin anew, and thus spawn several cases, all of which might have been easily disposed of in the § 4 proceeding, needlessly subjects appellants' claims to the rigors of circumlocution so deadly to effective administrative and judicial processes. This proceeding is now in its seventh year -- during all of which period, the rate under attack has been in force -- and, still, basic questions as to the validity of the rate have not been considered by the Commission.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The Examiner entered a finding, which is uncontested, that the proportional rate here under attack did not cover the out-of-pocket costs of the railroad. In spite of this finding, the Commission gave little, if any, consideration to any resulting violation of the National Transportation Policy. There is no economic analysis, no expert testimony, no supporting data. Instead, the Commission found that the through rate, which it</p>
     <n id="p387">387</n>
     <p>thought compensatory, rather than the Belt Line proportional rate, was controlling. Viewed in this manner, the Commission determined that the rate was not a destructively competitive practice. However, it supported this conclusion only with passing references to the first-year experience under the rate of two Illinois elevators and 10 Illinois River ports. One of the elevators had experienced no adverse effects from the rate while the other had lost some grain grown closer to the Belt Line. The 10 ports experienced about a 23% larger corn shipment to Chicago, but the proportion of this increase to the whole grain movement is not shown. Nevertheless, the Commission concluded from this</p>

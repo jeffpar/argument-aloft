@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us409-1095.html" citation="409 U.S. 1095" title="WELLS v. EDWARDS">
   <opinion type="Opinions &amp; Dissents">
     <n id="p1095">1095</n>
-    <h>U.S. Supreme Court</h>
-    <h>WELLS v. EDWARDS , <a href="./us409-1095.xml#p1095">409 U.S. 1095</a> (1973)</h>
-    <h> <a href="./us409-1095.xml#p1095">409 U.S. 1095</a></h>
-    <h>Betty WELLS v. Edwin EDWARDS et al. No. 72-621.</h>
-    <h>Supreme Court of the United States</h>
-    <h>January 8, 1973</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>WELLS v. EDWARDS, <a href="./us409-1095.xml#p1095">409 U.S. 1095</a> (1973)</h1>
+    <h2>Betty WELLS v. Edwin EDWARDS et al. No. 72-621.</h2>
+    <h2>Supreme Court of the United States</h2>
+    <h4>January 8, 1973</h4>
     <p>The judgment is affirmed.</p>
     <p>Mr. Justice WHITE, with whom Mr. Justice DOUGLAS and Mr. Justice MARSHALL join, dissenting.</p>
     <p>The Louisiana constitutional provisions, which this Court today upholds against appellant's renewed constitutional attack, provide for the election of the State's Supreme Court Justices from election districts that are established without regard to population. Voters in five districts, composed of varying numbers of parishes, elect one justice each. A sixth district elects two justices. La. Const., Art. VII, 9. The record before the District Court indicated that there was 'considerable deviation between the population of some of the [election] districts,' 347 F.Supp., at 454,1 and that, therefore, the votes of some qualified voters, depending on the happenstance of residence, were of less value in electing justices than others, cast elsewhere. But the District Court refused even to consider this evidence and, relying on a few isolated sentences in Hadley v. Junior College District, <a href="../us397/us397-0050.xml#p50">397 U.S. 50</a> (1970), concluded that 'the concept of one-man, one-vote apportionment does not apply to the judicial branch of the government.' 347 F.Supp., at 454. Summary judgment was entered against appellant, who had attacked the Louisiana scheme under the Equal Protection Clause of the Fourteenth Amendment.</p>
@@ -23,7 +23,7 @@
     <p>'[W]hile the office of junior college trustee differs in certain respects from those offices considered in prior cases, it is exactly the same in the one crucial factor-these officials are elected by popular vote.</p>
     <p>'When a court is asked to decide whether a State is required by the Constitution to give each qualified voter the same power in an election open to all, there is no discernible, valid reason why constitutional distinctions should be drawn on the basis of the purpose of the election. If one person's vote is given less weight through unequal apportionment, his right to equal voting participation is impaired just as much when he votes for a school board member as when he votes for a state legislator. While there are differences in the powers of different officials, the crucial consideration is the right of each qualified voter to participate on an equal footing in the election process. It should be remembered that in cases like this one we are asked by voters to insure that they are given equal treatment, and from their perspective the harm from unequal treatment is the same in any election, regardless of the officials selected.'</p>
     <p>The judgment of the District Court is questionable under a decade of this Court's decisions. It as least warrants plenary review here.</p>
-    <h>Footnotes</h>
+    <h2>Footnotes</h2>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>
       <p>The record indicates that in 1970 the election districts ranged in population from 369,485 to 682,072. The two-justice district had a total population of 1,007,449.</p>
     </f>

@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us066-0038.html" citation="66 U.S. 38" title="Bacon v. Hart">
   <opinion type="Opinions &amp; Dissents">
     <n id="p38">38</n>
-    <h>U.S. Supreme Court</h>
-    <h>Bacon v. Hart, 66 U.S. 38 (1861)</h>
-    <h>Bacon v. Hart</h>
-    <h>66 U.S. (1 Black) 38</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Bacon v. Hart, 66 U.S. 38 (1861)</h1>
+    <h2>Bacon v. Hart</h2>
+    <h2>66 U.S. (1 Black) 38</h2>
+    <h2>Syllabus</h2>
     <p>1. Where a writ of error is taken to the district court, but no citation served on the defendant in error agreeably to the act of 1789, the writ will, on motion, be dismissed for want of jurisdiction.</p>
     <p>2. A service of the citation on the attorney or counsel of the defendant in error is sufficient.</p>
     <p>3. But where the attorney of record is dead, it will not do to serve it on his executrix or other personal representative.</p>

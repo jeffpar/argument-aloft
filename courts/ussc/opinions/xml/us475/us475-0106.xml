@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us475-0106.html" citation="475 U.S. 106" title="New York v. Class">
   <opinion type="Opinions &amp; Dissents">
     <n id="p106">106</n>
-    <h>U.S. Supreme Court</h>
-    <h>New York v. Class, <a href="./us475-0106.xml#p106">475 U.S. 106</a> (1986)</h>
-    <h>New York v. Class</h>
-    <h>No. 84-1181</h>
-    <h>Argued November 4, 1985</h>
-    <h>Decided February 25, 1986</h>
-    <h><a href="./us475-0106.xml#p106">475 U.S. 106</a></h>
-    <h>CERTIORARI TO THE COURT OF APPEALS OF NEW YORK</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>New York v. Class, <a href="./us475-0106.xml#p106">475 U.S. 106</a> (1986)</h1>
+    <h2>New York v. Class</h2>
+    <h2>No. 84-1181</h2>
+    <h4>Argued November 4, 1985</h4>
+    <h4>Decided February 25, 1986</h4>
+    <h2>CERTIORARI TO THE COURT OF APPEALS OF NEW YORK</h2>
+    <h2>Syllabus</h2>
     <p>When two New York City police officers observed respondent driving above the speed limit in a car with a cracked windshield, both traffic violations under New York law, they stopped him. He then emerged from the car and approached one of the officers. The other officer opened the car door to look for the Vehicle Identification Number (VIN), which is located on the left doorjamb in pre-1969 automobiles. When the officer did not find the VIN on the doorjamb, he reached into the car's interior to move some papers obscuring the area of the dashboard where the VIN is located on later model automobiles. In doing so, the officer saw the handle of a gun protruding from underneath the driver's seat and seized the gun. Respondent was then arrested. After the state trial court denied a motion to suppress the gun as evidence, respondent was convicted of criminal possession of a weapon. The Appellate Division of the New York Supreme Court upheld the conviction, but the New York Court of Appeals reversed, holding that, in the absence of any justification for the search of respondent's car besides the traffic violations, the search was prohibited and the gun must accordingly be excluded from evidence.</p>
     <p>Held:</p>
     <p>1. The New York Court of Appeals' decision did not rest on an adequate and independent state ground, so as to deprive this Court of jurisdiction. The Court of Appeals' opinion, which mentions the New York Constitution only once and then in direct conjunction with the Federal Constitution, and which makes use of both federal and New York cases in its analysis, lacks the requisite "plain statement" that it rests on state grounds. Moreover, in determining that the search in question was prohibited, the court looked to the Federal Constitution, and not to a state statute that authorizes officers to demand that drivers reveal their VIN, merely holding that that statute provided no justification for a search. Pp. <a href="./us475-0106.xml#p109">475 U. S. 109</a>-110.</p>
@@ -23,7 +23,7 @@
     <p>O'CONNOR, J., delivered the opinion of the Court, in which BURGER, C.J., and BLACKMUN, POWELL, and REHNQUIST, JJ., joined, and in Part II of which BRENNAN, MARSHALL, and STEVENS, JJ., joined. POWELL, J., filed a concurring opinion, in which BURGER, C.J., joined, post, p. <a href="./us475-0106.xml#p120">475 U. S. 120</a>. BRENNAN, J., filed an opinion concurring in part and dissenting in part, in which MARSHALL and STEVENS, JJ., joined, post, p. <a href="./us475-0106.xml#p122">475 U. S. 122</a>. WHITE, J., filed a dissenting opinion, in which STEVENS, J., joined, post, p. <a href="./us475-0106.xml#p131">475 U. S. 131</a>.</p>
     <p>JUSTICE O'CONNOR delivered the opinion of the Court.</p>
     <p>In this case, we must decide whether, in order to observe a Vehicle Identification Number (VIN) generally visible from outside an automobile, a police officer may reach into the passenger compartment of a vehicle to move papers obscuring the VIN after its driver has been stopped for a traffic violation and has exited the car. We hold that, in these circumstances, the police officer's action does not violate the Fourth Amendment.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>On the afternoon of May 11, 1981, New York City police officers Lawrence Meyer and William McNamee observed respondent</p>
     <n id="p108">108</n>
     <p>Benigno Class driving above the speed limit in a car with a cracked windshield. Both driving with a cracked windshield and speeding are traffic violations under New York law. See N.Y.Veh. &amp; Traf.Law §§ 375(22), 1180(d) (McKinney 1970). Respondent followed the officers' ensuing directive to pull over. Respondent then emerged from his car and approached Officer Meyer. Officer McNamee went directly to respondent's vehicle. Respondent provided Officer Meyer with a registration certificate and proof of insurance, but stated that he had no driver's license.</p>
@@ -33,7 +33,7 @@
     <n id="p109">109</n>
     <p>information and it exposed . . . hidden areas" of the car, and "therefore constituted a search." 63 N.Y.2d 491, 495, 472 N.E.2d 1009, 1011 (1984). Although it recognized that a search for a VIN generally involves a minimal intrusion because of its limited potential locations, and agreed that there is a compelling law enforcement interest in positively identifying vehicles involved in accidents or automobile thefts, the court thought it decisive that the facts of this case "reveal no reason for the officer to suspect other criminal activity [besides the traffic infractions] or to act to protect his own safety." Id. at 495-496, 472 N.E.2d at 1012. The state statutory provision that authorizes officers to demand that drivers reveal their VIN "provided no justification for the officer's entry of [respondent's] car." Id. at 497, 472 N.E.2d at 1013. If the officer had taken advantage of that statute and asked to see the VIN, respondent could have moved the papers away himself, and no intrusion would have occurred. In the absence of any justification for the search besides the traffic infractions, the New York Court of Appeals ruled that the gun must be excluded from evidence.</p>
     <p>We granted certiorari, 471 U.S. 1003 (1985), and now reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Respondent asserts that this Court is without jurisdiction to hear this case because the decision of the New York Court of Appeals rests on an adequate and independent state ground. We disagree.</p>
     <p>The opinion of the New York Court of Appeals mentions the New York Constitution but once, and then only in direct conjunction with the United States Constitution. 63 N.Y.2d at 493, 472 N.E.2d at 1010. Cf. Michigan v. Long, <a href="../us463/us463-1032.xml#p1032">463 U. S. 1032</a>, <a href="../us463/us463-1032.xml#p1043">463 U. S. 1043</a> (1983). The opinion below makes use of both federal and New York cases in its analysis, generally citing both for the same proposition. See, e.g., 63 N.Y.2d at 494, 495, 472 N.E.2d at 1011. The opinion lacks the requisite "plain statement" that it rests on state grounds.</p>
     <n id="p110">110</n>
@@ -42,7 +42,7 @@
     <p>463 U.S. at <a href="../us463/us463-1032.xml#p1040">463 U. S. 1040</a>-1041. See also California v. Carney, <a href="../us471/us471-0386.xml#p386">471 U. S. 386</a>, <a href="../us471/us471-0386.xml#p389">471 U. S. 389</a>, n. 1 (1985).</p>
     <p>Respondent's claim that the opinion below rested on independent and adequate state statutory grounds is also without merit. The New York Court of Appeals did not hold that § 401 of New York's Vehicle and Traffic Law prohibited the search at issue here, but, in rejecting an assertion of petitioner, merely held that § 401 "provided no justification" for a search. 63 N.Y.2d at 497, 472 N.E.2d at 1013 (emphasis added). In determining that the police officer's action was prohibited, the court below looked to the Federal Constitution, not the State's statute. Moreover, New York adheres to the general rule that, when statutory construction can resolve a case, courts should not decide constitutional issues. See Ashwander v. TVA, <a href="../us297/us297-0288.xml#p288">297 U. S. 288</a>, <a href="../us297/us297-0288.xml#p346">297 U. S. 346</a>-347 (1936) (Brandeis, J., concurring); In re Peters v. New York City Housing Authority, <a href="https://law.justia.com/cases/new-york/court-of-appeals/1954/307-n-y-519-0.html">307 N.Y. 519</a>, 527, 121 N.E.2d 529, 531 (1954). Since the New York Court of Appeals discussed both statutory and constitutional grounds, we may infer that the court believed the statutory issue insufficient to resolve the case. The discussion of the statute therefore could not have constituted an independent and adequate state ground.</p>
     <n id="p111">111</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>A</p>
     <p>The officer here, after observing respondent commit two traffic violations and exit the car, attempted to determine the VIN of respondent's automobile. In reaching to remove papers obscuring the VIN, the officer intruded into the passenger compartment of the vehicle.</p>
     <p>The VIN consists of more than a dozen digits, unique to each vehicle and required on all cars and trucks. See 49 CFR § 571.115 (1984). The VIN is roughly analogous to a serial number, but it can be deciphered to reveal not only the place of the automobile in the manufacturer's production run but also the make, model, engine type, and place of manufacture of the vehicle. See § 565.4.</p>
@@ -108,14 +108,14 @@
     <p>* I do not suggest, of course, that the Fourth Amendment is inapplicable in this context. An officer may not use VIN inspection as a pretext for searching a vehicle for contraband or weapons. Nor may the officer undertake an entry more extensive than reasonably necessary to remove any obstruction and read the VIN.</p>
     <p>JUSTICE BRENNAN, with whom JUSTICE MARSHALL and JUSTICE STEVENS join, concurring in part and dissenting in part.</p>
     <p>I agree that the decision of the New York Court of Appeals does not rest on an adequate and independent state ground, see Michigan v. Long, <a href="../us463/us463-1032.xml#p1032">463 U. S. 1032</a>, 1043 (1983), and therefore join <a href="./us475-0106.xml#p109">475 U. S.</a> I also agree that the police conducted a search of respondent's vehicle to inspect the Vehicle Identification Number (VIN). Ante at <a href="./us475-0106.xml#p114">475 U. S. 114</a>-115. However, I disagree that this search was constitutionally permissible, and to that extent respectfully dissent.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The facts bear repetition. Officers Meyer and McNamee pulled respondent over after observing him commit minor traffic violations. Respondent emerged from his car, closed the door, and joined Officer Meyer at the rear of the vehicle. Respondent gave Officer Meyer his car registration certificate and proof of insurance, but did not have a driver's license. Meanwhile, without first examining the documents, and unaware that respondent had no driver's license, Officer McNamee opened the door of the car to look for the VIN on the doorjamb and, not finding it there, reached inside to remove papers obstructing his view of the VIN on the dashboard. While doing so, McNamee saw a gun handle protruding from underneath the driver's seat. Respondent was arrested, and eventually convicted, for criminal possession</p>
     <n id="p123">123</n>
     <p>of a weapon. He was issued summonses for his traffic violations.</p>
     <p>McNamee conducted the search even though</p>
     <p>"[i]t is undisputed that the police officers had no reason to suspect that respondent's car was stolen, that it contained contraband, or that respondent had committed an offense other than the traffic violations."</p>
     <p>Ante at <a href="./us475-0106.xml#p108">475 U. S. 108</a>.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The Fourth Amendment guarantees the "right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures."</p>
     <p>"This fundamental right is preserved by a requirement that searches be conducted pursuant to a warrant issued by an independent judicial officer."</p>
     <p>California v. Carney, <a href="../us471/us471-0386.xml#p386">471 U. S. 386</a>, <a href="../us471/us471-0386.xml#p390">471 U. S. 390</a> (1985). While we have found no Fourth Amendment violation in certain warrantless police searches of cars, see, e.g., Carroll v. United States, <a href="../us267/us267-0132.xml#p132">267 U. S. 132</a> (1925), this narrow exception "applies only to searches of vehicles that are supported by probable cause." United States v. Ross, <a href="../us456/us456-0798.xml#p798">456 U. S. 798</a>, <a href="../us456/us456-0798.xml#p809">456 U. S. 809</a> (1982).</p>
@@ -139,7 +139,7 @@
     <p>The Court supplies not an iota of reasoning to support the holding that respondent's traffic infractions gave the police probable cause to search for the VIN. The Court is content simply to conclude that "the governmental interest in highway safety served by obtaining the VIN is of the first order." Ante at <a href="./us475-0106.xml#p118">475 U. S. 118</a>. Although I agree that the government has a strong interest in promoting highway safety, see Delaware v. Prouse, supra, at <a href="../us440/us440-0648.xml#p658">440 U. S. 658</a>, I fail to see just how the VIN search conducted here advanced that interest. Despite the Court's lengthy exposition on the variety of safety-related purposes served by the VIN, [<a id="nf2" href="#fn2">Footnote 2</a>] respondent's car was not searched to further any of the identified interests. If the officers intended to identify what they considered to be an "unsafe" vehicle, that could have been done without searching respondent's car. Thus, the mere fact that the State utilizes the VIN in conjunction with regulations designed to promote</p>
     <n id="p127">127</n>
     <p>highway safety does not give the police a reason to search for such information every time a motorist violates a traffic law. [<a id="nf3" href="#fn3">Footnote 3</a>] Absent some reason to search for the VIN, the government's admittedly strong interest in promoting highway safety cannot validate the intrusion resulting from the search of respondent's vehicle.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The Court, relying on Pennsylvania v. Mimms, supra, and Michigan v. Summers, <a href="../us452/us452-0692.xml#p692">452 U. S. 692</a> (1981), next attempts to support its holding on the ground that,</p>
     <p>"[i]n light of the danger to the officers' safety [that would be] presented by returning respondent immediately to his car [to uncover the VIN,] the search to obtain the VIN was not prohibited by the Fourth Amendment."</p>
     <p>Ante at 475 U.S. 116. Neither cited decision supports this argument.</p>
@@ -150,7 +150,7 @@
     <p>"[t]o have returned respondent immediately to the automobile [to clear the papers on the dashboard obscuring the VIN] would have placed the officers in the same situation that the holding in Mimms allows officers to avoid."</p>
     <p>Ante at 475 U.S. 116. Again, the Court forgets that the police, with no reason to search the interior, had no reason to return respondent to his car. Thus, the State's interest in protecting officer safety cannot validate the search.</p>
     <p>Of course, if the officers had reasonable grounds to suspect that the traffic stop presented a threat to their safety, they would have been authorized to search respondent's vehicle for weapons. See Michigan v. Long, 463 U.S. at <a href="../us463/us463-1032.xml#p1051">463 U. S. 1051</a>. However, neither officer ever suggested that the situation posed any danger, and the court below specifically found that the facts "reveal no reason for the officer[s] . . . to act to protect [their] own safety." 63 N.Y.2d at 496, 472 N.E.2d at 1012. In the absence of even the slightest suspicion of danger, the search of respondent's car cannot be justified on grounds of officer safety.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>Finally, the Court finds that "[t]he critical' issue of the intrusiveness of the Government's action . . . also here weighs in favor of allowing the search." Ante at <a href="./us475-0106.xml#p118">475 U. S. 118</a>. The Court's effort to minimize the extent of the intrusion, see ante at <a href="./us475-0106.xml#p118">475 U. S. 118</a>-119, won't wash. Officer McNamee clearly searched respondent's car by opening the door and reaching into the passenger compartment to remove papers from the dashboard. Even if he did not engage in a full-scale excavation, this search exposed areas of the passenger compartment not visible</p>
     <n id="p129">129</n>
     <p>from outside the vehicle.</p>
@@ -170,7 +170,7 @@
       <p>Indeed, the facts of this case belie any suggestion that the VIN search was needed positively to identify respondent's vehicle. Officer McNamee did not wait to see respondent's vehicle registration certificate before he started to search respondent's car, and did not record the VIN he found in order to compare it with other identifying documents.</p>
     </f>
     <f n="2"><a id="fn2" href="#nf2">Footnote 2</a>
-      <p>The Court notes that "[t]he ease with which the VIN allows identification of a particular vehicle assists the various levels of government in many ways." Ante at <a href="./us475-0106.xml#p111">475 U. S. 111</a>. As examples, the Court explains that "the VIN improves the efficacy of recall campaigns," "assists researchers in determining the risks of driving various makes and models of automobiles," helps to "reduc[e] the number of those injured in accidents who go uncompensated for lack of insurance," ensures "that automobile operators are driving safe vehicles," and "[b]y making automobile theft more difficult . . . , safeguards not only property but also life and limb." Ibid.</p>
+      <p>The Court notes that "[t]he ease with which the VIN allows identification of a particular vehicle assists the various levels of government in many ways." Ante at <a href="./us475-0106.xml#p111">475 U. S. 111</a>. As examples, the Court explains that "the VIN improves the efficacy of recall campaigns," "assists researchers in determining the risks of driving various makes and models of automobiles," helps to "reduc[e] the number of those injured in accidents who go uncompensated for lack of insurance," ensures "that automobile operators are driving safe vehicles," and "[b]y making automobile theft more difficult . . ., safeguards not only property but also life and limb." Ibid.</p>
     </f>
     <f n="3"><a id="fn3" href="#nf3">Footnote 3</a>
       <p>By analogy, had respondent emerged from his car without his vehicle registration certificate or driver's license, I do not read the Court's opinion to hold that the police could have searched the passenger compartment in order to locate these documents, even though they also play important roles in the State's regulation of automobiles.</p>

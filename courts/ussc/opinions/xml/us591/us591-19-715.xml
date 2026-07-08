@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us591-19-715.html" citation="591 U.S. 19-715" title="Trump v. Mazars USA, LLP">
   <opinion type="Opinion" author="Roberts">
     <p>NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 19–715 and 19–760</p>
-    <p>_________________</p>
     <p>DONALD J. TRUMP, et al., PETITIONERS</p>
     <p>19–715v.</p>
     <p>MAZARS USA, LLP, et al.</p>
@@ -82,9 +81,7 @@
   </opinion>
   <opinion type="Concurrence" author="Thomas">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 19–715 and 19–760</p>
-    <p>_________________</p>
     <p>DONALD J. TRUMP, et al., PETITIONERS</p>
     <p>19–715v.</p>
     <p>MAZARS USA, LLP, et al.</p>
@@ -181,9 +178,7 @@
   </opinion>
   <opinion type="Dissent" author="Alito">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 19–715 and 19–760</p>
-    <p>_________________</p>
     <p>DONALD J. TRUMP, et al., PETITIONERS</p>
     <p>19–715v.</p>
     <p>MAZARS USA, LLP, et al.</p>

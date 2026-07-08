@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us454-0312.html" citation="454 U.S. 312" title="Polk County v. Dodson">
   <opinion type="Opinions &amp; Dissents">
     <n id="p312">312</n>
-    <h>U.S. Supreme Court</h>
-    <h>Polk County v. Dodson, <a href="./us454-0312.xml#p312">454 U.S. 312</a> (1981)</h>
-    <h>Polk County v. Dodson</h>
-    <h>No. 80-824</h>
-    <h>Argued October 13, 1981</h>
-    <h>Decided December 14, 1981</h>
-    <h><a href="./us454-0312.xml#p312">454 U.S. 312</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE EIGHTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Polk County v. Dodson, <a href="./us454-0312.xml#p312">454 U.S. 312</a> (1981)</h1>
+    <h2>Polk County v. Dodson</h2>
+    <h2>No. 80-824</h2>
+    <h4>Argued October 13, 1981</h4>
+    <h4>Decided December 14, 1981</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE EIGHTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondent brought suit in Federal District Court under 42 U.S.C. § 1983 against petitioners Polk County, its Offender Advocate, its Board of Supervisors, and Martha Shepard, an attorney in the Offender Advocate's Office. As the factual basis for his lawsuit, respondent alleged that Shepard, who had been assigned to represent him in an appeal of a criminal conviction to the Iowa Supreme Court, failed to represent him adequately, since she had moved for permission to withdraw as counsel on the ground that respondent's claims were legally frivolous. The Iowa Supreme Court granted Shepard's motion and dismissed respondent's appeal. In the District Court, respondent alleged that Shepard's actions violated certain of his constitutional rights. To establish that Shepard acted "under color of state law," a jurisdictional requisite for a § 1983 action, respondent relied on her employment by the county. The District Court dismissed the claims against all of the petitioners, but the Court of Appeals reversed.</p>
     <p>Held:</p>
     <p>1. A public defender does not act "under color of state law" when performing a lawyer's traditional functions as counsel to an indigent defendant in a state criminal proceeding. Because it was based on such activities, the complaint against Shepard must be dismissed. Pp. <a href="./us454-0312.xml#p317">454 U. S. 317</a>-325.</p>
@@ -27,7 +27,7 @@
     <n id="p314">314</n>
     <p>JUSTICE POWELL delivered the opinion of the Court.</p>
     <p>The question in this case is whether a public defender acts "under color of state law" when representing an indigent defendant in a state criminal proceeding.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>This case arose when the respondent Russell Richard Dodson filed a pro se complaint in the United States District Court for the Southern District of Iowa. Dodson brought the action in federal court under 42 U.S.C. § 1983. As the factual basis for his lawsuit, Dodson alleged that Martha Shepard, an attorney in the Polk County Offender Advocate's Office, had failed to represent him adequately in an appeal to the Iowa Supreme Court. [<a id="nf1" href="#fn1">Footnote 1</a>]</p>
     <p>A full-time employee of the county, Shepard had been assigned to represent Dodson in the appeal of a conviction for robbery. After inquiring into the case, however, she moved for permission to withdraw as counsel on the ground that Dodson's claims were wholly frivolous. [<a id="nf2" href="#fn2">Footnote 2</a>] Shepard accompanied her motion with an affidavit explaining this conclusion.</p>
     <n id="p315">315</n>
@@ -43,7 +43,7 @@
     <n id="p317">317</n>
     <p>essence, the complaint asserted an ordinary malpractice claim, which would be equally maintainable against a retained attorney or appointed counsel. The dissent also argued that public defenders should be entitled to absolute immunity from suit.</p>
     <p>We granted certiorari to resolve the division among the Courts of Appeals over whether a public defender acts under color of state law when providing representation to an indigent client. [<a id="nf4" href="#fn4">Footnote 4</a>] 450 U.S. 963 (1981). We now reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>In United States v. Classic, <a href="../us313/us313-0299.xml#p299">313 U. S. 299</a>, <a href="../us313/us313-0299.xml#p326">313 U. S. 326</a> (1941), this Court held that a person acts under color of state law only when exercising power "possessed by virtue of state law and made possible only because the wrongdoer is clothed with the</p>
     <n id="p318">318</n>
     <p>authority of state law." [<a id="nf5" href="#fn5">Footnote 5</a>] In this case, the Offender Advocate for Polk County assigned Martha Shepard to represent Russell Dodson in the appeal of his criminal conviction. This assignment entailed functions and obligations in no way dependent on state authority. From the moment of her appointment, Shepard became Dodson's lawyer, and Dodson became Shepard's client. Except for the source of payment, their relationship became identical to that existing between any other lawyer and client.</p>
@@ -52,7 +52,7 @@
     <p>Within the context of our legal system, the duties of a defense lawyer are those of a personal counselor and advocate. It is often said that lawyers are "officers of the court." But the Courts of Appeals are agreed that a lawyer representing a client is not, by virtue of being an officer of the court, a state actor "under color of state law" within the meaning of § 1983. [<a id="nf7" href="#fn7">Footnote 7</a>] In our system, a defense lawyer characteristically opposes the designated representatives of the State. The system assumes that adversarial testing will ultimately advance the public interest in truth and fairness. But it posits that a defense lawyer best serves the public not by acting on behalf of the State or in concert with it, but rather by advancing</p>
     <n id="p319">319</n>
     <p>"the undivided interests of his client." [<a id="nf8" href="#fn8">Footnote 8</a>] This is essentially a private function, traditionally filled by retained counsel, for which state office and authority are not needed. [<a id="nf9" href="#fn9">Footnote 9</a>]</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The respondent argues that a public defender's employment relationship with the State, rather than his function, should determine whether he acts under color of state law. We take a different view.</p>
     <p>A</p>
     <p>In arguing that the employment relationship establishes that the public defender acts under color of state law, Dodson relies heavily on two cases in which this Court assumed that physicians, whose relationships with their patients have not traditionally depended on state authority, could be held liable under § 1983. See O'Connor v. Donaldson, <a href="../us422/us422-0563.xml#p563">422 U. S. 563</a> (1975); Estelle v. Gamble, <a href="../us429/us429-0097.xml#p97">429 U. S. 97</a> (1976). These cases, he argues, are analytically identical to this one. Like the physicians in O'Connor and Estelle, a public defender is paid by the State. Further, like the institutionalized patients in</p>
@@ -78,11 +78,11 @@
     <n id="p324">324</n>
     <p>As a matter of empirical fact, it may or may not be true that the professional obligation to withdraw from frivolous appeals will be invoked with disproportionate frequency in cases involving indigent prisoners. The recent burgeoning of postconviction remedies has undoubtedly subjected the legal system to unprecedented strains, including increased demands for legal assistance. [<a id="nf15" href="#fn15">Footnote 15</a>] The State of Iowa has responded by authorizing the provision of greater representation than the Constitution requires. Its system of public defenders contemplates the extension of legal assistance through the various tiers of postconviction review, incorporating only the general ethical limitation that counsel should withdraw from frivolous cases. [<a id="nf16" href="#fn16">Footnote 16</a>]</p>
     <p>In this context, Dodson argues that public defenders making withdrawal decisions are viewed by indigent prisoners as hostile state actors. We think there is little justification for this view, if indeed it is widely held. [<a id="nf17" href="#fn17">Footnote 17</a>]</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>In concluding that Shepard did not act under color of state law in exercising her independent professional judgment in a criminal proceeding, we do not suggest that a public defender</p>
     <n id="p325">325</n>
     <p>never acts in that role. In Branti v. Finkel, <a href="../us445/us445-0507.xml#p507">445 U. S. 507</a> (1980), for example, we found that a public defender so acted when making hiring and firing decisions on behalf of the State. It may be -- although the question is not present in this case -- that a public defender also would act under color of state law while performing certain administrative and possibly investigative functions. Cf. Imbler v. Pachtman, <a href="../us424/us424-0409.xml#p409">424 U. S. 409</a>, <a href="../us424/us424-0409.xml#p430">424 U. S. 430</a>-431, and n. 33 (1976). And, of course, we intimate no views as to a public defender's liability for malpractice in an appropriate case under state tort law. See Ferri v. Ackerman, <a href="../us444/us444-0193.xml#p193">444 U. S. 193</a>, <a href="../us444/us444-0193.xml#p198">444 U. S. 198</a> (1979). [<a id="nf18" href="#fn18">Footnote 18</a>] With respect to Dodson's § 1983 claims against Shepard, we decide only that a public defender does not act under color of state law when performing a lawyer's traditional functions as counsel to a defendant in a criminal proceeding. [<a id="nf19" href="#fn19">Footnote 19</a>] Because it was based on such activities, the complaint against Shepard must be dismissed.</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>In his complaint in the District Court, Dodson also asserted § 1983 claims against the Offender Advocate, Polk County, and the Polk County Board of Supervisors. Section 1983 will not support a claim based on a respondeat superior theory of liability. Monell v. New York City Dept. of Social Services, <a href="../us436/us436-0658.xml#p658">436 U. S. 658</a>, <a href="../us436/us436-0658.xml#p694">436 U. S. 694</a> (1978). To the extent that Dodson's claims rest on this basis, they fail to present a federal claim.</p>
     <n id="p326">326</n>
     <p>The Court of Appeals apparently read Dodson's pro se complaint as susceptible of another construction. It found an actionable claim in the bald allegation that Shepard had injured him while acting pursuant to administrative "rules and procedures for . . . handling criminal appeals," and that her employers were therefore responsible for her actions. 628 F.2d at 1108. We also have noted an allegation in respondent's complaint that the county "retains and maintains, advocates out of law school" who have, on numerous occasions, moved to withdraw from appeals of criminal convictions.</p>
@@ -90,7 +90,7 @@
     <p>When Dodson's complaint is viewed against the standards of our cases, even in light of the sympathetic pleading requirements applicable to pro se petitioners, see Haines v. Kerner, <a href="../us404/us404-0519.xml#p519">404 U. S. 519</a> (1972) (per curiam), we do not believe</p>
     <n id="p327">327</n>
     <p>he has alleged unconstitutional action by the Offender Advocate, Polk County, or the Polk County Board of Supervisors. Accordingly, his claims against them must be dismissed.</p>
-    <h>VI</h>
+    <h2>VI</h2>
     <p>For the reasons stated in this opinion, the decision of the Court of Appeals is</p>
     <p>Reversed.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>
@@ -170,7 +170,7 @@
       <p>One perhaps should be particularly circumspect when he finds himself in solitary dissent. See Commissioner v. "Americans United" Inc., <a href="../us416/us416-0752.xml#p752">416 U. S. 752</a>, <a href="../us416/us416-0752.xml#p763">416 U. S. 763</a> (1974) (dissenting opinion). On careful reflection, however, I am convinced that my position is a valid one, and I therefore set forth my views in opposition to those of the Court.</p>
       <p>----------</p>
       <p>When a full-time state employee, working in an office fully funded and extensively regulated by the State and acting to fulfill a state obligation, violates a person's constitutional rights, the Court consistently has held that the employee acts "under color of" state law, within the meaning and reach of 42 U.S.C. § 1983. Because I conclude that the Court's decision in this case is contrary to its prior rulings on the meaning of "under color of" state law, and because the Court charts new territory by adopting a functional test in determining liability under the statute, I respectfully dissent.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>The Court holds for the first time today that a government official's "employment relationship" is no more than a "relevant factor" in determining whether he acts under color of state law within the meaning of § 1983. Ante at <a href="./us454-0312.xml#p321">454 U. S. 321</a>. Only</p>
       <n id="p329">329</n>
       <p>last Term, in Parratt v. Taylor, <a href="../us451/us451-0527.xml#p527">451 U. S. 527</a> (1981), the Court noted that defendant prison officials unquestionably satisfied the "under color of state law" requirement because they "were, after all, state employees in positions of considerable authority." Id. at <a href="../us451/us451-0527.xml#p535">451 U. S. 535</a>-536. Thus began, and ended, the Court's discussion of the "color of law" question in that case. As in Taylor, the county employee sued in this action presumptively acts under color of state law. See also Flagg Bros., Inc. v. Brooks, <a href="../us436/us436-0149.xml#p149">436 U. S. 149</a>, <a href="../us436/us436-0149.xml#p157">436 U. S. 157</a>, n. 5 (1978).</p>
@@ -192,7 +192,7 @@
       <p>On the basis of the Court's opinion in Estelle v. Gamble, <a href="../us429/us429-0097.xml#p97">429 U. S. 97</a> (1976), and the county's pervasive involvement with the Offender Advocate's Office in this case, I necessarily conclude that the presumption that a state employee acts</p>
       <n id="p334">334</n>
       <p>under color of state law when exercising his official duties is not overridden by the public defender's ethical obligations to his client. [Footnote 2/5]</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>Although holding that petitioner Shepard may not be held liable under § 1983 for withdrawing from respondent's appeal, the Court limits its ruling to cases where the public defender performs "a lawyer's traditional functions as counsel to a defendant in a criminal proceeding." Ante at <a href="./us454-0312.xml#p325">454 U. S. 325</a>. The Court appears to concede that a public defender may act under color of state law when performing unspecified administrative and investigative functions, or even when acting as an advocate -- if his conduct is "nontraditional," or if the plaintiff pleads and proves that the State influenced the attorney's representation. See ante at <a href="./us454-0312.xml#p325">454 U. S. 325</a>, and n.19, and <a href="./us454-0312.xml#p322">454 U. S. 322</a>. These attempts to draw distinctions based on function are unconvincing.</p>
       <n id="p335">335</n>
       <p>The Court never before has held that a government employee acts under color of state law while performing some of his official duties but not while performing others. The Court drew no such distinctions in Estelle v. Gamble, supra, although it could have adopted the Court's approach today and held that an institutional physician acts under color of state law when acting in his custodial and administrative roles, but not when treating a patient. I can only conclude that the Court creates this artificial distinction in order to avoid a conflict with Branti v. Finkel, <a href="../us445/us445-0507.xml#p507">445 U. S. 507</a> (1980), where the Court did not pause to question whether the defendant public defender acted under color of state law.</p>
@@ -203,7 +203,7 @@
       <n id="p337">337</n>
       <p>Court's line-drawing here. [Footnote 2/7] As the final loophole, the Court apparently leaves open the possibility that an indigent defendant could plead and prove that the State so influenced the public defender assigned to his case as to make the public defender liable under § 1983. See ante at <a href="./us454-0312.xml#p322">454 U. S. 322</a>. What type of state intervention is sufficient, and how a plaintiff is supposed to allege such facts before discovery, are not specified.</p>
       <p>In essence, the Court appears to be holding a public defender exempt from § 1983 liability only when the alleged injury is ineffective assistance of counsel. Not only is it disturbing to see the Court adopt a hierarchy of constitutional rights for purposes of § 1983 actions, but such an approach will be extremely difficult to implement. I envision the Court's functional analysis as having one of two results -- both, in my view, unfortunate. If the federal courts in effect adopt a per se rule and dismiss all § 1983 complaints against public defenders, the most egregious behavior by a public defender, even if unquestionably the result of pressures by the State, will not be cognizable under § 1983. Alternatively, the courts may attempt diligently to implement the Court's ruling and dismiss only those § 1983 claims based on the public defender's "traditional" functions as an advocate. The outcome then, I fear, will be lengthy and involved hearings on the merits to determine whether the court has subject matter jurisdiction -- the very result the Court wishes to avoid.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>I am sympathetic with the Court's desire to protect public defenders, who represent indigent defendants in good faith, from a § 1983 suit by every dissatisfied client. But the Court's concern for public defender programs -- and its seeming hostility to the merits of respondent's claims, see ante at <a href="./us454-0312.xml#p323">454 U. S. 323</a>-324, and n. 17 -- do not justify the approach taken by the</p>
       <n id="p338">338</n>
       <p>Court today. To recognize that public defenders act under color of state law would not transform every legal malpractice into a constitutional violation. Cf. Estelle v. Gamble, 429 U.S. at <a href="../us429/us429-0097.xml#p105">429 U. S. 105</a>-106. Presumably, some immunity would be provided public defenders sued under § 1983. [Footnote 2/8] The Court always has seen fit before to rely on immunity and the procedures available for dismissing meritless complaints in order to protect state officials. See, e.g., Butz v. Economou, <a href="../us438/us438-0478.xml#p478">438 U. S. 478</a>, <a href="../us438/us438-0478.xml#p507">438 U. S. 507</a>-508 (1978); cf. Ferri v. Ackerman, <a href="../us444/us444-0193.xml#p193">444 U. S. 193</a>, <a href="../us444/us444-0193.xml#p200">444 U. S. 200</a>, n. 17 (1979). I would do the same here.</p>

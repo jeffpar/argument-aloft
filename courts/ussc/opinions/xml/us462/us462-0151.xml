@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us462-0151.html" citation="462 U.S. 151" title="DelCostello v. Teamsters">
   <opinion type="Opinions &amp; Dissents">
     <n id="p151">151</n>
-    <h>U.S. Supreme Court</h>
-    <h>DelCostello v. Teamsters, <a href="./us462-0151.xml#p151">462 U.S. 151</a> (1983)</h>
-    <h>DelCostello v. International Brotherhood of Teamsters</h>
-    <h>No. 81-2386</h>
-    <h>Argued April 25, 1983</h>
-    <h>Decided June 8, 1983<a href="./us462-0151.xml#p151">462 U.S. 151</a>ast|&gt;*</h>
-    <h><a href="./us462-0151.xml#p151">462 U.S. 151</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE FOURTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>DelCostello v. Teamsters, <a href="./us462-0151.xml#p151">462 U.S. 151</a> (1983)</h1>
+    <h2>DelCostello v. International Brotherhood of Teamsters</h2>
+    <h2>No. 81-2386</h2>
+    <h4>Argued April 25, 1983</h4>
+    <h4>Decided June 8, 1983<a href="./us462-0151.xml#p151">462 U.S. 151</a>ast|&gt;*</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE FOURTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>The issue in each of these cases is what statute of limitations applies in an employee suit against an employer and a union, alleging the employer's breach of a collective bargaining agreement and the union's breach of its duty of fair representation by mishandling the ensuing grievance or arbitration proceedings. United Parcel Service, Inc. v. Mitchell, <a href="../us451/us451-0056.xml#p56">451 U. S. 56</a>, held in a similar suit that an employee's claim against the employer was governed by a state statute of limitations for vacation of an arbitration award, rather than by a state statute for an action for breach of contract, but left open the issues as to what state statute should govern the employee's claim against the union or whether, instead of applying a state statute of limitations, the provisions of § 10(b) of the National Labor Relations Act establishing a 6-month limitations period for making charges of unfair labor practices to the National Labor Relations Board should be borrowed. In No. 81-2386, respondent local union brought a formal grievance under the collective bargaining agreement based on petitioner employee's alleged improper discharge. After a hearing, a joint union-management committee informed petitioner of its conclusion that the grievance was without merit, and the committee's determination became final on September 20, 1977. On March 16, 1978, petitioner filed suit in Federal District Court, alleging that the employer had discharged him in violation of the collective bargaining agreement, and that the union had represented him in the grievance procedure in a discriminatory, arbitrary, and perfunctory manner. The District Court ultimately granted summary judgment against petitioner, concluding that Mitchell compelled application of Maryland's 30-day statute of limitations for actions to vacate arbitration awards to both of petitioner's claims. The Court of Appeals affirmed. In No. 81-2408, petitioner local union invoked arbitration after it was unsuccessful in processing respondent employees' grievances based on the employer's alleged violations of the bargaining agreement arising from job-assignment practices. On February</p>
     <n id="p152">152</n>
     <p>24, 1978, the arbitrator issued an award upholding the employer's job assignments, and on January 19, 1979, respondents filed suit in Federal District Court, alleging that the employer had violated the bargaining agreement, and that the union had violated its duty of fair representation in handling respondents' claims. The District Court, applying New York's 90-day statute of limitations for actions to vacate arbitration awards, dismissed the complaint against both the employer and the union. Ultimately, the Court of Appeals, acting in light of the intervening decision in Mitchell, rejected the contention that § 10(b) should be applied; affirmed the dismissal as to the employer under the 90-day arbitration statute; but reversed as to the union, concluding that New York's 3-year statute for malpractice actions governed.</p>
@@ -31,7 +31,7 @@
     <p>Each of these cases arose as a suit by an employee or employees against an employer and a union, alleging that the employer had breached a provision of a collective bargaining agreement and that the union had breached its duty of fair representation by mishandling the ensuing grievance and arbitration proceedings. See infra at <a href="./us462-0151.xml#p162">462 U. S. 162</a>; Bowen v. USPS, <a href="../us459/us459-0212.xml#p212">459 U. S. 212</a> (1983); Vaca v. Sipes, <a href="../us386/us386-0171.xml#p171">386 U. S. 171</a> (1967); Hines v. Anchor Motor Freight, Inc., <a href="../us424/us424-0554.xml#p554">424 U. S. 554</a> (1976). The issue presented is what statute of limitations should apply to such suits. In United Parcel Service, Inc. v. Mitchell, <a href="../us451/us451-0056.xml#p56">451 U. S. 56</a> (1981), we held that a similar suit was governed by a state statute of limitations for vacation of an arbitration award, rather than by a state statute for an action on a contract. We left two points open, however. First, our holding was limited to the employee's claim against the employer; we did not address what state statute should govern the claim against the union. [<a id="nf1" href="#fn1">Footnote 1</a>] Second, we expressly limited our consideration to a choice between two state statutes of limitations; we did not address the contention that we should instead borrow a federal statute of limitations, namely, § 10(b) of the National Labor Relations Act, 29 U.S.C. § 160(b). [<a id="nf2" href="#fn2">Footnote 2</a>] These cases present these two issues.</p>
     <n id="p155">155</n>
     <p>We conclude that § 10(b) should be the applicable statute of limitations governing the suit, both against the employer and against the union.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>A</p>
     <p>Philip DelCostello, petitioner in No. 81-2386, was employed as a driver by respondent Anchor Motor Freight, Inc., and represented by respondent Teamsters Local 557. On June 27, 1977, he quit or was discharged [<a id="nf3" href="#fn3">Footnote 3</a>] after refusing to drive a tractor-trailer that he contended was unsafe. He took his complaint to the union, which made unsuccessful informal attempts to get DelCostello reinstated and then brought a formal grievance under the collective bargaining agreement. A hearing was held before a regional joint union-management committee. The committee concluded that the grievance was without merit. DelCostello was informed of that decision in a letter dated August 19, 1977, forwarding the minutes of the hearing and stating that the minutes would be presented for approval at the committee's meeting on September 20. DelCostello responded in a letter, but the minutes were approved without change. Under the collective bargaining agreement, the committee's decision is final and binding on all parties.</p>
     <p>On March 16, 1978, DelCostello filed this suit in the District of Maryland against the employer and the union. He</p>
@@ -46,7 +46,7 @@
     <p>court reversed, concluding that the correct statute to apply was New York's 3-year statute for malpractice actions. [<a id="nf10" href="#fn10">Footnote 10</a>] 671 F.2d 87 (CA2 1982).</p>
     <p>C</p>
     <p>In this Court, petitioners in both cases contend that suits under Vaca v. Sipes, <a href="../us386/us386-0171.xml#p171">386 U. S. 171</a> (1967), and Hines v. Anchor Motor Freight, Inc., <a href="../us424/us424-0554.xml#p554">424 U. S. 554</a> (1976), should be governed by the 6-month limitations period of § 10(b) of the National Labor Relations Act, 29 U.S.C. § 160(b). Alternatively, the Steelworkers, petitioners in No. 81-2408, argue that the state statute for vacation of arbitration awards should apply to a claim against a union, as well as to one against an employer. [<a id="nf11" href="#fn11">Footnote 11</a>] We granted certiorari in both cases and consolidated them for argument. 459 U.S. 1034 (1982).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>A</p>
     <p>As is often the case in federal civil law, there is no federal statute of limitations expressly applicable to this suit. In such situations, we do not ordinarily assume that Congress intended that there be no time limit on actions at all; rather, our task is to "borrow" the most suitable statute or other rule of timeliness from some other source. We have generally concluded that Congress intended that the courts apply the most closely analogous statute of limitations under state law. [<a id="nf12" href="#fn12">Footnote 12</a>]</p>
     <p>"The implied absorption of State statutes of limitation</p>
@@ -111,7 +111,7 @@
     <p>when a rule from elsewhere in federal law clearly provides a closer analogy than available state statutes, and when the federal policies at stake and the practicalities of litigation make that rule a significantly more appropriate vehicle for interstitial lawmaking, we have not hesitated to turn away from state law. See <a href="./us462-0151.xml#p158">462 U. S.</a> supra. As Justice Goldberg cautioned:</p>
     <p>"[I]n this Court's fashioning of a federal law of collective bargaining, it is of the utmost importance that the law reflect the realities of industrial life and the nature of the collective bargaining process. We should not assume that doctrines evolved in other contexts will be equally well adapted to the collective bargaining process."</p>
     <p>Humphrey v. Moore, <a href="../us375/us375-0335.xml#p335">375 U. S. 335</a>, <a href="../us375/us375-0335.xml#p358">375 U. S. 358</a> (1964) (opinion concurring in result).</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>In No. 81-2408, it is conceded that the suit was filed more than 10 months after respondents' causes of action accrued. The Court of Appeals held the suit timely under a state 3-year statute for malpractice actions. Since we hold that the suit is governed by the 6-month provision of § 10(b), we reverse the judgment.</p>
     <p>The situation is less clear in No. 81-2386. Depending on when the joint committee's decision is thought to have been rendered, the suit was filed some seven or eight months afterwards. Petitioner DelCostello contends, however, that certain events operated to toll the running of the statute of limitations until about three months before he filed suit. Since the District Court applied a 30-day limitations period, it expressly declined to consider any tolling issue. 524 F. Supp. at 725. Hence, the judgment is reversed, and the case is remanded for further proceedings consistent with this opinion.</p>
     <p>It is so ordered.</p>

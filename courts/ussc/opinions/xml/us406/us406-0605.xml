@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us406-0605.html" citation="406 U.S. 605" title="Brooks v. Tennessee">
   <opinion type="Opinions &amp; Dissents">
     <n id="p605">605</n>
-    <h>U.S. Supreme Court</h>
-    <h>Brooks v. Tennessee, <a href="./us406-0605.xml#p605">406 U.S. 605</a> (1972)</h>
-    <h>Brooks v. Tennessee</h>
-    <h>No. 71-5313</h>
-    <h>Argued March 21-22, 1972</h>
-    <h>Decided June 7, 1972</h>
-    <h><a href="./us406-0605.xml#p605">406 U.S. 605</a></h>
-    <h>CERTIORARI TO THE COURT OF</h>
-    <h>CRIMINAL APPEALS OF TENNESSEE</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Brooks v. Tennessee, <a href="./us406-0605.xml#p605">406 U.S. 605</a> (1972)</h1>
+    <h2>Brooks v. Tennessee</h2>
+    <h2>No. 71-5313</h2>
+    <h4>Argued March 21-22, 1972</h4>
+    <h4>Decided June 7, 1972</h4>
+    <h2>CERTIORARI TO THE COURT OF</h2>
+    <h2>CRIMINAL APPEALS OF TENNESSEE</h2>
+    <h2>Syllabus</h2>
     <p>1. Tennessee's statutory requirement that a defendant in a criminal proceeding "desiring to testify shall do so before any other testimony for the defense is heard by the court trying the case" violates the defendant's privilege against self-incrimination. A defendant may not be penalized for remaining silent at the close of the State's case by being excluded from the stand later in the trial. Pp. <a href="./us406-0605.xml#p607">406 U. S. 607</a>-612.</p>
     <p>2. The Tennessee rule also infringes the defendant's constitutional rights by depriving him of the "guiding hand of counsel," in deciding not only whether the defendant will testify but, if so, at what stage. Pp. <a href="./us406-0605.xml#p612">406 U. S. 612</a>-613.</p>
     <p>___ Tenn.App. ___, ___ S.W.2d ___, reversed and remanded.</p>
@@ -22,7 +22,7 @@
     <p>trial, at the close of the State's case, defense counsel moved to delay petitioner's testimony until after other defense witnesses had testified. The trial court denied this motion on the basis of Tenn.Code Ann. § 40-2403 (1955), which requires that a criminal defendant "desiring to testify shall do so before any other testimony for the defense is heard by the court trying the case." [<a id="nf1" href="#fn1">Footnote 1</a>] Although the prosecutor agreed to waive the statute, the trial court refused, stating that "the law is, as you know it to be, that, if a defendant testifies, he has to testify first." The defense called two witnesses, but petitioner himself did not take the stand.</p>
     <p>Following the denial of his motion for new trial, petitioner appealed his conviction to the Tennessee Court of Criminal Appeals, which overruled his assignments of error, including his claim that § 40-2403 violated the State and Federal Constitutions. The Supreme Court of Tennessee denied review, and we granted certiorari to consider whether the requirement that a defendant testify first violates the Federal Constitution. 404 U.S. 955 (1971). We reverse.</p>
     <n id="p607">607</n>
-    <h>I</h>
+    <h2>I</h2>
     <p>The rule that a defendant must testify first is related to the ancient practice of sequestering prospective witnesses in order to prevent their being influenced by other testimony in the case. See 6 J. Wigmore, Evidence § 1837 (3d ed.1940). Because the criminal defendant is entitled to be present during trial, and thus cannot be sequestered, the requirement that he precede other defense witnesses was developed by court decision and statute as an alternative means of minimizing this influence as to him. According to Professor Wigmore,</p>
     <p>"[t]he reason for this rule is the occasional readiness of the interested person to adapt his testimony, when offered later, to victory, rather than to veracity, so as to meet the necessities as laid open by prior witnesses. . . ."</p>
     <p>Id. at § 1869.</p>
@@ -48,7 +48,7 @@
     <p>Although the Tennessee statute does reflect a state interest in preventing testimonial influence, we do not regard that interest as sufficient to override the defendant's right to remain silent at trial. [<a id="nf7" href="#fn7">Footnote 7</a>] This is not to imply that there may be no risk of a defendant's coloring his testimony to conform to what has gone before. But our adversary system reposes judgment of the credibility of all witnesses in the jury. Pressuring the defendant to take the stand, by foreclosing later testimony if he refuses, is not a constitutionally permissible means of ensuring his honesty. It fails to take into account the</p>
     <n id="p612">612</n>
     <p>very real and legitimate concerns that might motivate a defendant to exercise his right of silence. And it may compel even a wholly truthful defendant, who might otherwise decline to testify for legitimate reasons, to subject himself to impeachment and cross-examination at a time when the strength of his other evidence is not yet clear. For these reasons, we hold that § 40-2403 violates an accused's constitutional right to remain silent insofar as it requires him to testify first for the defense or not at all.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>For closely related reasons, we also regard the Tennessee rule as an infringement on the defendant's right of due process as defined in Ferguson v. Georgia, <a href="../us365/us365-0570.xml#p570">365 U. S. 570</a> (1961). There, the Court reviewed a Georgia statute providing that a criminal defendant, though not competent to testify under oath, could make an unsworn statement at trial. The statute did not permit defense counsel to aid the accused by eliciting his statement through questions. The Court held that this limitation deprived the accused of</p>
     <p>"'the guiding hand of counsel at every step in the proceedings against him,' Powell v. Alabama, <a href="https://law.justia.com/us/287/45/">287 U. S. 45</a>, <a href="https://law.justia.com/us/287/45/#69">287 U. S. 69</a>, within the requirement of due process in that regard as imposed upon the States by the Fourteenth Amendment."</p>
     <p>Id. at <a href="../us365/us365-0570.xml#p572">365 U. S. 572</a>. The same may be said of § 40-2403. Whether the defendant is to testify is an important tactical decision, as well as a matter of constitutional right. By requiring the accused and his lawyer to make that choice without an opportunity to evaluate the actual worth of their evidence, the statute restricts the defense -- particularly counsel -- in the planning of its case. Furthermore, the penalty for not testifying first is to keep the defendant off the stand entirely, even though, as a matter of professional judgment, his lawyer might want to call him later in the trial. The accused is thereby deprived of</p>

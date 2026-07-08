@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us380-0263.html" citation="380 U.S. 263" title="Textile Workers Union v. Darlington Mfg. Co.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p263">263</n>
-    <h>U.S. Supreme Court</h>
-    <h>Textile Workers Union v. Darlington Mfg. Co., <a href="./us380-0263.xml#p263">380 U.S. 263</a> (1965)</h>
-    <h>Textile Workers Union of America v. Darlington Manufacturing Co.</h>
-    <h>No. 37</h>
-    <h>Argued December 9-10, 1964</h>
-    <h>Decided March 29, 1965<a href="./us380-0263.xml#p263">380 U.S. 263</a>ast|&gt;*</h>
-    <h><a href="./us380-0263.xml#p263">380 U.S. 263</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE FOURTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Textile Workers Union v. Darlington Mfg. Co., <a href="./us380-0263.xml#p263">380 U.S. 263</a> (1965)</h1>
+    <h2>Textile Workers Union of America v. Darlington Manufacturing Co.</h2>
+    <h2>No. 37</h2>
+    <h4>Argued December 9-10, 1964</h4>
+    <h4>Decided March 29, 1965<a href="./us380-0263.xml#p263">380 U.S. 263</a>ast|&gt;*</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE FOURTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>A majority of the stock of Darlington Manufacturing Company, a textile mill, was owned by Deering Milliken, a marketing corporation, and the National Labor Relations Board found that the latter company was, in turn, controlled by Roger Milliken, Darlington's president, and members of his family. An organizational campaign by petitioner union at Darlington, although strongly resisted by the company, including threats to close the mill, was .successful. Shortly thereafter, the company was liquidated, the plant closed, and the equipment sold. The National Labor Relations Board found that the closing was due to Roger Milliken's anti-union animus, a violation of § 8(a)(3) of the National Labor Relations Act; that Darlington was part, of a single integrated employer group controlled by the Milliken family through Deering Milliken, operating 17 textile companies with 27 mills; and, alternatively, since Darlington was part of the integrated enterprise, Deering Milliken violated the Act by closing part of its business for a discriminatory purpose. The Court of Appeals held that, even assuming Deering Milliken was a single employer, it had the right to terminate all or part of its business regardless of anti-union motives.</p>
     <p>Held:</p>
     <p>1. It is not an unfair labor practice for an employer to close his entire business, even if the closing is due to anti-union animus. Pp. <a href="./us380-0263.xml#p269">380 U. S. 269</a>-274.</p>
@@ -37,7 +37,7 @@
     <p>Preliminarily it should be observed that both petitioners argue that the Darlington closing violated § 8(a)(1) as well as § 8(a)(3) of the Act. We think, however, that the Board was correct in treating the closing only under § 8(a)(3). [<a id="nf8" href="#fn8">Footnote 8</a>] Section 8(a)(1) provides that it is an unfair labor practice for an employer "to interfere with, restrain, or coerce employees in the exercise of" § 7 rights. [<a id="nf9" href="#fn9">Footnote 9</a>] Naturally, certain business decisions will, to some</p>
     <n id="p269">269</n>
     <p>degree, interfere with concerted activities by employees. But it is only when the interference with § 7 rights outweighs the business justification for the employer's action that § 8(a)(1) is violated. See, e.g., Labor Board v. United Steelworkers, <a href="../us357/us357-0357.xml#p357">357 U. S. 357</a>; Republic Aviation Corp. v. Labor Board, <a href="../us324/us324-0793.xml#p793">324 U. S. 793</a>. A violation of § 8(a)(1) alone therefore presupposes an act which is unlawful even absent a discriminatory motive. Whatever may be the limits of § 8(a)(1), some employer decisions are so peculiarly matters of management prerogative that they would never constitute violations of § 8(a)(1), whether or not they involved sound business judgment, unless they also violated § 8(a)(3). Thus, it is not questioned in this case that an employer has the right to terminate his business, whatever the impact of such action on concerted activities, if the decision to close is motivated by other than discriminatory reasons. [<a id="nf10" href="#fn10">Footnote 10</a>] But such action, if discriminatorily motivated, is encompassed within the literal language of § 8(a)(3). We therefore deal with the Darlington closing under that section.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>We consider first the argument, advanced by the petitioner union but not by the Board, and rejected by the Court of Appeals, that an employer may not go completely out of business without running afoul of the Labor Relations Act if such action is prompted by a desire to</p>
     <n id="p270">270</n>
     <p>avoid unionization. [<a id="nf11" href="#fn11">Footnote 11</a>] Given the Board's findings on the issue of motive, acceptance of this contention would carry the day for the Board's conclusion that the closing of this plant was an unfair labor practice, even on the assumption that Darlington is to be regarded as an independent unrelated employer. A proposition that a single businessman cannot choose to go out of business if he wants to would represent such a startling innovation that it should not be entertained without the clearest manifestation of legislative intent or unequivocal judicial precedent so construing the Labor Relations Act. We find neither.</p>
@@ -60,7 +60,7 @@
     <p>work to another plant or open a new plant in another locality to replace its closed plant. [<a id="nf17" href="#fn17">Footnote 17</a>] Nor are we concerned with a shutdown where the employees, by renouncing the union, could cause the plant to reopen. [<a id="nf18" href="#fn18">Footnote 18</a>] Such cases would involve discriminatory employer action for the purpose of obtaining some benefit in the future from the employees in the future. [<a id="nf19" href="#fn19">Footnote 19</a>] We hold here only that, when</p>
     <n id="p274">274</n>
     <p>an employer closes his entire business, even if the liquidation is motivated by vindictiveness toward the union, such action is not an unfair labor practice. [<a id="nf20" href="#fn20">Footnote 20</a>]</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>While we thus agree with the Court of Appeals that, viewing Darlington as an independent employer, the liquidation of its business was not an unfair labor practice, we cannot accept the lower court's view that the same conclusion necessarily follows if Darlington is regarded as an integral part of the Deering Milliken enterprise.</p>
     <p>The closing of an entire business, even though discriminatory, ends the employer-employee relationship; the force of such a closing is entirely spent as to that business when termination of the enterprise takes place. On the other hand, a discriminatory partial closing may have</p>
     <n id="p275">275</n>

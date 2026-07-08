@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us463-0085.html" citation="463 U.S. 85" title="Shaw v. Delta Air Lines, Inc.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p85">85</n>
-    <h>U.S. Supreme Court</h>
-    <h>Shaw v. Delta Air Lines, Inc., <a href="./us463-0085.xml#p85">463 U.S. 85</a> (1983)</h>
-    <h>Shaw v. Delta Air Lines, Inc.</h>
-    <h>No. 81-1578</h>
-    <h>Argued January 10, 1983</h>
-    <h>Decided June 24, 1983<a href="./us463-0085.xml#p85">463 U.S. 85</a>ast|&gt;*</h>
-    <h><a href="./us463-0085.xml#p85">463 U.S. 85</a></h>
-    <h>APPEAL FROM THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE SECOND CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Shaw v. Delta Air Lines, Inc., <a href="./us463-0085.xml#p85">463 U.S. 85</a> (1983)</h1>
+    <h2>Shaw v. Delta Air Lines, Inc.</h2>
+    <h2>No. 81-1578</h2>
+    <h4>Argued January 10, 1983</h4>
+    <h4>Decided June 24, 1983<a href="./us463-0085.xml#p85">463 U.S. 85</a>ast|&gt;*</h4>
+    <h2>APPEAL FROM THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE SECOND CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>New York's Human Rights Law forbids discrimination in employee benefit plans on the basis of pregnancy, and its Disability Benefits Law requires employers to pay sick-leave benefits to employees unable to work because of pregnancy. Section 514(a) of the federal Employee Retirement Income Security Act of 1974 (ERISA) provides, with enumerated exceptions, that ERISA shall supersede "any and all state laws insofar as they may now or hereafter relate to any employee benefit plan" covered by ERISA. ERISA does not mandate that employers provide any particular benefits, and does not itself proscribe discrimination in the provision of employee benefits. Prior to the effective date of the Pregnancy Discrimination Act of 1978 (PDA), which made discrimination based on pregnancy unlawful under Title VII of the Civil Rights Act of 1964, appellee employers had welfare benefit plans subject to ERISA that did not provide benefits to employees disabled by pregnancy. Appellees brought three separate declaratory judgment actions in Federal District Court, alleging that the Human Rights Law was preempted by ERISA. Appellee airlines also alleged that the Disability Benefits Law was preempted. The District Court in each case held that the Human Rights Law was preempted, at least insofar as it required the provision of pregnancy benefits prior to the effective date of the PDA. As to appellee airlines' challenge to the Disability Benefits Law, the District Court construed § 4(b)(3) of ERISA as exempting from ERISA coverage those provisions of an employee benefit plan maintained to comply with state disability insurance laws, and, because it concluded that appellees would have provided pregnancy benefits solely to comply with the Disability Benefits Law, the court dismissed the portion of the complaint seeking relief from that law. The Court of Appeals affirmed as to the Human</p>
     <n id="p86">86</n>
     <p>Rights Law. With respect to the Disability Benefits Law, the Court of Appeals held that § 4(b)(3)'s exemption from preemption applied only when a benefit plan, "as an integral unit," is maintained solely to comply with the disability law. The Court of Appeals remanded for a determination whether appellee airlines provided benefits through such plans, in which event the Disability Benefits Law would be enforceable, or through portions of comprehensive plans, in which case ERISA regulation would be exclusive.</p>
@@ -29,7 +29,7 @@
     <n id="p88">88</n>
     <p>JUSTICE BLACKMUN delivered the opinion of the Court.</p>
     <p>New York's Human Rights Law forbids discrimination in employment, including discrimination in employee benefit plans on the basis of pregnancy. The State's Disability Benefits Law requires employers to pay sick leave benefits to employees unable to work because of pregnancy or other nonoccupational disabilities. The question before us is whether these New York laws are preempted by the federal Employee Retirement Income Security Act of 1974.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>A</p>
     <p>The Human Rights Law, N.Y. Exec. Law §§ 290-301 (McKinney 1982 and Supp.1982-1983), is a comprehensive antidiscrimination statute prohibiting, among other practices, employment discrimination on the basis of sex. § 296.1 (a). [<a id="nf1" href="#fn1">Footnote 1</a>] The New York Court of Appeals has held that a private employer whose employee benefit plan treats pregnancy differently from other nonoccupational disabilities engages in sex discrimination within the meaning of the Human Rights Law. Brooklyn Union Gas Co. v. New York State Human Rights Appeal Board, 41 N.Y.2d 84, 359 N.E.2d 393 (1976). In contrast, two weeks before the decision in Brooklyn Union Gas, this Court ruled that discrimination based on pregnancy was not sex discrimination under Title VII of the Civil Rights Act of 1964, 78 Stat. 253, as amended,</p>
     <n id="p89">89</n>
@@ -47,7 +47,7 @@
     <n id="p92">92</n>
     <p>of ERISA, 29 U.S.C. § 1003(b)(3), exempts from ERISA coverage employee benefit plans that are</p>
     <p>"maintained solely for the purpose of complying with applicable workmen's compensation laws or unemployment compensation or disability insurance laws."</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Appellees in this litigation, Delta Air Lines, Inc., and other airlines (Airlines), Burroughs Corporation (Burroughs), and Metropolitan Life Insurance Company (Metropolitan), provided their employees with various medical and disability benefits through welfare plans subject to ERISA. These plans, prior to the effective date of the Pregnancy Discrimination Act, did not provide benefits to employees disabled by pregnancy as required by the New York Human Rights Law and the State's Disability Benefits Law. Appellees brought three separate federal declaratory judgment actions against appellant state agencies and officials, [<a id="nf7" href="#fn7">Footnote 7</a>] alleging that the Human Rights Law was preempted by ERISA. The Airlines in their action alleged that the Disability Benefits Law was similarly preempted. [<a id="nf8" href="#fn8">Footnote 8</a>]</p>
     <p>The United States District Court in each case held that the Human Rights Law was preempted, at least insofar as it</p>
     <n id="p93">93</n>
@@ -58,7 +58,7 @@
     <n id="p95">95</n>
     <p>an integral unit," is maintained solely to comply with a disability law. Delta Air Lines, Inc. v. Kramarsky, 650 F.2d 1287, 1304 (1981). The court remanded for inquiries into whether the Airlines provided disability benefits through plans constituting separate administrative units, in which event the Disability Benefits Law would be enforceable, or through portions of comprehensive benefit plans, in which case ERISA regulation would be exclusive.</p>
     <p>Because courts have disagreed about the scope of ERISA's preemption provisions, [<a id="nf12" href="#fn12">Footnote 12</a>] and because of the continuing importance of the issues presented, [<a id="nf13" href="#fn13">Footnote 13</a>] we noted probable jurisdiction in all three cases. 456 U.S. 924 (1982).</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>In deciding whether a federal law preempts a state statute, our task is to ascertain Congress' intent in enacting the federal statute at issue.</p>
     <p>"Preemption may be either express or implied, and 'is compelled whether Congress' command is explicitly stated in the statute's language or implicitly contained in its structure and purpose.' Jones v. Rath Packing Co., <a href="https://law.justia.com/us/430/519/">430 U. S. 519</a>, <a href="https://law.justia.com/us/430/519/#525">430 U. S. 525</a> (1977)."</p>
     <p>Fidelity Federal Savings &amp; Loan Assn. v. De la Cuesta, <a href="../us458/us458-0141.xml#p141">458 U. S. 141</a>, <a href="../us458/us458-0141.xml#p152">458 U. S. 152</a>-153 (1982). See <a href="../us462/us462-0176.xml#p176">Exxon Corp. v. Eagerton</a>, 462 U.S.</p>
@@ -79,7 +79,7 @@
     <p>Id. at 29933. [<a id="nf20" href="#fn20">Footnote 20</a>]</p>
     <n id="p100">100</n>
     <p>Given the plain language of § 514(a), the structure of the Act, and its legislative history, we hold that the Human Rights Law and the Disability Benefits Law "relate to any employee benefit plan" within the meaning of ERISA's § 514(a). [<a id="nf21" href="#fn21">Footnote 21</a>]</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>We next consider whether any of the narrow exceptions to § 514(a) saves these laws from preemption.</p>
     <p>A</p>
     <p>Appellants argue that the Human Rights Law is exempt from preemption by § 514(d), which provides that § 514(a)</p>
@@ -118,7 +118,7 @@
     <p>jurisdiction within a plan is apparent. We see no reason to torture the plain language of § 4(b)(3) to achieve this result. Only separately administered disability plans maintained solely to comply with the Disability Benefits Law are exempt from ERISA coverage under § 4(b)(3).</p>
     <p>This is not to say, however, that the Airlines are completely free to circumvent the Disability Benefits Law by adopting plans that combine disability benefits inferior to those required by that law with other types of benefits. Congress surely did not intend, at the same time it preserved the role of state disability laws, to make enforcement of those laws impossible. A State may require an employer to maintain a disability plan complying with state law as a separate administrative unit. Such a plan would be exempt under § 4(b)(3). The fact that state law permits employers to meet their state law obligations by including disability insurance benefits in a multibenefit ERISA plan, see N.Y. Work.Comp.Law App. § 355.6 (McKinney Supp.1982-1983), does not make the state law wholly unenforceable as to employers who choose that option.</p>
     <p>In other words, while the State may not require an employer to alter its ERISA plan, it may force the employer to choose between providing disability benefits in a separately administered plan and including the state-mandated benefits in its ERISA plan. If the State is not satisfied that the ERISA plan comports with the requirements of its disability insurance law, it may compel the employer to maintain a separate plan that does comply. The Court of Appeals erred, therefore, in holding that appellants are not at all free to enforce the Disability Benefits Law against those appellees that provide disability benefits as part of multibenefit plans.</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>We hold that New York's Human Rights Law is preempted with respect to ERISA benefit plans only insofar as it prohibits practices that are lawful under federal law. To</p>
     <n id="p109">109</n>
     <p>this extent, the judgments of the Court of Appeals are affirmed. To the extent the Court of Appeals held any more of the Human Rights Law preempted, we vacate its judgments and remand the cases.</p>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us382-0399.html" citation="382 U.S. 399" title="Giaccio v. Pennsylvania">
   <opinion type="Opinions &amp; Dissents">
     <n id="p399">399</n>
-    <h>U.S. Supreme Court</h>
-    <h>Giaccio v. Pennsylvania, <a href="./us382-0399.xml#p399">382 U.S. 399</a> (1966)</h>
-    <h>Giaccio v. Pennsylvania</h>
-    <h>No. 47</h>
-    <h>Argued December 6, 1965</h>
-    <h>Decided January 19, 1966</h>
-    <h><a href="./us382-0399.xml#p399">382 U.S. 399</a></h>
-    <h>APPEAL FROM THE SUPREME COURT OF PENNSYLVANIA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Giaccio v. Pennsylvania, <a href="./us382-0399.xml#p399">382 U.S. 399</a> (1966)</h1>
+    <h2>Giaccio v. Pennsylvania</h2>
+    <h2>No. 47</h2>
+    <h4>Argued December 6, 1965</h4>
+    <h4>Decided January 19, 1966</h4>
+    <h2>APPEAL FROM THE SUPREME COURT OF PENNSYLVANIA</h2>
+    <h2>Syllabus</h2>
     <p>Appellant was acquitted following a jury trial on a misdemeanor indictment. Costs were assessed against him under an 1860 Pennsylvania statute permitting jurors to "determine, by their verdict, whether the [acquitted] defendant shall pay the costs," and providing for his commitment to jail in default of payment or security. The jury had been instructed that it could place the prosecution costs on appellant though found guiltless of the charges if nevertheless it found him guilty of "some misconduct" less than that charged, but which had brought on the prosecution and warranted some penalty short of conviction. The trial court upheld appellant's contention that the statute violated due process requirements of the Fourteenth Amendment. The intermediate appellate court reversed the trial court, and was sustained by the State Supreme Court.</p>
     <p>Held: The 1860 Act violates the Due Process Clause because of vagueness and the absence of any standards that would prevent arbitrary imposition of costs. Pp. <a href="./us382-0399.xml#p402">382 U. S. 402</a>-405.</p>
     <p>(a) Regardless of whether the Act is "penal" or "civil," it must meet the due process requirements of the Fourteenth Amendment. P. <a href="./us382-0399.xml#p402">382 U. S. 402</a>.</p>
@@ -21,7 +21,7 @@
     <p>Appellant Giaccio was indicted by a Pennsylvania grand jury and charged with two violations of a state statute which makes it a misdemeanor to wantonly point or discharge a firearm at any other person. [<a id="nf1" href="#fn1">Footnote 1</a>] In a trial before a judge and jury, appellant's defense was that the firearm he had discharged was a starter pistol which only fired blanks. The jury returned a verdict of not guilty on each charge, but acting pursuant to instructions of the court given under authority of a Pennsylvania statute of 1860, assessed against appellant the court costs of one of the charges (amounting to $230.95). The Act of 1860, set out below, [<a id="nf2" href="#fn2">Footnote 2</a>] provides, among other things, that:</p>
     <p>". . . in all cases of acquittals by the petit jury on indictments for [offenses other than felonies], the jury trying the same shall determine, by their verdict, whether the county, or the prosecutor, or the</p>
     <n id="p401">401</n>
-    <p>defendant shall pay the costs . . . , and whenever the jury shall determine, as aforesaid, that the . . . defendant shall pay the costs, the court in which the said determination shall be made shall forthwith pass sentence to that effect, and order him to be committed to the jail of the county until the costs are paid, unless he give security to pay the same within ten days."</p>
+    <p>defendant shall pay the costs . . ., and whenever the jury shall determine, as aforesaid, that the . . . defendant shall pay the costs, the court in which the said determination shall be made shall forthwith pass sentence to that effect, and order him to be committed to the jail of the county until the costs are paid, unless he give security to pay the same within ten days."</p>
     <p>Appellant made timely objections to the validity of this statute on several grounds, [<a id="nf3" href="#fn3">Footnote 3</a>] including an objection that the statute is unconstitutionally vague in violation of the Fourteenth Amendment's Due Process Clause because it authorizes juries to assess costs against acquitted defendants, with a threat of imprisonment until the costs are paid, without prescribing definite standards to govern the jury's determination. The trial court held the 1860 Act void for vagueness in violation of due process, set aside the jury's verdict imposing costs on the appellant, and vacated the</p>
     <p>"sentence imposed upon Defendant that he pay said costs forthwith or give security to pay the same within ten (10) days and to stand committed until he had complied therewith. [<a id="nf4" href="#fn4">Footnote 4</a>]"</p>
     <p>The Superior Court of Pennsylvania, one judge dissenting, reversed the trial court, closing its opinion this way:</p>

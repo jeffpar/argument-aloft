@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us484-0086.html" citation="484 U.S. 86" title="Langley v. FDIC">
   <opinion type="Opinions &amp; Dissents">
     <n id="p86">86</n>
-    <h>U.S. Supreme Court</h>
-    <h>Langley v. FDIC, <a href="./us484-0086.xml#p86">484 U.S. 86</a> (1987)</h>
-    <h>Langley v. Federal Deposit Insurance Corporation</h>
-    <h>No. 86-489</h>
-    <h>Argued October 14, 1987</h>
-    <h>Decided December 1, 1987</h>
-    <h>487 U.S. 86</h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE FIFTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Langley v. FDIC, <a href="./us484-0086.xml#p86">484 U.S. 86</a> (1987)</h1>
+    <h2>Langley v. Federal Deposit Insurance Corporation</h2>
+    <h2>No. 86-489</h2>
+    <h4>Argued October 14, 1987</h4>
+    <h4>Decided December 1, 1987</h4>
+    <h2>487 U.S. 86</h2>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE FIFTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>To finance the purchase of land in Louisiana, petitioners borrowed money from a bank insured by the Federal Deposit Insurance Corporation (FDIC) and, in consideration for the loan, executed a note, a collateral mortgage, and personal guarantees. When petitioners failed to pay an installment due on a renewal of the note, the bank filed suit for principal and interest in a Louisiana court, which suit was removed on diversity grounds to Federal District Court. Petitioners alleged, as a defense against the bank's claim, that the land purchase and their note had been procured by the bank's misrepresentations overstating the amount of land and mineral acres in the tract, and falsely stating that there were no outstanding mineral leases on the property. No references to the alleged representations appeared in the documents executed by petitioners, in the bank's records, or in the minutes of the bank's board of directors or loan committee. While the suit was pending, a Louisiana official closed the bank because of its unsound condition, and appointed the FDIC as receiver. The FDIC ultimately acquired petitioners' note, and was substituted as a plaintiff in this lawsuit. The District Court granted summary judgment for the FDIC, and the Court of Appeals affirmed, holding that the word "agreement" in a provision of the Federal Deposit Insurance Act of 1950, 12 U.S.C. § 1823(e), encompassed the kinds of material terms or warranties asserted by petitioners in their misrepresentation defense and, because § 1823(e)'s requirements were not met, the defense was barred. Section 1823(e) provides that no "agreement" tending to diminish or defeat the FDIC's "right, title or interest" in any asset acquired by the FDIC under the section shall be valid against the FDIC unless it shall have been (1) in writing, (2) executed contemporaneously with the bank's acquisition of the asset, (3) approved by the bank's board of directors or loan committee and reflected in the minutes of the board or committee, and (4) continuously, from the time of its execution, an official record of the bank.</p>
     <p>Held: A condition to payment of a note, including the truth of an express warranty, is part of the "agreement" to which the requirements of § 1823(e) attach. Because the representations alleged by petitioners</p>
     <n id="p87">87</n>
@@ -23,7 +24,7 @@
     <n id="p88">88</n>
     <p>JUSTICE SCALIA delivered the opinion of the Court.</p>
     <p>Petitioners W. T. and Maryanne Grimes Langley seek reversal of a decision by the United States Court of Appeals for the Fifth Circuit granting the Federal Deposit Insurance Corporation (FDIC) summary judgment on its claim for payment of a promissory note signed by petitioners. 792 F.2d 541 (1986). The Fifth Circuit rejected petitioners' contention that a defense of misrepresentation of existing facts is not barred by 12 U.S.C. §1823(e), because such a representation is not an "agreement" under that section. We granted certiorari to resolve a conflict in the Courts of Appeals. 479 U.S. 1028 (1987). Compare Gunter v. Hutcheson, 674 F.2d 862, 867 (CA11), cert. denied, 459 U.S. 826 (1982); FDIC v. Hatmaker, 756 F.2d 34, 37 (CA6 1985) (dictum).</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The Langleys purchased land in Pointe Coupee Parish, Louisiana, in 1980. To finance the purchase, they borrowed $450,000 from Planters Trust &amp; Savings Bank of Opelousas, Louisiana, a bank insured by the FDIC. In consideration for the loan, they executed a note, a collateral mortgage, and personal guarantees. The note was renewed several times, the last renewal being in March 1982, for the principal amount of $468,124.41.</p>
     <p>In October, 1983, after the Langleys had failed to pay the first installment due on the last renewal of the note, Planters brought the present suit for principal and interest in a Louisiana state trial court. The Langleys removed the suit, on grounds of diversity, to the United States District Court for the Middle District of Louisiana, where it was consolidated with a suit by the Langleys seeking more than $5 million in damages from Planters and others. The Langleys alleged as one of the grounds of complaint in their own suit, and as a defense against Planters' claim in the present suit, that the</p>
     <n id="p89">89</n>
@@ -32,7 +33,7 @@
     <p>In October, 1984, the FDIC was substituted as a plaintiff in this lawsuit, and moved for summary judgment on its claim. The District Court granted the motion, <a href="https://law.justia.com/cases/federal/district-courts/FSupp/615/749/1515162/">615 F. Supp. 749</a></p>
     <n id="p90">90</n>
     <p>(WD La.1985), and was sustained on appeal. The Fifth Circuit held that the word "agreement" in 12 U.S.C. § 1823(e) encompassed the kinds of material terms or warranties asserted by the Langleys in their misrepresentation defenses and, because the requirements of § 1823(e) were not met, those defenses were barred. 792 F.2d at 545-546. We granted the Langleys' petition for certiorari on the issue whether, in an action brought by the FDIC in its corporate capacity for payment of a note, § 1823(e) bars the defense that the note was procured by fraud in the inducement even when the fraud did not take the form of an express promise.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The Federal Deposit Insurance Act of 1950, § 13(e), 64 Stat. 889, as amended, 12 U.S.C. § 1823(e), provides:</p>
     <p>"No agreement which tends to diminish or defeat the right, title or interest of the Corporation [FDIC] in any asset acquired by it under this section, either as security for a loan or by purchase, shall be valid against the Corporation unless such agreement (1) shall be in writing, (2) shall have been executed by the bank and the person or persons claiming an adverse interest thereunder, including the obligor, contemporaneously with the acquisition of the asset by the bank, (3) shall have been approved by the board of directors of the bank or its loan committee, which approval shall be reflected in the minutes of said board or committee, and (4) shall have been, continuously, from the time of its execution, an official record of the bank."</p>
     <p>A</p>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us486-0825.html" citation="486 U.S. 825" title="Mackey v. Lanier Collection Agcy.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p825">825</n>
-    <h>U.S. Supreme Court</h>
-    <h>Mackey v. Lanier Collection Agcy., <a href="./us486-0825.xml#p825">486 U.S. 825</a> (1988)</h>
-    <h>Mackey v. Lanier Collection Agency &amp; Service, Inc.,</h>
-    <h>No. 86-1387</h>
-    <h>Argued April 19, 1988</h>
-    <h>Decided June 17, 1988</h>
-    <h><a href="./us486-0825.xml#p825">486 U.S. 825</a></h>
-    <h>CERTIORARI TO THE SUPREME COURT OF GEORGIA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Mackey v. Lanier Collection Agcy., <a href="./us486-0825.xml#p825">486 U.S. 825</a> (1988)</h1>
+    <h2>Mackey v. Lanier Collection Agency &amp; Service, Inc.,</h2>
+    <h2>No. 86-1387</h2>
+    <h4>Argued April 19, 1988</h4>
+    <h4>Decided June 17, 1988</h4>
+    <h2>CERTIORARI TO THE SUPREME COURT OF GEORGIA</h2>
+    <h2>Syllabus</h2>
     <p>After respondent collection agency obtained money judgments against participants in an "employee welfare benefit plan" covered by the Employee Retirement Income Security Act of 1974 (ERISA), its request to garnish the debtors' plan benefits was granted by a Georgia trial court. The State Court of Appeals reversed, holding that Ga.Code Ann. § 18-4-22.1 (1982), barring the garnishment of "[f]unds or benefits of [an] . . . employee benefit plan or program subject to . . . [ERISA]," exempted plan benefits from garnishment. The Georgia Supreme Court reversed, concluding that § 18-4-22.1 was preempted by ERISA, and that the plan was therefore subject to garnishment under the general state garnishment law.</p>
     <p>Held:</p>
     <p>1. Section 18-4-22.1, which singles out ERISA employee welfare benefit plans for different treatment than non-ERISA welfare plans under state garnishment procedures, is preempted under § 514(a) of ERISA, which supersedes any state law insofar as it "relate[s] to" ERISA-covered plans. The state statute's express reference to ERISA plans brings it within the federal law's preemptive reach. Shaw v. Delta Air Lines, Inc., <a href="../us463/us463-0085.xml#p85">463 U. S. 85</a>. Moreover, the possibility that § 18-4-22.1 was enacted to help effectuate ERISA's underlying purposes is not enough to save it from preemption, since § 514(a) displaces all state laws that fall within its sphere, including those that are consistent with ERISA's substantive requirements. Metropolitan Life Ins. Co. v. Massachusetts, <a href="../us471/us471-0724.xml#p724">471 U. S. 724</a>. Pp. <a href="./us486-0825.xml#p829">486 U. S. 829</a>-830.</p>
@@ -24,7 +24,7 @@
     <n id="p827">827</n>
     <p>JUSTICE WHITE delivered the opinion of the Court.</p>
     <p>The issue here is whether and to what extent the Georgia statutes bearing on the garnishment of funds due to participants in ERISA employee welfare benefit plans are preempted by the federal statute which governs such plans.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Petitioners are the trustees of an employee benefit plan that provides vacation and holiday benefits to eligible employees in several southeastern States. The covered workers draw their vacation benefits from the plan annually. The plan is an "employee welfare benefit plan" as defined by the Employee Retirement Income Security Act of 1974 (ERISA), 29 U.S.C. § 1002(1). [<a id="nf1" href="#fn1">Footnote 1</a>]</p>
     <p>Respondent is a collection agency. It sought and obtained money judgments</p>
     <n id="p828">828</n>
@@ -33,7 +33,7 @@
     <p>Because of conflicting decisions among the courts on the questions presented here, we granted certiorari. 483 U.S.</p>
     <n id="p829">829</n>
     <p>1004 (1987). We now affirm the Georgia Supreme Court's judgment. [<a id="nf3" href="#fn3">Footnote 3</a>]</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>ERISA § 514(a) preempts "any and all State laws insofar as they may now or hereafter relate to any employee benefit plan" covered by the statute. 29 U.S.C. § 1144(a). We believe that, under our precedents, Ga.Code Ann. § 18-4-22.1 is such a state law.</p>
     <p>The Georgia statute at issue here expressly refers to -- indeed, solely applies to -- ERISA employee benefit plans. See <a id="nf2" href="#fn2">n</a> 2, supra.</p>
     <p>"A law 'relates to' an employee benefit plan, in the normal sense of the phrase, if it has a connection with or reference to such a plan."</p>
@@ -42,7 +42,7 @@
     <p>"The preemption provision [of § 514(a)] . . . displace[s] all state laws that fall within its sphere, even including state laws that are consistent with ERISA's substantive requirements."</p>
     <p>Metropolitan Life Ins. Co. v. Massachusetts, supra, at <a href="../us471/us471-0724.xml#p739">471 U. S. 739</a>. The decision in Shaw particularly underscores this point. There, we found a New York antidiscrimination statute preempted under § 514(a), even though Congress had not expressed any intent in ERISA to approve of the employment practices that the State had banned by its statute. Shaw, supra, at <a href="../us463/us463-0085.xml#p97">463 U. S. 97</a>, n. 15, <a href="../us463/us463-0085.xml#p98">463 U. S. 98</a>-99. Legislative "good intentions" do not save a state law within the broad preemptive scope of § 514(a).</p>
     <p>Consequently, adhering to our precedents in this area, we hold that Ga.Code Ann. § 18-4-22.1, which singles out ERISA employee welfare benefit plans for different treatment under state garnishment procedures, [<a id="nf4" href="#fn4">Footnote 4</a>] is preempted under § 514(a). The state statute's express reference to ERISA plans suffices to bring it within the federal law's preemptive reach.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>A more complex question is posed by the argument of petitioners, rejected by the Georgia Supreme Court, that the entire Georgia garnishment procedure is preempted by ERISA. We reserved decision on the issue in Franchise Tax Board of California v. Construction Laborers Vacation Trust for Southern California, <a href="../us463/us463-0001.xml#p1">463 U. S. 1</a>, <a href="../us463/us463-0001.xml#p7">463 U. S. 7</a>, <a href="../us463/us463-0001.xml#p26">463 U. S. 26</a>, n. 30 (1983); the question, which is one of federal law, [<a id="nf5" href="#fn5">Footnote 5</a>] is a close</p>
     <n id="p831">831</n>
     <p>one. We believe, however, that petitioners' contention misapprehends ERISA's preemptive scope.</p>
@@ -85,7 +85,7 @@
     <p>"[T]he Committee reasserts that a state tax levy on employee welfare benefit plans is preempted by ERISA (see the holding of the 9th Circuit in Franchise Tax Board . . .)."</p>
     <p>H.R.Rep. No. 98-655, pt. 1, supra, at 42. This statement does suggest that the House Committee in 1984 thought that § 514(a) foreclosed state law attachment orders akin to those at issue here. But again, these views -- absent an amendment to the original language of the section -- do not direct our resolution of this case. Instead, we must look at the language of ERISA and its structure, to determine the intent of the Congress that originally enacted the provision in question. "It is the intent of the Congress that enacted [the section] . . . that controls." Teamsters v. United States, <a href="../us431/us431-0324.xml#p324">431 U. S. 324</a>, <a href="../us431/us431-0324.xml#p354">431 U. S. 354</a>, n. 39 (1977). This inquiry supports our reading of § 514(a), which is the reading given it by every other court that has considered the issue in this context (save the Ninth Circuit in a decision that was vacated by this Court).</p>
     <n id="p841">841</n>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>Accordingly, we hold that ERISA does not forbid garnishment of an ERISA welfare benefit plan, even where the purpose is to collect judgments against plan participants. Moreover, since we agree with the Georgia Supreme Court that the Georgia antigarnishment provision found in Ga.Code Ann. § 18-4-22.1 (1982) is preempted by ERISA, the judgment below is</p>
     <p>Affirmed.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>
@@ -154,7 +154,7 @@
       <p>The dissent claims that we are ignoring, in § 514(b)(7), "a positive expression of legislative will" that forecloses our interpretation of § 514(a). Post at <a href="./us486-0825.xml#p843">486 U. S. 843</a>. But whatever else one can say about the relevance of § 514 (b)(7) to this case, one cannot say that that statutory provision amounts to a congressional enactment that controls here. Section 514(b)(7) has no direct bearing on this case, because it involves a type of garnishment order not at issue here. The most one can glean from § 514(b)(7) is a sense of what Congress, in 1984, understood the scope of § 514(a) to be -- a sense that does not command our obedience here. Moreover, for the reasons we discuss above, we do not even think that it is clear that the 98th Congress actually read § 514(a) in the way that the dissent insists that it did.</p>
       <p>JUSTICE KENNEDY, with whom JUSTICE BLACKMUN, JUSTICE O'CONNOR, and JUSTICE SCALIA join, dissenting.</p>
       <p>When it enacted ERISA in 1974, Congress expressly preempted "any and all state laws insofar as they may now or hereafter relate to any employee benefit plan," and broadly defined "state law" to include "all laws, decisions, rules, regulations, or other State action having the effect of law." ERISA § 514, 29 U.S.C. § 1144. The Court holds that these provisions preempt a Georgia statute, Ga.Code Ann. § 18-4-22.1 (1982), specifically exempting ERISA plans from the State's garnishment laws. With this much I agree. The Court also holds, however, that § 514(a), ERISA's preemption provision, does not prohibit the garnishment of funds due to participants in ERISA welfare benefit plans. I believe that this latter conclusion is inconsistent with both the statute and our precedents and, with all respect, I dissent.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>We have said with repeated emphasis that the reach of § 514(a) is not limited to state laws specifically designed to affect employee benefit plans. See Pilot Life Ins. Co. v. Dedeaux, <a href="../us481/us481-0041.xml#p41">481 U. S. 41</a>, <a href="../us481/us481-0041.xml#p45">481 U. S. 45</a>-46 (1987); Shaw v. Delta Airlines, Inc., <a href="../us463/us463-0085.xml#p85">463 U. S. 85</a>, <a href="../us463/us463-0085.xml#p98">463 U. S. 98</a> (1983). Further, the reach of § 514(a) is not limited to state laws that conflict with the substantive provisions of ERISA. See Metropolitan Life Ins. Co. v. Massachusetts, <a href="../us471/us471-0724.xml#p724">471 U. S. 724</a>, <a href="../us471/us471-0724.xml#p739">471 U. S. 739</a> (1985). On the contrary,</p>
       <n id="p842">842</n>
       <p>the phrase "relate to" must be</p>
@@ -165,7 +165,7 @@
       <n id="p843">843</n>
       <p>disregards, however, the strong structural implication created by the limited scope of this exception. Surely Congress knew that similar questions concerning the validity of garnishment procedures would arise in other contexts. Indeed, the majority recognizes as much. See ante at 486 U.S. 840, citing H.R.Rep. No. 98-655, pt. 1, p. 42 (1984). Yet Congress decided to save from preemption only a limited class of garnishment orders, and then only upon specifically prescribed conditions. See 29 U.S.C. § 1056(d)(3)(B)(i) (1982 ed., Supp. IV) (defining "qualified domestic relations order"). The majority's conclusion that ERISA does not bar garnishment of welfare plan benefits renders nugatory this carefully calibrated legislative choice.</p>
       <p>It is no answer to say, as the majority does, that the "views of a subsequent Congress form a hazardous basis for inferring the intent of an earlier one.'" Ante at 486 U.S. 840, quoting United States v. Price, <a href="../us361/us361-0304.xml#p304">361 U. S. 304</a>, <a href="../us361/us361-0304.xml#p313">361 U. S. 313</a> (1960). For the views that the majority rejects are not the postenactment musings of a Member of Congress or congressional committee, but a positive expression of legislative will to which we are bound to give effect. In enacting § 514(b)(7), Congress dispelled any possible doubt concerning the circumstances under which welfare benefit plans are required to comply with state orders providing for the garnishment of plan benefits. The Court, which not infrequently calls upon Congress to manifest its intent more clearly, today disregards a clear answer given by Congress in a valid enactment.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>In reaching its conclusion that Georgia's garnishment statutes are not preempted in the circumstances of this case, the Court relies on two principal arguments. First, the Court notes that Congress contemplated that ERISA benefit plans would be subject to suit under certain circumstances. The majority notes, correctly, that civil enforcement actions are maintainable pursuant to 29 U.S.C. § 1132. The majority</p>
       <n id="p844">844</n>
       <p>points further to certain suits that may be brought "against ERISA plans for run-of-the-mill state law claims. . . ." Ante at <a href="./us486-0825.xml#p833">486 U. S. 833</a>. The Court reasons that, as ERISA does not provide an enforcement mechanism for collecting judgments won in such suits, Congress must have intended that state law methods of collection remain undisturbed.</p>

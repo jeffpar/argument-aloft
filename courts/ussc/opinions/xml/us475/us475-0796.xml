@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us475-0796.html" citation="475 U.S. 796" title="City of Los Angeles v. Heller">
   <opinion type="Opinions &amp; Dissents">
     <n id="p796">796</n>
-    <h>U.S. Supreme Court</h>
-    <h>City of Los Angeles v. Heller, <a href="./us475-0796.xml#p796">475 U.S. 796</a> (1986)</h>
-    <h>City of Los Angeles v. Heller</h>
-    <h>No. 85-531</h>
-    <h>Decided April 21, 1986</h>
-    <h><a href="./us475-0796.xml#p796">475 U.S. 796</a></h>
-    <h>ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED</h>
-    <h>STATES COURT OF APPEALS FOR THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>City of Los Angeles v. Heller, <a href="./us475-0796.xml#p796">475 U.S. 796</a> (1986)</h1>
+    <h2>City of Los Angeles v. Heller</h2>
+    <h2>No. 85-531</h2>
+    <h4>Decided April 21, 1986</h4>
+    <h2>ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED</h2>
+    <h2>STATES COURT OF APPEALS FOR THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondent was stopped by Los Angeles police officers, who suspected that he was driving while intoxicated, and was told that he was under arrest. When an officer attempted to handcuff him, an altercation developed and respondent fell through a plate-glass window. Respondent filed suit in Federal District Court under 42 U.S.C. § 1983, claiming damages from arrest without probable cause and from excessive force in the making of the arrest. During a bifurcated trial, his claims against the police officer were heard first, and the jury was instructed that respondent would make out his constitutional claim if he demonstrated he had been arrested without reasonable cause or with "unreasonable force" that exceeded the force necessary under the circumstances to effect arrest. The jury was not instructed on any affirmative defenses that might have been asserted by the officer. The jury returned a verdict for the officer, and the District Court dismissed the action against petitioners, the city and members of its Police Commission. The Court of Appeals reversed the judgment dismissing the case against petitioners, even though it did not disturb the verdict for the officer.</p>
     <p>Held: The Court of Appeals erred in apparently basing its reversal on the grounds that the jury could have believed that the officer, having followed Police Department regulations, was entitled in substance to a defense of good faith, and that such a belief would not negate the existence of a constitutional injury. The jury was not charged on any affirmative defense that the officer might have had -- such as good faith and qualified immunity -- and the theory under which jury instructions are given, and reviewed on appeal, provides that juries act in accordance with the instructions given them, and do not base their decisions on legal questions as to which they are not charged. The jury's finding of no constitutional injury was conclusive not only as to the officer, but also as to petitioners. Petitioners were sued only because they were thought legally responsible for the officer's actions; if the latter inflicted no constitutional injury on respondent, petitioners cannot be liable in damages to respondent, regardless</p>
     <n id="p797">797</n>
@@ -42,7 +42,7 @@
     <p>Whenever the Court decides a case without the benefit of briefs or argument on the merits, there is a danger that it will issue an opinion without the careful deliberation and explication that the issues require. Today's "per curiam" opinion is a fair illustration of the problem. The two important issues presented in this case are not even identified in that document. The District Court's decision to dismiss the action against the city, the Police Department, and the Police Commissioners necessarily rested on two assumptions: (1) there was an inherent inconsistency between the jury verdict in favor of Officer Bushey and a possible verdict against the municipal defendants and (2) that inconsistency required the dismissal of the action against the municipal defendants. Far from specifically addressing those issues, however, the District Court dismissed the action against the city on the ground that it had "become moot." [<a id="nf1" href="#fn1">Footnote 1</a>] In a similar vein, this</p>
     <n id="p801">801</n>
     <p>Court rests its summary decision on the maxim that "juries act in accordance with the instructions given them." Ante at <a href="./us475-0796.xml#p798">475 U. S. 798</a>. In my view, neither of the necessary assumptions for the District Court's action -- and for this Court's reinstatement of its decision -- is remotely present in this case.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The first necessary assumption is that there would be an inevitable inconsistency between the jury verdict of no liability for Officer Bushey and a possible verdict of liability against the municipal entities; in the absence of such an inconsistency, the District Court's decision, and this Court's reinstatement of it, are simply inexplicable.</p>
     <p>It is undisputed that Ronald Heller crashed through a plate-glass window after some kind of an altercation with Officer Bushey. He had been stopped on suspicion of driving while intoxicated and given sobriety tests. [<a id="nf2" href="#fn2">Footnote 2</a>] In his claim against the municipal entities, Heller contended that the city and the Police Department had adopted a policy of condoning excessive force in making arrests, that the policy was unlawful, and that he had been injured by the application of that policy at the time of his arrest. In his claim against Officer Bushey, Heller contended that his constitutional rights were violated because Officer Bushey had employed "unreasonable force" in arresting him.</p>
     <p>On the day before trial, the District Judge bifurcated the trial into two phases -- the first against Officer Bushey and the second against the municipal entities. The record contains no explanation for this decision, but it does reveal that Heller's counsel opposed bifurcation. [<a id="nf3" href="#fn3">Footnote 3</a>]</p>
@@ -55,7 +55,7 @@
     <p>As a result, there was no necessary inconsistency between the verdict for Officer Bushey and a possible verdict of liability</p>
     <n id="p804">804</n>
     <p>against the municipal defendants. On that basis alone, the District Court plainly erred in dismissing as "moot" the suit against the municipal defendants, and the Court of Appeals was plainly correct to reverse the dismissal. [<a id="nf9" href="#fn9">Footnote 9</a>]</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>In view of the fact that the Court of Appeals correctly concluded that there was no necessary inconsistency between a verdict exonerating Officer Bushey and a verdict holding the city and Police Department liable for the "escalating force" policy, it did not have to consider the appropriate response to a possible inconsistency in the context of a bifurcated trial.</p>
     <p>Inconsistent verdicts are, of course, a familiar phenomenon. In a criminal case, a jury's apparently inconsistent verdict is allowed to stand. [<a id="nf10" href="#fn10">Footnote 10</a>] In a civil case, the rule is less</p>
     <n id="p805">805</n>
@@ -67,7 +67,7 @@
     <p>If the Court's unprecedented, ill-considered, and far-reaching decision happens to be correct, defendants as a class have been presented with a tactical weapon of great value. By persuading trial judges to bifurcate trials in which both the principal and its agents are named as defendants, and to require the jury to bring in its verdict on the individual claim first, they may obtain the benefit of whatever intangible factors have prompted juries to bring in a multitude of inconsistent verdicts in past years; defendants will no longer have to abide the mechanisms that courts have used to mitigate</p>
     <n id="p808">808</n>
     <p>and resolve apparent inconsistencies. [<a id="nf16" href="#fn16">Footnote 16</a>] Perhaps that is an appropriate response to the current widespread concern about the potential liabilities of our municipalities, but I doubt it. Cf. Oklahoma City v. Tuttle, <a href="../us471/us471-0808.xml#p808">471 U. S. 808</a>, <a href="../us471/us471-0808.xml#p843">471 U. S. 843</a>-844 (1985) (STEVENS, J., dissenting).</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The Court today reverses an interlocutory decision in a constitutional rights case on the basis of assumptions that dramatically conflict with the record and with settled legal principles. The Court mistakenly assumes that there was a necessary inconsistency between the verdict of no liability against the individual officer and a possible verdict against the municipal defendants; it then mistakenly assumes that dismissal was an appropriate response to the perceived inconsistency. Perhaps not coincidentally, the Court achieves these results without the aid of briefs or argument, and relies on an anonymous author to explain what it has done.</p>
     <p>I respectfully dissent.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us426-0373.html" citation="426 U.S. 373" title="Bryan v. Itasca County">
   <opinion type="Opinions &amp; Dissents">
     <n id="p373">373</n>
-    <h>U.S. Supreme Court</h>
-    <h>Bryan v. Itasca County, <a href="./us426-0373.xml#p373">426 U.S. 373</a> (1976)</h>
-    <h>Bryan v. Itasca County</h>
-    <h>No. 75-5027</h>
-    <h>Argued April 20, 1976</h>
-    <h>Decided June 14, 1976</h>
-    <h><a href="./us426-0373.xml#p373">426 U.S. 373</a></h>
-    <h>CERTIORARI TO THE SUPREME COURT OF MINNESOTA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Bryan v. Itasca County, <a href="./us426-0373.xml#p373">426 U.S. 373</a> (1976)</h1>
+    <h2>Bryan v. Itasca County</h2>
+    <h2>No. 75-5027</h2>
+    <h4>Argued April 20, 1976</h4>
+    <h4>Decided June 14, 1976</h4>
+    <h2>CERTIORARI TO THE SUPREME COURT OF MINNESOTA</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner, an enrolled Chippewa Indian, brought this suit in state court seeking a declaratory judgment that the State of Minnesota and respondent county lacked authority to impose a personal property tax on his mobile home located on land held in trust for members of his tribe, and that imposition of such a tax contravened federal law. The trial court rejected the contention. The Minnesota Supreme Court affirmed, holding that the grant of civil jurisdiction to the State in § 4(a) of Pub.L. 280 includes taxing authority, and, since § 4(b) does not exempt nontrust property from such authority, the county had power to assess the tax. Section 4(a) gave various States, including Minnesota, with respect to all Indian country within the State except as specifically exempted,</p>
     <p>"jurisdiction over civil causes of action between Indians or to which Indians are parties which arise in the areas of Indian country listed . . . to the same extent that such State . . . has jurisdiction over other civil causes of action, and those civil laws of such State . . . that are of general application to private persons or private property shall have the same force and effect within such Indian country as they have elsewhere within the State. . . ."</p>
     <p>Though tax laws are not specifically mentioned, the State Supreme Court concluded that they were included, since the exempting provision, § 4(b), does not exempt nontrust property, but states that</p>
@@ -28,7 +28,7 @@
     <p>MR. JUSTICE BRENNAN delivered the opinion of the Court.</p>
     <p>This case presents the question reserved in McClanahan v. Arizona State Tax Comm'n, <a href="../us411/us411-0164.xml#p164">411 U. S. 164</a>, <a href="../us411/us411-0164.xml#p178">411 U. S. 178</a> n. 18 (1973): whether the grant of civil jurisdiction to the States conferred by § 4 of Pub.L. 280, 67 Stat. 589, 28 U.S.C. § 1360, is a congressional grant of power to the States to tax reservation Indians except insofar as taxation is expressly excluded by the terms of the statute.</p>
     <p>Petitioner Russell Bryan, an enrolled member of the Minnesota Chippewa Tribe, [<a id="nf1" href="#fn1">Footnote 1</a>] resides in a mobile home on land held in trust by the United States for the Chippewa Tribe on the Leech Lake Reservation in Minnesota. In June, 1972, petitioner received notices from the auditor of respondent Itasca County, Minn., that he had been assessed personal property tax liability on the mobile home totaling § 147.95. Thereafter, in September, 1972, petitioner brought this suit in the Minnesota District Court seeking a declaratory judgment that the State and county were without authority to levy such a tax on personal property of a reservation Indian on the reservation, and that imposition of such a tax was contrary to federal law. The Minnesota District Court rejected the contention and entered judgment for respondent county. The Minnesota Supreme Court affirmed, 303 Minn. 395, <a href="https://law.justia.com/cases/minnesota/supreme-court/1975/44947-1.html">228 N.W.2d 249</a> (1975). We granted certiorari, 423 U.S. 923 (1975), and now reverse.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Principles defining the power of States to tax reservation</p>
     <n id="p376">376</n>
     <p>Indians and their property and activities on federally established reservations were clarified in McClanahan v. Arizona State Tax Comm'n, supra. As summarized in its companion case, Mescalero Apache Tribe v. Jones, <a href="../us411/us411-0145.xml#p145">411 U. S. 145</a> (1973), McClanahan concluded:</p>
@@ -49,7 +49,7 @@
     <p>303 Minn. at 402, 228 N.W.2d at 253. [<a id="nf3" href="#fn3">Footnote 3</a>] Therefore, the state court held: "Public Law 280 is a clear grant of the power</p>
     <n id="p379">379</n>
     <p>to tax." Id. at 406, 228 N.W.2d at 256. [<a id="nf4" href="#fn4">Footnote 4</a>] We disagree. That conclusion is foreclosed by the legislative history of Pub.L. 280 and the application of canons of construction applicable to congressional statutes claimed to terminate Indian immunities.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The primary concern of Congress in enacting Pub.L. 280 that emerges from its sparse legislative history was with the problem of lawlessness on certain Indian reservations, and the absence of adequate tribal institutions for law enforcement. See Goldberg, Public Law 280: The Limits of State Jurisdiction over Reservation Indians, 22 U.C.L.A.L.Rev. 535, 541-542 (1975). The House Report states:</p>
     <p>"These States lack jurisdiction to prosecute Indians for most offenses committed on Indian reservations or other Indian country, with limited exceptions. The applicability of Federal criminal laws in States having Indian reservations is also limited. The United States district courts have a measure of jurisdiction over offenses committed on Indian reservations or other Indian country by or against Indians, but, in cases of offenses committed by Indians against Indians, that jurisdiction is limited to the so-called 10 major crimes: murder, manslaughter, rape, incest, assault with intent to kill, assault with a dangerous weapon, arson, burglary, robbery, and larceny."</p>
     <p>"As a practical matter, the enforcement of law</p>
@@ -92,7 +92,7 @@
     <p>difficult to suppose that Congress, in 1968, intended the meaning of § 4 to vary depending upon the time and method by which particular States acquired jurisdiction. And certainly the legislative history of Title IV makes it difficult to construe § 4 jurisdiction acquired pursuant to Title IV as extending general state civil regulatory authority, including taxing power, to govern Indian reservations. Senator Ervin, who offered and principally sponsored Title IV, see Kennerly v. District Court of Montana, supra at <a href="../us400/us400-0423.xml#p429">400 U. S. 429</a> n. 5, referred to § 1360 civil jurisdiction as follows:</p>
     <p>"Certain representatives of municipalities have charged that the repeal of [§ 7 of] Public Law 280 would hamper air and water pollution controls and provide a haven for undesirable, unrestricted business establishments within tribal land borders. Not only does this assertion show the lack of faith that certain cities have in the ability and desire of Indian tribes to better themselves and their environment, but, most importantly, it is irrelevant, since Public Law 280 relates primarily to the application of state civil and criminal law in court proceedings, and has no bearing on programs set up by the States to assist economic and environmental development in Indian territory."</p>
     <p>(Emphasis added.) Hearing before the Subcommittee on Indian Affairs of the House Committee on Interior and Insular Affairs, No. 90-23, 90th Cong., 2d Sess., 136 (1968).</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Other considerations also support our construction. Today's congressional policy toward reservation Indians may less clearly than in 1953 favor their assimilation, but Pub.L. 280 was plainly not meant to effect total assimilation. Public L. 280 was only one of many types of assimilationist legislation under active consideration</p>
     <n id="p388">388</n>
     <p>in 1953. H.R.Rep. No. 848, pp. 5; Santa Rosa Band of Indians v. Kings County, 532 F.2d 655, 662 (CA9 1975). [<a id="nf13" href="#fn13">Footnote 13</a>] And nothing in its legislative history remotely suggests that Congress meant the Act's extension of civil jurisdiction to the States should result in the undermining or destruction of such tribal governments as did exist and a conversion of the affected tribes into little more than "private, voluntary organizations,'" United States v. Mazurie, <a href="../us419/us419-0544.xml#p544">419 U. S. 544</a>, <a href="../us419/us419-0544.xml#p557">419 U. S. 557</a> (1975) -- a possible result if tribal governments and reservation Indians were subordinated to the full panoply of civil regulatory powers, including taxation, of state and local governments. [<a id="nf14" href="#fn14">Footnote 14</a>] The Act itself refutes such an</p>
@@ -104,7 +104,7 @@
     <p>§§ 564j, 749, 898, and provide that"</p>
     <p>"all statutes of the United States which affect Indians because of their status as Indians shall no longer be applicable to the members of the tribe, and the laws of the several States shall apply to the tribe and its members in the same manner as they apply to other citizens or persons within their jurisdiction."</p>
     <p>25 U.S.C. §§ 564q, 757, 899; cf. 25 U.S.C. § 726. These contemporaneous termination Acts are in pari materia with Pub.L. 280. Menominee Tribe v. United States, 391 U.S. at <a href="../us391/us391-0404.xml#p411">391 U. S. 411</a>. Reading this express language respecting state taxation and application of the full range of state laws to tribal members of these contemporaneous termination Acts, the negative inference is that Congress did not mean in § 4(a) to subject reservation Indians to state taxation. Thus, rather than inferring a negative implication of a grant of general taxing power in § 4(a) from the exclusion of certain taxation in § 4(b), we conclude that construing Pub.L. 280 in pari materia with these Acts shows that, if Congress, in enacting Pub.L. 280, had intended to confer upon the States general civil regulatory powers, including taxation, over reservation Indians, it would have expressly said so.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>Additionally, we note that § 4(b), excluding</p>
     <p>"taxation of any real or personal property . . . belonging to any Indian or any Indian tribe . . . that is held in trust by the United States or is subject to a restriction against alienation imposed by the United States,"</p>
     <p>is not obviously the narrow exclusion of state taxation that the Minnesota Supreme Court read it to be. On its face, the statute is not clear whether the exclusion is applicable only to taxes levied directly on the trust property specifically or whether it also excludes taxation on activities</p>

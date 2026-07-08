@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us468-0420.html" citation="468 U.S. 420" title="Berkemer v. McCarty">
   <opinion type="Opinions &amp; Dissents">
     <n id="p420">420</n>
-    <h>U.S. Supreme Court</h>
-    <h>Berkemer v. McCarty, <a href="./us468-0420.xml#p420">468 U.S. 420</a> (1984)</h>
-    <h>Berkemer v. McCarty</h>
-    <h>No. 83-710</h>
-    <h>Argued April 18, 1984</h>
-    <h>Decided July 2, 1984</h>
-    <h><a href="./us468-0420.xml#p420">468 U.S. 420</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE SIXTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Berkemer v. McCarty, <a href="./us468-0420.xml#p420">468 U.S. 420</a> (1984)</h1>
+    <h2>Berkemer v. McCarty</h2>
+    <h2>No. 83-710</h2>
+    <h4>Argued April 18, 1984</h4>
+    <h4>Decided July 2, 1984</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE SIXTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>After observing respondent's car weaving in and out of a highway lane, an officer of the Ohio State Highway Patrol forced respondent to stop and asked him to get out of the car. Upon noticing that respondent was having difficulty standing, the officer concluded that respondent would be charged with a traffic offense and would not be allowed to leave the scene, but respondent was not told that he would be taken into custody. When respondent could not perform a field sobriety test without falling, the officer asked him if he had been using intoxicants, and he replied that he had consumed two beers and had smoked marihuana a short time before. The officer then formally arrested respondent and drove him to a county jail, where a blood test failed to detect any alcohol in respondent's blood. Questioning was then resumed, and respondent again made incriminating statements, including an admission that he was "barely" under the influence of alcohol. At no point during this sequence was respondent given the warnings prescribed by Miranda v. Arizona, <a href="../us384/us384-0436.xml#p436">384 U. S. 436</a>. Respondent was charged with the misdemeanor under Ohio law of operating a motor vehicle while under the influence of alcohol and/or drugs, and when the state court denied his motion to exclude the various incriminating statements on the asserted ground that their admission into evidence would violate the Fifth Amendment because respondent had not been informed of his constitutional rights prior to his interrogation, he pleaded "no contest," and was convicted. After the conviction was affirmed on appeal by the Franklin County Court of Appeals and the Ohio Supreme Court denied review, respondent filed an action in Federal District Court for habeas corpus relief. The District Court dismissed the petition, but the Court of Appeals reversed, holding that Miranda warnings must be given to all individuals prior to custodial interrogation, whether the offense investigated is a felony or a misdemeanor traffic offense, and that respondent's post-arrest statements, at least, were inadmissible.</p>
     <p>Held:</p>
     <p>1. A person subjected to custodial interrogation is entitled to the benefit of the procedural safeguards enunciated in Miranda, regardless of the nature or severity of the offense of which he is suspected or for which</p>
@@ -27,7 +27,7 @@
     <p>This case presents two related questions: First, does our decision in Miranda v. Arizona, <a href="../us384/us384-0436.xml#p436">384 U. S. 436</a> (1966), govern the admissibility of statements made during custodial interrogation by a suspect accused of a misdemeanor traffic</p>
     <n id="p423">423</n>
     <p>offense? Second, does the roadside questioning of a motorist detained pursuant to a traffic stop constitute custodial interrogation for the purposes of the doctrine enunciated in Miranda?</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>A</p>
     <p>The parties have stipulated to the essential facts. See App. to Pet. for Cert. A-1. On the evening of March 31, 1980, Trooper Williams of the Ohio State Highway Patrol observed respondent's car weaving in and out of a lane on Interstate Highway 270. After following the car for two miles, Williams forced respondent to stop and asked him to get out of the vehicle. When respondent complied, Williams noticed that he was having difficulty standing. At that point,</p>
     <p>"Williams concluded that [respondent] would be charged with a traffic offense, and therefore his freedom to leave the scene was terminated."</p>
@@ -54,7 +54,7 @@
     <n id="p427">427</n>
     <p>Miranda to interrogations involving minor offenses [<a id="nf7" href="#fn7">Footnote 7</a>] and to questioning of motorists detained pursuant to traffic stops. [<a id="nf8" href="#fn8">Footnote 8</a>] 464 U.S. 1038 (1984).</p>
     <n id="p428">428</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>The Fifth Amendment provides: "No person . . . shall be compelled in any criminal case to be a witness against himself. . . ." It is settled that this provision governs state as well as federal criminal proceedings. Malloy v. Hogan, <a href="../us378/us378-0001.xml#p1">378 U. S. 1</a>, <a href="../us378/us378-0001.xml#p8">378 U. S. 8</a> (1964).</p>
     <p>In Miranda v. Arizona, <a href="../us384/us384-0436.xml#p436">384 U. S. 436</a> (1966), the Court addressed the problem of how the privilege against compelled self-incrimination guaranteed by the Fifth Amendment could be protected from the coercive pressures that can be brought to bear upon a suspect in the context of custodial interrogation. The Court held:</p>
     <p>"[T]he prosecution may not use statements, whether exculpatory or inculpatory, stemming from custodial interrogation of [a] defendant unless it demonstrates the use of procedural safeguards effective to secure the privilege against self-incrimination. By custodial interrogation, we mean questioning initiated by law enforcement officers after a person has been taken into custody or otherwise deprived of his freedom of action in any significant way. As for the procedural safeguards to be employed, unless other fully effective means are devised to inform accused persons of their right of silence and to assure a continuous opportunity to exercise it, the</p>
@@ -83,7 +83,7 @@
     <p>The implication of this holding is that the Court of Appeals was correct in ruling that the statements made by respondent at the County Jail were inadmissible. There can be no question that respondent was "in custody" at least as of the moment he was formally placed under arrest and instructed to get into the police car. Because he was not informed of</p>
     <n id="p435">435</n>
     <p>his constitutional rights at that juncture, respondent's subsequent admissions should not have been used against him.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>To assess the admissibility of the self-incriminating statements made by respondent prior to his formal arrest, we are obliged to address a second issue concerning the scope of our decision in Miranda: whether the roadside questioning of a motorist detained pursuant to a routine traffic stop should be considered "custodial interrogation." Respondent urges that it should, [<a id="nf22" href="#fn22">Footnote 22</a>] on the ground that Miranda, by its terms, applies whenever "a person has been taken into custody or otherwise deprived of his freedom of action in any significant way," 384 U.S. at <a href="../us384/us384-0436.xml#p444">384 U. S. 444</a> (emphasis added); see id. at <a href="../us384/us384-0436.xml#p467">384 U. S. 467</a>. [<a id="nf23" href="#fn23">Footnote 23</a>]</p>
     <n id="p436">436</n>
     <p>Petitioner contends that a holding that every detained motorist must be advised of his rights before being questioned would constitute an unwarranted extension of the Miranda doctrine.</p>
@@ -110,7 +110,7 @@
     <n id="p442">442</n>
     <p>informed that his detention would not be temporary. Although Trooper Williams apparently decided as soon as respondent stepped out of his car that respondent would be taken into custody and charged with a traffic offense, Williams never communicated his intention to respondent. A policeman's unarticulated plan has no bearing on the question whether a suspect was "in custody" at a particular time; the only relevant inquiry is how a reasonable man in the suspect's position would have understood his situation. [<a id="nf35" href="#fn35">Footnote 35</a>] Nor do other aspects of the interaction of Williams and respondent support the contention that respondent was exposed to "custodial interrogation" at the scene of the stop. From aught that appears in the stipulation of facts, a single police officer asked respondent a modest number of questions and requested him to perform a simple balancing test at a location visible to passing motorists. [<a id="nf36" href="#fn36">Footnote 36</a>] Treatment of this sort cannot fairly be characterized as the functional equivalent of formal arrest.</p>
     <p>We conclude, in short, that respondent was not taken into custody for the purposes of Miranda until Williams arrested him. Consequently, the statements respondent made prior to that point were admissible against him.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>We are left with the question of the appropriate remedy. In his brief, petitioner contends that, if we agree with the</p>
     <n id="p443">443</n>
     <p>Court of Appeals that respondent's postarrest statements should have been suppressed, but conclude that respondent's prearrest statements were admissible, we should reverse the Court of Appeals' judgment on the ground that the state trial court's erroneous refusal to exclude the postarrest admissions constituted "harmless error" within the meaning of Chapman v. California, <a href="../us386/us386-0018.xml#p18">386 U. S. 18</a> (1967). Relying on Milton v. Wainwright, <a href="../us407/us407-0371.xml#p371">407 U. S. 371</a> (1972), petitioner argues that the statements made by respondent at the police station "were merely recitations of what respondent had already admitted at the scene of the traffic arrest," and therefore were unnecessary to his conviction. Brief for Petitioner 25. We reject this proposed disposition of the case for three cumulative reasons.</p>
@@ -233,7 +233,7 @@
     </f>
     <f n="35"><a id="fn35" href="#nf35">Footnote 35</a>
       <p>Cf. Beckwith v. United States, <a href="../us425/us425-0341.xml#p341">425 U. S. 341</a>, <a href="../us425/us425-0341.xml#p346">425 U. S. 346</a>-347 (1976) ("</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>t was the compulsive aspect of custodial interrogation, and not the strength or content of the government's suspicions at the time the questioning was conducted, which led the Court to impose the Miranda requirements with regard to custodial questioning'") (quoting United States v. Caiello, 420 F.2d 471, 473 (CA2 1969)); People v. P., <a href="https://law.justia.com/cases/new-york/court-of-appeals/1967/21-n-y-2d-1-0.html">21 N.Y.2d 1</a>, 9-10, 233 N.E.2d 255, 260 (1967) (an objective, reasonable man test is appropriate because, unlike a subjective test, it "is not solely dependent either on the self-serving declarations of the police officers or the defendant, nor does it place upon the police the burden of anticipating the frailties or idiosyncracies of every person whom they question").</p>
     </f>
     <f n="36"><a id="fn36" href="#nf36">Footnote 36</a>

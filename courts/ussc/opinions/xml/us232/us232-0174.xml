@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us232-0174.html" citation="232 U.S. 174" title="Taney v. Penn National Bank">
   <opinion type="Opinions &amp; Dissents">
     <n id="p174">174</n>
-    <h>U.S. Supreme Court</h>
-    <h>Taney v. Penn National Bank, <a href="./us232-0174.xml#p174">232 U.S. 174</a> (1914)</h>
-    <h>Taney v. Penn National Bank of Reading</h>
-    <h>No. 115</h>
-    <h>Argued December 9, 10, 1913</h>
-    <h>Decided January 26, 1914</h>
-    <h><a href="./us232-0174.xml#p174">232 U.S. 174</a></h>
-    <h>APPEAL FROM THE CIRCUIT COURT OF APPEALS</h>
-    <h>FOR THE THIRD CIRCUIT</h>
-    <h>In determining the relative rights of the trustee in bankruptcy and a secured creditor, the legal effect of the transaction securing the loan depends upon the local law.</h>
-    <h>The rule that physical retention by the vendor of goods capable of delivery to the vendee is a fraud per se does not apply in Pennsylvania in a transaction the inherent nature of which necessarily precludes delivery, or in which the absence of a physical delivery is excused by the applicable usages of trade.</h>
-    <h>Page 232 U. S. 175</h>
-    <h>Under the revenue laws of the United States, the government, although not strictly a bailee, is in complete control of a distillery warehouse which is in effect a bonded warehouse of the United States.</h>
-    <h>A distiller is not debarred from passing title or creating a special interest by way of pledge in whiskey deposited in his distillery warehouse in conformity with the revenue laws of the United States.</h>
-    <h>This Court will not condemn honest transactions growing out of the recognized necessities of a lawful business, and so held that the established practice of the distillery business to issue warehouse receipts for whiskey deposited in the distillery warehouse and pledge such receipts as security for loans is not one opposed to public policy.</h>
-    <h>In Pennsylvania, certificates issued by the owner of a distillery on whiskey in the distillery warehouse represent the property, and the delivery thereof as security for a loan made in good faith and in accordance with the usages of the trade amounts to actual delivery of the property itself.</h>
-    <h>187 F. 689 affirmed.</h>
-    <h>The facts, which involve the relative rights of the trustee in bankruptcy, and the holder as security for loans of warehouse receipts for whiskey in a distilling warehouse issued by the distiller, are stated in the opinion.</h>
-    <h>Page 232 U. S. 179</h>
-    <h>MR. JUSTICE HUGHES delivered the opinion of the Court.</h>
-    <h>On February 3, 1908, a petition in bankruptcy was filed against the Miller Pure Rye Distilling Company; it was adjudicated a bankrupt on February 19, 1908, and the appellant was appointed trustee. The Penn National Bank of Reading, Pennsylvania, the appellee, intervened in the bankruptcy proceeding with a petition asking for the delivery to it of 200 barrels of whisky stored in the bonded warehouse of the distilling company upon the ground that the property had been lawfully pledged by the company to the bank. The district court sustained the lien and accordingly held the claimant entitled to the delivery sought (176 F. 606), and, on appeal, this decree was affirmed by the circuit court of appeals (187 F. 689).</h>
-    <h>The pertinent facts are these: on August 27, 1907, the bank lent to the distilling company $2,500, for which the company gave its four months' note, reciting the deposit with the bank, as collateral security, of "200 bbls. whisky in bonded warehouse at Womelsdorf, Pa. as per Warehouse Rects. gauger's ctf. etc. accompanying." The form of the receipts is shown by the following copy of one of them:</h>
-    <h>"No. 5454 25 Bbls."</h>
-    <h>"First District of Pennsylvania"</h>
-    <h>"United States Internal Revenue Distillery Bonded"</h>
-    <h>"Warehouse of Miller Pure Rye Distilling Company"</h>
-    <h>"Ryeland, Berks Co., Pa. August 26th, 1907"</h>
-    <h>"Received on Storage from Ourselves Twenty-five (25) Barrels of Miller Pure Rye Whiskey Distilled, Marked and Numbered as per Record Attached, Subject to our Order and Risk of Loss or Damage by Fire, The Elements, Leakage, Evaporation or Accident, Deliverable only upon Surrender of this Certificate, Payment of Tax and other</h>
-    <h>Page 232 U. S. 180</h>
-    <h>Charges due Thereon, and Storage at the Rate of Five Cents per Barrel per month, from August 26th, 1907."</h>
-    <h>"Inspection Spring 1907"</h>
-    <h>"Stored in Warehouse No. 2"</h>
-    <h>"Serial Nos. of Packages 7964/7988"</h>
-    <h>"Miller Pure Rye Distilling Co."</h>
-    <h>"S. v. Nagle, President"</h>
-    <h>"Address all Communications to Miller Pure Rye Distilling Company, Philadelphia, Pa."</h>
-    <h>"Special Notice -- Particular care should be taken of this Certificate, as the whisky cannot be delivered without its surrender."</h>
-    <h>These receipts were indorsed by the company, and, with the gauger's certificates, were delivered to the bank. The whisky itself was not actually delivered, and remained in the bonded warehouse. The note not being paid at maturity, the bank, upon notice, sold the warehouse receipts at public sale on February 5, 1908, and became the purchaser. This sale, however, is not material to the present question, which turns upon the validity of the lien.</h>
-    <h>There is no doubt as to the intention and actual good faith of the parties. The loan was made in reliance upon the designated security, and the ground of attack is that the lien failed for want of delivery of possession.</h>
-    <h>The legal effect of the transaction depends upon the local law. Thompson v. Fairbanks, <a href="../us196/us196-0516.xml#p516">196 U. S. 516</a>; Humphrey v. Tatman, <a href="../us198/us198-0091.xml#p91">198 U. S. 91</a>; York Mfg. Co. v. Cassell, <a href="../us201/us201-0344.xml#p344">201 U. S. 344</a>; Hiscock v. Varick Bank, <a href="../us206/us206-0028.xml#p28">206 U. S. 28</a>; Security Warehousing Co. v. Hand, <a href="../us206/us206-0415.xml#p415">206 U. S. 415</a>, <a href="../us206/us206-0415.xml#p425">206 U. S. 425</a>; Bryant v. Swofford Bros. Dry Goods Co., <a href="../us214/us214-0279.xml#p279">214 U. S. 279</a>. Reviewing the decisions of the Supreme Court of Pennsylvania with respect to sales, the principles of which were deemed to be applicable, the circuit court of appeals reached the following conclusion:</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Taney v. Penn National Bank, <a href="./us232-0174.xml#p174">232 U.S. 174</a> (1914)</h1>
+    <h2>Taney v. Penn National Bank of Reading</h2>
+    <h2>No. 115</h2>
+    <h4>Argued December 9, 10, 1913</h4>
+    <h4>Decided January 26, 1914</h4>
+    <h2>APPEAL FROM THE CIRCUIT COURT OF APPEALS</h2>
+    <h2>FOR THE THIRD CIRCUIT</h2>
+    <h2>In determining the relative rights of the trustee in bankruptcy and a secured creditor, the legal effect of the transaction securing the loan depends upon the local law.</h2>
+    <h2>The rule that physical retention by the vendor of goods capable of delivery to the vendee is a fraud per se does not apply in Pennsylvania in a transaction the inherent nature of which necessarily precludes delivery, or in which the absence of a physical delivery is excused by the applicable usages of trade.</h2>
+    <h2>Page 232 U. S. 175</h2>
+    <h2>Under the revenue laws of the United States, the government, although not strictly a bailee, is in complete control of a distillery warehouse which is in effect a bonded warehouse of the United States.</h2>
+    <h2>A distiller is not debarred from passing title or creating a special interest by way of pledge in whiskey deposited in his distillery warehouse in conformity with the revenue laws of the United States.</h2>
+    <h2>This Court will not condemn honest transactions growing out of the recognized necessities of a lawful business, and so held that the established practice of the distillery business to issue warehouse receipts for whiskey deposited in the distillery warehouse and pledge such receipts as security for loans is not one opposed to public policy.</h2>
+    <h2>In Pennsylvania, certificates issued by the owner of a distillery on whiskey in the distillery warehouse represent the property, and the delivery thereof as security for a loan made in good faith and in accordance with the usages of the trade amounts to actual delivery of the property itself.</h2>
+    <h2>187 F. 689 affirmed.</h2>
+    <h2>The facts, which involve the relative rights of the trustee in bankruptcy, and the holder as security for loans of warehouse receipts for whiskey in a distilling warehouse issued by the distiller, are stated in the opinion.</h2>
+    <h2>Page 232 U. S. 179</h2>
+    <h2>MR. JUSTICE HUGHES delivered the opinion of the Court.</h2>
+    <h4>On February 3, 1908, a petition in bankruptcy was filed against the Miller Pure Rye Distilling Company; it was adjudicated a bankrupt on February 19, 1908, and the appellant was appointed trustee. The Penn National Bank of Reading, Pennsylvania, the appellee, intervened in the bankruptcy proceeding with a petition asking for the delivery to it of 200 barrels of whisky stored in the bonded warehouse of the distilling company upon the ground that the property had been lawfully pledged by the company to the bank. The district court sustained the lien and accordingly held the claimant entitled to the delivery sought (176 F. 606), and, on appeal, this decree was affirmed by the circuit court of appeals (187 F. 689).</h4>
+    <h4>The pertinent facts are these: on August 27, 1907, the bank lent to the distilling company $2,500, for which the company gave its four months' note, reciting the deposit with the bank, as collateral security, of "200 bbls. whisky in bonded warehouse at Womelsdorf, Pa. as per Warehouse Rects. gauger's ctf. etc. accompanying." The form of the receipts is shown by the following copy of one of them:</h4>
+    <h2>"No. 5454 25 Bbls."</h2>
+    <h2>"First District of Pennsylvania"</h2>
+    <h2>"United States Internal Revenue Distillery Bonded"</h2>
+    <h2>"Warehouse of Miller Pure Rye Distilling Company"</h2>
+    <h4>"Ryeland, Berks Co., Pa. August 26th, 1907"</h4>
+    <h2>"Received on Storage from Ourselves Twenty-five (25) Barrels of Miller Pure Rye Whiskey Distilled, Marked and Numbered as per Record Attached, Subject to our Order and Risk of Loss or Damage by Fire, The Elements, Leakage, Evaporation or Accident, Deliverable only upon Surrender of this Certificate, Payment of Tax and other</h2>
+    <h2>Page 232 U. S. 180</h2>
+    <h4>Charges due Thereon, and Storage at the Rate of Five Cents per Barrel per month, from August 26th, 1907."</h4>
+    <h4>"Inspection Spring 1907"</h4>
+    <h2>"Stored in Warehouse No. 2"</h2>
+    <h2>"Serial Nos. of Packages 7964/7988"</h2>
+    <h2>"Miller Pure Rye Distilling Co."</h2>
+    <h2>"S. v. Nagle, President"</h2>
+    <h2>"Address all Communications to Miller Pure Rye Distilling Company, Philadelphia, Pa."</h2>
+    <h2>"Special Notice -- Particular care should be taken of this Certificate, as the whisky cannot be delivered without its surrender."</h2>
+    <h4>These receipts were indorsed by the company, and, with the gauger's certificates, were delivered to the bank. The whisky itself was not actually delivered, and remained in the bonded warehouse. The note not being paid at maturity, the bank, upon notice, sold the warehouse receipts at public sale on February 5, 1908, and became the purchaser. This sale, however, is not material to the present question, which turns upon the validity of the lien.</h4>
+    <h2>There is no doubt as to the intention and actual good faith of the parties. The loan was made in reliance upon the designated security, and the ground of attack is that the lien failed for want of delivery of possession.</h2>
+    <h2>The legal effect of the transaction depends upon the local law. Thompson v. Fairbanks, <a href="../us196/us196-0516.xml#p516">196 U. S. 516</a>; Humphrey v. Tatman, <a href="../us198/us198-0091.xml#p91">198 U. S. 91</a>; York Mfg. Co. v. Cassell, <a href="../us201/us201-0344.xml#p344">201 U. S. 344</a>; Hiscock v. Varick Bank, <a href="../us206/us206-0028.xml#p28">206 U. S. 28</a>; Security Warehousing Co. v. Hand, <a href="../us206/us206-0415.xml#p415">206 U. S. 415</a>, <a href="../us206/us206-0415.xml#p425">206 U. S. 425</a>; Bryant v. Swofford Bros. Dry Goods Co., <a href="../us214/us214-0279.xml#p279">214 U. S. 279</a>. Reviewing the decisions of the Supreme Court of Pennsylvania with respect to sales, the principles of which were deemed to be applicable, the circuit court of appeals reached the following conclusion:</h2>
     <p>"It suffices to say that the law of</p>
     <n id="p181">181</n>
     <p>Pennsylvania in respect of the question we are now considering is settled by a line of cases extending through nearly a century. Starting with the policy of the statute of Elizabeth for the circumvention of fraud and deceit in sales of personal property (which nowhere in terms refers to retention of possession by a vendor), it has wisely developed the spirit of that statute and evolved the salutary rule that, where there is nothing in the case but the retention of a physical possession by the vendor, which he is capable of delivering to the vendee, such retention is fraud per se, and not merely evidence of fraud, even though there be nothing inconsistent with the most perfect honesty. But this rule is not applied by the courts of Pennsylvania to cases where the inherent nature of the transaction and the attendant circumstances are such as to preclude the possibility of a delivery by the vendor that would be consistent with the avowed and fair purpose of the sale, or where the absence of a physical delivery is excused by the usages of the trade or business in which the sale was made."</p>

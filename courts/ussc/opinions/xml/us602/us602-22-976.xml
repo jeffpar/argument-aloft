@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us602-22-976.html" citation="602 U.S. 22-976" title="Garland v. Cargill">
   <opinion type="Opinion" author="Thomas">
     <p>NOTICE: This opinion is subject to formal revision before publication in the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, pio@supremecourt.gov, of any typographical or other formal errors.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 22–976</p>
-    <p>_________________</p>
     <p>MERRICK B. GARLAND, ATTORNEY GENERAL, et al., PETITIONERS v. MICHAEL CARGILL</p>
     <p>on writ of certiorari to the united states court of appeals for the fifth circuit</p>
     <p>[June 14, 2024]</p>
@@ -83,9 +82,7 @@
   </opinion>
   <opinion type="Concurrence" author="Alito">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 22–976</p>
-    <p>_________________</p>
     <p>MERRICK B. GARLAND, ATTORNEY GENERAL, et al., PETITIONERS v. MICHAEL CARGILL</p>
     <p>on writ of certiorari to the united states court of appeals for the fifth circuit</p>
     <p>[June 14, 2024]</p>
@@ -96,9 +93,7 @@
   </opinion>
   <opinion type="Dissent" author="Sotomayor">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 22–976</p>
-    <p>_________________</p>
     <p>MERRICK B. GARLAND, ATTORNEY GENERAL, et al., PETITIONERS v. MICHAEL CARGILL</p>
     <p>on writ of certiorari to the united states court of appeals for the fifth circuit</p>
     <p>[June 14, 2024]</p>
@@ -109,7 +104,7 @@
     <p>I</p>
     <p>A</p>
     <p>Machineguns were originally developed in the 19th century as weapons of war. See J. Ellis, The Social History of the Machine Gun 21–45 (1986) (Ellis). Smaller and lighter submachine guns were not commercially available until the 1920s. See Brief for Patrick J. Charles as Amicus Curiae 5 (Charles Brief ). Although these weapons were originally marketed to law enforcement, they inevitably made it into the hands of gangsters. See id., at 8–9; Ellis 149–165. Gangsters like Al Capone used machineguns to rob banks, ambush the police, and murder rivals. See Ellis 153–154, 157–158. Newspaper headlines across the country flashed “ ‘Gangsters Use Machine Guns,’ ” “ ‘Machine Gun Used in Bank Hold-Up,’ ” and “ ‘Machine Gun Thugs Kill Postal Employee.’ ” Charles Brief 9.</p>
-    <p>Congress responded in 1934 by sharply restricting civilian ownership of machineguns. See National Firearms Act of 1934, §§3–6, 48Stat. 1236, 1237–1238. The Senate Report explaining the 1934 Act emphasized that the “gangster as a law violator must be deprived of his most dangerous weapon, the machine gun.” S. Rep. No. 1444, 73d Cong., 2d Sess., 1–2. “[W]hile there is justification for permitting the citizen to keep a pistol or revolver for his own protection . . . , there is no reason why anyone except a law officer should have a machine gun.” Id., at 2.</p>
+    <p>Congress responded in 1934 by sharply restricting civilian ownership of machineguns. See National Firearms Act of 1934, §§3–6, 48Stat. 1236, 1237–1238. The Senate Report explaining the 1934 Act emphasized that the “gangster as a law violator must be deprived of his most dangerous weapon, the machine gun.” S. Rep. No. 1444, 73d Cong., 2d Sess., 1–2. “[W]hile there is justification for permitting the citizen to keep a pistol or revolver for his own protection . . ., there is no reason why anyone except a law officer should have a machine gun.” Id., at 2.</p>
     <p>These early machineguns allowed a shooter to fire in a variety of ways. Some would fire continuously with a single pull of the trigger or push of a button. See Charles Brief 7, and n. 12 (noting that a Browning M1918 rifle fired eight rounds “ ‘in a second with one pull of the trigger’ ”); see also Brief for Petitioners 22 (noting that a Browning M2 fired with a push of the thumb). Others, such as the famous Thompson Submachine Gun Caliber .45, or “Tommy Gun,” would fire continuously only so long as the shooter maintained backward pressure on the trigger; a shooter could still fire single shots by pulling and releasing the trigger each time. See Test of Thompson Submachine Gun, 69 Army and Navy Register 355 (Apr. 9, 1921) (noting that the shooter of a Tommy Gun “can fire the contents of the magazine with a single prolonged pull or fire a single shot by merely releasing the trigger”). The internal mechanisms of automatic-fire weapons also varied enormously, with many (such as the Tommy Gun) relying principally on the recoil energy produced by each bullet’s discharge to effectuate automatic fire. See, e.g., War Dept., Basic Field Manual: Thompson Submachine Gun, Caliber .45, M1928A1, p. 1 (1941) (“The Thompson submachine gun . . . is an air-cooled, recoil-operated, magazine-fed weapon”); W. Smith, Small Arms of the World: The Basic Manual of Military Small Arms 165 (1955) (describing Tommy guns as “recoil operated weapons on the elementary blowback principle”).</p>
     <p>To account for these differences, Congress adopted a definition of “machinegun” that captured “any weapon which shoots, or is designed to shoot, automatically . . . more than one shot, without manual reloading, by a single function of the trigger.” National Firearms Act, 48Stat. 1236. That essential definition still governs today. See 26 U. S. C. §5845(b).[<a id="nf3-1" href="#fn3-1">1</a>]</p>
     <p>B</p>

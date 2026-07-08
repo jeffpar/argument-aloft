@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us608-25-197.html" citation="608 U.S. 25-197" title="T. M. v. University of Md. Medical System Corporation">
   <opinion type="Opinion" author="Sotomayor">
     <p>NOTICE: This opinion is subject to formal revision before publication in the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, pio@supremecourt.gov, of any typographical or other formal errors.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 25–197</p>
-    <p>_________________</p>
     <p>T. M., PETITIONER v. UNIVERSITY OF MARYLAND MEDICAL SYSTEM CORPORATION, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the fourth circuit</p>
     <p>[June 18, 2026]</p>
@@ -67,9 +66,7 @@
   </opinion>
   <opinion type="Concurrence" author="Thomas">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 25–197</p>
-    <p>_________________</p>
     <p>T. M., PETITIONER v. UNIVERSITY OF MARYLAND MEDICAL SYSTEM CORPORATION, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the fourth circuit</p>
     <p>[June 18, 2026]</p>
@@ -110,7 +107,7 @@
     <p>As creatures of statute, inferior federal courts “possess no jurisdiction but what is given them by the power that creates them.” Ibid. They have “none” beyond what Congress “authorize[s].” Ibid. Whether inferior federal courts have revising power thus depends on whether a statute says that they do. C. Williams, Jurisdiction and Practice of Federal Courts 433 (1917) (Williams). Today, statutes say that courts of appeals have revising power over district-court judgments, 28 U. S. C. §1291, and that district courts have revising power over bankruptcy-court judgments, §158(a)(1).</p>
     <p>Since the founding, there has been no doubt that inferior “federal” courts have the power “to review the proceedings of ” “State courts” only if Congress, in its “discretion,” has given them “appellate jurisdiction” to do so.[<a id="nf2-3" href="#fn2-3">3</a>] The Federalist Nos. 81, 82, at 488–490, 493–495 (A. Hamilton); see also Hudson, 7 Cranch, at 33. Congress “is not limited by the constitution to any particular mode, or time of exercising it,” but there must be a statutory grant of revising power over state-court judgments before inferior courts can revise them. Hunter’s Lessee, 1 Wheat., at 349; accord, 3 Story §1755, at 627 (“any form, which the legislature may choose to prescribe”).</p>
     <p>Congress has never purported to give inferior federal courts general revising power over state-court judgments for errors of federal law. The First Congress declared that, in federal-question cases, “a final judgment or decree” of “the highest court of law or equity of a State” “may be re-examined and reversed or affirmed in” this Court. Judiciary Act of 1789, §25, 1Stat. 85–86. Congress called that revising power “appellate jurisdiction” and identified the mode as a writ of error. §§13, 25, id., at 80–81, 85–86. It gave no other federal court revising power over “courts of the several states.” §13, id., at 81. And, it gave no other federal court civil federal-question jurisdiction, either. Cf. §§9, 11, id., at 75–79. Thus, only state courts could exercise original jurisdiction in federal-question cases, and only this federal Court could revise their judgments.</p>
-    <p>It took Congress 86 years to give federal district courts federal-question jurisdiction, but it limited that jurisdiction to original actions. See Schweiker v. Chilicky, 487 U.S. 412, 420–421 (1988). In 1875, Congress granted federal courts “original” jurisdiction, “concurrent with the courts of the several States,” over federal-question cases. Act of Mar. 3, 1875, ch. 137, §1, 18Stat. 470. But, that grant of original jurisdiction was not a grant of revising power. No inferior federal court was “empowered . . . to enjoin the judgment of a State court.” D. Chamberlain, The State Judiciary, in Constitutional History of the United States 254 (1889); id., at 253–259. State-court “judgments and decrees” were “subject in all cases . . . arising under the Constitution,” or federal law, “to the revising or appellate jurisdiction of the Supreme Court . . . , but in all other cases controlled only by the constitutions and laws of the respective States.” Id., at 259.</p>
+    <p>It took Congress 86 years to give federal district courts federal-question jurisdiction, but it limited that jurisdiction to original actions. See Schweiker v. Chilicky, 487 U.S. 412, 420–421 (1988). In 1875, Congress granted federal courts “original” jurisdiction, “concurrent with the courts of the several States,” over federal-question cases. Act of Mar. 3, 1875, ch. 137, §1, 18Stat. 470. But, that grant of original jurisdiction was not a grant of revising power. No inferior federal court was “empowered . . . to enjoin the judgment of a State court.” D. Chamberlain, The State Judiciary, in Constitutional History of the United States 254 (1889); id., at 253–259. State-court “judgments and decrees” were “subject in all cases . . . arising under the Constitution,” or federal law, “to the revising or appellate jurisdiction of the Supreme Court . . ., but in all other cases controlled only by the constitutions and laws of the respective States.” Id., at 259.</p>
     <p>Nothing relevant has changed since 1875.[<a id="nf2-4" href="#fn2-4">4</a>] See Atlantic Coast Line R. Co. v. Locomotive Engineers, 398 U.S. 281, 286 (1970). Thus was the state of the law before Rooker. 263 U. S., at 416; Act of Mar. 3, 1911, §§24–27, 36Stat. 1091–1094; Act of Sept. 6, 1916, ch. 448, §2, 39Stat. 726; Williams 48–49 (“The appellate jurisdiction [of district courts] is very slender”). And, it remains true today that district courts have only “original jurisdiction” in federal-question cases, 28 U. S. C. §1331, and that only this Court has appellate jurisdiction over state courts in such cases, §1257(a). See ante, at 5. Congress specified no mode for district courts to exercise appellate jurisdiction in federal-question cases, §1331; the only federal court authorized to do so over state courts is this one—“by writ of certiorari,” §1257(a).</p>
     <p>A district court therefore cannot “act as an appellate Court” to revise state-court judgments. Smith v. McIver, 9 Wheat. 532, 535 (1824) (Marshall, C. J., for the Court). To do so by “declar[ing]” a state-court judgment “void” for errors of federal law “usurps the jurisdiction of an appellate court.” Voorhees, 10 Pet., at 474.</p>
     <p>III</p>
@@ -122,9 +119,7 @@
   </opinion>
   <opinion type="Dissent" author="Barrett">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 25–197</p>
-    <p>_________________</p>
     <p>T. M., PETITIONER v. UNIVERSITY OF MARYLAND MEDICAL SYSTEM CORPORATION, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the fourth circuit</p>
     <p>[June 18, 2026]</p>

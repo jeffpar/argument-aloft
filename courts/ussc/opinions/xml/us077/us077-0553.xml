@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us077-0553.html" citation="77 U.S. 553" title="Pennsylvania v. Quicksilver Company">
   <opinion type="Opinions &amp; Dissents">
     <n id="p553">553</n>
-    <h>U.S. Supreme Court</h>
-    <h>Pennsylvania v. Quicksilver Company, 77 U.S. 553 (1870)</h>
-    <h>Pennsylvania v. Quicksilver Company</h>
-    <h>77 U.S. (10 Wall.) 553</h>
-    <h>ON MOTION TO DISMISS AN ORIGINAL WRIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Pennsylvania v. Quicksilver Company, 77 U.S. 553 (1870)</h1>
+    <h2>Pennsylvania v. Quicksilver Company</h2>
+    <h2>77 U.S. (10 Wall.) 553</h2>
+    <h2>ON MOTION TO DISMISS AN ORIGINAL WRIT</h2>
+    <h2>Syllabus</h2>
     <p>1. In a suit against a corporation by one state, an averment that the defendant is a body politic by the law of another state, named and "doing business" in it, is not sufficient to give jurisdiction to this Court.</p>
     <p>2. This Court has no original jurisdiction of a suit brought by a state against its own citizens.</p>
     <p>The first clause of the second section of the third article of the Constitution ordains that the judicial power shall extend to certain cases named, and among them "to controversies between a state and the citizens of another state."</p>

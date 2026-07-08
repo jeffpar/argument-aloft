@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us487-0099.html" citation="487 U.S. 99" title="Braswell v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p99">99</n>
-    <h>U.S. Supreme Court</h>
-    <h>Braswell v. United States, <a href="./us487-0099.xml#p99">487 U.S. 99</a> (1988)</h>
-    <h>Braswell v. United States</h>
-    <h>No. 87-3</h>
-    <h>Argued March 1, 1988</h>
-    <h>Decided June 22, 1988</h>
-    <h><a href="./us487-0099.xml#p99">487 U.S. 99</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE FIFTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Braswell v. United States, <a href="./us487-0099.xml#p99">487 U.S. 99</a> (1988)</h1>
+    <h2>Braswell v. United States</h2>
+    <h2>No. 87-3</h2>
+    <h4>Argued March 1, 1988</h4>
+    <h4>Decided June 22, 1988</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE FIFTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>A federal grand jury issued a subpoena to petitioner as the president of two corporations, requiring him to produce the corporations' records. The subpoena provided that petitioner could deliver the records to the agent serving the subpoena, and did not require petitioner to testify. The corporations involved were incorporated by petitioner, who is the sole shareholder of one of them. Petitioner, his wife, and his mother are the directors of both corporations, and his wife and mother are secretary-treasurer and vice-president of the corporations, respectively, but neither has any authority over the corporations' business affairs. The District Court denied petitioner's motion to quash the subpoena, holding that the "collective entity doctrine" prevented petitioner from asserting that his act of producing the corporations' records was protected by the Fifth Amendment privilege against self-incrimination. The Court of Appeals affirmed.</p>
     <p>Held: The custodian of corporate records may not resist a subpoena for such records on the ground that the act of production will incriminate him in violation of the Fifth Amendment. This Court's precedents as to the development of the collective entity doctrine do not support petitioner's argument that, even though the contents of subpoenaed business records are not privileged, and even though corporations are not protected by the Fifth Amendment, nevertheless his act of producing the documents has independent testimonial significance, which would incriminate him individually, and that the Fifth Amendment prohibits Government compulsion of that act. If petitioner had conducted his business as a sole proprietorship, United States v. Doe, <a href="../us465/us465-0605.xml#p605">465 U. S. 605</a>, would require that he be provided the opportunity to show that his act of production would entail testimonial self-incrimination as to admissions that the records existed, were in his possession, and were authentic. However, representatives of a collective entity act as agents, and the official records of the organization that are held by them in a representative, rather than a personal, capacity cannot be the subject of their personal privilege against self-incrimination, even though production of the papers might tend to incriminate them personally. The plain mandate of the precedents is that the corporate entity doctrine applies regardless of the corporation's size, and regardless of whether the subpoena is addressed</p>
     <n id="p100">100</n>
@@ -182,7 +182,7 @@
       <n id="p120">120</n>
       <p>in some vaguely defined circumstances. This exercise admits what the Court denied in the first place, namely, that compelled compliance with the subpoena implicates the Fifth Amendment self-incrimination privilege.</p>
       <p>The majority's apparent reasoning is that collective entities have no privilege, and so their employees must have none either. The Court holds that a corporate agent must incriminate himself even when he is named in the subpoena and is a target of the investigation, and even when it is conceded that compliance requires compelled, personal, testimonial, incriminating assertions. I disagree with that conclusion; find no precedent for it; maintain that, if there is a likelihood of personal self-incrimination the narrow use immunity permitted by statute can be granted without frustrating the investigation of collective entities; and submit that basic Fifth Amendment principles should not be avoided and manipulated, which is the necessary effect of this decision.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>A</p>
       <p>There is some common ground in this case. All accept the longstanding rule that labor unions, corporations, partnerships, and other collective entities have no Fifth Amendment self-incrimination privilege; that a natural person cannot assert such a privilege on their behalf; and that the contents of business records prepared without compulsion can be used to incriminate even a natural person without implicating Fifth Amendment concerns. Further, all appear to concede, or at least submit the case to us on the assumption, that the act of producing the subpoenaed documents will effect personal incrimination of Randy Braswell, the individual to whom the subpoena is directed.</p>
       <p>The petitioner's assertion of the Fifth Amendment privilege against the forced production of documents is based not on any contention that their contents will incriminate him, but instead upon the unchallenged premise that the act of production will do so. When the case is presented on this assumption,</p>
@@ -229,7 +229,7 @@
       <p>In Doe I, we declined expressly to do what the Court does today. Noting that there might well be testimonial assertions attendant upon the production of documents, we rejected the argument that compelled production necessarily carried with it a grant of constructive immunity. We held that immunity may be granted only by appropriate statutory proceedings. The Government must make a formal request</p>
       <n id="p129">129</n>
       <p>for statutory use immunity under 18 U.S.C. §§ 6002, 6003 if it seeks access to records in exchange for its agreement not to use testimonial acts against the individual. 465 U.S. at <a href="../us465/us465-0605.xml#p614">465 U. S. 614</a>-617. Rather than beginning the practice of establishing new judicially created evidentiary rules, conferring upon individuals some partial use immunity to avoid results the Court finds constitutionally intolerable, I submit our precedents require the Government to use the only mechanism yet sanctioned for compelling testimony that is privileged: a request for immunity as provided by statute.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>The majority's abiding concern is that, if a corporate officer who is the target of a subpoena is allowed to assert the privilege, it will impede the Government's power to investigate corporations, unions, and partnerships, to uncover and prosecute white-collar crimes, and otherwise to enforce its visitatorial powers. There are at least two answers to this. The first, and most fundamental, is that the text of the Fifth Amendment does not authorize exceptions premised on such rationales. Second, even if it were proper to invent such exceptions, the dangers prophesied by the majority are overstated.</p>
       <p>Recognition of the right to assert a privilege does not mean it will exist in many cases. In many instances, the production of documents may implicate no testimonial assertions at all. In Fisher, for example, we held that the specific acts required by the subpoena before us "would not itself involve testimonial self-incrimination" because, in that case,</p>
       <p>"the existence and location of the papers [were] a foregone conclusion, and the taxpayer adds little or nothing to the sum total of the Government's information by conceding that he in fact has the papers."</p>

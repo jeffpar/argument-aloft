@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us450-0346.html" citation="450 U.S. 346" title="Delta Air Lines, Inc. v. August">
   <opinion type="Opinions &amp; Dissents">
     <n id="p346">346</n>
-    <h>U.S. Supreme Court</h>
-    <h>Delta Air Lines, Inc. v. August, <a href="./us450-0346.xml#p346">450 U.S. 346</a> (1981)</h>
-    <h>Delta Air Lines, Inc. v. August</h>
-    <h>No. 79-814</h>
-    <h>Argued November 12, 1980</h>
-    <h>Decided March 9, 1981</h>
-    <h><a href="./us450-0346.xml#p346">450 U.S. 346</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SEVENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Delta Air Lines, Inc. v. August, <a href="./us450-0346.xml#p346">450 U.S. 346</a> (1981)</h1>
+    <h2>Delta Air Lines, Inc. v. August</h2>
+    <h2>No. 79-814</h2>
+    <h4>Argued November 12, 1980</h4>
+    <h4>Decided March 9, 1981</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SEVENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Held: Federal Rule of Civil Procedure 68 -- which provides that, if a plaintiff rejects a defendant's formal settlement offer "to allow judgment to be taken against him," and if "the judgment finally obtained by the offeree is not more favorable than the offer," the plaintiff "must pay the costs incurred after the making of the offer" -- does not apply to a case in which judgment is entered against the plaintiff-offeree and in favor of the defendant-offeror. Pp. <a href="./us450-0346.xml#p350">450 U. S. 350</a>-361.</p>
     <p>(a) This interpretation is dictated by Rule 68's plain language -- "judgment finally obtained by the offeree . . . not more favorable than the offer" -- which confines the Rule's effect to a case in which the plaintiff has obtained a judgment for an amount less favorable than the defendant's settlement offer. Moreover, because the Rule contemplates that a "judgment taken" against a defendant is one favorable to the plaintiff, it follows that a judgment "obtained" by the plaintiff is also a favorable one. Pp. <a href="./us450-0346.xml#p350">450 U. S. 350</a>-352.</p>
     <p>(b) Such interpretation of Rule 68 is also consistent with the Rule's purpose to encourage the settlement of litigation, since the Rule provides an inducement to settle those cases in which there is a strong probability that the plaintiff will obtain a judgment but the amount of recovery is uncertain. It could not have been reasonably intended, on the one hand, affirmatively to grant the district judge discretion to deny costs to the prevailing party under Rule 54 (d) -- which provides that costs shall be allowed to the prevailing party unless the trial court otherwise directs -- and then, on the other hand, to give defendants -- and only defendants -- the power to take away that discretion by performing a token act of making a nominal settlement offer. In both of the situations in which Rule 68 does not apply -- judgments in the defendant's favor or in the plaintiff's favor for an amount greater than the settlement offer -- the trial judge retains his Rule 54(d) discretion. Rule 68's plain language makes it unnecessary to read a requirement into the Rule that only a reasonable settlement offer triggers the rule. A literal interpretation avoids the problem of sham offers, because such an offer will serve no purpose, and a defendant will be encouraged to make only realistic settlement offers. Pp. <a href="./us450-0346.xml#p352">450 U. S. 352</a>-356.</p>
@@ -29,7 +29,7 @@
     <p>case was tried; and plaintiff lost. The District Court entered judgment in favor of defendant and directed that each party bear its own costs. Defendant then moved for modification of the judgment, contending that, under Rule 68, the plaintiff should be required to pay the costs incurred by defendant after the offer of judgment had been refused. The District Court denied the motion on the ground that the $450 offer had not been made in a good faith attempt to settle the case, and therefore did not trigger the cost-shifting provisions of Rule 68. [<a id="nf3" href="#fn3">Footnote 3</a>] The Court of Appeals affirmed on the same ground, 600 F.2d 699 (CA7 1979), holding that Rule 68 applied only if the defendant's settlement offer was sufficient "to justify serious consideration by the plaintiff." [<a id="nf4" href="#fn4">Footnote 4</a>]</p>
     <n id="p350">350</n>
     <p>In finding a reasonableness requirement in the Rule, the Court of Appeals did not confront the threshold question whether Rule 68 has any application to a case in which judgment is entered against the plaintiff-offeree and in favor of the defendant-offeror. Our resolution of the case, however, turns on that threshold question. The answer is dictated by the plain language, the purpose, and the history of Rule 68.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Rule 68 prescribes certain consequences for formal settlement offers made by "a party defending against a claim." [<a id="nf5" href="#fn5">Footnote 5</a>] The Rule has no application to offers made by the plaintiff. The Rule applies to settlement offers made by the defendant in two situations: (a) before trial, and (b) in a bifurcated proceeding, after the liability of the defendant has been determined "by verdict or order or judgment." In either situation, if the plaintiff accepts the defendant's offer, "either party may then file the offer . . . and thereupon the clerk shall enter judgment." If, however, the offer is not accepted, it is deemed withdrawn "and evidence thereof is not admissible except in a proceeding to determine costs." The plaintiff's rejection of the defendant's offer becomes significant in such a proceeding to determine costs. [<a id="nf6" href="#fn6">Footnote 6</a>]</p>
     <n id="p351">351</n>
     <p>Under Rule 54(d) of the Federal Rules of Civil Procedure, the party prevailing after judgment recovers costs unless the trial court otherwise directs. [<a id="nf7" href="#fn7">Footnote 7</a>] Rule 68 could conceivably alter the Rule 54(d) presumption in favor of the prevailing party after three different kinds of judgments are entered: (1) a judgment in favor of the defendant; (2) a judgment in favor of the plaintiff but for an amount less than the defendant's settlement offer; or (3) a judgment for the plaintiff for an amount greater than the settlement offer. The question presented by this case is which of these three situations is described by the words "judgment finally obtained by the offeree . . . not more favorable than the offer."</p>
@@ -37,7 +37,7 @@
     <p>This reading of the plain language of the Rule is supported by other language contained in the Rule. The Rule applies when the defendant offers to have "judgment . . . taken against him." Because the Rule obviously contemplates that a "judgment taken" against a defendant is one favorable to the plaintiff, it follows that a judgment "obtained" by the plaintiff is also a favorable one</p>
     <n id="p352">352</n>
     <p>In sum, if we limit our analysis to the text of the Rule itself, it is clear that it applies only to offers made by the defendant and only to judgments obtained by the plaintiff. It therefore is simply inapplicable to this case, because it was the defendant that obtained the judgment.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Our interpretation of the Rule is consistent with its purpose. The purpose of Rule 68 is to encourage the settlement of litigation. [<a id="nf8" href="#fn8">Footnote 8</a>] In all litigation, the adverse consequences of potential defeat provide both parties with an incentive to settle in advance of trial. Rule 68 provides an additional inducement to settle in those cases in which there is a strong probability that the plaintiff will obtain a judgment but the amount of recovery is uncertain. Because prevailing plaintiffs presumptively will obtain costs under Rule 54(d), Rule 68 imposes a special burden on the plaintiff to whom a formal settlement offer is made. If a plaintiff rejects a Rule 68 settlement offer, he will lose some of the benefits of victory if his recovery is less than the offer. [<a id="nf9" href="#fn9">Footnote 9</a>] Because costs are usually assessed against the losing party, liability for costs is a normal incident of defeat. Therefore, a nonsettling plaintiff does not run the risk of suffering additional burdens that do not ordinarily attend a defeat, and Rule 68 would provide little, if any, additional incentive if it were applied when the plaintiff loses.</p>
     <n id="p353">353</n>
     <p>Defendant argues that Rule 68 does provide such an incentive, because it operates to deprive the district judge of the discretion vested in him by Rule 54(d). According to this reasoning, Rule 68 is mandatory, and a district judge must assess costs against a plaintiff who rejects a settlement offer and then either fails to obtain a judgment or recovers less than the offer. Therefore, nonsettling plaintiffs could not reject settlement offers in the expectation that the judge might exercise his discretion to deny the defendant costs if the defendant wins. [<a id="nf10" href="#fn10">Footnote 10</a>]</p>
@@ -49,7 +49,7 @@
     <p>The Court of Appeals, perceiving the anomaly of allowing defendants to control the discretion of district judges by making sham offers, resolved the problem by holding that only reasonable offers trigger the operation of Rule 68. But the plain language of the Rule makes it unnecessary to read a reasonableness requirement into the Rule. A literal interpretation totally avoids the problem of sham offers, because such an offer will serve no purpose, and a defendant will be encouraged to make only realistic settlement offers. [<a id="nf15" href="#fn15">Footnote 15</a>] The</p>
     <n id="p356">356</n>
     <p>Federal Rules are to be construed to "secure the just, speedy, and inexpensive determination of every action." Fed.Rule Civ.Proc. l. If a plaintiff chooses to reject a reasonable offer, then it is fair that he not be allowed to shift the cost of continuing the litigation to the defendant in the event that his gamble produces an award that is less than or equal to the amount offered. But it is hardly fair or evenhanded to make the plaintiff's rejection of an utterly frivolous settlement offer a watershed event that transforms a prevailing defendant's right to costs in the discretion of the trial judge into an absolute right to recover the costs incurred after the offer was made. [<a id="nf16" href="#fn16">Footnote 16</a>]</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>This interpretation of the language of the Rule and its clear purpose is further compelled by the history of Rule 68. Rule 68 is an outgrowth of the equitable practice of denying costs to a plaintiff "when he sues vexatiously after refusing an offer of settlement." [<a id="nf17" href="#fn17">Footnote 17</a>] The 1938 Advisory Committee Notes to the original version of the Rule merely cited three state statutes as illustrations of the operation of the Rule. [<a id="nf18" href="#fn18">Footnote 18</a>] These three statutes, from Minnesota, Montana, and New York,</p>
     <n id="p357">357</n>
     <p>mandated the imposition of costs on a plaintiff who rejected settlement offers and failed to obtain a judgment more favorable than the offer. [<a id="nf19" href="#fn19">Footnote 19</a>] All three States had other provisions, similar to Rule 54(d), providing for the recovery of costs by</p>
@@ -179,7 +179,7 @@
       <p>JUSTICE POWELL, concurring in the result.</p>
       <p>I agree with most of the views expressed in the dissenting opinion of JUSTICE REHNQUIST, and do not agree with the Court's reading of Rule 68. It is anomalous indeed that, under the Court's view, a defendant may obtain costs under Rule 68 against a plaintiff who prevails in part, but not against a plaintiff who loses entirely.</p>
       <p>I nevertheless concur in the result reached by the Court, because I do not think that the terms of the offer made in this case constituted a proper offer of judgment within the scope of Rule 68.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>Rule 68 provides, in pertinent part:</p>
       <p>"At any time more than 10 days before the trial begins, a party defending against a claim may serve upon the adverse party an offer to allow judgment to be taken against him for the money or property or to the effect specified in his offer, with costs then accrued."</p>
       <p>(Emphasis added.)</p>
@@ -189,7 +189,7 @@
       <p>The purposes of Title VII and Rule 68 each would be served by this plain language construction of the relationship between the statute and the Rule. To be sure, Title VII's fee provision was designed to enable plaintiffs to vindicate their rights through litigation. Piggie Park, supra at <a href="../us390/us390-0400.xml#p401">390 U. S. 401</a>-402. On the other hand, parties to litigation and the public as a whole have an interest -- often an overriding one -- in settlement, rather than exhaustion of protracted court proceedings. Rule 68 makes available to defendants a mechanism to encourage plaintiffs to settle burdensome lawsuits. The Rule particularly facilitates the early resolution of marginal suits in which the defendant perceives the claim to be without merit and the plaintiff recognizes its speculative nature. [Footnote 2/1]</p>
       <n id="p364">364</n>
       <p>An offer to allow judgment that does not cover accrued costs and attorney's fees is unlikely to lead to settlement. Many plaintiffs simply could not afford to accept such an offer. It may be, also, that the plaintiff's lawyer instituted the suit with no hope of compensation beyond recovery of a fee from the defendant. Such a lawyer might have a conflict of interest that would inhibit encouraging his client to accept an otherwise fair offer. It therefore seems clear that the relevant interests -- of both parties and the public -- will be served by construing Title VII and Rule 68 in accordance with their plain language. [Footnote 2/2]</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>Delta's offer in this case did not comply with the terms of Rule 68.</p>
       <p>When a plaintiff prevails in a litigated Title VII suit, the court awards a reasonable attorney's fee. The primary factors relevant to setting the fee usually are the time expended and</p>
       <n id="p365">365</n>

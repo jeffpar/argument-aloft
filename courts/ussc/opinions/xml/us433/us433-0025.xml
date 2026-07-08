@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us433-0025.html" citation="433 U.S. 25" title="Miree v. DeKalb County">
   <opinion type="Opinions &amp; Dissents">
     <n id="p25">25</n>
-    <h>U.S. Supreme Court</h>
-    <h>Miree v. DeKalb County, <a href="./us433-0025.xml#p25">433 U.S. 25</a> (1977)</h>
-    <h>Miree v. DeKalb County, Georgia</h>
-    <h>No. 76-607</h>
-    <h>Argued April 27, 1977</h>
-    <h>Decided June 21, 1977<a href="./us433-0025.xml#p25">433 U.S. 25</a>ast|&gt;*</h>
-    <h><a href="./us433-0025.xml#p25">433 U.S. 25</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE FIFTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Miree v. DeKalb County, <a href="./us433-0025.xml#p25">433 U.S. 25</a> (1977)</h1>
+    <h2>Miree v. DeKalb County, Georgia</h2>
+    <h2>No. 76-607</h2>
+    <h4>Argued April 27, 1977</h4>
+    <h4>Decided June 21, 1977<a href="./us433-0025.xml#p25">433 U.S. 25</a>ast|&gt;*</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE FIFTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>1. In petitioners' consolidated diversity actions against respondent county arising out of an aircraft crash at the county's airport, state, rather than federal, law held to apply to the resolution of petitioners' claim that, as, respectively, survivors of deceased passengers, the assignee of the aircraft owner, and a burn victim, they are the third-party beneficiaries of grant contracts between the county and the Federal Aviation Administration whereby the county agreed to restrict the use of land adjacent to or near the airport to activities compatible with normal aircraft operations, including landings and takeoffs; that the county breached these contracts by operating a garbage dump adjacent to the airport; and that the cause of the crash was the ingestion of birds swarming from the dump into the aircraft's jet engines shortly after takeoff. The rationale of Clearfield Trust Co. v. United States, <a href="../us318/us318-0363.xml#p363">318 U. S. 363</a>, that federal common law may govern in diversity cases where a uniform national rule is necessary to further the Federal Government's interest, is inapplicable, since only the rights of private litigants are at issue, and no substantial rights or duties of the United States hinge on the outcome of the litigation. Pp. <a href="./us433-0025.xml#p28">433 U. S. 28</a>-33</p>
     <p>2. Petitioners' claim, argued in this Court, that the Airport and Airway Development Act of 1970 provides an implied civil right of action to recover for death or injury due to violation of the Act, will not be considered where it was neither pleaded, argued, nor briefed in the courts below. Pp. <a href="./us433-0025.xml#p33">433 U. S. 33</a>-34.</p>
     <p>538 F.2d 643, vacated and remanded.</p>
@@ -19,7 +19,7 @@
     <n id="p26">26</n>
     <p>MR. JUSTICE REHNQUIST delivered the opinion of the Court.</p>
     <p>These consolidated cases arise out of the 1973 crash of a Lear Jet shortly after takeoff from the DeKalb-Peachtree Airport. The United States Court of Appeals for the Fifth Circuit, en banc, affirmed the dismissal of petitioners' complaint against respondent DeKalb County (hereafter respondent), holding that principles of federal common law were applicable to the resolution of petitioners' breach of contract claim. We granted certiorari to consider whether federal or state law should have been applied to that claim; we conclude that the latter should govern.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Petitioners are, respectively, the survivors of deceased passengers, the assignee of the jet aircraft owner, and a burn victim. They brought separate lawsuits, later consolidated, against respondent in the United States District Court for the Northern District of Georgia. [<a id="nf1" href="#fn1">Footnote 1</a>] The basis for federal jurisdiction was diversity of citizenship, 28 U.S.C. § 1332, and the complaints asserted that respondent was liable on three independent</p>
     <n id="p27">27</n>
     <p>theories: negligence, nuisance, and breach of contract. The District Court granted respondent's motion to dismiss each of these claims. The courts below have unanimously agreed that the negligence and nuisance theories are without merit; only the propriety of the dismissal of the contract claims remains in the cases.</p>
@@ -29,7 +29,7 @@
     <p>Applying Georgia law, the District Court found that petitioners' claims as third-party beneficiaries under the FAA contracts were barred by the county's governmental immunity, and dismissed the complaints under Fed.Rule Civ.Proc. 12(b)(6). A divided panel of the Court of Appeals decided that, under state law, petitioners could sue as third-party beneficiaries, and that governmental immunity would not bar the suit. Miree v. United States, 526 F.2d 679 (1976). The dissenting judge argued that the court should have applied federal, rather than state, law; he concluded that, under the principles of federal common law, the petitioners in this case</p>
     <n id="p28">28</n>
     <p>did not have standing to sue as third-party beneficiaries of the contracts. Sitting en banc, the Court of Appeals reversed the panel on the breach of contract issue and adopted the panel dissent on this point as its opinion. Miree v. United States, 538 F.2d 643 (1976). Judge Morgan, who had written the panel opinion, argued for five dissenters that there was no identifiable federal interest in the outcome of this diversity case, and thus that federal common law had no applicability.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Since the only basis of federal jurisdiction alleged for petitioners' claim against respondent is diversity of citizenship, 28 U.S.C. § 1332, the case would unquestionably be governed by Georgia law, Erie R. Co. v. Tompkins, <a href="../us304/us304-0064.xml#p64">304 U. S. 64</a> (1938), but for the fact that the United States is a party to the contracts in question, entered into pursuant to federal statute. See Airport and Airway Development Act of 1970, 84 Stat. 219, as amended, 49 U.S.C. § 1701 et seq. (1970 ed. and Supp. V). The en banc majority of the Court of Appeals adopted, by reference, the view that, given these factors, application of federal common law was required:</p>
     <p>"Although jurisdiction here is based upon diversity, the contract we are interpreting is one in which the United States is a party, and one which is entered into pursuant to authority conferred by federal statute. The necessity of uniformity of decision demands that federal common law, rather than state law, control the contract's interpretation. United States v. Seckinger, 1970, <a href="https://law.justia.com/us/397/203/">397 U. S. 203</a> . . . ; Smith v. United States, 5 Cir.1974, 497 F.2d 500; First National Bank v. Small Business Administration, 5 Cir.1970, 429 F.2d 280."</p>
     <p>Miree v. United States, 526 F.2d at 686 (footnote omitted).</p>
@@ -64,7 +64,7 @@
     <p>possibility to justify the application of federal law to transactions essentially of local concern."</p>
     <p>Parnell, 352 U.S. at <a href="../us352/us352-0029.xml#p33">352 U. S. 33</a>-34.</p>
     <p>Although we have determined that Georgia law should be applied to the question raised by respondent's motion to dismiss, we shall not undertake to decide the correct outcome under Georgia law. The dissent to the panel opinion, in a footnote, stated that Georgia law would preclude petitioners from suing as third-party beneficiaries. The panel opinion, of course, held otherwise. We doubt that the Court of Appeals would deem itself bound by the dicta found in the footnote to the dissenting opinion which were simply later adopted by reference in the en banc majority opinion. We therefore vacate the judgment and remand to the Court of Appeals for consideration of the claim under applicable Georgia law.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Petitioners have argued in this Court that the Airport and Airway Development Act of 1970 provides an implied civil right of action to recover for death or injury due to violation of the Act. 84 Stat. 219, as amended, 49 U.S.C. § 1701 et seq. (1970 ed. and Supp. V). [<a id="nf6" href="#fn6">Footnote 6</a>] Petitioners, however, allege only diversity of citizenship as the basis for federal jurisdiction of their lawsuits; they do not rely upon federal question jurisdiction, 28 U.S.C. . § 1331, which would be more consistent with a theory of an implied federal cause of action under that Act. The complaints sought recovery solely on the grounds of negligence, nuisance, and breach of contract. There is no indication that petitioners alleged a violation of a federal statute and a right to recovery for such a violation. The fact</p>
     <n id="p34">34</n>
     <p>that this asserted basis of liability is so obviously an afterthought may be some indication of its merit, but since it was neither pleaded, argued, nor briefed either in the District Court or in the Court of Appeals, we will not consider it. Cf. Lawn v. United States, <a href="../us355/us355-0339.xml#p339">355 U. S. 339</a>, <a href="../us355/us355-0339.xml#p362">355 U. S. 362</a>-363, n. 16 (1958).</p>

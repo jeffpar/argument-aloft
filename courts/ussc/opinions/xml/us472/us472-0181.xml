@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us472-0181.html" citation="472 U.S. 181" title="Lowe v. SEC">
   <opinion type="Opinions &amp; Dissents">
     <n id="p181">181</n>
-    <h>U.S. Supreme Court</h>
-    <h>Lowe v. SEC, <a href="./us472-0181.xml#p181">472 U.S. 181</a> (1985)</h>
-    <h>Lowe v. Securities and Exchange Commission</h>
-    <h>No. 83-1911</h>
-    <h>Argued January 7, 1986</h>
-    <h>Decided June 10, 1985</h>
-    <h><a href="./us472-0181.xml#p181">472 U.S. 181</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE SECOND CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Lowe v. SEC, <a href="./us472-0181.xml#p181">472 U.S. 181</a> (1985)</h1>
+    <h2>Lowe v. Securities and Exchange Commission</h2>
+    <h4>No. 83-1911</h4>
+    <h4>Argued January 7, 1986</h4>
+    <h4>Decided June 10, 1985</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE SECOND CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner Lowe is the president and principal shareholder of a corporation (also a petitioner) that was registered as an investment adviser under the Investment Advisers Act of 1940 (Act). Because Lowe was convicted of various offenses involving investments, the Securities and Exchange Commission (SEC), after a hearing, ordered that the corporation's registration be revoked and that Lowe not associate with any investment adviser. Thereafter, the SEC brought an action in Federal District Court, alleging that Lowe, the corporation, and two other unregistered corporations (also petitioners) were violating the Act, and that Lowe was violating the SEC's order by publishing, for paid subscribers, purportedly semimonthly newsletters containing investment advice and commentary. After determining that petitioners' publications were protected by the First Amendment, the District Court, denying for the most part the SEC's requested injunctive relief, held that the Act must be construed to allow a publisher who is willing to comply with the Act's reporting and disclosure requirements to register for the limited purpose of publishing such material and to engage in such publishing. The Court of Appeals reversed, holding that the Act does not distinguish between person-to-person advice and impersonal advice given in publications, that petitioners were engaged in business as "investment advisers" within the meaning of the Act, and that the exclusion in § 202(a)(11)(D) of the Act from the Act's definition of covered "investment advisers" for "the publisher of any bona fide newspaper, news magazine, or business or financial publication of general and regular circulation" did not apply to petitioners. Rejecting petitioners' constitutional claim, the court further held that Lowe's history of criminal conduct justified the characterization of petitioners' publications "as potentially deceptive commercial speech."</p>
     <p>Held: Petitioners' publications fall within the statutory exclusion for bona fide publications, none of the petitioners is an "investment adviser" as defined in the Act, and therefore neither petitioners' unregistered status nor the SEC order against Lowe provides a justification for restraining the future publication of their newsletters. Pp. <a href="./us472-0181.xml#p190">472 U. S. 190</a>-211.</p>
     <n id="p182">182</n>
@@ -45,14 +45,14 @@
     <n id="p188">188</n>
     <p>Appeals apparently assumed that petitioners could continue publishing their newsletters if their content was modified to exclude any advice about specific securities. [<a id="nf20" href="#fn20">Footnote 20</a>]</p>
     <p>One judge concurred separately, although acknowledging his agreement with the court's opinion. [<a id="nf21" href="#fn21">Footnote 21</a>] The dissenting judge agreed that Lowe may not hold himself out as a registered investment adviser and may not engage in any fraudulent activity in connection with his publications, but concluded that the majority had authorized an invalid prior restraint on the publication of constitutionally protected speech. To avoid the constitutional question, he would have adopted the District Court's construction of the Act. [<a id="nf22" href="#fn22">Footnote 22</a>]</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>We granted certiorari to consider the important constitutional question whether an injunction against the publication</p>
     <n id="p189">189</n>
     <p>and distribution of petitioners' newsletters is prohibited by the First Amendment. 469 U.S. 815 (1984). [<a id="nf23" href="#fn23">Footnote 23</a>] Petitioners contend that such an injunction strikes at the very foundation of the freedom of the press by subjecting it to license and censorship, see, e.g., Lovell v. City of Griffin, <a href="../us303/us303-0444.xml#p444">303 U. S. 444</a>, <a href="../us303/us303-0444.xml#p451">303 U. S. 451</a> (1938). Brief for Petitioners 15-19. In response, the Commission argues that the history of abuses in the securities industry amply justified Congress' decision to require the registration of investment advisers, to regulate their professional activities, and, as an incident to such regulation, to prohibit unregistered and unqualified persons from engaging in that business. Brief for Respondent 10; cf. Konigsberg v. State Bar of California, <a href="../us366/us366-0036.xml#p36">366 U. S. 36</a>, <a href="../us366/us366-0036.xml#p50">366 U. S. 50</a>-51 (1961). In reply, petitioners acknowledge that person-to-person communication in a commercial setting may be subjected to regulation that would be impermissible in a public forum, cf. Ohralik v. Ohio State Bar Assn., <a href="../us436/us436-0447.xml#p447">436 U. S. 447</a>, <a href="../us436/us436-0447.xml#p455">436 U. S. 455</a> (1978), but contend that the regulated class -- investment advisers -- may not be so broadly defined as to encompass the distribution of impersonal investment advice and commentary in a public market. Reply Brief for Petitioners 1-4.</p>
     <p>In order to evaluate the parties' constitutional arguments, it is obviously necessary first to understand, as precisely as possible, the extent to which the Act was intended to regulate</p>
     <n id="p190">190</n>
     <p>the publication of investment advice and the reasons that motivated Congress to authorize such regulation. Moreover, in view of the fact that we should "not decide a constitutional question if there is some other ground upon which to dispose of the case," [<a id="nf24" href="#fn24">Footnote 24</a>] and the further fact that the District Court and the dissenting judge in the Court of Appeals both believed that the case should be decided on statutory grounds, a careful study of the statute may either eliminate, or narrowly limit, the constitutional question that we must confront. We therefore begin with a review of the background of the Act, with a particular focus on the legislative history describing the character of the profession that Congress intended to regulate.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>As we observed in <a href="../us375/us375-0180.xml#p186">SEC v. Capital Gains Research Bureau, Inc.</a>, the</p>
     <p>"Investment Advisers Act of 1940 was the last in a series of acts designed to eliminate certain abuses in the securities industry, abuses which were found to have contributed to the stock market crash of 1929 and the depression of the 1930's. [<a id="nf25" href="#fn25">Footnote 25</a>]"</p>
     <p>The Act had its genesis in the Public Utility Holding Company Act of 1935, which "authorized and directed" the Commission</p>
@@ -120,7 +120,7 @@
     <n id="p202">202</n>
     <p>The definition of "investment adviser" included in Title II when the Act was passed, 54 Stat. 848-849, is in all relevant respects identical to the definition before the Court today. [<a id="nf46" href="#fn46">Footnote 46</a>]</p>
     <n id="p203">203</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>The basic definition of an "investment adviser" in the Act reads as follows:</p>
     <p>"'Investment adviser' means any person who, for compensation, engages in the business of advising others, either directly or through publications or writings, as to the value of securities or as to the advisability of investing in, purchasing, or selling securities, or who, for compensation and as part of a regular business, issues or promulgates analyses or reports concerning securities. . . . [<a id="nf47" href="#fn47">Footnote 47</a>]"</p>
     <p>Petitioners' newsletters are distributed "for compensation and as part of a regular business," and they contain "analyses or reports concerning securities." Thus, on its face, the</p>
@@ -396,7 +396,7 @@
       <p>JUSTICE WHITE, with whom THE CHIEF JUSTICE and JUSTICE REHNQUIST join, concurring in the result.</p>
       <p>The issue in this case is whether the Securities and Exchange Commission may invoke the injunctive remedies of the Investment Advisers Act, 15 U.S.C. §§ 80b-1 to 80b-21, to prevent an unregistered adviser from publishing newsletters containing investment advice that is not specifically tailored to the needs of individual clients. The Court holds that it may not, because the activities of petitioner Lowe (hereafter petitioner) do not make him an investment adviser covered by the Act. For the reasons that follow, I disagree with this improvident construction of the statute. In my view, petitioner is an investment adviser subject to regulation and sanction under the Act. I concur in the judgment, however, because to prevent petitioner from publishing at all is inconsistent with the First Amendment.</p>
       <n id="p212">212</n>
-      <h>I</h>
+      <h2>I</h2>
       <p>A</p>
       <p>I have no quarrel with the principle that constitutional adjudication is to be avoided where it is fairly possible to do so without negating the intent of Congress. Due respect for the Legislative Branch requires that we exercise our power to strike down its enactments sparingly. For this reason,</p>
       <p>"[w]hen the validity of an act of the Congress is drawn in question, and even if a serious doubt of constitutionality is raised, it is a cardinal principle that this Court will first ascertain whether a construction of the statute is fairly possible by which the question may be avoided."</p>
@@ -467,7 +467,7 @@
       <p>This reasoning begs the question. What we have been called on to decide in this case is precisely whether restraints on petitioner's publication are unconstitutional in light of such decisions as Near and Lovell. While purporting not to decide the question, the Court bases its statutory holding in large measure on the assumption that Congress already knew the answer to it when the statute was enacted. The Court thus attributes to the 76th Congress a clairvoyance the Solicitor General and the Second Circuit apparently lack -- that is, the ability to predict our constitutional holdings 45 years in advance of our declining to reach them. If the policy of constitutional avoidance amounts to no more than a preference for implicitly deciding constitutional questions without explaining our reasoning, and if the consequence of adopting the policy is a statutory decision more disruptive of the legislative framework than a decision on the narrow constitutional issue presented, the purposes underlying the policy have been ill-served. In light of the language, history, and purposes of the statute, I would read its definition of "investment adviser" to encompass publishers like petitioner, and turn to the constitutional question. In the words of Justice Cardozo:</p>
       <p>"[A]voidance of a difficulty will not be pressed to the point of disingenuous evasion. Here the intention of the Congress is revealed too distinctly to permit us to ignore it because of mere misgivings as to power. The problem must be faced and answered."</p>
       <p>George Moore Ice Cream Co. v. Rose, <a href="../us289/us289-0373.xml#p373">289 U. S. 373</a>, <a href="../us289/us289-0373.xml#p379">289 U. S. 379</a> (1933).</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>Petitioner, an investment adviser whose registration has been revoked, seeks to continue the practice of his profession by publishing newsletters containing investment advice.</p>
       <n id="p228">228</n>
       <p>The SEC, consistent with the terms of the Act as I read them, has attempted to enjoin petitioner from engaging in these activities. The question is whether the First Amendment permits the Federal Government so to prohibit petitioner's publication of investment advice.</p>
@@ -510,7 +510,7 @@
       <p>chosen, however, is extreme. Based on petitioner's past misconduct, the Government fears that he may in the future publish advice that is fraudulent or misleading; and it therefore seeks to prevent him from publishing any advice, regardless of whether it is actually objectionable. Our commercial speech cases have consistently rejected the proposition that such drastic prohibitions on speech may be justified by a mere possibility that the prohibited speech will be fraudulent. See Zauderer, supra; In re R. M.J., <a href="../us455/us455-0191.xml#p191">455 U. S. 191</a>, <a href="../us455/us455-0191.xml#p203">455 U. S. 203</a> (1982); Bates v. State Bar of Arizona, <a href="../us433/us433-0350.xml#p350">433 U. S. 350</a> (1977). So also here. It cannot be plausibly maintained that investment advice from a person whose background indicates that he is unreliable is inherently misleading or deceptive, [Footnote 2/12] nor am I convinced that less drastic remedies than outright suppression (for example, application of the Act's antifraud provisions) are not available to achieve the Government's asserted purpose of protecting investors. Accordingly, I would hold that the Act, as applied to prevent petitioner from publishing investment advice altogether, is too blunt an instrument to survive even the reduced level of scrutiny called for by restrictions on commercial speech. The Court's observation in Schneider v. State, supra, at <a href="../us308/us308-0147.xml#p164">308 U. S. 164</a>, is applicable here as well:</p>
       <p>"Frauds may be denounced as offenses and punished by law. . . . If it is said that these means are less efficient and convenient than bestowal of power on police authorities to decide what information may be disseminated . . . and who may impart the information, the answer is that considerations of this sort do not empower [government] to abridge freedom of speech and press. "</p>
       <n id="p236">236</n>
-      <h>III</h>
+      <h2>III</h2>
       <p>I emphasize the narrowness of the constitutional basis on which I would decide this case. I see no infirmity in defining the term "investment adviser" to include a publisher like petitioner, and I would by no means foreclose the application of, for example, the Act's antifraud or reporting provisions to investment advisers (registered or unregistered) who offer their advice through publications. Nor do I intend to suggest that it is unconstitutional to invoke the Act's provisions for injunctive relief and criminal penalties against unregistered persons who, for compensation, offer personal investment advice to individual clients. I would hold only that the Act may not constitutionally be applied to prevent persons who are unregistered (including persons whose registration has been denied or revoked) from offering impersonal investment advice through publications such as the newsletters published by petitioner.</p>
       <p>Although this constitutional holding, unlike the Court's statutory holding, would not foreclose the SEC from treating petitioner as an "investment adviser" for some purposes, it would require reversal of the judgment of the Court of Appeals. I therefore concur in the result.</p>
       <p>[Footnote 2/1]</p>

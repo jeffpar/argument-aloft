@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us496-0018.html" citation="496 U.S. 18" title="McKesson Corp. v. Div. of AB &amp;amp; T">
   <opinion type="Opinions &amp; Dissents">
     <n id="p18">18</n>
-    <h>U.S. Supreme Court</h>
-    <h>McKesson Corp. v. Div. of AB &amp; T, <a href="./us496-0018.xml#p18">496 U.S. 18</a> (1990)</h>
-    <h>McKesson Corporation v. Division of Alcoholic Beverages and</h>
-    <h>Tobacco, Department of Business Regulation of Florida</h>
-    <h>No. 88-192</h>
-    <h>Argued March 22, 1989</h>
-    <h>Reargued Dec. 6, 1989</h>
-    <h>Decided June 4, 1990</h>
-    <h><a href="./us496-0018.xml#p18">496 U.S. 18</a></h>
-    <h>CERTIORARI TO THE SUPREME COURT OF FLORIDA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>McKesson Corp. v. Div. of AB &amp; T, <a href="./us496-0018.xml#p18">496 U.S. 18</a> (1990)</h1>
+    <h2>McKesson Corporation v. Division of Alcoholic Beverages and</h2>
+    <h2>Tobacco, Department of Business Regulation of Florida</h2>
+    <h2>No. 88-192</h2>
+    <h4>Argued March 22, 1989</h4>
+    <h4>Reargued Dec. 6, 1989</h4>
+    <h4>Decided June 4, 1990</h4>
+    <h2>CERTIORARI TO THE SUPREME COURT OF FLORIDA</h2>
+    <h2>Syllabus</h2>
     <p>After Bacchus Imports, Ltd. v. Dias, <a href="../us468/us468-0263.xml#p263">468 U. S. 263</a>, held that Hawaii's liquor excise tax scheme -- which allowed tax preferences for alcoholic beverages manufactured from certain products grown in the State -- violated the Commerce Clause because it had the purpose and effect of discriminating against interstate commerce, Florida revised its similar tax preference scheme to provide special rate reductions for specified products commonly grown in that State and used in alcoholic beverages produced there. Petitioner McKesson Corporation, a wholesale liquor distributor whose products did not qualify for the rate reductions, paid the applicable taxes for a number of months. McKesson then filed suit in state court against respondent taxing authorities, seeking, inter alia, a refund in the amount of the excess taxes it had paid as a result of its disfavored treatment. The trial court invalidated the tax scheme under Bacchus Imports, enjoining future enforcement of the preferential rate reductions, but declined to order a refund or any other form of relief for taxes McKesson had already paid. The court's order was stayed pending appeal, and the State continued to collect taxes with the local preferences still in effect. The Florida Supreme Court ultimately affirmed in all respects, ruling that the refusal to order a refund was proper in light of "equitable considerations."</p>
     <p>Held:</p>
     <p>1. The Eleventh Amendment -- which provides in part that the federal "[j]udicial power . . . shall not . . . extend to any suit . . . commenced or prosecuted against one of the United States by Citizens" -- does not preclude the Supreme Court's exercise of appellate jurisdiction over cases brought against States that arise from state courts. This view has been implicit in the Court's consistent practice and uniformly endorsed in its cases, including cases involving state tax refund actions brought in state court, for almost 170 years. See, e.g., <a href="../us019/us019-0264.xml#p264">19 U. S.</a> Virginia, 6 Wheat. 264, <a href="../us019/us019-0264.xml#p412">19 U. S. 412</a>; General Oil Co. v. Crain, <a href="../us209/us209-0211.xml#p211">209 U. S. 211</a>, <a href="../us209/us209-0211.xml#p233">209 U. S. 233</a>; Davis v. Michigan Dept. of Treasury, <a href="../us489/us489-0803.xml#p803">489 U. S. 803</a>. Pp. <a href="./us496-0018.xml#p26">496 U. S. 26</a>-31.</p>
@@ -33,7 +33,7 @@
     <p>Justice BRENNAN delivered the opinion of the Court.</p>
     <p>Petitioner McKesson Corporation brought this action in Florida state court, alleging that Florida's liquor excise tax violated the Commerce Clause of the United States Constitution. The Florida Supreme Court agreed with petitioner that the tax scheme unconstitutionally discriminated against interstate commerce because it provided preferences for distributors of certain local products. Although the court enjoined the State from giving effect to those preferences in the future, the court also refused to provide petitioner a refund or any other form of relief for taxes it had already paid.</p>
     <p>Our precedents establish that, if a State penalizes taxpayers for failure to remit their taxes in timely fashion, thus requiring them to pay first and obtain review of the tax's validity later in a refund action, the Due Process Clause requires the State to afford taxpayers a meaningful opportunity to secure postpayment relief for taxes already paid pursuant to a tax scheme ultimately found unconstitutional. We therefore agree with petitioner that the state court's decision denying such relief must be reversed.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>For several decades until 1985, Florida's liquor excise tax scheme, which imposes taxes on manufacturers, distributors, and in some cases vendors of alcoholic beverages, provided</p>
     <n id="p23">23</n>
     <p>for preferential treatment of beverages that were manufactured from certain "Florida-grown" citrus and other agricultural crops and then bottled in-state. See, e.g., Fla.Stat. §§ 564.02, 564.06, 565.12, 565.14 (1983). After this Court held in Bacchus Imports, Ltd. v. Dias, <a href="../us468/us468-0263.xml#p263">468 U. S. 263</a> (1984), that a similar preference scheme employed by the State of Hawaii violated the Commerce Clause [<a id="nf1" href="#fn1">Footnote 1</a>] (because it had both the purpose and effect of discriminating in favor of local products), the Florida Legislature revised its excise tax scheme and enacted the statutory provisions at issue in this litigation. See Fla.Stat. §§ 564.06, 565.12 (1985) (hereafter Liquor Tax). The legislature deleted the previous express preferences for "Florida-grown" products and replaced them with special rate reductions for certain specified citrus, grape, and sugarcane products, all of which are commonly grown in Florida and used in alcoholic beverages produced there. [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
@@ -47,7 +47,7 @@
     <n id="p26">26</n>
     <p>Court affirmed the trial court's ruling that the Liquor Tax unconstitutionally discriminated against interstate commerce, and upheld the trial court's order that the preferential rate reductions be given no future operative effect. The Supreme Court also affirmed the trial court's refusal to order a tax refund, declaring that "the prospective nature of the rulings below was proper in light of the equitable considerations present in this case." Id. at 1010. The court noted that the Division of Alcoholic Beverages and Tobacco had collected the liquor tax in "good faith reliance on a presumptively valid statute." Ibid. Moreover, the court suggested that, "if given a refund, [petitioner] would in all probability receive a windfall, since the cost of the tax has likely been passed on to [its] customers." Ibid.</p>
     <p>After petitioner's request for rehearing was denied, petitioner filed a petition for writ of certiorari in this Court, presenting the question whether federal law entitles it to a partial tax refund. We granted the petition, 488 U.S. 954 (1988), and consolidated the case with American Trucking Assns., Inc. v. Smith, <a href="./us496-0167.xml#p167">496 U. S. 167</a>, which we also decide today. [<a id="nf6" href="#fn6">Footnote 6</a>]</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Respondents first ask us to hold that, though the Florida courts accepted jurisdiction over this suit which sought monetary relief from various state entities, the Eleventh Amendment [<a id="nf7" href="#fn7">Footnote 7</a>] nevertheless precludes our exercise of appellate jurisdiction in this case. We reject respondents' suggestion. Almost 170 years ago, Chief Justice Marshall, writing for the Court, rejected a State's Eleventh Amendment challenge to</p>
     <n id="p27">27</n>
     <p>this Court's power on writ of error to review the judgment of a state court involving an issue of federal law. <a href="../us019/us019-0264.xml#p264">See Cohens v. Virginia</a>, 6 Wheat. 264, <a href="../us019/us019-0264.xml#p412">19 U. S. 412</a>. Although Cohens involved a proceeding commenced in the first instance by the State itself against a citizen, such that the Court's holding might be read as limited to that circumstance, the decision has long been understood as supporting a broader proposition:</p>
@@ -63,7 +63,7 @@
     <p>Amendment has been construed so that a State retains immunity from original suit in federal court, see Atascadero State Hospital v. Scanlon, <a href="../us473/us473-0234.xml#p234">473 U. S. 234</a>, <a href="../us473/us473-0234.xml#p237">473 U. S. 237</a>-240 (1985), it is "inherent in the constitutional plan," Monaco v. Mississippi, <a href="../us292/us292-0313.xml#p313">292 U. S. 313</a>, <a href="../us292/us292-0313.xml#p329">292 U. S. 329</a> (1934), that, when a state court takes cognizance of a case, the State assents to appellate review by this Court of the federal issues raised in the case "whoever may be the parties to the original suit, whether private persons, or the state itself." [<a id="nf13" href="#fn13">Footnote 13</a>] We recognize what has long been implicit</p>
     <n id="p31">31</n>
     <p>in our consistent practice and uniformly endorsed in our cases: the Eleventh Amendment does not constrain the appellate jurisdiction of the Supreme Court over cases arising from state courts. Accordingly, we turn to the merits of petitioner's claim.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>It is undisputed that the Florida Supreme Court, after holding that the Liquor Tax unconstitutionally discriminated against interstate commerce because of its preferences for liquor made from "crops which Florida is adapted to growing,'" 524 So. 2d at 1008, acted correctly in awarding petitioner declaratory and injunctive relief against continued enforcement of the discriminatory provisions. The question before us is whether prospective relief, by itself, exhausts the requirements of federal law. The answer is no: if a State places a taxpayer under duress promptly to pay a tax when due and relegates him to a postpayment refund action in which he can challenge the tax's legality, the Due Process Clause of the Fourteenth Amendment [<a id="nf14" href="#fn14">Footnote 14</a>] obligates the State to provide meaningful backward-looking relief to rectify any unconstitutional deprivation. [<a id="nf15" href="#fn15">Footnote 15</a>]</p>
     <p>Page 496 U. S. 32</p>
     <p>A</p>
@@ -138,7 +138,7 @@
     <p>Respondents also observe that the State's choice of relief may entail various administrative costs (apart from the "cost"</p>
     <n id="p51">51</n>
     <p>of any refund itself [<a id="nf35" href="#fn35">Footnote 35</a>]). Cf. Mathews, supra at <a href="../us424/us424-0319.xml#p348">424 U. S. 348</a> ("[T]he Government's interest . . . in conserving scarce fiscal and administrative resources is a factor that must be weighed" when determining precise contours of process due). The State may, of course, consider such costs when choosing between the various avenues of relief open to it. Because the Florida Supreme Court did not recognize in its refund proceeding the State's obligation under the Due Process Clause to rectify the invalidity of its deprivation of petitioner's property, the court did not consider how any administrative costs might influence the selection and fine-tuning of the relief afforded petitioner. We leave this to the state court on remand.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>When a State penalizes taxpayers for failure to remit their taxes in timely fashion, thus requiring them to pay first before obtaining review of the tax's validity, federal due process principles long recognized by our cases require the State's postdeprivation procedure to provide a "clear and certain remedy," O'Connor, 223 U.S. at <a href="../us223/us223-0280.xml#p285">223 U. S. 285</a>, for the deprivation of tax moneys in an unconstitutional manner. In this case, Florida may satisfy this obligation through any form of relief, ranging from a refund of the excess taxes paid by petitioner to an offsetting charge to previously favored distributors, that will cure any unconstitutional discrimination against interstate commerce during the contested tax period. The State is free to choose which form of relief it will provide, so long as that relief satisfies the minimum federal requirements</p>
     <n id="p52">52</n>
     <p>we have outlined. [<a id="nf36" href="#fn36">Footnote 36</a>] The judgment of the Florida Supreme Court is reversed, and the case is remanded for further proceedings not inconsistent with this opinion.</p>

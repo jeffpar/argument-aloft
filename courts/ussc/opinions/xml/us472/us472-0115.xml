@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us472-0115.html" citation="472 U.S. 115" title="Atkins v. Parker">
   <opinion type="Opinions &amp; Dissents">
     <n id="p115">115</n>
-    <h>U.S. Supreme Court</h>
-    <h>Atkins v. Parker, <a href="./us472-0115.xml#p115">472 U.S. 115</a> (1985)</h>
-    <h>Atkins v. Parker</h>
-    <h>No. 83-1660</h>
-    <h>Argued November 27, 1984</h>
-    <h>Decided June 4, 1985<a href="./us472-0115.xml#p115">472 U.S. 115</a>ast|&gt;*</h>
-    <h><a href="./us472-0115.xml#p115">472 U.S. 115</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE `FIRST CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Atkins v. Parker, <a href="./us472-0115.xml#p115">472 U.S. 115</a> (1985)</h1>
+    <h2>Atkins v. Parker</h2>
+    <h4>No. 83-1660</h4>
+    <h4>Argued November 27, 1984</h4>
+    <h4>Decided June 4, 1985<a href="./us472-0115.xml#p115">472 U.S. 115</a>ast|&gt;*</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE `FIRST CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>In 1981, Congress amended the Food Stamp Act to reduce from 20 percent to 18 percent the earned income disregard used in computing eligibility for food stamps. Thereafter, the Massachusetts Department of Public Welfare (Department) mailed a notice to all food stamp recipients in the State with earned income advising them that the reduction in the earned income disregard might result in either a reduction or termination of their benefits, that they had a right to request a hearing, and that their benefits would be reinstated if a hearing was requested within 10 days of the notice. Petitioners in No. 83-6381 (hereafter petitioners), recipients of the notice, brought a class action in Federal District Court, alleging that the notice was inadequate and seeking injunctive relief. After the court issued a temporary injunction, the Department sent a second notice similar to, but somewhat more extensive than, the first notice. Petitioners also attacked the adequacy of this notice. The court again ruled in petitioners' favor and held that the notice violated the Due Process Clause of the Fourteenth Amendment. The Court of Appeals agreed.</p>
     <p>Held:</p>
     <p>1. The second notice complied with the statute and regulations. The relevant language of 7 U.S.C. § 2020(e)(10) -- which does not itself mandate any notice at all, but merely assumes that a hearing request by a household aggrieved by a state agency's action will be preceded by "individual notice of agency action" -- cannot be fairly construed as a command to give notice of a general change in the law. The legislative history does not suggest that Congress intended to eliminate the distinction between requiring advance notice of an "adverse action" based on the particular facts of an individual case and the absence of any requirement of individual notice of a "mass change" in the law. And the notice in question complied with the applicable regulation requiring individual</p>
@@ -52,7 +52,7 @@
     <n id="p123">123</n>
     <p>its belief that Congress could not have "intended a constitutionally deficient notice to satisfy the statutory notice requirement," and thus affirmed the District Court's holding that "the December notice failed to satisfy the notice requirements of 7 U.S.C. § 2020(e)(10) and 7 CFR § 273.12(e)(2) (ii)." Foggs v. Block, 722 F.2d 933, 939-940 (1983). [<a id="nf20" href="#fn20">Footnote 20</a>] The Court of Appeals held, however, that the District Court had erred in ordering a reinstatement of benefits and in specifying the form of future notices. [<a id="nf21" href="#fn21">Footnote 21</a>]</p>
     <p>Petitioners in No. 83-6381 sought review of the Court of Appeals' modification of the District Court's remedy, and the Department, in No. 83-1660, cross-petitioned for a writ of certiorari seeking review of the holding on liability. We granted both the petition and the cross-petition, and invited the Solicitor General to participate in the argument. 467 U.S. 1250 (1984). We conclude that the notice was lawful, and therefore have no occasion to discuss the remedy issue that the petition in No. 83-6381 presents. Because there would be no need to decide the constitutional question if we found a violation of either the statute or the regulations, [<a id="nf22" href="#fn22">Footnote 22</a>] we first consider the statutory issue.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The only reference in the Food Stamp Act to a notice is contained in § 2020(e), which outlines the requirements of a state plan of operation. Subsection (10) of that section provides that a state plan must grant a fair hearing, and a prompt determination, to any household that is aggrieved by</p>
     <n id="p124">124</n>
     <p>the action of a state agency. A proviso to that subsection states that any household "which timely requests such a fair hearing after receiving individual notice of agency action reducing or terminating its benefits" shall continue to receive the same level of benefits until the hearing is completed. [<a id="nf23" href="#fn23">Footnote 23</a>]</p>
@@ -67,7 +67,7 @@
     <p>This regulation reflects the familiar distinction between an individual adverse action and a mass change. The statement that a notice of adverse action is not required when a change of benefits results from a mass change surely implies that individual computations are not required in such cases. The two requirements that are imposed when a mass change occurs are: (1) that "individual" notice be sent and (2) that it "inform them of the change." In this case, a separate individual notice was sent to each individual household, and it did "inform them of the change" in the program that Congress had mandated. Since the word "change" in the regulation</p>
     <n id="p127">127</n>
     <p>plainly refers to the "mass change," the notice complied with the regulation. [<a id="nf29" href="#fn29">Footnote 29</a>]</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Since the notice of the change in the earned income disregard was sufficient under the statute and under the regulations, we must consider petitioners' claim that they had a constitutional right to advance notice of the amendment's specific impact on their entitlement to food stamps before the statutory change could be implemented by reducing or terminating their benefits. They argue that an individualized calculation of the new benefit was necessary in order to avoid the risk of an erroneous reduction or termination.</p>
     <p>The record in this case indicates that members of petitioners' class had their benefits reduced or terminated for either or both of two reasons: (1) because Congress reduced the earned income disregard from 20 percent to 18 percent; or (2) because inadvertent errors were made in calculating benefits. These inadvertent errors, however, did not necessarily result from the statutory change, but rather may have been attributable to a variety of factors that can occur in the administration of any large welfare program. [<a id="nf30" href="#fn30">Footnote 30</a>] For example,</p>
     <n id="p128">128</n>
@@ -217,7 +217,7 @@
       <p>JUSTICE BRENNAN, with whom JUSTICE MARSHALL, joins as to Part I, dissenting.</p>
       <p>When the Massachusetts Department of Public Welfare (Department) implemented the 1981 statutory reduction in food stamp benefits for persons with earned income, it sent out form notices telling over 16,000 recipients that their benefits would be "reduced . . . or . . . terminated" without specifying which. App. 5. The notices contained no information about any particular recipient's case. The District Court declared the notices unlawful under the Due Process Clause as well as the relevant regulation and statute</p>
       <p>"because . . . [they] did not contain the individual recipient's old food stamp benefit amount, new benefit amount, or the amount of earned income that was being used to compute the change. [Footnote 2/1] The Court of Appeals agreed, finding the notices statutorily and 'constitutionally deficient' because they 'failed to inform.' Foggs v. Block, 722 F.2d 933, 940 (CA1 1983). The Court today reverses, finding that 'individual computations' are not required by regulation, statute, or Constitution. Ante at <a href="https://law.justia.com/us/472/115/#126">472 U. S. 126</a>. I disagree with the Court's interpretation of all three authorities. Accordingly, I dissent."</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>Title 7 CFR § 273.12(e)(2)(ii) (1985) requires that</p>
       <p>"when a household's food stamp benefits are reduced or terminated as a result of a mass change . . . [s]tate agencies shall send individual notices to households to inform them of the change. [Footnote 2/2] "</p>
       <n id="p133">133</n>
@@ -240,7 +240,7 @@
       <n id="p138">138</n>
       <p>to imagine how one could otherwise adjust one's household budget "accordingly." [Footnote 2/12]</p>
       <p>As far as I can tell, there has been no contemporaneous or consistent administrative interpretation of the regulation at issue; indeed, there has been no interpretation at all. Based on the language, function, and history of the regulation itself, however, any logical implication to be drawn is that the "individual notice" required by § 273.12(e)(2)(ii) comprehends some amount of individualized benefit data. [Footnote 2/13] Conscious as well of the constitutional questions otherwise raised, I would affirm the judgment below on this ground alone. [Footnote 2/14]</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>I can agree with the Court that the relevant statutory section, 7 U.S.C. § 2020(e)(10), may not, of itself, require "individual</p>
       <n id="p139">139</n>
       <p>computations." The Court goes beyond this holding, however, to suggest that § 2020(e)(10) permits no notice at all of reductions based on legislated changes in benefit levels. Ante at <a href="./us472-0115.xml#p126">472 U. S. 126</a>. Because all parties concede that some form of notice was required, the Court's broader statutory discussion is unnecessary to its decision. I find the Court's suggestion to be an erroneous reading that will cause needless confusion for food stamp administrators and recipients alike.</p>
@@ -262,7 +262,7 @@
       <p>The unambiguous purpose of the fair hearing and benefit continuation requirements of § 2020(e)(10) is to prevent erroneous reductions in benefits until a claim of error can be resolved. General changes in the law, no less than individual exercises of caseworker discretion, are likely to result in error when implemented, as the facts of these cases indicate and the Court acknowledges. Ante at <a href="./us472-0115.xml#p127">472 U. S. 127</a> ("[E]rrors . . . can occur in the administration of any large welfare program"). Timely and adequate notice permits the affected recipient to surmise whether an error has been made; if the recipient invokes the statutory right to a fair hearing, the agency then determines whether the recipient is correct. That reductions are implemented massively, rather than on a case-by-case basis, alters not at all this sensible administrative</p>
       <n id="p143">143</n>
       <p>scheme, operating as intended under § 2020(e)(10). By reading the statute not to require any notice at all when reductions or terminations of benefits are the result of agency implementation of a "general change in the law," the Court finds an exception not indicated by the statute, its legislative history, or relevant regulations, and not supported by any logical view of the food stamp administrative process. Federal administrators have required state agencies to give some form of notice of mass changes since before § 2020(e)(10)'s enactment until today. The Court's contrary suggestion, offered in cases where the discussion is unnecessary to the result, will disrupt an administrative scheme that appears to work smoothly without the Court's help.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>Because food stamp benefits are a matter of statutory entitlement, recipients may claim a property interest only in the level of benefits to which they are entitled under the law, as calculated under whatever statutory formula is provided. Congress may reduce the entitlement level or alter the formula through the normal legislative process, and that process pretermits any claim that Congress' action constitutes unconstitutional deprivation of property. See Logan v. Zimmerman Brush Co., <a href="../us455/us455-0422.xml#p422">455 U. S. 422</a>, <a href="../us455/us455-0422.xml#p432">455 U. S. 432</a>-433 (1982).</p>
       <p>Arguing from similar premises, the Court concludes that the food stamp recipients in these cases had no special right to "advance notice of the legislative change" in the earned income deduction in 1981. Ante at <a href="./us472-0115.xml#p130">472 U. S. 130</a>. The recipients, however, have never contended that they had a right to "advance notice" of the enactment of congressional legislation, [Footnote 2/20] and I do not intend to argue for that proposition here.</p>
       <p>"It is</p>
@@ -315,7 +315,7 @@
       <p>"the individual recipient's old food stamp benefit amount, new benefit amount, [and] the amount of earned income that was being used to compute the change."</p>
       <p>Pet. App. 100. These data were already contained in the Department's computerized files, and the computers could have been programmed to print the individualized information on the form notices with little additional time or effort. [Footnote 2/33] The District Court's finding, not questioned by the Court today, was that programming the computer to provide such individual information is "neither a difficult nor burdensome procedure," id. at 75-76, and that, had the Department requested that such individualized data be printed on the December, 1981, notices, it was likely that it could have been accomplished "without causing any delay. . . ." Id. at 74, 75. This record, therefore, can support no argument that individualized notice would have been a burden for the Department. [Footnote 2/34]</p>
       <n id="p157">157</n>
-      <h>IV</h>
+      <h2>IV</h2>
       <p>The Court's regulatory conclusion is unconvincing, and its statutory dictum is unfortunate. But I am most troubled by the Court's casual suggestion that foreseeable "inadvertent" errors in the administration of entitlement programs may be ignored in determining what protection the Constitution provides. Such administrative error all too often plagues governmental programs designed to aid the poor. [Footnote 2/35] If well-meaning mistakes that might be prevented inexpensively lie entirely outside the compass of the Due Process Clause, then the convenience of the administrative state comes at the expense of those least able to confront the bureaucracy. I respectfully dissent.</p>
       <p>[Footnote 2/1]</p>
       <p>Order, Foggs v. Block, No. 81-0365-F, p. 2 (Mass., Mar. 24, 1982), reprinted in App. to Pet. for Cert. in No. 83-1660, p. 100 (hereinafter Pet. App.).</p>

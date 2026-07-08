@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us424-0648.html" citation="424 U.S. 648" title="Garner v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p648">648</n>
-    <h>U.S. Supreme Court</h>
-    <h>Garner v. United States, <a href="./us424-0648.xml#p648">424 U.S. 648</a> (1976)</h>
-    <h>Garner v. United States</h>
-    <h>No. 74-100</h>
-    <h>Argued November 4, 1975</h>
-    <h>Decided March 23, 1976</h>
-    <h><a href="./us424-0648.xml#p648">424 U.S. 648</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Garner v. United States, <a href="./us424-0648.xml#p648">424 U.S. 648</a> (1976)</h1>
+    <h2>Garner v. United States</h2>
+    <h2>No. 74-100</h2>
+    <h4>Argued November 4, 1975</h4>
+    <h4>Decided March 23, 1976</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner's income tax returns, in which he revealed himself to be a gambler, were introduced in evidence, over his Fifth Amendment objection, as proof of the federal gambling conspiracy offense with which he was charged.</p>
     <p>Held: Petitioner's privilege against compulsory self-incrimination was not violated. Since petitioner made incriminating disclosures on his tax returns instead of claiming the privilege, as he had the right to do, his disclosures were not compelled incriminations. Here, where there is no factor depriving petitioner of the free choice to refuse to answer, the general rule applies that, if a witness does not claim the privilege, his disclosures will not be considered as having been "compelled" within the meaning of the Fifth Amendment. United States v. Sullivan, <a href="../us274/us274-0259.xml#p259">274 U. S. 259</a>. Miranda v. Arizona, <a href="../us384/us384-0436.xml#p436">384 U. S. 436</a>; Mackey v. United States, <a href="../us401/us401-0667.xml#p667">401 U. S. 667</a>; Garrity v. New Jersey, <a href="../us385/us385-0493.xml#p493">385 U. S. 493</a>, distinguished. Pp. <a href="./us424-0648.xml#p650">424 U. S. 650</a>-655.</p>
     <p>501 F.2d 228, affirmed.</p>
@@ -19,13 +19,13 @@
     <n id="p649">649</n>
     <p>MR. JUSTICE POWELL delivered the opinion of the Court.</p>
     <p>This case involves a nontax criminal prosecution in which the Government introduced petitioner's income tax returns to prove the offense against him. The question is whether the introduction of this evidence, over petitioner's Fifth Amendment objection, violated the privilege against compulsory self-incrimination when petitioner made the incriminating disclosures on his returns instead of then claiming the privilege.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Petitioner, Roy Garner, was indicated for a conspiracy involving the use of interstate transportation and communication facilities to "fix" sporting contests, to transmit bets and information assisting in the placing of bets, and to distribute the resultant illegal proceeds. 18 U.S.C. §§ 371, 224, 1084, 1952. [<a id="nf1" href="#fn1">Footnote 1</a>] The Government's case was that conspirators bet on horse races either having fixed them or while in possession of other information unavailable to the general public. Garner's role in this scheme was the furnishing of inside information. The case against him included the testimony of other conspirators and telephone toll records that showed calls from Garner to other conspirators before various bets were placed.</p>
     <p>The Government also introduced, over Garner's Fifth Amendment objection, the Form 1040 income tax returns that Garner had filed for 1965, 1966, and 1967. In the 1965 return, Garner had reported his occupation as "professional</p>
     <n id="p650">650</n>
     <p>gambler," and in each return he reported substantial income from "gambling" or "wagering." The prosecution relied on Garner's familiarity with "the business of wagering and gambling," as reflected in his returns, to help rebut his claim that his relationships with other conspirators were innocent ones.</p>
     <p>The jury returned a guilty verdict. Garner appealed to the Court of Appeals for the Ninth Circuit, contending that the privilege against compulsory self-incrimination entitled him to exclude the tax returns despite his failure to claim the privilege on the returns instead of making disclosures. Sitting en banc the Court of Appeals held that Garner's failure to assert the privilege on his returns defeated his Fifth Amendment claim. 501 F.2d 236. [<a id="nf2" href="#fn2">Footnote 2</a>] We agree.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>In United States v. Sullivan, <a href="../us274/us274-0259.xml#p259">274 U. S. 259</a> (1927), the Court held that the privilege against compulsory self-incrimination is not a defense to prosecution for failing to file a return at all. But the Court indicated that the privilege could be claimed against specific disclosures sought on a return, saying:</p>
     <p>"If the form of return provided called for answers that the defendant was privileged from making he could have raised the objection in the return, but could not on that account refuse to make any return at all."</p>
     <p>Id. at <a href="../us274/us274-0259.xml#p263">274 U. S. 263</a>. [<a id="nf3" href="#fn3">Footnote 3</a>]</p>
@@ -36,7 +36,7 @@
     <p>Given Sullivan, it cannot fairly be said that taxpayers are "volunteers" when they file their tax returns. The Government compels the filing of a return much as it compels, for example, the appearance of a "witness" [<a id="nf7" href="#fn7">Footnote 7</a>] before a grand jury. The availability to the Service of § 7203 prosecutions and the summons procedure also induces taxpayers to disclose unprivileged information on their</p>
     <n id="p653">653</n>
     <p>returns. The question, however, is whether the Government can be said to have compelled Garner to incriminate himself with regard to specific disclosures made on his return when he could have claimed the Fifth Amendment privilege instead.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>We start from the fundamental proposition:</p>
     <p>"[A] witness protected by the privilege may rightfully refuse to answer unless and until he is protected at least against the use of his compelled answers and evidence derived therefrom in any subsequent criminal case in which he is a defendant. Kastigar v. United States, <a href="https://law.justia.com/us/406/441/">406 U. S. 441</a> (1972). Absent such protection, if he is nevertheless compelled to answer, his answers are inadmissible against him in a later criminal prosecution. <a href="https://law.justia.com/us/168/532/">Bram v. United States</a>, [<a href="../us168/us168-0532.xml#p532">168 U.S. 532</a> (1897)]; <a href="https://law.justia.com/us/116/616/">Boyd v. United States</a>, [<a href="../us116/us116-0616.xml#p616">116 U.S. 616</a> (1886)]."</p>
     <p>Lefkowitz v. Turley, <a href="../us414/us414-0070.xml#p70">414 U. S. 70</a>, <a href="../us414/us414-0070.xml#p78">414 U. S. 78</a> (1973). See Murphy v. Waterfront Comm'n, <a href="../us378/us378-0052.xml#p52">378 U. S. 52</a>, <a href="../us378/us378-0052.xml#p57">378 U. S. 57</a> n. 6 (1964).</p>
@@ -52,7 +52,7 @@
     <p>In addition, the rule that a witness must claim the privilege is consistent with the fundamental purpose of the Fifth Amendment -- the preservation of an adversary system of criminal justice. See Tehan v. United States ex rel. Shott, <a href="../us382/us382-0406.xml#p406">382 U. S. 406</a>, <a href="../us382/us382-0406.xml#p415">382 U. S. 415</a> (1966). That system is undermined when a government deliberately seeks to</p>
     <n id="p656">656</n>
     <p>avoid the burdens of independent investigation by compelling self-incriminating disclosures. In areas where a government cannot be said to be compelling such information, however, there is no such circumvention of the constitutionally mandated policy of adversary criminal proceedings. Cf. Counselman v. Hitchcock, <a href="../us142/us142-0547.xml#p547">142 U. S. 547</a>, <a href="../us142/us142-0547.xml#p562">142 U. S. 562</a>-565 (1892); California v. Byers, <a href="../us402/us402-0424.xml#p424">402 U. S. 424</a>, <a href="../us402/us402-0424.xml#p456">402 U. S. 456</a>-458 (1971) (Harlan, J., concurring in judgment).</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>The information revealed in the preparation and filing of an income tax return is, for purposes of Fifth Amendment analysis, the testimony of a "witness," as that term is used herein. Since Garner disclosed information on his returns instead of objecting, his Fifth Amendment claim would be defeated by an application of the general requirement that witnesses must claim the privilege. Garner, however, resists the application of that requirement, arguing that incriminating disclosures made in lieu of objection are "compelled" in the tax-return context. He relies specifically on three situations in which incriminatory disclosures have been considered compelled despite a failure to claim the privilege. [<a id="nf10" href="#fn10">Footnote 10</a>] But in each of these narrowly defined situations, some factor not present here made inappropriate the general rule that the privilege</p>
     <n id="p657">657</n>
     <p>must be claimed. In each situation the relevant factor was held to deny the individual a "free choice to admit, to deny, or to refuse to answer." Lisenba v. California, <a href="../us314/us314-0219.xml#p219">314 U. S. 219</a>, <a href="../us314/us314-0219.xml#p241">314 U. S. 241</a> (1941). For the reasons stated below, we conclude that no such factor deprived Garner of that free choice.</p>
@@ -85,7 +85,7 @@
     <p>of that question before prosecution for the willful failure so denounced."</p>
     <p>284 U.S. at <a href="../us284/us284-0141.xml#p148">284 U. S. 148</a>. See also Quinn v. United States, <a href="../us349/us349-0155.xml#p155">349 U. S. 155</a>, <a href="../us349/us349-0155.xml#p167">349 U. S. 167</a>-170 (1955); Emspak v. United States, supra at <a href="../us349/us349-0190.xml#p213">349 U. S. 213</a>-214 (Harlan, J., dissenting).</p>
     <p>We are satisfied that Murdock I states the constitutional standard. What is at issue here is principally a matter of timing and procedure. As long as a valid and timely claim of privilege is available as a defense to a taxpayer prosecuted for failure to make a return, the taxpayer has not been denied a free choice to remain silent merely because of the absence of a preliminary judicial ruling on his claim. We therefore do not agree that Garner was deterred from claiming the privilege in the sense that was true of the policemen in Garrity.</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>In summary, we conclude that, since Garner made disclosures instead of claiming the privilege on his tax returns, his disclosures were not compelled incriminations. [<a id="nf21" href="#fn21">Footnote 21</a>] He therefore was foreclosed from invoking the privilege when such information was later introduced as evidence against him in a criminal prosecution.</p>
     <p>The judgment is</p>
     <p>Affirmed.</p>

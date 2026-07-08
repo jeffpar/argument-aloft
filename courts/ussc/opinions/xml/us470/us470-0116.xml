@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us470-0116.html" citation="470 U.S. 116" title="Chem. Mfrs. Ass'n v. NRDC">
   <opinion type="Opinions &amp; Dissents">
     <n id="p116">116</n>
-    <h>U.S. Supreme Court</h>
-    <h>Chem. Mfrs. Ass'n v. NRDC, <a href="./us470-0116.xml#p116">470 U.S. 116</a> (1985)</h>
-    <h>Chemical Manufacturers Association v.</h>
-    <h>Natural Resources Defense Council, Inc.</h>
-    <h>No. 83-1013.</h>
-    <h>Argued November 6, 1984</h>
-    <h>Decided February 27, 1985<a href="./us470-0116.xml#p116">470 U.S. 116</a>ast|&gt;*</h>
-    <h><a href="./us470-0116.xml#p116">470 U.S. 116</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE THIRD CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Chem. Mfrs. Ass'n v. NRDC, <a href="./us470-0116.xml#p116">470 U.S. 116</a> (1985)</h1>
+    <h2>Chemical Manufacturers Association v.</h2>
+    <h2>Natural Resources Defense Council, Inc.</h2>
+    <h2>No. 83-1013.</h2>
+    <h4>Argued November 6, 1984</h4>
+    <h4>Decided February 27, 1985<a href="./us470-0116.xml#p116">470 U.S. 116</a>ast|&gt;*</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE THIRD CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Under the Clean Water Act (Act), the Environmental Protection Agency (EPA) is required to promulgate regulations establishing categories of pollution sources and setting effluent limitations for those categories. Because of the difficulties involved in collecting adequate information to promulgate regulations, EPA has developed a "fundamentally different factor" (FDF) variance as a mechanism for ensuring that its necessarily rough-hewn categories of sources do not unfairly burden atypical dischargers of waste. Any interested party may seek an FDF variance to make effluent limitations either more or less stringent if the standards applied to a given source, because of factors fundamentally different from those considered by EPA in setting the limitation, are either too lenient or too strict. In a consolidated lawsuit, the Court of Appeals held that EPA was barred from issuing FDF variances from toxic pollutant effluent limitations by § 301(1) of the Act, which provides that EPA may not "modify" any effluent limitation requirement of § 301 insofar as toxic materials are concerned. The court rejected EPA's view that § 301(1) prohibits only modifications as to toxic materials otherwise permitted by other provisions of § 301 on economic or water quality grounds, and that § 301(1) does not address the issue of FDF variances.</p>
     <p>Held: The view of the agency charged with administering the statute is entitled to considerable deference, and EPA's understanding of the statute is sufficiently rational to preclude a court from substituting its judgment for that of EPA. Pp. <a href="./us470-0116.xml#p125">470 U. S. 125</a>-133.</p>
     <p>(a) The statutory language does not foreclose EPA's view of the statute. Although the word "modify," if read in its broadest sense in § 301(1), would encompass any change in effluent limitations, it makes little sense to construe the section to forbid EPA to amend its own standards, even to correct an error or to impose stricter requirements. The word "modify" has no plain meaning as used in § 301(1), and is the proper subject of construction by EPA and the courts. Pp. <a href="./us470-0116.xml#p125">470 U. S. 125</a>-126.</p>
@@ -23,7 +23,7 @@
     <p>WHITE, J., delivered the opinion of the Court, in which BURGER, C.J., and BRENNAN, POWELL, and REHNQUIST, JJ., joined. MARSHALL, J., filed a dissenting opinion, in which BLACKMUN and STEVENS, JJ., joined, and in Parts I, II, and III of which O'CONNOR, J., joined, post, p. <a href="./us470-0116.xml#p134">470 U. S. 134</a>. O'CONNOR, J., filed a dissenting opinion, post, p. <a href="./us470-0116.xml#p165">470 U. S. 165</a>.</p>
     <n id="p118">118</n>
     <p>These cases present the question whether the Environmental Protection Agency (EPA) may issue certain variances from toxic pollutant effluent limitations promulgated under the Clean Water Act, 86 Stat. 816, as amended, 33 U.S.C. § 1251 et seq. [<a id="nf1" href="#fn1">Footnote 1</a>]</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>As part of a consolidated lawsuit, respondent Natural Resources Defense Council (NRDC) sought a declaration that § 301(1) of the Clean Water Act, 33 U.S.C. § 1311(1), prohibited EPA from issuing "fundamentally different factor" (FDF) variances for pollutants listed as toxic under the Act. [<a id="nf2" href="#fn2">Footnote 2</a>] Petitioners EPA and Chemical Manufacturers Association (CMA) argued otherwise. To understand the nature of this controversy, some background with respect to the statute and the case law is necessary.</p>
     <p>The Clean Water Act, the basic federal legislation dealing with water pollution, assumed its present form as the result of extensive amendments in 1972 and 1977. For direct dischargers -- those who expel waste directly into navigable waters -- the Act calls for a two-phase program of technology-based effluent limitations, commanding that dischargers comply with the best practicable control technology currently available (BPT) by July 1, 1977, and subsequently meet the generally more stringent effluent standard consistent with the best available technology economically achievable (BAT). [<a id="nf3" href="#fn3">Footnote 3</a>]</p>
     <n id="p119">119</n>
@@ -45,7 +45,7 @@
     <p>As part of its consolidated lawsuit, respondent NRDC here challenged pretreatment standards for indirect dischargers and sought a declaration that § 301(1) barred any FDF variance with respect to toxic pollutants. [<a id="nf13" href="#fn13">Footnote 13</a>] In an earlier case, the Fourth Circuit had rejected a similar argument, finding that § 301(1) was ambiguous on the issue of whether it applied to FDF variances, and therefore deferring to the administrative agency's interpretation that such variances were permitted. Appalachian Power Co. v. Train, 620 F.2d 1040, 1047-1048 (1980). Contrariwise, the Third Circuit here ruled in favor of NRDC, and against petitioners EPA and CMA, holding that § 301(1) forbids the issuance of FDF variances for toxic pollutants. National Assn. of Metal Finishers</p>
     <n id="p125">125</n>
     <p>v. EPA, 719 F.2d 624 (1983). We granted certiorari to resolve this conflict between the Courts of Appeals and to decide this important question of environmental law. 466 U.S. 957 (1984). We reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Section 301(1) states that EPA may not "modify" any requirement of § 301 insofar as toxic materials are concerned. EPA insists that § 301(1) prohibits only those modifications expressly permitted by other provisions of § 301, namely, those that § 301(c) and § 301(g) would allow on economic or water quality grounds. Section 301(1), it is urged, does not address the very different issue of FDF variances. This view of the agency charged with administering the statute is entitled to considerable deference; and to sustain it, we need not find that it is the only permissible construction that EPA might have adopted, but only that EPA's understanding of this very "complex statute" is a sufficiently rational one to preclude a court from substituting its judgment for that of EPA. Train v. NRDC, <a href="../us421/us421-0060.xml#p60">421 U. S. 60</a>, <a href="../us421/us421-0060.xml#p75">421 U. S. 75</a>, <a href="../us421/us421-0060.xml#p87">421 U. S. 87</a> (1975); See also <a href="../us467/us467-0837.xml#p837">Chevron U.S.A. Inc. v. NRDC</a>, <a href="../us467/us467-0837.xml#p837">467 U. S. 837</a> (1984). Of course, if Congress has clearly expressed an intent contrary to that of the Agency, our duty is to enforce the will of Congress. Chevron, supra, at <a href="../us467/us467-0837.xml#p843">467 U. S. 843</a>, n. 9; SEC v. Sloan, <a href="../us436/us436-0103.xml#p103">436 U. S. 103</a>, <a href="../us436/us436-0103.xml#p117">436 U. S. 117</a>-118 (1978).</p>
     <p>A</p>
     <p>NRDC insists that the language of § 301(1) is itself enough to require affirmance of the Court of Appeals, since on its face it forbids any modifications of the effluent limitations that EPA must promulgate for toxic pollutants. If the word "modify" in § 301(1) is read in its broadest sense, that is, to encompass any change or alteration in the standards, NRDC is correct. But it makes little sense to construe the section to forbid EPA to amend its own standards, even to correct an error or to impose stricter requirements. Furthermore,</p>
@@ -83,7 +83,7 @@
     <n id="p133">133</n>
     <p>EPA may not be apprised of, and will fail to consider, unique factors applicable to atypical plants during the categorical rulemaking process, and it is thus important that EPA's nationally binding categorical pretreatment standards for indirect dischargers be tempered with the flexibility that the FDF variance mechanism offers, a mechanism repugnant to neither the goals nor the operation of the Act. [<a id="nf25" href="#fn25">Footnote 25</a>]</p>
     <n id="p134">134</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>Viewed in its entirety, neither the language nor the legislative history of the Act demonstrates a clear congressional intent to forbid EPA's sensible variance mechanism for tailoring the categories it promulgates. In the absence of a congressional directive to the contrary, we accept EPA's conclusion that § 301(1) does not prohibit FDF variances. That interpretation gives the term "modify" a consistent meaning in §§ 301(c), (g), and (1), and draws support from the legislative evolution of § 301(1) and from congressional silence on whether it intended to forbid FDF variances altogether and thus to obviate our decision in Du Pont.</p>
     <p>Here we are not dealing with an agency's change of position with the advent of a different administration, but rather with EPA's consistent interpretation since the 1970's. [<a id="nf26" href="#fn26">Footnote 26</a>] NRDC argues that its construction of the statute is better supported by policy considerations. But we do not sit to judge the relative wisdom of competing statutory interpretations. Here EPA's construction, fairly understood, is not inconsistent with the language, goals, or operation of the Act. Nor does the administration of EPA's regulation undermine the will of Congress. [<a id="nf27" href="#fn27">Footnote 27</a>]</p>
     <p>The judgment of the Court of Appeals is reversed.</p>
@@ -221,7 +221,7 @@
       <p>In these cases, the Environmental Protection Agency (EPA) maintains that it may issue, on a case-by-case basis, individualized variances from the national standards that limit the discharge of toxic water pollutants. EPA asserts</p>
       <n id="p135">135</n>
       <p>this power in the face of a provision of the Clean Water Act that expressly withdraws from the agency the authority to "modify" the national standards for such pollutants. The Court today defers to EPA's interpretation of the Clean Water Act even though that interpretation is inconsistent with the clear intent of Congress, as evidenced by the statutory language, history, structure, and purpose. I had not read our cases to permit judicial deference to an agency's construction of a statute when that construction is inconsistent with the clear intent of Congress.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>The Clean Water Act requires the EPA Administrator to regulate two types of industrial facilities: (1) "direct" dischargers, i.e., facilities that discharge waste water directly into navigable waters; and (2) "indirect" dischargers, i.e., facilities that discharge waste water into publicly owned treatment works prior to discharge into navigable waters. For both types of requirements, EPA conducts rulemaking proceedings and promulgates nationwide, categorical limitations, that is, limitations applicable to categories of dischargers (e.g., iron and steel plants).</p>
       <p>The Act provides for the phased implementation of progressively more stringent requirements for direct dischargers. By July 1, 1977, existing direct dischargers were required to meet effluent limitations based on the "best practicable control technology currently available" (BPT). § 301(b)(1)(A), 86 Stat. 844, 33 U.S.C. § 1311(b)(1)(A). By July 1, 1984, such dischargers were obligated to meet limitations based on the "best available technology economically achievable" (BAT). § 301(b)(2)(A). [Footnote 2/1]</p>
       <p>Indirect dischargers are subject to "pretreatment" standards applicable to pollutants, including toxic pollutants, that</p>
@@ -236,7 +236,7 @@
       <n id="p138">138</n>
       <p>mandated by Congress. The only view of FDF variances consistent with the scheme of the Clean Water Act is that they are individual exceptions that soften the hardship of general rules. As such, they are undoubtedly disallowed by § 301(1).</p>
       <p>These cases are not about whether exceptions are useful adjuncts to regulatory schemes of general applicability. That is a policy choice on which courts should defer to Congress in the first instance, and to the administrative agency in the absence of a clear congressional mandate. Here, Congress has made the policy choice. It has weighed competing goals and determined that, whatever the general merits of exceptions schemes, they are simply inappropriate in the context of the control of toxic water pollution. As a result, an exceptions scheme such as the one challenged here simply cannot stand.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>I first consider EPA's argument that § 301(1) proscribes only those modifications otherwise authorized by §§ 301(c) and (g). Under these provisions, EPA can "modify" the categorical standard if a discharger makes an adequate showing that such a standard is not within the discharger's economic capability and that a less stringent standard would nonetheless result in reasonable environmental progress, § 301(c), [Footnote 2/4] or that a less stringent standard adequately protects</p>
       <n id="p139">139</n>
       <p>water quality, § 301(g). [Footnote 2/5] This limited view of 301(1)'s scope is clearly inconsistent with congressional intent; the plain meaning of the statute and its legislative history show a clear congressional intent to ban all "modifications."</p>
@@ -317,7 +317,7 @@
       <p>"[t]he judiciary is the final authority on issues of statutory construction, and must reject administrative constructions which are contrary to clear congressional intent."</p>
       <p>Id. at <a href="../us467/us467-0837.xml#p843">467 U. S. 843</a>, n. 9. [Footnote 2/14]</p>
       <p>My disagreement with the Court does not center on its reading of Chevron, but instead on its analysis of the congressional purposes behind § 301(1). If I agreed with the Court's analysis of the statute and the legislative history, I too would conclude that Chevron commands deference to the administrative construction.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>EPA's second construction of the statutory scheme is, on the surface, a more plausible one. EPA argues that FDF</p>
       <n id="p153">153</n>
       <p>variances do not excuse compliance with the correct standards, but instead provide a means for setting more appropriate standards. It is clear that, pursuant to § 307(b)(2), EPA can "revise" the pretreatment standards, as long as it does so "following the procedure established . . . for the promulgation of such standards." The statute contemplates that the standards will be set and revised through notice-and-comment rulemaking, and will be applicable to categories of sources. See §§ 307(b)(2), (3); see also Brief for EPA 9. EPA argues that such a "revision," which is clearly not proscribed by § 301(1), would be substantively indistinguishable from an FDF variance. Thus, according to the Agency, NRDC's concern stems not from the result achieved when an FDF variance is granted, but rather from the procedure employed in reaching that result. EPA relies on Vermont Yankee Nuclear Power Corp. v. NRDC, <a href="../us435/us435-0519.xml#p519">435 U. S. 519</a> (1978), for the proposition that an agency is free to choose between two procedures for reaching the same substantive ends. See Brief for EPA 11, 36.</p>
@@ -350,7 +350,7 @@
       <n id="p158">158</n>
       <p>It is true, of course, that even the statutory revision procedure might identify a subcategory with only one discharger. That procedure, however, will have established that this discharger is indeed uniquely situated. In contrast, an FDF variance sets an individual requirement even where there may be similarly situated dischargers.</p>
       <p>In summary, whatever else FDF variances might do, they do not further the same congressional goals as the notice-and-comment rulemaking required for § 307(b) revisions. [Footnote 2/17] Vermont Yankee is simply inapposite; Congress intended, for substantive reasons, that the pretreatment standards be set and revised through rulemaking for categories of dischargers. [Footnote 2/18] The Court's conclusion to the contrary stems exclusively from its failure to consider why Congress chose to require categorical standards.</p>
-      <h>IV</h>
+      <h2>IV</h2>
       <p>The analysis of Parts II and III compels the conclusion that neither of the alternative arguments advanced to support EPA's construction of the statute can stand. That analysis</p>
       <n id="p159">159</n>
       <p>also leads directly to the conclusion that § 301(1) in fact disallows FDF variances from the standards for toxic pollutants. Congress clearly intended that § 301(1) ban variances such as those at issue here, and the language and legislative history permit no other interpretation.</p>

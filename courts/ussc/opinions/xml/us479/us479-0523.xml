@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us479-0523.html" citation="479 U.S. 523" title="Connecticut v. Barrett">
   <opinion type="Opinions &amp; Dissents">
     <n id="p523">523</n>
-    <h>U.S. Supreme Court</h>
-    <h>Connecticut v. Barrett, <a href="./us479-0523.xml#p523">479 U.S. 523</a> (1987)</h>
-    <h>Connecticut v. Barrett</h>
-    <h>No. 85-899</h>
-    <h>Argued December 9, 1986</h>
-    <h>Decided January 27, 1987</h>
-    <h><a href="./us479-0523.xml#p523">479 U.S. 523</a></h>
-    <h>CERTIORARI TO THE SUPREME COURT OF CONNECTICUT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Connecticut v. Barrett, <a href="./us479-0523.xml#p523">479 U.S. 523</a> (1987)</h1>
+    <h2>Connecticut v. Barrett</h2>
+    <h2>No. 85-899</h2>
+    <h4>Argued December 9, 1986</h4>
+    <h4>Decided January 27, 1987</h4>
+    <h2>CERTIORARI TO THE SUPREME COURT OF CONNECTICUT</h2>
+    <h2>Syllabus</h2>
     <p>Respondent, while in custody on suspicion of sexual assault, was three times advised by the police of his Miranda rights. On each occasion, after signing and dating an acknowledgment that he had been given those rights, respondent indicated to the police that he would not make a written statement, but that he was willing to talk about the incident that led to his arrest. On the second and third such occasions, he added that he would not make a written statement outside the presence of counsel, and then orally admitted his involvement in the sexual assault. One of the police officers reduced to writing his recollection of respondent's last such statement, and the confession was introduced into evidence at respondent's trial. The trial court refused to suppress the confession, finding that respondent had fully understood the Miranda warnings and had voluntarily waived his right to counsel. Respondent's conviction of sexual assault, inter alia, was reversed by the Connecticut Supreme Court, which held that his expressed desire for counsel before making a written statement constituted an invocation of his right to counsel for all purposes, that he had not waived that right by initiating further discussion with the police, and that, therefore, the incriminating statement was improperly admitted into evidence under Edwards v. Arizona, <a href="../us451/us451-0477.xml#p477">451 U. S. 477</a>.</p>
     <p>Held: The Constitution did not require suppression of respondent's incriminating statement. Pp. <a href="./us479-0523.xml#p527">479 U. S. 527</a>-530.</p>
     <p>(a) Respondent's statements to the police made clear his willingness to talk about the sexual assault, and, there being no evidence that he was "threatened, tricked, or cajoled" into speaking to the police, the trial court properly found that his decision to do so constituted a voluntary waiver of his right to counsel. Although the Miranda rules were designed to protect defendants from being compelled by the government to make statements, they also give defendants the right to choose between speech and silence. Pp. <a href="./us479-0523.xml#p527">479 U. S. 527</a>-529.</p>
@@ -68,7 +68,7 @@
       <p>I concur in the judgment that the Constitution does not require the suppression of Barrett's statements to the police, but for reasons different from those set forth in the opinion of the Court. Barrett's contemporaneous waiver of his right to silence and limited invocation of his right to counsel (for the</p>
       <n id="p531">531</n>
       <p>purpose of making a written statement) suggested that he did not understand that anything he said could be used against him. However, the State eliminated this apparent ambiguity when it demonstrated that Barrett's waiver of his right to silence was voluntary, knowing, and intelligent. Barrett testified at trial that he understood his Miranda rights, i.e., he knew that he need not talk to the police without a lawyer present, and that anything he said could be used against him. Under these circumstances, the waiver of the right to silence and the limited invocation of the right to counsel were valid.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>In Miranda v. Arizona, <a href="../us384/us384-0436.xml#p436">384 U. S. 436</a> (1966), the Court held that custodial interrogation is inherently coercive, and that a defendant must receive detailed warnings that he or she has the rights to remain silent and to receive assistance of counsel before and during questioning. A statement obtained from a defendant during custodial interrogation is admissible only if the State carries its "heavy burden" of establishing that a defendant has executed a valid waiver of the privilege against self-incrimination and the right to counsel. Id. at <a href="../us384/us384-0436.xml#p475">384 U. S. 475</a>. To do so, the State must demonstrate "an intentional relinquishment or abandonment of a known right or privilege." Johnson v. Zerbst, <a href="../us304/us304-0458.xml#p458">304 U. S. 458</a>, <a href="../us304/us304-0458.xml#p464">304 U. S. 464</a> (1938); see Miranda, supra, at <a href="../us384/us384-0436.xml#p475">384 U. S. 475</a>-479. In making this determination, courts must examine "the particular facts and circumstances surrounding that case, including the background, experience, and conduct of the accused." Johnson v. Zerbst, supra, at <a href="../us304/us304-0458.xml#p464">304 U. S. 464</a>.</p>
       <p>The language and tenor of the Miranda opinion suggested that the Court would require that a waiver of the rights at stake be "specifically made." See 384 U.S. at <a href="../us384/us384-0436.xml#p470">384 U. S. 470</a>. While the Court retreated from that position in North Carolina v. Butler, <a href="../us441/us441-0369.xml#p369">441 U. S. 369</a>, <a href="../us441/us441-0369.xml#p373">441 U. S. 373</a> (1979), I continue to believe that the Court should require the police to obtain an "affirmative waiver'" of Miranda rights before proceeding with interrogation.</p>
       <n id="p532">532</n>
@@ -82,7 +82,7 @@
       <p>In sum, the State has carried its "heavy burden" of demonstrating waiver. It has shown that Barrett received the Miranda warnings, that he had the capacity to understand them, [Footnote 2/4] and in fact understood them, and that he expressly</p>
       <n id="p534">534</n>
       <p>waived his right to silence, saying that he "had no problem in talking about the incident." Tr. 452; see also id. at 461-462, 490-491, 674. In my view, each of these findings was essential to the conclusion that a voluntary, knowing, and intelligent waiver of the Miranda rights occurred.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>Barrett argues that his refusal to make a written statement without an attorney present constituted an invocation of the right to counsel for all purposes, and that any further interrogation after this mention of his desire for an attorney was impermissible under Edwards v. Arizona, <a href="../us451/us451-0477.xml#p477">451 U. S. 477</a> (1981). It is settled that any plain reference, however glancing, to a need or a desire for representation must result in the cessation of questioning. See Miranda, 384 U.S. at <a href="../us384/us384-0436.xml#p444">384 U. S. 444</a>-445 (questioning must cease when the accused "indicates in any manner and at any stage of the process that he wishes to consult with an attorney before speaking"); Smith v. Illinois, <a href="../us469/us469-0091.xml#p91">469 U. S. 91</a> (1984) (per curiam).</p>
       <p>I believe that a partial invocation of the right to counsel, without more, invariably will be ambiguous. It gives rise to doubts about the defendant's precise wishes regarding representation, and about his or her understanding of the nature and scope of the right to counsel. Thus, the police may not infer from a partial invocation of the right to counsel alone that the defendant has waived any of his or her rights not specifically invoked.</p>
       <p>However, circumstances may clarify an otherwise ambiguous situation. If the partial invocation is accompanied by an explicit waiver of the right to silence that is voluntary, knowing, and intelligent, it may lose its ambiguity. [Footnote 2/5] It may become</p>

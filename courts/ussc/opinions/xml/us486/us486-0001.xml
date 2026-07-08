@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us486-0001.html" citation="486 U.S. 1" title="Department of Justice v. Julian">
   <opinion type="Opinions &amp; Dissents">
     <n id="p1">1</n>
-    <h>U.S. Supreme Court</h>
-    <h>Department of Justice v. Julian, <a href="./us486-0001.xml#p1">486 U.S. 1</a> (1988)</h>
-    <h>United States Department of Justice v. Julian</h>
-    <h>No. 86-1357</h>
-    <h>Argued January 19, 1988</h>
-    <h>Decided May 16, 1988</h>
-    <h><a href="./us486-0001.xml#p1">486 U.S. 1</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Department of Justice v. Julian, <a href="./us486-0001.xml#p1">486 U.S. 1</a> (1988)</h1>
+    <h2>United States Department of Justice v. Julian</h2>
+    <h2>No. 86-1357</h2>
+    <h4>Argued January 19, 1988</h4>
+    <h4>Decided May 16, 1988</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>The two respondents are federal prison inmates whose requests for copies of their presentence investigation reports were denied by the Parole Commission. Pursuant to Federal Rule of Criminal Procedure 32(c), a probation officer prepares the presentence report, which contains background information about the defendant and the circumstances of his offense, for use by the district court at sentencing. Under the Rule, the court, before imposing sentence, must permit the defendant and his counsel to read the report, except portions, inter alia, containing diagnostic opinions, confidential sources of information, or information that, if disclosed, might cause harm to the defendant or others. After sentencing, the reports are typically transmitted to the Bureau of Prisons for its use, and then -- pursuant to the Parole Commission and Reorganization Act of 1976 (Parole Act) -- are sent to the Parole Commission for eventual use in determining whether a prisoner should be paroled. The Parole Act provides that, before a scheduled parole hearing is held, the prisoner must be given reasonable access to the report, but exempts the same three categories of information as Rule 32(c). After the Parole Commission denied their disclosure requests, respondents filed separate suits under the Freedom of Information Act (FOIA), and the District Courts ordered disclosure. Consolidating petitioners' appeals, the Court of Appeals affirmed. It rejected petitioners' contentions that presentence reports are exempt from disclosure under both</p>
     <n id="p2">2</n>
     <p>Exemption 3 and Exemption 5 of the FOIA. Exemption 3 pertains to matters that are "specifically exempt[ed] from disclosure" by another statute that "refers to particular types of matters to be withheld." Exemption 5 makes the FOIA inapplicable to "inter-agency or intra-agency memorandums or letters which would not be available by law to a party other than an agency in litigation with the agency."</p>
@@ -111,7 +111,7 @@
       <p>Respondents argue that presentence memorandums are not "interagency" records for purposes of Exemption 5. The Court of Appeals did not address this issue, however, and we do not find it necessary to do so in light of our disposition today.</p>
       <p>JUSTICE SCALIA, with whom JUSTICE WHITE and JUSTICE O'CONNOR join, dissenting.</p>
       <p>I dissent from today's decision because, in my view, it fails to perform the fundamental judicial function of reading the body of enacted laws in such fashion as to cause none of them to be pointless; and because, in order to achieve that failure, it makes a departure, sure to engender confusion and litigation, from the general principle of the Freedom of Information Act that individuating characteristics of requesters are not to be considered. I address each of these points in turn.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>In 1975, Congress approved Rule 32(c)(3)(E) of the Federal Rules of Criminal Procedure, providing that a defendant cannot retain copies of the presentence report unless the sentencing judge (presumably familiar with the dangerousness of the defendant and his associates) specifically directs. Act of July 31, 1975, Pub.L. 94-64, § 2, 89 Stat. 370. In the 1976 Parole Act, Congress adopted a clause completely consistent with this provision, requiring the Parole Commission, at least 30 days before a scheduled parole hearing, to provide the inmate only "reasonable access" to the report -- a term that assuredly does not require, and indeed is ordinarily used specifically to make clear that there is not required, retention of the document. Today the Court holds that all this really does not matter, because the defendant can obtain a copy of the report under the Freedom of Information Act (FOIA), 5 U.S.C. § 552, as soon as it is transferred to the Bureau of Prisons and the Parole Commission after his sentencing.</p>
       <p>If the FOIA had been adopted after the protective provisions in question, one could at least argue that there had been a change of heart by Congress, and, if not repeal by implication, at least frustration by implication. But the fact is that the relevant provision of the FOIA was enacted in its current form in 1967, before the Federal Rule of Criminal Procedure and Parole Act provisions at issue here, Pub.L. 90-23, 81</p>
       <n id="p16">16</n>
@@ -125,7 +125,7 @@
       <p>"</p>
       <p>"[Rule 32(c)(3)(E)] embodies the concern of the courts that the defendant's retention of the presentence report is normally inimical to the interests of obtaining full and accurate information prior to sentencing."</p>
       <p>Letter from Probation Chief Chamlee to Chairman of Parole Comm'n Baer, June 17, 1985, App. to Pet. for Cert. 25a-26a. I have no idea whether this is sound, and neither does the Court. But the issue was obviously addressed by Congress and resolved in favor of restricted access. We should not frustrate that disposition unless the FOIA unavoidably so requires. As I now proceed to discuss, just the opposite is true: A genuine revolution in accepted FOIA principles is required to produce today's peculiar result.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>It is too well established to warrant extensive discussion -- or at least until today has been -- that the FOIA is not meant to provide documents to particular individuals who have special entitlement to them, but rather "to inform the public about agency action." NLRB v. Sears, Roebuck &amp; Co., <a href="../us421/us421-0132.xml#p132">421 U. S. 132</a>, <a href="../us421/us421-0132.xml#p143">421 U. S. 143</a>, n. 10 (1975) (emphasis added). In his foreword to an official Justice Department Memorandum for agency guidance describing the then newly enacted Freedom of Information Act, Attorney General Clark correctly identified as one of the five key concerns of the Act the goal "that all individuals have equal rights of access." Attorney General's Memorandum on Public Information Section of Administrative Procedure Act, United States Department of Justice iv (June 1967) (emphasis added) (hereinafter AG Memorandum). The scholarly commentators agreed:</p>
       <p>"The Act's sole concern is with what must be made public or not made public. The Act never provides for disclosure to some private parties and withholding from others. The main provision of section 3 says that information is to be made available 'to the public' and the central provision of subsection (c) requires availability of</p>
       <n id="p18">18</n>

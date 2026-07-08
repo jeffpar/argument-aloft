@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us387-0213.html" citation="387 U.S. 213" title="Northeastern Pa. Nat'l Bank v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p213">213</n>
-    <h>U.S. Supreme Court</h>
-    <h>Northeastern Pa. Nat'l Bank v. United States, <a href="./us387-0213.xml#p213">387 U.S. 213</a> (1967)</h>
-    <h>Northeastern Pennsylvania National Bank &amp; Trust. Co. v.</h>
-    <h>United States</h>
-    <h>No. 637</h>
-    <h>Argued March 20, 1967</h>
-    <h>Decided May 22, 1967</h>
-    <h><a href="./us387-0213.xml#p213">387 U.S. 213</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE THIRD CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Northeastern Pa. Nat'l Bank v. United States, <a href="./us387-0213.xml#p213">387 U.S. 213</a> (1967)</h1>
+    <h2>Northeastern Pennsylvania National Bank &amp; Trust. Co. v.</h2>
+    <h2>United States</h2>
+    <h2>No. 637</h2>
+    <h4>Argued March 20, 1967</h4>
+    <h4>Decided May 22, 1967</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE THIRD CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Decedent's will established a bequest in trust to provide for monthly payments of $300 to his widow. If the trust income were insufficient, the corpus could be invaded to make the specified payments, excess income was to be accumulated, and the widow was given power to appoint the entire corpus by will. On decedent's estate tax return, his executor claimed the marital deduction of one-half the gross estate, including therein the value of the trust corpus. The Commissioner of Internal Revenue determined that the trust did not qualify for the deduction because the widow's right to income was not expressed as a "fractional or percentile share" of the total trust income, as required by Treas.Reg. § 20.2056(b)5(c), which interprets 26 U.S.C. § 2056(b)(5). That provision, inter alia, qualifies for the deduction an interest where the surviving spouse is entitled for life to all the income from a "specific portion" of the trust corpus, with power in the surviving spouse to appoint such specific portion. The executor sued for a refund which the District Court granted on the basis that the "specific portion" of the trust whose income would amount to $300 per month could be computed and a deduction allowed for that amount, notwithstanding the Regulation. The Court of Appeals reversed.</p>
     <p>Held:</p>
     <p>1. "Resolution of the question in this case, whether a qualifying "specific portion" can be computed from the monthly stipend specified in a decedent's will, is essentially a matter of discovering the intent of Congress." In the legislative history of the marital deduction,</p>
@@ -44,7 +44,7 @@
     <n id="p218">218</n>
     <p>The basis for the Commissioner's disallowance lay in Treasury Regulation § 20.2056(b)-5(c). This interpretative Regulation purports to define "specific portion" as it is used in § 2056(b)(5) of the Code:</p>
     <p>"A partial interest in property is not treated as a specific portion of the entire interest unless the rights of the surviving spouse in income . . . constitute a fractional or percentile share of a property interest. . . ."</p>
-    <p>The Regulation specifically provides that "if the annual income of the spouse is limited to a specific sum . . . , the interest is not a deductible interest." [<a id="nf4" href="#fn4">Footnote 4</a>] If this Regulation properly implements the Code, the trust in this case plainly fails to qualify for the marital deduction. We hold, however, that, in the context of this case, the Regulation improperly restricts the scope of the congressionally granted deduction.</p>
+    <p>The Regulation specifically provides that "if the annual income of the spouse is limited to a specific sum . . ., the interest is not a deductible interest." [<a id="nf4" href="#fn4">Footnote 4</a>] If this Regulation properly implements the Code, the trust in this case plainly fails to qualify for the marital deduction. We hold, however, that, in the context of this case, the Regulation improperly restricts the scope of the congressionally granted deduction.</p>
     <p>In the District Court, the executor initially claimed that the entire trust qualified for the marital deduction simply because, at the time of trial, the corpus had not yet produced an income in excess of $300 per month, and that the widow was therefore entitled "to all the income from the entire interest." The District Court rejected this contention, observing that the income from</p>
     <n id="p219">219</n>
     <p>the corpus could exceed $300 per month, and, in that event, the excess would have to be accumulated. The executor's alternative claim, which the District Court accepted, was that the "specific portion" of the trust corpus whose income would amount to $300 per month could be computed, and a deduction allowed for that amount. [<a id="nf5" href="#fn5">Footnote 5</a>]</p>
@@ -95,7 +95,7 @@
     </f>
     <f n="3"><a id="fn3" href="#nf3">Footnote 3</a>
       <p>In the Citizens National Bank case, decedent directed the trustee to pay the surviving wife $200 per month for the two years following his death, and thereafter $300 per month; the widow was the sole beneficiary. The District Director disallowed that part of the executor-bank's claim to an estate tax marital deduction based upon the trust, and the bank sued for a refund. The District Court held in favor of the bank, and computed the allowable deduction by capitalizing the $200 monthly stipend at an assumed 3 1/2% rate of return. The Court of Appeals affirmed, one judge dissenting.</p>
-      <p>The decision of the Court of Appeals for the Third Circuit in the present case is also in apparent conflict with a decision of the Court of Appeals for the Second Circuit in Gelb v. Commissioner, 298 F.2d 544 (1962) (Friendly, J.). The surviving widow in Gelb was entitled to all the income from the trust. The trustees (of which the wife was one) were empowered to invade corpus up to $5,000 per year for the education and support of testator's youngest daughter, the payments to be made to the wife. The Court of Appeals held that the present worth of the maximum amount payable to the daughter could be computed actuarially, taking into account the joint expectancy of the widow and daughter, and could then be deducted from the total trust corpus to arrive at the "specific portion" as to which the widow was given a power of appointment. The Court of Appeals observed that "Congress spoke of a specific portion,' not of a `fractional or percentile share . . . ,'" 298 F.2d at 550-551, and disapproved the Regulation "insofar as it would limit a `specific portion' to `a fractional or percentile share.'" 298 F.2d at 551.</p>
+      <p>The decision of the Court of Appeals for the Third Circuit in the present case is also in apparent conflict with a decision of the Court of Appeals for the Second Circuit in Gelb v. Commissioner, 298 F.2d 544 (1962) (Friendly, J.). The surviving widow in Gelb was entitled to all the income from the trust. The trustees (of which the wife was one) were empowered to invade corpus up to $5,000 per year for the education and support of testator's youngest daughter, the payments to be made to the wife. The Court of Appeals held that the present worth of the maximum amount payable to the daughter could be computed actuarially, taking into account the joint expectancy of the widow and daughter, and could then be deducted from the total trust corpus to arrive at the "specific portion" as to which the widow was given a power of appointment. The Court of Appeals observed that "Congress spoke of a specific portion,' not of a `fractional or percentile share . . .,'" 298 F.2d at 550-551, and disapproved the Regulation "insofar as it would limit a `specific portion' to `a fractional or percentile share.'" 298 F.2d at 551.</p>
     </f>
     <f n="4"><a id="fn4" href="#nf4">Footnote 4</a>
       <p>The relevant part of the Regulation is as follows:</p>

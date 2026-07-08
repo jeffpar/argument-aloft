@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us463-0248.html" citation="463 U.S. 248" title="Lehr v. Robertson">
   <opinion type="Opinions &amp; Dissents">
     <n id="p248">248</n>
-    <h>U.S. Supreme Court</h>
-    <h>Lehr v. Robertson, <a href="./us463-0248.xml#p248">463 U.S. 248</a> (1983)</h>
-    <h>Lehr v. Robertson</h>
-    <h>No. 81-1756</h>
-    <h>Argued December 7, 1982</h>
-    <h>Decided June 27, 1983</h>
-    <h><a href="./us463-0248.xml#p248">463 U.S. 248</a></h>
-    <h>APPEAL FROM THE COURT OF APPEALS OF NEW YORK</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Lehr v. Robertson, <a href="./us463-0248.xml#p248">463 U.S. 248</a> (1983)</h1>
+    <h2>Lehr v. Robertson</h2>
+    <h4>No. 81-1756</h4>
+    <h4>Argued December 7, 1982</h4>
+    <h4>Decided June 27, 1983</h4>
+    <h2>APPEAL FROM THE COURT OF APPEALS OF NEW YORK</h2>
+    <h2>Syllabus</h2>
     <p>Appellant is the putative father of a child born out of wedlock. Appellee mother of the child married another man (also an appellee) after the child was born. Subsequently, when the child was over two years old, appellees filed an adoption petition in the Ulster County, N.Y. Family Court, which entered an order of adoption. Appellant never supported the child or offered to marry appellee mother, did not enter his name in New York's "putative father registry," which would have entitled him to notice of the adoption proceeding, and was not in any of the classes of putative fathers who are entitled under New York law to receive notice of adoption proceedings. After the adoption proceeding was commenced, appellant filed a paternity petition in the Westchester County, N.Y. Family Court. Appellant learned of the pending adoption proceeding several months later. Shortly thereafter, his attorney sought a stay of the adoption proceeding pending the determination of the paternity action, but by that time the Ulster County Family Court had entered the adoption order. Appellant filed a petition to vacate the adoption order on the ground that it was obtained in violation of his rights under the Due Process and Equal Protection Clauses of the Fourteenth Amendment. The Ulster County Family Court denied the petition, and both the Appellate Division of the New York Supreme Court and the New York Court of Appeals affirmed.</p>
     <p>Held:</p>
     <p>1. Appellant's rights under the Due Process Clause were not violated. Pp. <a href="./us463-0248.xml#p256">463 U. S. 256</a>-265.</p>
@@ -47,7 +47,7 @@
     <n id="p256">256</n>
     <p>The Due Process Claim.</p>
     <p>The Fourteenth Amendment provides that no State shall deprive any person of life, liberty, or property without due process of law. When that Clause is invoked in a novel context, it is our practice to begin the inquiry with a determination of the precise nature of the private interest that is threatened by the State. See, e.g., Cafeteria Workers v. McElroy, <a href="../us367/us367-0886.xml#p886">367 U. S. 886</a>, <a href="../us367/us367-0886.xml#p895">367 U. S. 895</a>-896 (1961). Only after that interest has been identified can we properly evaluate the adequacy of the State's process. See Morrissey v. Brewer, <a href="../us408/us408-0471.xml#p471">408 U. S. 471</a>, <a href="../us408/us408-0471.xml#p482">408 U. S. 482</a>-483 (1972). We therefore first consider the nature of the interest in liberty for which appellant claims constitutional protection, and then turn to a discussion of the adequacy of the procedure that New York has provided for its protection.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The intangible fibers that connect parent and child have infinite variety. They are woven throughout the fabric of our society, providing it with strength, beauty, and flexibility. It is self-evident that they are sufficiently vital to merit constitutional protection in appropriate cases. In deciding whether this is such a case, however, we must consider the broad framework that has traditionally been used to resolve the legal problems arising from the parent-child relationship.</p>
     <p>In the vast majority of cases, state law determines the final outcome. Cf. United States v. Yazell, <a href="../us382/us382-0341.xml#p341">382 U. S. 341</a>, <a href="../us382/us382-0341.xml#p351">382 U. S. 351</a>-353 (1966). Rules governing the inheritance of property, adoption, and child custody are generally specified in statutory enactments that vary from State to State. [<a id="nf11" href="#fn11">Footnote 11</a>] Moreover, equally varied state laws governing marriage and divorce affect a multitude of parent-child relationships. The institution</p>
     <n id="p257">257</n>
@@ -81,7 +81,7 @@
     <p>In this case, we are not assessing the constitutional adequacy of New York's procedures for terminating a developed relationship. Appellant has never had any significant custodial, personal, or financial relationship with Jessica, and he did not seek to establish a legal tie until after she was two years old. [<a id="nf19" href="#fn19">Footnote 19</a>] We are concerned only with whether New York</p>
     <n id="p263">263</n>
     <p>has adequately protected his opportunity to form such a relationship.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The most effective protection of the putative father's opportunity to develop a relationship with his child is provided by the laws that authorize formal marriage and govern its consequences. But the availability of that protection is, of course, dependent on the will of both parents of the child. Thus, New York has adopted a special statutory scheme to protect the unmarried father's interest in assuming a responsible role in the future of his child.</p>
     <p>After this Court's decision in Stanley, the New York Legislature appointed a special commission to recommend legislation that would accommodate both the interests of biological fathers in their children and the children's interest in prompt and certain adoption procedures. The commission recommended, and the legislature enacted, a statutory adoption scheme that automatically provides notice to seven categories of putative fathers who are likely to have assumed some responsibility for the care of their natural children. [<a id="nf20" href="#fn20">Footnote 20</a>] If</p>
     <n id="p264">264</n>
@@ -218,7 +218,7 @@
       <p>Appellant also makes an equal protection argument based upon the manner in which the statute distinguishes among classes of fathers. For the reasons set forth in our due process discussion, supra, we conclude that the statutory distinction is rational, and that appellant's argument is without merit.</p>
       <p>JUSTICE WHITE, with whom JUSTICE MARSHALL and JUSTICE BLACKMUN join, dissenting.</p>
       <p>The question in this case is whether the State may, consistent with the Due Process Clause, deny notice and an opportunity to be heard in an adoption proceeding to a putative father when the State has actual notice of his existence, whereabouts, and interest in the child.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>It is axiomatic that</p>
       <p>"[t]he fundamental requirement of due process is the opportunity to be heard 'at a meaningful time and in a meaningful manner.'"</p>
       <p>Mathews v. Eldridge, <a href="../us424/us424-0319.xml#p319">424 U. S. 319</a>, <a href="../us424/us424-0319.xml#p333">424 U. S. 333</a> (1976), quoting Armstrong v. Manzo, <a href="../us380/us380-0545.xml#p545">380 U. S. 545</a>, <a href="../us380/us380-0545.xml#p552">380 U. S. 552</a> (1965). As Jessica's biological father, Lehr either had an interest protected by the Constitution or he did not. [Footnote 2/1] If the entry of the adoption order in this case deprived Lehr of a constitutionally protected interest, he is entitled to notice and an opportunity to be heard before the order can be accorded finality.</p>
@@ -247,7 +247,7 @@
       <p>Beyond that, however, because there is no established factual basis on which to proceed, it is quite untenable to conclude that a putative father's interest in his child is lacking in substance, that the father in effect has abandoned the child, or ultimately that the father's interest is not entitled to the same minimum procedural protections as the interests of other putative fathers. Any analysis of the adequacy of the notice in this case must be conducted on the assumption that the interest involved here is as strong as that of any putative father. That is not to say that due process requires actual notice to every putative father, or that adoptive parents or the State must conduct an exhaustive search of records or an intensive investigation before a final adoption order may be entered. The procedures adopted by the State, however, must at least represent a reasonable effort to determine the</p>
       <n id="p273">273</n>
       <p>identity of the putative father and to give him adequate notice.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>In this case, of course, there was no question about either the identity or the location of the putative father. The mother knew exactly who he was, and both she and the court entering the order of adoption knew precisely where he was and how to give him actual notice that his parental rights were about to be terminated by an adoption order. [Footnote 2/5] Lehr was entitled to due process, and the right to be heard is one of the fundamentals of that right, which</p>
       <p>"'has little reality or worth unless one is informed that the matter is pending and can choose for himself whether to appear or default, acquiesce or contest.'"</p>
       <p>Schroeder v. City of New York, <a href="../us371/us371-0208.xml#p208">371 U. S. 208</a>, <a href="../us371/us371-0208.xml#p212">371 U. S. 212</a> (1962), quoting Mullane v. Central Hanover Trust Co., <a href="../us339/us339-0306.xml#p306">339 U. S. 306</a>, <a href="../us339/us339-0306.xml#p314">339 U. S. 314</a> (1950).</p>

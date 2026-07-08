@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us006-0358.html" citation="6 U.S. 358" title="United States v. Fisher">
   <opinion type="Opinions &amp; Dissents">
     <n id="p358">358</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Fisher, 6 U.S. 358 (1805)</h>
-    <h>United States v. Fisher</h>
-    <h>6 U.S. (2 Cranch) 358</h>
-    <h>ERROR TO THE CIRCUIT</h>
-    <h>COURT OF PENNSYLVANIA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Fisher, 6 U.S. 358 (1805)</h1>
+    <h2>United States v. Fisher</h2>
+    <h2>6 U.S. (2 Cranch) 358</h2>
+    <h2>ERROR TO THE CIRCUIT</h2>
+    <h2>COURT OF PENNSYLVANIA</h2>
+    <h2>Syllabus</h2>
     <p>Priority of the United States, in cases of insolvency.</p>
     <p>In all cases of insolvency or bankruptcy of a debtor of the United States, it is entitled to priority of payment out of his effects.</p>
     <p>The United States was the holder of a foreign bill of exchange drawn by the bankrupt, negotiated in the regular course of trade and returned protested for nonpayment, and is entitled to a preference out of the estate of the bankrupt to the whole amount of the claim.</p>

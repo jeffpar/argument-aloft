@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us244-0001.html" citation="244 U.S. 1" title="Ewing v. Fowler Car Co.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p1">1</n>
-    <h>U.S. Supreme Court</h>
-    <h>Ewing v. Fowler Car Co., <a href="./us244-0001.xml#p1">244 U.S. 1</a> (1917)</h>
-    <h>Ewing v. Fowler Car Company</h>
-    <h>No. 721</h>
-    <h>Argued April 17, 1917</h>
-    <h>Decided May 7, 1917</h>
-    <h><a href="./us244-0001.xml#p1">244 U.S. 1</a></h>
-    <h>CERTIORARI TO THE COURT OF APPEALS</h>
-    <h>OF THE DISTRICT OF COLUMBIA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Ewing v. Fowler Car Co., <a href="./us244-0001.xml#p1">244 U.S. 1</a> (1917)</h1>
+    <h2>Ewing v. Fowler Car Company</h2>
+    <h2>No. 721</h2>
+    <h4>Argued April 17, 1917</h4>
+    <h4>Decided May 7, 1917</h4>
+    <h2>CERTIORARI TO THE COURT OF APPEALS</h2>
+    <h2>OF THE DISTRICT OF COLUMBIA</h2>
+    <h2>Syllabus</h2>
     <p>When an applicant for a patent admits that the invention shown in his application was made at a date subsequent to the date upon which another application for the same invention was filed, and by amendment of his application adopts the prior applicant's claims, he thereby concedes the priority of the other's invention, its utility, and the sufficiency of the claims.</p>
     <p>In such a case, the Commissioner of Patents cannot be required by mandamus to declare an interference.</p>
     <p>Under Rev.Stats., § 4904, the duty of the Commissioner to declare an interference arises only when, in the exercise of his judgment upon the facts presented, he is of opinion that a senior application will be interfered with by a junior one; the mere fact that the junior application covers the same ground, or that the junior applicant asserts an interference, is not enough to require the Commissioner to act.</p>
@@ -76,7 +76,7 @@
     <p>invention -- one perfected before the filing of petitioner's application -- all that the preliminary statement required by Rule 110 could disclose.</p>
     <p>This, then, was the situation presented to the Commissioner. There was nothing shown to change it, there is nothing alleged in the petition for mandamus to change it, and there is only urged that an experience of twenty-five years has demonstrated that, in interference proceedings, circumstances may be shown that determine against the date of filing or the claim of invention.</p>
     <p>If it could be conceded that there is antagonism between § 4904 and the rules, the former must prevail. United States ex rel. Steinmetz v. Allen, <a href="../us192/us192-0543.xml#p543">192 U. S. 543</a>, <a href="../us192/us192-0543.xml#p565">192 U. S. 565</a>. But there is no antagonism. The former provides that</p>
-    <p>"whenever an application is made for a patent which, in the opinion of the Commissioner, would interfere with any pending application . . . , he . . . shall direct the primary examiner to proceed to determine the question of priority of invention."</p>
+    <p>"whenever an application is made for a patent which, in the opinion of the Commissioner, would interfere with any pending application . . ., he . . . shall direct the primary examiner to proceed to determine the question of priority of invention."</p>
     <p>The section therefore commits to the opinion (judgment) of the Commissioner the effect of an application upon a pending one -- whether it will interfere with a pending one; something more, therefore, than the fact of two applications -- something more than the mere assertion of a claim. The assertion must be, in the opinion of the Commissioner, an interference with another. And it is this other that is first in regard, not to be questioned except at the instance of the Commissioner by an exercise of judgment upon the circumstances. And there is no defeat of ultimate rights; there may be postponement of their assertion remitted to a suit in equity under § 4918.</p>
     <p>But, anterior to such relief, petitioner contends that</p>
     <p>"there is a fundamental and basic right of opposition on the part of any applicant, whether junior or senior, to prevent the wrongful grant of a patent to his opponent."</p>

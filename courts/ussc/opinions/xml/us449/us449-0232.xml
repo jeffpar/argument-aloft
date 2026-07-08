@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us449-0232.html" citation="449 U.S. 232" title="FTC v. Standard Oil Co. of California">
   <opinion type="Opinions &amp; Dissents">
     <n id="p232">232</n>
-    <h>U.S. Supreme Court</h>
-    <h>FTC v. Standard Oil Co. of California, <a href="./us449-0232.xml#p232">449 U.S. 232</a> (1980)</h>
-    <h>Federal Trade Commission v. Standard Oil Company of California</h>
-    <h>No. 79-900</h>
-    <h>Argued October 15, 1980</h>
-    <h>Decided December 15, 1980</h>
-    <h><a href="./us449-0232.xml#p232">449 U.S. 232</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>FTC v. Standard Oil Co. of California, <a href="./us449-0232.xml#p232">449 U.S. 232</a> (1980)</h1>
+    <h2>Federal Trade Commission v. Standard Oil Company of California</h2>
+    <h2>No. 79-900</h2>
+    <h4>Argued October 15, 1980</h4>
+    <h4>Decided December 15, 1980</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>The Federal Trade Commission (FTC) issued a complaint against respondent and several other major oil companies, alleging that the FTC had "reason to believe" that the companies were violating $ 5 of the Federal Trade Commission Act (Act), which prohibits unfair methods of competition or unfair or deceptive acts or practices in commerce. While adjudication of the complaint before an Administrative Law Judge was still pending, respondent, having unsuccessfully sought to have the FTC withdraw the complaint, brought an action in Federal District Court, alleging that the FTC had issued its complaint without having "reason to believe" that respondent was violating the Act, and seeking an order declaring the complaint unlawful and requiring that it be withdrawn. The District Court dismissed the action. The Court of Appeals reversed, holding that the District Court could inquire whether the FTC in fact had made the determination that it had reason to believe that respondent was violating the Act, and that the issuance of the complaint was "final agency action" under § 10(c) of the Administrative Procedure Act (APA).</p>
     <p>Held: The FTC's issuance of its complaint was not "final agency action" under § 10(c) of the APA, and hence was not judicially reviewable before the conclusion of the administrative adjudication. Pp. <a href="./us449-0232.xml#p238">449 U. S. 238</a>-246.</p>
     <p>(a) The issuance of the complaint was not a definitive ruling or regulation and had no legal force or practical effect upon respondent's daily business other than the disruptions that accompany any major litigation. Abbott Laboratories v. Gardner, <a href="../us387/us387-0136.xml#p136">387 U. S. 136</a>, distinguished. Immediate judicial review would serve neither efficiency nor enforcement of the Act. Pp. <a href="./us449-0232.xml#p239">449 U. S. 239</a>-243.</p>
@@ -25,7 +25,7 @@
     <p>JUSTICE POWELL delivered the opinion of the Court.</p>
     <p>This case presents the question whether the issuance of a complaint by the Federal Trade Commission is "final agency action" subject to judicial review before administrative adjudication concludes.</p>
     <n id="p234">234</n>
-    <h>I</h>
+    <h2>I</h2>
     <p>On July 18, 1973, the Federal Trade Commission issued and served upon eight major oil companies, including Standard Oil Company of California (Socal), [<a id="nf1" href="#fn1">Footnote 1</a>] a complaint averring that the Commission had "reason to believe" that the companies were violating § 5 of the Federal Trade Commission Act, 38 Stat. 719, as amended, 15 U.S.C. § 45, [<a id="nf2" href="#fn2">Footnote 2</a>] and stating the Commission's charges in that respect. [<a id="nf3" href="#fn3">Footnote 3</a>] The Commission issued the complaint under authority of § 5(b) of the Act, 15 U.S.C. § 45(b), which provides:</p>
     <p>"Whenever the Commission shall have reason to believe that any . . . person, partnership, or corporation has been or is using any unfair method of competition or unfair or deceptive act or practice in or affecting commerce, and if it shall appear to the Commission that a proceeding by it in respect thereof would be to the interest of the public it shall issue and serve upon such person, partnership, or corporation a complaint stating its charges in that respect and containing a notice of a hearing. . . ."</p>
     <p>An adjudication of the complaint's charges began soon thereafter</p>
@@ -49,7 +49,7 @@
     <n id="p238">238</n>
     <p>F.2d 1381 (1979). It held the Commission's determination whether evidence before it provided the requisite reason to believe is "committed to agency discretion," and therefore is unreviewable according to § 10 of the Administrative Procedure Act (APA), 5 U.S.C. § 701(a)(2). The Court of Appeals held, however, that the District Court could inquire whether the Commission in fact had made the determination that it had reason to believe that Socal was violating the Act. If the District Court were to find upon remand that the Commission had issued the complaint "solely because of outside pressure or with complete absence of a reason to believe' determination," 596 F.2d at 1386, then it was to order the Commission to dismiss the complaint. The Court of Appeals further held that the issuance of the complaint was "final agency action" under § 10(c) of the APA, 5 U.S.C. § 704.</p>
     <p>We granted the Commission's petition for a writ of certiorari because of the importance of the questions raised by Socal's request for judicial review of the complaint before the conclusion of the adjudication. 445 U.S. 903 (1980). We now reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The Commission averred in its complaint that it had reason to believe that Socal was violating the Act. That averment is subject to judicial review before the conclusion of administrative adjudication only if the issuance of the complaint was "final agency action" or otherwise was "directly reviewable" under § 10(c) of the APA, 5 U.S.C. § 704. We conclude that the issuance of the complaint was neither. [<a id="nf7" href="#fn7">Footnote 7</a>]</p>
     <n id="p239">239</n>
     <p>A</p>
@@ -84,7 +84,7 @@
     <p>Id. at <a href="../us337/us337-0541.xml#p546">337 U. S. 546</a>. In that diversity case, a District Court refused to apply a state statute requiring shareholders bringing a derivative suit to post a security bond for the defendant's litigation expenses. This Court held that the District Court's order was subject to immediate appellate review under 28 U.S.C. § 1291. Giving that section a "practical, rather than a technical, construction," the Court concluded that this order "did not make any step toward final disposition of the merits of the case, and will not be merged in final judgment."</p>
     <p>337 U.S. at <a href="../us337/us337-0541.xml#p546">337 U. S. 546</a>.</p>
     <p>Cohen does not avail Socal. What we have said above makes clear that the issuance of the complaint averring reason to believe is a step toward, and will merge in, the Commission's decision on the merits. Therefore, review of this preliminary step should abide review of the final order.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Because the Commission's issuance of a complaint averring reason to believe that Socal has violated the Act is not "final agency action" under § 10(c) of the APA, it is not judicially reviewable before administrative adjudication concludes. [<a id="nf14" href="#fn14">Footnote 14</a>]</p>
     <n id="p247">247</n>
     <p>We therefore reverse the Court of Appeals and remand for the dismissal of the complaint.</p>

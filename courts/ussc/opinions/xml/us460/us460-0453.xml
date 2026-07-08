@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us460-0453.html" citation="460 U.S. 453" title="United States v. Generix Drug Corp.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p453">453</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Generix Drug Corp., <a href="./us460-0453.xml#p453">460 U.S. 453</a> (1983)</h>
-    <h>United States v. Generix Drug Corp.</h>
-    <h>No. 81-1222</h>
-    <h>Argued November 3, 1982</h>
-    <h>Decided March 22, 1983</h>
-    <h><a href="./us460-0453.xml#p453">460 U.S. 453</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE ELEVENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Generix Drug Corp., <a href="./us460-0453.xml#p453">460 U.S. 453</a> (1983)</h1>
+    <h2>United States v. Generix Drug Corp.</h2>
+    <h2>No. 81-1222</h2>
+    <h4>Argued November 3, 1982</h4>
+    <h4>Decided March 22, 1983</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE ELEVENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>The Federal Food, Drug, and Cosmetic Act (Act) prohibits the marketing of a "new drug" without the prior approval of the Food and Drug Administration (FDA). Section 201(p) of the Act defines a "new drug" as</p>
     <p>"any drug . . . [which] is not generally recognized . . . as safe and effective . . . or . . . which has not, otherwise than in [safety and effectiveness] investigations, been used to a material extent or for a material time."</p>
     <p>Section 201(g)(1) defines the term "drug" as, inter alia, "articles intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease in man or in other animals." The Government brought an action in Federal District Court to enjoin respondent Generix Drug Corp. (respondent) from distributing a number of generic drug products containing specified active ingredients, alleging that the FDA had never approved "new drug" applications with respect to such products. Holding that a generic drug product containing the same active ingredients as a previously approved pioneer drug marketed under a brand name is a "new drug" if there is a reasonable possibility that the differences in inactive "excipients" between the generic product and the pioneer drug will make the generic product less safe and effective, and finding that the Government had established a reasonable possibility that the safety and effectiveness of respondent's generic drug products might be affected by differences between their inactive "excipients" and those found in approved products, the court enjoined respondent from distributing the products in question. The Court of Appeals vacated the injunction and remanded with instructions to dismiss the complaint, holding that the statutory prohibition against the sale of a "new drug" without prior FDA approval does not apply to a drug product having the same active ingredients as a previously approved drug product, regardless of any differences in "excipients."</p>
@@ -21,7 +21,7 @@
     <n id="p454">454</n>
     <p>JUSTICE STEVENS delivered the opinion of the Court.</p>
     <p>The question presented is whether the statutory prohibition against the marketing of a "new drug" without the prior approval of the Food and Drug Administration (FDA) requires respondent Generix Drug Corp. to have approved new drug applications (NDA's) before it may market its generic drug products. In statutory terms, we are required to determine whether the term "drug," as used in the relevant sections of the Federal Food, Drug, and Cosmetic Act (Act), as amended, 21 U.S.C. § 301 et seq. (1976 ed. and Supp V), refers only to the active ingredient in a drug product or to the entire product. We hold that Congress intended the word to have the broader meaning.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The active ingredients in most prescription drugs constitute less than 10% of the product; inactive "excipients" (such as coatings, binders, and capsules) constitute the rest. The term "generic drug" is used to describe a product that contains the same active ingredients, but not necessarily the same excipients, as a so-called "pioneer drug" that is marketed</p>
     <n id="p455">455</n>
     <p>under a brand name. [<a id="nf1" href="#fn1">Footnote 1</a>] Respondent Generix is a distributor of generic drugs manufactured by other firms.</p>
@@ -32,7 +32,7 @@
     <p>The Court of Appeals for the Fifth Circuit, now the Eleventh Circuit, vacated the District Court's injunction and remanded with instructions to dismiss the complaint. 654 F.2d 1114. It held that the statutory prohibition against the sale of a "new drug" without prior approval does not apply to a drug product having the same active ingredients as a previously approved drug product, regardless of any differences in excipients. It based that conclusion on its view that the statutory requirement of evaluating the safety and effectiveness of new drugs must normally relate to active ingredients, because the precise technique of formulating the finished drug is not part of the information generally known to the medical or scientific community. Moreover, it believed that the legislative history suggested that Congress had not intended to create a product-by-product licensing system. Since the active ingredients at issue had all received the necessary approval, the Court of Appeals concluded that the Government was entitled to no relief at all.</p>
     <p>Because the question is obviously important, and because it has been decided differently in other Circuits, [<a id="nf5" href="#fn5">Footnote 5</a>] we granted certiorari. 455 U.S. 988. [<a id="nf6" href="#fn6">Footnote 6</a>]</p>
     <n id="p457">457</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>In resolving the narrow issue presented, the Court of Appeals misread the statutory text.</p>
     <p>Section 201(p) of the Act defines a "new drug" to be</p>
     <p>"any drug . . . [which] is not generally recognized . . . as safe and effective . . . or . . . which has not, otherwise than in [safety and effectiveness] investigations, been used to a material extent or for a material time. . . . [<a id="nf7" href="#fn7">Footnote 7</a>]"</p>

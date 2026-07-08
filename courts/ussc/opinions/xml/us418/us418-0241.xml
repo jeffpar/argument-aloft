@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us418-0241.html" citation="418 U.S. 241" title="Miami Herald Pub. Co. v. Tornillo">
   <opinion type="Opinions &amp; Dissents">
     <n id="p241">241</n>
-    <h>U.S. Supreme Court</h>
-    <h>Miami Herald Pub. Co. v. Tornillo, <a href="./us418-0241.xml#p241">418 U.S. 241</a> (1974)</h>
-    <h>Miami Herald Publishing Co. v. Tornillo</h>
-    <h>No. 73-797</h>
-    <h>Argued April 17, 1974</h>
-    <h>Decided June 25, 1974</h>
-    <h><a href="./us418-0241.xml#p241">418 U.S. 241</a></h>
-    <h>APPEAL FROM THE SUPREME COURT OF FLORIDA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Miami Herald Pub. Co. v. Tornillo, <a href="./us418-0241.xml#p241">418 U.S. 241</a> (1974)</h1>
+    <h2>Miami Herald Publishing Co. v. Tornillo</h2>
+    <h2>No. 73-797</h2>
+    <h4>Argued April 17, 1974</h4>
+    <h4>Decided June 25, 1974</h4>
+    <h2>APPEAL FROM THE SUPREME COURT OF FLORIDA</h2>
+    <h2>Syllabus</h2>
     <p>After appellant newspaper had refused to print appellee's replies to editorials critical of appellee's candidacy for state office, appellee brought suit in Florida Circuit Court seeking injunctive and declaratory relief and damages, based on Florida's "right of reply" statute that grants a political candidate a right to equal space to answer criticism and attacks on his record by a newspaper, and making it a misdemeanor for the newspaper to fail to comply. The Circuit Court held the statute unconstitutional as infringing on the freedom of the press, and dismissed the action. The Florida Supreme Court reversed, holding that the statute did not violate constitutional guarantees, and that civil remedies, including damages, were available, and remanded to the trial court for further proceedings.</p>
     <p>Held:</p>
     <p>1. The Florida Supreme Court's judgment is "final" under 28 U.S.C. § 1257, and thus is ripe for review by this Court. North Dakota Pharmacy Bd. v. Snyder's Stores, <a href="../us414/us414-0156.xml#p156">414 U. S. 156</a>. Pp. <a href="./us418-0241.xml#p246">418 U. S. 246</a>-247.</p>
@@ -26,7 +26,7 @@
     <n id="p243">243</n>
     <p>MR. CHIEF JUSTICE BURGER delivered the opinion of the Court.</p>
     <p>The issue in this case is whether a state statute granting a political candidate a right to equal space to reply to criticism and attacks on his record by a newspaper violates the guarantees of a free press.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In the fall of 1972, appellee, Executive Director of the Classroom Teachers Association, apparently a teachers' collective bargaining agent, was a candidate for the Florida House of Representatives. On September 20, 1972, and again on September 29, 1972, appellant printed editorials critical of appellee's candidacy. [<a id="nf1" href="#fn1">Footnote 1</a>] In</p>
     <n id="p244">244</n>
     <p>response to these editorials, appellee demanded that appellant print verbatim his replies, defending the role of the Classroom Teachers Association and the organization's accomplishments for the citizens of Dade County. Appellant declined to print the appellee's replies, and appellee brought suit in Circuit Court, Dade County, seeking declaratory and injunctive relief and actual and punitive damages in excess of $5,000. The action was premised on Florida Statute § 104.38 (1973), a "right of reply" statute which provides that, if a candidate for nomination or election is assailed regarding his personal character or official record by any newspaper, the candidate has the right to demand that the newspaper print, free of cost to the candidate, any reply the candidate may make to the newspaper's charges. The reply must appear in as conspicuous a place and in the same kind of type as the charges which prompted the reply, provided it does not take up more space than the charges. Failure to comply with the statute constitutes a first-degree misdemeanor. [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
@@ -36,11 +36,11 @@
     <n id="p246">246</n>
     <p>not impermissibly vague; the statute informs "those who are subject to it as to what conduct on their part will render them liable to its penalties." Id. at 85. [<a id="nf4" href="#fn4">Footnote 4</a>] Civil remedies, including damages, were held to be available under this statute; the case was remanded to the trial court for further proceedings not inconsistent with the Florida Supreme Court's opinion.</p>
     <p>We postponed consideration of the question of jurisdiction to the hearing of the case on the merits. 414 U.S. 1142 (1974).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Although both parties contend that this Court has jurisdiction to review the judgment of the Florida Supreme Court, a suggestion was initially made that the judgment of the Florida Supreme Court might not be "final" under 28 U.S.C. § 1257. [<a id="nf5" href="#fn5">Footnote 5</a>] In North Dakota State Pharmacy Bd. v. Snyder's Stores, <a href="../us414/us414-0156.xml#p156">414 U. S. 156</a> (1973), we reviewed a judgment of the North Dakota Supreme Court, under which the case had been remanded so that further state proceedings could be conducted respecting Snyder's application for a permit to operate a drug store. We held that to be a final judgment for purposes of our jurisdiction. Under the principles of finality enunciated in Snyder's Stores, the judgment of</p>
     <n id="p247">247</n>
     <p>the Florida Supreme Court in this case is ripe for review by this Court. [<a id="nf6" href="#fn6">Footnote 6</a>]</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>A</p>
     <p>The challenged statute creates a right to reply to press criticism of a candidate for nomination or election. The statute was enacted in 1913, and this is only the second recorded case decided under its provisions. [<a id="nf7" href="#fn7">Footnote 7</a>]</p>
     <p>Appellant contends the statute is void on its face because it purports to regulate the content of a newspaper in violation of the First Amendment. Alternatively it is urged that the statute is void for vagueness, since no editor could know exactly what words would call the statute into operation. It is also contended that the statute fails to distinguish between critical comment which is, and which is not, defamatory.</p>
@@ -74,7 +74,7 @@
     <p>although he believes that</p>
     <p>"[g]overnment measures to encourage a multiplicity of outlets, rather than compelling a few outlets to represent everybody, seems a preferable course of action."</p>
     <p>T. Emerson, The System of Freedom of Expression 671 (1970).</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>However much validity may be found in these arguments, at each point the implementation of a remedy such as an enforceable right of access necessarily calls for some mechanism, either governmental or consensual. [<a id="nf19" href="#fn19">Footnote 19</a>] If it is governmental coercion, this at once brings about a confrontation with the express provisions of the First Amendment and the judicial gloss on that Amendment developed over the years. [<a id="nf20" href="#fn20">Footnote 20</a>]</p>
     <p>The Court foresaw the problems relating to government-enforced access as early as its decision in Associated Press v. United States, supra. There, it carefully contrasted the private "compulsion to print" called for by the Association's bylaws with the provisions of the District Court decree against appellants which "does not compel AP or its members to permit publication of anything which their reason' tells them should not be published." 326 U.S. at <a href="../us326/us326-0001.xml#p20">326 U. S. 20</a> n. 18. In Branzburg v. Hayes, <a href="../us408/us408-0665.xml#p665">408 U. S. 665</a>, <a href="../us408/us408-0665.xml#p681">408 U. S. 681</a> (1972), we emphasized that the cases then</p>
     <n id="p255">255</n>

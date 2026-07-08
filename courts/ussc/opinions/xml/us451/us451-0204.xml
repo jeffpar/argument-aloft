@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us451-0204.html" citation="451 U.S. 204" title="Steagald v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p204">204</n>
-    <h>U.S. Supreme Court</h>
-    <h>Steagald v. United States, <a href="./us451-0204.xml#p204">451 U.S. 204</a> (1981)</h>
-    <h>Steagald v. United States</h>
-    <h>No. 79-6777</h>
-    <h>Argued January 14, 1981</h>
-    <h>Decided April 21, 1981</h>
-    <h><a href="./us451-0204.xml#p204">451 U.S. 204</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE FIFTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Steagald v. United States, <a href="./us451-0204.xml#p204">451 U.S. 204</a> (1981)</h1>
+    <h2>Steagald v. United States</h2>
+    <h2>No. 79-6777</h2>
+    <h4>Argued January 14, 1981</h4>
+    <h4>Decided April 21, 1981</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE FIFTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Pursuant to an arrest warrant for one Lyons, Drug Enforcement Administration agents entered petitioner's home to search for Lyons without first obtaining a search warrant. In the course of searching the home, the agents found cocaine and other incriminating evidence, but did not find Lyons. Petitioner was then arrested and indicted on federal drug charges. His pretrial motion to suppress all evidence uncovered during the search of his home on the ground that it was illegally obtained because the agents had failed to obtain a search warrant was denied by the District Court, and petitioner was convicted. The Court of Appeals affirmed.</p>
     <p>Held:</p>
     <p>1. The Government is precluded from contending in this Court that petitioner lacked an expectation of privacy in his searched home sufficient to prevail on his Fourth Amendment claim where this argument was never raised in the courts below, but, rather, the Government had made contrary assertions in those courts, and acquiesced in their contrary findings. Pp. <a href="./us451-0204.xml#p208">451 U. S. 208</a>-211.</p>
@@ -27,14 +27,14 @@
     <p>The issue in this case is whether, under the Fourth Amendment, a law enforcement officer may legally search for the subject of an arrest warrant in the home of a third party without first obtaining a search warrant. Concluding that a search warrant must be obtained absent exigent circumstances</p>
     <n id="p206">206</n>
     <p>or consent, we reverse the judgment of the United States Court of Appeals for the Fifth Circuit affirming petitioner's conviction.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In early January, 1978, an agent of the Drug Enforcement Administration (DEA) was contacted in Detroit, Mich., by a confidential informant who suggested that he might be able to locate Ricky Lyons, a federal fugitive wanted on drug charges. On January 14, 1978, the informant called the agent again and gave him a telephone number in the Atlanta, Ga., area where, according to the informant, Ricky Lyons could be reached during the next 24 hours. On January 16, 1978, the agent called fellow DEA Agent Kelly Goodowens in Atlanta and relayed the information he had obtained from the informant. Goodowens contacted Southern Bell Telephone Co., and secured the address corresponding to the telephone number obtained by the informant. Goodowens also discovered that Lyons was the subject of a 6-month-old arrest warrant.</p>
     <p>Two days later, Goodowens and 11 other officers drove to the address supplied by the telephone company to search for Lyons. The officers observed two men standing outside the house to be searched. These men were Hoyt Gaultney and petitioner Gary Steagald. The officers approached with guns drawn, frisked both men, and, after demanding identification, determined that neither man was Lyons. Several agents proceeded to the house. Gaultney's wife answered the door, and informed the agents that she was alone in the house. She was told to place her hands against the wall and was guarded in that position while one agent searched the house. Ricky Lyons was not found, but, during the search of the house, the agent observed what he believed to be cocaine. Upon being informed of this discovery, Agent Goodowens sent an officer to obtain a search warrant, and in the meantime conducted a second search of the house, which uncovered</p>
     <n id="p207">207</n>
     <p>additional. incriminating evidence. During a third search conducted pursuant to a search warrant, the agents uncovered 43 pounds of cocaine. Petitioner was arrested and indicted on federal drug charges.</p>
     <p>Prior to trial, petitioner moved to suppress all evidence uncovered during the various searches on the ground that it was illegally obtained because the agents had failed to secure a search warrant before entering the house. Agent Goodowens testified at the suppression hearing that there had been no "physical hinderance" preventing him from obtaining a search warrant, and that he did not do so because he believed that the arrest warrant for Ricky Lyons was sufficient to justify the entry and search. The District Court agreed with this view, and denied the suppression motion. Petitioner was convicted, and renewed his challenge to the search in his appeal. A divided Court of Appeals for the Fifth Circuit affirmed the District Court's denial of petitioner's suppression motion. United States v. Gaultney, 606 F.2d 540 (1979). [<a id="nf1" href="#fn1">Footnote 1</a>] Because the issue presented by this case is an important one [<a id="nf2" href="#fn2">Footnote 2</a>] that has divided the Circuits, [<a id="nf3" href="#fn3">Footnote 3</a>] we granted certiorari. 449 U.S. 819.</p>
     <n id="p208">208</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>The Government initially seeks to avert our consideration of the Fifth Circuit's decision by suggesting that petitioner may, regardless of the merits of hat decision, lack an expectation of privacy in the house sufficient to prevail on his Fourth Amendment claim. This argument was never raised by the Government in the courts below. Moreover, in its brief in opposition to certiorari, the Government represented</p>
     <n id="p209">209</n>
     <p>to this Court.that the house in question was "petitioner's residence," and was "occupied by petitioner, Gaultney, and Gaultney's wife." Brief in Opposition 1, 3. However, the Government now contends that the record does not clearly show that petitioner had a reasonable expectation of privacy in the house, and hence urges us to remand the case to the District Court for reexamination of this factual question.</p>
@@ -45,7 +45,7 @@
     <p>Thus, during the course of these proceedings, the Government has directly sought to connect petitioner with the house, has acquiesced in statements by the courts below characterizing the search as one of petitioner's residence, and has made similar concessions of its own. Now, two years after petitioner's trial, the Government seeks to return the case to the District Court for a reexamination of this factual issue. [<a id="nf5" href="#fn5">Footnote 5</a>]</p>
     <n id="p211">211</n>
     <p>The tactical advantages to the Government of this disposition are obvious, for if the Government prevailed on this claim upon a remand, it would be relieved of the task of defending the judgment of the Court of Appeals before this Court. We conclude, however, that the Government, through its assertions, concessions, and acquiescence, has lost its right to challenge petitioner's assertion that he possessed a legitimate expectation of privacy in the searched home. We therefore turn to the merits of petitioner's claim.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The question before us is a narrow one. [<a id="nf6" href="#fn6">Footnote 6</a>] The search at issue here took place in the absence of consent or exigent circumstances. Except in such special situations, we have consistently held that the entry into a home to conduct a search or make an arrest is unreasonable under the Fourth Amendment unless done pursuant to a warrant. See <a href="../us445/us445-0573.xml#p573">Payton v. New</a></p>
     <n id="p212">212</n>
     <p>York, <a href="../us445/us445-0573.xml#p573">445 U. S. 573</a> (1980); Johnson v. United States, <a href="../us333/us333-0010.xml#p10">333 U. S. 10</a>, <a href="../us333/us333-0010.xml#p13">333 U. S. 13</a>-15 (1948). Thus, as we recently observed:</p>
@@ -62,7 +62,7 @@
     <n id="p216">216</n>
     <p>must be obtained for a home arrest or a search of a home for objects. We have instead concluded that, in such cases, the participation of a detached magistrate in the probable cause determination is an essential element of a reasonable search or seizure, and we believe that the same conclusion should apply here. [<a id="nf9" href="#fn9">Footnote 9</a>]</p>
     <p>In sum, two distinct interests were implicated by the search at issue here -- Ricky Lyons' interest in being free from an unreasonable seizure and petitioner's interest in being free from an unreasonable search of his home. Because the arrest warrant for Lyons addressed only the former interest, the search of petitioner's home was no more reasonable from petitioner's perspective than it would have been if conducted in the absence of any warrant. Since warrantless searches of a home are impermissible absent consent or exigent circumstances, we conclude that the instant search violated the Fourth Amendment.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>The Government concedes that this view is "apparently logical," that it furthers the general policies underlying the Fourth Amendment, and that it</p>
     <p>"has the virtue of producing symmetry between the law of entry to conduct a search for things to be seized and the law of entry to conduct a search for persons to be seized."</p>
     <p>Brief for United States 36. Yet we are informed that this conclusion is "not without its flaws," in that it is contrary to common law precedent and creates some practical problems of law enforcement. We treat these contentions in turn.</p>

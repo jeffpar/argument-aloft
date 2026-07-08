@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us355-0096.html" citation="355 U.S. 96" title="Benanti v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p96">96</n>
-    <h>U.S. Supreme Court</h>
-    <h>Benanti v. United States, <a href="./us355-0096.xml#p96">355 U.S. 96</a> (1957)</h>
-    <h>Benanti v. United States</h>
-    <h>No. 231</h>
-    <h>Argued October 29, 1957</h>
-    <h>Decided December 9, 1957</h>
-    <h><a href="./us355-0096.xml#p96">355 U.S. 96</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SECOND CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Benanti v. United States, <a href="./us355-0096.xml#p96">355 U.S. 96</a> (1957)</h1>
+    <h2>Benanti v. United States</h2>
+    <h2>No. 231</h2>
+    <h4>Argued October 29, 1957</h4>
+    <h4>Decided December 9, 1957</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SECOND CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Evidence obtained as a result of wiretapping a telephone by state law enforcement officers pursuant to a state court warrant authorized by state law, and without participation by federal authorities, is not admissible in a criminal trial in a federal court where the existence of the intercepted communication is disclosed to the jury in violation of § 605 of the Federal Communications Act. Pp. <a href="./us355-0096.xml#p97">355 U. S. 97</a>-106.</p>
     <p>1. Evidence obtained by means forbidden by § 605, whether by state or federal agents, is inadmissible in a federal court. Pp. <a href="./us355-0096.xml#p99">355 U. S. 99</a>-103.</p>
     <p>(a) Nardone v. United States, <a href="../us302/us302-0379.xml#p379">302 U. S. 379</a>, and <a href="../us308/us308-0338.xml#p338">308 U. S. 308</a> U.S. 338, followed; Schwartz v. Texas, <a href="../us344/us344-0199.xml#p199">344 U. S. 199</a>, distinguished. Pp. <a href="./us355-0096.xml#p99">355 U. S. 99</a>-103.</p>
@@ -30,7 +30,7 @@
     <p>Petitioner's motion to suppress the evidence was denied, and he was convicted. The Court of Appeals for the Second Circuit affirmed, 244 F.2d 389, holding that, while the action of the state officials violated Section 605 of the Federal Communications Act, the evidence obtained from the violation was still admissible. We granted certiorari. 355 U.S. 801. Petitioner, relying on this Court's supervisory powers over the federal court system, claims that the admission of the evidence was barred by the Federal Constitution and Section 605. We do not reach the constitutional questions, as this case can be determined under the statute.</p>
     <p>Section 605 states in pertinent part: [<a id="nf4" href="#fn4">Footnote 4</a>]</p>
     <p>". . . no person not being authorized by the sender shall intercept any communication and divulge or publish the existence, contents, substance, purport, effect, or meaning of such intercepted communication to any person. . . ."</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In Nardone v. United States, <a href="../us302/us302-0379.xml#p379">302 U. S. 379</a>, and <a href="../us308/us308-0338.xml#p338">308 U. S. 308</a> U.S. 338, this Court held that evidence obtained from wiretapping by federal agents was inadmissible in federal court. In Schwartz v. Texas, <a href="../us344/us344-0199.xml#p199">344 U. S. 199</a>, the same type</p>
     <n id="p100">100</n>
     <p>of evidence was held admissible in a state court where it had been obtained by state agents. The case before us, containing elements from these three cases, forces a choice between the different results reached.</p>
@@ -47,7 +47,7 @@
     <p>only invite the very methods deemed 'inconsistent with ethical standards and destructive of personal liberty.' What was said in a different context in Silverthorne Lumber Co. v. United States, <a href="https://law.justia.com/us/251/385/">251 U. S. 385</a>, <a href="https://law.justia.com/us/251/385/#392">251 U. S. 392</a>, is pertinent here:"</p>
     <p>"The essence of a provision forbidding the acquisition of evidence in a certain way is that not merely evidence so acquired shall not be used before the Court, but that it shall not be used at all."</p>
     <p>The above principle has for its purpose enhancement of the proper administration of criminal justice. To impute to the statute anything less would give it "a self-defeating, if not disingenuous, purpose." [<a id="nf12" href="#fn12">Footnote 12</a>] Nardone v. United States, <a href="../us308/us308-0338.xml#p338">308 U. S. 338</a>, <a href="../us308/us308-0338.xml#p340">308 U. S. 340</a>-341.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>As an alternative argument to support the judgment below, respondent urges that the interception and divulgence in this case were no violation of Section 605, because the wiretap was placed by state agents acting in accordance with the law of New York. The Constitution and statutes of the New York [<a id="nf13" href="#fn13">Footnote 13</a>] provide that an ex parte order authorizing a wiretap may be issued by</p>
     <n id="p104">104</n>
     <p>judges of a certain rank upon the oath or affirmation of certain officials that there is reasonable ground to believe evidence of a crime may be obtained and which identifies the telephone line and the persons who are to be affected thereby. It is undisputed that an order pursuant to that law was issued in this case, and that it was executed according to state law.</p>

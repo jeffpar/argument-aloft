@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us404-0453.html" citation="404 U.S. 453" title="FPC v. Florida Power &amp;amp; Light Co.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p453">453</n>
-    <h>U.S. Supreme Court</h>
-    <h>FPC v. Florida Power &amp; Light Co., <a href="./us404-0453.xml#p453">404 U.S. 453</a> (1972)</h>
-    <h>Federal Power Commission v. Florida Power &amp; Light Co.</h>
-    <h>No. 70-38</h>
-    <h>Argued November 15, 1971</h>
-    <h>Decided January 12, 1972</h>
-    <h><a href="./us404-0453.xml#p453">404 U.S. 453</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE FIFTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>FPC v. Florida Power &amp; Light Co., <a href="./us404-0453.xml#p453">404 U.S. 453</a> (1972)</h1>
+    <h2>Federal Power Commission v. Florida Power &amp; Light Co.</h2>
+    <h2>No. 70-38</h2>
+    <h4>Argued November 15, 1971</h4>
+    <h4>Decided January 12, 1972</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE FIFTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>The Federal Power Commission (FPC) properly determined that the transfer of power from Florida Power &amp; Light Co. (FP&amp;L) to another Florida utility's "bus" (a transmission line into which subsidiary lines connect) and the simultaneous transfer of power from that utility's "bus" to a Georgia company gave the FPC jurisdiction over FP&amp;L under § 201(b) of the Federal Power Act, which grants jurisdiction to the FPC over</p>
     <p>"the transmission of electric energy in interstate commerce . . . and the sale of electric energy at wholesale in interstate commerce, but . . . not [over] any other sale of electric energy."</p>
     <p>The FPC's conclusion that FP&amp;L energy was commingled with that of the other Florida utility, and thus was transmitted in interstate commerce, was substantially supported by expert opinion that is in accord with the known facts of electricity, and is sufficient to support its jurisdiction. Pp. 454-469.</p>
@@ -27,7 +27,7 @@
     <p>In the case now before us, the FPC hearing examiner and the Commission itself, utilizing two scientific tests, determined that the Florida Power &amp; Light Co. (FP&amp;L) generates energy that is transmitted in interstate commerce. They therefore held the company subject to the Commission's jurisdiction. Respondent FP&amp;L argues that an alternative model better represents the flow of its electricity; by use of this model, it purports to demonstrate that its power has not flowed in interstate commerce. The Court of Appeals for the Fifth Circuit rejected the FPC's tests as "not sufficient to prove the actual transmission of energy interstate." 430 F.2d 1377, 1383 (1970). It did not approve FP&amp;L's test ("Both [the FPC and the FP&amp;L tests] suffer from the same vice," id. at 1385), but, because the FPC must shoulder the burden of proof, its finding of jurisdiction was set aside.</p>
     <p>We granted certiorari to determine if either of the FPC's tests provides an acceptable basis at law and a sufficient basis in fact, for the establishment of jurisdiction. 401 U.S. 907 (1971).</p>
     <n id="p456">456</n>
-    <h>I</h>
+    <h2>I</h2>
     <p>FP&amp;L is Florida's largest electric utility. At the time relevant to this litigation, it served nearly one million customers, ranked ninth nationally among electric companies in revenues, 14th in investment in gross utility electric plant, and 16th in kilowatt-hour sales. Despite this significant size, the peninsular nature of Florida, the concentration of the company's sales in the southern part of the State, [<a id="nf2" href="#fn2">Footnote 2</a>] and the recurrent threat of hurricanes which might sever power lines combine to make the operations of the company unusually insular and independent of the operations of like companies in other States. All of FP&amp;L's equipment, including transmission lines, is confined to Florida, and none of its lines directly connects with those of out-of-state companies.</p>
     <p>FP&amp;L does, however, indirectly connect with out-of-state companies. As a member of the Florida Pool, it is interconnected with the Florida Power Corp. (Corp), [<a id="nf3" href="#fn3">Footnote 3</a>] the Tampa Electric Co., the Orlando Utilities Commission, and the City of Jacksonville. These interconnected utilities and authorities coordinate their activities and exchange power as circumstances require. [<a id="nf4" href="#fn4">Footnote 4</a>] In 1964, FP&amp;L transferred over 107 million kwh to Corp</p>
     <n id="p457">457</n>
@@ -43,7 +43,7 @@
     <p>This is not, however, the equivalent of saying that the flows did not occur, or that there was not substantial evidence for concluding that they did. The Court of Appeals was hardly less emphatic than the Federal Power Commission in its conclusion that FP&amp;L's "proof" that the flows did not occur was unconvincing. The court purported to have no opinion whether the flows had actually occurred. The question that must be resolved, therefore, is whether the evidence presented, though not so certain and convincing as that which the FPC offered in Jersey Central, was nonetheless adequate to establish jurisdiction.</p>
     <p>We turn first to the conflicting contentions of the parties.</p>
     <n id="p460">460</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>The Federal Power Commission followed alternate routes to its conclusion that FP&amp;L energy moved in interstate commerce. The first course, based on what the Commission called the electromagnetic unity of response of interconnected electrical systems, is best represented in the words of the hearing examiner:</p>
     <p>"[N]one of the connected electric systems, including that of Florida, Corp, and Georgia, has any control over the actual transfers of power at each point of interconnection, because of the free flow characteristics of electric networks. . . ."</p>
     <p>"An electric utility system such as Florida [Power &amp; Light] is essentially an electromechanical system to which all operating generators on the interconnected network are interlocked electromagnetically. This means that electric generators, under ordinary operating conditions, run either at exactly the same speed or at speeds which will result in a frequency of 60 cycles. No operating generator can change its speed by itself as long as it operates connected to the network. All generators connected to the same network must follow each other as to speed and frequency whenever there is a change in frequency, and the frequency of all interlocked generators is always exactly the same."</p>
@@ -58,7 +58,7 @@
     <n id="p462">462</n>
     <p>sound, but legally insufficient in that it does not demonstrate that any FP&amp;L power flows in interstate commerce, but only that it affects interstate commerce. Congress, it is argued, could have chosen to grant the FPC jurisdiction over activities affecting commerce, but it clearly did not do so. [<a id="nf12" href="#fn12">Footnote 12</a>]</p>
     <p>The second approach of the FPC purports to meet the standard at law, but, according to FP&amp;L, it is technologically unsound. A bus is not a point, but rather a tangible, physical three-strand power line, in this case 225 feet in length. It is argued that it is not a general reservoir. Power, according to this argument, enters and is drawn off the line at discrete identifiable points. Power from any given source will not flow further along the line than loads of wattage cumulatively equal to the wattage of the power source. The distribution of entry lines and wattage loads on the Turner bus is said to demonstrate that all of the FP&amp;L's power will be exhausted by Corp's load lines before the point, further down the line, where Georgia's load intervenes. When power flows in the opposite direction (i.e., north to south), again the effect is one of displacement: Georgia's power goes to Corp's loads, and the output of Corp's generators is thus displaced to FP&amp;L.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>We do not find it necessary to approve or disapprove the Federal Power Commission's analysis based on unity</p>
     <n id="p463">463</n>
     <p>of electromagnetic response. Its alternative assertion that energy commingles in a bus is, in our opinion, sufficient to sustain jurisdiction.</p>
@@ -134,7 +134,7 @@
     </f>
     <f n="12"><a id="fn12" href="#nf12">Footnote 12</a>
       <p>This argument is developed by the dissent in Jersey Central Power &amp; Light Co. v. FPC, <a href="../us319/us319-0061.xml#p61">319 U. S. 61</a>, <a href="../us319/us319-0061.xml#p78">319 U. S. 78</a> et seq. Note particularly p. <a href="../us319/us319-0088.xml#p88">319 U. S. 88</a>:</p>
-      <p>"It is interesting to compare, in this connection, other statutes enacted by the same Congress [as the one which enacted Part II of the Federal Power Act]. Three adopted in July and August ,1935, covered activities 'affecting' commerce; three, including the Federal Power Act in question, adopted in August, 1935, did not cover activities 'affecting' commerce. Thus, it was inferred that we are dealing with a particularly 'discriminating use of language.'"</p>
+      <p>"It is interesting to compare, in this connection, other statutes enacted by the same Congress [as the one which enacted Part II of the Federal Power Act]. Three adopted in July and August,1935, covered activities 'affecting' commerce; three, including the Federal Power Act in question, adopted in August, 1935, did not cover activities 'affecting' commerce. Thus, it was inferred that we are dealing with a particularly 'discriminating use of language.'"</p>
     </f>
     <f n="13"><a id="fn13" href="#nf13">Footnote 13</a>
       <p>"Neither the examiner nor the Commission treated the commingling theory as a scientific fact depicting accurately what does occur, but only as the more adequate way to conceptualize actual occurrences."</p>
@@ -150,7 +150,7 @@
     </f>
     <f n="16"><a id="fn16" href="#nf16">Footnote 16</a>
       <p>The weight of such testimony was properly recognized by Lord Mansfield some 190 years ago:</p>
-      <p>"The facts in this case are not disputed. In 1758, the bank was erected, and soon afterwards, the harbour went to decay. The question is, to what has this decay been owing? The defendant says, to this bank. Why? Because it prevents the backwater. That is matter of opinion: -- the whole case is a question of opinion, from facts agreed upon. Nobody can swear that it was the cause. . . . [T]he parties go down to trial . . . , and Mr. Smeaton is called. A confusion now arises from a misapplication of terms. It is objected that Mr. Smeaton is going to speak not as to facts, but as to opinion. That opinion, however, is deduced from facts which are not disputed -- the situation of banks; the course of tides and of winds, and the shifting of sands. His opinion, deduced from all these facts, is that, mathematically speaking, the bank may contribute to the mischief, but not sensibly. Mr. Smeaton understands the construction of harbours, the causes of their destruction, and how remedied. In matters of science, no other witnesses can be called. . . . The question then depends on the evidence of those who understand such matters; and when such questions come before me, I always send for some of the brethren of the Trinity House. I cannot believe that, where the question is whether a defect arises from a natural or an artificial cause, the opinions of men of science are not to be received. . . . The cause of the decay of the harbour is . . . a matter of science. . . . Of this such men as Mr. Smeaton alone can judge. Therefore we are of opinion that his judgment, formed on facts, was very proper evidence."</p>
+      <p>"The facts in this case are not disputed. In 1758, the bank was erected, and soon afterwards, the harbour went to decay. The question is, to what has this decay been owing? The defendant says, to this bank. Why? Because it prevents the backwater. That is matter of opinion: -- the whole case is a question of opinion, from facts agreed upon. Nobody can swear that it was the cause. . . . [T]he parties go down to trial . . ., and Mr. Smeaton is called. A confusion now arises from a misapplication of terms. It is objected that Mr. Smeaton is going to speak not as to facts, but as to opinion. That opinion, however, is deduced from facts which are not disputed -- the situation of banks; the course of tides and of winds, and the shifting of sands. His opinion, deduced from all these facts, is that, mathematically speaking, the bank may contribute to the mischief, but not sensibly. Mr. Smeaton understands the construction of harbours, the causes of their destruction, and how remedied. In matters of science, no other witnesses can be called. . . . The question then depends on the evidence of those who understand such matters; and when such questions come before me, I always send for some of the brethren of the Trinity House. I cannot believe that, where the question is whether a defect arises from a natural or an artificial cause, the opinions of men of science are not to be received. . . . The cause of the decay of the harbour is . . . a matter of science. . . . Of this such men as Mr. Smeaton alone can judge. Therefore we are of opinion that his judgment, formed on facts, was very proper evidence."</p>
       <p>Folkes v. Chadd, 3 Doug. 157, 158-160, 99 Eng.Rep. 589-590 (1782). Modern analysis follows this perception. See 7 J. Wigmore, Evidence §§ 1917-1929, 1976 (3d ed.1940 and Supp. 1970).</p>
     </f>
     <f n="17"><a id="fn17" href="#nf17">Footnote 17</a>

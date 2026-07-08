@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us383-0787.html" citation="383 U.S. 787" title="United States v. Price">
   <opinion type="Opinions &amp; Dissents">
     <n id="p787">787</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Price, <a href="./us383-0787.xml#p787">383 U.S. 787</a> (1966)</h>
-    <h>United States v. Price</h>
-    <h>Nos. 59 and 60</h>
-    <h>Argued November 9, 1965</h>
-    <h>Decided March 28, 1966</h>
-    <h><a href="./us383-0787.xml#p787">383 U.S. 787</a></h>
-    <h>APPEALS FROM THE UNITED STATES DISTRICT COURT</h>
-    <h>FOR THE SOUTHERN DISTRICT OF MISSISSIPPI</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Price, <a href="./us383-0787.xml#p787">383 U.S. 787</a> (1966)</h1>
+    <h2>United States v. Price</h2>
+    <h2>Nos. 59 and 60</h2>
+    <h4>Argued November 9, 1965</h4>
+    <h4>Decided March 28, 1966</h4>
+    <h2>APPEALS FROM THE UNITED STATES DISTRICT COURT</h2>
+    <h2>FOR THE SOUTHERN DISTRICT OF MISSISSIPPI</h2>
+    <h2>Syllabus</h2>
     <p>Appellees are three Mississippi law enforcement officials and 15 private individuals who are alleged to have conspired to deprive three individuals of their rights under the Fourteenth Amendment. The alleged conspiracy involved releasing the victims from jail at night; intercepting, assaulting and killing them, and disposing of their bodies. Its purpose was to "punish" the victims summarily. Two indictments were returned. One charged all appellees with a conspiracy under 18 U.S.C. § 371 to violate 18 U.S.C. § 242, which makes it a misdemeanor willfully and under color of law to subject any person to the deprivation of any rights secured or protected by the Constitution. The indictment also charged all appellees with substantive violations of § 242. The District Court sustained the conspiracy count against a motion to dismiss, and sustained the substantive counts as to the three official defendants. It dismissed the substantive counts as to the 15 private defendants on the ground that, although the indictment alleged that they had acted "under color" of law, it did not allege that they were acting as officers of the State. This dismissal is here on direct appeal as No. 60. The other indictment charged all appellees with a conspiracy in violation of 18 U.S.C. § 241, making it a felony to conspire to interfere with a citizen in the free exercise or enjoyment of any right secured or protected by the Constitution or laws of the United States. The District Court dismissed this indictment as to all appellees on the ground that § 241 does not include rights protected by the Fourteenth Amendment. This dismissal is here on direct appeal as No. 59.</p>
     <p>Held:</p>
     <p>1. The District Court erred in dismissing the indictment in No. 60 insofar as it charged the private defendants with substantive violations of § 242. Pp. <a href="./us383-0787.xml#p794">383 U. S. 794</a>-796.</p>
@@ -20,7 +20,7 @@
     <p>(b) The dismissal of the indictment in No. 60 as to the private persons resulted from the District Court's erroneous construction of the "under color" of law requirement of § 242 as making the statute inapplicable to nonofficials, not upon a construction of the indictment as a pleading; hence the dismissal is reviewable on direct appeal. Pp. <a href="./us383-0787.xml#p795">383 U. S. 795</a>-796.</p>
     <p>2. Section 241 includes within its protection rights secured or protected by the Fourteenth Amendment, and the District Court accordingly erred in dismissing the indictment in No. 59. Pp. <a href="./us383-0787.xml#p796">383 U. S. 796</a>-807.</p>
     <p>(a) The District Court incorrectly assumed that United States v. Williams, <a href="../us341/us341-0070.xml#p70">341 U. S. 70</a>, authoritatively determined the inapplicability of § 241 to deprivations of Fourteenth Amendment rights. The Justices who reached that issue in Williams divided equally on the question. That case "thus left the proper construction of § 241, as regards its applicability to protect Fourteenth Amendment rights, an open question." Pp. <a href="./us383-0787.xml#p797">383 U. S. 797</a>-798.</p>
-    <p>(b) "There is no doubt that the indictment in No. 59 sets forth a conspiracy within the ambit of the Fourteenth Amendment. Like the indictment in No. 60 . . . , it alleges that the defendants acted under color of law,' and that the conspiracy included action by the State through its law enforcement officers to punish the alleged victims without due process of law in violation of the Fourteenth Amendment's direct admonition to the States." Pp. <a href="./us383-0787.xml#p799">383 U. S. 799</a>-800.</p>
+    <p>(b) "There is no doubt that the indictment in No. 59 sets forth a conspiracy within the ambit of the Fourteenth Amendment. Like the indictment in No. 60 . . ., it alleges that the defendants acted under color of law,' and that the conspiracy included action by the State through its law enforcement officers to punish the alleged victims without due process of law in violation of the Fourteenth Amendment's direct admonition to the States." Pp. <a href="./us383-0787.xml#p799">383 U. S. 799</a>-800.</p>
     <p>(c) The wording of § 241 suggests no limitation of its coverage to exclude Fourteenth Amendment rights. "The language of § 241 is plain and unlimited. . . . [I]ts language embraces all of the rights and privileges secured to citizens by all of the Constitution and all of the laws of the United States." P. <a href="./us383-0787.xml#p800">383 U. S. 800</a>.</p>
     <p>(d) The legislative history of § 241 supports the view that it was intended to encompass Fourteenth Amendment rights within its protection. Pp. <a href="./us383-0787.xml#p800">383 U. S. 800</a>-806.</p>
     <p>Reversed and remanded.</p>
@@ -59,7 +59,7 @@
     <n id="p796">796</n>
     <p>he act in an official capacity. We have jurisdiction to consider this statutory question on direct appeal and, as we have shown, the trial court's determination of it is in error. Since each of the private individuals is indictable as a principal acting under color of law, we need not consider whether he might be held to answer as an "aider or abettor" under 18 U.S.C. § 2 (1964 ed.), despite omission to include such a charge in the indictment.</p>
     <p>Accordingly, we reverse the dismissal of the Second, Third and Fourth Counts of the indictment in No. 60, and remand for trial.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>. No. 59 No. 59 charges each of the 18 defendants with a felony -- a violation of § 241. This indictment is in one count. It charges that the defendants "conspired together . . . to injure, oppress, threaten and intimidate" Schwerner, Chaney and Goodman</p>
     <p>"in the free exercise and enjoyment of the right and privilege secured to them by the Fourteenth Amendment to the Constitution of the United States not to be deprived of life or liberty without due process of law by persons acting under color of the laws of Mississippi."</p>
     <p>The indictment alleges that it was the purpose of the conspiracy that Deputy Sheriff Price would release Schwerner, Chaney and Goodman from custody in the Neshoba County jail at such time that Price and the other 17 defendants "could and would intercept" them "and threaten, assault, shoot and kill them." The penalty under § 241 is a fine of not more than $5,000, or imprisonment for not more than 10 years, or both.</p>
@@ -80,7 +80,7 @@
     <n id="p799">799</n>
     <p>1. There is no doubt that the indictment in No. 59 sets forth a conspiracy within the ambit of the Fourteenth Amendment. Like the indictment in No. 60, supra, it alleges that the defendants acted "under color of law," and that the conspiracy included action by the State, through its law enforcement officers, to punish the alleged victims without due process of law in violation of the Fourteenth Amendment's direct admonition to the States.</p>
     <p>The indictment specifically alleges that the sheriff, deputy sheriff and a patrolman participated in the conspiracy; that it was a part of the "plan and purpose of the conspiracy" that Deputy Sheriff Price,</p>
-    <p>"while having [the three victims] . . . in his custody in the Neshoba County Jail . . . , would release them from custody at such time that he [and others of the defendants] . . . could and would intercept [the three victims] . . . and threaten, assault, shoot and kill them."</p>
+    <p>"while having [the three victims] . . . in his custody in the Neshoba County Jail . . ., would release them from custody at such time that he [and others of the defendants] . . . could and would intercept [the three victims] . . . and threaten, assault, shoot and kill them."</p>
     <p>This is an allegation of state action which, beyond dispute, brings the conspiracy within the ambit of the Fourteenth Amendment. It is an allegation of official, state participation in murder, accomplished by and through its officers with the participation of others. It is an allegation that the State, without the semblance of due process of law as required of it by the Fourteenth Amendment, used its sovereign power and office to release the victims from jail so that they were not charged and tried, as required by law, but instead could be intercepted and killed. If the Fourteenth Amendment forbids denial of counsel, it clearly denounces denial of any trial at all.</p>
     <p>As we have consistently held "The Fourteenth Amendment protects the individual against state action, not against wrongs done by individuals." Williams I, 341 U.S. at <a href="../us341/us341-0070.xml#p92">341 U. S. 92</a> (opinion of DOUGLAS, J.). In the present case, the participation by law enforcement officers, as</p>
     <n id="p800">800</n>

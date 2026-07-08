@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us421-0200.html" citation="421 U.S. 200" title="Gurley v. Rhoden">
   <opinion type="Opinions &amp; Dissents">
     <n id="p200">200</n>
-    <h>U.S. Supreme Court</h>
-    <h>Gurley v. Rhoden, <a href="./us421-0200.xml#p200">421 U.S. 200</a> (1975)</h>
-    <h>Gurley v. Rhoden</h>
-    <h>No. 73-1734</h>
-    <h>Argued March 18, 1975</h>
-    <h>Decided May 12, 1975</h>
-    <h><a href="./us421-0200.xml#p200">421 U.S. 200</a></h>
-    <h>CERTIORARI TO THE SUPREME COURT OF MISSISSIPPI</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Gurley v. Rhoden, <a href="./us421-0200.xml#p200">421 U.S. 200</a> (1975)</h1>
+    <h2>Gurley v. Rhoden</h2>
+    <h4>No. 73-1734</h4>
+    <h4>Argued March 18, 1975</h4>
+    <h4>Decided May 12, 1975</h4>
+    <h2>CERTIORARI TO THE SUPREME COURT OF MISSISSIPPI</h2>
+    <h2>Syllabus</h2>
     <p>Mississippi imposes a 5% sales tax upon the "gross proceeds" of retail sales of tangible personal property, including gasoline, and such gross proceeds are computed without deduction for any taxes. Mississippi also imposes a gasoline excise tax on each gallon sold by a distributor, which, in the case of a distributor bringing gasoline into the State otherwise than by common carrier, accrues at the time when and at the point where the gasoline is brought into the State. And a federal gasoline excise tax is imposed on each gallon sold by a "producer," 26 U.S.C. § 4081(a), defined to include any person to whom gasoline is sold tax-free, § 4082(a). Contending that the denial of a deduction for the Mississippi and federal excise taxes in computing the gross proceeds of retail gasoline sales for purpose of the sales tax was unconstitutional as a taking of property without due process in violation of the Fourteenth Amendment, and that he acts as a mere collector of the excise taxes whose legal incidence is upon the purchaser-consumer, petitioner, an operator of several service stations in Mississippi who purchased his gasoline tax-free in other States and transported it to Mississippi in his own trucks, paid the sales taxes under protest and sued for a refund in state court. His suit was dismissed, and the Mississippi Supreme Court affirmed, holding that the legal incidence of both excise taxes is on petitioner, and not on the purchaser-consumer.</p>
     <p>Held: The denial of the deduction of the Mississippi and federal gasoline excise taxes in computing the gross proceeds of retail sales for purposes of the sales tax is not unconstitutional. Pp. <a href="./us421-0200.xml#p203">421 U. S. 203</a>-212</p>
     <p>(a) As reflected by the language of 26 U.S.C. §§ 4081(a) and 4082(a), and their legislative history, the legal incidence of the federal excise tax is on the statutory "producer," such as petitioner, and not on his purchaser-consumer. Pp. <a href="./us421-0200.xml#p204">421 U. S. 204</a>-208.</p>
@@ -27,7 +27,7 @@
     <p>from sources in Tennessee and Arkansas. He transports the gasoline to his Mississippi stations in his own trucks. He holds a Mississippi distributor's permit, and is also federally licensed because he is a "producer" within the meaning of the Internal Revenue Code as one who sells gasoline bought tax-free from other "producers." [<a id="nf2" href="#fn2">Footnote 2</a>] He adds to his pump prices the amount of a Mississippi gasoline excise tax, now nine cents per gallon, Miss.Code Ann. § 27-55-11 (Supp. 1974), and a federal gasoline excise tax of four cents per gallon, 26 U.S.C. § 4081(a). [<a id="nf3" href="#fn3">Footnote 3</a>] The State computes his gross proceeds of retail sales "without any deduction for . . . taxes of any kind. . . ." Miss.Code Ann. § 27-65-3(h) (Supp. 1974). [<a id="nf4" href="#fn4">Footnote 4</a>] Petitioner contends that the denial of a deduction</p>
     <n id="p203">203</n>
     <p>of the amount of the excise taxes added to his pump prices in the computation of his "gross proceeds of the retail sales" of gasoline, and the resultant application of the 5% sales tax to so much of his pump prices as reflects the amount of the taxes, are unconstitutional. He therefore paid the sales taxes to that extent under protest, and sued for a refund in Mississippi Chancery Court, Hinds County. Respondent cross-claimed for unpaid sales taxes accruing after the filing of the suit. [<a id="nf5" href="#fn5">Footnote 5</a>] After trial, the Chancery Court dismissed petitioner's suit and entered judgment for respondent on the cross-claim. The Supreme Court of Mississippi affirmed. 288 So. 2d 868. We granted certiorari, 419 U.S. 1018 (1974). We affirm.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Petitioner's principal argument is that he acts as a mere collector of the taxes for the two governments because the legal incidence of both excise taxes is upon the purchaser-consumer. Upon that premise, he argues:</p>
     <p>"Consequently, to impose the Mississippi sales tax upon amounts so received by [petitioner] would be to tax him upon gross receipts which are not his gross receipts, but rather the gross receipts of [the two governments]. This would not only violate the fundamental conception of right and justice, but it would be taking [petitioner's] property without due process of the Fourteenth Amendment. . . ."</p>
     <p>Brief for Petitioner 37. He cites in support the statement in Hoeper v. Tax Comm'n, <a href="../us284/us284-0206.xml#p206">284 U. S. 206</a>, <a href="../us284/us284-0206.xml#p215">284 U. S. 215</a> (1931), that</p>
@@ -37,7 +37,7 @@
     <p>"a state tax on . . . monies held in trust by [petitioner] as agent for the United States [and] is, in essence, a tax upon the United States . . . [that] . . . is clearly unconstitutional"</p>
     <p>as violating the constitutional immunity of the United States and its property from taxation by the States. <a href="../us017/us017-0316.xml#p316">M'Culloch v. Maryland</a>, 4 Wheat. 316 (1819). Brief for Petitioner 48.</p>
     <p>Petitioner's arguments can prevail, as he apparently concedes, only if the legal incidence of the excise taxes is not upon petitioner, but upon the purchaser-consumer. Our task therefore is to determine upon whom the legal incidence of each tax rests.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The economic burden of taxes incident to the sale of merchandise is traditionally passed on to the purchasers of the merchandise. Therefore, the decision as to where the legal incidence of either tax falls is not determined by the fact that petitioner, by increasing his pump prices in the amounts of the taxes, shifted the economic burden of the taxes from himself to the purchaser-consumer. The Court has laid to rest doubts on that score raised by such decisions as Panhandle Oil Co. v. Mississippi ex rel. Knox, <a href="../us277/us277-0218.xml#p218">277 U. S. 218</a> (1928); Indian Motorcycle Co. v. United States, <a href="../us283/us283-0570.xml#p570">283 U. S. 570</a> (1931); and Kern-Limerick, Inc. v. Scurlock, <a href="../us347/us347-0110.xml#p110">347 U. S. 110</a> (1954), at least under taxing schemes, as here, where neither statute required petitioner to pass the tax on to the purchaser-consumer. See Alabama v. King &amp; Boozer, <a href="../us314/us314-0001.xml#p1">314 U. S. 1</a> (1941); Lash's Products Co. v. United States, <a href="../us278/us278-0175.xml#p175">278 U. S. 175</a> (1929); Wheeler Lumber Co. v. United States, <a href="../us281/us281-0572.xml#p572">281 U. S. 572</a> (1930); <a href="../us392/us392-0339.xml#p339">First</a></p>
     <n id="p205">205</n>
     <p>Agricultural Nat. Bank v. Tax Comm'n, <a href="../us392/us392-0339.xml#p339">392 U. S. 339</a> (1968); American Oil Co. v. Neill, <a href="../us380/us380-0451.xml#p451">380 U. S. 451</a> (1965).</p>
@@ -58,7 +58,7 @@
     <p>We therefore hold that the Mississippi Supreme Court, which relied upon Martin Oil Service, Inc., see 288 So. 2d at 873, properly concluded that the federal excise tax is</p>
     <n id="p208">208</n>
     <p>imposed solely on statutory "producers" such as petitioner and not on the purchaser.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The Mississippi Supreme Court held that the legal incidence of the Mississippi excise tax also falls upon petitioner. It is true, of course, that this Court is the final judicial arbiter of the question where the legal incidence of the federal excise tax falls. But a State's highest court is the final judicial arbiter of the meaning of state statutes, Alabama v. King &amp; Boozer, 314 U.S. at <a href="../us314/us314-0001.xml#p9">314 U. S. 9</a>-10, and therefore our review of the holding of a state court respecting the legal incidence of a state excise tax is guided by the following:</p>
     <p>"When a state court has made its own definitive determination as to the operating incidence, our task is simplified. We give this finding great weight in determining the natural effect of a statute, and, if it is consistent with the statute's reasonable interpretation, it will be deemed conclusive."</p>
     <p>American Oil Co. v. Neill, 380 U.S. at <a href="../us380/us380-0451.xml#p455">380 U. S. 455</a>-456.</p>
@@ -71,8 +71,8 @@
     <p>Petitioner argues, however, that the decision of the Mississippi Supreme Court is foreclosed by this Court's decision in Panhandle Oil Co. v. Knox, <a href="../us277/us277-0218.xml#p218">277 U. S. 218</a> (1928). The argument is without merit. In that case, Mississippi sued Panhandle Oil Co. to recover gasoline excise taxes imposed by Chapter 116 of the 1922 Laws of Mississippi, as amended, a predecessor to the present Miss.Code Ann. § 27-55-11. The taxes claimed were on account of sales made by Panhandle to the United States for the use of its Coast Guard Fleet in service in the Gulf of Mexico, and of its Veterans' Hospital at Gulfport, Miss. The Court, over the dissents of Justices Holmes, Brandeis, Stone, and McReynolds, held that the tax as applied was invalid as a tax upon the means used by the United States for governmental purposes. The dissenters' view was that it was not a tax upon means used by the United States, but that Panhandle merely</p>
     <n id="p210">210</n>
     <p>shifted the economic burden of the tax to its vendees by adding it to the price of the gasoline.</p>
-    <p>The Court's Panhandle opinion did not focus upon whether the Mississippi statute laid the legal incidence of the tax upon the distributor. Rather, the rationale was that the tax was bad because, if laid upon distributors, the distributors were able to shift its burden to the purchaser. The Court has since expressly abandoned that view, and has accepted the analysis of the dissent. In Alabama v. King &amp; Boozer, 314 U.S. at <a href="../us314/us314-0001.xml#p9">314 U. S. 9</a>, the Court held: "So far as a different view has prevailed, see Panhandle Oil Co. v. Knox . . . , we think it no longer tenable."</p>
-    <h>IV</h>
+    <p>The Court's Panhandle opinion did not focus upon whether the Mississippi statute laid the legal incidence of the tax upon the distributor. Rather, the rationale was that the tax was bad because, if laid upon distributors, the distributors were able to shift its burden to the purchaser. The Court has since expressly abandoned that view, and has accepted the analysis of the dissent. In Alabama v. King &amp; Boozer, 314 U.S. at <a href="../us314/us314-0001.xml#p9">314 U. S. 9</a>, the Court held: "So far as a different view has prevailed, see Panhandle Oil Co. v. Knox . . ., we think it no longer tenable."</p>
+    <h2>IV</h2>
     <p>Finally, petitioner argues that, even if the legal incidence of the two taxes is on him, rather than on the consumer, the provision of § 27-617 denying the deduction of the taxes in the computation of his "gross proceeds of . . . retail sales" is invalid for two reasons.</p>
     <p>First, he argues:</p>
     <p>"Since [petitioner] sells only to the ultimate consumer, the excise tax attaches simultaneously with the sale and with the sales tax; therefore, there can be no sales tax upon the excise tax."</p>

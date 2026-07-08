@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us452-0951.html" citation="452 U.S. 951" title="DUCKWORTH v. OWEN">
   <opinion type="Opinions &amp; Dissents">
     <n id="p951">951</n>
-    <h>U.S. Supreme Court</h>
-    <h>DUCKWORTH v. OWEN , <a href="./us452-0951.xml#p951">452 U.S. 951</a> (1981)</h>
-    <h> <a href="./us452-0951.xml#p951">452 U.S. 951</a></h>
-    <h>Jack R. DUCKWORTH, Warden v. Richard Lee OWEN, II No. 80-1659</h>
-    <h>Supreme Court of the United States</h>
-    <h>June 15, 1981</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>DUCKWORTH v. OWEN, <a href="./us452-0951.xml#p951">452 U.S. 951</a> (1981)</h1>
+    <h4>Jack R. DUCKWORTH, Warden v. Richard Lee OWEN, II No. 80-1659</h4>
+    <h2>Supreme Court of the United States</h2>
+    <h4>June 15, 1981</h4>
     <p>On petition for writ of certiorari to the United States Court of Appeals for the Seventh Circuit.</p>
     <p>The motion of the respondent for leave to proceed in forma pauperis is granted. The petition for writ of certiorari is denied.</p>
     <p>Justice REHNQUIST, with whom THE CHIEF JUSTICE joins, dissenting.</p>
@@ -23,7 +23,7 @@
     <n id="p954">954</n>
     <p>lem to which the rule is addressed." App. to Pet. for Cert. A-8. The only case from this Court cited for that proposition is Parker v. Gladden, <a href="../us385/us385-0363.xml#p363">385 U.S. 363</a> (1966), in which the state trial court, on a petition for postconviction relief, heard testimony from a juror and found that an " 'unauthorized communication was prejudicial and that such conduct materially affected the rights of the [petitioner].' " Id., at 364. Though the Supreme Court of Oregon reversed, this Court in turn reversed that holding in a three-page per curiam opinion. It is clear from that case that Oregon law, unlike Indiana law, did permit a juror to impeach a jury verdict under certain circumstances. Id., at 363, n. 1. Thus, all Parker establishes is that Indiana follows a stricter view of the right of a juror to impeach a verdict than Oregon: it does not establish that the Federal Rules of Evidence are constitutionally mandated in a trial conducted in the Indiana state courts.</p>
     <p>In sum, the decision below can be read as establishing a constitutional requirement that the Federal Rules of Evidence apply to criminal trials in the 50 state courts. Because I doubt the validity of that requirement, I would grant the petition for certiorari to review the judgment of the Court of Appeals.</p>
-    <h>Footnotes</h>
+    <h2>Footnotes</h2>
     <p>[Footnote *] Rule 606(b) of the Federal Rules of Evidence provides in pertinent part:</p>
     <p>"Upon an inquiry into the validity of a verdict or indictment, a juror may not testify as to . . . the jury's deliberations or to the effect of anything upon his or any other juror's mind or emotions as influencing him to assent to or dissent from the verdict or indictment or concerning his mental processes in connection therewith, except that a juror may testify on the question whether extraneous prejudicial information was improperly brought to the jury's attention or whether any outside influence was improperly brought to bear upon any juror. Nor may his affidavit or evidence of any statement by him concerning a matter about which he would be precluded from testifying be received for these purposes."</p>
   </opinion>

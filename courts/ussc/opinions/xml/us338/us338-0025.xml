@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us338-0025.html" citation="338 U.S. 25" title="Wolf v. Colorado">
   <opinion type="Opinions &amp; Dissents">
     <n id="p25">25</n>
-    <h>U.S. Supreme Court</h>
-    <h>Wolf v. Colorado, <a href="./us338-0025.xml#p25">338 U.S. 25</a> (1949)</h>
-    <h>Wolf v. Colorado</h>
-    <h>Nos. 17 and 18</h>
-    <h>Argued October 19, 1948</h>
-    <h>Decided June 27, 1949</h>
-    <h><a href="./us338-0025.xml#p25">338 U.S. 25</a></h>
-    <h>CERTIORARI TO THE SUPREME COURT OF COLORADO</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Wolf v. Colorado, <a href="./us338-0025.xml#p25">338 U.S. 25</a> (1949)</h1>
+    <h2>Wolf v. Colorado</h2>
+    <h2>Nos. 17 and 18</h2>
+    <h4>Argued October 19, 1948</h4>
+    <h4>Decided June 27, 1949</h4>
+    <h2>CERTIORARI TO THE SUPREME COURT OF COLORADO</h2>
+    <h2>Syllabus</h2>
     <p>In a prosecution in a state court for a state crime, the Fourteenth Amendment of the Federal Constitution does not forbid the admission of relevant evidence even though obtained by an unreasonable search and seizure. Pp. <a href="./us338-0025.xml#p25">338 U. S. 25</a>-33.</p>
     <p>(a) Arbitrary intrusion into privacy by the police is prohibited by the Due Process Clause of the Fourteenth Amendment. Pp. <a href="./us338-0025.xml#p27">338 U. S. 27</a>-28.</p>
     <p>(b) While the doctrine of Weeks v. United States, <a href="../us232/us232-0383.xml#p383">232 U. S. 383</a>, making evidence secured in violation of the Fourth Amendment inadmissible in federal courts, is adhered to, it is not imposed on the States by the Fourteenth Amendment. Pp. <a href="./us338-0025.xml#p28">338 U. S. 28</a>-33.</p>
@@ -244,7 +244,7 @@
       <p>TABLE J</p>
       <p>JURISDICTIONS OF THE UNITED KINGDOM AND THE BRITISH COMMONWEALTH</p>
       <p>OF NATIONS WHICH HAVE HELD ADMISSIBLE EVIDENCE OBTAINED BY</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>LLEGAL SEARCH AND SEIZURE AUSTRALIA Miller v. Noblet, [1927] S.A.S.R. 385.</p>
       <p>CANADA</p>
       <p>ALTA. Rex v. Nelson, [1922] 2 W.W.R. 381, 69 D.L.R. 180.</p>
@@ -284,7 +284,7 @@
       <p>If proof of the efficacy of the federal rule were needed, there is testimony in abundance in the recruit training programs and in service courses provided the police in states which follow the federal rule. [Footnote 2/5] St. Louis, for example, demands extensive training in the rules of search and seizure, with emphasis upon the ease with which a case may collapse if it depends upon evidence obtained</p>
       <n id="p45">45</n>
       <p>unlawfully. Current court decisions are digested and read at roll calls. The same general pattern prevails in Washington, D.C. [Footnote 2/6] In Dallas, officers are thoroughly briefed and instructed that "the courts will follow the rules very closely, and will detect any frauds." [Footnote 2/7] In Milwaukee, a stout volume on the law of arrest and search and seizure is made the basis of extended instruction. [Footnote 2/8] Officer preparation in the applicable rules in Jackson, Mississippi, has included the lectures of an Associate Justice of the Mississippi Supreme Court. The instructions on evidence and search and seizure given to trainees in San Antonio carefully note the rule of exclusion in Texas, and close with this statement:</p>
-      <p>"Every police officer should know the laws and the rules of evidence. Upon knowledge of these facts determines whether the . . . defendant will be convicted or acquitted. . . . When you investigate a case . . . , remember throughout your investigation that only admissible evidence can be used."</p>
+      <p>"Every police officer should know the laws and the rules of evidence. Upon knowledge of these facts determines whether the . . . defendant will be convicted or acquitted. . . . When you investigate a case . . ., remember throughout your investigation that only admissible evidence can be used."</p>
       <p>But in New York City, we are informed simply that "copies of the State Penal Law and Code of Criminal Procedure" are given to officers, and that they are "kept advised" that illegally obtained evidence may be admitted in New York courts. In Baltimore, a "Digest of Laws" is distributed, and it is made clear that the</p>
       <n id="p46">46</n>
       <p>statutory section excluding evidence</p>
@@ -322,7 +322,7 @@
       <p>But I reject the Court's simultaneous conclusion that the mandate embodied in the Fourth Amendment, although binding on the states, does not carry with it the one sanction -- exclusion of evidence taken in violation of the Amendment's terms -- failure to observe which means that "the protection of the Fourth Amendment . . . might as well be stricken from the Constitution." Weeks v. United States, <a href="../us232/us232-0383.xml#p383">232 U. S. 383</a>, <a href="../us232/us232-0383.xml#p393">232 U. S. 393</a>. For I agree with my brother MURPHY's demonstration that the Amendment without the sanction is a dead letter. Twenty-nine years ago, this Court, speaking through Justice Holmes, refused to permit the Government to subpoena documentary evidence which it had stolen, copied and then returned, for the reason that such a procedure "reduces the Fourth Amendment to a form of words." Silverthorne Lumber Co. v. United States, <a href="../us251/us251-0385.xml#p385">251 U. S. 385</a>, <a href="../us251/us251-0385.xml#p392">251 U. S. 392</a>. But the version of the Fourth Amendment today held</p>
       <n id="p48">48</n>
       <p>applicable to the states hardly rises to the dignity of a form of words; at best, it is a pale and frayed carbon copy of the original, bearing little resemblance to the Amendment the fulfillment of whose command I had heretofore thought to be "an indispensable need for a democratic society." Harris v. United States, <a href="../us331/us331-0145.xml#p145">331 U. S. 145</a>, dissenting opinion at <a href="../us331/us331-0145.xml#p161">331 U. S. 161</a>.</p>
-      <p>I also reject any intimation that Congress could validly enact legislation permitting the introduction in federal courts of evidence seized in violation of the Fourth Amendment. I had thought that issue settled by this Court's invalidation on dual grounds, in Boyd v. United States, <a href="../us116/us116-0616.xml#p616">116 U. S. 616</a>, of a federal statute which, in effect ,required the production of evidence thought probative by Government counsel -- the Court there holding the statute to be "obnoxious to the prohibition of the Fourth Amendment of the Constitution, as well as of the Fifth." Id. at <a href="../us116/us116-0616.xml#p632">116 U. S. 632</a>. See Adams v. New York, <a href="../us192/us192-0585.xml#p585">192 U. S. 585</a>, <a href="../us192/us192-0585.xml#p597">192 U. S. 597</a>, <a href="../us192/us192-0585.xml#p598">192 U. S. 598</a>. The view that the Fourth Amendment itself forbids the introduction of evidence illegally obtained in federal prosecutions is one of long standing and firmly established. See Olmstead v. United States, <a href="../us277/us277-0438.xml#p438">277 U. S. 438</a>, <a href="../us277/us277-0438.xml#p462">277 U. S. 462</a>. It is too late, in my judgment, to question it now. We apply it today in Lustig v. United States, post, p. <a href="./us338-0074.xml#p74">338 U. S. 74</a>.</p>
+      <p>I also reject any intimation that Congress could validly enact legislation permitting the introduction in federal courts of evidence seized in violation of the Fourth Amendment. I had thought that issue settled by this Court's invalidation on dual grounds, in Boyd v. United States, <a href="../us116/us116-0616.xml#p616">116 U. S. 616</a>, of a federal statute which, in effect,required the production of evidence thought probative by Government counsel -- the Court there holding the statute to be "obnoxious to the prohibition of the Fourth Amendment of the Constitution, as well as of the Fifth." Id. at <a href="../us116/us116-0616.xml#p632">116 U. S. 632</a>. See Adams v. New York, <a href="../us192/us192-0585.xml#p585">192 U. S. 585</a>, <a href="../us192/us192-0585.xml#p597">192 U. S. 597</a>, <a href="../us192/us192-0585.xml#p598">192 U. S. 598</a>. The view that the Fourth Amendment itself forbids the introduction of evidence illegally obtained in federal prosecutions is one of long standing and firmly established. See Olmstead v. United States, <a href="../us277/us277-0438.xml#p438">277 U. S. 438</a>, <a href="../us277/us277-0438.xml#p462">277 U. S. 462</a>. It is too late, in my judgment, to question it now. We apply it today in Lustig v. United States, post, p. <a href="./us338-0074.xml#p74">338 U. S. 74</a>.</p>
       <p>As Congress and this Court are, in my judgment, powerless to permit the admission in federal courts of evidence seized in defiance of the Fourth Amendment, so I think state legislators and judges -- if subject to the Amendment, as I believe them to be -- may not lend their offices to the admission in state courts of evidence thus seized. Compliance with the Bill of Rights betokens more than lip service.</p>
       <p>The Court makes the illegality of this search and seizure its inarticulate premise of decision. I acquiesce in that premise, and think the convictions should be reversed.</p>
       <p>MR. JUSTICE MURPHY joins in this opinion.</p>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us442-0127.html" citation="442 U.S. 127" title="Brown v. Felsen">
   <opinion type="Opinions &amp; Dissents">
     <n id="p127">127</n>
-    <h>U.S. Supreme Court</h>
-    <h>Brown v. Felsen, <a href="./us442-0127.xml#p127">442 U.S. 127</a> (1979)</h>
-    <h>Brown v. Felsen</h>
-    <h>No. 78-58</h>
-    <h>Argued February 21, 1979</h>
-    <h>Decided June 4, 1979</h>
-    <h><a href="./us442-0127.xml#p127">442 U.S. 127</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE TENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Brown v. Felsen, <a href="./us442-0127.xml#p127">442 U.S. 127</a> (1979)</h1>
+    <h2>Brown v. Felsen</h2>
+    <h2>No. 78-58</h2>
+    <h4>Argued February 21, 1979</h4>
+    <h4>Decided June 4, 1979</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE TENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>In the settlement of a state court collection suit, respondent stipulated that petitioner should have judgment against respondent. Shortly thereafter, respondent filed for bankruptcy, and petitioner sought to establish that respondent's debt to him was not dischargeable because it was the product of respondent's fraud, deceit, and malicious conversion, and thus came within §§ 17a(2) and (4) of the Bankruptcy Act, which provide that such debts are not affected by a discharge. The bankruptcy court granted summary judgment for respondent. The court held that the record in the state court proceeding did not establish that respondent had committed fraud, and res judicata barred petitioner from offering additional evidence to prove the underlying nature of the debt. The District Court, and Court of Appeals affirmed.</p>
     <p>Held: The bankruptcy court is not confined to a review of the judgment and record in the prior state court proceeding when determining the dischargeability of respondent's debt. When a debtor asserts the new defense of bankruptcy, res judicata does not bar the creditor from offering additional evidence to meet that defense. A contrary rule would force premature federal issues on the state courts and would frustrate the command of the Bankruptcy Act that only honest debts are to be discharged. Pp. <a href="./us442-0127.xml#p131">442 U. S. 131</a>-139.</p>
     <p>Reversed.</p>
@@ -20,7 +20,7 @@
     <p>The issue here is whether a bankruptcy court may consider evidence extrinsic to the judgment and record of a prior</p>
     <n id="p128">128</n>
     <p>state suit when determining whether a debt previously reduced to judgment is dischargeable under § 17 of the Bankruptcy Act, 11 U.S.C. § 35.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Petitioner G. Garvin Brown III was a guarantor for respondent Mark Paul Felsen and Felsen's car dealership, Le Mans Motors, Inc. Petitioner's guarantee secured a bank loan that financed the dealership's trading in Lotus, Ferrari, and Lamborghini automobiles. In 1975, the lender brought a collection suit against petitioner, respondent, and Le Mans in Colorado state court. Petitioner filed an answer to the bank's complaint, and a cross-claim against respondent and Le Mans. The answer and the cross-claim, by incorporating the answer, alleged that respondent and Le Mans induced petitioner to sign the guarantee "by misrepresentations and nondisclosures of material facts." App. 35. The suit was settled by a stipulation. It provided that the bank should recover jointly and severally against all three defendants, and that petitioner should have judgment against respondent and Le Mans. Neither the stipulation nor the resulting judgment indicated the cause of action on which respondent's liability to petitioner was based. Because the case was settled, respondent's sworn deposition was never made part of the court record.</p>
     <p>A short time later, respondent filed a petition for voluntary bankruptcy, and sought to have his debt to petitioner discharged. Through discharge, the Bankruptcy Act provides "a new opportunity in life and a clear field for future effort, unhampered by the pressure and discouragement of preexisting debt," Loal Loan Co. v. Hunt, <a href="../us292/us292-0234.xml#p234">292 U. S. 234</a>, <a href="../us292/us292-0234.xml#p244">292 U. S. 244</a> (1934). By seeking discharge, however, respondent placed the rectitude of his prior dealings squarely in issue, for, as the Court has noted, the Act limits that opportunity to the "honest but unfortunate debtor." Ibid. Section 14 of the Act, 11 U.S.C. § 32, specifies that a debtor may not obtain</p>
     <n id="p129">129</n>
@@ -36,7 +36,7 @@
     <n id="p131">131</n>
     <p>court said that petitioner had not even met the state requirement that fraud be pleaded with specificity. See Colo.Rule Civ.Proc. 9(b). The court agreed that respondent's debt was dischargeable. App. 556.</p>
     <p>Since Nicholas was decided, every other Court of Appeals that has considered the question has rejected res judicata and held that extrinsic evidence may be admitted in order to determine accurately the dischargeability under § 17 of a debt previously reduced to judgment in state court. [<a id="nf4" href="#fn4">Footnote 4</a>] We granted certiorari to resolve this conflict. 439 U.S. 925 (1978).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Res judicata ensures the finality of decisions. Under res judicata, "a final judgment on the merits bars further claims by parties or their privies based on the same cause of action." Montana v. United States, <a href="../us440/us440-0147.xml#p147">440 U. S. 147</a>, <a href="../us440/us440-0147.xml#p153">440 U. S. 153</a> (1979). Res judicata prevents litigation of all grounds for, or defenses to, recovery that were previously available to the parties, regardless of whether they were asserted or determined in the prior proceeding. Chicot County Drainage Dist. v. Baxter State Bank, <a href="../us308/us308-0371.xml#p371">308 U. S. 371</a>, <a href="../us308/us308-0378.xml#p378">308 U. S. 378</a> (1940); 1B J. Moore, Federal Practice � 0.405[1] (2d ed.1974). Res judicata thus encourages reliance on judicial decisions, bars vexatious litigation, and frees the courts to resolve other disputes.</p>
     <p>Bankruptcy often breeds litigation, and respondent contends that the policy of repose which underlies res judicata</p>
     <n id="p132">132</n>
@@ -96,7 +96,7 @@
     <f n="7"><a id="fn7" href="#nf7">Footnote 7</a>
       <p>See S.Rep. No. 91-1173, pp. 2-3 (1970); H.R.Rep. No. 91-1502, p. 1 (1970). A statement by Professor Lawrence King, prepared for the National Bankruptcy Conference, included in both the House and Senate Reports and placed in the Congressional Record by Representative Wiggins, said:</p>
       <p>"One of the strongest arguments in support of the bill is that, if the bill is passed, a single court, to-wit, the bankruptcy court, will be able to pass upon the question of dischargeability of a particular claim and it will be able to develop an expertise in resolving the problem in particular cases. The State court judges, however capable they may be, do not have enough cases to acquire sufficient experience to enable them to develop this expertise. Moreover, even under the present system, in the last analysis, it is the U.S. Supreme Court which has the ultimate word on the construction of section 17 of the Bankruptcy Act. . . . Since this is a Federal statute, the Federal courts necessarily have the final word as to the meaning of any terms contained therein."</p>
-      <p>S.Rep. No. 91-1173, p. 9 (1970); H.R.Rep. No. 91-1502, p. 8 (1970); 116 Cong.Rec. 34819 (1970). See also S.Rep. No. 91-1173, p. 6 (1970) (letter of Royal E. ,Jackson Chief, Division of Bankruptcy, quoting Prof. Charles Seligson).</p>
+      <p>S.Rep. No. 91-1173, p. 9 (1970); H.R.Rep. No. 91-1502, p. 8 (1970); 116 Cong.Rec. 34819 (1970). See also S.Rep. No. 91-1173, p. 6 (1970) (letter of Royal E.,Jackson Chief, Division of Bankruptcy, quoting Prof. Charles Seligson).</p>
     </f>
     <f n="8"><a id="fn8" href="#nf8">Footnote 8</a>
       <p>So long as a debtor is solvent, the debtor and creditor alike may prefer a simple contract suit to complex tort litigation. Default and consent judgments are common in collection proceedings. For the creditor, the prospect of increased attorney's fees and the likelihood of driving the debtor into bankruptcy may offset the advantages of exemplary damages or other extraordinary remedies. Bankruptcy deprives the debtor of his creditworthiness, and so impairs his ability to repay. In the words of a Shakespearean creditor, fearing the worst:</p>

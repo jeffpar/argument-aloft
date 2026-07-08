@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us422-0001.html" citation="422 U.S. 1" title="Intercounty Constr. Corp. v. Walter">
   <opinion type="Opinions &amp; Dissents">
     <n id="p1">1</n>
-    <h>U.S. Supreme Court</h>
-    <h>Intercounty Constr. Corp. v. Walter, <a href="./us422-0001.xml#p1">422 U.S. 1</a> (1975)</h>
-    <h>Intercounty Construction Corp. v. Walter</h>
-    <h>No. 74-362</h>
-    <h>Argued April 23, 1975</h>
-    <h>Decided June 16, 1975</h>
-    <h><a href="./us422-0001.xml#p1">422 U.S. 1</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE DISTRICT OF COLUMBIA CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Intercounty Constr. Corp. v. Walter, <a href="./us422-0001.xml#p1">422 U.S. 1</a> (1975)</h1>
+    <h2>Intercounty Construction Corp. v. Walter</h2>
+    <h2>No. 74-362</h2>
+    <h4>Argued April 23, 1975</h4>
+    <h4>Decided June 16, 1975</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE DISTRICT OF COLUMBIA CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Section 13 of the Longshoremen's and Harbor Workers' Compensation Act provides that the right to compensation for disability under the Act shall be barred unless a claim therefor is filed within one year after the injury. Section 22 provides that, upon his own initiative or upon the application of any party in interest, on the ground of a change in conditions or because of a mistake in his determination of fact, the Deputy Commissioner of the Bureau of Employees' Compensation (the agency charged with administering the Act) may,</p>
     <p>"at any time prior to one year after the date of the last payment of compensation, whether or not a compensation order has been issued, or at any time prior to one year after the rejection of a claim,"</p>
     <p>review a compensation case and issue a "new compensation order" which may terminate, continue, reinstate, increase, or decrease such compensation, or award compensation. A claimant, who was injured in 1960 while working for petitioner employer, filed a claim for total permanent disability within § 13's one-year statute of limitations. Petitioner insurance carrier, in advance of an award by the Deputy Commissioner, first paid the weekly amount for total disability, though denying</p>
     <n id="p2">2</n>
-    <p>the extent of disability, but, in 1965 ,filed notice that it was contesting the extent of disability and was reducing the weekly compensation to the amount for 50% temporary disability, and, in 1968, stopped payment of compensation after reaching the maximum of its liability for any condition other than permanent disability or death. In 1970, two years after his last receipt of a voluntary compensation payment, the claimant requested a hearing on his claim for permanent disability, this being the first requested action to adjudicate the merits of the claim by either him or the carrier in the 10 years following the filing of the claim, and no order or award having been entered during this period. Respondent Deputy Commissioner then entered an award for permanent total disability, and petitioners brought suit to enjoin its enforcement. The District Court held that § 22 barred the claim, but the Court of Appeals reversed.</p>
+    <p>the extent of disability, but, in 1965,filed notice that it was contesting the extent of disability and was reducing the weekly compensation to the amount for 50% temporary disability, and, in 1968, stopped payment of compensation after reaching the maximum of its liability for any condition other than permanent disability or death. In 1970, two years after his last receipt of a voluntary compensation payment, the claimant requested a hearing on his claim for permanent disability, this being the first requested action to adjudicate the merits of the claim by either him or the carrier in the 10 years following the filing of the claim, and no order or award having been entered during this period. Respondent Deputy Commissioner then entered an award for permanent total disability, and petitioners brought suit to enjoin its enforcement. The District Court held that § 22 barred the claim, but the Court of Appeals reversed.</p>
     <p>Held: While the language of § 22 is ambiguous, the section's legislative history, including the history of the amendment inserting the phrase "whether or not a compensation order has been issued," shows that the section's one-year time limit was meant to apply only to the Deputy Commissioner's power to modify previously entered orders, and that therefore the section does not bar consideration of a claim timely filed under § 13, which has not been the subject of prior action by the Deputy Commissioner, and with respect to which the Deputy Commissioner took no action until more than one year after the claimant's last receipt of a voluntary compensation payment. Taken in its historical and statutory context, the phrase "whether or not a compensation order has been issued" is properly interpreted to mean merely that the one-year time limit imposed on the Deputy Commissioner's power to modify existing orders runs from the date of final payment of compensation even if the order sought to be modified is actually entered only after such date. Pp. <a href="./us422-0001.xml#p6">422 U. S. 6</a>-12.</p>
     <p>163 U.S.App.D.C. 147, 500 F.2d 815, affirmed.</p>
     <p>REHNQUIST, J., delivered the opinion for a unanimous Court.</p>
@@ -79,7 +79,7 @@
     </f>
     <f n="3"><a id="fn3" href="#nf3">Footnote 3</a>
       <p>Section 13 of the Act, 33 U.S.C. § 913, provided in part:</p>
-      <p>"The right to compensation for disability under this chapter shall be barred unless a claim therefor is filed within one year after the injury . . . except that, if payment of compensation has been made without an award on account of such injury . . . , a claim may be filed within one year after the date of the last payment. . . ."</p>
+      <p>"The right to compensation for disability under this chapter shall be barred unless a claim therefor is filed within one year after the injury . . . except that, if payment of compensation has been made without an award on account of such injury . . ., a claim may be filed within one year after the date of the last payment. . . ."</p>
       <p>Section 12 of the Act, 33 U.S.C. § 912 (1970 ed. and Supp. III), requires the employee to give notice of injury unless the employer has actual notice of the injury.</p>
     </f>
     <f n="4"><a id="fn4" href="#nf4">Footnote 4</a>

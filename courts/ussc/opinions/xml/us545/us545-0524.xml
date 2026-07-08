@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us545-0524.html" citation="545 U.S. 524" title="Gonzalez v. Crosby">
   <opinion type="Opinion" author="Scalia">
     <n id="p524">524</n>
@@ -41,7 +42,7 @@
     </f>
     <f n="2"><a id="fn1-2" href="#nf1-2">Footnote 2</a>
       <p>Rule 60(b) provides in relevant part:</p>
-      <p>“On motion and upon such terms as are just, the court may relieve a party … from a final judgment, order, or proceeding for the following reasons: (1) mistake, inadvertence, surprise, or excusable neglect; (2) newly discovered evidence which by due diligence could not have been discovered in time to move for a new trial under Rule 59(b); (3) fraud … , misrepresentation, or misconduct of an adverse party; (4) the judgment is void; (5) the judgment has been satisfied, released, or discharged, or a prior judgment upon which it is based has been reversed or otherwise vacated, or it is no longer equitable that the judgment should have prospective application; or (6) any other reason justifying relief from the operation of the judgment. The motion shall be made within a reasonable time, and for reasons (1), (2), and (3) not more than one year after the judgment, order, or proceeding was entered or taken.”</p>
+      <p>“On motion and upon such terms as are just, the court may relieve a party … from a final judgment, order, or proceeding for the following reasons: (1) mistake, inadvertence, surprise, or excusable neglect; (2) newly discovered evidence which by due diligence could not have been discovered in time to move for a new trial under Rule 59(b); (3) fraud …, misrepresentation, or misconduct of an adverse party; (4) the judgment is void; (5) the judgment has been satisfied, released, or discharged, or a prior judgment upon which it is based has been reversed or otherwise vacated, or it is no longer equitable that the judgment should have prospective application; or (6) any other reason justifying relief from the operation of the judgment. The motion shall be made within a reasonable time, and for reasons (1), (2), and (3) not more than one year after the judgment, order, or proceeding was entered or taken.”</p>
     </f>
     <f n="3"><a id="fn1-3" href="#nf1-3">Footnote 3</a>
       <p>In this case we consider only the extent to which Rule 60(b) applies to habeas proceedings under 28 U. S. C. §2254, which governs federal habeas relief for prisoners convicted in state court. Federal prisoners generally seek postconviction relief under §2255, which contains its own provision governing second or successive applications. Although that portion of §2255 is similar to, and refers to, the statutory subsection applicable to second or successive §2254 petitions, it is not identical. Accordingly, we limit our consideration to §2254 cases.</p>

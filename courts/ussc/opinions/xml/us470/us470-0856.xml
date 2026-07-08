@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us470-0856.html" citation="470 U.S. 856" title="Ball v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p856">856</n>
-    <h>U.S. Supreme Court</h>
-    <h>Ball v. United States, <a href="./us470-0856.xml#p856">470 U.S. 856</a> (1985)</h>
-    <h>Ball v. United States</h>
-    <h>No. 84-5004</h>
-    <h>Argued January 9, 1985</h>
-    <h>Decided March 26, 1985</h>
-    <h><a href="./us470-0856.xml#p856">470 U.S. 856</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE FOURTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Ball v. United States, <a href="./us470-0856.xml#p856">470 U.S. 856</a> (1985)</h1>
+    <h2>Ball v. United States</h2>
+    <h2>No. 84-5004</h2>
+    <h4>Argued January 9, 1985</h4>
+    <h4>Decided March 26, 1985</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE FOURTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner, a previously convicted felon, was arrested when the police found him in possession of another person's revolver that was reported missing; he reportedly threatened a neighbor with the revolver, and tried unsuccessfully to sell it. Petitioner was then indicted on charges of receiving a firearm in violation of 18 U.S.C. § 922(h)(1) and for possessing it in violation of 18 U.S.C.App. § 1202(a)(1). He was convicted in Federal District Court on both counts and sentenced to consecutive terms of imprisonment on the respective counts. The Court of Appeals remanded the case to the District Court with instructions to modify the sentences to make them concurrent.</p>
     <p>Held: Congress did not intend a convicted felon, in petitioner's position, to be punished under both § 922(h) and § 1202(a)(1). Congress recognized that a felon who receives a firearm inevitably also possesses it, and therefore did not intend to subject that person to two convictions for the same criminal act; the legislative history supports this reading of congressional intent. While the Government may seek a multiple-count indictment against a felon for violations of §§ 922(h) and 1202(a)(1) involving the same weapon where a single act establishes the receipt and the possession, the defendant may not suffer two convictions or sentences on that indictment. If the jury returns guilty verdicts for each count, the trial court should enter judgment on only one count. The remedy of ordering one of the sentences to be served concurrently with the other cannot be squared with Congress' intention. Pp. <a href="./us470-0856.xml#p859">470 U. S. 859</a>-865.</p>
     <p>734 F.2d 965, vacated and remanded.</p>
@@ -19,7 +19,7 @@
     <n id="p857">857</n>
     <p>CHIEF JUSTICE BURGER delivered the opinion of the Court.</p>
     <p>We granted certiorari to decide whether a felon possessing a firearm may be convicted and concurrently sentenced under 18 U.S.C. § 922(h)(1) for receiving that firearm, and under 18 U.S.C.App. § 1202(a)(1) for possessing the same weapon. 469 U.S. 816 (1984).</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>After driving around Honaker, Virginia, with several acquaintances, including petitioner Truman Ball, Hubert Romans discovered that his .32-caliber nickel-plated Rossi revolver was missing from the back seat of his car. [<a id="nf1" href="#fn1">Footnote 1</a>] He reported the incident to the Russell County Sheriff's Department. Subsequently, a neighbor notified the Sheriff that Ball had threatened him with a pistol matching the description of Romans' revolver. Later that same day, the police located Ball at another neighbor's home where Ball had tried unsuccessfully to sell the revolver. When the police told Ball he was under arrest, Ball fled hut was promptly apprehended with Romans' revolver in his possession.</p>
     <p>Ball, a previously convicted felon, [<a id="nf2" href="#fn2">Footnote 2</a>] was indicted on charges of receiving a firearm shipped in interstate commerce, 18 U.S.C. §§ 922(h)(1) and 924(a), and possessing that firearm, 18 U.S.C.App. § 1202(a)(1). [<a id="nf3" href="#fn3">Footnote 3</a>] It is conceded that both counts rest on the same conduct. Ball was convicted on both</p>
     <n id="p858">858</n>
@@ -27,7 +27,7 @@
     <p>On appeal, Ball challenged the validity of the consecutive sentences. The Government conceded that, under United States v. Burton, 629 F.2d 975 (CA4 1980), cert. denied, 450 U.S. 968 (1981), consecutive sentences could not be imposed for unlawful receipt and unlawful possession of the same firearm when the unlawful possession was incident to its unlawful receipt. The Court of Appeals accepted this concession and adhered to its statement in Burton that "Congress in these firearms statutes created separate offenses, but did not authorize pyramiding penalties." 734 F.2d 965, 966 (CA4 1984) (citing Burton, supra, at 977). The Court of Appeals remanded the case to the District Court with instructions to modify the sentences to make them concurrent.</p>
     <p>The application of the firearms statutes, § 922(h)(1) and § 1202(a)(1), charging a convicted felon with receiving and possessing the same gun, has produced conflicting decisions among the Courts of Appeals. [<a id="nf5" href="#fn5">Footnote 5</a>] We granted certiorari to resolve this conflict. We reverse.</p>
     <n id="p859">859</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>This case requires the Court once again to resolve the "partial redundancy" of §§ 922(h) and 1202(a), provisions of Titles IV and VII, respectively, of the Omnibus Crime Control and Safe Streets Act of 1968. E.g., United States v. Batchelder, <a href="../us442/us442-0114.xml#p114">442 U. S. 114</a>, <a href="../us442/us442-0114.xml#p118">442 U. S. 118</a> (1979); United States v. Bass, <a href="../us404/us404-0336.xml#p336">404 U. S. 336</a>, <a href="../us404/us404-0336.xml#p341">404 U. S. 341</a>-343, and n. 9 (1971). In these two Titles of the Omnibus Act, Congress sought to control the interstate traffic and availability of firearms. Although Congress' purposes are obvious, courts understandably have had difficulty applying the overlapping provisions of the Act. This case affords an opportunity to address the application of Titles IV and VII to one set of circumstances -- where a single act is relied upon to establish a convicted felon's unlawful receipt and his unlawful possession of the same firearm. [<a id="nf6" href="#fn6">Footnote 6</a>]</p>
     <p>A</p>
     <p>It is clear that a convicted felon may be prosecuted simultaneously for violations of §§ 922(h) and 1202(a) involving the same firearm. This Court has long acknowledged the Government's broad discretion to conduct criminal prosecutions, including its power to select the charges to be brought in a particular case. E.g., United States v. Goodwin, <a href="../us457/us457-0368.xml#p368">457 U. S. 368</a>, <a href="../us457/us457-0368.xml#p382">457 U. S. 382</a> (1982); <a href="../us075/us075-0448.xml#p454">Confiscation Cases</a>, 7 Wall. 454, <a href="../us074/us074-0454.xml#p457">74 U. S. 457</a>-459 (1869).</p>
@@ -60,7 +60,7 @@
     <n id="p865">865</n>
     <p>the concurrence of the sentence. The separate conviction, apart from the concurrent sentence, has potential adverse collateral consequences that may not be ignored. For example, the presence of two convictions on the record may delay the defendant's eligibility for parole or result in an increased sentence under a recidivist statute for a future offense. Moreover, the second conviction may be used to impeach the defendant's credibility, and certainly carries the societal stigma accompanying any criminal conviction. See Benton v. Maryland, <a href="../us395/us395-0784.xml#p784">395 U. S. 784</a>, <a href="../us395/us395-0784.xml#p790">395 U. S. 790</a>-791 (1969); Sibron v. New York, <a href="../us392/us392-0040.xml#p40">392 U. S. 40</a>, <a href="../us392/us392-0040.xml#p54">392 U. S. 54</a>-56 (1968). Thus, the second conviction, even if it results in no greater sentence, is an impermissible punishment.</p>
     <p>We emphasize that, while the Government may seek a multiple-count indictment against a felon for violations of §§ 922(h) and 1202(a) involving the same weapon where a single act establishes the receipt and possession, the accused may not suffer two convictions or sentences on that indictment. If, upon the trial, the district judge is satisfied that there is sufficient proof to go to the jury on both counts, he should instruct the jury as to the elements of each offense. Should the jury return guilty verdicts for each count, however, the district judge should enter judgment on only one of the statutory offenses.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>We hold that Congress did not intend a convicted felon in Ball's position to be convicted of both receiving a firearm in violation of 18 U.S.C. § 922(h) and possessing that firearm in violation of 18 U.S.C.App. § 1202(a). Accordingly, we vacate the judgment of the Court of Appeals and remand with instructions to have the District Court exercise its discretion to vacate one of the convictions.</p>
     <p>It is so ordered.</p>
     <p>JUSTICE MARSHALL concurs in the judgment.</p>
@@ -124,7 +124,7 @@
     </f>
     <f n="11"><a id="fn11" href="#nf11">Footnote 11</a>
       <p>Section 922(h) stemmed from § 2(f) of the Federal Firearms Act of 1938, which had made it unlawful for</p>
-      <p>"any person who has been convicted of a crime of violence or is a fugutive [sic] from justice to receive any firearm or ammunition which has been shipped or transported in interstate or foreign commerce . . . ,"</p>
+      <p>"any person who has been convicted of a crime of violence or is a fugutive [sic] from justice to receive any firearm or ammunition which has been shipped or transported in interstate or foreign commerce . . .,"</p>
       <p>52 Stat. 1251. Section 922(h), although maintaining § 2(f)'s operative phrase, expanded the categories of persons prohibited from receiving firearms. See Appendix to this opinion.</p>
     </f>
     <f n="12"><a id="fn12" href="#nf12">Footnote 12</a>

@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us307-0616.html" citation="307 U.S. 616" title="ELECTRIC STORAGE BATTERY CO. v. SHIMADZU">
   <opinion type="Opinions &amp; Dissents">
     <n id="p616">616</n>
-    <h>U.S. Supreme Court</h>
-    <h>ELECTRIC STORAGE BATTERY CO. v. SHIMADZU, <a href="./us307-0616.xml#p616">307 U.S. 616</a> (1939)</h>
-    <h> <a href="./us307-0005.xml#p5">307 U.S. 5</a> 307 U.S. 613 <a href="./us307-0616.xml#p616">307 U.S. 616</a></h>
-    <h>ELECTRIC STORAGE BATTERY CO. v. SHIMADZU et al. No. 441. Argued Feb. 28, 1939. Decided April 17, 1939. </h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>ELECTRIC STORAGE BATTERY CO. v. SHIMADZU, <a href="./us307-0616.xml#p616">307 U.S. 616</a> (1939)</h1>
+    <h2><a href="./us307-0005.xml#p5">307 U.S. 5</a> 307 U.S. 613 <a href="./us307-0616.xml#p616">307 U.S. 616</a></h2>
+    <h4>ELECTRIC STORAGE BATTERY CO. v. SHIMADZU et al. No. 441. Argued Feb. 28, 1939. Decided April 17, 1939.</h4>
     <p>As Amended on Denial of Rehearing May 22, 1939</p>
     <p>And as Modified June 5, 1939.[ Electric Storage Battery Co. v. Shimadzu <a href="./us307-0005.xml#p5">307 U.S. 5</a> (1939) ]</p>
     <n id="p7">7</n>
@@ -80,7 +81,7 @@
     <p>The decree of the Circuit Court of Appeals must be reversed and the cause remanded to the District Court with directions to dismiss the bill as to Nos. 1,584,150 and 1,896,020, and to proceed, in the light of the dismissal as to those patents, to determine whether 1,584,149 is valid and infringed.</p>
     <p>It is so ordered.</p>
     <p>Reversed and remanded.</p>
-    <h>Footnotes</h>
+    <h2>Footnotes</h2>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>
       <p>Patents Date granted Claims 1,584,149 5/11/1926 1 and 2 1,584,150 5/11/1926 1-4, 6, 8-13 1,896,020 1/31/1933 10 and 11</p>
     </f>

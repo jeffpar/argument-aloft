@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us499-0621.html" citation="499 U.S. 621" title="California v. Hodari D.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p621">621</n>
-    <h>U.S. Supreme Court</h>
-    <h>California v. Hodari D., <a href="./us499-0621.xml#p621">499 U.S. 621</a> (1991)</h>
-    <h>California v. Hodari D.</h>
-    <h>No. 89-1632</h>
-    <h>Argued Jan. 14, 1991</h>
-    <h>Decided April 23, 1991</h>
-    <h><a href="./us499-0621.xml#p621">499 U.S. 621</a></h>
-    <h>CERTIORARI TO THE COURT OF APPEAL OF CALIFORNIA,</h>
-    <h>FIRST APPELLATE DISTRICT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>California v. Hodari D., <a href="./us499-0621.xml#p621">499 U.S. 621</a> (1991)</h1>
+    <h2>California v. Hodari D.</h2>
+    <h4>No. 89-1632</h4>
+    <h4>Argued Jan. 14, 1991</h4>
+    <h4>Decided April 23, 1991</h4>
+    <h2>CERTIORARI TO THE COURT OF APPEAL OF CALIFORNIA,</h2>
+    <h2>FIRST APPELLATE DISTRICT</h2>
+    <h2>Syllabus</h2>
     <p>A group of youths, including respondent Hodari D., fled at the approach of an unmarked police car on an Oakland, California, street. Officer Pertoso, who was wearing a jacket with "Police" embossed on its front, left the car to give chase. Pertoso did not follow Hodari directly, but took a circuitous route that brought the two face to face on a parallel street. Hodari, however, was looking behind as he ran and did not turn to see Pertoso until the officer was almost upon him, whereupon Hodari tossed away a small rock. Pertoso tackled him, and the police recovered the rock, which proved to be crack cocaine. In the juvenile proceeding against Hodari, the court denied his motion to suppress the evidence relating to the cocaine. The State Court of Appeal reversed, holding that Hodari had been "seized" when he saw Pertoso running towards him; that this seizure was "unreasonable" under the Fourth Amendment, the State having conceded that Pertoso did not have the "reasonable suspicion" required to justify stopping Hodari; and therefore that the evidence of cocaine had to be suppressed as the fruit of the illegal seizure.</p>
     <p>Held: The only issue presented here -- whether, at the time he dropped the drugs, Hodari had been "seized" within the meaning of the Fourth Amendment -- must be answered in the negative. To answer this question, this Court looks to the common law of arrest. To constitute a seizure of the person, just as to constitute an arrest -- the quintessential "seizure of the person" under Fourth Amendment jurisprudence -- there must be either the application of physical force, however slight, or, where that is absent, submission to an officer's "show of authority" to restrain the subject's liberty. No physical force was applied in this case, since Hodari was untouched by Pertoso before he dropped the drugs. Moreover, assuming that Pertoso's pursuit constituted a "show of authority" enjoining Hodari to halt, Hodari did not comply with that injunction, and therefore was not seized until he was tackled. Thus, the cocaine abandoned while he was running was not the fruit of a seizure, cf. Brower v. Inyo County, <a href="../us489/us489-0593.xml#p593">489 U. S. 593</a>, <a href="../us489/us489-0593.xml#p597">489 U. S. 597</a>; Nester v. United States, <a href="../us265/us265-0057.xml#p57">265 U. S. 57</a>, <a href="../us265/us265-0057.xml#p58">265 U. S. 58</a>, and his motion to exclude evidence of it was properly denied. United States v. Mendenhall, <a href="../us446/us446-0544.xml#p544">446 U. S. 544</a>, <a href="../us446/us446-0544.xml#p554">446 U. S. 554</a> (opinion of Stewart, J.), and its progeny, distinguished. Pp. <a href="./us499-0621.xml#p623">499 U. S. 623</a>-629.</p>
     <p>Reversed and remanded.</p>
@@ -72,7 +72,7 @@
       <n id="p632">632</n>
       <p>attempt was unlawful at common law. [Footnote 2/7] Thus, if the Court wants to define the scope of the Fourth Amendment based on the common law, it should look, not to the common law of arrest, but to the common law of attempted arrest, according to the facts of this case.</p>
       <p>The first question, then, is whether the common law should define the scope of the outer boundaries of the constitutional protection against unreasonable seizures. Even if, contrary to settled precedent, traditional common law analysis were controlling, it would still be necessary to decide whether the unlawful attempt to make an arrest should be considered a seizure within the meaning of the Fourth Amendment, and whether the exclusionary rule should apply to unlawful attempts.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>The Court today takes a narrow view of "seizure," which is at odds with the broader view adopted by this Court almost 25 years ago. In Katz v. United States, <a href="../us389/us389-0347.xml#p347">389 U. S. 347</a> (1967), the Court considered whether electronic surveillance conducted "without any trespass and without the seizure of any material object fell outside the ambit of the Constitution." Id. at <a href="../us389/us389-0347.xml#p353">389 U. S. 353</a>. Over Justice Black's powerful dissent, we rejected that "narrow view" of the Fourth Amendment, and held that electronic eavesdropping is a "search and seizure" within the meaning of the Amendment. Id. at <a href="../us389/us389-0347.xml#p353"> 389 U. S. 353</a>-354. We thus endorsed the position expounded by two of the dissenting Justices in Olmstead v. United States, <a href="../us277/us277-0438.xml#p438">277 U. S. 438</a> (1928):</p>
       <n id="p633">633</n>
       <p>"Time and again, this Court, in giving effect to the principle underlying the Fourth Amendment, has refused to place an unduly literal construction upon it."</p>
@@ -101,7 +101,7 @@
       <p>Id. at <a href="../us392/us392-0001.xml#p19">392 U. S. 19</a>.</p>
       <n id="p637">637</n>
       <p>The decisions in Katz and Terry unequivocally reject the notion that the common law of arrest defines the limits of the term "seizure" in the Fourth Amendment. In Katz, the Court abandoned the narrow view that would have limited a seizure to a material object, and instead, held that the Fourth Amendment extended to the recording of oral statements. And in Terry, the Court abandoned its traditional view that a seizure under the Fourth Amendment required probable cause, and instead, expanded the definition of a seizure to include an investigative stop made on less than probable cause. Thus, the major premise underpinning the majority's entire analysis today -- that the common law of arrest should define the term "seizure" for Fourth Amendment purposes, see ante at <a href="./us499-0621.xml#p624">499 U. S. 624</a>-625 -- is seriously flawed. The Court mistakenly hearkens back to common law, while ignoring the expansive approach that the Court has taken in Fourth Amendment analysis since Katz and Terry. [Footnote 2/11]</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>The Court fares no better when it tries to explain why the proper definition of the term "seizure" has been an open question until today. In Terry, in addition to stating that a seizure occurs "whenever a police officer accosts an individual and restrains his freedom to walk away," 392 U.S. at <a href="../us392/us392-0001.xml#p16">392 U. S. 16</a>, the Court noted that a seizure occurs "when the officer, by means of physical force or show of authority, has in some way restrained the liberty of a citizen. . . ." Id. at <a href="../us392/us392-0001.xml#p19">392 U. S. 19</a>, n. 16. The touchstone of a seizure is the restraint of an individual's personal liberty "in some way." Ibid. (emphasis added). [Footnote 2/12] Today the Court's reaction to respondent's reliance on Terry</p>
       <n id="p638">638</n>
       <p>is to demonstrate that, in "show of force" cases, no common law arrest occurs unless the arrestee submits. See ante at <a href="./us499-0621.xml#p626">499 U. S. 626</a>-627. That answer, however, is plainly insufficient, given the holding in Terry that the Fourth Amendment applies to stops that need not be justified by probable cause in the absence of a full-blown arrest.</p>
@@ -138,7 +138,7 @@
       <p>Whatever else one may think of today's decision, it unquestionably represents a departure from earlier Fourth Amendment case law. The notion that our prior cases contemplated a distinction between seizures effected by a touching, on the one hand, and those effected by a show of force, on the other hand, and that all of our repeated descriptions of the Mendenhall test stated only a necessary, but not a sufficient, condition for finding seizures in the latter category, is nothing if not creative lawmaking. Moreover, by narrowing the definition of the term seizure, instead of enlarging the scope of reasonable justifications for seizures, the Court has significantly limited the protection provided to the ordinary citizen by the Fourth Amendment. As we explained in Terry:</p>
       <p>"The danger in the logic which proceeds upon distinctions between a 'stop' and an 'arrest,' or 'seizure' of the person, and between a 'frisk' and a 'search,' is twofold. It seeks to isolate from constitutional scrutiny the initial stages of the contact between the policeman and the citizen. And by suggesting a rigid all-or-nothing model of justification and regulation under the Amendment, it obscures the utility of limitations upon the scope, as well as the initiation, of police action as a means of constitutional regulation."</p>
       <p>Terry v. Ohio, 392 U.S. at <a href="../us392/us392-0001.xml#p17">392 U. S. 17</a>.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>In this case, the officer's show of force -- taking the form of a head-on chase -- adequately conveyed the message that respondent was not free to leave. [Footnote 2/14] Whereas, in Mendenhall, there was</p>
       <p>"nothing in the record [to] sugges[t] that the respondent</p>
       <n id="p643">643</n>

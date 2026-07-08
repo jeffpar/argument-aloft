@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us491-0600.html" citation="491 U.S. 600" title="United States v. Monsanto">
   <opinion type="Opinions &amp; Dissents">
     <n id="p600">600</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Monsanto, <a href="./us491-0600.xml#p600">491 U.S. 600</a> (1989)</h>
-    <h>United States v. Monsanto</h>
-    <h>No. 88-454</h>
-    <h>Argued March 21, 1989</h>
-    <h>Decided June 22, 1989</h>
-    <h><a href="./us491-0600.xml#p600">491 U.S. 600</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE SECOND CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Monsanto, <a href="./us491-0600.xml#p600">491 U.S. 600</a> (1989)</h1>
+    <h2>United States v. Monsanto</h2>
+    <h2>No. 88-454</h2>
+    <h4>Argued March 21, 1989</h4>
+    <h4>Decided June 22, 1989</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE SECOND CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondent, who allegedly directed a large-scale heroin distribution enterprise, was indicted for alleged violations of racketeering laws, creation of a continuing criminal enterprise, and tax and firearm offenses. The indictment also alleged that respondent had accumulated three specified assets as a result of his narcotics trafficking, which were subject to forfeiture under the Comprehensive Forfeiture Act of 1984, 21 U.S.C. § 853. After the indictment was unsealed, the District Court granted the Government's ex parte motion under § 853(e)(1)(A) for a restraining order freezing the assets pending trial. Respondent, raising various statutory arguments and claiming that the order interfered with his Sixth Amendment right to counsel of his choice, moved to vacate the order to permit him to use frozen assets to retain an attorney. He also sought a declaration that if the assets were used to pay attorney's fees, § 853(c)'s third-party transfer provision would not be used to reclaim such payments if respondent was convicted and his assets forfeited. The District Court denied the motion. However, the Court of Appeals ultimately ordered that the restraining order be modified to permit the restrained assets to be used to pay attorney's fees.</p>
     <p>Held:</p>
     <p>1. There is no exemption from § 853's forfeiture or pretrial restraining order provisions for assets that a defendant wishes to use to retain an attorney. Pp. <a href="./us491-0600.xml#p606">491 U. S. 606</a>-614.</p>
@@ -25,7 +25,7 @@
     <n id="p602">602</n>
     <p>JUSTICE WHITE delivered the opinion of the Court.</p>
     <p>The questions presented here are whether the federal drug forfeiture statute authorizes a district court to enter a pretrial order freezing assets in a defendant's possession, even where the defendant seeks to use those assets to pay an attorney; if so, we must decide whether such an order is permissible under the Constitution. We answer both of these questions in the affirmative.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In July 1987, an indictment was entered, alleging that respondent had directed a large-scale heroin distribution enterprise. The multicount indictment alleged violations of racketeering laws, creation of a continuing criminal enterprise (CCE), and tax and firearm offenses. The indictment also alleged that three specific assets -- a home, an apartment, and $35,000 in cash -- had been accumulated by respondent as a result of his narcotics trafficking. These assets, the indictment</p>
     <n id="p603">603</n>
     <p>alleged, were subject to forfeiture under the Comprehensive Forfeiture Act of 1984 (CFA), 98 Stat. 2044, as amended, 21 U.S.C. § 853(a) (1982 ed., Supp. V), because they were "property constituting, or derived from . . . proceeds . . . obtained" from drug law violations. [<a id="nf1" href="#fn1">Footnote 1</a>]</p>
@@ -38,7 +38,7 @@
     <n id="p606">606</n>
     <p>banc court, by an 8-to-4 vote, ordered that the District Court's restraining order be modified to permit the restrained assets to be used to pay attorney's fees. 852 F.2d 1400 (1988). The Court was sharply divided as to its rationale. Three of the judges found that the order violated the Sixth Amendment, while three others questioned it on statutory grounds; two judges found § 853 suspect under the Due Process Clause for its failure to include a statutory provision requiring the sort of hearing that the panel had ordered in the first place. The four dissenting judges would have upheld the restraining order.</p>
     <p>We granted certiorari, 488 U.S. 941 (1988), because the Second Circuit's decision created a conflict among the Courts of Appeals over the statutory and constitutional questions presented. [<a id="nf6" href="#fn6">Footnote 6</a>] We now reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>We first must address the question whether § 853 requires, upon conviction, forfeiture of assets that an accused intends to use to pay his attorneys.</p>
     <p>A</p>
     <p>"In determining the scope of a statute, we look first to its language." United States v. Turkette, <a href="../us452/us452-0576.xml#p576">452 U. S. 576</a>, <a href="../us452/us452-0576.xml#p580">452 U. S. 580</a> (1981). In the case before us, the language of § 853 is plain and unambiguous: all assets falling within its scope are to be forfeited upon conviction, with no exception existing for the assets used to pay attorney's fees -- or anything else, for that matter.</p>
@@ -50,7 +50,7 @@
     <p>Respondent urges us, nonetheless, to interpret the statute to exclude such property for several reasons. Principally, respondent contends that we should create such an exemption because the statute does not expressly include property to be used for attorneys' fees, and/or because Congress simply did not consider the prospect that forfeiture would reach assets that could be used to pay for an attorney. In support, respondent observes that the legislative history is "silent" on this question, and that the House and Senate debates fail to discuss this prospect. [<a id="nf8" href="#fn8">Footnote 8</a>] But this proves nothing: the legislative</p>
     <n id="p609">609</n>
     <p>history and congressional debates are similarly silent on the use of forfeitable assets to pay stockbroker's fees, laundry bills, or country club memberships; no one could credibly argue that, as a result, assets to be used for these purposes are similarly exempt from the statute's definition of forfeitable property. The fact that the forfeiture provision reaches assets that could be used to pay attorney's fees, even though it contains no express provisions to this effect, "does not demonstrate ambiguity'" in the statute: "</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>t demonstrates breadth.'" Sedima, S.P.R.L. v. Imrex Co., <a href="../us473/us473-0479.xml#p479">473 U. S. 479</a>, <a href="../us473/us473-0479.xml#p499">473 U. S. 499</a> (1985) (quoting Haroco, Inc. v. American Nat. Bank &amp; Trust Co. of Chicago, 747 F.2d 384, 398 (CA7 1984)). The statutory provision at issue here is broad and unambiguous, and Congress' failure to supplement § 853(a)'s comprehensive phrase -- "any property" -- with an exclamatory "and we even mean assets to be used to pay an attorney" does not lessen the force of the statute's plain language.</p>
     <n id="p610">610</n>
     <p>We also find unavailing respondent's reliance on the comments of several legislators -- made following enactment -- to the effect that Congress did not anticipate the use of the forfeiture law to seize assets that would be used to pay attorneys. See Brief for Respondent 15-16, and n. 9 (citing comments of Sen. Leahy and Reps. Hughes and Shaw). As we have noted before, such post-enactment views "form a hazardous basis for inferring the intent" behind a statute, United States v. Price, <a href="../us361/us361-0304.xml#p304">361 U. S. 304</a>, <a href="../us361/us361-0304.xml#p313">361 U. S. 313</a> (1960); instead, Congress' intent is "best determined by [looking to] the statutory language that it chooses," Sedima, S.P.R.L., supra, at <a href="../us473/us473-0479.xml#p495">473 U. S. 495</a>, n. 13. Moreover, we observe that these comments are further subject to question because Congress has refused to act on repeated suggestions by the defense bar for the sort of exemption respondent urges here, [<a id="nf9" href="#fn9">Footnote 9</a>] even though it has amended § 853 in other respects since these entreaties were first heard. See Pub.L. 99-570, §§ 1153(b), 1864, 100 Stat. 3207-13, 3207-54.</p>
@@ -77,7 +77,7 @@
     <p>S.Rep. No. 98-225, p. 204 (1983). If, instead, the statutory interpretation adopted by Judge Winter's concurrence were applied, this purpose would not be achieved.</p>
     <n id="p614">614</n>
     <p>We conclude that there is no exemption from § 853's forfeiture or pretrial restraining order provisions for assets which a defendant wishes to use to retain an attorney. In enacting § 853, Congress decided to give force to the old adage that "crime does not pay." We find no evidence that Congress intended to modify that nostrum to read, "crime does not pay, except for attorney's fees." If, as respondent and supporting amici so vigorously assert, we are mistaken as to Congress' intent, that body can amend this statute to otherwise provide. But the statute, as presently written, cannot be read any other way.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Having concluded that the statute authorized the restraining order entered by the District Court, we reach the question whether the order violated respondent's right to counsel of choice as protected by the Sixth Amendment or the Due Process Clause of the Fifth Amendment.</p>
     <p>A</p>
     <p>Respondent's most sweeping constitutional claims are that, as a general matter, operation of the forfeiture statute interferes with a defendant's Sixth Amendment right to counsel of choice, and the guarantee afforded by the Fifth Amendment's Due Process Clause of a "balance of forces" between the accused and the Government. In this regard, respondent contends, the mere prospect of post-trial forfeiture is enough to deter a defendant's counsel of choice from representing him.</p>
@@ -90,7 +90,7 @@
     <n id="p616">616</n>
     <p>is a finding of probable cause to believe that the accused has committed a serious offense. See United States v. Salerno, <a href="../us481/us481-0739.xml#p739">481 U. S. 739</a> (1987). Given the gravity of the offenses charged in the indictment, respondent himself could have been subjected to pretrial restraint if deemed necessary to "reasonably assure [his] appearance [at trial] and the safety of . . . the community," 18 U.S.C. § 3142(e) (1982 ed., Supp. V); we find no constitutional infirmity in § 853(e)'s authorization of a similar restraint on respondent's property to protect its "appearance" at trial and protect the community's interest in full recovery of any ill-gotten gains.</p>
     <p>Respondent contends that both the nature of the Government's property right in forfeitable assets and the nature of the use to which he would have put these assets (i.e., retaining an attorney) require some departure from our established rule of permitting pretrial restraint of assets based on probable cause. We disagree. In Caplin &amp; Drysdale, we conclude that a weighing of these very interests suggests that the Government may -- without offending the Fifth or Sixth Amendments -- obtain forfeiture of property that a defendant might have wished to use to pay his attorney. Post, p. <a href="./us491-0617.xml#p617">491 U. S. 617</a>. Given this holding, we find that a pretrial restraining order does not "arbitrarily" interfere with a defendant's "fair opportunity" to retain counsel. Cf. Powell v. Alabama, <a href="../us287/us287-0045.xml#p45">287 U. S. 45</a>, <a href="../us287/us287-0045.xml#p69">287 U. S. 69</a>, <a href="../us287/us287-0045.xml#p53">287 U. S. 53</a> (1932). Put another way: if the Government may, post-trial, forbid the use of forfeited assets to pay an attorney, then surely no constitutional violation occurs when, after probable cause is adequately established, the Government obtains an order barring a defendant from frustrating that end by dissipating his assets prior to trial.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>For the reasons given above, the judgment of the Second Circuit is reversed, and the case is remanded for further proceedings consistent with this opinion.</p>
     <p>It is so ordered.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>

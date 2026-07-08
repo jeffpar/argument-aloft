@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us493-0411.html" citation="493 U.S. 411" title="FTC v. Superior Court Trial Lawyers Ass'n">
   <opinion type="Opinions &amp; Dissents">
     <n id="p411">411</n>
-    <h>U.S. Supreme Court</h>
-    <h>FTC v. Superior Ct. TLA, <a href="./us493-0411.xml#p411">493 U.S. 411</a> (1990)</h>
-    <h>Federal Trade Commission v. Superior Court</h>
-    <h>Trial Lawyers Association</h>
-    <h>Nos. 88-1198, 88-1393</h>
-    <h>Argued Oct. 30, 1989</h>
-    <h>Decided Jan. 22, 1990</h>
-    <h><a href="./us493-0411.xml#p411">493 U.S. 411</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE DISTRICT OF COLUMBIA CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h4>FTC v. Superior Ct. TLA, <a href="./us493-0411.xml#p411">493 U.S. 411</a> (1990)</h4>
+    <h2>Federal Trade Commission v. Superior Court</h2>
+    <h2>Trial Lawyers Association</h2>
+    <h2>Nos. 88-1198, 88-1393</h2>
+    <h4>Argued Oct. 30, 1989</h4>
+    <h4>Decided Jan. 22, 1990</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE DISTRICT OF COLUMBIA CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>A group of lawyers in private practice who regularly acted as court-appointed counsel for indigent defendants in District of Columbia criminal cases agreed at a meeting of the Superior Court Trial Lawyers Association (SCTLA) to stop providing such representation until the District increased group members' compensation. The boycott had a severe impact on the District's criminal justice system, and the District government capitulated to the lawyers' demands. After the lawyers returned to work, petitioner Federal Trade Commission (FTC) filed a complaint against SCTLA and four of its officers (respondents), alleging that they had entered into a conspiracy to fix prices and to conduct a boycott that constituted unfair methods of competition in violation of § 5 of the FTC Act. Declining to accept the conclusion of the Administrative Law Judge (ALJ) that the complaint should be dismissed, the FTC ruled that the boycott was illegal per se and entered an order prohibiting respondents from initiating future such boycotts. The Court of Appeals, although acknowledging that the boycott was a "classic restraint of trade" in violation of § 1 of the Sherman Act, vacated the FTC order. Noting that the boycott was meant to convey a political message to the public, the court concluded that it contained an element of expression warranting First Amendment protection and that, under United States v. O'Brien, <a href="../us391/us391-0367.xml#p367">391 U. S. 367</a>, an incidental restriction on such expression could not be justified unless it was no greater than was essential to an important governmental interest. Reasoning that this test could not be satisfied by the application of an otherwise appropriate per se rule, but instead requires the enforcement agency to prove rather than presume that the evil against which the antitrust laws are directed looms in the conduct it condemns, the court remanded for a determination whether respondents possessed "significant market power."</p>
     <n id="p412">412</n>
     <p>Held:</p>
@@ -26,7 +26,7 @@
     <n id="p414">414</n>
     <p>Justice STEVENS delivered the opinion of the Court.</p>
     <p>Pursuant to a well-publicized plan, a group of lawyers agreed not to represent indigent criminal defendants in the District of Columbia Superior Court until the District of Columbia government increased the lawyers' compensation. The questions presented are whether the lawyers' concerted conduct violated § 5 of the Federal Trade Commission Act and if so, whether it was nevertheless protected by the First Amendment to the Constitution. [<a id="nf1" href="#fn1">Footnote 1</a>]</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The burden of providing competent counsel to indigent defendants in the District of Columbia is substantial. During 1982, court-appointed counsel represented the defendant in approximately 25,000 cases. In the most serious felony cases, representation was generally provided by full-time employees of the District's Public Defender System (PDS). Less serious felony and misdemeanor cases constituted about</p>
     <n id="p415">415</n>
     <p>85 percent of the total caseload. In these cases, lawyers in private practice were appointed and compensated pursuant to the District of Columbia Criminal Justice Act (CJA). [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
@@ -53,7 +53,7 @@
     <n id="p418">418</n>
     <p>Within 10 days, the key figures in the District's criminal justice system "became convinced that the system was on the brink of collapse because of the refusal of CJA lawyers to take on new cases." Id. at 544. On September 15, they hand-delivered a letter to the mayor describing why the situation was expected to "reach a crisis point" by early next week and urging the immediate enactment of a bill increasing all CJA rates to $35 per hour. The mayor promptly met with members of the strike committee and offered to support an immediate temporary increase to the $35 level as well as a subsequent permanent increase to $45 an hour for out-of-court time and $55 for in-court time.</p>
     <p>At noon on September 19, 1983, over 100 CJA lawyers attended a SCTLA meeting and voted to accept the $35 offer and end the boycott. The city council's Judiciary Committee convened at 2:00 p.m. that afternoon. The committee recommended legislation increasing CJA fees to $35, and the council unanimously passed the bill on September 20th. On September 21st, the CJA regulars began to accept new assignments, and the crisis subsided.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The Federal Trade Commission (FTC) filed a complaint against SCTLA and four of its officers (respondents) alleging that they had</p>
     <p>"entered into an agreement among themselves and with other lawyers to restrain trade by refusing to compete for or accept new appointments under the CJA program beginning on September 6, 1983, unless and until the District of Columbia increased the fees offered under the CJA program."</p>
     <p>Id. at 511. The complaint alleged that virtually all of the attorneys who regularly compete for or accept new appointments under the CJA program had joined the agreement. The FTC characterized respondents' conduct as "a conspiracy to fix prices and to conduct a boycott" and concluded that they were engaged in "unfair methods of competition</p>
@@ -72,7 +72,7 @@
     <p>noted that boycotts have historically been used as a dramatic means of expression and that respondents intended to convey a political message to the public at large. It therefore concluded that, under United States v. O'Brien, <a href="../us391/us391-0367.xml#p367">391 U. S. 367</a> (1968), a restriction on this form of expression could not be justified unless it is no greater than is essential to an important governmental interest. This test, the Court reasoned, could not be satisfied by the application of an otherwise appropriate per se rule, but instead required the enforcement agency to "prove rather than presume that the evil against which the Sherman Act is directed looms in the conduct it condemns." 272 U.S.App.D.C. at 296, 856 F.2d at 250.</p>
     <p>Because of our concern about the implications of the Court of Appeals' unique holding, we granted the FTC's petition for certiorari as well as respondents' cross-petition. 490 U.S. 1019 (1989).</p>
     <p>We consider first the cross-petition, which contends that respondents' boycott is outside the scope of the Sherman Act or is immunized from antitrust regulation by the First Amendment. We then turn to the FTC's petition.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Reasonable lawyers may differ about the wisdom of this enforcement proceeding. The dissent from the decision to file the complaint so demonstrates. So, too, do the creative conclusions of the ALJ and the Court of Appeals. Respondents' boycott may well have served a cause that was worthwhile and unpopular. We may assume that the pre-boycott rates were unreasonably low, and that the increase has produced better legal representation for indigent defendants. Moreover, given that neither indigent criminal defendants nor the lawyers who represent them command any special appeal with the electorate, we may also assume that, without the boycott, there would have been no increase in District CJA fees at least until the Congress amended the federal statute. These assumptions do not control the case, for it is</p>
     <n id="p422">422</n>
     <p>not our task to pass upon the social utility or political wisdom of price-fixing agreements.</p>
@@ -101,7 +101,7 @@
     <p>Indeed, respondents' theory of Noerr was largely disposed of by our opinion in Allied Tube &amp; Conduit Corp. v. Indian Head Inc., <a href="../us486/us486-0492.xml#p492">486 U. S. 492</a> (1988). We held that the Noerr doctrine does not extend to "every concerted effort that is genuinely intended to influence governmental action." 486 U.S. at <a href="../us486/us486-0492.xml#p503">486 U. S. 503</a>. We explained:</p>
     <p>"If all such conduct were immunized, then, for example, competitors would be free to enter into horizontal price agreements as long as they wished to propose that price as an appropriate level for governmental ratemaking or price supports. But see Georgia v. Pennsylvania R. Co. <a href="https://law.justia.com/us/324/439/">324 U. S. 439</a>, <a href="https://law.justia.com/us/324/439/#456">324 U. S. 456</a>-463 (1945). Horizontal conspiracies or boycotts designed to exact higher prices or other economic advantages from the government would be immunized on the ground that they are genuinely intended to influence the government to agree to the conspirators' terms. But see Georgia v. Evans, <a href="https://law.justia.com/us/316/159/">316 U. S. 159</a> (1942). Firms could claim immunity for boycotts or horizontal output restrictions on the ground that they are intended to dramatize the plight of their industry and spur legislative action."</p>
     <p>Ibid.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>The lawyers' association argues that, if its conduct would otherwise be prohibited by the Sherman Act and the Federal Trade Act, it is nonetheless protected by the First.Amendment rights recognized in <a href="../us458/us458-0886.xml#p886">NAACP v. Claiborne Hardware</a>,</p>
     <n id="p426">426</n>
     <p><a href="../us458/us458-0886.xml#p886">458 U. S. 886</a> (1982). That case arose after black citizens boycotted white merchants in Claiborne County, Miss. The white merchants sued under state law to recover losses from the boycott. We found that the</p>
@@ -114,7 +114,7 @@
     <p>The same cannot be said of attorney's fees. As we recently pointed out, our reasoning in Claiborne Hardware is not applicable to a boycott conducted by business competitors who "stand to profit financially from a lessening of competition in the boycotted market." Allied Tube Corp. v. Indian Head, supra, at <a href="../us486/us486-0492.xml#p508">486 U. S. 508</a>. [<a id="nf10" href="#fn10">Footnote 10</a>] No matter how altruistic the motives of respondents may have been, it is undisputed that their immediate objective was to increase the price that they would be paid for their services. Such an economic boycott is well within the category that was expressly distinguished in the Claiborne Hardware opinion itself. 458 U.S. at <a href="../us458/us458-0886.xml#p914">458 U. S. 914</a>-915. [<a id="nf11" href="#fn11">Footnote 11</a>]</p>
     <n id="p428">428</n>
     <p>Only after recognizing the well-settled validity of prohibitions against various economic boycotts did we conclude in Claiborne Hardware that "peaceful, political activity such as that found in the [Mississippi] boycott" are entitled to constitutional protection. [<a id="nf12" href="#fn12">Footnote 12</a>] We reaffirmed the government's "power to regulate [such] economic activity." Id. at <a href="../us458/us458-0886.xml#p912"> 458 U. S. 912</a>-913. This conclusion applies with special force when a clear objective of the boycott is to economically advantage the participants.</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>Respondents' concerted action in refusing to accept further CJA assignments until their fees were increased was thus a plain violation of the antitrust laws. The exceptions derived from Noerr and Claiborne Hardware have no application to respondents' boycott. For these reasons, we reject the arguments made by respondents in the cross-petition.</p>
     <p>The Court of Appeals, however, crafted a new exception to the per se rules, and it is this exception which provoked the</p>
     <n id="p429">429</n>
@@ -156,7 +156,7 @@
     <p>Of course, some boycotts and some price fixing agreements are more pernicious than others; some are only partly successful, and some may only succeed when they are buttressed by other causative factors, such as political influence. But</p>
     <n id="p436">436</n>
     <p>an assumption that, absent proof of market power, the boycott disclosed by this record was totally harmless -- when overwhelming testimony demonstrated that it almost produced a crisis in the administration of criminal justice in the District and when it achieved its economic goal -- is flatly inconsistent with the clear course of our antitrust jurisprudence. Conspirators need not achieve the dimensions of a monopoly, or even a degree of market power any greater than that already disclosed by this record, to warrant condemnation under the antitrust laws.</p>
-    <h>VI</h>
+    <h2>VI</h2>
     <p>The judgment of the Court of Appeals is accordingly reversed insofar as that court held the per se rules inapplicable to the lawyers' boycott. [<a id="nf19" href="#fn19">Footnote 19</a>] The case is remanded for further proceedings consistent with this opinion. [<a id="nf20" href="#fn20">Footnote 20</a>]</p>
     <p>It is so ordered.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>
@@ -244,7 +244,7 @@
       <p>The Court holds today that a boycott by the Superior Court Trial Lawyers Association (SCTLA or Trial Lawyers), whose members collectively refused to represent indigent</p>
       <n id="p437">437</n>
       <p>criminal defendants without greater compensation, constituted conduct that was neither clearly outside the scope of the Sherman Act nor automatically immunized from antitrust regulation by the First Amendment. With this much I agree. [Footnote 2/1] In Part V of its opinion, however, the Court maintains that, under the per se rule, the Federal Trade Commission (FTC) could find the boycott illegal because it might have implicated some of the concerns underlying the antitrust laws. I cannot countenance this reasoning, which, upon examination, reduces to the Court's assertion that, since the government may prohibit airplane stunt-flying and reckless automobile driving as categorically harmful, see ante at <a href="./us493-0411.xml#p433">493 U. S. 433</a>-434, it may also subject expressive political boycotts to a presumption of illegality without even inquiring as to whether they actually cause any of the harms that the antitrust laws are designed to prevent. This non sequitur cannot justify the significant restriction on First Amendment freedoms that the majority's rule entails. Because I believe that the majority's decision is insensitive to the venerable tradition of expressive boycotts as an important means of political communication, I respectfully dissent from Part V of the Court's opinion.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>The Petition and Free Speech Clauses of the First Amendment guarantee citizens the right to communicate with the government, and when a group persuades the government to adopt a particular policy through the force of its ideas and the power of its message, no antitrust liability can attach.</p>
       <p>"There are, of course, some activities, legal if engaged in by one, yet illegal if performed in concert with others, but political expression is not one of them."</p>
       <p><a href="../us454/us454-0290.xml#p290">Citizens Against Rent</a></p>
@@ -304,7 +304,7 @@
       <p>muscle so that a rate increase could more easily be justified to the public."</p>
       <p>Id. at 298, n. 35, 856 F.2d at 252, n. 35.</p>
       <p>Taken together, these facts strongly suggest that the Trial Lawyers' campaign persuaded the city to increase CJA compensation levels by creating a favorable climate in which supportive District officials could vote for a raise without public opposition, even though the lawyers lacked the ability to exert economic pressure. As the court below expressly found, the facts at the very least do not exclude the possibility that the SCTLA succeeded due to political rather than economic power. See id. at 297, 856 F.2d at 251. The majority today permits the FTC to find an expressive boycott to violate the antitrust laws without even requiring a showing that the participants possessed market power or that their conduct triggered any anticompetitive effects. I believe that the First Amendment forecloses such an approach.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>A</p>
       <p>The majority concludes that the Trial Lawyers' boycott may be enjoined without any showing of market power because</p>
       <p>"the government's interest in adhering to a uniform rule may sometimes satisfy the O'Brien test even if making an exception to the rule in a particular case might cause no serious damage."</p>

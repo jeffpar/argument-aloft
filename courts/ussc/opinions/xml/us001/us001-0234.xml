@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us001-0234.html" citation="1 U.S. 234" title="STEINMETZ v. CURREY">
   <opinion type="Opinions &amp; Dissents">
     <n id="p234">234</n>
-    <h>U.S. Supreme Court</h>
-    <h>STEINMETZ v. CURREY, <a href="./us001-0234.xml#p234">1 U.S. 234</a> (1788)</h>
-    <h> <a href="./us001-0234.xml#p234">1 U.S. 234</a> (Dall.)</h>
-    <h>Steinmetz et al. v. Currey</h>
-    <h>Supreme Court of Pennsylvania</h>
-    <h>January Term, 1788</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>STEINMETZ v. CURREY, <a href="./us001-0234.xml#p234">1 U.S. 234</a> (1788)</h1>
+    <h2>Steinmetz et al. v. Currey</h2>
+    <h2>Supreme Court of Pennsylvania</h2>
+    <h4>January Term, 1788</h4>
     <p>Motion for a new trial. The circumstances of the case were these: James Whitelaw drew a bill of exchange, dated the 30th of October 1775, for L.239. 18. o. sterling, upon William Houston and Co. in Refrew near Glasgow, payable on the 1st of August, 1776, in favor of John Witherspoon, or order; which bill was afterwards indorsed by the said John Witherspoon, by Archibald Currey (the Defendant) by Archibald and Wm. Blair, by John Pringle, by Steinmetz and Bell, (the Plaintiffs) by Mark Freeman and by William Cowpland. The Defendant's indorsement was made on, or about, the 17th of April 1777, and the bill was presented and protested for non- acceptance on the 30th of December 1778; of which notice was given on the 28th of April 1780, to the Plaintiffs, who on the 9th of November following paid the amount, and giving notice thereof to the Defendant on the 17th of October 1782, they commenced the present action on the succeeding day.</p>
     <p>Upon the trial, the court was moved to direct the jury to find a special verdict; but, perceiving so great a complication of fact and law in the case; and, being doubtful, as the whole transaction happened flagrante bello, whether the point of reasonable notice of the protest, was proper for them, or the jury, to determine, it was thought best, upon the whole, to leave it to the jury to find either a special, or a general, verdict, as they should think adviseable. The jury found general verdict for the Plaintiff. [234-Continued.]</p>
     <p>The motion for a new trial was made, and argued, at the last term; and now the Chief Justice, having recapitulated the preceding state of the case, delivered the opinion of the court.</p>
@@ -20,7 +20,7 @@
     <p>It is well understood, that notice of a protest ought to be given in a reasonable time; and, by not giving it, the indorser takes the loss upon himself: 1 Salk. 127. 2 Black. Rep. 469. Cun. Law. of B. of E. 40. Sect. 6. Doug. 497. Term. Rep. 168. 5 Burr. 2671. And want of notice is tantamount to payment. Term Rep. 408. 712.</p>
     <p>Upon the whole, we think this cause requires a reexamination; that the verdict was against the strength of the evidence given on the trial, and the law respecting reasonable notice; and that the Defendant, who has no remedy over but against John Witherspoon the prior indorser, or James Whitelaw, the drawer of the bill, will be improperly exposed to a great loss by the neglect of the Plaintiffs, if those persons should, in the mean time, have become insolvent.</p>
     <p>A new trial awarded.*</p>
-    <h>Footnotes</h>
+    <h2>Footnotes</h2>
     <p>[Footnote *] See post. Jame Cause, and Robertson et al. versus Vogle in the C.P.</p>
   </opinion>
 </case>

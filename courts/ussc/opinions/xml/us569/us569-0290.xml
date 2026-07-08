@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us569-0290.html" citation="569 U.S. 290" title="City of Arlington v. Federal Communications Commission">
   <opinion type="Opinion" author="Scalia">
     <n id="p290">290</n>
     <p>NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 11–1545 and 11–1547</p>
-    <p>_________________</p>
     <p>CITY OF ARLINGTON, TEXAS, et al., PETITIONERS</p>
     <p>11–1545v.</p>
     <p>FEDERAL COMMUNICATIONS COMMISSION et al.</p>
@@ -70,9 +69,7 @@
   </opinion>
   <opinion type="Concurrence" author="Breyer">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 11–1545 and 11–1547</p>
-    <p>_________________</p>
     <p>CITY OF ARLINGTON, TEXAS, et al., PETITIONERS</p>
     <p>11–1545v.</p>
     <p>FEDERAL COMMUNICATIONS COMMISSION et al.</p>
@@ -97,9 +94,7 @@
   </opinion>
   <opinion type="Dissent" author="Roberts">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 11–1545 and 11–1547</p>
-    <p>_________________</p>
     <p>CITY OF ARLINGTON, TEXAS, et al., PETITIONERS</p>
     <p>11–1545v.</p>
     <p>FEDERAL COMMUNICATIONS COMMISSION et al.</p>

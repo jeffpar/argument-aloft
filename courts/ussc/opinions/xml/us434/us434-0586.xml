@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us434-0586.html" citation="434 U.S. 586" title="J. W. Bateson Co., Inc. v. Board of Trustees">
   <opinion type="Opinions &amp; Dissents">
     <n id="p586">586</n>
-    <h>U.S. Supreme Court</h>
-    <h>J. W. Bateson Co., Inc. v. Board of Trustees, <a href="./us434-0586.xml#p586">434 U.S. 586</a> (1978)</h>
-    <h>J. W. Bateson Co., Inc. v. United States ex rel. Board of</h>
-    <h>Trustees of National Automatic Sprinkler Industry Pension Fund</h>
-    <h>No. 76-1476.</h>
-    <h>Argued November 30, 1977</h>
-    <h>Decided February 22, 1978</h>
-    <h><a href="./us434-0586.xml#p586">434 U.S. 586</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE DISTRICT OF COLUMBIA CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>J. W. Bateson Co., Inc. v. Board of Trustees, <a href="./us434-0586.xml#p586">434 U.S. 586</a> (1978)</h1>
+    <h2>J. W. Bateson Co., Inc. v. United States ex rel. Board of</h2>
+    <h2>Trustees of National Automatic Sprinkler Industry Pension Fund</h2>
+    <h2>No. 76-1476.</h2>
+    <h4>Argued November 30, 1977</h4>
+    <h4>Decided February 22, 1978</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE DISTRICT OF COLUMBIA CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner prime contractor (Bateson) entered into a Government contract for construction of a hospital addition and posted a payment bond as required by the Miller Act to protect those who have a direct contractual relationship with either the prime contractor or a "subcontractor." Bateson then subcontracted a portion of the work to a firm (Pierce) which in turn subcontracted with another firm (Colquitt) for installation of a sprinkler system. When Colquitt failed to pay over amounts withheld from its employees' wages for union dues, vacation savings, and various union trust funds, as required by a collective bargaining agreement with respondent union, the union and respondent trustees filed suit against Bateson in the name of the United States for the amount claimed due under the payment bond. The District Court granted summary judgment for respondents, and the Court of Appeals affirmed, holding that, although Colquitt was "technically a sub-subcontractor," nevertheless it should be considered a "subcontractor" for purposes of payment bond recovery by its employees or their representatives, since it was performing "an integral and significant part of [Bateson's] contract" with the Government.</p>
     <p>Held: Colquitt's employees were not protected by the Miller Act payment bond, since they did not have a contractual relationship either with Bateson or with Pierce or any other "subcontractor," and since Colquitt cannot be considered a "subcontractor." Clifford F. MacEvoy Co. v. United States ex rel. Calvin Tomkins Co., <a href="../us322/us322-0102.xml#p102">322 U. S. 102</a>, and F. D. Rich Co. v. United States ex rel. Industrial Lumber Co., <a href="../us417/us417-0116.xml#p116">417 U. S. 116</a>, distinguished. As confirmed by the Miller Act's legislative history, the word "subcontractor" as used in the Act must be construed as being limited to meaning one who contracts with a prime contractor. Pp. <a href="./us434-0586.xml#p589">434 U. S. 589</a>-594.</p>
     <p>179 U.S.App.D.C. 325, 551 F.2d 1284, reversed.</p>
@@ -82,7 +82,7 @@
       <p>MR. JUSTICE STEVENS, with whom MR. JUSTICE BRENNAN joins, dissenting.</p>
       <p>The Court's narrow reading of the word "subcontractor" creates a system of protection for construction workers that I cannot believe Congress intended. It drives a wedge between employees working side by side on tasks equally vital to "the prosecution of the work." 40 U.S.C. § 270a(a)(2). Under the Court's reading, those who work for the general contractor or for a "first-tier" subcontractor are protected by the bond; those who work for other subcontractors are unprotected.</p>
       <p>The Court's construction of the statute derives strong support from the statement in the Committee Reports distinguishing between "sub-subcontractors" and "more remote relationships." Nevertheless, I am persuaded that contrary evidence of congressional intent outweighs the isolated statement upon which the Court's decision primarily rests. I shall therefore first explain why I think the Act protects every person who has supplied labor or material in the prosecution of the work provided for in the prime contract. Thereafter, I shall explain why I believe the excerpt from the Committee Reports does not compel a contrary conclusion.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>The Miller Act, like the Heard Act which preceded it, covers "all persons supplying labor and material in the prosecution of the work provided for in [a federal construction] contract." [Footnote 2/1]</p>
       <n id="p596">596</n>
       <p>Unless this language were to be narrowly read to cover only persons supplying labor or materials directly to the general contractor -- and no one suggests that such a arrow reading is proper -- it plainly identifies "the prosecution of the work" as the proper test of coverage. This Court so read the comparable language in the Heard Act in United States ex rel. Hill v. American Surety Co., <a href="../us200/us200-0197.xml#p197">200 U. S. 197</a>.</p>
@@ -116,7 +116,7 @@
       <p>Thus, if we consider the language of the statute, its broad purpose to provide protection comparable to that afforded by</p>
       <n id="p603">603</n>
       <p>state mechanic's lien laws on private contracts, and its specific purpose to provide protection for laborers performing work on federal projects, we must conclude that employees of a "sub-subcontractor" who actually perform work on the job are protected.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>The contrary argument rests almost entirely [Footnote 2/14] on a statement in the Committee Reports that draws a distinction</p>
       <n id="p604">604</n>
       <p>between a "sub-subcontractor" and "more remote relationships." [Footnote 2/15] I believe the significance of that statement has been overemphasized.</p>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us499-0160.html" citation="499 U.S. 160" title="United States v. Smith">
   <opinion type="Opinions &amp; Dissents">
     <n id="p160">160</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Smith, <a href="./us499-0160.xml#p160">499 U.S. 160</a> (1991)</h>
-    <h>United States v. Smith</h>
-    <h>No. 89-1646</h>
-    <h>Argued Nov. 7, 1990</h>
-    <h>Decided March 20, 1991</h>
-    <h><a href="./us499-0160.xml#p160">499 U.S. 160</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Smith, <a href="./us499-0160.xml#p160">499 U.S. 160</a> (1991)</h1>
+    <h2>United States v. Smith</h2>
+    <h4>No. 89-1646</h4>
+    <h4>Argued Nov. 7, 1990</h4>
+    <h4>Decided March 20, 1991</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondents Smith filed suit in the District Court against one Dr. Marshall, alleging that he had negligently injured respondent Dominique Smith during his birth at a United States Army hospital in Italy. The court granted the Government's motion to substitute itself for Marshall pursuant to the Gonzalez Act, which provides that, in a suit against military medical personnel for employment-related torts, the Government is to be substituted as the defendant and the suit is to proceed under the Federal Tort Claims Act (FTCA). The court then dismissed the suit on the ground that the FTCA excludes recovery for injuries sustained abroad. The Court of Appeals reversed, holding that neither the Gonzalez Act nor the Federal Employees Liability Reform and Tort Compensation Act of 1988 (Act) required substitution of the Government or otherwise immunized Marshall. It ruled that § 5 of the Act -- which, with two exceptions not here relevant, confers absolute immunity on Government employees by making an FTCA action against the Government the exclusive remedy for their employment-related torts -- applies only when the FTCA provides a remedy.</p>
     <p>Held: The Act immunizes Government employees from suit even when an FTCA exception precludes recovery against the Government. Pp. <a href="./us499-0160.xml#p165">499 U. S. 165</a>-175</p>
     <p>(a) The Act's language confirms that § 5 makes the FTCA the exclusive mode of recovery. Congress recognized that requiring substitution of the Government would sometimes foreclose a tort plaintiff's recovery altogether when it provided in § 6 of the Act that suits proceeding under the FTCA are subject to the "limitations and exceptions" applicable to FTCA actions. Moreover, in light of § 5's two express exceptions preserving employee liability, a third exception preserving liability when the FTCA bars suit cannot be implied, absent a contrary legislative intent. Furthermore, the enactment of § 9 of the Act -- which provides for the substitution of the Tennessee Valley Authority as defendant in employment-related tort suits against its employees -- supports no inference on the scope of § 5 immunity when the FTCA precludes suit against the United States. Pp. <a href="./us499-0160.xml#p165">499 U. S. 165</a>-169</p>
@@ -24,7 +24,7 @@
     <p>The Federal Employees Liability Reform and Tort Compensation Act of 1988 (Liability Reform Act or Act) limits the relief available to persons injured by Government employees acting within the scope of their employment. For persons so injured, the Act provides that "[t]he remedy against the</p>
     <n id="p162">162</n>
     <p>United States" under the Federal Tort Claims Act (FTCA) "is exclusive of any other civil action or proceeding for money damages." 28 U.S.C. § 2679(b)(1). Subject to certain exceptions, the FTCA permits a person injured by a Government employee acting within the scope of his or her employment to seek tort damages against the Government. One exception bars such recovery for injuries sustained outside the country. See 28 U.S.C. § 2680(k). This case presents the question whether a person injured abroad by a military physician, and whom the FTCA foreign-country exception therefore precludes from suing the Government, may nonetheless seek damages from the particular Government employee who caused the injury. We hold that the Liability Reform Act bars this alternative mode of recovery.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In 1982, while working on the medical staff of the United States Army hospital in Vicenza, Italy, Dr. William Marshall served as attending physician to Hildegard Smith during the delivery of her son Dominique. At this time, Ms. Smith's husband, Marcus Smith, was an Army Sergeant stationed in Italy. According to the Smiths, Dominique was born with massive brain damage. In 1987, the Smiths, who are respondents in this Court, sued Dr. Marshall in the United States District Court for the Central District of California, basing jurisdiction on diversity of citizenship. The Smiths alleged that Dr. Marshall's negligence during the delivery caused Dominique's injuries. [<a id="nf1" href="#fn1">Footnote 1</a>]</p>
     <p>The Government intervened and sought to have itself substituted for Dr. Marshall as the defendant pursuant to the Gonzalez Act, 10 U.S.C. § 1089. The Gonzalez Act provides that, in suits against military medical personnel for torts committed within the scope of their employment, the Government is to be substituted as the defendant and the suit is to</p>
     <n id="p163">163</n>
@@ -36,7 +36,7 @@
     <n id="p165">165</n>
     <p>Ninth Circuit reasoned that, although the Act renders a suit against the Government under the FTCA the exclusive remedy for employment-related torts committed by Government employees, the Act applies only when the FTCA in fact provides a remedy. Because § 2680(k) of the FTCA precludes any remedy against the Government in cases arising from injuries incurred abroad, the Ninth Circuit concluded that respondents' tort claim against Dr. Marshall was not barred by the Liability Reform Act. Id. at 654-655.</p>
     <p>We granted certiorari, 496 U.S. 924 (1990), to resolve a conflict among the Circuits over whether the Liability Reform Act immunizes Government employees from suit even when an FTCA exception precludes recovery against the Government. [<a id="nf7" href="#fn7">Footnote 7</a>] We conclude the Act does confer such immunity, and therefore reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Section 5 of the Liability Reform Act states that "[t]he remedy" against the Government under the FTCA "is exclusive</p>
     <n id="p166">166</n>
     <p>of any other civil action or proceeding for money damages . . . against the employee," and then reemphasizes that "[a]ny other civil action or proceeding for money damages . . . against the employee . . . is precluded." 28 U.S.C. § 2679(b)(1). The central question in this case is whether, by designating the FTCA as the "exclusive remedy," § 5 precludes an alternative mode of recovery against a Government employee in cases where the FTCA itself does not provide a means of recovery.</p>
@@ -54,7 +54,7 @@
     <n id="p169">169</n>
     <p>in tort, subject to certain exceptions. See, e.g., Peoples Nat. Bank of Huntsville, Ala. v. Meredith, 812 F.2d 682, 684-685 (CA11 1987); Queen v. Tennessee Valley Authority, 689 F.2d 80, 85 (CA6 1982), cert. denied, 460 U.S. 1082 (1983). In our view, the most plausible explanation for § 9 is that, in view of lower court cases establishing the TVA's own tort liability independent of the FTCA, Congress decided to clarify that the TVA should be substituted in suits brought against TVA employees.</p>
     <p>Seen in this light, the enactment of § 9 supports no inference either way on the scope of § 5 immunity when suit against the United States is precluded under the FTCA. Both the plain language and legislative history of § 9 indicate that the provision was intended to give TVA employees the same degree of immunity as § 5 gives other Government employees. Compare 28 U.S.C. § 2679(b)(1), with 16 U.S.C. § 831c-2(a)(1). See also 134 Cong.Rec. S16375 (Oct. 14, 1988) (remarks of Sen. Heflin). But because the scope of immunity conferred to employees is the same, § 9 has no bearing upon whether Congress viewed § 5 as protecting Government employees from liability when suit against the United States is precluded under the FTCA. [<a id="nf10" href="#fn10">Footnote 10</a>]</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>A</p>
     <p>In support of the decision below, respondents advance reasoning not relied upon by the Ninth Circuit. They invoke the well established principle of statutory interpretation that implied repeals should be avoided. See, e.g., Randall v. Loftsgaarden,</p>
     <n id="p170">170</n>
@@ -83,7 +83,7 @@
     <p>The dissent resists this conclusion because it is impressed by</p>
     <p>"Congress' general intent, expressed throughout the hearings and in the House Report, that [the Liability Reform Act] not curtail any preexisting remedies of tort victims."</p>
     <p>Post at 183. The truth is, however, that the legislative history reveals considerably less solicitude for tort plaintiffs' rights than the dissent suggests. As we have already noted, see n. 9, supra, the House Report expressly warned that, under the Liability Reform Act, "any claim against the government that is precluded by [FTCA] exceptions" -- which obviously would include claims barred by the exception for causes of action arising abroad -- "also is precluded against an employee." H.R.Rep. 100-700, at 6, U.S.Code Cong. &amp; Admin.News 1988, p. 5950 (emphasis added). This congressional intent was clearly implemented in § 5 of the Act, and we are obliged to give it effect.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>For the reasons set forth above, the judgment of the Court of Appeals is reversed, and the case is remanded for further proceedings consistent with this opinion</p>
     <p>So ordered.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>
@@ -117,7 +117,7 @@
       <p>"The'exclusive remedy' provision . . . is intended to substitute the United States as the solely permissible defendant in all common law tort actions against Federal employees who acted in the scope of employment. Therefore, suits against Federal employees are precluded even where the United States has a defense which prevents actual recovery. Thus, any claim against the government that is precluded by the exceptions set forth in Section 2680 of Title 28, U.S.C.[,] also is precluded against an employee in his or her estate."</p>
       <p>H.R.Rep. No. 100-700, p. 6 (1988), U.S.Code Cong. &amp; Admin. News 1988, pp. 5945, 5950 (emphasis added).</p>
       <p>The Ninth Circuit deemed the Report "internally inconsistent," 885 F.2d at 656, because of other language in the Report stating that, "[u]nder [the Liability Reform Act], no one who previously had the right to initiate a lawsuit will lose that right," H.R.Rep., supra, at 7, U.S.Code Cong. &amp; Admin.News 1988, p. 5951. The Ninth Circuit understood this passage to suggest that Congress did not intend to narrow existing rights of recovery. However, this language must be read in conjunction with a preceding sentence in the Report, which states that the Act "contains provisions to ensure that no one is unfairly affected by [the Act's] procedural ramifications" and that, where</p>
-      <p>"an injury has occurred before [the Act] is enacted, but no lawsuit has yet been filed . . . , the claimant will have to pursue a remedy against the United States, not against the employee."</p>
+      <p>"an injury has occurred before [the Act] is enacted, but no lawsuit has yet been filed . . ., the claimant will have to pursue a remedy against the United States, not against the employee."</p>
       <p>Ibid. When read in context, the passage relied on by the Ninth Circuit indicates that those with existing lawsuits would be permitted to continue to prosecute them by substituting the Government for the employee. The passage supports only the conclusion that the Liability Reform Act preserved the procedural right to initiate an action. It does not suggest that the Act did not narrow existing substantive rights of recovery.</p>
     </f>
     <f n="10"><a id="fn10" href="#nf10">Footnote 10</a>
@@ -151,14 +151,14 @@
       <p>This Gonzalez Act remedy protects both doctors and patients involved in malpractice claims arising out of the performance of health care services for American military</p>
       <n id="p177">177</n>
       <p>personnel and their dependents assigned to duty in foreign countries. The Federal Employees Liability Reform and Tort Compensation Act of 1988 (Liability Reform Act) that the Court construes today says nothing about this special situation; yet the effect of today's decision is to render subsection (f) of the Gonzalez Act virtually meaningless. There is nothing in the legislative history of the Liability Reform Act to indicate that Congress intended this result. On the contrary, there is strong evidence in both the legislative history, and in the language of §§ 2 and 5(b)(2)(B) of the statute, that Congress intended to preserve preexisting remedies. This point is clarified by examining the two statutes separately and in chronological order.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>The principal purpose of the Gonzalez Act is succinctly stated in its preamble. It was enacted</p>
       <p>"[t]o provide for an exclusive remedy against the United States in suits based upon medical malpractice on the part of medical personnel of the armed forces, the Defense Department, the Central Intelligence Agency, and the National Aeronautics and Space Administration, and for other purposes."</p>
       <p>90 Stat.1985. To achieve its purpose, Congress simply followed the precedent set by four previous amendments to the Federal Tort Claims Act (FTCA), none of which had curtailed any preexisting remedies. [Footnote 2/3]</p>
       <n id="p178">178</n>
       <p>For claims not covered by the FTCA, such as for those claims arising in foreign countries, the Gonzalez Act authorized medical personnel to be insured or indemnified by the Federal Government. See n. 1, supra. By that arrangement, Congress protected Government doctors from personal liability for services performed in the course of their overseas duties, and at the same time preserved the common law remedy for American victims of medical malpractice.</p>
       <p>The Court does not disagree with this interpretation of the Gonzalez Act, see ante at 170-171, or with the Court of Appeals' conclusion that respondent's claim was viable prior to the enactment of the Liability Reform Act in 1988. See ante at 172. Thus, the question is whether the Liability Reform Act withdrew the remedy for malpractice claims arising outside of the United States that had been expressly preserved by subsection (f) of the Gonzalez Act.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>The Liability Reform Act was a direct response to this Court's decision in Westfall v. Erwin, <a href="../us484/us484-0292.xml#p292">484 U. S. 292</a> (1988).</p>
       <n id="p179">179</n>
       <p>In Westfall, we resolved a conflict among the Courts of Appeals on the question whether conduct by federal officials must be discretionary in nature, as well as being within the scope of their employment, before the conduct is absolutely immune from state law tort liability. Id. at 295. We held unanimously that nondiscretionary conduct was not entitled to such immunity. Id. at 297.</p>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us442-0289.html" citation="442 U.S. 289" title="Babbitt v. United Farm Workers Nat'l Union">
   <opinion type="Opinions &amp; Dissents">
     <n id="p289">289</n>
-    <h>U.S. Supreme Court</h>
-    <h>Babbitt v. United Farm Workers Nat'l Union, <a href="./us442-0289.xml#p289">442 U.S. 289</a> (1979)</h>
-    <h>Babbitt v. United Farm Workers National Union</h>
-    <h>No. 78-225</h>
-    <h>Argued February 21, 1979</h>
-    <h>Decided June 5, 1979</h>
-    <h><a href="./us442-0289.xml#p289">442 U.S. 289</a></h>
-    <h>APPEAL FROM THE UNITED STATES DISTRICT COURT</h>
-    <h>FOR THE DISTRICT OF ARIZONA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Babbitt v. United Farm Workers Nat'l Union, <a href="./us442-0289.xml#p289">442 U.S. 289</a> (1979)</h1>
+    <h2>Babbitt v. United Farm Workers National Union</h2>
+    <h2>No. 78-225</h2>
+    <h4>Argued February 21, 1979</h4>
+    <h4>Decided June 5, 1979</h4>
+    <h2>APPEAL FROM THE UNITED STATES DISTRICT COURT</h2>
+    <h2>FOR THE DISTRICT OF ARIZONA</h2>
+    <h2>Syllabus</h2>
     <p>Appellees (a farmworkers' union, a union agent, farmworkers, and a union supporter) brought suit in Federal District Court in Arizona seeking a declaration of the unconstitutionality of various provisions of Arizona's farm labor statute, as well as of the entire statute, and an injunction against its enforcement. A three-judge court ruled unconstitutional on various grounds the provisions (1) specifying procedures for the election of employee bargaining representatives; (2) limiting union publicity directed at consumers of agricultural products; (3) imposing a criminal penalty for violations of the statute; (4) excusing an agricultural employer from furnishing a union any materials, information, time, or facilities to enable it to communicate with the employer's employees (access provision); and (5) governing arbitration of labor disputes, construed by the court as mandating compulsory arbitration. Deeming these provisions inseparable from the remainder of the statute, the court went on to declare the whole statute unconstitutional, and enjoined its enforcement.</p>
     <p>Held:</p>
     <p>1. The challenges to the provisions regulating election procedures, consumer publicity, and criminal sanctions present a case or controversy, but the challenges to the access and arbitration provisions are not justiciable. Pp. 297-305.</p>
@@ -33,7 +33,7 @@
     <n id="p292">292</n>
     <p>MR. JUSTICE WHITE delivered the opinion of the Court.</p>
     <p>In this case, we review the decision of a three-judge District Court setting aside as unconstitutional Arizona's farm labor statute. The District Court perceived particular constitutional problems with five provisions of the Act; deeming these provisions inseparable from the remainder of the Act, the court declared the entire Act unconstitutional and enjoined its enforcement. We conclude that the challenges to two of the provisions specifically invalidated did not present a case or controversy within the jurisdiction of a federal court, and hence should not have been adjudicated. Although the attacks on two other provisions were justiciable, we conclude that the District Court should have abstained from deciding the federal issues posed until material, unresolved questions of state law were determined by the Arizona courts. Finally, we believe that the District Court properly reached the merits of the fifth provision, but erred in invalidating it. Accordingly, we reverse the judgment of the District Court.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In 1972, the Arizona Legislature enacted a comprehensive scheme for the regulation of agricultural employment relations. Arizona Agricultural Employment Relations Act, Ariz Rev.Stat. Ann §§ 23-1381 to 23-1395 (Supp. 1978). The</p>
     <n id="p293">293</n>
     <p>statute designates procedures governing the election of employee bargaining representatives, establishes various rights of agricultural employers and employees, proscribes a range of employer and union practices, and establishes a civil and criminal enforcement scheme to ensure compliance with the substantive provisions of the Act.</p>
@@ -49,7 +49,7 @@
     <n id="p297">297</n>
     <p>reason of its inseparability and inoperability apart from the provisions found to be invalid." <a href="https://law.justia.com/cases/federal/district-courts/FSupp/449/449/1640339/">449 F. Supp. 449</a>, 47 (Ariz.1978).</p>
     <p>Appellants sought review by this Court of the judgment below. Because of substantial doubts regarding the justiciability of appellees' claims, we postponed consideration of our jurisdiction to review the merits. 439 U.S. 891 (1978). We now hold that, of the five provisions specifically invalidated by the District Court, [<a id="nf10" href="#fn10">Footnote 10</a>] only the sections pertaining to election of bargaining representatives, consumer publicity, and imposition of criminal penalties are susceptible of judicial resolution at this time. We further conclude that the District Court should have abstained from adjudicating appellees' challenge to the consumer publicity and criminal penalty provisions, although we think the constitutionality of the election procedures was properly considered even lacking a prior construction by the Arizona courts. We are unable to sustain the District Court's declaration, however, that the election procedures are facially unconstitutional.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>We address first the threshold question whether appellees have alleged a case or controversy within the meaning of Art. III of the Constitution or only abstract questions not currently justiciable by a federal court. The difference between an abstract question and a "case or controversy" is one of degree, of course, and is not discernible by any precise test.</p>
     <n id="p298">298</n>
     <p>See Maryland Casualty Co. v. Pacific Coal &amp; Oil Co., <a href="../us312/us312-0270.xml#p270">312 U. S. 270</a>, <a href="../us312/us312-0270.xml#p273">312 U. S. 273</a> (1941). The basic inquiry is whether the</p>
@@ -95,7 +95,7 @@
     <p>On the record before us, there is an insufficiently real and concrete dispute with respect to application of this provision. Appellees themselves acknowledge that, assuming an arguably unlawful strike will occur, employers may elect to pursue a range of responses other than seeking an injunction and agreeing to arbitrate. Moreover, appellees have never contested the constitutionality of the arbitration clause. They declare that</p>
     <p>"[t]he three-judge court below, on its own motion, found the binding arbitration provision of § 1393(b) violative of substantive due process and the Seventh Amendment."</p>
     <p>Brief for Appellees 71 n. 153. Appellees, instead, raised other challenges to the statute's civil enforcement scheme, which we do not consider on this appeal. See <a id="nf10" href="#fn10">n</a> 10, supra. It is clear, then, that any ruling on the compulsory arbitration provision would be wholly advisory.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Appellants contend that, even assuming any of appellees' claims are justiciable, the District Court should have abstained from adjudicating those claims until the Arizona courts might authoritatively construe the provisions at issue. We disagree that appellees' challenge to the statutory election procedures should first be submitted to the Arizona courts, but we think that the District Court should have abstained from considering the constitutionality of the criminal</p>
     <n id="p306">306</n>
     <p>penalty provision and the consumer publicity provision pending review by the state courts.</p>
@@ -137,7 +137,7 @@
     <p>labor practice. . . ."</p>
     <p>On its face, § 23-1385(C) would appear to qualify § 23-1385(b)(8), as the latter identifies "an unfair labor practice for a labor organization or it agents." Were the consumer publicity provision interpreted to intercept only those expressions embodying a threat of force, the issue of its constitutional validity would assume a character wholly different from the question posed by appellees' construction.</p>
     <p>Thus, we conclude that the District Court erred in entertaining all aspects of appellees' challenge to the consumer publicity section without the benefit of a construction thereof by the Arizona courts. We are sensitive to appellees' reluctance to repair to the Arizona courts after extensive litigation in the federal arena. We nevertheless hold that, in this case, the District Court should not have adjudicated substantial constitutional claims with respect to statutory provisions that are patently ambiguous on their face. [<a id="nf18" href="#fn18">Footnote 18</a>]</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>The merits of appellees' challenge to the statutory election procedures remain to be considered. Appellees contend, and the District Court concluded, that the delays assertedly attending the statutory election scheme and the technical limitations on who may vote in unit elections severely curtail appellees' freedom of association. This freedom, it is said, entails the liberty not only to join or sustain a labor union and collectively to express a position to an agricultural employer, but also to create or elect an organization entitled to invoke the statutory provision requiring an employer to bargain collectively with the certified representative of his employees.</p>
     <n id="p313">313</n>
     <p>As we see it, however, these general complaints that the statutory election procedures are ineffective are matters for the Arizona Legislature, and not the federal courts.</p>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us373-0472.html" citation="373 U.S. 472" title="Boesch v. Udall">
   <opinion type="Opinions &amp; Dissents">
     <n id="p472">472</n>
-    <h>U.S. Supreme Court</h>
-    <h>Boesch v. Udall, <a href="./us373-0472.xml#p472">373 U.S. 472</a> (1963)</h>
-    <h>Boesch v. Udall</h>
-    <h>No. 332</h>
-    <h>Argued February 25, 1963</h>
-    <h>Decided May 27, 1963</h>
-    <h><a href="./us373-0472.xml#p472">373 U.S. 472</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE DISTRICT OF COLUMBIA CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Boesch v. Udall, <a href="./us373-0472.xml#p472">373 U.S. 472</a> (1963)</h1>
+    <h2>Boesch v. Udall</h2>
+    <h2>No. 332</h2>
+    <h4>Argued February 25, 1963</h4>
+    <h4>Decided May 27, 1963</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE DISTRICT OF COLUMBIA CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>The Secretary of the Interior has authority to cancel in an administrative proceeding a noncompetitive lease of public lands issued under the provisions of the Mineral Leasing Act of 1920 in circumstances where such lease was granted in violation of the Act and the regulations promulgated thereunder -- i.e., he has power to correct administrative errors of the sort involved in this case by cancellation of leases in administrative proceedings timely instituted by competing applicants for the same land. Pp. <a href="./us373-0472.xml#p473">373 U. S. 473</a>-486.</p>
     <p>(a) The Secretary, under his general powers of management over the public lands, has authority to cancel such a lease administratively for invalidity at its inception, unless such authority was withdrawn by the Mineral Leasing Act. Pp. <a href="./us373-0472.xml#p476">373 U. S. 476</a>-478.</p>
     <p>(b) Both the language of the statute and its legislative history show that § 31 of the Mineral Leasing Act reaches only cancellations based on post-lease events, and leaves unaffected the Secretary's traditional administrative authority to cancel on the basis of pre-lease factors. Pp. <a href="./us373-0472.xml#p478">373 U. S. 478</a>-482.</p>
@@ -35,7 +35,7 @@
     <n id="p476">476</n>
     <p>of his lease was governed by the first paragraph of § 31, which requires a judicial proceeding.</p>
     <p>The Secretary, on the other hand, contends: (1) the provisions of § 31 as a whole apply only to events, whether in violation of lease terms, the Act, or the regulations, occurring after a lease has been issued; (2) the Secretary's authority to cancel on the basis of pre-lease events is found not in § 31, but in his general powers of management over lands in the public domain; (3) that authority remained unaffected by the Mineral Leasing Act.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>. We think that the Secretary, under his general powers of management over the public lands, had authority to cancel this lease administratively for invalidity at its inception, unless such authority was withdrawn by the Mineral Leasing Act. With respect to earlier statutes containing no express administrative cancellation authority, this Court, in Cameron v. United States, <a href="../us252/us252-0450.xml#p450">252 U. S. 450</a>, found such authority to exist. In there sustaining the Secretary's power to cancel administratively an invalid mining claim, the Court said (at p. <a href="../us252/us252-0450.xml#p461">252 U. S. 461</a>):</p>
     <p>"True, the mineral land law does not in itself confer such authority on the Land Department. Neither does it place the authority elsewhere. But this does not mean that the authority does not exist anywhere, for, in the absence of some direction to the contrary, the general statutory provisions before mentioned vest it in the Land Department."</p>
     <p>The statutory provisions referred to by the Court are those vesting the Secretary with general managerial powers over the public lands. [<a id="nf6" href="#fn6">Footnote 6</a>]</p>
@@ -47,7 +47,7 @@
     <n id="p478">478</n>
     <p>restrictions and continuing supervision by the Secretary. Thus, assignments and subleases must be approved by the Secretary, 30 U.S.C. § 187; he may direct complete suspension of operations on the land, 30 U.S.C. § 209, or require the lessee to operate under a cooperative or unit plan, 30 U.S.C. (Supp. IV, 1963), § 226(j); and he may prescribe, as he has, rules and regulations governing in minute detail all facets of the working of the land, 30 U.S.C. § 189; 30 CFR, pt. 221. In short, a mineral lease does not give the lessee anything approaching the full ownership of a fee patentee, nor does it convey an unencumbered estate in the minerals. [<a id="nf7" href="#fn7">Footnote 7</a>] Since the Secretary's connection with the land continues to subsist, he should have the power, in a proper case, to correct his own errors.</p>
     <p>The dispositive question in this case, therefore, is whether this general administrative power of cancellation was withdrawn by § 31 of the Mineral Leasing Act. To that question we now turn.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>We believe that both the statute on its face and the legislative history of the enactment show that § 31 reaches only cancellations based on post-lease events and</p>
     <n id="p479">479</n>
     <p>leaves unaffected the Secretary's traditional administrative authority to cancel on the basis of pre-lease factors.</p>
@@ -70,13 +70,13 @@
     <n id="p482">482</n>
     <p>should have given the Secretary authority to cancel administratively a prospecting permit (later a noncompetitive lease), § 26, 41 Stat. 448, on the basis of post-issuance events, but implicitly denied him that power in respect of pre-issuance occurrences.</p>
     <p>The fragmentary excerpts of legislative history relied on by petitioner do not suggest an opposite conclusion. The comment that "the Secretary of the Interior has no right or authority under the bill to cancel a lease" was made in the course of a discussion on the floor of the Senate about lands on which there were producing wells in existence, and it was assumed that there had been a post-issuance violation of the terms of the lease; [<a id="nf9" href="#fn9">Footnote 9</a>] the Secretary here claims no authority to cancel a lease in such a situation. The remark in the House debates that "there must be a showing made in court before the forfeiture can be secured" occurred in discussion relating to § 27 of the Act, [<a id="nf10" href="#fn10">Footnote 10</a>] which is, as we have seen, a partial exception to the general scheme of forfeitures.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>From the beginnings of the Mineral Leasing Act, the Secretary has conceived that he had the power drawn in question here, and Congress has never interfered with its exercise.</p>
     <p>The power was first invoked with respect to prospecting permits, as to which the statute authorized administrative cancellation only on the basis of post-issuance breach ( <a id="nf8" href="#fn8">note 8</a> supra, and accompanying text). See, e.g., Leach v. Cornell, No. A-1687 (unpublished departmental decision, Aug. 13, 1921); McCarthy v. Son, No. A-2398 (unpublished decision, Mar. 4, 1922); Murray v. McNabb, No. A-4412 (unpublished decision, Feb. 14,</p>
     <n id="p483">483</n>
     <p>1923); Moon v. Woodrow, 51 I.D. 118 (1925); Drake v. Simmons, No. A-16885 (unpublished decision, Oct. 28, 1932). Following the replacement of prospecting permits by noncompetitive leases in 1935 ( <a id="nf8" href="#fn8">note 8</a> supra), the same power was exercised with respect to them. See, e.g., Fenelon Boesche, No. A-21230 (unpublished decision, Feb. 21, 1938); Reay v. Lackie, 60 I.D. 29 (1947); Iola Morrow, No. A-27177 (unpublished decision, Oct. 10, 1955); R.S. Prows, 66 I.D. 19 (1959). [<a id="nf11" href="#fn11">Footnote 11</a>]</p>
     <p>Although the Act, as it relates to oil and gas leases, has been amended a dozen times in the last 40 years, [<a id="nf12" href="#fn12">Footnote 12</a>] Congress has never interfered with this long continued administrative practice. The conclusion is plain that Congress, if it did not ratify the Secretary's conduct, at least did not regard it as inconsistent with the Mineral Leasing Act. Cf. Ivanhoe Irrig. Dist. v. McCracken, <a href="../us357/us357-0275.xml#p275">357 U. S. 275</a>, <a href="../us357/us357-0275.xml#p293">357 U. S. 293</a>; Fleming v. Mohawk Co., <a href="../us331/us331-0111.xml#p111">331 U. S. 111</a>, <a href="../us331/us331-0111.xml#p116">331 U. S. 116</a>; Billings v. Truesdell, <a href="../us321/us321-0542.xml#p542">321 U. S. 542</a>, <a href="../us321/us321-0542.xml#p552">321 U. S. 552</a>-553.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>The present case is a peculiarly appropriate one for administrative determination in the first instance. At issue was simply the question whether petitioner's lease</p>
     <n id="p484">484</n>
     <p>offer was defective because it failed to include an adjoining 40-acre tract under application by another party, and this question had already been decided adversely to petitioner's position by the Secretary in a previous case interpreting the governing departmental regulations. Natalie Z. Shell, supra. Matters of this nature do not warrant initial submission to the judicial process. Indeed, the magnitude and complexity of the leasing program conducted by the Secretary [<a id="nf13" href="#fn13">Footnote 13</a>] make it likely that a seriously detrimental effect on the prompt and efficient administration of both the public domain and the federal courts might well be the consequence of a shift from the Secretary to the courts of the power to cancel such defective leases.</p>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us397-0301.html" citation="397 U.S. 301" title="United States v. Davis">
   <opinion type="Opinions &amp; Dissents">
     <n id="p301">301</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Davis, <a href="./us397-0301.xml#p301">397 U.S. 301</a> (1970)</h>
-    <h>United States v. Davis</h>
-    <h>No. 282</h>
-    <h>Argued January 12, 1970</h>
-    <h>Decided March 23, 1970</h>
-    <h><a href="./us397-0301.xml#p301">397 U.S. 301</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SIXTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Davis, <a href="./us397-0301.xml#p301">397 U.S. 301</a> (1970)</h1>
+    <h2>United States v. Davis</h2>
+    <h2>No. 282</h2>
+    <h4>Argued January 12, 1970</h4>
+    <h4>Decided March 23, 1970</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SIXTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Taxpayer organized a corporation with one Bradley, who received 500 shares of common stock (later sold to taxpayer and divided between two of his children), taxpayer and his wife each receiving 250 shares. To increase the company's working capital and qualify for an RFC loan, taxpayer bought 1,000 shares of preferred stock, at a par value of $25 per share, which the company (in accordance with the original understanding) redeemed when the loan was paid. Taxpayer treated the transaction for income tax purposes as a sale of preferred stock, resulting in no gain to him, since the stock's basis was $25,000. The Commissioner of Internal Revenue determined that the distribution of that sum was essentially equivalent to a dividend, and reportable as ordinary income under §§ 301 and 316 of the Internal Revenue Code of 1954. That determination was premised on the Commissioner's finding that, by reason of the rules of attribution in § 318(a) of the Code (under which a taxpayer is considered to own the stock owned by his spouse and children), the taxpayer here must be deemed the owner of all the company's stock immediately before and after the redemption. The taxpayer paid the resulting deficiency and brought this suit for a refund. The District Court ruled in the taxpayer's favor. The Court of Appeals affirmed, holding that the $25,000 received by the taxpayer was the final step in a course of action with a legitimate business purpose, and thus "not essentially equivalent to a dividend" within the meaning of § 302(b)(1) of the Code, which qualified the distribution as a "payment in exchange for the stock" and entitled it to capital gains, rather than ordinary income, treatment under § 302(a). Taxpayer contends that the attribution rules do not apply for the purpose of § 302(b)(1); that he should be considered to own only 25 percent of the corporation's common stock, and that the distribution would qualify under § 302(b)(1), since it was not proportionate to his stock interest, the fundamental test of dividend equivalency.</p>
     <p>Held:</p>
     <p>1. The attribution rules of § 318(a) apply to all of § 302, and, for the purpose of deciding whether the distribution here is</p>
@@ -28,7 +28,7 @@
     <p>The Court of Appeals held that the $25,000 received by taxpayer was "not essentially equivalent to a dividend" within the meaning of that phrase in § 302(b)(1) of the Code because the redemption was the final step in a course of action that had a legitimate business (as opposed to a tax avoidance) purpose. That holding represents only one of a variety of treatments accorded similar transactions under § 302(b)(1) in the circuit courts of appeals. [<a id="nf2" href="#fn2">Footnote 2</a>] We granted certiorari, 396 U.S. 815 (1969),</p>
     <n id="p304">304</n>
     <p>in order to resolve this recurring tax question involving stock redemptions by closely held corporations. We reverse.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The Internal Revenue Code of 1954 provides generally in §§ 301 and 316 for the tax treatment of distributions by a corporation to its shareholders; under those provisions, a distribution is includable in a taxpayer's gross income as a dividend out of earnings and profits to the extent such earnings exist. [<a id="nf3" href="#fn3">Footnote 3</a>] There are exceptions to the application of these general provisions, however, and among them are those found in § 302, involving certain distributions for redeemed stock. The basic question in this case is whether the $25,000 distribution by the corporation to taxpayer falls under that section -- more specifically, whether its legitimate business motivation qualifies the distribution under § 302(b)(1) of the Code.</p>
     <n id="p305">305</n>
     <p>Preliminarily, however, we must consider the relationship between 302(b)(1) and the rules regarding the attribution of stock ownership found in § 31(a) of the Code.</p>
@@ -40,7 +40,7 @@
     <n id="p307">307</n>
     <p>continued to be made specifically applicable to the entire section, and we believe that Congress intended that they be taken into account wherever ownership of stock was relevant.</p>
     <p>Indeed, it was necessary that the attribution rules apply to § 302(b)(1) unless they were to be effectively eliminated from consideration with regard to §§ 302(b)(2) and (3) also. For if a transaction failed to qualify under one of those sections solely because of the attribution rules, it would, according to taxpayer's argument, nonetheless qualify under § 302(b)(1). We cannot agree that Congress intended so to nullify its explicit directive. We conclude, therefore, that the attribution rules of § 318(a) do apply; and, for the purposes of deciding whether a distribution is "not essentially equivalent to a dividend" under § 302(b)(1), taxpayer must be deemed the owner of all 1,000 shares of the company's common stock.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>After application of the stock ownership attribution rules, this case, viewed most simply, involves a sole stockholder who causes part of his shares to be redeemed by the corporation. We conclude that such a redemption is always "essentially equivalent to a dividend" within the meaning of that phrase in § 302(b)(1), [<a id="nf8" href="#fn8">Footnote 8</a>] and therefore do not reach the Government's alternative argument that, in any event, the distribution should not, on the facts of this case, qualify for capital gains treatment. [<a id="nf9" href="#fn9">Footnote 9</a>]</p>
     <n id="p308">308</n>
     <p>The predecessor of § 302(b)(1) came into the tax law as § 201(d) of the Revenue Act of 1921, 42 Stat. 228: .</p>
@@ -60,7 +60,7 @@
     <p>S.Rep. No. 1622, 83d Cong., 2d Sess., 44. This explanation gives no indication that the purpose behind the redemption should affect the</p>
     <n id="p311">311</n>
     <p>result. [<a id="nf10" href="#fn10">Footnote 10</a>] Rather, in its more detailed technical evaluation of § 302(b)(1), the Senate Committee reported as follows:</p>
-    <p>"The test intended to be incorporated in the interpretation of paragraph (1) is, in general, that currently employed under section 115(g)(1) of the 1939 Code. Your committee further intends that, in applying this test for the future . . . , the inquiry will be devoted solely to the question of whether or not the transaction, by its nature, may properly be characterized as a sale of stock by the redeeming shareholder to the corporation. For this purpose, the presence or absence of earnings and profits of the corporation is not material. Example: X, the sole shareholder of a corporation having no earnings or profits, causes the corporation to redeem half of its stock. Paragraph (1) does not apply to such redemption notwithstanding the absence of earnings and profits."</p>
+    <p>"The test intended to be incorporated in the interpretation of paragraph (1) is, in general, that currently employed under section 115(g)(1) of the 1939 Code. Your committee further intends that, in applying this test for the future . . ., the inquiry will be devoted solely to the question of whether or not the transaction, by its nature, may properly be characterized as a sale of stock by the redeeming shareholder to the corporation. For this purpose, the presence or absence of earnings and profits of the corporation is not material. Example: X, the sole shareholder of a corporation having no earnings or profits, causes the corporation to redeem half of its stock. Paragraph (1) does not apply to such redemption notwithstanding the absence of earnings and profits."</p>
     <p>S.Rep. No. 1622, supra, at 234.</p>
     <p>The intended scope of § 302(b)(1), as revealed by this legislative history, is certainly not free from doubt. However, we agree with the Government that, by making the sole inquiry relevant for the future the narrow one whether the redemption could be characterized as a sale, Congress was apparently rejecting past court decisions that had also considered factors indicating the presence or absence of a tax avoidance motive. [<a id="nf11" href="#fn11">Footnote 11</a>] At least that is</p>
     <n id="p312">312</n>

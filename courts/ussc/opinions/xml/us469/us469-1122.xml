@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us469-1122.html" citation="469 U.S. 1122" title="GOULD, INC. v. ADAMS">
   <opinion type="Opinions &amp; Dissents">
     <n id="p1122">1122</n>
-    <h>U.S. Supreme Court</h>
-    <h>GOULD, INC. v. ADAMS , <a href="./us469-1122.xml#p1122">469 U.S. 1122</a> (1985)</h>
-    <h> <a href="./us469-1122.xml#p1122">469 U.S. 1122</a></h>
-    <h>GOULD, INC. and First Trust Company of St. Paul, Minnesota v. Robert J. ADAMS et al No. 84-384</h>
-    <h>Supreme Court of the United States</h>
-    <h>January 7, 1985</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>GOULD, INC. v. ADAMS, <a href="./us469-1122.xml#p1122">469 U.S. 1122</a> (1985)</h1>
+    <h2>GOULD, INC. and First Trust Company of St. Paul, Minnesota v. Robert J. ADAMS et al No. 84-384</h2>
+    <h2>Supreme Court of the United States</h2>
+    <h4>January 7, 1985</h4>
     <p>On petition for writ of certiorari to the United States Court of Appeals for the Third Circuit.</p>
     <p>The petition for a writ of certiorari is denied.</p>
     <p>Justice WHITE, with whom Justice BRENNAN and Justice POWELL join, dissenting.</p>
@@ -18,7 +18,7 @@
     <p>The Court of Appeals found that this amendment was timely despite our recent decision in DelCostello v. Teamsters, <a href="../us462/us462-0151.xml#p151">462 U.S. 151</a> (1983), where we held that the uniform national 6-month statute of limitations found in 10(b) of the National Labor Relations Act, 29 U.S.C. 160(b), was applicable by analogy in Vaca v. Sipes cases. <a href="http://cases.justia.com/us-court-of-appeals/F2/739/858/">739 F.2d 858</a> (1984). Instead, the Court of Appeals borrowed the 3-year statute of limitations in the Employee Retirement Income Security Act ( ERISA), 29 U.S.C. 1113(a)(2),* as "arguably more appropriate." <a href="http://cases.justia.com/us-court-of-appeals/F2/739/866/">739 F.2d 866</a>. The Court of Appeals reasoned that while speed and finality are paramount in most Vaca v. Sipes situations, these policies are less relevant in pension disputes because the effect of the dispute on day-to- day management of the business is slight. The absence of an immediate effect on any employees except those currently retired also makes it likely that employees will not be aware of their grievance immediately. In the end, the Court of Appeals concluded that this was a pension matter governed by the ERISA limitations period, not an ordinary Vaca v. Sipes claim covered by the rule we announced in DelCostello.</p>
     <p>The rule adopted below departs from the policy we recently announced in DelCostello of having a single statute of limitations for fair representation suits. Petitioners argue that the effect of this decision will be to reintroduce much of the uncertainty and lack of uniformity which marked the pre-DelCostello period. If the limitations period for a union's resolution of a wide variety of disputes turns on the nature of the issue, rather than the nature of the union's discharge of its duty of representation, petitioners assert that the DelCostello decision will have been rendered largely meaningless.</p>
     <p>I would grant certiorari to decide this important question involving the reach and application of the rule we announced in DelCostello.</p>
-    <h>Footnotes</h>
+    <h2>Footnotes</h2>
     <p>[Footnote *] In relevant part, that Act provides for a 3-year statute of limitations dating from "the earliest date (A) on which the plaintiff had actual knowledge of the breach." 29 U.S.C. 1113(a)(2).</p>
   </opinion>
 </case>

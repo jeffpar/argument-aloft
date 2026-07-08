@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us464-0879.html" citation="464 U.S. 879" title="HECKLER v. LOPEZ">
   <opinion type="Opinions &amp; Dissents">
     <n id="p879">879</n>
-    <h>U.S. Supreme Court</h>
-    <h>HECKLER v. LOPEZ , <a href="./us464-0879.xml#p879">464 U.S. 879</a> (1983)</h>
-    <h> <a href="./us464-0879.xml#p879">464 U.S. 879</a></h>
-    <h>Margaret M. HECKLER, Secretary of Health and Human Services v. Mario LOPEZ et al No. A-145</h>
-    <h>Supreme Court of the United States</h>
-    <h>October 11, 1983</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>HECKLER v. LOPEZ, <a href="./us464-0879.xml#p879">464 U.S. 879</a> (1983)</h1>
+    <h2>Margaret M. HECKLER, Secretary of Health and Human Services v. Mario LOPEZ et al No. A-145</h2>
+    <h2>Supreme Court of the United States</h2>
+    <h4>October 11, 1983</h4>
     <p>On Emergency Application for Stay.</p>
     <p>The emergency application to vacate the stay entered by Justice REHNQUIST is denied.</p>
     <p>Justice STEVENS with whom Justice BLACKMUN joins, dissenting in part.</p>
@@ -47,7 +47,7 @@
     <p>In sum, there is little question in my mind that the extraordinary circumstances necessary to stay the decision of the lower</p>
     <n id="p888">888</n>
     <p>court cannot be found in this case. Accordingly, I would grant the emergency application to vacate the stay, and allow the ordinary appeals process to proceed.</p>
-    <h>Footnotes</h>
+    <h2>Footnotes</h2>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>
       <p>Once the Secretary meets her burden of production, the burden of proof is on the recipient to prove he or she remains disabled.</p>
     </f>

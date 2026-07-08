@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us370-0195.html" citation="370 U.S. 195" title="Sinclair Refining Co. v. Atkinson">
   <opinion type="Opinions &amp; Dissents">
     <n id="p195">195</n>
-    <h>U.S. Supreme Court</h>
-    <h>Sinclair Refining Co. v. Atkinson, <a href="./us370-0195.xml#p195">370 U.S. 195</a> (1962)</h>
-    <h>Sinclair Refining Co. v. Atkinson</h>
-    <h>No. 434</h>
-    <h>Argued April 18, 1962</h>
-    <h>Decided June 18, 1962</h>
-    <h><a href="./us370-0195.xml#p195">370 U.S. 195</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SEVENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Sinclair Refining Co. v. Atkinson, <a href="./us370-0195.xml#p195">370 U.S. 195</a> (1962)</h1>
+    <h2>Sinclair Refining Co. v. Atkinson</h2>
+    <h2>No. 434</h2>
+    <h4>Argued April 18, 1962</h4>
+    <h4>Decided June 18, 1962</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SEVENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>This suit under § 301 (a) of the Labor Management Relations Act, 1947, was brought by an employer to enjoin work stoppages, strikes, peaceful picketing and similar activities by labor unions and their officers and members, allegedly in violation of a collective bargaining agreement containing a no-strike clause and providing a grievance procedure culminating in compulsory, final and binding arbitration of "any difference regarding wages, hours or working conditions."</p>
     <p>Held: such an injunction was barred by §4 of the Norris-LaGuardia Act, which, with exceptions not here material, bars federal courts from issuing injunctions "in any case involving or growing out of any labor dispute." Pp. <a href="./us370-0195.xml#p196">370 U. S. 196</a>-215.</p>
     <p>(a) This case involved a "labor dispute" within the meaning of the Norris-LaGuardia Act -- even if the alleged work stoppages and strikes constituted breaches of a collective bargaining agreement. Pp. <a href="./us370-0195.xml#p199">370 U. S. 199</a>-203.</p>
@@ -238,7 +238,7 @@
       <p>I believe that the Court has reached the wrong result because it has answered only the first of the questions which must be answered to decide this case. Of course § 301 of the Taft-Hartley Act did not, for purposes of</p>
       <n id="p216">216</n>
       <p>actions brought under it, "repeal" § 4 of the Norris-LaGuardia Act. But the two provisions do coexist, and it is clear beyond dispute that they apply to the case before us in apparently conflicting senses. Our duty, therefore, is to seek out that accommodation of the two which will give the fullest possible effect to the central purposes of both. Since such accommodation is possible, the Court's failure to follow that path leads it to a result -- not justified by either the language or history of § 301 -- which is wholly at odds with our earlier handling of directly analogous situations and which cannot be woven intelligibly into the broader fabric of related decisions.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>Section 301 of the Taft-Hartley Act, enacted in 1947, authorizes Federal District Courts to entertain "[s]uits for violation of contracts between an employer and a labor organization. . . ." It does not in terms address itself to the question of remedies. As we have construed § 301, it casts upon the District Courts a special responsibility to carry out contractual schemes for arbitration, by holding parties to that favored process for settlement when it has been contracted for, and by then regarding its result as conclusive. [Footnote 2/1] At the same time, § 4 of the Norris-LaGuardia Act, enacted in 1932, proscribes the issuance by federal courts of injunctions against various concerted activities "in any case involving or growing out of any labor dispute." But the enjoining of a strike over an arbitrable grievance may be indispensable to the effective enforcement of an arbitration scheme in a collective agreement; thus, the power to grant that injunctive remedy may be essential to the uncrippled performance of the Court's</p>
       <n id="p217">217</n>
       <p>function under § 301. [Footnote 2/2] Therefore, to hold that § 301 did not repeal § 4 is only a beginning. Having so held, the Court should -- but does not -- go on to consider how it is to deal with the surface conflict between the two statutory commands.</p>
@@ -247,7 +247,7 @@
       <p>These decisions refusing inflexible application of Norris-LaGuardia point to the necessity of a careful inquiry whether the surface conflict between § 301 and § 4 is irreconcilable in the setting before us: a strike over a</p>
       <n id="p218">218</n>
       <p>grievance which both parties have agreed to settle by binding arbitration. I think that there is nothing in either the language of § 301 or its history to prevent § 4's here being accommodated with it, just as § 4 was accommodated with the Railway Labor Act.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>It cannot be denied that the availability of the injunctive remedy in this setting is far more necessary to the accomplishment of the purposes of § 301 than it would be detrimental to those of Norris-LaGuardia. Chicago River makes this plain. We there held that the federal courts, notwithstanding Norris-LaGuardia, may enjoin strikes over disputes as to the interpretation of an existing collective agreement, since such strikes flout the duty imposed on the union by the Railway Labor Act to settle such "minor disputes" by submission to the National Railroad Adjustment Board, rather than by concerted economic pressures. We so held, even though the Railway Labor Act contains no express prohibition of strikes over "minor disputes," because we found it essential to the meaningful enforcement of that Act -- and because the existence of mandatory arbitration eliminated one of the problems to which Norris-LaGuardia was chiefly addressed, namely, that "the injunction strips labor of its primary weapon without substituting any reasonable alternative." [Footnote 2/4]</p>
       <p>That reasoning is applicable with equal force to an injunction under § 301 to enforce a union's contractual duty, also binding on the employer, to submit certain disputes to terminal arbitration and to refrain from striking over them. The federal law embodied in § 301 stresses the effective enforcement of such arbitration</p>
       <n id="p219">219</n>
@@ -255,7 +255,7 @@
       <p>In any event, I should have thought that the question was settled by Textile Workers v. Lincoln Mills, <a href="../us353/us353-0448.xml#p448">353 U. S. 448</a>. In that case, the Court held that the procedural requirements of Norris-LaGuardia's § 7, although in terms fully applicable, would not apply so as to frustrate a federal court's effective enforcement under § 301 of an employer's obligation to arbitrate. It is strange, I think, that § 7 of the Norris-LaGuardia Act need not be read, in the face of § 301, to impose inapt procedural restrictions upon the specific enforcement of an employer's</p>
       <n id="p220">220</n>
       <p>contractual duty to arbitrate; but that § 4 must be read, despite § 301, to preclude absolutely the issuance of an injunction against a strike which ignores a union's identical duty.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>The legislative history of § 301 affords the Court no refuge from the compelling effect of our prior decisions. That history shows that Congress considered and rejected</p>
       <p>"the advisability of repealing the Norris-LaGuardia Act insofar as suits based upon breach of collective bargaining agreements are concerned. . . . [Footnote 2/7]"</p>
       <p>But congressional rejection of outright repeal certainly does not imply hostility to an attempt by the courts to accommodate all statutes pertinent to the decision of cases before them. Again, the Court's conclusion stems from putting the wrong question. When it is appreciated that there is no question here of "repeal," but rather one of how the Court is to apply the whole statutory complex to the case before it, it becomes clear that the legislative history does not support the Court's conclusion. First, however, it seems appropriate to discuss, as the Court has done, the language of § 301 considered in light of other provisions of the statute.</p>
@@ -279,7 +279,7 @@
       <p>I emphasize that the question in this case is not whether the basic policy embodied in Norris-LaGuardia against the injunction of activities of labor unions has been abandoned in actions under § 301; the question is simply whether injunctions are barred against strikes over grievances</p>
       <n id="p225">225</n>
       <p>which have been routed to arbitration by a contract specifically enforceable against both the union and the employer. Enforced adherence to such arbitration commitments has emerged as a dominant motif in the developing federal law of collective bargaining agreements. But there is no general federal anti-strike policy; and, although a suit may be brought under § 301 against strikes which, while they are breaches of private contracts, do not threaten any additional public policy, in such cases, the anti-injunction policy of Norris-LaGuardia should prevail. Insistence upon strict application of Norris-LaGuardia to a strike over a dispute which both parties are bound by contract to arbitrate threatens a leading policy of our labor relations law. But there may be no such threat if the union has made no binding agreement to arbitrate, and, if the employer cannot be compelled to arbitrate, restraining the strike would cut deep into the core of Norris-LaGuardia. Therefore, unless both parties are so bound, limiting an employer's remedy to damages might well be appropriate. The susceptibility of particular concrete situations to this sort of analysis shows that rejection of an outright repeal of § 4 was wholly consistent with acceptance of a technique of accommodation which would lead, in some cases, to the granting of injunctions against concerted activity. Accommodation requires only that the anti-injunction policy of Norris-LaGuardia not intrude into areas, not vital to its ends, where injunctive relief is vital to a purpose of § 301; it does not require unconditional surrender.</p>
-      <h>IV</h>
+      <h2>IV</h2>
       <p>Today's decision cannot be fitted harmoniously into the pattern of prior decisions on analogous and related matters. Considered in their light, the decision leads inescapably to results consistent neither with any imaginable legislative purpose nor with sound judicial administration.</p>
       <n id="p226">226</n>
       <p>We have held that uniform doctrines of federal labor law are to be fashioned judicially in suits brought under § 301, Textile Workers v. Lincoln Mills, <a href="../us353/us353-0448.xml#p448">353 U. S. 448</a>; that actions based on collective agreements remain cognizable in state as well as federal courts, Charles Dowd Box Co. v. Courtney, <a href="../us368/us368-0502.xml#p502">368 U. S. 502</a>; and that state courts must apply federal law in such actions, Teamsters Local v. Lucas Flour Co., <a href="../us369/us369-0095.xml#p95">369 U. S. 95</a>.</p>
@@ -288,10 +288,10 @@
       <n id="p227">227</n>
       <p>of locale and susceptibility to process -- depending upon which States have anti-injunction statutes and how they construe them.</p>
       <p>I have not overlooked the possibility that removal of the state suit to the federal court might provide the answer to these difficulties. But, if § 4 is to be read literally, removal will not be allowed. [Footnote 2/21] And if it is allowed, the result once again is that § 301 will have had the strange consequence of taking away a contract remedy available before its enactment.</p>
-      <h>V</h>
+      <h2>V</h2>
       <p>The decision deals a crippling blow to the cause of grievance arbitration itself. Arbitration is so highly regarded as a proved technique for industrial peace that even the Norris-LaGuardia Act fosters its use. [Footnote 2/22] But since unions cannot be enjoined by a federal court from striking in open defiance of their undertakings to arbitrate, employers will pause long before committing themselves to obligations enforceable against them but not against their unions. The Court does not deny the desirability, indeed, necessity, for injunctive relief against a strike over an arbitrable grievance. [Footnote 2/23] The Court says only that federal courts may not grant such relief, that Congress must amend § 4 if those courts are to give substance to the congressional plan of encouraging peaceable settlements of grievances through arbitration.</p>
       <n id="p228">228</n>
-      <h>VI</h>
+      <h2>VI</h2>
       <p>A District Court entertaining an action under § 301 may not grant injunctive relief against concerted activity unless and until it decides that the case is one in which an injunction would be appropriate despite the Norris-LaGuardia Act. When a strike is sought to be enjoined because it is over a grievance which both parties are contractually bound to arbitrate, the District Court may issue no injunctive order until it first holds that the contract does have that effect; and the employer should be ordered to arbitrate, as a condition of his obtaining an injunction against the strike. Beyond this, the District Court must, of course, consider whether issuance of an injunction would be warranted under ordinary principles of equity -- whether breaches are occurring and will continue, or have been threatened and will be committed; whether they have caused or will cause irreparable injury to the employer; and whether the employer will suffer more from the denial of an injunction than will the union from its issuance.</p>
       <p>In the case before us, the union enjoys the contractual right to make the employer submit to final and binding arbitration of any employee grievance. At the same time, the union agrees that "[T]here shall be no strikes . . . for any cause which is or may be the subject of a grievance." [Footnote 2/24] The complaint alleged that the union had, over the past several months, repeatedly engaged in "quickie" strikes over arbitrable grievances. Under the contract and the complaint, then, the District Court might conclude that there have occurred and will continue to occur breaches of contract of a type to which the principle of accommodation applies. It follows that, rather than dismissing the complaint's request for an injunction, the</p>
       <n id="p229">229</n>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us422-0853.html" citation="422 U.S. 853" title="Herring v. New York">
   <opinion type="Opinions &amp; Dissents">
     <n id="p853">853</n>
-    <h>U.S. Supreme Court</h>
-    <h>Herring v. New York, <a href="./us422-0853.xml#p853">422 U.S. 853</a> (1975)</h>
-    <h>Herring v. New York</h>
-    <h>No. 73-6587</h>
-    <h>Argued February 26, 1975</h>
-    <h>Decided June 30, 1975</h>
-    <h><a href="./us422-0853.xml#p853">422 U.S. 853</a></h>
-    <h>APPEAL FROM THE APPELLATE DIVISION, SUPREME</h>
-    <h>COURT OF NEW YORK, SECOND JUDICIAL DEPARTMENT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Herring v. New York, <a href="./us422-0853.xml#p853">422 U.S. 853</a> (1975)</h1>
+    <h2>Herring v. New York</h2>
+    <h2>No. 73-6587</h2>
+    <h4>Argued February 26, 1975</h4>
+    <h4>Decided June 30, 1975</h4>
+    <h2>APPEAL FROM THE APPELLATE DIVISION, SUPREME</h2>
+    <h2>COURT OF NEW YORK, SECOND JUDICIAL DEPARTMENT</h2>
+    <h2>Syllabus</h2>
     <p>A total denial of the opportunity for final summation in a nonjury criminal trial as well as in a jury trial deprives the accused of the basic right to make his defense, and a New York statute granting every judge in a nonjury criminal trial the power to deny such summation before rendition of judgment denies the accused the assistance of counsel guaranteed by the Sixth Amendment of the Constitution as applied against the States by the Fourteenth. Pp. <a href="./us422-0853.xml#p856">422 U. S. 856</a>-865.</p>
     <p>43 App.Div.2d 816, 351 N.Y.S.2d 368, vacated and remanded.</p>
     <p>STEWART, J., delivered the opinion of the Court, in which DOUGLAS, BRENNAN, WHITE, MARSHALL, and POWELL, JJ., joined. REHNQUIST, J., filed a dissenting opinion, in which BURGER, C.J., and BLACKMUN, JJ., joined. post, p. <a href="./us422-0853.xml#p865">422 U. S. 865</a>.</p>
@@ -19,7 +19,7 @@
     <p>A New York law confers upon every judge in a nonjury criminal trial the power to deny counsel any opportunity to make a summation of the evidence before the rendition of judgment. N.Y.Crim.Proc.Law § 320.20(3)(c)</p>
     <n id="p854">854</n>
     <p>(1971). [<a id="nf1" href="#fn1">Footnote 1</a>] In the case before us, we are called upon to assess the constitutional validity of that law.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The appellant was brought to trial in the Supreme Court of Richmond County, N.Y., upon charges of attempted robbery in the first and third degrees and possession of a dangerous instrument. [<a id="nf2" href="#fn2">Footnote 2</a>] He waived a jury.</p>
     <p>The trial began on a Thursday, and, after certain preliminaries, the balance of that day and most of Friday were spent on the case for the prosecution. The complaining witness, Allen Braxton, testified that the appellant had approached him outside his home in a Staten Island housing project at about six o'clock on the evening of September 15, 1971, and asked for money. He said that, when he refused this demand, the appellant had swung a knife at him. On cross-examination, the appellant's lawyer attempted to impeach the credibility of this evidence by demonstrating inconsistencies between Braxton's testimony and other sworn statements that Braxton had previously made. [<a id="nf3" href="#fn3">Footnote 3</a>] The only other</p>
     <n id="p855">855</n>
@@ -29,7 +29,7 @@
     <n id="p856">856</n>
     <p>was Donald Taylor, who was the appellant's employer. He testified that he recalled seeing the appellant on the job premises at about 5:30 p.m. on the day of the alleged offense. The appellant then took the stand and denied Braxton's story. He said that he had been working on a refrigerator at his place of employment during the time of the alleged offense, and further testified that Braxton, a former neighbor, had threatened on several occasions to "fix" him for refusing to give Braxton money for wine and drugs.</p>
     <p>At the conclusion of the case for the defense, counsel made a motion to dismiss the robbery charges. This motion was denied. The appellant's lawyer then requested to "be heard somewhat on the facts." The trial judge replied: "Under the new statute, summation is discretionary, and I choose not to hear summations." The judge thereupon found the appellant guilty of attempted robbery in the third degree, and subsequently sentenced him to serve an indeterminate term of imprisonment with a maximum of four years. The conviction was affirmed without opinion by an intermediate appellate court. [<a id="nf5" href="#fn5">Footnote 5</a>] Leave to appeal to the New York Court of Appeals was denied. An appeal was then brought here, and we noted probable jurisdiction. 419 U.S. 893.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The Sixth Amendment guarantees to the accused in all criminal prosecutions the rights to a "speedy and</p>
     <n id="p857">857</n>
     <p>public trial," to an "impartial jury," to notice of the "nature and cause of the accusation," to be "confronted" with opposing witnesses, to "compulsory process" for defense witnesses, and to the "Assistance of Counsel." [<a id="nf6" href="#fn6">Footnote 6</a>] These fundamental rights are extended to a defendant in a state criminal prosecution through the Fourteenth Amendment. [<a id="nf7" href="#fn7">Footnote 7</a>]</p>
@@ -128,13 +128,13 @@
     <f n="18"><a id="fn18" href="#nf18">Footnote 18</a>
       <p>A defendant who has exercised the right to conduct his own defense has, of course, the same right to make a closing argument. See Faretta v. California, ante p. <a href="./us422-0806.xml#p806">422 U. S. 806</a>.</p>
       <p>MR. JUSTICE REHNQUIST, with whom THE CHIEF JUSTICE and MR. JUSTICE BLACKMUN join, dissenting.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>The Court has made of this a very curious case. What began as a constitutional challenge to a statute which gives trial courts discretion as to whether "parties" may deliver summations has been transformed into an exploration of the right to counsel -- although no one doubts that appellant was competently represented throughout the proceedings which resulted in his conviction. Today's opinion, in deriving from the right to counsel further rights relating to the conduct of a trial, expands the earlier holdings in Ferguson v. Georgia, <a href="../us365/us365-0570.xml#p570">365 U. S. 570</a> (1961), and Brooks v. Tennessee, <a href="../us406/us406-0605.xml#p605">406 U. S. 605</a> (1972). In each of these three instances, one must presume, in view of the Court's analytical approach, that, regardless of the intrinsic importance of the rights involved, they are enforced only because the accused has a prior right to the assistance of a third party in the preparation and presentation of his defense.</p>
       <p>I think that, in each instance, a statement from Mr. Justice Frankfurter's separate opinion in Ferguson is a propos: "This is not a right to counsel case." 365 U.S. at <a href="../us365/us365-0570.xml#p599">365 U. S. 599</a>. In the present case, the crucial fact is not that counsel wishes to present a summation of the evidence, but that the defendant -- whether through counsel or otherwise -- wishes to make such a summation. Of course,</p>
       <n id="p866">866</n>
       <p>I do at suggest that the rights enforced in these cases are without basis, at least in particular cases, in the Due Process Clause of the Fourteenth Amendment. Cf. id. at <a href="../us365/us365-0570.xml#p598">365 U. S. 598</a>-601 (opinion of Frankfurter, J.); Brooks v. Tennessee, supra, at <a href="../us406/us406-0605.xml#p618">406 U. S. 618</a> (REHNQUIST, J., dissenting). But I do suggest that the Court's analytical framework, and its resulting prophylactic rule, are wrongly employed to decide this case.</p>
       <p>I would have thought that, in Faretta v. California, ante, p. <a href="./us422-0806.xml#p806">422 U. S. 806</a>, the Court had recanted its approach in Ferguson and Brooks. In Faretta, the Court concluded that it is the Sixth Amendment, and not the Right-to-Counsel Clause of that Amendment, which "constitutionalizes the right in an adversary criminal trial to make a defense as we know it." Ante at <a href="./us422-0806.xml#p818">422 U. S. 818</a>. Yet, in the present case, we are informed that it is the Right-to-Counsel Clause which constitutionalizes the right to present a defense "in accord with the traditions of the adversary factfinding process." Ante at <a href="./us422-0853.xml#p857">422 U. S. 857</a>. Not being content merely to contradict Faretta by holding that entitlement to the traditions of our judicial system depends upon the right to retain counsel, the Court also states that, "of course, the same right to make a closing argument" is available to those who choose not to exercise their right to counsel. Ante at <a href="./us422-0853.xml#p864">422 U. S. 864</a> n. 18. To complete the confusion, the Court does not explain the latter ipse dixit, but does cite one case -- Faretta.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>The Due Process Clause of the Fourteenth Amendment has long been recognized as assuring "fundamental fairness" in state criminal proceedings. See, e.g., Lisenba v. California, <a href="../us314/us314-0219.xml#p219">314 U. S. 219</a>, <a href="../us314/us314-0219.xml#p236">314 U. S. 236</a> (1941); Moore v. Dempsey, <a href="../us261/us261-0086.xml#p86">261 U. S. 86</a>, <a href="../us261/us261-0086.xml#p90">261 U. S. 90</a>-91 (1923). Throughout the history of the Clause, we have generally considered the question of</p>
       <n id="p867">867</n>
       <p>fairness on a case-by-case basis, reflecting the fact that the elements of fairness vary with the circumstances of particular proceedings. As the Court observed in Snyder v. Massachusetts, <a href="../us291/us291-0097.xml#p97">291 U. S. 97</a>, <a href="../us291/us291-0097.xml#p116">291 U. S. 116</a>-117 (1934):</p>
@@ -149,7 +149,7 @@
       <p>to believe the victim, despite the inconsistencies in his testimony, or the defendant. [Footnote 2/1] The judge had previously permitted appellant's counsel to summarize the evidence, on the occasion of the motion to dismiss at the close of the State's case. That appellant's counsel had considerable faith in the judge's familiarity with, and ability to organize, the evidence is shown by the transcript of that earlier summation:</p>
       <p>"[MR. ADAMS:] Do you want to hear me extensively on that, Judge? Or I have a witness here, I can go on, or would you rather hear me on some lengthy argument subsequently, Judge?"</p>
       <p>"THE COURT: I will hear anything you have to say."</p>
-      <p>"MR. ADAMS: All right. Judge, I believe here that, as a matter of law ,we have a doubt here. Firstly, on this first witness of the prosecution here, Judge. There were numerous inconsistencies, and I will not bore the Court reading that. Of course, the Court has copious notes on it, and I am sure it is very fresh in the Court's mind. But on top of that, Judge, we have a questionable complainant, with a questionable way of how it happened, no witness other than this complainant."</p>
+      <p>"MR. ADAMS: All right. Judge, I believe here that, as a matter of law,we have a doubt here. Firstly, on this first witness of the prosecution here, Judge. There were numerous inconsistencies, and I will not bore the Court reading that. Of course, the Court has copious notes on it, and I am sure it is very fresh in the Court's mind. But on top of that, Judge, we have a questionable complainant, with a questionable way of how it happened, no witness other than this complainant."</p>
       <p>"An officer who checked out this particular matter testified here and said that the man was working at that time. A definite denial by the defendant. And I believe that, as a matter of law, Judge, there is a reasonable doubt here."</p>
       <p>App. 66 (emphasis added). Similarly, when the opportunity to summarize was</p>
       <n id="p870">870</n>

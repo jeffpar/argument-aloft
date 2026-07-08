@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us468-0981.html" citation="468 U.S. 981" title="Massachusetts v. Sheppard">
   <opinion type="Opinions &amp; Dissents">
     <n id="p981">981</n>
-    <h>U.S. Supreme Court</h>
-    <h>Massachusetts v. Sheppard, <a href="./us468-0981.xml#p981">468 U.S. 981</a> (1984)</h>
-    <h>Massachusetts v. Sheppard</h>
-    <h>No. 82-963</h>
-    <h>Argued January 17, 1984</h>
-    <h>Decided July 5, 1984</h>
-    <h><a href="./us468-0981.xml#p981">468 U.S. 981</a></h>
-    <h>CERTIORARI TO THE SUPREME JUDICIAL COURT OF</h>
-    <h>MASSACHUSETTS</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Massachusetts v. Sheppard, <a href="./us468-0981.xml#p981">468 U.S. 981</a> (1984)</h1>
+    <h2>Massachusetts v. Sheppard</h2>
+    <h2>No. 82-963</h2>
+    <h4>Argued January 17, 1984</h4>
+    <h4>Decided July 5, 1984</h4>
+    <h2>CERTIORARI TO THE SUPREME JUDICIAL COURT OF</h2>
+    <h2>MASSACHUSETTS</h2>
+    <h2>Syllabus</h2>
     <p>On the basis of evidence gathered in the investigation of a homicide in the Roxbury section of Boston, a police detective drafted an affidavit to support an application for an arrest warrant and a search warrant authorizing the search of respondent's residence. The affidavit stated that the police wished to search for certain described items, including clothing of the victim and a blunt instrument that might have been used on the victim. The affidavit was reviewed and approved by the District Attorney. Because it was Sunday, the local court was closed, and the police had a difficult time finding a warrant application form. The detective finally found a warrant form previously used in another district to search for controlled substances. After making some changes in the form, the detective presented it and the affidavit to a judge at his residence, informing him that the warrant form might need to be further changed. Concluding that the affidavit established probable cause to search respondent's residence and telling the detective that the necessary changes in the warrant form would be made, the judge made some changes, but did not change the substantive portion, which continued to authorize a search for controlled substances, nor did he alter the form so as to incorporate the affidavit. The judge then signed the warrant and returned it and the affidavit to the detective, informing him that the warrant was sufficient authority in form and content to carry out the requested search. The ensuing search of respondent's residence by the detective and other police officers was limited to the items listed in the affidavit, and several incriminating pieces of evidence were discovered. Thereafter, respondent was charged with first-degree murder. At a pretrial suppression hearing, the trial judge ruled that notwithstanding the warrant was defective under the Fourth Amendment in that it did not particularly describe the items to be seized, the incriminating evidence could be admitted because the police had acted in good faith in executing what they reasonably thought was a valid warrant. At the subsequent trial, respondent was convicted. The Massachusetts Supreme Judicial Court held that the evidence should have been suppressed.</p>
     <p>Held: Federal law does not require the exclusion of the disputed evidence. Pp. <a href="./us468-0981.xml#p987">468 U. S. 987</a>-991.</p>
     <p>(a) The exclusionary rule should not be applied when the officer conducting the search acted in objectively reasonable reliance on a warrant</p>
@@ -27,7 +27,7 @@
     <p>This case involves the application of the rules articulated today in United States v. Leon, ante p. <a href="./us468-0897.xml#p897">468 U. S. 897</a>, to a situation in</p>
     <n id="p984">984</n>
     <p>which police officers seize items pursuant to a warrant subsequently invalidated because of a technical error on the part of the issuing judge.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The badly burned body of Sandra Boulware was discovered in a vacant lot in the Roxbury section of Boston at approximately 5 a.m., Saturday, May 5, 1979. An autopsy revealed that Boulware had died of multiple compound skull fractures caused by blows to the head. After a brief investigation, the police decided to question one of the victim's boyfriends, Osborne Sheppard. Sheppard told the police that he had last seen the victim on Tuesday night, and that he had been at a local gaming house (where card games were played) from 9 p.m. Friday until 5 a.m. Saturday. He identified several people who would be willing to substantiate the latter claim.</p>
     <p>By interviewing the people Sheppard had said were at the gaming house on Friday night, the police learned that, although Sheppard was at the gaming house that night, he had borrowed an automobile at about 3 o'clock Saturday morning in order to give two men a ride home. Even though the trip normally took only 15 minutes, Sheppard did not return with the car until nearly 5 a.m.</p>
     <p>On Sunday morning, police officers visited the owner of the car Sheppard had borrowed. He consented to an inspection of the vehicle. Bloodstains and pieces of hair were found on the rear bumper and within the trunk compartment. In addition, the officers noticed strands of wire in the trunk similar to wire strands found on and near the body of the victim. The owner of the car told the officers that, when he last used the car on Friday night, shortly before Sheppard borrowed it, he had placed articles in the trunk and had not noticed any stains on the bumper or in the trunk.</p>
@@ -45,7 +45,7 @@
     <p>On appeal, Sheppard argued that the evidence obtained pursuant to the defective warrant should have been suppressed. The Supreme Judicial Court of Massachusetts agreed. A plurality of the justices concluded that, although</p>
     <p>"the police conducted the search in a good faith belief, reasonably held, that the search was lawful and authorized by the warrant issued by the judge,"</p>
     <p>387 Mass., at 503, 441 N.E.2d at 733, the evidence had to be excluded because this Court had not recognized a good faith exception to the exclusionary rule. Two justices combined in a separate concurrence to stress their rejection of the good faith exception, and one justice dissented, contending that, since exclusion of the evidence in this case would not serve to deter any police misconduct, the evidence should be admitted. We granted certiorari and set the case for argument in conjunction with United States v. Leon, ante, p. <a href="./us468-0897.xml#p897">468 U. S. 897</a>. 463 U.S. 1205 (1983).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Having already decided that the exclusionary rule should not be applied when the officer conducting the search acted in</p>
     <n id="p988">988</n>
     <p>objectively reasonable reliance on a warrant issued by a detached and neutral magistrate that subsequently is determined to be invalid, ante at <a href="./us468-0897.xml#p922">468 U. S. 922</a>-923, the sole issue before us in this case is whether the officers reasonably believed that the search they conducted was authorized by a valid warrant. [<a id="nf5" href="#fn5">Footnote 5</a>] There is no dispute that the officers believed that the warrant authorized the search that they conducted. Thus, the only question is whether there was an objectively reasonable basis for the officers' mistaken belief. Both the trial court, App. 35a, and a majority of the Supreme Judicial Court, 387 Mass., at 503, 441 N.E.2d at 733; id. at 524-525, 441 N.E.2d at 745 (Lynch, J., dissenting), concluded that there was. We agree.</p>

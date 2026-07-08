@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us386-0300.html" citation="386 U.S. 300" title="McCray v. Illinois">
   <opinion type="Opinions &amp; Dissents">
     <n id="p300">300</n>
-    <h>U.S. Supreme Court</h>
-    <h>McCray v. Illinois, <a href="./us386-0300.xml#p300">386 U.S. 300</a> (1967)</h>
-    <h>McCray v. Illinois</h>
-    <h>No. 159</h>
-    <h>Argued January 10-11, 1967</h>
-    <h>Decided March 20, 1967</h>
-    <h><a href="./us386-0300.xml#p300">386 U.S. 300</a></h>
-    <h>CERTIORARI TO THE SUPREME COURT OF ILLINOIS</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>McCray v. Illinois, <a href="./us386-0300.xml#p300">386 U.S. 300</a> (1967)</h1>
+    <h2>McCray v. Illinois</h2>
+    <h2>No. 159</h2>
+    <h4>Argued January 10-11, 1967</h4>
+    <h4>Decided March 20, 1967</h4>
+    <h2>CERTIORARI TO THE SUPREME COURT OF ILLINOIS</h2>
+    <h2>Syllabus</h2>
     <p>Following receipt of information from an informer, two Chicago policemen made a warrantless arrest of the petitioner for possessing narcotics. At the pretrial hearing on petitioner's motion to suppress the evidence which was found on his person, the officers testified that: the informant had told them that petitioner "was selling narcotics and had narcotics on his person" and the area where petitioner could then be found; they found him in that vicinity; after pointing petitioner out, the informant departed; they arrested petitioner and searched him in their vehicle and found the narcotics on his person. The officers also testified that, during the one to two years, respectively, that they had known the informant, he had frequently furnished accurate information about narcotics activities which had led to many convictions. Petitioner requested the informant's identity, and the State, relying on the testimonial privilege under Illinois law against such disclosure, objected. The State's objections were sustained, petitioner's motion to suppress was denied, and he was thereafter convicted upon the basis of the evidence seized. The judgment of conviction was affirmed by the State Supreme Court, which held the arrest lawful and not vitiated by the application of the "informer's privilege."</p>
     <p>Held:</p>
     <p>1. Upon the basis of the circumstances related by the officers, they had probable cause to make the arrest and the search incidental thereto. P. <a href="./us386-0300.xml#p304">386 U. S. 304</a>.</p>
@@ -56,7 +56,7 @@
     <p>informant be identified or even produced. It seems to us that the same approach is equally sufficient where the search was without a warrant, that is to say, that it should rest entirely with the judge who hears the motion to suppress to decide whether he needs such disclosure as to the informant in order to decide whether the officer is a believable witness."</p>
     <p>42 N.J. at 385-388, 201 A.2d at 435.</p>
     <p>What Illinois and her sister States have done is no more than recognize a well established testimonial privilege, long familiar to the law of evidence. Professor Wigmore, not known as an enthusiastic advocate of testimonial privileges generally, [<a id="nf8" href="#fn8">Footnote 8</a>] has described that privilege in these words:</p>
-    <p>"A genuine privilege, on . . . fundamental principle . . . , must be recognized for the identity of persons supplying the government with information concerning the commission of crimes. Communications of this kind ought to receive encouragement. They are discouraged if the informer's identity is disclosed. Whether an informer is motivated by good citizenship, promise of leniency or prospect of pecuniary reward, he will usually condition his cooperation on an assurance of anonymity -- to protect himself and his family from harm, to preclude adverse social reactions, and to avoid the risk of defamation or malicious prosecution actions against him. The government also has an interest in nondisclosure of the identity of its informers. Law enforcement officers often depend upon professional informers to furnish them with a flow of information about criminal activities. Revelation of the dual role played by such persons ends their usefulness</p>
+    <p>"A genuine privilege, on . . . fundamental principle . . ., must be recognized for the identity of persons supplying the government with information concerning the commission of crimes. Communications of this kind ought to receive encouragement. They are discouraged if the informer's identity is disclosed. Whether an informer is motivated by good citizenship, promise of leniency or prospect of pecuniary reward, he will usually condition his cooperation on an assurance of anonymity -- to protect himself and his family from harm, to preclude adverse social reactions, and to avoid the risk of defamation or malicious prosecution actions against him. The government also has an interest in nondisclosure of the identity of its informers. Law enforcement officers often depend upon professional informers to furnish them with a flow of information about criminal activities. Revelation of the dual role played by such persons ends their usefulness</p>
     <n id="p309">309</n>
     <p>to the government and discourages others from entering into a like relationship."</p>
     <p>"That the government has this privilege is well established, and its soundness cannot be questioned."</p>
@@ -72,7 +72,7 @@
     <p>"* * * *"</p>
     <p>"We believe that no fixed rule with respect to disclosure is justifiable. The problem is one that calls for balancing the public interest in protecting the flow of information against the individual's right to prepare his defense. Whether a proper balance renders nondisclosure erroneous must depend on the particular circumstances of each case, taking into consideration the crime charged, the possible defenses, the possible significance of the informer's testimony, and other relevant factors."</p>
     <p>353 U.S. at <a href="../us353/us353-0053.xml#p60">353 U. S. 60</a>-61, 62. (Footnotes omitted.)</p>
-    <p>The Court's opinion then carefully reviewed the particular circumstances of Roviaro's trial, pointing out that the informer's "possible testimony was highly relevant . . . ," that he "might have disclosed an entrapment . . . ," "might have thrown doubt upon petitioner's identity or on the identity of the package . . . ," "might have testified to petitioner's possible lack of knowledge of the contents of the package that he transported' . . . ," and that the "informer was the sole participant, other</p>
+    <p>The Court's opinion then carefully reviewed the particular circumstances of Roviaro's trial, pointing out that the informer's "possible testimony was highly relevant . . .," that he "might have disclosed an entrapment . . .," "might have thrown doubt upon petitioner's identity or on the identity of the package . . .," "might have testified to petitioner's possible lack of knowledge of the contents of the package that he transported' . . .," and that the "informer was the sole participant, other</p>
     <p>Page 386 U. S. 311</p>
     <p>than the accused, in the transaction charged." 353 U.S. at <a href="../us353/us353-0053.xml#p63">353 U. S. 63</a>-64. The Court concluded</p>
     <p>"that, under these circumstances, the trial court committed prejudicial error in permitting the Government to withhold the identity of its undercover employee in the face of repeated demands by the accused for his disclosure."</p>

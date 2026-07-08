@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us587-17-1077.html" citation="587 U.S. 17-1077" title="Lorenzo v. Securities and Exchange Commission">
   <opinion type="Opinion" author="Breyer">
     <p>NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 17–1077</p>
-    <p>_________________</p>
     <p>FRANCIS V. LORENZO, PETITIONER v. SECURITIES AND EXCHANGE COMMISSION</p>
     <p>on writ of certiorari to the united states court of appeals for the district of columbia circuit</p>
     <p>[March 27, 2019]</p>
     <p>Justice Breyer delivered the opinion of the Court.</p>
     <p>Securities and Exchange Commission Rule 10b–5 makes it unlawful:</p>
     <p>“(a) To employ any device, scheme, or artifice to defraud,</p>
-    <p>“(b) To make any untrue statement of a material fact . . . , or</p>
+    <p>“(b) To make any untrue statement of a material fact . . ., or</p>
     <p>“(c) To engage in any act, practice, or course of business which operates or would operate as a fraud or deceit . . .</p>
     <p>in connection with the purchase or sale of any security.” 17 CFR §240.10b–5 (2018).</p>
     <p>In Janus Capital Group, Inc. v. First Derivative Traders, <a href="../us564/us564-0135.xml#p135">564 U.S. 135</a> (2011), we examined the second of these provisions, Rule 10b–5(b), which forbids the “mak[ing]” of “any untrue statement of a material fact.” We held that the “maker of a statement is the person or entity with ultimate authority over the statement, including its content and whether and how to communicate it.” Id., at 142 (emphasis added). We said that “[w]ithout control, a person or entity can merely suggest what to say, not ‘make’ a statement in its own right.” Ibid. And we illustrated our holding with an analogy: “[W]hen a speechwriter drafts a speech, the content is entirely within the control of the person who delivers it. And it is the speaker who takes credit—or blame—for what is ultimately said.” Id., at 143. On the facts of Janus, this meant that an investment adviser who had merely “participat[ed] in the drafting of a false statement” “made” by another could not be held liable in a private action under subsection (b) of Rule 10b–5. Id., at 145.</p>
@@ -75,13 +74,11 @@
     <p>“(3) to engage in any transaction, practice, or course of business which operates or would operate as a fraud or deceit upon the purchaser.”</p>
     <p>15 U. S. C. §78t</p>
     <p>“(e) Prosecution of persons who aid and abet violations</p>
-    <p>“For purposes of any action brought by the Commission . . . , any person that knowingly or recklessly provides substantial assistance to another person in violation of a provision of this chapter, or of any rule or regulation issued under this chapter, shall be deemed in violation of such provision to the same extent as the person to whom such assistance is provided.</p>
+    <p>“For purposes of any action brought by the Commission . . ., any person that knowingly or recklessly provides substantial assistance to another person in violation of a provision of this chapter, or of any rule or regulation issued under this chapter, shall be deemed in violation of such provision to the same extent as the person to whom such assistance is provided.</p>
   </opinion>
   <opinion type="Dissent" author="Thomas">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 17–1077</p>
-    <p>_________________</p>
     <p>FRANCIS V. LORENZO, PETITIONER v. SECURITIES AND EXCHANGE COMMISSION</p>
     <p>on writ of certiorari to the united states court of appeals for the district of columbia circuit</p>
     <p>[March 27, 2019]</p>
@@ -98,7 +95,7 @@
     <p>A</p>
     <p>I begin with the text. The Court of Appeals held that Lorenzo violated §10(b) of the 1934 Act and Rules 10b–5(a) and (c). In relevant part, §10(b) makes it unlawful for a person, in connection with the purchase or sale of a security, “[t]o use or employ . . . any manipulative or deceptive device or contrivance” in contravention of an SEC rule. 15 U. S. C. §78j(b). Rule 10b–5 was promulgated under this statutory authority. That Rule makes it unlawful, in connection with the purchase or sale of any security,</p>
     <p>“(a) To employ any device, scheme, or artifice to defraud,</p>
-    <p>“(b) To make any untrue statement of a material fact . . . , or</p>
+    <p>“(b) To make any untrue statement of a material fact . . ., or</p>
     <p>“(c) To engage in any act, practice, or course of business which operates or would operate as a fraud or deceit . . . .” 17 CFR §240.10b–5.</p>
     <p>The Court of Appeals also held that Lorenzo violated §17(a)(1) of the 1933 Act. Similar to Rule 10b–5, §17(a) of the Act provides that it is unlawful, in connection with the offer or sale of a security,</p>
     <p>“(1) to employ any device, scheme, or artifice to defraud, or</p>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us421-0289.html" citation="421 U.S. 289" title="Hill v. Stone">
   <opinion type="Opinions &amp; Dissents">
     <n id="p289">289</n>
-    <h>U.S. Supreme Court</h>
-    <h>Hill v. Stone, <a href="./us421-0289.xml#p289">421 U.S. 289</a> (1975)</h>
-    <h>Hill v. Stone</h>
-    <h>No. 73-1723</h>
-    <h>Argued January 14, 1975</h>
-    <h>Decided May 12, 1975</h>
-    <h><a href="./us421-0289.xml#p289">421 U.S. 289</a></h>
-    <h>APPEAL FROM THE UNITED STATES DISTRICT COURT</h>
-    <h>FOR THE NORTHERN DISTRICT OF TEXAS</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Hill v. Stone, <a href="./us421-0289.xml#p289">421 U.S. 289</a> (1975)</h1>
+    <h2>Hill v. Stone</h2>
+    <h4>No. 73-1723</h4>
+    <h4>Argued January 14, 1975</h4>
+    <h4>Decided May 12, 1975</h4>
+    <h2>APPEAL FROM THE UNITED STATES DISTRICT COURT</h2>
+    <h2>FOR THE NORTHERN DISTRICT OF TEXAS</h2>
+    <h2>Syllabus</h2>
     <p>After a bond authorization election to finance construction of a city library was defeated in Fort Worth, Tex., appellee Fort Worth residents brought an action in the Federal District Court challenging the provisions of the State Constitution, Election Code, and city charter limiting the right to vote in city bond issue elections to persons who have "rendered" or listed real, mixed, or personal property for taxation in the election district in the year of the election. A three-judge District Court held that this restriction on suffrage did not serve any compelling state interest, and therefore violated the Equal Protection Clause of the Fourteenth Amendment.</p>
     <p>Held:</p>
     <p>1. The Texas rendering requirement erects a classification that impermissibly disfranchises persons otherwise qualified to vote, solely because they have not rendered some property for taxation. Pp. <a href="./us421-0289.xml#p294">421 U. S. 294</a>-301.</p>
@@ -26,7 +26,7 @@
     <p>Appellees, residents of Fort Worth, Tex., brought this action to challenge the state and city laws limiting the</p>
     <n id="p291">291</n>
     <p>franchise in city bond elections to persons who have made available for taxation some real, mixed, or personal property. A three-judge District Court held that this restriction on suffrage did not serve any compelling state interest, and therefore violated the Equal Protection Clause of the Fourteenth Amendment. Stone v. Stovall, <a href="https://law.justia.com/cases/federal/district-courts/FSupp/377/1016/2343386/">377 F. Supp. 1016</a> (ND Tex.1974). We granted a partial stay of the District Court's order pending disposition of the appeal. 416 U.S. 963 (1974). We subsequently noted probable jurisdiction. 419 U.S. 822 (1974).</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The Texas Constitution provides that, in all municipal elections "to determine expenditure of money or assumption of debt," only those who pay taxes on property in the city are eligible to vote. Tex.Const. Art. 6, § 3. In addition, it directs that, in any election held "for the purpose of issuing bonds or otherwise lending credit, or expending money or assuming any debt," the franchise shall be limited to those qualified voters "who own taxable property in the . . . district . . . where such election is held," and who have "duly rendered the same for taxation." § 3a. The implementing statutes impose the same requirements, adding that, to qualify for voting, a resident of the district holding the election must have "rendered" [<a id="nf1" href="#fn1">Footnote 1</a>] his property for taxation to the district</p>
     <n id="p292">292</n>
     <p>during the proper period of the election year, and that he must sign an affidavit indicating that he has done so. Tex. Elec.Code §§ 5.03, 5.04, 5.07 (1967 and Supp. 19741975). The Fort Worth City Charter further provides that the city shall not issue bonds unless they are authorized in an election of the "qualified voters who pay taxes on property situated within the corporate limits of the City of Ft. Worth." Charter of the City of Fort Worth, c. 25, § 19.</p>
@@ -38,7 +38,7 @@
     <n id="p294">294</n>
     <p>or any bond elections held before the date of the judgment, it ordered the city defendants to count the ballots of those who had voted in the nonrenderers' box, and it enjoined any future restriction of the franchise in state bond elections to those who have rendered property for taxation.</p>
     <p>While all three judges concurred in the judgment, each member of the panel wrote separately. Judge Thornberry concluded that the Texas scheme was invalid because it divided the otherwise eligible voters into two classifications -- renderers and nonrenderers -- and that the disfranchisement of those who did not render property for taxation violated the Equal Protection Clause. Judge Woodward concurred in the result on the ground that the rendering requirement was tantamount to a requirement of property ownership, which he concluded was impermissible under this Court's decision in Harper v. Virginia Board of Elections, <a href="../us383/us383-0663.xml#p663">383 U. S. 663</a> (1966). Judge Brewster concurred in the judgment, but only because he thought the case was controlled by our decision in City of Phoenix v. Kolodziejski, <a href="../us399/us399-0204.xml#p204">399 U. S. 204</a> (1970), where we held invalid a statute restricting the franchise in a general obligation bond election to real property owners.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Appellant, the Attorney General of Texas, [<a id="nf4" href="#fn4">Footnote 4</a>] argues that none of this Court's cases draws into question a voting restriction of the sort used in this election. The eligibility scheme does not impose a wealth restriction on the exercise of the franchise, the appellant contends, and any</p>
     <n id="p295">295</n>
     <p>classification that it does create is reasonable, and should be upheld on that basis.</p>
@@ -66,7 +66,7 @@
     <p>In sum, the Texas rendering requirement erects a classification that impermissibly disfranchises persons otherwise qualified to vote, solely because they have not rendered some property for taxation. The Phoenix case</p>
     <n id="p301">301</n>
     <p>establishes that Fort Worth's election was not a "special interest" election, and the state interests proffered by appellant and the city officials fall far short of meeting the "compelling state interest" test consistently applied in Kramer, Cipriano, and Phoenix.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>In order to avoid the possibility of upsetting previous bond elections in the State, the District Court declined to give retroactive effect to its judgment. We have followed the same course in our prior cases dealing with voting classifications in bond elections, see Cipriano, 395 U.S. at <a href="../us395/us395-0701.xml#p706">395 U. S. 706</a>; Phoenix, 399 U.S. at <a href="../us399/us399-0204.xml#p213">399 U. S. 213</a>-215, and we agree with the District Court's determination not to give its ruling retroactive effect. Since the portion of the District Court's judgment invalidating the state constitutional and statutory provisions has been in full effect since that time, [<a id="nf10" href="#fn10">Footnote 10</a>] and since some local bond elections may subsequently have been conducted in reliance on that judgment, we hold that the District Court's ruling should apply only to those bond authorization elections that were not final on the date of the District Court's judgment. As to other jurisdictions that may have restrictive voting classifications similar to those in Texas, [<a id="nf11" href="#fn11">Footnote 11</a>] we hold that our decision should not apply where</p>
     <n id="p302">302</n>
     <p>the authorization to issue the securities is legally complete as of the date of this decision.</p>

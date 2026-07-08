@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us490-0319.html" citation="490 U.S. 319" title="Neitzke v. Williams">
   <opinion type="Opinions &amp; Dissents">
     <n id="p319">319</n>
-    <h>U.S. Supreme Court</h>
-    <h>Neitzke v. Williams, <a href="./us490-0319.xml#p319">490 U.S. 319</a> (1989)</h>
-    <h>Neitzke v. Williams</h>
-    <h>No. 87-1882</h>
-    <h>Argued February 22, 1989</h>
-    <h>Decided May 1, 1989</h>
-    <h><a href="./us490-0319.xml#p319">490 U.S. 319</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE SEVENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Neitzke v. Williams, <a href="./us490-0319.xml#p319">490 U.S. 319</a> (1989)</h1>
+    <h2>Neitzke v. Williams</h2>
+    <h4>No. 87-1882</h4>
+    <h4>Argued February 22, 1989</h4>
+    <h4>Decided May 1, 1989</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE SEVENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>A provision in the federal in forma pauperis statute, 28 U.S.C. § 1915(d), authorizes courts to dismiss an in forma pauperis claim if, inter alia, "the action is frivolous or malicious." Respondent Williams, a prison inmate, filed a motion to proceed in forma pauperis and a complaint under 42 U.S.C. § 1983 in the District Court, charging that prison officials had violated his Eighth Amendment rights by denying him medical treatment and his Fourteenth Amendment due process rights by transferring him without a hearing to a less desirable cellhouse when he refused to continue working because of his medical condition. The District Court dismissed the complaint sua sponte as frivolous under § 1915(d) on the grounds that Williams had failed to state a claim upon which relief could be granted under Federal Rule of Civil Procedure 12(b)(6). The Court of Appeals, holding that the District Court had wrongly equated the standard for failure to state a claim under Rule 12(b)(6) with the more lenient standard for frivolousness under § 1915(d), which permits dismissal only if a petitioner cannot make any rational argument in law or fact entitling him to relief, affirmed the dismissal of the Fourteenth Amendment claim on the ground that a prisoner clearly has no constitutionally protected liberty or property interest in being incarcerated in a particular institution or wing. However, the court reversed the dismissal of the Eighth Amendment claim as to two of the five defendants, declaring itself unable to state with certainty that Williams was unable to make any rational argument to support his claim.</p>
     <p>Held: A complaint filed in forma pauperis is not automatically frivolous within the meaning of § 1915(d) because it fails to state a claim under Rule 12(b)(6). The two standards were devised to serve distinctive goals, and have separate functions. Under Rule 12(b)(6)'s failure to state a claim standard -- which is designed to streamline litigation by dispensing with needless discovery and factfinding -- a court may dismiss a claim based on a dispositive issue of law without regard to whether it is based on an outlandish legal theory or on a close but ultimately unavailing one, whereas, under § 1915(d)'s frivolousness standard -- which is intended to discourage baseless lawsuits -- dismissal is proper only if the legal theory (as in Williams' Fourteenth Amendment claim) or the factual contentions lack an arguable basis. The considerable common</p>
     <n id="p320">320</n>
@@ -20,7 +20,7 @@
     <p>MARSHALL, J., delivered the opinion for a unanimous Court.</p>
     <p>JUSTICE MARSHALL delivered the opinion of the Court.</p>
     <p>The question presented is whether a complaint filed in forma pauperis which fails to state a claim under Federal Rule of Civil Procedure 12(b)(6) is automatically frivolous within the meaning of 28 U.S.C. § 1915(d). The answer, we hold, is no.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>On October 27, 1986, respondent Harry Williams, Sr., an inmate in the custody of the Indiana Department of Corrections, filed a complaint under 42 U.S.C. § 1983 in the United States District Court for the Southern District of Indiana, naming five Indiana correctional officials as defendants. App. 38. The complaint alleged that, while at the Indiana State Prison, Williams had been diagnosed by a prison doctor</p>
     <n id="p321">321</n>
     <p>as having a small brain tumor which affected his equilibrium. Id. at 40. Because of this condition, the doctor placed Williams for one year on "medical idle status." A medical report Williams attached to the complaint stated that "[i]t is very likely that he will have this condition for some time to come." Id. at 48.</p>
@@ -36,7 +36,7 @@
     <n id="p324">324</n>
     <p>Williams could make no rational argument in law or fact that his transfer violated due process. Id. at 308-309.</p>
     <p>We granted the petition for a writ of certiorari, 488 U.S. 816 (1988), filed by those defendants against whom Williams' claims still stand to decide whether a complaint that fails to state a claim under Rule 12(b)(6) is necessarily frivolous within the meaning of § 1915(d), a question over which the Courts of Appeals have disagreed. [<a id="nf3" href="#fn3">Footnote 3</a>] We now affirm.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The federal in forma pauperis statute, enacted in 1892 and presently codified as 28 U.S.C. § 1915, is designed to ensure that indigent litigants have meaningful access to the federal courts. Adkins v. E. I. DuPont de Nemours &amp; Co., <a href="../us335/us335-0331.xml#p331">335 U. S. 331</a>, <a href="../us335/us335-0331.xml#p342">335 U. S. 342</a>-343 (1948). Toward this end, § 1915(a) allows a litigant to commence a civil or criminal action in federal court in forma pauperis by filing in good faith an affidavit stating, inter alia, that he is unable to pay the costs of the lawsuit. Congress recognized, however, that a litigant whose filing fees and court costs are assumed by the public, unlike a paying litigant, lacks an economic incentive to refrain from filing frivolous, malicious, or repetitive lawsuits. To prevent such abusive or captious litigation, § 1915(d) authorizes federal courts to dismiss a claim filed in forma pauperis "if the allegation of poverty is untrue, or if satisfied that the action is frivolous or malicious." Dismissals on these grounds are often made sua sponte prior to the issuance of process, so as to spare prospective defendants the inconvenience and expense of answering such complaints. See Franklin v. Murphy, 745 F.2d 1221, 1226 (CA9 1984).</p>
     <p>The brevity of § 1915(d) and the generality of its terms have left the judiciary with the not inconsiderable tasks of</p>
     <n id="p325">325</n>

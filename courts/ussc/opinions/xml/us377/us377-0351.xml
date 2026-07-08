@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us377-0351.html" citation="377 U.S. 351" title="United States v. Vermont">
   <opinion type="Opinions &amp; Dissents">
     <n id="p351">351</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Vermont, <a href="./us377-0351.xml#p351">377 U.S. 351</a> (1964)</h>
-    <h>United States v. Vermont</h>
-    <h>No. 509</h>
-    <h>Argued April 21, 1964</h>
-    <h>Decided June 1, 1964</h>
-    <h><a href="./us377-0351.xml#p351">377 U.S. 351</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SECOND CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Vermont, <a href="./us377-0351.xml#p351">377 U.S. 351</a> (1964)</h1>
+    <h2>United States v. Vermont</h2>
+    <h2>No. 509</h2>
+    <h4>Argued April 21, 1964</h4>
+    <h4>Decided June 1, 1964</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SECOND CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>A State assessed a solvent taxpayer for unpaid state taxes under a law providing that the amount owed shall be a lien in favor of the State upon the taxpayer's property, and that the lien arises at the time the assessment is made. Later, the Commissioner of Internal Revenue, proceeding under 26 U.S.C. §§ 6321 and 6322, provisions virtually identical with the state law, assessed the taxpayer for federal taxes. The State thereafter sued and secured a judgment in the state court against the taxpayer and a bank which held sums owing to the taxpayer. The United States then sued in federal court to foreclose the federal lien; the District Court upheld the State's contention that its original assessment gave its lien priority; and the Court of Appeals affirmed.</p>
     <p>Held: The state lien had priority over the later federal lien. Pp. <a href="./us377-0351.xml#p354">377 U. S. 354</a>-359.</p>
     <p>(a) The State's lien was choate, since the identity of the lienor, the property subject to the lien, and the amount of the lien were established. United States v. New Britain, <a href="../us347/us347-0081.xml#p81">347 U. S. 81</a>, followed. Pp. <a href="./us377-0351.xml#p354">377 U. S. 354</a>-355, 358.</p>
@@ -53,7 +53,7 @@
     <p>340 U.S. at <a href="../us340/us340-0047.xml#p51">340 U. S. 51</a>. Relying on this statement, the United States urges us to read Security Trust as establishing the proposition that federal tax liens are entitled to priority not only over "a lis pendens notice that a right to perfect a lien exists," but over any antecedent lien which is not sufficiently perfected to prevail against the explicit priority which R.S. § 3466 gives to claims of the United States in situations involving insolvency. [<a id="nf6" href="#fn6">Footnote 6</a>] More particularly, it is suggested</p>
     <n id="p357">357</n>
     <p>that the state liens at issue here did not meet the standards of "specificity" until Vermont attached the funds held by the Chittenden Trust Company, at which time the federal tax lien had already come into existence. This argument fails to discriminate between the standards applicable under the federal tax lien provisions and those applicable to an insolvent debtor under R.S. § 3466.</p>
-    <p>Section 3466, on its face, permits no exception whatsoever from the statutory command that, "[w]henever any person indebted to the United States is insolvent . . . , debts due to the United States shall be first satisfied." The statute applies to all the insolvent's debts to the Government, whether or not arising from taxes, and whether or not secured by a lien. In United States v. Gilbert Associates, <a href="../us345/us345-0361.xml#p361">345 U. S. 361</a>, without questioning that the lienor was identified, the amount of the lien certain or the property subject to the lien definite, this Court accorded priority to subsequently arising claims of the United States against an insolvent debtor on the ground that:</p>
+    <p>Section 3466, on its face, permits no exception whatsoever from the statutory command that, "[w]henever any person indebted to the United States is insolvent . . ., debts due to the United States shall be first satisfied." The statute applies to all the insolvent's debts to the Government, whether or not arising from taxes, and whether or not secured by a lien. In United States v. Gilbert Associates, <a href="../us345/us345-0361.xml#p361">345 U. S. 361</a>, without questioning that the lienor was identified, the amount of the lien certain or the property subject to the lien definite, this Court accorded priority to subsequently arising claims of the United States against an insolvent debtor on the ground that:</p>
     <p>"In claims of this type, 'specificity' requires that the lien be attached to certain property by reducing it to possession, on the theory that the United States has no claim against property no longer in the possession of the debtor. . . . The taxpayer had not been divested by the Town of either title or possession. The Town, therefore, had only a general, unperfected lien."</p>
     <p>Id. at <a href="../us345/us345-0361.xml#p366">345 U. S. 366</a>. [<a id="nf7" href="#fn7">Footnote 7</a>]</p>
     <p>The state tax commissioner's assessment and demand in the present case clearly did not meet that standard,</p>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us400-0025.html" citation="400 U.S. 25" title="North Carolina v. Alford">
   <opinion type="Opinions &amp; Dissents">
     <n id="p25">25</n>
-    <h>U.S. Supreme Court</h>
-    <h>North Carolina v. Alford, <a href="./us400-0025.xml#p25">400 U.S. 25</a> (1970)</h>
-    <h>North Carolina v. Alford</h>
-    <h>No. 14</h>
-    <h>Argued November 17, 1969</h>
-    <h>Reargued October 14, 1970</h>
-    <h>Decided November 23, 1970</h>
-    <h><a href="./us400-0025.xml#p25">400 U.S. 25</a></h>
-    <h>APPEAL FROM THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE FOURTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>North Carolina v. Alford, <a href="./us400-0025.xml#p25">400 U.S. 25</a> (1970)</h1>
+    <h2>North Carolina v. Alford</h2>
+    <h2>No. 14</h2>
+    <h4>Argued November 17, 1969</h4>
+    <h4>Reargued October 14, 1970</h4>
+    <h4>Decided November 23, 1970</h4>
+    <h2>APPEAL FROM THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE FOURTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Appellee was indicted for the capital crime of first-degree murder. At that time, North Carolina law provided for the penalty of life imprisonment when a plea of guilty was accepted to a first-degree murder charge; for the death penalty following a jury verdict of guilty, unless the jury recommended life imprisonment; and for a penalty of from two to 30 years' imprisonment for second-degree murder. Appellee's attorney, in the face of strong evidence of guilt, recommended a guilty plea, but left the decision to appellee. The prosecutor agreed to accept a plea of guilty to second-degree murder. The trial court heard damaging evidence from certain witnesses before accepting a plea. Appellee pleaded guilty, although disclaiming guilt, because of the threat of the death penalty, and was sentenced to 30 years' imprisonment. The Court of Appeals, on an appeal from a denial of a writ of habeas corpus, found that appellee's guilty plea was involuntary because it was motivated principally by fear of the death penalty.</p>
     <p>Held: The trial judge did not commit constitutional error in accepting appellee's guilty plea. Pp. <a href="./us400-0025.xml#p31">400 U. S. 31</a>-39.</p>
     <p>(a) A guilty plea that represents a voluntary and intelligent choice among the alternatives available to a defendant, especially one represented by competent counsel, is not compelled within the meaning of the Fifth Amendment because it was entered to avoid the possibility of the death penalty. Brady v. United States, <a href="../us397/us397-0742.xml#p742">397 U. S. 742</a>. P. <a href="./us400-0025.xml#p31">400 U. S. 31</a>.</p>
@@ -101,7 +101,7 @@
     <f n="8"><a id="fn8" href="#nf8">Footnote 8</a>
       <p>Courts have defined the plea of nolo contendere in a variety of different ways, describing it, on the one hand, as "in effect, a plea of guilty," United States v. Food Grocery Bureau, <a href="https://law.justia.com/cases/federal/district-courts/FSupp/43/974/1408106/">43 F. Supp. 974</a>, 979 (SD Cal.1942), aff'd, 139 F.2d 973 (CA9 1943), and on the other, as a query directed to the court to determine the defendant's guilt. State v. Hopkins, 27 Del. 306, 88 A. 473 (1913). See generally Lott v. United States, <a href="../us367/us367-0421.xml#p421">367 U. S. 421</a>, <a href="../us367/us367-0421.xml#p426">367 U. S. 426</a>-427 (1961), id. at <a href="../us367/us367-0421.xml#p427">367 U. S. 427</a>-430 (Clark, J., dissenting), 21 Am.Jur.2d Criminal Law § 497. As a result, it is impossible to state precisely what a defendant does admit when he enters a nolo plea in a way that will consistently fit all the cases.</p>
       <p>Hudson v. United States, supra, was also ambiguous. In one place, the Court called the plea "an admission of guilt for the purposes of the case," id. at <a href="../us272/us272-0451.xml#p455">272 U. S. 455</a>, but, in another, the Court quoted an English authority who had defined the plea as one "where a defendant, in a case not capital, doth not directly own himself guilty. . . ." Id. at <a href="../us272/us272-0451.xml#p453">272 U. S. 453</a>, quoting 2 W. Hawkins, Pleas of the Crown 466 (8th ed. 1824).</p>
-      <p>The plea may have originated in the early medieval practice by which defendants wishing to avoid imprisonment would seek to make an end of the matter (finem facere) by offering to pay a sum of money to the king. See 2 F. Pollock &amp; F. Maitland, History of English Law 517 (2d ed.1909). An early 15th-century case indicated that a defendant did not admit his guilt when he sought such a compromise, but merely "that he put himself on the grace of our Lord, the King, and asked that he might be allowed to pay a fine (petit se admittit per finem)." Anon., Y. B. Hil. 9 Hen. 6, f. 59, pl. 8 (1431). A 16th-century authority noted that a defendant who so pleaded "putteth hym selfe in Gratiam Reginae without anye more, or by Protestation that hee is not guiltie . . . ," W. Lambard, Eirenarcha 427 (1581), while an 18th-century case distinguished between a nolo plea and a jury verdict of guilty, noting that, in the former the defendant could introduce evidence of innocence in mitigation of punishment, whereas in the latter such evidence was precluded by the finding of actual guilt. Queen v. Templeman, 1 Salk. 55, 91 Eng.Rep. 54 (K.B. 1702).</p>
+      <p>The plea may have originated in the early medieval practice by which defendants wishing to avoid imprisonment would seek to make an end of the matter (finem facere) by offering to pay a sum of money to the king. See 2 F. Pollock &amp; F. Maitland, History of English Law 517 (2d ed.1909). An early 15th-century case indicated that a defendant did not admit his guilt when he sought such a compromise, but merely "that he put himself on the grace of our Lord, the King, and asked that he might be allowed to pay a fine (petit se admittit per finem)." Anon., Y. B. Hil. 9 Hen. 6, f. 59, pl. 8 (1431). A 16th-century authority noted that a defendant who so pleaded "putteth hym selfe in Gratiam Reginae without anye more, or by Protestation that hee is not guiltie . . .," W. Lambard, Eirenarcha 427 (1581), while an 18th-century case distinguished between a nolo plea and a jury verdict of guilty, noting that, in the former the defendant could introduce evidence of innocence in mitigation of punishment, whereas in the latter such evidence was precluded by the finding of actual guilt. Queen v. Templeman, 1 Salk. 55, 91 Eng.Rep. 54 (K.B. 1702).</p>
       <p>Throughout its history, that is, the plea of nolo contendere has been viewed not as an express admission of guilt but as a consent by the defendant that he may be punished as if he were guilty and a prayer for leniency. Fed.Rule Crim.Proc. 11 preserves this distinction in its requirement that a court cannot accept a guilty plea "unless it is satisfied that there is a factual basis for the plea"; there is no similar requirement for pleas of nolo contendere, since it was thought desirable to permit defendants to plead nolo without making any inquiry into their actual guilt. See Notes of Advisory Committee to Rule 11.</p>
     </f>
     <f n="9"><a id="fn9" href="#nf9">Footnote 9</a>

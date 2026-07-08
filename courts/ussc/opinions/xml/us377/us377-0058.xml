@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us377-0058.html" citation="377 U.S. 58" title="Labor Board v. Fruit Packers">
   <opinion type="Opinions &amp; Dissents">
     <n id="p58">58</n>
-    <h>U.S. Supreme Court</h>
-    <h>Labor Board v. Fruit Packers, <a href="./us377-0058.xml#p58">377 U.S. 58</a> (1964)</h>
-    <h>National Labor Relations Board v. Fruit &amp; Vegetable Packers</h>
-    <h>&amp; Warehousemen, Local 760</h>
-    <h>No. 88</h>
-    <h>Argued February 18-19, 1964</h>
-    <h>Decided April 20, 1964</h>
-    <h><a href="./us377-0058.xml#p58">377 U.S. 58</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE DISTRICT OF COLUMBIA CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Labor Board v. Fruit Packers, <a href="./us377-0058.xml#p58">377 U.S. 58</a> (1964)</h1>
+    <h2>National Labor Relations Board v. Fruit &amp; Vegetable Packers</h2>
+    <h2>&amp; Warehousemen, Local 760</h2>
+    <h2>No. 88</h2>
+    <h4>Argued February 18-19, 1964</h4>
+    <h4>Decided April 20, 1964</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE DISTRICT OF COLUMBIA CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondent union, while on strike, conducted a consumer boycott of the employers' products, pursuant to which it engaged in peaceful picketing and distributed handbills at markets selling such products. The signs and handbills asked the public not to purchase primary employers' products. The National Labor Relations Board held that § 8(b)(4) of the National Labor Relations Act was intended by Congress to prohibit all consumer picketing at secondary establishments. The Court of Appeals rejected that conclusion, holding that the crucial issue is whether the secondary employer is in fact coerced or threatened by the picketing, and remanded for a finding on that issue.</p>
     <p>Held: Peaceful secondary picketing of retail stores directed solely at appealing to consumers to refrain from buying the primary employer's product is not prohibited by § 8(b)(4). Pp. <a href="./us377-0058.xml#p63">377 U. S. 63</a>-73.</p>
     <p>113 U.S.App.D.C. 356, 308 F.2d 311, judgment vacated and case remanded.</p>
@@ -56,7 +56,7 @@
     <p>The House history is similarly beclouded, but what appears confirms our conclusion. From the outset, the House legislation included provisions concerning secondary boycotts. The Landrum-Griffin bill, [<a id="nf15" href="#fn15">Footnote 15</a>] which was ultimately passed by the House, embodied the Eisenhower Administration's proposals as to secondary boycotts. The initial statement of Congressman Griffin in introducing the bill which bears his name contains no reference to consumer picketing in the list of abuses which he thought required the secondary boycott amendments. [<a id="nf16" href="#fn16">Footnote 16</a>] Later, in the House debates, he did discuss consumer picketing, but only in the context of its abuse when directed against shutting off the patronage of a secondary employer.</p>
     <p>In the debates before passage of the House bill, he stated that the amendments applied to consumer picketing of customer entrances to retail stores selling goods manufactured by a concern under strike, if the picketing</p>
     <n id="p68">68</n>
-    <p>were designed to "coerce or to restrain the employer of [the] second establishment, to get him not to do business with the manufacturer . . . ," and further that,</p>
+    <p>were designed to "coerce or to restrain the employer of [the] second establishment, to get him not to do business with the manufacturer . . .," and further that,</p>
     <p>"of course, this bill and any other bill is limited by the constitutional right of free speech. If the purpose of the picketing is to coerce the retailer not to do business with the manufacturer,"</p>
     <p>then such a boycott could be stopped. [<a id="nf17" href="#fn17">Footnote 17</a>] (Italics supplied.)</p>
     <p>The relevant changes in former § 8(b)(4) made by the House bill substituted "any individual employed by any person" for the Taft-Hartley wording, "the employees of any employer," deleted the requirement of a "concerted" refusal, and made it an unfair labor practice "to threaten, coerce, or restrain any person" where an object thereof was an end forbidden by the statute, e.g., forcing or requiring a secondary employer to cease handling the products of, or doing business with, a primary employer. There is thus nothing in the legislative history prior to the convening of the Conference Committee which shows any congressional concern with consumer picketing beyond that with the "isolated evil" of its use to cut off the business of a secondary employer as a means of forcing him to stop doing business with the primary employer. When Congress meant to bar picketing per se, it made its meaning clear; for example, § 8(b)(7) makes it an unfair labor practice, "to picket or cause to be picketed . . . any employer. . . ." In contrast, the prohibition of § 8(b)(4) is keyed to the coercive nature of the conduct, whether it be picketing or otherwise.</p>
@@ -101,7 +101,7 @@
       <p>"APPLES"</p>
       <p>"THE 1960 CROP OF WASHINGTON STATE APPLES"</p>
       <p>"</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>S BEING PACKED BY NON-UNION FIRMS" "Included in this non-union operation are twenty-six firms in the Yakima Valley with which there is a labor dispute. These firms are charged with being"</p>
       <p>"UNFAIR"</p>
       <p>"by their employees who, with their union, are on strike and have been replaced by non-union strikebreaking workers employed under substandard wage scales and working conditions."</p>
@@ -190,7 +190,7 @@
       <p>The instructions to pickets read as follows:</p>
       <n id="p75">75</n>
       <p>"</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>nstructions to Pickets." "Dear Picket:"</p>
       <p>"You are being asked to help publicize a nationwide consumer boycott aimed at non-union Washington State Apples. To make this program a success, your cooperation is essential. Please read these instructions and follow them carefully."</p>
       <p>"1. At all times, you are to engage in peaceful picketing. You are forbidden to engage in any altercation, argument, or misconduct of any kind."</p>
@@ -240,7 +240,7 @@
       <p>The Labor Board found the Union's picketing at Safeway stores, though peaceful, unlawful per se under § 8(b)(4)(ii)(B), and issued an appropriate order. The Court of Appeals reversed, holding the picketing lawful in the absence of any showing that Safeway had in fact been "threatened, coerced, or restrained" (113 U.S.App.D.C. 356, 360-363, 308 F.2d 311 at pp. 315-318), and remanded the case to the Board for further proceedings. This Court now rejects (correctly, I believe) the Court of Appeals' holding, but nevertheless refuses to enforce the Board's order. It holds that, although § 8(b)(4)(ii)(B) does automatically outlaw peaceful secondary consumer picketing aimed at all products handled by a secondary employer, Congress has not, with "the requisite clarity" (ante, p. <a href="./us377-0058.xml#p63">377 U. S. 63</a>), evinced a purpose to prohibit such picketing when directed only at the products of the primary employer. Here, the Union's picketing related only to Washington apples, not to all products carried by Safeway.</p>
       <n id="p82">82</n>
       <p>Being unable to discern in § 8(b)(4)(ii)(B) or in its legislative history any basis for the Court's subtle narrowing of these statutory provisions, I must respectfully dissent.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>The Union's activities are plainly within the letter of subdivision (4)(ii)(B) of § 8(b), and indeed the Court's opinion virtually concedes that much (ante, pp. <a href="./us377-0058.xml#p71">377 U. S. 71</a>-72). Certainly Safeway is a "person" as defined in those subdivisions; indubitably "an object" of the Union's conduct was the "forcing or requiring" of Safeway, through the picketing of its customers, "to cease . . . selling, handling . . . or otherwise dealing in" Washington apples, "the products of" another "producer"; and consumer picketing is expressly excluded from the ameliorative provisions of the proviso. See supra, pp. <a href="./us377-0058.xml#p80">377 U. S. 80</a>-81.</p>
       <p>Nothing in the statute lends support to the fine distinction which the Court draws between general and limited product picketing. The enactment speaks pervasively of threatening, coercing, or restraining any person; the proviso differentiates only between modes of expression, not between types of secondary consumer picketing. For me, the Court's argument to the contrary is very unconvincing.</p>
       <p>The difference to which the Court points between a secondary employer's merely lowering his purchases of the struck product to the degree of decreased consumer demand and such an employer's ceasing to purchase one product because of consumer refusal to buy any products, is surely too refined in the context of reality. It can hardly be supposed that, in all, or even most, instances, the result of the type of picketing involved here will be simply that suggested by the Court. Because of the very nature of picketing, there may be numbers of persons who will refuse to buy at all from a picketed store, either out of economic or social conviction or because they prefer</p>
@@ -252,7 +252,7 @@
       <p>ante, p. <a href="./us377-0058.xml#p70">377 U. S. 70</a>. The difference was, it is stated, "well established in the state cases by 1940," ante, p. <a href="./us377-0058.xml#p64">377 U. S. 64</a>, note 7, that is, before the present federal enactment. In light of these assertions, it is indeed remarkable that the Court not only substantially acknowledges that the statutory language does not itself support this distinction (ante, pp. <a href="./us377-0058.xml#p71">377 U. S. 71</a>-72), [Footnote 3/2]</p>
       <n id="p84">84</n>
       <p>but cites no report of Congress, no statement of a legislator, not even the view of any of the many commentators in the area, in any way casting doubt on the applicability of § 8(b)(4)(ii)(B) to picketing of the kind involved here.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>The Court's distinction fares no better when the legislative history of § 8(b) (4)(ii)(B) is examined. Even though there is no Senate, House, or Conference Report which sheds light on the matter, that hardly excuses the Court's blinding itself to what the legislative and other background materials do show. Fairly assessed, they, in my opinion, belie Congress' having made the distinction upon which the Court's thesis rests. Nor can the Court find comfort in the generalization that,</p>
       <p>"In the sensitive area of peaceful picketing, Congress has dealt explicitly with isolated evils which experience has established flow from such picketing"</p>
       <p>(ante, pp. <a href="./us377-0058.xml#p62">377 U. S. 62</a>-63); in enacting the provisions in question, Congress was addressing itself to a particular facet of secondary boycotting not dealt with in prior legislation, namely, peaceful secondary consumer picketing. I now turn to the materials which illuminate what Congress had in mind.</p>
@@ -304,7 +304,7 @@
       <p>When Congressman Thompson spoke to the Conference agreement, he reiterated his view of the House bill and of its modification, 105 Cong.Rec. 18133, II Leg.Hist. 1720, 1721. Specifically, he stated, "All appeals for a consumer boycott would have been barred by House bill."</p>
       <p>In the light of the foregoing, I see no escape from the conclusion that § 8(b) (4)(ii)(B) does prohibit all consumer picketing. There are, of course, numerous times in the debates of both houses in which consumer picketing is referred to generally or the reference is made with an example of an appeal to consumers not to purchase at all from the secondary employer. But it is remarkable that every time the possibility of picketing of the sort involved in this case was considered, it was assumed to be prohibited by the House bill. Admittedly, in the House, appeals to refrain from purchase of the struck product were discussed only by opponents of the House bill; however, only one of two inferences can be drawn from the silence of the bill's supporters. Either the distinction drawn by this Court was not considered of sufficient significance to require comment or the proponents recognized a difference between the two types of consumer picketing, but assumed that the bill encompassed both. Under either supposition, the conclusion reached by the Court in regard to the picketing involved here is untenable.</p>
       <n id="p93">93</n>
-      <h>III</h>
+      <h2>III</h2>
       <p>Under my view of the statute, the constitutional issue is therefore reached. Since the Court does not discuss it, I am content simply to state in summary form my reasons for believing that the prohibitions of § 8(b)(4)(ii)(B), as applied here, do not run afoul of constitutional limitations. This Court has long recognized that picketing is "inseparably something more [than] and different" from simple communication. Hughes v. Superior Court, <a href="../us339/us339-0460.xml#p460">339 U. S. 460</a>, <a href="../us339/us339-0460.xml#p464">339 U. S. 464</a>; see, e.g., Building Service Employees v. Gazzam, <a href="../us339/us339-0532.xml#p532">339 U. S. 532</a>, <a href="../us339/us339-0532.xml#p537">339 U. S. 537</a>; Bakery Drivers v. Wohl, <a href="../us315/us315-0769.xml#p769">315 U. S. 769</a>, <a href="../us315/us315-0769.xml#p776">315 U. S. 776</a> (concurring opinion of DOUGLAS, J.). Congress has given careful and continued consideration to the problems of labor-management relations, and its attempts to effect an accommodation between the right of unions to publicize their position and the social desirability of limiting a form of communication likely to have effects caused by something apart from the message communicated, are entitled to great deference. The decision of Congress to prohibit secondary consumer picketing during labor disputes is, I believe, not inconsistent with the protections of the First Amendment, particularly when, as here, other methods of communication are left open. [Footnote 3/5]</p>
       <p>Contrary to my Brother BLACK, I think the fact that Congress, in prohibiting secondary consumer picketing, has acted with a discriminating eye is the very thing that renders this provision invulnerable to constitutional attack. That Congress has permitted other picketing which is likely to have effects beyond those resulting from the "communicative" aspect of picketing does not, of course, in any way lend itself to the conclusion that</p>
       <n id="p94">94</n>

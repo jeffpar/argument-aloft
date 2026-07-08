@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us469-1133.html" citation="469 U.S. 1133" title="SONGER v. WAINWRIGHT">
   <opinion type="Opinions &amp; Dissents">
     <n id="p1133">1133</n>
-    <h>U.S. Supreme Court</h>
-    <h>SONGER v. WAINWRIGHT , <a href="./us469-1133.xml#p1133">469 U.S. 1133</a> (1985)</h>
-    <h> <a href="./us469-1133.xml#p1133">469 U.S. 1133</a></h>
-    <h>Carl Ray SONGER v. Louie L. WAINWRIGHT, Secretary, Florida Department of Corrections, et al No. 84-5690 Supreme Court of the United States January 7, 1985</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>SONGER v. WAINWRIGHT, <a href="./us469-1133.xml#p1133">469 U.S. 1133</a> (1985)</h1>
+    <h4>Carl Ray SONGER v. Louie L. WAINWRIGHT, Secretary, Florida Department of Corrections, et al No. 84-5690 Supreme Court of the United States January 7, 1985</h4>
     <p>On petition for writ of certiorari to the United States Court of Appeals for the Eleventh Circuit.</p>
     <p>The petition for a writ of certiorari is denied.</p>
     <p>Justice BRENNAN, with whom Justice MARSHALL joins, dissenting.</p>
@@ -18,7 +18,7 @@
     <p>In 1980, Songer filed a motion to vacate sentence in his Florida trial court. [<a id="nf3" href="#fn3">Footnote 3</a>] He raised his Lockett claim as part of a broad challenge to his trial attorney's effective assistance and to the jury instructions used at sentencing. [<a id="nf4" href="#fn4">Footnote 4</a>] At the evidentiary hearing held</p>
     <n id="p1135">1135</n>
     <p>on this motion, Songer's trial counsel explained that he had not offered character or other evidence in mitigation because he had believed that only evidence relevant to the statutory mitigating circumstances was allowed:</p>
-    <p>"The only recollection I have is that was a new statute at that time , . . . going over the statutory grounds with him for aggravating circumstances and mitigating circumstances, and what would be available to us under the statutory language and what would be against us under the statutory language. . . . [I examined] all the factors we had available to us." R. II, at 379.5</p>
+    <p>"The only recollection I have is that was a new statute at that time, . . . going over the statutory grounds with him for aggravating circumstances and mitigating circumstances, and what would be available to us under the statutory language and what would be against us under the statutory language. . . . [I examined] all the factors we had available to us." R. II, at 379.5</p>
     <p>Without discussing whether Songer's sentencing may have violated Lockett, the trial court ruled that Songer's counsel had not been ineffective and denied the motion to vacate. The Florida Supreme Court affirmed, Songer v. State, <a href="https://law.justia.com/cases/florida/supreme-court/1982/59852-0.html">419 So. 2d 1044</a> (1982), also without mention of Lockett. [<a id="nf6" href="#fn6">Footnote 6</a>]</p>
     <p>After the Florida Supreme Court again denied Songer's claim without discussion when he filed a state habeas corpus petition, Songer v. State, <a href="https://law.justia.com/cases/florida/supreme-court/1982/62891-0.html">423 So. 2d 355</a> (1982), Songer filed this federal petition under 28 U.S.C. 2254. The District Court first concluded that Songer's attorney had not been ineffective at the penalty stage. <a href="https://law.justia.com/cases/federal/district-courts/FSupp/571/1384/1493663/">571 F. Supp. 1384</a>, 1393-1397 (MD Fla.1983). The court found that the attorney had examined "the possibility of using particular character witnesses during the penalty stage," and that "[h]is motivation for rejecting that [possibility] is unclear." Id., at 1394. Then, based on the attorney's testimony at the motion</p>
     <n id="p1136">1136</n>
@@ -52,7 +52,7 @@
     <p>Because I continue to adhere to my view that the death penalty is in all circumstances cruel and unusual punishment forbidden by the Eighth and Fourteenth Amendments, see Gregg v. Georgia, <a href="../us428/us428-0153.xml#p153">428 U.S. 153</a>, 227, 2950 (1976) (BRENNAN, J., dissenting), I would vote to grant the petition for certiorari and vacate Songer's sentence in any event. But even if I believed otherwise, I would vote to vacate the sentence in this case. This petition requires simply a straightforward application of Lockett and Eddings to the unusual facts of this case. Unlike other possible cases in which a pre-Lockett sentencing challenge might be raised, the record here plainly indicates that Songer's attorney decided that, as a matter of law, he was precluded from offering mitigating evidence outside the categories listed in 921.141(7). Cf. Eddings, 455 U.S., at 113 (trial judge found "as a matter of law" that he was unable to consider certain mitigating evidence). 16 Because this accepted and reasonable interpretation of Florida law in 1974 operated to preclude Songer from presenting relevant character evidence in mitigation, it follows a fortiori that a Lockett violation occurred. [<a id="nf17" href="#fn17">Footnote 17</a>]</p>
     <n id="p1143">1143</n>
     <p>In any event, these facts raise serious questions of constitutional principle sufficient to warrant the Court's plenary review. I therefore dissent from the denial of the petition for certiorari.</p>
-    <h>Footnotes</h>
+    <h2>Footnotes</h2>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>
       <p>Florida enacted this statute in 1972, following our decision in Furman v. Georgia, <a href="../us408/us408-0238.xml#p238">408 U.S. 238</a> (1972).</p>
     </f>

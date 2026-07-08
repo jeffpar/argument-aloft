@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us489-0705.html" citation="489 U.S. 705" title="Schmuck v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p705">705</n>
-    <h>U.S. Supreme Court</h>
-    <h>Schmuck v. United States, <a href="./us489-0705.xml#p705">489 U.S. 705</a> (1989)</h>
-    <h>Schmuck v. United States</h>
-    <h>No. 87-6431</h>
-    <h>Argued November 30, 1988</h>
-    <h>Decided March 22, 1989</h>
-    <h><a href="./us489-0705.xml#p705">489 U.S. 705</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE SEVENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Schmuck v. United States, <a href="./us489-0705.xml#p705">489 U.S. 705</a> (1989)</h1>
+    <h2>Schmuck v. United States</h2>
+    <h2>No. 87-6431</h2>
+    <h4>Argued November 30, 1988</h4>
+    <h4>Decided March 22, 1989</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE SEVENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner used-car distributor was charged with multiple counts of mail fraud. The indictment alleged that he purchased used cars, rolled back their odometers, and sold them to Wisconsin retail dealers at prices artificially inflated by the low-mileage readings, and that the unwitting dealers, relying on the altered readings, resold the cars to customers at inflated prices, consummating the transactions by mailing title-application forms to the State on behalf of the buyers. Petitioner filed a pretrial motion to dismiss on the ground that the latter mailings were not in furtherance of the fraudulent scheme and, thus, did not satisfy the mailing element of the crime of mail fraud. He also moved under Federal Rule of Criminal Procedure 31(c) for a lesser included offense jury instruction on the crime of tampering with an odometer. The District Court denied both motions, and, after trial, the jury returned guilty verdicts on all counts. A Court of Appeals panel initially ruled that, although the mailings satisfied the mailing element of the crime, the requested jury instruction should have been given under the "inherent relationship" test, which considers one offense to be included in another when the facts as alleged and proved support the inference that the defendant committed the less serious crime, and when an "inherent relationship" exists between the two offenses such that both relate to the protection of the same interests and the proof of the greater offense can generally be expected to require proof of the lesser one. However, the Court of Appeals en banc rejected the "inherent relationship" test in favor of the "elements" test, whereby one offense is necessarily included within another only when the elements of the lesser offense form a subset of the elements of the offense charged. Finding that the elements of odometer tampering are not a subset of the elements of mail fraud, the en banc court affirmed petitioner's conviction.</p>
     <p>Held:</p>
     <p>1. The mailings at issue satisfy the mailing element of the crime of mail fraud. Such mailings need not, as petitioner contends, be an essential element of the scheme to defraud, but are sufficient so long as they are incident to an essential part of the scheme. Here, although the mailings may not have contributed directly to the duping of either the retail dealers or the customers, they were necessary to the successful</p>
@@ -27,7 +27,7 @@
     <n id="p707">707</n>
     <p>a dissenting opinion, in which BRENNAN, MARSHALL, and O'CONNOR, JJ., joined, post, p. <a href="./us489-0705.xml#p722">489 U. S. 722</a>.</p>
     <p>JUSTICE BLACKMUN delivered the opinion of the Court.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In August, 1983, petitioner Wayne T. Schmuck, a used-car distributor, was indicted in the United States District Court for the Western District of Wisconsin on 12 counts of mail fraud, in violation of 18 U.S.C. §§ 1341 and 1342. App. 3.</p>
     <p>The alleged fraud was a common and straightforward one. Schmuck purchased used cars, rolled back their odometers, and then sold the automobiles to Wisconsin retail dealers for prices artificially inflated because of the low-mileage readings. These unwitting car dealers, relying on the altered odometer figures, then resold the cars to customers, who in turn paid prices reflecting Schmuck's fraud. To complete the resale of each automobile, the dealer who purchased it from Schmuck would submit a title application form to the Wisconsin Department of Transportation on behalf of his retail customer. The receipt of a Wisconsin title was a prerequisite for completing the resale; without it, the dealer could not transfer title to the customer, and the customer could not obtain Wisconsin tags. The submission of the title application form supplied the mailing element of each of the alleged mail frauds.</p>
     <p>Before trial, Schmuck moved to dismiss the indictment on the ground that the mailings at issue -- the submissions of the title application forms by the automobile dealers -- were not in furtherance of the fraudulent scheme and, thus, did not</p>
@@ -42,7 +42,7 @@
     <n id="p710">710</n>
     <p>of mail fraud without a showing that he actually altered the odometers, but could not have been convicted of odometer tampering absent such a showing. Since the elements of odometer tampering are not a subset of the elements of mail fraud, odometer tampering did not qualify as a lesser included offense of mail fraud and, accordingly, the District Court was not required under Rule 31(c) to instruct the jury on the odometer-tampering offense.</p>
     <p>We granted certiorari, 486 U.S. 1004 (1988), to define further the scope of the mail fraud statute and to resolve a conflict among the Circuits over which test to apply in determining what constitutes a lesser included offense for the purposes of Criminal Rule 31(c). [<a id="nf5" href="#fn5">Footnote 5</a>]</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>"The federal mail fraud statute does not purport to reach all frauds, but only those limited instances in which the use of the mails is a part of the execution of the fraud, leaving all other cases to be dealt with by appropriate state law."</p>
     <p>Kann v. United States, <a href="../us323/us323-0088.xml#p88">323 U. S. 88</a>, <a href="../us323/us323-0088.xml#p95">323 U. S. 95</a> (1944). [<a id="nf6" href="#fn6">Footnote 6</a>] To be part of the execution of the fraud, however, the use of the mails need not be an essential element of the scheme. Pereira v. United States, <a href="../us347/us347-0001.xml#p1">347 U. S. 1</a>, <a href="../us347/us347-0001.xml#p8">347 U. S. 8</a> (1954). It is sufficient for the</p>
     <n id="p711">711</n>
@@ -66,7 +66,7 @@
     <p>in themselves cannot supply the mailing element of the mail fraud offense, he misapprehends this Court's precedents. In Parr, the Court specifically acknowledged that "innocent" mailings -- ones that contain no false information -- may supply the mailing element. 363 U.S. at <a href="../us363/us363-0370.xml#p390">363 U. S. 390</a>. In other cases, the Court has found the elements of mail fraud to be satisfied where the mailings have been routine. See, e.g., Carpenter v. United States, <a href="../us484/us484-0019.xml#p19">484 U. S. 19</a>, <a href="../us484/us484-0019.xml#p28">484 U. S. 28</a> (1987) (mailing newspapers).</p>
     <p>We also reject Schmuck's contention that mailings that someday may contribute to the uncovering of a fraudulent scheme cannot supply the mailing element of the mail fraud offense. The relevant question at all times is whether the mailing is part of the execution of the scheme as conceived by the perpetrator at the time, regardless of whether the mailing later, through hindsight, may prove to have been counterproductive and return to haunt the perpetrator of the fraud. The mail fraud statute includes no guarantee that the use of the mails for the purpose of executing a fraudulent scheme will be risk-free. Those who use the mails to defraud proceed at their peril.</p>
     <p>For these reasons, we agree with the Court of Appeals that the mailings in this case satisfy the mailing element of the mail fraud offenses.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Federal Rule of Criminal Procedure 31(c) provides, in relevant part: "The defendant may be found guilty of an offense necessarily included in the offense charged." As noted above, the Courts of Appeals have adopted different tests to determine when, under this Rule, a defendant is entitled to a lesser included offense instruction. The Seventh Circuit's original panel opinion applied the "inherent relationship" approach formulated in United States v. Whitaker, 144 U.S.App.D.C. 344, 447 F.2d 314 (1971):</p>
     <p>"[D]efendant is entitled to invoke Rule 31(c) when a lesser offense is established by the evidence adduced at</p>
     <n id="p716">716</n>
@@ -100,11 +100,11 @@
     <p>The inherent relationship approach, in contrast, is rife with the potential for confusion. Finding an inherent relationship between offenses requires a determination that the offenses protect the same interests, and that, "in general," proof of the lesser "necessarily" involves proof of the greater. In the present case, the Court of Appeals appropriately noted:</p>
     <p>"These new layers of analysis add to the uncertainty of the propriety of an instruction in a particular case: not only are there more issues to be resolved, but correct resolution involves questions of degree and judgment, with the attendant probability that the trial and appellate courts may differ."</p>
     <p>840 F.2d at 389-390. This uncertainty was illustrated here. The three judges of the original appellate panel split in their application of the inherent relationship test to the offenses of mail fraud and odometer tampering. 776 F.2d at 1373-1375 (opinion concurring in part and dissenting in part). In the context of rules of criminal procedure, where certainty and predictability are desired, we prefer the clearer standard for applying Rule 31(c).</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>Turning to the facts of this case, we agree with the Court of Appeals that the elements of the offense of odometer tampering are not a subset of the elements of the crime of mail fraud. 840 F.2d at 386. There are two elements in mail fraud: (1) having devised or intending to devise a scheme to defraud (or to perform specified fraudulent acts), and (2) use of the mail for the purpose of executing, or attempting to execute, the scheme (or specified fraudulent acts). The offense of odometer tampering includes the element of knowingly and willfully causing an odometer to be altered. This element is not a subset of any element of mail fraud. Knowingly and willfully tampering with an odometer is not identical to devising</p>
     <n id="p722">722</n>
     <p>or intending to devise a fraudulent scheme. Compare 18 U.S.C. § 1341 with 15 U.S.C. §§ 1984 and 1990c(a).</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>We conclude that Schmuck's conviction was consistent with the statutory definition of mail fraud, and that he was not entitled to a lesser included offense instruction on odometer tampering. The judgment of the Court of Appeals, accordingly, is affirmed.</p>
     <p>It is so ordered.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>

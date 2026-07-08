@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us592-19-199.html" citation="592 U.S. 19-199" title="Salinas v. Railroad Retirement Board">
   <opinion type="Opinion" author="Sotomayor">
     <p>NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 19–199</p>
-    <p>_________________</p>
     <p>MANFREDO M. SALINAS, PETITIONER v. UNITED STATES RAILROAD RETIREMENT BOARD</p>
     <p>on writ of certiorari to the united states court of appeals for the fifth circuit</p>
     <p>[February 3, 2021]</p>
@@ -27,7 +26,7 @@
     <p>We granted certiorari to resolve the conflict among the Courts of Appeals. 589 U. S. ___ (2020).</p>
     <p>II</p>
     <p>Section 231g of the RRA provides that, except for the deadline for seeking review, “[d]ecisions of the Board determining the rights or liabilities of any person” under the RRA “shall be subject to judicial review in the same manner, subject to the same limitations, and all provisions of law shall apply in the same manner as though the decision were a determination of corresponding rights or liabilities under the Railroad Unemployment Insurance Act.” 45 U. S. C. §231g. In other words, §231g makes judicial review available under the RRA to the same extent that review is available under the RUIA.[<a id="nf1-1" href="#fn1-1">1</a>] This case, therefore, turns on the RUIA’s judicial review provision, 45 U. S. C. §355(f ).</p>
-    <p>Section 355(f ) provides: “Any claimant, or any railway labor organization organized in accordance with the provisions of the Railway Labor Act . . . , of which claimant is a member, or any base-year employer of the claimant, or any other party aggrieved by a final decision under subsection (c) of this section, may . . . obtain a review of any final decision of the Board.”[<a id="nf1-2" href="#fn1-2">2</a>] To qualify for judicial review under this provision, the Board’s refusal to reopen its denial of Salinas’ 2006 application must constitute “any final decision of the Board.” It does.</p>
+    <p>Section 355(f ) provides: “Any claimant, or any railway labor organization organized in accordance with the provisions of the Railway Labor Act . . ., of which claimant is a member, or any base-year employer of the claimant, or any other party aggrieved by a final decision under subsection (c) of this section, may . . . obtain a review of any final decision of the Board.”[<a id="nf1-2" href="#fn1-2">2</a>] To qualify for judicial review under this provision, the Board’s refusal to reopen its denial of Salinas’ 2006 application must constitute “any final decision of the Board.” It does.</p>
     <p>A</p>
     <p>The text of §355(f ) starts our analysis. The phrase “any final decision” is broad, and it reflects Congress’ intent to define the scope of review “expansively.” Smith v. Berryhill, 587 U. S. ___, ___ (2019) (slip op., at 6) (internal quotation marks and brackets omitted). The phrase “denotes some kind of terminal event,” such as the “final stage of review.” Id., at ___–___ (slip op., at 6–7). Similar language in the Administrative Procedure Act has been interpreted to refer to an agency action that “both (1) mark[s] the consummation of the agency’s decisionmaking process and (2) is one by which rights or obligations have been determined, or from which legal consequences will flow.” Id., at ___ (slip op., at 9) (quoting Bennett v. Spear, <a href="../us520/us520-0154.xml#p154">520 U.S. 154</a>, 177–178 (1997); internal quotation marks omitted).</p>
     <p>The Board’s refusal to reopen the prior denial of benefits satisfies these criteria. First, the decision was the “terminal event” in the Board’s administrative review process. Smith, 587 U. S., at ___ (slip op., at 6). After first requesting reopening before the Bureau, Salinas exhausted further agency review by appealing to the Board itself. Salinas’ only recourse thereafter was to seek judicial review.</p>
@@ -57,9 +56,7 @@
   </opinion>
   <opinion type="Dissent" author="Thomas">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 19–199</p>
-    <p>_________________</p>
     <p>MANFREDO M. SALINAS, PETITIONER v. UNITED STATES RAILROAD RETIREMENT BOARD</p>
     <p>on writ of certiorari to the united states court of appeals for the fifth circuit</p>
     <p>[February 3, 2021]</p>

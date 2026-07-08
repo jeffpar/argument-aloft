@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us575-0175.html" citation="575 U.S. 175" title="Omnicare, Inc. v. Laborers Dist. Council Constr. Indus. Pension Fund">
   <opinion type="Opinion" author="Kagan">
     <n id="p175">175</n>
     <p>NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 13–435</p>
-    <p>_________________</p>
     <p>OMNICARE, INC., et al., PETITIONERS v. LABORERS DISTRICT COUNCIL CONSTRUCTION INDUSTRY PENSION FUND et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the sixth circuit</p>
     <p>[March 24, 2015]</p>
@@ -54,7 +53,7 @@
     <p>With these instructions and for the reasons stated, we vacate the judgment below and remand the case for further proceedings.</p>
     <p>It is so ordered.</p>
     <f n="1"><a id="fn1-1" href="#nf1-1">1</a> In his concurrence, Justice Thomas contends that the lower courts’ erroneous conflation of these two questions should limit the scope of our review: We should say nothing about omissions, he maintains, because that issue was not pressed or passed on below. We disagree. Although the Funds could have written a clearer complaint, they raised a discrete omissions claim. See, e.g., App. 191 (“[T]he Company’s 2005 Registration Statement . . . omitted material information that was . . . necessary to make the Registration Statement not misleading”); id., at 273 (“The Registration Statement . . . omitted to state facts necessary to make the statements made not misleading, and failed to adequately disclose material facts as described above”). The lower courts chose not to address that claim separately, but understood that the complaint alleged not only misstatements but also omissions. See App. to Pet. for Cert. 38a (describing the Funds’ claims as relating to “misstatements/omissions” and dismissing the lot as “not actionable”); 719 F. 3d, at 501 (giving a single rationale for reversing the District Court’s dismissal of the Funds’ claims “for material misstatements and omissions”). And the omissions issue was the crux of the parties’ dispute before this Court. The question was fully briefed by both parties (plus the Solicitor General), and omissions played a starring role at oral argument. Neither in its briefs nor at argument did Omnicare ever object that the Funds’ omissions theory had been forfeited or was not properly before this Court. We therefore see no reason to ignore the issue.</f>
-    <f n="2"><a id="fn1-2" href="#nf1-2">2</a> Our decision in Virginia Bankshares, Inc. v. Sandberg, 501 U. S. 1083 (1991) , qualifies this statement in one respect. There, the Court considered when corporate directors’ statements of opinion in a proxy solicitation give rise to liability under §14(a) of the Securities Exchange Act, 15 U. S. C. §78n(a), which bars conduct similar to that described in §11. In discussing that issue, the Court raised the hypothetical possibility that a director could think he was lying while actually (i.e., accidentally) telling the truth about the matter addressed in his opinion. See Virginia Bankshares, 501 U. S., at 1095–1096. That rare set of facts, the Court decided, would not lead to liability under §14(a). See ibid. The Court reasoned that such an inadvertently correct assessment is unlikely to cause anyone harm and that imposing liability merely for the “impurities” of a director’s “unclean heart” might provoke vexatious litigation. Id., at 1096 (quoting Stedman v. Storer, 308 F. Supp. 881, 887 (SDNY 1969)). We think the same is true (to the extent this scenario ever occurs in real life) under §11. So if our CEO did not believe that her company’s TVs had the highest resolution on the market, but (surprise!) they really did, §11 would not impose liability for her statement.</f>
+    <f n="2"><a id="fn1-2" href="#nf1-2">2</a> Our decision in Virginia Bankshares, Inc. v. Sandberg, 501 U. S. 1083 (1991), qualifies this statement in one respect. There, the Court considered when corporate directors’ statements of opinion in a proxy solicitation give rise to liability under §14(a) of the Securities Exchange Act, 15 U. S. C. §78n(a), which bars conduct similar to that described in §11. In discussing that issue, the Court raised the hypothetical possibility that a director could think he was lying while actually (i.e., accidentally) telling the truth about the matter addressed in his opinion. See Virginia Bankshares, 501 U. S., at 1095–1096. That rare set of facts, the Court decided, would not lead to liability under §14(a). See ibid. The Court reasoned that such an inadvertently correct assessment is unlikely to cause anyone harm and that imposing liability merely for the “impurities” of a director’s “unclean heart” might provoke vexatious litigation. Id., at 1096 (quoting Stedman v. Storer, 308 F. Supp. 881, 887 (SDNY 1969)). We think the same is true (to the extent this scenario ever occurs in real life) under §11. So if our CEO did not believe that her company’s TVs had the highest resolution on the market, but (surprise!) they really did, §11 would not impose liability for her statement.</f>
     <f n="3"><a id="fn1-3" href="#nf1-3">3</a> Section 11’s omissions clause also applies when an issuer fails to make mandated disclosures—those “required to be stated”—in a registration statement. §77k(a). But the Funds do not object to Omnicare’s filing on that score.</f>
     <f n="4"><a id="fn1-4" href="#nf1-4">4</a> In a different argument that arrives at the same conclusion, Omnicare maintains that §11, by its terms, bars only those omissions that make statements of fact—not opinion—misleading. See Reply Brief 3–5. The language of the omissions clause, however, is not so limited. It asks whether an omitted fact is necessary to make “statements” in “any part of the registration statement” not misleading; unlike in §11’s first clause, here the word “statements” is unmodified, thus including both fact and opinion. In any event, Omnicare’s alternative interpretation succeeds merely in rephrasing the critical issue. Omnicare recognizes that every opinion statement is also a factual statement about the speaker’s own belief. See supra, at 7–8. On Omnicare’s view, the question thus becomes when, if ever, an omission can make a statement of that fact misleading to an ordinary investor. The following analysis applies just as well to that reformulation.</f>
     <f n="5"><a id="fn1-5" href="#nf1-5">5</a> In some circumstances, however, reliance on advice from regulators or consistent industry practice might accord with a reasonable investor’s expectations.</f>
@@ -67,9 +66,7 @@
   </opinion>
   <opinion type="Concurrence" author="Scalia">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 13–435</p>
-    <p>_________________</p>
     <p>OMNICARE, INC., et al., PETITIONERS v. LABORERS DISTRICT COUNCIL CONSTRUCTION INDUSTRY PENSION FUND et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the sixth circuit</p>
     <p>[March 24, 2015]</p>
@@ -94,9 +91,7 @@
   </opinion>
   <opinion type="Concurrence" author="Thomas">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 13–435</p>
-    <p>_________________</p>
     <p>OMNICARE, INC., et al., PETITIONERS v. LABORERS DISTRICT COUNCIL CONSTRUCTION INDUSTRY PENSION FUND et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the sixth circuit</p>
     <p>[March 24, 2015]</p>

@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us594-19-897.html" citation="594 U.S. 19-897" title="Johnson v. Guzman-Chavez">
   <opinion type="Opinion" author="Alito">
     <p>NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 19–897</p>
-    <p>_________________</p>
     <p>TAE D. JOHNSON, ACTING DIRECTOR OF U. S. IMMI- GRATION AND CUSTOMS ENFORCEMENT, et al., PETITIONERS v. MARIA ANGELICA GUZMAN CHAVEZ, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the fourth circuit</p>
     <p>[June 29, 2021]</p>
@@ -82,9 +81,7 @@
   </opinion>
   <opinion type="Concurrence" author="Thomas">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 19–897</p>
-    <p>_________________</p>
     <p>TAE D. JOHNSON, ACTING DIRECTOR OF U. S. IMMI- GRATION AND CUSTOMS ENFORCEMENT, et al., PETITIONERS v. MARIA ANGELICA GUZMAN CHAVEZ, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the fourth circuit</p>
     <p>[June 29, 2021]</p>
@@ -97,9 +94,7 @@
   </opinion>
   <opinion type="Dissent" author="Breyer">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 19–897</p>
-    <p>_________________</p>
     <p>TAE D. JOHNSON, ACTING DIRECTOR OF U. S. IMMI-GRATION AND CUSTOMS ENFORCEMENT, et al., PETITIONERS v. MARIA ANGELICA GUZMAN CHAVEZ, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the fourth circuit</p>
     <p>[June 29, 2021]</p>
@@ -130,7 +125,7 @@
     <p>“The removal period begins on the latest of the following:</p>
     <p>“(i) The date the order of removal becomes administratively final.</p>
     <p>“(ii) If the removal order is judicially reviewed and if a court orders a stay of the removal of the alien, the date of the court’s final order.</p>
-    <p>“(iii) If the alien is detained or confined . . . , the date the alien is released from detention or confinement.” §1231(a)(1) (emphasis added).</p>
+    <p>“(iii) If the alien is detained or confined . . ., the date the alien is released from detention or confinement.” §1231(a)(1) (emphasis added).</p>
     <p>No one here claims that §1231 authorizes detention without a bond hearing before the removal period begins. And the most natural reading of the italicized language should lead to the conclusion that the removal period has not yet begun. The removal period does not commence until the administrative proceedings are over, i.e., until “the order of removal” is “administratively final.” And the order is not “final” until the immigration judge and the BIA finally determine whether the restriction on removal applies and prohibits removal (unless and until the Government can identify a willing alternative receiving country).</p>
     <p>II</p>
     <p>A</p>

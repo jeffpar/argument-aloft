@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us488-0272.html" citation="488 U.S. 272" title="Perry v. Leeke">
   <opinion type="Opinions &amp; Dissents">
     <n id="p272">272</n>
-    <h>U.S. Supreme Court</h>
-    <h>Perry v. Leeke, <a href="./us488-0272.xml#p272">488 U.S. 272</a> (1989)</h>
-    <h>Perry v. Leeke</h>
-    <h>No. 87-6325</h>
-    <h>Argued November 8, 1988</h>
-    <h>Decided January 10, 1989</h>
-    <h><a href="./us488-0272.xml#p272">488 U.S. 272</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE FOURTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Perry v. Leeke, <a href="./us488-0272.xml#p272">488 U.S. 272</a> (1989)</h1>
+    <h2>Perry v. Leeke</h2>
+    <h2>No. 87-6325</h2>
+    <h4>Argued November 8, 1988</h4>
+    <h4>Decided January 10, 1989</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE FOURTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>At the conclusion of petitioner's direct testimony in his state court trial for murder and related offenses, the trial judge declared a 15-minute recess and ordered that petitioner not be allowed to talk to anyone, including his lawyer, during the break. In affirming petitioner's conviction, the South Carolina Supreme Court ruled that Geders v. United States, <a href="../us425/us425-0080.xml#p80">425 U. S. 80</a> -- in which it was held that a trial court's order directing a defendant not to consult his attorney during an overnight recess, called while the defendant was on the witness stand, violated his Sixth Amendment right to the assistance of counsel -- did not require reversal, since this Court had there emphasized the fact that a defendant would "normally confer" with counsel during an overnight recess, and had explicitly disclaimed any intent to deal with limitations imposed in other circumstances. The state court declared that, normally, counsel is not permitted to confer with his client between direct and cross-examination. Subsequently, the Federal District Court granted petitioner a writ of habeas corpus, but the Court of Appeals reversed. Although agreeing with the District Court that Geders applied, and that constitutional error had occurred, the court disagreed with the lower court's ruling that a defendant subjected to a Geders violation need not demonstrate prejudice in order to have his conviction set aside. The court concluded that petitioner's conviction should stand because the trial court's error was not prejudicial under Strickland v. Washington, <a href="../us466/us466-0668.xml#p668">466 U. S. 668</a>, in that the evidence against petitioner was overwhelming, and there was no basis for believing that his testimony on cross-examination would have been different had he been given an opportunity to confer with his counsel during the recess.</p>
     <p>Held:</p>
     <p>1. A showing of prejudice is not an essential component of a violation of the Geders rule, in light of the fundamental importance of the criminal defendant's constitutional right to be represented by counsel. By citing Geders in distinguishing between direct governmental interference with that right and denial of the right by virtue of counsel's ineffective assistance, Strickland made clear that the complete denial of the right by the government is not subject to the kind of prejudice analysis that is appropriate</p>
@@ -24,7 +24,7 @@
     <p>In Geders v. United States, <a href="../us425/us425-0080.xml#p80">425 U. S. 80</a> (1976), we held that a trial court's order directing a defendant not to consult</p>
     <n id="p274">274</n>
     <p>his attorney during an overnight recess, called while the defendant was on the witness stand, violated his Sixth Amendment right to the assistance of counsel. Today we consider whether the Geders rule applies to a similar order entered at the beginning of a 15-minute afternoon recess.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Petitioner was tried and convicted by a jury of participating in a brutal murder, kidnaping, and sexual assault. His defense was that he had not taken an active part in the abduction or the homicide, and that his participation in the sexual assault was the product of duress. Evidence offered on his behalf indicated that he was mildly retarded, and that he was a nonviolent person who could be easily influenced by others. He took the stand and began to testify in his own defense after a lunch recess.</p>
     <p>At the conclusion of his direct testimony, the trial judge declared a 15-minute recess, and, without advance notice to counsel, ordered that petitioner not be allowed to talk to anyone, including his lawyer, during the break. When the trial resumed, counsel moved for a mistrial. The judge denied the motion, explaining that petitioner</p>
     <p>"was in a sense then a ward of the Court. He was not entitled to be cured or assisted or helped approaching his cross-examination."</p>
@@ -43,7 +43,7 @@
     <n id="p277">277</n>
     <p>Because the question presented by this case is not only important, but also one that frequently arises, [<a id="nf2" href="#fn2">Footnote 2</a>] we granted certiorari, 485 U.S. 976 (1988).</p>
     <n id="p278">278</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>There is merit in petitioner's argument that a showing of prejudice is not an essential component of a violation of the</p>
     <n id="p279">279</n>
     <p>rule announced in Geders. In that case, we simply reversed the defendant's conviction without pausing to consider the extent of the actual prejudice, if any, that resulted from the defendant's denial of access to his lawyer during the overnight recess. That reversal was consistent with the view we have often expressed concerning the fundamental importance of the criminal defendant's constitutional right to be represented by counsel. [<a id="nf3" href="#fn3">Footnote 3</a>] See, e.g., United States v. Cronic, 466 U.S. at <a href="../us466/us466-0648.xml#p653">466 U. S. 653</a>-654; Chapman v. California, <a href="../us386/us386-0018.xml#p18">386 U. S. 18</a>, <a href="../us386/us386-0018.xml#p23">386 U. S. 23</a>, n. 8 (1967); Gideon v. Wainwright, <a href="../us372/us372-0335.xml#p335">372 U. S. 335</a> (1963); Glasser v. United States, <a href="../us315/us315-0060.xml#p60">315 U. S. 60</a>, <a href="../us315/us315-0060.xml#p76">315 U. S. 76</a> (1942).</p>
@@ -53,7 +53,7 @@
     <n id="p280">280</n>
     <p>"Government violates the right to effective assistance when it interferes in certain ways with the ability of counsel to make independent decisions about how to conduct the defense. See, e.g., Geders v. United States, <a href="https://law.justia.com/us/425/80/">425 U. S. 80</a> (1976) (bar on attorney-client consultation during the overnight recess); Herring v. New York, <a href="https://law.justia.com/us/422/853/">422 U. S. 853</a> (1975) (bar on summation at bench trial); Brooks v. Tennessee, <a href="https://law.justia.com/us/406/605/">406 U. S. 605</a>, <a href="https://law.justia.com/us/406/605/#612">406 U. S. 612</a>-613 (1972) (requirement that defendant be first defense witness); Ferguson v. Georgia, <a href="https://law.justia.com/us/365/570/">365 U. S. 570</a>, <a href="https://law.justia.com/us/365/570/#593">365 U. S. 593</a>-596 (1961) (bar on direct examination of defendant). Counsel, however, can also deprive a defendant of the right to effective assistance, simply by failing to render 'adequate legal assistance,' Cuyler v. Sullivan, 446 U.S. at <a href="https://law.justia.com/us/446/335/#344">446 U. S. 344</a>. Id. at <a href="https://law.justia.com/us/446/335/#345">446 U. S. 345</a>-350 (actual conflict of interest adversely affecting lawyer's performance renders assistance ineffective)."</p>
     <p>Id. at <a href="../us466/us466-0668.xml#p686">466 U. S. 686</a>. Our citation of Geders in this context was intended to make clear that "[a]ctual or constructive denial of the assistance of counsel altogether," Strickland v. Washington, supra, at <a href="../us466/us466-0668.xml#p692">466 U. S. 692</a>, is not subject to the kind of prejudice analysis that is appropriate in determining whether the quality of a lawyer's performance itself has been constitutionally ineffective. See Penson v. Ohio, ante at <a href="./us488-0075.xml#p88">488 U. S. 88</a>; United States v. Cronic, supra, at <a href="../us466/us466-0648.xml#p659">466 U. S. 659</a>, and n. 25. Thus, we cannot accept the rationale of the Court of Appeals' decision.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>We are persuaded, however, that the underlying question whether petitioner had a constitutional right to confer with his attorney during the 15-minute break in his testimony -- a question that we carefully preserved in Geders -- was correctly resolved by the South Carolina Supreme Court. Admittedly, the line between the facts of Geders and the facts of this case is a thin one. It is, however, a line of constitutional dimension. Moreover, contrary to the views expressed by</p>
     <n id="p281">281</n>
     <p>the dissenting member of the South Carolina Supreme Court, see <a id="nf1" href="#fn1">n</a> 1, supra, it is not one that rests on an assumption that trial counsel will engage in unethical "coaching."</p>
@@ -109,7 +109,7 @@
       <p>I join Parts I and III of the Court's opinion and the holding that petitioner was not denied his constitutional right to assistance of counsel. In view of our ruling, it is quite unnecessary to discuss whether prejudice must be shown when the right to counsel is denied. I would not address that issue, and so I decline to join Part II of the Court's opinion.</p>
       <p>JUSTICE MARSHALL, with whom JUSTICE BRENNAN and JUSTICE BLACKMUN join, dissenting.</p>
       <p>In Geders v. United States, <a href="../us425/us425-0080.xml#p80">425 U. S. 80</a> (1976), we held unanimously that a trial judge's order barring a defendant from conferring with his attorney during an overnight recess violated the defendant's Sixth Amendment right to the assistance of counsel. The majority holds today that, when a recess is "short," unlike the "long recess" in Geders, a defendant has no such constitutional right to confer with his attorney. Ante at <a href="./us488-0272.xml#p284"> 488 U. S. 284</a>. Because this distinction has no constitutional or logical grounding, and rests on a recondite understanding of the role of counsel in our adversary system, I dissent.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>Contrary to the majority's holding, the Sixth Amendment forbids</p>
       <p>"any order barring communication between a defendant and his attorney, at least where that communication would not interfere with the orderly and expeditious progress of the trial."</p>
       <p>Geders, supra, at <a href="../us425/us425-0080.xml#p92">425 U. S. 92</a> (MARSHALL, J., concurring) (emphasis in original). This view is hardly novel; on the contrary, every Court of Appeals to consider this issue since Geders, including the en banc Fourth Circuit in this case, 832 F.2d 837, 839 (1987), has concluded that a bar on</p>
@@ -162,7 +162,7 @@
       <p>832 F.2d at 849 (Winter, C.J., dissenting). [Footnote 2/7]</p>
       <p>Yet another perverse aspect of the majority's opinion is its recognition that a defendant has a "constitutional right" to discuss those "matters that go beyond the content of the defendant's own testimony." Ante at <a href="./us488-0272.xml#p284">488 U. S. 284</a>. Having recognized this right, one would expect the majority to require trial judges to permit attorney-defendant contact during all recesses, no matter how brief, so long as trial testimony is not discussed. Instead, the majority merely suggests in a footnote that trial judges "may permit consultation between counsel and defendant during such a recess, but forbid discussion of ongoing testimony." Ante at <a href="./us488-0272.xml#p284">488 U. S. 284</a>, n. 8 (emphasis added). If attorney-client discussions regarding matters other than testimony have constitutional stature, they surely deserve more protection than the majority offers today. It may well be that Perry and his counsel would have discussed "matters that [went] beyond the content of [Perry's] own testimony," ante at <a href="./us488-0272.xml#p284">488 U. S. 284</a>; Perry was, however, denied this constitutional right. In allowing trial judges to ban all brief recess consultations, even those including or limited to discussions regarding nontestimonial matters, the majority needlessly fires grapeshot where, even under its own reasoning, a single bullet would have sufficed. [Footnote 2/8]</p>
       <n id="p296">296</n>
-      <h>II</h>
+      <h2>II</h2>
       <p>Today's decision is regrettable in two further respects. In practical terms, the majority leaves the trial judge "to guess at whether she has committed a constitutional violation" when she issues a recess bar order. Sanders v. Lane, 861 F.2d at 1037. Is it "appropriate to presume" that a 30-minute recess will involve a discussion of nontestimonial matters? How about a lunch break? Does it matter that defense counsel has promised only to discuss nontestimonial matters with his client? Does the majority's rationale encompass recesses during the defendant's direct or redirect testimony, or just those after the direct examination has concluded? These are not abstract inquiries, but the sort that have arisen, and will continue to arise, on a routine basis. See id. at 1036-1037 (collecting cases). By not even providing a practical framework in which to answer these questions, the majority ensures that defendants, even those in adjoining courtrooms, will be subject to inconsistent practices. Such inconsistency is untenable when a critical constitutional right is at stake.</p>
       <p>The majority's standardless approach guarantees a new bout of appellate litigation during which lower courts ineluctably will issue conflicting decisions as to the point at which a "short" recess bar order becomes a constitutionally impermissible "long" recess bar order. Given that "clarification is</p>
       <n id="p297">297</n>

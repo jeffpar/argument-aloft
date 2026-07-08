@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us421-0330.html" citation="421 U.S. 330" title="Phelps v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p330">330</n>
-    <h>U.S. Supreme Court</h>
-    <h>Phelps v. United States, <a href="./us421-0330.xml#p330">421 U.S. 330</a> (1975)</h>
-    <h>Phelps v. United States</h>
-    <h>No. 74-121</h>
-    <h>Argued April 16, 1975</h>
-    <h>Decided May 19, 1975</h>
-    <h><a href="./us421-0330.xml#p330">421 U.S. 330</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SEVENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Phelps v. United States, <a href="./us421-0330.xml#p330">421 U.S. 330</a> (1975)</h1>
+    <h2>Phelps v. United States</h2>
+    <h2>No. 74-121</h2>
+    <h4>Argued April 16, 1975</h4>
+    <h4>Decided May 19, 1975</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SEVENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>After the Internal Revenue Service (IRS) had made federal tax assessments against a company and the company failed to pay the taxes after formal demand, the company transferred its assets to an assignee for the benefit of creditors, who converted the assets into cash. The IRS then filed a notice of tax lien respecting the assessments and served a levy notice on the assignee, who did not, however, comply with the IRS's payment demand. The company was thereafter adjudicated bankrupt, and petitioner receiver in bankruptcy made application to the bankruptcy Referee for an order requiring the assignee to turn over the cash proceeds. The IRS opposed the application on the ground that the bankruptcy court lacked jurisdiction over the subject matter of the application because the United States was entitled to possession of the cash proceeds held by the bankrupt's assignee. The Referee rejected the IRS's contention, holding that the assignment passed inalienable title to the assets of the company to the assignee, and the District Court upheld the Referee. The Court of Appeals reversed.</p>
     <p>Held: The United States, by serving the bankrupt taxpayer's assignee with a valid notice of levy, took constructive custody of the cash proceeds in the assignee's possession, and neither the bankrupt nor petitioner as receiver could assert a claim to those proceeds. The receiver's recourse is limited to a plenary suit under § 23 of the Bankruptcy Act. Pp. <a href="./us421-0330.xml#p333">421 U. S. 333</a>-337.</p>
     <p>495 F.2d 1283, affirmed.</p>
@@ -28,7 +28,7 @@
     <p>495 F.2d at 1285-1286. We granted certiorari to resolve the conflict between the Courts of Appeals, 419 U.S. 1068 (1974). [<a id="nf1" href="#fn1">Footnote 1</a>] We agree with the holding of the</p>
     <n id="p333">333</n>
     <p>Court of Appeals for the Seventh Circuit and affirm its judgment. [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The assignee claims no interest in the proceeds of the $38,000. The Court of Appeals for the Ninth Circuit, in In re United General Wood Products Corp., 483 F.2d 975, 976 (1973), held that that circumstance, without more, subjected property to the bankruptcy court's summary jurisdiction to enter a turnover order. Wood Products Corp. relied on the statement in Taubel-Scott-Kitzmiller Co. v. Fox, <a href="../us264/us264-0426.xml#p426">264 U. S. 426</a>, <a href="../us264/us264-0426.xml#p432">264 U. S. 432</a>-433 (1924), that constructive possession of the property by the bankruptcy court "exists . . . where the property is held by some other person who makes no claim to it." That reliance is misplaced. The statement, read in the context of the facts of that case and its holding, applied only to property in the hand of a nonadverse</p>
     <n id="p334">334</n>
     <p>third person who was not holding it as agent for a bona fide adverse claimant. Taubel itself held that the bankruptcy court had not been given jurisdiction by summary proceedings to avoid a lien created by levy under a judgment of a state court where the sheriff possessed the property for the judgment creditor, and neither he nor the judgment creditor had consented to adjudication of the controversy by the bankruptcy court. Similarly, in this case, the United States is a bona fide adverse claimant to the $38,000 proceeds held by the assignee, and has not consented to adjudication of its claim by the bankruptcy court.</p>
@@ -77,7 +77,7 @@
       <p>Section 67c(3) of the Bankruptcy Act, 11 U.S.C. § 107(c)(3), provides in pertinent part:</p>
       <p>"Every tax lien on personal property not accompanied by possession shall be postponed in payment to the debts specified in clauses (1) and (2) of subdivision (a) of section 104 of this title. . . ."</p>
       <p>Section 64 of the Bankruptcy Act, 11 U.S.C. § 104, provides in pertinent part:</p>
-      <p>"(a) The debts to have priority, in advance of the payment of dividends to creditors, and to be paid in full out of bankrupt estates, and the order of payment, shall be (1) the costs and expenses of administration . . . , (2) wages and commissions, not to exceed $600 to each claimant, which have been earned within three months before the date of the commencement of the proceeding, due to workmen, servants, clerks, or traveling, or city salesmen. . . ."</p>
+      <p>"(a) The debts to have priority, in advance of the payment of dividends to creditors, and to be paid in full out of bankrupt estates, and the order of payment, shall be (1) the costs and expenses of administration . . ., (2) wages and commissions, not to exceed $600 to each claimant, which have been earned within three months before the date of the commencement of the proceeding, due to workmen, servants, clerks, or traveling, or city salesmen. . . ."</p>
     </f>
     <f n="8"><a id="fn8" href="#nf8">Footnote 8</a>
       <p>Petitioner also relies on § 70a(8) of the Bankruptcy Act, 11 U.S.C. § 110(a)(8). Section 70a(8) vests the trustee of the bankrupt's estate "with the title of the bankrupt as of the date of the filing of the petition . . . to . . . property held by an assignee for the benefit of creditors." Even petitioner argues, however, that Chicagoland, on September 1, 1971, had no title to the property conveyed to the assignee. Brief for Petitioner 14. In any event, the pre-bankruptcy levy displaced any title of Chicagoland, and § 70a(8) is therefore inapplicable.</p>

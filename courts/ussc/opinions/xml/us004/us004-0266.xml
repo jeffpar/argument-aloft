@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us004-0266.html" citation="4 U.S. 266" title="CITY OF PHILADELPHIA v. MASON.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p266">266</n>
-    <h>U.S. Supreme Court</h>
-    <h>CITY OF PHILADELPHIA v. MASON., <a href="./us004-0266.xml#p266">4 U.S. 266</a> (1803)</h>
-    <h> <a href="./us004-0266.xml#p266">4 U.S. 266</a> (Dall.)</h>
-    <h>The Mayor, &amp;c. v. Mason.</h>
-    <h>Supreme Court of Pennsylvania.</h>
-    <h>March Term, 1803</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>CITY OF PHILADELPHIA v. MASON., <a href="./us004-0266.xml#p266">4 U.S. 266</a> (1803)</h1>
+    <h2>The Mayor, &amp;c. v. Mason.</h2>
+    <h2>Supreme Court of Pennsylvania.</h2>
+    <h4>March Term, 1803</h4>
     <p>THIS was a certiorari, to remove the proceedings from the Mayor, into this Court; to which he made the following return under seal:</p>
     <p>'The Mayor, Aldermen and Citizens1 v. 'Elizabeth Mason.</p>
     <p>November 19, 1800.</p>
@@ -24,7 +24,7 @@
     <p>Dickerson (the solicitor for the corporation) endeavoured to answer the exceptions; and cited 1 Stra. 316. 10 Co. 125. 1 Bac. Abr.</p>
     <p>But, by the COURT:</p>
     <p>Some of the objections are insurmountable. In the first place, it is not sufficient to state the evidence; but the magistrate must go on to declare, that the offence was committed, and the defendant thereof convicted. Here, neither the offence, nor the conviction, are to be found in the proceedings. In the next place, we have no statement where the defendant carried on the business of huckster; and it might be where it was no offence to do so; or where the corporation had no jurisdiction to punish it as an offence. The proceedings are, therefore, manifestly erroneous, and must be set aside.</p>
-    <h>Footnotes</h>
+    <h2>Footnotes</h2>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>
       <p>An exception, that the words 'of Philadelphia' had been omitted, in the corporate title, was waived. There were several other cases, depending on the decision in this case.</p>
     </f>

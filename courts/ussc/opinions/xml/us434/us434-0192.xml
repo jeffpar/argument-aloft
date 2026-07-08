@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us434-0192.html" citation="434 U.S. 192" title="United Air Lines, Inc. v. McMann">
   <opinion type="Opinions &amp; Dissents">
     <n id="p192">192</n>
-    <h>U.S. Supreme Court</h>
-    <h>United Air Lines, Inc. v. McMann, <a href="./us434-0192.xml#p192">434 U.S. 192</a> (1977)</h>
-    <h>United Air Lines, Inc. v. McMann</h>
-    <h>No. 76-906</h>
-    <h>Argued October 4, 1977</h>
-    <h>Decided December 12, 1977</h>
-    <h><a href="./us434-0192.xml#p192">434 U.S. 192</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE FOURTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United Air Lines, Inc. v. McMann, <a href="./us434-0192.xml#p192">434 U.S. 192</a> (1977)</h1>
+    <h2>United Air Lines, Inc. v. McMann</h2>
+    <h2>No. 76-906</h2>
+    <h4>Argued October 4, 1977</h4>
+    <h4>Decided December 12, 1977</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE FOURTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>The Age Discrimination in Employment Act of 1967, which applies to persons between the ages of 40 and 65, makes it unlawful for an employer to discharge any individual or otherwise discriminate against him with respect to his compensation, terms, conditions, or privileges of employment because of such individual's age. The Act specifies, however, in § 4(f)(2) that it shall not be unlawful for an employer to observe the terms of a bona fide seniority system or any bona fide employee benefit plan such as a retirement, pension, or insurance plan that is not a "subterfuge" to evade the Act's purposes. Petitioner inaugurated a retirement income plan in 1941, which respondent employee voluntarily joined in 1964 after he had signed an application form that showed the normal retirement age for participants in his category as 60 years. After respondent was retired upon reaching that age, he brought this suit under the Act, contending that his retirement was solely because of his age, and violated the Act. The District Court granted a motion for summary judgment filed by petitioner, which had contended that respondent was retired in compliance with a bona fide retirement plan that he had voluntarily joined. The Court of Appeals reversed. Though it had been conceded that petitioner's plan was bona fide "in the sense that it exists and pays benefits," the court ruled that a pre-age-65 retirement is a "subterfuge" within the meaning of § 4(f)(2) unless the employer can show that the "early retirement provision . . . has some economic or business purpose other than arbitrary age discrimination."</p>
     <p>Held: Petitioner's retirement plan comes within the § 4(f)(2) exception, in the context of which "subterfuge" must be given its ordinary meaning as a scheme or stratagem to avoid the application of the Act. There is nothing to suggest that Congress intended to invalidate plans that were instituted in good faith before the Act's passage or that it intended to require employers to show a business or economic purpose to justify bona fide plans that antedated enactment of the statute. Pp. <a href="./us434-0192.xml#p195">434 U. S. 195</a>-203.</p>
     <p>542 F.2d 217, reversed and remanded.</p>
@@ -20,7 +20,7 @@
     <p>and WHITE, J., post, p. <a href="./us434-0192.xml#p204">434 U. S. 204</a>, filed opinions concurring in the judgment. MARSHALL, J., filed a dissenting opinion, in which BRENNAN, J., joined, post, p. <a href="./us434-0192.xml#p208">434 U. S. 208</a>.</p>
     <p>MR. CHIEF JUSTICE BURGER, delivered the opinion of the Court.</p>
     <p>The question presented in this case is whether, under the Age Discrimination in Employment Act of 1967, retirement of an employee over his objection and prior to reaching age 65 is permissible under the provisions of a bona fide retirement plan established by the employer in 1941 and joined by the employee in 1964. We granted certiorari to resolve a conflict between the holdings of the Fifth Circuit in Brennan v. Taft Broadcasting Co., 500 F.2d 212 (1974), and the Fourth Circuit now before us. See Zinger v. Blanchette, 549 F.2d 901 (CA3 1977), cert. pending, No. 76-1375.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The operative facts were stipulated by the parties in the District Court and are not controverted here. McMann joined United Air Lines, Inc., in 1944, and continued as an employee until his retirement at age 60 in 1973. Over the years, he held various positions with United, and, at retirement, held that of technical specialist-aircraft systems. At the time</p>
     <n id="p194">194</n>
     <p>McMann was first employed, United maintained a formal retirement income plan it had inaugurated in 1941, in which McMann was eligible to participate, but was not compelled to join. [<a id="nf1" href="#fn1">Footnote 1</a>] He voluntarily joined the plan in January, 1964. The application form McMann signed showed the normal retirement age for participants in his category as 60 years.</p>
@@ -30,7 +30,7 @@
     <n id="p195">195</n>
     <p>The Court of Appeals agreed, holding that a pre-age-65 retirement falls within the meaning of "subterfuge" unless the employer can show that the "early retirement provision . . . ha[s] some economic or business purpose other than arbitrary age discrimination." 542 F.2d 217, 221 (1976). The Court of Appeals remanded the case to the District Court to allow United an opportunity to show an economic or business purpose and United sought review here.</p>
     <p>We reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Section 2(b) of the Age Discrimination in Employment Act of 1967, 81 Stat. 602, recites that its purpose is</p>
     <p>"to promote employment of older persons based on their ability rather than age; to prohibit arbitrary age discrimination in employment; to help employers and workers find ways of meeting problems arising from the impact of age on employment."</p>
     <p>29 U.S.C. § 621(b). Section 4(a)(1) of the Act, 81 Stat. 603, makes it unlawful for an employer</p>
@@ -83,7 +83,7 @@
     <p>There is no reason to doubt that Secretary Wirtz fully appreciated the difference between the administration and Senate bills. He was aware of Senator Javits' concerns, and knew the Senator sought to amend the original bill to focus on the hiring of older persons notwithstanding the existence of pension plans which they might not economically be permitted to join. See Senate Hearings 40. Senator Javits' view was enacted into law making it possible to employ such older persons without compulsion to include them in preexisting plans.</p>
     <p>The dissent misconceives what was said in the Senate debate. The dialogue between Senators Javits and Yarborough, the minority and majority managers of the bill, respectively, is set out below, [<a id="nf8" href="#fn8">Footnote 8</a>] and clearly shows awareness of the continued vitality of pre-age-65 retirements.</p>
     <n id="p203">203</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>In this case, of course, our function is narrowly confined to discerning the meaning of the statutory language; we do not pass on the wisdom of fixed mandatory retirements at a particular age. So limited, we find nothing to indicate Congress intended wholesale invalidation of retirement plans instituted in good faith before its passage, or intended to require employers to bear the burden of showing a business or economic purpose to justify bona fide preexisting plans as the Fourth Circuit concluded. In ordinary parlance, and in dictionary definitions as well, a subterfuge is a scheme, plan, stratagem, or artifice of evasion. In the context of this statute, "subterfuge" must be given its ordinary meaning and we must assume Congress intended it in that sense. So read, a plan established in 1941, if bona fide, as is conceded here, cannot be a subterfuge to evade an Act passed 26 years later. To spell out an intent in 1941 to evade a statutory requirement not enacted until 1967 attributes, at the very least, a remarkable prescience to the employer. We reject any such per se rule requiring an employer to show an economic or business purpose in order to satisfy the subterfuge language of the Act. [<a id="nf9" href="#fn9">Footnote 9</a>]</p>
     <n id="p204">204</n>
     <p>Accordingly, the judgment of the Court of Appeals is reversed, and the case is remanded for further proceedings consistent with this opinion.</p>
@@ -127,7 +127,7 @@
       <p>It is conceded that United's retirement plan is bona fide. The only issue, then, is whether it is a "subterfuge to evade the purposes" of the Act. I think it is simply not possible for a bona fide retirement plan adopted long before the Act was even contemplated to be a "subterfuge" to "evade" either its terms or its purposes.</p>
       <p>Since § 623(f)(2), on its face, makes United's action under the retirement plan lawful, it is unnecessary to address any of the other questions discussed in the Court's opinion or by MR. JUSTICE WHITE.</p>
       <p>MR. JUSTICE WHITE, concurring in the judgment.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>While I agree with the Court and with MR. JUSTICE STEWART that McMann's forced retirement at age 60 pursuant to United's retirement income plan does not violate the Age Discrimination in Employment Act of 1967, 29 U.S.C. § 621 et seq., I disagree with the proposition that this bona fide plan necessarily is made lawful under § 4(f)(2) of the Act, 29</p>
       <n id="p205">205</n>
       <p>U.S.C. § 623(f)(2), merely because it was adopted long before the Act's passage. Even conceding that the retirement plan could not have been a subterfuge to evade the purposes of the Act when it was adopted by United in 1941, I believe that the decision by United to continue the mandatory aspects of the plan after the Act became effective in 1968 must be separately examined to determine whether it is proscribed by the Act.</p>
@@ -135,9 +135,9 @@
       <p>No one has suggested in this case that United did not have the legal option of altering its plan to allow employees who desired to continue working beyond age 60 to do so; at the most, it has been concluded that United simply elected to apply its retirement policy uniformly. See ante at <a href="./us434-0192.xml#p196">434 U. S. 196</a>. Because United chose to continue its mandatory retirement policy beyond the effective date of the Act, I would not terminate the inquiry with the observation that the plan was adopted long before Congress considered the age discrimination Act, but rather would proceed to what I consider to be the crucial question: does the Act prohibit the mandatory retirement pursuant to a bona fide retirement plan of an employee before</p>
       <n id="p206">206</n>
       <p>he reaches age 65? My reading of the legislative history, set out in <a href="./us434-0192.xml#p195">434 U. S.</a> convinces me that it does not.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>As the opinion of the Court demonstrates, Congress in passing the Act did not intend to make involuntary retirements unlawful. In recommending the legislation to Congress, President Johnson specifically suggested an exception for those "special situations . . . where the employee is separated under a regular retirement system." 113 Cong Rec. 1089-1090 (1967). [Footnote 2/1] Pursuant to this recommendation, the House and Senate bills that were referred to committee expressly excepted involuntary retirements from the Act's prohibition, [Footnote 2/2] an exception which, with only slight changes, remained in the final version enacted by Congress. As the Court correctly concludes, the changes that were made in § 4(f)(2) were intended, not to eliminate the protection for retirement plans, but rather to meet the additional concern expressed by Senator Javits concerning the applicability of retirement plans to older workers who are hired. While the discussion in Congress concerning the language change was not extensive, it indicated that the change was intended to broaden the exception for retirement plans. I thus find unacceptable the dissent's view that Congress acceded to labor's suggestion that the protection for involuntary retirement be eliminated.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>In this case, the Fourth Circuit recognized the fact that United's retirement plan is "bona fide" in the sense that it</p>
       <n id="p207">207</n>
       <p>provides McMann with substantial benefits. The court, however, viewed as separate and additional the requirement that the plan not be a subterfuge to evade the purposes of the Act. I find no support in the legislative history for the interpretation of that language as requiring "some economic or business purpose." 542 F.2d 217, 221 (CA4 1976). Rather, as I read the history, Congress intended to exempt from the Act's prohibition all retirement plans -- even those whose only purpose is to terminate the services of older workers -- as long as the benefits they pay are not so unreasonably small as to make the "retirements" nothing short of discharges.</p>

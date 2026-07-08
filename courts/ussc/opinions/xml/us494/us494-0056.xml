@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us494-0056.html" citation="494 U.S. 56" title="Reves v. Ernst &amp;amp; Young">
   <opinion type="Opinions &amp; Dissents">
     <n id="p56">56</n>
-    <h>U.S. Supreme Court</h>
-    <h>Reves v. Ernst &amp; Young, <a href="./us494-0056.xml#p56">494 U.S. 56</a> (1990)</h>
-    <h>Reves v. Ernst &amp; Young</h>
-    <h>No. 88-1480</h>
-    <h>Argued Nov. 27, 1989</h>
-    <h>Decided Feb. 21, 1990</h>
-    <h><a href="./us494-0056.xml#p56">494 U.S. 56</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE EIGHTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Reves v. Ernst &amp; Young, <a href="./us494-0056.xml#p56">494 U.S. 56</a> (1990)</h1>
+    <h2>Reves v. Ernst &amp; Young</h2>
+    <h2>No. 88-1480</h2>
+    <h4>Argued Nov. 27, 1989</h4>
+    <h4>Decided Feb. 21, 1990</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE EIGHTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>In order to raise money to support its general business operations, the Farmer's Cooperative of Arkansas and Oklahoma sold uncollateralized and uninsured promissory notes payable on demand by the holder. Offered to both Co-Op members and nonmembers and marketed as an "Investment Program," the notes paid a variable interest rate higher than that of local financial institutions. After the Co-Op filed for bankruptcy, petitioners, holders of the notes, filed suit in the District Court against the Co-Op's auditor, respondent's predecessor, alleging, inter alia, that it had violated the antifraud provisions of the Securities Exchange Act of 1934 -- which regulates certain specified instruments, including "any note[s]" -- and Arkansas' securities laws by intentionally failing to follow generally accepted accounting principles that would have made the Co-Op's insolvency apparent to potential note purchasers. Petitioners prevailed at trial, but the Court of Appeals reversed. Applying the test created in SEC v. W.J. Howey Co., <a href="../us328/us328-0293.xml#p293">328 U. S. 293</a>, to determine whether an instrument is an "investment contract" to the determination whether the Co-Op's instruments were "notes," the court held that the notes were not securities under the 1934 Act or Arkansas law, and that the statutes' antifraud provisions therefore did not apply.</p>
     <p>Held: The demand notes issued by the Co-Op fall under the "note" category of instruments that are "securities." Pp. <a href="./us494-0056.xml#p60">494 U. S. 60</a>-76.</p>
     <p>(a) Congress' purpose in enacting the securities laws was to regulate investments, in whatever form they are made and by whatever name they are called. However, notes are used in a variety of settings, not all of which involve investments. Thus, they are not securities per se, but must be defined using the "family resemblance" test. Under that test, a note is presumed to be a security unless it bears a strong resemblance, determined by examining four specified factors, to one of a judicially crafted list of categories of instrument that are not securities. If the instrument is not sufficiently similar to a listed item, a court must decide whether another category should be added by examining the same factors. The application of the Howey test to notes is rejected, since to hold that a "note" is not a "security" unless it meets a test designed for</p>
@@ -25,7 +25,7 @@
     <p>MARSHALL, J., delivered the opinion of the Court, in which BRENNAN, BLACKMUN, STEVENS, and KENNEDY, JJ., joined. STEVENS, J., filed a concurring opinion, post, p. <a href="./us494-0056.xml#p73">494 U. S. 73</a>. REHNQUIST, C.J., filed an opinion concurring in part and dissenting in part, in which WHITE, O'CONNOR, and SCALIA, JJ., joined, post, p. 494 U.S. 76.</p>
     <p>Justice MARSHALL delivered the op nion of the Court.</p>
     <p>This case presents the question whether certain demand notes issued by the Farmer's Cooperative of Arkansas and Oklahoma are "securities" within the meaning of § 3(a)(10) of the Securities Exchange Act of 1934. We conclude that they are.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The Co-Op is an agricultural cooperative that, at the time relevant here, had approximately 23,000 members. In order to raise money to support its general business operations, the Co-Op sold promissory notes payable on demand by the holder. Although the notes were uncollateralized and uninsured, they paid a variable rate of interest that was adjusted</p>
     <n id="p59">59</n>
     <p>monthly to keep it higher than the rate paid by local financial institutions. The Co-Op offered the notes to both members and nonmembers, marketing the scheme as an "Investment Program." Advertisements for the notes, which appeared in each Co-Op newsletter, read in part:</p>
@@ -35,7 +35,7 @@
     <p>Petitioners prevailed at trial on both their federal and state claims, receiving a $6.1 million judgment. Arthur Young appealed, claiming that the demand notes were not "securities" under either the 1934 Act or Arkansas law, and that the statutes' antifraud provisions therefore did not apply. A panel of the Eighth Circuit, agreeing with Arthur Young on both the state and federal issues, reversed. Arthur Young &amp; Co. v. Reves, 856 F.2d 52 (1988). We granted certiorari to address</p>
     <n id="p60">60</n>
     <p>the federal issue, 490 U.S. 1105 (1989), and now reverse the judgment of the Court of Appeals.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>A</p>
     <p>This case requires us to decide whether the note issued by the Co-Op is a "security" within the meaning of the 1934 Act. Section 3(a)(10) of that Act is our starting point:</p>
     <p>"The term 'security' means any note, stock, treasury stock, bond, debenture, certificate of interest or participation in any profit-sharing agreement or in any oil, gas, or other mineral royalty or lease, any collateral-trust certificate, preorganization certificate or subscription, transferable share, investment contract, voting-trust certificate, certificate of deposit, for a security, any put, call, straddle, option, or privilege on any security, certificate of deposit, or group or index of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, or privilege entered into on a national securities exchange relating to foreign currency, or in general, any instrument commonly known as a 'security'; or any certificate of interest or participation in, temporary or interim certificate for, receipt for, or warrant or right to subscribe to or purchase, any of the foregoing; but shall not include currency or any note, draft, bill of exchange, or banker's acceptance which has a maturity at the time of issuance of not exceeding nine months, exclusive of days of grace, or any renewal thereof the maturity of which is likewise limited."</p>
@@ -86,7 +86,7 @@
     <n id="p70">70</n>
     <p>sale of a share of stock through a national exchange and the receipt of the proceeds usually occur simultaneously.</p>
     <p>We therefore hold that the notes at issue here are within the term "note" in § 3(a)(10).</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Relying on the exception in the statute for "any note . . . which has a maturity at the time of issuance of not exceeding nine months," 15 U.S.C. § 78c(a)(10), respondent contends that the notes here are not "securities," even if they would otherwise qualify. Respondent cites Arkansas cases standing for the proposition that, in the context of the state statute of limitations, "[a] note payable on demand is due immediately." See, e.g., McMahon v. O'Keefe, 213 Ark. 105, 106, 209 S.W.2d 449, 450 (1948) (statute of limitations is triggered by the date of issuance rather than by date of first demand). Respondent concludes from this rule that the "maturity" of a demand note within the meaning of § 3(a)(10) is immediate, which is, of course, less than nine months. Respondent therefore contends that the notes fall within the plain words of the exclusion and are thus not "securities."</p>
     <p>Petitioners counter that the "plain words" of the exclusion should not govern. Petitioners cite legislative history of a similar provision of the 1933 Act, 48 Stat. 76, 15 U.S.C. § 77c(a)(3), for the proposition that the purpose of the exclusion is to except from the coverage of the Acts only commercial paper -- short-term, high quality instruments issued to fund current operations and sold only to highly sophisticated investors. See S.Rep. No. 47, 73d Cong., 1st Sess., 3-4 (1933); H.R.Rep. No. 85, 73d Cong., 1st Sess., 15 (1933). Petitioner also emphasizes that this Court has repeatedly held (see supra at <a href="./us494-0056.xml#p60">494 U. S. 60</a>-63) that the plain words of the definition of a "security" are not dispositive, and that we consider the economic reality of the transaction to determine whether Congress intended the Securities Acts to apply. Petitioner therefore argues, with some force, that reading the exception</p>
     <n id="p71">71</n>
@@ -99,7 +99,7 @@
     <p>Neither the law of Arkansas nor that of any other State provides an answer to the federal question, and, as a matter of federal law, the words of the statute are far from "plain" with regard to whether demand notes fall within the exclusion. If it is plausible to regard a demand note as having an immediate maturity because demand could be made immediately, it is also plausible to regard the maturity of a demand note as</p>
     <n id="p73">73</n>
     <p>being in excess of nine months because demand could be made many years or decades into the future. Given this ambiguity, the exclusion must be interpreted in accordance with its purpose. As we have said, we will assume for argument's sake that petitioners are incorrect in their view that the exclusion is intended to exempt only commercial paper. Respondent presents no competing view to explain why Congress would have enacted respondent's version of the exclusion, however, and the only theory that we can imagine that would support respondent's interpretation is that Congress intended to create a bright-line rule exempting from the 1934 Act's coverage all notes of less than nine months' duration, because short-term notes are, as a general rule, sufficiently safe that the Securities Acts need not apply. As we have said, however, demand notes do not necessarily have short terms. In light of Congress' broader purpose in the Acts of ensuring that investments of all descriptions be regulated to prevent fraud and abuse, we interpret the exception not to cover the demand notes at issue here. Although the result might be different if the design of the transaction suggested that both parties contemplated that demand would be made within the statutory period, that is not the case before us.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>For the foregoing reasons, we conclude that the demand notes at issue here fall under the "note" category of instruments that are "securities" under the 1933 and 1934 Acts. We also conclude that, even under a respondent's preferred approach to § 3(a)(10)'s exclusion for short-term notes, these demand notes do not fall within the exclusion. Accordingly, we reverse the judgment of the Court of Appeals and remand the case for further proceedings consistent with this opinion.</p>
     <p>So ordered.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>

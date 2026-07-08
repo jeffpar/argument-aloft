@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us499-0530.html" citation="499 U.S. 530" title="Eastern Airlines, Inc. v. Floyd">
   <opinion type="Opinions &amp; Dissents">
     <n id="p530">530</n>
-    <h>U.S. Supreme Court</h>
-    <h>Eastern Airlines, Inc. v. Floyd, <a href="./us499-0530.xml#p530">499 U.S. 530</a> (1991)</h>
-    <h>Eastern Airlines, Inc. v. Floyd</h>
-    <h>No. 89-1598</h>
-    <h>Argued Oct. 29, 1990</h>
-    <h>Decided April 17, 1991</h>
-    <h><a href="./us499-0530.xml#p530">499 U.S. 530</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE ELEVENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Eastern Airlines, Inc. v. Floyd, <a href="./us499-0530.xml#p530">499 U.S. 530</a> (1991)</h1>
+    <h2>Eastern Airlines, Inc. v. Floyd</h2>
+    <h2>No. 89-1598</h2>
+    <h4>Argued Oct. 29, 1990</h4>
+    <h4>Decided April 17, 1991</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE ELEVENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>After petitioner's plane narrowly avoided crashing during a flight between Miami and the Bahamas, respondent passengers filed separate complaints seeking damages solely for mental distress arising out of the incident. The District Court consolidated the proceedings and ruled that Article 17 of the Warsaw Convention, which sets forth conditions under which an international air carrier can be held liable for injuries to passengers, does not allow recovery for mental anguish alone. The Court of Appeals reversed, holding that the phrase "lesion corporelle" in the authentic French text of Article 17 encompasses purely emotional distress.</p>
     <p>Held:</p>
     <p>1. Article 17 does not allow recovery for purely mental injuries. Pp. <a href="./us499-0530.xml#p534">499 U. S. 534</a>-553.</p>
@@ -30,13 +30,13 @@
     <p>Article 17 of the Warsaw Convention [<a id="nf1" href="#fn1">Footnote 1</a>] sets forth conditions under which an international air carrier can be held liable</p>
     <n id="p533">533</n>
     <p>for injuries to passengers. This case presents the question whether Article 17 allows recovery for mental or psychic injuries unaccompanied by physical injury or physical manifestation of injury.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>On May 5, 1983, an Eastern Airlines flight departed from Miami, bound for the Bahamas. Shortly after takeoff, one of the plane's three jet engines lost oil pressure. The flight crew shut down the failing engine and turned the plane around to return to Miami. Soon thereafter, the second and third engines failed due to loss of oil pressure. The plane began losing altitude rapidly, and the passengers were informed that the plane would be ditched in the Atlantic Ocean. Fortunately, after a period of descending flight without power, the crew managed to restart an engine and land the plane safely at Miami International Airport. 872 F.2d 1462, 1466 (CA11 1989).</p>
     <p>Respondents, a group of passengers on the flight, brought separate complaints against petitioner, Eastern Airlines, Inc. (Eastern), each claiming damages solely for mental distress arising out of the incident. The District Court entertained each complaint in a consolidated proceeding. [<a id="nf2" href="#fn2">Footnote 2</a>] Eastern conceded that the engine failure and subsequent preparations for ditching the plane amounted to an "accident" under Article 17 of the Convention, but argued that Article 17 also makes physical injury a condition of liability. See In re Eastern Airlines, Inc., Engine Failure, Miami Int'l Airport, <a href="https://law.justia.com/cases/federal/district-courts/FSupp/629/307/1576850/">629 F. Supp. 307</a>, 312 (SD Fla.1986). Relying on another federal court's analysis of the French authentic text</p>
     <n id="p534">534</n>
     <p>and negotiating history of the Convention, see Burnett v. Trans World Airlines, Inc., <a href="https://law.justia.com/cases/federal/district-courts/FSupp/368/1152/1802493/">368 F. Supp. 1152</a> (NM 1973), the District Court concluded that mental anguish alone is not compensable under Article 17. See 629 F. Supp. at 314.</p>
     <p>The Court of Appeals for the Eleventh Circuit reversed, holding that the phrase "lesion corporelle" in the authentic French text of Article 17 encompasses purely emotional distress. See 872 F.2d at 1480. To support its conclusion, the court examined the French legal meaning of the term "lesion corporelle," the concurrent and subsequent history of the Convention, and cases interpreting Article 17. See id. at 1471-1480. We granted certiorari, 496 U.S. 904 (1990), to resolve a conflict between the Eleventh Circuit's decision in this case and the New York Court of Appeals' decision in Rosman v. Trans World Airlines, Inc., 34 N.Y.2d 385, 358 N.Y.S.2d 97, 314 N.E.2d 848 (1974), which held that purely psychic trauma is not compensable under Article 17. [<a id="nf3" href="#fn3">Footnote 3</a>] We now hold that Article 17 does not allow recovery for purely mental injuries.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>"When interpreting a treaty, we begin "with the text</p>
     <p>of the treaty and the context in which the written words are used."'" Volkswagenwerk Aktiengesellschaft v. Schlunk, <a href="../us486/us486-0694.xml#p694">486 U. S. 694</a>, <a href="../us486/us486-0694.xml#p699">486 U. S. 699</a> (1988), quoting Societe Nationale Industrielle Aerospatiale v. United States District Court, <a href="../us482/us482-0522.xml#p522">482 U. S. 522</a>,</p>
     <n id="p535">535</n>
@@ -113,9 +113,9 @@
     <p>Teichner arose from the hijacking in 1976 of an Air France flight to Entebbe, Uganda. Passengers sought compensation for psychic injuries caused by the ordeal of the hijacking and detention at the Entebbe Airport. While acknowledging that the negotiating history of the Warsaw Convention was silent as to the availability of such compensation, id. at 242, 23 Eur.Tr.L. at 101, the court determined that "desirable jurisprudential policy" ("la politique jurisprudentielle souhaitable") favored an expansive reading of Article 17 to reach purely psychic injuries. Id. at 243, 23 Eur.Tr.L. at 102. In reaching this conclusion, the court emphasized the post-1929 development of the aviation industry and the evolution of Anglo-American and Israeli law to allow recovery for psychic injury in certain circumstances. Ibid., 23 Eur.Tr.L. at 101-102. In addition, the court followed the view of Miller that this expansive construction was desirable to avoid an apparent conflict between the French and English versions of the Guatemala City Protocol. Id. at 243-244, 23 Eur.Tr.L. at 102, citing Miller 128-129.</p>
     <p>Although we recognize the deference owed to the Israeli court's interpretation of Article 17, see Saks, supra, at <a href="../us470/us470-0392.xml#p404">470 U. S. 404</a>, we are not persuaded by that court's reasoning. Even if we were to agree that allowing recovery for purely psychic injury is desirable as a policy goal, we cannot give effect to such policy without convincing evidence that the signatories' intent with respect to Article 17 would allow such recovery. As discussed, neither the language, negotiating history, nor postenactment interpretations of Article 17 clearly evidences such intent. Nor does the Guatemala City Protocol support the Israeli court's conclusion, because nothing in the Protocol</p>
     <n id="p552">552</n>
-    <p>purports to amend Article 17 to reach mental injuries. Moreover, although the Protocol reflects a liberalization of attitudes toward passenger recovery ,in that it provides for strict liability, see Article IV, reprinted in Goldhirsch 320, the fact that the Guatemala City Protocol is still not in effect after almost 20 years since it was drafted should caution against attaching significance to it.</p>
+    <p>purports to amend Article 17 to reach mental injuries. Moreover, although the Protocol reflects a liberalization of attitudes toward passenger recovery,in that it provides for strict liability, see Article IV, reprinted in Goldhirsch 320, the fact that the Guatemala City Protocol is still not in effect after almost 20 years since it was drafted should caution against attaching significance to it.</p>
     <p>Moreover, we believe our construction of Article 17 better accords with the Warsaw Convention's stated purpose of achieving uniformity of rules governing claims arising from international air transportation. See <a id="nf11" href="#fn11">n</a> 11, supra. As noted, the Montreal Agreement subjects international carriers to strict liability for Article 17 injuries sustained on flights connected with the United States. See supra at <a href="./us499-0530.xml#p549">499 U. S. 549</a>. Recovery for mental distress traditionally has been subject to a high degree of proof, both in this country and others. See Prosser and Keeton on Torts, at 60-65, 359-361 (American courts require extreme and outrageous conduct by the tortfeasor); Fleming 49-50 (British courts limit such recovery through the theory of foreseeability); Miller 114, 126 (French courts require proof of fault and proof that damage is direct and certain). We have no doubt that subjecting international air carriers to strict liability for purely mental distress would be controversial for most signatory countries. Our construction avoids this potential source of divergence.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>We conclude that an air carrier cannot be held liable under Article 17 when an accident has not caused a passenger to suffer death, physical injury, or physical manifestation of injury. Although Article 17 renders air carriers liable for "damage sustained in the event of" ("dommage survenu en cas de") such injuries, see 49 Stat. 3005, 3018, we express no view as to whether passengers can recover for mental injuries that are accompanied by physical injuries. That issue is</p>
     <n id="p553">553</n>
     <p>not presented here, because respondents do not allege physical injury or physical manifestation of injury. See App. 3-9.</p>

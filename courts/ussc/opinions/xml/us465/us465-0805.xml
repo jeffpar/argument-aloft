@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us465-0805.html" citation="465 U.S. 805" title="United States v. Arthur Young &amp;amp; Co.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p805">805</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Arthur Young &amp; Co., <a href="./us465-0805.xml#p805">465 U.S. 805</a> (1984)</h>
-    <h>United States v. Arthur Young &amp; Co.</h>
-    <h>No. 82-687</h>
-    <h>Argued January 16, 1984</h>
-    <h>Decided March 21, 1984</h>
-    <h><a href="./us465-0805.xml#p805">465 U.S. 805</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE SECOND CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Arthur Young &amp; Co., <a href="./us465-0805.xml#p805">465 U.S. 805</a> (1984)</h1>
+    <h2>United States v. Arthur Young &amp; Co.</h2>
+    <h2>No. 82-687</h2>
+    <h4>Argued January 16, 1984</h4>
+    <h4>Decided March 21, 1984</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE SECOND CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondent certified public accountant firm, as the independent auditor for respondent corporation, was responsible for reviewing the corporation's financial statements as required by the federal securities laws. In the course of reviewing these statements, the accounting firm verified the corporation's statement of its contingent tax liabilities, and, in so doing, prepared tax accrual workpapers relating to the evaluation of the corporation's reserves for such liabilities. When a routine audit by the Internal Revenue Service (IRS) to determine the corporation's income tax liability for certain years revealed that the corporation had made questionable payments from a "special disbursement account," the IRS instituted a criminal investigation of the corporation's tax returns. In that process, the IRS, pursuant to § 7602 of the Internal Revenue Code of 1954 -- which authorizes the Secretary of the Treasury to summon and "examine any books, papers, records, or other data which may be relevant or material" to a particular tax inquiry -- issued a summons to the accounting firm requiring it to make available to the IRS all of its files relating to the corporation, including its tax accrual workpapers. When the corporation instructed the accounting firm not to comply with the summons, the IRS commenced an enforcement action in Federal District Court, which, upon finding that the tax accrual workpapers were relevant to the IRS investigation within the meaning of § 7602 and refusing to recognize an accountant-client privilege that would protect the workpapers, ordered the summons enforced. The Court of Appeals affirmed in part and reversed in part. While agreeing that the workpapers were relevant to the IRS investigation, the court held that the public interest in promoting full disclosure to public accountants, and in turn ensuring the integrity of the securities markets, required protection under a work-product immunity doctrine for the work that independent auditors perform for publicly owned corporations. Accordingly, because it found that the IRS had not made a sufficient showing of need to overcome the immunity and was not seeking to prove fraud on the corporation's part, the court refused to enforce the summons insofar as it sought the tax accrual workpapers.</p>
     <p>Held:</p>
     <p>1. The tax accrual workpapers are relevant within the meaning of § 7602. As § 7602's language indicates, an IRS summons is not to be</p>
@@ -30,7 +30,7 @@
     <p>CHIEF JUSTICE BURGER delivered the opinion of the Court.</p>
     <p>We granted certiorari to consider whether tax accrual workpapers prepared by a corporation's independent certified public accountant in the course of regular financial audits are protected from disclosure in response to an Internal Revenue Service summons issued under § 7602 of the Internal Revenue Code of 1954 (Code), 26 U.S.C. § 7602.</p>
     <n id="p808">808</n>
-    <h>I</h>
+    <h2>I</h2>
     <p>A</p>
     <p>Respondent Arthur Young &amp; Co. is a firm of certified public accountants. As the independent auditor for respondent Amerada Hess Corp., Young is responsible for reviewing the financial statements prepared by Amerada as required by the federal securities laws. [<a id="nf1" href="#fn1">Footnote 1</a>] In the course of its review of these financial statements, Young verified Amerada's statement of its contingent tax liabilities, and, in so doing, prepared the tax accrual workpapers at issue in this case. Tax accrual workpapers are documents and memoranda relating to Young's evaluation of Amerada's reserves for contingent tax liabilities. Such workpapers sometimes contain information pertaining to Amerada's financial transactions, identify questionable positions Amerada may have taken on its tax returns, and reflect Young's opinions regarding the validity of such positions. See infra at <a href="./us465-0805.xml#p810">465 U. S. 810</a>-813.</p>
     <p>In 1975, the Internal Revenue Service began a routine audit to determine Amerada's corporate income tax liability for the tax years 1972 through 1974. When the audit revealed that Amerada had made questionable payments of $7,830 from a "special disbursement account," the IRS instituted a criminal investigation of Amerada's tax returns as well. In that process, pursuant to Code § 7602, 26 U.S.C. § 7602, [<a id="nf2" href="#fn2">Footnote 2</a>] the IRS</p>
@@ -43,7 +43,7 @@
     <p>(1982). The Court of Appeals majority agreed with the District Court that the tax accrual workpapers were relevant to the IRS investigation of Amerada, but held that the public interest in promoting full disclosure to public accountants, and in turn ensuring the integrity of the securities markets, required protection for the work that such independent auditors perform for publicly owned companies. Drawing upon Hickman v. Taylor, <a href="../us329/us329-0495.xml#p495">329 U. S. 495</a> (1947), and Federal Rule of Civil Procedure 26(b)(3), the Court of Appeals fashioned a work-product immunity doctrine for tax accrual workpapers prepared by independent auditors in the course of compliance with the federal securities laws. Because the IRS had not demonstrated a sufficient showing of need to overcome the immunity and was not seeking to prove fraud on Amerada's part, the Court of Appeals refused to enforce the summons insofar as it sought Young's tax accrual workpapers.</p>
     <p>One judge dissented from that portion of the majority opinion creating a work-product immunity for accountants' tax accrual workpapers. The dissent viewed the statutory summons authority, 26 U.S.C. § 7602, as reflecting a congressional decision in favor of the disclosure of such workpapers. The dissent also rejected the policy justifications asserted by the majority for an accountant work-product immunity, reasoning that such protection was not necessary to ensure the integrity of the independent auditor's certification of a corporation's financial statements.</p>
     <p>We granted certiorari, 459 U.S. 1199 (1983). We affirm in part and reverse in part.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Corporate financial statements are one of the primary sources of information available to guide the decisions of the investing public. In an effort to control the accuracy of the financial data available to investors in the securities markets, various provisions of the federal securities laws require</p>
     <n id="p811">811</n>
     <p>publicly held corporations to file their financial statements with the Securities and Exchange Commission. [<a id="nf5" href="#fn5">Footnote 5</a>] Commission regulations stipulate that these financial reports must be audited by an independent certified public accountant in accordance with generally accepted auditing standards. [<a id="nf6" href="#fn6">Footnote 6</a>] By examining the corporation's books and records, the independent auditor determines whether the financial reports of the corporation have been prepared in accordance with generally accepted accounting principles. [<a id="nf7" href="#fn7">Footnote 7</a>] The auditor then issues an opinion as to whether the financial statements, taken as a whole, fairly present the financial position and operations of the corporation for the relevant period. [<a id="nf8" href="#fn8">Footnote 8</a>] See <a id="nf13" href="#fn13">n</a> 13, infra.</p>
@@ -53,7 +53,7 @@
     <p>The auditor's tax accrual workpapers record this process of examination and analysis. Such workpapers may document the auditor's interviews with corporate personnel, judgments on questions of potential tax liability, and suggestions for alternative</p>
     <n id="p813">813</n>
     <p>treatments of certain transactions for tax purposes. Tax accrual workpapers also contain an overall evaluation of the sufficiency of the corporation's reserve for contingent tax liabilities, including an item-by-item analysis of the corporation's potential exposure to additional liability. In short, tax accrual workpapers pinpoint the "soft spots" on a corporation's tax return by highlighting those areas in which the corporate taxpayer has taken a position that may, at some later date, require the payment of additional taxes.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>In seeking access to Young's tax accrual workpapers, the IRS exercised the summons power conferred by Code § 7602, 26 U.S.C. § 7602, which authorizes the Secretary of the Treasury to summon and "examine any books, papers, records, or other data which may be relevant or material" to a particular tax inquiry. [<a id="nf10" href="#fn10">Footnote 10</a>] The District Court and the Court of Appeals determined that the tax accrual workpapers at issue in this case satisfied the relevance requirement of § 7602, because they "might have thrown light upon" the correctness of Amerada's tax return. [<a id="nf11" href="#fn11">Footnote 11</a>] Because the relevance</p>
     <n id="p814">814</n>
     <p>of tax accrual workpapers is a logical predicate to the question whether such workpapers should be protected by some form of work-product immunity, we turn first to an evaluation of the relevance issue. [<a id="nf12" href="#fn12">Footnote 12</a>] We agree that such workpapers are relevant within the meaning of § 7602.</p>
@@ -62,7 +62,7 @@
     <p>That tax accrual workpapers are not actually used in the preparation of tax returns by the taxpayer or its own accountants does not bar a finding of relevance within the meaning of § 7602. The filing of a corporate tax return entails much more than filling in the blanks on an IRS form in accordance with undisputed tax principles; more likely than not, the return is a composite interpretation of corporate transactions made by corporate officers in the light most favorable to the taxpayer. It is the responsibility of the IRS to determine whether the corporate taxpayer, in completing its return, has stretched a particular tax concept beyond what is allowed. Records that illuminate any aspect of the return -- such as the tax accrual workpapers at issue in this case -- are therefore highly relevant to legitimate IRS inquiry. The Court of Appeals acknowledged this:</p>
     <p>"It is difficult to say that the assessment by the independent auditor of the correctness of positions taken by the taxpayer in his return would not throw 'light upon' the correctness of the return."</p>
     <p>677 F.2d at 219. We accordingly affirm the Court of Appeals' holding that Young's tax accrual workpapers are relevant to the IRS investigation of Amerada's tax liability.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>A</p>
     <p>We now turn to consider whether tax accrual workpapers prepared by an independent auditor in the course of a routine review of corporate financial statements should be protected by some form of work-product immunity from disclosure under § 7602. Based upon its evaluation of the competing policies of the federal tax and securities laws, the Court of Appeals found it necessary to create a so-called privilege for the independent auditor's workpapers.</p>
     <p>Our complex and comprehensive system of federal taxation, relying as it does upon self-assessment and reporting, demands that all taxpayers be forthright in the disclosure of relevant information to the taxing authorities. Without such</p>
@@ -89,7 +89,7 @@
     <p>Congress has granted to the IRS "broad latitude to adopt enforcement techniques helpful in the performance of [its] tax collection and assessment responsibilities." United States v. Euge, 444 U.S. at <a href="../us444/us444-0707.xml#p716">444 U. S. 716</a>, n. 9. Recognizing the intrusiveness of demands for the production of tax accrual workpapers, the IRS has demonstrated administrative sensitivity to the concerns expressed by the accounting profession by tightening its internal requirements for the issuance of such summonses.</p>
     <n id="p821">821</n>
     <p>See Internal Revenue Manual § 4024.4 (CCH 1981). [<a id="nf17" href="#fn17">Footnote 17</a>] Although these IRS guidelines were not applicable during the years at issue in this case, their promulgation further refutes respondents' fairness argument and reflects an administrative flexibility that reinforces our decision not to reduce irrevocably the § 7602 summons power.</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>Beyond question, it is desirable and in the public interest to encourage full disclosures by corporate clients to their independent accountants; if it is necessary to balance competing interests, however, the need of the Government for full disclosure of all information relevant to tax liability must also weigh in that balance. This kind of policy choice is best left to the Legislative Branch. Accordingly, the judgment of the Court of Appeals is affirmed in part and reversed in part, and the case is remanded for proceedings consistent with this opinion.</p>
     <p>It is so ordered.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>

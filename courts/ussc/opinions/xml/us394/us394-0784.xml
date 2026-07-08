@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us394-0784.html" citation="394 U.S. 784" title="United States v. Bacto-Unidisk">
   <opinion type="Opinions &amp; Dissents">
     <n id="p784">784</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Bacto-Unidisk, <a href="./us394-0784.xml#p784">394 U.S. 784</a> (1969)</h>
-    <h>United States v. An Article of Drug . . . Bacto-Unidisk</h>
-    <h>No. 343</h>
-    <h>Argued January 23, 1969</h>
-    <h>Decided April 28, 1969</h>
-    <h><a href="./us394-0784.xml#p784">394 U.S. 784</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SIXTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Bacto-Unidisk, <a href="./us394-0784.xml#p784">394 U.S. 784</a> (1969)</h1>
+    <h2>United States v. An Article of Drug . . . Bacto-Unidisk</h2>
+    <h2>No. 343</h2>
+    <h4>Argued January 23, 1969</h4>
+    <h4>Decided April 28, 1969</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SIXTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Antibiotic sensitivity disc used as laboratory screening test to help determine proper antibiotic drug to administer to patients held not merely a "device" but a "drug" within definition of § 201(g)(1)(B) of the Federal Food, Drug, and Cosmetic Act, and thus subject to pre-market clearance regulations issued pursuant to § 507 of the Act. Pp. <a href="./us394-0784.xml#p791">394 U. S. 791</a>-801.</p>
     <p>392 F.2d 21, reversed.</p>
     <p>MR. CHIEF JUSTICE WARREN delivered the opinion of the court.</p>
@@ -19,7 +19,7 @@
     <n id="p785">785</n>
     <p>promulgated pursuant to § 507 of the Act (21 U.S.C. § 357). Section 507 authorizes the Secretary to require batch certification of any antibiotic product which also meets the general drug definition of § 201. If, on the other hand, the article is merely a "device" under the Act, it is subject only to the misbranding and adulteration proscriptions of the Act, and does not have to be pre-tested before marketing; and, of course, if the disc does not fall under either definition, the Act itself is totally inapplicable.</p>
     <p>When the discs were marketed without complying with the certification regulations of the Secretary, the Government condemned them pursuant to § 334 of the Act (21 U.S.C. § 331) on the assumption that the discs were drugs, and thus validly subject to pre-market regulation. In this action following the condemnation, however, the United States District Court for the Eastern District of Michigan held that the discs were not drugs within the meaning of the Act, suggesting that, if anything, they were devices. It therefore ruled that, since pre-market clearance was not required or authorized, the seizure was improper. The Court of Appeals for the Sixth Circuit affirmed on the same reasoning. We reverse.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Some background information about the development of the discs and the controlling legislation is necessary for an understanding of the determinations made by the Secretary and the courts below. Various antibiotics, known more commonly as "wonder drugs" under such familiar names as penicillin, aureomycin, terramycin, tetracycline and streptomycin, have proved very useful since World War II in treating numerous infectious diseases. [<a id="nf1" href="#fn1">Footnote 1</a>] Produced biologically, however, these drugs</p>
     <n id="p786">786</n>
     <p>tend to vary greatly in their quality and potency unless developed, and thereafter tested, under very carefully controlled conditions. Consequently, [<a id="nf2" href="#fn2">Footnote 2</a>] Congress enacted § 507 of the Food, Drug, and Cosmetic Act, directing the Secretary of Health, Education, and Welfare to</p>
@@ -45,7 +45,7 @@
     <n id="p791">791</n>
     <p>suggested, without deciding, that the discs would be more appropriately classified as "devices" under the Act.</p>
     <p>On appeal, the Court of Appeals for the Sixth Circuit affirmed, accepting the District Court's conclusions that the Bacto-Unidisk was not a "drug" in the medical sense of the term and that Congress did not intend the statutory definition of "drug" to be any broader than the medical one. 392 F.2d 21, 23. The court noted that the discs did aid physicians in the determination of what antibiotic to use for the cure, mitigation, or treatment of disease by furnishing useful information, but held that Congress did not intend to apply the statutory phrase "intended for use in the . . . cure, mitigation, [or] treatment" in such an indirect manner. 392 F.2d 21, 22. We granted the Government's petition for certiorari because this interpretation of the Act raised issues of importance in the administration of the Federal Food, Drug, and Cosmetic Act (393 U.S. 911 (1968)).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Although there was some testimony below debating the precise extent of the public health dangers posed by the sensitivity discs, the courts below declined to substitute their judgment for that of the Commissioner of Food and Drugs by determining whether his action was really necessary to protect the public health from a purely medical viewpoint. Rather, the courts below quite properly confined the inquiry to an examination of whether the disc regulations, even if medically unwise, were authorized by the Act, and more specifically, by the Act's definition of "drug." Despite the renewed effort here to relitigate the public health issue, we agree with the decision implicitly made by the courts below not to base a resolution of this case on the public need for, or medical wisdom of, the Secretary's regulations requiring pre-market clearance of antibiotic sensitivity discs. It</p>
     <n id="p792">792</n>
     <p>is enough for us that the expert agency charged with the enforcement of remedial legislation has determined that such regulation is desirable for the public health, for we are hardly qualified to second-guess the Secretary's medical judgment. Our sole concern is whether the statute's definition of "drug" authorizes the disc regulations contested here, and, while we agree with the lower courts' limited conception of the issue, for reasons outlined below, we reverse their disposition of it.</p>
@@ -53,7 +53,7 @@
     <p>We need not stop to parse the language of the Act's definition of drug, for the District Court found, and the parties do not disagree here, that a literal reading of the words "intended for use in the . . . cure, mitigation, [or] treatment" of disease "clearly has application" to</p>
     <n id="p793">793</n>
     <p>the Bacto-Unidisk. Although respondent again urges that the disc itself does not "treat" a patient in the same way an antibiotic does in terms of personal application, the disc plays at least some role in the selection of the appropriate drug. Thus, the essential question for our determination is whether Congress intended the definition of drug to have the broad coverage the courts below and the parties agree its words allow. Viewing the structure, the legislative history, and the remedial nature of the Act, we think it plain that Congress intended to define "drug" far more broadly than does the medical profession. The reason for including a separate, almost parallel, definition of "devices" in the Act is, as the legislative history shows, relevant to congressional intent. It is therefore helpful to consider both the question of the Act's initial application and the question of the drug-device dichotomy at the same time.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>At the outset, it is clear from § 201 that the word "drug" is a term of art for the purposes of the Act, encompassing far more than the strict medical definition of that word. If Congress had intended to limit the statutory definition to the medical one, it could have so stated explicitly, or simply have made reference to the official United States Pharmacopoeia (or the National Formulary), as it did in the first of the three subsections of § 201(g)(1), and let the definition rest there. The historical expansion of the statute's definition, furthermore, clearly points out Congress' intention of going beyond the medical usage. The 1906 Food and Drug Act, for instance, defined "drug" in a rather limited way to include</p>
     <p>"all medicines and preparations recognized in the United States Pharmacopoeia or National Formulary for internal or external use, and any substance or mixture of substances intended to be used for the cure, mitigation,</p>
     <n id="p794">794</n>
@@ -81,7 +81,7 @@
     <p>Page 394 U. S. 798</p>
     <p>tragedy in the fall of 1937. [<a id="nf17" href="#fn17">Footnote 17</a>] (S. 3073, 75th Cong., 2d Sess.) The excepting clause of § 201(g)(1), stating clearly that a drug cannot be a device, was also added in 1938 (S. 5, 75th Cong., 3d Sess., H.R.Rep. No. 2139).</p>
     <p>The historical expansion of the definition of drug, and the creation of a parallel concept of devices, clearly show, we think, that Congress fully intended that the Act's coverage be as broad as its literal language indicates -- and, equally clearly, broader than any strict medical definition might otherwise allow. Strong indications from legislative history that Congress intended the broad coverage the District Court thought "ridiculous" should satisfy us that the lower courts erred in refusing to apply the Act's language as written. But we are all the more convinced that we must give effect to congressional intent in view of the well accepted principle that remedial legislation such as the Food, Drug, and Cosmetic Act is to be given a liberal construction consistent with the Act's overriding purpose to protect the public health, and specifically, § 507's purpose to ensure that antibiotic products marketed serve the public with "efficacy" and "safety." Cf. United States v. Sullivan, <a href="../us332/us332-0689.xml#p689">332 U. S. 689</a>, <a href="../us332/us332-0689.xml#p693">332 U. S. 693</a>-695 (1948); United States v. Dotterweich, <a href="../us320/us320-0277.xml#p277">320 U. S. 277</a>, <a href="../us320/us320-0277.xml#p283">320 U. S. 283</a>-284 (1943).</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>Respondent's alternative contention, that, even if its product does fall within the purview of the Act, it is plainly a "device," and therefore, by definition, necessarily</p>
     <n id="p799">799</n>
     <p>not a "drug," must also be rejected, we believe, in light of the foregoing analysis. At the outset, it must be conceded that the language of the statute is of little assistance in determining precisely what differentiates a "drug" from a "device": to the extent that both are intended for use in the treatment, mitigation and cure of disease, the former is an "article" and the latter includes "instruments," "apparatus," and "contrivances." Despite the obvious areas of overlap in definition, we are not entirely without guidance in determining the propriety of the Secretary's decision below, given the overall goals of the Act and its legislative history.</p>

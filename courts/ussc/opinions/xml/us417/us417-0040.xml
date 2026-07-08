@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us417-0040.html" citation="417 U.S. 40" title="Fuller v. Oregon">
   <opinion type="Opinions &amp; Dissents">
     <n id="p40">40</n>
-    <h>U.S. Supreme Court</h>
-    <h>Fuller v. Oregon, <a href="./us417-0040.xml#p40">417 U.S. 40</a> (1974)</h>
-    <h>Fuller v. Oregon</h>
-    <h>No. 73-5280</h>
-    <h>Argued March 26, 1974</h>
-    <h>Decided May 20, 1974</h>
-    <h><a href="./us417-0040.xml#p40">417 U.S. 40</a></h>
-    <h>CERTIORARI TO THE COURT OF APPEALS OF OREGON</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Fuller v. Oregon, <a href="./us417-0040.xml#p40">417 U.S. 40</a> (1974)</h1>
+    <h2>Fuller v. Oregon</h2>
+    <h2>No. 73-5280</h2>
+    <h4>Argued March 26, 1974</h4>
+    <h4>Decided May 20, 1974</h4>
+    <h2>CERTIORARI TO THE COURT OF APPEALS OF OREGON</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner, who pleaded guilty to a crime and was given a probationary sentence, conditioned upon his complying with a jail work-release program permitting him to attend college and also upon his reimbursing the county for the fees and expenses of an attorney and investigator whose services had been provided him because of his indigency, attacks the constitutionality of Oregon's recoupment statute, which was upheld on appeal. That law requires convicted defendants who are indigent at the time of the criminal proceedings against them but who subsequently acquire the financial means to do so, to repay the costs of their legal defense. Defendants with no likelihood of having the means to repay are not even conditionally obligated to do so, and those thus obligated are not subjected to collection procedures until their indigency has ended and no manifest hardship will result.</p>
     <p>Held:</p>
     <p>1. The Oregon recoupment scheme does not violate the Equal Protection Clause of the Fourteenth Amendment. Pp. <a href="./us417-0040.xml#p46">417 U. S. 46</a>-50.</p>
@@ -26,7 +26,7 @@
     <n id="p42">42</n>
     <p>subsequently sentenced to five years of probation, conditioned upon his satisfactorily complying with the requirements of a work-release program at the county jail that would permit him to attend college, and also upon his reimbursement to the county of the fees and expenses of the attorney and investigator whose services had been provided him because of his indigent status. On appeal to the Oregon Court of Appeals, his principal contention was that the State could not constitutionally condition his probation on the repayment of these expenses. [<a id="nf2" href="#fn2">Footnote 2</a>] With one judge dissenting, the imposition of his sentence was affirmed, 12 Ore.App. 152, <a href="https://law.justia.com/cases/oregon/court-of-appeals/1973/504-p-2d-1393-2.html">504 P.2d 1393</a>, and the Supreme Court of Oregon subsequently denied Fuller's petition for review. Because of the importance of the question presented and the conflict of opinion on the constitutional issue involved, [<a id="nf3" href="#fn3">Footnote 3</a>] we granted certiorari, 414 U.S. 1111.</p>
     <n id="p43">43</n>
-    <h>I</h>
+    <h2>I</h2>
     <p>We begin with consideration of the plan and operation of the challenged statute. By force of interpretation of the State's Constitution and comprehensive legislation, Oregon mandates that every defendant in a criminal case must be assigned a lawyer at state expense if "[i]t appears to the court that the defendant is without means and is unable to obtain counsel." Ore.Rev.Stat. § 135.050(1)(d) (1973). [<a id="nf4" href="#fn4">Footnote 4</a>] As part of a recoupment statute passed in 1971, Oregon requires that, in some cases, all or part of the "expenses specially incurred by the state in prosecuting the defendant," § 161.665(2), be repaid to the State, and that, when a convicted person is placed on probation, repayment of such expenses may be made a condition of probation. [<a id="nf5" href="#fn5">Footnote 5</a>] These expenses include the costs of the convicted person's legal defense. [<a id="nf6" href="#fn6">Footnote 6</a>]</p>
     <n id="p44">44</n>
     <p>As the Oregon appellate court noted in its opinion in this case, however, the requirement of repayment "is never mandatory." 12 Ore.App. at 156, 504 P.2d</p>
@@ -37,11 +37,11 @@
     <p>"his default was not attributable to an intentional refusal to obey the order of the court or to a failure on his part to make a good faith effort to make the payment. . . ."</p>
     <p>§ 161.685(2).</p>
     <p>Thus, the recoupment statute is quite clearly directed only at those convicted defendants who are indigent at the time of the criminal proceedings against them but who subsequently gain the ability to pay the expenses of legal representation. Defendants with no likelihood of having the means to repay are not put under even a conditional obligation to do so, and those upon whom a conditional obligation is imposed are not subjected to collection procedures until their indigency has ended and no "manifest hardship" will result. The contrast with appointment of counsel procedures in States without recoupment requirements [<a id="nf7" href="#fn7">Footnote 7</a>] is thus relatively small: a lawyer is provided at the expense of the State to all defendants who are unable, even momentarily, to hire one, and the obligation to repay the State accrues only to those who later acquire the means to do so without hardship.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The petitioner's first contention is that Oregon's recoupment system violates the Equal Protection Clause of the Fourteenth Amendment because of various classifications explicitly or implicitly drawn by the legislative provisions. He calls attention to our decision in James v. Strange, <a href="../us407/us407-0128.xml#p128">407 U. S. 128</a>, which held invalid under the Equal Protection Clause a law enacted by Kansas that</p>
     <n id="p47">47</n>
     <p>was somewhat similar to the legislation now before us. But the offending aspect of the Kansas statute was its provision that, in an action to compel repayment of counsel fees,</p>
-    <p>"[n]one of the exemptions provided for in the code of civil procedure [for collection of other judgment debts] shall apply to any such judgment . . . ,"</p>
+    <p>"[n]one of the exemptions provided for in the code of civil procedure [for collection of other judgment debts] shall apply to any such judgment . . .,"</p>
     <p>Kan.Stat.Ann. § 22-4513(a) (Supp. 1971), a provision which "strip[ped] from indigent defendants the array of protective exemptions Kansas has erected for other civil judgment debtors. . . ." 407 U.S. at <a href="../us407/us407-0128.xml#p135">407 U. S. 135</a>. [<a id="nf8" href="#fn8">Footnote 8</a>] The Court found that the elimination of the exemptions normally available to judgment debtors "embodie[d] elements of punitiveness and discrimination which violate the rights of citizens to equal treatment under the law." Id. at <a href="../us407/us407-0128.xml#p142">407 U. S. 142</a>.</p>
     <p>The Oregon statute under consideration here suffers from no such infirmity. As the Oregon Court of Appeals observed, "[n]o denial of the exemptions from execution afforded to other judgment debtors is included in the Oregon statutes." 12 Ore.App. at 159, 504 P.2d at 1397. Indeed, a separate provision directs that</p>
     <p>"[a] judgment that the defendant pay money, either as a fine or as costs and disbursements of the action, or both, shall be docketed as a judgment in a civil action and with like effect. . . ."</p>
@@ -55,7 +55,7 @@
     <n id="p50">50</n>
     <p>or whose conviction is overturned on appeal has been seriously imposed upon by society without any conclusive demonstration that he is criminally culpable. His life has been interrupted and subjected to great stress, and he may have incurred financial hardship through loss of job or potential working hours. His reputation may have been greatly damaged. The imposition of such dislocations and hardships without an ultimate conviction is, of course, unavoidable in a legal system that requires proof of guilt beyond a reasonable doubt and guarantees important procedural protections to every defendant in a criminal trial. But Oregon could surely decide with objective rationality that, when a defendant has been forced to submit to a criminal prosecution that does not end in conviction, he will be freed of any potential liability to reimburse the State for the costs of his defense. This legislative decision reflects no more than an effort to achieve elemental fairness, and is a far cry from the kind of invidious discrimination that the Equal Protection Clause condemns. [<a id="nf11" href="#fn11">Footnote 11</a>]</p>
     <n id="p51">51</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>The petitioner's second basic contention is that Oregon's recoupment statute infringes upon his constitutional right to have counsel provided by the State when he is unable because of indigency to hire a lawyer. Gideon v. Wainwright, <a href="../us372/us372-0335.xml#p335">372 U. S. 335</a>; Argersinger v. Hamlin, <a href="../us407/us407-0025.xml#p25">407 U. S. 25</a>. The argument is not that the legal representation actually provided in this case was ineffective or insufficient. Nor does the petitioner claim that the fees and expenses he may have to repay constitute unreasonable compensation for the defense provided him. Rather, he asserts that a defendant's knowledge that he may remain under an obligation to repay the expenses incurred in providing him legal representation might impel him to decline the services of an appointed attorney, and thus "chill" his constitutional right to counsel.</p>
     <p>This view was articulated by the Supreme Court of California, in a case invalidating California's recoupment legislation, in the following terms:</p>
     <p>"[W]e believe that, as knowledge of [the recoupment] practice has grown and continues to grow, many indigent defendants will come to realize that the judge's offer to supply counsel is not the gratuitous offer of assistance that it might appear to be; that, in the event the case results in a grant of probation, one of the conditions might well be the reimbursement of the county for the expense involved. This knowledge is quite likely to deter or discourage many defendants from accepting the offer of counsel despite the gravity of the need for such representation as emphasized by the [Supreme] [C]ourt in Gideon. . . ."</p>

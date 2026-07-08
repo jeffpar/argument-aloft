@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us372-0682.html" citation="372 U.S. 682" title="Machinists v. Central Airlines">
   <opinion type="Opinions &amp; Dissents">
     <n id="p682">682</n>
-    <h>U.S. Supreme Court</h>
-    <h>Machinists v. Central Airlines, <a href="./us372-0682.xml#p682">372 U.S. 682</a> (1963)</h>
-    <h>Machinists v. Central Airlines</h>
-    <h>No. 61</h>
-    <h>Argued February 19-20, 1963</h>
-    <h>Decided April 15, 1963</h>
-    <h><a href="./us372-0682.xml#p682">372 U.S. 682</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE FIFTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Machinists v. Central Airlines, <a href="./us372-0682.xml#p682">372 U.S. 682</a> (1963)</h1>
+    <h2>Machinists v. Central Airlines</h2>
+    <h2>No. 61</h2>
+    <h4>Argued February 19-20, 1963</h4>
+    <h4>Decided April 15, 1963</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE FIFTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>A suit in a Federal District Court to enforce an award of an airline system board of adjustment, created by a contract between an airline and a labor union pursuant to § 204 of the Railway Labor Act and whose decisions are final and binding upon the parties, arises out of the Railway Labor Act, and is governed by federal law. Therefore, it is (1) a suit arising under a law of the United States of which the District Court has jurisdiction under 28 U.S.C. § 1331, if the jurisdictional amount is involved, and (2) a suit arising under a law regulating commerce of which the District Court has jurisdiction under 28 U.S.C. § 1337, irrespective of the amount involved. Pp. <a href="./us372-0682.xml#p682">372 U. S. 682</a>-696.</p>
     <p>295 F.2d 209 reversed.</p>
     <p>MR. JUSTICE WHITE delivered the opinion of the Court.</p>
@@ -24,11 +24,11 @@
     <p>"a majority vote of the Board shall be final, binding, and conclusive between the Company and the Association and anyone they may represent having an interest in the dispute."</p>
     <p>The complaint set out in some detail the action and decision of the system board and a copy of its award was attached. Alleging that Central had refused to comply with the terms of the award and that the suit "arises under the laws of the United States, specifically</p>
     <n id="p684">684</n>
-    <p>under the Railway Labor Act as set out more particularly hereinabove," petitioners requested the "enforcement of the aforesaid System Board Award . . . , and that judgment to entered ordering defendant to comply with said award. . . ."</p>
+    <p>under the Railway Labor Act as set out more particularly hereinabove," petitioners requested the "enforcement of the aforesaid System Board Award . . ., and that judgment to entered ordering defendant to comply with said award. . . ."</p>
     <p>Although the gist of the complaint was that Central was obliged to comply with the award by reason of the Railway Labor Act, the District Court granted Central's motion to dismiss for lack of jurisdiction, concluding that there was no diversity of citizenship (which was not disputed) and that the case did not arise under the laws of the United States as required by 28 U.S.C. § 1331. [<a id="nf1" href="#fn1">Footnote 1</a>] The Court of Appeals for the Fifth Circuit affirmed on the authority of its previous decision in Metcalf v. National Airlines, 271 F.2d 817, ruling that the complaint did not disclose "affirmatively a federally created cause of action," and that "this suit is nothing more than a state-created action to construe a contract." 295 F.2d 209. Certiorari was granted to consider the important question of whether a suit to enforce an award of an airline system board of adjustment is a suit arising under the laws of the United States under 28 U.S.C. § 1331 or a suit arising under a law regulating commerce under 28 U.S.C.</p>
     <n id="p685">685</n>
     <p>§ 1337. [<a id="nf2" href="#fn2">Footnote 2</a>] 369 U.S. 802. We have concluded that this question must be answered in the affirmative, and that the District Court has jurisdiction to proceed with the suit.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In 1936, Congress extended the Railway Labor Act to cover the then small but growing air transportation industry. 49 Stat. 1189, 45 U.S.C. §§ 181-188. Its general aim was to extend to air carriers and their employees the same benefits and obligations available and applicable in the railroad industry. [<a id="nf3" href="#fn3">Footnote 3</a>] But there was to be a significant variation. The 1936 amendments made applicable to the airlines all of the provisions of the Railway Labor Act, excepting § 3, 45 U.S.C. § 153, dealing with the National Railroad Adjustment Board; but including § 1, 45 U.S.C. § 151, containing definitions; § 2, 45 U.S.C. § 151a, the Act's statement of purposes; §§ 4 and 5, 45 U.S.C. §§ 154-155, relative to the National Mediation Board and its functions; and §§ 7, 8 and 9, 45 U.S.C. §§ 157-159, relating to voluntary arbitration and emergency boards. § 202, 45 U.S.C. § 182. In the place of § 3, Congress provided in § 205, 45 U.S.C. § 185, that the creation of a National Air Transport Board would</p>
     <n id="p686">686</n>
     <p>be postponed until, "in the judgment of the National Mediation Board, it shall be necessary to have a permanent national board of adjustment. . . ." Until the establishment of the national board for the airlines industry, § 204, 45 U.S.C. § 184, required the formation of system, group, or regional boards of adjustment:</p>
@@ -53,7 +53,7 @@
     <p>§ 2, 45 U.S.C. § 151a. Implementing such goals, § 2 First, 45 U.S.C. § 152 First, made it</p>
     <p>"the duty of all carriers, their officers, agents, and employees to exert every reasonable effort to make and maintain agreements . . . and to settle all disputes, whether arising out of the application of such agreements or otherwise, in order to avoid any interruption to commerce."</p>
     <p>The statute directed that minor disputes be handled on the property in the usual manner, but failing adjustment either party could take the matter to the adjustment board, which was to hear and decide it. This provision is applicable both to rail (§ 3, Second) and air (§ 204) carriers.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>In view of the clearly stated purposes of the Act and of its history, reflecting as it does a steady congressional</p>
     <n id="p690">690</n>
     <p>intent to move toward a reliable and effective system for the settlement of grievances, we believe Congress intended no hiatus in the statutory scheme when it postponed the establishment of a National Air Transport Adjustment Board and instead provided for compulsory system, group, or regional boards. Although the system boards were expected to be temporary arrangements, we cannot believe that Congress intended an interim period of confusion and chaos, or meant to leave the establishment of the Boards to the whim of the parties. Instead, it intended the statutory command to be legally enforceable in the courts, and the boards to be organized and operated consistent with the purposes of the Act.</p>
@@ -75,7 +75,7 @@
     <p>the 1926 Act, the National Railroad Adjustment Board awards were made enforceable in the federal courts by the 1934 amendments, and the awards under voluntary arbitration agreements were likewise made expressly enforceable by the statute. There is no reason to believe that, in 1936, Congress discarded for an entire industry an element essential to a reliable system of settling disputes under existing contracts or that it contemplated awards by adjustment boards the enforceability of which depended entirely upon the desires of the parties or upon state statutes or court decisions. Quite the contrary, the Act, its history, and its purposes lead us to conclude that. when Congress ordered the establishment of system boards to hear and decide airline contract disputes, it</p>
     <p>"intended the Board to be and to act as a public agency, not as a private go-between; its awards to have legal effect, not merely that of private advice."</p>
     <p>Bower v. Eastern Airlines, 214 F.2d 623, 626 (C.A.3d Cir.); Washington Term Co. v. Boswell, 75 U.S.App.D.C. 1, 10, 124 F.2d 235, 244.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The contract of the parties here was executed under § 204, and declares a system board award to be final, binding, and conclusive. The claim stated in the complaint is based upon the award, and demands that it be enforced. Whether Central must comply with the award or whether, instead, it is impeachable are questions controlled by federal law and are to be answered with due regard for the statutory scheme and purpose. To the extent that the contract imposes a duty consistent with the Act to comply with the awards, that duty is a federal requirement. If Central must comply, it is because federal law requires its compliance.</p>
     <p>In the circumstances we have here, we are not dealing with a suit involving an aspect of federal law which is only collateral or remote or a case where state and federal</p>
     <n id="p696">696</n>

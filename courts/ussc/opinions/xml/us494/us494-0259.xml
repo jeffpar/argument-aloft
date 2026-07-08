@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us494-0259.html" citation="494 U.S. 259" title="United States v. Verdugo-Urquidez">
   <opinion type="Opinions &amp; Dissents">
     <n id="p259">259</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Verdugo-Urquidez, <a href="./us494-0259.xml#p259">494 U.S. 259</a> (1990)</h>
-    <h>United States v. Verdugo-Urquidez</h>
-    <h>No. 88-1353</h>
-    <h>Argued Nov. 7, 1989</h>
-    <h>Decided Feb. 28, 1990</h>
-    <h><a href="./us494-0259.xml#p259">494 U.S. 259</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Verdugo-Urquidez, <a href="./us494-0259.xml#p259">494 U.S. 259</a> (1990)</h1>
+    <h2>United States v. Verdugo-Urquidez</h2>
+    <h2>No. 88-1353</h2>
+    <h4>Argued Nov. 7, 1989</h4>
+    <h4>Decided Feb. 28, 1990</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>After the Government obtained an arrest warrant for respondent -- a Mexican citizen and resident believed to be a leader of an organization that smuggles narcotics into this country -- he was apprehended by Mexican police and transported here, where he was arrested. Following his arrest, Drug Enforcement Administration agents, working with Mexican officials, searched his Mexican residences and seized certain documents. The District Court granted his motion to suppress the evidence, concluding that the Fourth Amendment -- which protects "the people" against unreasonable searches and seizures -- applied to the searches, and that the DEA agents had failed to justify searching the premises without a warrant. The Court of Appeals affirmed. Citing Reid v. Covert, <a href="../us354/us354-0001.xml#p1">354 U. S. 1</a> -- which held that American citizens tried abroad by United States military officials were entitled to Fifth and Sixth Amendment protections -- the court concluded that the Constitution imposes substantive constraints on the Federal Government, even when it operates abroad. Relying on INS v. Lopez-Mendoza, <a href="../us468/us468-1032.xml#p1032">468 U. S. 1032</a> -- where a majority assumed that illegal aliens in the United States have Fourth Amendment rights -- the court observed that it would be odd to acknowledge that respondent was entitled to trial-related rights guaranteed by the Fifth and Sixth Amendments, but not to Fourth Amendment protection.</p>
     <p>Held: The Fourth Amendment does not apply to the search and seizure by United States agents of property owned by a nonresident alien and located in a foreign country. Pp. <a href="./us494-0259.xml#p264">494 U. S. 264</a>-275.</p>
     <p>(a) If there were a constitutional violation in this case, it occurred solely in Mexico, since a Fourth Amendment violation is fully accomplished at the time of an unreasonable governmental intrusion whether or not the evidence seized is sought for use in a criminal trial. Thus, the Fourth Amendment functions differently from the Fifth Amendment, whose privilege against selfincrimination is a fundamental trial right of criminal defendants. P. <a href="./us494-0259.xml#p264">494 U. S. 264</a>.</p>
@@ -176,7 +176,7 @@
     <p>In addition, where the precise contours of a "reasonable" search and seizure are unclear, the Executive Branch will not be "plunge[d] . . . into a sea of uncertainty," ante at <a href="./us494-0259.xml#p274">494 U. S. 274</a>, that will impair materially its ability to conduct foreign affairs. Doctrines such as official immunity have long protected Government agents from any undue chill on the exercise of lawful discretion. See, e.g., Butz v. Economou, <a href="../us438/us438-0478.xml#p478">438 U. S. 478</a> (1978). Similarly, the Court has recognized that there may be certain situations in which the offensive use of constitutional rights should be limited. Cf. Bivens v. Six Unknown Fed. Narcotics Agents, <a href="../us403/us403-0388.xml#p388">403 U. S. 388</a>, <a href="../us403/us403-0388.xml#p396">403 U. S. 396</a> (1971) (precluding suits for damages for violations of the Fourth Amendment where there are "special factors</p>
     <n id="p293">293</n>
     <p>counseling hesitation"). In most cases implicating foreign policy concerns in which the reasonableness of an overseas search or seizure is unclear, application of the Fourth Amendment will not interfere with the Executive's traditional prerogative in foreign affairs because a court will have occasion to decide the constitutionality of such a search only if the Executive decides to bring a criminal prosecution and introduce evidence seized abroad. When the Executive decides to conduct a search as part of an ongoing criminal investigation, fails to get a warrant, and then seeks to introduce the fruits of that search at trial, however, the courts must enforce the Constitution.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Because the Fourth Amendment governs the search of respondent's Mexican residences, the District Court properly suppressed the evidence found in that search because the officers conducting the search did not obtain a warrant. [Footnote 2/12] I cannot agree with Justice BLACKMUN and Justice STEVENS that the Warrant Clause has no application to searches</p>
     <n id="p294">294</n>
     <p>of noncitizens' homes in foreign jurisdictions because American magistrates lack the power to authorize such searches. [Footnote 2/13] See post at <a href="./us494-0259.xml#p297">494 U. S. 297</a> (BLACKMUN, J., dissenting); ante at <a href="./us494-0259.xml#p279">494 U. S. 279</a> (STEVENS, J., concurring in judgment). The Warrant Clause would serve the same primary functions abroad as it does domestically, and I see no reason to distinguish between foreign and domestic searches.</p>
@@ -189,7 +189,7 @@
     <n id="p296">296</n>
     <p>not empowering any judicial officer to act on an application for a warrant"), cert. denied, 340 U.S. 939 (1951).</p>
     <p>Nor is the Warrant Clause inapplicable merely because a warrant from a United States magistrate could not "authorize" a search in a foreign country. Although this may be true as a matter of international law, it is irrelevant to our interpretation of the Fourth Amendment. As a matter of United States constitutional law, a warrant serves the same primary function overseas as it does domestically: it assures that a neutral magistrate has authorized the search and limited its scope. The need to protect those suspected of criminal activity from the unbridled discretion of investigating officers is no less important abroad than at home. [Footnote 2/14]</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>When our Government conducts a law enforcement search against a foreign national outside of the United States and its territories, it must comply with the Fourth Amendment. Absent exigent circumstances or consent, it must obtain a</p>
     <n id="p297">297</n>
     <p>search warrant from a United States court. When we tell the world that we expect all people, wherever they may be, to abide by our laws, we cannot in the same breath tell the world that our law enforcement officers need not do the same. Because we cannot expect others to respect our laws until we respect our Constitution, I respectfully dissent.</p>

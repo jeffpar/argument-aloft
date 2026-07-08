@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us412-0346.html" citation="412 U.S. 346" title="United States v. Bishop">
   <opinion type="Opinions &amp; Dissents">
     <n id="p346">346</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Bishop, <a href="./us412-0346.xml#p346">412 U.S. 346</a> (1973)</h>
-    <h>United States v. Bishop</h>
-    <h>No. 71-1698</h>
-    <h>Argued January 16, 1973</h>
-    <h>Decided May 29, 1973</h>
-    <h><a href="./us412-0346.xml#p346">412 U.S. 346</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Bishop, <a href="./us412-0346.xml#p346">412 U.S. 346</a> (1973)</h1>
+    <h2>United States v. Bishop</h2>
+    <h4>No. 71-1698</h4>
+    <h4>Argued January 16, 1973</h4>
+    <h4>Decided May 29, 1973</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondent was convicted of violating 26 U.S.C. § 7206(1), which makes it a felony when one "[w]illfully makes and subscribes any return . . . which he does not believe to be true and correct as to every material matter," after the District Court refused a lesser included offense jury charge under § 7207, which makes it a misdemeanor when one "willfully delivers or discloses" to the Internal Revenue Service any return or document "known by him to be fraudulent or to be false as to any material matter." The Court of Appeals reversed on the ground that "willfully," as used in § 7206, implied an evil motive and bad faith, but the same word, as used in § 7207, required only a showing of unreasonable, capricious, or careless disregard for the truth.</p>
     <p>Held: The word "willfully" has the same meaning in §§ 7206(1) and 7207, connoting the voluntary, intentional violation of a known legal duty, and the distinction between the statutes is found in the additional misconduct that is essential to the violation of the felony provision; hence, the District Court properly refused the requested lesser included offense instruction based on respondent's erroneous contention that the word "willfully" in the misdemeanor statute implied less scienter than the same word in the felony statute. Pp. <a href="./us412-0346.xml#p350">412 U. S. 350</a>-361.</p>
-    <p>455 F.2d 612, reversed and remanded. ,</p>
+    <p>455 F.2d 612, reversed and remanded.,</p>
     <p>BLACKMUN, J., delivered the opinion of the Court, in which BURGER, C.J., and BRENNAN, STEWART, WHITE, MARSHALL, POWELL, and REHNQUIST, JJ., joined. DOUGLAS, J., filed a dissenting statement, post, p. <a href="./us412-0346.xml#p362">412 U. S. 362</a>.</p>
     <n id="p347">347</n>
     <p>MR. JUSTICE BLACKMUN delivered the opinion of the Court.</p>
@@ -30,11 +30,11 @@
     <n id="p348">348</n>
     <p>"Any person who willfully delivers or discloses to the Secretary or his delegate any list, return, account, statement, or other document, known by him to be fraudulent or to be false as to any material matter, shall be fined not more than $1,000, or imprisoned not more than l year, or both."</p>
     <p>This case presents the issue of the meaning of the critical word "willfully" as it is employed in these two successive statutes. Is its meaning the same in each, or is the willfulness specified by the misdemeanor statute, § 7207, of somewhat less degree than the felony willfulness specified by § 7206?</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Respondent, Cecil J. Bishop, was convicted by a jury on all three counts of an indictment charging him with felony violations of § 7206(1) with respect to his federal income tax returns for the calendar years 1963, 1964, and 1965. The Court of Appeals, holding that a lesser included offense instruction directed to the misdemeanor statute, § 7207, was improperly refused by the trial judge, reversed the judgment of the District Court and remanded the case for a new trial. 455 F.2d 612 (CA9 1972). Since the meaning of "willfully," as used in the tax crime statutes, has divided the circuits, [<a id="nf2" href="#fn2">Footnote 2</a>] we granted certiorari. 409 U.S. 841 (1972).</p>
     <n id="p349">349</n>
     <p>We conclude that it was proper and correct for the District Court to refuse the lesser included offense instruction. In our view, the word "willfully"has the same meaning in both statutes. Consequently, we reverse and remand so that the Court of Appeals may now proceed to consider the additional issues that court found it unnecessary to reach.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Mr. Bishop is a lawyer who has practiced his profession in Sacramento, California, since 1951. During that period, he owned an interest in a walnut ranch he and his father operated. In 1960, his secretary, Louise, married his father. The father died, and thereafter respondent's stepmother managed the ranch.</p>
     <p>Respondent periodically sent checks to Louise. These were used to run the ranch, to pay principal on loans, and to make improvements.</p>
     <p>Louise maintained a record of ranch expenditures and submitted an itemized list of these disbursements to respondent at the end of each calendar year. In his 1963 return, respondent asserted as business deductions all amounts paid to Louise and, in addition, all the expenses Louise listed. This necessarily resulted in a double deduction for all ranch expenditures in 1963. Moreover, some of these expenditures were for repayment of loans and for other personal items that did not qualify as income tax deductions. In his 1964 and 1965 returns, respondent similarly included nondeductible amounts among the ranch figures that were deducted.</p>
@@ -42,13 +42,13 @@
     <n id="p350">350</n>
     <p>$45,000. He enjoyed aggregate gross income for those years of about $70,000.</p>
     <p>The incorrectness of the returns as filed for the three years was not disputed at trial. Transcript of Trial 869-872, 1148. Neither is it disputed here. Brief for Respondent 4.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Section 7206(1), the felony statute, is violated when one "[w]illfully makes and subscribes any return," under penalties of perjury, "which he does not believe to be true and correct as to every material matter." Respondent based his defense at trial on the ground that he was not aware of the double deductions asserted in 1963 or of the improper deductions taken in the three taxable years. He claimed that his law office secretary prepared the return schedules from his records and from the information furnished by Louise; he merely failed to check the returns for accuracy.</p>
     <p>Respondent requested lesser included offense instructions based on the misdemeanor statute, § 7207. This tax misdemeanor is committed by one "who willfully delivers or discloses" to the Internal Revenue Service any return or document "known by him to be fraudulent or to be false as to any material matter." Respondent argued that the word "willfully" in the misdemeanor statute should be construed to require less scienter than the same word in the felony statute. App. 28. With the state of respondent's guilty knowledge in dispute, his proposed instructions would have allowed the jury to choose between a misdemeanor based on caprice or careless disregard and a felony requiring evil purpose. The trial judge declined to give the requested instructions and, instead, gave an instruction only on the felony, requiring a finding by the jury that the defendant intended</p>
     <n id="p351">351</n>
     <p>"with evil motive or bad purpose either to disobey or to disregard the law." App. 24.</p>
     <p>After the guilty verdict on all counts was returned, respondent was sentenced to two years' imprisonment on each count, the sentences to run concurrently. The court, however, suspended all but 90 days of each sentence and placed respondent on probation for five year on condition that he pay a fine of $5,000. App. 31.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>The Court of Appeals relied upon and followed, 455 F.2d at 614, a series of its own cases, [<a id="nf3" href="#fn3">Footnote 3</a>] particularly Abdul v. United States, 254 F.2d 292 (1958), enunciating the proposition that the word "willfully" has a meaning in tax felony statutes that is more stringent than its meaning in tax misdemeanor statutes. [<a id="nf4" href="#fn4">Footnote 4</a>] Our examination of these Ninth Circuit precedents in the light of this Court's decisions leads us to conclude that the Court of Appeals' opinion cannot be sustained by this asserted distinction between § 7206(1) and § 7207.</p>
     <p>A. The Ninth Circuit rule appears to have been evolved from language in this Court's opinion in Spies v. United States, <a href="../us317/us317-0492.xml#p492">317 U. S. 492</a> (1943). In Spies, the defendant requested an instruction to the effect that an affirmative act was necessary to constitute a willful attempt to evade or defeat a tax within the meaning of § 145(b) of the Revenue Act of 1936, 49 Stat. 1703. The trial court</p>
     <n id="p352">352</n>
@@ -78,7 +78,7 @@
     <p>"Given petitioner's material misstatement which resulted in a tax deficiency, if, as the jury obviously found, petitioner's act was willful in the sense that he knew that he should have reported more income than he did for the year 1957, he was guilty of violating both §§ 7201 and 7207. If his action was not willful, he was guilty of violating neither."</p>
     <p>380 U.S. at <a href="../us380/us380-0343.xml#p353">380 U. S. 353</a>. The same analysis was applied to the requested lesser included offense instruction for § 7203. Id. at <a href="../us380/us380-0343.xml#p352">380 U. S. 352</a>. The clear implication of the decision in Sansone is that the word "willfully" possesses the same meaning in §§ 7201, 7203, and 7207. Sansone thus foreclosed the argument that the word "willfully" was to be given one meaning in the tax felony statutes and another meaning in the tax misdemeanor statutes.</p>
     <p>The thesis relied upon by the Court of Appeals, therefore, was incorrect.</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>It would be possible, of course, that the word "willfully" was intended by Congress to have a meaning in § 7206(1) different from its meaning in § 7207, and we turn now to that possibility.</p>
     <p>We continue to recognize that context is important in the quest for the word's meaning. See United States v. Murdock, <a href="../us290/us290-0389.xml#p389">290 U. S. 389</a>, <a href="../us290/us290-0389.xml#p394">290 U. S. 394</a>-395 (1933). Here, as in Spies, the</p>
     <p>"legislative history of the section[s] contains nothing helpful on the question here at issue, and we must find the answer from the [sections themselves] and [their] context in the revenue laws. [<a id="nf6" href="#fn6">Footnote 6</a>]"</p>
@@ -94,7 +94,7 @@
     <p>immediately becomes operative in the area theretofore covered by § 7206(1). Second, the term "return" is not necessarily limited to a federal income tax return. A state or other nonfederal return could be intended, and might not contain a perjury warning. If this type of return were submitted in support of a federal return, or in the course of a tax audit, § 7207 could apply even if § 7206(1) could not.</p>
     <p>There are other distinctions. The felony applies to a document that a taxpayer "[w]illfully makes and subscribes . . . and which he does not believe to be true and correct as to every material matter," whereas the misdemeanor applies to a document that a taxpayer "willfully delivers or discloses to the Secretary or his delegate . . . known by him . . . to be false as to any material matter." In the felony, then, the taxpayer must verify the return or document in writing, and he is liable if he does not affirmatively believe that the material statements are true. For the misdemeanor, however, a document prepared by another could give rise to liability on the part of the taxpayer if he delivered or disclosed it to the Service; additional protection is given to the taxpayer in this situation, because the document must be known by him to be fraudulent or to be false.</p>
     <p>These differences in the respective applications of §§ 7206(1) and 7207 provide solid evidence that Congress distinguished the statutes in ways that do not turn on the meaning of the word "willfully." Judge Hastie, in analyzing this Court's holding in Spies, appropriately described this distinction as follows:</p>
-    <p>"However, this distinction is found in the additional misconduct which is essential to the violation of the felony statute . . . , and not in the quality</p>
+    <p>"However, this distinction is found in the additional misconduct which is essential to the violation of the felony statute . . ., and not in the quality</p>
     <n id="p359">359</n>
     <p>of willfulness which characterizes the wrongdoing."</p>
     <p>United States v. Vitiello, 363 F.2d 240, 243 (CA3 1966). Thus, the word "willfully" may have a uniform meaning in the several statutes without rendering any one of them surplusage. We next turn to context.</p>

@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us568-0371.html" citation="568 U.S. 371" title="Marx v. General Revenue Corp.">
   <opinion type="Opinion" author="Thomas">
     <n id="p371">371</n>
     <p>NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 11–1175</p>
-    <p>_________________</p>
     <p>OLIVEA MARX, PETITIONER v. GENERAL REVENUE CORPORATION</p>
     <p>on writ of certiorari to the united states court of appeals for the tenth circuit</p>
     <p>[February 26, 2013]</p>
@@ -64,9 +63,7 @@
   </opinion>
   <opinion type="Dissent" author="Sotomayor">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 11–1175</p>
-    <p>_________________</p>
     <p>OLIVEA MARX, PETITIONER v. GENERAL REVENUE CORPORATION</p>
     <p>on writ of certiorari to the united states court of appeals for the tenth circuit</p>
     <p>[February 26, 2013]</p>
@@ -105,6 +102,6 @@
     <f n="4"><a id="fn2-4" href="#nf2-4">4</a> The majority suggests that this canon does not apply to §1692k(a)(3) because it only aids where “ ‘it is fair to suppose that Congress considered the unnamed possibility and meant to say no to it.’ ” Ante, at 9 (quoting Barnhart v. Peabody Coal Co., <a href="../us537/us537-0149.xml#p149">537 U.S. 149</a>, 168 (2003)). The best evidence of congressional intent, however, is the statutory text that Congress enacted. West Virginia Univ. Hospitals, Inc. v. Casey, <a href="../us499/us499-0083.xml#p83">499 U.S. 83</a>, 98 (1991). And here, the plain language of §1692k(a)(3) makes it clear that Congress meant to foreclose other possible meanings. See supra, at 5.</f>
     <f n="5"><a id="fn2-5" href="#nf2-5">5</a> See, e.g., 15 U. S. C. § 6104(d) (Telemarketing and Consumer Fraud and Abuse Prevention Act) (“The court . . . may award costs of suit and reasonable fees for attorneys and expert witnesses to the prevailing party”); 42 U. S. C. §3613(c)(2) (Fair Housing Act) (“In a civil action . . . the court, in its discretion, may allow the prevailing party . . . a reasonable attorney’s fee and costs”); see also 28 U. S. C. §1332(b) (failure to recover jurisdictional amount).</f>
     <f n="6"><a id="fn2-6" href="#nf2-6">6</a> The majority does not explain why its speculation about legislative intent is more persuasive than the Solicitor General’s view that saddling potential plaintiffs with costs would undermine the FDCPA’s “ ‘calibrated scheme’ ” of enforcement. Brief for United States as Amicus Curiae 10 (quoting Jerman v. Carlisle, McNellie, Rini, Kramer &amp; Ulrich, L. P. A., <a href="../us559/us559-0573.xml#p573">559 U.S. 573</a>, ___ (2010) (slip op., at 29)). Under the Solicitor General’s interpretation, because the recoveries in these cases are not certain to be large, consumers may be deterred from bringing FDCPA claims if they are faced with the risk of paying costs. See Brief for United States 21–28. This outcome would thwart Congress’s expectation that the FDCPA was to be primarily enforced by consumers. Ibid.</f>
-    <f n="7"><a id="fn2-7" href="#nf2-7">7</a> See Ex parte Peterson, <a href="../us253/us253-0300.xml#p300">253 U.S. 300</a>, 318 (1920) (“[I]n actions at law the prevailing party is entitled to costs as of right . . . , except in those few cases where by express statutory provision or established principles costs are denied” (emphasis added)); see also United States v. Treadwell, 15 F. 532, 534 (SDNY 1883) (“[T]he prevailing party shall be entitled to costs in all cases, unless otherwise expressly provided by law” (emphasis added, internal quotation marks omitted)); Payne, Costs in Common Law Actions in the Federal Courts, 21 Va. L. Rev. 397, 430 (1934) (“By reason of the numerous changes in the acts of Congress respecting costs, many of the older cases are not now safe precedents. Care should be exercised, therefore, to make an intelligent use of the cases decided prior to the enactment of various statutes”).</f>
+    <f n="7"><a id="fn2-7" href="#nf2-7">7</a> See Ex parte Peterson, <a href="../us253/us253-0300.xml#p300">253 U.S. 300</a>, 318 (1920) (“[I]n actions at law the prevailing party is entitled to costs as of right . . ., except in those few cases where by express statutory provision or established principles costs are denied” (emphasis added)); see also United States v. Treadwell, 15 F. 532, 534 (SDNY 1883) (“[T]he prevailing party shall be entitled to costs in all cases, unless otherwise expressly provided by law” (emphasis added, internal quotation marks omitted)); Payne, Costs in Common Law Actions in the Federal Courts, 21 Va. L. Rev. 397, 430 (1934) (“By reason of the numerous changes in the acts of Congress respecting costs, many of the older cases are not now safe precedents. Care should be exercised, therefore, to make an intelligent use of the cases decided prior to the enactment of various statutes”).</f>
   </opinion>
 </case>

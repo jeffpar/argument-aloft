@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us459-0392.html" citation="459 U.S. 392" title="Memphis Bank &amp;amp; Trust Co. v. Garner">
   <opinion type="Opinions &amp; Dissents">
     <n id="p392">392</n>
-    <h>U.S. Supreme Court</h>
-    <h>Memphis Bank &amp; Trust Co. v. Garner, <a href="./us459-0392.xml#p392">459 U.S. 392</a> (1983)</h>
-    <h>Memphis Bank &amp; Trust Co. v. Garner</h>
-    <h>No. 81-1613</h>
-    <h>Argued November 29, 1982</h>
-    <h>Decided January 24, 1983</h>
-    <h><a href="./us459-0392.xml#p392">459 U.S. 392</a></h>
-    <h>APPEAL FROM THE SUPREME COURT OF TENNESSEE</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Memphis Bank &amp; Trust Co. v. Garner, <a href="./us459-0392.xml#p392">459 U.S. 392</a> (1983)</h1>
+    <h2>Memphis Bank &amp; Trust Co. v. Garner</h2>
+    <h4>No. 81-1613</h4>
+    <h4>Argued November 29, 1982</h4>
+    <h4>Decided January 24, 1983</h4>
+    <h2>APPEAL FROM THE SUPREME COURT OF TENNESSEE</h2>
+    <h2>Syllabus</h2>
     <p>A Tennessee statute imposes a tax on the net earnings of banks doing business in the State, and defines net earnings to include interest received on obligations of the United States and its instrumentalities and of other States, but not interest earned on obligations of Tennessee and its political subdivisions. Appellant bank brought an action in a Tennessee state court to recover taxes paid on interest earned on various federal obligations, alleging that the bank tax, as applied to appellant, violated 31 U.S.C. § 742 -- which exempts obligations of the United States from state and local taxation except where the taxes are "nondiscriminatory franchise or other nonproperty taxes in lieu thereof imposed on corporations" or estate or inheritance taxes -- and thus was unconstitutional under the Supremacy Clause. The trial court granted appellant's motion for a summary judgment. The Tennessee Supreme Court reversed, holding that the bank tax fell within the exception for "nondiscriminatory franchise taxes" set forth in § 742.</p>
     <p>Held: The Tennessee bank tax violates the immunity of obligations of the United States from state and local taxation. The tax cannot be characterized as nondiscriminatory under § 742. It discriminates in favor of securities issued by Tennessee and its political subdivisions and against federal obligations by including in the tax base income from federal obligations while excluding income from otherwise comparable state and local obligations, and thus improperly discriminates against the Federal Government and those with whom it deals. Pp. <a href="./us459-0392.xml#p395">459 U. S. 395</a>-399.</p>
     <p><a href="https://law.justia.com/cases/tennessee/supreme-court/1981/624-s-w-2d-551-1.html">624 S.W.2d 551</a>, reversed and remanded.</p>
@@ -18,7 +18,7 @@
     <n id="p393">393</n>
     <p>JUSTICE MARSHALL delivered the opinion of the Court.</p>
     <p>The Tennessee bank tax imposes a tax on the net earnings of banks doing business within the State, and defines net earnings to include income from obligations of the United States and its instrumentalities, but to exclude interest earned on the obligations of Tennessee and its political subdivisions. Tenn.Code Ann. § 67-751 (Supp.1982). This appeal presents the question whether the Tennessee bank tax violates the immunity of obligations of the United States from state and local taxation.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Appellant Memphis Bank &amp; Trust Co. (Memphis Bank) brought this action in state court to recover $56,696.81 in taxes covering the years 1977 and 1978 which had been assessed pursuant to the Tennessee bank tax, Tenn.Code Ann. § 67-751 (Supp..1982). [<a id="nf1" href="#fn1">Footnote 1</a>] Each bank doing business in Tennessee</p>
     <n id="p394">394</n>
     <p>is required under § 67-751 to pay to local governments of the State a tax of 3% of the bank's net earnings for the preceding fiscal year, less a portion of the ad valorem taxes paid by the bank for that year. [<a id="nf2" href="#fn2">Footnote 2</a>] Under the statute, net earnings include interest received by the bank on the obligations of the United States and its instrumentalities, as well as interest on bonds and other obligations of States other than Tennessee, but exclude interest on obligations of Tennessee and its political subdivisions. [<a id="nf3" href="#fn3">Footnote 3</a>]</p>
@@ -26,7 +26,7 @@
     <n id="p395">395</n>
     <p>obligations, primarily notes and bills of the United States Treasury and obligations of Federal Credit Banks. [<a id="nf4" href="#fn4">Footnote 4</a>] They also stipulated that, if the interest earned on such federal obligations were excluded from the computation, Memphis Bank would owe no taxes for the years in question.</p>
     <p>The Chancery Court of Shelby County granted Memphis Bank's motion for summary judgment, holding that 31 U.S.C. § 742 prohibits the inclusion of interest on obligations of the United States and its instrumentalities in the computation of taxable "net earnings" under the Tennessee bank tax. The Supreme Court of Tennessee reversed. <a href="https://law.justia.com/cases/tennessee/supreme-court/1981/624-s-w-2d-551-1.html">624 S.W.2d 551</a> (1981). It held that the bank tax fell within the exception for "nondiscriminatory franchise . . . taxes" set forth in 31 U.S.C. § 742. We noted probable jurisdiction, 456 U.S. 943 (1982), and we reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Title 31 U.S.C. § 742 establishes a broad exemption of federal obligations from state and local taxation:</p>
     <p>"Except as otherwise provided by law, all stocks, bonds, Treasury notes, and other obligations of the United States, shall be exempt from taxation by or under State or municipal or local authority. This exemption extends to every form of taxation that would require that either the obligations or the interest thereon, or both, be considered, directly or indirectly, in the computation of the tax, except nondiscriminatory franchise or other nonproperty</p>
     <n id="p396">396</n>

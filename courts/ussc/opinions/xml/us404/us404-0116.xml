@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us404-0116.html" citation="404 U.S. 116" title="NLRB v. Plasters' Local">
   <opinion type="Opinions &amp; Dissents">
     <n id="p116">116</n>
-    <h>U.S. Supreme Court</h>
-    <h>NLRB v. Plasters' Local, <a href="./us404-0116.xml#p116">404 U.S. 116</a> (1971)</h>
-    <h>National Labor Relations Board v. Plasterers' Union</h>
-    <h>No. 79, Operative Plasterers' &amp; Cement Masons'</h>
-    <h>International Assn., AFL-CIO</h>
-    <h>No. 70-63</h>
-    <h>Argued October 13, 1971</h>
-    <h>Decided December 6, 1971<a href="./us404-0116.xml#p116">404 U.S. 116</a>ast|&gt;*</h>
-    <h><a href="./us404-0116.xml#p116">404 U.S. 116</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE DISTRICT OF COLUMBIA CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>NLRB v. Plasters' Local, <a href="./us404-0116.xml#p116">404 U.S. 116</a> (1971)</h1>
+    <h2>National Labor Relations Board v. Plasterers' Union</h2>
+    <h2>No. 79, Operative Plasterers' &amp; Cement Masons'</h2>
+    <h2>International Assn., AFL-CIO</h2>
+    <h2>No. 70-63</h2>
+    <h4>Argued October 13, 1971</h4>
+    <h4>Decided December 6, 1971<a href="./us404-0116.xml#p116">404 U.S. 116</a>ast|&gt;*</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE DISTRICT OF COLUMBIA CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Two unions, the Plasterers and the Tile Setters, in accordance with procedures binding them to arbitrate, submitted to a board their jurisdictional dispute over work to be done for a contractor. The board awarded the work to the Plasterers. When the contractor and the Tile Setters refused to abide by the arbitration board's decision, the Plasterers, to force reassignment of the work, picketed that contractor as well as another contractor employing members of the Tile Setters. Neither contractor was subject to the arbitration agreement. Charges were thereupon filed against the Plasterers for allegedly violating § 8(b)(4)(D) of the National Labor Relations Act, and a hearing to resolve the dispute was held under § 10(k), which directs the National Labor Relations Board (NLRB) to "hear and determine the dispute out of which [the alleged] unfair labor practice has arisen" unless "the parties to such dispute" agree upon a settlement. The NLRB, after weighing the arbitration board's decision "and all [other] relevant factors," awarded the work to the Tile Setters. When the Plasterers refused to abide by the award, a § 8(b)(4)(D) complaint was filed against them and they were found to have violated that provision. Both contractors, which had collective bargaining agreements with the Tile Setters (but not with the Plasterer) and had been employing members of that union to perform the operation involved in the jurisdictional dispute, contended that it was far more efficient for them to use tile setters than plasterers. The Court of Appeals, on review, set aside the NLRB's order, holding that it is not the employer, but the rival unions, that are parties to the jurisdictional dispute to which § 10(k) applies.</p>
     <p>Held:</p>
     <n id="p117">117</n>
@@ -25,7 +25,7 @@
     <p>When a charge is filed under § 8(b)(4)(D) of the National Labor Relations Act, as amended, the provision [<a id="nf1" href="#fn1">Footnote 1</a>] banning so-called jurisdictional disputes, the Board must, under § 10(k), "hear and determine the dispute out of which [the] unfair labor practice shall have arisen, unless . . . the parties to such dispute" adjust or agree upon a method for the voluntary adjustment of the dispute. [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
     <n id="p119">119</n>
     <p>The issue here is whether an employer, picketed to force reassignment of work, is a "party" to the "dispute" for purposes of § 10(k). When the two unions involved, but not the employer, have agreed upon a method of settlement, must the Board dismiss the § 10(k) proceedings, or must it proceed to determine the dispute with the employer being afforded a chance to participate?</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Texas State Tile &amp; Terrazzo Co. (Texas State) and Martini Tile &amp; Terrazzo Co. (Martini) are contractors in Houston, Texas, engaged in the business of installing tile and terrazzo. Both have collective bargaining agreements with the Tile, Terrazzo and Marble Setters Local Union No. 20 (Tile Setters) and have characteristically used members of the Tile Setters union for laying tile and also for work described in the collective bargaining contract as applying</p>
     <p>"a coat or coats of mortar, prepared to proper tolerance to receive tile on floors, walls and ceiling regardless of whether the mortar coat is wet or dry at the time the tile is applied to it. [<a id="nf3" href="#fn3">Footnote 3</a>]"</p>
     <p>This case arose when Plasterers' Local Union No. 79, Operative Plasterers' and Cement Masons' International Association of Houston, Texas (Plasterers), picketed the job sites of Texas State and Martini claiming that the work of applying the mortar to receive tile was the work of the Plasterers' union, and not of the Tile Setters. [<a id="nf4" href="#fn4">Footnote 4</a>] Neither Texas State nor Martini had a collective bargaining contract with the Plasterers or regularly employed workers represented by that union.</p>
@@ -42,7 +42,7 @@
     <n id="p123">123</n>
     <p>to seek the work in question. [<a id="nf12" href="#fn12">Footnote 12</a>]"</p>
     <p>It concluded that the Board may not make a § 10(k) determination of a jurisdictional dispute where the opposing unions have agreed to settle their differences through binding arbitration. Both the Board and the employers petitioned for certiorari, and we granted the petitions. [<a id="nf13" href="#fn13">Footnote 13</a>]</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Section 8(b)(4)(D) makes it an unfair labor practice for a labor organization to strike or threaten or coerce an employer or other person in order to force or require an employer to assign particular work to one group of employees, rather than to another, unless the employer is refusing to honor a representation order of the Board. On its face, the section would appear to cover any union challenge to an employer work assignment where the prohibited means are employed. NLRB v. Radio &amp; Television Broadcast Engineers Union, Local 1212, <a href="../us364/us364-0573.xml#p573">364 U. S. 573</a>, <a href="../us364/us364-0573.xml#p576">364 U. S. 576</a> (161) (hereinafter CBS). As the charging or intervening party, the employer would normally be a party to any proceedings under that section. [<a id="nf14" href="#fn14">Footnote 14</a>] Section 8(b)(4)(D), however, must be read in light of § 10(k), with which it is interlocked. CBS, supra, at <a href="../us364/us364-0573.xml#p576">364 U. S. 576</a>. When a § 8(b)(4)(D) charge is filed and there is reasonable cause to believe that an unfair labor practice has been</p>
     <n id="p124">124</n>
     <p>committed, issuance of the complaint is withheld until the provisions of § 10(k) have been satisfied. That section directs the Board to "hear and determine" the dispute out of which the alleged unfair labor practice arose; the Board is required to decide which union or group of employees is entitled to the disputed work in accordance with acceptable, Board-developed standards, unless the parties to the underlying dispute settle the case or agree upon a method for settlement. Whether the § 8(b)(4)(D) charge will be sustained or dismissed is thus dependent on the outcome of the § 10(k) proceeding. The Board allows an employer to fully participate in a § 10(k) proceeding as a party. If the employer prefers the employees to whom he has assigned the work, his right to later relief against the other union's picketing is conditioned upon his ability to convince the Board in the § 10(k) proceeding that his original assignment is valid under the criteria employed by the Board.</p>

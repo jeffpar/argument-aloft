@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us585-16-402.html" citation="585 U.S. 16-402" title="Carpenter v. United States">
   <opinion type="Opinion" author="Roberts">
     <p>NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 16–402</p>
-    <p>_________________</p>
     <p>TIMOTHY IVORY CARPENTER, PETITIONER v. UNITED STATES</p>
     <p>on writ of certiorari to the united states court of appeals for the sixth circuit</p>
     <p>[June 22, 2018]</p>
@@ -83,9 +82,7 @@
   </opinion>
   <opinion type="Dissent" author="Kennedy">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 16–402</p>
-    <p>_________________</p>
     <p>TIMOTHY IVORY CARPENTER, PETITIONER v. UNITED STATES</p>
     <p>on writ of certiorari to the united states court of appeals for the sixth circuit</p>
     <p>[June 22, 2018]</p>
@@ -174,9 +171,7 @@
   </opinion>
   <opinion type="Dissent" author="Thomas">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 16–402</p>
-    <p>_________________</p>
     <p>TIMOTHY IVORY CARPENTER, PETITIONER v. UNITED STATES</p>
     <p>on writ of certiorari to the united states court of appeals for the sixth circuit</p>
     <p>[June 22, 2018]</p>
@@ -246,9 +241,7 @@
   </opinion>
   <opinion type="Dissent" author="Alito">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 16–402</p>
-    <p>_________________</p>
     <p>TIMOTHY IVORY CARPENTER, PETITIONER v. UNITED STATES</p>
     <p>on writ of certiorari to the united states court of appeals for the sixth circuit</p>
     <p>[June 22, 2018]</p>
@@ -282,7 +275,7 @@
     <p>Of course, our jurisprudence has not stood still since 1791. We now evaluate subpoenas duces tecum and other forms of compulsory document production under the Fourth Amendment, although we employ a reasonableness standard that is less demanding than the requirements for a warrant. But the road to that doctrinal destination was anything but smooth, and our initial missteps—and the subsequent struggle to extricate ourselves from their consequences—should provide an object lesson for today’s majority about the dangers of holding compulsory process to the same standard as actual searches and seizures.</p>
     <p>For almost a century after the Fourth Amendment was enacted, this Court said and did nothing to indicate that it might regulate the compulsory production of documents. But that changed temporarily when the Court decided Boyd v. United States, 116 U. S. 616 (1886), the first—and, until today, the only—case in which this Court has ever held the compulsory production of documents to the same standard as actual searches and seizures.</p>
     <p>The Boyd Court held that a court order compelling a company to produce potentially incriminating business records violated both the Fourth and the Fifth Amendments. The Court acknowledged that “certain aggravating incidents of actual search and seizure, such as forcible entry into a man’s house and searching amongst his papers, are wanting” when the Government relies on compulsory process. Id., at 622. But it nevertheless asserted that the Fourth Amendment ought to “be liberally construed,” id., at 635, and further reasoned that compulsory process “effects the sole object and purpose of search and seizure” by “forcing from a party evidence against himself,” id., at 622. “In this regard,” the Court concluded, “the Fourth and Fifth Amendments run almost into each other.” Id., at 630. Having equated compulsory process with actual searches and seizures and having melded the Fourth Amendment with the Fifth, the Court then found the order at issue unconstitutional because it compelled the production of property to which the Government did not have superior title. See id., at 622–630.</p>
-    <p>In a concurrence joined by Chief Justice Waite, Justice Miller agreed that the order violated the Fifth Amendment, id., at 639, but he strongly protested the majority’s invocation of the Fourth Amendment. He explained: “[T]here is no reason why this court should assume that the action of the court below, in requiring a party to produce certain papers . . . , authorizes an unreasonable search or seizure of the house, papers, or effects of that party. There is in fact no search and no seizure.” Ibid. “If the mere service of a notice to produce a paper . . . is a search,” Justice Miller concluded, “then a change has taken place in the meaning of words, which has not come within my reading, and which I think was unknown at the time the Constitution was made.” Id., at 641.</p>
+    <p>In a concurrence joined by Chief Justice Waite, Justice Miller agreed that the order violated the Fifth Amendment, id., at 639, but he strongly protested the majority’s invocation of the Fourth Amendment. He explained: “[T]here is no reason why this court should assume that the action of the court below, in requiring a party to produce certain papers . . ., authorizes an unreasonable search or seizure of the house, papers, or effects of that party. There is in fact no search and no seizure.” Ibid. “If the mere service of a notice to produce a paper . . . is a search,” Justice Miller concluded, “then a change has taken place in the meaning of words, which has not come within my reading, and which I think was unknown at the time the Constitution was made.” Id., at 641.</p>
     <p>Although Boyd was replete with stirring rhetoric, its reasoning was confused from start to finish in a way that ultimately made the decision unworkable. See 3 W. LaFave, J. Israel, N. King, &amp; O. Kerr, Criminal Procedure §8.7(a) (4th ed. 2015). Over the next 50 years, the Court would gradually roll back Boyd’s erroneous conflation of compulsory process with actual searches and seizures.</p>
     <p>That effort took its first significant stride in Hale v. Henkel, 201 U. S. 43 (1906), where the Court found it “quite clear” and “conclusive” that “the search and seizure clause of the Fourth Amendment was not intended to interfere with the power of courts to compel, through a subpœna duces tecum, the production, upon a trial in court, of documentary evidence.” Id., at 73. Without that writ, the Court recognized, “it would be ‘utterly impossible to carry on the administration of justice.’ ” Ibid.</p>
     <p>Hale, however, did not entirely liberate subpoenas duces tecum from Fourth Amendment constraints. While refusing to treat such subpoenas as the equivalent of actual searches, Hale concluded that they must not be unreasonable. And it held that the subpoena duces tecum at issue was “far too sweeping in its terms to be regarded as reasonable.” Id., at 76. The Hale Court thus left two critical questions unanswered: Under the Fourth Amendment, what makes the compulsory production of documents “reasonable,” and how does that standard differ from the one that governs actual searches and seizures?</p>
@@ -335,9 +328,7 @@
   </opinion>
   <opinion type="Dissent" author="Gorsuch">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 16–402</p>
-    <p>_________________</p>
     <p>TIMOTHY IVORY CARPENTER, PETITIONER v. UNITED STATES</p>
     <p>on writ of certiorari to the united states court of appeals for the sixth circuit</p>
     <p>[June 22, 2018]</p>

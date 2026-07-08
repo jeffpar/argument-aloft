@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us421-0773.html" citation="421 U.S. 773" title="Goldfarb v. Virginia State Bar">
   <opinion type="Opinions &amp; Dissents">
     <n id="p773">773</n>
-    <h>U.S. Supreme Court</h>
-    <h>Goldfarb v. Virginia State Bar, <a href="./us421-0773.xml#p773">421 U.S. 773</a> (1975)</h>
-    <h>Goldfarb v. Virginia State Bar</h>
-    <h>No. 74-70</h>
-    <h>Argued March 25, 1975</h>
-    <h>Decided June 16, 1975</h>
-    <h><a href="./us421-0773.xml#p773">421 U.S. 773</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE FOURTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Goldfarb v. Virginia State Bar, <a href="./us421-0773.xml#p773">421 U.S. 773</a> (1975)</h1>
+    <h2>Goldfarb v. Virginia State Bar</h2>
+    <h2>No. 74-70</h2>
+    <h4>Argued March 25, 1975</h4>
+    <h4>Decided June 16, 1975</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE FOURTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioners, husband and wife, contracted to buy a home in Fairfax County, Va. and the lender who financed the purchase required them to obtain title insurance, which necessitated a title examination that could be performed legally only by a member of respondent Virginia State Bar. Petitioners unsuccessfully tried to find a lawyer who would examine the title for less than the fee prescribed in a minimum fee schedule published by respondent Fairfax County Bar Association and enforced by respondent Virginia State Bar. Petitioners then brought this class action against respondents, seeking injunctive relief and damages, and alleging that the minimum fee schedule and its enforcement mechanism, as applied to fees for legal services relating to residential real estate transactions, constitute price-fixing in violation of § 1 of the Sherman Act. Although holding that the State Bar was exempt from the Sherman Act, the District Court granted judgment against the County Bar Association and enjoined the publication of the fee schedule. The Court of Appeals reversed, holding not only that the State Bar's actions were immune from liability as "state action," Parke v. Bown, <a href="../us317/us317-0341.xml#p341">317 U. S. 341</a>, but also that the County Bar Association was immune because the practice of law, as a "learned profession," is not "trade or commerce" under the Sherman Act; and that, in any event, respondents' activities did not have sufficient effect on interstate commerce to support Sherman Act jurisdiction.</p>
     <p>Held: The minimum fee schedule, as published by the County Bar Association and enforced by the State Bar, violates § 1 of the Sherman Act. Pp. <a href="./us421-0773.xml#p780">421 U. S. 780</a>-793.</p>
     <p>(a) The schedule and its enforcement mechanism constitute price-fixing, since the record shows that the schedule, rather than being purely advisory, operated as a fixed, rigid price floor. The fee schedule was enforced through the prospect of professional discipline by the State Bar, by reason of attorneys' desire to comply with announced professional norms, and by the assurance that other lawyers would not compete by underbidding. Pp. <a href="./us421-0773.xml#p781">421 U. S. 781</a>-783.</p>
@@ -24,7 +24,7 @@
     <n id="p775">775</n>
     <p>MR. CHIEF JUSTICE BURGER delivered the opinion of the Court.</p>
     <p>We granted certiorari to decide whether a minimum fee schedule for lawyers published by the Fairfax County Bar Association and enforced by the Virginia State Bar violates § 1 of the Sherman Act, 26 Stat. 209, as amended, 15 U.S.C. § 1. The Court of Appeals held that, although the fee schedule and enforcement mechanism substantially restrained competition among lawyers, publication of the schedule by the County Bar was outside the scope of the Act because the practice of law is not "trade or commerce," and enforcement of the schedule by the State Bar was exempt from the Sherman Act as state action as defined in Parker v. Brown, <a href="../us317/us317-0341.xml#p341">317 U. S. 341</a> (1943).</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In 1971 petitioners, husband and wife, contracted to buy a home in Fairfax County, Va. The financing agency required them to secure title insurance; this required a title examination, and only a member of the Virginia State Bar could legally perform that service. [<a id="nf1" href="#fn1">Footnote 1</a>]</p>
     <n id="p776">776</n>
     <p>Petitioners therefore contacted a lawyer who quoted them the precise fee suggested in a minimum fee schedule published by respondent Fairfax County Bar Association; the lawyer told them that it was his policy to keep his charges in line with the minimum fee schedule, which provided for a fee of 1% of the value of the property involved. Petitioners then tried to find a lawyer who would examine the title for less than the fee fixed by the schedule. They sent letters to 36 other Fairfax County lawyers requesting their fees. Nineteen replied, and none indicated that he would charge less than the rate fixed by the schedule; several stated that they knew of no attorney who would do so.</p>
@@ -50,7 +50,7 @@
     <p>The accord reached by that court was to hold the practice of law exempt from the antitrust laws.</p>
     <p>Alternatively, the Court of Appeals held that respondents' activities did not have sufficient effect on interstate commerce to support Sherman Act jurisdiction. Petitioners had argued that the fee schedule restrained the business of financing and insuring home mortgages by inflating a component part of the total cost of housing, but the court concluded that a title examination is generally a local service, and, even where it is part of a transaction which crosses state lines, its effect on commerce is only "incidental," and does not justify federal regulation.</p>
     <p>We granted certiorari, 419 U.S. 963 (1974), and are thus confronted for the first time with the question of whether the Sherman Act applies to services performed by attorneys in examining titles in connection with financing the purchase of real estate.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Our inquiry can be divided into four steps: did respondents engage in price-fixing? If so, are their activities in interstate commerce or do they affect interstate commerce? If so, are the activities exempt from the Sherman Act because they involve a "learned profession?" If not, are the activities "state action" within the meaning of Parker v. Brown, <a href="../us317/us317-0341.xml#p341">317 U. S. 341</a> (1943), and therefore exempt from the Sherman Act?</p>
     <n id="p781">781</n>
     <p>A</p>
@@ -95,7 +95,7 @@
     <p>The fact that the State Bar is a state agency for some limited purposes does not create an antitrust shield that allows it to foster anticompetitive practices for the benefit of its members. [<a id="nf21" href="#fn21">Footnote 21</a>] Cf. Gibson v. Berryhill, <a href="../us411/us411-0564.xml#p564">411 U. S. 564</a>, <a href="../us411/us411-0564.xml#p578">411 U. S. 578</a>-579 (1973). The State Bar, by providing that</p>
     <n id="p792">792</n>
     <p>deviation from County Bar minimum fees may lead to disciplinary action, has voluntarily joined in what is essentially a private anticompetitive activity, and, in that posture, cannot claim it is beyond the reach of the Sherman Act. [<a id="nf22" href="#fn22">Footnote 22</a>] Parker v. Brown, supra, at <a href="../us317/us317-0341.xml#p351">317 U. S. 351</a>-352. Its activities resulted in a rigid price floor from which petitioners, as consumers, could not escape if they wished to borrow money to buy a home.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>We recognize that the States have a compelling interest in the practice of professions within their boundaries, and that, as part of their power to protect the public health, safety, and other valid interests, they have broad power to establish standards for licensing practitioners and regulating the practice of professions. We also recognize that, in some instances, the State may decide that "forms of competition usual in the business world may be demoralizing to the ethical standards of a profession." United States v. Oregon State Medical Society, <a href="../us343/us343-0326.xml#p326">343 U. S. 326</a>, <a href="../us343/us343-0326.xml#p336">343 U. S. 336</a> (1952). See also Semler v. Oregon State Board of Dental Examiners, <a href="../us294/us294-0608.xml#p608">294 U. S. 608</a>, <a href="../us294/us294-0608.xml#p611">294 U. S. 611</a>-613 (1935). The interest of the States in regulating lawyers is especially great, since lawyers are essential to the primary governmental function of administering justice, and have historically been "officers of the courts." See Sperry v. Florida ex rel. Florida Bar, <a href="../us373/us373-0379.xml#p379">373 U. S. 379</a>, <a href="../us373/us373-0379.xml#p383">373 U. S. 383</a> (1963); Cohen v. Hurley, <a href="../us366/us366-0117.xml#p117">366 U. S. 117</a>, <a href="../us366/us366-0117.xml#p123">366 U. S. 123</a>-124 (1961); Law Students Research Council v. Wadmond, <a href="../us401/us401-0154.xml#p154">401 U. S. 154</a>,</p>
     <n id="p793">793</n>
     <p>157 (1971). In holding that certain anticompetitive conduct by lawyers is within the reach of the Sherman Act we intend no diminution of the authority of the State to regulate its professions.</p>

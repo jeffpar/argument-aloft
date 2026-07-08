@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us496-0633.html" citation="496 U.S. 633" title="PBG Corp. v. LTV Corp.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p633">633</n>
-    <h>U.S. Supreme Court</h>
-    <h>PBG Corp. v. LTV Corp., <a href="./us496-0633.xml#p633">496 U.S. 633</a> (1990)</h>
-    <h>Pension Benefit Guaranty Corporation v. LTV Corporation</h>
-    <h>No. 89-390</h>
-    <h>Argued Feb. 27, 1990</h>
-    <h>Decided June 18, 1990</h>
-    <h><a href="./us496-0633.xml#p633">496 U.S. 633</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE SECOND CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>PBG Corp. v. LTV Corp., <a href="./us496-0633.xml#p633">496 U.S. 633</a> (1990)</h1>
+    <h2>Pension Benefit Guaranty Corporation v. LTV Corporation</h2>
+    <h2>No. 89-390</h2>
+    <h4>Argued Feb. 27, 1990</h4>
+    <h4>Decided June 18, 1990</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE SECOND CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Title IV of the Employee Retirement Income Security Act of 1974 (ERISA) includes a mandatory Government insurance program that protects private-sector workers participating in covered pension plans against the termination of their plans before sufficient funds have been accumulated to pay anticipated benefits. The program is administered by petitioner Pension Benefit Guaranty Corporation (PBGC), which is responsible for paying terminated plans' unfunded liabilities out of the proceeds of annual premiums collected from employers maintaining ongoing plans. Respondent LTV Corporation and many of its subsidiaries (collectively LTV) filed reorganization petitions under the Bankruptcy Code for the purpose, inter alia, of restructuring the pension obligations of one of the subsidiaries under three ERISA-covered, chronically underfunded pension plans (the Plans), two of which could not be voluntarily terminated by LTV under ERISA's terms because they resulted from collective bargaining negotiations with the United Steelworkers of America. In light of LTV's statement that it could no longer provide complete funding, the PBGC sought involuntary termination of the Plans to protect the insurance program from the risk of large losses. After the District Court terminated the Plans, LTV and the Steelworkers negotiated new pension arrangements, which the PBGC characterized as "follow-on" plans -- i.e., arrangements designed to wrap around PBGC insurance benefits to provide substantially the same benefits as would have been received had no termination occurred. Pursuant to its anti-follow-on policy, which considers such plans to be "abusive" of the insurance program, and in light of its perception that LTV's financial circumstances had dramatically improved, the PBGC issued a Notice of Restoration of the terminated Plans under § 4047 of ERISA, which authorizes the PBGC to undo a termination "in any . . . case in which [it] determines such action to be appropriate and consistent with its duties under [Title IV]." When LTV refused to comply with the restoration decision, the PBGC filed an enforcement action, but the District Court vacated the decision upon finding, among other things, that the PBGC had exceeded its § 4047 authority. The Court of Appeals affirmed, holding that the restoration decision was, in various respects, "arbitrary and</p>
     <n id="p634">634</n>
     <p>capricious" or contrary to law under § 706(2)(A) of the Administrative Procedure Act (APA).</p>
@@ -28,7 +28,7 @@
     <n id="p636">636</n>
     <p>Justice BLACKMUN delivered the opinion of the Court.</p>
     <p>In this case, we must determine whether the decision of the Pension Benefit Guaranty Corporation (PBGC) to restore certain pension plans under § 4047 of the Employee Retirement Income Security Act of 1974 (ERISA), 88 Stat. 1028, as amended, 100 Stat. 237, 29 U.S.C. § 1347 (1982 ed., Supp. IV), was, as the Court of Appeals concluded, arbitrary and capricious or contrary to law within the meaning of § 706 of the Administrative Procedure Act (APA), 5 U.S.C. § 706.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Petitioner PBGC is a wholly owned United States Government corporation, see 29 U.S.C. § 1302, modeled after the</p>
     <n id="p637">637</n>
     <p>Federal Deposit Insurance Corporation. See 120 Cong.Rec. 29950 (1974) (statement of Sen. Bentsen). The Board of Directors of the PBGC consists of the Secretaries of the Treasury, Labor, and Commerce. 29 U.S.C. § 1302(d). The PBGC administers and enforces Title IV of ERISA. Title IV includes a mandatory Government insurance program that protects the pension benefits of over 30 million private-sector American workers who participate in plans covered by the Title. [<a id="nf1" href="#fn1">Footnote 1</a>] In enacting Title IV, Congress sought to ensure that employees and their beneficiaries would not be completely "deprived of anticipated retirement benefits by the termination of pension plans before sufficient funds have been accumulated in the plans." Pension Benefit Guaranty Corp. v. R.A. Gray &amp; Co., <a href="../us467/us467-0717.xml#p717">467 U. S. 717</a>, <a href="../us467/us467-0717.xml#p720">467 U. S. 720</a> (1984). See also Nachman Corp. v. Pension Benefit Guaranty Corp., <a href="../us446/us446-0359.xml#p359">446 U. S. 359</a>, <a href="../us446/us446-0359.xml#p361">446 U. S. 361</a>-362, 374-375 (1980).</p>
@@ -50,7 +50,7 @@
     <n id="p640">640</n>
     <p>administrator of control of part or all of the remaining assets and liabilities of the plan."</p>
     <p>When a plan is restored, full benefits are reinstated and the employer, rather than the PBGC, again is responsible for the plan's unfunded liabilities.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>This case arose after respondent The LTV Corporation (LTV Corp.) and many of its subsidiaries, including LTV Steel Company Inc. (LTV Steel) (collectively LTV), in July, 1986, filed petitions for reorganization under Chapter 11 of the Bankruptcy Code. At that time, LTV Steel was the sponsor of three defined benefit pension plans (the Plans) covered by Title IV of ERISA. Two of the Plans were the products of collective bargaining negotiations with the United Steelworkers of America. The third was for nonunion salaried employees. Chronically underfunded, the Plans, by late 1986, had unfunded liabilities for promised benefits of almost $2.3 billion. Approximately $2.1 billion of this amount was covered by PBGC insurance.</p>
     <p>It is undisputed that one of LTV Corp.'s principal goals in filing the Chapter 11 petitions was the restructuring of LTV Steel's pension obligations, a goal which could be accomplished if the Plans were terminated and responsibility for the unfunded liabilities was placed on the PBGC. LTV Steel then could negotiate with its employees for new pension arrangements. LTV, however, could not voluntarily terminate the Plans because two of them had been negotiated in collective bargaining. LTV therefore sought to have the PBGC terminate the Plans.</p>
     <p>To that end, LTV advised the PBGC in 1986 that it could not continue to provide complete funding for the Plans. PBGC estimated that, without continued funding, the Plans' $2.1 billion underfunding could increase by as much as $65 million by December, 1987, and by another $63 million by December, 1988, unless the Plans were terminated. Moreover, extensive plant shutdowns were anticipated. These shut-downs,</p>
@@ -74,7 +74,7 @@
     <p>The Court of Appeals for the Second Circuit affirmed, holding that the PBGC's restoration decision was "arbitrary and capricious" or contrary to law under § 706(2)(A) of the APA, 5 U.S.C. § 706(2)(A), in various ways. 875 F.2d 1008, 1015-1021 (1989). The court first concluded that the PBGC's action was arbitrary and capricious because the PBGC focused "inordinately on ERISA" to the exclusion of other laws. Id. at 1016. The court then found the agency's anti-follow-on policy to be contrary to law because the "legislative history of section 4047 reveals no indication that Congress intended the establishment of successive [i.e., follow-on] benefit plans to be a ground for restoration." Id. at 1017. The court also found the PBGC's other basis for restoration -- improved financial condition -- inadequate because the PBGC did not explain many of its economic assumptions. Id. at 1018-1020. Finally, the court concluded that the agency's restoration decision was arbitrary and capricious because the PBGC's decisionmaking process of informal adjudication lacked adequate procedural safeguards. Id. at 1021.</p>
     <p>Because of the significant administrative law questions raised by this case, and the importance of the PBGC's insurance program, we granted certiorari. 493 U.S. 932 (1989).</p>
     <n id="p645">645</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>A</p>
     <p>The Court of Appeals first held that the restoration decision was arbitrary and capricious under § 706(2)(A) because the PBGC did not take account of all the areas of law the court deemed relevant to the restoration decision. The court expressed the view that</p>
     <p>"[b]ecause ERISA, bankruptcy and labor law are all involved in the case at hand, there must be a showing on the administrative record that PBGC, before reaching its decision, considered all of these areas of law, and to the extent possible, honored the policies underlying them."</p>
@@ -121,7 +121,7 @@
     <n id="p653">653</n>
     <p>C</p>
     <p>Finally, we consider the Court of Appeals' ruling that the agency procedures were inadequate in this particular case. Relying upon a passage in Bowman Transportation, Inc. v. Arkansas-Best Freight System, Inc., <a href="../us419/us419-0281.xml#p281">419 U. S. 281</a>, <a href="../us419/us419-0281.xml#p288">419 U. S. 288</a>, n. 4 (1974), the court held that the PBGC's decision was arbitrary and capricious because the</p>
-    <p>"PBGC neither apprised LTV of the material on which it was to base its decision, gave LTV an adequate opportunity to offer contrary evidence, proceeded in accordance with ascertainable standards . . . , nor provided [LTV] a statement showing its reasoning in applying those standards."</p>
+    <p>"PBGC neither apprised LTV of the material on which it was to base its decision, gave LTV an adequate opportunity to offer contrary evidence, proceeded in accordance with ascertainable standards . . ., nor provided [LTV] a statement showing its reasoning in applying those standards."</p>
     <p>875 F.2d at 1021. The court suggested that, on remand, the agency was required to do each of these things.</p>
     <p>The PBGC argues that this holding conflicts with Vermont Yankee Nuclear Power Corp. v. Natural Resources Defense Council, Inc., <a href="../us435/us435-0519.xml#p519">435 U. S. 519</a> (1978), where, the PBGC contends, this Court made clear that, when the Due Process Clause is not implicated and an agency's governing statute contains no specific procedural mandates, the Administrative Procedure Act establishes the maximum procedural requirements a reviewing court may impose on agencies. Although Vermont Yankee concerned additional procedures imposed by the Court of Appeals for the District of Columbia Circuit on the Atomic Energy Commission when the agency was engaging in informal rulemaking, the PBGC argues that the informal adjudication process by which the restoration decision was made should be governed by the same principles.</p>
     <p>Respondents counter by arguing that courts, under some circumstances, do require agencies to undertake additional procedures. As support for this proposition, they rely on Citizens to Preserve Overton Park, Inc. v. Volpe, <a href="../us401/us401-0402.xml#p402">401 U. S. 402</a> (1971). In Overton Park, the Court concluded that the</p>
@@ -135,7 +135,7 @@
     <p>419 U.S. at <a href="../us419/us419-0281.xml#p288">419 U. S. 288</a>, n. 4. That statement was entirely correct in the context of Arkansas-Best, which involved a formal adjudication by the Interstate Commerce Commission pursuant to the trial-type procedures set forth in §§ 5, 7 and 8 of the APA, 5 U.S.C. §§ 554, 556-557, which include requirements that parties be given notice of "the matters of fact and law asserted," § 554(b)(3), an opportunity for "the submission and consideration of facts [and] arguments," § 554(c)(1), and an opportunity to submit "proposed findings and conclusions" or "exceptions," § 557(c)(1), (2). See 5 U.S.C. § 554(a); 49 Stat. 548, 54 Stat. 913, formerly codified at 49 U.S.C. §§ 17, 305(h) (1976 ed.), repealed, 92 Stat. 1466; 96 Stat. 2444. The determination in this case, however, was lawfully made by informal adjudication, the minimal requirements for which are set forth in § 555 of the APA, and do not include such elements. A failure to provide them where the Due Process</p>
     <n id="p656">656</n>
     <p>Clause itself does not require them (which has not been asserted here) is therefore not unlawful.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>We conclude that the PBGC's failure to consider all potentially relevant areas of law did not render its restoration decision arbitrary and capricious. We also conclude that the PBGC's anti-follow-on policy, an asserted basis for the restoration decision, is not contrary to clear congressional intent, and is based on a permissible construction of § 4047. Finally, we find the procedures employed by the PBGC to be consistent with the APA. Accordingly, the judgment of the Court of Appeals is reversed and the case is remanded for further proceedings consistent with this opinion.</p>
     <p>It is so ordered.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>

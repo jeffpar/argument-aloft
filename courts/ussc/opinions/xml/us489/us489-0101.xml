@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us489-0101.html" citation="489 U.S. 101" title="Firestone Tire &amp;amp; Rubber Co. v. Bruch">
   <opinion type="Opinions &amp; Dissents">
     <n id="p101">101</n>
-    <h>U.S. Supreme Court</h>
-    <h>Firestone Tire &amp; Rubber Co. v. Bruch, <a href="./us489-0101.xml#p101">489 U.S. 101</a> (1989)</h>
-    <h>Firestone Tire &amp; Rubber Co. v. Bruch</h>
-    <h>No. 87-1054</h>
-    <h>Argued November 30, 1988</h>
-    <h>Decided February 21, 1989</h>
-    <h><a href="./us489-0101.xml#p101">489 U.S. 101</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE THIRD CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Firestone Tire &amp; Rubber Co. v. Bruch, <a href="./us489-0101.xml#p101">489 U.S. 101</a> (1989)</h1>
+    <h2>Firestone Tire &amp; Rubber Co. v. Bruch</h2>
+    <h2>No. 87-1054</h2>
+    <h4>Argued November 30, 1988</h4>
+    <h4>Decided February 21, 1989</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE THIRD CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner Firestone Tire &amp; Rubber Co. (Firestone) maintained, and was the plan administrator and fiduciary of, a termination pay plan and two other unfunded employee benefit plans governed by the Employee Retirement Income Security Act of 1974 (ERISA), 29 U.S.C. § 1001 et seq. After Firestone sold its Plastics Division to Occidental Petroleum Co. (Occidental), respondents, Plastics Division employees who were rehired by Occidental, sought severance benefits under the termination pay plan, but Firestone denied their requests on the ground that there had not been a "reduction in workforce" that would authorize benefits under the plan's terms. Several respondents also sought information about their benefits under all three plans pursuant to § 1024(b)(4)'s disclosure requirements, but Firestone denied those requests on the ground that respondents were no longer plan "participants" entitled to information under ERISA. Respondents then brought suit for severance benefits under § 1132(a)(1)(B) and for damages under §§ 1132(a)(1)(A) and (c)(1)(B) based on Firestone's breach of its statutory disclosure obligation. The Federal District Court granted summary judgment for Firestone, holding that the company had satisfied its fiduciary duty as to the benefits requests because its decision not to pay was not arbitrary or capricious, and that it had no disclosure obligation to respondents because they were not plan "participants" within the meaning of § 1002(7) at the time they requested the information. The Court of Appeals reversed and remanded, holding that benefits denials should be subject to de novo judicial review, rather than review under the arbitrary and capricious standard, where the employer is itself the administrator and fiduciary of an unfunded plan, since deference is unwarranted in that situation, given the lack of assurance of impartiality on the employer's part. The Court of Appeals also held that the right to disclosure of plan information extends both to people who are entitled to plan benefits and to those who claim to be, but are not, so entitled.</p>
     <p>Held:</p>
     <p>1. De novo review is the appropriate standard for reviewing Firestone's denial of benefits to respondents. Pp. <a href="./us489-0101.xml#p108">489 U. S. 108</a>-115.</p>
@@ -29,7 +29,7 @@
     <p>This case presents two questions concerning the Employee Retirement Income Security Act of 1974 (ERISA), 88 Stat.</p>
     <n id="p105">105</n>
     <p>829, as amended, 29 U.S.C. § 1001 et seq. First, we address the appropriate standard of judicial review of benefit determinations by fiduciaries or plan administrators under ERISA. Second, we determine which persons are "participants" entitled to obtain information about benefit plans covered by ERISA.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Late in 1980, petitioner Firestone Tire and Rubber Company (Firestone) sold, as going concerns, the five plants composing its Plastics Division to Occidental Petroleum Company (Occidental). Most of the approximately 500 salaried employees at the five plants were rehired by Occidental and continued in their same positions without interruption and at the same rates of pay. At the time of the sale, Firestone maintained three pension and welfare benefit plans for its employees: a termination pay plan, a retirement plan, and a stock purchase plan. Firestone was the sole source of funding for the plans, and had not established separate trust funds out of which to pay the benefits from the plans. All three of the plans were either "employee welfare benefit plans" or "employee pension benefit plans" governed (albeit in different ways) by ERISA. By operation of law, Firestone itself was the administrator, 29 U.S.C. § 1002(16)(A)(ii), and fiduciary, § 1002(21)(A), of each of these "unfunded" plans. At the time of the sale of its Plastics Division, Firestone was not aware that the termination pay plan was governed by ERISA, and therefore had not set up a claims procedure, § 1133, nor complied with ERISA's reporting and disclosure obligations, §§ 1021-1031, with respect to that plan.</p>
     <p>Respondents, six Firestone employees who were rehired by Occidental, sought severance benefits from Firestone under the termination pay plan. In relevant part, that plan provides as follows:</p>
     <p>"If your service is discontinued prior to the time you are eligible for pension benefits, you will be given termination pay if released because of a reduction in workforce</p>
@@ -53,7 +53,7 @@
     <p>"most sensibly extend[s] both to people who are in fact entitled to a benefit under the plan and to those who claim to be, but in fact are not."</p>
     <p>Id. at 153. Because the District Court had applied different legal standards in granting summary judgment in favor of Firestone on Counts I and VII, the Court of Appeals remanded the case for further proceedings consistent with its opinion.</p>
     <p>We granted certiorari, 485 U.S. 986 (1988), to resolve the conflicts among the Courts of Appeals as to the appropriate standard of review in actions under § 1132(a)(1)(B) and the interpretation of the term "participant" in § 1002(7). We now affirm in part, reverse in part, and remand the case for further proceedings.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>ERISA provides "a panoply of remedial devices" for participants and beneficiaries of benefit plans. Massachusetts Mutual Life Ins. Co. v. Russell, <a href="../us473/us473-0134.xml#p134">473 U. S. 134</a>, <a href="../us473/us473-0134.xml#p146">473 U. S. 146</a> (1985). Respondents' action asserting that they were entitled to benefits because the sale of Firestone's Plastics Division constituted a "reduction in workforce" within the meaning of the termination pay plan was based on the authority of § 1132(a)(1)(B). That provision allows a suit to recover benefits due under the plan, to enforce rights under the terms of the plan, and to obtain a declaratory judgment of future entitlement to benefits under the provisions of the plan contract. The discussion which follows is limited to the appropriate standard of review in § 1132(a)(1)(B) actions challenging denials of benefits based on plan interpretations. We express no view as to the appropriate standard of review for actions under other remedial provisions of ERISA.</p>
     <p>A</p>
     <p>Although it is a "comprehensive and reticulated statute," <a href="../us446/us446-0359.xml#p359">Nachman Corp. v. Pension Benefit Guaranty Corp.</a>, 446</p>
@@ -89,7 +89,7 @@
     <n id="p115">115</n>
     <p>be subject to judicial review, the assumption seems to be that a de novo standard would encourage more litigation by employees, participants, and beneficiaries who wish to assert their right to benefits. Neither general principles of trust law nor a concern for impartial decisionmaking, however, forecloses parties from agreeing upon a narrower standard of review. Moreover, as to both funded and unfunded plans, the threat of increased litigation is not sufficient to outweigh the reasons for a de novo standard that we have already explained.</p>
     <p>As this case aptly demonstrates, the validity of a claim to benefits under an ERISA plan is likely to turn on the interpretation of terms in the plan at issue. Consistent with established principles of trust law, we hold that a denial of benefits challenged under § 1132(a)(1)(B) is to be reviewed under a de novo standard unless the benefit plan gives the administrator or fiduciary discretionary authority to determine eligibility for benefits or to construe the terms of the plan. Because we do not rest our decision on the concern for impartiality that guided the Court of Appeals, see 828 F.2d at 143-146, we need not distinguish between types of plans or focus on the motivations of plan administrators and fiduciaries. Thus, for purposes of actions under § 1132(a)(1)(B), the de novo standard of review applies regardless of whether the plan at issue is funded or unfunded and regardless of whether the administrator or fiduciary is operating under a possible or actual conflict of interest. Of course, if a benefit plan gives discretion to an administrator or fiduciary who is operating under a conflict of interest, that conflict must be weighed as a "facto[r] in determining whether there is an abuse of discretion." Restatement (Second) of Trusts § 187, Comment d (1959)</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Respondents unsuccessfully sought plan information from Firestone pursuant to 29 U.S.C. § 1024(b)(4), one of</p>
     <n id="p116">116</n>
     <p>ERISA's disclosure provisions. That provision reads as follows:</p>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us455-0345.html" citation="455 U.S. 345" title="Baldrige v. Shapiro">
   <opinion type="Opinions &amp; Dissents">
     <n id="p345">345</n>
-    <h>U.S. Supreme Court</h>
-    <h>Baldrige v. Shapiro, <a href="./us455-0345.xml#p345">455 U.S. 345</a> (1982)</h>
-    <h>Baldrige v. Shapiro</h>
-    <h>No. 80-1436</h>
-    <h>Argued December 2, 1981</h>
-    <h>Decided February 24, 1982<a href="./us455-0345.xml#p345">455 U.S. 345</a>|&gt;*</h>
-    <h><a href="./us455-0345.xml#p345">455 U.S. 345</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE THIRD CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Baldrige v. Shapiro, <a href="./us455-0345.xml#p345">455 U.S. 345</a> (1982)</h1>
+    <h2>Baldrige v. Shapiro</h2>
+    <h2>No. 80-1436</h2>
+    <h4>Argued December 2, 1981</h4>
+    <h4>Decided February 24, 1982<a href="./us455-0345.xml#p345">455 U.S. 345</a>|&gt;*</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE THIRD CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>These cases present the question whether lists of addresses collected and utilized by the Bureau of the Census are exempt from disclosure, either by way of civil discovery or the Freedom of Information Act (FOIA), under the confidentiality provisions of the Census Act, 13 U.S.C. §§ 8 and 9. Section 8(b) allows the Secretary of Commerce to reveal statistical materials "which do not disclose the information reported by, or on behalf of, any particular respondent." Section 9(a) prohibits the Secretary from using the information furnished except for statistical purposes, and from making any publication "whereby the data furnished by any particular establishment or individual . . . can be identified"; it also prohibits examination of individual reports by "anyone other than the sworn officers and employees of the Department or bureau or agency thereof." The 1980 census indicated that the areas of Essex County, N.J., and Denver, Colo., among others, had lost population during the 1970's. Both localities challenged the census count under the Census Bureau's local review procedures, asserting that the Bureau had erroneously classified occupied dwellings as vacant and seeking unsuccessfully to obtain access to a portion of the address lists used by the Bureau in conducting its count in their respective jurisdictions. In No. 80-1436, the Essex County Executive filed suit in Federal District Court to compel disclosure under the FOIA of the Bureau's master address list, compiled initially from commercial mailing address lists and census postal checks, and updated through direct responses to census questionnaires, canvassing by Bureau personnel, and in some instances a cross-check with the 1970 census data. The District Court held that the FOIA required disclosure of the requested information. The court rejected the contention that the confidentiality provisions of the Census Act constitute a statutory exception to disclosure within the meaning of Exemption 3 of the FOIA, which provides that disclosure need not be made as to information "specifically exempted from disclosure by statute" if the statute affords the agency no discretion on disclosure, or establishes particular criteria</p>
     <n id="p346">346</n>
     <p>for withholding the data, or refers to the particular types of material to be withheld. The Court of Appeals affirmed. In No. 80-1781, Denver officials filed suit in Federal District Court, seeking a preliminary injunction to require the Bureau's cooperation with the city in verifying its vacancy data. The District Court granted the city's discovery request for vacancy information contained in the Bureau's updated master address registers. However, the Court of Appeals reversed, relying on the language of the Census Act and Congress' intent to protect census information.</p>
@@ -25,7 +25,7 @@
     <p>BURGER, C.J., delivered the opinion for a unanimous Court.</p>
     <p>CHIEF JUSTICE BURGER delivered the opinion of the Court.</p>
     <p>We granted certiorari to determine whether lists of addresses collected and utilized by the Bureau of the Census are exempt from disclosure, either by way of civil discovery or the Freedom of Information Act, under the confidentiality provisions of the Census Act, 13 U.S.C. §§ 8 and 9.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Under Art. I, § 2, cl. 3, of the United States Constitution, responsibility for conducting the decennial census rests with</p>
     <n id="p348">348</n>
     <p>Congress. [<a id="nf1" href="#fn1">Footnote 1</a>] Congress has delegated to the Secretary of Commerce the duty to conduct the decennial census, 13 U.S.C. § 141; the Secretary, in turn, has delegated this function to the Bureau of the Census. 13 U.S.C. § 21.</p>
@@ -47,7 +47,7 @@
     <n id="p352">352</n>
     <p>182 U.S.App.D.C. 185, 188, 559 F.2d 806, 809 (1977). The court reasoned that Congress has the power to make census information immune from direct discovery or disclosure. The court concluded that Congress has neither made nor implied an exception covering this case. The Court of Appeals also found no indication that Congress is constitutionally required to provide the city with information to challenge the census data. The court concluded that the city of Denver's remedy must lie with Congress.</p>
     <p>Thus, the United States Court of Appeals for the Third Circuit ordered disclosure of the master address list under the FOIA. App. to Pet. for Cert. 1a. The United States Court of Appeals for the Tenth Circuit denied discovery of similar information, concluding that the data was privileged from disclosure. 644 F.2d 844 (1981). We granted certiorari in these cases to determine whether such information is to be disclosed under either of the requested procedures. 451 U.S. 936 (1981); <a href="../us452/us452-0018.xml#p37">452 U. S. 37</a> (1981).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>A</p>
     <p>The broad mandate of the FOIA is to provide for open disclosure of public information. [<a id="nf7" href="#fn7">Footnote 7</a>] The Act expressly recognizes, however, that public disclosure is not always in the public interest, and consequently provides that agency records may be withheld from disclosure under any one of the nine exemptions defined in 5 U.S.C. § 552(b). Under Exemption 3 disclosure need not be made as to information "specifically exempted from disclosure by statute" if the statute affords the agency no discretion on disclosure, or establishes particular criteria for withholding the data, or refers to the</p>
     <n id="p353">353</n>
@@ -82,14 +82,14 @@
     <p>Under the clear language of the Census Act, it is not relevant that the municipalities seeking the data will use it only for statistical purposes. Section 9(a)(1) permits use of the data only for "the statistical purposes for which it is supplied." There is no indication in the Census Act that the hundreds of municipal governments in the 50 states were intended by Congress to be the "monitors" of the Census Bureau. [<a id="nf12" href="#fn12">Footnote 12</a>] In addition, limiting use of data only for "statistical" purposes in no way indicates that raw data may be revealed outside the strict requirements of the Census Act that data be handled by census employees sworn to secrecy. [<a id="nf13" href="#fn13">Footnote 13</a>]</p>
     <p>Because §§ 8(b) and 9(a) of the Census Act constitute withholding statutes under Exemption 3 of the FOIA, and because the raw census data in this case was intended to be protected from disclosure within those provisions of the Census Act, the requested information is not subject to disclosure under the FOIA.</p>
     <n id="p360">360</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>The discovery provisions of the Federal Rules of Civil Procedure, similar to the FOIA, are designed to encourage open exchange of information by litigants in federal courts. Unlike the FOIA, however, the discovery provisions under the Federal Rules focus upon the need for the information, rather than a broad statutory grant of disclosure. [<a id="nf14" href="#fn14">Footnote 14</a>] Federal Rule of Civil Procedure 26(b)(1) provides for access to all information "relevant to the subject matter involved in the pending action" unless the information is privileged. If a privilege exists, information may be withheld, even if relevant to the lawsuit and essential to the establishment of plaintiff's claim.</p>
     <p>It is well recognized that a privilege may be created by statute. [<a id="nf15" href="#fn15">Footnote 15</a>] A statute granting a privilege is to be strictly construed so as "to avoid a construction that would suppress otherwise competent evidence." St. Regis Paper Co. v. United States, <a href="../us368/us368-0208.xml#p208">368 U. S. 208</a>, <a href="../us368/us368-0208.xml#p218">368 U. S. 218</a> (1961). In the case of the city of Denver, the central inquiry is whether §§ 8(b) and 9(a) create a privilege so as to protect against disclosure of the raw census data requested. [<a id="nf16" href="#fn16">Footnote 16</a>]</p>
     <n id="p361">361</n>
     <p>As noted above, § 8(b) and § 9(a) of the Census Act embody explicit congressional intent to preclude all disclosure of raw census data reported by or on behalf of individuals. This strong policy of nondisclosure indicates that Congress intended the confidentiality provisions to constitute a "privilege" within the meaning of the Federal Rules. Disclosure by way of civil discovery would undermine the very purpose of confidentiality contemplated by Congress. One such purpose was to encourage public participation and maintain public confidence that information given to the Census Bureau would not be disclosed. The general public, whose cooperation is essential for an accurate census, would not be concerned with the underlying rationale for disclosure of data that had been accumulated under assurances of confidentiality. Congress concluded in §§ 8(b) and 9(a) that only a bar on disclosure of all raw data reported by or on behalf of individuals would serve the function of assuring public confidence. This was within congressional discretion, for Congress is vested by the Constitution with authority to conduct the census "as they shall by Law direct." [<a id="nf17" href="#fn17">Footnote 17</a>] The wisdom of its classifications is not for us to decide in light of Congress' 180 years' experience with the census process.</p>
     <n id="p362">362</n>
     <p>This is not to say that the city of Denver does not also have important reasons for requesting the raw census data for purposes of its civil suit. A finding of "privilege," however, shields the requested information from disclosure despite the need demonstrated by the litigant.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>We hold that, whether sought by way of requests under the FOIA or by way of discovery rules, raw data reported by or on behalf of individuals need not be disclosed. Congress, of course, can authorize disclosure in executing its constitutional obligation to conduct a decennial census. But until Congress alters its clear provisions under §§ 8(b) and 9(a) of the Census Act, its mandate is to be followed by the courts.</p>
     <p>Accordingly, the judgment of the United States Court of Appeals for the Third Circuit in No. 80-1436 is reversed, and the judgment of the United States Court of Appeals for the Tenth Circuit in No. 80-1781 is affirmed.</p>
     <p>It is so ordered.</p>
@@ -155,7 +155,7 @@
     </f>
     <f n="16"><a id="fn16" href="#nf16">Footnote 16</a>
       <p>Federal Rule of Evidence 501 provides that,</p>
-      <p>"[e]xcept as otherwise required by the Constitution of the United States or provided by Act of Congress . . . , the privilege of a witness . . . [or] government . . . shall be governed by the principles of the common law as they may be interpreted by the courts of the United States in the light of reason and experience."</p>
+      <p>"[e]xcept as otherwise required by the Constitution of the United States or provided by Act of Congress . . ., the privilege of a witness . . . [or] government . . . shall be governed by the principles of the common law as they may be interpreted by the courts of the United States in the light of reason and experience."</p>
       <p>(Emphasis added.)</p>
     </f>
     <f n="17"><a id="fn17" href="#nf17">Footnote 17</a>

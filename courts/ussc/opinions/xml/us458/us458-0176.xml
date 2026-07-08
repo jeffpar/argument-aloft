@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us458-0176.html" citation="458 U.S. 176" title="Board of Educ. v. Rowley">
   <opinion type="Opinions &amp; Dissents">
     <n id="p176">176</n>
-    <h>U.S. Supreme Court</h>
-    <h>Board of Educ. v. Rowley, <a href="./us458-0176.xml#p176">458 U.S. 176</a> (1982)</h>
-    <h>Board of Education, Hendrick Hudson</h>
-    <h>Central School District v. Rowley</h>
-    <h>No. 80-1002</h>
-    <h>Argued March 23, 1982</h>
-    <h>Decided June 28, 1982</h>
-    <h><a href="./us458-0176.xml#p176">458 U.S. 176</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE SECOND CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Board of Educ. v. Rowley, <a href="./us458-0176.xml#p176">458 U.S. 176</a> (1982)</h1>
+    <h2>Board of Education, Hendrick Hudson</h2>
+    <h2>Central School District v. Rowley</h2>
+    <h2>No. 80-1002</h2>
+    <h4>Argued March 23, 1982</h4>
+    <h4>Decided June 28, 1982</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE SECOND CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>The Education of the Handicapped Act (Act) provides federal money to assist state and local agencies in educating handicapped children. To qualify for federal assistance, a State must demonstrate, through a detailed plan submitted for federal approval, that it has in effect a policy that assures all handicapped children the right to a "free appropriate public education," which policy must be tailored to the unique needs of the handicapped child by means of an "individualized educational program" (IEP). The IEP must be prepared (and reviewed at least annually) by school officials with participation by the child's parents or guardian. The Act also requires that a participating State provide specified administrative procedures by which the child's parents or guardian may challenge any change in the evaluation and education of the child. Any party aggrieved by the state administrative decisions is authorized to bring a civil action in either a state court or a federal district court. Respondents -- a child with only minimal residual hearing who had been furnished by school authorities with a special hearing aid for use in the classroom and who was to receive additional instruction from tutors, and the child's parents -- filed suit in Federal District Court to review New York administrative proceedings that had upheld the school administrators' denial of the parents' request that the child also be provided a qualified sign-language interpreter in all of her academic classes. Entering judgment for respondents, the District Court found that although the child performed better than the average child in her class and was advancing easily from grade to grade, she was not performing as well academically as she would without her handicap. Because of this disparity between the child's achievement and her potential, the court held that she was not receiving a "free appropriate public education," which the court defined as "an opportunity to achieve [her] full potential commensurate with the opportunity provided to other children." The Court of Appeals affirmed.</p>
     <n id="p177">177</n>
     <p>Held:</p>
@@ -31,7 +31,7 @@
     <n id="p179">179</n>
     <p>JUSTICE REHNQUIST delivered the opinion of the Court.</p>
     <p>This case presents a question of statutory interpretation. Petitioners contend that the Court of Appeals and the District Court misconstrued the requirements imposed by Congress upon States which receive federal funds under the Education of the Handicapped Act. We agree, and reverse the judgment of the Court of Appeals.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The Education of the Handicapped Act (Act), 84 Stat. 175, as amended, 20 U.S.C. § 1401 et seq. (1976 ed. and Supp. IV), provides federal money to assist state and local agencies in educating handicapped children, and conditions such funding upon a State's compliance with extensive goals and procedures. The Act represents an ambitious federal effort to promote the education of handicapped children, and was passed in response to Congress' perception that a majority of handicapped children in the United States</p>
     <p>"were either totally excluded from schools or [were] sitting idly in regular classrooms awaiting the time when they were old enough to 'drop out.'"</p>
     <p>H.R.Rep. No. 94 332, p. 2 (1975) (H.R.Rep.). The Act's evolution and major provisions shed light on the question of statutory interpretation which is at the heart of this case.</p>
@@ -59,7 +59,7 @@
     <p>Thus, although the Act leaves to the States the primary responsibility for developing and executing educational programs for handicapped children, it imposes significant requirements to be followed in the discharge of that responsibility. Compliance is assured by provisions permitting the withholding of federal funds upon determination that a participating state or local agency has failed to satisfy the requirements of the Act, §§ 1414(b)(2)(A), 1416, and by the provision for judicial review. At present, all States except New</p>
     <n id="p184">184</n>
     <p>Mexico receive federal funds under the portions of the Act at issue today. Brief for United States as Amicus Curiae 2, n. 2.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>This case arose in connection with the education of Amy Rowley, a deaf student at the Furnace Woods School in the Hendrick Hudson Central School District, Peekskill, N.Y. Amy has minimal residual hearing, and is an excellent lip-reader. During the year before she began attending Furnace Woods, a meeting between her parents and school administrators resulted in a decision to place her in a regular kindergarten class in order to determine what supplemental services would be necessary to her education. Several members of the school administration prepared for Amy's arrival by attending a course in sign-language interpretation, and a teletype machine was installed in the principal's office to facilitate communication with her parents, who are also deaf. At the end of the trial period, it was determined that Amy should remain in the kindergarten class, but that she should be provided with an FM hearing aid which would amplify words spoken into a wireless receiver by the teacher or fellow students during certain classroom activities. Amy successfully completed her kindergarten year.</p>
     <p>As required by the Act, an IEP was prepared for Amy during the fall of her first-grade year. The IEP provided that Amy should be educated in a regular classroom at Furnace Woods, should continue to use the FM hearing aid, and should receive instruction from a tutor for the deaf for one hour each day and from a speech therapist for three hours each week. The Rowleys agreed with parts of the IEP, but insisted that Amy also be provided a qualified sign-language interpreter in all her academic classes in lieu of the assistance proposed in other parts of the IEP. Such an interpreter had been placed in Amy's kindergarten class for a 2-week experimental period, but the interpreter had reported that Amy did not need his services at that time. The school administrators</p>
     <n id="p185">185</n>
@@ -73,7 +73,7 @@
     <p>A divided panel of the United States Court of Appeals for the Second Circuit affirmed. The Court of Appeals "agree[d] with the [D]istrict [C]ourt's conclusions of law," and held that its "findings of fact [were] not clearly erroneous." 632 F.2d 945, 947 (1980).</p>
     <p>We granted certiorari to review the lower courts' interpretation of the Act. 454 U.S. 961 (1981). Such review requires us to consider two questions: what is meant by the Act's requirement of a "free appropriate public education"? And what is the role of state and federal courts in exercising the review granted by 20 U.S.C. § 1415? We consider these questions separately. [<a id="nf9" href="#fn9">Footnote 9</a>]</p>
     <n id="p187">187</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>A</p>
     <p>This is the first case in which this Court has been called upon to interpret any provision of the Act. As noted previously, the District Court and the Court of Appeals concluded that "[t]he Act itself does not define appropriate education,'" 483 F. Supp. at 533, but leaves "to the courts and the hearing officers" the responsibility of "giv[ing] content to the requirement of an `appropriate education.'" Ibid. See also 632 F.2d at 947. Petitioners contend that the definition of the phrase "free appropriate public education" used by the courts below overlooks the definition of that phrase actually found in the Act. Respondents agree that the Act defines "free appropriate public education," but contend that the statutory definition is not "functional," and thus</p>
     <p>"offers judges no guidance in their consideration of controversies involving 'the identification, evaluation, or educational placement of the child or the provision of a free appropriate public education.'"</p>
@@ -158,7 +158,7 @@
     <p>When the language of the Act and its legislative history are considered together, the requirements imposed by Congress become tolerably clear. Insofar as a State is required to provide a handicapped child with a "free appropriate public education," we hold that it satisfies this requirement by providing personalized instruction with sufficient support services to permit the child to benefit educationally from that instruction. Such instruction and services must be provided at public expense, must meet the State's educational standards, must approximate the grade levels used in the State's regular education, and must comport with the child's IEP. In addition, the IEP, and therefore the personalized instruction, should be formulated in accordance with the requirements of</p>
     <n id="p204">204</n>
     <p>the Act and, if the child is being educated in the regular classrooms of the public education system, should be reasonably calculated to enable the child to achieve passing marks and advance from grade to grade. [<a id="nf26" href="#fn26">Footnote 26</a>]</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>A</p>
     <p>As mentioned in <a href="./us458-0176.xml#p179">458 U. S.</a> the Act permits "[a]ny party aggrieved by the findings and decision" of the state administrative hearings "to bring a civil action" in "any State court of competent jurisdiction or in a district court of the United States without regard to the amount in controversy." § 1415(e)(2). The complaint, and therefore the civil action, may concern</p>
     <p>"any matter relating to the identification, evaluation, or educational placement of the child, or the provision</p>
@@ -182,13 +182,13 @@
     <n id="p208">208</n>
     <p>courts to overturn a State's choice of appropriate educational theories in a proceeding conducted pursuant to § 1415(e)(2). [<a id="nf30" href="#fn30">Footnote 30</a>]</p>
     <p>We previously have cautioned that courts lack the "specialized knowledge and experience" necessary to resolve "persistent and difficult questions of educational policy." San Antonio Independent School Dist. v. Rodriguez, 411 U.S. at <a href="../us411/us411-0001.xml#p42">411 U. S. 42</a>. We think that Congress shared that view when it passed the Act. As already demonstrated, Congress' intention was not that the Act displace the primacy of States in the field of education, but that States receive funds to assist them in extending their educational systems to the handicapped. Therefore, once a court determines that the requirements of the Act have been met, questions of methodology are for resolution by the States.</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>Entrusting a child's education to state and local agencies does not leave the child without protection. Congress sought to protect individual children by providing for parental involvement in the development of state plans and policies, supra, at <a href="./us458-0176.xml#p182">458 U. S. 182</a>-183, and n. 6, and in the formulation of the child's individual educational program. As the Senate Report states:</p>
     <p>"The Committee recognizes that, in many instances, the process of providing special education and related services to handicapped children is not guaranteed to produce any particular outcome. By changing the language [of the provision relating to individualized educational programs] to emphasize the process of parent and child</p>
     <n id="p209">209</n>
     <p>involvement and to provide a written record of reasonable expectations, the Committee intends to clarify that such individualized planning conferences are a way to provide parent involvement and protection to assure that appropriate services are provided to a handicapped child."</p>
     <p>S.Rep. at 11-12. See also S.Conf.Rep. No. 94-445, p. 30 (1975); 34 CFR § 300.345 (1981). As this very case demonstrates, parents and guardians will not lack ardor in seeking to ensure that handicapped children receive all of the benefits to which they are entitled by the Act. [<a id="nf31" href="#fn31">Footnote 31</a>]</p>
-    <h>VI</h>
+    <h2>VI</h2>
     <p>Applying these principles to the facts of this case, we conclude that the Court of Appeals erred in affirming the decision of the District Court. Neither the District Court nor the Court of Appeals found that petitioners had failed to comply with the procedures of the Act, and the findings of neither court would support a conclusion that Amy's educational program failed to comply with the substantive requirements of the Act. On the contrary, the District Court found that the</p>
     <p>"evidence firmly establishes that Amy is receiving an</p>
     <n id="p210">210</n>
@@ -348,7 +348,7 @@
       <p>substantially equal to that provided her nonhandicapped classmates. Because I believe that standard has been satisfied here, I agree that the judgment of the Court of Appeals should be reversed.</p>
       <p>JUSTICE WHITE, with whom JUSTICE BRENNAN and JUSTICE MARSHALL join, dissenting.</p>
       <p>In order to reach its result in this case, the majority opinion contradicts itself, the language of the statute, and the legislative history. Both the majority's standard for a "free appropriate education" and its standard for judicial review disregard congressional intent.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>The majority first turns its attention to the meaning of a "free appropriate public education." The Act provides:</p>
       <p>"The term 'free appropriate public education' means special education and related services which (A) have been provided at public expense, under public supervision and direction, and without charge, (B) meet the standards of the State educational agency, (C) include an appropriate preschool, elementary, or secondary school education in the State involved, and (D) are provided in conformity with the individualized education program required under section 1414(a)(5) of this title."</p>
       <p>20 U.S.C. § 1401(18).</p>
@@ -376,7 +376,7 @@
       <n id="p216">216</n>
       <p>handicapped children should be educated as to prescribe the substantive content or supportive services of their education."</p>
       <p>Ante at <a href="./us458-0176.xml#p197">458 U. S. 197</a>, n. 21. Of course, the word "appropriate" can be applied in many ways; at times in the Act, Congress used it to recommend mainstreaming handicapped children; at other points, it used the word to refer to the content of the individualized education. The issue before us is what standard the word "appropriate" incorporates when it is used to modify "education." The answer given by the Court is not a satisfactory one.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>The Court's discussion of the standard for judicial review is as flawed as its discussion of a "free appropriate public education." According to the Court, a court can ask only whether the State has "complied with the procedures set forth in the Act" and whether the individualized education program is "reasonably calculated to enable the child to receive educational benefits." Ante at <a href="./us458-0176.xml#p206">458 U. S. 206</a>, <a href="./us458-0176.xml#p207">458 U. S. 207</a>. Both the language of the Act and the legislative history, however, demonstrate that Congress intended the courts to conduct a far more searching inquiry.</p>
       <p>The majority assigns major significance to the review provision's being found in a section entitled "Procedural safeguards." But where else would a provision for judicial review belong? The majority does acknowledge that the current language, specifying that a court</p>
       <p>"shall receive the records of the administrative proceedings, shall hear additional evidence at the request of a party, and, basing its decision on the preponderance of the evidence, shall grant such relief as the court determines is appropriate,"</p>

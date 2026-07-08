@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us456-0107.html" citation="456 U.S. 107" title="Engle v. Isaac">
   <opinion type="Opinions &amp; Dissents">
     <n id="p107">107</n>
-    <h>U.S. Supreme Court</h>
-    <h>Engle v. Isaac, <a href="./us456-0107.xml#p107">456 U.S. 107</a> (1982)</h>
-    <h>Engle v. Isaac</h>
-    <h>No. 80-1430</h>
-    <h>Argued December 8, 1981</h>
-    <h>Decided April 5, 1982<a href="./us456-0107.xml#p107">456 U.S. 107</a>ast|&gt;*</h>
-    <h><a href="./us456-0107.xml#p107">456 U.S. 107</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE SIXTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Engle v. Isaac, <a href="./us456-0107.xml#p107">456 U.S. 107</a> (1982)</h1>
+    <h2>Engle v. Isaac</h2>
+    <h2>No. 80-1430</h2>
+    <h4>Argued December 8, 1981</h4>
+    <h4>Decided April 5, 1982<a href="./us456-0107.xml#p107">456 U.S. 107</a>ast|&gt;*</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE SIXTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>These cases present the question whether respondents, who were convicted after separate trials on unrelated charges in Ohio state courts, and who failed to comply with Ohio Rule of Criminal Procedure 30 mandating contemporaneous objections to jury instructions, may challenge the constitutionality of those instructions in federal habeas corpus proceedings under 28 U.S.C. § 2254. A provision of Ohio's Criminal Code (§ 2901.05(A)), effective January 1, 1974, placed the burden of proving guilt beyond a reasonable doubt upon the prosecution and provided that "[t]he burden of going forward with the evidence of an affirmative defense is upon the accused." Until 1976, most Ohio courts assumed that the statute did not change Ohio's traditional rule requiring defendants to carry the burden of proving the affirmative defense of self-defense by a preponderance of the evidence. In 1976, however, the Ohio Supreme Court, in State v. Robinson, 47 Ohio St.2d 103, 351 N.E.2d 88, held that the statute placed only the burden of production, not persuasion, on the defendant, and that, once the defendant produced some evidence of self-defense, the prosecutor had to disprove self-defense beyond a reasonable doubt. Respondents' trials occurred after § 2901.05(A)'s effective date, but before the decision in Robinson, and none of the respondents objected to the trial court's jury instruction that the respondent bore the burden of proving self-defense by a preponderance of the evidence. The appropriate Ohio Courts of Appeal affirmed the homicide convictions of respondents Hughes and Bell before the decision in Robinson, and the Ohio Supreme Court declined to review their convictions. Neither of these respondents challenged the self-defense instruction in their appeals. On respondent Isaac's appeal of his assault conviction to the intermediate appellate court, he relied upon the intervening decision in Robinson to challenge the self-defense instruction given at his trial. The court rejected the challenge as having been waived by Isaac's failure to comply with Ohio Rule of Criminal Procedure 30, and the Ohio Supreme</p>
     <n id="p108">108</n>
     <p>Court dismissed his appeal. Each respondent unsuccessfully sought a writ of habeas corpus from a Federal District Court, but the Court of Appeals reversed all three District Court orders.</p>
@@ -30,7 +30,7 @@
     <n id="p110">110</n>
     <p>JUSTICE O'CONNOR delivered the opinion of the Court.</p>
     <p>In Wainwright v. Sykes, <a href="../us433/us433-0072.xml#p72">433 U. S. 72</a> (1977), we held that a state prisoner, barred by procedural default from raising a constitutional claim on direct appeal, could not litigate that claim in a § 2254 habeas corpus [<a id="nf1" href="#fn1">Footnote 1</a>] proceeding without showing cause for, and actual prejudice from, the default. Applying the principle of Sykes to these cases, we conclude that respondents, who failed to comply with an Ohio rule mandating contemporaneous objections to jury instructions, may not challenge the constitutionality of those instructions in a federal habeas proceeding.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Respondents' claims rest in part on recent changes in Ohio criminal law. For over a century, the Ohio courts required criminal defendants to carry the burden of proving self-defense by a preponderance of the evidence. See State v. Seliskar, 35 Ohio St.2d 95, 298 N.E.2d 582 (1973); Szalkai v. State, 96 Ohio St. 36, 117 N.E. 12 (1917); Silvus v. State, 22 Ohio St. 90 (1872). A new criminal code, effective January</p>
     <n id="p111">111</n>
     <p>1, 1974, subjected all affirmative defenses to the following rule:</p>
@@ -62,7 +62,7 @@
     <p>A majority of the court also believed that the instructions given at Isaac's trial violated due process. Four judges thought that § 2901.05(A) defined the absence of self-defense as an element of felonious and aggravated assault. While the State did not have to define its crimes in this manner, "due process require[d] it to meet the burden that it chose to assume." 646 F.2d at 1135. A fifth judge believed that, even absent § 2901.05(A), the Due Process Clause would compel the prosecution to prove absence of self-defense, because that defense negates criminal intent, an essential element of aggravated and felonious assault. A sixth judge agreed that Ohio had violated Isaac's due process rights, but would have concentrated on the State's arbitrary refusal to extend the retroactive benefits of State v. Robinson, to Isaac. [<a id="nf17" href="#fn17">Footnote 17</a>]</p>
     <n id="p119">119</n>
     <p>Relying on the en banc decision in Isaac, two Sixth Circuit panels ordered the District Court to release Bell and Hughes unless the State chose to retry them within a reasonable time. Bell v. Perini, 635 F.2d 575 (1980); [<a id="nf18" href="#fn18">Footnote 18</a>] Hughes v. Engle, judgt. order reported at 642 F.2d 451 (1980). We granted certiorari to review all three Sixth Circuit judgments. 451 U.S. 906 (1981).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>A state prisoner is entitled to relief under 28 U.S.C. § 2254 only if he is held "in custody in violation of the Constitution or laws or treaties of the United States." Insofar as respondents simply challenge the correctness of the self-defense instructions under Ohio law, they allege no deprivation of federal rights, and may not obtain habeas relief. The lower courts, however, read respondents' habeas petitions to state at least two constitutional claims. Respondents repeat both of those claims here.</p>
     <p>A</p>
     <p>First, respondents argue that § 2901.05, which governs the burden of proof in all criminal trials, implicitly designated absence of self-defense an element of the crimes charged against them. Since Ohio defined its crimes in this manner, respondents contend, our opinions in In re Winship, <a href="../us397/us397-0358.xml#p358">397 U. S. 358</a> (1970); Mullaney v. Wilbur, <a href="../us421/us421-0684.xml#p684">421 U. S. 684</a> (1975); and Patterson v. New York, <a href="../us432/us432-0197.xml#p197">432 U. S. 197</a> (1977), required the prosecution to prove absence of self-defense beyond a reasonable doubt. A plurality of the en banc Sixth Circuit seemed to accept this argument in Isaac's appeal, finding that due process required the State "to meet the burden that it chose to assume." 646 F.2d at 1135.</p>
@@ -78,7 +78,7 @@
     <n id="p123">123</n>
     <p>preserved this claim before the state courts and, if not, to inquire whether the principles articulated in Wainwright v. Sykes, <a href="../us433/us433-0072.xml#p72">433 U. S. 72</a> (1977), bar consideration of the claim in a federal habeas proceeding. [<a id="nf25" href="#fn25">Footnote 25</a>]</p>
     <n id="p124">124</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>None of the respondents challenged the constitutionality of the self-defense instruction at trial. [<a id="nf26" href="#fn26">Footnote 26</a>] They thus violated Ohio Rule of Criminal Procedure 30, which requires contemporaneous</p>
     <n id="p125">125</n>
     <p>objections to jury instructions. Failure to comply with Rule 30 is adequate, under Ohio law, to bar appellate consideration of an objection. See, e.g., State v. Humphries, 51 Ohio St.2d 95, 364 N.E.2d 1354 (1977); State v. Gordon, 28 Ohio St.2d 45, 276 N.E.2d 243 (1971). The Ohio Supreme Court has enforced this bar against the very due process argument raised here. State v. Williams, 51 Ohio St.2d 112, 364 N.E.2d 1364 (1977), vacated in part and remanded, 438 U.S. 911 (1978). [<a id="nf27" href="#fn27">Footnote 27</a>] We must determine, therefore, whether respondents may litigate, in a federal habeas proceeding, a constitutional claim that they forfeited before the state courts. [<a id="nf28" href="#fn28">Footnote 28</a>]</p>
@@ -123,7 +123,7 @@
     <n id="p135">135</n>
     <p>is "greater than the showing required to establish plain error on direct appeal." Henderson v. Kibbe, <a href="../us431/us431-0145.xml#p145">431 U. S. 145</a>, <a href="../us431/us431-0145.xml#p154">431 U. S. 154</a> (1977); United States v. Frady, post at <a href="./us456-0152.xml#p166">456 U. S. 166</a>. [<a id="nf44" href="#fn44">Footnote 44</a>]</p>
     <p>Contrary to respondents' assertion, moreover, a plain error standard is unnecessary to correct miscarriages of justice. The terms "cause" and "actual prejudice" are not rigid concepts; they take their meaning from the principles of comity and finality discussed above. In appropriate cases, those principles must yield to the imperative of correcting a fundamentally unjust incarceration. Since we are confident that victims of a fundamental miscarriage of justice will meet the cause-and-prejudice standard, see Wainwright v. Sykes, 433 U.S. at <a href="../us433/us433-0072.xml#p91">433 U. S. 91</a>; id. at <a href="../us433/us433-0072.xml#p94">433 U. S. 94</a>-97 (STEVENS, J., concurring), we decline to adopt the more vague inquiry suggested by the words "plain error."</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>Close analysis of respondents' habeas petitions reveals only one colorable constitutional claim. Because respondents failed to comply with Ohio's procedures for raising that contention, and because they have not demonstrated cause for the default, they are barred from asserting that claim under 28 U.S.C. § 2254. The judgments of the Court of Appeals are reversed, and these cases are remanded for proceedings consistent with this opinion.</p>
     <p>So ordered.</p>
     <p>JUSTICE BLACKMUN concurs in the result.</p>
@@ -322,7 +322,7 @@
       <p>Today's decision is a conspicuous exercise in judicial activism -- particularly so since it takes the form of disregard of precedent scarcely a month old. In its eagerness to expatiate upon the "significant costs" of the Great Writ, ante at <a href="./us456-0107.xml#p126">456 U. S. 126</a>-128, and to apply "the principles articulated in <a href="../us433/us433-0072.xml#p72">Wainwright v. Sykes</a>, [<a href="../us433/us433-0072.xml#p72">433 U.S. 72</a> (1977)]," ante at <a href="./us456-0107.xml#p123">456 U. S. 123</a>, to the cases before us, the Court demonstrably misreads and reshapes the habeas claim of at least one of the state prisoners involved in this action. Respondent Isaac presented exactly one claim in his habeas petition. That claim did not even</p>
       <n id="p138">138</n>
       <p>exist until after Isaac was denied relief on his last direct appeal. As a result, Isaac could not have "preserved" his claim in the state courts: he simply committed no "procedural default," and the Court is thus clearly wrong to apply Sykes to his claim in order to relegate it to the dustbin. Moreover, the Court does so by ignoring the holding only last month in Rose v. Lundy, <a href="../us455/us455-0509.xml#p509">455 U. S. 509</a> (1982): namely, that a habeas petition that contains any unexhausted claims must be dismissed by the habeas court. The Court then compounds its error when it attempts to articulate the "principles" of Sykes: in purporting to give content to the "cause" standard announced in that case, the Court defines "cause" in a way supported neither by Sykes nor by common sense. I dissent from both of these errors, which are discussed in turn below.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>Respondent Isaac was indicted in May, 1975; he was convicted after a jury trial and sentenced during the following September. [Footnote 3/1] While his conviction was on appeal in the Ohio Court of Appeals, the Ohio Supreme Court decided State v. Robinson, 47 Ohio St.2d 103, 351 N.E.2d 88 (July 1976), which construed Ohio Rev.Code Ann. § 2901.05(A) (effective Jan. 1, 1974) to require the prosecution to bear the burden of persuasion, beyond a reasonable doubt, with respect to an affirmative defense of self-defense raised by the defendant. The Ohio Court of Appeals affirmed Isaac's conviction in February, 1977. [Footnote 3/2] The Ohio Supreme Court dismissed Isaac's appeal in July, 1977. [Footnote 3/3] On the same day, the Ohio Supreme Court decided State v. Humphries, 51 Ohio St.2d 95, 364 N.E.2d 1354. That case declared Robinson retroactive to the effective date of § 2901.05(A), but only partially: it held that, in order to gain the retroactive benefits of the Robinson</p>
       <n id="p139">139</n>
       <p>decision, a defendant tried before a jury must have preserved his claim by objection at trial to the allocation of he affirmative defense burden of proof, while a bench trial defendant could have made the same objection as late as in the Court of Appeals, and the objection would still have been preserved. 51 Ohio St.2d at 102-103, 364 N.E.2d at 1359.</p>
@@ -351,7 +351,7 @@
       <p>Ante at <a href="./us456-0107.xml#p123">456 U. S. 123</a>. Unsurprisingly, the Court's bottom line is that Isaac's fictive claim is indeed barred by Sykes. In short, the Court reshapes respondent Isaac's actual claim into a form that enables it to foreclose all federal review, when, as plainly pleaded, the claim was unexhausted, thus calling for the dismissal of Isaac's petition</p>
       <n id="p144">144</n>
       <p>for habeas relief. The Court's analysis is completely result-oriented, and represents a noteworthy exercise in the very judicial activism that the Court so deprecates in other contexts.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>For the reasons stated above, I conclude that in its unseemly rush to reach the merits of Isaac's case, the Court has ignored settled law respecting the exhaustion of state remedies. But lest it be thought that my disagreement with today's decision is confined to that point alone, I turn to the Court's treatment of the merits of the cases before us. I continue to believe that the "deliberate bypass" standard announced in Fay v. Noia, <a href="../us372/us372-0391.xml#p391">372 U. S. 391</a> (1963), is the only sensible rule to apply in habeas cases such as respondents'. I adhere to my dissent in Wainwright v. Sykes, supra, in which I termed the "cause-and-prejudice" standard adopted in that case "a mere house of cards whose foundation has escaped any systematic inspection." 433 U.S. at <a href="../us433/us433-0072.xml#p99">433 U. S. 99</a>-100, n. 1. The Court has now begun to furnish its house of cards -- and the furniture is as jerry-built as the house itself.</p>
       <p>A</p>
       <p>Sykes did not give the terms "cause" and "prejudice" any "precise content," but promised that "later cases" would provide such content. Id. at <a href="../us433/us433-0072.xml#p91">433 U. S. 91</a>. Today the nature of that content becomes distressingly apparent. The Court still refuses to say what "cause" is: and I predict that, on the Court's present view, it will prove easier for a camel to go through the eye of a needle than for a state prisoner to show "cause." But on the other hand, the Court is more than eager to say what "cause" is not: and in doing so, the Court is supported neither by common sense nor by the very reasons offered in Sykes for adoption of the "cause-and-prejudice" standard in the first place.</p>

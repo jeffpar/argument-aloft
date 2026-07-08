@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us423-0362.html" citation="423 U.S. 362" title="Rizzo v. Goode">
   <opinion type="Opinions &amp; Dissents">
     <n id="p362">362</n>
-    <h>U.S. Supreme Court</h>
-    <h>Rizzo v. Goode, <a href="./us423-0362.xml#p362">423 U.S. 362</a> (1976)</h>
-    <h>Rizzo v. Goode</h>
-    <h>No. 74-942</h>
-    <h>Argued November 11, 1975</h>
-    <h>Decided January 21, 1976</h>
-    <h><a href="./us423-0362.xml#p362">423 U.S. 362</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE THIRD CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Rizzo v. Goode, <a href="./us423-0362.xml#p362">423 U.S. 362</a> (1976)</h1>
+    <h2>Rizzo v. Goode</h2>
+    <h2>No. 74-942</h2>
+    <h4>Argued November 11, 1975</h4>
+    <h4>Decided January 21, 1976</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE THIRD CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Two suits, permitted to proceed as class actions, were brought in District Court under 42 U.S.C. § 1983 by respondents, individuals and organizations, against petitioners, the Mayor of Philadelphia, the Police Commissioner, and others, alleging a pervasive pattern of illegal and unconstitutional police mistreatment of minority citizens in particular, and Philadelphia residents in general. The petitioners were charged with misconduct ranging from express authorization or encouragement of the mistreatment to failure to act in such a way as to avoid recurrence. The principal antagonists involved in one case were two police officers, not named as parties, who were found to have violated complainants' constitutional rights in three of eight incidents as to which the District Court made detailed factual findings and as to which a five-day suspension had resulted in one incident and no disciplinary action in another. In the other case, in only two of 28 incidents did the District Court conclude that the police conduct amounted to a deprivation of a federally secured right; it found no police misconduct in four incidents; in another, departmental policy was subsequently changed; and, though the court made no comment on the degree of misconduct occurring in the remainder, there were arguably 16 police violations of citizens' constitutional rights in the year involved. The District Court found, inter alia, that the evidence did not establish the existence of any policy on the part of petitioners to violate the constitutional rights of respondent classes, but found evidence of departmental discouragement of complaints and a tendency to minimize the consequences of police misconduct. The court found that only a small percentage of policemen commit violations of the rights of Philadelphia residents generally, but that such violations could not be dismissed as rare or isolated. Petitioners were directed to draft for the court's approval "a comprehensive program for dealing adequately with civilian complaints" to be formulated in accordance with the court's "guidelines" containing detailed suggestions for</p>
     <n id="p363">363</n>
     <p>revising the police manuals and procedural rules for dealing with citizens and for changing procedures for handling complaints. On petitioners' appeal the Court of Appeals affirmed.</p>
@@ -33,7 +33,7 @@
     <p>in accordance with a comprehensive opinion filed together with the order. The proposed program, negotiated between petitioners and respondents for the purpose of complying with the order, was incorporated six months later into a final judgment. Petitioner City Police Commissioner was thereby required, inter alia, to put into force a directive governing the manner by which citizens' complaints against police officers should henceforth be handled by the department. [<a id="nf2" href="#fn2">Footnote 2</a>] The Court of Appeals for</p>
     <n id="p366">366</n>
     <p>the Third Circuit, upholding the District Court's finding that the existing procedures for handling citizen complaints were "inadequate," affirmed the District Court's choice of equitable relief: "The revisions were . . . ordered because they appeared to have the potential for prevention of future police misconduct." 506 F.2d 542, 548 (1974). We granted certiorari to consider petitioners' claims that the judgment of the District Court represents an unwarranted intrusion by the federal judiciary into the discretionary authority committed to them by state and local law to perform their official functions. We find ourselves substantially in agreement with these claims, and we therefore reverse the judgment of the Court of Appeals.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The central thrust of respondents' efforts in the two trials was to lay a foundation for equitable intervention, in one degree or another, because of an assertedly pervasive pattern of illegal and unconstitutional mistreatment by police officers. This mistreatment was said to have been directed against minority citizens in particular</p>
     <n id="p367">367</n>
     <p>and against all Philadelphia residents in general. The named individual and group respondents were certified to represent these two classes. The principal petitioners here -- the Mayor, the City Managing Director, and the Police Commissioner -- were charged with conduct ranging from express authorization or encouragement of this mistreatment to failure to act in a manner so as to assure that it would not recur in the future.</p>
@@ -52,7 +52,7 @@
     <n id="p370">370</n>
     <p>officers; (b) a screening procedure for eliminating frivolous complaints; (c) prompt and adequate investigation of complaints; (d) adjudication of nonfrivolous complaints by an impartial individual or body, insulated so far as practicable from chain of command pressures, with a fair opportunity afforded the complainant to present his complaint, and to the police officer to present his defense; and (3) prompt notification to the concerned parties, informing them of the outcome."</p>
     <p>Id. at 1321. While noting that the "guidelines" were consistent with "generally recognized minimum standards" and imposed "no substantial burdens" on the police department, the District Court emphasized that respondents had no constitutional right to improved police procedures for handling civilian complaints. But given that violations of constitutional rights of citizens occur in "unacceptably" high numbers, and are likely to continue to occur, the court-mandated revision was a "necessary first step" in attempting to prevent future abuses. Ibid. On petitioners' appeal, the Court of Appeals affirmed.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>These actions were brought, and the affirmative equitable relief fashioned, under the Civil Rights Act of 1871, 42 U.S.C. § 1983. It provides that</p>
     <p>"[e]very person who, under color of [law] subjects, or causes to be subjected, any . . . person within the jurisdiction [of the United States] to the deprivation of any rights . . . secured by the Constitution and laws, shall be liable to the party injured in an action at law [or] suit in equity. . . ."</p>
     <p>The plain words of the statute impose liability -- whether in the form of payment of redressive damages or being placed under an injunction -- only for conduct which "subjects, or causes to be subjected" the</p>
@@ -177,7 +177,7 @@
       <p>In this regard, however, this Court recently has approved the imposition of criminal liability without "consciousness of wrongdoing" for failure to supervise subordinates. United States v. Park, <a href="../us421/us421-0658.xml#p658">421 U. S. 658</a> (1975). The concept, thus, is far from novel doctrine.</p>
       <p>[Footnote 2/2]</p>
       <p>"Under section 1983, equitable relief is appropriate in a situation where governmental officials have notice of the unconstitutional conduct of their subordinates and fail to prevent a recurrence of such misconduct. Hague v. CIO, <a href="https://law.justia.com/us/307/496/">307 U. S. 496</a> . . . (1939). From a legal standpoint, it makes no difference whether the plaintiffs' constitutional rights are violated as a result of police behavior which is the product of the active encouragement and direction of their superiors or as a result of the superiors' mere acquiescence in such behavior. In either situation, if the police officials had a duty, as they admittedly had here, to prevent the officers under their direction from committing the acts which are alleged to have occurred during the Convention, they are proper defendants in this action."</p>
-      <p>Schnell v. City of Chicago, 407 F.2d 1084, 1086 (CA7 1969). See also Inmates of Suffolk County Jail v. Eisenstadt, 494 F.2d 11961 1199 (CA1), cert. denied, 419 U.S. 977 (1974), and Rozecki v. Gaughan, 459 F.2d 6, 8 (CA1 1972); Wright v. McMann, 460 F.2d 126, 134-135 (CA2) , cert. denied, 409 U.S. 885 (1972); Lewis v. Kugler, 446 F.2d 1343, 1351 (CA3 1971); Lankford v. Gelston, 364 F.2d 197 (CA4 1966); Jennings v. Patterson, 460 F.2d 1021, 1022 (CA5 1972); Smith v. Ross, 482 F.2d 33, 36 (CA6 1973); Byrd v. Bristake, 466 F.2d 6, 10-11 (CA7 1972); Jennings v. Davis, 476 F.2d 1271, 1275 (CA8 1973); Dewell v. Lawson, 489 F.2d 877, 881 (CA10 1974); Carter v. Carlson, 144 U.S.App.D.C. 388, 395, 447 F.2d 358, 365 (1971), rev'd on other grounds sub nom. District of Columbia v. Carter, <a href="../us409/us409-0418.xml#p418">409 U. S. 418</a> (1973).</p>
+      <p>Schnell v. City of Chicago, 407 F.2d 1084, 1086 (CA7 1969). See also Inmates of Suffolk County Jail v. Eisenstadt, 494 F.2d 11961 1199 (CA1), cert. denied, 419 U.S. 977 (1974), and Rozecki v. Gaughan, 459 F.2d 6, 8 (CA1 1972); Wright v. McMann, 460 F.2d 126, 134-135 (CA2), cert. denied, 409 U.S. 885 (1972); Lewis v. Kugler, 446 F.2d 1343, 1351 (CA3 1971); Lankford v. Gelston, 364 F.2d 197 (CA4 1966); Jennings v. Patterson, 460 F.2d 1021, 1022 (CA5 1972); Smith v. Ross, 482 F.2d 33, 36 (CA6 1973); Byrd v. Bristake, 466 F.2d 6, 10-11 (CA7 1972); Jennings v. Davis, 476 F.2d 1271, 1275 (CA8 1973); Dewell v. Lawson, 489 F.2d 877, 881 (CA10 1974); Carter v. Carlson, 144 U.S.App.D.C. 388, 395, 447 F.2d 358, 365 (1971), rev'd on other grounds sub nom. District of Columbia v. Carter, <a href="../us409/us409-0418.xml#p418">409 U. S. 418</a> (1973).</p>
     </f>
   </opinion>
 </case>

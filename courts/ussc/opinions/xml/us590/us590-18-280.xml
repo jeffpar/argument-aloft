@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us590-18-280.html" citation="590 U.S. 18-280" title="New York State Rifle &amp;amp; Pistol Association, Inc. v. City of New York">
   <opinion type="Per Curiam">
     <p>NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 18–280</p>
-    <p>_________________</p>
     <p>NEW YORK STATE RIFLE &amp; PISTOL ASSOCIATION, INC., et al., PETITIONERS v. CITY OF NEW YORK, NEW YORK, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the second circuit</p>
     <p>[April 27, 2020]</p>
@@ -17,9 +16,7 @@
   </opinion>
   <opinion type="Concurrence" author="Kavanaugh">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 18–280</p>
-    <p>_________________</p>
     <p>NEW YORK STATE RIFLE &amp; PISTOL ASSOCIATION, INC., et al., PETITIONERS v. CITY OF NEW YORK, NEW YORK, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the second circuit</p>
     <p>[April 27, 2020]</p>
@@ -29,9 +26,7 @@
   </opinion>
   <opinion type="Dissent" author="Alito">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 18–280</p>
-    <p>_________________</p>
     <p>NEW YORK STATE RIFLE &amp; PISTOL ASSOCIATION, INC., et al., PETITIONERS v. CITY OF NEW YORK, NEW YORK, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the second circuit</p>
     <p>[April 27, 2020]</p>
@@ -141,7 +136,7 @@
     <f n="2"><a id="fn3-2" href="#nf3-2">2</a> The last census found that there were 3,109,784 households in the City. D. Gaquin &amp; M. Ryan, County and City Extra: Special Decennial Census Edition 607 (2012).</f>
     <f n="3"><a id="fn3-3" href="#nf3-3">3</a> In one case, the violation charged was transporting a loaded gun. People v. Schumann, 133 Misc. 2d 499, 507 N.Y.S.2d 349 (Crim. Ct. 1986). In another case, the gun was not in a locked container. People v. Thompson, <a href="https://law.justia.com/cases/new-york/court-of-appeals/1998/92-n-y-2d-957-0.html"> 92 N.Y.2d 957</a>, <a href="https://law.justia.com/cases/new-york/court-of-appeals/1998/92-n-y-2d-957-0.html"> 705 N.E.2d 1200</a> (1998); see also People v. Lap, 150 Misc. 2d 724, 570 N.Y.S.2d 258 (Crim. Ct. 1991) (loaded and unlocked). In the other two, there is no mention of an out-of-city range. Lugo v. Safir, 272 App. Div. 2d 216, 708 N.Y.S.2d 618 (2000); People v. Ocasio, 108 Misc. 2d 211, 441 N.Y.S.2d 148 (1981).</f>
     <f n="4"><a id="fn3-4" href="#nf3-4">4</a> Contrary to the City’s suggestion, see Reply to Suggestion of Mootness 5, petitioners have not softened their stance over the course of this litigation. At summary judgment, petitioners asked that the District Court declare 38 N. Y. C. R. R. §5–23 unconstitutional and enjoin its enforcement “in any manner that prohibits or precludes [petitioners] from traveling” with their handguns to a range, competition, or second home outside the borders of New York City. Notice of Cross-Motion for Summary Judgt. in 13–cv–2115, Doc. No. 43, p. 1; Plaintiffs’ Memo, at 32; and Plaintiffs’ Reply Memorandum, Doc. No. 53, p. 9 (emphasis added); see also Motion for Preliminary Injunction, Doc. No. 9, p. 1.</f>
-    <f n="5"><a id="fn3-5" href="#nf3-5">5</a> Lower courts have affirmed that Fed. Rule Civ. Proc. 54(c) means what it says: “[R]elief in damages is not foreclosed by plaintiff ’s failure to ask for damages in prayer.” Jet Inv., Inc. v. Department of Army, <a href="https://law.justia.com/cases/federal/appellate-courts/F3/84/1137/568456/"> 84 F.3d 1137</a>, <a href="https://law.justia.com/cases/federal/appellate-courts/F3/84/1143/568661/"> 1143</a> (CA9 1996); Illinois Physicians Union v. Miller, 675 F.2d 151, 158 (CA7 1982) (“It is well-settled that the district court may grant monetary relief . . . , even without a specific request”); United States v. Marin, 651 F.2d 24, 30 (CA1 1981) (affirming award of damages although not expressly requested in complaint); Sapp v. Renfroe, 511 F.2d 172, 176, n. 3 (CA5 1975) (allowing claim for damages raised for first time on appeal in light of Rule 54(c) and the catchall prayer for relief in plaintiff ’s complaint); accord, 10 Wright &amp; Miller §2664.</f>
+    <f n="5"><a id="fn3-5" href="#nf3-5">5</a> Lower courts have affirmed that Fed. Rule Civ. Proc. 54(c) means what it says: “[R]elief in damages is not foreclosed by plaintiff ’s failure to ask for damages in prayer.” Jet Inv., Inc. v. Department of Army, <a href="https://law.justia.com/cases/federal/appellate-courts/F3/84/1137/568456/"> 84 F.3d 1137</a>, <a href="https://law.justia.com/cases/federal/appellate-courts/F3/84/1143/568661/"> 1143</a> (CA9 1996); Illinois Physicians Union v. Miller, 675 F.2d 151, 158 (CA7 1982) (“It is well-settled that the district court may grant monetary relief . . ., even without a specific request”); United States v. Marin, 651 F.2d 24, 30 (CA1 1981) (affirming award of damages although not expressly requested in complaint); Sapp v. Renfroe, 511 F.2d 172, 176, n. 3 (CA5 1975) (allowing claim for damages raised for first time on appeal in light of Rule 54(c) and the catchall prayer for relief in plaintiff ’s complaint); accord, 10 Wright &amp; Miller §2664.</f>
     <f n="6"><a id="fn3-6" href="#nf3-6">6</a> A single Circuit has held that a claim for nominal damages alone does not maintain a live dispute. See Flanigan’s Enterprises, Inc. of Ga. v. Sandy Springs, 868 F.3d 1248 (CA11 2017). But that holding is difficult to reconcile with Carey and Stachura’s endorsement of nominal damages as an appropriate constitutional remedy.</f>
     <f n="7"><a id="fn3-7" href="#nf3-7">7</a> Even if specific allegations in the complaint were necessary, the District Court could allow amendment. See Zenith Radio Corp. v. Hazeltine Research, Inc., <a href="../us401/us401-0321.xml#p321">401 U.S. 321</a>, 331 (1971); 6 Wright &amp; Miller §1474 (3d ed. 2010).</f>
     <f n="8"><a id="fn3-8" href="#nf3-8">8</a> For example, in Brooks v. Andolina, 826 F.2d 1266 (1987), the Third Circuit held that a prisoner could seek damages for various deprivations suffered during punitive segregation imposed in retaliation for the exercise of his free speech rights. Id., at 1270. These injuries included loss of visiting and phone privileges, recreation rights, and access to the law library. In Young v. Little Rock, <a href="https://law.justia.com/cases/federal/appellate-courts/F3/249/730/603284/"> 249 F.3d 730</a> (2001), the Eighth Circuit affirmed a jury award of compensatory damages for wrongful detention that caused psychological harm. Id., at 736. In Drake v. Lawrence, <a href="https://law.justia.com/cases/indiana/court-of-appeals/1988/64a03-8707-cv-173-6.html"> 524 N.E.2d 337</a> (1988), the Indiana Court of Appeals affirmed a compensatory damages award for, among other things, the embarrassment of a false arrest in front of an employee and customer and the anxiety associated with pending charges. Id., at 342. In Watseka v. Illinois Public Action Council, 796 F.2d 1547 (1986), aff ’d, 479 U.S. 1048 (1987), the Seventh Circuit affirmed an award of damages for “specific compensable, non-abstract harm” resulting from an unconstitutional ordinance restricting door-to-door solicitation. That harm included the organization’s inability to recruit new members, disseminate its views, and encourage others to support its positions. 796 F. 2d, at 1558–1559; see also, e.g., King v. Zamiara, 788 F.3d 207, 213–214 (CA6 2015) (affirming compensatory damages award for injury caused by transfer of inmate in retaliation for filing lawsuit, when transfer impeded his ability to participate in litigation).</f>

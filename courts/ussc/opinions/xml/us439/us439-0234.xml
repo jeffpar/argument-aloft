@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us439-0234.html" citation="439 U.S. 234" title="Board of Governors of FRS v. First Lincolnwood">
   <opinion type="Opinions &amp; Dissents">
     <n id="p234">234</n>
-    <h>U.S. Supreme Court</h>
-    <h>Board of Governors of FRS v. First Lincolnwood, <a href="./us439-0234.xml#p234">439 U.S. 234</a> (1978)</h>
-    <h>Board of Governors of Federal Reserve System v.</h>
-    <h>First Lincolnwood Corp.</h>
-    <h>No. 77-832</h>
-    <h>Argued October 11, 1978</h>
-    <h>Decided December 11, 1978</h>
-    <h><a href="./us439-0234.xml#p234">439 U.S. 234</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SEVENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Board of Governors of FRS v. First Lincolnwood, <a href="./us439-0234.xml#p234">439 U.S. 234</a> (1978)</h1>
+    <h2>Board of Governors of Federal Reserve System v.</h2>
+    <h2>First Lincolnwood Corp.</h2>
+    <h2>No. 77-832</h2>
+    <h4>Argued October 11, 1978</h4>
+    <h4>Decided December 11, 1978</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SEVENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Section 3(a) of the Bank Holding Company Act of 1956 (Act) prohibits any company from acquiring control of a bank without prior approval by the Board of Governors of the Federal Reserve System (Board). Under § 3(c) of the Act, the Board must disapprove a transaction that would, inter alia, generate anticompetitive effects not clearly outweighed by beneficial effects upon the acquired bank's ability to serve the community. Section 3(c) also directs the Board "[i]n every case" to</p>
     <p>"take into consideration the financial and managerial resources and future prospects of the company or companies and the banks concerned, and the convenience and needs of the community to be served."</p>
     <p>Individual stockholders who controlled an existing bank organized respondent corporation to acquire their bank stock. Respondent submitted the transaction for the Board's approval. Upon review, the Board found that the transaction would have no anticompetitive effects and would not change the services offered by the bank to customers. However, it ultimately disapproved the transaction, against the recommendation of the Comptroller of the Currency, on the ground that formation of the holding company would not bring the bank's financial position up to the Board's standards. The Court of Appeals set aside the Board's order, holding that § 3(c) empowers the Board to withhold approval because of financial or managerial deficiencies only if those deficiencies would be "caused or enhanced by the proposed transaction."</p>
@@ -31,7 +31,7 @@
     <p>"[i]n every case, the Board shall take into consideration the financial and managerial resources and future prospects of the company or companies and the banks concerned, and the convenience and needs of the community to be served. [<a id="nf2" href="#fn2">Footnote 2</a>] "</p>
     <n id="p237">237</n>
     <p>The threshold question before us is whether this final sentence authorizes the Board to disapprove a transaction on grounds of financial unsoundness in the absence of any anticompetitive impact. If so, we must decide whether the Board can only exercise that authority when the transaction would cause or exacerbate the financial unsoundness of the holding company or a subsidiary bank.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The First National Bank of Lincolnwood, Ill., is controlled by four individuals who hold 86% of its stock in a voting trust. These individuals organized respondent, the First Lincolnwood Corp., to serve as a bank holding company. They planned to exchange their shares in the bank for shares of respondent and, in addition, to have respondent assume a $3.7 million debt they had incurred in acquiring control of the bank. [<a id="nf3" href="#fn3">Footnote 3</a>] Respondent intended to use the dividends it would receive on the bank's shares to retire this debt over a 12-year period. Further, in order to augment the bank's capital,</p>
     <n id="p238">238</n>
     <p>respondent would issue $1.5 million in capital notes and then use the proceeds to purchase new shares issued by the bank. The purpose of restructuring ownership interests in this fashion was to enable the holding company and the bank to file a consolidated tax return, and thereby realize substantial tax savings. [<a id="nf4" href="#fn4">Footnote 4</a>]</p>
@@ -53,7 +53,7 @@
     <n id="p242">242</n>
     <p>support the denial of respondent's application. 546 F.2d 718, 720-721 (1976). [<a id="nf9" href="#fn9">Footnote 9</a>] On rehearing en banc, the court unanimously set aside the Board's order. The court recognized that Congress had empowered the Board "to deny approval of a bank acquisition upon finding it not to be in the public interest for reasons other than an anticompetitive tendency." 560 F.2d 258, 261 (1977). However, in the court's view, § 3(c) of the Act did not permit the Board to withhold approval because of financial or managerial deficiencies unless those deficiencies were "caused or enhanced by the proposed transaction." 560 F.2d at 262. This transaction, the court observed, merely reshuffled ownership interests in the bank. Apart from the proposed addition to capital and the tax advantage, which could accelerate reduction of the $3.7 million debt, respondent's proposal was without financial consequence. The court therefore held that the Board had overstepped its authority under § 3(c) in denying respondent's application. 560 F.2d at 262-263.</p>
     <p>We granted certiorari because of the impact of this holding on the Board's ability to fulfill its regulatory responsibilities under the Bank Holding Company Act. 434 U.S. 1061 (1978). We conclude that the court below improperly restricted the Board's authority, and, accordingly, we reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Respondent contends that the Court of Appeals misinterpreted the legislative history of the Bank Holding Company Act in sustaining the Board's authority to deny applications for holding company status solely on grounds of financial or managerial unsoundness. As respondent reads the legislative history, Congress' only concern in passing the Act was with the anticompetitive potential in the concentration of banking resources and the combination of banking and nonbanking</p>
     <n id="p243">243</n>
     <p>enterprises. See S.Rep. No. 1095, 84th Cong., 1st Sess., 2 (1955); S.Rep. No. 1179, 89th Cong., 2d Sess., 2 (1966). This focus on competitive considerations as reflected in the amendment of the Act in 1966 to conform § 3(c) with the standards enunciated in the Bank Merger Act amendments of the same year. See 80 Stat. 8, 12 U.S.C. § 1828(c)(5). The amended standards in the Bank Merger Act were intended to provide an exception to the antitrust laws for those bank mergers in which the benefits to the community outweighed the anticompetitive impact. See United States v. Third Nat. Bank, <a href="../us390/us390-0171.xml#p171">390 U. S. 171</a> (1968). By incorporating these same standards into the Bank Holding Company Act, respondent infers, Congress intended to authorize the Board to consider financial and managerial resources only as counterweights to a transaction's anticompetitive impact. We do not agree that the Board's authority under the Bank Holding Company Act is so limited.</p>
@@ -76,7 +76,7 @@
     <n id="p248">248</n>
     <p>Our conclusion as to the scope of the Board's authority is bolstered by reference to the principle that an agency's longstanding construction of its statutory mandate is entitled to great respect, "especially when Congress has refused to alter the administrative construction." Red Lion Broadcasting Co. v. FCC, <a href="../us395/us395-0367.xml#p367">395 U. S. 367</a>, <a href="../us395/us395-0367.xml#p381">395 U. S. 381</a> (1969); Zemel v. Rusk, <a href="../us381/us381-0001.xml#p1">381 U. S. 1</a>, <a href="../us381/us381-0001.xml#p11">381 U. S. 11</a>-12 (1965); Udall v. Tallman, <a href="../us380/us380-0001.xml#p1">380 U. S. 1</a>, <a href="../us380/us380-0001.xml#p16">380 U. S. 16</a> (1965). The Board has regularly treated deficiencies in the financial and managerial resources of holding companies and their banking subsidiaries as sufficient grounds for denying an application. Clayton Bancshares Corp., 50 Fed.Res.Bull. 1261, 1264-1265 (1964); Mid-Continent Bancorporation, 52 Fed.Res.Bull.198, 200 201 (1966); Midwest Bancorporation, Inc., 56 Fed.Res.Bull. 948, 950 (1970); Citizens Bancorp, 61 Fed.Res.Bull. 806 (1975); Bankshares of Hawley, Inc., 62 Fed.Res.Bull. 610 (1976); see 12 CFR § 265.2(f)(22)(vii) (1978). Moreover, Congress has been made aware of this practice, [<a id="nf13" href="#fn13">Footnote 13</a>] yet four times has "revisited the Act and left the practice untouched." Saxbe v. Bustos, <a href="../us419/us419-0065.xml#p65">419 U. S. 65</a>, <a href="../us419/us419-0065.xml#p74">419 U. S. 74</a> (1974). See 80 Stat. 236; 84 Stat. 1760; 91 Stat. 1388; 92 Stat. 3641. [<a id="nf14" href="#fn14">Footnote 14</a>] We therefore agree with the Court of Appeals that the Board can disapprove formation of a bank holding company solely on grounds of financial or managerial unsoundness.</p>
     <n id="p249">249</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>While the Court of Appeals recognized the Board's authority to treat financial or managerial unsoundness as a dispositive consideration, it held that this authority was limited to instances in which the unsoundness was caused or exacerbated by the proposed transaction. [<a id="nf15" href="#fn15">Footnote 15</a>] The Court of Appeals rejected the Board's argument that permission to form a holding company is "a reward which it may withhold until the applicant's financial status fulfills the Board's standard of desirability." 560 F.2d at 262. The legislative history, the court held, revealed nothing that would allow the Board to disapprove formation of a bank holding company where the transaction would not weaken a subsidiary bank's financial condition. In addition, the already extensive regulation of the financial integrity of banks by the Comptroller of the Currency and state regulatory agencies persuaded the court that Congress could not have intended to extend identical authority to the Federal Reserve Board. Id. at 262-263.</p>
     <p>We perceive no basis for the limitation the Court of Appeals imposed. Certainly, it is not compelled by the language of the statute. By its terms, § 3(c) requires the Board to consider financial and managerial factors in "every case." Just as we observed earlier that this language encompasses cases in which the proposed transaction would have no anticompetitive effect, supra at <a href="./us439-0234.xml#p243">439 U. S. 243</a>, so, too, it encompasses cases in which the transaction would not weaken the bank or the</p>
     <n id="p250">250</n>
@@ -89,7 +89,7 @@
     <n id="p252">252</n>
     <p>administrative practice, ibid.; Compendium of Major Issues in Bank Regulation, supra <a id="nf13" href="#fn13">n</a> 13, at 379, and has not undertaken to change it. Indeed, a Report of the Senate Committee on Banking, Housing, and Urban Affairs in 1977 echoed the exact language of the Board's standard. S.Rep. No. 95323, p. 11 ("Holding companies are supposed to be a source of strength to subsidiary financial institutions"). [<a id="nf17" href="#fn17">Footnote 17</a>]</p>
     <p>We hold that the Board may deny applications for holding company status solely on grounds of financial or managerial unsoundness, regardless of whether that unsoundness would be caused or exacerbated by the proposed transaction. [<a id="nf18" href="#fn18">Footnote 18</a>]</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>Respondent contends that the Board's denial of its application was arbitrary and capricious. We have already determined that the Board's "source of strength" requirement</p>
     <n id="p253">253</n>
     <p>is consistent with the language, purpose, and legislative history of the Bank Holding Company Act. Our only remaining inquiry is whether substantial evidence supports the Board's finding that respondent fell short of this standard. 12 U.S.C. 1848. [<a id="nf19" href="#fn19">Footnote 19</a>]</p>

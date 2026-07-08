@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us486-0399.html" citation="486 U.S. 399" title="Lingle v. Norge Div., Magic Chef, Inc.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p399">399</n>
-    <h>U.S. Supreme Court</h>
-    <h>Lingle v. Norge Div., Magic Chef, Inc., <a href="./us486-0399.xml#p399">486 U.S. 399</a> (1988)</h>
-    <h>Lingle v. Norge Division of Magic Chef, Inc.</h>
-    <h>No. 87-259</h>
-    <h>Argued March 23, 1988</h>
-    <h>Decided June 6, 1988</h>
-    <h><a href="./us486-0399.xml#p399">486 U.S. 399</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE SEVENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Lingle v. Norge Div., Magic Chef, Inc., <a href="./us486-0399.xml#p399">486 U.S. 399</a> (1988)</h1>
+    <h2>Lingle v. Norge Division of Magic Chef, Inc.</h2>
+    <h2>No. 87-259</h2>
+    <h4>Argued March 23, 1988</h4>
+    <h4>Decided June 6, 1988</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE SEVENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>After petitioner notified her employer (respondent) that she had been injured in the course of her employment and requested compensation for her medical expenses pursuant to the Illinois Workers' Compensation Act, she was discharged for filing an allegedly false worker's compensation claim. The union representing petitioner filed a grievance pursuant to a collective bargaining agreement that protected employees from discharge except for "just" cause and that provided for arbitration of disputes between the employer and any employee concerning the effect or interpretation of the agreement. While arbitration was proceeding, petitioner filed a retaliatory discharge action in an Illinois state court, alleging that she had been discharged for exercising her rights under the Illinois worker's compensation laws. Respondent removed the suit to the Federal District Court on the basis of diversity of citizenship, and filed a motion to dismiss the case as preempted by § 301 of the Labor Management Relations Act of 1947. The court dismissed the complaint as preempted, concluding that the retaliatory discharge claim was "inextricably intertwined" with the collective bargaining provision prohibiting discharge without just cause, and that allowing the state law action to proceed would undermine the arbitration procedures in the collective bargaining contract. The Court of Appeals affirmed.</p>
     <p>Held: Application of petitioner's state tort remedy was not preempted by § 301. An application of state law is preempted by § 301 only if such application requires the interpretation of a collective bargaining agreement. Pp. <a href="./us486-0399.xml#p403">486 U. S. 403</a>-413.</p>
     <p>(a) If the resolution of a state law claim depends upon the meaning of a collective bargaining agreement, the application of state law (which might lead to inconsistent results, since there could be as many state law principles as there are States) is preempted and federal labor law principles -- necessarily uniform throughout the Nation -- must be employed to resolve the dispute. Teamsters v. Lucas Flour Co., <a href="../us369/us369-0095.xml#p95">369 U. S. 95</a>; Allis-Chalmers Corp. v. Lueck, <a href="../us471/us471-0202.xml#p202">471 U. S. 202</a>. Pp. <a href="./us486-0399.xml#p403">486 U. S. 403</a>-404.</p>
@@ -24,7 +24,7 @@
     <n id="p401">401</n>
     <p>JUSTICE STEVENS delivered the opinion of the Court.</p>
     <p>In Illinois, an employee who is discharged for filing a worker's compensation claim may recover compensatory and punitive damages from her employer. The question presented in this case is whether an employee covered by a collective bargaining agreement that provides her with a contractual remedy for discharge without just cause may enforce her state law remedy for retaliatory discharge. The Court of Appeals held that the application of the state tort remedy was preempted by § 301 of the Labor Management Relations Act of 1947, 61 Stat. 156, 29 U.S.C. § 185. 823 F.2d 1031 (CA7 1987) (en banc). We disagree.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Petitioner was employed in respondent's manufacturing plant in Herrin, Illinois. On December 5, 1984, she notified respondent that she had been injured in the course of her employment and requested compensation for her medical expenses pursuant to the Illinois Workers' Compensation Act. On December 11, 1984, respondent discharged her for filing a "false worker's compensation claim." Id. at 1033.</p>
     <p>The union representing petitioner promptly filed a grievance pursuant to the collective bargaining agreement that covered all production and maintenance employees in the Herrin plant. The agreement protected those employees, including petitioner, from discharge except for "proper" or "just" cause, App. 13-14, and established a procedure for the arbitration of grievances, id. at 10-11. The term grievance</p>
     <n id="p402">402</n>
@@ -37,7 +37,7 @@
     <p>The Court of Appeals agreed that the state law claim was preempted by § 301. In an en banc opinion, over the dissent of two judges, it rejected petitioner's argument that the tort action was not "inextricably intertwined" with the collective bargaining agreement because the disposition of a retaliatory discharge claim in Illinois does not depend upon an interpretation of the agreement; on the contrary, the court concluded that "the same analysis of the facts" was implicated under both procedures. 823 F.2d at 1046. It took note of, and</p>
     <n id="p403">403</n>
     <p>declined to follow, contrary decisions in the Tenth, Third, and Second Circuits. [<a id="nf1" href="#fn1">Footnote 1</a>] We granted certiorari to resolve the conflict in the Circuits. 484 U.S. 895 (1987).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Section 301(a) of the Labor Management Relations Act of 1947, 61 Stat. 156, 29 U.S.C. § 185(a), provides:</p>
     <p>"Suits for violation of contracts between an employer and a labor organization representing employees in an industry affecting commerce as defined in this Act, or between any such labor organizations, may be brought in any district court of the United States having jurisdiction of the parties, without respect to the amount in controversy or without regard to the citizenship of the parties."</p>
     <p>In Textile Workers v. Lincoln Mills, <a href="../us353/us353-0448.xml#p448">353 U. S. 448</a> (1957), we held that § 301 not only provides federal court jurisdiction over controversies involving collective bargaining agreements, but also "authorizes federal courts to fashion a body of federal law for the enforcement of these collective bargaining agreements." Id. at <a href="../us353/us353-0448.xml#p451">353 U. S. 451</a>. [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
@@ -53,7 +53,7 @@
     <p>Thus, Lueck faithfully applied the principle of § 301 preemption developed in Lucas Flour: [<a id="nf4" href="#fn4">Footnote 4</a>] if the resolution of a</p>
     <n id="p406">406</n>
     <p>state law claim depends upon the meaning of a collective bargaining agreement, the application of state law (which might lead to inconsistent results since there could be as many state law principles as there are States) is preempted and federal labor law principles -- necessarily uniform throughout the nation -- must be employed to resolve the dispute. [<a id="nf5" href="#fn5">Footnote 5</a>]</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Illinois courts have recognized the tort of retaliatory discharge for filing a worker's compensation claim, Kelsay v. Motorola, Inc., <a href="https://law.justia.com/cases/illinois/supreme-court/1978/49950-6.html">74 Ill. 2d 172</a>, <a href="https://law.justia.com/cases/illinois/supreme-court/1978/49950-6.html">384 N.E.2d 353</a> (1978), [<a id="nf6" href="#fn6">Footnote 6</a>] and</p>
     <n id="p407">407</n>
     <p>have held that it is applicable to employees covered by union contracts, Midgett v. Sackett-Chicago, Inc., <a href="https://law.justia.com/cases/illinois/supreme-court/1984/59341-7.html">105 Ill. 2d 143</a>, <a href="https://law.justia.com/cases/illinois/supreme-court/1984/59341-7.html">473 N.E.2d 1280</a> (1984), cert. denied, 474 U.S. 909 (1985).</p>
@@ -69,7 +69,7 @@
     <p>of the law in question, [<a id="nf8" href="#fn8">Footnote 8</a>] § 301 preemption merely ensures that federal law will be the basis for interpreting collective bargaining agreements, and says nothing about the substantive rights a State may provide to workers when adjudication of those rights does not depend upon the interpretation of such agreements. [<a id="nf9" href="#fn9">Footnote 9</a>] In other words, even if dispute resolution</p>
     <n id="p410">410</n>
     <p>pursuant to a collective bargaining agreement, on the one hand, and state law, on the other, would require addressing precisely the same set of facts, as long as the state law claim can be resolved without interpreting the agreement itself, the claim is "independent" of the agreement for § 301 preemption purposes. [<a id="nf10" href="#fn10">Footnote 10</a>]</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>The result we reach today is consistent both with the policy of fostering uniform, certain adjudication of disputes over the</p>
     <n id="p411">411</n>
     <p>meaning of collective bargaining agreements and with cases that have permitted separate fonts of substantive rights to remain unpreempted by other federal labor law statutes.</p>

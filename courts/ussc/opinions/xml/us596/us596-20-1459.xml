@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us596-20-1459.html" citation="596 U.S. 20-1459" title="United States v. Taylor">
   <opinion type="Opinion" author="Gorsuch">
     <p>NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 20–1459</p>
-    <p>_________________</p>
     <p>UNITED STATES, PETITIONER v. JUSTIN EUGENE TAYLOR</p>
     <p>on writ of certiorari to the united states court of appeals for the fourth circuit</p>
     <p>[June 21, 2022]</p>
@@ -55,9 +54,7 @@
   </opinion>
   <opinion type="Dissent" author="Thomas">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 20–1459</p>
-    <p>_________________</p>
     <p>UNITED STATES, PETITIONER v. JUSTIN EUGENE TAYLOR</p>
     <p>on writ of certiorari to the united states court of appeals for the fourth circuit</p>
     <p>[June 21, 2022]</p>
@@ -106,9 +103,7 @@
   </opinion>
   <opinion type="Dissent" author="Alito">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 20–1459</p>
-    <p>_________________</p>
     <p>UNITED STATES, PETITIONER v. JUSTIN EUGENE TAYLOR</p>
     <p>on writ of certiorari to the united states court of appeals for the fourth circuit</p>
     <p>[June 21, 2022]</p>
@@ -118,7 +113,7 @@
     <p>The key point is the meaning of “an element” of an offense. This is a fundamental criminal law concept, and we must therefore presume that §924(c)(3)(A) employs the term in its usual and established sense. See A. Scalia &amp; B. Garner, Reading Law 320–321 (2012). And the usual and established meaning of an “element” is clear: It is a “ ‘constituent par[t]’ of a crime’s legal definition—[a] thin[g] the ‘prosecution must prove beyond a reasonable doubt to sustain a conviction.’ ” Mathis v. United States, 579 U.S. 500, 504 (2016) (quoting Black’s Law Dictionary 634 (10th ed. 2014)). See also, e.g., Apprendi v. New Jersey, <a href="../us530/us530-0466.xml#p466">530 U.S. 466</a>, 477 (2000); United States v. Gaudin, <a href="../us515/us515-0506.xml#p506">515 U.S. 506</a>, 510 (1995).</p>
     <p>It is also established that there are two different types of elements. Some are invariant; that is, they must be proved in every case. But it is not uncommon for statutes to include a set of alternative elements and to provide that one, but not all, of these alternative elements must be proved to secure a conviction. As the Court said in Descamps v. United States, <a href="../us570/us570-0254.xml#p254">570 U.S. 254</a> (2013), a statute may “se[t] out one or more elements of the offense in the alternative—for example, [by] stating that burglary involves entry into a building or an automobile.” Id., at 257 (emphasis in original).</p>
     <p>The Hobbs Act includes both types of elements. It criminalizes a robbery that “obstructs, delays, or affects” interstate commerce, 18 U. S. C. §1951(a), and it defines “robbery” to mean “the unlawful taking or obtaining of personal property from the person . . . of another, against his will, by means of actual or threatened force, or violence, or fear of injury, immediate or future,” §1951(b)(1). Accordingly, the elements of Hobbs Act robbery are (1) the unlawful taking or obtaining (2) of personal property (3) from the person of another (4) against his or her will (5) by means of actual or (6) by means of threatened force, or (7) by means of violence, or (8) by means of fear of injury. The first four elements must be proved in every case, while the last four are alternative elements any one of which is sufficient for conviction.[<a id="nf3-2" href="#fn3-2">2</a>] A completed Hobbs Act robbery satisfies §924(c)(3)(A) because multiple elements involve “the use, attempted use, or threatened use of physical force against the person or property of another.” Elements (5) thorough (8) obviously qualify, and it is possible that element (4) does as well.</p>
-    <p>The offense of attempted Hobbs Act robbery also qualifies. A person commits a criminal attempt if he or she takes a “ ‘substantial step’ toward completing” an intended offense. United States v. Resendiz-Ponce, <a href="../us549/us549-0102.xml#p102">549 U.S. 102</a>, 106–107 (2007) (quoting 2 W. LaFave, Substantive Criminal Law §11.4) (2d ed. 2003)). In other words, a defendant must intend to commit some combination of elements that is sufficient to constitute Hobbs Act robbery and must take a substantial step toward the commission of such a combination of elements. If we label these combinations as A, B, C . . . , then the elements of attempted Hobbs Act robbery are (1) intending to commit at least one qualifying combination, i.e., A, B, C . . . , and (2) taking a substantial step toward the commission of A, B, C . . . . Each such combination constitutes an “offense” within the meaning of §924(c)(3), and several combinations satisfy the definition of a “crime of violence.”</p>
+    <p>The offense of attempted Hobbs Act robbery also qualifies. A person commits a criminal attempt if he or she takes a “ ‘substantial step’ toward completing” an intended offense. United States v. Resendiz-Ponce, <a href="../us549/us549-0102.xml#p102">549 U.S. 102</a>, 106–107 (2007) (quoting 2 W. LaFave, Substantive Criminal Law §11.4) (2d ed. 2003)). In other words, a defendant must intend to commit some combination of elements that is sufficient to constitute Hobbs Act robbery and must take a substantial step toward the commission of such a combination of elements. If we label these combinations as A, B, C . . ., then the elements of attempted Hobbs Act robbery are (1) intending to commit at least one qualifying combination, i.e., A, B, C . . ., and (2) taking a substantial step toward the commission of A, B, C . . . . Each such combination constitutes an “offense” within the meaning of §924(c)(3), and several combinations satisfy the definition of a “crime of violence.”</p>
     <p>Here is a straightforward example: A hypothetical defendant (let’s call her “Eve”) intends to take or obtain personal property from the person of another unlawfully and against his or her will by means of actual force. Eve is guilty of the “offense” of attempted Hobbs Act robbery, and her offense “has as an element the use . . . of physical force against the person . . . of another.” That is where the Court must end up if it looks at only the text of §924(c)(3)(A) and the Hobbs Act.</p>
     <p>It is no answer to this argument that Taylor is not Eve. He is also not Adam. The whole point of the categorical approach that the Court dutifully follows is that the real world must be scrupulously disregarded.</p>
     <p>The Court reaches the opposite conclusion only because it accepts the proposition—which the Government did not contest—that a felony “has as an element the use, attempted use, or threatened use of physical force” only if the felony “always requires the government to prove” the use, attempted use, or threatened use of force “beyond a reasonable doubt, as an element of its case.” Ante, at 3 (emphasis added); see Brief for Respondent 13–18. In other words, the Court assumes that an offense X has an element A if and only if convicting a defendant of X requires the Government to prove A in every prosecution for offense X. Based on this assumption, the Court infers that attempted Hobbs Act robbery is not a “crime of violence” under §924(c)(3)(A) because it is possible to commit that offense without attempting to use force.</p>

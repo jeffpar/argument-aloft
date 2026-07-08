@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us603-23-726.html" citation="603 U.S. 23-726" title="Moyle v. United States">
   <opinion type="Per Curiam">
     <p>NOTICE: This opinion is subject to formal revision before publication in the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, pio@supremecourt.gov, of any typographical or other formal errors.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 23–726 and 23–727</p>
-    <p>_________________</p>
     <p>Mike Moyle, Speaker of the Idaho House of Representatives, et al., PETITIONERS</p>
     <p>23–726v.</p>
     <p>United States</p>
@@ -20,9 +19,7 @@
   </opinion>
   <opinion type="Opinion" author="Jackson">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 23–726 and 23–727</p>
-    <p>_________________</p>
     <p>Mike Moyle, Speaker of the Idaho House of Representatives, et al., PETITIONERS</p>
     <p>23–726v.</p>
     <p>United States</p>
@@ -58,9 +55,7 @@
   </opinion>
   <opinion type="Concurrence" author="Kagan">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 23–726 and 23–727</p>
-    <p>_________________</p>
     <p>Mike Moyle, Speaker of the Idaho House of Representatives, et al., PETITIONERS</p>
     <p>23–726v.</p>
     <p>United States</p>
@@ -86,9 +81,7 @@
   </opinion>
   <opinion type="Concurrence" author="Barrett">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 23–726 and 23–727</p>
-    <p>_________________</p>
     <p>Mike Moyle, Speaker of the Idaho House of Representatives, et al., PETITIONERS</p>
     <p>23–726v.</p>
     <p>United States</p>
@@ -121,9 +114,7 @@
   </opinion>
   <opinion type="Dissent" author="Alito">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 23–726 and 23–727</p>
-    <p>_________________</p>
     <p>Mike Moyle, Speaker of the Idaho House of Representatives, et al., PETITIONERS</p>
     <p>23–726v.</p>
     <p>United States</p>
@@ -189,7 +180,7 @@
     <p>Three of the six Justices in the majority also agree that there is a conflict—and judging from their fiery rhetoric, a big one. See ante, at 1 (Kagan, J., joined by Sotomayor, J., and by Jackson, J., as to Part II, concurring); ante, at 7 (Jackson, J., concurring in part and dissenting in part). And they are correct to this extent: there is a real conflict.</p>
     <p>A</p>
     <p>I begin with the Government’s argument that “there are numerous conditions” that may afflict a pregnant woman “where a doctor’s immediate concern is not death.” Tr. of Oral Arg. 103. In those cases, the Government explains, a doctor might be worried about serious risks to the woman’s “health.” Ibid. In the Government’s telling, EMTALA requires hospitals to perform an abortion on demand in these circumstances.</p>
-    <p>Idaho law says otherwise. An Idaho doctor may not perform an abortion unless the doctor “determine[s], in his good faith medical judgment . . . , that the abortion [is] necessary to prevent the death of the pregnant woman.” Idaho Code Ann. §18–622(2)(a)(i). And even then, the doctor must “attemp[t] to perform the abortion in the manner that . . . provide[s] the best opportunity for the unborn child to survive,” unless doing so “would . . . pos[e] a greater risk of the death of the pregnant woman.” §622(2)(a)(ii).</p>
+    <p>Idaho law says otherwise. An Idaho doctor may not perform an abortion unless the doctor “determine[s], in his good faith medical judgment . . ., that the abortion [is] necessary to prevent the death of the pregnant woman.” Idaho Code Ann. §18–622(2)(a)(i). And even then, the doctor must “attemp[t] to perform the abortion in the manner that . . . provide[s] the best opportunity for the unborn child to survive,” unless doing so “would . . . pos[e] a greater risk of the death of the pregnant woman.” §622(2)(a)(ii).</p>
     <p>These standards do not require a doctor to be “objective[ly] certai[n]” that the abortion is “ ‘necessary’ to save the woman’s life.” Planned Parenthood, 171 Idaho, at 445, 522 P. 3d, at 1203 (emphasis deleted). Nor does Idaho law require that the risk of death be particularly immediate. Ibid. Indeed, the Idaho Supreme Court has explained that the law “leaves wide room for the physician’s ‘good faith medical judgment’ on whether [an] abortion was ‘necessary.’ ” Ibid.; accord, id., at 446, 522 P. 3d, at 1203 (noting that the Act “imposes a subjective standard based on the individual physician’s good faith medical judgment”). And any latitude, it said, “ ‘operates for the benefit, not the disadvantage, of the pregnant woman.’ ” Id., at 445–446, 522 P. 3d, at 1203–1204. Even so, Idaho’s law is focused on “death,” and a doctor must be able to say in “good faith” that he or she was acting to preserve the woman’s life, not simply her health. Idaho Code Ann. §18–622(2)(a)(i).</p>
     <p>These different considerations—health versus life—may lead to different outcomes. For instance, consider the situation of a woman who experiences a condition that was discussed in the briefs and at argument: preterm prelabor rupture of membranes (PPROM), which occurs when a woman’s amniotic sac breaks before the 37th week of pregnancy. 1 App. 295. The Members of this Court are not physicians and should therefore be wary about expressing conclusions about medical issues. But guidance provided by prominent medical institutions is sufficient to show how Idaho law and EMTALA, as interpreted by the Government, may conflict in such cases.</p>
     <p>If a woman experiences PPROM between the 34th and 37th week of pregnancy and does not go into labor, her physician is likely to recommend that labor be induced.[<a id="nf5-18" href="#fn5-18">18</a>] In that situation, it does not appear that the risk of conflict is high.</p>

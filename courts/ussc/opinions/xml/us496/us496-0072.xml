@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us496-0072.html" citation="496 U.S. 72" title="English v. General Elec. Co.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p72">72</n>
-    <h>U.S. Supreme Court</h>
-    <h>English v. General Elec. Co., <a href="./us496-0072.xml#p72">496 U.S. 72</a> (1990)</h>
-    <h>English v. General Electric Company</h>
-    <h>No. 89-152</h>
-    <h>Argued April 25, 1990</h>
-    <h>Decided June 4, 1990</h>
-    <h><a href="./us496-0072.xml#p72">496 U.S. 72</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE FOURTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>English v. General Elec. Co., <a href="./us496-0072.xml#p72">496 U.S. 72</a> (1990)</h1>
+    <h2>English v. General Electric Company</h2>
+    <h2>No. 89-152</h2>
+    <h4>Argued April 25, 1990</h4>
+    <h4>Decided June 4, 1990</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE FOURTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner English, a laboratory technician at a nuclear facility operated by respondent General Electric Company (GE), complained to GE's management and to the Federal Government about several perceived violations of nuclear safety standards at the facility, including the failure of her coworkers to clean up radioactive spills in the laboratory. Frustrated by GE's failure to address her concerns, English on one occasion deliberately failed to clean a work table contaminated with uranium during an earlier shift. Instead, she outlined the contaminated areas with red tape to make them conspicuous and, a few days later, called her supervisor's attention to the fact that the marked-off areas still had not been cleaned. Shortly after work was halted for inspection and cleaning of the laboratory, GE charged English with a knowing failure to clean up radioactive contamination, temporarily assigned her to other work, and ultimately discharged her. She then filed a complaint with the Secretary of Labor, alleging that GE's actions violated § 210(a) of the Energy Reorganization Act of 1974, which makes it unlawful for a nuclear industry employer to retaliate against an employee for reporting safety violations. Although an administrative law judge (ALJ) found a § 210(a) violation, the Secretary dismissed the complaint as untimely under the 30-day limitations period provided by § 210(b)(1). Subsequently, English filed a diversity action seeking compensatory and punitive damages from GE in the District Court, raising, inter alia, a state law claim for intentional infliction of emotional distress. While rejecting GE's argument that the latter claim fell within a field -- nuclear safety -- that had been completely preempted by the Federal Government, the court nevertheless dismissed the claim on the ground that it conflicted with three particular aspects of § 210 and was therefore preempted. The Court of Appeals affirmed.</p>
     <p>Held: English's state law claim for intentional infliction of emotional distress is not preempted by federal law. Pp. <a href="./us496-0072.xml#p78">496 U. S. 78</a>-90.</p>
     <p>(a) The claim is not barred on a field preemption theory. After reviewing the relevant statutory provisions and legislative history, the Court in Pacific Gas &amp; Electric Co. v. State Energy Resources Conservation and Development Comm'n, <a href="../us461/us461-0190.xml#p190">461 U. S. 190</a>, concluded that "the Federal Government has occupied the entire field of nuclear safety concerns,"</p>
@@ -23,7 +23,7 @@
     <n id="p74">74</n>
     <p>Justice BLACKMUN delivered the opinion of the Court.</p>
     <p>In the particular context of this case, we must decide whether federal law preempts a state law cause of action for intentional infliction of emotional distress. The suit is brought by an employee of a nuclear fuels production facility against her employer and arises out of actions by the employer allegedly taken in retaliation for the employee's nuclear safety complaints.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Petitioner Vera M. English was employed from 1972 to 1984 as a laboratory technician at the nuclear fuels production facility operated by respondent General Electric Company (GE) in Wilmington, N.C. In February 1984, petitioner complained to GE's management and to the Nuclear Regulatory Commission (NRC) about several perceived violations of nuclear safety standards at the facility, including</p>
     <n id="p75">75</n>
     <p>the failure of her coworkers to clean up radioactive material spills in the laboratory.</p>
@@ -43,7 +43,7 @@
     <n id="p78">78</n>
     <p>Act,] or of the Atomic Energy Act," § 210(g); (2) the absence of any provision generally authorizing the Secretary to award exemplary or punitive damages; and (3) the provisions requiring that a whistleblower invoking the statute file an administrative complaint within 30 days after the violation occurs, and that the Secretary resolve the complaint within 90 days after its filing. See § 210(b)(1) and (b)(2)(A). In the court's view, Congress enacted this scheme to foreclose all remedies to whistleblowers who themselves violate nuclear safety requirements, to limit exemplary damages awards against the nuclear industry, and to guarantee speedy resolution of allegations of nuclear safety violations -- goals the court found incompatible with the broader remedies petitioner sought under state tort law.</p>
     <p>The United States Court of Appeals for the Fourth Circuit affirmed the dismissal of petitioner's emotional distress claim on the basis of the District Court's reasoning. 871 F.2d 22, 23 (1989). That court concluded that Congress had intended to foreclose nuclear whistleblowers from pursuing state tort remedies, and stated its belief that the District Court "correctly identified and applied the relevant federal and state law." Ibid. Because of an apparent conflict with a decision of the First Circuit, see Norris v. Lumbermen's Mutual Casualty Co., 881 F.2d 1144 (1989), we granted certiorari. 493 U.S. 1055 (1990).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>A</p>
     <p>The sole question for our resolution is whether the Federal Government has preempted petitioner's state law tort claim for intentional infliction of emotional distress. Our cases have established that state law is preempted under the Supremacy Clause, U.S. Const. Art. VI, cl. 2, in three circumstances. First, Congress can define explicitly the extent to which its enactments preempt state law. See Shaw v. Delta Air Lines, Inc., <a href="../us463/us463-0085.xml#p85">463 U. S. 85</a>, <a href="../us463/us463-0085.xml#p95">463 U. S. 95</a>-98 (1983). Preemption</p>
     <n id="p79">79</n>
@@ -99,7 +99,7 @@
     <n id="p90">90</n>
     <p>do not believe that the problem is as great as respondent suggests.</p>
     <p>First, many if not most retaliatory incidents come about as a response to safety complaints that employees register with federal regulatory agencies. The Federal Government thus is already aware of these safety violations, whether or not the employee invokes the remedial provisions of § 210. Also, we are not so sure as respondent seems to be that employees will forgo their § 210 options and rely solely on state remedies for retaliation. Such a prospect is simply too speculative a basis on which to rest a finding of preemption. The Court has observed repeatedly that preemption is ordinarily not to be implied absent an "actual conflict." See, e.g. Savage v. Jones, <a href="../us225/us225-0501.xml#p501">225 U. S. 501</a>, <a href="../us225/us225-0501.xml#p533">225 U. S. 533</a> (1912). The "teaching of this Court's decisions . . . enjoin[s] seeking out conflicts between state and federal regulation where none clearly exists." Nuron Cement Co. v. Detroit, <a href="../us362/us362-0440.xml#p440">362 U. S. 440</a>, <a href="../us362/us362-0440.xml#p446">362 U. S. 446</a> (1960).</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>We conclude that petitioner's claim for intentional infliction of emotional distress does not fall within the preempted field of nuclear safety as that field has been defined in prior cases. Nor does it conflict with any particular aspect of § 210. The contrary judgment of the Court of Appeals is reversed, and the case is remanded for further proceedings consistent with this opinion.</p>
     <p>It is so ordered.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>

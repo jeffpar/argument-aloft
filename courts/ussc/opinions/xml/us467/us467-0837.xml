@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us467-0837.html" citation="467 U.S. 837" title="Chevron U.S.A., Inc. v. NRDC">
   <opinion type="Opinions &amp; Dissents">
     <n id="p837">837</n>
-    <h>U.S. Supreme Court</h>
-    <h>Chevron U.S.A., Inc. v. NRDC, <a href="./us467-0837.xml#p837">467 U.S. 837</a> (1984)</h>
-    <h>Chevron U.S.A., Inc. v. Natural Resources Defense Council, Inc.</h>
-    <h>No. 82-1005</h>
-    <h>Argued February 29, 1984</h>
-    <h>Decided June 25, 1984<a href="./us467-0837.xml#p837">467 U.S. 837</a>ast|&gt;*</h>
-    <h><a href="./us467-0837.xml#p837">467 U.S. 837</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE DISTRICT OF COLUMBIA CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Chevron U.S.A., Inc. v. NRDC, <a href="./us467-0837.xml#p837">467 U.S. 837</a> (1984)</h1>
+    <h2>Chevron U.S.A., Inc. v. Natural Resources Defense Council, Inc.</h2>
+    <h2>No. 82-1005</h2>
+    <h4>Argued February 29, 1984</h4>
+    <h4>Decided June 25, 1984<a href="./us467-0837.xml#p837">467 U.S. 837</a>ast|&gt;*</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE DISTRICT OF COLUMBIA CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>The Clean Air Act Amendments of 1977 impose certain requirements on States that have not achieved the national air quality standards established by the Environmental Protection Agency (EPA) pursuant to earlier legislation, including the requirement that such "nonattainment" States establish a permit program regulating "new or modified major stationary sources" of air pollution. Generally, a permit may not be issued for such sources unless stringent conditions are met. EPA regulations promulgated in 1981 to implement the permit requirement allow a State to adopt a plantwide definition of the term "stationary source," under which an existing plant that contains several pollution-emitting devices may install or modify one piece of equipment without meeting the permit conditions if the alteration will not increase the total emissions from the plant, thus allowing a State to treat all of the pollution-emitting devices within the same industrial grouping as though they were encased within a single "bubble." Respondents filed a petition for review in the Court of Appeals, which set aside the regulations embodying the "bubble concept" as contrary to law. Although recognizing that the amended Clean Air Act does not explicitly define what Congress envisioned as a "stationary source" to which the permit program should apply, and that the issue was not squarely addressed in the legislative history, the court concluded that, in view of the purpose of the nonattainment program to improve, rather than merely maintain, air quality, a plantwide definition was "inappropriate," while stating it was mandatory in programs designed to maintain existing air quality.</p>
     <p>Held: The EPA's plantwide definition is a permissible construction of the statutory term "stationary source." Pp. <a href="./us467-0837.xml#p842">467 U. S. 842</a>-866.</p>
     <p>(a) With regard to judicial review of an agency's construction of the statute which it administers, if Congress has not directly spoken to the precise question at issue, the question for the court is whether the</p>
@@ -28,7 +28,7 @@
     <p>In the Clean Air Act Amendments of 1977, Pub.L. 95-95, 91 Stat. 685, Congress enacted certain requirements applicable</p>
     <n id="p840">840</n>
     <p>to States that had not achieved the national air quality standards established by the Environmental Protection Agency (EPA) pursuant to earlier legislation. The amended Clean Air Act required these "nonattainment" States to establish a permit program regulating "new or modified major stationary sources" of air pollution. Generally, a permit may not be issued for a new or modified major stationary source unless several stringent conditions are met. [<a id="nf1" href="#fn1">Footnote 1</a>] The EPA regulation promulgated to implement this permit requirement allows a State to adopt a plantwide definition of the term "stationary source." [<a id="nf2" href="#fn2">Footnote 2</a>] Under this definition, an existing plant that contains several pollution-emitting devices may install or modify one piece of equipment without meeting the permit conditions if the alteration will not increase the total emissions from the plant. The question presented by these cases is whether EPA's decision to allow States to treat all of the pollution-emitting devices within the same industrial grouping as though they were encased within a single "bubble" is based on a reasonable construction of the statutory term "stationary source."</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The EPA regulations containing the plantwide definition of the term stationary source were promulgated on October</p>
     <n id="p841">841</n>
     <p>14, 1981. 46 Fed.Reg. 50766. Respondents [<a id="nf3" href="#fn3">Footnote 3</a>] filed a timely petition for review in the United States Court of Appeals for the District of Columbia Circuit pursuant to 42 U.S.C. § 7607(b)(1). [<a id="nf4" href="#fn4">Footnote 4</a>] The Court of Appeals set aside the regulations. Natural Resources Defense Council, Inc. v. Gorsuch, 222 U.S.App.D.C. 268, 685 F.2d 718 (1982).</p>
@@ -36,7 +36,7 @@
     <n id="p842">842</n>
     <p>program its "raison d'etre," in the court's view -- was to improve air quality, the court held that the bubble concept was inapplicable in these cases under its prior precedents. Ibid. It therefore set aside the regulations embodying the bubble concept as contrary to law. We granted certiorari to review that judgment, 461 U.S. 956 (1983), and we now reverse.</p>
     <p>The basic legal error of the Court of Appeals was to adopt a static judicial definition of the term "stationary source" when it had decided that Congress itself had not commanded that definition. Respondents do not defend the legal reasoning of the Court of Appeals. [<a id="nf7" href="#fn7">Footnote 7</a>] Nevertheless, since this Court reviews judgments, not opinions, [<a id="nf8" href="#fn8">Footnote 8</a>] we must determine whether the Court of Appeals' legal error resulted in an erroneous judgment on the validity of the regulations.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>When a court reviews an agency's construction of the statute which it administers, it is confronted with two questions. First, always, is the question whether Congress has directly spoken to the precise question at issue. If the intent of Congress is clear, that is the end of the matter; for the court,</p>
     <n id="p843">843</n>
     <p>as well as the agency, must give effect to the unambiguously expressed intent of Congress. [<a id="nf9" href="#fn9">Footnote 9</a>] If, however, the court determines Congress has not directly addressed the precise question at issue, the court does not simply impose its own construction on the statute, [<a id="nf10" href="#fn10">Footnote 10</a>] as would be necessary in the absence of an administrative interpretation. Rather, if the statute is silent or ambiguous with respect to the specific issue, the question for the court is whether the agency's answer is based on a permissible construction of the statute. [<a id="nf11" href="#fn11">Footnote 11</a>]</p>
@@ -51,7 +51,7 @@
     <p>". . . If this choice represents a reasonable accommodation of conflicting policies that were committed to the agency's care by the statute, we should not disturb it unless it appears from the statute or its legislative history that the accommodation is not one that Congress would have sanctioned."</p>
     <p>United States v. Shimer, <a href="../us367/us367-0374.xml#p374">367 U. S. 374</a>, <a href="../us367/us367-0374.xml#p382">367 U. S. 382</a>, 383 (1961). Accord, Capital Cities Cable, Inc. v. Crisp, ante at <a href="./us467-0691.xml#p699">467 U. S. 699</a>-700.</p>
     <p>In light of these well-settled principles, it is clear that the Court of Appeals misconceived the nature of its role in reviewing the regulations at issue. Once it determined, after its own examination of the legislation, that Congress did not actually have an intent regarding the applicability of the bubble concept to the permit program, the question before it was not whether, in its view, the concept is "inappropriate" in the general context of a program designed to improve air quality, but whether the Administrator's view that it is appropriate in the context of this particular program is a reasonable one. Based on the examination of the legislation and its history which follows, we agree with the Court of Appeals that Congress did not have a specific intention on the applicability of the bubble concept in these cases, and conclude that the EPA's use of that concept here is a reasonable policy choice for the agency to make.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>In the 1950's and the 1960's, Congress enacted a series of statutes designed to encourage and to assist the States in curtailing air pollution. See generally Train v. Natural Resources Defense Council, Inc., <a href="../us421/us421-0060.xml#p60">421 U. S. 60</a>, <a href="../us421/us421-0060.xml#p63">421 U. S. 63</a>-64 (1975). The Clean Air Amendments of 1970, Pub.L. 91-604, 84 Stat. 1676, "sharply increased federal authority and responsibility</p>
     <n id="p846">846</n>
     <p>in the continuing effort to combat air pollution," 421 U.S. at <a href="../us421/us421-0060.xml#p64">421 U. S. 64</a>, but continued to assign "primary responsibility for assuring air quality" to the several States, 84 Stat. 1678. Section 109 of the 1970 Amendments directed the EPA to promulgate National Ambient Air Quality Standards (NAAQS's) [<a id="nf15" href="#fn15">Footnote 15</a>] and § 110 directed the States to develop plans (SIP's) to implement the standards within specified deadlines. In addition, § 111 provided that major new sources of pollution would be required to conform to technology-based performance standards; the EPA was directed to publish a list of categories of sources of pollution and to establish new source performance standards (NSPS) for each. Section 111(e) prohibited the operation of any new source in violation of a performance standard.</p>
@@ -72,7 +72,7 @@
     <p>Id. at 55524-55525. In general, the Ruling provided that</p>
     <p>"a major new source may locate in an area with air quality worse than a national standard only if stringent conditions can be met."</p>
     <p>Id. at 55525. The Ruling gave primary emphasis to the rapid attainment of the statute's environmental goals. [<a id="nf20" href="#fn20">Footnote 20</a>] Consistent with that emphasis, the construction of every new source in nonattainment areas had to meet the "lowest achievable emission rate" under the current state of the art for that type of facility. See Ibid. The 1976 Ruling did not, however, explicitly adopt or reject the "bubble concept." [<a id="nf21" href="#fn21">Footnote 21</a>]</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>The Clean Air Act Amendments of 1977 are a lengthy, detailed, technical, complex, and comprehensive response to a major social issue. A small portion of the statute -- 91 Stat.</p>
     <n id="p849">849</n>
     <p>745-751 (Part D of Title I of the amended Act, 42 U.S.C. §§ 7501-7508) -- expressly deals with nonattainment areas. The focal point of this controversy is one phrase in that portion of the Amendments. [<a id="nf22" href="#fn22">Footnote 22</a>]</p>
@@ -85,7 +85,7 @@
     <p>The 1977 Amendments contain no specific reference to the "bubble concept." Nor do they contain a specific definition of the term "stationary source," though they did not disturb the definition of "stationary source" contained in § 111(a)(3), applicable by the terms of the Act to the NSPS program. Section 302(j), however, defines the term "major stationary source" as follows:</p>
     <p>"(j) Except as otherwise expressly provided, the terms 'major stationary source' and 'major emitting facility' mean any stationary facility or source of air pollutants which directly emits, or has the potential to emit, one hundred tons per year or more of any air pollutant (including any major emitting facility or source of fugitive emissions of any such pollutant, as determined by rule by the Administrator)."</p>
     <p>91 Stat. 770.</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>The legislative history of the portion of the 1977 Amendments dealing with nonattainment areas does not contain any specific comment on the "bubble concept" or the question whether a plantwide definition of a stationary source is permissible under the permit program. It does, however, plainly disclose that in the permit program Congress sought to accommodate the conflict between the economic interest in permitting capital improvements to continue and the environmental interest in improving air quality. Indeed, the House Committee Report identified the economic interest as one of the "two main purposes" of this section of the bill. It stated:</p>
     <p>"Section 117 of the bill, adopted during full committee markup establishes a new section 127 of the Clean Air Act. The section has two main purposes: (1) to allow reasonable economic growth to continue in an area while making reasonable further progress to assure attainment of the standards by a fixed date; and (2) to allow</p>
     <n id="p852">852</n>
@@ -106,7 +106,7 @@
     <p>"I should note that the test for determining whether a new or modified source is subject to the EPA interpretative regulation [the Offset Ruling] -- and to the permit requirements of the revised implementation plans under the conference bill -- is whether the source will emit a pollutant into an area which is exceeding a national ambient air quality standard for that pollutant -- or precursor. Thus, a new source is still subject to such requirements as 'lowest achievable emission rate' even if it is constructed as a replacement for an older facility resulting in a net reduction from previous emission levels."</p>
     <p>"A source -- including an existing facility ordered to convert to coal -- is subject to all the nonattainment requirements as a modified source if it makes any physical change which increases the amount of any air pollutant for which the standards in the area are exceeded."</p>
     <p>123 Cong.Rec. 26847 (1977).</p>
-    <h>VI</h>
+    <h2>VI</h2>
     <p>As previously noted, prior to the 1977 Amendments, the EPA had adhered to a plantwide definition of the term "source" under a NSPS program. After adoption of the 1977 Amendments, proposals for a plantwide definition were considered in at least three formal proceedings.</p>
     <p>In January, 1979, the EPA considered the question whether the same restriction on new construction in nonattainment areas that had been included in its December, 1976, Ruling</p>
     <n id="p854">854</n>
@@ -140,7 +140,7 @@
     <p>Ibid. Finally, the agency explained that additional requirements that remained in place would accomplish the fundamental purposes of achieving attainment with NAAQS's as expeditiously as possible. [<a id="nf30" href="#fn30">Footnote 30</a>] These conclusions were expressed</p>
     <n id="p859">859</n>
     <p>in a proposed rulemaking in August, 1981, that was formally promulgated in October. See id. at 50766.</p>
-    <h>VII</h>
+    <h2>VII</h2>
     <p>In this Court, respondents expressly reject the basic rationale of the Court of Appeals' decision. That court viewed the statutory definition of the term "source" as sufficiently flexible to cover either a plantwide definition, a narrower definition covering each unit within a plant, or a dual definition that could apply to both the entire "bubble" and its components. It interpreted the policies of the statute, however, to mandate the plantwide definition in programs designed to maintain clean air and to forbid it in programs designed to improve air quality. Respondents place a fundamentally different construction on the statute. They contend that the text of the Act requires the EPA to use a dual definition -- if either a component of a plant, or the plant as a whole, emits over 100 tons of pollutant, it is a major stationary source. They thus contend that the EPA rules adopted in 1980, insofar as they apply to the maintenance of the quality of clean air, as well as the 1981 rules which apply to nonattainment areas, violate the statute. [<a id="nf31" href="#fn31">Footnote 31</a>]</p>
     <p>Statutory Language</p>
     <p>The definition of the term "stationary source" in § 111(a)(3) refers to "any building, structure, facility, or installation" which emits air pollution. See supra at <a href="./us467-0837.xml#p846">467 U. S. 846</a>. This definition is applicable only to the NSPS program by the express terms of the statute; the text of the statute does not make this definition</p>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us478-0714.html" citation="478 U.S. 714" title="Bowsher v. Synar">
   <opinion type="Opinions &amp; Dissents">
     <n id="p714">714</n>
-    <h>U.S. Supreme Court</h>
-    <h>Bowsher v. Synar, <a href="./us478-0714.xml#p714">478 U.S. 714</a> (1986)</h>
-    <h>Bowsher v. Synar</h>
-    <h>No. 85-1377</h>
-    <h>Argued April 23, 1986</h>
-    <h>Decided July 7, 1986<a href="./us478-0714.xml#p714">478 U.S. 714</a>ast|&gt;*</h>
-    <h><a href="./us478-0714.xml#p714">478 U.S. 714</a></h>
-    <h>APPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE</h>
-    <h>DISTRICT OF COLUMBIA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Bowsher v. Synar, <a href="./us478-0714.xml#p714">478 U.S. 714</a> (1986)</h1>
+    <h2>Bowsher v. Synar</h2>
+    <h2>No. 85-1377</h2>
+    <h4>Argued April 23, 1986</h4>
+    <h4>Decided July 7, 1986<a href="./us478-0714.xml#p714">478 U.S. 714</a>ast|&gt;*</h4>
+    <h2>APPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE</h2>
+    <h2>DISTRICT OF COLUMBIA</h2>
+    <h2>Syllabus</h2>
     <p>In order to eliminate the federal budget deficit, Congress enacted the Balanced Budget and Emergency Deficit Control Act of 1985 (Act), popularly known as the "Gramm-Rudman-Hollings Act," which sets a maximum deficit amount for federal spending for each of the fiscal years 1986 through 1991 (progressively reducing the deficit amount to zero in 1991). If in any fiscal year the budget deficit exceeds the prescribed maximum by more than a specified sum, the Act requires basically across-the-board cuts in federal spending to reach the targeted deficit level. These reductions are accomplished under the "reporting provisions" spelled out in § 251 of the Act, which requires the Directors of the Office of Management and Budget (OMB) and the Congressional Budget Office (CBO) to submit their deficit estimates and program-by-program budget reduction calculations to the Comptroller General, who, after reviewing the Directors' joint report, then reports his conclusions to the President. The President in turn must issue a "sequestration" order mandating the spending reductions specified by the Comptroller General, and the sequestration order becomes effective unless, within a specified time, Congress legislates reductions to obviate the need for the sequestration order. The Act also contains in § 274(f) a "fallback" deficit reduction process (eliminating the Comptroller General's participation) to take effect if § 251's reporting provisions are invalidated. In consolidated actions in the Federal District Court, individual Congressmen and the National Treasury Employees Union (Union) (who, along with one of the Union's members, are appellees here) challenged the Act's constitutionality. The court held, inter alia, that the Comptroller General's role in exercising executive functions under the Act's deficit reduction process violated the constitutionally imposed doctrine of separation of powers because the Comptroller General is removable only by a congressional</p>
     <n id="p715">715</n>
     <p>joint resolution or by impeachment, and Congress may not retain the power of removal over an officer performing executive powers.</p>
@@ -29,7 +29,7 @@
     <n id="p717">717</n>
     <p>CHIEF JUSTICE BURGER delivered the opinion of the Court.</p>
     <p>The question presented by these appeals is whether the assignment by Congress to the Comptroller General of the United States of certain functions under the Balanced Budget and Emergency Deficit Control Act of 1985 violates the doctrine of separation of powers.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>A</p>
     <p>On December 12, 1985, the President signed into law the Balanced Budget and Emergency Deficit Control Act of 1985, Pub.L. 99-177, 99 Stat. 1038, 2 U.S.C. § 901 et seq. (1982 ed., Supp. III), popularly known as the "Gramm-Rudman-Hollings Act." The purpose of the Act is to eliminate the federal budget deficit. To that end, the Act sets a "maximum deficit amount" for federal spending for each of fiscal years 1986 through 1991. The size of that maximum deficit amount progressively reduces to zero in fiscal year 1991. If in any fiscal year the federal budget deficit exceeds the maximum</p>
     <n id="p718">718</n>
@@ -51,9 +51,9 @@
     <p>"since the powers conferred upon the Comptroller General as part of the automatic deficit reduction process are executive powers, which cannot constitutionally be exercised by an officer removable by Congress, those powers cannot be exercised, and therefore the automatic deficit reduction process to which they are are central cannot be implemented."</p>
     <p>Id. at 1403.</p>
     <p>Appeals were taken directly to this Court pursuant to § 274(b) of the Act. We noted probable jurisdiction and expedited consideration of the appeals. 475 U.S. 1009 (1986). We affirm.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>A threshold issue is whether the Members of Congress, members of the National Treasury Employees Union, or the Union itself have standing to challenge the constitutionality of the Act in question. It is clear that members of the Union, one of whom is an appellee here, will sustain injury by not receiving a scheduled increase in benefits. See § 252(a)(6)(C)(i); 626 F. Supp. at 1381. This is sufficient to confer standing under § 274(a)(2) and Article III. We therefore need not consider the standing issue as to the Union or Members of Congress. See Secretary of Interior v. California, <a href="../us464/us464-0312.xml#p312">464 U. S. 312</a>, <a href="../us464/us464-0312.xml#p319">464 U. S. 319</a>, n. 3 (1984). Cf. Automobile Workers v. Brock, <a href="../us477/us477-0274.xml#p274">477 U. S. 274</a> (1986); Barnes v. Kline, supra. Accordingly, we turn to the merits of the case.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>We noted recently that</p>
     <p>"[t]he Constitution sought to divide the delegated powers of the new Federal Government into three defined categories, Legislative, Executive, and Judicial."</p>
     <p>INS v. Chadha, <a href="../us462/us462-0919.xml#p919">462 U. S. 919</a>, <a href="../us462/us462-0919.xml#p951">462 U. S. 951</a> (1983). The declared purpose of separating and dividing the powers of government, of course, was to "diffus[e] power the better to secure liberty." Youngstown Sheet &amp; Tube Co. v. Sawyer, <a href="../us343/us343-0579.xml#p579">343 U. S. 579</a>, <a href="../us343/us343-0579.xml#p635">343 U. S. 635</a> (1952) (Jackson, J., concurring). Justice Jackson's words echo the famous warning of Montesquieu,</p>
@@ -95,7 +95,7 @@
     <p>Buckley v. Valeo, <a href="../us424/us424-0001.xml#p1">424 U. S. 1</a>, <a href="../us424/us424-0001.xml#p129">424 U. S. 129</a> (1976). Indeed, we also have observed only recently that</p>
     <p>"[t]he hydraulic pressure inherent within each of the separate Branches to exceed the outer limits of its power, even to accomplish desirable objectives, must be resisted."</p>
     <p>Chadha, supra, at <a href="../us462/us462-0919.xml#p951">462 U. S. 951</a>. With these principles in mind, we turn to consideration of whether the Comptroller General is controlled by Congress.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>Appellants urge that the Comptroller General performs his duties independently and is not subservient to Congress. We agree with the District Court that this contention does not bear close scrutiny.</p>
     <p>The critical factor lies in the provisions of the statute defining the Comptroller General's office relating to removability. [<a id="nf5" href="#fn5">Footnote 5</a>] Although the Comptroller General is nominated by the President from a list of three individuals recommended by the Speaker of the House of Representatives and the President pro tempore of the Senate, see 31 U.S.C.</p>
     <n id="p728">728</n>
@@ -135,7 +135,7 @@
     <p>". . . I may not accept the opinion of any official, inclusive of the Attorney General, as controlling my duty under the law."</p>
     <p>2 Comp.Gen. 784, 786-787 (1923) (disregarding conclusion of the Attorney General, 33 Op.Atty.Gen. 476 (1923), with respect to interpretation of compensation statute).</p>
     <p>Against this background, we see no escape from the conclusion that, because Congress has retained removal authority over the Comptroller General, he may not be entrusted with executive powers. The remaining question is whether the Comptroller General has been assigned such powers in the Balanced Budget and Emergency Deficit Control Act of 1985.</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>The primary responsibility of the Comptroller General under the instant Act is the preparation of a "report." This report must contain detailed estimates of projected federal revenues and expenditures. The report must also specify the reductions, if any, necessary to reduce the deficit to the target for the appropriate fiscal year. The reductions must be set forth on a program-by-program basis.</p>
     <p>In preparing the report, the Comptroller General is to have "due regard" for the estimates and reductions set forth in a joint report submitted to him by the Director of CBO and the Director of OMB, the President's fiscal and budgetary adviser. However, the Act plainly contemplates that the Comptroller General will exercise his independent judgment and evaluation with respect to those estimates. The Act also provides that the Comptroller General's report "shall explain fully any differences between the contents of such report and the report of the Directors." § 251(b)(2).</p>
     <p>Appellants suggest that the duties assigned to the Comptroller General in the Act are essentially ministerial and mechanical, so that their performance does not constitute "execution of the law" in a meaningful sense. On the contrary, we view these functions as plainly entailing execution</p>
@@ -147,7 +147,7 @@
     <p>Congress, of course, initially determined the content of the Balanced Budget and Emergency Deficit Control Act, and undoubtedly the content of the Act determines the nature of the executive duty. However, as Chadha makes clear, once Congress makes its choice in enacting legislation, its participation ends. Congress can thereafter control the execution</p>
     <n id="p734">734</n>
     <p>of its enactment only indirectly -- by passing new legislation. Chadha, 462 U.S. at <a href="../us462/us462-0919.xml#p958">462 U. S. 958</a>. By placing the responsibility for execution of the Balanced Budget and Emergency Deficit Control Act in the hands of an officer who is subject to removal only by itself, Congress, in effect, has retained control over the execution of the Act, and has intruded into the executive function. The Constitution does not permit such intrusion.</p>
-    <h>VI</h>
+    <h2>VI</h2>
     <p>We now turn to the final issue of remedy. Appellants urge that, rather than striking down § 251 and invalidating the significant power Congress vested in the Comptroller General to meet a national fiscal emergency, we should take the lesser course of nullifying the statutory provisions of the 1921 Act that authorizes Congress to remove the Comptroller General. At oral argument, counsel for the Comptroller General suggested that this might make the Comptroller General removable by the President. All appellants urge that Congress would prefer invalidation of the removal provisions, rather than invalidation of § 251 of the Balanced Budget and Emergency Deficit Control Act.</p>
     <p>Severance at this late date of the removal provisions enacted 65 years ago would significantly alter the Comptroller General's office, possibly by making him subservient to the Executive Branch. Recasting the Comptroller General as an officer of the Executive Branch would, accordingly, alter the balance that Congress had in mind in drafting the Budget and Accounting Act of 1921 and the Balanced Budget and Emergency Deficit Control Act, to say nothing of the wide array of other tasks and duties Congress has assigned the Comptroller General in other statutes. [<a id="nf9" href="#fn9">Footnote 9</a>] Thus, appellants'</p>
     <n id="p735">735</n>
@@ -157,7 +157,7 @@
     <p>626 F. Supp. at 1394.</p>
     <n id="p736">736</n>
     <p>Accordingly, rather than perform the type of creative and imaginative statutory surgery urged by appellants, our holding simply permits the fallback provisions to come into play. [<a id="nf10" href="#fn10">Footnote 10</a>]</p>
-    <h>VII</h>
+    <h2>VII</h2>
     <p>No one can doubt that Congress and the President are confronted with fiscal and economic problems of unprecedented magnitude, but</p>
     <p>"the fact that a given law or procedure is efficient, convenient, and useful in facilitating functions of government, standing alone, will not save it if it is contrary to the Constitution. Convenience and efficiency are not the primary objectives -- or the hallmarks -- of democratic government. . . ."</p>
     <p>Chadha, supra, at <a href="../us462/us462-0919.xml#p944">462 U. S. 944</a>.</p>
@@ -174,14 +174,14 @@
     <f n="3"><a id="fn3" href="#nf3">Footnote 3</a>
       <p>The First Congress included 20 Members who had been delegates to the Philadelphia Convention:</p>
       <p>bwm:</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>N THE SENATE Richard Bassett (Delaware) Rufus King (New York)</p>
       <p>Pierce Butler (South Carolina) John Langdon (New Hampshire)</p>
       <p>Oliver Ellsworth (Connecticut) Robert Morris (Pennsylvania)</p>
       <p>William Few (Georgia) William Paterson (New Jersey)</p>
       <p>William Samuel Johnson George Read (Delaware (Connecticut)</p>
       <p>Caleb Strong (Massachusetts)</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>N THE HOUSE Abraham Baldwin (Georgia) Nicholas Gilman (New Hampshire)</p>
       <p>Daniel Carroll (Maryland) James Madison (Virginia)</p>
       <p>George Clymer (Pennsylvania) Roger Sherman (Connecticut)</p>
@@ -215,7 +215,7 @@
       <p>When this Court is asked to invalidate a statutory provision that has been approved by both Houses of the Congress and signed by the President, particularly an Act of Congress that confronts a deeply vexing national problem, it should only do so for the most compelling constitutional reasons. I</p>
       <n id="p737">737</n>
       <p>agree with the Court that the "Gramm-Rudman-Hollings" Act contains a constitutional infirmity so severe that the flawed provision may not stand. I disagree with the Court, however, on the reasons why the Constitution prohibits the Comptroller General from exercising the powers assigned to him by § 251(b) and § 251(c)(2) of the Act. It is not the dormant, carefully circumscribed congressional removal power that represents the primary constitutional evil. Nor do I agree with the conclusion of both the majority and the dissent that the analysis depends on a labeling of the functions assigned to the Comptroller General as "executive powers." Ante at <a href="./us478-0714.xml#p732">478 U. S. 732</a>-734; post at <a href="./us478-0714.xml#p764">478 U. S. 764</a>-765. Rather, I am convinced that the Comptroller General must be characterized as an agent of Congress because of his longstanding statutory responsibilities; that the powers assigned to him under the Gramm-Rudman-Hollings Act require him to make policy that will bind the Nation; and that, when Congress, or a component or an agent of Congress seeks to make policy that will bind the Nation, it must follow the procedures mandated by Article I of the Constitution -- through passage by both Houses and presentment to the President. In short, Congress may not exercise its fundamental power to formulate national policy by delegating that power to one of its two Houses, to a legislative committee, or to an individual agent of the Congress such as the Speaker of the House of Representatives, the Sergeant at Arms of the Senate, or the Director of the Congressional Budget Office. INS v. Chadha, <a href="../us462/us462-0919.xml#p919">462 U. S. 919</a> (1983). That principle, I believe, is applicable to the Comptroller General.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>The fact that Congress retained for itself the power to remove the Comptroller General is important evidence supporting the conclusion that he is a member of the Legislative Branch of the Government. Unlike the Court, however, I am not persuaded that the congressional removal power is either a necessary or a sufficient basis for concluding that his statutory assignment is invalid.</p>
       <n id="p738">738</n>
       <p>As JUSTICE WHITE explains, post at 478 U.S. 770-771, Congress does not have the power to remove the Comptroller General at will, or because of disagreement with any policy determination that he may be required to make in the administration of this or any other Act. The statute provides a term of 15 years for the Comptroller General; it further provides that he must retire upon becoming 70 years of age, and that he may be removed at any time by impeachment or by</p>
@@ -230,7 +230,7 @@
       <p>The fact that Congress retained for itself the power to remove the Comptroller General thus not necessarily an adequate reason for concluding that his role in the Gramm-Rudman-Hollings budget reduction process is unconstitutional. It is however, a fact that lends support to my ultimate</p>
       <n id="p741">741</n>
       <p>conclusion that, in exercising his functions under this Act, he serves as an agent of the Congress.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>In assessing the role of the Comptroller General, it is appropriate to consider his already existing statutory responsibilities. Those responsibilities leave little doubt that one of the identifying characteristics of the Comptroller General is his statutorily required relationship to the Legislative Branch.</p>
       <p>In the statutory section that identifies the Comptroller General's responsibilities for investigating the use of public money, four of the five enumerated duties specifically describe an obligation owed to Congress. The first is the only one that does not expressly refer to Congress: The Comptroller General shall "investigate all matters related to the receipt, disbursement, and use of public money." 31 U.S.C. § 712(1). The other four clearly require the Comptroller General to work with Congress' specific needs as his legal duty. Thus, the Comptroller General must</p>
       <p>"estimate the cost to the United States Government of complying with each restriction on expenditures of a specific appropriation in a general appropriation law and report each estimate to Congress with recommendations the Comptroller General considers desirable."</p>
@@ -263,7 +263,7 @@
       <n id="p746">746</n>
       <p>Thus, the Comptroller General retains certain obligations with respect to the Executive Branch. [Footnote 2/9] Obligations to two branches are not, however, impermissible, and the presence of such dual obligations does not prevent the characterization of the official with the dual obligations as part of one branch. [Footnote 2/10] It is at least clear that in most, if not all, of his statutory responsibilities, the Comptroller General is properly characterized as an agent of the Congress. [Footnote 2/11]</p>
       <n id="p747">747</n>
-      <h>III</h>
+      <h2>III</h2>
       <p>Everyone agrees that the powers assigned to the Comptroller General by § 251(b) and § 251(c)(2) of the Gramm-Rudman-Hollings Act are extremely important. They require him to exercise sophisticated economic judgment concerning anticipated trends in the Nation's economy, projected</p>
       <n id="p748">748</n>
       <p>levels of unemployment, interest rates, and the special problems that may be confronted by the many components of a vast federal bureaucracy. His duties are anything but ministerial -- he is not merely a clerk wearing a "green eyeshade" as he undertakes these tasks. Rather, he is vested with the kind of responsibilities that Congress has elected to discharge itself under the fallback provision that will become effective if and when § 251(b) and § 251(c)(2) are held invalid. Unless we make the naive assumption that the economic destiny of the Nation could be safely entrusted to a mindless bank of computers, the powers that this Act vests in the Comptroller General must be recognized as having transcendent importance. [Footnote 2/12]</p>
@@ -290,7 +290,7 @@
       <p>Thus, I do not agree that the Comptroller General's responsibilities under the Gramm-Rudman-Hollings Act must be</p>
       <n id="p753">753</n>
       <p>termed "executive powers," or even that our inquiry is much advanced by using that term. For, whatever the label given the functions to be performed by the Comptroller General under § 251 -- or by the Congress under § 274 -- the District Court had no difficulty in concluding that Congress could delegate the performance of those functions to another branch of the Government. [Footnote 2/18] If the delegation to a stranger is permissible, why may not Congress delegate the same responsibilities to one of its own agents? That is the central question before us today.</p>
-      <h>IV</h>
+      <h2>IV</h2>
       <p>Congress regularly delegates responsibility to a number of agents who provide important support for its legislative activities. Many perform functions that could be characterized as "executive" in most contexts -- the Capitol Police can arrest and press charges against lawbreakers, the Sergeant at Arms manages the congressional payroll, the Capitol Architect maintains the buildings and grounds, and its Librarian has custody of a vast number of books and records. Moreover, the Members themselves necessarily engage in many activities that are merely ancillary to their primary lawmaking</p>
       <n id="p754">754</n>
       <p>responsibilities -- they manage their separate offices, they communicate with their constituents, they conduct hearings, they inform themselves about the problems confronting the Nation, and they make rules for the governance of their own business. The responsibilities assigned to the Comptroller General in the case before us are, of course, quite different from these delegations and ancillary activities.</p>
@@ -396,7 +396,7 @@
       <p>in the past been recognized as a fundamental principle governing consideration of disputes over separation of powers:</p>
       <p>"The actual art of governing under our Constitution does not and cannot conform to judicial definitions of the power of any of its branches based on isolated clauses or even single Articles torn from context. While the Constitution diffuses power the better to secure liberty, it also contemplates that practice will integrate the dispersed powers into a workable government."</p>
       <p>Youngstown Sheet &amp; Tube Co. v. Sawyer, <a href="../us343/us343-0579.xml#p579">343 U. S. 579</a>, <a href="../us343/us343-0579.xml#p635">343 U. S. 635</a> (1952) (Jackson, J. concurring).</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>The Court's argument is straightforward: the Act vests the Comptroller General with "executive" powers, that is, powers to "[i]nterpre[t] a law enacted by Congress [in order] to implement the legislative mandate," ante at <a href="./us478-0714.xml#p733">478 U. S. 733</a>; such powers may not be vested by Congress in itself or its agents, see Buckley v. Valeo, <a href="../us424/us424-0001.xml#p1">424 U. S. 1</a>, <a href="../us424/us424-0001.xml#p120">424 U. S. 120</a>-141 (1976), for the system of Government established by the Constitution, for the most part, limits Congress to a legislative, rather than an executive or judicial, role, see INS v. Chadha, supra; the Comptroller General is an agent of Congress by virtue of a provision in the Budget and Accounting Act of 1921, 43 Stat. 23, 31 U.S.C. § 703(e)(1), granting Congress the power to remove the Comptroller for cause through joint resolution; therefore the Comptroller General may not constitutionally exercise the executive powers granted him in the Gramm-Rudman-Hollings Act, and the Act's automatic budget reduction mechanism, which is premised on the Comptroller's exercise of those powers, must be struck down.</p>
       <p>Before examining the merits of the Court's argument, I wish to emphasize what it is that the Court quite pointedly and correctly does not hold: namely, that "executive" powers of the sort granted the Comptroller by the Act may only be exercised by officers removable at will by the President.</p>
       <n id="p761">761</n>
@@ -413,7 +413,7 @@
       <p>It is evident (and nothing in the Court's opinion is to the contrary) that the powers exercised by the Comptroller General under the Gramm-Rudman-Hollings Act are not such that vesting them in an officer not subject to removal at will by the President would in itself improperly interfere with Presidential powers. Determining the level of spending by the Federal Government is not, by nature, a function central either to the exercise of the President's enumerated powers or to his general duty to ensure execution of the laws; rather, appropriating funds is a peculiarly legislative function, and one expressly committed to Congress by Art. I, § 9, which provides that "No Money shall be drawn from the Treasury, but in Consequence of Appropriations made by Law." In enacting Gramm-Rudman-Hollings, Congress has chosen to exercise this legislative power to establish the level of federal spending by providing a detailed set of criteria for reducing expenditures below the level of appropriations in the event that certain conditions are met. Delegating the execution of this legislation -- that is, the power to apply the Act's criteria and make the required calculations -- to an officer independent of the President's will does not deprive the President of any power that he would otherwise have or that is essential to the performance of the duties of his office. Rather, the result of such a delegation, from the standpoint of the President, is no different from the result of more traditional forms of appropriation: under either system, the level of funds available to the Executive Branch to carry out its duties is not within the President's discretionary control. To be sure,</p>
       <n id="p764">764</n>
       <p>if the budget-cutting mechanism required the responsible officer to exercise a great deal of policymaking discretion, one might argue that, having created such broad discretion, Congress had some obligation based upon Art. II to vest it in the Chief Executive or his agents. In Gramm-Rudman-Hollings, however, Congress has done no such thing; instead, it has created a precise and articulated set of criteria designed to minimize the degree of policy choice exercised by the officer executing the statute, and to ensure that the relative spending priorities established by Congress in the appropriations it passes into law remain unaltered. [Footnote 3/5] Given that the exercise of policy choice by the officer executing the statute would be inimical to Congress' goal in enacting "automatic" budget-cutting measures, it is eminently reasonable and proper for Congress to vest the budget-cutting authority in an officer who is, to the greatest degree possible, nonpartisan and independent of the President and his political agenda, and who therefore may be relied upon not to allow his calculations to be colored by political considerations. Such a delegation deprives the President of no authority that is rightfully his.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>If, as the Court seems to agree, the assignment of "executive" powers under Gramm-Rudman-Hollings to an officer not removable at will by the President would not, in itself, represent a violation of the constitutional scheme of separated</p>
       <n id="p765">765</n>
       <p>powers, the question remains whether, as the Court concludes, the fact that the officer to whom Congress has delegated the authority to implement the Act is removable by a joint resolution of Congress should require invalidation of the Act. The Court's decision, as I have stated above, is based on a syllogism: the Act vests the Comptroller with "executive power"; such power may not be exercised by Congress or its agents; the Comptroller is an agent of Congress because he is removable by Congress; therefore the Act is invalid. I have no quarrel with the proposition that the powers exercised by the Comptroller under the Act may be characterized as "executive" in that they involve the interpretation and carrying out of the Act's mandate. I can also accept the general proposition that, although Congress has considerable authority in designating the officers who are to execute legislation, see supra, at <a href="./us478-0714.xml#p760">478 U. S. 760</a>-764, the constitutional scheme of separated powers does prevent Congress from reserving an executive role for itself or for its "agents." Buckley v. Valeo, 424 U.S. at <a href="../us424/us424-0001.xml#p120">424 U. S. 120</a>-141; id. at <a href="../us424/us424-0001.xml#p267">424 U. S. 267</a>-282 (WHITE, J., concurring in part and dissenting in part). I cannot accept, however, that the exercise of authority by an officer removable for cause by a joint resolution of Congress is analogous to the impermissible execution of the law by Congress itself, nor would I hold that the congressional role in the removal process renders the Comptroller an "agent" of the Congress, incapable of receiving "executive" power.</p>
@@ -497,7 +497,7 @@
       <n id="p778">778</n>
       <p>decades. I cannot see the sense of invalidating legislation of this magnitude in order to preserve a cumbersome, 65-year-old removal power that has never been exercised and appears to have been all but forgotten until this litigation. [Footnote 4/1]</p>
       <n id="p779">779</n>
-      <h>I</h>
+      <h2>I</h2>
       <p>The District Court believed it had no choice in this matter. Once it concluded that the Comptroller General's functions under the Deficit Control Act were constitutionally incompatible with the 1921 removal provision, the District Court considered itself bound as a matter of orderly judicial procedure to set aside the statute challenged by the plaintiffs. See Synar v. United States, <a href="https://law.justia.com/cases/federal/district-courts/FSupp/626/1374/1398959/">626 F. Supp. 1374</a>, 1393 (DC 1986). The majority today does not take this view, and I believe it is untenable.</p>
       <p>Under the District Court's approach, everything depends on who first files suit. Because Representative Synar and</p>
       <n id="p780">780</n>
@@ -511,7 +511,7 @@
       <p>"'measure the intensity of [legislative] commitment to the residual policy and consider the degree of potential disruption of the statutory scheme that would occur by extension as opposed to abrogation.'"</p>
       <p>Heckler v. Mathews, supra, at <a href="../us465/us465-0728.xml#p739">465 U. S. 739</a>, n. 5, quoting Welsh v. United States, <a href="../us398/us398-0333.xml#p333">398 U. S. 333</a>, <a href="../us398/us398-0333.xml#p365">398 U. S. 365</a> (1970) (Harlan, J., concurring in result). Calculations of this kind are obviously more complicated when a court is faced with two different statutes, enacted decades apart, but Glidden indicates that even then the task is judicially manageable. No matter how difficult it is to determine which remedy would less obstruct congressional objectives, surely we should make that determination as best we can, instead of leaving the selection to the litigants.</p>
       <n id="p783">783</n>
-      <h>II</h>
+      <h2>II</h2>
       <p>Assuming that the Comptroller General's functions under § 251 of the Deficit Control Act cannot be exercised by an official removable by joint resolution of Congress, we must determine whether legislative goals would be frustrated more by striking down § 251 or by invalidating the 1921 removal provision. That question is not answered by the "fallback" provisions of the 1985 Act, which take effect "[i]n the event that any of the reporting procedures described in section 251 [of the Act] are invalidated." § 274(f)(1), 99 Stat. 1100. The question is whether the reporting procedures should be invalidated in the first place. The fallback provisions simply make clear that Congress would prefer a watered-down version of the Deficit Control Act to none at all; they provide no evidence that Congress would rather settle for the watered-down version than surrender its statutory authority to remove the Comptroller General. The legislative history of the Deficit Control Act contains no mention of the 1921 statute, and both Houses of Congress have argued in this Court that, if necessary, the removal provision should be invalidated, rather than § 251. See Brief for Appellant United States Senate 31-43; Brief for Appellants Speaker and Bipartisan Leadership Group of United States House of Representatives 49; accord, Brief for Appellant Comptroller General 33-47. To the extent that the absence of express fallback provisions in the 1921 statute signifies anything, it appears to signify only that, if the removal provision were invalidated, Congress preferred simply that the remainder of the statute should remain in effect without alteration. [Footnote 4/3]</p>
       <n id="p784">784</n>
       <p>In the absence of express statutory direction, I think it is plain that, as both Houses urge, invalidating the Comptroller General's functions under the Deficit Control Act would frustrate congressional objectives far more seriously than would refusing to allow Congress to exercise its removal authority under the 1921 law. The majority suggests that the removal authority plays an important role in furthering Congress' desire to keep the Comptroller General under its control. But, as JUSTICE WHITE demonstrates, see ante at 478 U.S. 770-773, the removal provision serves feebly for such purposes, especially in comparison to other, more effective means of supervision at Congress' disposal. Unless Congress institutes impeachment proceedings -- a course all agree the Constitution would permit -- the 1921 law authorizes Congress to remove the Comptroller General only for specified cause, only after a hearing, and only by passing the procedural equivalent of a new public law. Congress has never attempted to use this cumbersome procedure, and the Comptroller General has shown few signs of subservience. [Footnote 4/4] If Congress in 1921</p>

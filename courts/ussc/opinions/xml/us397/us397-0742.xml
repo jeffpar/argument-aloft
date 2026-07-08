@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us397-0742.html" citation="397 U.S. 742" title="Brady v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p742">742</n>
-    <h>U.S. Supreme Court</h>
-    <h>Brady v. United States, <a href="./us397-0742.xml#p742">397 U.S. 742</a> (1970)</h>
-    <h>Brady v. United States</h>
-    <h>No. 270</h>
-    <h>Argued November 18, 1969</h>
-    <h>Decided May 4, 1970</h>
-    <h><a href="./us397-0742.xml#p742">397 U.S. 742</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE TENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Brady v. United States, <a href="./us397-0742.xml#p742">397 U.S. 742</a> (1970)</h1>
+    <h2>Brady v. United States</h2>
+    <h2>No. 270</h2>
+    <h4>Argued November 18, 1969</h4>
+    <h4>Decided May 4, 1970</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE TENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner was indicted in 1959 for kidnaping and not liberating the victim unharmed in violation of 18 U.S.C. § 1201(a), which imposed a maximum penalty of death if the jury's verdict so recommended. Upon learning that his codefendant, who had confessed, would plead guilty and testify against him, petitioner changed his plea from not guilty to guilty. The trial judge accepted the plea after twice questioning petitioner (who was represented throughout by competent counsel) as to the voluntariness of his plea, and imposed sentence. In 1967, petitioner sought post-conviction relief, in part on the ground that § 1201(a) operated to coerce his plea. The District Court, after hearing, denied relief, concluding that petitioner's plea was voluntary and had been induced not by that statute, but by the development concerning his confederate. The Court of Appeals affirmed. Petitioner claims that United States v. Jackson, <a href="../us390/us390-0570.xml#p570">390 U. S. 570</a> (1968), requires reversal of that holding.</p>
     <p>Held: On the record in this case, there is no basis for disturbing the judgment of the courts below that petitioner's guilty plea was voluntary. Pp. <a href="./us397-0742.xml#p745">397 U. S. 745</a>-758.</p>
     <p>(a) Though United States v. Jackson, supra, prohibits imposition of the death penalty under § 1201(a), it does not hold that all guilty pleas encouraged by the fear of possible death are involuntary, nor does it invalidate such pleas, whether involuntary or not. Pp. <a href="./us397-0742.xml#p745">397 U. S. 745</a>-748.</p>
@@ -27,7 +27,7 @@
     <n id="p745">745</n>
     <p>After a hearing, the District Court for the District of New Mexico denied relief. According to the District Court's findings, petitioner's counsel did not put impermissible pressure on petitioner to plead guilty, and no representations were made with respect to a reduced sentence or clemency. The court held that § 1201(a) was constitutional, and found that petitioner decided to plead guilty when he learned that his codefendant was going to plead guilty: petitioner pleaded guilty "by reason of other matters and not by reason of the statute" or because of any acts of the trial judge. The court concluded that "the plea was voluntarily and knowingly made."</p>
     <p>The Court of Appeal for the Tenth Circuit affirmed, determining that the District Court's findings were supported by substantial evidence and specifically approving the finding that petitioner's plea of guilty was voluntary. 404 F.2d 601 (1968). We granted certiorari, 395 U.S. 976 (1969), to consider the claim that the Court of Appeals was in error in not reaching a contrary result on the authority of this Court's decision in United States v. Jackson, <a href="../us390/us390-0570.xml#p570">390 U. S. 570</a> (1968). We affirm.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In United States v. Jackson, supra, the defendants were indicted under § 1201(a). The District Court dismissed the § 1201(a) count of the indictment, holding</p>
     <n id="p746">746</n>
     <p>the statute unconstitutional because it permitted imposition of the death sentence only upon a jury's recommendation, and thereby made the risk of death the price of a jury trial. This Court held the statute valid, except for the death penalty provision; with respect to the latter, the Court agreed with the trial court "that the death penalty provision . . . imposes an impermissible burden upon the exercise of a constitutional right. . . ." 390 U.S. at <a href="../us390/us390-0570.xml#p572">390 U. S. 572</a>. The problem was to determine</p>
@@ -46,7 +46,7 @@
     <n id="p748">748</n>
     <p>That a guilty plea is a grave and solemn act to be accepted only with care and discernment has long been recognized. Central to the plea and the foundation for entering judgment against the defendant is the defendant's admission in open court that he committed the act charged in the indictment. He thus stands as a witness against himself, and he is shielded by the Fifth Amendment from being compelled to do so -- hence the minimum requirement that his plea be the voluntary expression of his own choice. [<a id="nf5" href="#fn5">Footnote 5</a>] But the plea is more than an admission of past conduct; it is the defendant's consent that judgment of conviction may be entered without a trial -- a waiver of his right to trial before a jury or a judge. Waivers of constitutional rights not only must be voluntary, but must be knowing, intelligent acts done with sufficient awareness of the relevant circumstances and likely consequences. [<a id="nf6" href="#fn6">Footnote 6</a>] On neither score was Brady's plea of guilty invalid.</p>
     <n id="p749">749</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>The trial judge in 1959 found the plea voluntary before accepting it; the District Court in 1968, after an evidentiary hearing, found that the plea was voluntarily made; the Court of Appeals specifically approved the finding of voluntariness. We see no reason on this record to disturb the judgment of those courts. Petitioner, advised by competent counsel, tendered his plea after his codefendant, who had already given a confession, determined to plead guilty and became available to testify against petitioner. It was this development that the District Court found to have triggered Brady's guilty plea.</p>
     <p>The voluntariness of Brady's plea can be determined only by considering all of the relevant circumstances surrounding it. Cf. Haynes v. Washington, <a href="../us373/us373-0503.xml#p503">373 U. S. 503</a>, <a href="../us373/us373-0503.xml#p513">373 U. S. 513</a> (1963); Leyra v. Denno, <a href="../us347/us347-0556.xml#p556">347 U. S. 556</a>, <a href="../us347/us347-0556.xml#p558">347 U. S. 558</a> (1954). One of these circumstances was the possibility of a heavier sentence following a guilty verdict after a trial. It may be that Brady, faced with a strong case against him and recognizing that his chances for acquittal were slight, preferred to plead guilty, and thus limit the penalty to life imprisonment, rather than to elect a jury trial which could result in a death penalty. [<a id="nf7" href="#fn7">Footnote 7</a>] But</p>
     <n id="p750">750</n>
@@ -75,7 +75,7 @@
     <p>"'[A] plea of guilty entered by one fully aware of the direct consequences, including the actual value of any commitments made to him by the court, prosecutor, or his own counsel, must stand unless induced by threats (or promises to discontinue improper harassment), misrepresentation (including unfulfilled or unfulfillable promises), or perhaps by promises that are, by their nature, improper as having no proper relationship to the prosecutor's business (e.g., bribes).' 242 F.2d at page 115. [<a id="nf13" href="#fn13">Footnote 13</a>]"</p>
     <p>Under this standard, a plea of guilty is not invalid merely because entered to avoid the possibility of a death penalty. [<a id="nf14" href="#fn14">Footnote 14</a>]</p>
     <n id="p756">756</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>The record before us also supports the conclusion that Brady's plea was intelligently made. He was advised by competent counsel, he was made aware of the nature of the charge against him, and there was nothing to indicate that he was incompetent or otherwise not in control of his mental faculties; once his confederate had pleaded guilty and became available to testify, he chose to plead guilty, perhaps to ensure that he would face no more than life imprisonment or a term of years. Brady was aware of precisely what he was doing when he admitted that he had kidnaped the victim and had not released her unharmed.</p>
     <p>It is true that Brady's counsel advised him that § 1201(a) empowered the jury to impose the death penalty and that, nine years later, in United States v. Jackson, supra, the Court held that the jury had no such power as long as the judge could impose only a lesser penalty if trial was to the court or there was a plea of guilty. But these facts do not require us to set aside Brady's conviction.</p>
     <p>Often the decision to plead guilty is heavily influenced by the defendant's appraisal of the prosecution's case against him and by the apparent likelihood of securing leniency should a guilty plea be offered and accepted. Considerations like these frequently present imponderable questions for which there are no certain answers; judgments may be made that, in the light of later events, seem improvident, although they were perfectly</p>

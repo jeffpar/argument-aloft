@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us486-0622.html" citation="486 U.S. 622" title="Pinter v. Dahl">
   <opinion type="Opinions &amp; Dissents">
     <n id="p622">622</n>
-    <h>U.S. Supreme Court</h>
-    <h>Pinter v. Dahl, <a href="./us486-0622.xml#p622">486 U.S. 622</a> (1988)</h>
-    <h>Pinter v. Dahl</h>
-    <h>No. 86-805</h>
-    <h>Argued December 9, 1987</h>
-    <h>Decided June 15, 1988</h>
-    <h><a href="./us486-0622.xml#p622">486 U.S. 622</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE FIFTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Pinter v. Dahl, <a href="./us486-0622.xml#p622">486 U.S. 622</a> (1988)</h1>
+    <h2>Pinter v. Dahl</h2>
+    <h2>No. 86-805</h2>
+    <h4>Argued December 9, 1987</h4>
+    <h4>Decided June 15, 1988</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE FIFTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner Pinter, an oil and gas producer and registered securities dealer, sold unregistered securities consisting of fractional undivided interests in oil and gas leases to respondent Dahl, a real estate broker and investor who was experienced in oil and gas ventures. Dahl touted the venture to the other respondents -- his friends, family, and business associates -- and assisted them in completing subscription agreement forms prepared by Pinter, but received no commission from Pinter when each of them invested in unregistered interests on the basis of Dahl's involvement. When the venture failed, respondents sued Pinter in Federal District Court, seeking rescission under § 12(1) of the Securities Act of 1933 (Act) for the unlawful sale of unregistered securities. After a bench trial, the court granted judgment for respondents, apparently rejecting Pinter's common law in pari delicto defense to Dahl's suit. The Court of Appeals affirmed, ruling that such defense was not available because § 12(1) creates a "strict liability offense," rather than liability based on intentional conduct, and distinguishing Bateman Eichler, Hill Richards, Inc. v. Berner, <a href="../us472/us472-0299.xml#p299">472 U. S. 299</a>, which held that the defense applies in actions under § 10(b) of the Securities Exchange Act of 1934, on the ground that § 10(b) contains an element of scienter. The court also held that Dahl was not a "seller" within the meaning of § 12(1), and therefore could not be held liable in contribution for the other respondents' claims against Pinter, since, although Dahl's conduct was a "substantial factor" in causing the other respondents' purchases, there was no evidence that he had sought or received financial benefit for himself or anyone other than the other respondents.</p>
     <p>Held:</p>
     <p>1. The in pari delicto defense is available in a § 12(1) private rescission action. Pp. <a href="./us486-0622.xml#p632">486 U. S. 632</a>-641.</p>
@@ -31,7 +31,7 @@
     <p>The questions presented by this case are (a) whether the common law in pari delicto defense is available in a private</p>
     <n id="p625">625</n>
     <p>action brought under § 12(1) of the Securities Act of 1933 (Securities Act), 48 Stat. 74, as amended, 15 U.S.C. § 77a et seq., for the rescission of the sale of unregistered securities, and (b) whether one must intend to confer a benefit on himself or on a third party in order to qualify as a "seller" within the meaning of § 12(1).</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The controversy arises out of the sale prior to 1982 of unregistered securities (fractional undivided interests in oil and gas leases) by petitioner Billy J. "B. J." Pinter to respondents Maurice Dahl and Dahl's friends, family, and business associates. [<a id="nf1" href="#fn1">Footnote 1</a>] Pinter is an oil and gas producer in Texas and Oklahoma, and a registered securities dealer in Texas. Dahl is a California real estate broker and investor, who, at the time of his dealings with Pinter, was a veteran of two unsuccessful oil and gas ventures. In pursuit of further investment opportunities, Dahl employed an oil field expert to locate and acquire oil and gas leases. This expert introduced Dahl to Pinter. Dahl advanced $20,000 to Pinter to acquire leases, with the understanding that they would be held in the name of Pinter's Black Gold Oil Company and that Dahl would have a right of first refusal to drill certain wells on the leasehold properties. Pinter located leases in Oklahoma, and Dahl toured the properties, often without Pinter, in order to talk to others and "get a feel for the properties." App. to Pet.</p>
     <n id="p626">626</n>
     <p>for Cert. 32. Upon examining the geology, drilling logs, and production history assembled by Pinter, Dahl concluded, in the words of the District Court, that "there was no way to lose." Ibid.</p>
@@ -58,7 +58,7 @@
     <p>The Court of Appeals, by an 8-6 vote, denied rehearing en banc. 794 F.2d 1016 (1986). The judges who dissented from that denial asserted that the panel majority's addition of the financial-benefit requirement to the definition of a "seller," "has absolutely no foundation in either settled securities law or its underlying policies." Id. at 1017. They also criticized the panel majority for misinterpreting Bateman Eichler to limit application of the in pari delicto doctrine to fraud actions under § 10(b). 794 F.2d at 1017.</p>
     <n id="p632">632</n>
     <p>Because of the importance of the issues involved to the administration of the federal securities law, we granted certiorari. 481 U.S. 1012 (1987).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The equitable defense of in pari delicto, which literally means "in equal fault," is rooted in the common law notion that a plaintiff's recovery may be barred by his own wrongful conduct. See Bateman Eichler, 472 U.S. at <a href="../us472/us472-0299.xml#p306">472 U. S. 306</a>, and nn. 12 and 13. Traditionally, the defense was limited to situations where the plaintiff bore "at least substantially equal responsibility for his injury," id. at <a href="../us472/us472-0299.xml#p307">472 U. S. 307</a>, and where the parties' culpability arose out of the same illegal act. 1 J. Story, Equity Jurisprudence 399-400 (14th ed.1918). Contemporary courts have expanded the defense's application to situations more closely analogous to those encompassed by the "unclean hands" doctrine, where the plaintiff has participated "in some of the same sort of wrongdoing" as the defendant. See Perma Life Mufflers, Inc. v. International Parts Corp., <a href="../us392/us392-0134.xml#p134">392 U. S. 134</a>, <a href="../us392/us392-0134.xml#p138">392 U. S. 138</a> (1968). In Perma Life, however, the Court concluded that this broadened construction is not appropriate in litigation arising under federal regulatory statutes. Ibid. Nevertheless, in separate opinions, five Justices recognized that a narrow, more traditional formulation should be available in private actions under the antitrust laws. See id. at <a href="../us392/us392-0134.xml#p145">392 U. S. 145</a> (WHITE, J., concurring); id. at <a href="../us392/us392-0134.xml#p147">392 U. S. 147</a>-148 (Fortas, J., concurring in result); id. at <a href="../us392/us392-0134.xml#p148">392 U. S. 148</a>-149, 151 (MARSHALL, J., concurring in result); id. at <a href="../us392/us392-0134.xml#p154">392 U. S. 154</a>-155 (Harlan, J., joined by Stewart, J., concurring in part and dissenting in part).</p>
     <p>In Bateman Eichler, the Court addressed the scope of the in pari delicto defense in the context of an action brought by securities investors under the antifraud provisions of § 10(b) and Rule 10b-5, alleging that the broker-dealer and corporate insider defendants had induced the plaintiffs to purchase large quantities of stock by divulging false and materially incomplete information on the pretext that it was accurate</p>
     <n id="p633">633</n>
@@ -97,7 +97,7 @@
     <p>against Dahl's § 12(1) claim. [<a id="nf15" href="#fn15">Footnote 15</a>] The District Court's findings in this case are not adequate to determine whether Dahl bears at least substantially equal responsibility for the failure to register the oil and gas interests or to distribute the securities in a manner that conformed with the statutory exemption, and whether he was primarily a promoter of the offering. [<a id="nf16" href="#fn16">Footnote 16</a>] The findings indicate, on the one hand, that Dahl may have participated in initiating the entire investment, and that he loaned money to Pinter and solicited his associates' participation in the venture, but, on the other hand, that Dahl invested substantially more money than the other investor-respondents, expected and received no commission</p>
     <n id="p641">641</n>
     <p>for his endeavors, and drafted none of the offering documents. Furthermore, the District Court made no findings as to who was responsible for the failure to register or for the manner in which the offering was conducted. Those findings will be made on the remand of this case for further proceedings.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>What we have said as to the availability to Pinter of the in pari delicto defense against Dahl's § 12(1) action does not obviate the need to consider the second question presented by petitioner. [<a id="nf17" href="#fn17">Footnote 17</a>] We turn now to that issue.</p>
     <p>In determining whether Dahl may be deemed a "seller" for purposes of § 12(1), such that he may be held liable for the sale of unregistered securities to the other investor-respondents, we look first at the language of § 12(1). See Ernst &amp; Ernst v. Hochfelder, <a href="../us425/us425-0185.xml#p185">425 U. S. 185</a>, <a href="../us425/us425-0185.xml#p197">425 U. S. 197</a> (1976). That statute provides, in pertinent part: "Any person who . . . offers or sells a security" in violation of the registration requirement of the Securities Act "shall be liable to the person purchasing such security from him." 15 U.S.C. § 771. This provision defines the class of defendants who may be subject to liability [<a id="nf18" href="#fn18">Footnote 18</a>] as those who offer or sell unregistered</p>
     <n id="p642">642</n>
@@ -149,7 +149,7 @@
     <n id="p655">655</n>
     <p>a person who solicits the buyer's purchase in order to serve the financial interests of the owner may properly be liable under § 12(1) without showing that he expects to participate in the benefits the owner enjoys.</p>
     <p>The Court of Appeals apparently concluded that Dahl was motivated entirely by a gratuitous desire to share an attractive investment opportunity with his friends and associates. See 787 F.2d at 991. This conclusion, in our view, was premature. The District Court made no findings that focused on whether Dahl urged the other purchases in order to further some financial interest of his own or of Pinter. Accordingly, further findings are necessary to assess Dahl's liability. [<a id="nf30" href="#fn30">Footnote 30</a>]</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>The judgment of the Court of Appeals is vacated, and the case is remanded for further proceedings consistent with this opinion.</p>
     <p>It is so ordered.</p>
     <p>JUSTICE KENNEDY took no part in the consideration or decision of this case.</p>
@@ -268,7 +268,7 @@
       <p>Although I substantially agree with the Court's discussion of the in pari delicto defense in Parts II-A and II-B of its opinion, I disagree with its application of that discussion to the facts of this case. [Footnote 2/1] Moreover, I am unable to join Part</p>
       <n id="p656">656</n>
       <p>III because I am persuaded that the discussion of the § 12(1) term "seller" in the context of a contribution suit is both advisory, because no such suit was brought in this case, and misleading, because it assumes that the class of persons who sell securities to purchasers (i.e., § 12(1) "sellers") is coextensive with the class of potential defendants in claims for contribution, not brought directly under § 12(1), asserted by § 12(1) sellers. § 12(1), Securities Act of 1933, 15 U.S.C. § 771(1).</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>In this case, Pinter had the burden of proving that Dahl shared at least equal responsibility for the action that resulted in the § 12(1) violation, i.e., the failure to register the securities. But, as the Court notes, Pinter has conceded that "nothing in the record indicates whether Dahl was a participant in the decision not to register the securities. " Ante at <a href="./us486-0622.xml#p640">486 U. S. 640</a>, n. 15; see Brief for Petitioner 27. Further, the Court of Appeals concluded, and it is undisputed here, that there is no evidence that Dahl knew that the failure to register the securities was unlawful. [Footnote 2/2]</p>
       <n id="p657">657</n>
       <p>Because "the District Court made no findings as to who was responsible for the failure to register or for the manner in which the offering was conducted," ante at <a href="./us486-0622.xml#p641">486 U. S. 641</a>, the majority concludes that we must remand for further findings. It seems to me, though, that the District Court's failure to make findings on the critical issue of responsibility for failure to register is properly attributed to Pinter's failure to direct the court's attention to the issue. Pinter pleaded his in pari delicto defense as follows:</p>

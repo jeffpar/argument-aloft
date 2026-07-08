@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us460-0325.html" citation="460 U.S. 325" title="Briscoe v. LaHue">
   <opinion type="Opinions &amp; Dissents">
     <n id="p325">325</n>
-    <h>U.S. Supreme Court</h>
-    <h>Briscoe v. LaHue, <a href="./us460-0325.xml#p325">460 U.S. 325</a> (1983)</h>
-    <h>Briscoe v. LaHue</h>
-    <h>No. 81-1404</h>
-    <h>Argued November 9, 1982</h>
-    <h>Decided March 7, 1983</h>
-    <h><a href="./us460-0325.xml#p325">460 U.S. 325</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE SEVENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Briscoe v. LaHue, <a href="./us460-0325.xml#p325">460 U.S. 325</a> (1983)</h1>
+    <h2>Briscoe v. LaHue</h2>
+    <h2>No. 81-1404</h2>
+    <h4>Argued November 9, 1982</h4>
+    <h4>Decided March 7, 1983</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE SEVENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Held: Title 42 U.S.C. § 1983 (1976 ed., Supp. V) does not authorize a convicted state defendant to assert a claim for damages against a police officer for giving perjured testimony at the defendant's criminal trial. Pp. <a href="./us460-0325.xml#p329">460 U. S. 329</a>-346.</p>
     <p>(a) The common law provided absolute immunity from subsequent damages liability for all persons -- governmental or otherwise -- who were integral parts of the judicial process. Section 1983 does not authorize a damages claim against private witnesses. Similarly, judges, Pierson v. Ray, <a href="../us386/us386-0547.xml#p547">386 U. S. 547</a>, and prosecutors, Imbler v. Pachtman, <a href="../us424/us424-0409.xml#p409">424 U. S. 409</a>, may not be held liable for damages under § 1983 for the performance of their respective duties in judicial proceedings. When a police officer appears as a witness, he may reasonably be viewed as acting like any witness sworn to tell the truth, in which event he can make a strong claim to witness immunity. Alternatively, he may be regarded as an official performing a critical role in the judicial process, in which event he may seek the benefit afforded to other governmental participants in the same proceeding. Nothing in § 1983's language suggests that a police officer witness belongs in a narrow, special category lacking protection against damages suits. Pp. <a href="./us460-0325.xml#p329">460 U. S. 329</a>-336.</p>
     <p>(b) Nor does anything in the legislative history of the statute indicate that Congress intended to abrogate common law witness immunity in order to provide a damages remedy under § 1983 against police officers or any other witnesses. Pp. <a href="./us460-0325.xml#p336">460 U. S. 336</a>-341.</p>
@@ -28,7 +28,7 @@
     <p>Although other issues were argued in the Court of Appeals, its holding in both cases was predicated squarely on the ground that, in litigation brought under 42 U.S.C. § 1983 (1976 ed., Supp. V), all witnesses -- police officers as well as lay witnesses -- are absolutely immune from civil liability based on their testimony in judicial proceedings. 663 F.2d 713 (1981). [<a id="nf3" href="#fn3">Footnote 3</a>] Because of the importance of the immunity question, which has given rise to divergent conclusions in the Courts of Appeals, [<a id="nf4" href="#fn4">Footnote 4</a>] we granted certiorari. 455 U.S. 1016 (1982). [<a id="nf5" href="#fn5">Footnote 5</a>]</p>
     <n id="p329">329</n>
     <p>Before confronting the precise question that this case presents -- whether § 1983 creates a damages remedy against police officers for their testimony as witnesses -- we begin by considering the potential liability of lay witnesses, on the one hand, and of judges and prosecutors who perform integral functions in judicial proceedings, on the other hand. The unavailability of a damages remedy against both of these categories sheds considerable light on petitioners' claim that Congress intended police officer witnesses to be treated differently.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>There are two reasons why § 1983 does not allow recovery of damages against a private party for testimony in a judicial proceeding. First, § 1983 does not create a remedy for all conduct that may result in violation of "rights, privileges, or immunities secured by the Constitution and laws." Its reach is limited to actions taken "under color of any statute, ordinance, regulation, custom, or usage, of any State or Territory. . . ." [<a id="nf6" href="#fn6">Footnote 6</a>] It is beyond question that, when a private</p>
     <n id="p330">330</n>
     <p>party gives testimony in open court in a criminal trial, that act is not performed "under color of law." [<a id="nf7" href="#fn7">Footnote 7</a>]</p>
@@ -50,7 +50,7 @@
     <p>"the crucible of the judicial process, so that the factfinder may consider it, after cross-examination, together with the other evidence in the case to determine where the truth lies."</p>
     <p>Imbler v. Pachtman, <a href="../us424/us424-0409.xml#p409">424 U. S. 409</a>, <a href="../us424/us424-0409.xml#p440">424 U. S. 440</a> (1976) (WHITE, J., concurring in judgment). [<a id="nf14" href="#fn14">Footnote 14</a>]</p>
     <p>At least with respect to private witnesses, it is clear that § 1983 did not abrogate the absolute immunity existing at common law, and petitioners do not contend otherwise. Like the immunity for legislators at issue in Tenney v. Brandhove, the common law's protection for witnesses is "a tradition so well grounded in history and reason" that we cannot believe that Congress impinged on it "by covert inclusion in the general language before us." 341 U.S. at <a href="../us341/us341-0367.xml#p376">341 U. S. 376</a>.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The Court has already addressed the question whether § 1983 permits damages recoveries from judges, prosecutors, and other persons acting "under color of law" who perform official functions in the judicial process. Again, we have found that, in light of common law immunity principles, § 1983 did not impose liability on these officials. We have held that state judges are absolutely immune from liability for their judicial acts, Pierson v. Ray, <a href="../us386/us386-0547.xml#p547">386 U. S. 547</a> (1967); Stump v. Sparkman, <a href="../us435/us435-0349.xml#p349">435 U. S. 349</a> (1978), and that state prosecutors have absolute immunity from liability for their actions in initiating prosecutions, Imbler v. Pachtman, supra.</p>
     <p>The central focus of our analysis has been the nature of the judicial proceeding itself. Thus, in his opinion concurring in the judgment in Imbler v. Pachtman, supra, JUSTICE WHITE explained that the absolute immunity of public prosecutors was "based on the policy of protecting the judicial process."</p>
     <n id="p335">335</n>
@@ -63,7 +63,7 @@
     <p>In short, the common law provided absolute immunity from subsequent damages liability for all persons -- governmental or otherwise -- who were integral parts of the judicial process. It is equally clear that § 1983 does not authorize a damages claim against private witnesses, on the one hand, or against judges or prosecutors in the performance of their respective duties, on the other. When a police officer appears as a witness, he may reasonably be viewed as acting like any</p>
     <n id="p336">336</n>
     <p>other witness sworn to tell the truth -- in which event, he can make a strong claim to witness immunity; [<a id="nf15" href="#fn15">Footnote 15</a>] alternatively, he may be regarded as an official performing a critical role in the judicial process, in which event he may seek the benefit afforded to other governmental participants in the same proceeding. Nothing in the language of the statute suggests that such a witness belongs in a narrow, special category lacking protection against damages suits. We must ask, however, whether anything in the legislative history of § 1983 points to a different conclusion.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Petitioners point to a number of references throughout the debates on the 1871 Act to widespread perjury by Ku Klux Klan witnesses in state criminal trials. [<a id="nf16" href="#fn16">Footnote 16</a>] They urge that, because perjury was one of the specific evils with which Congress was concerned, recognizing an absolute immunity for witnesses would conflict with congressional intent. We find this argument unpersuasive. The Act consisted of several sections establishing different remedies for disorder and violence in the Southern States. [<a id="nf17" href="#fn17">Footnote 17</a>] The legislative history and statutory language indicate that Congress intended perjury</p>
     <n id="p337">337</n>
     <p>leading to unjust acquittals of Klan conspirators to be prohibited by § 2, the civil and criminal conspiracy section of the statute, now codified in relevant part at 42 U.S.C. § 1985(3) (1976 ed., Supp. V) and 18 U.S.C. § 241. But the language of § 1 -- now codified as § 1983 -- differs from that of § 2 in essential respects, and we find no evidence that Congress intended to abrogate the traditional common law witness immunity in § 1983 actions.</p>
@@ -81,7 +81,7 @@
     <p>In summary, the legislative history supports criminal punishment under § 2 for a witness who conspired to give perjured testimony favorable to a defendant, with the effect of preventing effective enforcement of the laws, and liability in a civil suit against the perjured witness by the defendant's victim. But these are not the issues before us today. We are asked to extrapolate from pro-defendant perjury to pro-prosecution perjury, and if willing to make that step, we are further invited to apply legislative history relating to § 2 -- a section specifically directed toward private conspiracies -- to § 1 -- a section designed to provide remedies for abuses under</p>
     <n id="p341">341</n>
     <p>color of law. We decline the invitation. The debates of the 42d Congress do not support petitioners' contention that Congress intended to provide a § 1 damages remedy against police officers or any other witnesses. [<a id="nf26" href="#fn26">Footnote 26</a>]</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>Petitioners, finally, urge that we should carve out an exception to the general rule of immunity in cases of alleged perjury by police officer witnesses. [<a id="nf27" href="#fn27">Footnote 27</a>] They assert that the reasons supporting common law immunity -- the need to</p>
     <n id="p342">342</n>
     <p>avoid intimidation and self-censorship -- apply with diminished force to police officers. Policemen often have a duty to testify about the products of their investigations, and they have a professional interest in obtaining convictions which would assertedly counterbalance any tendency to shade testimony in favor of potentially vindictive defendants. In addition, they are subject to § 1983 lawsuits for the performance of their other duties, as to which they have only qualified immunity, and their defense is generally undertaken by their governmental employers. Further, petitioners urge that perjured testimony by police officers is likely to be more damaging to constitutional rights than such testimony by ordinary citizens, because the policeman in uniform carries special credibility in the eyes of jurors. And, in the case of police officers, who cooperate regularly with prosecutors in the enforcement of criminal law, prosecution for perjury is alleged to be so unlikely that it is not an effective substitute for civil damages.</p>
@@ -226,7 +226,7 @@
       <p>I cannot agree that police officers are absolutely immune from civil liability under 42 U.S.C. § 1983 (1976 ed., Supp. V) for testimony given in criminal proceedings. The extension of absolute immunity conflicts fundamentally with the language and purpose of the statute. I would therefore be reluctant in any case to conclude that § 1983 incorporates common law tort immunities that may have existed when Congress enacted the statute in 1871. But in this case, the conclusion is especially unjustified. First, absolute immunity for witnesses was by no means a settled legal proposition in 1871. Most notably, in 1845, this Court had cast serious doubt on the existence of absolute immunity for testimony given in judicial proceedings. Second, the origins and history of § 1983 strongly suggest that Congress meant to abrogate any absolute immunity for government officials involved</p>
       <n id="p347">347</n>
       <p>in the judicial process, including police officers. Finally, considerations of public policy deemed necessary to justify absolute immunity in our past cases do not support an absolute immunity for officer-witnesses.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>The majority opinion correctly states that this case presents a question of statutory construction. Ante at <a href="./us460-0325.xml#p326">460 U. S. 326</a>. Yet it departs from generally accepted principles for interpreting laws.</p>
       <p>In all other matters of statutory construction, this Court begins by focusing on the language of the statute itself. [Footnote 2/1] "Absent a clearly expressed legislative intention to the contrary, that language must ordinarily be regarded as conclusive." Consumer Product Safety Comm'n v. GTE Sylvania, Inc., <a href="../us447/us447-0102.xml#p102">447 U. S. 102</a>, <a href="../us447/us447-0102.xml#p108">447 U. S. 108</a> (1980). The language of § 1983 provides unambiguous guidance in this case. A witness is most assuredly a "person," the word Congress employed to describe those whose conduct § 1983 encompasses. [Footnote 2/2] The majority</p>
       <n id="p348">348</n>
@@ -244,7 +244,7 @@
       <p>"It would indeed be the purest coincidence if the state remedies for violations of common law rights by private citizens were fully appropriate to redress those injuries which only a state official can cause and against which the Constitution provides protection."</p>
       <p>Id. at 196, n. 5.</p>
       <p>Given the language and purpose of § 1983, I have serious doubts about any further extension of absolute immunity to state officials in actions under § 1983. At a minimum, I do not believe the Court should extend absolute immunity to state officials "in the absence of the most convincing showing that the immunity is necessary." Imbler v. Pachtman, supra, at <a href="../us424/us424-0409.xml#p434">424 U. S. 434</a> (WHITE, J., concurring in judgment). For the reasons elaborated below, I believe that the case for absolute witness immunity is far from convincing.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>The majority's decision is predicated on its conclusion that "[i]n 1871, common law immunity for witnesses was well settled." Ante at <a href="./us460-0325.xml#p345">460 U. S. 345</a>. I disagree with this view of the law as it stood when Congress enacted § 1983.</p>
       <p>To begin with, some of petitioners' allegations would clearly not have been barred by doctrines of immunity at common law. The majority discusses only the immunities associated with actions for defamation at common law. Ante at <a href="./us460-0325.xml#p330">460 U. S. 330</a>-331, n. 9. However, petitioner Briscoe did not allege solely that Officer LaHue had testified falsely at his trial, a claim resembling one for defamation. He also alleged that Officer LaHue had made knowingly false charges at two probable cause hearings, one of which resulted in Briscoe's arrest. [Footnote 2/6] At common law, such an allegation would have</p>
       <n id="p351">351</n>
@@ -267,7 +267,7 @@
       <n id="p355">355</n>
       <p>landscape of the common law at the time Congress acted was an opinion rebuffing absolute immunity in favor of a qualified immunity based on the absence of malice. [Footnote 2/15]</p>
       <n id="p356">356</n>
-      <h>III</h>
+      <h2>III</h2>
       <p>The majority's decision is also predicated on its conclusion that there is "no evidence that Congress intended to abrogate the traditional common law witness immunity in § 1983 actions." Ante at <a href="./us460-0325.xml#p337">460 U. S. 337</a>. In fact, there is considerable evidence in the legislative history that Congress did intend to abrogate the immunity of participants in state judicial proceedings.</p>
       <p>A</p>
       <p>At petitioners' urging, [Footnote 2/16] the Court has extensively examined the legislative history of § 2 of the 1871 Ku Klux Klan Act, 17 Stat. 13, now codified as 42 U.S.C. § 1985(3) (1976 ed., Supp. V). However, the forerunner of § 1983 was § 1 of the 1871 Act, not § 2. As the majority points out, ante at <a href="./us460-0325.xml#p337">460 U. S. 337</a>, <a href="./us460-0325.xml#p340">460 U. S. 340</a>-341, the two sections differ significantly in their language and purpose. It is thus hardly surprising that the debates over § 2 shed little light on § 1. In my view, the inquiry should focus on the history of § 1. Only by examining the</p>
@@ -311,7 +311,7 @@
       <p>Moreover, the history of § 1 supports incorporation of legislative immunity. For example, when the specter of holding state legislators liable under § 2 of the 1866 Act was raised by President Johnson's veto message, [Footnote 2/28] the Senate sponsor of the Act was quick to disavow any such intention. Senator Trumbull argued at some length that legislators did not fall within the scope of the Act, because they "enact" laws, rather than act "under color of" state law. [Footnote 2/29] Whatever the validity of this distinction, it no doubt reflected the reluctance of Congress to impinge on the immunity of state legislators. But while the Radical Republican Congress was a "staunch advocate of legislative freedom," 341 U.S. at <a href="../us341/us341-0367.xml#p376">341 U. S. 376</a>, it displayed no solicitude for state courts. [Footnote 2/30] The debates over the 1871 Act are replete with hostile comments directed at state judicial</p>
       <n id="p364">364</n>
       <p>systems. [Footnote 2/31] It is entirely reasonable to conclude that Congress intended to make state legislators immune from civil liability under § 1 of the 1871 Act. No similar evidence exists to support an immunity for police officers testifying as witnesses. [Footnote 2/32]</p>
-      <h>IV</h>
+      <h2>IV</h2>
       <p>The majority also bases its decision on considerations of public policy, which purportedly mandate absolute immunity for police officers sued under § 1983 for their testimony as witnesses. Ante at <a href="./us460-0325.xml#p341">460 U. S. 341</a>-345. This Court has recognized absolute immunity only in "exceptional situations" where public policy makes it "essential." Butz v. Economou, <a href="../us438/us438-0478.xml#p478">438 U. S. 478</a>, <a href="../us438/us438-0478.xml#p507">438 U. S. 507</a> (1978). [Footnote 2/33] In my view, the case for official witness immunity falls far short of this standard.</p>
       <n id="p365">365</n>
       <p>Police officers and other government officials differ significantly from private citizens, around whom common law doctrines of witness immunity developed. A police officer comes to the witness stand clothed with the authority of the State. His official status gives him credibility, and creates a far greater potential for harm than exists when the average citizen testifies. [Footnote 2/34] The situation is aggravated when the official draws on special expertise. A policeman testifying about a fingerprint identification or a medical examiner testifying as to the cause of a death can have a critical impact on a defendant's trial. [Footnote 2/35] At the same time, the threat of a criminal perjury prosecution, which serves as an important constraint on the average witness' testimony, is virtually nonexistent in the police witness context. Despite the apparent prevalence of police perjury, [Footnote 2/36] prosecutors exhibit extreme</p>
@@ -326,7 +326,7 @@
       <p>"The very essence of civil liberty certainly consists in the right of every individual to claim the protections of the laws, whenever he receives an injury."</p>
       <p><a href="../us005/us005-0137.xml#p137">Marbury v. Madison</a>, 1 Cranch 137, <a href="../us005/us005-0137.xml#p163">5 U. S. 163</a> (1803).</p>
       <n id="p369">369</n>
-      <h>V</h>
+      <h2>V</h2>
       <p>For all of the above reasons, I believe that the majority has failed to sustain the heavy burden required to justify an immunity so plainly at odds with the language and purpose of § 1983. I therefore respectfully dissent.</p>
       <p>[Footnote 2/1]</p>
       <p>E.g., Jackson Transit Authority v. Transit Union, <a href="../us457/us457-0015.xml#p15">457 U. S. 15</a>, <a href="../us457/us457-0015.xml#p23">457 U. S. 23</a> (1982); Bread Political Action Comm. v. FEC, <a href="../us455/us455-0577.xml#p577">455 U. S. 577</a>, <a href="../us455/us455-0577.xml#p580">455 U. S. 580</a> (1982); Universities Research Assn. v. Coutu, <a href="../us450/us450-0754.xml#p754">450 U. S. 754</a>, <a href="../us450/us450-0754.xml#p771">450 U. S. 771</a> (1981); Dawson Chemical Co. v. Rohm &amp; Haas Co., <a href="../us448/us448-0176.xml#p176">448 U. S. 176</a>, <a href="../us448/us448-0176.xml#p187">448 U. S. 187</a> (1980).</p>
@@ -430,7 +430,7 @@
       <p>Cf. 2 F. Harper &amp; F. James, Law of Torts 1645 (1956) ("[I]t is stretching the argument pretty far to say that the mere inquiry into malice would have worse consequences than the possibility of actual malice. . . . Since the danger that official power will be abused is greatest where motives are improper, the balance here may well swing the other way") (emphasis deleted).</p>
       <p>JUSTICE BLACKMUN, dissenting.</p>
       <p>I join all of JUSTICE MARSHALL's dissenting opinion except <a href="./us460-0325.xml#p347">460 U. S.</a> I cannot join its Part I, for I adhere to the views I expressed for the Court in City of Newport v. Fact Concerts, Inc., <a href="../us453/us453-0247.xml#p247">453 U. S. 247</a>, <a href="../us453/us453-0247.xml#p258">453 U. S. 258</a>-259 (1981), regarding the role played by history and policy in determining whether § 1983 incorporates a particular common law immunity. It is proper to assume -- indeed, the Court in the past has assumed --</p>
-      <p>"that members of the 42d Congress were familiar with common law principles . . . , and that they likely intended these common law principles to obtain, absent specific provisions to the contrary."</p>
+      <p>"that members of the 42d Congress were familiar with common law principles . . ., and that they likely intended these common law principles to obtain, absent specific provisions to the contrary."</p>
       <p>Id. at <a href="../us453/us453-0247.xml#p258">453 U. S. 258</a>. If an immunity was well established in the common law in 1871, careful analysis of the policies supporting it, and those supporting § 1983, governs the determination whether that immunity was retained.</p>
       <p>In my view, JUSTICE MARSHALL's dissent convincingly demonstrates that the Court finds little support for its decision in the present case either in the language of the statute, the history of the common law, the relevant legislative history, or policy considerations.</p>
       <p>I therefore dissent.</p>

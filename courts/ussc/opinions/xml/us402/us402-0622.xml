@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us402-0622.html" citation="402 U.S. 622" title="Nelson v. O'Neil">
   <opinion type="Opinions &amp; Dissents">
     <n id="p622">622</n>
-    <h>U.S. Supreme Court</h>
-    <h>Nelson v. O'Neil, <a href="./us402-0622.xml#p622">402 U.S. 622</a> (1971)</h>
-    <h>Nelson v. O'Neil</h>
-    <h>No. 336</h>
-    <h>Argued March 24, 1971 -- Decided June 1, 1971</h>
-    <h><a href="./us402-0622.xml#p622">402 U.S. 622</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Nelson v. O'Neil, <a href="./us402-0622.xml#p622">402 U.S. 622</a> (1971)</h1>
+    <h2>Nelson v. O'Neil</h2>
+    <h2>No. 336</h2>
+    <h4>Argued March 24, 1971 -- Decided June 1, 1971</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondent and one Runnels were charged with committing various crimes and, at their joint trial, offered an alibi defense. A police officer testified that Runnels had orally admitted the crimes and implicated respondent. Runnels, who took the stand, denied making the statement. The trial judge ruled that Runnels' alleged statement was inadmissible hearsay as to respondent, and could not be considered by the jury in deciding whether respondent was guilty. Respondent also took the stand on his own behalf and gave the same version of their activities as Runnels. Both defendants were found guilty, and, after unsuccessful efforts to have his conviction set aside, respondent applied for habeas corpus relief. The District Court ruled that respondent's conviction was improper under Bruton v. United States, <a href="../us391/us391-0123.xml#p123">391 U. S. 123</a>, and Roberts v. Russell, <a href="../us392/us392-0293.xml#p293">392 U. S. 293</a>, which held that the Confrontation Clause of the Sixth Amendment, as made applicable to the States by the Fourteenth, is violated where a codefendant's out-of-court hearsay statement is admitted into evidence without the declarant's being available at trial for "full and effective" cross-examination by the defendant, and that a cautionary instruction to the jury does not adequately protect the defendant where the codefendant does not testify. The Court of Appeals affirmed, stressing that effective confrontation of a witness who has allegedly made an out-of-court statement implicating the defendant was possible only if the witness affirmed the statement as his.</p>
     <p>Held: Where a codefendant takes the stand in his own defense, denies making an alleged out-of-court statement implicating the defendant, and testifies in the defendant's favor, the defendant has been denied no rights protected by the Sixth and Fourteenth Amendments, and, in the circumstances of this case, respondent, who would have encountered greater difficulty had Runnels affirmed the statement as his, was denied neither the opportunity nor the benefit of fully and effectively cross-examining Runnels. Bruton, supra, distinguished. Pp. <a href="./us402-0622.xml#p626">402 U. S. 626</a>-630.</p>
     <p>422 F.2d 319, reversed and remanded.</p>
@@ -29,7 +29,7 @@
     <p>consider these issues. 400 U.S. 901. Since we agree with the petitioner that there was no violation of the Constitution in this case, it is unnecessary to consider the other questions presented.</p>
     <p>Runnels' out-of-court confession implicating the respondent was hearsay as to the latter, and therefore inadmissible against him under state evidence law. The trial judge so ruled, and instructed the jury that it must not consider any part of the statement in deciding whether or not the respondent was guilty. In Bruton, however, we held that, quite apart from the law of evidence, such a cautionary instruction to the jury is not an adequate protection for the defendant where the codefendant does not take the witness stand. We held that, where the jury hears the codefendant's confession implicating the defendant, the codefendant becomes, in substance, if not in form, a "witness" against the defendant. The defendant must constitutionally have an opportunity to "confront" such a witness. This the defendant cannot do if the codefendant refuses to take the stand.</p>
     <p>It was clear in Bruton that the "confrontation" guaranteed by the Sixth and Fourteenth Amendments is confrontation at trial -- that is, that the absence of the defendant at the time the codefendant allegedly made the out-of-court statement is immaterial so long as the declarant can be cross-examined on the witness stand at trial. This was confirmed in California v. Green, <a href="../us399/us399-0149.xml#p149">399 U. S. 149</a>, where we said that,</p>
-    <p>"[v]iewed historically . . . , there is good reason to conclude that the Confrontation Clause is not violated by admitting a declarant's out-of-court statements, as long as the declarant is testifying as a witness and subject to full and effective cross-examination."</p>
+    <p>"[v]iewed historically . . ., there is good reason to conclude that the Confrontation Clause is not violated by admitting a declarant's out-of-court statements, as long as the declarant is testifying as a witness and subject to full and effective cross-examination."</p>
     <p>Id. at <a href="../us399/us399-0149.xml#p158">399 U. S. 158</a>. Moreover,</p>
     <p>"where the declarant is not absent, but is present to testify and to submit to cross-examination, our cases, if anything, support the conclusion</p>
     <n id="p627">627</n>

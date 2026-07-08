@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us487-0533.html" citation="487 U.S. 533" title="Murray v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p533">533</n>
-    <h>U.S. Supreme Court</h>
-    <h>Murray v. United States, <a href="./us487-0533.xml#p533">487 U.S. 533</a> (1988)</h>
-    <h>Murray v. United States</h>
-    <h>No. 86-995</h>
-    <h>Argued December 8, 1987</h>
-    <h>Decided June 27, 1988<a href="./us487-0533.xml#p533">487 U.S. 533</a>ast|&gt;*</h>
-    <h><a href="./us487-0533.xml#p533">487 U.S. 533</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE FIRST CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Murray v. United States, <a href="./us487-0533.xml#p533">487 U.S. 533</a> (1988)</h1>
+    <h2>Murray v. United States</h2>
+    <h2>No. 86-995</h2>
+    <h4>Argued December 8, 1987</h4>
+    <h4>Decided June 27, 1988<a href="./us487-0533.xml#p533">487 U.S. 533</a>ast|&gt;*</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE FIRST CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>While surveiling petitioner Murray and others suspected of illegal drug activities, federal agents observed both petitioners driving vehicles into, and later out of, a warehouse, and, upon petitioners' exit, saw that the warehouse contained a tractor-trailer rig bearing a long container. Petitioners later turned over their vehicles to other drivers, who were in turn followed and ultimately arrested, and the vehicles were lawfully seized and found to contain marijuana. After receiving this information, several agents forced their way into the warehouse and observed in plain view numerous burlap-wrapped bales. The agents left without disturbing the bales and did not return until they had obtained a warrant to search the warehouse. In applying for the warrant, they did not mention the prior entry or include any recitations of their observations made during that entry. Upon issuance of the warrant, they reentered the warehouse and seized 270 bales of marijuana and other evidence of crime. The District Court denied petitioners' pretrial motion to suppress the evidence, rejecting their arguments that the warrant was invalid because the agents did not inform the Magistrate about their prior warrantless entry, and that the warrant was tainted by that entry. Petitioners were subsequently convicted of conspiracy to possess and distribute illegal drugs. The Court of Appeals affirmed, assuming for purposes of its decision on the suppression question that the first entry into the warehouse was unlawful.</p>
     <p>Held: The Fourth Amendment does not require the suppression of evidence initially discovered during police officers' illegal entry of private premises if that evidence is also discovered during a later search pursuant to a valid warrant that is wholly independent of the initial illegal entry. Pp. <a href="./us487-0533.xml#p536">487 U. S. 536</a>-544.</p>
     <p>(a) The "independent source" doctrine permits the introduction of evidence initially discovered during, or as a consequence of, an unlawful search, but later obtained independently from lawful activities untainted by the initial illegality. Silverthorne Lumber Co. v. United States, <a href="../us251/us251-0385.xml#p385">251 U. S. 385</a>. There is no merit to petitioners' contention that allowing the</p>
@@ -23,13 +23,13 @@
     <n id="p535">535</n>
     <p>JUSTICE SCALIA delivered the opinion of the Court.</p>
     <p>In Segura v. United States, <a href="../us468/us468-0796.xml#p796">468 U. S. 796</a> (1984), we held that police officers' illegal entry upon private premises did not require suppression of evidence subsequently discovered at those premises when executing a search warrant obtained on the basis of information wholly unconnected with the initial entry. In these consolidated cases, we are faced with the question whether, again assuming evidence obtained pursuant to an independently obtained search warrant, the portion of such evidence that had been observed in plain view at the time of a prior illegal entry must be suppressed.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Both cases arise out of the conviction of petitioner Michael F. Murray, petitioner James D. Carter, and others for conspiracy to possess and distribute illegal drugs. Insofar as relevant for our purposes, the facts are as follows: based on information received from informants, federal law enforcement agents had been surveiling petitioner Murray and several of his coconspirators. At about 1:45 p.m. on April 6, 1983, they observed Murray drive a truck and Carter drive a green camper, into a warehouse in South Boston. When the petitioners drove the vehicles out about 20 minutes later, the surveiling agents saw within the warehouse two individuals and a tractor-trailer rig bearing a long, dark container. Murray and Carter later turned over the truck and camper to other drivers, who were in turn followed and ultimately arrested, and the vehicles lawfully seized. Both vehicles were found to contain marijuana.</p>
     <p>After receiving this information, several of the agents converged on the South Boston warehouse and forced entry. They found the warehouse unoccupied, but observed in plain view numerous burlap-wrapped bales that were later found to contain marijuana. They left without disturbing the bales, kept the warehouse under surveillance, and did not reenter it until they had a search warrant. In applying for</p>
     <n id="p536">536</n>
     <p>the warrant, the agents did not mention the prior entry, and did not rely on any observations made during that entry. When the warrant was issued -- at 10:40 p.m., approximately eight hours after the initial entry -- the agents immediately reentered the warehouse and seized 270 bales of marijuana and notebooks listing customers for whom the bales were destined.</p>
     <p>Before trial, petitioners moved to suppress the evidence found in the warehouse. The District Court denied the motion, rejecting petitioners' arguments that the warrant was invalid because the agents did not inform the Magistrate about their prior warrantless entry, and that the warrant was tainted by that entry. United States v. Carter, No. 83102-S (Mass., Dec. 23, 1983), App. to Pet. for Cert. 44a-45a. The First Circuit affirmed, assuming for purposes of its decision that the first entry into the warehouse was unlawful. United States v. Moscatiello, 771 F.2d 589 (1985). Murray and Carter then separately filed petitions for certiorari, which we granted, [<a id="nf1" href="#fn1">Footnote 1</a>] 480 U.S. 916 (1987), and have consolidated here.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The exclusionary rule prohibits introduction into evidence of tangible materials seized during an unlawful search, Weeks v. United States, <a href="../us232/us232-0383.xml#p383">232 U. S. 383</a> (1914), and of testimony concerning knowledge acquired during an unlawful search, Silverman v. United States, <a href="../us365/us365-0505.xml#p505">365 U. S. 505</a> (1961). Beyond that, the exclusionary rule also prohibits the introduction of derivative evidence, both tangible and testimonial, that is</p>
     <n id="p537">537</n>
     <p>the product of the primary evidence, or that is otherwise acquired as an indirect result of the unlawful search, up to the point at which the connection with the unlawful search becomes "so attentuated as to dissipate the taint," Nardone v. United States, <a href="../us308/us308-0338.xml#p338">308 U. S. 338</a>, <a href="../us308/us308-0338.xml#p341">308 U. S. 341</a> (1939). See Wong Sun v. United States, <a href="../us371/us371-0471.xml#p471">371 U. S. 471</a>, <a href="../us371/us371-0471.xml#p484">371 U. S. 484</a>-485 (1963).</p>
@@ -53,7 +53,7 @@
     <p>It is possible to read petitioners' briefs as asserting the more narrow position that the "independent source" doctrine does apply to independent acquisition of evidence previously</p>
     <n id="p541">541</n>
     <p>derived indirectly from the unlawful search, but does not apply to what they call "primary evidence," that is, evidence acquired during the course of the search itself. In addition to finding no support in our precedent, see Silverthorne Lumber, 251 U.S. at <a href="../us251/us251-0385.xml#p392">251 U. S. 392</a> (referring specifically to evidence seized during an unlawful search), this strange distinction would produce results bearing no relation to the policies of the exclusionary rule. It would mean, for example, that the government's knowledge of the existence and condition of a dead body, knowledge lawfully acquired through independent sources, would have to be excluded if government agents had previously observed the body during an unlawful search of the defendant's apartment; but not if they had observed a notation that the body was buried in a certain location, producing consequential discovery of the corpse.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>To apply what we have said to the present cases: knowledge that the marijuana was in the warehouse was assuredly acquired at the time of the unlawful entry. But it was also acquired at the time of entry pursuant to the warrant, and if that later acquisition was not the result of the earlier entry, there is no reason why the independent source doctrine should not apply. Invoking the exclusionary rule would put the police (and society) not in the same position they would have occupied if no violation occurred, but in a worse one. See Nix v. Williams, 467 U.S. at <a href="../us467/us467-0431.xml#p443">467 U. S. 443</a>.</p>
     <p>We think this is also true with respect to the tangible evidence, the bales of marijuana. It would make no more sense to exclude that than it would to exclude tangible evidence found upon the corpse in Nix, if the search in that case had not been abandoned and had in fact come upon the body. The First Circuit has discerned a difference between tangible and intangible evidence that has been tainted, in that objects "once seized cannot be cleanly reseized without returning the objects to private control." United States v. Silvestri, 787</p>
     <n id="p542">542</n>

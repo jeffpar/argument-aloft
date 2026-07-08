@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us421-0412.html" citation="421 U.S. 412" title="SIPC v. Barbour">
   <opinion type="Opinions &amp; Dissents">
     <n id="p412">412</n>
-    <h>U.S. Supreme Court</h>
-    <h>SIPC v. Barbour, <a href="./us421-0412.xml#p412">421 U.S. 412</a> (1975)</h>
-    <h>SIPC v. Barbour</h>
-    <h>No. 73-2055</h>
-    <h>Argued March 17-18, 1975</h>
-    <h>Decided May 19, 1975</h>
-    <h><a href="./us421-0412.xml#p412">421 U.S. 412</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SIXTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>SIPC v. Barbour, <a href="./us421-0412.xml#p412">421 U.S. 412</a> (1975)</h1>
+    <h2>SIPC v. Barbour</h2>
+    <h4>No. 73-2055</h4>
+    <h4>Argued March 17-18, 1975</h4>
+    <h4>Decided May 19, 1975</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SIXTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner Securities Investor Protection Corp. (SIPC) was established by Congress under the Securities Investor Protection Act of 1970 (SIPA) as a nonprofit membership corporation, to provide, inter alia, financial relief to the customers of failing broker-dealers with whom the customers had left cash or securities on deposit. The SIPA creates procedures for the orderly liquidation of financially troubled member firms under which the SIPC is required, by assessing members, to maintain a fund for customer protection. The SIPC may file an application with a court for a decree initiating liquidation proceedings if it determines that a member has failed or is in danger of failing to meet its obligations to customers, and that any one of five specified conditions indicating financial difficulty exist, and the filing of the application vests the court with exclusive jurisdiction over the member and its property. If the court finds the existence of a specified condition, it must grant the application, issue the decree, and appoint the SIPC's designee as trustee to liquidate the business, and the SIPC is obligated, if necessary, to advance funds to meet certain customer claims. The Securities and Exchange Commission (SEC) is given "plenary authority" to supervise the SIPC, and is specifically authorized to apply to a district court for an order requiring the SIPC to discharge its statutory obligations. This action was brought by respondent receiver appointed to wind up the affairs of Guaranty Bond, an insolvent registered broker-dealer, to compel the SIPC to exercise its statutory authority for the benefit of Guaranty Bond's customers. The District Court denied relief. The Court of Appeals reversed.</p>
     <p>Held: Customers of failing broker-dealers have no implied right of action under the SIPA to compel the SIPC to act for their benefit, the SEC's statutory authority to compel the SIPC to discharge its obligations being the exclusive means by which the SIPC can be forced to act. Pp. 418-425.</p>
     <p>(a) The express statutory provision for one form of proceeding ordinarily implies that no other enforcement means was intended</p>
@@ -25,13 +25,13 @@
     <p>The Securities Investor Protection Corp. (SIPC) was established by Congress as a nonprofit membership corporation for the purpose, inter alia, of providing financial relief to the customers of failing broker-dealers with whom they had left cash or securities on deposit. The question presented by this case is whether such customers have an implied private right of action under the Securities Investor Protection Act of 1970 (Act or SIPA), 84 Stat. 1636, 15 U.S.C. § 78aaa et seq.,</p>
     <n id="p414">414</n>
     <p>to compel the SIPC to exercise its statutory authority for their benefit.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In December, 1970, the Securities and Exchange Commission (SEC) filed a complaint in District Court against Guaranty Bond and Securities Corp., a registered broker-dealer, to enjoin continued violation of the Commission's net capital and other rules. On January 6, 1971, the District Court issued a preliminary injunction, and, on January 29, it granted the Commission's motion for appointment of a receiver to wind up the affairs of Guaranty Bond. James C. Barbour (hereafter respondent) was appointed receiver.</p>
     <p>On April 6, 1972, respondent, alleging that customers of Guaranty Bond would sustain a loss at least equal to the costs of administering the receivership, obtained from the court an order directing the SEC and SIPC to show cause "why the remedies afforded by the [SIPA] should not be made available in this proceeding." In its answer, the SEC took the position that respondent had not demonstrated that Guaranty's customers would, in fact, sustain any loss, since it appeared that the receiver would have a cause of action for damages or restitution against Guaranty's parent company and principals. The SIPC, on the other hand, challenged the receiver's standing to maintain an action to compel its intervention, and, in direct opposition to the position of the SEC, argued that Guaranty's insolvency prior to the December 30, 1970, date on which the SIPA took effect meant that application of the Act to this case would give it an unlawful retroactive effect.</p>
     <p>The District Court upheld the receiver's right of action, but denied relief on the ground that Guaranty's hopeless insolvency prior to the effective date of the SIPA rendered the Act inapplicable. The Court of Appeals for</p>
     <n id="p415">415</n>
     <p>the Sixth Circuit reversed. Since Guaranty had conducted 101 transactions after December 30, and the SEC did not move to prevent its carrying on business as a broker-dealer until January 6, it held that Guaranty qualified as a broker-dealer on the effective date of the Act. The court then rejected the SIPC's argument that the provision for SEC enforcement actions to compel the SIPC to perform its functions was meant to be exclusive of such actions by protected customers or their representative, and remanded the case for further proceedings. We granted certiorari, limited to the questions whether customers have an implied right of action to compel the SIPC to act, and, if so, whether a receiver has standing to maintain it. 419 U.S. 894 (1974). Since we now reverse the Court of Appeals on the ground that no implied right of action exists, we do not address the second question.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Following a period of great expansion in the 1960's, the securities industry experienced a business contraction that led to the failure or instability of a significant number of brokerage firms. Customers of failed firms found their cash and securities on deposit either dissipated or tied up in lengthy bankruptcy proceedings. In addition to its disastrous effects on customer assets and investor confidence, this situation also threatened a "domino effect" involving otherwise solvent brokers that had substantial open transactions with firms that failed. Congress enacted the SIPA to arrest this process, restore investor confidence in the capital markets, and upgrade the financial responsibility requirements for registered brokers and dealers. S.Rep. No. 91-1218, pp. 2-4 (1970); H.R.Rep. No. 91-1613, pp. 2-4 (1970).</p>
     <p>The Act apportions responsibility for these tasks among the SEC, the securities industry self-regulatory</p>
     <n id="p416">416</n>
@@ -51,7 +51,7 @@
     <n id="p418">418</n>
     <p>office of SIPC is located for an order requiring SIPC to discharge its obligations under [the Act] and for such other relief as the court may deem appropriate to carry out the purposes of [the Act]."</p>
     <p>It is against this background relationship between the SIPC and the SEC that we must approach the question whether, in addition to the Commission, a member's customers or their representative may seek in district court to compel the SIPC "to commit its funds or otherwise to act for the protection" of such customers.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The respondent contends that, since the SIPA does not, in terms, preclude a private cause of action at the instance of a member broker's customers, and since such customers are the intended beneficiaries of the Act, the Court should imply a right of action by which customers can compel the SIPC to discharge its obligations to them. As we said only last Term in analyzing a similar contention:</p>
     <p>"It goes without saying . . . that the inference of such a private cause of action not otherwise authorized by the statute must be consistent with the evident legislative intent and, of course, with the effectuation of the purposes intended to be served by the Act."</p>
     <p>Passenger Corp. v. Passengers Assn., <a href="../us414/us414-0453.xml#p453">414 U. S. 453</a>, <a href="../us414/us414-0453.xml#p457">414 U. S. 457</a>-458 (1974) (hereinafter Amtrak).</p>

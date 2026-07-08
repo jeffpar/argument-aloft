@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us460-0289.html" citation="460 U.S. 289" title="Block v. Neal">
   <opinion type="Opinions &amp; Dissents">
     <n id="p289">289</n>
-    <h>U.S. Supreme Court</h>
-    <h>Block v. Neal, <a href="./us460-0289.xml#p289">460 U.S. 289</a> (1983)</h>
-    <h>Block v. Neal</h>
-    <h>No. 81-1494</h>
-    <h>Argued January 19, 1983</h>
-    <h>Decided March 7, 1983</h>
-    <h><a href="./us460-0289.xml#p289">460 U.S. 289</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE SIXTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Block v. Neal, <a href="./us460-0289.xml#p289">460 U.S. 289</a> (1983)</h1>
+    <h2>Block v. Neal</h2>
+    <h2>No. 81-1494</h2>
+    <h4>Argued January 19, 1983</h4>
+    <h4>Decided March 7, 1983</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE SIXTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>In her complaint in the later-described action, respondent asserted the following facts. She obtained a loan from the Farmers Home Administration (FmHA) under the Housing Act of 1949 for the construction of a prefabricated house. She then contracted with a builder to construct the house. The contract required the work to conform to plans approved by FmHA and granted FmHA the right to inspect and test all materials and workmanship and reject any that were defective. During and at the completion of construction of the house, an FmHA official inspected the site and reported that the construction accorded with FmHA-approved drawings and specifications. After respondent moved into the house, she discovered, and FmHA officials identified, a number of defects. The builder refused to comply with FmHA's request to cure the defects in accordance with the builder's warranty, and FmHA declined to pay for certain defects. Respondent then brought an action in Federal District Court under the Federal Tort Claims Act (FTCA), alleging that the defects were partly attributable to FmHA's employees' failure properly to inspect and supervise construction of the house. The District Court dismissed the complaint for failure to state a claim on which relief could be granted. The Court of Appeals reversed, holding that the complaint stated a claim for negligence and that the action was not barred by 28 U.S.C. § 2680(h), which precludes recovery under the FTCA for "[a]ny claim arising out of . . . misrepresentation."</p>
     <p>Held: Respondent's claim did not "aris[e] out of . . . misrepresentation" within the meaning of § 2680(h), and thus is not barred by that provision, because respondent did not seek to recover on the basis of misstatements made by FmHA officials. United States v. Neustadt, <a href="../us366/us366-0696.xml#p696">366 U. S. 696</a>, distinguished. Although FmHA may have undertaken both to supervise construction of respondent's house and to provide her with information regarding the progress of construction, her action is based solely on the former conduct. The essence of an action for misrepresentation is the communication of misinformation on which the recipient relies. Here, the FmHA's duty to use due care to ensure that the builder adhered to the approved plans and cured all defects before completing construction was distinct from any duty to use due care in communicating information to respondent. Pp. <a href="./us460-0289.xml#p294">460 U. S. 294</a>-299.</p>
     <n id="p290">290</n>
@@ -19,7 +19,7 @@
     <p>MARSHALL, J., delivered the opinion of the Court, in which BRENNAN, WHITE, BLACKMUN, POWELL, REHNQUIST, STEVENS, and O'CONNOR, JJ., joined. BURGER, C.J., concurred in the judgment.</p>
     <p>JUSTICE MARSHALL delivered the opinion of the Court.</p>
     <p>The Secretary of Agriculture is authorized by Title V of the Housing Act of 1949, 63 Stat. 432, as amended, 42 U.S.C. § 1471 et seq. (1976 ed., and Supp. V), to extend financial and technical assistance through the Farmers Home Administration (FmHA) to low-income rural residents who seek to obtain housing. Respondent Onilea Neal, the recipient of an FmHA loan for the construction of a prefabricated house, brought this action under the Federal Tort Claims Act, 28 U.S.C. §§ 1346(b), 2671-2680. She alleged that defects discovered after she set up residence were partly attributable to the failure of FmHA employees properly to inspect and supervise construction of her house. This case presents the question whether respondent's action is barred by 28 U.S.C. § 2680(h), which precludes recovery under the Tort Claims Act for "[a]ny claim arising out of . . . misrepresentation."</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>A</p>
     <p>The facts described in respondent's complaint may be summarized as follows. Unable to obtain credit from other</p>
     <n id="p291">291</n>
@@ -39,7 +39,7 @@
     <p>The Court of Appeals then considered the question now before us: whether respondent's claim "aris[es] out of . . . misrepresentation," 28 U.S.C. § 2680(h), and is therefore excluded</p>
     <n id="p294">294</n>
     <p>from coverage by the Tort Claims Act. Distinguishing this case from others, including United States v. Neustadt, <a href="../us366/us366-0696.xml#p696">366 U. S. 696</a> (1961), the court concluded that respondent's negligence claim did not fall within this exception to the waiver of sovereign immunity. The Secretary of Agriculture and other Government officials petitioned for certiorari and suggested summary reversal on the ground that the decision below cannot be reconciled with this Court's decision in Neustadt. We granted the writ, 456 U.S. 988 (1982), and we now affirm.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The question before us is a narrow one. Petitioners argue only that respondent's claim is a claim of "misrepresentation" within the meaning of § 2680(h). They do not seek review of the threshold determination that respondent's complaint states a claim for negligence under the Good Samaritan doctrine that is otherwise actionable under 28 U.S.C. § 2674. Thus, we need not decide precisely what Neal must prove in order to prevail on her negligence claim, nor even whether such a claim lies. [<a id="nf3" href="#fn3">Footnote 3</a>] Nor are we called on to consider whether recovery is barred by any other provision of the Tort Claims Act, including the exception for any action "based upon the exercise or performance or the failure to exercise or perform a discretionary function." § 2680(a). Finally, we are not asked to determine whether the administrative remedy created by the Housing Act of 1949, 42 U.S.C. § 1479(c) (1976</p>
     <n id="p295">295</n>
     <p>ed., Supp. V), provides the exclusive remedy against the Government for damages attributable to the negligence of FmHA officials. [<a id="nf4" href="#fn4">Footnote 4</a>]</p>

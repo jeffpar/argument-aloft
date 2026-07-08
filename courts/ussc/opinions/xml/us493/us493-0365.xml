@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us493-0365.html" citation="493 U.S. 365" title="Guidry v. Sheet Metal Workers">
   <opinion type="Opinions &amp; Dissents">
     <n id="p365">365</n>
-    <h>U.S. Supreme Court</h>
-    <h>Guidry v. Sheet Metal Workers, <a href="./us493-0365.xml#p365">493 U.S. 365</a> (1990)</h>
-    <h>Guidry v. Sheet Metal Workers National Pension Fund</h>
-    <h>No. 88-1105</h>
-    <h>Argued Nov. 29, 1989</h>
-    <h>Decided Jan. 17, 1990</h>
-    <h><a href="./us493-0365.xml#p365">493 U.S. 365</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE TENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Guidry v. Sheet Metal Workers, <a href="./us493-0365.xml#p365">493 U.S. 365</a> (1990)</h1>
+    <h2>Guidry v. Sheet Metal Workers National Pension Fund</h2>
+    <h2>No. 88-1105</h2>
+    <h4>Argued Nov. 29, 1989</h4>
+    <h4>Decided Jan. 17, 1990</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE TENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner Guidry, a former official of respondent Union and trustee of one of respondent pension plans, pleaded guilty to embezzling funds from the Union in violation of § 501(c) of the Labor-Management Reporting and Disclosure Act of 1959 (LMRDA). Since his union employment had made him eligible for benefits from respondent plans, he filed suit in the District Court against two of the plans when they determined that he had forfeited his right to benefits as a result of his criminal activity. The Union intervened, joined the third p!an as a party, and stipulated with Guidry to the entry of a money judgment in its favor. The court rejected the funds' contention that Guidry had forfeited his right to benefits. It ruled, however, that a constructive trust in the Union's favor should be imposed on Guidry's pension benefits until the judgment was satisfied. Reading the Employment Retirement Income Security Act of 1974 (ERISA) in pari materia with, inter alia, the LMRDA -- which seeks to combat union officials' corruption and to protect membership interests -- the court concluded that a narrow exception to ERISA's prohibition on assignment or alienation of pension benefits, § 206(d)(1), is appropriate where "the viability of a union and the members' pension plans was damaged by the knavery of a union official." The Court of Appeals affirmed. Relying on ERISA § 409(a) -- which makes a faithless plan fiduciary personally liable for losses to the plan resulting from his breach and subjects him to other appropriate equitable or remedial relief -- the court concluded that § 206(d)(1) did not preclude the imposition of the constructive trust, deeming it unlikely that Congress intended to ignore equitable principles by protecting individuals such as Guidry from the consequences of their misconduct.</p>
     <p>Held: The constructive trust violates ERISA's prohibition on assignment or alienation of pension benefits. Pp. <a href="./us493-0365.xml#p371">493 U. S. 371</a>-377.</p>
     <p>(a) The constructive trust remedy is prohibited by § 206(d)(1) unless some exception to the general statutory ban is applicable. Cf. Mackey v. Lanier Collections Agency &amp; Service, Inc., <a href="../us486/us486-0825.xml#p825">486 U. S. 825</a>, <a href="../us486/us486-0825.xml#p836">486 U. S. 836</a>-837. <a href="./us493-0365.xml#p371">493 U. S.</a> 371-372.</p>
@@ -25,7 +25,7 @@
     <n id="p367">367</n>
     <p>Justice BLACKMUN delivered the opinion of the Court. <a href="./us493-0365.xml#p365">*</a></p>
     <p>Petitioner Curtis Guidry pleaded guilty to embezzling funds from his union. The union obtained a judgment against him for $275,000. The District Court imposed a constructive trust on Guidry's pension benefits, and the United States Court of Appeals for the Tenth Circuit affirmed that judgment. Petitioner contends that the constructive trust violates the statutory prohibition on assignment or alienation of pension benefits imposed by the Employee Retirement Income Security Act of 1974, 88 Stat. 829, as amended (ERISA), 29 U.S.C. §§ 1001 et seq. [<a id="nf1" href="#fn1">Footnote 1</a>]</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>From 1964 to 1981, petitioner Guidry was the chief executive officer of respondent Sheet Metal Workers International Association, Local 9 (Union). From 1977 to 1981, he was also a trustee of respondent Sheet Metal Workers Local No. 9 Pension Fund. Petitioner's employment made him eligible to receive benefits from three union pension funds. [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
     <p>In 1981, the Department of Labor reviewed the Union's internal accounting procedures. That review demonstrated that Guidry had embezzled substantial sums of money from the Union. See App. 20. This led to petitioner's resignation. A subsequent audit indicated that over $998,000 was missing. Id. at 26. In 1982, petitioner pleaded guilty to embezzling more than $377,000 from the Union, in violation of § 501(c) of the Labor-Management Reporting and Disclosure Act of 1959 (LMRDA), 73 Stat. 536, 29 U.S.C. § 501(c). [<a id="nf3" href="#fn3">Footnote 3</a>]</p>
     <n id="p368">368</n>
@@ -47,7 +47,7 @@
     <p>Id. at 1461. [<a id="nf8" href="#fn8">Footnote 8</a>]</p>
     <n id="p371">371</n>
     <p>Because Courts of Appeals have expressed divergent views concerning the availability of exceptions to ERISA's antialienation provision, [<a id="nf9" href="#fn9">Footnote 9</a>] we granted certiorari, 492 U.S. 904 (1989).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Both the District Court and the Court of Appeals presumed that § 206(d)(1) of ERISA erects a general bar to the garnishment of pension benefits from plans covered by the Act. This Court, also, indicated as much, although in dictum, in Mackey v. Lanier Collections Agency &amp; Service, Inc., <a href="../us486/us486-0825.xml#p825">486 U. S. 825</a> (1988). In Mackey, the Court held that ERISA does not bar the garnishment of welfare (e.g., vacation) benefits. In reaching that conclusion, it noted that § 206(d)(1) proscribes the assignment or alienation of pension plan benefits, but that no comparable provision applies to ERISA welfare benefit plans. Id. at <a href="../us486/us486-0825.xml#p836">486 U. S. 836</a>. It reasoned that</p>
     <p>"when Congress was adopting ERISA, it had before it a provision to bar the alienation or garnishment of ERISA plan benefits, and chose to impose that limitation only with respect to ERISA pension benefit plans, and not ERISA welfare benefit plans."</p>
     <p>Id. at <a href="../us486/us486-0825.xml#p837">486 U. S. 837</a> (emphasis in original). The view that the statutory restrictions on assignment or alienation of pension benefits apply to garnishment is consistent with applicable</p>

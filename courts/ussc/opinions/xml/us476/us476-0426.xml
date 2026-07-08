@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us476-0426.html" citation="476 U.S. 426" title="FDIC v. Philadelphia Gear Corp.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p426">426</n>
-    <h>U.S. Supreme Court</h>
-    <h>FDIC v. Philadelphia Gear Corp., <a href="./us476-0426.xml#p426">476 U.S. 426</a> (1986)</h>
-    <h>Federal Deposit Insurance Corporation v. Philadelphia Gear Corp.</h>
-    <h>No. 84-1972</h>
-    <h>Argued March 4, 1986</h>
-    <h>Decided May 27, 1986</h>
-    <h><a href="./us476-0426.xml#p426">476 U.S. 426</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE TENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>FDIC v. Philadelphia Gear Corp., <a href="./us476-0426.xml#p426">476 U.S. 426</a> (1986)</h1>
+    <h2>Federal Deposit Insurance Corporation v. Philadelphia Gear Corp.</h2>
+    <h4>No. 84-1972</h4>
+    <h4>Argued March 4, 1986</h4>
+    <h4>Decided May 27, 1986</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE TENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>On the application of a customer of respondent, a bank issued a standby letter of credit for respondent's benefit in the amount of $145,200. The letter of credit provided that a draft drawn upon it would be honored by the bank only if accompanied by respondent's signed statement that the customer had failed to make payment for invoiced goods. On the same day that the letter of credit was issued, the customer executed an unsecured promissory note in the bank's favor. The customer and the bank understood the liability on the note to be contingent on respondent's presenting drafts on the letter of credit after the customer's nonpayment. Subsequently, the bank was declared insolvent, and petitioner Federal Deposit Insurance Corporation (FDIC) was appointed its receiver. Respondent then presented to the FDIC drafts on the letter of credit for payment of over $700,000 worth of goods delivered to the customer before the bank became insolvent. When the drafts were returned unpaid, respondent sued the FDIC in Federal District Court, alleging that the letter of credit backed by a promissory note was an insured deposit under the definition of "deposit" in 12 U.S.C. § 1813(1)(1) as an unpaid balance of "money or its equivalent" received or held by a bank that, inter alia, is evidenced by a letter of credit, and that therefore respondent was entitled to $100,000 in deposit insurance, this being the maximum amount insured by the FDIC. The District Court agreed, and the Court of Appeals affirmed.</p>
     <p>Held: A standby letter of credit backed by a contingent promissory note does not give rise to an insured deposit. This has been the FDIC's longstanding interpretation, and such interpretation is consistent with Congress' purpose in creating federal deposit insurance to protect the assets and "hard earnings" that businesses and individuals have entrusted to banks. This purpose would not be furthered by extending deposit insurance to cover a standby letter of credit backed by a contingent promissory note, which involves no such surrender of assets or hard earnings to the bank's custody. In this case, the bank was not in possession of</p>
     <n id="p427">427</n>
@@ -20,7 +20,7 @@
     <p>O'CONNOR, J., delivered the opinion of the Court, in which BURGER, C.J., and BRENNAN, WHITE, POWELL, and STEVENS, JJ., joined. MARSHALL, J., filed a dissenting opinion, in which BLACKMUN and REHNQUIST, JJ., joined, post, p. <a href="./us476-0426.xml#p440">476 U. S. 440</a>.</p>
     <p>JUSTICE O'CONNOR delivered the opinion of the Court.</p>
     <p>We granted certiorari to consider whether a standby letter of credit backed by a contingent promissory note is insured as a "deposit" under the federal deposit insurance program. We hold that, in light of the longstanding interpretation of petitioner Federal Deposit Insurance Corporation (FDIC) that such a letter does not create a deposit and, in light of the fact that such a letter does not entrust any noncontingent assets to the bank, a standby letter of credit backed by a contingent promissory note does not give rise to an insured deposit.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Orion Manufacturing Corporation (Orion) was, at the time of the relevant transactions, a customer of respondent Philadelphia</p>
     <n id="p428">428</n>
     <p>Gear Corporation (Philadelphia Gear). On Orion's application, the Penn Square Bank, N.A. (Penn Square) issued a letter of credit for the benefit of Philadelphia Gear in the amount of $145,200. The letter of credit provided that a draft drawn upon the letter of credit would be honored by Penn Square only if accompanied by Philadelphia Gear's "signed statement that [it had] invoiced Orion Manufacturing Corporation and that said invoices have remained unpaid for at least fifteen (15) days." App. 25. Because the letter of credit was intended to provide payment to the seller only if the buyer of the invoiced goods failed to make payment, the letter of credit was what is commonly referred to as a "standby" or "guaranty" letter of credit. See, e.g., 12 CFR § 337.2(a), and n. 1 (1985) (defining standby letters of credit and mentioning that they may "guaranty' payment of a money obligation"). A conventional "commercial" letter of credit, in contrast, is one in which the seller obtains payment from the issuing bank without looking to the buyer for payment even in the first instance. See ibid. (distinguishing standby letters of credit from commercial letters of credit). See also Verkuil, Bank Solvency and Guaranty Letters of Credit, 25 Stan.L.Rev. 716, 717-724 (1973); Arnold &amp; Bransilver, The Standby Letter of Credit -- The Controversy Continues, 10 U.C.C.L.J. 272, 277-279 (Spring 1978).</p>
@@ -33,7 +33,7 @@
     <p>The Court of Appeals for the Tenth Circuit reversed the District Court's award of prejudgment interest, 751 F.2d at 1138-1139, but otherwise affirmed the District Court's decision. As to the definition of "deposit," the Court of Appeals held that a standby letter of credit backed by a promissory note fell within the terms of 12 U.S.C. § 1813(l)(1)'s definition</p>
     <n id="p430">430</n>
     <p>of "deposit," and was therefore insured. Id. at 1134-1138. We granted the FDIC's petition for certiorari on this aspect of the Court of Appeals' ruling. 474 U.S. 918 (1985). We now reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Title 12 U.S.C. § 1813(l)(1) provides:</p>
     <p>"The term 'deposit' means -- "</p>
     <p>"(1) the unpaid balance of money or its equivalent received or held by a bank in the usual course of business and for which it has given or is obligated to give credit, either conditionally or unconditionally, to a commercial . . . account, or which is evidenced by . . . a letter of credit or a traveler's check on which the bank is primarily liable: Provided, That, without limiting the generality of the term 'money or its equivalent,' any such account or instrument must be regarded as evidencing the receipt of the equivalent of money when credited or issued in exchange for checks or drafts or for a promissory note upon which the person obtaining any such credit or instrument is primarily or secondarily liable. . . ."</p>
@@ -91,7 +91,7 @@
     <p>Although the FDIC's interpretation of the relevant statute has not been reduced to a specific regulation, we conclude nevertheless that the FDIC's practice and belief that a standby letter of credit backed by a contingent promissory note does not create a "deposit" within the meaning of 12 U.S.C. § 1813(l)(1) are entitled in the circumstances of this case to the</p>
     <p>"considerable weight [that] should be accorded to an executive department's construction of a statutory scheme it is entrusted to administer."</p>
     <p><a href="../us467/us467-0837.xml#p837">Chevron U.S.A. Inc. v. Natural Resources Defense Council, Inc.</a>, <a href="../us467/us467-0837.xml#p837">467 U. S. 837</a>, <a href="../us467/us467-0837.xml#p844">467 U. S. 844</a> (1984). As we have stated above, the FDIC's interpretation here of a statutory definition adopted wholesale from the FDIC's own regulation is consistent with congressional purpose, and may certainly stand.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Philadelphia Gear essentially seeks to have the FDIC guarantee the contingent credit extended to Orion, not assets entrusted</p>
     <n id="p440">440</n>
     <p>to the bank by Philadelphia Gear or by Orion on Philadelphia Gear's behalf. With a standard "commercial" letter of credit, Orion would typically have unconditionally entrusted Penn Square with funds before Penn Square would have written the letter of credit, and thus Orion would have lost something if Penn Square became unable to honor its obligations. As the FDIC concedes, deposit insurance extends to such a letter of credit backed by an uncontingent promissory note. See Tr. of Oral Arg. 8 (statement of Mr. Rothfeld, representing the FDIC) ("If this note were a fully uncontingent negotiable note that were not limited by any side agreements, it would be a note backing a letter of credit within the meaning of the statute"). See also id. at 17-18. But here, with a standby letter of credit backed by a contingent promissory note, Penn Square was not in possession of any of Orion's or Philadelphia Gear's assets when it went into receivership. Nothing was ventured, and therefore no insurable deposit was lost. We believe that, whatever the relevant State's definition of "letter of credit" or "promissory note," Congress did not, by using those phrases in 12 U.S.C. § 1813(l)(1), intend to protect with deposit insurance a standby letter of credit backed only by a contingent promissory note. We thus hold that such an arrangement does not give rise to a "deposit" under 12 U.S.C. § 1813(l)(1).</p>

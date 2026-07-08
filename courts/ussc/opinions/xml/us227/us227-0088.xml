@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us227-0088.html" citation="227 U.S. 88" title="ICC v. Louisville &amp;amp; Nashville R. Co.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p88">88</n>
-    <h>U.S. Supreme Court</h>
-    <h>ICC v. Louisville &amp; Nashville R. Co., <a href="./us227-0088.xml#p88">227 U.S. 88</a> (1913)</h>
-    <h>Interstate Commerce Commission v.</h>
-    <h>Louisville &amp; Nashville Railroad Company</h>
-    <h>No. 600</h>
-    <h>Argued October 17, 18, 1912</h>
-    <h>Decided January 20, 1913</h>
-    <h><a href="./us227-0088.xml#p88">227 U.S. 88</a></h>
-    <h>APPEAL FROM THE UNITED STATES COMMERCE COURT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>ICC v. Louisville &amp; Nashville R. Co., <a href="./us227-0088.xml#p88">227 U.S. 88</a> (1913)</h1>
+    <h2>Interstate Commerce Commission v.</h2>
+    <h2>Louisville &amp; Nashville Railroad Company</h2>
+    <h2>No. 600</h2>
+    <h4>Argued October 17, 18, 1912</h4>
+    <h4>Decided January 20, 1913</h4>
+    <h2>APPEAL FROM THE UNITED STATES COMMERCE COURT</h2>
+    <h2>Syllabus</h2>
     <p>The Act to Regulate Commerce, as amended by the Hepburn Act, gives a right to a full hearing on the subject of rates, and that confers the privilege of introducing testimony and imposes the duty of deciding in accordance with the facts proved.</p>
     <p>A finding without evidence is arbitrary and useless, and an act of Congress granting authority to any body to make a finding without evidence would be inconsistent with justice, and an exercise of arbitrary power condemned by the Constitution.</p>
     <p>Administrative orders quasi-judicial in character are void if a hearing is denied; if the hearing granted is manifestly unfair, if the finding is indisputably contrary to the evidence, or if the facts found do not, as matter of law, support the order made.</p>
@@ -53,7 +53,6 @@
     <p>Under the Cooley award the tariff on Class 3 had been fixed as follows:</p>
     <p>New Orleans to Mobile (local) . . . . 25</p>
     <p>Mobile to Montgomery (local). . . . . 30</p>
-    <p>__</p>
     <p>Combination of locals . . . . . . . . 55</p>
     <p>But while these locals aggregated only 55 cents, there was at the same time, a through rate:</p>
     <p>New Orleans to Montgomery . . . . . . 68</p>

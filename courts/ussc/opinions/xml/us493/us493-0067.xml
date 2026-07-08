@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us493-0067.html" citation="493 U.S. 67" title="Breininger v. SMW Int'l">
   <opinion type="Opinions &amp; Dissents">
     <n id="p67">67</n>
-    <h>U.S. Supreme Court</h>
-    <h>Breininger v. SMW Int'l, <a href="./us493-0067.xml#p67">493 U.S. 67</a> (1989)</h>
-    <h>Breininger v. Sheet Metal Workers International</h>
-    <h>Association Local Union No. 6</h>
-    <h>No. 88-124</h>
-    <h>Argued Oct. 10, 1989</h>
-    <h>Decided Dec. 5, 1989</h>
-    <h><a href="./us493-0067.xml#p67">493 U.S. 67</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE SIXTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Breininger v. SMW Int'l, <a href="./us493-0067.xml#p67">493 U.S. 67</a> (1989)</h1>
+    <h2>Breininger v. Sheet Metal Workers International</h2>
+    <h2>Association Local Union No. 6</h2>
+    <h2>No. 88-124</h2>
+    <h4>Argued Oct. 10, 1989</h4>
+    <h4>Decided Dec. 5, 1989</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE SIXTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Pursuant to a multi-employer collective bargaining agreement, respondent union operates a hiring hall through which it refers both members and nonmembers for work at the request of employers. The hiring hall is "nonexclusive," in that workers are free to seek employment through other means, and employers are not restricted to hiring persons recommended by the union. Petitioner, a member of the union, filed suit alleging that respondent: (1) violated §§ 101(a)(5) and 609 of the Labor-Management Reporting and Disclosure Act of 1959 (LMRDA) -- which forbid a union to "fine, suspend, expe[l] or otherwise discipline" a member for exercising LMRDA-secured rights -- by refusing to refer him through the hiring hall as a result of his political opposition to respondent's leadership; and (2) breached its duty of fair representation under the National Labor Relations Act (NLRA) by discriminating against him in respect to such referrals. The District Court dismissed the suit on the ground that discrimination in hiring hall referrals constitutes an unfair labor practice subject to the exclusive jurisdiction of the National Labor Relations Board (NLRB or Board). The Court of Appeals affirmed, ruling that fair representation claims must be brought before the Board, and that petitioner had failed to state a claim under the LMRDA.</p>
     <p>Held:</p>
     <p>1. The District Court did not lack jurisdiction over petitioner's fair representation suit. Pp. <a href="./us493-0067.xml#p73">493 U. S. 73</a>-90.</p>
@@ -30,7 +30,7 @@
     <p>This case presents two questions under the federal labor laws: first, whether the National Labor Relations Board (NLRB or Board) has exclusive jurisdiction over a union member's claims that his union both breached its duty of fair representation and violated the Labor-Management Reporting and Disclosure Act of 1959, (LMRDA), 73 Stat. 519, 29 U.S.C. § 401 et seq. (1982 ed.), by discriminating against him in job referrals made by the union hiring hall; and second, whether the union's alleged refusal to refer him to employment through the hiring hall as a result of his political opposition to the union's leadership gives rise to a claim under §§ 101(a)(5) and 609 of the LMRDA, 29 U.S.C. §§ 411(a)(5), 529 (1982 ed.). The Court of Appeals for the Sixth Circuit held that petitioner's suit fell within the exclusive jurisdiction of the Board, and that petitioner had failed to state a claim</p>
     <n id="p71">71</n>
     <p>under the LMRDA. 849 F.2d 997 (1988) (per curiam). We reverse the Court of Appeals' decision as to jurisdiction, but we affirm its holding that petitioner did not state a claim under LMRDA §§ 101(a)(5) and 609.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Petitioner Lynn L. Breininger was at all relevant times a member of respondent, Local Union No. 6 of the Sheet Metal Workers International Association. Pursuant to a multi-employer collective bargaining agreement, respondent operates a hiring hall through which it refers both members and nonmembers of the union for construction work. Respondent maintains an out-of-work list of individuals who wish to be referred to jobs. When an employer contacts respondent for workers, he may request certain persons by name. If he does not, the union begins at the top of the list and attempts to telephone in order each worker listed until it has satisfied the employer's request. The hiring hall is not the exclusive source of employment for sheet metal workers; they are free to seek employment through other mechanisms, and employers are not restricted to hiring only those persons recommended by the union. [<a id="nf1" href="#fn1">Footnote 1</a>] Respondent also maintains a job referral list under the Specialty Agreement, a separate collective bargaining agreement negotiated to cover work on siding, decking, and metal buildings.</p>
     <p>Petitioner alleges that respondent refused to honor specific employer requests for his services and passed him over in making job referrals. He also contends that respondent refused to process his internal union grievances regarding</p>
     <n id="p72">72</n>
@@ -45,7 +45,7 @@
     <p>that</p>
     <p>"[h]iring hall referrals are not a function of union membership, since referrals are available to nonmembers as well as members."</p>
     <p>Ibid. We granted certiorari. 489 U.S. 1009 (1989).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>A</p>
     <p>We have long recognized that a labor organization has a statutory duty of fair representation under the National Labor Relations Act (NLRA), 49 Stat. 449, as amended, 29 U.S.C. § 151 et seq.,</p>
     <p>"to serve the interests of all members without hostility or discrimination toward any, to exercise its discretion with complete good faith and honesty, and to avoid arbitrary conduct."</p>
@@ -139,7 +139,7 @@
     <p>Teamsters v. NLRB, 365 U.S. at <a href="../us365/us365-0667.xml#p674">365 U. S. 674</a> (quoting S.Rep. No. 1827, 81st Cong., 2d Sess., 14 (1947)); see also Note, Unilateral Union Control of Hiring Halls: The Wrong and the Remedy, 70 Yale L.J. 661, 674 (1961). In sum, if a union does wield additional power in a hiring hall by assuming the employer's role, its responsibility to exercise that power fairly increases, rather than decreases. That has been the logic of our duty of fair representation cases since Steele v. Louisville &amp; Nashville R. Co., 323 U.S. at <a href="../us323/us323-0192.xml#p200">323 U. S. 200</a>. [<a id="nf12" href="#fn12">Footnote 12</a>]</p>
     <n id="p90">90</n>
     <p>We reject respondent's contention that petitioner's complaint fails to state a fair representation claim.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The Court of Appeals rejected petitioner's LMRDA claim on the ground that petitioner had failed to show that he was "otherwise disciplined" within the meaning of LMRDA §§ 101(a)(5) and 609, 29 U.S.C. §§ 411(a)(5) and 529 (1982 ed.). These provisions make it unlawful for a union to "fine, suspend, expel or otherwise discipline" any of its members for exercising rights secured under the LMRDA. [<a id="nf13" href="#fn13">Footnote 13</a>] The Court of Appeals reasoned that because "[h]iring hall referrals . . . are available to nonmembers as well as to members," 849 F.2d at 999, and the hiring hall was not an exclusive source of employment for sheet metal workers, petitioner did not suffer discrimination on the basis of rights he held by virtue of his membership in the union. We affirm the Court of Appeals' conclusion, although we do not adopt its reasoning. [<a id="nf14" href="#fn14">Footnote 14</a>]</p>
     <p>In Finnegan v. Leu, <a href="../us456/us456-0431.xml#p431">456 U. S. 431</a> (1982), we held that removal from appointive union employment is not within the scope of § 609's prohibitions, because that section was</p>
     <p>"meant to refer only to punitive actions diminishing membership rights, and not to termination of a member's status as an appointed union employee."</p>
@@ -160,7 +160,7 @@
     <p>Senate believed that the two were distinct, and that it did not intend to include the type of unauthorized "economic reprisals" suffered by petitioner in the instant case in its definition of "discipline." The bipartisan compromise bill introduced by Representatives Landrum and Griffin, which amended S. 1555 after its passage by the Senate, substituted civil remedies for the criminal penalties. Rep. Griffin explained that the bill covered only the "denial of . . . rights through union discipline," 105 Cong.Rec. 13091 (1959) (emphasis added), an apparent reference to penalties imposed by the union in its official capacity as a labor organization. Discipline "must be done in the name of or on behalf of the union as an organizational entity." Etelson &amp; Smith, Union Discipline Under the Landrum-Griffin Act, 82 Harv.L.Rev. 727, 732 (1969).</p>
     <p>In the instant case, petitioner alleged only that the union business manager and business agent failed to refer him for employment because he supported one of their political rivals. He did not allege acts by the union amounting to "discipline" within the meaning of the statute. According to his complaint, he was the victim of the personal vendettas of two union officers. The opprobrium of the union as an entity, however, was not visited upon petitioner. He was not punished by any tribunal, nor was he the subject of any proceedings convened by respondent. In sum, petitioner has not alleged a violation of §§ 101(a)(5) and 609, and the Court of Appeals correctly dismissed his claim under the LMRDA. [<a id="nf18" href="#fn18">Footnote 18</a>]</p>
     <n id="p95">95</n>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>We express no view regarding the merits of petitioner's claim. We hold only that the Court of Appeals erred when it determined that the District Court lacked jurisdiction over the suit, but that the Court of Appeals correctly found that petitioner failed to state a claim under §§ 101(a)(5) and 609 of the LMRDA. We remand the cause for further proceedings consistent with this opinion.</p>
     <p>It is so ordered.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>

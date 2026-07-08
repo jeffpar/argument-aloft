@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us379-0378.html" citation="379 U.S. 378" title="United States v. First National City Bank">
   <opinion type="Opinions &amp; Dissents">
     <n id="p378">378</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. First National City Bank, <a href="./us379-0378.xml#p378">379 U.S. 378</a> (1965)</h>
-    <h>United States v. First National City Bank</h>
-    <h>No. 59</h>
-    <h>Argued November 16, 1964</h>
-    <h>Decided January 18, 1965</h>
-    <h><a href="./us379-0378.xml#p378">379 U.S. 378</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SECOND CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. First National City Bank, <a href="./us379-0378.xml#p378">379 U.S. 378</a> (1965)</h1>
+    <h2>United States v. First National City Bank</h2>
+    <h2>No. 59</h2>
+    <h4>Argued November 16, 1964</h4>
+    <h4>Decided January 18, 1965</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SECOND CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>The Commissioner of Internal Revenue, having made jeopardy assessments of some $19,000,000 against a Uruguayan corporation, served with notices of levy and of federal tax lien respondent bank in New York, in whose Montevideo branch the corporation maintained a deposit. Concurrently, petitioner brought a foreclosure action in Federal District Court against the corporation, respondent, and others, pending determination of which an injunction was sought against transfer by respondent of any property or rights held for the corporation's account. Respondent, but not the corporation, was personally served. The District Court granted a temporary injunction under 26 U.S.C. § 7402(a), which gives district courts power to grant injunctions "necessary or appropriate for the enforcement of the internal revenue laws," and the Court of Appeals reversed.</p>
     <p>Held: The District Court has jurisdiction to preserve the status quo and prevent further dissipation of assets by issuing its temporary injunction "freezing" the corporation's account in respondent's foreign branch pending personal service on the corporation. Pp. <a href="./us379-0378.xml#p381">379 U. S. 381</a>-385.</p>
     <p>(a) Rules 4(e) and (f) of the Federal Rules of Civil Procedure provide for service in accordance with a state statute of a noninhabitant or person not found in the State. P. <a href="./us379-0378.xml#p381">379 U. S. 381</a>.</p>
@@ -75,7 +75,7 @@
       <p>The Service did persist. On October 31, 1962, it issued jeopardy assessments against Omar totaling $19,300,000, and, on the same day, filed a complaint in the District Court for the Southern District of New York naming as defendants Omar, the brokerage houses with which Omar had dealt, and several banks, including the First National City Bank (hereinafter Citibank), which is the respondent here. By this time, Omar had in large part succeeded in liquidating its securities and transferring the funds out of the country. Some of the funds were apparently transferred to Citibank's branch in Montevideo, Uruguay, and were on deposit there on the day the complaint was filed. As part of the relief sought, the Government asked the District Court to "freeze" this account (we are not informed as to its size) until such time as personal jurisdiction could be obtained over Omar. Citibank contested the authority of the court to make such an order on the ground that the account had its situs in Montevideo, and was therefore beyond the jurisdiction of the court. Personal jurisdiction over Omar had not been obtained at the time the complaint was filed, and has not been obtained in the two years since. Omar is thus not a party to the present litigation. Personal jurisdiction over Citibank was obtained by service upon its home office at 55 Wall Street, New York City.</p>
       <n id="p387">387</n>
       <p>The issue presented by the case is: did the Federal District Court have jurisdiction to freeze the account in Montevideo by enjoining Citibank from transferring any property or rights to property held therein for Omar? The Government argues that jurisdiction could stem from either of two sources: jurisdiction quasi in rem over the debt owing from Citibank's Montevideo branch to Omar, or personal jurisdiction over Citibank, which is capable of controlling the debt even though its situs may be outside the court's jurisdiction. Despite its enigmatic and unsupported statement that "there is here property which would be the subject of the provisions of any final decree in the cause,'" ante, p. <a href="./us379-0378.xml#p385"> 379 U. S. 385</a>, the Court does not decide the quasi in rem issue on which the District Court relied. The opinion rests entirely on the personal jurisdiction theory. Both theories are, in my view, demonstrably insufficient.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>PERSONAL JURISDICTION.</p>
       <p>The Court upholds the freeze order on the basis that the District Court, pending acquisition of personal jurisdiction over Omar, had authority to enjoin Citibank (over which it did have personal jurisdiction) from allowing its Montevideo branch to transfer the funds to Omar.</p>
       <p>There can be no doubt that the enforcement powers available to the District Court were adequate to accomplish that much of the end in view. Citibank was before the court. It had sufficient control over the Montevideo branch to require compliance with the freeze order, and, if it did not exercise that control, the sanctions of contempt could be inflicted on officers and property of Citibank within the New York district. [Footnote 2/2] But "jurisdiction" is not</p>
@@ -114,7 +114,7 @@
       <p>international practice (which Uruguay presumably follows) do not enforce foreign tax judgments. [Footnote 2/16] Therefore, Uruguay would undoubtedly not consider valid a demand made by the court-appointed officer for the property within Uruguayan borders. If the refusal to pay the court officer is proper under the Uruguayan law which governs the contract, there can be no breach which would give rise to a cause of action in New York, Zimmermann v. Sutherland, <a href="../us274/us274-0253.xml#p253">274 U. S. 253</a>.</p>
       <p>Furthermore, the prospect is more than startling that a district court, aware that a foreign country would not enforce its judgment, would nonetheless dispatch a court officer to the foreign jurisdiction to accomplish that end by self-help. [Footnote 2/17]</p>
       <n id="p397">397</n>
-      <h>II</h>
+      <h2>II</h2>
       <p>THE DE BEERS AND DECKERTS CASES</p>
       <p>It is surprising that the Court has been content to so cursorily lay aside De Beers Consolidated Mines, Ltd. v. United States, <a href="../us325/us325-0212.xml#p212">325 U. S. 212</a>, for, upon examination, that case will be found to be indistinguishable from the present case, and should control this litigation on the personal jurisdiction issue.</p>
       <p>The United States brought a Sherman antitrust action against De Beers and other African-based diamond companies alleging monopolization and conspiracy in restraint of trade. All were allegedly doing business within the United States. With the complaint, the Government requested a preliminary injunction freezing all property in the United States belonging to the defendants. As stated in the opinion, the reasons given in support of the motion were:</p>
@@ -129,7 +129,7 @@
       <p>whatever its cause, and, in terms of remoteness, the case before us argues even stronger than De Beers against the issuance of what amounts to an interim sequestration order. The principles of De Beers should govern this litigation. [Footnote 2/18]</p>
       <p>The Government puts forth Deckert v. Independence Shares Corp., <a href="../us311/us311-0282.xml#p282">311 U. S. 282</a>, instead of De Beers as the case most analogous to the present one. In Deckert, a bill in equity was brought against an insolvent and allegedly fraudulent securities vendor and against a third party who held assets of the vendor. By way of interlocutory relief, the plaintiffs asked that the assets in the hands of the third party be frozen, and this Court sustained the request. Distinguishing features are many. Deckert involved no international problems. The court had personal jurisdiction over all parties concerned. There was no question of power to enforce a judgment against the frozen funds. The only contingency on which enforcement depended was whether the plaintiff would win the suit; thus, there was virtually no problem of remoteness. And, unlike the present case (see infra, pp. <a href="./us379-0536.xml#p542">379 U. S. 542</a>-545), the frozen funds could have been attached directly by a suit quasi in rem in a state court. [Footnote 2/19]</p>
       <n id="p400">400</n>
-      <h>III</h>
+      <h2>III</h2>
       <p>THE OVERALL BALANCE OF EQUITIES, AND CONSIDERATIONS</p>
       <p>AFFECTING JURISDICTION [Footnote 2/20]</p>
       <p>Certainly the Court's remark that it must act in light of the "public interest" cannot mean that, because the Government is a party here, the Court may ignore its duty to consider the balance of equities. It is, therefore, well to consider just what overall benefits will accrue in the public interest as a result of today's decision.</p>
@@ -152,7 +152,7 @@
       <p>The Court should not lose sight of the fact that our modern notions of substituted service and personal jurisdiction</p>
       <n id="p404">404</n>
       <p>were developed within a framework of States whose various processes are governed by the Due Process Clause and whose judgments must be given full faith and credit by the other States within the federal structure. Great care and reserve should be exercised when extending our notions of personal jurisdiction into the international field, both as a basis for asserting federal judicial power with respect to property in foreign countries and for permitting property in this country to be tied up by foreign courts.</p>
-      <h>IV</h>
+      <h2>IV</h2>
       <p>QUASI IN REM JURISDICTION</p>
       <p>There remains for consideration the quasi in rem issue, which the Government argues but which the Court chooses not to decide. Whether the District Court had quasi in rem jurisdiction turns on whether Omar had property or rights to property within the Southern District of New York to which a federal lien could attach. [Footnote 2/26]</p>
       <n id="p405">405</n>

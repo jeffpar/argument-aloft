@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us417-0211.html" citation="417 U.S. 211" title="Anderson v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p211">211</n>
-    <h>U.S. Supreme Court</h>
-    <h>Anderson v. United States, <a href="./us417-0211.xml#p211">417 U.S. 211</a> (1974)</h>
-    <h>Anderson v. United States</h>
-    <h>No. 73-346</h>
-    <h>Argued March 19, 1974</h>
-    <h>Decided June 3, 1974</h>
-    <h><a href="./us417-0211.xml#p211">417 U.S. 211</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE FOURTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Anderson v. United States, <a href="./us417-0211.xml#p211">417 U.S. 211</a> (1974)</h1>
+    <h2>Anderson v. United States</h2>
+    <h2>No. 73-346</h2>
+    <h4>Argued March 19, 1974</h4>
+    <h4>Decided June 3, 1974</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE FOURTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>For having conspired to cast fictitious votes for federal, state, and local candidates in a West Virginia primary election, petitioners were convicted of violating 18 U.S.C. § 241, which makes it unlawful to conspire to injure any citizen in the free exercise or enjoyment of any right or privilege secured by the Constitution or laws of the United States. At the trial, over petitioners' objections, certain statements made by two of the petitioners at a local election contest hearing held after the election results had been certified on May 27, 1970, were admitted in evidence against all the petitioners to prove that the two petitioners making the statements had perjured themselves at the election contest hearing. On appeal, the petitioners contended for the first time that § 241 was limited to conspiracies to cast false votes in federal elections, and that, accordingly, the conspiracy charged in their case, as far as federal jurisdiction was concerned, ended on May 27, so that subsequent out-of-court statements could not have furthered any § 241 conspiracy, and hence should not have been admitted in evidence. The Court of Appeals rejected these contentions, and affirmed the convictions.</p>
     <p>Held:</p>
     <p>1. The out-of-court statements were admissible under basic principles of the law of evidence and conspiracy, regardless of whether or not § 241 encompasses conspiracies to cast fraudulent votes in state and local elections. Pp. <a href="./us417-0211.xml#p214">417 U. S. 214</a>-222.</p>
@@ -35,7 +35,7 @@
     <n id="p214">214</n>
     <p>cast for the candidate of one's choice in wholly state elections."</p>
     <p>481 F.2d 685, 700-701 (CA4 1973). We granted certiorari to consider this question. 414 U.S. 1091 (1973). It now appears, however, that the out-of-court statements at issue were admissible under basic principles of the law of evidence and conspiracy, regardless of whether or not § 241 encompasses conspiracies to cast fraudulent votes in state and local elections. Accordingly, we affirm the judgment of the Court of Appeals without passing on its interpretation of § 241.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The underlying facts are not in dispute. On May 12, 1970, a primary election was held in West Virginia for the purpose of nominating candidates for the United States Senate, United States House of Representatives, and various state and local offices. One of the nominations most actively contested in Logan County was the Democratic nomination for County Commissioner, an office vested with a wide variety of legislative, executive, and judicial powers. [<a id="nf1" href="#fn1">Footnote 1</a>] Among the several candidates for the Democratic nomination for this office were the incumbent, Okey Hager, and his major opponent, Neal Scaggs.</p>
     <p>Petitioners are state or county officials, including the Clerk of the Logan County Court, the Clerk of the County Circuit Court, the Sheriff and Deputy Sheriff of the County, and a State Senator. The evidence at trial showed that, by using the power of their office, the petitioners convinced three election officials in charge of the Mount Gay precinct in Logan County to cast false and fictitious votes on the voting machines and then to</p>
     <n id="p215">215</n>
@@ -65,7 +65,7 @@
     <n id="p222">222</n>
     <p>to win his respective nomination, a key issue in this prosecution, accepting for the sake of argument petitioners' view of § 241, was whether and why petitioners conspired to have false votes cast for these federal candidates. The fact that two of the petitioners perjured themselves at an election contest in which the Mount Logan votes for Hager were at stake helped prove the underlying motive of the conspiracy, by demonstrating that the false votes for federal officers were not an end in themselves, but rather part of a conspiracy to obtain Hager's nomination through unlawful means. The jury could have inferred that the petitioners were motivated in casting false federal ballots by the need to conceal the fraudulent votes for Hager, since the casting of large numbers of false ballots for County Commissioner would likely have aroused suspicion in the absence of the casting of a similar number of false votes for the other offices at issue in the election.</p>
     <p>Even if the federal conspiracy ended on May 27, then, the Tomblin and Browning election contest testimony was relevant to prove the offense charged. Accordingly, in order to rule on petitioners' challenge to the admissibility of this evidence, there was no need for the Court of Appeals, and there is no need for us, to decide whether petitioners' conspiracy ended on May 27 for purposes of federal jurisdiction or whether § 241 applies to conspiracies to cast fraudulent votes in local elections.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Petitioners argue, however, that the evidence at trial was insufficient to show that they had engaged in a conspiracy to cast false votes for the federal officers, and that their convictions under § 241 can stand only if we hold that section applicable to a conspiracy to cast false votes</p>
     <n id="p223">223</n>
     <p>in a local election. [<a id="nf12" href="#fn12">Footnote 12</a>] Our examination of the record leads us to conclude otherwise.</p>
@@ -140,7 +140,7 @@
       <p>part to cast false votes in a state or local election. 481 F.2d at 698-700. The Court today avoids the issue squarely presented by petitioners and by the decision of the Court of Appeals, concluding that it need not reach the issue because the evidence "bears out the verdict that each of the petitioners engaged in the conspiracy with the intent of having false votes cast for . . . federal officers."</p>
       <p>After reviewing the record, I am left with the opinion that the Court, in affirming on the theory that petitioners agreed as a part of their conspiracy to have false votes cast for federal candidates, is convicting the petitioners for an offense for which they were not found guilty by the jury. The instructions to the jury were phrased in a fashion which did not require it to find intent to have false votes cast for federal candidates, so that there is, in truth, no "verdict" to that effect. The evidence of intent to have false votes cast for federal candidates is hardly conclusive, so that the failure of the charge to require such a finding could not be deemed harmless error. Fed.Rule Crim.Proc. 52(a).</p>
       <p>Because it is not clear that petitioners intended that fraudulent votes be cast for federal candidates, and because I believe that § 241 does not reach conspiracies to abscond with state elections, absent the element of racial discrimination, I dissent. The jury instructions, in allowing the jury to convict without finding a conspiracy to interfere with the federal electoral process, were improper, and the error was not harmless.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>On May 12, 1970, a primary election was held in West Virginia for the purpose of nominating candidates for the United States Senate and House of Representatives and for various state and local offices, including that of County Commissioner for Logan County. The incumbent Commissioner,</p>
       <n id="p230">230</n>
       <p>Okey Hager, and his challenger, Neal Scaggs, were engaged in a bitter contest for the Democratic nomination for Commissioner. The petitioners, including Okey Hager's son Red Hager, induced election officials, including Cecil Elswick, who later testified for the Government at this trial, to cast false votes for the Okey Hager slate on the voting machines in the Mount Gay, West Virginia, precinct. There is no evidence that the Okey Hager slate included any nominees for federal offices. As the Court acknowledges,</p>
@@ -177,7 +177,7 @@
       <n id="p236">236</n>
       <p>it is the jury's province, not ours, to determine whether there was specific intent to cast such votes.</p>
       <p>The slenderness of the reed on which the Court's affirmance of these convictions rests is demonstrated by its assertions that the jury "could believe" that the lack of discussion of federal ballots only reflected an "assumption" by petitioners that such ballots would have to be cast, and that the jury "could have inferred" that petitioners were motivated by the need to cast false federal ballots to conceal fraudulent local votes. But whether the jury "could have inferred" or "could [have] believe[d]" that there was sufficient proof of specific intent to cast false federal ballots in the evidence in this case misses the point, because the jury was never required to make this finding in order to convict. The jury verdict is not to be accorded its traditional sanctity when it is premised on erroneous instructions. See Burton v. United States, <a href="../us202/us202-0344.xml#p344">202 U. S. 344</a>, <a href="../us202/us202-0344.xml#p373">202 U. S. 373</a>-374. The jury has never passed on the question of petitioners' intent while guided by proper instructions. While circumstantial evidence may lead a jury to infer specific intent to interfere with a right protected by § 241, the weighing of the evidence should be the jury's task, not that of this Court. There was, in fact, no "verdict" that petitioners conspired to have false votes cast in the federal election, and the sparse circumstantial evidence in this case makes it impossible for me to conclude, as does the Court, that such a verdict was inevitable, so that the error in jury instructions was harmless. At the very least, justice requires that this case be remanded for a new trial.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>Because I cannot agree that the evidence showed that petitioners necessarily conspired with the specific intent of having false votes cast for federal candidates, I could</p>
       <n id="p237">237</n>
       <p>affirm only if § 241 reached a conspiracy by local officials to cast fraudulent votes in nominating candidates for local offices where, as here, there was no evidence of racial discrimination. I do not, however, believe that § 241 can properly be construed in such a fashion.</p>

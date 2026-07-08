@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us400-0074.html" citation="400 U.S. 74" title="Dutton v. Evans">
   <opinion type="Opinions &amp; Dissents">
     <n id="p74">74</n>
-    <h>U.S. Supreme Court</h>
-    <h>Dutton v. Evans, <a href="./us400-0074.xml#p74">400 U.S. 74</a> (1970)</h>
-    <h>Dutton v. Evans</h>
-    <h>No. 10</h>
-    <h>Argued October 15, 1969</h>
-    <h>Reargued October 15, 1970</h>
-    <h>Decided December 15, 1970</h>
-    <h><a href="./us400-0074.xml#p74">400 U.S. 74</a></h>
-    <h>APPEAL FROM THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE FIFTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Dutton v. Evans, <a href="./us400-0074.xml#p74">400 U.S. 74</a> (1970)</h1>
+    <h2>Dutton v. Evans</h2>
+    <h2>No. 10</h2>
+    <h4>Argued October 15, 1969</h4>
+    <h4>Reargued October 15, 1970</h4>
+    <h4>Decided December 15, 1970</h4>
+    <h2>APPEAL FROM THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE FIFTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Appellee was convicted of first-degree murder following a trial in which one Shaw testified, over objection, concerning a statement Williams (an alleged accomplice) had made in the prison where both were incarcerated, after Williams' return there from his arraignment, that, had it not been for appellee, "we wouldn't be in this now." There were 19 other prosecution witnesses, one of whom (another alleged accomplice) gave detailed eyewitness testimony of the crime and the participation of the appellee and Williams therein. Shaw's testimony was admitted under a Georgia statute which, as construed by the Georgia Supreme Court, allows into evidence a coconspirator's out-of-court statement made during the concealment phase of the conspiracy. Following affirmance of the conviction by the Georgia Supreme Court, appellee brought this habeas corpus proceeding in federal court. The District Court denied the writ, but the Court of Appeals reversed, holding that the Georgia statute violated appellee's right to confrontation secured by the Sixth and Fourteenth Amendments. Appellee contends that the Georgia hearsay exception is unconstitutional, since it differs from the hearsay exception applicable to conspiracy trials in the federal courts, which applies only if the out-of-court statement of a coconspirator was made in the course of and in furtherance of the conspiracy.</p>
     <p>Held: The judgment is reversed. Pp. <a href="./us400-0074.xml#p80">400 U. S. 80</a>-90; <a href="./us400-0074.xml#p93">400 U. S. 93</a>-100.</p>
     <p>400 F.2d 826, reversed.</p>
@@ -46,7 +46,7 @@
     <p>"the Sixth Amendment's right of an accused to confront the witnesses against him is . . . a fundamental right . . . made obligatory on the States by the Fourteenth Amendment."</p>
     <p>Pointer v. Texas, <a href="../us380/us380-0400.xml#p400">380 U. S. 400</a>, <a href="../us380/us380-0400.xml#p403">380 U. S. 403</a>. See also Douglas v. Alabama, <a href="../us380/us380-0415.xml#p415">380 U. S. 415</a>; Brookhart v. Janis, 384 U.S. l; Barber v. Page, <a href="../us390/us390-0719.xml#p719">390 U. S. 719</a>; Roberts v. Russell, <a href="../us392/us392-0293.xml#p293">392 U. S. 293</a>; Illinois v. Allen, <a href="../us397/us397-0337.xml#p337">397 U. S. 337</a>; California v. Green, <a href="../us399/us399-0149.xml#p149">399 U. S. 149</a>. But that is no more than the beginning of our inquiry.</p>
     <n id="p80">80</n>
-    <h>I</h>
+    <h2>I</h2>
     <p>It is not argued, nor could it be, that the constitutional right to confrontation requires that no hearsay evidence can ever be introduced. In the Pointer case itself, we referred to the decisions of this Court that have approved the admission of hearsay:</p>
     <p>"This Court has recognized the admissibility against an accused of dying declarations, Mattox v. United States, <a href="https://law.justia.com/us/146/140/">146 U. S. 140</a>, <a href="https://law.justia.com/us/146/140/#151">146 U. S. 151</a>, and of testimony of a deceased witness who has testified at a former trial, Mattox v. United States, <a href="https://law.justia.com/us/156/237/">156 U. S. 237</a>, <a href="https://law.justia.com/us/156/237/#240">156 U. S. 240</a>-244. See also Dowdell v. United States, supra, 221 U.S. at <a href="https://law.justia.com/us/221/325/#330">221 U. S. 330</a>; Kirby v. United States, supra, 174 U.S. at <a href="https://law.justia.com/us/174/47/#61">174 U. S. 61</a>. . . . There are other analogous situations which might not fall within the scope of the constitutional rule requiring confrontation of witnesses. [<a id="nf12" href="#fn12">Footnote 12</a>]"</p>
     <p>The argument seems to be, rather, that, in any given case, the Constitution requires a reappraisal of every exception to the hearsay rule, no matter how long established, in order to determine whether, in the words of the Court of Appeals, it is supported by "salient and cogent reasons." The logic of that position would seem to require a constitutional reassessment of every established hearsay exception, federal or state, but, in the present case, it is argued only that the hearsay exception applied by Georgia is constitutionally invalid because it does not identically conform to the hearsay exception applicable to conspiracy trials in the federal courts. Appellee does not challenge, and we do not question, the validity of the coconspirator exception applied in the federal courts.</p>
@@ -60,7 +60,7 @@
     <p>These observations have particular force in the present case. For this Court has never indicated that the limited contours of the hearsay exception in federal conspiracy trials are required by the Sixth Amendment's Confrontation Clause. To the contrary, the limits of this hearsay exception have simply been defined by the Court in the exercise of its rulemaking power in the area of the federal law of evidence. [<a id="nf13" href="#fn13">Footnote 13</a>] It is clear that the limited scope of the hearsay exception in federal conspiracy trials is a product not of the Sixth Amendment, but of the Court's "disfavor" of "attempts to broaden the already pervasive and wide-sweeping nets of conspiracy prosecutions." Grunewald v. United States, <a href="../us353/us353-0391.xml#p391">353 U. S. 391</a>, <a href="../us353/us353-0391.xml#p404">353 U. S. 404</a>. As Grunewald, Krulewitch, and other cases in this Court make clear, the evidentiary rule is intertwined not only with the federal substantive law of conspiracy, but also with such related issues as the impact of the statute of limitations upon conspiracy prosecutions.</p>
     <n id="p83">83</n>
     <p>In the case before us, such policy questions are not present. Evans was not prosecuted for conspiracy in the Georgia court, but for the substantive offense of murder. [<a id="nf14" href="#fn14">Footnote 14</a>] At his trial, the State permitted the introduction of evidence under a long-established and well recognized rule of state law. [<a id="nf15" href="#fn15">Footnote 15</a>] We cannot say that the evidentiary rule applied by Georgia violates the Constitution merely because it does not exactly coincide with the hearsay exception applicable in the decidedly different context of a federal prosecution for the substantive offense of conspiracy.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>It is argued, alternatively, that, in any event, Evans' conviction must be set aside under the impact of our recent decisions that have reversed state court convictions because of the denial of the constitutional right of confrontation. The cases upon which the appellee Evans primarily relies are Pointer v. Texas, supra; Douglas</p>
     <n id="p84">84</n>
     <p>v. Alabama, supra; Brookhart v. Janis, supra; Barber v. Page, supra; and Roberts v. Russell, supra.</p>

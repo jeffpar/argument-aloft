@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us487-0201.html" citation="487 U.S. 201" title="Doe v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p201">201</n>
-    <h>U.S. Supreme Court</h>
-    <h>Doe v. United States, <a href="./us487-0201.xml#p201">487 U.S. 201</a> (1988)</h>
-    <h>Doe v. United States</h>
-    <h>No. 86-1753</h>
-    <h>Argued March 2, 1988</h>
-    <h>Decided June 22, 1988</h>
-    <h><a href="./us487-0201.xml#p201">487 U.S. 201</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE FIFTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Doe v. United States, <a href="./us487-0201.xml#p201">487 U.S. 201</a> (1988)</h1>
+    <h2>Doe v. United States</h2>
+    <h4>No. 86-1753</h4>
+    <h4>Argued March 2, 1988</h4>
+    <h4>Decided June 22, 1988</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE FIFTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Pursuant to a subpoena, petitioner, the target of a federal grand jury investigation, produced some records as to accounts at foreign banks, but invoked his Fifth Amendment privilege against self-incrimination when questioned about the existence or location of additional bank records. After the foreign banks refused to comply with subpoenas to produce any account records because their governments' laws prohibit such disclosure without the customer's consent, the Government filed a motion with the Federal District Court for an order directing petitioner to sign a consent directive, without identifying or acknowledging the existence of any account, authorizing the banks to disclose records of any and all accounts over which he had a right of withdrawal. The court denied the motion, concluding that compelling petitioner to sign the form was prohibited by the Fifth Amendment. The Court of Appeals disagreed and reversed. On remand, the District Court ordered petitioner to execute the consent directive, and, after he refused, found him in civil contempt. The Court of Appeals affirmed.</p>
     <p>Held: Because the consent directive here is not testimonial in nature, compelling petitioner to sign it does not violate his Fifth Amendment privilege against self-incrimination. Pp. <a href="./us487-0201.xml#p206">487 U. S. 206</a>-218.</p>
     <p>(a) In order to be "testimonial," an accused's oral or written communication, or act, must itself, explicitly or implicitly, relate a factual assertion or disclose information. Cf. Fisher v. United States, <a href="../us425/us425-0391.xml#p391">425 U. S. 391</a>; United States v. Doe, <a href="../us465/us465-0605.xml#p605">465 U. S. 605</a>. It is consistent with the history of and the policies underlying the Self-Incrimination Clause to hold that the privilege may be asserted only to resist compelled explicit or implicit disclosures of incriminating information. Pp. <a href="./us487-0201.xml#p207">487 U. S. 207</a>-214.</p>
@@ -22,7 +22,7 @@
     <p>BLACKMUN, J., delivered the opinion of the Court, in which REHNQUIST, C.J., and BRENNAN, WHITE, MARSHALL, O'CONNOR, SCALIA, and KENNEDY, JJ., joined. STEVENS, J., filed a dissenting opinion, post, <a href="./us487-0201.xml#p219">487 U. S. 219</a>.</p>
     <p>JUSTICE BLACKMUN delivered the opinion of the Court.</p>
     <p>This case presents the question whether a court order compelling a target of a grand jury investigation to authorize foreign banks to disclose records of his accounts, without identifying those documents or acknowledging their existence, violates the target's Fifth Amendment privilege against self-incrimination.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Petitioner, named here as John Doe, is the target of a federal grand jury investigation into possible federal offenses arising from suspected fraudulent manipulation of oil cargoes and receipt of unreported income. Doe appeared before the grand jury pursuant to a subpoena that directed him to produce records of transactions in accounts at three named banks in the Cayman Islands and Bermuda. Doe produced some bank records and testified that no additional records responsive</p>
     <n id="p203">203</n>
     <p>to the subpoena were in his possession or control. When questioned about the existence or location of additional records, Doe invoked the Fifth Amendment privilege against self-incrimination.</p>
@@ -40,7 +40,7 @@
     <n id="p206">206</n>
     <p>that he be confined until he complied with the order. Id. at 2a. The court stayed imposition of sanction pending appeal and application for writ of certiorari. Id. at 2a-3a.</p>
     <p>The Fifth Circuit affirmed the contempt order, again in an unpublished per curiam, concluding that its prior ruling constituted the "law of the case," and was dispositive of Doe's appeal. Id. at 3a; judgt. order reported at 812 F.2d 1404 (1987). We granted certiorari, 484 U.S. 813 (1987), to resolve a conflict among the Courts of Appeals as to whether the compelled execution of a consent form directing the disclosure of foreign bank records is inconsistent with the Fifth Amendment. [<a id="nf4" href="#fn4">Footnote 4</a>] We conclude that a court order compelling the execution of such a directive as is at issue here does not implicate the Amendment.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>It is undisputed that the contents of the foreign bank records sought by the Government are not privileged under the Fifth Amendment. See Braswell v. United States, ante at <a href="./us487-0099.xml#p108">487 U. S. 108</a>-110; United States v. Doe, <a href="../us465/us465-0605.xml#p605">465 U. S. 605</a> (1984); Fisher v. United States, <a href="../us425/us425-0391.xml#p391">425 U. S. 391</a> (1976). There also is no question that the foreign banks cannot invoke the Fifth Amendment in declining to produce the documents; the privilege does not extend to such artificial entities. See Braswell v. United States, ante at <a href="./us487-0099.xml#p102">487 U. S. 102</a>-103; Bellis v. United States, <a href="../us417/us417-0085.xml#p85">417 U. S. 85</a>, <a href="../us417/us417-0085.xml#p89">417 U. S. 89</a>-90 (1974). Similarly, petitioner asserts no Fifth Amendment right to prevent the banks from disclosing the account records, for the Constitution "necessarily does not proscribe incriminating statements elicited from another."</p>
     <n id="p207">207</n>
     <p>Couch v. United States, <a href="../us409/us409-0322.xml#p322">409 U. S. 322</a>, <a href="../us409/us409-0322.xml#p328">409 U. S. 328</a> (1973). Petitioner's sole claim is that his execution of the consent forms directing the banks to release records as to which the banks believe he has the right of withdrawal has independent testimonial significance that will incriminate him, and that the Fifth Amendment prohibits governmental compulsion of that act.</p>
@@ -91,7 +91,7 @@
     <n id="p218">218</n>
     <p>of, or his control over, any such account, he is authorizing the bank to disclose information relating to accounts over which, in the bank's opinion, Doe can exercise the right of withdrawal. Cf. Ghidoni, 732 F.2d at 818, n. 8 (similarly interpreting a nearly identical consent directive). When forwarded to the bank along with a subpoena, the executed directive, if effective under local law, [<a id="nf16" href="#fn16">Footnote 16</a>] will simply make it possible for the recipient bank to comply with the Government's request to produce such records. As a result, if the Government obtains bank records after Doe signs the directive, the only factual statement made by anyone will be the bank's implicit declaration, by its act of production in response to the subpoena, that it believes the accounts to be petitioner's. Cf. Fisher, 425 U.S. at <a href="../us425/us425-0391.xml#p410">425 U. S. 410</a>, <a href="../us425/us425-0391.xml#p412">425 U. S. 412</a>-413. The fact that the bank's customer has directed the disclosure of his records "would say nothing about the correctness of the bank's representations." Brief for United States 21-22. Indeed, the Second and Eleventh Circuits have concluded that consent directives virtually identical to the one here are inadmissible as an admission by the signator of either control or existence. In re Grand Jury Subpoena, 826 F.2d at 1171; Ghidoni, 732 F.2d at 818, and n. 9.</p>
     <n id="p219">219</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>Because the consent directive is not testimonial in nature, we conclude that the District Court's order compelling petitioner to sign the directive does not violate his Fifth Amendment privilege against self-incrimination. Accordingly, the judgment of the Court of Appeals is affirmed.</p>
     <p>It is so ordered.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>

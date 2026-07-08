@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us445-0573.html" citation="445 U.S. 573" title="Payton v. New York">
   <opinion type="Opinions &amp; Dissents">
     <n id="p573">573</n>
-    <h>U.S. Supreme Court</h>
-    <h>Payton v. New York, <a href="./us445-0573.xml#p573">445 U.S. 573</a> (1980)</h>
-    <h>Payton v. New York</h>
-    <h>No. 78-5420</h>
-    <h>Argued March 26, 1979</h>
-    <h>Reargued October 9, 1979</h>
-    <h>Decided April 15, 1980<a href="./us445-0573.xml#p573">445 U.S. 573</a>ast|&gt;*</h>
-    <h><a href="./us445-0573.xml#p573">445 U.S. 573</a></h>
-    <h>APPEAL FROM THE COURT OF APPEALS OF NEW YORK</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Payton v. New York, <a href="./us445-0573.xml#p573">445 U.S. 573</a> (1980)</h1>
+    <h2>Payton v. New York</h2>
+    <h2>No. 78-5420</h2>
+    <h4>Argued March 26, 1979</h4>
+    <h4>Reargued October 9, 1979</h4>
+    <h4>Decided April 15, 1980<a href="./us445-0573.xml#p573">445 U.S. 573</a>ast|&gt;*</h4>
+    <h2>APPEAL FROM THE COURT OF APPEALS OF NEW YORK</h2>
+    <h2>Syllabus</h2>
     <p>These appeals challenge the constitutionality of New York statutes authorizing police officers to enter a private residence without a warrant and with force, if necessary, to make a routine felony arrest. In each of the appeals, police officers, acting with probable cause but without warrants, had gone to the appellant's residence to arrest the appellant on a felony charge and had entered the premises without the consent of any occupant. In each case, the New York trial judge held that the warrantless entry was authorized by New York statutes and refused to suppress evidence that was seized upon the entry. Treating both cases as involving routine arrests in which there was ample time to obtain a warrant, the New York Court of Appeals, in a single opinion, ultimately affirmed the convictions of both appellants.</p>
     <p>Held: The Fourth Amendment, made applicable to the States by the Fourteenth Amendment, prohibits the police from making a warrantless and nonconsensual entry into a suspect's home in order to make a routine felony arrest. Pp. <a href="./us445-0573.xml#p583">445 U. S. 583</a>-603.</p>
     <p>(a) The physical entry of the home is the chief evil against which the wording of the Fourth Amendment is directed. To be arrested in the home involves not only the invasion attendant to all arrests, but also an invasion of the sanctity of the home, which is too substantial an invasion to allow without a warrant, in the absence of exigent circumstances, even when it is accomplished under statutory authority and when probable cause is present. In terms that apply equally to seizures of property and to seizures of persons, the Fourth Amendment has drawn a firm line at the entrance to the house. Absent exigent circumstances, that threshold may not reasonably be crossed without a warrant. Pp <a href="./us445-0573.xml#p583">445 U. S. 583</a>-590.</p>
@@ -29,7 +29,7 @@
     <n id="p576">576</n>
     <p>Last Term, we noted probable jurisdiction of these appeals in order to address that question. 439 U.S. 1044. After hearing oral argument, we set the case for reargument this Term. 441 U.S. 930. We now reverse the New York Court of Appeals and hold that the Fourth Amendment to the United States Constitution, made applicable to the States by the Fourteenth Amendment, Mapp v. Ohio, <a href="../us367/us367-0643.xml#p643">367 U. S. 643</a>; Wolf v. Colorado, <a href="../us033/us033-0018.xml#p25">33 U. S. 25</a>, prohibits the police from making a warrantless and nonconsensual entry into a suspect's home in order to make a routine felony arrest.</p>
     <p>We first state the facts of both cases in some detail and put to one side certain related questions that are not presented by these records. We then explain why the New York statutes are not consistent with the Fourth Amendment and why the reasons for upholding warrantless arrests in a public place do not apply to warrantless invasions of the privacy of the home.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>On January 14, 1970, after two days of intensive investigation, New York detectives had assembled evidence sufficient to establish probable cause to believe that Theodore Payton had murdered the manager of a gas station two days earlier. At about 7:30 a.m. on January 15, six officers went to Payton's apartment in the Bronx, intending to arrest him. They had not obtained a warrant. Although light and music emanated from the apartment, there was no response to their knock on the metal door. They summoned emergency assistance and, about 30 minutes later, used crowbars to break open the door and enter the apartment. No one was there. In plain view, however, was a .30-caliber shell casing that was</p>
     <n id="p577">577</n>
     <p>seized and later admitted into evidence at Payton's murder trial. [<a id="nf5" href="#fn5">Footnote 5</a>]</p>
@@ -54,7 +54,7 @@
     <n id="p583">583</n>
     <p>not presented today. Although it is arguable that the warrantless entry to effect Payton's arrest might have been justified by exigent circumstances, none of the New York courts relied on any such justification. The Court of Appeals majority treated both Payton's and Riddick's cases as involving routine arrests in which there was ample time to obtain a warrant, [<a id="nf20" href="#fn20">Footnote 20</a>] and we will do the same. Accordingly, we have no occasion to consider the sort of emergency or dangerous situation, described in our cases as "exigent circumstances," that would justify a warrantless entry into a home for the purpose of either arrest or search.</p>
     <p>Nor do these cases raise any question concerning the authority of the police, without either a search or arrest warrant, to enter a third party's home to arrest a suspect. The police broke into Payton's apartment intending to arrest Payton, and they arrested Riddick in his own dwelling. We also note that in neither case is it argued that the police lacked probable cause to believe that the suspect was at home when they entered. Finally, in both cases we are dealing with entries into homes made without the consent of any occupant. In Payton, the police used crowbars to break down the door, and in Riddick, although his 3-year-old son answered the door, the police entered before Riddick had an opportunity either to object or to consent.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>It is familiar history that indiscriminate searches and seizures conducted under the authority of "general warrants" were the immediate evils that motivated the framing and adoption of the Fourth Amendment. [<a id="nf21" href="#fn21">Footnote 21</a>] Indeed, as originally</p>
     <n id="p584">584</n>
     <p>proposed in the House of Representatives, the draft contained only one clause, which directly imposed limitations on the issuance of warrants, but imposed no express restrictions on warrantless searches or seizures. [<a id="nf22" href="#fn22">Footnote 22</a>] As it was ultimately adopted. however, the Amendment contained two separate clauses, the first protecting the basic right to be free from unreasonable searches and seizures and the second requiring that warrants be particular and supported by probable cause. [<a id="nf23" href="#fn23">Footnote 23</a>] The Amendment provides:</p>
@@ -86,7 +86,7 @@
     <n id="p590">590</n>
     <p>core [of the Fourth Amendment] stands the right of a man to retreat into his own home and there be free from unreasonable governmental intrusion."</p>
     <p>Silverman v. United States, <a href="../us365/us365-0505.xml#p505">365 U. S. 505</a>, <a href="../us365/us365-0505.xml#p511">365 U. S. 511</a>. In terms that apply equally to seizures of property and to seizures of persons, the Fourth Amendment has drawn a firm line at the entrance to the house. Absent exigent circumstances, that threshold may not reasonably be crossed without a warrant.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Without contending that United States v. Watson, <a href="../us423/us423-0411.xml#p411">423 U. S. 411</a>, decided the question presented by these appeals, New York argues that the reasons that support the Watson holding require a similar result here. In Watson, the Court relied on (a) the well settled common law rule that. a warrantless arrest in a public place is valid if the arresting officer had probable cause to believe the suspect is a felon; [<a id="nf30" href="#fn30">Footnote 30</a>] (b) the clear consensus among the States adhering to that well settled common law rule; [<a id="nf31" href="#fn31">Footnote 31</a>] and (c) the expression of the judgment of Congress that such an arrest is "reasonable." [<a id="nf32" href="#fn32">Footnote 32</a>] We consider</p>
     <n id="p591">591</n>
     <p>each of these reasons as it applies to a warrantless entry into a home for the purpose of making a routine felony arrest.</p>
@@ -130,7 +130,7 @@
     <p>"But logic sometimes must defer to history and experience. The Court's opinion emphasizes the historical sanction accorded warrantless felony arrests [in public places]."</p>
     <p>In this case, however, neither history nor this Nation's experience requires us to disregard the overriding respect for the sanctity of the home that has been embedded in our traditions since the origins of the Republic. [<a id="nf54" href="#fn54">Footnote 54</a>]</p>
     <n id="p602">602</n>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>The parties have argued at some length about the practical consequences of a warrant requirement as a precondition to a felony arrest in the home. [<a id="nf55" href="#fn55">Footnote 55</a>] In the absence of any evidence that effective law enforcement has suffered in those States that already have such a requirement, see nn. <a id="nf3" href="#fn3">3</a> <a id="nf47" href="#fn47">47</a> supra, we are inclined to view such arguments with skepticism. More fundamentally, however, such arguments of policy must give way to a constitutional command that we consider to be unequivocal.</p>
     <p>Finally, we note the State's suggestion that only a search warrant based on probable cause to believe the suspect is at home at a given time can adequately protect the privacy interests at stake, and since such a warrant requirement is manifestly impractical, there need be no warrant of any kind. We find this ingenious argument unpersuasive. It is true that an arrest warrant requirement may afford less protection than a search warrant requirement, but it will suffice to interpose the magistrate's determination of probable cause between the zealous officer and the citizen. If there is sufficient evidence of a citizen's participation in a felony to persuade a judicial officer that his arrest is justified, it is constitutionally reasonable</p>
     <n id="p603">603</n>
@@ -236,7 +236,7 @@
       <p>Lasson, supra at 100, n. 77.</p>
     </f>
     <f n="23"><a id="fn23" href="#nf23">Footnote 23</a>
-      <p>"The general right of security from unreasonable search and seizure was given a sanction of its own ,and the amendment thus intentionally given a broader scope. That the prohibition against 'unreasonable searches' was intended, accordingly, to cover something other than the form of the warrant is a question no longer left to implication to be derived from the phraseology of the Amendment."</p>
+      <p>"The general right of security from unreasonable search and seizure was given a sanction of its own,and the amendment thus intentionally given a broader scope. That the prohibition against 'unreasonable searches' was intended, accordingly, to cover something other than the form of the warrant is a question no longer left to implication to be derived from the phraseology of the Amendment."</p>
       <p>Lasson, supra at 103. (Footnote omitted.)</p>
     </f>
     <f n="24"><a id="fn24" href="#nf24">Footnote 24</a>
@@ -378,7 +378,7 @@
       <p>The Court today holds that, absent exigent circumstances, officers may never enter a home during the daytime to arrest for a dangerous felony unless they have first obtained a warrant. This hard-and-fast rule, founded on erroneous assumptions concerning the intrusiveness of home arrest entries,</p>
       <n id="p604">604</n>
       <p>finds little or no support in the common law or in the text and history of the Fourth Amendment. I respectfully dissent.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>As the Court notes, ante at <a href="./us445-0573.xml#p591">445 U. S. 591</a>, the common law of searches and seizures, as evolved in England, as transported to the Colonies, and as developed among the States, is highly relevant to the present scope of the Fourth Amendment. United States v. Watson, <a href="../us423/us423-0411.xml#p411">423 U. S. 411</a>, <a href="../us423/us423-0411.xml#p418">423 U. S. 418</a>-422 (1976); id. at <a href="../us423/us423-0411.xml#p425">423 U. S. 425</a>, <a href="../us423/us423-0411.xml#p429">423 U. S. 429</a> (POWELL, J., concurring); Gerstein v. Pugh, <a href="../us420/us420-0103.xml#p103">420 U. S. 103</a>, <a href="../us420/us420-0103.xml#p111">420 U. S. 111</a>, <a href="../us420/us420-0103.xml#p114">420 U. S. 114</a> (1975); Carroll v. United States, <a href="../us267/us267-0132.xml#p132">267 U. S. 132</a>, <a href="../us267/us267-0132.xml#p149">267 U. S. 149</a>-153 (1925); Bad Elk v. United States, <a href="../us177/us177-0529.xml#p529">177 U. S. 529</a>, <a href="../us177/us177-0529.xml#p534">177 U. S. 534</a>-535 (1900); Boyd v. United States, <a href="../us116/us116-0616.xml#p616">116 U. S. 616</a>, <a href="../us116/us116-0616.xml#p622">116 U. S. 622</a>-630 (1886); Kurtz v. Mott, <a href="../us115/us115-0487.xml#p487">115 U. S. 487</a>, <a href="../us115/us115-0487.xml#p498">115 U. S. 498</a>-499 (1885). Today's decision virtually ignores these centuries of common law development, and distorts the historical meaning of the Fourth Amendment, by proclaiming for the first time a rigid warrant requirement for all nonexigent home arrest entries.</p>
       <p>A</p>
       <p>As early as the 15th century, the common law had limited the Crown's power to invade a private dwelling in order to arrest. A Year Book case of 1455 held that, in civil cases, the sheriff could not break doors to arrest for debt or trespass, for the arrest was then only in the private interests of a party. Y. B. 13 Edw. IV, 9a. To the same effect is Semayne's Case, 5 Co.Rep. 91a, 77 Eng.Rep. 194 (K.B. 1603). The holdings of these cases were condensed in the maxim that "every man's house is his castle." H. Broom, Legal Maxims *321-329.</p>
@@ -444,7 +444,7 @@
       <n id="p615">615</n>
       <p>therein, to execute a search warrant, if, after notice of his authority and purpose, he is refused admittance. . . ."</p>
       <p>See Miller v. United States, <a href="../us357/us357-0301.xml#p301">357 U. S. 301</a> (1958). In explicitly providing authority to enter when executing a search warrant, Congress surely did not intend to derogate from the officers' power to effect an arrest entry either with or without a warrant. Rather, Congress apparently assumed that this power was so firmly established either at common law or by statute that no explicit grant of arrest authority was required in § 3109. In short, although the Court purports to find no guidance in the relevant federal statutes, I believe that, fairly read, they authorize the type of police conduct at issue in these</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>A</p>
       <p>Today's decision rests, in large measure, on the premise that warrantless arrest entries constitute a particularly severe invasion of personal privacy. I do not dispute that the home is generally a very private area, or that the common law displayed a special "reverence . . . for the individual's right of privacy in his house." Miller v. United States, supra at <a href="../us357/us357-0301.xml#p313">357 U. S. 313</a>. However, the Fourth Amendment is concerned with protecting people, not places, and no talismanic significance is given to the fact that an arrest occurs in the home, rather than elsewhere. Cf. Ybarra v. Illinois, <a href="../us444/us444-0085.xml#p85">444 U. S. 85</a> (1979); Katz v. United States, <a href="../us389/us389-0347.xml#p347">389 U. S. 347</a>, <a href="../us389/us389-0347.xml#p351">389 U. S. 351</a> (1967); Boyd v. United States, 116 U.S. at <a href="../us116/us116-0616.xml#p630">116 U. S. 630</a>. It is necessary in each case to assess realistically the actual extent of invasion of constitutionally protected privacy. Further, as MR. JUSTICE POWELL observed in United States v. Watson, supra at <a href="../us423/us423-0411.xml#p428">423 U. S. 428</a> (concurring opinion), all arrests involve serious intrusions into an individual's privacy and dignity. Yet we settled in Watson that the intrusiveness of a public arrest is not enough to mandate the obtaining of a warrant. The inquiry in the present case, therefore, is whether the incremental</p>
       <n id="p616">616</n>

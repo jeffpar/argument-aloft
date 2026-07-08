@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us490-0714.html" citation="490 U.S. 714" title="Mead Corp. v. Tilley">
   <opinion type="Opinions &amp; Dissents">
     <n id="p714">714</n>
-    <h>U.S. Supreme Court</h>
-    <h>Mead Corp. v. Tilley, <a href="./us490-0714.xml#p714">490 U.S. 714</a> (1989)</h>
-    <h>Mead Corp. v. Tilley</h>
-    <h>No. 87-1868</h>
-    <h>Argued February 22, 1989</h>
-    <h>Decided June 5, 1989</h>
-    <h><a href="./us490-0714.xml#p714">490 U.S. 714</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE FOURTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Mead Corp. v. Tilley, <a href="./us490-0714.xml#p714">490 U.S. 714</a> (1989)</h1>
+    <h2>Mead Corp. v. Tilley</h2>
+    <h4>No. 87-1868</h4>
+    <h4>Argued February 22, 1989</h4>
+    <h4>Decided June 5, 1989</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE FOURTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Under the Employee Retirement Income Security Act of 1974 (ERISA), the Pension Benefit Guaranty Corporation (PBGC) guarantees certain nonforfeitable benefits provided by qualified defined benefit pension plans. When an employer voluntarily terminates a single-employer defined benefit plan, all accrued benefits automatically vest, notwithstanding the plan's particular vesting provisions. Plan assets are then distributed to participants in accordance with a six-category allocation scheme set forth in § 4044(a), which requires that plan administrators first distribute nonforfeitable benefits guaranteed by the PBGC, §§ 4044 (a)(1-4); then "all other nonforfeitable benefits under the plan," § 4044 (a)(5); and finally "all other benefits under the plan." § 4044(a)(6). Any remaining funds may be recouped by the employer. § 4044(d)(1)(A). Respondents, five employees of the Lynchburg Foundry Company (Foundry), formerly a wholly owned subsidiary of petitioner Mead Corp. (Mead), were covered by the Mead Industrial Salaried Retirement Plan (Plan), a single-employer defined benefit plan funded entirely by the employer. Plan benefits included normal retirement benefits payable at age 65, early retirement benefits payable at age 55 but reduced for each year by which retirement preceded normal retirement age, and unreduced early retirement benefits available to participants who had 30 or more years of service and elected to retire after age 62. When Mead sold Foundry and terminated the Plan, it paid unreduced early retirement benefits only to those who had met both the age and years of service requirements for such benefits. Respondents -- all under age 62 -- received pay equal to the present value of the normal retirement benefit to which they would have been entitled had they retired at age 65, a sum less than the present value of unreduced early retirement payments. After distribution, Mead recouped nearly $11 million in plan assets. Respondents filed a suit in Virginia state court, which was later removed to the Federal District Court, alleging, inter alia, that the failure to pay the present value of the unreduced early retirement benefits violated ERISA. The District Court granted Mead summary judgment, concluding that, since early retirement benefits are not "accrued benefits" under ERISA, respondents were not entitled to any additional sums under the Plan, and that the remaining fund assets could revert to Mead.</p>
     <n id="p715">715</n>
     <p>The Court of Appeals reversed, holding that, before plan assets may revert to an employer, § 4044(a)(6) requires payment of early retirement benefits to plan participants even if those benefits were not accrued at the time of termination.</p>
@@ -27,7 +27,7 @@
     <p>JUSTICE MARSHALL delivered the opinion of the Court.</p>
     <p>Today we decide whether, upon termination of a defined benefit plan, § 4044(a) of the Employee Retirement Income Security Act of 1974 (ERISA), 88 Stat. 1025, as amended, 29 U.S.C. § 1344(a) (1982 ed. and Supp. V), requires a plan administrator to pay plan participants unreduced early retirement benefits provided under the plan before residual assets may revert to an employer.</p>
     <n id="p717">717</n>
-    <h>I</h>
+    <h2>I</h2>
     <p>A</p>
     <p>Congress enacted ERISA in 1974 in part to prevent plan terminations from depriving employees and their beneficiaries of anticipated benefits. 29 U.S.C. § 10O1(a). Titles I and II provide requirements for plan participation, benefit accrual and vesting, and plan funding. Title III contains general administrative provisions. Title IV covers the termination of private pension plans, establishes a system of insurance for benefits provided by such plans, and creates a "body corporate" within the Department of Labor, the Pension Benefit Guaranty Corporation (PBGC), to administer that system. § 1302. The PBGC guarantees certain nonforfeitable benefits provided by qualified defined benefit pension plans. § 1322. [<a id="nf1" href="#fn1">Footnote 1</a>]</p>
     <p>A defined benefit plan is one which sets forth a fixed level of benefits. See § 1002(35). Contributions to a defined benefit plan are calculated on the basis of a number of actuarial assumptions about such things as employee turnover, mortality rates, compensation increases, and the rate of return on invested plan assets. See Stein, Raiders of the Corporate Pension Plan: The Reversion of Excess Plan Assets to the Employer, 5 Am.J.Tax Policy 117, 121-122, and n.19 (1986).</p>
@@ -49,7 +49,7 @@
     <p>Civ. Action No. 84-0751 (WD Va., Apr. 18, 1986). It therefore held that respondents were not entitled to additional sums under the Plan, and that the assets remaining in the fund could revert to Mead pursuant to 29 U.S.C. § 1344(d)(1) and Article XIII, § 4(f), of the Plan.</p>
     <p>The Court of Appeals for the Fourth Circuit reversed. 815 F.2d 989 (1987). Adopting the reasoning of the Court of Appeals for the Second Circuit in Amato v. Western Union Int'l, Inc., 773 F.2d 1402 (1985), cert. dism'd, <a href="../us474/us474-1113.xml#p1113">474 U. S. 1113</a> (1986), the court concluded that, before plan assets may revert to an employer, § 4044(a)(6) requires payment of early retirement benefits to plan participants "even if those benefits were not accrued at the time of termination." 815 F.2d at 991. That conclusion, the court stated, was dictated by the language of the statute, its legislative history, and agency interpretation. Id. at 992. Finally, the court provided a formula for determining respondents' damages and specified that the money should be paid in a lump sum.</p>
     <p>Because the question decided by the Court of Appeals for the Fourth Circuit is an important one over which the Courts of Appeals have differed, [<a id="nf8" href="#fn8">Footnote 8</a>] we granted certiorari. 488 U.S. 815 (1988). We now reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Respondents concede that, at the time the Plan was terminated, they had not satisfied both the age and service requirements for unreduced early retirement benefits. Nevertheless, they claim that they are entitled to such benefits because, in their view, contingent early retirement benefits, even if unaccrued, are "benefits under the plan" under category 6, § 4044(a)(6), and therefore must be distributed before</p>
     <n id="p722">722</n>
     <p>the employer can recoup any residual plan assets. Brief for Respondents 4.</p>
@@ -71,7 +71,7 @@
     <n id="p725">725</n>
     <p>termination pursuant to 26 U.S.C. § 411(d)(3), they are nonforfeitable benefits which fall within category 5 of the allocation scheme. Thus, they argue, if category 6 did not cover forfeitable benefits such as the contingent early retirement benefits at issue here, it would serve no purpose.</p>
     <p>Respondents are mistaken. The PBGC has consistently maintained that, for purposes of its guarantee and of asset allocation under § 4044(a), the characterization of benefits as forfeitable or nonforfeitable depends upon their status before plan termination. See 29 CFR §§ 2613.6(b) and 2618.2 (1987) ("[B]enefits that become nonforfeitable solely as a result of the termination of a plan [are] considered forfeitable"). Soon after the enactment of ERISA, the PBGC stated that "priority category 6 will contain the value of accrued forfeitable benefits of a participant." 40 Fed.Reg. 51370 (1975). Thus, according to the PBGC, category 6 provides for the allocation of benefits that are forfeitable before plan termination, as well as benefits provided under the plan for payment solely upon plan termination. See 29 CFR § 2618.16 (1987). Respondents have failed to persuade us that the PBGC's views are unreasonable. On the contrary, it is respondents' interpretation which cannot be squared with the statute. For if category 5 included benefits that were forfeitable before plan termination as well as those that were nonforfeitable, there would be no guarantee that nonforfeitable benefits would be paid before forfeitable benefits in cases where plan assets are insufficient to cover both. This result would contravene the clear directive of the allocation scheme to give priority to nonforfeitable benefits.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>We hold that § 4044(a)(6) does not create benefit entitlements, but simply provides for the orderly distribution of plan assets required by the terms of a defined benefit plan or other provisions of ERISA. Because the Court of Appeals relied exclusively on § 4044(a)(6) as the grounds for respondents' entitlement</p>
     <n id="p726">726</n>
     <p>to unreduced retirement benefits upon plan termination, we reverse that judgment. Respondents, however, offer two alternative grounds for concluding that ERISA requires payment of unreduced early retirement benefits before surplus assets revert to the employer: first, unreduced early retirement benefits may qualify as "accrued benefits" under ERISA; and, second, unreduced early retirement benefits may be "liabilities" within the meaning of § 4044(d)(1)(A), 29 U.S.C. § 1344(d)(1)(A). Because the Court of Appeals concluded that § 4044(a)(6) was a source of entitlement for unaccrued benefits, it did not reach these questions. We therefore remand for a determination whether respondents are entitled to damages on the basis of either of these alternative theories. In deciding these issues, the Court of Appeals should consider the views of the PBGC and the IRS. For a court to attempt to answer these questions without the views of the agencies responsible for enforcing ERISA would be to "embar[k] upon a voyage without a compass." Ford Motor Credit Co. v. Milhollin, <a href="../us444/us444-0555.xml#p555">444 U. S. 555</a>, <a href="../us444/us444-0555.xml#p568">444 U. S. 568</a> (1980). [<a id="nf11" href="#fn11">Footnote 11</a>]</p>

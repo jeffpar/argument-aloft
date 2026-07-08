@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us078-0139.html" citation="78 U.S. 139" title="Smith v. Sac County">
   <opinion type="Opinions &amp; Dissents">
     <n id="p139">139</n>
-    <h>U.S. Supreme Court</h>
-    <h>Smith v. Sac County, 78 U.S. 139 (1870)</h>
-    <h>Smith v. Sac County</h>
-    <h>78 U.S. (11 Wall.) 139</h>
-    <h>ERROR TO THE CIRCUIT COURT</h>
-    <h>FOR THE DISTRICT OF IOWA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Smith v. Sac County, 78 U.S. 139 (1870)</h1>
+    <h2>Smith v. Sac County</h2>
+    <h2>78 U.S. (11 Wall.) 139</h2>
+    <h2>ERROR TO THE CIRCUIT COURT</h2>
+    <h2>FOR THE DISTRICT OF IOWA</h2>
+    <h2>Syllabus</h2>
     <p>1. In a suit on a negotiable security, when the defendant has shown strong circumstances of fraud in the origin of the instrument, this casts upon the holder the necessity of showing that he gave value for it before maturity.</p>
     <n id="p140">140</n>
     <p>2. In a case submitted to the court without a jury which finds the facts constituting such fraud, and does not find that the plaintiff gave value for the paper, the judgment was rightfully given for the defendant.</p>

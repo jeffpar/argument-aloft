@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us385-0323.html" citation="385 U.S. 323" title="Osborn v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p323">323</n>
-    <h>U.S. Supreme Court</h>
-    <h>Osborn v. United States, <a href="./us385-0323.xml#p323">385 U.S. 323</a> (1966)</h>
-    <h>Osborn v. United States</h>
-    <h>No. 29</h>
-    <h>Argued October 12-13</h>
-    <h>Decided December 12, 1966</h>
-    <h><a href="./us385-0323.xml#p323">385 U.S. 323</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SIXTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Osborn v. United States, <a href="./us385-0323.xml#p323">385 U.S. 323</a> (1966)</h1>
+    <h2>Osborn v. United States</h2>
+    <h2>No. 29</h2>
+    <h2>Argued October 12-13</h2>
+    <h4>Decided December 12, 1966</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SIXTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner, a lawyer, was indicted under 18 U.S.C. § 1503 for endeavoring to bribe a member of the jury panel in a prospective federal criminal trial. To investigate the background of potential jurors, he had employed a Nashville policeman, who had, unknown to petitioner, agreed to report to federal agents any "illegal activities" he might observe. The investigator reported to federal agents that, when he advised petitioner that he had a relative on the jury panel, petitioner expressed an interest in approaching him. An affidavit to this effect was presented to the District Court judges, who authorized the use of an electronic device to record further conversations between petitioner and the investigator. A tape recording of a subsequent conversation was admitted at petitioner's trial. He was convicted and the Court of Appeals affirmed the conviction.</p>
     <p>Held:</p>
     <p>1. The use of a recording device here under "the procedure of antecedent justification before a magistrate that is central to the Fourth Amendment" as "a precondition of lawful electronic surveillance" was permissible, and the recording itself was properly admitted in evidence. Pp. <a href="./us385-0323.xml#p327">385 U. S. 327</a>-331.</p>
@@ -30,7 +30,7 @@
     <p>The primary evidence against the petitioner on this charge consisted of Vick's testimony, a tape recording of a conversation between the petitioner and Vick, and admissions which the petitioner had made during the course of federal disbarment proceedings."</p>
     <p>Vick testified that, during a discussion with the petitioner at the latter's office on November 7, he mentioned that he knew some of the prospective jurors. At this, according to Vick, the petitioner "jumped up," and said, "You do? Why didn't you tell me?" The two then moved outside into the adjacent alley to continue the conversation. There, Vick testified, he told the petitioner that one of the prospective jurors, Ralph Elliott, was his cousin, and the petitioner told Vick to pay a visit to Elliott to see what arrangements could be made about the case. Vick also testified to meetings with the petitioner on November 8 and November 11, when he told the petitioner, falsely, that he had visited Elliott and found him "susceptible to money for hanging this jury," to which the petitioner responded by offering $5,000 to Elliott if he became a member of the jury and an additional $5,000</p>
     <p>"when he hung the jury, but he would have to go all the way, and to assure Mr. Elliott that he would not be alone, that there would be some other jurors in there."</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>No claim is made in this case that Vick's testimony about the petitioner's incriminating statements was inadmissible in evidence. Cf. Hoffa v. United States, <a href="./us385-0293.xml#p293">385 U. S. 293</a>; Lewis v. United States, <a href="./us385-0206.xml#p206">385 U. S. 206</a>. What is challenged is the introduction in evidence of a tape recording of one of the conversations about which Vick testified, specifically the conversation which took place in the petitioner's office on November 11. The recording of this conversation was played for the jury, and a written transcript of it was introduced in evidence. We</p>
     <n id="p327">327</n>
     <p>are asked to hold that the recording should have been excluded, either upon constitutional grounds, Weeks v. United States, <a href="../us232/us232-0383.xml#p383">232 U. S. 383</a>, or in the exercise of our supervisory power over the federal courts. McNabb v. United States, <a href="../us318/us318-0332.xml#p332">318 U. S. 332</a>.</p>
@@ -48,12 +48,12 @@
     <p>So it was that, in response to a detailed factual affidavit alleging the commission of a specific criminal offense directly and immediately affecting the administration of justice in the federal court, the judges of that court jointly authorized the use of a recording device for the narrow and particularized purpose of ascertaining the truth of the affidavit's allegations. As the district judges recognized, it was imperative to determine whether the integrity of their court was being undermined, and highly undesirable that this determination should hinge on the inconclusive outcome of a testimonial contest between the only two people in the world who knew the truth -- one an informer, the other a lawyer of previous good repute. There could hardly be a clearer example of "the procedure of antecedent justification before a magistrate that is central to the Fourth Amendment" as "a precondition of lawful electronic surveillance." [<a id="nf9" href="#fn9">Footnote 9</a>]</p>
     <n id="p331">331</n>
     <p>We hold on these facts that the use of the recording device was permissible, and consequently that the recording itself was properly admitted as evidence at the petitioner's trial.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The petitioner's defense was one of entrapment, and he renews here the contention made in his motion for acquittal at the trial that entrapment was established as a matter of law. We cannot agree.</p>
     <p>The validity of the entrapment defense depended upon what had transpired at the meetings between the petitioner and Vick which took place before the recorded conversation of November 11. According to the petitioner, Vick initiated the idea of making a corrupt approach to Elliott on October 28, and the petitioner at first resisted the suggestion and tried to discourage Vick from carrying it out. The petitioner conceded that he ultimately acquiesced in the scheme, out of "weakness" and because he was exhausted from overwork, but said that he never seriously intended actually to carry out the plan to bribe Elliott. But Vick's version of what had happened was, as stated above, quite different, and the truth of the matter was for the jury to determine. [<a id="nf10" href="#fn10">Footnote 10</a>] Masciale v. United States, <a href="../us356/us356-0386.xml#p386">356 U. S. 386</a>. Surely it was not a "trap for the unwary innocent," Sherman v. United States, <a href="../us356/us356-0369.xml#p369">356 U. S. 369</a>, <a href="../us356/us356-0369.xml#p372">356 U. S. 372</a>, for Vick to tell the petitioner, truthfully, that he knew some of the members of the jury panel and that one of them was his cousin. And, according to Vick, he had said no more when the petitioner "jumped up," went out into the alley with him, and initiated the effort to get Elliott "on our side." At the most, Vick's statement afforded the petitioner "opportunities or facilities" for the commission of a criminal</p>
     <n id="p332">332</n>
     <p>offense, and that is a far cry from entrapment. Sherman v. United States, supra at <a href="../us356/us356-0369.xml#p372">356 U. S. 372</a>; Sorrells v. United States, <a href="../us287/us287-0435.xml#p435">287 U. S. 435</a>, <a href="../us287/us287-0435.xml#p441">287 U. S. 441</a>. [<a id="nf11" href="#fn11">Footnote 11</a>]</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Finally, the argument is made that, even if the admissibility and truth of all the evidence against the petitioner be accepted, this conviction must be set aside because his conduct did not constitute a violation of 18 U.S.C. § 1503. [<a id="nf12" href="#fn12">Footnote 12</a>] The basis for this argument is that, since Vick never in fact approached Elliott and never intended to do so, any endeavor on the petitioner's part was impossible of accomplishment.</p>
     <n id="p333">333</n>
     <p>We reject the argument. Whatever continuing validity the doctrine of "impossibility," with all its subtleties, may continue to have in the law of criminal attempt, [<a id="nf13" href="#fn13">Footnote 13</a>] that body of law is inapplicable here. The statute under which the petitioner was convicted makes an offense of any proscribed "endeavor." And almost 50 years ago, this Court pointed out the significance of that word:</p>

@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us003-0415.html" citation="3 U.S. 415" title="Clarke v. Russell">
   <opinion type="Opinions &amp; Dissents">
     <n id="p415">415</n>
-    <h>U.S. Supreme Court</h>
-    <h>Clarke v. Russell, 3 U.S. 415 (1799)</h>
-    <h>Clarke v. Russell</h>
-    <h>3 U.S. (3 Dall.) 415</h>
-    <h>ERROR TO THE CIRCUIT COURT FOR</h>
-    <h>THE DISTRICT OF RHODE ISLAND</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Clarke v. Russell, 3 U.S. 415 (1799)</h1>
+    <h2>Clarke v. Russell</h2>
+    <h2>3 U.S. (3 Dall.) 415</h2>
+    <h2>ERROR TO THE CIRCUIT COURT FOR</h2>
+    <h2>THE DISTRICT OF RHODE ISLAND</h2>
+    <h2>Syllabus</h2>
     <p>Bills of exchange unaccompanied by protests for nonacceptance, but which had been protested for nonpayment, were admitted in evidence.</p>
     <p>Parol evidence cannot be given to explain the terms used in written papers which were set up to prove an undertaking or guarantee.</p>
     <p>The undertaking declared upon being for the duty of another, it must, to save it from the statute of frauds and perjuries, be in writing and wholly so.</p>

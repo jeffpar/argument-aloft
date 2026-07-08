@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us442-0529.html" citation="442 U.S. 529" title="United Gas Pipe Line Co. v. McCombs">
   <opinion type="Opinions &amp; Dissents">
     <n id="p529">529</n>
-    <h>U.S. Supreme Court</h>
-    <h>United Gas Pipe Line Co. v. McCombs, <a href="./us442-0529.xml#p529">442 U.S. 529</a> (1979)</h>
-    <h>United Gas Pipe Line Co. v. McCombs</h>
-    <h>No. 78-17</h>
-    <h>Argued February 22, 1979</h>
-    <h>Decided June 18, 1979<a href="./us442-0529.xml#p529">442 U.S. 529</a>ast|&gt;*</h>
-    <h><a href="./us442-0529.xml#p529">442 U.S. 529</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE TENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United Gas Pipe Line Co. v. McCombs, <a href="./us442-0529.xml#p529">442 U.S. 529</a> (1979)</h1>
+    <h2>United Gas Pipe Line Co. v. McCombs</h2>
+    <h2>No. 78-17</h2>
+    <h4>Argued February 22, 1979</h4>
+    <h4>Decided June 18, 1979<a href="./us442-0529.xml#p529">442 U.S. 529</a>ast|&gt;*</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE TENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>In 1954, the Federal Power Commission, now the Federal Energy Regulatory Commission, issued a certificate of public convenience and necessity authorizing the sale to petitioner United Gas Pipe Line Co. (United) of natural gas produced from a leased tract of land. After the lease had been assigned several times and a replacement certificate issued, the lessee-producer notified United in 1966 that the existing wells were depleted and that no other gas was available at that time. Despite a warning from the Commission, the lessee never sought the Commission's authorization, pursuant to § 7(b) of the Natural Gas Act (Act), for abandoning the service in interstate commerce. The lease was subsequently assigned to a group headed by respondent McCombs, which group discovered new gas reserves underlying the tract and contracted to sell the gas to respondent E. I. du Pont de Nemours &amp; Co. for uses in intrastate commerce. Upon learning of the renewed production, United asserted its contractual right to purchase the newly discovered gas and filed a complaint with the Commission. The Commission upheld the Administrative Law Judge's determination that the McCombs group could not divert the gas from the interstate market, because the gas had been dedicated to interstate commerce and the agency had never authorized an abandonment of service. In addition, the Commission refused to grant its approval retroactively, since the supply of gas was not, in fact, depleted. Accordingly, the Commission ordered delivery to United of all gas derived from the tract. The Court of Appeals set aside the Commission's order, holding that "strict compliance" with § 7(b)'s approval requirement was unnecessary in this case, the abandonment having been accomplished</p>
     <p>"as a matter of law, when all of the parties recognized that the then known natural gas reserves were depleted in 1966 followed by failure to provide any service . . . for a period of five years."</p>
     <p>Held:</p>
@@ -27,7 +27,7 @@
     <n id="p531">531</n>
     <p>MR. JUSTICE MARSHALL delivered the opinion of the Court.</p>
     <p>Under § 7(c) of the Natural Gas Act, producers who sell natural gas to pipelines for resale in interstate commerce must obtain a certificate of public convenience and necessity from the Federal Energy Regulatory Commission. [<a id="nf1" href="#fn1">Footnote 1</a>] Section 7(b) of the Act obligates these producers to continue supplying gas in the interstate market until the Commission authorizes an "abandonment." [<a id="nf2" href="#fn2">Footnote 2</a>] The principal issue presented by this case is whether a producer may, consistent with § 7(b), ever terminate this service obligation without obtaining the agency's express approval.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The natural gas involved in this case is produced from a 163-acre tract of land located in Karnes County, Tex., and</p>
     <n id="p532">532</n>
     <p>known as the Butler B tract. In 1948, the owner of this land, B. C. Butler, Sr., executed an oil and gas lease with W. R. Quin as the lessee. Quin's widow contracted in 1953 to sell petitioner United Gas Pipe Line Co. (United), for a 10-year period, all "merchantable natural gas . . . now or hereafter" produced from the Butler B tract. App. 7A. Because United was an interstate pipeline company, Ms. Quin applied to the Commission for a certificate of public convenience and necessity authorizing this sale. The certificate issued by the Commission contained neither a time limitation nor any designation of the depths from which the gas would be produced.</p>
@@ -45,7 +45,7 @@
     <p>"the abandonment of the service in the instant case was accomplished, as a matter of law, when all of the parties recognized that the then known natural gas reserves were depleted in 1966, followed by failure to provide any service under the certificates for a period of five years, during which time there was no evidence of other estimated gas reserves recoverable from the subject leaseholds."</p>
     <p>Id. at 1382 In sum, the Court of Appeals considered the facts so clear that the abandonment issue was no longer "within the expertise of the Commission." Id. at 1381. The dissenting judge found this conclusion "directly contrary to the plain terms of § 7(b)," which mandate approval by the Commission as the sole means of effectuating a valid abandonment. Id. at 1382.</p>
     <p>We granted certiorari, 439 U.S. 892 (1978), and now reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Congress could not have been more explicit in establishing Commission approval as a prerequisite for lawful abandonment</p>
     <n id="p536">536</n>
     <p>of service within its jurisdiction. Section 7(b) provides:</p>
@@ -66,14 +66,14 @@
     <n id="p539">539</n>
     <p>of the leasehold had been insufficient to justify finding "the available supply of natural gas . . . depleted to the extent that the continuance of service [was] unwarranted. . . ." § 7(b). And the Commission might have concluded that production from deeper reserves or other measures to restore service were feasible. Permitting natural gas companies to bypass abandonment proceedings simply because known reserves appear depleted would obviously foreclose these factual inquiries. Consequently, the abandonment determination would rest, as a practical matter, in the producer's control, a result clearly at odds with Congress' purpose to regulate the supply and price of natural gas. See California v. Southland Royalty Co., supra at <a href="../us436/us436-0519.xml#p526">436 U. S. 526</a>-527, <a href="../us436/us436-0519.xml#p527">436 U. S. 529</a>-530; Sunray Mid-Continent Oil Co. v. FPC, supra, at <a href="../us364/us364-0137.xml#p142">364 U. S. 142</a>-147.</p>
     <p>Moreover, the obligation to obtain Commission approval promotes certainty and reliability in the regulatory scheme. Knowledge that termination of service is lawful only if authorized by the Commission enables producers, prospective assignees, and other interested parties to determine with assurance whether a particular tract remains dedicated to interstate commerce. In contrast, the Court of Appeals' test for de facto abandonment would invite speculation regarding the extent of the Commission's jurisdiction. The confusion that would inevitably result from the lack of clear standards as to when producers must seek Commission approval fortifies our conclusion that Congress intended agency supervision of all abandonments</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Respondents maintain that, even if producers must always obtain Commission approval for abandonment, the decision below should nevertheless be affirmed. In their view, the Court of Appeals actually concluded that the Commission had erred as a matter of law by refusing to authorize an abandonment retroactively. Assuming this was the true purport of the decision below, we believe the Court of Appeals lacked</p>
     <n id="p540">540</n>
     <p>authority to set aside the Commission's order on this ground. Although respondents urged the agency to authorize an abandonment of service from Butler B, the Administrative Law Judge and the Commission rejected this suggestion in light of the clear evidence that the leasehold was still capable of production. Respondents, however, contend that, because Haring acted in good faith in failing to seek agency approval, the Commission was obligated to treat their answer to United's complaint as if it were an abandonment application filed in 1966. Thus, according to respondents, the Court of Appeals was entitled to conclude that the Commission should have ignored the evidence of subsequent production and authorized an abandonment based on the evidence available in 1966.</p>
     <p>We need not determine whether § 7(b) allows the Commission to approve an abandonment retroactively and disregard evidence of subsequent production. [<a id="nf11" href="#fn11">Footnote 11</a>] For the agency certainly did not abuse its discretion in declining to do so here. Authorizing abandonments retroactively would often deprive interested parties of the opportunity to be heard at a meaningful time and to present evidence on the likelihood of renewing gas production in the future. Thus, the Commission would be required to determine on a hypothetical set of facts what action it would have taken had an application been timely filed. Additionally, the jurisdictional status of all dedicated acreage would become uncertain, since the property would be subject to retroactive Commission pronouncements in the indefinite future. Frequent retroactive action would</p>
     <n id="p541">541</n>
     <p>also undermine the statutory scheme by creating an incentive for producers to delay seeking agency approval in the hope that they could later establish good faith. Given this potential for disruption of § 7(b)'s approval procedure, we believe it is within the Commission's discretion to reject good faith alone as a sufficient justification for determining whether the evidence available in 1966 warranted granting an abandonment. [<a id="nf12" href="#fn12">Footnote 12</a>]</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>Finally, respondents defend the judgment below on the ground that only the depleted shallow reserves underlying Butler B, as opposed to the newly discovered gas, were subject</p>
     <n id="p542">542</n>
     <p>to the approval requirements of § 7(b). In their view, the deliveries actually made in interstate commerce, rather than the certificates of public convenience and necessity, define the "service" that may not be abandoned without Commission approval. Although deliveries were once made from a reservoir approximately 2,900 feet deep, the "separate and distinct" gas from the deeper reservoirs was never delivered into interstate commerce. Thus, according to respondents, the current production is not subject to the requirements of § 7(b), even though the certificates of public convenience and necessity cover all reservoirs located on Butler B. [<a id="nf13" href="#fn13">Footnote 13</a>]</p>

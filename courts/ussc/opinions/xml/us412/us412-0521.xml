@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us412-0521.html" citation="412 U.S. 521" title="Logue v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p521">521</n>
-    <h>U.S. Supreme Court</h>
-    <h>Logue v. United States, <a href="./us412-0521.xml#p521">412 U.S. 521</a> (1973)</h>
-    <h>Logue v. United States</h>
-    <h>No. 72-656</h>
-    <h>Argued April 24, 1973</h>
-    <h>Decided June 11, 1973</h>
-    <h><a href="./us412-0521.xml#p521">412 U.S. 521</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE FIFTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Logue v. United States, <a href="./us412-0521.xml#p521">412 U.S. 521</a> (1973)</h1>
+    <h2>Logue v. United States</h2>
+    <h2>No. 72-656</h2>
+    <h4>Argued April 24, 1973</h4>
+    <h4>Decided June 11, 1973</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE FIFTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioners, claiming that their son's suicide while he was confined as a federal prisoner in a county jail was proximately caused by the negligence of Government agents and employees, brought suit under the Federal Tort Claims Act, which establishes Government liability for negligent acts or omissions of an "employee of the Government," defined, inter alia, as a person officially "acting on behalf of a federal agency . . . with or without compensation." The Act excludes any contractor with the United States from the definition of federal agency. Though finding that the county had contracted with the Federal Government to house federal prisoners in its jail, the District Court held that the Government was liable on the grounds that the sheriff's employees negligently failed to maintain adequate surveillance of the decedent (who had attempted suicide while initially incarcerated), and that the Deputy United States Marshal negligently failed specifically to arrange for constant surveillance. The Court of Appeals reversed on the grounds that, under the "contractor" exclusion, the United States was not accountable for the negligence of the sheriff's employees, and those employees were not acting on behalf of a federal agency in an official capacity within the meaning of the Act.</p>
     <p>Held:</p>
     <p>1. The Court of Appeals correctly concluded that, contrary to petitioners' contention, the deputy marshal had no authority to control the activities of the sheriff's employees, and that the jail was a "contractor," not a "Federal agency," within the meaning of the Act; and the statutory authorization for the housing of federal prisoners in state facilities clearly contemplated that the day-to-day operation of the contractor's facilities was to be in the contractor's, not the Government's, hands. Pp. <a href="./us412-0521.xml#p526">412 U. S. 526</a>-530.</p>
@@ -47,7 +47,7 @@
     <n id="p528">528</n>
     <p>the principal to control the detailed physical performance of the contractor. See, e.g., Gowdy v. United States, 412 F.2d 525, 534 (CA6 1969); Eutsler v. United States, 376 F.2d 634 (CA10 1967); Yates v. United States, 365 F.2d 663 (CA4 1966); Kirk v. United States, 270 F.2d 110 (CA9 1959).</p>
     <p>Petitioners cite the commentary to the Restatement (Second) of Torts § 409 (1965), to the effect that the common law distinction that shields the employer from liability for injuries caused to another by the negligent act of a contractor or his servant is subject to so many exceptions that it is the general rule "only in the sense that it is applied where no good reason is found for departing from it." Congress, of course, could have left the determination as to whose negligence the Government should be liable for under the Federal Tort Claims Act to the law of the State involved, as it did with other aspects of liability under the Act. But it chose not to do this, and instead incorporated into the definitions of the Act the exemption from liability for injury caused by employees of a contractor. While this congressional choice leaves the courts free to look to the law of torts and agency to define "contractor," it does not leave them free to abrogate the exemption that the Act provides.</p>
-    <p>Petitioners suggest that, because 18 U.S.C. § 4042 imposes a duty on the Bureau of Prisons to "provide for the safekeeping, care, and subsistence of all persons charged with . . . offenses against the United States . . . ," the Nueces County employees who were discharging the Government's obligation by contract should be held to be employees of the Government for purposes of liability under the Act. [<a id="nf7" href="#fn7">Footnote 7</a>] This Court held in United States v. Muniz, <a href="../us374/us374-0150.xml#p150">374 U. S. 150</a> (1963), that a breach of the</p>
+    <p>Petitioners suggest that, because 18 U.S.C. § 4042 imposes a duty on the Bureau of Prisons to "provide for the safekeeping, care, and subsistence of all persons charged with . . . offenses against the United States . . .," the Nueces County employees who were discharging the Government's obligation by contract should be held to be employees of the Government for purposes of liability under the Act. [<a id="nf7" href="#fn7">Footnote 7</a>] This Court held in United States v. Muniz, <a href="../us374/us374-0150.xml#p150">374 U. S. 150</a> (1963), that a breach of the</p>
     <n id="p529">529</n>
     <p>duty imposed on the Government by 18 U.S.C. § 4042 was actionable under the Act. But the same public law that imposed this duty on the Government also authorized the Government to contract with state and local authorities to provide safekeeping and care:</p>
     <p>"For the purpose of providing suitable quarters for the safekeeping, care, and subsistence of all persons held under authority of any enactment of Congress, the Director of the Bureau of Prisons may contract, for a period not exceeding three years, with the proper authorities of any State, Territory, or political subdivision thereof, for the imprisonment, subsistence, care, and proper employment of such persons."</p>

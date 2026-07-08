@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us408-0041.html" citation="408 U.S. 41" title="Gelbard v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p41">41</n>
-    <h>U.S. Supreme Court</h>
-    <h>Gelbard v. United States, <a href="./us408-0041.xml#p41">408 U.S. 41</a> (1972)</h>
-    <h>Gelbard v. United States</h>
-    <h>No. 71-110</h>
-    <h>Argued March 27, 1972</h>
-    <h>Decided June 26, 1972</h>
-    <h><a href="./us408-0041.xml#p41">408 U.S. 41</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Gelbard v. United States, <a href="./us408-0041.xml#p41">408 U.S. 41</a> (1972)</h1>
+    <h2>Gelbard v. United States</h2>
+    <h2>No. 71-110</h2>
+    <h4>Argued March 27, 1972</h4>
+    <h4>Decided June 26, 1972</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Where a grand jury witness is adjudicated in civil contempt under 28 U.S.C. § 1826(a) for refusing "without just cause shown to comply with an order of the court to testify," the witness may invoke as a defense 18 U.S.C. § 2515, which directs that</p>
-    <p>"[w]henever any wire or oral communication has been intercepted, no part of the contents of such communication and no evidence derived therefrom may be received in evidence in any . . . proceeding in or before any . . . grand jury . . . ,"</p>
+    <p>"[w]henever any wire or oral communication has been intercepted, no part of the contents of such communication and no evidence derived therefrom may be received in evidence in any . . . proceeding in or before any . . . grand jury . . .,"</p>
     <p>since a showing that the interrogation would be based upon the illegal interception of the witness' communications would constitute the "just cause" that precludes a finding of contempt. Pp. <a href="./us408-0041.xml#p46">408 U. S. 46</a>-61.</p>
     <p>No. 71-110, 443 F.2d 837, reversed and remanded; No. 71-263, 450 F.2d 199 and 450 F.2d 231, affirmed.</p>
     <p>BRENNAN, J., delivered the opinion of the Court, in which DOUGLAS, STEWART, WHITE, and MARSHALL, JJ., joined. DOUGLAS, J., post, p. <a href="./us408-0041.xml#p62">408 U. S. 62</a>, and WHITE, J., post, p. <a href="./us408-0041.xml#p69">408 U. S. 69</a>, filed concurring opinions. REHNQUIST, J., filed a dissenting opinion, in which BURGER, C.J., and BLACKMUN and POWELL, JJ., joined, post, p. <a href="./us408-0041.xml#p71">408 U. S. 71</a>.</p>
@@ -32,7 +32,7 @@
     <p>No. 71-263. Respondents Egan and Walsh were called before a federal grand jury convened in Harrisburg, Pennsylvania, to investigate, among other possible crimes, an alleged plot to kidnap a Government official. Pursuant to 18 U.S.C. § 2514, both respondents were granted transactional immunity in return for their testimony. Respondents appeared before the grand jury but refused to answer questions on the ground, among others, that the questions were based upon information overheard from respondents by means of the Government's illegal wiretapping and electronic surveillance. The Government did not reply to respondents' allegations. [<a id="nf4" href="#fn4">Footnote 4</a>] Following a hearing, the United States District Court for the Middle District of Pennsylvania found respondents in contempt, and they were also committed to custody pursuant to 28 U.S.C. § 1826(a).</p>
     <p>Section 1826(a) expressly limits the adjudication of civil contempt to the case of a grand jury witness who "refuses without just cause shown to comply with an order of the court to testify." Our inquiry, then, is whether a showing that interrogation would be based upon the illegal interception of the witness' communications constitutes a showing of "just cause" that precludes a finding of contempt. The answer turns on the construction of Title III of the Omnibus Crime Control Act. [<a id="nf5" href="#fn5">Footnote 5</a>]</p>
     <n id="p46">46</n>
-    <h>I</h>
+    <h2>I</h2>
     <p>In Title III, Congress enacted a comprehensive scheme for the regulation of wiretapping and electronic surveillance. See United States v. United States District Court, <a href="../us407/us407-0297.xml#p297">407 U. S. 297</a>, <a href="../us407/us407-0297.xml#p301">407 U. S. 301</a>-306. Title III authorizes the interception of private wire and oral communications, but only when law enforcement officials are investigating specified serious crimes and receive prior judicial approval, an approval that may not be given except upon compliance with stringent conditions. 18 U.S.C. §§ 2516, 2518(1)-(8). If a wire or oral communication is intercepted in accordance with the provisions of Title III, the contents of the communication may be disclosed and used under certain circumstances. 18 U.S.C. § 2517. Except as expressly authorized in Title III, however, all interceptions of wire and oral communications are flatly prohibited. Unauthorized interceptions and the disclosure or use of information obtained through unauthorized interceptions are crimes, 18 U.S.C. § 2511(1), and the victim of such interception, disclosure, or use is entitled to recover civil damages, 18 U.S.C. § 2520. Title III also bars the use as evidence before official bodies of the contents and fruits of illegal interceptions, 18 U.S.C. § 2515, and provides procedures for moving to suppress such evidence in various proceedings, 18 U.S.C. § 2518(9)-(10).</p>
     <p>The witnesses in these cases were held in contempt for disobeying court orders by refusing to produce evidence their testimony -- before grand juries. Consequently, their primary contention is that § 2515, the evidentiary prohibition of Title III, afforded them a defense to the contempt charges. In addressing that contention, we must assume, in the present posture of</p>
     <n id="p47">47</n>
@@ -64,7 +64,7 @@
     <p>In re Grand Jury Proceedings, Harrisburg Pennsylvania (Egan), 450 F.2d at 220 (Rosenn, J., concurring).</p>
     <p>"And for a court, on petition of the executive department, to sentence a witness who is herself the victim of the illegal wiretapping to jail for refusal to participate in the exploitation of that crime in violation of the explicit command of Section 2515 is to stand our whole system of criminal justice on its head."</p>
     <p>In re Evans, 146 U.S.App.D.C. 310, 323, 452 F.2d 1239, 1252 (1971) (Wright, J., concurring).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Our conclusion that § 2515 is an available defense to the contempt charge finds additional support in 18 U.S.C. § 3504, enacted as part of the Organized Crime Control Act of 1970, 84 Stat. 935. Section 3504 is explicit confirmation that Congress intended that grand jury witnesses, in reliance upon the prohibition of § 2515, might refuse to answer questions based upon the illegal interception of their communications.</p>
     <n id="p53">53</n>
     <p>Section 3504 provides:</p>
@@ -81,7 +81,7 @@
     <p>The omission of the June 19, 1968, date from subsection (a)(1) was not inadvertent. Subsection (a)(1) was not in the original Senate bill, although the bill did contain counterparts of present subsections (a)(2) and (a)(3) without the Jun 19, 1968, or any other date limitation. [<a id="nf14" href="#fn14">Footnote 14</a>] See Hearings before the Subcommittee on Criminal Laws and Procedures of the Senate Committee on the Judiciary on S. 30 et al., 91st Cong., 1st Sess., 102-105</p>
     <n id="p56">56</n>
     <p>(1969). Subsection (a)(1) was added at the suggestion of the Department of Justice. At that time, the Department followed the practice of searching Government files for information about wiretaps and eavesdropping. The Department advised the Senate Judiciary Committee that, while it had been</p>
-    <p>"conduct[ing] such examinations as a matter of policy even in cases where no motion ha[d] been filed . . . , defendants should be assured such an examination by a specific requirement of law, rather than hav[ing] to rely upon the continued viability of a current policy."</p>
+    <p>"conduct[ing] such examinations as a matter of policy even in cases where no motion ha[d] been filed . . ., defendants should be assured such an examination by a specific requirement of law, rather than hav[ing] to rely upon the continued viability of a current policy."</p>
     <p>Id. at 553. The Senate report on § 3504 explained that,</p>
     <p>"since [subsection (a)(1)] requires a pending claim as a predicate to disclosure, it sets aside the present wasteful practice of the Department of Justice in searching files without a motion from a defendant."</p>
     <p>S.Rep. No. 91-617, p. 154 (1969).</p>
@@ -96,7 +96,7 @@
     <p>involving electronic surveillance had in fact, occurred. If such an unlawful act had in fact, occurred, paragraph (2), below, will govern disclosure of the contents of the electronic surveillance records or transcripts to the defendant and his counsel, unless paragraph (3) applies."</p>
     <p>H.R.Rep. No. 91-1549, p. 51 (1970). This explanation demonstrates that "the opponent of the claim" [<a id="nf16" href="#fn16">Footnote 16</a>] has a duty to "affirm or deny" whenever "a party aggrieved" "claim[s] . . . that evidence is inadmissible because it is" derived from an illegal interception. The date June 19, 1968, becomes relevant only after it is determined that an illegal interception took place and an issue thus arises as to disclosure of information bearing on the claim. [<a id="nf17" href="#fn17">Footnote 17</a>]</p>
     <n id="p59">59</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>The Government argues, finally, that, while § 2515 could be construed to allow a grand jury witness to invoke its prohibition as a defense to a contempt charge, "[i]f this section were the only relevant portion of [Title III]," Brief for the United States in No. 71-263, p. 19, proceedings before grand juries are omitted from another provision of Title III, § 2518(10)(a), that authorizes "[a]ny aggrieved person," [<a id="nf18" href="#fn18">Footnote 18</a>] in specified types of proceedings, to "move to suppress the contents of any intercepted wire or oral communication, or evidence derived therefrom." [<a id="nf19" href="#fn19">Footnote 19</a>] But it does not follow from the asserted omission of grand jury proceedings from the suppression provision that grand jury witnesses cannot invoke § 2515 as a defense in a contempt proceeding under 28 U.S.C. § 1826(a). [<a id="nf20" href="#fn20">Footnote 20</a>] The congressional concern with the applicability</p>
     <n id="p60">60</n>
     <p>of § 2518(10)(a) in grand jury proceedings, so far as it is discernible from the Senate report, was apparently that defendants and potential defendants might be able to utilize suppression motions to impede the issuance of indictments:</p>
@@ -178,7 +178,7 @@
       <p>The Senate passed § 3504 in a form that, so far as is pertinent to the issue before us, differed from the section as finally enacted only in that subsections (a)(2) and (a)(3) in the Senate version were not limited in application to illegal interceptions that took place before June 19, 1968. See S.Rep. No. 91-617, pp. 15, 70 (1969).</p>
     </f>
     <f n="15"><a id="fn15" href="#nf15">Footnote 15</a>
-      <p>"[Subsection (a)(1)] provides that, in an attack upon the admissibility of evidence because it is the product of an unlawful act . . . , the opponent of such claim shall affirm or deny the alleged unlawful act. . . . In this respect, [§ 3504] is unnecessary."</p>
+      <p>"[Subsection (a)(1)] provides that, in an attack upon the admissibility of evidence because it is the product of an unlawful act . . ., the opponent of such claim shall affirm or deny the alleged unlawful act. . . . In this respect, [§ 3504] is unnecessary."</p>
       <p>Hearings before Subcommittee No. 5 of the House Judiciary Committee on S. 30 et al., 91st Cong., 2d Sess., 399 (1970) (report of the Committee on Federal Legislation of the New York County Lawyers' Association). "That is the law now by Supreme Court decision. [Subsection (a)(1)] adds nothing to what exists right now." Id. at 513 (testimony of Lawrence Speiser, representing the American Civil Liberties Union).</p>
     </f>
     <f n="16"><a id="fn16" href="#nf16">Footnote 16</a>
@@ -207,7 +207,7 @@
     <f n="21"><a id="fn21" href="#nf21">Footnote 21</a>
       <p>"This definition [§ 2510(11)] defines the class of those who are entitled to invoke the suppression sanction of section 2515 . . . through the motion to suppress provided for by section 2518(10)(a). . . ."</p>
       <p>Id. at 91.</p>
-      <p>"The provision [§ 2515] must, of course, be read in light of section 2518(10)(a) . . . , which defines the class entitled to make a motion to suppress."</p>
+      <p>"The provision [§ 2515] must, of course, be read in light of section 2518(10)(a) . . ., which defines the class entitled to make a motion to suppress."</p>
       <p>Id. at 96.</p>
       <p>"This provision [§ 2518(10)(a)] must be read in connection with sections 2515 and 2517 . . . which it limits. It provides the remedy for the right created by section 2515."</p>
       <p>Id. at 106</p>
@@ -295,7 +295,7 @@
       <p>Thus, what was presented to the trial court in this proceeding under 18 U.S.C. § 1826(a) was not a neatly stipulated question of law, but a demand by the petitioners that they be permitted to roam at will among the prosecutor's records in order to see whether they might be able to turn up any evidence indicating that the Government's overhearing of their conversations had been unauthorized by statute. In order to determine whether this particular type of remedy is open to these petitioners at this particular stage of potential criminal proceedings, it is not enough to recite, as the Court does, that 18 U.S.C. § 2515 prohibits the use of illegally overheard wire communications before grand juries, as well as before other governmental bodies. This</p>
       <n id="p73">73</n>
       <p>proposition is not disputed. The far more difficult inquiry posed by these facts is whether the granting to these petitioners, at this particular stage of these proceedings, of sweeping discovery as a prelude to a full hearing on the issue of alleged unlawful surveillance can fairly be inferred from the enactment by Congress of the two statutes relied on in the Court's opinion.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>It may be helpful at the outset to treat briefly the background of 28 U.S.C. § 1826(a). As the Court notes, this provision was enacted as a part of the Organized Crime Control Act of 1970, and the Senate Report states that it was intended to codify the "present practice" of the federal courts. S.Rep. No. 91-617, p. 148 (1969). The existing practice of the federal courts prior to the enactment of this section was based on Fed.Rule Crim.Proc. 42 and on 18 U.S.C. § 401, both of which dealt generally with the power of courts to punish for contempt. The enactment of § 1826(a) appears to have resulted from a desire on the part of Congress to treat separately from the general contempt power of courts their authority to deal with recalcitrant witnesses in court or grand jury proceedings. Since, as the Senate Report states, the enactment of this provision was designed to "codify present practice," it is instructive to note the types of claims litigated in connection with grand jury matters under Rule 42 and 18 U.S.C. § 401 prior to the enactment of this new section. So far as the reported decisions of this Court and of the lower federal courts reveal, prior litigation with respect to grand juries has dealt almost exclusively with questions of privilege, and most of these cases have dealt with issues of the privilege against self-incrimination. While it is plain that the respondent in such proceedings was entitled to a hearing and to adduce evidence, it is equally plain that the</p>
       <n id="p74">74</n>
       <p>typical hearing was short in duration and largely devoted to the arguments of counsel on an agreed statement of facts. [Footnote 3/2]</p>
@@ -324,7 +324,7 @@
       <p>It seems to me to be clear beyond cavil from these cases that, prior to the enactment of the Omnibus Crime Control and Safe Streets Act of 1968, a hearing such as</p>
       <n id="p78">78</n>
       <p>that which the Court awards these petitioners was not only unauthorized by law, but completely contrary to the ingrained principles which have long governed the functioning of the grand jury.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>When Congress set out to enact the two statutes on which the Court relies, it was certainly not with any announced intent to change the nature of contempt hearings relating to grand jury proceedings, or to change the modus operandi of the grand jury. Instead, largely in response to the decisions of this Court in Berger v. New York, <a href="../us388/us388-0041.xml#p41">388 U. S. 41</a> (1967), and Katz v. United States, <a href="../us389/us389-0347.xml#p347">389 U. S. 347</a> (1967), Congress undertook to draft comprehensive legislation both authorizing the use of evidence obtained by electronic surveillance on specified conditions and prohibiting its use otherwise. S.Rep. No. 1097, 90th Cong., 2d Sess., 66 (1968). The ultimate result was the 1968 Act. Critical to analysis of the issue involved here are §§ 2515 and 2518(10)(a) of that Act, which provide in pertinent part as follows:</p>
       <p>"Whenever any wire or oral communication has been intercepted, no part of the contents of such communication and no evidence derived therefrom may be received in evidence in any trial, hearing, or other proceeding in or before any court, grand jury, department, officer, agency, regulatory body, legislative committee, or other authority . . . if the disclosure of that information would be in violation of this chapter."</p>
       <p>§ 2515.</p>
@@ -366,7 +366,7 @@
       <p>If § 2515 of the Omnibus Crime Control and Safe Streets Act of 1968 stood alone, without any informative legislative history, the Court's conclusion with respect to the rights of these petitioners would be plainly correct. If the conflicting implications from two sections of the same statute were present in a regulatory scheme which was to stand by itself, rather than to be superimposed on procedures such as contempt hearings and</p>
       <n id="p85">85</n>
       <p>institutions such as the grand jury, the Court's conclusion would at least be tenable. But when the Court concludes that Congress, almost in a fit of absentmindedness, has drastically enlarged the right of potential grand jury witnesses to avoid testifying, and when such a conclusion is based upon one of two ambiguous implications from the language of the statute, and is contrary to virtually every whit of legislative history addressed to the point in issue, I think its conclusion is plainly wrong.</p>
-      <h>IV</h>
+      <h2>IV</h2>
       <p>The Court seeks to bolster its reasoning by reliance upon 18 U.S.C. § 3504(a)(1), which was a part of the Organized Crime Control Act of 1970. That section provides in pertinent part as follows:</p>
       <p>"(a) In any . . . proceeding . . . before any . . . grand Jury . . ."</p>
       <p>"(1) upon a claim by a party aggrieved that evidence is inadmissible because it is the primary product of an unlawful act or because it was obtained by the exploitation of an unlawful act, the opponent of the claim shall affirm or deny the occurrence of the alleged unlawful act."</p>
@@ -410,7 +410,7 @@
       <p>Section 3504(a)(1) by its terms, even if read totally out of its context and background, as the Court seeks to do, affords these petitioners no help, because the Government has complied with its requirements in these cases. But, more importantly, the entire thrust of the findings actually adopted by Congress, and of the reports of both Houses, makes it as plain as humanly possible that this section was intended as a limitation on existing rights of criminal defendants, not as an enlargement of them. Congress, displeased with the effect of this Court's decision in Alderman, supra, desired to put a statute of limitations type cut-off beyond which the Government would not be required to go in time in order to disprove taint. Equally displeased with the policy adopted by the Government of searching its files for evidence of taint even when none had been alleged</p>
       <n id="p91">91</n>
       <p>by the defendant, it sought to put a stop to that practice by requiring the Government to "affirm or deny" only where there is "a claim by a party aggrieved that evidence is inadmissible." Understanding of this background not only affords a complete explanation of the language used by Congress in this section, but illustrates the palpable error into which the Court has fallen in construing it. The Court has, at least figuratively, stood on its head both the language and the legislative history of this section in order to conclude that it was intended to expand the rights of criminal defendants.</p>
-      <h>V</h>
+      <h2>V</h2>
       <p>Neither the Omnibus Crime Control and Safe Streets Act of 1968 nor the Organized Crime Control Act of 1970, when construed in accordance with the canons of statutory construction traditionally followed by this Court, supports the expansive and novel claims asserted by these petitioners. The Court having reached a contrary conclusion, I respectfully dissent.</p>
       <p>[Footnote 3/1]</p>
       <p>In the case of respondents Egan and Walsh, the Government, in the District Court, did not state whether it had engaged in electronic surveillance. In this Court, however, the Government represented that respondents Egan and Walsh had not been subjected to electronic surveillance. In light of this development, I would remand their case to the District Court in order to give the respondents another opportunity to testify. For this reason, references to "petitioners" throughout this opinion are meant to be to only petitioners Gelbard and Parnas.</p>

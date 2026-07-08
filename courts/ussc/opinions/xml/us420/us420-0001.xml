@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us420-0001.html" citation="420 U.S. 1" title="Chapman v. Meier">
   <opinion type="Opinions &amp; Dissents">
     <n id="p1">1</n>
-    <h>U.S. Supreme Court</h>
-    <h>Chapman v. Meier, <a href="./us420-0001.xml#p1">420 U.S. 1</a> (1975)</h>
-    <h>Chapman v. Meier</h>
-    <h>No. 73-1406</h>
-    <h>Argued November 13, 1974</h>
-    <h>Decided January 27, 1975</h>
-    <h><a href="./us420-0001.xml#p1">420 U.S. 1</a></h>
-    <h>APPEAL FROM THE UNITED STATES DISTRICT COURT</h>
-    <h>FOR THE DISTRICT OF NORTH DAKOTA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Chapman v. Meier, <a href="./us420-0001.xml#p1">420 U.S. 1</a> (1975)</h1>
+    <h2>Chapman v. Meier</h2>
+    <h2>No. 73-1406</h2>
+    <h4>Argued November 13, 1974</h4>
+    <h4>Decided January 27, 1975</h4>
+    <h2>APPEAL FROM THE UNITED STATES DISTRICT COURT</h2>
+    <h2>FOR THE DISTRICT OF NORTH DAKOTA</h2>
+    <h2>Syllabus</h2>
     <p>This case involves the issue of the constitutionality of a federal court-ordered reapportionment of the North Dakota Legislative Assembly. Following protracted state and federal litigation challenging various apportionment plans, statutes, and state constitutional provisions, including a federal action in which a three-judge District Court in 1965 approved a reapportionment plan that included five multi-member senatorial districts, appellants brought the present federal action against appellee, the Secretary of State, alleging that substantial population shifts had occurred and that the 1965 plan no longer met equal protection requirements, and requesting the court to order apportionment based on the 1970 census figures, to provide for single member districts, to declare the 1965 plan invalid, and to restrain appellee from administering the election laws under that plan. A three-judge District Court, holding that such plan failed to meet constitutional standards, approved another plan that called for five multi-member senatorial districts and that contained a 20% population variance between the largest and smallest senatorial districts.</p>
     <p>Held:</p>
     <p>1. This Court has jurisdiction of the appeal under 28 U.S.C. § 1253. Although the challenged reapportionment plan was court-ordered,</p>
@@ -24,7 +24,7 @@
     <n id="p3">3</n>
     <p>MR. JUSTICE BLACKMUN delivered the opinion of the Court.</p>
     <p>This case presents the issue of the constitutionality of a federal court-ordered reapportionment of the North Dakota Legislature, called in that State the Legislative Assembly. That State, like many others, has struggled to satisfy constitutional requirements for legislative apportionment delineated in Baker v. Carr, <a href="../us369/us369-0186.xml#p186">369 U. S. 186</a> (1962); Reynolds v. Sims, <a href="../us377/us377-0533.xml#p533">377 U. S. 533</a> (1964); WMCA, Inc. v. Lomenzo, <a href="../us377/us377-0633.xml#p633">377 U. S. 633</a> (1964); Maryland Committee v. Tawes, <a href="../us377/us377-0656.xml#p656">377 U. S. 656</a> (1964); Davis v. Mann, <a href="../us377/us377-0678.xml#p678">377 U. S. 678</a> (1964); Roman v. Sincock, <a href="../us377/us377-0695.xml#p695">377 U. S. 695</a> (1964); Lucas v. Colorado General Assembly, <a href="../us377/us377-0713.xml#p713">377 U. S. 713</a> (1964), and other cases. This litigation is the culmination of that struggle, totally ineffectual on the legislative side, during the past decade.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The State's Constitution and Its Statutes</p>
     <p>North Dakota's original Constitution, adopted at the State's admission into the Union in 1889, is still in effect. It has been amended, of course, from time to time. Since 1918, § 25 thereof has read: "The legislative power of this state shall be vested in a legislature consisting of a senate and a house of representatives." N.D.Const. Art. II, § 25. That legislative power for 70 years has been subject to the initiative and the referendum. Ibid. The Constitution has further provided that the State's senate "shall be composed of forty-nine members," § 26, elected for a four-year term, § 27, with one-half thereof elected every two years, § 30, and that no one shall be a senator unless he is a qualified elector of the senatorial district, has attained the age of 25 years, and has been a</p>
     <n id="p4">4</n>
@@ -34,7 +34,7 @@
     <p>The document also states that the house of representatives "shall be composed of not less than sixty, nor more than one hundred forty members," § 32, elected for a two-year term, § 33, and that no one shall be a representative unless he is a qualified elector of the district, has attained the age of 21 years, and has been a resident of the State for the two years next preceding the election, § 34. Section 35 provides for at least one representative for each senatorial district and for as many representatives as there are counties in the district; states that the Legislative Assembly, after each federal decennial census, shall apportion "the balance of the members of the House of Representatives," and, if the Legislative Assembly fails in its apportionment duty, places the task of apportioning the house in a designated group of officials of the state. [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
     <n id="p5">5</n>
     <p>There have been complementary statutory provisions. An apportionment effected by Laws 1931, c. 7, N.D.Cent.Code § 503-01 (1960), was in effect for over 30 years despite the mandate of § 35 of the Constitution that apportionment be effected after each federal census.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Prior Litigation</p>
     <p>A. Things began to stir in North Dakota even prior to this Court's decision in Baker v. Carr in 1962. The State's Legislative Assembly of 1961 had failed to apportion the house following the 1960 census. After Baker</p>
     <n id="p6">6</n>
@@ -53,7 +53,7 @@
     <p>several plans that had been introduced in the Assembly and centered its attention on the Smith plan. Although the court found the plan "not perfect" (five multi-member senatorial districts, [<a id="nf3" href="#fn3">Footnote 3</a>] and county lines violated in 12 instances), it concluded that the plan, if "slightly" modified, would meet constitutional standards ("impressive mathematical exactness," namely, 25 of 39 districts within 5% of the average population, four slightly over 5%, and only two exceeding 9%). Id. at 44-45. The "slight" modification was made and reapportionment, really the first to be finally effected since 1931, was therefore accomplished in North Dakota by federal court intervention.</p>
     <p>I. Still another original proceeding in the State's Supreme Court was instituted. This one challenged the right of senators from the multi-member districts to hold office. It was claimed that this multiple membership violated § 29 of the North Dakota Constitution, which provided that each senatorial district "shall be represented by one senator and no more." The state court held that the 1965 judgment of the federal court was not res judicata as to the then plaintiffs; that the initial or "freezing" portion of § 29 was clearly invalid; that the concluding portion, restricting representation of a district to one senator, would not have been desired by the people without the "balance" of the freezing portion; and that § 29 as a unit must fall as violative of equal protection. State ex rel. Stockman v. Anderson, <a href="https://law.justia.com/cases/north-dakota/supreme-court/1971/8687-2.html">184 N.W.2d 53</a> (1971). The result was that multi-member senatorial districts were not held illegal by the state court.</p>
     <n id="p10">10</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>The Present litigation</p>
     <p>The 1970 federal census was taken in due course. The 1971 Legislative Assembly failed to reapportion. The present federal action was instituted the following November. The plaintiffs alleged that substantial shifts in population had taken place, and that the court-ordered plan of 1965 no longer complied with the requirements of the Equal Protection Clause. The relief requested was that the court order apportionment upon the 1970 census figures and also provide for single member districts; that the 1965 plan be declared invalid; and that the Secretary of State be restrained from administering the election laws under that plan.</p>
     <p>On May 22, 1972, the three-judge court entered an order to the effect that the existing North Dakota apportionment failed to meet federal constitutional standards and that the court would attempt to reapportion. Jurisdictional Statement A-54. It appointed a commission to formulate and present a plan within 30 days, and it submitted guidelines to the commission. With respect to multi-member districts, the order provided:</p>
@@ -74,13 +74,13 @@
     <n id="p13">13</n>
     <p>event, the defendant thereupon moved the federal court to readopt the plan temporarily approved by its order of June, 1972. The plaintiffs resisted.</p>
     <p>The three-judge District Court, with Circuit Judge Bright dissenting, then made "permanent" the 1972 Dobson plan, with its five multi-member districts providing 18 senators out of a state-wide total of 51. <a href="https://law.justia.com/cases/federal/district-courts/FSupp/372/371/1421722/">372 F. Supp. 371</a>, 379 (ND 1974). We noted probable jurisdiction. 416 U.S. 966 (1974).</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>Jurisdiction</p>
     <p>We are met at the threshold with a mild question of jurisdiction not pressed by the parties. We have jurisdiction under 28 U.S.C. § 1253 [<a id="nf6" href="#fn6">Footnote 6</a>] only if a three-judge court was required by 28 U.S.C. § 2281. [<a id="nf7" href="#fn7">Footnote 7</a>]</p>
     <p>It might be suggested that the three-judge court here did not restrain the enforcement of a statute, but, instead, the enforcement of the court-ordered plan of 1965 which had become unconstitutional in the circumstances of 1972, and, hence, that the provisions of § 2281 were not satisfied. The argument is less than persuasive, and we</p>
     <n id="p14">14</n>
     <p>conclude that it is without merit. Although the reapportionment now under attack was indeed court-ordered, its enforcement is doubly based on the State's Constitution and statutes. Its effectuation directly depends on the state election law machinery and, in addition, the plan itself is a court-imposed replacement of the North Dakota constitutional provisions and the 1931, 1963, and 1965 reapportionment statutes. It is these that are, and have been, the primary objects of attack. It would be highly anomalous if jurisdiction were not here, for then it would follow that a single judge could invalidate a reapportionment plan that had been evolved or approved, and was required so to be, by a three-judge court some time before. Subject matter of this kind is regular grist for the three-judge court, and that route typically has been employed under conditions similar to those present here. See, e.g., Skolnick v. State Electoral Board of Illinois, <a href="https://law.justia.com/cases/federal/district-courts/FSupp/336/839/1795388/">336 F. Supp. 839</a> (ND Ill 1971). We think this is correct procedure, and we conclude that we have jurisdiction.</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>The Multi-member Districts</p>
     <p>From the above review of the North Dakota constitutional and statutory provisions and of the litigation of the past 12 years, two significant facts emerge: the first is that some multi-membership on the house side of the Legislative Assembly traditionally has existed. This plainly qualifies as established state policy. [<a id="nf8" href="#fn8">Footnote 8</a>] The second is that, in contrast, multi-membership on the senate side, even as to the five districts, has never existed except as imposed (a) by the three-judge federal court by its 1965 Paulson decision; (b) by a majority of the three-judge</p>
     <n id="p15">15</n>
@@ -109,7 +109,7 @@
     <n id="p21">21</n>
     <p>It is true that, in 1973, the voters of North Dakota voted down a proposed constitutional amendment which would have reestablished the State's tradition of single-member senatorial districts. At the same time, the voters also rejected by referendum the Legislative Assembly's 1973 Act which would have continued the multi-member format for five districts. We are unable to infer from these simultaneous actions of the electorate any particular attitude toward multi-member districts. It simply appears that North Dakota's voters have not been satisfied with any reapportionment proposal, and that they are frustrated by the years of confusion since the obviously impermissible apportionment provisions of the State's Constitution were invalidated.</p>
     <p>We are confident that the District Court, with perhaps the aid of its Special Masters, will be able to reinstitute the use of single member districts while also attaining the necessary goal of substantial population equality. Special Master Ostenson had indicated that it "would not be terribly difficult to adopt single member districts.'" See 372 F. Supp. at 392. [<a id="nf15" href="#fn15">Footnote 15</a>] Unless the District Court can articulate such a "singular combination of unique factors" as was found to exist in Mahan v. Howell, 410 U.S. at <a href="../us410/us410-0315.xml#p333">410 U. S. 333</a>, or unless the 1975 Legislative Assembly appropriately acts, the court should proceed expeditiously to reinstate single member senatorial districts in North Dakota.</p>
-    <h>VI</h>
+    <h2>VI</h2>
     <p>The Population Variance</p>
     <p>The second aspect of the court-ordered reapportionment plan that is challenged by the appellants is the population divergence in the various senatorial districts. Since the population of the State under the 1970 census</p>
     <n id="p22">22</n>
@@ -134,7 +134,7 @@
     <n id="p26">26</n>
     <p>Ostenson.plan should be adopted by the District Court, or that its 5.95% population variance necessarily would be permissible in a court-ordered plan. What we intend by our reference to the Ostenson plan is to show that the factors cited by the District Court cannot be viewed as controlling and persuasive when other, less statistically offensive, plans already devised are feasible. [<a id="nf18" href="#fn18">Footnote 18</a>] The District Court has provided no rationale for its rejection of the Ostenson plan.</p>
     <p>Examination of the asserted justifications of the court-ordered plan thus plainly demonstrates that it fails to meet the standards established for evaluating variances in plans formulated by State legislatures or other state bodies. The plan, hence, would fail even under the criteria enunciated in Mahan v. Howell and Swann v. Adams. A court-ordered plan, however, must be held to higher standards than a State's own plan. With a court plan, any deviation from approximate population equality must be supported by enunciation of historically significant state policy or unique features. We have felt it necessary in this case to clarify the greater responsibility of the District Court, when devising its own reapportionment plan, because of the severe problems occasioned for the citizens of North Dakota during the several years of redistricting confusion.</p>
-    <h>VII</h>
+    <h2>VII</h2>
     <p>We hold today that, unless there are persuasive justifications, a court-ordered reapportionment plan of a state</p>
     <n id="p27">27</n>
     <p>legislature must avoid use of multi-member districts, and, as well, must ordinarily achieve the goal of population equality with little more than de minimis variation. [<a id="nf19" href="#fn19">Footnote 19</a>] Where important and significant state considerations rationally mandate departure from these standards, it is the reapportioning court's responsibility to articulate precisely why a plan of single member districts with minimal population variance cannot be adopted.</p>

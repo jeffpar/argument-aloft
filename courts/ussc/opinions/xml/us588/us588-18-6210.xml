@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us588-18-6210.html" citation="588 U.S. 18-6210" title="Mitchell v. Wisconsin">
   <opinion type="Opinion" author="Alito">
     <p>NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 18–6210</p>
-    <p>_________________</p>
     <p>GERALD P. MITCHELL, PETITIONER v. WISCONSIN</p>
     <p>on writ of certiorari to the supreme court of wisconsin</p>
     <p>[June 27, 2019]</p>
@@ -38,7 +37,7 @@
     <p>and enforcing these legal BAC limits requires efficient testing to obtain BAC evidence, which naturally dissipates. So BAC tests are crucial links in a chain on which vital interests hang. And when a breath test is unavail-able to advance those aims, a blood test becomes essential. Here we add a word about each of these points.</p>
     <p>First, highway safety is a vital public interest. For decades, we have strained our vocal chords to give adequate expression to the stakes. We have called highway safety a “compelling interest,” Mackey, 443 U. S., at 19; we have called it “paramount,” id., at 17. Twice we have referred to the effects of irresponsible driving as “slaughter” comparable to the ravages of war. Breithaupt v. Abram, <a href="../us352/us352-0432.xml#p432">352 U.S. 432</a>, 439 (1957); Perez v. Campbell, <a href="../us402/us402-0637.xml#p637">402 U.S. 637</a>, 657, 672 (1971) (Blackmun, J., concurring in result in part and dissenting in part). We have spoken of “carnage,” Neville, 459 U. S., at 558–559, and even “frightful carnage,” Tate v. Short, <a href="../us401/us401-0395.xml#p395">401 U.S. 395</a>, 401 (1971) (Blackmun, J., concurring). The frequency of preventable collisions, we have said, is “tragic,” Neville, supra, at 558, and “astounding,” Breithaupt, supra, at 439. And behind this fervent language lie chilling figures, all captured in the fact that from 1982 to 2016, alcohol-related accidents took roughly 10,000 to 20,000 lives in this Nation every single year. See National Highway Traffic Safety Admin. (NHTSA), Traffic Safety Facts 2016, p. 40 (May 2018). In the best years, that would add up to more than one fatality per hour.</p>
     <p>Second, when it comes to fighting these harms and promoting highway safety, federal and state lawmakers have long been convinced that specified BAC limits make a big difference. States resorted to these limits when earlier laws that included no “statistical definition of intoxication” proved ineffectual or hard to enforce. See Birchfield, 579 U. S., at ___–___ (slip op., at 2–3). The maximum permissible BAC, initially set at 0.15%, was first lowered to 0.10% and then to 0.08%. Id., at ___, ___–___ (slip op., at 3, 6–7). Congress encouraged this process by conditioning the award of federal highway funds on the establishment of a BAC limit of 0.08%, see 23 U. S. C. §163(a); 23 CFR §1225.1 (2012), and every State has adopted this limit.[<a id="nf1-4" href="#fn1-4">4</a>] Not only that, many States, including Wisconsin, have passed laws imposing increased penalties for recidivists or for drivers with a BAC level that exceeds a higher threshold. See Wis. Stat. §346.65(2)(am); Birchfield, 579 U. S., at ___ (slip op., at 7).</p>
-    <p>There is good reason to think this strategy has worked. As we noted in Birchfield, these tougher measures corresponded with a dramatic drop in highway deaths and injuries: From the mid-1970’s to the mid-1980’s, “the number of annual fatalities averaged 25,000; by 2014 . . . , the number had fallen to below 10,000.” Id., at ___ (slip op., at 6).</p>
+    <p>There is good reason to think this strategy has worked. As we noted in Birchfield, these tougher measures corresponded with a dramatic drop in highway deaths and injuries: From the mid-1970’s to the mid-1980’s, “the number of annual fatalities averaged 25,000; by 2014 . . ., the number had fallen to below 10,000.” Id., at ___ (slip op., at 6).</p>
     <p>Third, enforcing BAC limits obviously requires a test that is accurate enough to stand up in court, id., at ___–___ (slip op., at 3–5); see also McNeely, 569 U. S., at 159–160 (plurality opinion). And we have recognized that “[e]xtraction of blood samples for testing is a highly effective means of” measuring “the influence of alcohol.” Schmerber, 384 U. S., at 771.</p>
     <p>Enforcement of BAC limits also requires prompt testing because it is “a biological certainty” that “[a]lcohol dissipates from the bloodstream at a rate of 0.01 percent to 0.025 percent per hour. . . . Evidence is literally disappearing by the minute.” McNeely, 569 U. S., at 169 (opinion of Roberts, C. J.). As noted, the ephemeral nature of BAC was “essential to our holding in Schmerber,” which itself allowed a warrantless blood test for BAC. Id., at 152</p>
     <p>(opinion of the Court). And even when we later held that the exigent-circumstances exception would not permit a warrantless blood draw in every drunk-driving case, we acknowledged that delays in BAC testing can “raise questions about . . . accuracy.” Id., at 156.</p>
@@ -76,9 +75,7 @@
   </opinion>
   <opinion type="Concurrence" author="Thomas">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 18–6210</p>
-    <p>_________________</p>
     <p>GERALD P. MITCHELL, PETITIONER v. WISCONSIN</p>
     <p>on writ of certiorari to the supreme court of wisconsin</p>
     <p>[June 27, 2019]</p>
@@ -97,9 +94,7 @@
   </opinion>
   <opinion type="Dissent" author="Sotomayor">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 18–6210</p>
-    <p>_________________</p>
     <p>GERALD P. MITCHELL, PETITIONER v. WISCONSIN</p>
     <p>on writ of certiorari to the supreme court of wisconsin</p>
     <p>[June 27, 2019]</p>
@@ -166,9 +161,7 @@
   </opinion>
   <opinion type="Dissent" author="Gorsuch">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 18–6210</p>
-    <p>_________________</p>
     <p>GERALD P. MITCHELL, PETITIONER v. WISCONSIN</p>
     <p>on writ of certiorari to the supreme court of wisconsin</p>
     <p>[June 27, 2019]</p>

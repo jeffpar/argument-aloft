@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us488-0051.html" citation="488 U.S. 51" title="Arizona v. Youngblood">
   <opinion type="Opinions &amp; Dissents">
     <n id="p51">51</n>
-    <h>U.S. Supreme Court</h>
-    <h>Arizona v. Youngblood, <a href="./us488-0051.xml#p51">488 U.S. 51</a> (1988)</h>
-    <h>Arizona v. Youngblood</h>
-    <h>No. 86-1904</h>
-    <h>Argued October 11, 1988</h>
-    <h>Decided November 29, 1988</h>
-    <h><a href="./us488-0051.xml#p51">488 U.S. 51</a></h>
-    <h>CERTIORARI TO THE COURT OF APPEALS OF ARIZONA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Arizona v. Youngblood, <a href="./us488-0051.xml#p51">488 U.S. 51</a> (1988)</h1>
+    <h2>Arizona v. Youngblood</h2>
+    <h4>No. 86-1904</h4>
+    <h4>Argued October 11, 1988</h4>
+    <h4>Decided November 29, 1988</h4>
+    <h2>CERTIORARI TO THE COURT OF APPEALS OF ARIZONA</h2>
+    <h2>Syllabus</h2>
     <p>The victim, a 10-year-old boy, was molested and sodomized by a middle-aged man for 1 1/2 hours. After the assault, the boy was taken to a hospital, where a physician used a swab from a "sexual assault kit" to collect semen samples from the boy's rectum. The police also collected the boy's clothing, which they failed to refrigerate. A police criminologist later performed some tests on the rectal swab and the boy's clothing, but he was unable to obtain information about the identity of the boy's assailant. At trial, expert witnesses testified that respondent might have been completely exonerated by timely performance of tests on properly preserved semen samples. Respondent was convicted of child molestation, sexual assault, and kidnaping in an Arizona state court. The Arizona Court of Appeals reversed the conviction on the ground that the State had breached a constitutional duty to preserve the semen samples from the victim's body and clothing.</p>
     <p>Held: The Due Process Clause did not require the State to preserve the semen samples even though the samples might have been useful to respondent. Unless a criminal defendant can show bad faith on the part of the police, failure to preserve potentially useful evidence does not constitute a denial of due process of law. Here, the police's failure to refrigerate the victim's clothing and to perform tests on the semen samples can at worst be described as negligent. None of this information was concealed from respondent at trial, and the evidence -- such as it was -- was made available to respondent's expert, who declined to perform any tests on the samples. The Arizona Court of Appeals noted in its opinion -- and this Court agrees -- that there was no suggestion of bad faith on the part of the police. Moreover, the Due Process Clause was not violated because the State failed to perform a newer test on the semen samples. The police do not have a constitutional duty to perform any particular tests. Pp. <a href="./us488-0051.xml#p55">488 U. S. 55</a>-59.</p>
     <p>153 Ariz. 50, 734 P.2d 592, reversed.</p>
@@ -73,7 +73,7 @@
     <p>Ante at <a href="./us488-0051.xml#p58">488 U. S. 58</a>. In my opinion, there may well be cases in which the defendant is unable to prove that the State acted in bad faith, but in which the loss or destruction of evidence is nonetheless so critical to the defense as to make a criminal trial fundamentally unfair. This, however, is not such a case. Accordingly, I concur in the judgment.</p>
     <p>JUSTICE BLACKMUN, with whom JUSTICE BRENNAN and JUSTICE MARSHALL join, dissenting.</p>
     <p>The Constitution requires that criminal defendants be provided with a fair trial, not merely a "good faith" try at a fair trial. Respondent here, by what may have been nothing more than police ineptitude, was denied the opportunity to present a full defense. That ineptitude, however, deprived respondent of his guaranteed right to due process of law. In reversing the judgment of the Arizona Court of Appeals, this Court, in my view, misreads the import of its prior cases and unduly restricts the protections of the Due Process Clause. An understanding of due process demonstrates that the evidence which was allowed to deteriorate was "constitutionally material," and that its absence significantly prejudiced respondent. Accordingly, I dissent.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The Court, with minimal reference to our past cases and with what seems to me to be less than complete analysis, announces</p>
     <p>"that unless a criminal defendant can show bad faith on the part of police, failure to preserve potentially useful evidence does not constitute a denial of due process of law."</p>
     <p>Ante at <a href="./us488-0051.xml#p58">488 U. S. 58</a>. This conclusion is claimed to be justified because it limits the extent of police responsibility</p>
@@ -104,7 +104,7 @@
     <p>I also doubt that the "bad faith" standard creates the bright-line rule sought by the majority. Apart from the inherent difficulty a defendant would have in obtaining evidence to show a lack of good faith, the line between "good faith" and "bad faith" is anything but bright, and the majority's formulation may well create more questions than it answers. What constitutes bad faith for these purposes? Does a defendant have to show actual malice, or would recklessness, or the deliberate failure to establish standards for maintaining and preserving evidence, be sufficient? Does "good faith police work" require a certain minimum of diligence, or will a lazy officer, who does not walk the few extra steps to the evidence refrigerator, be considered to be acting in good faith? While the majority leaves these questions for</p>
     <n id="p67">67</n>
     <p>another day, its quick embrace of a bad-faith standard has not brightened the line; it only has moved the line so as to provide fewer protections for criminal defendants.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The inquiry the majority eliminates in setting up its "bad faith" rule is whether the evidence in question here was "constitutionally material," so that its destruction violates due process. The majority does not say whether</p>
     <p>"evidentiary material of which no more can be said than that it could have been subjected to tests, the results of which might have exonerated the defendant,"</p>
     <p>ante at <a href="./us488-0051.xml#p57">488 U. S. 57</a>, is, for purposes of due process, material. But because I do not find the question of lack of bad faith dispositive, I now consider whether this evidence was such that its destruction rendered respondent's trial fundamentally unfair.</p>
@@ -126,7 +126,7 @@
     <n id="p71">71</n>
     <p>would require the defendant to prove the content of something he does not have because of the State's misconduct. Focusing on the type of evidence solves this problem. A court will be able to consider the type of evidence and the available technology, as well as the circumstances of the case, to determine the likelihood that the evidence might have proved to be exculpatory. The evidence must also be without equivalent in the particular case. It must not be cumulative or collateral, cf. United States v. Agurs, 427 U.S. at <a href="../us427/us427-0097.xml#p113">427 U. S. 113</a>-114, and must bear directly on the question of innocence or guilt.</p>
     <p>Due process must also take into account the burdens that the preservation of evidence places on the police. Law enforcement officers must be provided the option, as is implicit in Trombetta, of performing the proper tests on physical evidence and then discarding it. [<a id="nf7" href="#fn7">Footnote 7</a>] Once a suspect has been arrested, the police, after a reasonable time, may inform defense counsel of plans to discard the evidence. When the defense has been informed of the existence of the evidence, after a reasonable time, the burden of preservation may shift to the defense. There should also be flexibility to deal with evidence that is unusually dangerous or difficult to store.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Applying this standard to the facts of this case, I conclude that the Arizona Court of Appeals was correct in overturning respondent's conviction. The clothing worn by the victim contained samples of his assailant's semen. The appeals court found that these samples would probably be larger, less contaminated, and more likely to yield conclusive test results than would the samples collected by use of the assault kit. 153 Ariz. 50, 54, 734 P.2d 592, 596 (App.1986). The clothing</p>
     <n id="p72">72</n>
     <p>and the semen stains on the clothing therefore obviously were material.</p>

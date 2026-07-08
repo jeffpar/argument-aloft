@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us499-0187.html" citation="499 U.S. 187" title="United Automobile Workers v. Johnson Controls">
   <opinion type="Opinions &amp; Dissents">
     <n id="p187">187</n>
     <p>U.S. Supreme Court</p>
-    <h>United Automobile Workers v. Johnson Controls, <a href="./us499-0187.xml#p187">499 U.S. 187</a> (1991)</h>
+    <h1>United Automobile Workers v. Johnson Controls, <a href="./us499-0187.xml#p187">499 U.S. 187</a> (1991)</h1>
     <p>International Union, United Automobile, Aerospace &amp;</p>
     <p>Agricultural Implement Workers of America, UAW</p>
     <p>No. 89-1215</p>
@@ -28,7 +29,7 @@
     <n id="p190">190</n>
     <p>JUSTICE BLACKMUN delivered the opinion of the Court.</p>
     <p>In this case, we are concerned with an employer's gender-based fetal-protection policy. May an employer exclude a fertile female employee from certain jobs because of its concern for the health of the fetus the woman might conceive?</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Respondent Johnson Controls, Inc., manufactures batteries. In the manufacturing process, the element lead is a primary ingredient. Occupational exposure to lead entails health risks, including the risk of harm to any fetus carried by a female employee.</p>
     <n id="p191">191</n>
     <p>Before the Civil Rights Act of 1964, 78 Stat. 241, became law, Johnson Controls did not employ any woman in a battery-manufacturing job. In June, 1977, however, it announced its first official policy concerning its employment of women in lead-exposure work:</p>
@@ -43,7 +44,7 @@
     <p>noted by the Occupational Health and Safety Administration (OSHA) for a worker who was planning to have a family. See 29 CFR § 1910.1025 (1989). The company responded by announcing a broad exclusion of women from jobs that exposed them to lead:</p>
     <p>". . . [I]t is [Johnson Controls'] policy that women who are pregnant or who are capable of bearing children will not be placed into jobs involving lead exposure or which could expose them to lead through the exercise of job bidding, bumping, transfer or promotion rights."</p>
     <p>App. 85-86. The policy defined "women . . . capable of bearing children" as "[a]ll women except those whose inability to bear children is medically documented." Id. at 81. It further stated that an unacceptable work station was one where, "over the past year," an employee had recorded a blood lead level of more than 30 micrograms per deciliter or the work site had yielded an air sample containing a lead level in excess of 30 micrograms per cubic meter. Ibid.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>In April, 1984, petitioners filed in the United States District Court for the Eastern District of Wisconsin a class action challenging Johnson Controls' fetal-protection policy as sex discrimination that violated Title VII of the Civil Rights Act of 1964, as amended, 42 U.S.C. § 2000e et seq. Among the individual plaintiffs were petitioners Mary Craig, who had chosen to be sterilized in order to avoid losing her job, Elsie Nason, a 50-year-old divorcee, who had suffered a loss in compensation when she was transferred out of a job where she was exposed to lead, and Donald Penney, who had been denied a request for a leave of absence for the purpose of lowering his lead level because he intended to become a father. Upon stipulation of the parties, the District Court certified a class consisting of "all past, present and future production and maintenance employees" in United Auto Workers bargaining</p>
     <n id="p193">193</n>
     <p>units at nine of Johnson Controls' plants "who have been and continue to be affected by [the employer's] Fetal Protection Policy implemented in 1982." Order of Feb. 25, 1985.</p>
@@ -68,7 +69,7 @@
     <p>Judge Easterbrook, also in dissent and joined by Judge Flaum, agreed with Judges Cudahy and Posner that the only defense available to Johnson Controls was the BFOQ. He concluded, however, that the BFOQ defense would not prevail, because respondent's stated concern for the health of the unborn was irrelevant to the operation of its business under the BFOQ. He also viewed the employer's concern as irrelevant to a woman's ability or inability to work under the Pregnancy Discrimination Act's amendment to Title VII, 92 Stat. 2076, 42 U.S.C. § 2000e(k). Judge Easterbrook also stressed what he considered the excessive breadth of Johnson Controls' policy. It applied to all women (except those with medical proof of incapacity to bear children), although most women in an industrial labor force do not become pregnant, most of those who do become pregnant will have blood lead levels under 30 micrograms per deciliter, and most of those who become pregnant with levels exceeding that figure will bear normal children anyway. 886 F.2d at 912-913. "Concerns about a tiny minority of women cannot set the standard by which all are judged." Id. at 913.</p>
     <p>With its ruling, the Seventh Circuit became the first Court of Appeals to hold that a fetal-protection policy directed exclusively at women could qualify as a BFOQ. We granted certiorari, 494 U.S. 1055 (1990), to resolve the obvious conflict between the Fourth, Seventh, and Eleventh Circuits on this issue, and to address the important and difficult question whether an employer, seeking to protect potential fetuses, may discriminate against women just because of their ability to become pregnant. [<a id="nf1" href="#fn1">Footnote 1</a>]</p>
     <n id="p197">197</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>The bias in Johnson Controls' policy is obvious. Fertile men, but not fertile women, are given a choice as to whether they wish to risk their reproductive health for a particular job. Section 703(a) of the Civil Rights Act of 1964, 78 Stat. 255, as amended, 42 U.S.C. § 2000e-2(a), prohibits sex-based classifications in terms and conditions of employment, in hiring and discharging decisions, and in other employment decisions that adversely affect an employee's status. [<a id="nf2" href="#fn2">Footnote 2</a>] Respondent's fetal-protection policy explicitly discriminates against women on the basis of their sex. The policy excludes women with childbearing capacity from lead-exposed jobs, and so creates a facial classification based on gender. Respondent assumes as much in its brief before this Court. Brief for Respondent 17, n. 24.</p>
     <p>Nevertheless, the Court of Appeals assumed, as did the two appellate courts who already had confronted the issue, that sex-specific fetal-protection policies do not involve facial discrimination. 886 F.2d at 886-887; Hayes, 726 F.2d at 1547; Wright, 697 F.2d at 1190. These courts analyzed the policies as though they were facially neutral, and had only a</p>
     <n id="p198">198</n>
@@ -88,7 +89,7 @@
     <p>In sum, Johnson Controls' policy</p>
     <p>"does not pass the simple test of whether the evidence shows 'treatment of a person in a manner which, but for that person's sex, would be different.'"</p>
     <p>Los Angeles Dept. of Water &amp; Power v. Manhart, <a href="../us435/us435-0702.xml#p702">435 U. S. 702</a>, <a href="../us435/us435-0702.xml#p711">435 U. S. 711</a> (1978), quoting Developments in the Law, Employment Discrimination and Title VII of the Civil Rights Act of 1964, 84 Harv.L.Rev. 1109, 1170 (1971). We hold that Johnson Controls' fetal-protection policy is sex discrimination forbidden under Title VII unless respondent can establish that sex is a "bona fide occupational qualification."</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>Under § 703(e)(1) of Title VII, an employer may discriminate on the basis of</p>
     <p>"religion, sex, or national origin in those certain instances where religion, sex, or national origin is a bona fide occupational qualification reasonably necessary to the normal operation of that particular business or enterprise."</p>
     <p>42 U.S.C. § 2000e-2(e)(1). We therefore turn to the question whether Johnson Controls' fetal-protection policy</p>
@@ -125,7 +126,7 @@
     <n id="p206">206</n>
     <p>1219, 1255-1256 (1986). With the PDA, Congress made clear that the decision to become pregnant or to work while being either pregnant or capable of becoming pregnant was reserved for each individual woman to make for herself.</p>
     <p>We conclude that the language of both the BFOQ provision and the PDA which amended it, as well as the legislative history and the case law, prohibit an employer from discriminating against a woman because of her capacity to become pregnant unless her reproductive potential prevents her from performing the duties of her job. We reiterate our holdings in Criswell and Dothard that an employer must direct its concerns about a woman's ability to perform her job safely and efficiently to those aspects of the woman's job-related activities that fall within the "essence" of the particular business. [<a id="nf4" href="#fn4">Footnote 4</a>]</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>We have no difficulty concluding that Johnson Controls cannot establish a BFOQ. Fertile women, as far as appears in the record, participate in the manufacture of batteries as efficiently as anyone else. Johnson Controls' professed moral and ethical concerns about the welfare of the next generation do not suffice to establish a BFOQ of female sterility. Decisions about the welfare of future children must be left to the parents who conceive, bear, support, and raise them, rather than to the employers who hire those parents. Congress has mandated this choice through Title VII, as amended by the</p>
     <n id="p207">207</n>
     <p>PDA. Johnson Controls has attempted to exclude women because of their reproductive capacity. Title VII and the PDA simply do not allow a woman's dismissal because of her failure to submit to sterilization.</p>
@@ -136,7 +137,7 @@
     <p>"factual basis for believing that all or substantially all women would be unable to perform safely and efficiently the duties of the job involved."</p>
     <p>Weeks v. Southern Bell Tel. &amp; Tel. Co., 408 F.2d 228, 235 (CA5 1969), quoted with approval in Dothard, 433 U.S. at <a href="../us433/us433-0321.xml#p333">433 U. S. 333</a>. Even on this sparse record, it is apparent that Johnson Controls is concerned about only a small minority of women. Of the eight pregnancies reported among the female employees, it has not been shown that any of the babies have birth defects or other abnormalities. The record does not reveal the birth rate for Johnson Controls' female workers, but national statistics show that approximately nine percent of all fertile women become pregnant each year. The birthrate drops to two percent for blue collar workers over age 30. See Becker, 53 U.Chi.L.Rev. at 1233. Johnson Controls' fear of prenatal injury, no matter how sincere, does not begin to show that substantially all of its fertile women employees are incapable of doing their jobs.</p>
     <n id="p208">208</n>
-    <h>VI</h>
+    <h2>VI</h2>
     <p>A word about tort liability and the increased cost of fertile women in the workplace is perhaps necessary. One of the dissenting judges in this case expressed concern about an employer's tort liability, and concluded that liability for a potential injury to a fetus is a social cost that Title VII does not require a company to ignore. 886 F.2d at 904-905. It is correct to say that Title VII does not prevent the employer from having a conscience. The statute, however, does prevent sex-specific fetal-protection policies. These two aspects of Title VII do not conflict.</p>
     <p>More than 40 States currently recognize a right to recover for a prenatal injury based either on negligence or on wrongful death. See, e.g., Wolfe v. Isbell, 291 Ala. 327, 333-334, <a href="https://law.justia.com/cases/alabama/supreme-court/1973/280-so-2d-758-1.html">280 So. 2d 758</a>, 763 (1977); Simon v. Mullin, 34 Conn.Sup. 139, 147, 380 A.2d 1353, 1357 (1977). See also Note, 22 Suffolk U.L.Rev. 747, 754-756, and nn. 54, 57, and 58 (1988) (listing cases). According to Johnson Controls, however, the company complies with the lead standard developed by OSHA and warns its female employees about the damaging effects of lead. It is worth noting that OSHA gave the problem of lead lengthy consideration, and concluded that</p>
     <p>"there is no basis whatsoever for the claim that women of childbearing age should be excluded from the workplace in order to protect the fetus or the course of pregnancy."</p>
@@ -155,7 +156,7 @@
     <p>We, of course, are not presented with, nor do we decide, a case in which costs would be so prohibitive as to threaten the</p>
     <n id="p211">211</n>
     <p>survival of the employer's business. We merely reiterate our prior holdings that the incremental cost of hiring women cannot justify discriminating against them.</p>
-    <h>VII</h>
+    <h2>VII</h2>
     <p>Our holding today that Title VII, as so amended, forbids sex-specific fetal-protection policies is neither remarkable nor unprecedented. Concern for a woman's existing or potential offspring historically has been the excuse for denying women equal employment opportunities. See, e.g., Muller v. Oregon, <a href="../us208/us208-0412.xml#p412">208 U. S. 412</a> (1908). Congress in the PDA prohibited discrimination on the basis of a woman's ability to become pregnant. We do no more than hold that the Pregnancy Discrimination Act means what it says.</p>
     <p>It is no more appropriate for the courts than it is for individual employers to decide whether a woman's reproductive role is more important to herself and her family than her economic role. Congress has left this choice to the woman as hers to make.</p>
     <p>The judgment of the Court of Appeals is reversed, and the case is remanded for further proceedings consistent with this opinion.</p>
@@ -182,7 +183,7 @@
       <p>The Court properly holds that Johnson Controls' fetal protection policy overtly discriminates against women, and thus is prohibited by Title VII unless it falls within the bona fide occupational qualification (BFOQ) exception, set forth at 42 U.S.C. § 2000e-2(e). The Court erroneously holds, however, that the BFOQ defense is so narrow that it could never justify a sex-specific fetal protection policy. I nevertheless concur in the judgment of reversal because, on the record before us, summary judgment in favor of Johnson Controls was improperly entered</p>
       <n id="p212">212</n>
       <p>by the District Court and affirmed by the Court of Appeals.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>In evaluating the scope of the BFOQ defense, the proper starting point is the language of the statute. Cf. Demarest v. Manspeaker, <a href="../us498/us498-0177.xml#p177">498 U. S. 177</a> (1991); Board of Ed. of Westside Community Schools v. Mergens, <a href="../us496/us496-0226.xml#p226">496 U. S. 226</a>, <a href="../us496/us496-0226.xml#p227">496 U. S. 227</a> (1990). Title VII forbids discrimination on the basis of sex, except</p>
       <p>"in those certain instances where . . . sex . . . is a bona fide occupational qualification reasonably necessary to the normal operation of that particular business or enterprise."</p>
       <p>42 U.S.C. § 2000e-2(e)(1). For the fetal protection policy involved in this case to be a BFOQ, therefore, the policy must be "reasonably necessary" to the "normal operation" of making batteries, which is Johnson Controls' "particular business." Although that is a difficult standard to satisfy, nothing in the statute's language indicates that it could never support a sex-specific fetal protection policy. [Footnote 2/1]</p>
@@ -227,7 +228,7 @@
       <p>H.R.Rep. No. 9948, p. 4 (1978), U.S.Code Cong. &amp; Admin.News 1978, p. 4752 (emphasis added). [Footnote 2/7]</p>
       <p>In enacting the BFOQ standard, "Congress did not ignore the public interest in safety." Criswell, supra, 472 U.S. at <a href="../us472/us472-0400.xml#p419">472 U. S. 419</a>. The Court's narrow interpretation of the BFOQ defense in this case, however, means that an employer cannot exclude even pregnant women from an environment highly toxic to their fetuses. It is foolish to think that Congress intended such a result, and neither the language of the BFOQ exception nor our cases require it. [Footnote 2/8]</p>
       <n id="p220">220</n>
-      <h>II</h>
+      <h2>II</h2>
       <p>Despite my disagreement with the Court concerning the scope of the BFOQ defense, I concur in reversing the Court of Appeals because that court erred in affirming the District Court's grant of summary judgment in favor of Johnson Controls. First, the Court of Appeals erred in failing to consider the level of risk-avoidance that was part of Johnson Controls' "normal operation." Although the court did conclude that there was a "substantial risk" to fetuses from lead exposure in fertile women, 886 F.2d 871, 879-883, 898 (CA7 1989), it merely meant that there was a high risk that some fetal injury would occur absent a fetal protection policy. That analysis, of course, fails to address the extent of fetal injury that is likely to occur. [Footnote 2/9] If the fetal protection policy insists on a risk-avoidance level substantially higher than other risk levels</p>
       <n id="p221">221</n>
       <p>tolerated by Johnson Controls, such as risks to employees and consumers, the policy should not constitute a BFOQ. [Footnote 2/10]</p>

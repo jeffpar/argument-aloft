@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us380-0051.html" citation="380 U.S. 51" title="Freedman v. Maryland">
   <opinion type="Opinions &amp; Dissents">
     <n id="p51">51</n>
-    <h>U.S. Supreme Court</h>
-    <h>Freedman v. Maryland, <a href="./us380-0051.xml#p51">380 U.S. 51</a> (1965)</h>
-    <h>Freedman v. Maryland</h>
-    <h>No. 69</h>
-    <h>Argued November 19, 1964</h>
-    <h>Decided March 1, 1965</h>
-    <h><a href="./us380-0051.xml#p51">380 U.S. 51</a></h>
-    <h>APPEAL FROM THE COURT OF APPEALS OF MARYLAND</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Freedman v. Maryland, <a href="./us380-0051.xml#p51">380 U.S. 51</a> (1965)</h1>
+    <h2>Freedman v. Maryland</h2>
+    <h2>No. 69</h2>
+    <h4>Argued November 19, 1964</h4>
+    <h4>Decided March 1, 1965</h4>
+    <h2>APPEAL FROM THE COURT OF APPEALS OF MARYLAND</h2>
+    <h2>Syllabus</h2>
     <p>Appellant was convicted of exhibiting a motion picture without submitting it to the Maryland State Board of Censors for prior approval, despite his contention that the motion picture censorship statute unconstitutionally impaired freedom of expression. The Maryland Court of Appeals affirmed.</p>
     <p>Held:</p>
     <p>1. Where motion pictures are concerned, a requirement of prior submission to a censorship board is not necessarily unconstitutional. Times Film Corp. v. City of Chicago, <a href="../us365/us365-0043.xml#p43">365 U. S. 43</a>. Pp. <a href="./us380-0051.xml#p53">380 U. S. 53</a>-54.</p>
@@ -27,7 +27,7 @@
     <p>Appellant sought to challenge the constitutionality of the Maryland motion picture censorship statute, Md.Ann.Code, 1957, Art. 66A, and exhibited the film "Revenge at Daybreak" at his Baltimore theatre without first submitting the picture to the State Board of Censors as required by § 2 thereof. [<a id="nf1" href="#fn1">Footnote 1</a>] The State concedes that the picture does not violate the statutory standards [<a id="nf2" href="#fn2">Footnote 2</a>] and</p>
     <n id="p53">53</n>
     <p>would have received a license if properly submitted, but the appellant was convicted of a § 2 violation despite his contention that the statute in its entirety unconstitutionally impaired freedom of expression. The Court of Appeals of Maryland affirmed, 233 Md. 498, 197 A.2d 232, and we noted probable jurisdiction, 377 U.S. 987. We reverse.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In Times Film Corp. v. City of Chicago, <a href="../us365/us365-0043.xml#p43">365 U. S. 43</a>, we considered and upheld a requirement of submission of motion pictures in advance of exhibition. The Court of Appeals held, on the authority of that decision, that</p>
     <p>"the Maryland censorship law must be held to be not void on its face as violative of the freedoms protected against State action by the First and Fourteenth Amendments."</p>
     <p>233 Md. at 505, 197 A.2d at 235. This reliance on Times Film was misplaced. The only question tendered for decision in that case was "whether a prior restraint was necessarily unconstitutional under all circumstances." Bantam Books, Inc. v. Sullivan, <a href="../us372/us372-0058.xml#p58">372 U. S. 58</a>, <a href="../us372/us372-0058.xml#p70">372 U. S. 70</a>, n. 10</p>
@@ -52,7 +52,7 @@
     <p>NAACP v. Button, <a href="../us371/us371-0145.xml#p145">371 U. S. 145</a>, <a href="../us371/us371-0415.xml#p433">371 U. S. 433</a>; see also Amsterdam, Note, The Void for Vagueness Doctrine in the Supreme Court, 109 U.Pa.L.Rev. 67, 75- 76, 80-81, 96-104 (1960). Although we have no occasion to decide whether the vice of overbroadness infects the Maryland statute, [<a id="nf3" href="#fn3">Footnote 3</a>] we think that appellant's assertion of a similar</p>
     <n id="p57">57</n>
     <p>danger in the Maryland apparatus of censorship -- one always fraught with danger and viewed with suspicion -- gives him standing to make that challenge. In substance, his argument is that, because the apparatus operates in a statutory context in which judicial review may be too little and too late, the Maryland statute lacks sufficient safeguards for confining the censor's action to judicially determined constitutional limits, and therefore contains the same vice as a statute delegating excessive administrative discretion.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Although the Court has said that motion pictures are not "necessarily subject to the precise rules governing any other particular method of expression," Joseph Burstyn, Inc. v. Wilson, <a href="../us343/us343-0495.xml#p495">343 U. S. 495</a>, <a href="../us343/us343-0495.xml#p503">343 U. S. 503</a>, it is as true here as of other forms of expression that "[a]ny system of prior restraints of expression comes to this Court bearing a heavy presumption against its constitutional validity." Bantam Books, Inc. v. Sullivan, supra, at <a href="../us372/us372-0058.xml#p70">372 U. S. 70</a>.</p>
     <p>". . . [U]nder the Fourteenth Amendment, a State is not free to adopt whatever procedures it pleases for dealing with obscenity . . . without regard to the possible consequences for constitutionally protected speech."</p>
     <p>Marcus v. Search Warrant, <a href="../us367/us367-0717.xml#p717">367 U. S. 717</a>, <a href="../us367/us367-0717.xml#p731">367 U. S. 731</a>. The administration of a censorship system for motion pictures presents peculiar dangers to constitutionally protected speech. Unlike a prosecution for obscenity, a censorship proceeding puts the initial burden on the exhibitor or distributor. Because the censor's business is to censor, there inheres the danger that he may well be less responsive than a court-part of an independent branch of government -- to the</p>
@@ -67,7 +67,7 @@
     <p>It is readily apparent that the Maryland procedural scheme does not satisfy these criteria. First, once the censor disapproves the film, the exhibitor must assume</p>
     <n id="p60">60</n>
     <p>the burden of instituting judicial proceedings and of persuading the courts that the film is protected expression. Second, once the Board has acted against a film, exhibition is prohibited pending judicial review, however protracted. Under the statute, appellant could have been convicted if he had shown the film after unsuccessfully seeking a license, even though no court had ever ruled on the obscenity of the film. Third, it is abundantly clear that the Maryland statute provides no assurance of prompt judicial determination. We hold, therefore, that appellant's conviction must be reversed. The Maryland scheme fails to provide adequate safeguards against undue inhibition of protected expression, and this renders the § 2 requirement of prior submission of films to the Board an invalid previous restraint.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>How or whether Maryland is to incorporate the required procedural safeguards in the statutory scheme is, of course, for the State to decide. But a model is not lacking: In Kingsley Books, Inc. v. Brown, <a href="../us354/us354-0436.xml#p436">354 U. S. 436</a>, we upheld a New York injunctive procedure designed to prevent the sale of obscene books. That procedure postpones any restraint against sale until a judicial determination of obscenity following notice and an adversary hearing. The statute provides for a hearing one day after joinder of issue; the judge must hand down his decision within two days after termination of the hearing. The New York procedure operates without prior submission to a censor, but the chilling effect of a censorship order, even one which requires judicial action for its enforcement, suggests all the more reason for expeditious determination of the question whether a particular film is constitutionally protected.</p>
     <p>The requirement of prior submission to a censor sustained in Times Film is consistent with our recognition</p>
     <n id="p61">61</n>

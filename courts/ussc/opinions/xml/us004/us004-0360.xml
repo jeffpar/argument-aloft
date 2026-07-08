@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us004-0360.html" citation="4 U.S. 360" title="KNOX v. GREENLEAF">
   <opinion type="Opinions &amp; Dissents">
     <n id="p360">360</n>
-    <h>U.S. Supreme Court</h>
-    <h>KNOX v. GREENLEAF, <a href="./us004-0360.xml#p360">4 U.S. 360</a> (1802)</h>
-    <h> <a href="./us004-0360.xml#p360">4 U.S. 360</a> (Dall.)</h>
-    <h>Knox et al. v. Greenleaf.</h>
-    <h>Circuit Court, Pennsylvania District.</h>
-    <h>May Term, 1802</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>KNOX v. GREENLEAF, <a href="./us004-0360.xml#p360">4 U.S. 360</a> (1802)</h1>
+    <h2>Knox et al. v. Greenleaf.</h2>
+    <h2>Circuit Court, Pennsylvania District.</h2>
+    <h4>May Term, 1802</h4>
     <p>CASE. The defendant filed the pollowing plea in abatement:</p>
     <p>'The said James Greenleaf, who is impleaded by the addition and description of a citizen of the state of Maryland, by Jared Ingersoll, his attorney, comes and defends the force and injury, &amp;c. and says, that he, long before the arrest in the present action, and at the same time, as well as twelve months preceding the said arrest, and continually afterwards, was, and yet is, a citizen of the state of Pennsylvania, having his permanent domicil and residence in the said state, or district, of Pennsylvania, and not a citizen of the state of Maryland. And the said James Greenleaf, by his attorney aforesaid, further saith, that according to the constitution and laws of the United States, a citizen of Pennsylvania cannot be impleaded or compelled to answer, by another citizen of the same state, before the Judges of the Circuit Court, but only in the Courts of the state, having competent jurisdiction of the case. And this he is ready to verify: therefore he prays judgment, if he ought to be compelled to answer the said William to the said plea in Court, &amp;c.' [360-Continued.]</p>
     <p>The plaintiffs filed a replication, averring that the defendant was a citizen of Maryland; and issue being thereupon joined, the question was tried before GRIFFITHS, and BASSET, Associate Judges, the CHIEF JUDGE declining, on account of a family connexion with the defendant, to take a judicial part in the cause.</p>
@@ -22,7 +22,7 @@
     <p>THE COURT.</p>
     <p>The COURT were clearly of opinion, that the defendant was entitled to be considered as a citizen of Pennsylvania; and the jury found a verdict accordingly.</p>
     <p>Verdict for the defendant.</p>
-    <h>Footnotes</h>
+    <h2>Footnotes</h2>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>
       <p>This action was brought against Mr. Greenleaf, as indorser of notes issued by Morris and Nicholson, which he had pledged as security for his own notes, given to the plaintiffs. His own notes were due before he was discharged, under the insolvent act; but the notes, of which he was indorsor, became due afterwards. This afforded matter for argument, but did not appear to enter into the decision of the Court. The plaintiff's counsel cited 4 T. Rep. 714.</p>
     </f>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us417-0062.html" citation="417 U.S. 62" title="Kosydar v. National Cash Register Co.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p62">62</n>
-    <h>U.S. Supreme Court</h>
-    <h>Kosydar v. National Cash Register Co., <a href="./us417-0062.xml#p62">417 U.S. 62</a> (1974)</h>
-    <h>Kosydar v. National Cash Register Co.</h>
-    <h>No. 73-629</h>
-    <h>Argued March 19, 1974</h>
-    <h>Decided May 20, 1974</h>
-    <h><a href="./us417-0062.xml#p62">417 U.S. 62</a></h>
-    <h>CERTIORARI TO THE SUPREME COURT OF OHIO</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Kosydar v. National Cash Register Co., <a href="./us417-0062.xml#p62">417 U.S. 62</a> (1974)</h1>
+    <h2>Kosydar v. National Cash Register Co.</h2>
+    <h2>No. 73-629</h2>
+    <h4>Argued March 19, 1974</h4>
+    <h4>Decided May 20, 1974</h4>
+    <h2>CERTIORARI TO THE SUPREME COURT OF OHIO</h2>
+    <h2>Syllabus</h2>
     <p>Cash registers and other machines built to foreign buyers' specifications, which were warehoused in Ohio awaiting shipment abroad, title, possession, and control remaining in respondent manufacturer, held not immune from state ad valorem tax, since the prospect of eventual exportation, however certain, did not start the process of exportation and move the machines into the export stream, without which the immunity from local taxation conferred by the Import-Export Clause of the Constitution was not available. Empresa Siderursica v. County of Merced, <a href="../us337/us337-0154.xml#p154">337 U. S. 154</a>. Pp. <a href="./us417-0062.xml#p65">417 U. S. 65</a>-71.</p>
     <p>35 Ohio St.2d 166, 298 N.E.2d 559, reversed.</p>
     <p>STEWART, J., delivered the opinion for a unanimous Court.</p>
@@ -20,7 +20,7 @@
     <n id="p62">62</n>
     <p>Imports or Exports, shall be for the Use of the Treasury of the United States; and all such Laws shall be subject to the Revision and Controul of the Congress."</p>
     <p>The issue for decision in this case is whether the assessment of an ad valorem personal property tax by the petitioner Tax Commissioner of Ohio upon certain property of the respondent is in conflict with this Clause.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The respondent National Cash Register Co. (NCR) has for many years engaged in the manufacture of cash registers, accounting machines, and electronic data processing systems, which it markets worldwide. Its home offices, main production plant, and warehouse are located in Dayton, Ohio. For marketing purposes, NCR is organized into two divisions, domestic and international, each wholly separated from the other. It is with the operations of the latter division that this case is concerned.</p>
     <p>NCR maintains no inventory of machines which are available to meet incoming orders from foreign customers. Rather, when a salesman from the international division receives an order from a customer, an individual order form is completed. The machine is then built to specification, taking into account the commercial peculiarities of the country to which it is to be shipped and the buyer's individual needs.</p>
     <p>After manufacture, the machine is inspected, packed, and crated for shipment abroad. The crated machine is then taken to an NCR warehouse in Dayton, to await foreign shipment. [<a id="nf1" href="#fn1">Footnote 1</a>] The machines relevant to</p>
@@ -30,7 +30,7 @@
     <n id="p65">65</n>
     <p>The Board of Tax Appeals nonetheless upheld the Commissioner's assessment. It ruled that, even if the crated machines were irrevocably committed to export, the immunity from state taxation conferred by Art. I, § 10, cl. 2, did not attach until the property actually started on its journey to a foreign destination. Since the machines here had not yet entered the export stream, the Board of Tax Appeals concluded that they were still subject to the personal property tax.</p>
     <p>The Supreme Court of Ohio reversed this decision by a divided vote. 35 Ohio St.2d 166, 298 N.E.2d 559. Relying on the evidence about the domestic nonsalability of the machines, the state court concluded that there was a "certainty of export" in this case. Given that "certainty," the court thought it irrelevant for Import-Export Clause purposes that the taxed machines had not, on the date of the assessment, been moved from the storage facility in Dayton. We granted certiorari, 414 U.S. 1111, because the case seemed to present important questions touching the accommodation of state and federal interests under the Constitution.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>By its own terms, the prohibition on taxation contained in the Import-Export Clause is absolute; no duties or imposts are allowed "except what may be absolutely necessary for executing [a State's] inspection Laws." [<a id="nf4" href="#fn4">Footnote 4</a>]</p>
     <n id="p66">66</n>
     <p>Consequently, the essential question in cases involving the Clause is a narrow one: is the property upon which a tax has been sought to be imposed an"export," and thus entitled to protection under the provision's literal terms?</p>

@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us052-0165.html" citation="52 U.S. 165" title="D'Arcy v. Ketchum">
   <opinion type="Opinions &amp; Dissents">
     <n id="p165">165</n>
-    <h>U.S. Supreme Court</h>
-    <h>D'Arcy v. Ketchum, 52 U.S. 165 (1850)</h>
-    <h>D'Arcy v. Ketchum</h>
-    <h>52 U.S. (11 How.) 165</h>
-    <h>ERROR TO THE CIRCUIT COURT OF THE</h>
-    <h>UNITED STATES FOR THE DISTRICT OF LOUISIANA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>D'Arcy v. Ketchum, 52 U.S. 165 (1850)</h1>
+    <h2>D'Arcy v. Ketchum</h2>
+    <h2>52 U.S. (11 How.) 165</h2>
+    <h2>ERROR TO THE CIRCUIT COURT OF THE</h2>
+    <h2>UNITED STATES FOR THE DISTRICT OF LOUISIANA</h2>
+    <h2>Syllabus</h2>
     <p>A statute of the State of New York provides</p>
     <p>"That where joint debtors are sued and one is brought into court on process, if judgment shall pass for plaintiff, he shall have judgment and execution not only against the party brought into court, but also against other joint debtors named in the original process in the same manner as if they had all been taken and brought into court by virtue of such process, but it shall not be lawful to issue or execute any such execution against the body or against the sole property of any person not brought into court."</p>
     <p>Where a judgment was given in New York against two partners, one of whom resided in Louisiana and was never served with process, and an action was brought against him in Louisiana upon this judgment, a peremptory exception in the nature of a demurrer that "the judgment sued upon is not one upon which suit can be brought against the defendant in this court" was well founded.</p>

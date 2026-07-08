@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us468-0517.html" citation="468 U.S. 517" title="Hudson v. Palmer">
   <opinion type="Opinions &amp; Dissents">
     <n id="p517">517</n>
-    <h>U.S. Supreme Court</h>
-    <h>Hudson v. Palmer, <a href="./us468-0517.xml#p517">468 U.S. 517</a> (1984)</h>
-    <h>Hudson v. Palmer</h>
-    <h>No. 82-1630</h>
-    <h>Argued December 7, 1983</h>
-    <h>Decided July 3, 1984<a href="./us468-0517.xml#p517">468 U.S. 517</a>ast|&gt;*</h>
-    <h><a href="./us468-0517.xml#p517">468 U.S. 517</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE FOURTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Hudson v. Palmer, <a href="./us468-0517.xml#p517">468 U.S. 517</a> (1984)</h1>
+    <h2>Hudson v. Palmer</h2>
+    <h4>No. 82-1630</h4>
+    <h4>Argued December 7, 1983</h4>
+    <h4>Decided July 3, 1984<a href="./us468-0517.xml#p517">468 U.S. 517</a>ast|&gt;*</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE FOURTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondent, an inmate at a Virginia penal institution, filed an action in Federal District Court under 42 U.S.C. § 1983 against petitioner, an officer at the institution, alleging that petitioner had conducted an unreasonable "shakedown" search of respondent's prison locker and cell and had brought a false charge, under prison disciplinary procedures, of destroying state property against respondent solely to harass him; and that, in violation of respondent's Fourteenth Amendment right not to be deprived of property without due process of law, petitioner had intentionally destroyed certain of respondent's noncontraband personal property during the search. The District Court granted summary judgment for petitioner, and the Court of Appeals affirmed with regard to the District Court's holding that respondent was not deprived of his property without due process. The Court of Appeals concluded that the decision in Parratt v. Taylor, <a href="../us451/us451-0527.xml#p527">451 U. S. 527</a> -- holding that a negligent deprivation of a prison inmate's property by state officials does not violate the Due Process Clause of the Fourteenth Amendment if an adequate postdeprivation state remedy exists -- should extend also to intentional deprivations of property. However, the Court of Appeals reversed and remanded with regard to respondent's claim that the "shakedown" search was unreasonable. The court held that a prisoner has a "limited privacy right" in his cell entitling him to protection against searches conducted solely to harass or to humiliate, and that a remand was necessary to determine the purpose of the search here.</p>
     <p>Held:</p>
     <p>1. A prisoner has no reasonable expectation of privacy in his prison cell entitling him to the protection of the Fourth Amendment against unreasonable searches. While prisoners enjoy many protections of the Constitution that are not fundamentally inconsistent with imprisonment itself or incompatible with the objectives of incarceration, imprisonment carries with it the circumscription or loss of many rights as being necessary to accommodate the institutional needs and objectives of prison facilities, particularly internal security and safety. It would be impossible</p>
@@ -25,7 +25,7 @@
     <p>which BRENNAN, MARSHALL, BLACKMUN, and STEVENS, JJ., also joined. O'CONNOR, J., filed a concurring opinion, post, p. <a href="./us468-0517.xml#p537">468 U. S. 537</a>. STEVENS, J., filed an opinion concurring in part and dissenting in part, in which BRENNAN, MARSHALL, and BLACKMUN, JJ., joined, post, p. <a href="./us468-0517.xml#p541">468 U. S. 541</a>.</p>
     <p>CHIEF JUSTICE BURGER delivered the opinion of the Court.</p>
     <p>We granted certiorari in No. 82-1630 to decide whether a prison inmate has a reasonable expectation of privacy in his prison cell entitling him to the protection of the Fourth Amendment against unreasonable searches and seizures. We also granted certiorari in No. 82-6695, the cross-petition, to determine whether our decision in Parratt v. Taylor, <a href="../us451/us451-0527.xml#p527">451 U. S. 527</a> (1981), which held that a negligent deprivation of property by state officials does not violate the Fourteenth Amendment if an adequate postdeprivation state remedy exists, should extend to intentional deprivations of property.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The facts underlying this dispute are relatively simple. Respondent Palmer is an inmate at the Bland Correctional Center in Bland, Va., serving sentences for forgery, uttering, grand larceny, and bank robbery convictions. On September 16, 1981, petitioner Hudson, an officer at the Correctional Center, with a fellow officer, conducted a "shakedown" search of respondent's prison locker and cell for contraband. During the "shakedown," the officers discovered a ripped pillowcase in a trash can near respondent's cell bunk. Charges</p>
     <n id="p520">520</n>
     <p>against Palmer were instituted under the prison disciplinary procedures for destroying state property. After a hearing, Palmer was found guilty on the charge and was ordered to reimburse the State for the cost of the material destroyed; in addition, a reprimand was entered on his prison record.</p>
@@ -41,7 +41,7 @@
     <p>"done pursuant to an established program of conducting random searches of single cells or groups of cells reasonably designed to deter or discover the possession of contraband"</p>
     <p>or upon reasonable belief that the particular prisoner possessed contraband. Id. at 1224. Because the Court of Appeals concluded that the record reflected a factual dispute over whether the search of respondent's cell was routine or conducted to harass respondent, it held that summary judgment was inappropriate, and that a remand was necessary to determine the purpose of the cell search.</p>
     <p>We granted certiorari. 463 U.S. 1206 (1983). We affirm in part and reverse in part.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>A</p>
     <p>The first question we address is whether respondent has a right of privacy in his prison cell entitling him to the protection of the Fourth Amendment against unreasonable searches. [<a id="nf5" href="#fn5">Footnote 5</a>] As we have noted, the Court of Appeals held that the District Court's summary judgment in petitioner's favor was premature because respondent had a "limited privacy right" in his cell that might have been breached. The court concluded that, to protect this privacy right, shakedown searches of an individual's cell should be performed only</p>
     <p>"pursuant to an established program of conducting random</p>
@@ -107,7 +107,7 @@
     <n id="p536">536</n>
     <p>be held liable' could have meant . . . only the possibility of liability under certain circumstances, rather than a blanket rule. . . ."</p>
     <p>Brief for Respondent and Cross-Petitioner 13. We are equally unpersuaded by this speculation. The language of Elder is unambiguous that employees of the Commonwealth do not enjoy sovereign immunity for their intentional torts, and Elder has been so read by a number of federal courts, as respondent concedes, see Brief for Respondent and Cross-Petitioner 13, n. 13. See, e.g., Holmes v. Wampler, <a href="https://law.justia.com/cases/federal/district-courts/FSupp/546/500/1870743/">546 F. Supp. 500</a>, 504 (ED Va.1982); Irshad v. Spann, <a href="https://law.justia.com/cases/federal/district-courts/FSupp/543/922/1460980/">543 F. Supp. 922</a>, 928 (ED Va.1982); Frazier v. Collins, <a href="https://law.justia.com/cases/federal/district-courts/FSupp/544/109/1686657/">544 F. Supp. 109</a>, 110 (ED Va.1982); Whorley v. Karr, <a href="https://law.justia.com/cases/federal/district-courts/FSupp/534/88/1443669/">534 F. Supp. 88</a>, 89 (WD Va.1981); Daughtry v. Arlington County, Va., <a href="https://law.justia.com/cases/federal/district-courts/FSupp/490/307/1905445/">490 F. Supp. 307</a> (DC 1980). [<a id="nf15" href="#fn15">Footnote 15</a>] In sum, it is evident here, as in Parratt, that the State has provided an adequate postdeprivation remedy for the alleged destruction of property.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>We hold that the Fourth Amendment has no applicability to a prison cell. We hold also that, even if petitioner intentionally destroyed respondent's personal property during the challenged shakedown search, the destruction did not violate the Fourteenth Amendment, since the Commonwealth of Virginia has provided respondent an adequate postdeprivation remedy.</p>
     <p>Accordingly, the judgment of the Court of Appeals reversing and remanding the District Court's judgment on respondent's</p>
     <n id="p537">537</n>
@@ -163,7 +163,7 @@
     </f>
     <f n="13"><a id="fn13" href="#nf13">Footnote 13</a>
       <p>In Logan, we examined a claim that the terms of an Illinois statute deprived the petitioner of an opportunity to pursue his employment discrimination claim. We specifically distinguished the case from Parratt by noting that</p>
-      <p>"Parratt . . . was dealing with a . . . 'random and unauthorized act by a state employee . . . , [and was] not a result of some established state procedure.'"</p>
+      <p>"Parratt . . . was dealing with a . . . 'random and unauthorized act by a state employee . . ., [and was] not a result of some established state procedure.'"</p>
       <p>455 U.S. at <a href="../us455/us455-0422.xml#p435">455 U. S. 435</a>-436 (quoting Parratt, 451 U.S. at <a href="../us451/us451-0527.xml#p541">451 U. S. 541</a>). Parratt, we said, "was not designed to reach . . . a situation" where the deprivation is the result of an established state procedure. 455 U.S. at <a href="../us455/us455-0422.xml#p436">455 U. S. 436</a>.</p>
     </f>
     <f n="14"><a id="fn14" href="#nf14">Footnote 14</a>
@@ -199,7 +199,7 @@
       <p>Personal letters, snapshots of family members, a souvenir, a deck of cards, a hobby kit, perhaps a diary or a training manual for an apprentice in a new trade, or even a Bible -- a variety of inexpensive items may enable a prisoner to maintain contact with some part of his past and an eye to the possibility of a better future. Are all of these items subject to unrestrained perusal, confiscation, or mutilation at the hands of a possibly hostile guard? Is the Court correct in its</p>
       <n id="p543">543</n>
       <p>perception that "society" is not prepared to recognize any privacy or possessory interest of the prison inmate -- no matter how remote the threat to prison security may be?</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>Even if it is assumed that Palmer had no reasonable expectation of privacy in most of the property at issue in this case because it could be inspected at any time, that does not mean he was without Fourth Amendment protection. [Footnote 2/5] For the Fourth Amendment protects Palmer's possessory interests in this property entirely apart from whatever privacy interest he may have in it.</p>
       <p>"The first Clause of the Fourth Amendment provides that the"</p>
       <p>"right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated. . . ."</p>
@@ -217,7 +217,7 @@
       <p>There are other substantive constitutional rights that also shed light on the legitimacy of Palmer's possessory interests.</p>
       <n id="p547">547</n>
       <p>The complaint alleges that the material at issue includes letters and legal materials. This Court has held that the First Amendment entitles a prisoner to receive and send mail, subject only to the institution's right to censor letters or withhold delivery if necessary to protect institutional security, and if accompanied by appropriate procedural safeguards. [Footnote 2/13] We have also held that the Fourteenth Amendment entitles a prisoner to reasonable access to legal materials as a corollary of the constitutional right of access to the courts. [Footnote 2/14] Thus, these substantive constitutional rights affirmatively protect Palmer's right to possess the material in question free from state interference. It is therefore beyond me how the Court can question the legitimacy of Palmer's possessory interests which were so clearly infringed by Hudson's alleged conduct.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>Once it is concluded that Palmer has adequately alleged a "seizure," the question becomes whether the seizure was "unreasonable." Questions of Fourth Amendment reasonableness can be resolved only by balancing the intrusion on constitutionally protected interests against the law enforcement interests justifying the challenged conduct. [Footnote 2/15]</p>
       <p>It is well settled that the discretion accorded prison officials is not absolute. [Footnote 2/16] A prisoner retains those constitutional</p>
       <n id="p548">548</n>
@@ -242,7 +242,7 @@
       <p>of the Court's opinion -- seemingly assuming that all prisoners have demonstrated an inability "to control and conform their behavior to the legitimate standards of society by the normal impulses of self-restraint," ante at <a href="./us468-0517.xml#p526">468 U. S. 526</a>, is consistent with its conception of prisons as sterile warehouses, but not with an enlightened view of the function of a modern prison system. [Footnote 2/30] In the final analysis, however, any deference to institutional needs is totally undermined by the fact that Palmer's property was not contraband. If Palmer were allowed to possess the property, then there can be no contention that any institutional need or policy justified the seizure and destruction of the property. Once it is agreed that random searches of a prisoner's cell are reasonable to ensure that the cell contains no contraband, there can be no need for seizure and destruction of noncontraband items found during such searches. To accord prisoners any less protection is to declare that the prisoners are entitled to no measure of human dignity or individuality -- not a photo, a letter, nor anything except standard-issue prison clothing would be free from arbitrary seizure and destruction. Yet that is the view the</p>
       <n id="p555">555</n>
       <p>Court takes today. It declares prisoners to be little more than chattels, a view I thought society had outgrown long ago.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>By adopting its "bright line" rule, the Court takes the "hands off " approach to prison administration that I thought it had abandoned forever when it wrote in Wolff v. McDonnell, <a href="../us418/us418-0539.xml#p539">418 U. S. 539</a> (1974):</p>
       <p>"[T]hough his rights may be diminished by the needs and exigencies of the institutional environment, a prisoner is not wholly stripped of constitutional protections when he is imprisoned for crime. There is no iron curtain drawn between the Constitution and the prisons of this country."</p>
       <p>Id. at <a href="../us418/us418-0539.xml#p555">418 U. S. 555</a>-556.</p>

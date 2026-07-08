@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us483-0868.html" citation="483 U.S. 868" title="Griffin v. Wisconsin">
   <opinion type="Opinions &amp; Dissents">
     <n id="p868">868</n>
-    <h>U.S. Supreme Court</h>
-    <h>Griffin v. Wisconsin, <a href="./us483-0868.xml#p868">483 U.S. 868</a> (1987)</h>
-    <h>Griffin v. Wisconsin</h>
-    <h>No. 86-5324</h>
-    <h>Argued April 20, 1987</h>
-    <h>Decided June 26, 1987</h>
-    <h><a href="./us483-0868.xml#p868">483 U.S. 868</a></h>
-    <h>CERTIORARI TO THE SUPREME COURT OF WISCONSIN</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Griffin v. Wisconsin, <a href="./us483-0868.xml#p868">483 U.S. 868</a> (1987)</h1>
+    <h2>Griffin v. Wisconsin</h2>
+    <h2>No. 86-5324</h2>
+    <h4>Argued April 20, 1987</h4>
+    <h4>Decided June 26, 1987</h4>
+    <h2>CERTIORARI TO THE SUPREME COURT OF WISCONSIN</h2>
+    <h2>Syllabus</h2>
     <p>Wisconsin law places probationers in the legal custody of the State Department of Health and Social Services and renders them "subject to . . . conditions set by the . . . rules and regulations established by the department." One such regulation permits any probation officer to search a probationer's home without a warrant as long as his supervisor approves and as long as there are "reasonable grounds" to believe the presence of contraband. In determining whether "reasonable grounds" exist, an officer must consider a variety of factors, including information provided by an informant, the reliability and specificity of that information, the informant's reliability, the officer's experience with the probationer, and the need to verify compliance with the rules of probation and with the law. Another regulation forbids a probationer to possess a firearm without a probation officer's advance approval. Upon information received from a police detective that there were or might be guns in petitioner probationer's apartment, probation officers searched the apartment and found a handgun. Petitioner was tried and convicted of the felony of possession of a firearm by a convicted felon, the state trial court having denied his motion to suppress the evidence seized during the search after concluding that no warrant was necessary and that the search was reasonable. The State Court of Appeals and the State Supreme Court affirmed.</p>
     <p>Held:</p>
     <p>1. The warrantless search of petitioner's residence was "reasonable" within the meaning of the Fourth Amendment because it was conducted pursuant to a regulation that is itself a reasonable response to the "special needs" of a probation system. Pp. <a href="./us483-0868.xml#p872">483 U. S. 872</a>-880.</p>
@@ -24,7 +24,7 @@
     <n id="p870">870</n>
     <p>JUSTICE SCALIA delivered the opinion of the Court.</p>
     <p>Petitioner Joseph Griffin, who was on probation, had his home searched by probation officers acting without a warrant. The officers found a gun that later served as the basis of Griffin's conviction of a state law weapons offense. We granted certiorari, 479 U.S. 1005 (1986), to consider whether this search violated the Fourth Amendment.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>On September 4, 1980, Griffin, who had previously been convicted of a felony, was convicted in Wisconsin state court of resisting arrest, disorderly conduct, and obstructing an officer. He was placed on probation.</p>
     <p>Wisconsin law puts probationers in the legal custody of the State Department of Health and Social Services and renders them "subject . . . to . . . conditions set by the court and rules and regulations established by the department." Wis.Stat. § 973.10(1) (1985-1986). One of the Department's regulations permits any probation officer to search a probationer's</p>
     <n id="p871">871</n>
@@ -33,7 +33,7 @@
     <n id="p872">872</n>
     <p>Griffin was charged with possession of a firearm by a convicted felon, which is itself a felony. Wis.Stat. § 941.29(2) (1985-1986). He moved to suppress the evidence seized during the search. The trial court denied the motion, concluding that no warrant was necessary and that the search was reasonable. A jury convicted Griffin of the firearms violation, and he was sentenced to two years' imprisonment. The conviction was affirmed by the Wisconsin Court of Appeals, 126 Wis.2d 183, <a href="https://law.justia.com/cases/wisconsin/court-of-appeals/1985/84-021-cr-5.html">376 N.W.2d 62</a> (1985).</p>
     <p>On further appeal, the Wisconsin Supreme Court also affirmed. It found denial of the suppression motion proper because probation diminishes a probationer's reasonable expectation of privacy -- so that a probation officer may, consistent with the Fourth Amendment, search a probationer's home without a warrant, and with only "reasonable grounds" (not probable cause) to believe that contraband is present. It held that the "reasonable grounds" standard of Wisconsin's search regulation satisfied this "reasonable grounds" standard of the Federal Constitution, and that the detective's tip established "reasonable grounds" within the meaning of the regulation, since it came from someone who had no reason to supply inaccurate information, specifically identified Griffin, and suggested a need to verify Griffin's compliance with state law. 131 Wis.2d 41, 52-64, <a href="https://law.justia.com/cases/wisconsin/supreme-court/1986/84-021-c-9.html">388 N.W.2d 535</a>, 539-544 (1986).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>We think the Wisconsin Supreme Court correctly concluded that this warrantless search did not violate the Fourth Amendment. To reach that result, however, we find it unnecessary to embrace a new principle of law, as the Wisconsin court evidently did, that any search of a probationer's home by a probation officer satisfies the Fourth Amendment as long as the information possessed by the officer satisfies a federal "reasonable grounds" standard. As his sentence for the commission of a crime, Griffin was committed to the legal custody of the Wisconsin State Department of Health and</p>
     <n id="p873">873</n>
     <p>Social Services, and thereby made subject to that Department's rules and regulations. The search of Griffin's home satisfied the demands of the Fourth Amendment because it was carried out pursuant to a regulation that itself satisfies the Fourth Amendment's reasonableness requirement under well-established principles.</p>
@@ -93,7 +93,7 @@
       <p>The dissenters assert that the search did not comport with all the governing Wisconsin regulations. There are reasonable grounds on which the Wisconsin court could find that it did. But we need not belabor those here, since the only regulation upon which we rely for our constitutional decision is that which permits a warrantless search on "reasonable grounds." The Wisconsin Supreme Court found the requirement of "reasonable grounds" to have been met on the facts of this case and, as discussed earlier, we hold that such a requirement, so interpreted, meets constitutional minimum standards as well. That the procedures followed, although establishing "reasonable grounds" under Wisconsin law, and adequate under federal constitutional standards, may have violated Wisconsin state regulations, is irrelevant to the case before us.</p>
       <p>JUSTICE BLACKMUN, with whom JUSTICE MARSHALL joins and, as to Parts I-B and I-C, JUSTICE BRENNAN joins and, as to Part I-C, JUSTICE STEVENS joins, dissenting.</p>
       <p>In ruling that the home of a probationer may be searched by a probation officer without a warrant, the Court today takes another step that diminishes the protection given by the Fourth Amendment to the "right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures." In my view, petitioner's probationary status provides no reason to abandon the warrant requirement. The probation system's special law enforcement needs may justify a search by a probation officer on the basis of "reasonable suspicion," but even that standard was not met in this case.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>The need for supervision in probation presents one of the "exceptional circumstances in which special needs, beyond the normal need for law enforcement," New Jersey v. T.L.O., <a href="../us469/us469-0325.xml#p325">469 U. S. 325</a>, <a href="../us469/us469-0325.xml#p351">469 U. S. 351</a> (1985) (opinion concurring in judgment), justify an application of the Court's balancing test and an examination of the practicality of the warrant and probable cause requirements. The Court, however, fails to recognize that this is a threshold determination of special law enforcement needs. The warrant and probable cause requirements provide the normal standard for "reasonable" searches.</p>
       <p>"[O]nly when the practical realities of a particular situation suggest that a government official cannot obtain a warrant based upon probable cause without sacrificing the ultimate goals to which a search would contribute does the Court turn to a 'balancing' test to formulate a standard of reasonableness for this context."</p>
       <p>O'Connor v. Ortega, <a href="../us480/us480-0709.xml#p709">480 U. S. 709</a>, <a href="../us480/us480-0709.xml#p741">480 U. S. 741</a> (1987) (dissenting opinion). The presence of special law enforcement needs justifies resort to the balancing test, but it does not preordain the necessity of recognizing exceptions to the warrant and probable cause requirements.</p>
@@ -137,7 +137,7 @@
       <p>The majority acknowledges that it is "most unlikely" that the suspicion in this case would have met the normal "probable cause" standard. Ante at <a href="./us483-0868.xml#p878"> 483 U. S. 878</a>. It concludes, however, that this is not an "ordinary" case, because of the need for supervision and the continuing relationship between the probationer and the probation agency. Ibid. In view of this continuing</p>
       <n id="p890">890</n>
       <p>relationship, the regulations mandated consideration of factors that go beyond those normally considered in determining probable cause to include information provided by the probationer and the experience of the staff member with the probationer. But unless the agency adheres to the regulations, it is sophistic to rely on them as a justification for conducting a search on a lesser degree of suspicion. Mr. Lew drew on no special knowledge of petitioner in deciding to search his house. He had no contact with the agent familiar with petitioner's case before commencing the search. Nor, as discussed above, was there the slightest attempt to obtain information from petitioner. In this case, the continuing relationship between petitioner and the agency did not supply support for any suspicion, reasonable or otherwise, that would justify a search of petitioner's home.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>There are many probationers in this country, and they have committed crimes that range widely in seriousness. The Court has determined that all of them may be subjected to such searches in the absence of a warrant. Moreover, in authorizing these searches on the basis of a reduced level of suspicion, the Court overlooks the feeble justification for the search in this case.</p>
       <p>I respectfully dissent.</p>
       <p>[Footnote 2/1]</p>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us397-0358.html" citation="397 U.S. 358" title="In re Winship">
   <opinion type="Opinions &amp; Dissents">
     <n id="p358">358</n>
-    <h>U.S. Supreme Court</h>
-    <h>In re Winship, <a href="./us397-0358.xml#p358">397 U.S. 358</a> (1970)</h>
-    <h>In re Winship</h>
-    <h>No. 778</h>
-    <h>Argued January 20, 1970</h>
-    <h>Decided March 31, 1970</h>
-    <h><a href="./us397-0358.xml#p358">397 U.S. 358</a></h>
-    <h>APPEAL FROM THE COURT OF APPEALS OF NEW YORK</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>In re Winship, <a href="./us397-0358.xml#p358">397 U.S. 358</a> (1970)</h1>
+    <h2>In re Winship</h2>
+    <h2>No. 778</h2>
+    <h4>Argued January 20, 1970</h4>
+    <h4>Decided March 31, 1970</h4>
+    <h2>APPEAL FROM THE COURT OF APPEALS OF NEW YORK</h2>
+    <h2>Syllabus</h2>
     <p>Relying on a preponderance of the evidence, the standard of proof required by § 744(b) of the New York Family Court Act, a New York Family Court judge found that appellant, then a 12-year-old boy, had committed an act that "if done by an adult, would constitute the crime . . . of Larceny." The New York Court of Appeals affirmed, sustaining the constitutionality of § 744(b).</p>
     <p>Held: Proof beyond a reasonable doubt, which is required by the Due Process Clause in criminal trials, is among the "essentials of due process and fair treatment" required during the adjudicatory stage when a juvenile is charged with an act that would constitute a crime if committed by an adult. Pp. <a href="./us397-0358.xml#p361">397 U. S. 361</a>-368.</p>
     <p>2 N.Y.2d 196, 247 N.E.2d 253, reversed.</p>
@@ -27,7 +27,7 @@
     <p>During a subsequent dispositional hearing, appellant was ordered placed in a training school for an initial period of 18 months, subject to annual extensions of his commitment until his 18th birthday -- six years, in appellant's case. The Appellate Division of the New York Supreme Court, First Judicial Department, affirmed without opinion, 30 App.Div.2d 781, 291 N.Y.S.2d 1005 (1968). The New York Court of Appeals then affirmed by a four-to-three vote, expressly sustaining the constitutionality of § 744(b), 24 N.Y.2d 196, 247 N.E.2d 253 (1969). [<a id="nf3" href="#fn3">Footnote 3</a>]</p>
     <n id="p361">361</n>
     <p>We noted probable jurisdiction, 396 U.S. 885 (1969). We reverse.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The requirement that guilt of a criminal charge be established by proof beyond a reasonable doubt dates at least from our early years as a Nation. The</p>
     <p>"demand for a higher degree of persuasion in criminal cases was recurrently expressed from ancient times, [though] its crystallization into the formula 'beyond a reasonable doubt' seems to have occurred as late as 1798. It is now accepted in common law jurisdictions as the measure of persuasion by which the prosecution must convince the trier of all the essential elements of guilt."</p>
     <p>C. McCormick, Evidence § 321, pp. 681-682 (1954); see also J. Wigmore, Evidence § 2497 (3d ed.1940). Although virtually unanimous adherence to the reasonable doubt standard in common law jurisdictions may not conclusively establish it as a requirement of due process, such adherence does "reflect a profound judgment about the</p>
@@ -53,7 +53,7 @@
     <p>Moreover, use of the reasonable doubt standard is indispensable to command the respect and confidence of the community in applications of the criminal law. It is critical that the moral force of the criminal law not be diluted by a standard of proof that leaves people in doubt whether innocent men are being condemned. It is also important in our free society that every individual going about his ordinary affairs have confidence that his government cannot adjudge him guilty of a criminal offense without convincing a proper factfinder of his guilt with utmost certainty.</p>
     <p>Lest there remain any doubt about the constitutional stature of the reasonable doubt standard, we explicitly hold that the Due Process Clause protects the accused against conviction except upon proof beyond a reasonable doubt of every fact necessary to constitute the crime with which he is charged.</p>
     <n id="p365">365</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>We turn to the question whether juveniles, like adults, are constitutionally entitled to proof beyond a reasonable doubt when they are charged with violation of a criminal law. The same considerations that demand extreme caution in factfinding to protect the innocent adult apply as well to the innocent child. We do not find convincing the contrary arguments of the New York Court of Appeals. Gault rendered untenable much of the reasoning relied upon by that court to sustain the constitutionality of § 744(b). The Court of Appeals indicated that a delinquency adjudication</p>
     <p>"is not a 'conviction' (§ 781); that it affects no right or privilege, including the right to hold public office or to obtain a license (§ 782), and a cloak of protective confidentiality is thrown around all the proceedings (§§ 783-784)."</p>
     <p>24 N.Y.2d at 200, 247 N.E.2d at 255-256. The court said further:</p>
@@ -75,7 +75,7 @@
     <n id="p368">368</n>
     <p>that it calls on the trier of fact merely to perform an abstract weighing of the evidence in order to determine which side has produced the greater quantum, without regard to its effect in convincing his mind of the truth of the proposition asserted."</p>
     <p>Dorsen &amp; Rezneck, supra, at 26-27. [<a id="nf6" href="#fn6">Footnote 6</a>]</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>In sum, the constitutional safeguard of proof beyond a reasonable doubt is as much required during the adjudicatory stage of a delinquency proceeding as are those constitutional safeguards applied in Gault -- notice of charges, right to counsel, the rights of confrontation and examination, and the privilege against self-incrimination. We therefore hold, in agreement with Chief Judge Fuld in dissent in the Court of Appeals,</p>
     <p>"that, where a 12-year-old child is charged with an act of stealing which renders him liable to confinement for as long as six years, then, as a matter of due process . . . the case against him must be proved beyond a reasonable doubt."</p>
     <p>24 N.Y.2d at 207, 247 N.E.2d at 260.</p>
@@ -113,7 +113,7 @@
       <p>No one, I daresay, would contend that state juvenile court trials are subject to no federal constitutional limitations. Differences have existed, however, among the members of this Court as to what constitutional protections do apply. See In re Gault, <a href="../us387/us387-0001.xml#p1">387 U. S. 1</a> (1967).</p>
       <n id="p369">369</n>
       <p>The present case draws in question the validity of a New York statute that permits a determination of juvenile delinquency, founded on a charge of criminal conduct, to be made on a standard of proof that is less rigorous than that which would obtain had the accused been tried for the same conduct in an ordinary criminal case. While I am in full agreement that this statutory provision offends the requirement of fundamental fairness embodied in the Due Process Clause of the Fourteenth Amendment, I am constrained to add something to what my Brother BRENNAN has written for the Court, lest the true nature of the constitutional problem presented become obscured or the impact on state juvenile court systems of what the Court holds today be exaggerated.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>Professor Wigmore, in discussing the various attempts by courts to define how convinced one must be to be convinced beyond a reasonable doubt, wryly observed:</p>
       <p>"The truth is that no one has yet invented or discovered a mode of measurement for the intensity of human belief. Hence, there can be yet no successful method of communicating intelligibly . . . a sound method of self-analysis for one's belief,"</p>
       <p>9 J. Wigmore, Evidence 325 (3d ed.1940). [Footnote 2/1]</p>
@@ -133,11 +133,11 @@
       <p>"There is always in litigation a margin of error, representing error in factfinding, which both parties must take into account. Where one party has at stake an interest of transcending value -- as a criminal defendant his liberty -- this margin of error is reduced as to him by the process of placing on the other party the burden . . . of persuading the factfinder at the conclusion of the trial of his guilt beyond a reasonable doubt."</p>
       <p>In this context, I view the requirement of proof beyond a reasonable doubt in a criminal case as bottomed on a fundamental value determination of our society that it is far worse to convict an innocent man than to let a guilty man go free. It is only because of the nearly complete and longstanding acceptance of the reasonable doubt standard by the States in criminal trials that the Court has not, before today, had to hold explicitly that due process, as an expression of fundamental procedural fairness, [Footnote 2/5] requires a more stringent standard for criminal trials than for ordinary civil litigation.</p>
       <n id="p373">373</n>
-      <h>II</h>
+      <h2>II</h2>
       <p>When one assesses the consequences of an erroneous factual determination in a juvenile delinquency proceeding in which a youth is accused of a crime, I think it must be concluded that, while the consequences are</p>
       <n id="p374">374</n>
       <p>not identical to those in a criminal case, the differences will not support a distinction in the standard of proof. First, and of paramount importance, a factual error here, as in a criminal case, exposes the accused to a complete loss of his personal liberty through a state-imposed confinement away from his home, family, and friends. And second, a delinquency determination, to some extent at least, stigmatizes a youth in that it is, by definition, bottomed on a finding that the accused committed a crime. [Footnote 2/6] Although there are no doubt costs to society (and possibly even to the youth himself) in letting a guilty youth go free, I think here, as in a criminal case, it is far worse to declare an innocent youth a delinquent. I therefore agree that a juvenile court judge should be no less convinced of the factual conclusion that the accused committed the criminal act with which he is charged than would be required in a criminal trial.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>I wish to emphasize, as I did in my separate opinion in Gault, <a href="../us387/us387-0001.xml#p1">387 U. S. 1</a>, <a href="../us387/us387-0001.xml#p65">387 U. S. 65</a>, that there is no automatic congruence</p>
       <n id="p375">375</n>
       <p>between the procedural requirements imposed by due process in a criminal case and those imposed by due process in juvenile cases. [Footnote 2/7] It is of great importance, in my view, that procedural strictures not be constitutionally imposed that jeopardize "the essential elements of the State's purpose" in creating juvenile courts, id. at <a href="../us387/us387-0001.xml#p72">387 U. S. 72</a>. In this regard, I think it worth emphasizing that the requirement of proof beyond a reasonable doubt that a juvenile committed a criminal act before he is found to be a delinquent does not (1) interfere with the worthy goal of rehabilitating the juvenile, (2) make any significant difference in the extent to which a youth is stigmatized as a "criminal" because he has been found to be a delinquent, or (3) burden the juvenile courts with a procedural requirement that will make juvenile adjudications significantly more time consuming, or rigid. Today's decision simply requires a juvenile court judge to be more confident in his belief that the youth did the act with which he has been charged.</p>
@@ -175,7 +175,7 @@
       <p>Ante at <a href="./us397-0358.xml#p362">397 U. S. 362</a>. I have joined in some of those opinions, as well as the dissenting opinion of Mr. Justice Frankfurter in Leland v. Oregon, <a href="../us343/us343-0790.xml#p790">343 U. S. 790</a>, <a href="../us343/us343-0001.xml#p80">343 U. S. 80</a> (1952). The Court has never clearly held, however, that proof beyond a reasonable doubt is either expressly or impliedly commanded by any provision of the Constitution. The Bill of Rights, which, in my view, is made fully applicable to the States by the Fourteenth Amendment, see Adamson v. California, <a href="../us332/us332-0046.xml#p46">332 U. S. 46</a>, <a href="../us332/us332-0046.xml#p71">332 U. S. 71</a>-75 (147) (dissenting opinion), does, by express language, provide for, among other things, a right to counsel in criminal trials, a right to indictment, and the right of a defendant to be informed of the nature of the charges against him. [Footnote 3/1] And, in two places, the Constitution provides for trial by jury, [Footnote 3/2] but nowhere in that document is there any statement that conviction of crime requires proof of guilt beyond a reasonable doubt. The Constitution thus goes into some detail to spell out what kind of trial a defendant charged with crime should have, and I believe the Court has no power to add to or subtract from the procedures set forth by the Founders. I realize that it is far easier to substitute individual judges' ideas of "fairness" for the fairness prescribed by the Constitution, but I shall not at any time surrender my belief that that document itself should be our guide, not our own concept of what is fair, decent, and right. That this old "shock-the-conscience" test is what the Court is relying on, rather than the words of the Constitution,</p>
       <n id="p378">378</n>
       <p>is clearly enough revealed by the reference of the majority to "fair treatment" and to the statement by the dissenting judges in the New York Court of Appeals that failure to require proof beyond a reasonable doubt amounts to a "lack of fundamental fairness." Ante at <a href="./us397-0358.xml#p359">397 U. S. 359</a>, <a href="./us397-0358.xml#p363">397 U. S. 363</a>. As I have said time and time again, I prefer to put my faith in the words of the written Constitution itself, rather than to rely on the shifting, day-to-day standards of fairness of individual judges.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>Our Constitution provides that no person shall be "deprived of life, liberty, or property, without due process of law." [Footnote 3/3] The four words -- due process of law -- have been the center of substantial legal debate over the years. See Chambers v. Florida, <a href="../us309/us309-0227.xml#p227">309 U. S. 227</a>, <a href="../us309/us309-0227.xml#p235">309 U. S. 235</a>-236, and n. 8 (1940). Some might think that the words themselves are vague. But any possible ambiguity disappears when the phrase is viewed in the light of history and the accepted meaning of those words prior to and at the time our Constitution was written.</p>
       <p>"Due process of law" was originally used as a shorthand expression for governmental proceedings according to the "law of the land" as it existed at the time of those proceedings. Both phrases are derived from the laws of England, and have traditionally been regarded as meaning the same thing. The Magna Carta provided that:</p>
       <p>"No Freeman shall be taken, or imprisoned, or be disseised of his Freehold, or Liberties, or free Customs, or be outlawed, or exiled, or any otherwise</p>
@@ -211,7 +211,7 @@
       <p>It can be, and has been, argued that, when this Court strikes down a legislative act because it offends the idea of "fundamental fairness," it furthers the basic thrust of our Bill of Rights by protecting individual freedom.</p>
       <n id="p385">385</n>
       <p>But that argument ignores the effect of such decisions on perhaps the most fundamental individual liberty of our people -- the right of each man to participate in the self-government of his society. Our Federal Government was set up as one of limited powers, but it was also given broad power to do all that was "necessary and proper" to carry out its basic purpose of governing the Nation, so long as those powers were not exercised contrary to the limitations set forth in the Constitution. And the States, to the extent they are not restrained by the provisions in that document, were to be left free to govern themselves in accordance with their own views of fairness and decency. Any legislature presumably passes a law because it thinks the end result will help more than hinder, and will thus further the liberty of the society as a whole. The people, through their elected representatives, may, of course, be wrong in making those determinations, but the right of self-government that our Constitution preserves is just as important as any of the specific individual freedoms preserved in the Bill of Rights. The liberty of government by the people, in my opinion, should never be denied by this Court except when the decision of the people, as stated in laws passed by their chosen representatives, conflicts with the express or necessarily implied commands of our Constitution.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>I admit a strong, persuasive argument can be made for a standard of proof beyond a reasonable doubt in criminal cases -- and the majority has made that argument well -- but it is not for me as a judge to say for that reason that Congress or the States are without constitutional power to establish another standard that the Constitution does not otherwise forbid. It is quite true that proof beyond a reasonable doubt has long been required in federal criminal trials. It is also true that</p>
       <n id="p386">386</n>
       <p>this requirement is almost universally found in the governing laws of the States. And as long as a particular jurisdiction requires proof beyond a reasonable doubt, then the Due Process Clause commands that every trial in that jurisdiction must adhere to that standard. See Turner v. United States, <a href="../us396/us396-0398.xml#p398">396 U. S. 398</a>, <a href="../us396/us396-0398.xml#p430">396 U. S. 430</a> (1970) (BLACK, J., dissenting). But when, as here, a State, through its duly constituted legislative branch, decides to apply a different standard, then that standard, unless it is otherwise unconstitutional, must be applied to insure that persons are treated according to the "law of the land." The State of New York has made such a decision, and, in my view, nothing in the Due Process Clause invalidates it.</p>

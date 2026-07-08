@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us401-0200.html" citation="401 U.S. 200" title="Dyson v. Stein">
   <opinion type="Opinions &amp; Dissents">
     <n id="p200">200</n>
-    <h>U.S. Supreme Court</h>
-    <h>Dyson v. Stein, <a href="./us401-0200.xml#p200">401 U.S. 200</a> (1971)</h>
-    <h>Dyson v. Stein</h>
-    <h>No. 41</h>
-    <h>Argued April 30, 1970</h>
-    <h>Reargued November 16, 1970</h>
-    <h>Decided February 23, 1971</h>
-    <h><a href="./us401-0200.xml#p200">401 U.S. 200</a></h>
-    <h>APPEAL FROM THE UNITED STATES DISTRICT COURT</h>
-    <h>FOR THE NORTHERN DISTRICT OF TEXAS</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Dyson v. Stein, <a href="./us401-0200.xml#p200">401 U.S. 200</a> (1971)</h1>
+    <h2>Dyson v. Stein</h2>
+    <h2>No. 41</h2>
+    <h4>Argued April 30, 1970</h4>
+    <h4>Reargued November 16, 1970</h4>
+    <h4>Decided February 23, 1971</h4>
+    <h2>APPEAL FROM THE UNITED STATES DISTRICT COURT</h2>
+    <h2>FOR THE NORTHERN DISTRICT OF TEXAS</h2>
+    <h2>Syllabus</h2>
     <p>Appellee newspaper publisher, who had been charged with violating a Texas law prohibiting the possession of obscene materials, brought this action in a federal district court for an injunction to prevent the Dallas police from arresting him and seizing his property on obscenity grounds without a prior judicial determination of obscenity and for a declaration of the rights of the parties with respect to the statute. A three-judge court was convened and issued declaratory and injunctive relief, holding two parts of the statute unconstitutional and ruling that another part would be constitutional only if the obscenity definition was changed.</p>
     <p>Held: There was no finding of irreparable injury to appellee, and hence no proper basis for federal interference with the pending state criminal prosecution. Younger v. Harris, ante, p. <a href="./us401-0037.xml#p37">401 U. S. 37</a>; Samuels v. Mackell, ante, p. <a href="./us401-0066.xml#p66">401 U. S. 66</a>.</p>
     <p><a href="https://law.justia.com/cases/federal/district-courts/FSupp/300/602/1821083/">300 F. Supp. 602</a>, vacated and remanded.</p>
@@ -47,7 +47,7 @@
     <p>"The provisions of this Act shall not apply to any daily or weekly newspaper."</p>
     <p>"Sec. 6. The district courts of this State and the judges thereof shall have full power, authority, and jurisdiction, upon application by any district or county attorney within their respective jurisdictions, to issue any and all proper restraining orders, temporary and permanent injunctions, and any other writs and processes appropriate to carry out and enforce the provisions of this Act."</p>
     <p>MR. JUSTICE DOUGLAS, dissenting.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The two raids in this case were search-and-destroy missions in the Vietnamese sense of the phrase. In each case, the police came at night. The first search warrant authorized a search and seizure of "obscene articles and materials, to-wit: pictures, photographs, drawings and obscene literature" concealed at a given</p>
     <n id="p205">205</n>
     <p>address. The seizures included: two tons of a newspaper (Dallas Notes), one photograph enlarger, two portable typewriters, two electric typewriters, one camera, "numerous obscene photographs," and $5.43 in money. [<a id="nf1" href="#fn1">Footnote 1</a>] The second warrant was issued 16 days later, in response to a claim that marihuana was concealed on the premises. It authorized the officers "to search for and seize the said narcotic drug and dangerous drug in accordance with the law in such cases provided." Not finding any marihuana on the premises; the sergeant asked instructions from his lieutenant. He was told to seize pornographic literature and any equipment used to make it. He "didn't know what to seize and what not to seize so [he] just took everything." "Everything" included a Polaroid camera, a Kodak Brownie, a Flocon camera, a Kodak lamp, a floating fixture lamp, a three-drawer desk containing printers' supplies, a drafting square, a drafting table, two drawing boards, a mailing tube, two telephones, a stapler, five cardboard boxes containing documents, one electric typewriter, and one typewriter desk. A poster of Mao Tse-tung, credit cards, costume jewelry, cans of spices, a brown sweater, and</p>
@@ -61,7 +61,7 @@
     <p>I agree with that view.</p>
     <p>It is said, however, that these issues are not before us, as the case has been remanded to a single judge to pass on them. But we deal with plain error, as the state statute is unconstitutional on its face and we should put an end to lawless raids under it. [<a id="nf4" href="#fn4">Footnote 4</a>]</p>
     <n id="p208">208</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>The constitutional mandate that government [<a id="nf5" href="#fn5">Footnote 5</a>] "shall make no law . . . abridging the freedom of speech, or of the press" precludes, in my view, any form of censorship. Vicious, irresponsible, and depraved as the press often is, the constitutional remedy is not censorship. [<a id="nf6" href="#fn6">Footnote 6</a>] The antidote is education, pinning our faith to the Jeffersonian creed that, by education, we may, in time, become a mature people. [<a id="nf7" href="#fn7">Footnote 7</a>]</p>
     <n id="p209">209</n>
     <p>I have set forth my views over and over again as to why the First Amendment should be strictly construed, and they need not be repeated here. It is difficult -- indeed, impossible -- to read the constitutional mandate that government "shall make no law" abridging freedom of the press to mean that government "may make some laws" abridging that freedom. Certainly a strict constructionist cannot so read it.</p>
@@ -79,7 +79,7 @@
     <p>"It is, of course, conceivable that a statute might be flagrantly and patently violative of express constitutional prohibitions in every clause, sentence and paragraph, and in whatever manner and against whomever an effort might be made to apply it."</p>
     <p>No clearer case justifying federal intervention to prevent a state criminal trial can be imagined.</p>
     <p>No pending prosecutions are sought to be enjoined, only future ones. [<a id="nf9" href="#fn9">Footnote 9</a>] Such an injunction is not impermissible under 28 U.S.C. § 2283. See Dombrowski v. Pfister, <a href="../us380/us380-0479.xml#p479">380 U. S. 479</a>, <a href="../us380/us380-0479.xml#p484">380 U. S. 484</a> n. 2, and my dissent in Younger v. Harris, ante at <a href="./us401-0037.xml#p65">401 U. S. 65</a>. Appellee also asked for declaratory relief. If Zwickler v. Koota, <a href="../us389/us389-0241.xml#p241">389 U. S. 241</a>, means anything, it means that such relief can also be granted.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>If a publication deemed "obscene" is not under the umbrella of the First Amendment, then I do not see how it enjoys many constitutional safeguards. That which is out from under the First Amendment would normally be subject to the police power of the States. Yet the Constitution contains no standards or suggestions of standards respecting the vast array of subjects that various vocal groups would like to have suppressed -- obscenity, sacrilege, un-Americanism, anti-clerical ideas, atheistic or anti-ecclesiastical ideas, Communism, racism,</p>
     <n id="p212">212</n>
     <p>and so on. Under the Constitution as written, there are no standards of "good" or "bad" for the press. Since there is no constitutional definition of obscenity, the definition must be largely, if not exclusively, for legislative determination. Absent a controlling constitutional standard, I would think that a legislature could treat literature as it treats sewage effluent or infectious disease. That is not a happy prospect, for some would put even the Song of Solomon under the ban. It is, I fear, where we end once we lose our First Amendment moorings. Administrative censorship, however, is one thing. Criminal punishment is quite another. Publishing "obscene" literature cannot, as I view it, be made a crime under our constitutional standards.</p>

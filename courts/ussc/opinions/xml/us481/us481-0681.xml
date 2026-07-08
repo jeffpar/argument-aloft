@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us481-0681.html" citation="481 U.S. 681" title="United States v. Johnson">
   <opinion type="Opinions &amp; Dissents">
     <n id="p681">681</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Johnson, <a href="./us481-0681.xml#p681">481 U.S. 681</a> (1987)</h>
-    <h>United States v. Johnson</h>
-    <h>No. 85-2039</h>
-    <h>Argued February 24, 1987</h>
-    <h>Decided May 18, 1987</h>
-    <h><a href="./us481-0681.xml#p681">481 U.S. 681</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE ELEVENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Johnson, <a href="./us481-0681.xml#p681">481 U.S. 681</a> (1987)</h1>
+    <h2>United States v. Johnson</h2>
+    <h4>No. 85-2039</h4>
+    <h4>Argued February 24, 1987</h4>
+    <h4>Decided May 18, 1987</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE ELEVENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Under Feres v. United States, <a href="../us340/us340-0135.xml#p135">340 U. S. 135</a>, the Government has no Federal Tort Claims Act (FTCA) liability for injuries to members of the military service arising out of or in the course of activity incident to service. Respondent's husband, a helicopter pilot for the Coast Guard, was killed when his helicopter crashed during a rescue mission. Shortly before the crash, air traffic controllers from the Federal Aviation Administration, a civilian agency of the Federal Government, had assumed positive radar control over the helicopter. After receiving veterans' benefits for her husband's death, respondent filed an FTCA action seeking damages from the Government on the ground that the controllers' negligence had caused the crash. The Federal District Court dismissed the complaint relying exclusively on Feres. However, the Court of Appeals reversed, distinguishing Feres from cases such as the present in which negligence is alleged on the part of a Government employee who is not a member of the military. Finding the effect of a suit on military discipline to be the Feres doctrine's primary justification, the court ruled that Feres did not bar respondent's suit, since there was no indication that the conduct or decisions of military personnel would be subjected to scrutiny if the case proceeded to trial.</p>
     <p>Held: The Feres doctrine bars an FTCA action on behalf of a service member killed during an activity incident to service, even if the alleged negligence is by civilian employees of the Federal Government. Pp. <a href="./us481-0681.xml#p686">481 U. S. 686</a>-692.</p>
     <p>(a) This Court and the lower federal courts have consistently applied the Feres doctrine since its inception, and have never suggested that the military status of the alleged tortfeasor is crucial. Nor has Congress seen fit to change the Feres standard in the more than 35 years since it was articulated. Pp. <a href="./us481-0681.xml#p686">481 U. S. 686</a>-688.</p>
@@ -23,7 +23,7 @@
     <p>POWELL, J., delivered the opinion of the Court, in which REHNQUIST, C.J., and WHITE, BLACKMUN, and O'CONNOR, JJ., joined. SCALIA, J., filed a dissenting opinion, in which BRENNAN, MARSHALL, and STEVENS, JJ., joined, post, p. <a href="./us481-0681.xml#p692">481 U. S. 692</a>.</p>
     <p>JUSTICE POWELL delivered the opinion of the Court</p>
     <p>This case presents the question whether the doctrine established in Feres v. United States, <a href="../us340/us340-0135.xml#p135">340 U. S. 135</a> (1950), bars an action under the Federal Tort Claims Act on behalf of a service member killed during the course of an activity incident to service, where the complaint alleges negligence on the part of civilian employees of the Federal Government.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Lieutenant Commander Horton Winfield Johnson was a helicopter pilot for the United States Coast Guard, stationed</p>
     <n id="p683">683</n>
     <p>in Hawaii. In the early morning of January 7, 1982, Johnson's Coast Guard station received a distress call from a boat lost in the area. Johnson and a crew of several other Coast Guard members were dispatched to search for the vessel. Inclement weather decreased the visibility, and so Johnson requested radar assistance from the Federal Aviation Administration (FAA), a civilian agency of the Federal Government. The FAA controllers assumed positive radar control over the helicopter. Shortly thereafter, the helicopter crashed into the side of a mountain on the island of Molokai. All the crew members, including Johnson, were killed in the crash.</p>
@@ -45,7 +45,7 @@
     <p>Id. at 1494.</p>
     <p>We granted certiorari, 479 U.S. 811 (1986), to review the Court of Appeals' reformulation of the Feres doctrine and to resolve the conflict among the Circuits on the issue. [<a id="nf4" href="#fn4">Footnote 4</a>] We now reverse.</p>
     <n id="p686">686</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>In Feres, this Court held that service members cannot bring tort suits against the Government for injuries that "arise out of or are in the course of activity incident to service." 340 U.S. at <a href="../us340/us340-0135.xml#p146">340 U. S. 146</a>. This Court has never deviated from this characterization of the Feres bar. [<a id="nf5" href="#fn5">Footnote 5</a>] Nor has Congress changed this standard in the close to 40 years since it was articulated, even though, as the Court noted in Feres, Congress "possesses a ready remedy" to alter a misinterpretation of its intent. Id. at <a href="../us340/us340-0135.xml#p138">340 U. S. 138</a>. [<a id="nf6" href="#fn6">Footnote 6</a>] Although all of the cases decided by this Court under Feres have involved allegations of negligence on the part of members of the military, this Court has never suggested that the military status of the alleged tortfeasor is crucial to the application of the doctrine. [<a id="nf7" href="#fn7">Footnote 7</a>]</p>
     <n id="p687">687</n>
     <p>Nor have the lower courts understood this fact to be relevant under Feres. [<a id="nf8" href="#fn8">Footnote 8</a>] Instead, the Feres doctrine has been applied consistently to bar all suits on behalf of service members</p>
@@ -67,7 +67,7 @@
     <p>In this case, Lieutenant Commander Johnson was killed while performing a rescue mission on the high seas, a primary duty of the Coast Guard. See 14 U.S.C. §§ 2, 88(a)(1). [<a id="nf12" href="#fn12">Footnote 12</a>] There is no dispute that Johnson's injury arose directly out of the rescue mission, or that the mission was an activity incident to his military service. Johnson went on the rescue mission specifically because of his military status. His wife received and is continuing to receive statutory benefits on account of his death. Because Johnson was acting pursuant to standard operating procedures of the Coast</p>
     <n id="p692">692</n>
     <p>Guard, the potential that this suit could implicate military discipline is substantial. The circumstances of this case thus fall within the heart of the Feres doctrine as it consistently has been articulated.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>We reaffirm the holding of Feres that</p>
     <p>"the Government is not liable under the Federal Tort Claims Act for injuries to servicemen where the injuries arise out of or are in the course of activity incident to service."</p>
     <p>340 U.S. at <a href="../us340/us340-0135.xml#p146">340 U. S. 146</a>. Accordingly, we reverse the judgment of the Court of Appeals for the Eleventh Circuit and remand for proceedings consistent with this opinion.</p>
@@ -119,7 +119,7 @@
       <p>The Coast Guard, of course, is a military service, and an important branch of the Armed Services. 14 U.S.C. § 1.</p>
       <p>JUSTICE SCALIA, with whom JUSTICE BRENNAN, JUSTICE MARSHALL, and JUSTICE STEVENS join, dissenting.</p>
       <p>As it did almost four decades ago in Feres v. United States, <a href="../us340/us340-0135.xml#p135">340 U. S. 135</a> (1950), the Court today provides several reasons why Congress might have been wise to exempt from the Federal Tort Claims Act (FTCA), 28 U.S.C. §§ 1346(b), 2671-2680, certain claims brought by servicemen. The problem now, as then, is that Congress not only failed to provide such an exemption, but quite plainly excluded it. We have not been asked by respondent here to overrule Feres, but I can perceive no reason to accept petitioner's invitation to extend it as the Court does today.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>Much of the sovereign immunity of the United States was swept away in 1946 with passage of the FTCA, which renders the Government liable</p>
       <p>"for money damages . . . for injury or loss of property, or personal injury or death caused by the negligent or wrongful act or omission of any employee of the Government while acting within the scope of his office or employment, under circumstances where the United</p>
       <n id="p693">693</n>
@@ -160,7 +160,7 @@
       <p>In sum, neither the three original Feres reasons nor the post hoc rationalization of "military discipline" justifies our failure to apply the FTCA as written. Feres was wrongly decided, and heartily deserves the "widespread, almost universal criticism" it has received. In re "Agent Orange"</p>
       <n id="p701">701</n>
       <p>Product Liability Litigation, <a href="https://law.justia.com/cases/federal/district-courts/FSupp/580/1242/1450435/">580 F. Supp. 1242</a>, 1246 (EDNY), appeal dism'd, 745 F.2d 161 (CA2 1984). <a href="./us481-0681.xml#p681">*</a></p>
-      <h>II</h>
+      <h2>II</h2>
       <p>The Feres Court claimed its decision was necessary to make "the entire statutory system of remedies against the Government . . . a workable, consistent and equitable whole." 340 U.S. at <a href="../us340/us340-0135.xml#p139">340 U. S. 139</a>. I am unable to find such beauty in what we have wrought. Consider the following hypothetical (similar to one presented by Judge Weinstein in In re "Agent Orange" Product Liability Litigation, supra, at 1252): A serviceman is told by his superior officer to deliver some papers to the local United States Courthouse. As he nears his destination, a wheel on his Government vehicle breaks, causing the vehicle to injure him, his daughter (whose class happens to be touring the courthouse that day), and a United States marshal on duty. Under our case law and federal statutes, the serviceman may not sue the Government (Feres); the guard may not sue the Government (because of the exclusivity provision of the Federal Employees' Compensation Act (FECA),</p>
       <n id="p702">702</n>
       <p>5 U.S.C. § 8116); the daughter may not sue the Government for the loss of her father's companionship (Feres), but may sue the Government for her own injuries (FTCA). The serviceman and the guard may sue the manufacturer of the vehicle, as may the daughter, both for her own injuries and for the loss of her father's companionship. The manufacturer may assert contributory negligence as a defense in any of the suits. Moreover, the manufacturer may implead the Government in the daughter's suit (United States v. Yellow Cab Co., <a href="../us340/us340-0543.xml#p543">340 U. S. 543</a> (1951)), and in the guard's suit (Lockheed Aircraft Corp. v. United States, <a href="../us460/us460-0190.xml#p190">460 U. S. 190</a> (1983)), even though the guard was compensated under a statute that contains an exclusivity provision (FECA). But the manufacturer may not implead the Government in the serviceman's suit (Stencel Aero Engineering Corp. v. United States, <a href="../us431/us431-0666.xml#p666">431 U. S. 666</a> (1977)), even though the serviceman was compensated under a statute that does not contain an exclusivity provision (VBA).</p>

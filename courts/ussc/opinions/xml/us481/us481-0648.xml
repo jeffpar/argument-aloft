@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us481-0648.html" citation="481 U.S. 648" title="Gray v. Mississippi">
   <opinion type="Opinions &amp; Dissents">
     <n id="p648">648</n>
-    <h>U.S. Supreme Court</h>
-    <h>Gray v. Mississippi, <a href="./us481-0648.xml#p648">481 U.S. 648</a> (1987)</h>
-    <h>Gray v. Mississippi</h>
-    <h>No. 85-5454</h>
-    <h>Argued November 12, 1986</h>
-    <h>Decided May 18, 1987</h>
-    <h><a href="./us481-0648.xml#p648">481 U.S. 648</a></h>
-    <h>CERTIORARI TO THE SUPREME COURT OF MISSISSIPPI</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Gray v. Mississippi, <a href="./us481-0648.xml#p648">481 U.S. 648</a> (1987)</h1>
+    <h2>Gray v. Mississippi</h2>
+    <h2>No. 85-5454</h2>
+    <h4>Argued November 12, 1986</h4>
+    <h4>Decided May 18, 1987</h4>
+    <h2>CERTIORARI TO THE SUPREME COURT OF MISSISSIPPI</h2>
+    <h2>Syllabus</h2>
     <p>Under Witherspoon v. Illinois, <a href="../us391/us391-0510.xml#p510">391 U. S. 510</a>, and its progeny, the right to an impartial jury under the Sixth and Fourteenth Amendments prohibits the exclusion of venire members for cause in capital cases unless their stated opposition to the death penalty would prevent or substantially impair the performance of their duties as jurors. Davis v. Georgia, <a href="../us429/us429-0122.xml#p122">429 U. S. 122</a>, in effect established a per se rule requiring the vacation of a death sentence imposed by a jury from which a potential juror, who has conscientious scruples against the death penalty but who nevertheless, under Witherspoon, is eligible to serve, has been erroneously excluded for cause. At voir dire during petitioner's capital murder trial, the trial judge in eight instances denied the prosecutor's motions to dismiss for cause venire members who expressed some degree of doubt about the death penalty. The prosecutor used peremptory challenges to remove those eight panel members. When venire member Bounds, although initially somewhat confused in her response, stated that she could reach a guilty verdict and vote to impose the death penalty, the trial judge nevertheless excused her for cause on the motion of the prosecutor, who by then had exercised all of his peremptory challenges. The judge acknowledged that he had made the prosecutor use peremptory challenges against venire members whose opposition to the death penalty was unequivocal. Ultimately, the Mississippi Supreme Court affirmed petitioner's conviction and death sentence. Although acknowledging that Bounds was clearly qualified to be a juror, the court concluded that her erroneous exclusion did not prejudice petitioner, since that error simply corrected other errors the trial judge committed in refusing to dismiss venire members for cause after they unequivocally stated that they could not vote to impose the death penalty.</p>
     <p>Held: The judgment is reversed in part and the case is remanded.</p>
     <p><a href="https://law.justia.com/cases/mississippi/supreme-court/1985/55738-0.html">472 So. 2d 409</a>, reversed in part and remanded.</p>
@@ -29,7 +29,7 @@
     <p>More than 10 years ago, in Davis v. Georgia, <a href="../us429/us429-0122.xml#p122">429 U. S. 122</a> (1976) (per curiam), this Court on certiorari summarily reversed a judgment of a state court and ruled that, when a trial court misapplies Witherspoon v. Illinois, <a href="../us391/us391-0510.xml#p510">391 U. S. 510</a> (1968), and excludes from a capital jury a prospective juror who in fact is qualified to serve, a death sentence imposed by</p>
     <n id="p651">651</n>
     <p>the jury cannot stand. [<a id="nf1" href="#fn1">Footnote 1</a>] This case presents the question whether the Court now should abandon that ruling and, instead, subject an impermissible exclusion to harmless error renew.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In June 1982, petitioner David Randolph Gray was indicted in Harrison County, Miss., on a capital charge for the stabbing death of Ronald Wojcik while engaged in the commission of the felony of kidnaping. [<a id="nf2" href="#fn2">Footnote 2</a>] The trial judge began the jury selection process by assembling the entire venire in the courtroom. He then formed an initial panel for voir dire by calling 12 persons to the jury box. Tr.193-194. After preliminary questioning by the court regarding prior knowledge of the case and of the parties involved, the prosecutor commenced his examination of the panel. After a member was removed for cause or by the prosecutor's use of a peremptory challenge, another venire member was called to the box for questioning by the prosecutor. When the prosecutor reached the point where he acknowledged that he would accept the full panel as it stood, the voir dire shifted to the defense, and petitioner's attorney followed the same procedure. The questioning continued in this alternating fashion, with each side examining those venire members who had been called to the box since its last opportunity to inquire, until the final panel was selected.</p>
     <p>The panel members were questioned individually for the most part, but this took place in the presence of the others</p>
     <n id="p652">652</n>
@@ -62,7 +62,7 @@
     <p>Id. at 422-423.</p>
     <p>Writing in dissent and joined by two other members of the court, Justice Sullivan emphasized that, according to the record, the trial judge excused Bounds for cause ("the majority . . . contradicts the trial judge's very words"), not on the basis of a peremptory challenge. Id. at 424. In the dissent's view, the majority's reasoning was invalid because, under Davis v. Georgia, courts could not treat erroneous Witherspoon dismissals as harmless error. 472 So. 2d at 425.</p>
     <p>We granted certiorari, 475 U.S. 1010 (1986), to consider whether to abandon the Davis ruling and whether the improper excusal of a juror for cause can be harmless.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>In Witherspoon, this Court held that a capital defendant's right, under the Sixth and Fourteenth Amendments, to an impartial jury prohibited the exclusion of venire members</p>
     <p>"simply because they voiced general objections to the death penalty or expressed conscientious or religious scruples against its infliction."</p>
     <p>391 U.S. at <a href="../us391/us391-0510.xml#p522">391 U. S. 522</a>. It reasoned that the exclusion of venire members must be limited to those who were</p>
@@ -83,7 +83,7 @@
     <p>[such a] death sentence would deprive him of his life without due process of law."</p>
     <p>Witherspoon v. Illinois, 391 U.S. at <a href="../us391/us391-0510.xml#p523">391 U. S. 523</a>.</p>
     <p>Every Justice of the Mississippi Supreme Court expressly stated that panel member Bounds "was clearly qualified to be seated as a juror under the Adams and Witt criteria." 472 So. 2d at 422 and 424. We agree. Gray's death sentence therefore cannot stand unless this Court chooses to abandon Davis.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Although Davis was not cited in the Mississippi Supreme Court's majority opinion in the present case, this Court in Davis surely established a per se rule requiring the vacation of a death sentence imposed by a jury from which a potential juror, who has conscientious scruples against the death penalty but who nevertheless, under Witherspoon, is eligible to serve, has been erroneously excluded for cause. See Davis, 429 U.S. at <a href="../us429/us429-0122.xml#p123">429 U. S. 123</a>-124 (dissenting opinion). The Davis per curiam opinion served to identify the Court's course after Witherspoon. [<a id="nf8" href="#fn8">Footnote 8</a>] Soon after Witherspoon was decided, the Court was presented with several situations in which state courts had exhibited their confusion as to how to apply the standard enunciated in that case. [<a id="nf9" href="#fn9">Footnote 9</a>] In 1971, it had summarily � <a id="nf14" href="#fn14">14 and</a> S. 660� reversed the judgments in 23 cases imposing death sentences and had remanded the cases for further proceedings in light of Witherspoon and its progeny. See 403 U.S. 946-948. Several of the state courts in those cases had relied on harmless error analyses similar to those Mississippi seeks to resurrect here. See nn. <a id="nf14" href="#fn14">14 and</a> | <a id="nf14" href="#fn14">14 and</a> S. 648fn16|&gt;16, infra.</p>
     <p>We did not have occasion to revisit the Witherspoon issue during the period between the decision in Furman v. Georgia, <a href="../us408/us408-0238.xml#p238">408 U. S. 238</a> (1972), and Branch v. Texas, decided with Furman, where Georgia and Texas death sentences were invalidated, and the decisions in Gregg v. Georgia, <a href="../us428/us428-0153.xml#p153">428 U. S. 153</a> (1976), and its companion cases, where we upheld post-Furman death penalty statutes against constitutional challenge. But after Gregg, the Witherspoon issue again appeared. In fact, our first post-Gregg opinion in a capital case was Davis, which served to inform lower courts that we would continue to treat Witherspoon violations as reversible constitutional error in the post-Gregg era. 429 U.S. at <a href="../us429/us429-0122.xml#p123">429 U. S. 123</a>. The instant case presents yet another opportunity for this Court to adopt a harmless error analysis, and once again we decline to do so.</p>
     <p>The efforts to apply a harmless error determination to Witherspoon violations have suggested two analyses. See Krauss, The Witherspoon Doctrine at Witt's End: Death-Qualification Reexamined, 24 Am.Crim.L.Rev. 1, 32, n. 111 (1987). The first is to consider the state's retention of unexercised peremptory challenges at the end of jury selection as an indication that the erroneous for-cause exclusion was harmless. This approach relies on a representation by the state that it would have removed the venire member by peremptory challenge if the court had denied its for-cause</p>
@@ -123,7 +123,7 @@
     <n id="p668">668</n>
     <p>appears that prosecutors often use peremptory challenges in this manner, [<a id="nf19" href="#fn19">Footnote 19</a>] a court cannot say with confidence that an erroneous exclusion for cause of a scrupled, yet eligible, venire member is an isolated incident in that particular case. Therefore, we cannot say that courts may treat such an error as an isolated incident having no prejudicial effect.</p>
     <p>Because the Witherspoon-Witt standard is rooted in the constitutional right to an impartial jury, Wainwright v. Witt, 469 U.S. at <a href="../us469/us469-0412.xml#p416">469 U. S. 416</a>, and because the impartiality of the adjudicator goes to the very integrity of the legal system, the Chapman harmless error analysis cannot apply. We have recognized that "some constitutional rights [are] so basic to a fair trial that their infraction can never be treated as harmless error." Chapman v. California, 386 U.S. at <a href="../us386/us386-0018.xml#p23">386 U. S. 23</a>. The right to an impartial adjudicator, be it judge or jury, is such a right. Id. at <a href="../us386/us386-0018.xml#p23">386 U. S. 23</a>, n. 8, citing, among other cases, Tumey v. Ohio, <a href="../us273/us273-0510.xml#p510">273 U. S. 510</a> (1927) (impartial judge). As was stated in Witherspoon, a capital defendant's constitutional right not to be sentenced by a "tribunal organized to return a verdict of death" surely equates with a criminal defendant's right not to have his culpability determined by a "tribunal organized to convict.'" 391 U.S. at <a href="../us391/us391-0510.xml#p521">391 U. S. 521</a>, quoting Fay v. New York, <a href="../us332/us332-0261.xml#p261">332 U. S. 261</a>, <a href="../us332/us332-0261.xml#p294">332 U. S. 294</a> (1947).</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>The judgment of the Supreme Court of Mississippi, insofar as it imposes the death sentence, is reversed, and the case is remanded to that court for further proceedings not inconsistent with this opinion.</p>
     <p>It is so ordered.</p>
     <n id="p669">669</n>

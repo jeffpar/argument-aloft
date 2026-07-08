@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us591-19-46.html" citation="591 U.S. 19-46" title="Patent and Trademark Office v. Booking.com B.V.">
   <opinion type="Opinion" author="Ginsburg">
     <p>NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 19–46</p>
-    <p>_________________</p>
     <p>UNITED STATES PATENT AND TRADEMARK OFFICE, et al., PETITIONERS v. BOOKING.COM B. V.</p>
     <p>on writ of certiorari to the united states court of appeals for the fourth circuit</p>
     <p>[June 30, 2020]</p>
@@ -39,7 +38,7 @@
     <p>“Generic.com,” the PTO maintains, is like “Generic Company” and is therefore ineligible for trademark protection, let alone federal registration. According to the PTO, adding “.com” to a generic term—like adding “Company”—“conveys no additional meaning that would distinguish [one provider’s] services from those of other providers.” Brief for Petitioners 44. The dissent endorses that proposition: “Generic.com” conveys that the generic good or service is offered online “and nothing more.” Post, at 1.</p>
     <p>That premise is faulty. A “generic.com” term might also convey to consumers a source-identifying characteristic: an association with a particular website. As the PTO and the dissent elsewhere acknowledge, only one entity can occupy a particular Internet domain name at a time, so “[a] consumer who is familiar with that aspect of the domain-name system can infer that BOOKING.COM refers to some specific entity.” Brief for Petitioners 40. See also Tr. of Oral Arg. 5 (“Because domain names are one of a kind, a significant portion of the public will always understand a generic ‘.com’ term to refer to a specific business . . . .”); post, at 7 (the “exclusivity” of “generic.com” terms sets them apart from terms like “Wine, Inc.” and “The Wine Company”). Thus, consumers could understand a given “generic.com” term to describe the corresponding website or to identify the website’s proprietor. We therefore resist the PTO’s position that “generic.com” terms are capable of signifying only an entire class of online goods or services and, hence, are categorically incapable of identifying a source.[<a id="nf1-5" href="#fn1-5">5</a>]</p>
     <p>The PTO’s reliance on Goodyear is flawed in another respect. The PTO understands Goodyear to hold that “Generic Company” terms “are ineligible for trademark protection as a matter of law”—regardless of how “consumers would understand” the term. Brief for Petitioners 38. But, as noted, whether a term is generic depends on its meaning to consumers. Supra, at 6. That bedrock principle of the Lanham Act is incompatible with an unyielding legal rule that entirely disregards consumer perception. Instead, Goodyear reflects a more modest principle harmonious with Congress’ subsequent enactment: A compound of generic elements is generic if the combination yields no additional meaning to consumers capable of distinguishing the goods or services.</p>
-    <p>The PTO also invokes the oft-repeated principle that “no matter how much money and effort the user of a generic term has poured into promoting the sale of its merchandise . . . , it cannot deprive competing manufacturers of the product of the right to call an article by its name.” Abercrombie &amp; Fitch Co. v. Hunting World, Inc., 537 F.2d 4, 9 (CA2 1976). That principle presupposes that a generic term is at issue. But the PTO’s only legal basis for deeming “generic.com” terms generic is its mistaken reliance on Goodyear.</p>
+    <p>The PTO also invokes the oft-repeated principle that “no matter how much money and effort the user of a generic term has poured into promoting the sale of its merchandise . . ., it cannot deprive competing manufacturers of the product of the right to call an article by its name.” Abercrombie &amp; Fitch Co. v. Hunting World, Inc., 537 F.2d 4, 9 (CA2 1976). That principle presupposes that a generic term is at issue. But the PTO’s only legal basis for deeming “generic.com” terms generic is its mistaken reliance on Goodyear.</p>
     <p>While we reject the rule proffered by the PTO that “generic.com” terms are generic names, we do not embrace a rule automatically classifying such terms as nongeneric. Whether any given “generic.com” term is generic, we hold, depends on whether consumers in fact perceive that term as the name of a class or, instead, as a term capable of distinguishing among members of the class.[<a id="nf1-6" href="#fn1-6">6</a>]</p>
     <p>B</p>
     <p>The PTO, echoed by the dissent, post, at 10–12, objects that protecting “generic.com” terms as trademarks would disserve trademark law’s animating policies. We disagree.</p>
@@ -60,9 +59,7 @@
   </opinion>
   <opinion type="Concurrence" author="Sotomayor">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 19–46</p>
-    <p>_________________</p>
     <p>UNITED STATES PATENT AND TRADEMARK OFFICE, et al., PETITIONERS v. BOOKING.COM B. V.</p>
     <p>on writ of certiorari to the united states court of appeals for the fourth circuit</p>
     <p>[June 30, 2020]</p>
@@ -73,9 +70,7 @@
   </opinion>
   <opinion type="Dissent" author="Breyer">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 19–46</p>
-    <p>_________________</p>
     <p>UNITED STATES PATENT AND TRADEMARK OFFICE, et al., PETITIONERS v. BOOKING.COM B. V.</p>
     <p>on writ of certiorari to the united states court of appeals for the fourth circuit</p>
     <p>[June 30, 2020]</p>

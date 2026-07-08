@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us602-22-800.html" citation="602 U.S. 22-800" title="Moore v. United States">
   <opinion type="Opinion" author="Kavanaugh">
     <p>NOTICE: This opinion is subject to formal revision before publication in the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, pio@supremecourt.gov, of any typographical or other formal errors.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 22–800</p>
-    <p>_________________</p>
     <p>CHARLES G. MOORE, et ux., PETITIONERS v. UNITED STATES</p>
     <p>on writ of certiorari to the united states court of appeals for the ninth circuit</p>
     <p>[June 20, 2024]</p>
@@ -113,9 +112,7 @@
   </opinion>
   <opinion type="Concurrence" author="Jackson">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 22–800</p>
-    <p>_________________</p>
     <p>CHARLES G. MOORE, et ux., PETITIONERS v. UNITED STATES</p>
     <p>on writ of certiorari to the united states court of appeals for the ninth circuit</p>
     <p>[June 20, 2024]</p>
@@ -135,9 +132,7 @@
   </opinion>
   <opinion type="Concurrence" author="Barrett">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 22–800</p>
-    <p>_________________</p>
     <p>CHARLES G. MOORE, et ux., PETITIONERS v. UNITED STATES</p>
     <p>on writ of certiorari to the united states court of appeals for the ninth circuit</p>
     <p>[June 20, 2024]</p>
@@ -190,9 +185,7 @@
   </opinion>
   <opinion type="Dissent" author="Thomas">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 22–800</p>
-    <p>_________________</p>
     <p>CHARLES G. MOORE, et ux., PETITIONERS v. UNITED STATES</p>
     <p>on writ of certiorari to the united states court of appeals for the ninth circuit</p>
     <p>[June 20, 2024]</p>
@@ -242,7 +235,7 @@
     <p>4</p>
     <p>I next consider the single most important piece of context for understanding the Sixteenth Amendment: Pollock v. Farmers’ Loan &amp; Trust Co., <a href="../us158/us158-0601.xml#p601">158 U.S. 601</a>, the case that the Amendment overruled. In Pollock, the Court concluded, for the first time, that a tax was direct, not apportioned, and therefore unconstitutional. The Court’s reasoning turned on the premise that the Constitution permits no distinction between taxing income and taxing the source from which that income is derived. The holding of Pollock thus meant that most income taxes would have to be apportioned, a requirement that made them politically unpalatable. See supra, at 6 (describing possible state-by-state variations in rates for apportioned taxes). Because the Sixteenth Amendment overruled the result in Pollock, an accurate understanding of the case is essential to understanding the Amendment.</p>
     <p>Congress imposed the Nation’s first peacetime income tax as part of the Revenue Act of 1894. The Act paired a new tax on the incomes of the wealthiest two percent of Americans with tariff cuts that would benefit less wealthy consumers. See Weisman 132–133, 145. The income-tax component of the Act provided:</p>
-    <p>“That [from 1895 until 1900] there shall be assessed, levied, collected, and paid annually upon the gains, profits, and income received in the preceding calendar year by [citizens and resident aliens], whether said gains, profits, or income be derived from any kind of property, rents, interest, dividends, or salaries, or from any profession, trade, employment, or vocation . . . , or from any other source whatever, a tax of two per centum on the amount so derived over and above four thousand dollars.” §27, 28Stat. 553.</p>
+    <p>“That [from 1895 until 1900] there shall be assessed, levied, collected, and paid annually upon the gains, profits, and income received in the preceding calendar year by [citizens and resident aliens], whether said gains, profits, or income be derived from any kind of property, rents, interest, dividends, or salaries, or from any profession, trade, employment, or vocation . . ., or from any other source whatever, a tax of two per centum on the amount so derived over and above four thousand dollars.” §27, 28Stat. 553.</p>
     <p>The income tax was not apportioned among the States by population.</p>
     <p>In Pollock v. Farmers’ Loan &amp; Trust Co., <a href="../us157/us157-0429.xml#p429">157 U.S. 429</a> (1895), the Court considered whether the 1894 income tax was a direct tax that failed to satisfy the Direct Tax Clause’s apportionment requirement. The taxpayer argued that portions of the tax were direct because “imposing a tax on the income or rents of real estate, imposes a tax upon the real estate itself.” Id., at 555. And, taking the position that taxes on personal property are also direct taxes, the taxpayer argued that “imposing a tax on the . . . income of bonds or other personal property . . . imposes a tax on the personal estate itself.” Ibid.</p>
     <p>The Court endeavored to determine what “were recognized as direct taxes” “at the time the Constitution was framed and adopted.” Id., at 558. The Court considered historical context, the records of the Constitutional Convention, the Federalist Papers, other documents from the ratification debates, the 1794 carriage tax, and Hylton’s Case. 157 U. S., at 558–568, 570–572. The Court concluded that “all taxes on real estate or personal property or the rents or income thereof were regarded as direct taxes” at the time the Constitution was ratified. Id., at 573–574. After reaching a conclusion about the original meaning of the Constitution, the Court surveyed its precedents and observed that “in none of them is it determined that taxes on rents or income derived from land are not taxes on land,” and that “none . . . discussed the question whether a tax on the income from personalty is equivalent to a tax on that personalty.” Id., at 579. The Court had some difficulty explaining Springer, which stated that direct taxes are limited to capitation and land taxes and concluded that a tax on income was an indirect tax. See supra, at 15. But, the Court returned to “[t]he original record” in Springer to review the sources of the taxpayer’s income, and it distinguished the case on that ground. 157 U. S., at 578–579.</p>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us405-0645.html" citation="405 U.S. 645" title="Stanley v. Illinois">
   <opinion type="Opinions &amp; Dissents">
     <n id="p645">645</n>
-    <h>U.S. Supreme Court</h>
-    <h>Stanley v. Illinois, <a href="./us405-0645.xml#p645">405 U.S. 645</a> (1972)</h>
-    <h>Stanley v. Illinois</h>
-    <h>No. 70-5014</h>
-    <h>Argued October 19, 1971</h>
-    <h>Decided April 3, 1972</h>
-    <h><a href="./us405-0645.xml#p645">405 U.S. 645</a></h>
-    <h>CERTIORARI TO THE SUPREME COURT OF ILLINOIS</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Stanley v. Illinois, <a href="./us405-0645.xml#p645">405 U.S. 645</a> (1972)</h1>
+    <h2>Stanley v. Illinois</h2>
+    <h2>No. 70-5014</h2>
+    <h4>Argued October 19, 1971</h4>
+    <h4>Decided April 3, 1972</h4>
+    <h2>CERTIORARI TO THE SUPREME COURT OF ILLINOIS</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner, an unwed father whose children, on the mother's death, were declared state wards and placed in guardianship, attacked the Illinois statutory scheme as violative of equal protection. Under that scheme, the children of unmarried fathers, upon the death of the mother, are declared dependents without any hearing on parental fitness and without proof of neglect, though such hearing and proof are required before the State assumes custody of children of married or divorced parents and unmarried mothers. The Illinois Supreme Court, holding that petitioner could properly be separated from his children upon mere proof that he and the dead mother had not been married and that petitioner's fitness as a father was irrelevant, rejected petitioner's claim.</p>
     <p>Held:</p>
     <p>1. Under the Due Process Clause of the Fourteenth Amendment petitioner was entitled to a hearing on his fitness as a parent before his children were taken from him. Pp. <a href="./us405-0645.xml#p647">405 U. S. 647</a>-658.</p>
@@ -25,7 +25,7 @@
     <n id="p647">647</n>
     <p>had not been married. Stanley's actual fitness as a father was irrelevant. In re Stanley, <a href="https://law.justia.com/cases/illinois/supreme-court/1970/42489-6.html">45 Ill. 2d 132</a>, <a href="https://law.justia.com/cases/illinois/supreme-court/1970/42489-6.html">256 N.E.2d 814</a> (1970).</p>
     <p>Stanley presses his equal protection claim here. The State continues to respond that unwed fathers are presumed unfit to raise their children, and that it is unnecessary to hold individualized hearings to determine whether particular fathers are, in fact, unfit parents before they are separated from their children. We granted certiorari, 400 U.S. 1020 (1971), to determine whether this method of procedure by presumption could be allowed to stand in light of the fact that Illinois allows married fathers -- whether divorced, widowed, or separated -- and mothers -- even if unwed -- the benefit of the presumption that they are fit to raise their children.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>At the outset, we reject any suggestion that we need not consider the propriety of the dependency proceeding that separated the Stanleys because Stanley might be able to regain custody of his children as a guardian or through adoption proceedings. The suggestion is that, if Stanley has been treated differently from other parents, the difference is immaterial and not legally cognizable for the purposes of the Fourteenth Amendment. This Court has not, however, embraced the general proposition that a wrong may be done if it can be undone. Cf. Sniadach v. Family Finance Corp., <a href="../us395/us395-0337.xml#p337">395 U. S. 337</a> (1969). Surely, in the case before us, if there is delay between the doing and the undoing, petitioner suffers from the deprivation of his children, and the children suffer from uncertainty and dislocation.</p>
     <p>It is clear, moreover, that Stanley does not have the means at hand promptly to erase the adverse consequences of the proceeding in the course of which his children were declared wards of the State. It is first</p>
     <n id="p648">648</n>
@@ -33,7 +33,7 @@
     <n id="p649">649</n>
     <p>cause as must be shown in a neglect proceeding against a parent. Ill.Rev.Stat., c. 37, § 705. He may not take the children out of the jurisdiction without the court's approval. He may be required to report to the court as to his disposition of the children's affairs. Ill.Rev.Stat., c. 37, § 705. Obviously then, even if Stanley were a mere step away from "custody and control," to give an unwed father only "custody and control" would still be to leave him seriously prejudiced by reason of his status.</p>
     <p>We must therefore examine the question that Illinois would have us avoid: is a presumption that distinguishes and burdens all unwed fathers constitutionally repugnant? We conclude that, as a matter of due process of law, Stanley was entitled to a hearing on his fitness as a parent before his children were taken from him, and that, by denying him a hearing and extending it to all other parents whose custody of their children is challenged, the State denied Stanley the equal protection of the laws guaranteed by the Fourteenth Amendment.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Illinois has two principal methods of removing nondelinquent children from the homes of their parents. In a dependency proceeding, it may demonstrate that the children are wards of the State because they have no surviving parent or guardian. Ill.Rev.Stat., c. 37, §§ 702-1, 702-5. In a neglect proceeding, it may show that children should be wards of the State because the present parent(s) or guardian does not provide suitable care. Ill.Rev.Stat., c. 37, §§ 702-1, 702.</p>
     <p>The State's right -- indeed, duty -- to protect minor children through a judicial determination of their interests in a neglect proceeding is not challenged here. Rather, we are faced with a dependency statute that empowers state officials to circumvent neglect proceedings</p>
     <n id="p650">650</n>
@@ -83,7 +83,7 @@
     <p>We think the Due Process Clause mandates a similar result here. The State's interest in caring for Stanley's children is de minimis if Stanley is shown to be a fit</p>
     <n id="p658">658</n>
     <p>father. It insists on presuming, rather than proving, Stanley's unfitness solely because it is more convenient to presume than to prove. Under the Due Process Clause, that advantage is insufficient to justify refusing a father a hearing when the issue at stake is the dismemberment of his family.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The State of Illinois assumes custody of the children of married parents, divorced parents, and unmarried mothers only after a hearing and proof of neglect. The children of unmarried fathers, however, are declared dependent children without a hearing on parental fitness and without proof of neglect. Stanley's claim in the state courts and here is that failure to afford him a hearing on his parental qualifications while extending it to other parents denied him equal protection of the laws. We have concluded that all Illinois parents are constitutionally entitled to a hearing on their fitness before their children are removed from their custody. It follows that denying such a hearing to Stanley and those like him, while granting it to other Illinois parents, is inescapably contrary to the Equal Protection Clause. [<a id="nf10" href="#fn10">Footnote 10</a>]</p>
     <n id="p659">659</n>
     <p>The judgment of the Supreme Court of Illinois is reversed, and the case is remanded to that court for proceedings not inconsistent with this opinion.</p>

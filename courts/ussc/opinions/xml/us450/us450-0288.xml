@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us450-0288.html" citation="450 U.S. 288" title="Carter v. Kentucky">
   <opinion type="Opinions &amp; Dissents">
     <n id="p288">288</n>
-    <h>U.S. Supreme Court</h>
-    <h>Carter v. Kentucky, <a href="./us450-0288.xml#p288">450 U.S. 288</a> (1981)</h>
-    <h>Carter v. Kentucky</h>
-    <h>No. 80-5060</h>
-    <h>Argued January 14, 1981</h>
-    <h>Decided March 9, 1981</h>
-    <h><a href="./us450-0288.xml#p288">450 U.S. 288</a></h>
-    <h>CERTIORARI TO THE SUPREME COURT OF KENTUCKY</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Carter v. Kentucky, <a href="./us450-0288.xml#p288">450 U.S. 288</a> (1981)</h1>
+    <h2>Carter v. Kentucky</h2>
+    <h2>No. 80-5060</h2>
+    <h4>Argued January 14, 1981</h4>
+    <h4>Decided March 9, 1981</h4>
+    <h2>CERTIORARI TO THE SUPREME COURT OF KENTUCKY</h2>
+    <h2>Syllabus</h2>
     <p>At petitioner's criminal trial in a Kentucky court in which no testimony was introduced on behalf of the defense, the trial judge refused petitioner's requested jury instruction that</p>
     <p>"[t]he [defendant] is not compelled to testify, and the fact that he does not cannot be used as an inference of guilt, and should not prejudice him in any way."</p>
     <p>On appeal from petitioner's conviction, the Kentucky Supreme Court rejected his argument that the Fifth and Fourteenth Amendments require the trial judge to give the requested instruction, holding that such instruction would have required the judge to "comment upon" the petitioner's failure to testify in violation of a Kentucky statute prohibiting such a comment.</p>
@@ -25,7 +25,7 @@
     <p>In this case, a Kentucky criminal trial judge refused a defendant's request to give the following jury instruction: "The [defendant] is not compelled to testify, and the fact that he does not cannot be used as an inference of guilt, and should not prejudice him in any way." The Supreme Court of Kentucky found no error. [<a id="nf1" href="#fn1">Footnote 1</a>] We granted certiorari to consider the petitioner's contention that a defendant, upon request,</p>
     <n id="p290">290</n>
     <p>has a right to such an instruction under the Fifth and Fourteenth Amendments of the Constitution. 449 U.S. 819. [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>A</p>
     <p>In the early morning of December 22, 1978, Officer Deborah Ellison of the Hopkinsville, Kentucky, Police Department, on routine patrol in downtown Hopkinsville, noticed something in the alley between Young's Hardware Store and Edna's Furniture Store. She backed her car up, flashed her spotlight down the alley, and saw two men stooped alongside one of the buildings. The men ran off. Officer Ellison drove her squad car down the alley and found a hole in the side of Young's Hardware Store. She radioed Officer Leroy Davis, whom she knew to be in the area, informing him that two men had fled from the alley.</p>
     <p>Soon after receiving Ellison's call, Officer Davis saw two men run across a street near where he had been patrolling. The two ran in opposite directions, and Davis proceeded after one of them. Following a chase, during which he twice lost sight of the man he was pursuing, Davis was finally able to stop him. The man was later identified as the petitioner, Lonnie Joe Carter. During the course of the chase, Davis</p>
@@ -63,7 +63,7 @@
     <p>Upon appeal, the Kentucky Supreme Court rejected the argument that the Fifth and Fourteenth Amendments to the United States Constitution require that a criminal trial judge give the jury an instruction such as was requested here. In concluding that the trial judge did not commit error by refusing to give the requested instruction, the court pointed to Ky.Rev.Stat. § 421.225 (Supp. 1980), which provides:</p>
     <p>"In any criminal or penal prosecution the defendant, on his own request, shall be allowed to testify in his own behalf, but his failure to do so shall not be commented upon or create any presumption against him."</p>
     <p>Holding that the jury instruction requested by counsel would have required the trial judge to "comment upon" the defendant's failure to testify, the court cited its previous decision in Green v. Commonwealth, <a href="https://law.justia.com/cases/kentucky/court-of-appeals/1972/488-s-w-2d-339-1.html">488 S.W.2d 339</a>, as controlling</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>A</p>
     <p>The constitutional question presented by this case is one the Court has specifically anticipated and reserved, first in Griffin v. California, <a href="../us380/us380-0609.xml#p609">380 U. S. 609</a>, <a href="../us380/us380-0609.xml#p615">380 U. S. 615</a>, n. 6, and more recently in Lakeside v. Oregon, <a href="../us435/us435-0333.xml#p333">435 U. S. 333</a>, <a href="../us435/us435-0333.xml#p337">435 U. S. 337</a>. But, as a question of federal statutory law, it was resolved by a unanimous Court over 40 years ago in Bruno v. United States, <a href="../us308/us308-0287.xml#p287">308 U. S. 287</a>. The petitioner in Bruno was a defendant in a federal criminal</p>
     <n id="p296">296</n>
@@ -89,7 +89,7 @@
     <p>Finally, the Court stressed that "[t]he very purpose" of a jury instruction is to direct the jurors' attention to important legal concepts "that must not be misunderstood, such as reasonable doubt and burden of proof," and emphasized that instruction "in the meaning of the privilege against compulsory self-incrimination is no different." Ibid.</p>
     <p>B</p>
     <p>The inclusion of the privilege against compulsory self-incrimination [<a id="nf14" href="#fn14">Footnote 14</a>] in the Fifth Amendment</p>
-    <p>"reflects many of our fundamental values and most noble aspirations: our unwillingness to subject those suspected of crime to the cruel trilemma of self-accusation, perjury or contempt; . . . our fear that self-incriminating statements will be elicited by inhumane treatment and abuses; our sense of fair play, which dictates 'a fair state-individual balance by requiring the government . . . , in its contest with the individual, to shoulder the entire load,' . . . ; our distrust of self-deprecatory statements; and our realization that the privilege, while sometimes</p>
+    <p>"reflects many of our fundamental values and most noble aspirations: our unwillingness to subject those suspected of crime to the cruel trilemma of self-accusation, perjury or contempt; . . . our fear that self-incriminating statements will be elicited by inhumane treatment and abuses; our sense of fair play, which dictates 'a fair state-individual balance by requiring the government . . ., in its contest with the individual, to shoulder the entire load,' . . . ; our distrust of self-deprecatory statements; and our realization that the privilege, while sometimes</p>
     <n id="p300">300</n>
     <p>'a shelter to the guilty,' is often 'a protection to the innocent.'"</p>
     <p>Murphy v. Waterfront Comm'n, supra, at <a href="../us378/us378-0052.xml#p55">378 U. S. 55</a>. [<a id="nf15" href="#fn15">Footnote 15</a>] The principles enunciated in our cases construing this privilege, against both statutory and constitutional backdrops, lead unmistakably to the conclusion that the Fifth Amendment requires that a criminal trial judge must give a "no adverse inference" jury instruction when requested by a defendant to do so.</p>
@@ -115,7 +115,7 @@
     <p>The other trial instructions and arguments of counsel that the petitioner's jurors heard at the trial of this case were no substitute for the explicit instruction that the petitioner's lawyer requested. Although the jury was instructed that "[t]he law presumes a defendant to be innocent," it may be doubted that this instruction contributed in a significant way to the jurors' proper understanding of the petitioner's failure to testify. Without question, the Fifth Amendment privilege and the presumption of innocence are closely aligned. But these principles serve different functions, and we cannot say that the jury would not have derived "significant additional guidance," Taylor v. Kentucky, <a href="../us436/us436-0478.xml#p478">436 U. S. 478</a>, <a href="../us436/us436-0478.xml#p484">436 U. S. 484</a>, from the instruction requested. See United States v. Bain, 596 F.2d 120 (CA5); United States v. English, 409 F.2d 200, 201 (CA3). And most certainly, defense counsel's own argument that the petitioner "doesn't have to take the stand . . . [and] doesn't have to do anything" cannot have had the purging effect that an instruction from the judge would have had. "[A]rguments of counsel cannot substitute for instructions by the court." Taylor v. Kentucky, supra at <a href="../us436/us436-0478.xml#p489">436 U. S. 489</a>. [<a id="nf22" href="#fn22">Footnote 22</a>]</p>
     <p>Finally, Kentucky argues that, because the evidence of petitioner's guilt was "overwhelming, and could not be explained," any constitutional error committed by the state courts was harmless. Chapman v. California, <a href="../us386/us386-0018.xml#p18">386 U. S. 18</a>. While it is arguable that a refusal to give an instruction similar to the one that was requested here can never be harmless, cf. Bruno, supra at <a href="../us308/us308-0287.xml#p293">308 U. S. 293</a>, we decline to reach the issue, because it was not presented to or considered by the Supreme Court of Kentucky. See Sandstrom v. Montana, <a href="../us442/us442-0510.xml#p510">442 U. S. 510</a>, <a href="../us442/us442-0510.xml#p527">442 U. S. 527</a>.</p>
     <n id="p305">305</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>The freedom of a defendant in a criminal trial to remain silent "unless he chooses to speak in the unfettered exercise of his own will" is guaranteed by the Fifth Amendment and made applicable to state criminal proceedings through the Fourteenth. Malloy v. Hogan, 378 U.S. at <a href="../us378/us378-0001.xml#p8">378 U. S. 8</a>. And the Constitution further guarantees that no adverse inferences are to be drawn from the exercise of that privilege. Griffin v. California, <a href="../us380/us380-0609.xml#p609">380 U. S. 609</a>. Just as adverse comment on a defendant's silence "cuts down on the privilege by making its assertion costly," id. at <a href="../us380/us380-0609.xml#p614">380 U. S. 614</a>, the failure to limit the jurors' speculation on the meaning of that silence, when the defendant makes a timely request that a prophylactic instruction be given, exacts an impermissible toll on the full and free exercise of the privilege. Accordingly, we hold that a state trial judge has the constitutional obligation, upon proper request, to minimize the danger that the jury will give evidentiary weight to a defendant's failure to testify.</p>
     <p>For the reasons stated, the judgment is reversed and the case is remanded to the Supreme Court of Kentucky for further proceedings not inconsistent with this opinion.</p>
     <p>It is so ordered.</p>

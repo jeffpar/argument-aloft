@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us461-0260.html" citation="461 U.S. 260" title="Jim McNeff, Inc. v. Todd">
   <opinion type="Opinions &amp; Dissents">
     <n id="p260">260</n>
-    <h>U.S. Supreme Court</h>
-    <h>Jim McNeff, Inc. v. Todd, <a href="./us461-0260.xml#p260">461 U.S. 260</a> (1983)</h>
-    <h>Jim McNeff, Inc. v. Todd</h>
-    <h>No. 81-2150</h>
-    <h>Argued January 17, 1983</h>
-    <h>Decided April 27, 1983</h>
-    <h><a href="./us461-0260.xml#p260">461 U.S. 260</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Jim McNeff, Inc. v. Todd, <a href="./us461-0260.xml#p260">461 U.S. 260</a> (1983)</h1>
+    <h2>Jim McNeff, Inc. v. Todd</h2>
+    <h2>No. 81-2150</h2>
+    <h4>Argued January 17, 1983</h4>
+    <h4>Decided April 27, 1983</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Section 8(f) of the National Labor Relations Act (NLRA) authorizes construction industry employers and unions to enter into so-called "prehire" agreements setting the terms and conditions of employment for workers hired by the signatory employer without the union's majority status first having been established under § 9 of the Act. Section 8(f) also provides that such an agreement shall not bar a petition for a representative election under § 9. A local union and a contractors association entered into a Master Labor Agreement which provided that work at jobsites was to be performed only by subcontractors who had signed a labor agreement with the union and that covered employees, including those of subcontractors, must become union members. The agreement also required employers to make monthly contributions to fringe benefit trust funds on behalf of covered employees. When petitioner subcontractor began work on a jobsite, it was not a signatory to a labor agreement with the union, and none of its employees on the jobsite were union members. Upon being notified by representatives of the union and the general contractor that it was required to do so, petitioner became a signatory to the Master Labor Agreement, and its employees signed union cards. After petitioner submitted monthly reports to the union trust funds, falsely stating that "no members of this craft were employed during this month," petitioner on several occasions postponed audits requested by respondents, the trustees of the funds, to verify the monthly reports. Respondents then filed suit in Federal District Court under § 301 of the Labor Management Relations Act to compel an accounting and to recover payment of any trust fund contributions found to be due. The District Court entered summary judgment for respondents and ordered payment of unpaid contributions. The Court of Appeals affirmed.</p>
     <p>Held: Monetary obligations assumed by an employer under a prehire contract authorized by § 8(f) may be recovered in a § 301 action brought by a union prior to repudiation of the contract by the employer, even though the union has not obtained majority support in the relevant unit. Pp. <a href="./us461-0260.xml#p265">461 U. S. 265</a>-272.</p>
     <p>(a) In authorizing § 8(f) prehire contracts even though the union's majority status was not first established, Congress recognized that, because of the uniquely temporary, transitory, and sometimes seasonal nature of</p>
@@ -22,7 +22,7 @@
     <n id="p262">262</n>
     <p>CHIEF JUSTICE BURGER delivered the opinion of the Court.</p>
     <p>We granted certiorari to resolve conflicts in the Circuits as to whether monetary obligations that have accrued under a prehire contract authorized by § 8(f) of the National Labor Relations Act, 73 Stat. 545, 29 U.S.C. § 158(f), can be enforced, prior to the repudiation of such a contract, in a suit brought by a union against an employer under § 301 of the Labor Management Relations Act, 61 Stat. 156, 29 U.S.C. § 185, absent proof that the union represented a majority of the employees.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Petitioner is engaged in the construction industry and, in September 1978, was a subcontractor on a jobsite in southern California. The general contractor was contractually bound to the Master Labor Agreement negotiated between the International Union of Operating Engineers, Local No. 12, and the Southern California General Contractors Associations. The Master Labor Agreement provided that work at the jobsite was to be performed only by subcontractors who had signed a labor agreement with the Union. [<a id="nf1" href="#fn1">Footnote 1</a>] The Master Labor Agreement also contained a union security clause requiring covered employees, including those of subcontractors,</p>
     <n id="p263">263</n>
     <p>to become members of the Union. [<a id="nf2" href="#fn2">Footnote 2</a>] At the time petitioner began work on the jobsite as a subcontractor, it was not a signatory to a labor agreement with the Union and none of its employees on the jobsite were members of the Union.</p>
@@ -33,7 +33,7 @@
     <p>The District Court for the Central District of California granted respondents' motion for summary judgment and ordered payment of the unpaid trust fund contributions. The Court of Appeals for the Ninth Circuit affirmed. 667 F.2d 800 (1982).</p>
     <n id="p265">265</n>
     <p>We granted certiorari, 458 U.S. 1120 (1982), in part to resolve Circuit conflicts on this issue, [<a id="nf6" href="#fn6">Footnote 6</a>] and we affirm.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>By authorizing so-called "prehire" agreements like that at issue in this case, § 8(f) of the National Labor Relations Act, 29 U.S.C. § 158(f), exempts construction industry employers and unions from the general rule precluding a union and an employer from signing</p>
     <p>"a collective bargaining agreement recognizing the union as the exclusive bargaining representative when in fact only a minority of the employees have authorized the union to represent their interests."</p>
     <p>NLRB v. Iron Workers, <a href="../us434/us434-0335.xml#p335">434 U. S. 335</a>, <a href="../us434/us434-0335.xml#p344">434 U. S. 344</a>-345 (1978) (Higdon). See Garment Workers v. NLRB, <a href="../us366/us366-0731.xml#p731">366 U. S. 731</a>, <a href="../us366/us366-0731.xml#p737">366 U. S. 737</a>-738 (1961). Section 8(f) provides in pertinent part:</p>
@@ -47,7 +47,7 @@
     <p>the "representative of [an employer's] employees" as that language is used in § 8(b)(7)(C):</p>
     <p>"[Absent] majority credentials . . the collective bargaining relationship and the union's entitlement to act as the exclusive bargaining agent had never matured. Picketing to enforce the § 8(f) contract was the legal equivalent of picketing to require recognition as the exclusive agent, and § 8(b)(7)(C) was infringed when the union failed to request an election within 30 days."</p>
     <p>434 U.S. at <a href="../us434/us434-0335.xml#p346">434 U. S. 346</a>.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>We did not decide in Higdon whether prehire agreements are enforceable in a § 301 action. There is a critical distinction between an employer's obligation under the Act to bargain with the representative of the majority of its employees and its duty to satisfy lawful contractual obligations that accrued after it enters a prehire contract. Only the former obligation was treated in Higdon. [<a id="nf7" href="#fn7">Footnote 7</a>]</p>
     <p>In upholding the Board's view that a union commits an unfair labor practice by picketing to enforce a prehire agreement before it has attained majority status, we noted in</p>
     <n id="p268">268</n>
@@ -62,7 +62,7 @@
     <n id="p271">271</n>
     <p>Apart from not offending the concerns noted in Higdon, allowing a minority union to enforce overdue obligations accrued under a prehire agreement prior to its repudiation vindicates the policies Congress intended to implement in § 8(f). Congress clearly determined that prehire contracts should be lawful to meet problems unique to the construction industry. However limited the binding effect of a prehire agreement may be, it strains both logic and equity to argue that a party to such an agreement can reap its benefits and then avoid paying the bargained-for consideration. Nothing in the legislative history of § 8(f) indicates Congress intended employers to obtain free the benefits of stable labor costs, labor peace, and the use of the union hiring hall. [<a id="nf12" href="#fn12">Footnote 12</a>] Having had the music, he must pay the piper.</p>
     <p>By the same token, the union cannot simply accept the employer's performance under a prehire contract without upholding its end of the bargain. Neither party is compelled to enter into a § 8(f) agreement. But when such an agreement is voluntarily executed, both parties must abide by its terms until it is repudiated. [<a id="nf13" href="#fn13">Footnote 13</a>]</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>A § 8(f) prehire agreement is subject to repudiation until the union establishes majority status. However, the monetary obligations assumed by an employer under a prehire</p>
     <n id="p272">272</n>
     <p>contract may be recovered in a § 301 action brought by a union prior to the repudiation of the contract, even though the union has not attained majority support in the relevant unit. There having been no repudiation in this case, the judgment of the Court of Appeals is</p>

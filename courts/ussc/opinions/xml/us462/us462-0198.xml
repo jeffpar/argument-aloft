@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us462-0198.html" citation="462 U.S. 198" title="United States v. Whiting Pools, Inc.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p198">198</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Whiting Pools, Inc., <a href="./us462-0198.xml#p198">462 U.S. 198</a> (1983)</h>
-    <h>United States v. Whiting Pools, Inc.</h>
-    <h>No. 82-215</h>
-    <h>Argued April 19, 1983</h>
-    <h>Decided June 8, 1983</h>
-    <h><a href="./us462-0198.xml#p198">462 U.S. 198</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE SECOND CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Whiting Pools, Inc., <a href="./us462-0198.xml#p198">462 U.S. 198</a> (1983)</h1>
+    <h2>United States v. Whiting Pools, Inc.</h2>
+    <h2>No. 82-215</h2>
+    <h4>Argued April 19, 1983</h4>
+    <h4>Decided June 8, 1983</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE SECOND CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Section 542(a) of the Bankruptcy Reform Act of 1978 (Act) requires an entity, other than a custodian, in possession of property of the debtor that the trustee in bankruptcy can use, sell, or lease under § 363 to deliver that property to the trustee. Section 543(b)(1) requires a custodian in possession or control of any property of the debtor to deliver the property to the trustee. Promptly after the Internal Revenue Service (IRS) seized respondent swimming pool firm's tangible personal property to satisfy a tax lien, respondent filed a petition for reorganization under the Act. The Bankruptcy Court, pursuant to § 543(b)(1), ordered the IRS to turn the property over to respondent on the condition that respondent provide the IRS with specified protection for its interests. The District Court reversed, holding that a turnover order against the IRS was not authorized by either § 542(a) or § 543(b)(1). The Court of Appeals in turn reversed the District Court, holding that a turnover order could issue against the IRS under § 542(a).</p>
     <p>Held:</p>
     <p>1. The reorganization estate includes property of the debtor that has been seized by a creditor prior to the filing of a petition for reorganization. Pp. <a href="./us462-0198.xml#p202">462 U. S. 202</a>-209.</p>
@@ -27,7 +27,7 @@
     <p>BLACKMUN, J., delivered the opinion for a unanimous Court.</p>
     <p>JUSTICE BLACKMUN delivered the opinion of the Court.</p>
     <p>Promptly after the Internal Revenue Service (IRS or Service) seized respondent's property to satisfy a tax lien, respondent filed a petition for reorganization under the Bankruptcy Reform Act of 1978, hereinafter referred to as the "Bankruptcy Code." The issue before us is whether § 542(a) of that Code authorized the Bankruptcy Court to subject the IRS to a turnover order with respect to the seized property.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>A</p>
     <p>Respondent Whiting Pools, Inc., a corporation, sells, installs, and services swimming pools and related equipment and supplies. As of January, 1981, Whiting owed approximately $92,000 in Federal Insurance Contribution Act taxes and federal taxes withheld from its employees, but had failed</p>
     <n id="p200">200</n>
@@ -40,7 +40,7 @@
     <p>The Bankruptcy Court determined that the IRS was bound by the automatic stay provision. In re Whiting Pools, Inc., 10 B.R. 755 (1981). Because it found that the seized property was essential to Whiting's reorganization effort, it refused to lift the stay. Acting under § 543(b)(1) of the Bankruptcy Code, [<a id="nf6" href="#fn6">Footnote 6</a>] rather than under § 542(a), the court directed the IRS to turn the property over to Whiting on the condition that Whiting provide the Service with specified protection for its interests. 10 B.R. at 760-761. [<a id="nf7" href="#fn7">Footnote 7</a>]</p>
     <n id="p202">202</n>
     <p>The United States District Court reversed, holding that a turnover order against the Service was not authorized by either § 542(a) or § 543(b)(1). <a href="https://law.justia.com/cases/federal/district-courts/BR/15/270/2027998/">15 B.R. 270</a> (1981). The United States Court of Appeals for the Second Circuit, in turn, reversed the District Court. 674 F.2d 144 (1982). It held that a turnover order could issue against the Service under § 542(a), and it remanded the case for reconsideration of the adequacy of the Bankruptcy Court's protection conditions. The Court of Appeals acknowledged that its ruling was contrary to that reached by the United States Court of Appeals for the Fourth Circuit in Cross Electric Co. v. United States, 664 F.2d 1218 (1981), and noted confusion on the issue among bankruptcy and district courts. 674 F.2d at 145, and n. 1. We granted certiorari to resolve this conflict in an important area of the law under the new Bankruptcy Code. 459 U.S. 1033 (1982).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>By virtue of its tax lien, the Service holds a secured interest in Whiting's property. We first examine whether § 542(a) of the Bankruptcy Code generally authorizes the turnover of a debtor's property seized by a secured creditor prior to the commencement of reorganization proceedings. Section 542(a) requires an entity in possession of "property that the trustee may use, sell, or lease under section 363" to</p>
     <n id="p203">203</n>
     <p>deliver that property to the trustee. Subsections (b) and (c) off § 363 authorize the trustee to use, sell, or lease any "property of the estate," subject to certain conditions for the protection of creditors with an interest in the property. Section 541(a)(1) defines the "estate" as</p>
@@ -71,7 +71,7 @@
     <p>Moreover, this interpretation of § 542 in the reorganization context is consistent with judicial precedent predating the Bankruptcy Code. Under Chapter X, the reorganization chapter of the Bankruptcy Act of 1878, as amended, §§ 101-276, 52 Stat. 883 (formerly codified as 11 U.S.C. §§ 501-676), the bankruptcy court could order the turnover of collateral in the hands of a secured creditor. Reconstruction Finance Corp. v. Kaplan, 185 F.2d 791, 796 (CA1 1950); see In re Third Ave. Transit Corp., 198 F.2d 703, 706 (CA2 1952); 6A J. Moore &amp; L. King, Collier on Bankruptcy � 14.03, pp. 741-742 (14th ed.1977); Murphy, Use of Collateral in Business Rehabilitations: A Suggested Redrafting of Section 7-203 of the Bankruptcy Reform Act, 63 Calif.L.Rev. 1483, 1492-1495 (1975). Nothing in the legislative history evinces a congressional intent to depart from that practice. Any other interpretation of § 542(a) would deprive the bankruptcy estate of the assets and property essential to its rehabilitation effort, and thereby would frustrate the congressional purpose behind the reorganization provisions. [<a id="nf17" href="#fn17">Footnote 17</a>]</p>
     <n id="p209">209</n>
     <p>We conclude that the reorganization estate includes property of the debtor that has been seized by a creditor prior to the filing of a petition for reorganization.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>A</p>
     <p>We see no reason why a different result should obtain when the IRS is the creditor. The Service is bound by § 542(a) to the same extent as any other secured creditor. The Bankruptcy Code expressly states that the term "entity," used in § 542(a), includes a governmental unit. § 101 (14). See Tr. of Oral Arg. 16. Moreover, Congress carefully considered the effect of the new Bankruptcy Code on tax collection, see generally S.Rep. No. 95-1106 (1978) (Report of Senate Finance Committee), and decided to provide protection to tax collectors, such as the IRS, through grants of enhanced priorities for unsecured tax claims, § 507 (a)(6), and by the nondischarge of tax liabilities, § 523(a)(1). S.Rep. No. 95-989, pp. 14-15 (1978). Tax collectors also enjoy the generally applicable right under § 363(e) to adequate protection for property subject to their liens. Nothing in the Bankruptcy Code or its legislative history indicates that Congress intended a special exception for the tax collector in the form of an exclusion from the estate of property seized to satisfy a tax lien.</p>
     <p>B</p>
@@ -81,7 +81,7 @@
     <p>The Service's interest in seized property is its lien on that property. The Internal Revenue Code's levy and seizure provisions, 26 U.S.C. §§ 6331 and 6332, are special procedural</p>
     <n id="p211">211</n>
     <p>devices available to the IRS to protect and satisfy its liens, United States v. Sullivan, 333 F.2d 100, 116 (CA3 1964), and are analogous to the remedies available to private secured creditors. See Uniform Commercial Code § 9-503, 3A U.L.A. 211-212 (1981); n. 14, supra. They are provisional remedies that do not determine the Service's rights to the seized property, but merely bring the property into the Service's legal custody. See 4 B. Bittker, Federal Taxation of Income, Estates and Gifts 7 111.5.5, p. 111-108 (1981). See generally Plumb, Federal Tax Collection and Lien Problems (First Installment), 13 Tax L.Rev. 247, 272 (1958). At no point does the Service's interest in the property exceed the value of the lien. United States v. Rodgers, 461 U.S. at <a href="../us461/us461-0677.xml#p690">461 U. S. 690</a>-691; id. at <a href="../us461/us461-0677.xml#p724">461 U. S. 724</a> (concurring in part and dissenting in part); see United States v. Sullivan, 333 F.2d at 116 ("the Commissioner acts pursuant to the collection process in the capacity of lienor, as distinguished from owner"). The IRS is obligated to return to the debtor any surplus from a sale. 26 U.S.C. § 6342(b). Ownership of the property is transferred only when the property is sold to a bona fide purchaser at a tax sale. See <a href="../us076/us076-0326.xml#p326">Bennett v. Hunter</a>, 9 Wall. 326, <a href="../us076/us076-0326.xml#p336">76 U. S. 336</a> (1870); 26 U.S.C. § 6339(a)(2); Plumb, 13 Tax L.Rev. at 274-275. In fact, the tax sale provision itself refers to the debtor as the owner of the property after the seizure but prior to the sale. [<a id="nf19" href="#fn19">Footnote 19</a>] Until such a sale takes place, the property remains the debtor's, and thus is subject to the turnover requirement of § 542(a).</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>When property seized prior to the filing of a petition is drawn into the Chapter 11 reorganization estate, the Service's tax lien is not dissolved; nor is its status as a secured creditor destroyed. The IRS, under § 363(e), remains entitled</p>
     <n id="p212">212</n>
     <p>to adequate protection for its interests, to other rights enjoyed by secured creditors, and to the specific privileges accorded tax collectors. Section 542(a) simply requires the Service to seek protection of its interest according to the congressionally established bankruptcy procedures, rather than by withholding the seized property from the debtor's efforts to reorganize.</p>

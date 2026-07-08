@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us447-0490.html" citation="447 U.S. 490" title="NLRB v. Int'l Longshoremen's Assn.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p490">490</n>
-    <h>U.S. Supreme Court</h>
-    <h>NLRB v. Int'l Longshoremen's Assn., <a href="./us447-0490.xml#p490">447 U.S. 490</a> (1980)</h>
-    <h>National Labor Relations Board v. International</h>
-    <h>Longshoremen's Association, AFL-CIO</h>
-    <h>No. 79-1082</h>
-    <h>Argued April 22, 1980</h>
-    <h>Decided June 20, 1980</h>
-    <h><a href="./us447-0490.xml#p490">447 U.S. 490</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE DISTRICT OF COLUMBIA CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>NLRB v. Int'l Longshoremen's Assn., <a href="./us447-0490.xml#p490">447 U.S. 490</a> (1980)</h1>
+    <h2>National Labor Relations Board v. International</h2>
+    <h2>Longshoremen's Association, AFL-CIO</h2>
+    <h2>No. 79-1082</h2>
+    <h4>Argued April 22, 1980</h4>
+    <h4>Decided June 20, 1980</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE DISTRICT OF COLUMBIA CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>This case presents the question whether Rules on Containers (Rules) in a collective bargaining agreement between the International Longshoremen's Association (ILA) and employer organizations in the shipping industry which were adopted in response to the technological innovation of containerized shipping are a lawful work preservation agreement. The new technology involves the use on specially designed ships of large, reusable metal receptacles which can be moved on and off the vessel unopened and which can be attached to a truck chassis and transported intact to and from the pier, saving costs and time in loading and unloading ships and in warehousing cargo, as compared with the amount of on-pier work involved in handling loose cargo for conventional ships. The amount of work available for longshoremen has been further reduced by the shipping companies' practice of making their containers available for loading (stuffing) and unloading (stripping) away from the pier by shippers and by freight consolidators who combine the goods of various shippers into a single shipment. The Rules permit the great majority of containers to pass over the piers intact, reserving to the ILA the right to stuff and strip at the pier only those containers that would otherwise be stuffed or stripped "locally" (within a 50-mile radius of the port) by anyone except employees of the beneficial owner of the cargo, the shipping company being liable for specified liquidated damages for any container handled in violation of the Rules. Separate unfair labor practice proceedings were brought before the National Labor Relations Board (Board) by truckers and consolidators who, because of the operation against shipping companies of the Rules' liquidated damages provisions, could no longer perform local stuffing and stripping services. The Board concluded that the Rules were not valid work preservation clauses because the work of stuffing and stripping containers away from the pier had not traditionally been done by ILA members, but had instead been performed by employees of consolidators and truckers. It therefore held that the Rules violated § 8(e) of the National Labor Relations Act, which makes unlawful those collective bargaining agreements whereby the employer agrees to cease doing business with any other person, and that union action to enforce</p>
     <n id="p491">491</n>
     <p>the Rules violated § 8(b)(4)(b), which prohibits unions from engaging in secondary activities whose object is to force one employer to cease doing business with another. The Court of Appeals, consolidating the cases and holding that the Board had erred as a matter of law in defining the work in controversy, vacated the Board's decisions, denied its applications for enforcement, and remanded the cases.</p>
@@ -28,7 +28,7 @@
     <n id="p493">493</n>
     <p>MR. JUSTICE MARSHALL delivered the opinion of the Court.</p>
     <p>This case presents the question whether provisions of the collective bargaining agreement between the International Longshoremen's Association (ILA) and employer organizations in the shipping industry which were adopted in response to the technological innovation of containerized shipping are a lawful work preservation agreement. The National Labor Relations Board held that the provisions did not preserve traditional work opportunities for employees represented by the union, but sought instead to acquire work they had not previously performed; therefore, it concluded that the provisions violated § 8(e) of the National Labor Relations Act, 29 U.S.C. § 158(e), and union action to enforce them violated § 8(b)(4)(b) of the Act, 29 U.S.C. § 158(b)(4)(b). International longshoremen's Assn. (Dolphin Forwarding, Inc.), 236 N.L.R.B. 525 (1978); International Longshoremen's Assn. (Associated Transport, Inc.), 231 N.L.R.B. 351 (1977). A divided panel of the United States Court of Appeals for the District of Columbia Circuit declined to enforce the Board's orders. 198 U.S.App.D.C. 157, 613 F.2d 890 (1979). We granted certiorari, <a href="../us444/us444-0085.xml#p104">444 U. S. 104</a> (1980), to resolve a conflict among the Circuits on this important question of federal labor law. [<a id="nf1" href="#fn1">Footnote 1</a>]</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>This controversy arises out of the collective bargaining response of the ILA and the east coast shipping industry to</p>
     <n id="p494">494</n>
     <p>containerization, a technological innovation which has had such a profound effect on that industry that it has frequently been termed "the container revolution." [<a id="nf2" href="#fn2">Footnote 2</a>] In the words of one observer, "containerization may be said to constitute the single most important innovation in ocean transport since the steamship displaced the schooner." [<a id="nf3" href="#fn3">Footnote 3</a>]</p>
@@ -73,7 +73,7 @@
     <n id="p503">503</n>
     <p>In short, in the Board's view the Rules sought to acquire for ILA members work that had historically been performed not by longshoremen, but by employees of consolidators and truckers. Therefore the Rules had a secondary objective forbidden by the Act.</p>
     <p>ILA and CONASA appealed to the Court of Appeals, and the Board cross-applied for enforcement of its orders. [<a id="nf18" href="#fn18">Footnote 18</a>] The cases were consolidated. A divided panel of the Court of Appeals refused enforcement, holding that the Board had erred as a matter of law in defining the work in controversy. It therefore vacated the Board's decisions, denied its applications for enforcement, and remanded the cases for further proceedings. We affirm.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Section 8(b)(4)(B) of the Act [<a id="nf19" href="#fn19">Footnote 19</a>] prohibits unions and their agents from engaging in secondary activities whose object is to force one employer to cease doing business with another. Section 8(e) [<a id="nf20" href="#fn20">Footnote 20</a>] makes unlawful those collective</p>
     <n id="p504">504</n>
     <p>bargaining agreements in which the employer agrees to cease doing business with any other person. Although § 8(e) does not, in terms, distinguish between primary and secondary activity, we have held that, as in § 8(b)(4)(B), Congress intended to reach only agreements with secondary objectives. See NLRB v. Pipefitters, <a href="../us429/us429-0507.xml#p507">429 U. S. 507</a>, <a href="../us429/us429-0507.xml#p517">429 U. S. 517</a> (1977) (hereinafter Pipefitters); National Woodwork Manufacturers Assn. v. NLRB, <a href="../us386/us386-0612.xml#p612">386 U. S. 612</a>, <a href="../us386/us386-0612.xml#p620">386 U. S. 620</a>, 635 (1967) (hereinafter National Woodwork) .</p>

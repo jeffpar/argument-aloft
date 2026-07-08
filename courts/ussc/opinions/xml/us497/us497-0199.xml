@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us497-0199.html" citation="497 U.S. 199" title="Kansas v. Utilicorp United">
   <opinion type="Opinions &amp; Dissents">
     <n id="p199">199</n>
-    <h>U.S. Supreme Court</h>
-    <h>Kansas v. Utilicorp United, <a href="./us497-0199.xml#p199">497 U.S. 199</a> (1990)</h>
-    <h>Kansas v. Utilicorp United, Inc.</h>
-    <h>No. 88-2109</h>
-    <h>Argued April 16, 1990</h>
-    <h>Decided June 21, 1990</h>
-    <h><a href="./us497-0199.xml#p199">497 U.S. 199</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE TENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Kansas v. Utilicorp United, <a href="./us497-0199.xml#p199">497 U.S. 199</a> (1990)</h1>
+    <h2>Kansas v. Utilicorp United, Inc.</h2>
+    <h2>No. 88-2109</h2>
+    <h4>Argued April 16, 1990</h4>
+    <h4>Decided June 21, 1990</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE TENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>The respondent -- an investor-owned public utility operating in the petitioner States -- and other utilities and natural gas purchasers filed suit in the District Court against a pipeline company and five gas producers under § 4 of the Clayton Act, which authorizes any person injured by a violation of the antitrust laws to sue for treble damages. The utilities alleged that the defendants had unlawfully conspired to inflate the price of gas that they supplied to the utilities and sought treble damages for both the amount overcharged and the decrease in sales to customers caused by the overcharge. The petitioner States filed separate § 4 actions in the District Court against the same defendants for the alleged antitrust violation, asserting, inter alia, parens patriae claims on behalf of all natural persons residing in the States who had purchased gas from any utility at inflated prices. The court consolidated all of the actions and granted the utilities partial summary judgment with respect to the defendants' defense that, since the utilities had passed through all of the alleged overcharge to their customers, the utilities lacked standing because they had suffered no antitrust injury as required by § 4. In light of its conclusion that, under Hanover Shoe, Inc. v. United Shoe Machinery Corp., <a href="../us392/us392-0481.xml#p481">392 U. S. 481</a>, and Illinois Brick Co. v. Illinois, <a href="../us431/us431-0720.xml#p720">431 U. S. 720</a>, the utilities had suffered antitrust injury as direct purchasers but their customers, as indirect purchasers, had not, the court dismissed the States' parens patriae claims. The Court of Appeals affirmed the dismissals.</p>
     <p>Held: When suppliers violate antitrust laws by overcharging a public utility for natural gas, and the utility passes on the overcharge to its customers, only the utility has a cause of action under § 4, because it alone has suffered antitrust injury. Pp. <a href="./us497-0199.xml#p206">497 U. S. 206</a>-219.</p>
     <p>1. Three rationales underlie the indirect purchaser rule adopted in Hanover Shoe and Illinois Brick: (1) establishing the amount of an overcharge shifted to indirect purchasers would normally prove insurmountable in light of the wide range of considerations influencing a company's pricing decisions; (2) a pass-on defense would reduce the effectiveness of § 4 actions by diminishing the recovery available to any potential plaintiff; and (3) allowing suits by indirect purchasers would risk multiple liability</p>
@@ -33,7 +33,7 @@
     <p>Section 4 of the Clayton Act, 38 Stat. 731, as amended, 15 U.S.C. § 15, authorizes any person injured by a violation of</p>
     <n id="p204">204</n>
     <p>the antitrust laws to sue for treble damages, costs, and an attorney's fee. We must decide who may sue under § 4 when, in violation of the antitrust laws, suppliers overcharge a public utility for natural gas and the utility passes on the overcharge to its customers. Consistent with Hanover Shoe, Inc. v. United Shoe Machinery Corp., <a href="../us392/us392-0481.xml#p481">392 U. S. 481</a> (1968), and Illinois Brick, Co. v. Illinois, <a href="../us431/us431-0720.xml#p720">431 U. S. 720</a> (1977), we hold that only the utility has the cause of action, because it alone has suffered injury within the meaning of § 4.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The respondent, Utilicorp United, Inc., an investor-owned public utility operating in Kansas and Western Missouri, purchased natural gas from a pipeline company for its own use and for resale to its commercial and residential customers. Together with a second utility and several other gas purchasers, the respondent sued the pipeline company and five gas production companies in the United States District Court for the District of Kansas. The utilities alleged that the defendants had conspired to inflate the price of their gas in violation of the antitrust laws. They sought treble damages, pursuant to § 4 of the Clayton Act, for both the amount overcharged by the pipeline company and the decrease in sales to their customers caused by the overcharge.</p>
     <p>The petitioners, the States of Kansas and Missouri, initiated separate § 4 actions in the District Court against the same defendants for the alleged antitrust violation. Acting as parens patriae, the petitioners asserted the claims of all natural persons residing within Kansas and Missouri who had purchased gas from any utility at inflated prices. They also</p>
     <n id="p205">205</n>
@@ -45,7 +45,7 @@
     <n id="p206">206</n>
     <p>of the State?"</p>
     <p>In re Wyoming Tight Sands Antitrust Cases, <a href="https://law.justia.com/cases/federal/district-courts/FSupp/695/1109/2346024/">695 F. Supp. 1109</a>, <a href="https://law.justia.com/cases/federal/district-courts/FSupp/695/1120/2345693/">1120</a> (Kan.1988). The Court of Appeals answered the question in the negative. It agreed with District Court that Hanover Shoe and Illinois Brick required dismissal of the parens patriae claims. See In re Wyoming Tight Sands Antitrust Cases, 866 F.2d 1286, 1294 (CA10 1989). We granted certiorari to resolve a conflict between this decision and Illinois ex rel. Hartigan v. Panhandle Eastern Pipe Line Co., 852 F.2d 891 (CA7 1988) (en banc). 493 U.S. 1041 (1989). We now affirm.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Section 4 of the Clayton Act provides in full:</p>
     <p>"[A]ny person who shall be injured in his business or property by reason of anything forbidden in the antitrust laws may sue therefor in any district court of the United States in the district in which the defendant resides or is found or has an agent, without respect to the amount in controversy, and shall recover threefold the damages by him sustained, and the cost of suit, including a reasonable attorney's fee."</p>
     <p>15 U.S.C. § 16(a). As noted by the District Court and the Court of Appeals, we have applied this section in two cases involving allegations that a direct purchaser had passed on an overcharge to its customers.</p>
@@ -57,7 +57,7 @@
     <p>The petitioners ask us to allow them to press the consumers' claims for three reasons. First, they assert that none of the rationales underlying Hanover Shoe or Illinois Brick exist in cases involving regulated public utilities. Second, they argue that we should apply an exception, suggested in</p>
     <n id="p208">208</n>
     <p>Illinois Brick for actions based upon cost-plus contracts. Third, they maintain that § 4C of the Hart-Scott-Rodino Antitrust Improvements Act of 1976, 90 Stat. 1394-1396, as amended, 15 U.S.C. § 15c, authorizes them to assert claims on behalf of utility customers even if the customers could not assert any claims themselves. Affirming the Court of Appeals, we reject each of these contentions in turn.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The petitioners assert that we should allow indirect purchaser suits in cases involving regulated public utilities that pass on 100 percent of their costs to their customers. They maintain that our concerns in Hanover Shoe and Illinois Brick about the difficulties of apportionment, the risk of multiple recovery, and the diminution of incentives for private antitrust enforcement would not exist in such cases. We disagree. Although the rationales of Hanover Shoe and Illinois Brick may not apply with equal force in all instances, we find it inconsistent with precedent and imprudent in any event to create an exception for regulated public utilities.</p>
     <p>A</p>
     <p>The direct purchaser rule serves, in part, to eliminate the complications of apportioning overcharges between direct and indirect purchasers. See Hanover Shoe, supra, 392 U.S. at <a href="../us392/us392-0481.xml#p493">392 U. S. 493</a>; Illinois Brick, supra, 431 U.S. at <a href="../us431/us431-0720.xml#p740">431 U. S. 740</a>-742; Blue Shield of Virginia v. McCready, <a href="../us457/us457-0465.xml#p465">457 U. S. 465</a>, <a href="../us457/us457-0465.xml#p475">457 U. S. 475</a>, n. 11 (1982). The petitioners find the rule unnecessary, in this respect, when a utility passes on its costs to its customers pursuant to state regulations or tariffs filed with a utility commission. In such cases, they assert, the customers pay the entire overcharge, obviating litigation over its apportionment. They maintain that they can prove the exact injury to the residential customers whom they represent, because the respondent made periodic public filings showing the volume and price of gas that it sold to these consumers. They ask us to allow them to sue for</p>
@@ -104,7 +104,7 @@
     <n id="p217">217</n>
     <p>into treble-damages proceedings, albeit at a somewhat higher level of generality."</p>
     <p>Id. at <a href="../us431/us431-0720.xml#p744">431 U. S. 744</a>-745. In sum, even assuming that any economic assumptions underlying the Illinois Brick rule might be disproved in a specific case, we think it an unwarranted and counterproductive exercise to litigate a series of exceptions. Having stated the rule in Hanover Shoe, and adhered to it in Illinois Brick, we stand by our interpretation of § 4.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The suggestion in Hanover Shoe and Illinois Brick that a departure from the direct purchaser rule may be necessary when an indirect purchaser buys under a preexisting cost-plus contract does not justify an exception in this case. In Hanover Shoe, we stated:</p>
     <p>"We recognize that there might be situations -- for instance, when an overcharged buyer has a preexisting 'cost-plus' contract, thus making it easy to prove that he has not been damaged -- where the considerations requiring that the passing-on defense not be permitted in this case would not be present."</p>
     <p>392 U.S. at <a href="../us392/us392-0481.xml#p494">392 U. S. 494</a>. We observed further in Illinois Brick:</p>
@@ -113,7 +113,7 @@
     <n id="p218">218</n>
     <p>The respondent did not sell the gas to its customers under a preexisting cost-plus contract. Even if we were to create an exception for situations that merely resemble those governed by such a contract, we would not apply the exception here. Our statements above show that we might allow indirect purchasers to sue only when, by hypothesis, the direct purchaser will bear no portion of the overcharge and otherwise suffer no injury. That certainty does not exist here.</p>
     <p>The utility customers made no commitment to purchase any particular quantity of gas, and the utility itself had no guarantee of any particular profit. Even though the respondent raised its prices to cover its costs, we cannot ascertain its precise injury because, as noted above, we do not know what might have happened in the absence of an overcharge. In addition, even if the utility customers had a highly inelastic demand for natural gas, see Panhandle Eastern, 852 F.2d at 895, the need to inquire into the precise operation of market forces would negate the simplicity and certainty that could justify a cost-plus contract exception. See Illinois Brick, supra, 431 U.S. at 742; P. Areeda &amp; H. Hovencamp, Antitrust Law § 337.3c, pp. 323-324 (Supp.1988). Thus, although we do not alter our observations about the possibility of an exception for cost-plus contracts, we decline to create the general exception for utilities sought by the petitioners.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>The petitioners, in their final argument, contend that § 4C of the Hart-Scott-Rodino Antitrust Improvements Act of 1976, 90 Stat. 1394, as amended, 15 U.S.C. § 15c, authorizes them to sue on behalf of consumers even though the consumers, as indirect purchasers, have no cause of action of their own. Section 4C(a)(1) provides in relevant part:</p>
     <p>"Any attorney general of a State may bring a civil action in the name of such state as parens patriae on behalf of natural persons residing in such State . . . to secure monetary relief as provided in this section for injury sustained</p>
     <n id="p219">219</n>

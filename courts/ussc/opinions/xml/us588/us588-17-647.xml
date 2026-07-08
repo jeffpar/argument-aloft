@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us588-17-647.html" citation="588 U.S. 17-647" title="Knick v. Township of Scott">
   <opinion type="Opinion" author="Roberts">
     <p>NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 17–647</p>
-    <p>_________________</p>
     <p>ROSE MARY KNICK, PETITIONER v. TOWNSHIP OF SCOTT, PENNSYLVANIA, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the third circuit</p>
     <p>[June 21, 2019]</p>
@@ -52,7 +51,7 @@
     <p>The history of takings litigation provides valuable context. At the time of the founding there usually was no compensation remedy available to property owners. On occasion, when a legislature authorized a particular government action that took private property, it might also create a special owner-initiated procedure for obtaining compensation. But there were no general causes of action through which plaintiffs could obtain compensation for property taken for public use. Brauneis, The First Constitutional Tort: The Remedial Revolution in Nineteenth-Century State Just Compensation Law, 52 Vand. L. Rev. 57, 69–70, and n. 33 (1999).</p>
     <p>Until the 1870s, the typical recourse of a property owner who had suffered an uncompensated taking was to bring a common law trespass action against the responsible corporation or government official. The official would then raise the defense that his trespass was lawful because authorized by statute or ordinance, and the plaintiff would respond that the law was unconstitutional because it provided for a taking without just compensation. If the plaintiff prevailed, he nonetheless had no way at common law to obtain money damages for a permanent taking—that is, just compensation for the total value of his prop- erty. He could obtain only retrospective damages, as well as an injunction ejecting the government from his property going forward. See id., at 67–69, 97–99.</p>
     <p>As Chancellor Kent explained when granting a property owner equitable relief, the Takings Clause and its analogs in state constitutions required that “a fair compensation must, in all cases, be previously made to the individuals affected.” Gardner v. Newburgh, 2 Johns. Ch. 162, 166 (N. Y. 1816) (emphasis added). If a government took property without payment, a court would set aside the taking because it violated the Constitution and order the property restored to its owner. The Framers meant to prohibit the Federal Government from taking property without paying for it. Allowing the government to keep the property pending subsequent compensation to the owner, in proceedings that hardly existed in 1787, was not what they envisioned.</p>
-    <p>Antebellum courts, which had no means of compensating a property owner for his loss, had no way to redress the violation of an owner’s Fifth Amendment rights other than ordering the government to give him back his prop- erty. See Callender v. Marsh, 18 Mass. 418, 430–431 (1823) (“[I]f by virtue of any legislative act the land of any citizen should be occupied by the public . . . , without any means provided to indemnify the owner of the property, . . . because such a statute would be directly contrary to the [Massachusetts takings clause]; and as no action can be maintained against the public for damages, the only way to secure the party in his constitutional rights would be to declare void the public appropriation.”). But in the 1870s, as state courts began to recognize implied rights of action for damages under the state equivalents of the Takings Clause, they declined to grant injunctions because prop- erty owners had an adequate remedy at law. See, e.g., Stet- son v. Chicago &amp; Evanston R. Co., 75 Ill. 74, 78 (1874) (“What injury, if any, [the property owner] has sustained, may be compensated by damages recoverable by an action at law.”); see also Brauneis, supra, at 97–99, 110–112. On the federal level, Congress enabled property owners to obtain compensation for takings in federal court when it passed the Tucker Act in 1887, and we subsequently joined the state courts in holding that the compensation remedy is required by the Takings Clause itself. See First English, 482 U. S., at 316 (collecting cases).</p>
+    <p>Antebellum courts, which had no means of compensating a property owner for his loss, had no way to redress the violation of an owner’s Fifth Amendment rights other than ordering the government to give him back his prop- erty. See Callender v. Marsh, 18 Mass. 418, 430–431 (1823) (“[I]f by virtue of any legislative act the land of any citizen should be occupied by the public . . ., without any means provided to indemnify the owner of the property, . . . because such a statute would be directly contrary to the [Massachusetts takings clause]; and as no action can be maintained against the public for damages, the only way to secure the party in his constitutional rights would be to declare void the public appropriation.”). But in the 1870s, as state courts began to recognize implied rights of action for damages under the state equivalents of the Takings Clause, they declined to grant injunctions because prop- erty owners had an adequate remedy at law. See, e.g., Stet- son v. Chicago &amp; Evanston R. Co., 75 Ill. 74, 78 (1874) (“What injury, if any, [the property owner] has sustained, may be compensated by damages recoverable by an action at law.”); see also Brauneis, supra, at 97–99, 110–112. On the federal level, Congress enabled property owners to obtain compensation for takings in federal court when it passed the Tucker Act in 1887, and we subsequently joined the state courts in holding that the compensation remedy is required by the Takings Clause itself. See First English, 482 U. S., at 316 (collecting cases).</p>
     <p>Today, because the federal and nearly all state governments provide just compensation remedies to property owners who have suffered a taking, equitable relief is generally unavailable. As long as an adequate provision for obtaining just compensation exists, there is no basis to enjoin the government’s action effecting a taking. But that is because, as the Court explained in First English, such a procedure is a remedy for a taking that violated the Constitution, not because the availability of the procedure somehow prevented the violation from occurring in the first place. See supra, at 9–11.[<a id="nf1-7" href="#fn1-7">7</a>]</p>
     <p>The dissent contends that our characterization of Cherokee Nation effectively overrules “a hundred-plus years of legal rulings.” Post, at 6 (opinion of Kagan, J.). But under today’s decision every one of the cases cited by the dissent would come out the same way—the plaintiffs would not be entitled to the relief they requested because they could instead pursue a suit for compensation. The premise of such a suit for compensation is that the prop- erty owner has already suffered a violation of the Fifth Amendment that may be remedied by money damages.[<a id="nf1-8" href="#fn1-8">8</a>]</p>
     <p>* * *</p>
@@ -82,9 +81,7 @@
   </opinion>
   <opinion type="Concurrence" author="Thomas">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 17–647</p>
-    <p>_________________</p>
     <p>ROSE MARY KNICK, PETITIONER v. TOWNSHIP OF SCOTT, PENNSYLVANIA, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the third circuit</p>
     <p>[June 21, 2019]</p>
@@ -97,9 +94,7 @@
   </opinion>
   <opinion type="Dissent" author="Kagan">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 17–647</p>
-    <p>_________________</p>
     <p>ROSE MARY KNICK, PETITIONER v. TOWNSHIP OF SCOTT, PENNSYLVANIA, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the third circuit</p>
     <p>[June 21, 2019]</p>

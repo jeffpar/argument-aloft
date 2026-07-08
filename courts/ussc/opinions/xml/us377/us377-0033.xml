@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us377-0033.html" citation="377 U.S. 33" title="FPC v. Texaco, Inc.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p33">33</n>
-    <h>U.S. Supreme Court</h>
-    <h>FPC v. Texaco, Inc., <a href="./us377-0033.xml#p33">377 U.S. 33</a> (1964)</h>
-    <h>Federal Power Commission v. Texaco, Inc.</h>
-    <h>No. 386</h>
-    <h>Argued March 25, 1964</h>
-    <h>Decided April 20, 1964</h>
-    <h><a href="./us377-0033.xml#p33">377 U.S. 33</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE TENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>FPC v. Texaco, Inc., <a href="./us377-0033.xml#p33">377 U.S. 33</a> (1964)</h1>
+    <h2>Federal Power Commission v. Texaco, Inc.</h2>
+    <h2>No. 386</h2>
+    <h4>Argued March 25, 1964</h4>
+    <h4>Decided April 20, 1964</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE TENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>1. A Court of Appeals granted review of a Federal Power Commission (FPC) order concerning a contract performed in its circuit involving natural gas produced there by two respondent natural gas companies incorporated outside the circuit, the principal place of business of one (A) being within the circuit; that of the other (B) being without. Respondents proceeded under §19(b) of the Natural Gas Act, which provides for review in the court of appeals wherein the aggrieved natural gas company "is located or has its principal place of business."</p>
     <p>Held: The Court of Appeals erred in failing to dismiss the petition of respondent B for lack of venue, since the term "is located" in §19(b) means more than having physical presence in a place, and refers in the case of a corporation to the State of its incorporation. Pp. <a href="./us377-0033.xml#p37">377 U. S. 37</a>-39.</p>
     <p>2. Pursuant to §16 of the Natural Gas Act and § 4 of the Administrative Procedure Act, the FPC, after a hearing given to interested parties, including respondents, at which they were allowed to submit their views in writing, issued regulations providing for the summary rejection of contracts with pricing provisions other than those specified in the regulations as being "permissible." Under § 7 of the Natural Gas Act, which includes a provision for an FPC hearing, respondents each submitted an application for a certificate of public convenience and necessity to supply natural gas to a pipeline. Since the applications disclosed price clauses impermissible under its regulations, the FPC rejected the applications without a hearing. Its order on review was set aside by the Court of Appeals.</p>
@@ -33,7 +33,7 @@
     <p>Later, each respondent submitted an application for a certificate of public convenience and necessity under § 7 of the Natural Gas Act, to supply natural gas to a pipeline company. Section 7 provides, with exceptions not presently material, that the Commission "shall set" such an application "for hearing." Since, however, the applications disclosed price clauses that are not "permissible" under the regulations, [<a id="nf9" href="#fn9">Footnote 9</a>] the Commission without a hearing</p>
     <n id="p37">37</n>
     <p>rejected the applications. 28 F.P.C. 551; 29 F.P.C. 378. Petitions for review were filed with the Court of Appeals, which set aside the orders of the Commission. 317 F.2d 796. It held that, while the regulations are valid as a statement of Commission policy, they cannot be used to deprive an applicant of the statutory hearing granted those who seek certificates of public convenience and necessity. The two cases are here in one petition for certiorari which we granted because of an apparent conflict between that decision and Superior Oil Co. v. Federal Power Comm'n, 322 F.2d 601, decided by the Court of Appeals for the Ninth Circuit. 375 U.S. 902.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>A preliminary question, which concerns Texaco Inc., alone, is whether venue to review these orders of the Commission was properly in the Tenth Circuit. The governing provision is § 19(b) of the Natural Gas Act, which provides:</p>
     <p>"Any party to a proceeding under this Act aggrieved by an order issued by the Commission in such proceeding may obtain a review of such order in the court of appeals of the United States for any circuit wherein the natural gas company to which the order relates is located or has its principal place of business, or in the United States court of appeals for the District of Columbia. . . ."</p>
     <p>The term "is located" would have an ambivalent meaning if venue lay only in "any circuit" where the natural gas company "is located." But, in the context of § 19(b), "any circuit" covers either the place where the company</p>
@@ -43,12 +43,12 @@
     <n id="p39">39</n>
     <p>See 9 Fletcher, Cyclopedia Corporations (1931), § 4385. That theme runs through the cases. See, e.g., Shaw v. Quincy Mining Co., <a href="../us145/us145-0444.xml#p444">145 U. S. 444</a>, <a href="../us145/us145-0444.xml#p449">145 U. S. 449</a>-450. We conclude that, although "located" sometimes is used as indicating a place of business (Mercantile Nat. Bank v. Langdeau, <a href="../us371/us371-0555.xml#p555">371 U. S. 555</a>), in the setting of this Act, "is located" and "resides" are equated, and that "is located" refers in the case of Texaco to its State of incorporation. There is symmetry in that construction as the choice, so far as circuits are concerned, is then left between that State, the "principal place of business" (with no penumbra of other places of business, as here), or the District of Columbia, where the Commission sits.</p>
     <p>Texaco is a Delaware corporation, and there is no claim that its principal place of business is within the Tenth Circuit. The Court of Appeals therefore erred in failing to dismiss its petition for lack of venue. There is, however, another respondent, Pan American, whose principal place of business is within the Tenth Circuit. We therefore proceed to the merits of its application.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The main issue in the case is whether the "hearing" granted under § 4(b) of the Administrative Procedure Act is adequate, so far as the price clauses are concerned, for purposes of § 7 of the Natural Gas Act. We think the Court of Appeals erred, that the present case is governed by the principle of United States v. Storer Broadcasting Co., <a href="../us351/us351-0192.xml#p192">351 U. S. 192</a>, and that the statutory requirement for a hearing under § 7 does not preclude the Commission from particularizing statutory standards through the rulemaking process and barring at the threshold those who neither measure up to them nor show reasons why in the public interest the rule should be waived.</p>
     <p>In Storer, the Federal Communications Commission, pursuant to its general rulemaking authority, limited</p>
     <n id="p40">40</n>
     <p>permissible multiple ownership for radio and television stations. Storer, which had seven radio stations and five television stations, was under that rule automatically disqualified for further licensing. To surmount that barrier, it argued that the Act required a license to issue where the public interest would be served, and that, before an application could be denied, a hearing must be held. We said:</p>
-    <p>"We read the Act and Regulations as providing a 'full hearing' for applicants who have reached the existing limit of stations, upon their presentation of applications conforming to Rules 1.361(c) and 1.702, that set out adequate reasons why the Rules should be waived or amended. The Act, considered as a whole, requires no more. We agree with the contention of the Commission that a full hearing, such as is required by § 309(b) . . . , would not be necessary on all such applications. As the Commission has promulgated its Rules after extensive administrative hearings, it is necessary for the accompanying papers to set forth reasons, sufficient if true, to justify a change or waiver of the Rules. We do not think Congress intended the Commission to waste time on applications that do not state a valid basis for a hearing. If any applicant is aggrieved by a refusal, the way for review is open."</p>
+    <p>"We read the Act and Regulations as providing a 'full hearing' for applicants who have reached the existing limit of stations, upon their presentation of applications conforming to Rules 1.361(c) and 1.702, that set out adequate reasons why the Rules should be waived or amended. The Act, considered as a whole, requires no more. We agree with the contention of the Commission that a full hearing, such as is required by § 309(b) . . ., would not be necessary on all such applications. As the Commission has promulgated its Rules after extensive administrative hearings, it is necessary for the accompanying papers to set forth reasons, sufficient if true, to justify a change or waiver of the Rules. We do not think Congress intended the Commission to waste time on applications that do not state a valid basis for a hearing. If any applicant is aggrieved by a refusal, the way for review is open."</p>
     <p>351 U.S. at <a href="../us351/us351-0192.xml#p205">351 U. S. 205</a>.</p>
     <p>In the present case, as in Storer, there is a procedure provided in the regulations whereby an applicant can ask for a waiver of the rule complained of. [<a id="nf11" href="#fn11">Footnote 11</a>] Facts might conceivably</p>
     <n id="p41">41</n>

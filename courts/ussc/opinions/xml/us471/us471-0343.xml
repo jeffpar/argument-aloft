@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us471-0343.html" citation="471 U.S. 343" title="CFTC v. Weintraub">
   <opinion type="Opinions &amp; Dissents">
     <n id="p343">343</n>
-    <h>U.S. Supreme Court</h>
-    <h>CFTC v. Weintraub, <a href="./us471-0343.xml#p343">471 U.S. 343</a> (1985)</h>
-    <h>Commodity Futures Trading Commission v. Weintraub</h>
-    <h>No. 84-261</h>
-    <h>Argued March 19, 1985</h>
-    <h>Decided April 29, 1985</h>
-    <h><a href="./us471-0343.xml#p343">471 U.S. 343</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE</h>
-    <h>SEVENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>CFTC v. Weintraub, <a href="./us471-0343.xml#p343">471 U.S. 343</a> (1985)</h1>
+    <h2>Commodity Futures Trading Commission v. Weintraub</h2>
+    <h2>No. 84-261</h2>
+    <h4>Argued March 19, 1985</h4>
+    <h4>Decided April 29, 1985</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE</h2>
+    <h2>SEVENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner filed a complaint in Federal District Court alleging violations of the Commodity Exchange Act by Chicago Discount Commodity Brokers (CDCB), and respondent Frank McGhee, acting as sole director and officer of CDCB, entered into a consent decree that resulted in the appointment of a receiver who was ultimately appointed trustee in bankruptcy after he filed a voluntary petition in bankruptcy on behalf of CDCB. Respondent Weintraub, CDCB's former counsel, appeared for a deposition pursuant to a subpoena duces tecum served by petitioner as part of its investigation of CDCB, but refused to answer certain questions, asserting CDCB's attorney-client privilege. Petitioner then obtained a waiver of the privilege from the trustee as to any communications occurring on or before the date of his initial appointment as a receiver. The District Court upheld a Magistrate's order directing Weintraub to testify, but the Court of Appeals reversed, holding that a bankruptcy trustee does not have the power to waive a corporate debtor's attorney-client privilege with respect to communications that occurred before the filing of the bankruptcy petition.</p>
     <p>Held: The trustee of a corporation in bankruptcy has the power to waive the corporation's attorney-client privilege with respect to prebankruptcy communications. Pp. <a href="./us471-0343.xml#p348">471 U. S. 348</a>-358.</p>
     <p>(a) The attorney-client privilege attaches to corporations as well as to individuals, and with regard to solvent corporations, the power to waive the privilege rests with the corporation's management, and is normally exercised by its officers and directors. When control of the corporation passes to new management, the authority to assert and waive the privilege also passes, and the new managers may waive the privilege with respect to corporate communications made by former officers and directors. Pp. <a href="./us471-0343.xml#p348">471 U. S. 348</a>-349.</p>
@@ -27,7 +27,7 @@
     <n id="p345">345</n>
     <p>JUSTICE MARSHALL delivered the opinion of the Court.</p>
     <p>The question here is whether the trustee of a corporation in bankruptcy has the power to waive the debtor corporation's attorney-client privilege with respect to communications that took place before the filing of the petition in bankruptcy.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The case arises out of a formal investigation by petitioner Commodity Futures Trading Commission to determine whether Chicago Discount Commodity Brokers (CDCB), or persons associated with that firm, violated the Commodity Exchange Act, 7 U.S.C. § 1 et seq. CDCB was a discount commodity brokerage house registered with the Commission, pursuant to 7 U.S.C. § 6d(1), as a futures commission merchant. On October 27, 1980, the Commission filed a complaint against CDCB in the United States District Court for the Northern District of Illinois alleging violations of the Act. That same day, respondent Frank McGhee, acting as sole director and officer of CDCB, entered into a consent decree with the Commission, which provided for the appointment of a receiver and for the receiver to file a petition for liquidation under Chapter 7 of the Bankruptcy Reform Act of 1978 (Bankruptcy Code). The District Court appointed John K. Notz, Jr., as receiver.</p>
     <p>Notz then filed a voluntary petition in bankruptcy on behalf of CDCB. He sought relief under Subchapter IV of Chapter 7 of the Bankruptcy Code, which provides for the</p>
     <n id="p346">346</n>
@@ -41,7 +41,7 @@
     <p>upheld the Magistrate's order on June 9. Id. at 18a. Thereafter, Frank McGhee and his brother, respondent Andrew McGhee, intervened and argued that Notz could not validly waive the privilege over their objection. Record, Doc. No. 49, p. 7. [<a id="nf1" href="#fn1">Footnote 1</a>] The District Court rejected this argument and, on July 27, entered a new order requiring Weintraub to testify without asserting an attorney-client privilege on behalf of CDCB. App. to Pet. for Cert. 17a. [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
     <p>The McGhees appealed from the District Court's order of July 27 and the Court of Appeals for the Seventh Circuit reversed. 722 F.2d 338 (1984). It held that a bankruptcy trustee does not have the power to waive a corporate debtor's attorney-client privilege with respect to communications that occurred before the filing of the bankruptcy petition. The court recognized that two other Circuits had addressed the question and had come to the opposite conclusion. See In re O. P. M. Leasing Services, Inc., 670 F.2d 383 (CA2 1982); Citibank, N. A. v. Andros, 666 F.2d 1192 (CA8 1981). [<a id="nf3" href="#fn3">Footnote 3</a>] We granted certiorari to resolve the conflict. 469 U.S. 929 (1984). We now reverse the Court of Appeals.</p>
     <n id="p348">348</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>It is by now well established, and undisputed by the parties to this case, that the attorney-client privilege attaches to corporations as well as to individuals. Upjohn Co. v. United States, <a href="../us449/us449-0383.xml#p383">449 U. S. 383</a> (1981). Both for corporations and individuals, the attorney-client privilege serves the function of promoting full and frank communications between attorneys and their clients. It thereby encourages observance of the law and aids in the administration of justice. See, e.g., Upjohn Co. v. United States, supra, at <a href="../us449/us449-0383.xml#p389">449 U. S. 389</a>; Trammel v. United States, <a href="../us445/us445-0040.xml#p40">445 U. S. 40</a>, <a href="../us445/us445-0040.xml#p51">445 U. S. 51</a> (1980); Fisher v. United States, <a href="../us425/us425-0391.xml#p391">425 U. S. 391</a>, <a href="../us425/us425-0391.xml#p403">425 U. S. 403</a> (1976).</p>
     <p>The administration of the attorney-client privilege in the case of corporations, however, presents special problems. As an inanimate entity, a corporation must act through agents. A corporation cannot speak directly to its lawyers. Similarly, it cannot directly waive the privilege when disclosure is in its best interest. Each of these actions must necessarily be undertaken by individuals empowered to act on behalf of the corporation. In Upjohn Co., we considered whether the privilege covers only communications between counsel and top management, and decided that, under certain circumstances, communications between counsel and lower-level employees are also covered. Here, we face the related question of which corporate actors are empowered to waive the corporation's privilege.</p>
     <p>The parties in this case agree that, for solvent corporations, the power to waive the corporate attorney-client privilege rests with the corporation's management, and is normally exercised by its officers and directors. [<a id="nf4" href="#fn4">Footnote 4</a>] The managers, of</p>
@@ -49,7 +49,7 @@
     <p>course, must exercise the privilege in a manner consistent with their fiduciary duty to act in the best interests of the corporation, and not of themselves as individuals. See, e.g., Dodge v. Ford Motor Co., 204 Mich. 459, 507, 170 N.W. 668, 684 (1919).</p>
     <p>The parties also agree that, when control of a corporation passes to new management, the authority to assert and waive the corporation's attorney-client privilege passes as well. New managers installed as a result of a takeover, merger, loss of confidence by shareholders, or simply normal succession, may waive the attorney-client privilege with respect to communications made by former officers and directors. Displaced managers may not assert the privilege over the wishes of current managers, even as to statements that the former might have made to counsel concerning matters within the scope of their corporate duties. See Brief for Petitioner 11; Tr. of Oral Arg. 26. See generally In re O. P. M. Leasing Services, Inc., supra, at 386; Citibank v. Andros, supra, at 1195; In re Grand Jury Investigation, 599 F.2d 1224, 1236 (CA3 1979); Diversified Industries, Inc. v. Meredith, 572 F.2d 596, 611, n. 5 (CA8 1978) (en banc). [<a id="nf5" href="#fn5">Footnote 5</a>]</p>
     <p>The dispute in this case centers on the control of the attorney-client privilege of a corporation in bankruptcy. The Government maintains that the power to exercise that privilege with respect to prebankruptcy communications passes to the bankruptcy trustee. In contrast, respondents maintain that this power remains with the debtor's directors.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>As might be expected, given the conflict among the Courts of Appeals, the Bankruptcy Code does not explicitly address</p>
     <n id="p350">350</n>
     <p>the question before us. Respondents assert that 11 U.S.C. § 542(e) is dispositive, but we find reliance on that provision misplaced. Section 542(e) states:</p>
@@ -65,7 +65,7 @@
     <p>In addition, the legislative history establishes that § 542(e) was intended to restrict, not expand, the ability of accountants and attorneys to withhold information from the trustee. Both the House and the Senate Reports state that § 542(e)</p>
     <p>"is a new provision that deprives accountants and attorneys of the leverage that they ha[d], . . . under State law lien provisions, to receive payment in full ahead of other creditors when the information they hold is necessary to the administration of the estate."</p>
     <p>S.Rep. No. 95-989, p. 84 (1978); H.R.Rep. No. 95-595, pp. 369-370 (1977). It is therefore clear that § 542(e) was not intended to limit the trustee's ability to obtain corporate information.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>In light of the lack of direct guidance from the Code, we turn to consider the roles played by the various actors of a corporation in bankruptcy to determine which is most analogous to the role played by the management of a solvent corporation. See Butner v. United States, <a href="../us440/us440-0048.xml#p48">440 U. S. 48</a>, <a href="../us440/us440-0048.xml#p55">440 U. S. 55</a> (1979). Because the attorney-client privilege is controlled, outside of bankruptcy, by a corporation's management, the actor whose duties most closely resemble those of management</p>
     <n id="p352">352</n>
     <p>should control the privilege in bankruptcy, unless such a result interferes with policies underlying the bankruptcy laws.</p>
@@ -82,7 +82,7 @@
     <p>conduct. See generally In re Browy, 527 F.2d 799, 802 (CA7 1976) (per curiam).</p>
     <p>Respondents contend that the trustee can adequately investigate fraud without controlling the corporation's attorney-client privilege. They point out that the privilege does not shield the disclosure of communications relating to the planning or commission of ongoing fraud, crimes, and ordinary torts, see, e.g., Clark v. United States, <a href="../us289/us289-0001.xml#p1">289 U. S. 1</a>, <a href="../us289/us289-0001.xml#p15">289 U. S. 15</a> (1933); Garner v. Wolfinbarger, 430 F.2d 1093, 1102-1103 (CA5 1970), cert. denied, 401 U.S. 974 (1971). Brief for Respondents 11. The problem, however, is making the threshold showing of fraud necessary to defeat the privilege. See Clark v. United States, supra, at <a href="../us289/us289-0001.xml#p15">289 U. S. 15</a>. Without control over the privilege, the trustee might not be able to discover hidden assets or looting schemes, and therefore might not be able to make the necessary showing.</p>
     <p>In summary, we conclude that vesting in the trustee control of the corporation's attorney-client privilege most closely comports with the allocation of the waiver power to management outside of bankruptcy without in any way obstructing the careful design of the Bankruptcy Code.</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>Respondents do not seriously contest that the bankruptcy trustee exercises functions analogous to those exercised by management outside of bankruptcy, whereas the debtor's directors exercise virtually no management functions at all. Neither do respondents seriously dispute that vesting control over the attorney-client privilege in the trustee will facilitate the recovery of misappropriated corporate assets.</p>
     <p>Respondents argue, however, that the trustee should not obtain control over the privilege because, unlike the management of a solvent corporation, the trustee's primary loyalty goes not to shareholders, but to creditors, who elect him and who often will be the only beneficiaries of his efforts. See 11 U.S.C. §§ 702 (creditors elect trustee), 726(a) (shareholders</p>
     <n id="p355">355</n>
@@ -94,7 +94,7 @@
     <n id="p356">356</n>
     <p>would have to exercise control of the corporation's attorney-client privilege consistently with this obligation to treat all parties, not merely the shareholders, fairly. By the same token, when a trustee is appointed, the privilege must be exercised in accordance with the trustee's fiduciary duty to all interested parties.</p>
     <p>To accept respondents' position would lead to one of two outcomes: (1) a rule under which the management of a debtor-in-possession exercises control of the attorney-client privilege for the benefit only of shareholders but exercises all of its other functions for the benefit of both shareholders and creditors, or (2) a rule under which the attorney-client privilege is exercised for the benefit of both creditors and shareholders when the debtor remains in possession, but is exercised for the benefit only of shareholders when a trustee is appointed. We find nothing in the bankruptcy laws that would suggest, much less compel, either of these implausible results.</p>
-    <h>VI</h>
+    <h2>VI</h2>
     <p>Respondents' other arguments are similarly unpersuasive. First, respondents maintain that the result we reach today would also apply to individuals in bankruptcy, a result that respondents find "unpalatable." Brief for Respondents 27. But our holding today has no bearing on the problem of individual bankruptcy, which we have no reason to address in this case. As we have stated, a corporation, as an inanimate entity, must act through agents. See supra at <a href="./us471-0343.xml#p348">471 U. S. 348</a>. When the corporation is solvent, the agent that controls the corporate attorney-client privilege is the corporation's management. Under our holding today, this power passes to the trustee because the trustee's functions are more closely analogous to those of management outside of bankruptcy than are the functions of the debtor's directors. An individual, in contrast, can act for himself; there is no "management" that controls a solvent individual's attorney-client privilege. If control over that privilege passes to a trustee, it must be</p>
     <n id="p357">357</n>
     <p>under some theory different from the one that we embrace in this case.</p>
@@ -105,7 +105,7 @@
     <p>Finally, respondents maintain that upholding trustee waivers would create a disincentive for debtors to invoke the protections of bankruptcy, and provide an incentive for creditors to file for involuntary bankruptcy. According to respondents, "[i]njection of such considerations into bankruptcy</p>
     <n id="p358">358</n>
     <p>would skew the application of the bankruptcy laws in a manner not contemplated by Congress." Brief for Respondents 43. The law creates numerous incentives, both for and against the filing of bankruptcy petitions. Respondents do not explain why our holding creates incentives that are inconsistent with congressional intent, and we do not believe that it does.</p>
-    <h>VII</h>
+    <h2>VII</h2>
     <p>For the foregoing reasons, we hold that the trustee of a corporation in bankruptcy has the power to waive the corporation's attorney-client privilege with respect to prebankruptcy communications. We therefore conclude that Notz, in his capacity as trustee, properly waived CDCB's privilege in this case. The judgment of the Court of Appeals for the Seventh Circuit is accordingly reversed.</p>
     <p>It is so ordered.</p>
     <p>JUSTICE POWELL took no part in the consideration or decision of this case.</p>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us477-0105.html" citation="477 U.S. 105" title="United States v. Amer. Bar Endowment">
   <opinion type="Opinions &amp; Dissents">
     <n id="p105">105</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Amer. Bar Endowment, <a href="./us477-0105.xml#p105">477 U.S. 105</a> (1986)</h>
-    <h>United States v. American Bar Endowment</h>
-    <h>No. 85-599</h>
-    <h>Argued April 28, 1986</h>
-    <h>Decided June 23, 1986</h>
-    <h><a href="./us477-0105.xml#p105">477 U.S. 105</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE FEDERAL CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Amer. Bar Endowment, <a href="./us477-0105.xml#p105">477 U.S. 105</a> (1986)</h1>
+    <h2>United States v. American Bar Endowment</h2>
+    <h2>No. 85-599</h2>
+    <h4>Argued April 28, 1986</h4>
+    <h4>Decided June 23, 1986</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE FEDERAL CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondent American Bar Endowment (ABE), a tax exempt organization, raises money for its charitable work by providing group life, health, accident, and disability insurance policies, underwritten by insurance companies, to its members. Because the members have favorable mortality and morbidity rates, experience rating results in substantially lower insurance costs than if the insurance were purchased individually. Since the insurance companies' costs of providing insurance to the group are uniformly lower than the annual premiums paid, the companies pay refunds of the excess ("dividends") to ABE that are used for its charitable purposes. Critical to ABE's fundraising efforts is the fact that it requires its members to assign it all dividends as a condition for participating in the insurance program. ABE advises its insured members that each member's share of the dividends, less ABE's administrative costs, constitutes a tax-deductible contribution. In 1980, the Internal Revenue Service (IRS) advised ABE that it considered ABE's insurance plan an "unrelated trade or business," and that hence the profits thereon were subject to income tax under §§ 511-513 of the Internal Revenue Code. Accordingly, the IRS assessed a tax deficiency on ABE's net revenues from the insurance program for 1979 and 1980. ABE paid these taxes, as well as taxes on its 1981 revenues, and, after exhausting administrative remedies, brought an action for a refund in the Claims Court, as did the individual respondent ABE members who claimed that they were entitled to charitable deductions for part of the insurance premiums they paid. The suits were consolidated, and the Claims Court entered judgment for ABE, but found for the Government on the individual respondents' claims. The Court of Appeals affirmed as to ABE's taxes, but reversed as to the individual respondents and remanded for further factfinding.</p>
     <p>Held:</p>
     <p>1. ABE's insurance program, as constituting both "the sale of goods" and "the performance of services," is a "trade or business" for purposes of the unrelated business income tax. This case presents an example of precisely the sort of unfair competition between tax exempt organizations and taxable businesses that Congress intended to prevent by providing</p>
@@ -24,7 +24,7 @@
     <p>The first issue in this case is whether income that a tax-exempt charitable organization derives from offering group insurance to its members constitutes "unrelated business income" subject to tax under §§ 511 through 513 of the Internal Revenue Code (Code), 26 U.S.C. §§ 511-513. The second issue is whether the organization's members may claim a charitable deduction for the portion of their premium payments</p>
     <n id="p107">107</n>
     <p>that exceeds the actual cost to the organization of providing insurance.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Respondent American Bar Endowment (ABE) is a corporation exempt from taxation under § 501(c)(3) of the Code, which, with certain exceptions not relevant here, exempts organizations "organized and operated exclusively for . . . charitable . . . or educational purposes." ABE's primary purposes are to advance legal research and to promote the administration of justice, and it furthers these goals primarily through the distribution of grants to other charitable and educational groups. All members of the American Bar Association (ABA) are automatically members of ABE. The ABA is exempt from taxation as a "business league" under § 501(c)(6).</p>
     <p>ABE raises money for its charitable work by providing group insurance policies, underwritten by major insurance companies, to its members. Approximately 20% of ABE's members participate in the group insurance program, which offers life, health, accident, and disability policies. ABE negotiates premium rates with insurers and chooses which insurers shall provide the policies. It also compiles a list of its own members and solicits them, collects the premiums paid by its members, transmits those premiums to the insurer, maintains files on each policyholder, answers members' questions concerning insurance policies, and screens claims for benefits.</p>
     <p>There are two important benefits of purchasing insurance as a group, rather than individually. The first is that ABE's size gives it bargaining power that individuals lack. The second is that the group policy is experience-rated. This means that the cost of insurance to the group is based on that group's claims experience, rather than general actuarial tables. Because ABA members have favorable mortality and morbidity rates, experience rating results in a substantially lower insurance cost. When ABE purchases a group policy</p>
@@ -37,7 +37,7 @@
     <p>The Claims Court entered judgment for ABE in its suit, finding that ABE's provision of insurance to its members did not constitute a "trade or business" subject to tax. 4 Cl.Ct. 404 (1984). It found for the Government, however, on the individual respondents' claims. The court concluded that a taxpayer may claim a charitable contribution for a portion of a payment for goods or services only when he can show that</p>
     <p>"he bought goods or services for more than their economic value, with the intention that the excess be used to benefit a charitable enterprise,"</p>
     <p>id. at 415 (citation omitted), and that the individual respondents had not established these facts. The Court of Appeals for the Federal Circuit affirmed as to ABE's taxes. 761 F.2d at 1677. As to the individual respondents, however the court reversed and remanded for further factfinding. We granted the Government's petition for certiorari on both issues, 474 U.S. 1004 (1985), and we now reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>We recently discussed the history and structure of the unrelated business income provisions of the Code in United States v. American College of Physicians <a href="../us475/us475-0834.xml#p834">475 U. S. 834</a> (1986). The Code imposes a tax, at ordinary corporate rates, on the income that a tax exempt organization obtains from an "unrelated trade or business . . . regularly carried on by it." §§ 512(a)(1), 511(a)(1). An "unrelated trade or business" is</p>
     <p>"any trade or business the conduct of which is not substantially related . . . to the exercise or performance by such organization of its charitable, educational, or other purpose,"</p>
     <p>§ 513(a). The Code thus sets up a three-part test.</p>
@@ -69,7 +69,7 @@
     <p>The only valid argument in ABE's favor, therefore, is that the insurance program is billed as a fundraising effort. That fact, standing alone, cannot be determinative, or any exempt organization could engage in a tax-free business by "giving away" its product in return for a "contribution" equal to the market value of the product. ABE further contends that it must prevail because the Claims Court found that ABE's profits represent contributions, rather than business income; ABE argues that we may not upset that finding unless it is</p>
     <n id="p116">116</n>
     <p>clearly erroneous. Cf. Carter v. Commissioner, 645 F.2d 784, 786 (CA9 1981) (question of profit motive for purposes of § 162 is one of fact). The undisputed facts, however, simply will not support the inference that the dividends ABE receives are charitable contributions from its members, rather than profits from its insurance program. Moreover, the Claims Court failed to articulate a legal rule that would permit it to split ABE's activities into the gratuitous provision of a service and the acceptance of voluntary contributions, and we find no such rule in the Code or regulations. Even if we assumed, however, that the court's failure to attach the label "trade or business" to ABE's insurance program constitutes a finding of fact, we would be constrained to hold that finding clearly erroneous.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Section 170 of the Code provides that a taxpayer may deduct from taxable income any "charitable contribution," defined as "a contribution or gift to or for the use of" qualifying entities, § 170(c). The individual respondents contend that the excess of their premium payments over the cost to ABE of providing insurance constitutes a contribution or gift to ABE.</p>
     <p>Many of the considerations supporting our holding that ABE's earnings from the insurance program are taxable also bear on the question whether ABE's members may deduct part of their premium payments. The evidence demonstrates, and the Claims Court found, that ABE's insurance is no more costly to its members than other policies -- group or individual -- available to them. Thus, as we have recognized, ABE's members are never faced with the hard choice of supporting a worthwhile charitable endeavor or reducing their own insurance costs.</p>
     <p>A payment of money generally cannot constitute a charitable contribution if the contributor expects a substantial benefit in return. S.Rep. No. 1622, 83d Cong., 2d Sess.,</p>
@@ -82,7 +82,7 @@
     <p>The Court of Appeals, in reversing, held that the Claims Court had focused excessively on the taxpayers' motivation. In the Court of Appeals' view, the necessary inquiry was whether "the transaction was . . . of a business, and not a charitable, nature," considering all of the circumstances. 761 F.2d at 1582. The Court of Appeals therefore remanded for redetermination under that standard.</p>
     <p>We hold that the Claims Court applied the proper standard. The sine qua non of a charitable contribution is a transfer of money or property without adequate consideration. The taxpayer, therefore, must at a minimum demonstrate that he purposely contributed money or property in excess of the value of any benefit he received in return. The most logical test of the value of the insurance respondents received is the cost of similar policies. Three of the four individual respondents failed to demonstrate that they could have purchased similar policies for a lower cost, and we must therefore assume that the value of ABE's insurance to those taxpayers at least equals their premium payments. Had respondent Sherwood known that he could purchase comparable insurance for less money, ABE's insurance would necessarily have declined in value to him. Because Sherwood did not have that knowledge, however, we again must assume that he valued ABE's insurance equivalently to those competing policies of which he was aware. Because those policies cost as much as or more than ABE's, Sherwood has failed to demonstrate that he intentionally gave away more than he received.</p>
     <n id="p119">119</n>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>We hold that ABE's insurance program is a "trade or business" for purposes of the unrelated business income tax. We further hold that the individual taxpayers have not established that any portion of their premium payments to ABE constitutes a charitable contribution. Accordingly, we reverse the judgment of the Court of Appeals and remand to that court with instructions to reverse the judgment of the Claims Court with respect to ABE and to affirm the judgment of the Claims Court with respect to the individual taxpayers.</p>
     <p>It is so ordered.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>
@@ -102,7 +102,7 @@
       <n id="p121">121</n>
       <p>central issue in this case is thus whether the ABE's insurance program should be viewed as akin to the macaroni company, and thus a "trade or business," or as akin to the dividend assignment request, and thus not a "trade or business."</p>
       <p>I believe that the ABE's activities are far closer to the latter than the former for two reasons. First, there is no danger of unfair competition, the problem that the unrelated business tax addresses. Second, the program has functioned as a charitable fundraising effort, rather than as a business.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>An understanding of the purpose of the unrelated business income tax exposes a basic error in the Court's analysis. As noted, that purpose is to protect commercial enterprises from the unfair competition that may be generated by the operation of competing businesses by tax-free organizations. There is no evidence in the record, despite more than three weeks of trial and numerous witnesses, to support the notion that the Endowment's provision of insurance to its members has had any competitive impact whatsoever. The Court relies on a parade of hypotheticals to justify its conclusion that there is some effect on competition. [Footnote 2/3] The Court is, however, unable to point to a single piece of evidence in the</p>
       <n id="p122">122</n>
       <p>record to justify its conclusion about the effect on competition.</p>
@@ -119,7 +119,7 @@
       <p>that currently hold ABE policies; it would appeal to those who simply want an insurance bargain, rather than those who also want to make a charitable contribution. [Footnote 2/8]</p>
       <p>It is not completely surprising that a consideration of the purpose of the unrelated business tax in light of the record developed at the extensive trial leads to a conclusion that the ABE's program should not be taxed. For the Government itself initially held such a view. [Footnote 2/9] Furthermore, the ABE's insurance program was initiated in 1955 as a pioneering, and widely publicized, effort in charitable fundraising. When Congress revamped the unrelated business tax in 1969, there was no suggestion that it was intended to apply to this venerable and successful program, and the IRS did not so interpret it until several years later.</p>
       <p>In short, a proper consideration of the purpose of the unrelated business tax leads to a conclusion that the ABE's insurance program is not a "trade or business." [Footnote 2/10]</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>Not only does the ABE program completely fail to raise the concerns against which the unrelated business tax is directed, but it is also operated as a charitable fundraising endeavor.</p>
       <p>The learned trial judge expressly found, after hearing a good deal of evidence, that the assignment of the dividends</p>
       <n id="p126">126</n>
@@ -134,7 +134,7 @@
       <p>an economic expense, but one for the good of the profession, and for the greater good of society, that it would not exist, it could not have existed, it could not have survived, it would not have survived to today. And at least on the basis of this record, those are my findings on that point."</p>
       <p>App. 505. See also 4 Cl.Ct. 404, 405, n. 1 (1984) (incorporating oral findings of fact).</p>
       <p>I believe that we are bound by that finding. The Court's suggestion to the contrary notwithstanding, [Footnote 2/20] rejecting that finding would run afoul of the "two court rule," [Footnote 2/21] would decide the case on a ground expressly disavowed by the Government, and would conflict with the record. That finding, combined with the other findings and with a proper analysis of the purpose and scope of the unrelated business tax, requires a conclusion that the ABE has been operated as a charitable fundraising effort, rather than as a commercial business.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>The ABE's program poses no harm to competitors, and has been operated as a charitable fundraising activity. Depending on its members' agreement to assign their dividends, it is far less like the operation of a competitive macaroni company than like the provision of insurance as a service with a request for the dividends. In my opinion, the Court of Appeals and the Chief Judge of the Claims Court were both quite correct in concluding that, on the basis of the record</p>
       <n id="p130">130</n>
       <p>generated at the vigorously contested trial, the tax that the Government seeks to collect in this case was not the kind of tax that Congress intended to impose. [Footnote 2/22] Accordingly, I respectfully dissent.</p>

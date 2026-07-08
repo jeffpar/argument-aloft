@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us465-0792.html" citation="465 U.S. 792" title="United States v. Weber Aircraft Corp.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p792">792</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Weber Aircraft Corp., <a href="./us465-0792.xml#p792">465 U.S. 792</a> (1984)</h>
-    <h>United States v. Weber Aircraft Corp.</h>
-    <h>No. 82-1616</h>
-    <h>Argued January 11, 1984</h>
-    <h>Decided March 20, 1984</h>
-    <h><a href="./us465-0792.xml#p792">465 U.S. 792</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Weber Aircraft Corp., <a href="./us465-0792.xml#p792">465 U.S. 792</a> (1984)</h1>
+    <h2>United States v. Weber Aircraft Corp.</h2>
+    <h4>No. 82-1616</h4>
+    <h4>Argued January 11, 1984</h4>
+    <h4>Decided March 20, 1984</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>When the engine of an Air Force aircraft failed in flight, the pilot was severely injured when he ejected from the plane. After Air Force collateral and safety investigations of the incident had been completed, the pilot filed a damages action against respondents as the entities responsible for the design and manufacture of the plane's ejection equipment. Respondents sought pretrial discovery of documents containing confidential unsworn statements made during the safety investigation by the pilot and the airman who had rigged and maintained the pilot's parachute equipment. But such discovery was prevented by Machin v. Zukert, 114 U.S.App.D.C. 335, 316 F.2d 336, cert. denied, 375 U.S. 896, which held that confidential statements made to air crash safety investigators are privileged with respect to pretrial discovery. Respondents then filed requests for the statements under the Freedom of Information Act (FOIA) and, when the Air Force refused production, commenced an action in Federal District Court, which held that the statements were protected from disclosure by Exemption 5 of the FOIA, which exempts from disclosure</p>
     <p>"inter-agency or intra-agency memorandums or letters which would not be available by law to a party other than an agency in litigation with the agency."</p>
     <p>The Court of Appeals reversed, holding that, although the requested documents were "intra-agency memorandums" within the meaning of Exemption 5 and were protected from civil discovery under the Machin privilege, the statutory phrase "would not be available by law" did not encompass every civil discovery privilege, but rather reached only those privileges explicitly recognized in the FOIA's legislative history, which the court read as not extending to the Machin privilege.</p>
@@ -26,7 +26,7 @@
     <p>"inter-agency or intra-agency memorandums or letters which would not be</p>
     <n id="p795">795</n>
     <p>available by law to a party other than an agency in litigation with the agency."</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>On October 9, 1973, the engine of an Air Force F-106B aircraft failed in flight. Captain Richard Hoover, the pilot, was severely injured when he ejected from the plane. Under Air Force regulations, the incident was a significant air crash that required two separate investigations: a "collateral investigation" and a "safety investigation."</p>
     <p>The collateral investigation is conducted</p>
     <p>"to preserve available evidence for use in claims, litigation, disciplinary actions, administrative proceedings, and all other purposes. [<a id="nf3" href="#fn3">Footnote 3</a>]"</p>
@@ -40,7 +40,7 @@
     <p>contained "conclusions, speculations, findings and recommendations made by the Aircraft Mishap Investigators," as well as "testimony provided by witnesses under a pledge of confidentiality." App. 38. The affidavit explained why the General believed that the national security would be adversely affected by the disclosure of such material. [<a id="nf11" href="#fn11">Footnote 11</a>] The District Court held that the material at issue would not be available by law to a party other than an agency in litigation with an agency, and hence need not be disclosed by virtue of</p>
     <n id="p798">798</n>
     <p>Exemption 5. [<a id="nf12" href="#fn12">Footnote 12</a>] The Court of Appeals reversed. 688 F.2d 638 (CA9 1982). It agreed that the requested documents were "intra-agency memorandums" within the meaning of Exemption 5, and that they were protected from civil discovery under the Machin privilege. It held, however, that the statutory phrase "would not be available by law" did not encompass every civil discovery privilege, but rather reached only those privileges explicitly recognized in the legislative history of the FOIA. It read that history as accepting an executive privilege for predecisional documents containing advice, opinions, or recommendations of Government agents, but as not extending to the Machin civil discovery privilege for official Government information. It accordingly remanded the case with directions to disclose the factual portions of the witnesses' statements.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The plain language of the statute itself, as construed by our prior decisions, is sufficient to resolve the question presented. The statements of the two witnesses are unquestionably "intra-agency memorandums or letters," [<a id="nf13" href="#fn13">Footnote 13</a>] and, since the Machin privilege normally protects them from discovery in civil litigation, they "would not be available by law to a party other than [the Air Force] in litigation with [the Air Force]." [<a id="nf14" href="#fn14">Footnote 14</a>]</p>
     <n id="p799">799</n>
     <p>Last Term, in FTC v. Grolier Inc., <a href="../us462/us462-0019.xml#p19">462 U. S. 19</a> (1983), we held that Exemption 5 simply incorporates civil discovery privileges:</p>

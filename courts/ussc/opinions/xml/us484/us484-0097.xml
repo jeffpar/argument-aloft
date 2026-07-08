@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us484-0097.html" citation="484 U.S. 97" title="Omni Capital v. Rudolf Wolff &amp;amp; Co.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p97">97</n>
-    <h>U.S. Supreme Court</h>
-    <h>Omni Capital v. Rudolf Wolff &amp; Co., <a href="./us484-0097.xml#p97">484 U.S. 97</a> (1987)</h>
-    <h>Omni Capital International, Ltd. v. Rudolf Wolff &amp; Co., Ltd.</h>
-    <h>No. 86-740</h>
-    <h>Argued October 6, 1987</h>
-    <h>Decided December 8, 1987</h>
-    <h><a href="./us484-0097.xml#p97">484 U.S. 97</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE FIFTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Omni Capital v. Rudolf Wolff &amp; Co., <a href="./us484-0097.xml#p97">484 U.S. 97</a> (1987)</h1>
+    <h2>Omni Capital International, Ltd. v. Rudolf Wolff &amp; Co., Ltd.</h2>
+    <h2>No. 86-740</h2>
+    <h4>Argued October 6, 1987</h4>
+    <h4>Decided December 8, 1987</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE FIFTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Omni Capital International, Ltd., and Omni Capital Corporation (hereafter petitioners), New York corporations, marketed an investment program involving commodity futures trades on the London Metals Exchange. Certain investors filed suits (later consolidated) against petitioners in the Federal District Court for the Eastern District of Louisiana, charging that petitioners fraudulently induced them to participate in petitioners' program, in violation of various federal securities laws. Petitioners impleaded respondent Rudolf Wolff &amp; Co., a British corporation with offices in London that was employed by petitioners to handle trades on the London Exchange, and respondent Gourlay (hereafter respondents), a United Kingdom citizen and resident who was Wolff's representative in soliciting petitioners' business. Petitioners contended that their liability, if any, was caused by respondents' improper trading activities. While the action was pending, Merrill Lynch, Pierce, Fenner &amp; Smith, Inc. v. Curran, <a href="../us456/us456-0353.xml#p353">456 U. S. 353</a>, was decided, recognizing an implied private cause of action under the Commodity Exchange Act (CEA), and the plaintiffs in this litigation amended their complaints to allege violations of that Act. The District Court dismissed the other securities law claims as preempted by the CEA, and held that it lacked personal jurisdiction over respondents because (1) the CEA was silent about service of process for private causes of action, (2) thus, application of Louisiana's long-arm statute was required, and (3) that statute's requirements were not met. The Court of Appeals affirmed.</p>
     <p>Held: The District Court lacked personal jurisdiction over respondents in this federal question litigation under the CEA. Pp. <a href="./us484-0097.xml#p102">484 U. S. 102</a>-111.</p>
     <p>(a) The requirement that a federal court have personal jurisdiction flows from the Due Process Clause of the Fifth Amendment. However, before a federal court may exercise personal jurisdiction over a defendant, there must be more than notice to the defendant and a constitutionally sufficient relationship between the defendant and the forum. There also must be a basis for the defendant's amenability to service of summons. Absent consent, there must be authorization for service of summons on the defendant. Pp. <a href="./us484-0097.xml#p103">484 U. S. 103</a>-104.</p>
@@ -23,7 +23,7 @@
     <p>JUSTICE BLACKMUN delivered the opinion of the Court.</p>
     <p>This case presents questions concerning the prerequisites to a federal court's exercise of in personam jurisdiction.</p>
     <n id="p99">99</n>
-    <h>I</h>
+    <h2>I</h2>
     <p>Petitioners Omni Capital International, Ltd., and Omni Capital Corporation (collectively Omni), [<a id="nf1" href="#fn1">Footnote 1</a>] New York corporations, marketed an investment program involving commodity futures trades on the London Metals Exchange. Omni employed respondent Rudolf Wolff &amp; Co., Ltd., a British corporation with its offices in London, as a broker to handle trades on that Exchange. Respondent James Gourlay, a citizen and resident of the United Kingdom, served as Wolff's representative in soliciting this business from Omni.</p>
     <p>The United States Internal Revenue Service disallowed income tax deductions, claimed by the participants in Omni's investment program, and did so on the ground that the program's commodities trades on the London Metals Exchange were not bona fide arm's-length transactions. A number of corporate and individual investors who participated in Omni's program then sued Omni in four separate actions in the United States District Court for the Eastern District of Louisiana. [<a id="nf2" href="#fn2">Footnote 2</a>] The plaintiffs in each action charged that, by misrepresenting its tax benefits and future profits, Omni fraudulently induced them to participate in the investment program. Omni, in turn, impleaded Wolff and Gourlay, [<a id="nf3" href="#fn3">Footnote 3</a>]</p>
     <n id="p100">100</n>
@@ -40,12 +40,12 @@
     <p>of a final judgment dismissing all claims against them. Id. at 23.</p>
     <p>The Fifth Circuit decided the ensuing appeals en banc in the first instance and, by a 9-to-6 vote, affirmed. Point Landing, Inc. v. Omni Capital Int'l, Ltd., 795 F.2d 415 (1986). The majority started from "the unmalleable principle of law . . . that federal courts . . . must ground their personal jurisdiction on a federal statute or rule." Id. at 423. In the majority's view, neither the CEA nor the Federal Rules of Civil Procedure authorized service of process upon Wolff or Gourlay, and therefore personal jurisdiction over them was lacking. The dissent conceded that neither the CEA nor Civil Rule 4 provided for service of process on Wolff and Gourlay, but would have remedied this "bizarre hiatus in the Rules," 795 F.2d at 428, with an ad hoc authorization of service of process on them based on their contacts with the United States as a whole.</p>
     <p>Because of a possible conflict with views of the Sixth Circuit expressed in Handley v. Indiana &amp; Michigan Electric Co., 732 F.2d 1265, 1272 (1984), we granted certiorari to decide whether, in this federal question litigation arising under the CEA, the District Court may exercise personal jurisdiction over Wolff and Gourlay.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Omni's primary and fundamental contention is that, in a suit under the CEA, the only limits on a district court's power to exercise personal jurisdiction derive from the Due Process Clause of the Fifth Amendment. The objection of the Court of Appeals, and of Wolff and Gourlay before this Court, is that, even if an exercise of personal jurisdiction would comport with that Due Process Clause, [<a id="nf5" href="#fn5">Footnote 5</a>] the District Court cannot</p>
     <n id="p103">103</n>
     <p>exercise personal jurisdiction over Wolff and Gourlay, because they are not amenable to service of summons in the absence of a statute or rule authorizing such service. [<a id="nf6" href="#fn6">Footnote 6</a>]</p>
     <p>Omni attempts to meet this objection in a variety of ways. First, Omni argues that the District Court may exercise personal jurisdiction because Wolff and Gourlay have constitutionally sufficient contacts with the forum and, as well, have notice of the suits. Second, Omni contends that, even if a rule authorizing service is a prerequisite to effective service, and thus to the exercise of personal jurisdiction, Congress implicitly authorized nationwide service for private causes of action under the CEA. Third, Omni presses upon us the view of the Fifth Circuit dissenters that, even if authorization for service of process is required and cannot be found in a statute or rule, such authorization should be created by fashioning a remedy to fill a gap in the Federal Rules of Civil Procedure. We examine these contentions in turn.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>A</p>
     <p>Omni argues that the jurisdictional limits that Art. III of the Constitution places on the federal courts relate to subject matter jurisdiction only. In this view, although Art. III, § 1, leaves it to Congress to "ordain and establish" inferior federal courts, the only limits on those courts, once established, in their exercise of personal jurisdiction, relate to due process. Thus, Omni contends, the District Court may exercise personal jurisdiction over Wolff and Gourlay if the Due Process Clause of the Fifth Amendment does not forbid it.</p>
     <n id="p104">104</n>
@@ -87,7 +87,7 @@
     <n id="p111">111</n>
     <p>Nothing about this case impels us to a different conclusion. If we do not create a rule here, the only harm to federal interests is the inability of a private litigant to bring a CEA action in the United States against an alien defendant who is not within the reach of the state long-arm statute. Since the CEA authorizes broader service of process in other enforcement actions, aliens cannot consider themselves immune from the Act's provisions. Also, a British court may be willing to enforce the CEA itself, if Omni brings suit against Wolff and Gourlay there.</p>
     <p>We are not blind to the consequences of the inability to serve process on Wolff and Gourlay. A narrowly tailored service of process provision, authorizing service on an alien in a federal question case when the alien is not amenable to service under the applicable state long-arm statute, might well serve the ends of the CEA and other federal statutes. It is not for the federal courts, however, to create such a rule as a matter of common law. That responsibility, in our view, better rests with those who propose the Federal Rules of Civil Procedure, and with Congress.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>In summary, the District Court may not exercise jurisdiction over Wolff and Gourlay without authorization to serve process. That authorization is not found in either the CEA or the Louisiana long-arm statute, to which we look under Rule 4(e). We reject the suggestion that we should create a common law rule authorizing service of process, since we would consider that action unwise, even were it within our power.</p>
     <p>The judgment of the Court of Appeals is affirmed.</p>
     <p>It is so ordered.</p>

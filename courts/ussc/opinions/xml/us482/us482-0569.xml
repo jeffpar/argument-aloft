@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us482-0569.html" citation="482 U.S. 569" title="Airport Comm'rs v. Jews for Jesus">
   <opinion type="Opinions &amp; Dissents">
     <n id="p569">569</n>
-    <h>U.S. Supreme Court</h>
-    <h>Airport Comm'rs v. Jews for Jesus, <a href="./us482-0569.xml#p569">482 U.S. 569</a> (1987)</h>
-    <h>Board of Airport Commissioners of the City of Los Angeles</h>
-    <h>v. Jews for Jesus, Inc.</h>
-    <h>No. 86-104</h>
-    <h>Argued March 3, 1987</h>
-    <h>Decided June 15, 1987</h>
-    <h><a href="./us482-0569.xml#p569">482 U.S. 569</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Airport Comm'rs v. Jews for Jesus, <a href="./us482-0569.xml#p569">482 U.S. 569</a> (1987)</h1>
+    <h2>Board of Airport Commissioners of the City of Los Angeles</h2>
+    <h2>v. Jews for Jesus, Inc.</h2>
+    <h2>No. 86-104</h2>
+    <h4>Argued March 3, 1987</h4>
+    <h4>Decided June 15, 1987</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner Board of Airport Commissioners of Los Angeles adopted a resolution banning all "First Amendment activities" within the "Central Terminal Area" at Los Angeles International Airport. Respondents, a nonprofit religious corporation and a minister for that organization, filed an action in Federal District Court challenging the resolution's constitutionality, after the minister had stopped distributing free religious literature in the airport's Central Terminal Area when warned against doing so by an airport officer. The court held that the Central Terminal Area was a traditional public forum under federal law, and that the resolution was facially unconstitutional under the Federal Constitution. The Court of Appeals affirmed.</p>
     <p>Held: The resolution violates the First Amendment. It is facially unconstitutional under the First Amendment overbreadth doctrine regardless of whether the forum involved is a public or nonpublic forum (which need not be decided here). The resolution's facial overbreadth is substantial, since it prohibits all protected expression and does not merely regulate expressive activity that might create problems such as congestion or the disruption of airport users' activities. Under such a sweeping ban, virtually every individual who enters the airport may be found to violate the resolution by engaging in some "First Amendment activit[y]." The ban would be unconstitutional even if the airport were a nonpublic forum, because no conceivable governmental interest would justify such an absolute prohibition of speech. Moreover, the resolution's words leave no room for a narrowing, saving construction by state courts. Cf. Baggett v. Bullitt, <a href="../us377/us377-0360.xml#p360">377 U. S. 360</a>. The suggestion that the resolution is not substantially overbroad because it is intended to reach only expressive activity unrelated to airport-related purposes is unpersuasive. Much nondisruptive speech may not be airport related, but is still protected speech even in a nonpublic forum. Moreover, the vagueness of the suggested construction -- which would result in giving airport officials the power to decide in the first instance whether a given activity is airport-related -- presents serious constitutional difficulty. Pp. <a href="./us482-0569.xml#p572">482 U. S. 572</a>-577.</p>
     <p>785 F.2d 791, affirmed.</p>
@@ -20,7 +20,7 @@
     <p>O'CONNOR, J., delivered the opinion for a unanimous Court. WHITE, J., filed a concurring opinion, in which REHNQUIST, C.J., joined, post, p. <a href="./us482-0569.xml#p577">482 U. S. 577</a>.</p>
     <p>JUSTICE O'CONNOR delivered the opinion of the Court.</p>
     <p>The issue presented in this case is whether a resolution banning all "First Amendment activities" at Los Angeles International Airport (LAX) violates the First Amendment.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>On July 13, 1983, the Board of Airport Commissioners (Board) adopted Resolution No. 13787, which provides, in pertinent part:</p>
     <p>"NOW, THEREFORE, BE IT RESOLVED by the Board of Airport Commissioners that the Central Terminal Area at Los Angeles International Airport is not</p>
     <n id="p571">571</n>
@@ -34,7 +34,7 @@
     <n id="p572">572</n>
     <p>the constitutionality of the resolution under both the California and Federal Constitutions. First, respondents contended that the resolution was facially unconstitutional under Art. I, § 2, of the California Constitution and the First Amendment to the United States Constitution because it bans all speech in a public forum. Second, they alleged that the resolution had been applied to Jews for Jesus in a discriminatory manner. Finally, respondents urged that the resolution was unconstitutionally vague and overbroad.</p>
     <p>When the case came before the District Court for trial, the parties orally stipulated to the facts, and the District Court treated the trial briefs as cross-motions for summary judgment. The District Court held that the Central Terminal Area was a traditional public forum under federal law, and that the resolution was facially unconstitutional under the United States Constitution. The District Court declined to reach the other issues raised by Jews for Jesus, and did not address the constitutionality of the resolution under the California Constitution. The Court of Appeals for the Ninth Circuit affirmed. 785 F.2d 791 (1986). Relying on Rosen v. Port of Portland, 641 F.2d 1243 (CA9 1981), and Kuszynski v. Oakland, 479 F.2d 1130 (CA9 1973), the Court of Appeals concluded that "an airport complex is a traditional public forum," 785 F.2d at 795, and held that the resolution was unconstitutional on its face under the Federal Constitution. We granted certiorari, 479 U.S. 812 (1986), and now affirm, but on different grounds.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>In balancing the government's interest in limiting the use of its property against the interests of those who wish to use the property for expressive activity, the Court has identified three types of fora: the traditional public forum, the public forum created by government designation, and the nonpublic forum. Perry Ed. Assn. v. Perry Local Educators' Assn., <a href="../us460/us460-0037.xml#p37">460 U. S. 37</a>, <a href="../us460/us460-0037.xml#p45">460 U. S. 45</a>-46 (1983). The proper First Amendment analysis differs depending on whether the area in question</p>
     <n id="p573">573</n>
     <p>falls in one category rather than another. In a traditional public forum or a public forum by government designation, we have held that First Amendment protections are subject to heightened scrutiny:</p>

@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us580-14-1538.html" citation="580 U.S. 14-1538" title="Life Technologies Corp. v. Promega Corp.">
   <opinion type="Opinion" author="Sotomayor">
     <p>NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 14–1538</p>
-    <p>_________________</p>
     <p>LIFE TECHNOLOGIES CORPORATION, et al., PETITIONERS v. PROMEGA CORPORATION</p>
     <p>on writ of certiorari to the united states court of appeals for the federal circuit</p>
     <p>[February 22, 2017]</p>
@@ -55,14 +54,12 @@
     <f n="4"><a id="fn1-4" href="#nf1-4">4</a> Chief Judge Prost dissented from the majority’s conclusion with respect to the “active inducement” element of 35 U. S. C. §271(f )(1). 773 F. 3d, at 1358–1360. Neither that question, nor any of the Federal Circuit’s conclusions regarding Life Technologies’ liability under §271(a) or infringement of four additional Promega patents, see id., at 1341, is before us. See 579 U. S. ___ (2016).</f>
     <f n="5"><a id="fn1-5" href="#nf1-5">5</a> The examples Promega provides of other statutes’ use of the terms “substantial” or “significant” are inapposite. See Brief for Respondent 19–20. The text of these statutes, which arise in different statutory schemes with diverse purposes and structures, differs in material ways from the text of §271(f )(1). The Tax Code, for instance, refers to “a substantial portion of a return,” 26 U. S. C. §7701(a)(36)(A), not to “a substantial portion of the entries of a return.”</f>
     <f n="6"><a id="fn1-6" href="#nf1-6">6</a> Life Technologies’ expert described the Taq polymerase as a “main” component. App. 160. The expert also described two other components the same way. Ibid.</f>
-    <f n="7"><a id="fn1-7" href="#nf1-7">7</a> This Court’s opinion in Microsoft Corp. v. AT&amp;T Corp., 550 U. S. 437, 447 (2007) , is not to the contrary. The holding in that case turned not on the number of components involved, but rather on whether the software at issue was a component at all.</f>
+    <f n="7"><a id="fn1-7" href="#nf1-7">7</a> This Court’s opinion in Microsoft Corp. v. AT&amp;T Corp., 550 U. S. 437, 447 (2007), is not to the contrary. The holding in that case turned not on the number of components involved, but rather on whether the software at issue was a component at all.</f>
     <f n="8"><a id="fn1-8" href="#nf1-8">8</a> Promega argues that the important distinction between these provisions is that §271(f )(1), unlike §271(f )(2), requires a showing of specific intent for active inducement. Brief for Respondent 34–41. But cf. Global-Tech Appliances, Inc. v. SEB S. A., 563 U. S. 754 –766 (2011) (substantially equating the intent requirements for §§271(b) and 271(c), on which Promega asserts §§271(f )(1) and (f )(2) were modeled). But, to repeat, whatever intent subsection (f )(1) may require, it also imposes liability only on a party who supplies a “substantial portion of the components” of the invention. Thus, even assuming that subsection (f )(1)’s “active inducement” requirement is different from subsection (f )(2)’s “knowing” and “intending” element—a question we do not reach today—that difference between the two provisions does not read the “substantial portion” language out of the statute.</f>
   </opinion>
   <opinion type="Concurrence" author="Alito">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 14–1538</p>
-    <p>_________________</p>
     <p>LIFE TECHNOLOGIES CORPORATION, et al., PETITIONERS v. PROMEGA CORPORATION</p>
     <p>on writ of certiorari to the united states court of appeals for the federal circuit</p>
     <p>[February 22, 2017]</p>

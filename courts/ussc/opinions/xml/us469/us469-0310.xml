@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us469-0310.html" citation="469 U.S. 310" title="Tiffany Fine Arts, Inc. v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p310">310</n>
-    <h>U.S. Supreme Court</h>
-    <h>Tiffany Fine Arts, Inc. v. United States, <a href="./us469-0310.xml#p310">469 U.S. 310</a> (1985)</h>
-    <h>Tiffany Fine Arts, Inc. v. United States</h>
-    <h>No. 83-1007</h>
-    <h>Argued October 31, 1984</h>
-    <h>Decided January 9, 1985</h>
-    <h><a href="./us469-0310.xml#p310">469 U.S. 310</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SECOND CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Tiffany Fine Arts, Inc. v. United States, <a href="./us469-0310.xml#p310">469 U.S. 310</a> (1985)</h1>
+    <h2>Tiffany Fine Arts, Inc. v. United States</h2>
+    <h2>No. 83-1007</h2>
+    <h4>Argued October 31, 1984</h4>
+    <h4>Decided January 9, 1985</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SECOND CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioners are a holding company and its tax-shelter-promoting subsidiaries. The Internal Revenue Service (IRS) issued summonses to petitioners pursuant to § 7602(a) of the Internal Revenue Code, which empowers the IRS to serve summons on any person, without prior judicial approval, if the information sought is necessary to ascertain that person's tax liability. The summonses requested petitioners' financial statements for certain fiscal years, as well as the names of persons who had licenses from petitioners to distribute a certain medical device. When petitioners refused to comply with the summonses, the Government brought an enforcement action in Federal District Court. Petitioners opposed enforcement on the ground that the IRS's request for the licensees' names indicated that the IRS's "primary purpose" was to audit the licensees, not petitioners. Petitioners contended that, if the IRS wanted the licensees' names, it could not proceed solely under § 7602(a), but would have to comply also with the "John Doe" summons procedures of § 7609(f), which requires the IRS to obtain prior judicial approval to serve a summons seeking information on the tax liability of unnamed taxpayers. The District Court found that the IRS had made a sufficient showing of its interest in auditing petitioners' returns and enforced the summonses. The Court of Appeals affirmed, holding that § 7609(f) applies only when the IRS issues a summons to an identifiable party with whom it has no interest in order to investigate the unnamed third parties' tax liabilities.</p>
     <p>Held: Where, pursuant to § 7602(a), the IRS serves a summons on a known taxpayer with the dual purpose of investigating both that taxpayer's tax liability and unnamed parties' tax liabilities, it need not comply with § 7609(f), as long as all the information sought is relevant to a legitimate investigation of the summoned taxpayer. Where the summoned party is itself being investigated, that party's self-interest provides sufficient protection against the evils that Congress sought to remedy when it enacted § 7609(f), which serves as a restraint on the IRS's exercise of its summons power in the "John Doe" context. Here, on the record, the licensees' names "may be relevant" to the legitimate investigation</p>
     <n id="p311">311</n>
@@ -20,7 +20,7 @@
     <p>MARSHALL, J., delivered the opinion for a unanimous Court.</p>
     <p>JUSTICE MARSHALL delivered the opinion of the Court.</p>
     <p>The question presented in this case is whether the Internal Revenue Service (IRS) must comply with the "John Doe" summons procedures of § 7609(f) of the Internal Revenue Code of 1954, 26 U.S.C. § 7609(f), when it serves a summons on a named taxpayer for the dual purpose of investigating both the tax liability of that taxpayer and the tax liabilities of other, unnamed parties.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Petitioner Tiffany Fine Arts, Inc., is a holding company for various subsidiaries that promote tax shelters. [<a id="nf1" href="#fn1">Footnote 1</a>] On October 6, 1981, Revenue Agent Joel Lewis issued four summonses to Tiffany, pursuant to 26 U.S.C. § 7602(a). This provision empowers the IRS to serve a summons on any person, without prior judicial approval, if the information sought is necessary to ascertain that person's tax liability. [<a id="nf2" href="#fn2">Footnote 2</a>] The</p>
     <n id="p312">312</n>
     <p>summonses requested Tiffany's financial statements for the fiscal years ending October 31, 1979, and October 31, 1980, as well as a list of the names, addresses, Social Security numbers, and employer identification numbers of persons who had acquired from Tiffany licenses to distribute a medical device known as the "Pedi-Pulsor." [<a id="nf3" href="#fn3">Footnote 3</a>] Tiffany refused to comply with the summonses, and the Government then brought an enforcement action in the United States District Court for the Southern District of New York, pursuant to 26 U.S.C. §§ 7402(b) and 7604(a).</p>
@@ -38,7 +38,7 @@
     <p>"the IRS issue[s] a summons to an identifiable party in whom it ha[s] no interest in order to investigate the potential tax liabilities of unnamed third parties."</p>
     <p>Id. at 13. Given the District Court's finding that one purpose of the summonses was to investigate Tiffany, § 7609(f) was not relevant here "even assuming that the summonses . . . were issued to Tiffany partly for the purpose of investigating Tiffany's customers." Id. at 13-14.</p>
     <p>The Federal Courts of Appeals are divided on the scope of § 7609(f). The Eighth and Eleventh Circuits, like the Second Circuit in this case, have held that the IRS need not comply with § 7609(f) when it seeks information on unnamed third parties as long as one purpose of the summons is to carry out a legitimate investigation of the named summoned party. See United States v. Barter Systems, Inc., 694 F.2d 163 (CA8 1982); United States v. Gottlieb, 712 F.2d 1363 (CA11 1983). In contrast, the Sixth Circuit has taken the opposite position, holding that the IRS must comply with § 7609(f) whenever it seeks information on unnamed third parties -- even in cases in which one of the purposes of the IRS is to investigate the named recipient of the summons. United States v. Thompson, 701 F.2d 1175 (1983). We granted certiorari to resolve this conflict. <a href="../us466/us466-0925.xml#p925">466 U. S. 925</a> (1984). We affirm.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Congress enacted § 7609 in response to two decisions in which we gave a broad construction to the IRS's general summons power under § 7602(a). It is therefore useful to review those cases before embarking on an analysis of the statutory provision.</p>
     <n id="p315">315</n>
     <p>In Donaldson v. United States, <a href="../us400/us400-0517.xml#p517">400 U. S. 517</a> (1971), the IRS issued to an employer a § 7602 summons seeking records prepared by the employer that would be relevant to an investigation of the tax liability of one of its employees. The employee obtained a preliminary injunction restraining his employer from complying with the summons. The Government then moved for enforcement. In response, the employer stated that it would have complied with the summons "were it not for' the preliminary injunction." Id. at <a href="../us400/us400-0517.xml#p521">400 U. S. 521</a>. The employee, however, filed motions to intervene in the proceedings, under Federal Rule of Civil Procedure 24(a)(2), in order to oppose enforcement. He stated that he had an interest in the outcome of the enforcement action and that this interest would not be adequately represented by his employer. We held that the employee's interest was not legally protectible and affirmed the denial of the employee's motions for intervention.</p>
@@ -60,7 +60,7 @@
     <p>"(2) there is a reasonable basis for believing that such person or group or class of persons may fail or may have failed to comply with any provision of any internal revenue law, and"</p>
     <p>"(3) the information sought to be obtained from the examination of the records (and the identity of the person or persons with respect to whose liability the summons is issued) is not readily available from other sources"</p>
     <p>(emphasis added). See also § 7609(h)(2) (providing that these determinations be made ex parte, solely on the basis of the IRS's petition and supporting affidavits). Section § 7609(f) was a response to concerns that our decision in Bisceglia did not provide sufficient restraints, in the John Doe context, on the IRS's exercise of its summons power. See In re Tax Liabilities of John Does, 671 F.2d 977, 979 (CA6 1982). With this background in mind, we turn to consider the application of the provision to the facts of this case.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The legal issue here is starkly posed. The District Court found as a matter of fact -- and the Court of Appeals affirmed -- that the IRS was pursuing a legitimate investigation of Tiffany's tax liability. [<a id="nf5" href="#fn5">Footnote 5</a>] At the same time, the Court of</p>
     <n id="p318">318</n>
     <p>Appeals assumed, and the Government does not dispute, that the IRS also intended to investigate the tax liabilities of the unnamed Pedi-Pulsor licensees. The question before us, then, is whether the IRS must comply with § 7609(f) in the case of such dual purpose summonses.</p>
@@ -94,7 +94,7 @@
     <p>On the record before us, we agree with the Government that the names of the licensees "may be relevant" to the legitimate investigation of Tiffany. United States v. Powell, supra, at <a href="../us379/us379-0048.xml#p57">379 U. S. 57</a>. The decision of how many, and which, licensees to contact is one for the IRS -- not Tiffany -- to make. Having already found that Congress provided no "unambiguous</p>
     <n id="p324">324</n>
     <p>direction" on the question whether the IRS needs to comply with § 7609(f) in the case of dual purpose summonses, and that the IRS's failure to comply with these requirements when serving such summonses does not undermine the goals that Congress sought to promote through § 7609(f), we conclude that the summonses here were properly enforced. [<a id="nf7" href="#fn7">Footnote 7</a>]</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>We hold that where, pursuant to § 7602, the IRS serves a summons on a known taxpayer with the dual purpose of investigating both the tax liability of that taxpayer and the tax liabilities of unnamed parties, it need not comply with the requirements for John Doe summonses set out in § 7609(f), as long as all the information sought is relevant to a legitimate investigation of the summoned taxpayer. The judgment of the Court of Appeals is therefore affirmed.</p>
     <p>It is so ordered.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>

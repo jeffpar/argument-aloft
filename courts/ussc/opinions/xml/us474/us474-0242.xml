@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us474-0242.html" citation="474 U.S. 242" title="United States v. Von Neumann">
   <opinion type="Opinions &amp; Dissents">
     <n id="p242">242</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Von Neumann, <a href="./us474-0242.xml#p242">474 U.S. 242</a> (1986)</h>
-    <h>United States v. Von Neumann</h>
-    <h>No. 84-1144</h>
-    <h>Argued November 4, 1985</h>
-    <h>Decided January 14, 1986</h>
-    <h><a href="./us474-0242.xml#p242">474 U.S. 242</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Von Neumann, <a href="./us474-0242.xml#p242">474 U.S. 242</a> (1986)</h1>
+    <h2>United States v. Von Neumann</h2>
+    <h2>No. 84-1144</h2>
+    <h4>Argued November 4, 1985</h4>
+    <h4>Decided January 14, 1986</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondent purchased a car in Switzerland and had it shipped to Vancouver, Canada. After he had picked up the car in Vancouver, he drove to the United States border, but failed to declare the car when asked by a United States customs officer whether he had anything to declare. Customs then seized the car pursuant to 19 U.S.C. § 1497, which provides that any article not declared upon entry into the United States that by law must be declared is subject to forfeiture or to a penalty equaling the value of the article. Respondent, rather than waiting to challenge the seizure in a judicial forfeiture action that might be initiated by the Government, immediately chose the other statutory option of filing a petition for administrative remission of the forfeiture. Two weeks later, he posted a bond for $24,500, the car's value, and Customs released the car. The Customs Service did not respond to the remission petition until 36 days after it was filed, at which time the penalty for failure to declare the car was reduced to $3,600, and this penalty was upheld on administrative review. Respondent then filed a complaint in Federal District Court, seeking cancellation of the penalty on the ground that he had not violated § 1497, and a declaration that the seizure and penalty were unlawful. The District Court disagreed and entered judgment for the Government. The Court of Appeals held that the 36-day delay in acting on respondent's remission petition denied him due process of law in violation of the Fifth Amendment. Subsequently, on remand from this Court for reconsideration in light of United States v. $8,850, <a href="../us461/us461-0555.xml#p555">461 U. S. 555</a>, the Court of Appeals held that the four-factor balancing test of Barker v. Wino, <a href="../us407/us407-0514.xml#p514">407 U. S. 514</a> -- the length of the delay, the reason for the delay, the defendant's assertion of his right, and prejudice suffered by the defendant -- applied in $8,850 in determining whether a delay in bringing a forfeiture proceeding violated due process should also be applied to determine whether the 36-day delay in this case violated due process, and accordingly remanded to the District Court to determine that question under the above test.</p>
     <p>Held: On the record, the 36-day delay did not deprive respondent of property without due process of law. Pp. <a href="./us474-0242.xml#p249">474 U. S. 249</a>-251.</p>
     <p>(a) Respondent's right to a forfeiture proceeding meeting the Barker test provides the postseizure hearing required by due process to protect respondent's property interest in the car. The remission statute simply</p>
@@ -22,7 +22,7 @@
     <p>BRENNAN, J., delivered the opinion of the Court, in which WHITE, MARSHALL, BLACKMUN, POWELL, REHNQUIST, and O'CONNOR, JJ., joined, and in Parts I and II of which BURGER, C.J., joined. BURGER, C.J., filed an opinion concurring in part, post, p. <a href="./us474-0242.xml#p251">474 U. S. 251</a>. STEVENS, J., filed an opinion concurring in the judgment, post, p. <a href="./us474-0242.xml#p252">474 U. S. 252</a>.</p>
     <p>JUSTICE BRENNAN delivered the opinion of the Court.</p>
     <p>We must decide in this case whether a 36-day delay by the United States Customs Service in responding to a remission petition filed by respondent in response to the seizure of his car by customs agents deprived respondent of property without due process of law.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Title 19 U.S.C. § 1497 [<a id="nf1" href="#fn1">Footnote 1</a>] provides that any article not declared upon entry into the United States which by law</p>
     <n id="p244">244</n>
     <p>must be declared is subject to forfeiture or to a penalty equaling the value of the article. After seizure of an article by the United States Customs Service, a claimant to it has essentially two options. He may pursue an administrative remedy under 19 U.S.C. § 1618 (1982 ed., Supp. III), [<a id="nf2" href="#fn2">Footnote 2</a>] which vests in the Secretary of the Treasury the discretionary authority to mitigate or remit the penalty or forfeiture, or he may challenge the seizure in a judicial forfeiture action initiated by the Government. [<a id="nf3" href="#fn3">Footnote 3</a>] 19 U.S.C. §§ 1602-1604. [<a id="nf4" href="#fn4">Footnote 4</a>]</p>
@@ -44,7 +44,7 @@
     <n id="p249">249</n>
     <p>noted that prejudice could be established by the inconvenience of being without a vehicle for any length of time.</p>
     <p>Arguing that due process considerations do not govern the Secretary's disposition of remission petitions, the Government petitioned for certiorari. We granted the Government's petition. 471 U.S. 1064 (1984). We now reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>We understand respondent to argue that his property interest in his car gives him a constitutional right to a speedy disposition of his remission petition without awaiting a forfeiture proceeding. We disagree. Implicit in this Court's discussion of timeliness in $8,850 was the view that the forfeiture proceeding, without more, provides the postseizure hearing required by due process to protect Von Neumann's property interest in the car. [<a id="nf7" href="#fn7">Footnote 7</a>] Respondent argues, however, that</p>
     <p>"[t]he petition for remission procedure is just one step in which it is determined whether that property interest will be extinguished via a judicial foreclosure proceeding."</p>
     <p>Brief for Respondent 8-9. We think respondent misunderstands the remission procedure's role. It is true that, as a practical matter, most forfeitures are disposed of through the administrative remission procedures, but that is constitutionally</p>
@@ -52,7 +52,7 @@
     <p>irrelevant. We noted in One Lot Emerald Cut Stones v. United States, <a href="../us409/us409-0232.xml#p232">409 U. S. 232</a>, <a href="../us409/us409-0232.xml#p234">409 U. S. 234</a> (1972), that, in the event an item is not declared at the border under § 1497,</p>
     <p>"[t]he Government need only prove that the property was brought into the United States without the required declaration; the Government bears no burden with respect to intent."</p>
     <p>The remission statute simply grants the Secretary the discretion not to pursue a complete forfeiture despite the Government's entitlement to one. Remission proceedings supply both the Government and the claimant a way to resolve a dispute informally, rather than in judicial forfeiture proceedings. But remission proceedings are not necessary to a forfeiture determination, and therefore are not constitutionally required. Thus there is no constitutional basis for a claim that respondent's interest in the car, or in the money put up to secure the bond, entitles him to a speedy answer to his remission petition.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>While his interest in the car is the only basis on which respondent relies in his support of the Court of Appeals' decision, the Government asks that the Court adjudge the case of a claimant who relies on the argument that § 1618 itself creates a property right which cannot be taken away without due process that includes a speedy answer to a remission petition. The Government argues that the statute creates no such right. We need not address the hypothetical, however. It is abundantly clear on the record in this case that, even if respondent had such a property right, any due process requirement of timely disposition was more than adequately provided here. It is difficult, indeed impossible, to see what prejudice respondent suffered from the 36-day delay in the response. True, he was without his car for 14 days, and then, for another 22 days, without the money he</p>
     <n id="p251">251</n>
     <p>had to put up to secure a bond, and Von Neumann urges the importance of automobiles to citizens in this society. But we have already noted that his right to a forfeiture proceeding meeting the Barker test satisfies any due process right with respect to the car and the money. In fact, it is not altogether certain that the delay dated from the filing on January 20 of the original remission petition. Respondent supplemented his remission petition, and was given a final decision just 13 days later. Moreover, respondent gives no hint as to how or why even a 36-day delay in the disposition of his remission petition deprived him of the process he claims was his due in connection with that petition. He does not argue that the delay prejudiced his defense against the forfeiture, see $8,850, 461 U.S. <a href="../us461/us461-0555.xml#p569">461 U. S.</a> and with respect to preparing his "case" for remission, that case was made at the time of filing, and could not have been affected by the subsequent delay. On the record before us, the 36-day delay cannot be said to deprive respondent of due process of law.</p>

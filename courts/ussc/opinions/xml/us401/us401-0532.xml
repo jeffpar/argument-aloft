@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us401-0532.html" citation="401 U.S. 532" title="Labine v. Vincent">
   <opinion type="Opinions &amp; Dissents">
     <n id="p532">532</n>
-    <h>U.S. Supreme Court</h>
-    <h>Labine v. Vincent, <a href="./us401-0532.xml#p532">401 U.S. 532</a> (1971)</h>
-    <h>Labine v. Vincent</h>
-    <h>No. 5257</h>
-    <h>Argued January 19, 1971</h>
-    <h>Decided March 29, 1971</h>
-    <h><a href="./us401-0532.xml#p532">401 U.S. 532</a></h>
-    <h>APPEAL FROM THE SUPREME COURT OF LOUISIANA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Labine v. Vincent, <a href="./us401-0532.xml#p532">401 U.S. 532</a> (1971)</h1>
+    <h2>Labine v. Vincent</h2>
+    <h2>No. 5257</h2>
+    <h4>Argued January 19, 1971</h4>
+    <h4>Decided March 29, 1971</h4>
+    <h2>APPEAL FROM THE SUPREME COURT OF LOUISIANA</h2>
+    <h2>Syllabus</h2>
     <p>Ezra Vincent died intestate, survived by only collateral relations and an illegitimate daughter, whose guardian (appellant) sued to have her declared Vincent's sole heir. The trial court ruled that, under Louisiana law, the collateral relations took the decedent's property to the exclusion of the daughter, who had been acknowledged by her father but not legitimated. The Louisiana Court of Appeal affirmed. The State Supreme Court denied certiorari. Appellant, relying on Levy v. Louisiana, <a href="../us391/us391-0068.xml#p68">391 U. S. 68</a>, contends that Louisiana's intestate succession laws that bar an illegitimate child from sharing equally with legitimate children in the father's estate constitute an invidious discrimination violative of the Due Process and Equal Protection Clauses of the Constitution.</p>
     <p>Held: The Louisiana statutory intestate succession scheme is within the State's power to establish rules for the protection and strengthening of family life and for the disposition of property, and, in view of various statutory alternatives, none of which was chosen by Vincent, did not (unlike the situation in Levy) constitute an insurmountable barrier to illegitimate children. Pp. <a href="./us401-0532.xml#p535">401 U. S. 535</a>-540.</p>
     <p>255 La. 480, 231 So. 2d 395, affirmed. See: 229 So. 2d 449.</p>
@@ -113,12 +113,12 @@
       <p>MR. JUSTICE BRENNAN, with whom MR. JUSTICE DOUGLAS, MR. JUSTICE WHITE, and MR JUSTICE MARSHALL, join, dissenting.</p>
       <p>In my view, Louisiana's intestate succession laws, insofar as they treat illegitimate children whose fathers have publicly acknowledged them differently from legitimate children, plainly violate the Equal Protection Clause of the fourteenth Amendment. The Court today effectively concedes this, and, to reach its result, resorts to the startling measure of simply excluding such illegitimate children from the protection of the Clause, in order to uphold the untenable and discredited moral prejudice of bygone centuries which vindictively punished not only the illegitimates' parents, but also the hapless and innocent children. Based upon such a premise, today's decision cannot even pretend to be a principled decision. This is surprising from Justices tho have heretofore so vigorously decried decisionmaking rested upon personal predilections, to borrow the Court's words, of "life-tenured judges of this Court." Ante at <a href="./us401-0527.xml#p530">401 U. S. 539</a>. I respectfully dissent.</p>
       <n id="p542">542</n>
-      <h>I</h>
+      <h2>I</h2>
       <p>In 1961, Ezra Vincent was 69 years old and Lou Bertha Patterson (now Lou Bertha Labine) was 41. They were unmarried adults living in rural, southwest Louisiana, outside the town of Lake Charles. Soon after meeting each other in 1961, Mrs. Patterson moved in with Mr. Vincent. Although they did not marry, Mrs. Patterson had a daughter by Mr. Vincent on March 15, 1962. The child's birth certificate identified the father and mother by name. Within two months, Mr. Vincent and Mrs. Patterson appeared before a notary public and executed a form, in accordance with Louisiana law, acknowledging that Mr. Vincent was the father of the child. A month later, the child's birth certificate was changed to give the child Mr. Vincent's name, [Footnote 2/1] and she has always been known since as Rita Nell Vincent. By acknowledging the child, Mr. Vincent became legally obligated under state law to support her. [Footnote 2/2] Mr. Vincent and Mrs. Patterson continued to live together and raise Rita Nell until Mr. Vincent died in 1968. He left no will.</p>
       <p>As natural tutrix of Mr. Vincent's only child, Rita Nell's mother brought this suit on the child's behalf seeking to have Rita Nell declared Mr. Vincent's sole heir. Applying Louisiana law, [Footnote 2/3] the trial court dismissed the action and declared Mr. Vincent's collateral relations -- his brothers and sisters -- to be his heirs. [Footnote 2/4] The</p>
       <n id="p543">543</n>
       <p>child's tutrix appealed, arguing that to treat a publicly acknowledged illegitimate child differently from a legitimate child was a denial of equal protection and due process. The Louisiana intermediate appellate court affirmed in all respects, upholding the state statutory provisions against constitutional attack, "[h]owever unfair it may be to punish innocent children for the fault of their parents." 229 So. 2d 449, 452 (1969). The Louisiana Supreme Court declined review, and we noted probable jurisdiction. 400 U.S. 817 (1970).</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>The rationality and constitutionality of Louisiana's treatment of the illegitimate child can only be analyzed against the background of a proper understanding of that State's law. Under Louisiana law, legitimate children have an automatic right to inherit from their parents. [Footnote 2/5] Legitimate children generally cannot be disinherited. [Footnote 2/6]</p>
       <n id="p544">544</n>
       <p>Property cannot even be given away without taking account of the rights of a legitimate child, since the portion of the decedent's estate that can be given away or disposed of through donations inter vivos or mortis causa is sharply limited by law for the benefit of a person's legitimate children. [Footnote 2/7] Actually, the Louisiana Constitution protects this scheme of forced heirship, which benefits the decedent's parents as well as his legitimate children. [Footnote 2/8]</p>
@@ -131,7 +131,7 @@
       <p>Article 178 of the Louisiana Civil Code provides in full: "Children are either legitimate, illegitimate, or legitimated." Not all illegitimate children can be legitimated, however -- only those whose parents do not have legitimate descendants or ascendants and could lawfully have married each other at the time of the child's conception, or those whose parents later marry can be legitimated. [Footnote 2/12] An illegitimate child who can be legitimated becomes a "natural" child when his father formally acknowledges him. However, Article 206 of the Louisiana Civil Code provides that, "[i]llegitimate children, though duly acknowledged, cannot claim the rights of legitimate children." Thus, the primary consequence under Louisiana succession law that flows from acknowledgment is that the natural child may inherit under a will, and inherits, if there is no will, only after the father's other descendants, ascendants, collateral relations, and surviving spouse, but before the estate escheats to the State. [Footnote 2/13] An illegitimate child whose parents could lawfully have married each other at the time of the child's conception, but who has</p>
       <n id="p547">547</n>
       <p>not been publicly acknowledged, or an illegitimate child whose parents were not capable of marriage at the time of conception, may not inherit at all, either by will or intestate succession, "the law allowing them nothing more than a mere alimony." La.Civ.Code Ann., Art. 920 (1952). [Footnote 2/14]</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>Under Louisiana law, a legitimate child would have had an absolute right to inherit Mr. Vincent's estate; Mr. Vincent could not have totally disinherited such a child. This is a consequence of Louisiana's "forced heirship" law, in other words, a consequence of a state decision, however contrary that might be to Mr. Vincent's own desires. Similarly, in the present case, Mr. Vincent's illegitimate daughter, though duly acknowledged, is denied his intestate estate not because he wished that result, but because the State places her behind Mr. Vincent's collateral relations --indeed, behind all his relations -- in the line of succession.</p>
       <p>The State's discrimination is clear and obvious. [Footnote 2/15] Ordinarily, even in cases of economic regulation, this</p>
       <n id="p548">548</n>

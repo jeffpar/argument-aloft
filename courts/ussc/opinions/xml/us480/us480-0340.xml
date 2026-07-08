@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us480-0340.html" citation="480 U.S. 340" title="Illinois v. Krull">
   <opinion type="Opinions &amp; Dissents">
     <n id="p340">340</n>
-    <h>U.S. Supreme Court</h>
-    <h>Illinois v. Krull, <a href="./us480-0340.xml#p340">480 U.S. 340</a> (1987)</h>
-    <h>Illinois v. Krull</h>
-    <h>No. 85-608</h>
-    <h>Argued November 5, 1986</h>
-    <h>Decided March 9, 1987</h>
-    <h><a href="./us480-0340.xml#p340">480 U.S. 340</a></h>
-    <h>CERTIORARI TO THE SUPREME COURT OF ILLINOIS</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Illinois v. Krull, <a href="./us480-0340.xml#p340">480 U.S. 340</a> (1987)</h1>
+    <h2>Illinois v. Krull</h2>
+    <h2>No. 85-608</h2>
+    <h4>Argued November 5, 1986</h4>
+    <h4>Decided March 9, 1987</h4>
+    <h2>CERTIORARI TO THE SUPREME COURT OF ILLINOIS</h2>
+    <h2>Syllabus</h2>
     <p>An Illinois statute, as it existed in 1981, required licensed motor vehicle and vehicular parts sellers to permit state officials to inspect certain required records. In 1981, pursuant to the statute, a police detective entered respondents' automobile wrecking yard and asked to see records of vehicle purchases. He was told that the records could not be located, but was given a list of approximately five purchases. After receiving permission to look at the cars in the yard, he ascertained that three were stolen and that a fourth had had its identification number removed. He then seized the cars, and respondents were arrested and charged with various crimes. The state trial court granted respondents' motion to suppress the evidence seized from the yard, agreeing with a federal court ruling, issued the day after the search, that the state statute violated the Fourth Amendment because it permitted officers unbridled discretion in their warrantless searches. The State Supreme Court affirmed, rejecting petitioner's argument that the seized evidence was admissible because the detective had acted in good faith reliance on the statute in making the search.</p>
     <p>Held:</p>
     <p>1. The Fourth Amendment exclusionary rule does not apply to evidence obtained by police who acted in objectively reasonable reliance upon a statute authorizing warrantless administrative searches, but which is subsequently found to violate the Fourth Amendment. Pp. <a href="./us480-0340.xml#p349">480 U. S. 349</a>-355.</p>
@@ -27,7 +27,7 @@
     <n id="p342">342</n>
     <p>JUSTICE BLACKMUN delivered the opinion of the Court.</p>
     <p>In United States v. Leon, <a href="../us468/us468-0897.xml#p897">468 U. S. 897</a> (1984), this Court ruled that the Fourth Amendment exclusionary rule does not apply to evidence obtained by police officers who acted in objectively reasonable reliance upon a search warrant issued by a neutral magistrate, but where the warrant was ultimately found to be unsupported by probable cause. See also Massachusetts v. Sheppard, <a href="../us468/us468-0981.xml#p981">468 U. S. 981</a> (1984). The present case presents the question whether a similar exception to the exclusionary rule should be recognized when officers act in objectively reasonable reliance upon a statute authorizing warrantless administrative searches, but where the statute is ultimately found to violate the Fourth Amendment.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The State of Illinois, as part of its Vehicle Code, has a comprehensive statutory scheme regulating the sale of motor vehicles and vehicular parts. See Ill.Rev.Stat., ch. 951/2, �� 5-100 to 5-801 (1985). A person who sells motor vehicles, or deals in automotive parts, or processes automotive scrap metal, or engages in a similar business must obtain a license from the Illinois Secretary of State. �� 5-101, 5-102, 5-301.</p>
     <n id="p343">343</n>
     <p>A licensee is required to maintain a detailed record of all motor vehicles and parts that he purchases or sells, including the identification numbers of such vehicles and parts, and the dates of acquisition and disposition. � 5-401.2. In 1981, the statute in its then form required a licensee to permit state officials to inspect these records "at any reasonable time during the night or day" and to allow</p>
@@ -46,7 +46,7 @@
     <p>The court rejected the State's argument that the evidence seized from respondents' wrecking yard should nevertheless be admitted because the police officer had acted in good faith reliance on the statute authorizing such searches. The court observed that, in Michigan v. DeFillippo, <a href="../us443/us443-0031.xml#p31">443 U. S. 31</a> (1979), this Court had upheld an arrest and search made pursuant to an ordinance defining a criminal offense, where the ordinance was subsequently held to violate the Fourth Amendment. The Illinois court noted that this Court, in DeFillippo, had contrasted the ordinance then before it, defining a substantive criminal offense, with a procedural statute directly authorizing searches without a warrant or probable cause, and had stated that evidence obtained in searches conducted pursuant to the latter type of statute traditionally had not been admitted. 107 Ill. 2d at 118, 481 N.E.2d.at 708. Because the Illinois statute did not define a substantive criminal offense, but, instead, was a procedural statute directly authorizing warrantless searches, the Illinois Supreme Court concluded that good faith reliance upon that statute could not be used to justify the admission of evidence under an exception to the exclusionary rule. Id. at 118-119, 481 N.E.2d at 708.</p>
     <p>We granted certiorari, 475 U.S. 1080 (1986), to consider whether a good faith exception to the Fourth Amendment exclusionary rule applies when an officer's reliance on the constitutionality of a statute is objectively reasonable, but the statute is subsequently declared unconstitutional.</p>
     <n id="p347">347</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>A</p>
     <p>When evidence is obtained in violation of the Fourth Amendment, the judicially developed exclusionary rule usually precludes its use in a criminal proceeding against the victim of the illegal search and seizure. Weeks v. United States, <a href="../us232/us232-0383.xml#p383">232 U. S. 383</a> (1914); Mapp v. Ohio, <a href="../us367/us367-0643.xml#p643">367 U. S. 643</a> (1961). The Court has stressed that the "prime purpose" of the exclusionary rule</p>
     <p>"is to deter future unlawful police conduct, and thereby effectuate the guarantee of the Fourth Amendment against unreasonable searches and seizures."</p>
@@ -97,7 +97,7 @@
     <p>"where the issuing magistrate wholly abandoned his judicial role in the manner condemned in Lo-Ji Sales, Inc. v. New York, <a href="https://law.justia.com/us/442/319/">442 U. S. 319</a> (1979),"</p>
     <p>or where the warrant was so facially deficient "that the executing officers cannot reasonably presume it to be valid." 468 U.S. at <a href="../us468/us468-0897.xml#p923">468 U. S. 923</a>. Similar constraints apply to the exception to the exclusionary rule we recognize today. A statute cannot support objectively reasonable reliance if, in passing the statute, the legislature wholly abandoned its responsibility to enact constitutional laws. Nor can a law enforcement officer be said to have acted in good faith reliance upon a statute if its provisions are such that a reasonable officer should have known that the statute was unconstitutional. Cf. Harlow v. Fitzgerald, <a href="../us457/us457-0800.xml#p800">457 U. S. 800</a>, <a href="../us457/us457-0800.xml#p818">457 U. S. 818</a> (1982) ("[G]overnment officials performing discretionary functions, generally are shielded from liability for civil damages insofar as their conduct does not violate clearly established statutory or constitutional rights of which a reasonable person would have known"). As we emphasized in Leon, the standard of reasonableness we adopt is an objective one; the standard does not turn on the subjective good faith of individual officers. See United States v. Leon, 468 U.S. at <a href="../us468/us468-0897.xml#p919">468 U. S. 919</a>, n. 20. [<a id="nf12" href="#fn12">Footnote 12</a>]</p>
     <n id="p356">356</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>Applying the principle enunciated in this case, we necessarily conclude that Detective McNally's reliance on the</p>
     <n id="p357">357</n>
     <p>Illinois statute was objectively reasonable. [<a id="nf13" href="#fn13">Footnote 13</a>] On several occasions, this Court has upheld legislative schemes that authorized warrantless administrative searches of heavily regulated industries. See Donovan v. Dewey, <a href="../us452/us452-0594.xml#p594">452 U. S. 594</a> (1981) (inspections of underground and surface mines pursuant to Federal Mine Safety and Health Act of 1977); United States v. Biswell, <a href="../us406/us406-0311.xml#p311">406 U. S. 311</a> (1972) (inspections of firearms dealers under Gun Control Act of 1968); Colonnade Catering Corp. v. United States, <a href="../us397/us397-0072.xml#p72">397 U. S. 72</a> (1970) (inspections of liquor dealers under 26 U.S.C. §§ 5146(b) and 7606 (1964 ed.)). It has recognized that an inspection program may be a necessary component of regulation in certain industries, and has acknowledged that unannounced, warrantless inspections may be necessary "if the law is to be properly enforced and inspection made effective." United States v. Biswell, 406 U.S. at <a href="../us406/us406-0311.xml#p316">406 U. S. 316</a>; Donovan v. Dewey, 452 U.S. at <a href="../us452/us452-0594.xml#p603">452 U. S. 603</a>. Thus, the Court explained in Donovan that its prior decisions</p>

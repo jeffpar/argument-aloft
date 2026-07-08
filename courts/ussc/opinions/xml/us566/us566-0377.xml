@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us566-0377.html" citation="566 U.S. 377" title="Filarsky v. Delia">
   <opinion type="Opinion" author="Roberts">
     <n id="p377">377</n>
     <p>NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 10–1018</p>
-    <p>_________________</p>
     <p>Steve A. Filarsky, PETITIONER v. Nicholas B. Delia</p>
     <p>on writ of certiorari to the united states court of appeals for the ninth circuit</p>
     <p>[April 17, 2012]</p>
@@ -58,15 +57,13 @@
   </opinion>
   <opinion type="Concurrence" author="Ginsburg">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 10–1018</p>
-    <p>_________________</p>
     <p>Steve A. Filarsky, PETITIONER v. Nicholas B. Delia</p>
     <p>on writ of certiorari to the united states court of appeals for the ninth circuit</p>
     <p>[April 17, 2012]</p>
     <p>Justice Ginsburg, concurring.</p>
     <p>The Court addresses a sole question in this case: Is a private attorney retained by a municipality to investigate a personnel matter eligible for qualified immunity in a suit under 42 U. S. C. §1983 alleging a constitutional violation committed in the course of the investigation? I agree that the answer is yes and that the judgment of the Court of Appeals holding private attorney Filarsky categorically ineligible for qualified immunity must be re- versed. Qualified immunity may be overcome, however, if the defendant knew or should have known that his conduct violated a right “clearly established” at the time of the episode in suit. See Harlow v. Fitzgerald, <a href="../us457/us457-0800.xml#p800">457 U.S. 800</a>, 818 (1982). Because the Ninth Circuit did not con- sider the application of that standard to Filarsky, the matter, as I see it, may be pursued on remand.</p>
-    <p>Filarsky was retained by the City of Rialto to investigate whether city firefighter Delia was taking time off from work under the false pretense of a disabling physical condition. In pursuit of the investigation, Filarsky asked Delia to consent to a search of his home to determine what Delia had done with several rolls of insulation he had recently purchased at a home improvement store. When Delia, on counsel’s advice, refused to consent to the search, Filarsky “hatch[ed] a plan” to overcome Delia’s resistance. Delia v. Rialto, 621 F.3d 1069, 1077 (CA9 2010). “[W]e will do it a different way,” Filarsky informed Delia. App. 129; see 621 F. 3d, at 1077 (“Unable to obtain Delia’s consent to a warrantless search of his house . . . , Filarsky tried a different tactic.”).</p>
+    <p>Filarsky was retained by the City of Rialto to investigate whether city firefighter Delia was taking time off from work under the false pretense of a disabling physical condition. In pursuit of the investigation, Filarsky asked Delia to consent to a search of his home to determine what Delia had done with several rolls of insulation he had recently purchased at a home improvement store. When Delia, on counsel’s advice, refused to consent to the search, Filarsky “hatch[ed] a plan” to overcome Delia’s resistance. Delia v. Rialto, 621 F.3d 1069, 1077 (CA9 2010). “[W]e will do it a different way,” Filarsky informed Delia. App. 129; see 621 F. 3d, at 1077 (“Unable to obtain Delia’s consent to a warrantless search of his house . . ., Filarsky tried a different tactic.”).</p>
     <p>Following Filarsky’s advice, Fire Chief Wells ordered Delia to bring the insulation out of his house and place the rolls on his lawn for inspection. App. 158. Filarsky recommended this course, the Ninth Circuit observed, mindful that “an individual does not have an expectation of privacy in items exposed to the public, thereby eliminating the need for a search warrant.” 621 F. 3d, at 1077. Delia complied with Chief Wells’s order by producing the rolls, all of them unused, App. 78, 85, after which the investigation into the legitimacy of Delia’s absence from work apparently ended.</p>
     <p>In explaining why the individual defendants other than Filarsky were entitled to summary judgment on their qualified immunity pleas, the Ninth Circuit stated that “no . . . threat to [Delia’s] employment” attended Fire Chief Wells’s order. 621 F. 3d, at 1079. The District Court similarly stated that “Delia was not threatened with insubordination or termination if he did not comply with [the] order.” App. to Pet. for Cert. 48.</p>
     <p>These statements are at odds with the facts, as re- counted by the Court of Appeals. “At the onset of the in- terview,” the Ninth Circuit stressed, “Filarsky warned Delia that he was obligated to fully cooperate,” and that “[i]f at any time it is deemed you are not cooperating then you can be held to be insubordinate and subject to disciplinary action, up to and including termination.” 621 F. 3d, at 1072 (internal quotation marks omitted). Continuing in this vein, the Court of Appeals concluded that “Delia’s actions were involuntary and coerced by the direct threat of sanctions including loss of his firefighter position.” Id., at 1077; see id., at 1085 (“Delia’s actions were involun- tary and occurred as a result of the direct threat of sanctions[.]”).</p>
@@ -78,9 +75,7 @@
   </opinion>
   <opinion type="Concurrence" author="Sotomayor">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 10–1018</p>
-    <p>_________________</p>
     <p>Steve A. Filarsky, PETITIONER v. Nicholas B. Delia</p>
     <p>on writ of certiorari to the united states court of appeals for the ninth circuit</p>
     <p>[April 17, 2012]</p>

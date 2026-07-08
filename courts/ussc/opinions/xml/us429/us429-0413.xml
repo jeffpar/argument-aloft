@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us429-0413.html" citation="429 U.S. 413" title="United States v. Donovan">
   <opinion type="Opinions &amp; Dissents">
     <n id="p413">413</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Donovan, <a href="./us429-0413.xml#p413">429 U.S. 413</a> (1977)</h>
-    <h>United States v. Donovan</h>
-    <h>No. 75-212</h>
-    <h>Argued October 13, 1976</h>
-    <h>Decided January 18, 1977</h>
-    <h><a href="./us429-0413.xml#p413">429 U.S. 413</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SIXTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Donovan, <a href="./us429-0413.xml#p413">429 U.S. 413</a> (1977)</h1>
+    <h2>United States v. Donovan</h2>
+    <h2>No. 75-212</h2>
+    <h4>Argued October 13, 1976</h4>
+    <h4>Decided January 18, 1977</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SIXTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Title 18 U.S.C. § 2518(1)(b)(iv), which is part of Title III of the Omnibus Crime Control and Safe Streets Act of 1968, requires the Government to include in its wiretap applications "the identity of the person, if known, committing the offense and whose communications are to be intercepted." Section 2518(8)(d) requires the judge to whom a wiretap application is made to cause to be served on the persons named in the wiretap order or application an inventory, which must give notice of entry of the order or application, state the disposition of the application, and indicate whether communications were intercepted, and further provides that the judge may order similar notice to other parties to intercepted communications if he concludes that such action is in the interest of justice. Evidence derived from wiretaps must be suppressed under § 2518(10)(a)(i) if "the communication was unlawfully intercepted." On December 26, 1972, the Government applied for an extension of an order authorizing a wiretap interception of gambling-related conversations of certain named individuals other than respondents Donovan, Robbins, and Buzzacco and "others as yet unknown" to or from four listed telephones, and the Government did not identify these respondents in the application even though it had previously learned they were discussing illegal gambling activities with the named subjects. The District Court authorized a 15-day interception. On February 21, 1973, the Government submitted to the court a proposed order giving notice of the interception to 37 persons, the court signed the order, and an inventory notice was served on the listed persons, including respondents Donovan, Robbins, and Buzzacco. Subsequently, after the Government submitted the names of two additional persons whose identities allegedly had been omitted inadvertently from the initial list, the court entered an amended order giving notice to those individuals, but as a result of "administrative oversight" respondents Merlo and Lauer were not included in either list of names and were never served with an inventory notice. Respondents, along with others, were indicted for federal gambling offenses. On respondents' motion, the District Court suppressed as to respondents Donovan, Robbins, and Buzzacco all evidence derived from the</p>
     <n id="p414">414</n>
     <p>December 26 intercept order on the ground that failure to name them in the application and order of that date violated § 2518(1)(b)(iv), inter alia, and suppressed as to respondents Merlo and Lauer all evidence derived from both intercept orders on the ground that these two respondents had not been served with an inventory notice as required by § 2518(8)(d). The Court of Appeals affirmed.</p>
@@ -31,7 +31,7 @@
     <n id="p416">416</n>
     <p>MR. JUSTICE POWELL delivered the opinion of the Court.</p>
     <p>This case presents issues concerning the construction of Title III of the Omnibus Crime Control and Safe Streets Act of 1968, 18 U.S.C. §§ 2510-2520. Specifically, we must decide whether 18 U.S.C. § 2518(1)(b)(iv), which requires the Government to include in its wiretap applications "the identity of the person, if known, committing the offense and whose communications are to be intercepted," is satisfied when the Government identifies only the "principal targets" of the intercept. Second, we must decide whether the Government has a statutory responsibility to inform the issuing judge of the identities of persons whose conversations were overheard in the course of the interception, thus enabling him to decide whether they should be served with notice of the interception pursuant to 18 U.S.C. § 2518(8)(d). And finally, we must determine whether failure to comply fully with these statutory provisions requires suppression of evidence under 18 U.S.C. § 2518(10)(a).</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>On November 28, 1972, a special agent of the Federal Bureau of Investigation applied to the United States District Court for the Northern District of Ohio for an order authorizing a wiretap interception in accordance with Title III. [<a id="nf1" href="#fn1">Footnote 1</a>] The application requested authorization to intercept</p>
     <n id="p417">417</n>
     <p>gambling-related communications over two telephones at one address in North Olmstead, Ohio, and two other telephones at a home in Canton, Ohio. The accompanying affidavit recited that the telephones were being used by Albert Kotoch, Joseph Spaganlo, and George Florea to conduct an illegal gambling business, and that in conducting that business they</p>
@@ -48,7 +48,7 @@
     <n id="p422">422</n>
     <p>the December 26 order. On the notice question, it held that the Government has an implied statutory duty to inform the issuing judge of the identities of the parties whose conversations were overheard so that he can determine whether discretionary inventory notice should be required. [<a id="nf9" href="#fn9">Footnote 9</a>] Because the Government had failed to perform this duty with respect to Merlo and Lauer, the Court of Appeals affirmed the District Court's order suppressing evidence derived from both intercept orders. The court found it unnecessary to determine whether the failure to identify respondents Donovan, Robbins, and Buzzacco in the December 26 application and to name respondents Merlo and Lauer in the proposed inventory notice orders was inadvertent or purposeful, since the mere fact of omission was sufficient to require suppression under 18 U.S.C. § 2518(10)(a). [<a id="nf10" href="#fn10">Footnote 10</a>]</p>
     <p>We granted certiorari to resolve these issues, which concern the construction of a major federal statute, 424 U.S. 907, and now reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The United States contends that § 2518(1)(b)(iv) requires that a wiretap application identify only the principal target of the interception, and that § 2518(8)(d) does not require the Government to provide the issuing judge with a list of all identifiable persons who were overheard in the</p>
     <n id="p423">423</n>
     <p>course of an authorized interception. We think neither contention is sound.</p>
@@ -84,7 +84,7 @@
     <p>Currently, the policy of the Justice Department is to provide the issuing judge with the name of every person who has been overheard as to whom there is any reasonable possibility of indictment. Brief for United States 39. Because it fails to assure that the necessary range of information</p>
     <n id="p432">432</n>
     <p>will be before the issuing judge, this policy does not meet the test set out in Chun. Moreover, where, as here, the Government chooses to supply the issuing judge with a list of all identifiable persons rather than a description of the classes into which those persons fall, the list must be complete. Applying these principles, we find that the Government did not comply adequately with § 2518(8)(d), since the names of respondents Merlo and Lauer were not included on the purportedly complete list of identifiable persons submitted to the issuing judge.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>We turn now to the question whether the District Court properly suppressed evidence derived from the wiretaps at issue solely because of the failure of the law enforcement authorities to comply fully with the provisions of §§ 2518(1)(b)(iv) and 2518(8)(d). Section 2515 expressly prohibits the use at trial, and at certain other proceedings, of the contents of any intercepted wire communication or any evidence derived therefrom "if the disclosure of that information would be in violation of this chapter." The circumstances that trigger suppression under § 2515 are, in turn, enumerated in § 2518(10)(a):</p>
     <p>"(i) the communication was unlawfully intercepted;"</p>
     <p>"(ii) the order of authorization or approval under which it was intercepted is insufficient on its face; or"</p>
@@ -119,7 +119,7 @@
     <n id="p439">439</n>
     <p>39, rather than 41, identifiable persons does not, in itself, mean that the conversations were unlawfully intercepted. [<a id="nf26" href="#fn26">Footnote 26</a>]</p>
     <p>The legislative history indicates that post-intercept notice was designed instead to assure the community that the wiretap technique is reasonably employed. But even recognizing that Congress placed considerable emphasis on that aspect of the overall statutory scheme, we do not think that post-intercept notice was intended to serve as an independent restraint on resort to the wiretap procedure.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>Although the Government was required to identify respondents Donovan, Robbins, and Buzzacco in the December 26 application for an extension of the initial intercept, failure to do so in the circumstances here presented did not warrant suppression under § 2518(10)(a)(i). Nor was suppression justified with respect to respondents Merlo and Lauer simply because the Government inadvertently omitted their names from the comprehensive list of all identifiable persons whose conversations had been overheard. We hold that this is the correct result under the provisions of Title III, but we reemphasize</p>
     <n id="p440">440</n>
     <p>the suggestion we made in United States v. Chavez that</p>
@@ -281,7 +281,7 @@
       <p>The Court has rejected that argument, however, see United States v. Chavez, supra; United States v. Giordano, <a href="../us416/us416-0505.xml#p505">416 U. S. 505</a> (1974), and nothing is to be gained by renewing it here. But even under the standard set forth</p>
       <n id="p446">446</n>
       <p>in Giordano and Chavez and reaffirmed by the Court today, ante at <a href="./us429-0413.xml#p433">429 U. S. 433</a>-434, the evidence at issue here should be suppressed.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>Title III requires that an application for a warrant to authorize wiretapping disclose "the identity of the person, if known, committing the offense and whose communications are to be intercepted." 18 U.S.C. § 2518(1)(b)(iv). The Court properly rejects the Government's contention that this provision requires it to name only the "principal target" of an investigation. In doing so, the Court relies both on the plain language and legislative history of the section, which do not support the Government's position, and on the statutory context. Ante at <a href="./us429-0413.xml#p424">429 U. S. 424</a>-428. Part of that context is the obvious assumption of other portions of Title III that wiretap applications will name more than one target. See 18 U.S.C. §§ 2518(1)(e), (8)(d). Another part is</p>
       <p>"the fact that identification of an individual in an application for an intercept order triggers other statutory provisions. First, § 2518(1)(e) requires an intercept application to disclose all previous applications 'involving any of the same persons . . . specified in the application.' . . . Second, § 2518(8)(d) mandates that an inventory notice be served upon 'the persons named in the order or the application.'"</p>
       <p>Ante at <a href="./us429-0413.xml#p425">429 U. S. 425</a> n. 14 (emphasis added).</p>
@@ -295,7 +295,7 @@
       <n id="p449">449</n>
       <p>Moreover, even, where there is no prior interception or application to disclose, as is apparently the case here, the naming requirement plays a vital role in the system designed by Congress. For unless that requirement is complied with from the first interception, no judge will know that a later interception is not the first. In addition, the naming requirement triggers the mandatory notification provision of § 2518(8)(d), another important component of the congressional design. [Footnote 3/6]</p>
       <p>Thus, I conclude that the naming requirement recognized by the majority does play a "substantive role" in the system designed by Congress to limit the use of electronic surveillance. Failure to comply with that requirement, therefore, should lead to suppression on the ground that "the communication was unlawfully intercepted." 18 U.S.C. § 2518(10)(a)(i).</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>The Court's discussion of the consequences of the Government's failure to comply with the notice provision of § 2518(8)(d) parallels its discussion of the naming requirement, and is similarly flawed. The Court does recognize that the notice provision was designed to assure the community that the wiretap technique is reasonably employed and that "Congress placed considerable emphasis on that aspect of the overall statutory scheme." Ante at <a href="./us429-0413.xml#p439">429 U. S. 439</a>. But because notice occurs after the intercept is completed, and because notice is not itself "an independent restraint on resort to the wiretap procedure," the Court concludes that failure to notify does not render an interception "unlawful" under § 2518(10)(a)(i). Ante at <a href="./us429-0413.xml#p439">429 U. S. 439</a>.</p>
       <p>Again, the Court takes too narrow a view of the provision at issue, ignoring its place in the system Congress has created to restrain wiretapping. That system involves not only direct</p>
       <n id="p450">450</n>
@@ -303,7 +303,7 @@
       <p>"Injunctive relief, with its attendant discovery proceedings, is not intended to be available. . . . It is expected that civil suits, if any, will instead grow out of the filing of inventories under section 2518(8)(d)."</p>
       <p>S.Rep. No. 1097, 90th Cong., 2d Sess., 107 (1968). See also id. at 105.</p>
       <p>The Court's conclusion that the notice provision is not central dismantles this carefully designed congressional structure.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>The Court's opinion implies that, if the violations of Title III considered here had been intentional, the result would be different. Ante at <a href="./us429-0413.xml#p426">429 U. S. 436</a> n. 23, <a href="./us429-0413.xml#p439">429 U. S. 439</a> n. 26. This must be so, for surely this Court would not tolerate the Government's intentional disregard of duties imposed on it by Congress. I also assume that, if the Government fails to establish procedures which offer reasonable assurance that it will strictly adhere to the statutory requirements, see ante at <a href="./us429-0413.xml#p439">429 U. S. 439</a>-440, resulting failures to comply will be recognized as intentional. There is, therefore, reason to hope that the Court's admonition that the Government should obey the law will have some effect in the future.</p>
       <p>But that hope is a poor substitute for certainty that the Government will make every effort to fulfill its responsibilities under Title III. We can obtain that certainty only by according full recognition to the role of the naming and notice</p>
       <n id="p451">451</n>

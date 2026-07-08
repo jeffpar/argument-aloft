@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us478-0570.html" citation="478 U.S. 570" title="Rose v. Clark">
   <opinion type="Opinions &amp; Dissents">
     <n id="p570">570</n>
-    <h>U.S. Supreme Court</h>
-    <h>Rose v. Clark, <a href="./us478-0570.xml#p570">478 U.S. 570</a> (1986)</h>
-    <h>Rose v. Clark</h>
-    <h>No. 84-1974</h>
-    <h>Argued March 24.1986</h>
-    <h>Decided July 2, 1986</h>
-    <h><a href="./us478-0570.xml#p570">478 U.S. 570</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE SIXTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Rose v. Clark, <a href="./us478-0570.xml#p570">478 U.S. 570</a> (1986)</h1>
+    <h2>Rose v. Clark</h2>
+    <h4>No. 84-1974</h4>
+    <h4>Argued March 24.1986</h4>
+    <h4>Decided July 2, 1986</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE SIXTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondent was charged with the murder of two persons arising from the same incident. At his trial in a Tennessee state court he defended on the ground, inter alia, that he was either insane or incapable of forming the requisite intent to kill the victims. The court instructed the jury on both first-degree murder, which requires proof of premeditation and deliberation under Tennessee law, and second-degree murder, which requires proof of malice, but not of planning and premeditation. The court then instructed the jury that "[a]ll homicides are presumed to be malicious in the absence of evidence which would rebut the implied presumption," and that, "if the State has proven beyond a reasonable doubt that a killing has occurred, then it is presumed that the killing was done maliciously." The jury found respondent guilty of first-degree murder of one victim and of second-degree murder of the other. The Tennessee Court of Appeals affirmed, rejecting respondent's argument that the malice instruction impermissibly shifted the burden of proof as to malice. Respondent then sought habeas corpus relief in Federal District Court, which held that the malice instruction was unconstitutional under Sandstrom v. Montana, <a href="../us442/us442-0510.xml#p510">442 U. S. 510</a>, wherein it was held that a jury instruction creating a presumption of malice that has the effect of either eliminating intent as an issue, or of shifting the burden of proof as to intent to the defendant, violates due process. The District Court then went on to find that the error could not be deemed harmless, because respondent had "relied upon a mens rea defense." The United States Court of Appeals affirmed.</p>
     <p>Held:</p>
     <p>1. The harmless error standard of Chapman v. California. <a href="../us386/us386-0018.xml#p18">386 U. S. 18</a>, under which a reviewing court should not set aside an otherwise valid conviction if the court may confidently say, on the whole record, that the constitutional error in question was harmless beyond a reasonable doubt, applies to the erroneous malice instruction in this case. Respondent had an opportunity to present evidence and argue in support of his innocence, he was tried by an impartial jury, supervised by an impartial judge, and, aside from the malice instruction, the jury was clearly instructed that it had to find respondent guilty beyond a reasonable doubt as to every element of both first- and second-degree murder.</p>
@@ -23,7 +23,7 @@
     <n id="p572">572</n>
     <p>JUSTICE POWELL delivered the opinion of the Court.</p>
     <p>This case presents the question whether the harmless error standard of Chapman v. California, <a href="../us386/us386-0018.xml#p18">386 U. S. 18</a> (1967), applies to jury instructions that violate the principles of Sandstrom v. Montana, <a href="../us442/us442-0510.xml#p510">442 U. S. 510</a> (1979), and Francis v. Franklin, <a href="../us471/us471-0307.xml#p307">471 U. S. 307</a> (1985). [<a id="nf1" href="#fn1">Footnote 1</a>]</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>On December 30, 1978, Charles Browning and Joy Faulk were shot to death while they sat in Browning's pickup truck in a remote area of Rutherford County, Tennessee. Respondent Stanley Clark, Faulk's former boyfriend, was charged with the murders.</p>
     <p>The evidence introduced at trial showed that Browning, Faulk, and Faulk's two young children (aged 6 and 3) had been driving in Rutherford County on the night of the murders. According to the older child, another vehicle followed Browning's truck for about an hour. Browning pulled his truck into a private driveway, apparently to let the other vehicle</p>
     <n id="p573">573</n>
@@ -45,7 +45,7 @@
     <p>doubt that the jury would have found it unnecessary to rely on the presumption."</p>
     <p>"If that were the question in this case . . . we might be able to respond in the affirmative."</p>
     <p>App. to Pet. for Cert. A-6. The court nevertheless affirmed the order granting habeas corpus relief. We granted certiorari limited to the question whether the Court of Appeals' harmless error analysis was correct. [<a id="nf5" href="#fn5">Footnote 5</a>] 474 U.S. 816 (1985).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>A</p>
     <p>In Chapman v. California, <a href="../us386/us386-0018.xml#p18">386 U. S. 18</a> (1967), this Court rejected the argument that errors of constitutional dimension necessarily require reversal of criminal convictions. And since Chapman,</p>
     <p>"we have repeatedly reaffirmed the principle that an otherwise valid conviction should not be set aside if the reviewing court may confidently say, on the whole record, that the constitutional error was harmless beyond a reasonable doubt."</p>
@@ -58,7 +58,7 @@
     <n id="p578">578</n>
     <p>its function as a vehicle for determination of guilt or innocence, see Powell v. Alabama, <a href="../us287/us287-0045.xml#p45">287 U. S. 45</a> (1932), and no criminal punishment may be regarded as fundamentally fair. Harmless error analysis thus presupposes a trial, at which the defendant, represented by counsel, may present evidence and argument before an impartial judge and jury. [<a id="nf6" href="#fn6">Footnote 6</a>] See Delaware v. Van Arsdall, supra, at <a href="../us475/us475-0673.xml#p681">475 U. S. 681</a> (constitutional errors may be harmless "in terms of their effect on the factfinding process at trial") (emphasis added); Chapman, supra, at <a href="../us386/us386-0018.xml#p24">386 U. S. 24</a> (error is harmless if, beyond a reasonable doubt, it "did not contribute to the verdict obtained") (emphasis added).</p>
     <p>Similarly, harmless error analysis presumably would not apply if a court directed a verdict for the prosecution in a criminal trial by jury. We have stated that</p>
-    <p>"a trial judge is prohibited from entering a judgment of conviction or directing the jury to come forward with such a verdict . . . , regardless of how overwhelmingly the evidence may point in that direction."</p>
+    <p>"a trial judge is prohibited from entering a judgment of conviction or directing the jury to come forward with such a verdict . . ., regardless of how overwhelmingly the evidence may point in that direction."</p>
     <p>United States v. Martin Linen Supply Co., <a href="../us430/us430-0564.xml#p564">430 U. S. 564</a>, <a href="../us430/us430-0564.xml#p572">430 U. S. 572</a>-573 (1977) (citations omitted). Accord, Carpenters v. United States, <a href="../us330/us330-0395.xml#p395">330 U. S. 395</a>, <a href="../us330/us330-0395.xml#p408">330 U. S. 408</a> (1947). This rule stems from the Sixth Amendment's clear command to afford jury trials in serious criminal cases. See Duncan v. Louisiana, <a href="../us391/us391-0145.xml#p145">391 U. S. 145</a> (1968). Where that right is altogether denied, the State cannot contend that the deprivation was harmless because the evidence established the defendant's guilt; the error in such a case is that the wrong entity judged the defendant guilty.</p>
     <p>We have emphasized, however, that, while there are some errors to which Chapman does not apply, they are the exception, and not the rule. United States v. Hasting, supra,</p>
     <n id="p579">579</n>
@@ -77,12 +77,12 @@
     <n id="p582">582</n>
     <p>nor the purposes of the Sandstrom rule to reverse a conviction in such a case. [<a id="nf11" href="#fn11">Footnote 11</a>] We accordingly hold that Chapman's harmless error standard applies in cases such as this one. [<a id="nf12" href="#fn12">Footnote 12</a>]</p>
     <n id="p583">583</n>
-    <h>III</h>
-    <p>Although the Court of Appeals acknowledged that Sandstrom error might in some cases be harmless, its analysis of the issue cannot square with Chapman. The court concluded that a Sandstrom error could never be harmless where a defendant contests intent. App. to Pet. for Cert. A-5. But our harmless error cases do not turn on whether the defendant conceded the factual issue on which the error bore. Rather, we have held that "Chapman mandates consideration of the entire record prior to reversing a conviction for constitutional errors that may be harmless." United States v. Hasting, 461 U.S. at <a href="../us461/us461-0499.xml#p509">461 U. S. 509</a>, n. 7. The question is whether, "on the whole record . . . , the error . . . [is] harmless beyond a reasonable doubt." Id. at <a href="../us461/us461-0499.xml#p510">461 U. S. 510</a>. See also Chapman, 386 U.S. at <a href="../us386/us386-0018.xml#p24">386 U. S. 24</a> ("[B]efore a federal constitutional error can be held harmless, the court must be able to declare a belief that it was harmless beyond a reasonable doubt"); Connecticut v. Johnson, 460 U.S. at <a href="../us460/us460-0073.xml#p97">460 U. S. 97</a>, n. 5 (POWELL, J., dissenting) (in cases of Sandstrom error, "the inquiry is whether the evidence was so dispositive of intent that a reviewing court can say beyond a reasonable doubt that the jury would have found it unnecessary to rely on the presumption"). Thus, the fact that respondent denied that he had</p>
+    <h2>III</h2>
+    <p>Although the Court of Appeals acknowledged that Sandstrom error might in some cases be harmless, its analysis of the issue cannot square with Chapman. The court concluded that a Sandstrom error could never be harmless where a defendant contests intent. App. to Pet. for Cert. A-5. But our harmless error cases do not turn on whether the defendant conceded the factual issue on which the error bore. Rather, we have held that "Chapman mandates consideration of the entire record prior to reversing a conviction for constitutional errors that may be harmless." United States v. Hasting, 461 U.S. at <a href="../us461/us461-0499.xml#p509">461 U. S. 509</a>, n. 7. The question is whether, "on the whole record . . ., the error . . . [is] harmless beyond a reasonable doubt." Id. at <a href="../us461/us461-0499.xml#p510">461 U. S. 510</a>. See also Chapman, 386 U.S. at <a href="../us386/us386-0018.xml#p24">386 U. S. 24</a> ("[B]efore a federal constitutional error can be held harmless, the court must be able to declare a belief that it was harmless beyond a reasonable doubt"); Connecticut v. Johnson, 460 U.S. at <a href="../us460/us460-0073.xml#p97">460 U. S. 97</a>, n. 5 (POWELL, J., dissenting) (in cases of Sandstrom error, "the inquiry is whether the evidence was so dispositive of intent that a reviewing court can say beyond a reasonable doubt that the jury would have found it unnecessary to rely on the presumption"). Thus, the fact that respondent denied that he had</p>
     <n id="p584">584</n>
     <p>"an intent to do any injury to another," App. 186, does not dispose of the harmless error question.</p>
     <p>Although we "plainly have the authority" to decide whether, on the facts of a particular case, a constitutional error was harmless under the Chapman standard, we "do so sparingly." United States v. Hasting, supra, at <a href="../us461/us461-0499.xml#p510">461 U. S. 510</a>. The Court of Appeals has not yet applied Chapman to the facts of this case. We therefore remand to that court for determination of whether the error committed in this case was harmless beyond a reasonable doubt. [<a id="nf13" href="#fn13">Footnote 13</a>]</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>The judgment of the Court of Appeals is vacated, and the case is remanded for further proceedings consistent with this opinion.</p>
     <p>It is so ordered.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>
@@ -135,7 +135,7 @@
       <n id="p585">585</n>
       <p>JUSTICE STEVENS, concurring in the judgment.</p>
       <p>The Court correctly concludes that the harmless error standard of Chapman v. California, <a href="../us386/us386-0018.xml#p18">386 U. S. 18</a> (1967), applies to the erroneous jury instructions in this case. I do not agree, however, with the Court's dictum regarding the nature of harmless error analysis.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>According to the Court,</p>
       <p>"if the defendant had counsel and was tried by an impartial adjudicator, there is a strong presumption that any other errors that may have occurred are subject to harmless error analysis."</p>
       <p>Ante at <a href="./us478-0570.xml#p579">478 U. S. 579</a>. This statement stands in sharp contrast with the Court's analysis in Chapman itself.</p>
@@ -150,7 +150,7 @@
       <p>"There is little, if any, difference between our statement in Fahy v. Connecticut about 'whether there is a reasonable possibility that the evidence complained of might have contributed to the conviction' and requiring the beneficiary of a constitutional error to prove beyond a reasonable doubt that the error complained of did not contribute to the verdict obtained. We, therefore, do no more than adhere to the meaning of our Fahy case when we hold, as we now do, that, before a federal constitutional error can be held harmless, the court must be able to declare a belief that it was harmless beyond a reasonable doubt. While appellate courts do not ordinarily have the original task of applying such a test, it is a familiar standard to all courts, and we believe its adoption will provide a more workable standard, although achieving the same result as that aimed at in our Fahy case."</p>
       <p>386 U.S. at <a href="../us386/us386-0018.xml#p24">386 U. S. 24</a>.</p>
       <p>Rather than creating a broad, new presumption in favor of harmless error analysis, then, Chapman merely rejected the notion that such analysis was always impermissible, and articulated a rigorous standard for determining whether a presumptively prejudicial error could, in fact, be deemed harmless.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>The Court's statement about the "rule" of harmless error review, and the reasons for it, is neither an adequate explanation of our current case law nor a sound judgment about what harmless error jurisprudence should be.</p>
       <p>As the Court recognizes, harmless error inquiry remains inappropriate for certain constitutional violations, no matter</p>
       <n id="p587">587</n>
@@ -161,7 +161,7 @@
       <n id="p589">589</n>
       <p>in respecting the Constitution to the ever-present and always powerful interest in obtaining a conviction in a particular case. [Footnote 2/5] It is particularly striking to compare the Court's apparent willingness to forgive constitutional errors that redound to the prosecutor's benefit with the Court's determination to give conclusive effect to trivial errors that obstruct a defendant's ability to raise meritorious constitutional arguments. [Footnote 2/6]</p>
       <p>Both a proper respect for a range of constitutional values and the interest in an evenhanded approach to the administration of justice convince me that the Court's dictum about a sweeping presumption in favor of harmless error review is not only unnecessary, but also unsound.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>In this particular case, however, the primary constitutional value protected by our holdings in Sandstrom v. Montana, <a href="../us442/us442-0510.xml#p510">442 U. S. 510</a> (1979), and Francis v. Franklin, <a href="../us471/us471-0307.xml#p307">471 U. S. 307</a> (1985), is an accurate determination of the defendant's guilt or innocence. In my opinion, this is also not the kind of error with such an inherently imprecise effect that harmless error inquiry is ill advised. [Footnote 2/7] It follows that the Federal Constitution does not command a rule of automatic reversal, and that the Court of Appeals should review the entire record</p>
       <n id="p590">590</n>
       <p>to determine whether it is able to declare a belief that the constitutional error was harmless beyond a reasonable doubt. [Footnote 2/8]</p>
@@ -187,7 +187,7 @@
       <p>"To conform to due process of law, [defendants are] entitled to have the validity of their convictions appraised on consideration of the case . . . as the issues were determined in the trial court."</p>
       <p>Cole v. Arkansas, <a href="../us333/us333-0196.xml#p196">333 U. S. 196</a>, <a href="../us333/us333-0196.xml#p202">333 U. S. 202</a> (1948). A trial that was fundamentally unfair at the time it took place, because the jury was not compelled to perform its constitutionally required role, cannot be rendered fundamentally fair in retrospect by what amounts to nothing more than an appellate review of the sufficiency of the evidence. I therefore dissent from the Court's holding that harmless error analysis should be applied.</p>
       <n id="p591">591</n>
-      <h>I</h>
+      <h2>I</h2>
       <p>Stanley Clark was indicted on charges of the first-degree murder of Joy Faulk and Charles Browning. He pleaded not guilty to both charges. At trial, Clark contested every element of the crime. He argued that he had not committed the killings, that he could not recall, due to amnesia, any event connected with the killings, and, alternatively, that he was incapable of forming any culpable intent due to mental illness and intoxication. Defense counsel's opening statement and the testimony of psychiatric experts and persons close to Clark put the question whether Clark possessed the requisite mental state directly before the jury.</p>
       <p>At the close of trial, the court instructed the jury that malice, "an intent to do any injury to another," was a necessary element of first- as well as second-degree, murder. App. 186. The trial court then instructed the jury, which for three days had heard testimony raising doubts about Clark's capacity to form the requisite intent, that,</p>
       <p>"if the State has proven beyond a reasonable doubt that a killing has occurred, then it is presumed that the killing was done maliciously. But this presumption may be rebutted. . . ."</p>
@@ -195,7 +195,7 @@
       <p>The District Court found, and the Court of Appeals for the Sixth Circuit agreed, that the jury instructions were constitutionally infirm under Sandstrom v. Montana, <a href="../us442/us442-0510.xml#p510">442 U. S. 510</a> (1979). [Footnote 3/2] App. to Pet. for Cert. A-1, A-7. The sole</p>
       <n id="p592">592</n>
       <p>question before the Court is whether such error can ever be harmless. See ante at <a href="./us478-0570.xml#p576">478 U. S. 576</a>. In Sandstrom, the Court held that burden-shifting jury instructions on the question of intent, like the instructions here, violate the due process requirement recognized in In re Winship, <a href="../us397/us397-0358.xml#p358">397 U. S. 358</a> (1970), that a conviction is valid only if the State has proved beyond a reasonable doubt every element of the crime. 442 U.S. at <a href="../us442/us442-0510.xml#p521">442 U. S. 521</a>. Thus, as the majority assumes, there was clear constitutional error in Clark's trial, see ante at <a href="./us478-0570.xml#p576">478 U. S. 576</a>, n. 5, and the question before the Court is only whether that error was harmless.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>The harmless error rule stems from this Court's recognition that some trial errors are sufficiently tangential to the trial process that they fairly may be overlooked. Chapman v. California, <a href="../us386/us386-0018.xml#p18">386 U. S. 18</a>, <a href="../us386/us386-0018.xml#p22">386 U. S. 22</a> (1967). But the Court also has recognized the existence of a class of constitutional errors that "necessarily render a trial fundamentally unfair," ante at <a href="./us478-0570.xml#p577">478 U. S. 577</a>, and thus are not amenable to harmless error analysis. "Harmless-error analysis," according to the majority, "presupposes a trial, at which the defendant, represented by counsel, may present evidence and argument before an impartial judge and jury." Ante at <a href="./us478-0570.xml#p578">478 U. S. 578</a>. Thus, errors that deny a defendant "the basic trial process" can "never be harmless." Ante at <a href="./us478-0570.xml#p578">478 U. S. 578</a>, n. 6. The archetypal examples of such acts are denial of the right to counsel and trial before a biased judge. See ante at <a href="./us478-0570.xml#p577">478 U. S. 577</a>-578; Gideon v. Wainwright, <a href="../us372/us372-0335.xml#p335">372 U. S. 335</a> (1963); Tumey v. Ohio, <a href="../us273/us273-0510.xml#p510">273 U. S. 510</a> (1927). The salient feature these examples share is that effective defense counsel and an impartial judge play central roles in the basic trial process. The Sixth and Fourteenth Amendments clearly establish the jury as an equally central entity. Cf. ante at <a href="./us478-0570.xml#p578">478 U. S. 578</a>. What the Court's opinion today fails to</p>
       <n id="p593">593</n>
       <p>comprehend is that the instruction in this case interfered so fundamentally with the jury's performance of its constitutionally mandated role that the error involved is analytically indistinguishable from those errors the Court finds inappropriate for harmless error analysis.</p>
@@ -213,7 +213,7 @@
       <p>"[a]n erroneous presumption on a disputed element of the crime renders irrelevant the evidence on the issue, because the jury may have relied upon the presumption, rather than upon that evidence."</p>
       <p>Connecticut v. Johnson, 460 U.S. at <a href="../us460/us460-0073.xml#p85">460 U. S. 85</a> (plurality opinion). The ordinary view is that a jury adheres to the instructions, Parker v. Randolph, <a href="../us442/us442-0062.xml#p62">442 U. S. 62</a>, <a href="../us442/us442-0062.xml#p73">442 U. S. 73</a> (1979) (plurality opinion), and there is no reason to believe that the "lay jury will know enough to disregard the judge's bad law, if in fact, he misguides them." Bollenbach v. United States, <a href="../us326/us326-0607.xml#p607">326 U. S. 607</a>, <a href="../us326/us326-0607.xml#p613">326 U. S. 613</a>-614 (1946).</p>
       <p>It is true that, "[w]hen a jury is instructed to presume malice from predicate facts, it still must find the existence of those facts beyond a reasonable doubt." Ante at <a href="./us478-0570.xml#p580">478 U. S. 580</a>. But that truism is beside the point here, where the only fact that the jury was required to find in order to trigger the presumption was that "a killing has occurred." App. 187. The jury was instructed to presume criminal intent, the sine qua non of criminal responsibility, from the fact of a dead body. The jury may have found the fact that there was a body, but this jury has not met In re Winship's requirement of finding, beyond a reasonable doubt, "every fact necessary to constitute the crime," 397 U.S. at <a href="../us397/us397-0358.xml#p364">397 U. S. 364</a>: this jury may never have found that Clark acted with malice, an essential element of the crimes of which he was convicted.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>The Court recognized 40 years ago that the question a reviewing court must ask "is not whether guilt may be spelt out of a record, but whether guilt has been found by a jury according to the procedures and standards" required by the Constitution. Bollenbach v. United States, 326 U.S. at <a href="../us326/us326-0607.xml#p614">326 U. S. 614</a>. When a jury has not been properly instructed concerning</p>
       <n id="p596">596</n>
       <p>an essential element of the offense that has been charged, the danger exists that the defendant has been deprived of his Sixth and Fourteenth Amendment right to have the jury determine whether the State has proved each element of the offense beyond a reasonable doubt. Faced with an incorrect instruction and a general verdict of guilty, a reviewing court simply lacks any adequate basis for deciding whether the jury has performed its constitutionally required function. Because I believe the Court today asks and answers the wrong question, I dissent.</p>

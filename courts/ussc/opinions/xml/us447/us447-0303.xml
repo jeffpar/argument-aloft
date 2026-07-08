@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us447-0303.html" citation="447 U.S. 303" title="Diamond v. Chakrabarty">
   <opinion type="Opinions &amp; Dissents">
     <n id="p303">303</n>
-    <h>U.S. Supreme Court</h>
-    <h>Diamond v. Chakrabarty, <a href="./us447-0303.xml#p303">447 U.S. 303</a> (1980)</h>
-    <h>Diamond v. Chakrabarty</h>
-    <h>No. 79-136</h>
-    <h>Argued March 17, 1980</h>
-    <h>Decided June 16, 1980</h>
-    <h><a href="./us447-0303.xml#p303">447 U.S. 303</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF CUSTOMS</h>
-    <h>AND PATENT APPEALS</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Diamond v. Chakrabarty, <a href="./us447-0303.xml#p303">447 U.S. 303</a> (1980)</h1>
+    <h2>Diamond v. Chakrabarty</h2>
+    <h2>No. 79-136</h2>
+    <h4>Argued March 17, 1980</h4>
+    <h4>Decided June 16, 1980</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF CUSTOMS</h2>
+    <h2>AND PATENT APPEALS</h2>
+    <h2>Syllabus</h2>
     <p>Title 35 U.S.C. § 101 provides for the issuance of a patent to a person who invents or discovers "any" new and useful "manufacture" or "composition of matter." Respondent filed a patent application relating to his invention of a human-made, genetically engineered bacterium capable of breaking down crude oil, a property which is possessed by no naturally occurring bacteria. A patent examiner's rejection of the patent application's claims for the new bacteria was affirmed by the Patent Office Board of Appeals on the ground that living things are not patentable subject matter under § 101. The Court of Customs and Patent Appeals reversed, concluding that the fact that micro-organisms are alive is without legal significance for purposes of the patent law.</p>
     <p>Held: A live, human-made micro-organism is patentable subject matter under § 101. Respondent's micro-organism constitutes a "manufacture" or "composition of matter" within that statute. Pp. <a href="./us447-0303.xml#p308">447 U. S. 308</a>-318.</p>
     <p>(a) In choosing such expansive terms as "manufacture" and "composition of matter," modified by the comprehensive "any," Congress contemplated that the patent laws should be given wide scope, and the relevant legislative history also supports a broad construction. While laws of nature, physical phenomena, and abstract ideas are not patentable, respondent's claim is not to a hitherto unknown natural phenomenon, but to a nonnaturally occurring manufacture or composition of matter -- a product of human ingenuity "having a distinctive name, character [and] use." Hartranft v. Wiegmann, <a href="../us121/us121-0609.xml#p609">121 U. S. 609</a>, <a href="../us121/us121-0609.xml#p615">121 U. S. 615</a>. Funk Brothers Seed Co. v. Kalo Inoculant Co., <a href="../us333/us333-0127.xml#p127">333 U. S. 127</a>, distinguished. Pp. <a href="./us447-0303.xml#p308">447 U. S. 308</a>-310.</p>
@@ -23,7 +23,7 @@
     <n id="p305">305</n>
     <p>MR. CHIEF JUSTICE BURGER delivered the opinion of the Court.</p>
     <p>We granted certiorari to determine whether a live, human-made micro-organism is patentable subject matter under 35 U.S.C. § 101.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In 1972, respondent Chakrabarty, a microbiologist, filed a patent application, assigned to the General Electric Co. The application asserted 36 claims related to Chakrabarty's invention of</p>
     <p>"a bacterium from the genus Pseudomons containing therein at least two stable energy-generating plasmids, each of said plasmids providing a separate hydrocarbon degradative pathway. [<a id="nf1" href="#fn1">Footnote 1</a>]"</p>
     <p>This human-made, genetically engineered bacterium is capable of breaking down multiple components of crude oil. Because of this property, which is possessed by no naturally occurring bacteria, Chakrabarty's invention is believed to have significant value for the treatment of oil spills. [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
@@ -34,7 +34,7 @@
     <p>The Court of Customs and Patent Appeals, by a divided vote, reversed on the authority of its prior decision in In re Bergy, 563 F.2d 1031, 1038 (1977), which held that "the fact that micro-organisms . . . are alive . . . [is] without legal significance" for purposes of the patent law. [<a id="nf4" href="#fn4">Footnote 4</a>] Subsequently, we granted the Acting Commissioner of Patents and Trademarks' petition for certiorari in Bergy, vacated the judgment, and remanded the case "for further consideration in light of Parker v. Flook, <a href="../us437/us437-0584.xml#p584">437 U. S. 584</a> (1978)." 438 U.S. 902 (1978). The Court of Customs and Patent Appeals then vacated its judgment in Chakrabarty and consolidated the case with Bergy for reconsideration. After reexamining both cases in the light of our holding in Flook, that court, with one dissent, reaffirmed its earlier judgments. 596 F.2d 952 (1979).</p>
     <n id="p307">307</n>
     <p>The Commissioner of Patents and Trademarks again sought certiorari, and we granted the writ as to both Bergy and Chakrabarty. 444 U.S. 924 (1979). Since then, Bergy has been dismissed as moot, 444 U.S. 1028 (1980), leaving only Chakrabarty for decision.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The Constitution grants Congress broad power to legislate to</p>
     <p>"promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries."</p>
     <p>Art. I, § 8, cl. 8. The patent laws promote this progress by offering inventors exclusive rights for a limited period as an incentive for their inventiveness and research efforts. Kewanee Oil Co. v. Bicron Corp., <a href="../us416/us416-0470.xml#p470">416 U. S. 470</a>, <a href="../us416/us416-0470.xml#p480">416 U. S. 480</a>-481 (1974); Universal Oil Co. v. Globe Co., <a href="../us322/us322-0471.xml#p471">322 U. S. 471</a>, <a href="../us322/us322-0471.xml#p484">322 U. S. 484</a> (1944). The authority of Congress is exercised in the hope that</p>
@@ -44,7 +44,7 @@
     <p>"Whoever invents or discovers any new and useful process, machine, manufacture, or composition of matter, or any new and useful improvement thereof, may obtain a patent therefor, subject to the conditions and requirements of this title."</p>
     <p>Specifically, we must determine whether respondent's micro-organism constitutes a "manufacture" or "composition of matter" within the meaning of the statute. [<a id="nf5" href="#fn5">Footnote 5</a>]</p>
     <n id="p308">308</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>In cases of statutory construction we begin, of course, with the language of the statute. Southeastern Community College v. Davis, <a href="../us442/us442-0397.xml#p397">442 U. S. 397</a>, <a href="../us442/us442-0397.xml#p405">442 U. S. 405</a> (1979). And "unless otherwise defined, words will be interpreted as taking their ordinary, contemporary, common meaning." Perrin v. United States, <a href="../us444/us444-0037.xml#p37">444 U. S. 37</a>, <a href="../us444/us444-0037.xml#p42">444 U. S. 42</a> (1979). We have also cautioned that courts "should not read into the patent laws limitations and conditions which the legislature has not expressed." United States v. Dubilier Condenser Corp., <a href="../us289/us289-0178.xml#p178">289 U. S. 178</a>, <a href="../us289/us289-0178.xml#p199">289 U. S. 199</a> (1933) .</p>
     <p>Guided by these canons of construction, this Court has read the term "manufacture" in § 101 in accordance with its dictionary definition to mean</p>
     <p>"the production of articles for use from raw or prepared materials by giving to these materials new forms, qualities, properties, or combinations, whether by hand labor or by machinery."</p>
@@ -60,7 +60,7 @@
     <p>use." Hartranft v. Wiegmann, <a href="../us121/us121-0609.xml#p609">121 U. S. 609</a>, <a href="../us121/us121-0609.xml#p615">121 U. S. 615</a> (1887). The point is underscored dramatically by comparison of the invention here with that in Funk. There, the patentee had discovered that there existed in nature certain species of root nodule bacteria which did not exert a mutually inhibitive effect on each other. He used that discovery to produce a mixed culture capable of inoculating the seeds of leguminous plants. Concluding that the patentee had discovered "only some of the handiwork of nature," the Court ruled the product nonpatentable:</p>
     <p>"Each of the species of root-nodule bacteria contained in the package infects the same group of leguminous plants which it always infected. No species acquires a different use. The combination of species produces no new bacteria, no change in the six species of bacteria, and no enlargement of the range of their utility. Each species has the same effect it always had. The bacteria perform in their natural way. Their use in combination does not improve in any way their natural functioning. They serve the ends nature originally provided, and act quite independently of any effort of the patentee."</p>
     <p>333 U.S. at <a href="../us333/us333-0127.xml#p131">333 U. S. 131</a>. Here, by contrast, the patentee has produced a new bacterium with markedly different characteristics from any found in nature, and one having the potential for significant utility. His discovery is not nature's handiwork, but his own; accordingly it is patentable subject matter under § 101.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>Two contrary arguments are advanced, neither of which we find persuasive.</p>
     <p>(A)</p>
     <p>The petitioner's first argument rests on the enactment of the 1930 Plant Patent Act, which afforded patent protection to certain asexually reproduced plants, and the 1970 Plant</p>

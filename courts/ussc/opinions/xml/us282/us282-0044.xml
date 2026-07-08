@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us282-0044.html" citation="282 U.S. 44" title="United States v. First National Pictures, Inc.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p44">44</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. First National Pictures, Inc., <a href="./us282-0044.xml#p44">282 U.S. 44</a> (1930)</h>
-    <h>United States v. First National Pictures, Incorporated</h>
-    <h>No. 95</h>
-    <h>Argued October 27, 28, 1930</h>
-    <h>Decided November 24, 1930</h>
-    <h><a href="./us282-0044.xml#p44">282 U.S. 44</a></h>
-    <h>APPEAL FROM THE DISTRICT COURT OF THE UNITED STATES</h>
-    <h>FOR THE SOUTHERN DISTRICT OF NEW YORK</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. First National Pictures, Inc., <a href="./us282-0044.xml#p44">282 U.S. 44</a> (1930)</h1>
+    <h2>United States v. First National Pictures, Incorporated</h2>
+    <h2>No. 95</h2>
+    <h4>Argued October 27, 28, 1930</h4>
+    <h4>Decided November 24, 1930</h4>
+    <h2>APPEAL FROM THE DISTRICT COURT OF THE UNITED STATES</h2>
+    <h2>FOR THE SOUTHERN DISTRICT OF NEW YORK</h2>
+    <h2>Syllabus</h2>
     <p>Ten competing corporations, which controlled 60% of the business of supplying the motion picture films used by theaters throughout the Union and had agreed amongst themselves upon a standard form of licensing contract for dealing with exhibitors (see Paramount Corp. v. United States, ante, p. <a href="./us282-0030.xml#p30">282 U. S. 30</a>), thereafter combined with other distributors, who with themselves controlled 98% of the film distribution, in establishing certain rules. Under these, whenever a theater changed hands, the credit and business arrangements of the new proprietor were inquired into, partly through an elaborate questionnaire addressed to him, special attention being given to his willingness and agreement to assume contracts for film service existing</p>
     <n id="p45">45</n>
     <p>between his predecessor and any of the distributors, and no contract for the delivery and display of a picture, other than on for delivery in the immediate future, could be made by any distributor with any new proprietor who had not assumed such outstanding contracts unless he furnished cash security to the distributor, fixed as provided in the rule. The effect in such cases was to prevent the exhibitor who would not assume such obligations of his predecessor from meeting the seasonal demands of his theater by booking for future delivery of film through contracts made in advance, such as were customary and necessary in this business. The rules were sought to be justified as reasonable protection against a practice of evading film service contracts by transferring the theatre to which they related. Held that the arrangement conflicts with the Sherman Act. P. <a href="./us282-0055.xml#p55">282 U. S. 55</a>.</p>
@@ -62,11 +62,8 @@
     <p>Is stock of corporation or a substantial amount thereof owned or</p>
     <p>held by another corporation? ___</p>
     <p>If so, give name of corporation and names of officers and directors</p>
-    <p>______________________________________________________________________</p>
     <p>If partnership, give names of partners. . . . . . . . . . . . . . .</p>
-    <p>______________________________________________________________________</p>
     <p>Who is authorized to enter into and sign contracts</p>
-    <p>______________________________________________________________________</p>
     <p>3. How will the contracts be signed _____________________ .</p>
     <p>4. Is theater owned or leased ______ If leased, state expiration date</p>
     <p>of lease ______</p>
@@ -79,21 +76,13 @@
     <p>have them inspected within thirty days ______</p>
     <p>11. Model of machines _________ Year _____</p>
     <p>12. Name theaters heretofore conducted, stating location of each _______</p>
-    <p>_______________________________________________________________</p>
     <p>13. If you have never been engaged in the exhibition of pictures, state</p>
     <p>previous business __________________</p>
     <p>14. Bank references ____________________________________</p>
     <p>15. Other references ____________________________________</p>
     <p>16. Specify contracts for film service made by previous owner:</p>
     <p>Name of distributor Date of contract No. pictures unplayed</p>
-    <p>_____________________________________________________________________</p>
-    <p>_____________________________________________________________________</p>
-    <p>_____________________________________________________________________</p>
-    <p>_____________________________________________________________________</p>
-    <p>_____________________________________________________________________</p>
     <p>17. Specify contracts you have assumed _________________________________</p>
-    <p>_____________________________________________________________________</p>
-    <p>_____________________________________________________________________</p>
     <p>18. If you have not assumed the previous owner's contracts, will you</p>
     <p>assume them? ______</p>
     <p>(If your answer to this question is "yes," fill out and sign the</p>
@@ -105,17 +94,9 @@
     <p>Assumption of Contracts</p>
     <p>____________ 19__</p>
     <p>Know all men by these presents, that the undersigned _______________ (owner) (lessee) of the _________Theater, in consideration of one dollar lawful money of the United States in hand paid, the receipt of which is hereby acknowledged, and other valuable considerations, hereby agrees to assume, carry out, and fully perform each of the contracts now existing between [name of previous owner] and the following distributors:</p>
-    <p>________________________________________________________________________</p>
-    <p>________________________________________________________________________</p>
-    <p>________________________________________________________________________</p>
-    <p>________________________________________________________________________</p>
     <p>for the exhibition of pictures at said theater from the above date.</p>
     <p>No. pictures (features, comedies,</p>
     <p>Distributors Date of contract employed Class news, other shorts)</p>
-    <p>________________________________________________________________________</p>
-    <p>________________________________________________________________________</p>
-    <p>________________________________________________________________________</p>
-    <p>________________________________________________________________________</p>
     <p>(New lessee New owner) (Strike out one)</p>
     <p>__________________________________Theater</p>
     <p>Address_________________________________</p>
@@ -142,7 +123,6 @@
     <p>Total . . . . . . . . . Total . . . . . . . . . .</p>
     <p>--------------------------------------------------------------------------------------</p>
     <p>Net worth as of this date _________</p>
-    <p>_______________</p>
     <p>Exhibitor</p>
   </opinion>
 </case>

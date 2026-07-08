@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us442-0178.html" citation="442 U.S. 178" title="United States v. Addonizio">
   <opinion type="Opinions &amp; Dissents">
     <n id="p178">178</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Addonizio, <a href="./us442-0178.xml#p178">442 U.S. 178</a> (1979)</h>
-    <h>United States v. Addonizio</h>
-    <h>No. 78-156</h>
-    <h>Argued March 27, 1979</h>
-    <h>Decided June 4, 1979</h>
-    <h><a href="./us442-0178.xml#p178">442 U.S. 178</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE THIRD CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Addonizio, <a href="./us442-0178.xml#p178">442 U.S. 178</a> (1979)</h1>
+    <h2>United States v. Addonizio</h2>
+    <h2>No. 78-156</h2>
+    <h4>Argued March 27, 1979</h4>
+    <h4>Decided June 4, 1979</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE THIRD CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Held: A federal prisoner's allegation that a postsentencing change in the policies of the United States Parole Commission has prolonged his actual imprisonment beyond the period intended by the sentencing judge will not support a collateral attack on the original sentence under 28 U.S.C. § 2255. Pp. <a href="./us442-0178.xml#p184">442 U. S. 184</a>-190.</p>
     <p>(a) The claimed error that the judge was incorrect in his assumptions about the future course of parole proceedings does not meet any of the established standards of collateral attack, where there is no claim of a constitutional violation, the sentence imposed was within the statutory limits, and the proceeding was not infected with any error of fact or law of a "fundamental" character that renders the entire proceeding irregular and invalid. The change in Parole Commission policies involved here -- considering the seriousness of the offense as a significant factor in determining whether a prisoner should be granted parole -- affected the way in which the court's judgment and sentence would be performed, but did not affect the lawfulness of the judgment itself, then or now; and there is no claim that the action taken by the sentencing judge was unconstitutional or was based on misinformation of constitutional magnitude. Davis v. United States, <a href="../us417/us417-0333.xml#p333">417 U. S. 333</a>, and United States v. Tucker, <a href="../us404/us404-0443.xml#p443">404 U. S. 443</a>, distinguished. Pp. <a href="./us442-0178.xml#p184">442 U. S. 184</a>-187.</p>
     <p>(b) There is no basis for enlarging the grounds for collateral attack to include claims based not on any objectively ascertainable error but on the frustration of the subjective intent of the sentencing judge. Under the present statutory scheme, the judge has no enforceable expectations with respect to the actual release of a sentenced defendant short of his statutory term; and while the judge may have expectations as to when release is likely, the actual decision is not his to make, either at the time of sentencing or later if his expectations are not met. To require the Parole Commission to act in accordance with judicial expectations, and to use collateral attack as a mechanism for ensuring that these expectations are carried out, would substantially undermine the congressional decision to entrust release determinations to the Commission, not the courts, and nothing in § 2255 supports -- let alone mandates -- such a frustration of congressional intent. Thus, subsequent</p>
@@ -22,7 +22,7 @@
     <p>MR. JUSTICE STEVENS delivered the opinion of the Court.</p>
     <p>Three prisoners have alleged that a postsentencing change in the policies of the United States Parole Commission has prolonged their actual imprisonment beyond the period intended by the sentencing Judge. The question presented is whether this type of allegation will support a collateral attack on the original sentence under 28 U.S.C. § 2255. [<a id="nf1" href="#fn1">Footnote 1</a>] We hold that it will not.</p>
     <n id="p180">180</n>
-    <h>I</h>
+    <h2>I</h2>
     <p>With respect to the legal issue presented, the claims before us are identical. To bring this issue into sharp focus, we accept for purposes of decision Addonizio's view of the facts and the relevant aspects of the Parole Commission's practices. After his conviction in the United States District Court for the District of New Jersey, on September 22, 1970, Addonizio was sentenced to 10 years' imprisonment and a fine of $25,000. Factors which led the District Judge to impose that sentence included the serious character of Addonizio's offenses, [<a id="nf2" href="#fn2">Footnote 2</a>] and the judge's expectation that exemplary institutional</p>
     <n id="p181">181</n>
     <p>behavior would lead to Addonizio's release when he became eligible for parole after serving one-third of his sentence. [<a id="nf3" href="#fn3">Footnote 3</a>] The judge did not contemplate that the Parole Commission</p>
@@ -35,9 +35,9 @@
     <p>This "sentencing expectation" was frustrated by the Parole Commission's subsequent adoption of new standards and procedures.</p>
     <p>The Court of Appeals affirmed. 573 F.2d 147. Because of a conflict with the decision of the Ninth Circuit holding that § 2255 does not give district courts this type of resentencing authority, [<a id="nf6" href="#fn6">Footnote 6</a>] we granted the Government's petition for certiorari in Addonizio's case and in the consolidated case of two other prisoners in which similar relief was granted. [<a id="nf7" href="#fn7">Footnote 7</a>] 439 U.S. 1045.</p>
     <n id="p184">184</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>We decide only the jurisdictional issue. We do not consider the Government's alternative argument that the significance of the changes in the Parole Commission's procedures has been exaggerated because it always attached some weight to the character of the offense in processing parole applications. Nor do we have any occasion to consider whether the new guidelines are consistent with the Parole Commission and Reorganization Act of 1976, 90 Stat. 219; [<a id="nf8" href="#fn8">Footnote 8</a>] or whether their enforcement may violate the Ex Post Facto Clause of the Constitution. [<a id="nf9" href="#fn9">Footnote 9</a>]</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>When Congress enacted § 2255 in 1948, it simplified the procedure for making a collateral attack on a final judgment entered in a federal criminal case, but it did not purport to modify the basic distinction between direct review and collateral review. It has, of course, long been settled law that an error that may justify reversal on direct appeal will not necessarily support a collateral attack on a final judgment. [<a id="nf10" href="#fn10">Footnote 10</a>] The reasons for narrowly limiting the grounds for collateral attack on final judgments are well known, and basic to our adversary system of justice. [<a id="nf11" href="#fn11">Footnote 11</a>] The question in this case is</p>
     <n id="p185">185</n>
     <p>whether an error has occurred that is sufficiently fundamental to come within those narrow limits.</p>

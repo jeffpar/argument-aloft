@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us477-0274.html" citation="477 U.S. 274" title="International Union v. Brock">
   <opinion type="Opinions &amp; Dissents">
     <n id="p274">274</n>
-    <h>U.S. Supreme Court</h>
-    <h>International Union v. Brock, <a href="./us477-0274.xml#p274">477 U.S. 274</a> (1986)</h>
-    <h>International Union, United Automobile, Aerospace, and</h>
-    <h>Agricultural Implement Workers of America v. Brock</h>
-    <h>No. 84-1777</h>
-    <h>Argued March 25, 1986</h>
-    <h>Decided June 25, 1986</h>
-    <h><a href="./us477-0274.xml#p274">477 U.S. 274</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE DISTRICT OF COLUMBIA CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>International Union v. Brock, <a href="./us477-0274.xml#p274">477 U.S. 274</a> (1986)</h1>
+    <h2>International Union, United Automobile, Aerospace, and</h2>
+    <h2>Agricultural Implement Workers of America v. Brock</h2>
+    <h4>No. 84-1777</h4>
+    <h4>Argued March 25, 1986</h4>
+    <h4>Decided June 25, 1986</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE DISTRICT OF COLUMBIA CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>To supplement state unemployment insurance benefits, the Trade Act of 1974 (Act) provides federally funded trade readjustment allowance (TRA) benefits to workers laid off because of competition from imports. As authorized by the Act, the Secretary of Labor (Secretary) has contracted out to state unemployment insurance agencies the job of making individual eligibility determinations for the benefits. To qualify for benefits, a worker must have at least 26 weeks of employment in the 52 weeks immediately preceding his layoff. In a 1975 policy handbook, the Secretary advised the state agencies that they should not count toward these 26 weeks leaves of absence, sick leaves, vacations, and military leaves. These guidelines were superseded by a 1981 amendment to the Act that permits inclusion of such periods of nonservice in determining a worker's period of employment, but the amendment was limited to benefits payable for weeks of unemployment beginning after September 30, 1981. Petitioner union and petitioner union members (some of whom had been denied benefits before October 1, 1981, because of the 1975 guidelines and some of whom were defending the award of benefits against appeals by their respective state agencies) filed an action in Federal District Court against the Secretary, claiming that his interpretation of the Act in the 1975 guidelines was incorrect, and seeking declaratory and injunctive relief. On cross-motions for summary judgment, the District Court first rejected the Secretary's argument that the provision of the Act, 19 U.S.C. § 231 1(d), that makes entitlement determinations reviewable only "in the same manner and to the same extent as determinations under the applicable State law," precluded federal jurisdiction over the action. On the merits, the court held that the 1975 guidelines were inconsistent with the Act, and granted the requested relief. Without reaching the merits, the Court of Appeals reversed, holding that the union had no standing to bring the action. As to the individual union member plaintiffs, who claim to have been denied benefits because of an improper construction of the Act, the court, relying on § 2311(d)'s requirement, held that no relief could properly be awarded because the</p>
     <n id="p275">275</n>
     <p>plaintiffs had failed to join as party defendants the state agencies that had denied their claims.</p>
@@ -29,7 +29,7 @@
     <p>This suit was brought by the International Union, United Automobile, Aerospace and Agricultural Implement Workers of America (UAW), and several of its members challenging the Secretary of Labor's interpretation of the eligibility provisions of the Trade Act of 1974, 88 Stat.1978, 19 U.S.C.</p>
     <n id="p277">277</n>
     <p>§ 2101, which provides benefits to workers laid off because of competition from imports. The issues presented here are whether the Union has standing to sue in federal court on behalf of its affected members and whether such a suit can be maintained without the joinder as defendants of the state agencies that administer the benefit program in question.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>To aid workers who have lost their jobs because of import competition, the Trade Act of 1974 established a program of trade readjustment allowance (TRA) benefits as a supplement to state unemployment insurance benefits. 19 U.S.C. § 2291. Under the Act's scheme, a group of workers, their union, or some other authorized representative may petition the Secretary of Labor to certify that their firm has been adversely affected by imports. §§ 2271-2273. If the Secretary issues a certificate of eligibility for such a group, workers within that group who meet certain standards of individual eligibility may then apply for and receive TRA benefits. These benefits are funded entirely by the Federal Government, as is the cost of administering the program.</p>
     <p>While the Secretary of Labor cannot delegate his certification duties, the Act does permit him to contract out the job of making individual eligibility determinations to the state agencies that administer state unemployment insurance programs. The Secretary has in fact entered into such agreements with unemployment insurance agencies in each State and in the District of Columbia and Puerto Rico. Pursuant to the agreements, each of these "cooperating Stat[e] agencies," § 2311(a), becomes an "agent of the United States," § 2313(a), charged with processing applications and using federal funds to pay TRA benefits to individuals eligible under the Act. Review of eligibility decisions by these agencies is to be</p>
     <p>"in the same manner and to the same extent as determinations under the applicable State law and only in that</p>
@@ -60,7 +60,7 @@
     <p>"Judicial review of a state agency's determination of benefits under its own unemployment insurance law may not be had without the presence of the state agency, [and] since the state agencies are outside the district court's jurisdiction, it may not be had here."</p>
     <p>Id. at 110, 746 F.2d at 843.</p>
     <p>We granted certiorari to consider the procedural issues raised by the Court of Appeals' decision, 474 U.S. 900 (1985). We now reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The first question raised by the Court of Appeals' decision is a simple one: does the UAW have standing to challenge the 1975 policy directive that allegedly resulted in the denial of TRA benefits to thousands of the Union's members? See Complaint � 69. As the Court of Appeals properly noted, "the Union has alleged no injury to itself; nor are the members' associational rights affected," 241 U.S.App.D.C. at 109, 746 F.2d at 842. The inquiry here is thus whether the UAW may proceed solely as a representative of those of its members injured by the Secretary's policy.</p>
     <p>It has long been settled that,</p>
     <p>"[e]ven in the absence of injury to itself, an association may have standing solely as the representative of its members. E.g., National Motor Freight Assn. v. United States, <a href="https://law.justia.com/us/372/246/">372 U. S. 246</a> (1963)."</p>
@@ -110,7 +110,7 @@
     <p>Like the Secretary in his arguments before this Court, the Court of Appeals misconstrued the nature of petitioners' claims. Neither these claims nor the relief sought required the District Court to consider the individual circumstances of any aggrieved UAW member. The suit raises a pure question of law: whether the Secretary properly interpreted the Trade Act's TRA eligibility provisions. Cf. Schweiker v. Gray Panthers, <a href="../us453/us453-0034.xml#p34">453 U. S. 34</a>, <a href="../us453/us453-0034.xml#p40">453 U. S. 40</a>, n. 8 (1981). And the relief</p>
     <n id="p288">288</n>
     <p>requested, and granted by the District Court, leaves any questions regarding the eligibility of individual TRA claimants to the state authorities given jurisdiction over such questions by 19 U.S.C. § 2311(d). See Bowen v. City of New York, <a href="../us476/us476-0467.xml#p467">476 U. S. 467</a>, <a href="../us476/us476-0467.xml#p485">476 U. S. 485</a> (1986) ("[B]y ordering simply that the claims be reopened at the administrative level, the District Court showed proper respect for the administrative process"). Thus, though the unique facts of each UAW member's claim will have to be considered by the proper state authorities before any member will be able to receive the benefits allegedly due him, the UAW can litigate this case without the participation of those individual claimants and still ensure that "the remedy, if granted, will inure to the benefit of those members of the association actually injured," Warth, supra, at <a href="../us422/us422-0490.xml#p515">422 U. S. 515</a>.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>As an alternative basis for affirming the Court of Appeals, the Secretary asks that we reconsider and reject the principles of associational standing set out in Hunt. He suggests that "at least absent a showing of particularized need," members of an association who wish to litigate common questions of law or fact against the same defendant be permitted to proceed only pursuant to the class action provisions of Federal Rule of Civil Procedure 23. Brief for Respondent 34. <a href="./us477-0274.xml#p274">*</a></p>
     <p>Both associational standing and Rule 23 are "designed to serve precisely the same purpose," according to the Secretary: "to facilitate, in a fair and efficient manner, the collective adjudication of the common rights of an association's members." Id. at 37. Rule 23, however, contains special</p>
     <n id="p289">289</n>
@@ -125,7 +125,7 @@
     <p>"The only practical judicial policy when people pool their capital, their interests, or their activities under a name and form that will identify collective interests often is to permit the association or corporation in a single case to vindicate the interests of all."</p>
     <p>Joint Anti-Fascist Refugee Committee v. McGrath, <a href="../us341/us341-0123.xml#p123">341 U. S. 123</a>, <a href="../us341/us341-0123.xml#p187">341 U. S. 187</a> (1951) (Jackson, J., concurring); see NAACP v. Alabama ex rel. Patterson, <a href="../us357/us357-0449.xml#p449">357 U. S. 449</a>, <a href="../us357/us357-0449.xml#p459">357 U. S. 459</a> (1958) (association "is but the medium through which its individual members seek to make more effective the expression of their views"). The very forces that cause individuals to band together in an association will thus provide some guarantee that the association will work to promote their interests.</p>
     <p>We are not prepared to dismiss out of hand the Secretary's concern that associations allowed to proceed under Hunt will not always be able to represent adequately the interests of all their injured members. Should an association be deficient in this regard, a judgment won against it might not preclude subsequent claims by the association's members without offending due process principles. And were we presented with evidence that such a problem existed either here or in cases of this type, we would have to consider how it might be alleviated. However, the Secretary has given us absolutely no reason to doubt the ability of the UAW to proceed here on behalf of its aggrieved members, and his presentation has fallen far short of meeting the heavy burden of persuading us to abandon settled principles of associational standing. See Vasquez v. Hillery, <a href="../us474/us474-0254.xml#p254">474 U. S. 254</a>, <a href="../us474/us474-0254.xml#p265">474 U. S. 265</a>-266 (1986). We therefore reaffirm the principles we set out in Hunt, and hold that the UAW has standing to litigate this action.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>Our conclusion that the UAW has standing would be of little consequence if we agreed with the Court of Appeals</p>
     <n id="p291">291</n>
     <p>that "the complaint should be dismissed because it was filed without the joinder of necessary parties," namely, the cooperating state agencies whose adverse benefit determinations gave rise to the injuries complained of here. 241 U.S.App.D.C. at 110, 746 F.2d at 843. Because petitioners appear to have conceded that the state agencies are outside the jurisdiction of the District Court, Brief for Petitioners 44, n. 44, a demand that all the agencies involved be named as defendants would bar the UAW from proceeding any further with this action. However, we believe that the Court of Appeals' resolution of the joinder issue was erroneous.</p>
@@ -137,7 +137,7 @@
     <p>Under these circumstances, we do not believe that the state agencies should be considered "indispensable parties" within the meaning of Federal Rule of Civil Procedure 19(b), whose absence from this action rendered the District Court unable to grant in full the relief sought by petitioners. Furthermore,</p>
     <n id="p293">293</n>
     <p>given that the only prejudice to absent third parties suggested here is administrative work for which the agencies will be fully reimbursed, it would be indeed odd were we to prevent this suit from going forward simply because there is a slight chance that petitioners will not be able to obtain the full extent of the relief they seek.</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>We hold that the UAW has standing to proceed in this case, and that petitioners' failure to join the various cooperating state agencies poses no obstacle to the suit. It remains for the Court of Appeals to consider the merits of the District Court's decision and any procedural issues properly preserved and raised.</p>
     <p>The judgment of the Court of Appeals is reversed, and the case is remanded to that court for proceedings consistent with this opinion.</p>
     <p>It is so ordered.</p>

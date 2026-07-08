@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us459-1128.html" citation="459 U.S. 1128" title="HARVARD v. FLORIDA">
   <opinion type="Opinions &amp; Dissents">
     <n id="p1128">1128</n>
-    <h>U.S. Supreme Court</h>
-    <h>HARVARD v. FLORIDA , <a href="./us459-1128.xml#p1128">459 U.S. 1128</a> (1983)</h>
-    <h> <a href="./us459-1128.xml#p1128">459 U.S. 1128</a></h>
-    <h>William Lanay HARVARD, petitioner, v. FLORIDA No. 82-5444</h>
-    <h>Supreme Court of the United States</h>
-    <h>January 10, 1983</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>HARVARD v. FLORIDA, <a href="./us459-1128.xml#p1128">459 U.S. 1128</a> (1983)</h1>
+    <h2>William Lanay HARVARD, petitioner, v. FLORIDA No. 82-5444</h2>
+    <h2>Supreme Court of the United States</h2>
+    <h4>January 10, 1983</h4>
     <p>On petition for writ of certiorari to the Supreme Court of Florida.</p>
     <p>The petition for a writ of certiorari is denied.</p>
     <p>Justice MARSHALL, with whom Justice BRENNAN joins, dissenting.</p>
@@ -50,7 +50,7 @@
     <n id="p1136">1136</n>
     <p>III</p>
     <p>A defendant is denied due process when he is sentenced to death by a judge who relied on information that the defendant had no opportunity to contest or rebut. That denial of due process can only be remedied by a new sentencing proceeding conducted in conformity with the Constitution. It is not remedied by a remand to the original sentencing judge for a hearing in which the defendant bears the burden of rebutting or explaining the information, and in which the judge will not consider any evidence or argument that is not in the nature of rebuttal or that could have been presented at the initial proceeding. This sort of limited hearing might conceivably be appropriate to correct an evidentiary error in a civil antitrust action, but it is scarcely sufficient to correct a due process violation where a man's life is at stake. I therefore dissent</p>
-    <h>Footnotes</h>
+    <h2>Footnotes</h2>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>
       <p>Since the undisclosed information was not considered by the advisory jury, there is no need to convene a new jury.</p>
     </f>

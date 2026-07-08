@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us486-0330.html" citation="486 U.S. 330" title="Monessen v. Southwestern R. Co. v. Morgan">
   <opinion type="Opinions &amp; Dissents">
     <n id="p330">330</n>
-    <h>U.S. Supreme Court</h>
-    <h>Monessen v. Southwestern R. Co. v. Morgan, <a href="./us486-0330.xml#p330">486 U.S. 330</a> (1988)</h>
-    <h>Monessen v. Southwestern Railway Co. v. Morgan</h>
-    <h>No. 86-1743</h>
-    <h>Argued February 22, 1988</h>
-    <h>Decided June 6, 1988</h>
-    <h><a href="./us486-0330.xml#p330">486 U.S. 330</a></h>
-    <h>APPEAL FROM THE SUPREME COURT OF PENNSYLVANIA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Monessen v. Southwestern R. Co. v. Morgan, <a href="./us486-0330.xml#p330">486 U.S. 330</a> (1988)</h1>
+    <h2>Monessen v. Southwestern Railway Co. v. Morgan</h2>
+    <h4>No. 86-1743</h4>
+    <h4>Argued February 22, 1988</h4>
+    <h4>Decided June 6, 1988</h4>
+    <h2>APPEAL FROM THE SUPREME COURT OF PENNSYLVANIA</h2>
+    <h2>Syllabus</h2>
     <p>Appellee suffered a permanent back injury while working as a brakeman and conductor for appellant railroad. After returning to work in a less physically demanding position, appellee brought an action under the Federal Employers' Liability Act (FELA) in a Pennsylvania state court, alleging that his injury was attributable to appellant's negligence and that his future earning power had been impaired as a result of his injury. The trial judge refused to instruct the jury that any damages award for loss of future earnings should be reduced to present value, but instead informed the jury that the law (apparently referring to Pennsylvania case law) "now provides that there need not be such a reduction." After the jury found for appellee and awarded damages, the trial judge assessed an additional amount as prejudgment interest pursuant to Pennsylvania Rule of Civil Procedure 238, which requires state courts in personal injury actions to add to compensatory damages 10 percent per year, as "damages for delay," from the date the complaint was filed or from the date one year after the cause of action accrued, whichever was later, to the date of the verdict. The Pennsylvania Superior Court affirmed. The Pennsylvania Supreme Court also affirmed, characterizing Rule 238 as a mere "rule of procedure," and holding that it was not inconsistent with FELA. It also held that whether the trial judge properly refused to instruct the jury to discount future damages to present value and instead applied the "total offset" method, under which future inflation is presumed equal to future interest rates, was a question of federal law, and that the judge's use of the total offset rule was not inconsistent with St. Louis Southwestern R. Co. v. Dickerson, <a href="../us470/us470-0409.xml#p409">470 U. S. 409</a>.</p>
     <p>Held:</p>
     <p>1. State courts may not award prejudgment interest pursuant to local practice in FELA actions. Pp. <a href="./us486-0330.xml#p334">486 U. S. 334</a>-339.</p>
@@ -24,7 +24,7 @@
     <n id="p332">332</n>
     <p>JUSTICE WHITE delivered the opinion of the Court.</p>
     <p>This case concerns the application of state law rules affecting the measure of damages in an action brought in state court under the Federal Employers' Liability Act (FELA), 35 Stat. 65, as amended, 45 U.S.C. § 51 et seq.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Appellee was employed by appellant as a railroad brakeman and conductor. In August, 1977, appellee fell while alighting from a railroad car and suffered a permanent injury to his back. He returned to work in February, 1979, in the less physically demanding position of radio and supply clerk.</p>
     <p>Appellee brought an FELA action in the Court of Common Pleas of Allegheny County, Pennsylvania, alleging that his fall was attributable to appellant's negligence. He claimed that his future earning power had been impaired as a result of his injury because he could not obtain certain incentive and shift differential payments in his new position.</p>
     <p>The trial judge refused to instruct the jury that any damages award for loss of future earnings would have to be reduced to present value. Instead, she informed the jury that "[t]he law now provides that there need not be such a reduction." App. 61. The judge apparently was referring to the Pennsylvania Supreme Court's decision in Kaczkowski v. Bolubasz, 491 Pa. 561, 583, <a href="https://law.justia.com/cases/pennsylvania/supreme-court/1980/491-pa-561-0.html">421 A.2d 1027</a>, 1038-1039 (1980), which had instructed state courts to cease discounting future lost earnings to present value because "as a matter of law . . . future inflation shall be presumed equal to future interest rates, with these factors offsetting."</p>
@@ -40,7 +40,7 @@
     <p>"whatever rate the District Court may choose to discount the estimated stream of future earnings, it must make a deliberate choice, rather than assuming that it is bound by a rule of state law."</p>
     <p>Id. at <a href="../us462/us462-0523.xml#p552">462 U. S. 552</a>-553. Here, the trial judge's use of the total offset rule was held to have been permissible under Pfeifer because the reviewing court had itself "deliberately selected" that rule in Kaczkowski v. Bolubasz "after a thorough consideration of various present worth theories and rules." 513 Pa. at 92-93, 518 A.2d at 1174. Nor did the court find any inconsistency between the trial judge's use of the total offset rule and our holding in Dickerson that "an utter failure to instruct the jury that present value is the proper measure of [an FELA] damages award is error." 470 U.S. at <a href="../us470/us470-0409.xml#p412">470 U. S. 412</a>. Here, reasoned the court, "the trial judge did instruct the jury on present value by charging on the total offset method." 513 Pa. at 94-95, 518 A.2d at 1175. [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
     <p>We noted probable jurisdiction, 484 U.S. 813 (1987), and now reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>We first consider whether state courts may award prejudgment interest pursuant to local practice in actions brought under the FELA.</p>
     <n id="p335">335</n>
     <p>A</p>
@@ -60,7 +60,7 @@
     <p>Moreover, we have recognized that Congress' failure to disturb a consistent judicial interpretation of a statute may provide some indication that "Congress at least acquiesces in, and apparently affirms, that [interpretation]." Cannon v. University of Chicago, <a href="../us441/us441-0677.xml#p677">441 U. S. 677</a>, <a href="../us441/us441-0677.xml#p703">441 U. S. 703</a> (1979); see also Gulf Oil Corp. v. Copp Paving Co., <a href="../us419/us419-0186.xml#p186">419 U. S. 186</a>, <a href="../us419/us419-0186.xml#p200">419 U. S. 200</a>-201 (1974); Flood v. Kuhn, <a href="../us407/us407-0258.xml#p258">407 U. S. 258</a>, <a href="../us407/us407-0258.xml#p283">407 U. S. 283</a>-284 (1972). The federal and state courts have held with virtual unanimity over more than seven decades that prejudgment interest is not available under the FELA. See, e.g., Poleto, 826 F.2d at 1279; Wilson, 803 F.2d at 566; Kozar v. Chesapeake &amp; Ohio R. Co., 449 F.2d 1238, 1244 (CA6 1971); Pratt, supra, at 848-849; Chicago, M., St. P. &amp; P. R. Co. v. Busby, 41 F.2d 617, 619 (CA9 1930); Carmouche v. Southern Pacific Transportation Co., 734 S.W.2d 46, 47 (Tex. App.1987); Melin v. Burlington Northern R. Co., <a href="https://law.justia.com/cases/minnesota/court-of-appeals/1987/c5-86-1691-0.html">401 N.W.2d 418</a>, 420 (Minn.App.1987); Wicks v. Central R. Co., 129 N.J.Super. 145, 147, <a href="https://law.justia.com/cases/new-jersey/appellate-division-published/1974/129-n-j-super-145-0.html"> 322 A.2d 488</a>, 489, cert. denied, 66 N.J. 317, 331 A.2d 17 (1974); Murmann v. New York, N. H. &amp; H.R. Co., 258 N.Y. 447, 450, 180 N.E. 114, 115 (1932) (per curiam); Mobile &amp; O. R. Co. v. Williams, 219 Ala. 238, 249, 121 So. 722, 731 (1929); Bennett v. Atchison, T. &amp; S. F. R. Co., 187 Iowa 897, 903-904, 174 N.W. 805, 807 (1919); Grow v. Oregon Short Line R. Co., 47 Utah 26, 29, 150 P. 970, 971 (1915). Congress has amended the FELA on several occasions since 1908. See 36 Stat. 291 (1910); 53 Stat. 1404 (1939); 62 Stat.</p>
     <n id="p339">339</n>
     <p>989 (1948). Yet, Congress has never attempted to amend the FELA to provide for prejudgment interest. [<a id="nf8" href="#fn8">Footnote 8</a>] We are unwilling in the face of such congressional inaction to alter the longstanding apportionment between carrier and worker of the costs of railroading injuries. If prejudgment interest is to be available under the FELA, then Congress must expressly so provide. [<a id="nf9" href="#fn9">Footnote 9</a>]</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>We turn now to the question whether the trial court acted consistently with federal law in instructing the jury not to discount appellee's future lost earnings to present value.</p>
     <p>We have consistently recognized that "damages awards in suits governed by federal law should be based on present value." Dickerson, 470 U.S. at <a href="../us470/us470-0409.xml#p412">470 U. S. 412</a>. The "self-evident" reason is that "a given sum of money in hand is worth more than the like sum of money payable in the future." Kelly, 241 U.S. at <a href="../us241/us241-0485.xml#p489">241 U. S. 489</a>; see also Dickerson, supra, at <a href="../us470/us470-0409.xml#p412">470 U. S. 412</a>. And, as</p>
     <n id="p340">340</n>
@@ -79,7 +79,7 @@
     <n id="p342">342</n>
     <p>present value issue from becoming unnecessarily prolonged and the jury from becoming hopelessly mired in "difficult mathematical computation." It is therefore permissible for the judge to recommend to the jury one or more methods of calculating present value, so long as the judge does not in effect preempt the jury's function. [<a id="nf11" href="#fn11">Footnote 11</a>] A trial judge's instructions to the jury with regard to discount methods -- provided that they do not "subject the jury's estimate to . . . rigid mathematical limitatio[n]," Holloway, supra, at <a href="../us246/us246-0525.xml#p528">246 U. S. 528</a> -- are entitled to substantial deference on appellate review.</p>
     <p>In the present case, however, the trial judge instructed the jury that a zero discount rate was to be applied as a matter of law to appellee's future damages. This instruction improperly took from the jury the essentially factual question of the appropriate rate at which to discount appellee's FELA award to present value, and therefore requires reversal.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>We conclude that Pennsylvania's prejudgment interest and "total offset" rules were improperly applied to this FELA action. The judgment of the Pennsylvania Supreme Court is therefore reversed, and the case is remanded for further proceedings not inconsistent with this opinion.</p>
     <p>It is so ordered.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>
@@ -122,7 +122,7 @@
       <p>I agree with the Court's conclusion that the availability of prejudgment interest in a suit under the Federal Employers' Liability Act (FELA), 35 Stat. 65, as amended, 45 U.S.C. § 51 et seq., is governed by federal law, and that the state trial court therefore was not at liberty to supplement appellee's judgment on the basis of Rule 238 of the Pennsylvania</p>
       <n id="p343">343</n>
       <p>Rules of Civil Procedure. I also agree with the Court's conclusion that the trial court erred in refusing to instruct the jury on present value pursuant to federal law. Accordingly, I join Parts I, II-A, and III of the Court's opinion. Because the Court's hasty decision that prejudgment interest is uniformly unavailable in FELA actions fails to follow the teaching of our prior cases and undermines the FELA's system of compensation, I dissent from Part II-B.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>Section 1 of the FELA, 45 U.S.C. § 51, provides that a railroad "shall be liable in damages to any [employee] suffering injury . . . from the negligence" of the railroad or its employees. Enacted to ensure compensation for railroad workers injured by the negligence of their employers or of their fellow employees, the FELA uses broad language that, in turn, "has been construed even more broadly" by this Court, consistent with its assessment of congressional intent. Atchison, T. &amp; S. F. R. Co. v. Buell, <a href="../us480/us480-0557.xml#p557">480 U. S. 557</a>, <a href="../us480/us480-0557.xml#p561">480 U. S. 561</a>-562 (1987); see Kernan v. American Dredging Co., <a href="../us355/us355-0426.xml#p426">355 U. S. 426</a>, <a href="../us355/us355-0426.xml#p432">355 U. S. 432</a> (1958). This Court has "accepted [a] standard of liberal construction in order to accomplish" the "Act's humanitarian purposes." Urie v. Thompson, <a href="../us337/us337-0163.xml#p163">337 U. S. 163</a>, <a href="../us337/us337-0163.xml#p180">337 U. S. 180</a> (1949); Atchison, T. &amp; S. F. R. Co. v. Buell, supra, at <a href="../us480/us480-0557.xml#p562">480 U. S. 562</a>. In accord with these principles, appellee is entitled under the FELA to interest on the money awarded to him as damages for his economic losses, here lost earnings, between the time of his injury and the time of trial. [Footnote 2/1]</p>
       <n id="p344">344</n>
       <p>A</p>
@@ -153,7 +153,7 @@
       <p>Indeed, in previous discussions of present value calculations, we have recognized the symmetry between discounting to present value and awarding prejudgment interest. In Jones &amp; Laughlin Steel Corp. v. Pfeifer, <a href="../us462/us462-0523.xml#p523">462 U. S. 523</a>, <a href="../us462/us462-0523.xml#p528">462 U. S. 538</a>, n. 22 (1983), the Court instructed:</p>
       <p>"It is . . . more precise to discount the entire lost stream of earnings back to the date of injury -- the moment from which earning capacity was impaired. The plaintiff may then be awarded interest on that discounted sum for the period between injury and judgment, in order to ensure that the award, when invested, will still be able to replicate the lost stream. [Footnote 2/6]"</p>
       <p>This Court has held that the present value principles of Pfeifer apply in FELA actions. See St. Louis Southwestern R. Co. v. Dickerson, <a href="../us470/us470-0409.xml#p409">470 U. S. 409</a>, <a href="../us470/us470-0409.xml#p411">470 U. S. 411</a>-412 (1985) (per curiam).</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>In sum, I conclude that prejudgment interest on past economic loss is available as part of the damages award in FELA</p>
       <n id="p350">350</n>
       <p>cases. This reading of the statute comports with the congressional intent to provide liberal recovery under the FELA. Of course, by applying Rule 238 of the Pennsylvania Rules of Civil Procedure, the state trial court went further and allowed prejudgment interest on appellee's general verdict, including interest on appellee's damages for pain and suffering and future losses, which are not appropriate objects for a compensatory award of prejudgment interest. Because the trial court erred in its instruction on present value, however, ante at <a href="./us486-0330.xml#p339">486 U. S. 339</a>-342, a new trial on damages will be necessary in any event. As part of appellee's award at his new trial, I would allow interest on the past economic damages he has proved.</p>

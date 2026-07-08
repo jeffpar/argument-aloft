@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us605-23-1300.html" citation="605 U.S. 23-1300" title="Nuclear Regulatory Commission v. Texas">
   <opinion type="Opinion" author="Kavanaugh">
     <p>NOTICE: This opinion is subject to formal revision before publication in the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, pio@supremecourt.gov, of any typographical or other formal errors.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 23–1300 and 23–1312</p>
-    <p>_________________</p>
     <p>NUCLEAR REGULATORY COMMISSION, et al., PETITIONERS</p>
     <p>23–1300v.</p>
     <p>TEXAS, et al.</p>
@@ -112,9 +111,7 @@
   </opinion>
   <opinion type="Dissent" author="Gorsuch">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 23–1300 and 23–1312</p>
-    <p>_________________</p>
     <p>NUCLEAR REGULATORY COMMISSION, et al., PETITIONERS</p>
     <p>23–1300v.</p>
     <p>TEXAS, et al.</p>

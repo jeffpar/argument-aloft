@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us442-0200.html" citation="442 U.S. 200" title="Dunaway v. New York">
   <opinion type="Opinions &amp; Dissents">
     <n id="p200">200</n>
-    <h>U.S. Supreme Court</h>
-    <h>Dunaway v. New York, <a href="./us442-0200.xml#p200">442 U.S. 200</a> (1979)</h>
-    <h>Dunaway v. New York</h>
-    <h>No. 78-5066</h>
-    <h>Argued March 21, 1979</h>
-    <h>Decided June 5, 1979</h>
-    <h><a href="./us442-0200.xml#p200">442 U.S. 200</a></h>
-    <h>CERTIORARI TO THE APPELLATE DIVISION, SUPREME COURT</h>
-    <h>OF NEW YORK, FOURTH JUDICIAL DEPARTMENT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Dunaway v. New York, <a href="./us442-0200.xml#p200">442 U.S. 200</a> (1979)</h1>
+    <h2>Dunaway v. New York</h2>
+    <h2>No. 78-5066</h2>
+    <h4>Argued March 21, 1979</h4>
+    <h4>Decided June 5, 1979</h4>
+    <h2>CERTIORARI TO THE APPELLATE DIVISION, SUPREME COURT</h2>
+    <h2>OF NEW YORK, FOURTH JUDICIAL DEPARTMENT</h2>
+    <h2>Syllabus</h2>
     <p>A Rochester, N.Y. police detective questioned a jail inmate, the supposed source of a lead implicating petitioner in an attempted robbery and homicide, but learned nothing that supplied "enough information to get a warrant" for petitioner's arrest. Nevertheless, the detective ordered other detectives to "pick up" petitioner and "bring him in." Petitioner was then taken into custody, and although not told that he was under arrest, he would have been physically restrained if he had attempted to leave. He was driven to police headquarters and placed in an interrogation room, where he was questioned by officers after being given the warnings required by Miranda v. Arizona, <a href="../us384/us384-0436.xml#p436">384 U. S. 436</a>. He waived counsel and eventually made statements and drew sketches that incriminated him in the crime. At his state court trial, his motions to suppress the statements and sketches were denied, and he was convicted. The New York appellate courts affirmed the conviction, but this Court vacated the judgment, and remanded for further consideration in light of t.he supervening decision in Brown v. Illinois, <a href="../us422/us422-0590.xml#p590">422 U. S. 590</a>, which held that there is no per se rule that Miranda warnings, in and of themselves, suffice to cure a Fourth Amendment violation involved in obtaining inculpatory statements during custodial interrogation following a formal arrest on less than probable cause, and that, in order to use such statements, the prosecution must show not only that the statements meet the Fifth Amendment voluntariness standard, but also that the causal connection between the statements and the illegal arrest is broken sufficiently to purge the primary taint of the illegal arrest in light of t.he distinct policies and interests of the Fourth Amendment. On remand from the New York Court of Appeals, the trial court granted petitioner's motion to suppress, but the Appellate Division of the New York Supreme Court reversed, holding that, although the police lacked probable cause to arrest petitioner, law enforcement officials may detain an individual upon reasonable suspicion for questioning for a reasonable period of time under carefully controlled conditions which are ample to protect the individual's Fifth and Sixth Amendment rights, and that, even if petitioner's detention were illegal, the taint of such detention was sufficiently attenuated to allow the admission of his statements and sketches.</p>
     <n id="p201">201</n>
     <p>Held:</p>
@@ -30,7 +30,7 @@
     <p>BRENNAN, J., delivered the opinion of the Court, in which STEWART, WHITE, MARSHALL, BLACKMUN, and STEVENS, JJ., joined. WHITE, J., post, p. <a href="./us442-0200.xml#p219">442 U. S. 219</a>, and STEVENS, J., post, p. <a href="./us442-0200.xml#p220">442 U. S. 220</a>, filed concurring opinions. REHNQUIST, J., filed a dissenting opinion in which BURGER, C.J., joined, post, p. <a href="./us442-0200.xml#p221">442 U. S. 221</a>. POWELL, J., took no part in the consideration or decision of the case.</p>
     <p>MR. JUSTICE BRENNAN delivered the opinion of the Court.</p>
     <p>We decide in this case the question reserved 10 years ago in Morales v. New York, <a href="../us396/us396-0102.xml#p102">396 U. S. 102</a> (1969), namely, "the question of the legality of custodial questioning on less than probable cause for a full-edged arrest." Id. at <a href="../us396/us396-0102.xml#p106">396 U. S. 106</a>.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>On March 26, 1971, the proprietor of a pizza parlor in Rochester, N.Y. was killed during an attempted robbery. On August 10, 1971, Detective Anthony Fantigrossi of the</p>
     <n id="p203">203</n>
     <p>Rochester Police was told by another officer that an informant had supplied a possible lead implicating petitioner in the crime. Fantigrossi questioned the supposed source of the lead -- a jail inmate awaiting trial for burglary -- but learned nothing that supplied "enough information to get a warrant" for petitioner's arrest. App. 60. [<a id="nf1" href="#fn1">Footnote 1</a>] Nevertheless, Fantigrossi ordered other detectives to "pick up" petitioner and "bring him in." Id. at 54. Three detectives located petitioner at a neighbor's house on the morning of August 11. Petitioner was taken into custody; although he was not told he was under arrest, he would have been physically restrained if he had attempted to leave. Opinion in People v. Dunaway (Monroe County Ct., Mar. 11, 1977), App. 116, 117. He was driven to police headquarters in a police car and placed in an interrogation room, where he was questioned by officers after being given the warnings required by Miranda v. Arizona, <a href="../us384/us384-0436.xml#p436">384 U. S. 436</a> (1966). Petitioner waived counsel, and eventually made statements and drew sketches that incriminated him in the crime. [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
@@ -51,7 +51,7 @@
     <p>"[l]aw enforcement officials may detain an individual upon reasonable suspicion for questioning for a reasonable and brief period of time under carefully controlled conditions which are ample to protect the individual's Fifth and Sixth Amendment rights."</p>
     <p>61 App.Div.2d 299, 302, 402 N.Y.S.2d 490, 492 (1978), quoting People v. Morales, 42 N.Y.2d 129, 135, 366 N.E.2d 248, 251 (1977). The Appellate Division also held that, even if petitioner's detention were illegal, the taint of his illegal detention was sufficiently attenuated to allow the admission of his statements and sketches. The Appellate Division emphasized that petitioner was never threatened or abused by the police, and purported to distinguish Brown v. Illinois. [<a id="nf5" href="#fn5">Footnote 5</a>] The Court of Appeals dismissed petitioner's application for leave to appeal. App. 134.</p>
     <p>We granted certiorari, 439 U.S. 979 (1978), to clarify the Fourth Amendment's requirements as to the permissible grounds for custodial interrogation and to review the New York court's application of Brown v. Illinois. We reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>We first consider whether the Rochester police violated the Fourth and Fourteenth Amendments when, without probable cause to arrest, they took petitioner into custody, transported</p>
     <n id="p207">207</n>
     <p>him to the police station, and detained him there for interrogation.</p>
@@ -99,7 +99,7 @@
     <p>"The impropriety of the arrest was obvious; awareness of the fact was virtually conceded by the two detectives when they repeatedly acknowledged, in their testimony, that the purpose of their action was 'for investigation' or for 'questioning.' . . . The arrest, both in design and in execution, was investigatory. The detectives embarked upon this expedition for evidence in the hope that something might turn up."</p>
     <p>Id. at <a href="../us422/us422-0590.xml#p605">422 U. S. 605</a>. See also id. at <a href="../us422/us422-0590.xml#p602">422 U. S. 602</a>.</p>
     <p>These passages from Davis and Brown reflect the conclusion that detention for custodial interrogation -- regardless of its label -- intrudes so severely on interests protected by the Fourth Amendment as necessarily to trigger the traditional safeguards against illegal arrest. We accordingly hold that the Rochester police violated the Fourth and Fourteenth Amendments when, without probable cause, they seized petitioner and transported him to the police station for interrogation.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>There remains the question whether the connection between this unconstitutional police conduct and the incriminating statements and sketches obtained during petitioner's illegal detention was nevertheless sufficiently attenuated to permit the use at trial of the statements and sketches. See Wong Sun v. United States, <a href="../us371/us371-0471.xml#p471">371 U. S. 471</a> (1963); Nardone v. United States, <a href="../us308/us308-0338.xml#p338">308 U. S. 338</a> (1939); Silverthorne Lumber Co. v. United States, <a href="../us251/us251-0385.xml#p385">251 U. S. 385</a> (1920).</p>
     <p>The New York courts have consistently held, and petitioner does not contest, that proper Miranda warnings were given and that his statements were "voluntary" for purposes of the Fifth Amendment. But Brown v. Illinois, supra, settled that</p>
     <n id="p217">217</n>
@@ -214,7 +214,7 @@
       <p>"decide . . . the question reserved 10 years ago in Morales v. New York, <a href="https://law.justia.com/us/396/102/">396 U. S. 102</a> (1969), namely, 'the question of the legality of custodial questioning on less than probable cause for a full-fledged arrest'"</p>
       <p>-- I would have little difficulty joining its opinion. The decision of this question, however, does not, contrary to the implication in the Court's opening sentence, decide this case. For the Court goes on to conclude that petitioner Dunaway was, in fact, "seized" within the meaning of the Fourth Amendment, and that the connection between Dunaway's purported detention and the evidence obtained therefrom was not sufficiently attenuated as to dissipate the taint of the alleged unlawful police conduct. Ante at <a href="./us442-0200.xml#p207">442 U. S. 207</a>, <a href="./us442-0200.xml#p216">442 U. S. 216</a>-219. I cannot agree with either conclusion, and accordingly, I dissent.</p>
       <n id="p222">222</n>
-      <h>I</h>
+      <h2>I</h2>
       <p>There is obviously nothing in the Fourth Amendment that prohibits police from calling from their vehicle to a particular individual on the street and asking him to come over and talk with them; nor is there anything in the Fourth Amendment that prevents the police from knocking on the door of a person's house and when the person answers the door, inquiring whether he is willing to answer questions that they wish to put to him. "Obviously, not all personal intercourse between policemen and citizens involves seizures' of persons." Terry v. Ohio, <a href="../us392/us392-0001.xml#p1">392 U. S. 1</a>, <a href="../us392/us392-0001.xml#p19">392 U. S. 19</a> n. 16 (1968). Voluntary questioning not involving any "seizure" for Fourth Amendment purposes may take place under any number of varying circumstances. And the occasions will not be few when a particular individual agrees voluntarily to answer questions that the police wish to put to him either on the street at the station, or in his house, and later regrets his willingness to answer those questions. However, such morning-after regrets do not render involuntary responses that were voluntary at the time they were made. In my view, this is a case where the defendant voluntarily accompanied the police to the station to answer their questions.</p>
       <p>In Terry v. Ohio, the Court set out the test for determining whether a person has been "seized" for Fourth Amendment purposes.</p>
       <p>"Only when the officer, by means of physical force or show of authority, has in some way restrained the liberty of a citizen may we conclude that a 'seizure' has occurred."</p>
@@ -224,7 +224,7 @@
       <p>The Court, however, categorically states in text that</p>
       <p>"[t] here can be little doubt that petitioner was 'seized' in the Fourth Amendment sense when he was taken involuntarily to the police station."</p>
       <p>Ante at <a href="./us442-0200.xml#p207">442 U. S. 207</a>. In an accompanying footnote, the Court states:</p>
-      <p>"Respondent contends that petitioner accompanied the police voluntarily, and therefore was not 'seized.' . . . The County Court found otherwise . . . , and the Appellate Division treated the case as an involuntary detention justified by reasonable suspicion."</p>
+      <p>"Respondent contends that petitioner accompanied the police voluntarily, and therefore was not 'seized.' . . . The County Court found otherwise . . ., and the Appellate Division treated the case as an involuntary detention justified by reasonable suspicion."</p>
       <p>Ante at <a href="./us442-0200.xml#p207">442 U. S. 207</a> n. 6. The Court goes on to cite a commentary from the Tentative Draft of the ALI Model Code of Pre-Arraignment Procedure to the effect that a</p>
       <p>"request to come to [the] police station 'may easily carry an implication of obligation, while the appearance itself, unless clearly stated to be voluntary, may be an awesome experience for the ordinary citizen.'"</p>
       <p>Ibid.</p>
@@ -237,7 +237,7 @@
       <p>Finally, the Court quotes the Model Code for Pre-Arraignment Procedure to support its assertion. Ante at <a href="./us442-0200.xml#p207">442 U. S. 207</a> n. 6. I do not dispute the fact that a police request to come to the station may indeed be an "awesome experience." But I do not think that that fact alone means that, in every instance where a person assents to a police request to come to headquarters, there has been a "seizure" within the meaning of the Fourth Amendment. The question turns on whether the officer's conduct is objectively coercive or physically threatening, not on the mere fact that a person might in some measure feel cowed by the fact that a request is made by a police officer. Cf. Oregon v. Mathiason, <a href="../us429/us429-0492.xml#p492">429 U. S. 492</a>, <a href="../us429/us429-0492.xml#p495">429 U. S. 495</a> (1977). [Footnote 3/1]</p>
       <n id="p225">225</n>
       <p>Therefore, although I agree that the police officers in this case did not have that degree of suspicion or probable cause that would have justified them in physically compelling petitioner to accompany them to the police station for questioning, I do not believe that the record demonstrates as a fact that this is what happened. No involuntary detention for questioning was shown to have taken place. The Fourth Amendment, accordingly, does not require suppression of petitioner's statements.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>Assuming, arguendo, that there was a "seizure" in this case, I still cannot agree with the Court that the Fourth Amendment requires suppression of petitioner's statements and sketches. Relying on Brown v. Illinois, <a href="../us422/us422-0590.xml#p590">422 U. S. 590</a> (1975), the Court concludes that this evidence must be suppressed, primarily, it seems, because no intervening events broke the connection between petitioner's detention and his confession. Ante at <a href="./us442-0200.xml#p219">442 U. S. 219</a>. In my view, the connection between petitioner's allegedly unlawful detention and the incriminating statements and sketches is sufficiently attenuated to permit their use at trial. See Wong Sun v. United States, <a href="../us371/us371-0471.xml#p471">371 U. S. 471</a> (1963).</p>
       <n id="p226">226</n>
       <p>In Brown v. Illinois, supra, we identified several factors to be considered in determining whether inculpatory statements were sufficiently a product of free will to be admissible under the Fourth Amendment. The voluntariness of the statements is a threshold requirement. That Miranda warnings are given is "an important factor." 422 U.S. at <a href="../us422/us422-0590.xml#p603">422 U. S. 603</a>-604. Also relevant are</p>

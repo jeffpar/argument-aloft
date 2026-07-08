@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us501-0797.html" citation="501 U.S. 797" title="Ylst v. Nunnemaker">
   <opinion type="Opinions &amp; Dissents">
     <n id="p797">797</n>
-    <h>U.S. Supreme Court</h>
-    <h>Ylst v. Nunnemaker, <a href="./us501-0797.xml#p797">501 U.S. 797</a> (1991)</h>
-    <h>Ylst v. Nunnemaker</h>
-    <h>No. 90-68</h>
-    <h>Argued March 19, 1991</h>
-    <h>Decided June 24, 1991</h>
-    <h><a href="./us501-0797.xml#p797">501 U.S. 797</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Ylst v. Nunnemaker, <a href="./us501-0797.xml#p797">501 U.S. 797</a> (1991)</h1>
+    <h2>Ylst v. Nunnemaker</h2>
+    <h2>No. 90-68</h2>
+    <h4>Argued March 19, 1991</h4>
+    <h4>Decided June 24, 1991</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Following his California murder conviction, respondent raised a Miranda claim for the first time on direct appeal, in violation of a state procedural rule. In affirming the conviction, the State Court of Appeal rejected the claim on the sole basis of the procedural bar. After successive petitions for collateral relief were denied without opinion by the State Superior Court and Court of Appeal, respondent filed a habeas petition in the State Supreme Court, which denied relief without opinion or explanation, citing its decisions in In re Swain and In re Waltreus. When the State Supreme Court denied, without opinion or citation, a second habeas petition to it, respondent filed a habeas petition raising the Miranda claim in Federal District Court. That court found that the state procedural default barred federal review, but the Court of Appeals reversed this determination. Relying on this Court's statement in Harris v. Reed, <a href="../us489/us489-0255.xml#p255">489 U. S. 255</a>, <a href="../us489/us489-0255.xml#p263">489 U. S. 263</a>, that state procedural default bars federal review only when the state court clearly and expressly states its reliance on that ground, the court held that the State Supreme Court's "silent denial" of respondent's second state habeas petition lifted the procedural bar imposed on direct review.</p>
     <p>Held: A state court's unexplained denial of a habeas petition raising federal claims is not sufficient, for purposes of federal review, to lift a procedural bar imposed on direct appeal. Pp. <a href="./us501-0797.xml#p801">501 U. S. 801</a>-806.</p>
     <p>(a) The Court of Appeals erred in applying a presumption that, when a state court denies a federal claim without explicit reliance on state grounds, the merits of the federal claim are the basis for the judgment. The Harris presumption in favor of federal review is to be applied only after it has been determined that "the relevant state court decision . . . fairly appear[s] to rest primarily on federal law or [is] interwoven with [federal] law." Coleman v. Thompon, ante at <a href="./us501-0722.xml#p740">501 U. S. 740</a>. P. <a href="./us501-0797.xml#p802">501 U. S. 802</a>.</p>
@@ -24,7 +24,7 @@
     <n id="p799">799</n>
     <p>JUSTICE SCALIA delivered the opinion of the Court.</p>
     <p>In this case, we decide whether the unexplained denial of a petition for habeas corpus by a state court lifts a state procedural bar imposed on direct appeal, so that a state prisoner may then have his claim heard on the merits in a federal habeas proceeding.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In 1975, respondent Nunnemaker was tried in California state court for murder. He raised a defense of diminished capacity and introduced psychiatric testimony in support. In response, the State introduced -- without objection from respondent -- the testimony of a psychiatrist based upon a custodial interview. The jury found respondent guilty. He appealed, claiming for the first time that the State's psychiatric testimony was inadmissible because the interview had not been preceded by a Miranda warning, see Miranda v. Arizona, <a href="../us384/us384-0436.xml#p436">384 U. S. 436</a> (1966). In addition, he alleged that his attorney's failure to object to the psychiatric testimony amounted to ineffective assistance of counsel, and raised other claims not relevant here.</p>
     <p>The California Court of Appeal affirmed the conviction. The sole basis for its rejection of the Miranda claim was the state procedural rule that "an objection based upon a Miranda violation cannot be raised for the first time on appeal." App. 15. See People v. Bennett, <a href="https://law.justia.com/cases/california/court-of-appeal/3d/60/112.html">60 Cal. App. 3d 112</a>, 116, 131 Cal. Rptr. 305, 306-307 (1976); In re Dennis M., <a href="https://law.justia.com/cases/california/supreme-court/2d/70/444.html">70 Cal. 2d 444</a>, 461-462, 450 P.2d 296, 306-307 (1969). The California Supreme Court denied discretionary review on September 27, 1978.</p>
     <n id="p800">800</n>
@@ -33,7 +33,7 @@
     <p>Respondent then filed a second petition for habeas relief in the Northern District of California, raising the Miranda claim and the ineffectiveness claim. The court rejected the ineffectiveness claim on the merits. As to the Miranda claim, the court found that respondent's state procedural default barred federal review. Respondent appealed. The Court of Appeals for the Ninth Circuit reversed in part. The court agreed that the ineffective assistance claim was</p>
     <n id="p801">801</n>
     <p>meritless. However, relying upon our intervening opinion in Harris v. Reed, <a href="../us489/us489-0255.xml#p255">489 U. S. 255</a> (1989), the court held that the California Supreme Court's "silent denial" of respondent's second state habeas petition to that court lifted the procedural bar arising from the decision on direct review. Specifically, the Ninth Circuit held that, because the California Supreme Court did not "clearly and expressly state its reliance on Nunnemaker's procedural default," the federal court could not say that the Supreme Court's order "was based on a procedural default, rather than on the underlying merits of Nunnemaker's claims." 904 F.2d 473, 476 (1990). We granted certiorari, 498 U.S. 957 (1990).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The last state court to render a judgment on the Miranda claim as of 1978, the California Court of Appeal, expressly found a procedural default. When a state law default prevents the state court from reaching the merits of a federal claim, that claim can ordinarily not be reviewed in federal court. Wainwright v. Sykes, <a href="../us433/us433-0072.xml#p72">433 U. S. 72</a>, <a href="../us433/us433-0072.xml#p87">433 U. S. 87</a>-88 (1977); Murray v. Carrier, <a href="../us477/us477-0478.xml#p478">477 U. S. 478</a>, <a href="../us477/us477-0478.xml#p485">477 U. S. 485</a>-492 (1986). Thus, had respondent proceeded to federal habeas on the basis of the Miranda claim upon completing his direct review in 1978, federal review would have been barred by the state law procedural default.</p>
     <p>State procedural bars are not immortal, however; they may expire because of later actions by state courts. If the last state court to be presented with a particular federal claim reaches the merits, it removes any bar to federal court review that might otherwise have been available. See Harris, supra at <a href="../us489/us489-0255.xml#p262">489 U. S. 262</a>. We consider, therefore, whether the California Supreme Court's unexplained order denying his second habeas petition to that court, which according to the Ninth Circuit sought relief on the basis of his Miranda claim, constituted a "decision on the merits" of that claim sufficient to lift the procedural bar imposed on direct appeal.</p>
     <n id="p802">802</n>

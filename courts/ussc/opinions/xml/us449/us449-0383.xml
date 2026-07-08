@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us449-0383.html" citation="449 U.S. 383" title="Upjohn Co. v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p383">383</n>
-    <h>U.S. Supreme Court</h>
-    <h>Upjohn Co. v. United States, <a href="./us449-0383.xml#p383">449 U.S. 383</a> (1981)</h>
-    <h>Upjohn Co. v. United States</h>
-    <h>No. 79-886</h>
-    <h>Argued November 5, 1980</h>
-    <h>Decided January 13, 1981</h>
-    <h><a href="./us449-0383.xml#p383">449 U.S. 383</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SIXTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Upjohn Co. v. United States, <a href="./us449-0383.xml#p383">449 U.S. 383</a> (1981)</h1>
+    <h2>Upjohn Co. v. United States</h2>
+    <h2>No. 79-886</h2>
+    <h4>Argued November 5, 1980</h4>
+    <h4>Decided January 13, 1981</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SIXTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>When the General Counsel for petitioner pharmaceutical manufacturing corporation (hereafter petitioner) was informed that one of its foreign subsidiaries had made questionable payments to foreign government officials in order to secure government business, an internal investigation of such payments was initiated. As part of this investigation, petitioner's attorneys sent a questionnaire to all foreign managers seeking detailed information concerning such payments, and the responses were returned to the General Counsel. The General Counsel and outside counsel also interviewed the recipients of the questionnaire and other company officers and employees. Subsequently, based on a report voluntarily submitted by petitioner disclosing the questionable payments, the Internal Revenue Service (IRS) began an investigation to determine the tax consequences of such payments and issued a summons pursuant to 26 U.S.C. § 762 demanding production of, inter alia, the questionnaires and the memoranda and notes of the interviews. Petitioner refused to produce the documents on the grounds that they were protected from disclosure by the attorney-client privilege and constituted the work product of attorneys prepared in anticipation of litigation. The United States then filed a petition in Federal District Court seeking enforcement of the summons. That court adopted the Magistrate's recommendation that the summons should be enforced, the Magistrate having concluded, inter alia, that the attorney-client privilege had been waived, and that the Government had made a sufficient showing of necessity to overcome the protection of the work product doctrine. The Court of Appeals rejected the Magistrate's finding of a waiver of the attorney-client privilege, but held that, under the so-called "control group test," the privilege did not apply</p>
     <p>"[t]o the extent that the communications were made by officers and agents not responsible for directing [petitioner's] actions in response to legal advice . . . for the simple reason that the communications were not the 'client's'.'"</p>
     <p>The court also held that the work product doctrine did not apply to IRS summonses.</p>
@@ -33,7 +33,7 @@
     <n id="p386">386</n>
     <p>JUSTICE REHNQUIST delivered the opinion of the Court.</p>
     <p>We granted certiorari in this case to address important questions concerning the scope of the attorney-client privilege in the corporate context and the applicability of the work product doctrine in proceedings to enforce tax summonses. 445 U.S. 925. With respect to the privilege question, the parties and various amici have described our task as one of choosing between two "tests" which have gained adherents in the courts of appeals. We are acutely aware, however, that we sit to decide concrete cases, and not abstract propositions of law. We decline to lay down a broad rule or series of rules to govern all conceivable future questions in this area, even were we able to do so. We can and do, however, conclude that the attorney-client privilege protects the communications involved in this case from compelled disclosure, and that the work product doctrine does apply in tax summons enforcement proceedings.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Petitioner Upjohn Co. manufactures and sells pharmaceuticals here and abroad. In January, 1976, independent accountants conducting an audit of one of Upjohn's foreign subsidiaries discovered that the subsidiary made payments to or for the benefit of foreign government officials in order to secure government business. The accountants so informed petitioner Mr. Gerard Thomas, Upjohn's Vice President, Secretary, and General Counsel. Thomas is a member of the Michigan and New York Bars, and has been Upjohn's General Counsel for 20 years. He consulted with outside counsel and R. T. Parfet, Jr., Upjohn's Chairman of the Board. It was decided that the company would conduct an internal investigation of what were termed "questionable payments." As part of this investigation, the attorneys prepared a letter containing a questionnaire which was sent to "All Foreign General and Area Managers" over the Chairman's signature. The letter</p>
     <n id="p387">387</n>
     <p>began by noting recent disclosures that several American companies made "possibly illegal" payments to foreign government officials, and emphasized that the management needed full information concerning any such payments made by Upjohn. The letter indicated that the Chairman had asked Thomas, identified as "the company's General Counsel,"</p>
@@ -45,11 +45,11 @@
     <p>contributions made by the Upjohn Company or any of its affiliates since January 1, 1971, and to determine whether any funds of the Upjohn Company had been improperly accounted for on the corporate books during the same period."</p>
     <p>"The records should include but not be limited to written questionnaires sent to managers of the Upjohn Company's foreign affiliates, and memorandums or notes of the interviews conducted in the United States and abroad with officers and employees of the Upjohn Company and its subsidiaries."</p>
     <p>App. 17a-18a. The company declined to produce the documents specified in the second paragraph on the grounds that they were protected from disclosure by the attorney-client privilege and constituted the work product of attorneys prepared in anticipation of litigation. On August 31, 1977, the United States filed a petition seeking enforcement of the summons under 26 U.S.C. § 7402(b) and 7604(a) in the United States District Court for the Western District of Michigan. That court adopted the recommendation of a Magistrate who concluded that the summons should be enforced. Petitioners appealed to the Court of Appeals for the Sixth Circuit, which rejected the Magistrate's finding of a waiver of the attorney-client privilege, 600 F.2d 1223, 1227, n. 12, but agreed that the privilege did not apply</p>
-    <p>"[t]o the extent that the communications were made by officers and agents not responsible for directing Upjohn's actions in response to legal advice . . . , for the simple reason that the communications were not the 'client's.'"</p>
+    <p>"[t]o the extent that the communications were made by officers and agents not responsible for directing Upjohn's actions in response to legal advice . . ., for the simple reason that the communications were not the 'client's.'"</p>
     <p>Id. at 1225. The court reasoned that accepting petitioners' claim for a broader application of the privilege would encourage upper-echelon management to ignore unpleasant facts and create too broad a "zone of silence." Noting that Upjohn's counsel had interviewed officials such as the Chairman and President, the Court of Appeals remanded to the District Court so that a determination of who was</p>
     <n id="p389">389</n>
     <p>within the "control group" could be made. In a concluding footnote, the court stated that the work product doctrine "is not applicable to administrative summonses issued under 26 U.S.C. § 7602." Id. at 1228, n. 13.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Federal Rule of Evidence 501 provides that</p>
     <p>"the privilege of a witness . . . shall be governed by the principles of the common law as they may be interpreted by the courts of the United States in light of reason and experience."</p>
     <p>The attorney-client privilege is the oldest of the privileges for confidential communications known to the common law. 8 J. Wigmore, Evidence § 2290 (McNaughton rev.1961). Its purpose is to encourage full and frank communication between attorneys and their clients, and thereby promote broader public interests in the observance of law and administration of justice. The privilege recognizes that sound legal advice or advocacy serves public ends and that such advice or advocacy depends upon the lawyer's being fully informed by the client. As we stated last Term in Trammel v. United States, <a href="../us445/us445-0040.xml#p40">445 U. S. 40</a>, <a href="../us445/us445-0040.xml#p51">445 U. S. 51</a> (1980):</p>
@@ -89,7 +89,7 @@
     <p>Needless to say, we decide only the case before us, and do not undertake to draft a set of rules which should govern challenges to investigatory subpoenas. Any such approach would violate the spirit of Federal Rule of Evidence 501. See S.Rep. No. 93-1277, p. 13 (1974) ("the recognition of a privilege based on a confidential relationship . . . should be determined on a case-by-case basis"); Trammel, 445 U.S. at <a href="../us445/us445-0040.xml#p47">445 U. S. 47</a>; United States v. Gillock, <a href="../us445/us445-0360.xml#p360">445 U. S. 360</a>, <a href="../us445/us445-0360.xml#p367">445 U. S. 367</a> (1980). While such a "case-by-case" basis may to some slight extent undermine desirable certainty in the boundaries of the attorney-client</p>
     <n id="p397">397</n>
     <p>privilege, it obeys the spirit of the Rules. At the same time, we conclude that the narrow "control group test" sanctioned by the Court of Appeals in this case cannot, consistent with "the principles of the common law as . . . interpreted . . . in the light of reason and experience," Fed.Rule Evid. 501, govern the development of the law in this area.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Our decision that the communications by Upjohn employees to counsel are covered by the attorney-client privilege disposes of the case so far as the responses to the questionnaires and any notes reflecting responses to interview questions are concerned. The summons reaches further, however, and Thomas has testified that his notes and memoranda of interviews go beyond recording responses to his questions. App. 27a-28a, 91a-93a. To the extent that the material subject to the summons is not protected by the attorney-client privilege as disclosing communications between an employee and counsel, we must reach the ruling by the Court of Appeals that the work product doctrine does not apply to summonses issued under 26 U.S.C. § 7602. [<a id="nf6" href="#fn6">Footnote 6</a>]</p>
     <p>The Government concedes, wisely, that the Court of Appeals erred and that the work product doctrine does apply to IRS summonses. Brief for Respondents 16, 48. This doctrine was announced by the Court over 30 years ago in Hickman v. Taylor, <a href="../us329/us329-0495.xml#p495">329 U. S. 495</a> (1947). In that case, the Court rejected</p>
     <p>"an attempt, without purported necessity or justification, to secure written statements, private memoranda and personal recollections prepared or formed by an adverse party's counsel in the course of his legal duties."</p>

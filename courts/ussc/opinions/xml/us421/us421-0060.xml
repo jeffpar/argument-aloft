@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us421-0060.html" citation="421 U.S. 60" title="Train v. NRDC, Inc.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p60">60</n>
-    <h>U.S. Supreme Court</h>
-    <h>Train v. NRDC, Inc., <a href="./us421-0060.xml#p60">421 U.S. 60</a> (1975)</h>
-    <h>Train v. Natural Resources Defense Council, Inc.</h>
-    <h>No. 73-1742</h>
-    <h>Argued January 15, 1975</h>
-    <h>Decided April 16, 1975</h>
-    <h><a href="./us421-0060.xml#p60">421 U.S. 60</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE FIFTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Train v. NRDC, Inc., <a href="./us421-0060.xml#p60">421 U.S. 60</a> (1975)</h1>
+    <h2>Train v. Natural Resources Defense Council, Inc.</h2>
+    <h4>No. 73-1742</h4>
+    <h4>Argued January 15, 1975</h4>
+    <h4>Decided April 16, 1975</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE FIFTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Under the Clean Air Amendments of 1970, which establish a program for controlling air pollution, the Environmental Protection Agency (EPA) is required to set "ambient air" quality standards which, in the EPA's judgment, are "requisite to protect the public health," § 109(b)(1) ("primary" standards), and</p>
     <p>"requisite to protect the public welfare from any known or anticipated adverse effects associated with the presence of such air pollutant in the ambient air,"</p>
     <p>§ 109(b)(2) ("secondary" standards). Each State, after promulgation of these standards, must submit an implementing and maintenance plan, which must be approved by the EPA if, inter alia, it meets eight general conditions set forth in § 110(a)(2), the principal one of which is that the plan provide for the attainment of the national primary ambient air quality standards in the State "as expeditiously as practicable," but no later than three years from the date of the plan's approval. § 110(a)(2)(A). The State's plan must include emission limitations, schedules, compliance timetables, and other measures insuring timely attainment and subsequent maintenance of the national standards. In order to develop the requisite plan within the statutory deadline, Georgia elected to follow an EPA-endorsed approach providing for immediately effective categorical emission limitations accompanied, however, by a variance procedure whereby particular sources could obtain individually tailored relief from the general requirements. Section 110(a)(3) provides that the EPA shall approve any "revision" of an implementation plan that meets the § 110(a)(2) requirements applicable to an original plan, and the EPA, concluding that that provision permits a State to grant individual variances meeting § 110(a)(2) requirements from generally applicable emission standards, both before and after the attainment date, approved the Georgia plan. Respondents initiated review proceedings in the Court of Appeals, taking the position that variances applicable to individual sources may be approved only if they meet the much</p>
@@ -32,7 +32,7 @@
     <n id="p63">63</n>
     <p>MR. JUSTICE REHNQUIST delivered the opinion of the Court.</p>
     <p>We granted certiorari in this case, 419 U.S. 823 (1974), to review a judgment of the Court of Appeals for the Fifth Circuit which required petitioner Administrator of the Environmental Protection Agency to disapprove a portion of the implementation plan submitted to him by the State of Georgia pursuant to the Clean Air Amendments of 1970. [<a id="nf1" href="#fn1">Footnote 1</a>] The case presents an issue of statutory construction which is illuminated by the anatomy of the statute itself, by its legislative history, and by the history of congressional efforts to control air pollution.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Congress initially responded to the problem of air pollution by offering encouragement and assistance to the States. In 1955, the Surgeon General was authorized to study the problem of air pollution, to support research, training, and demonstration projects, and to provide technical assistance to state and local governments attempting to abate pollution. 69 Stat. 322. In 1960, Congress directed the Surgeon General to focus his attention on the health hazards resulting from motor vehicle emissions. Pub.L. 86-493, 74 Stat. 162. The Clean Air Act of 1963, 77 Stat. 392, authorized federal authorities to expand their research efforts, to make grants to state air pollution</p>
     <n id="p64">64</n>
     <p>control agencies, and also to intervene directly to abate interstate pollution in limited circumstances. Amendments in 1965, § 101, 79 Stat. 992, and in 1966, 80 Stat. 954, broadened federal authority to control motor vehicle emissions and to make grants to state pollution control agencies.</p>
@@ -56,7 +56,7 @@
     <p>Georgia chose the Agency's preferred approach. [<a id="nf5" href="#fn5">Footnote 5</a>] Its plan provided for immediately effective categorical emission limitations, but also incorporated a variance procedure whereby particular sources could obtain individually tailored relief from general requirements. This variance provision, Ga.Code Ann. 88-912 (1971), [<a id="nf6" href="#fn6">Footnote 6</a>] was one of the</p>
     <n id="p70">70</n>
     <p>bases upon which the Agency's approval of the Georgia plan was successfully challenged by respondents in the Court of Appeals. It is the only aspect of that court's decision as to which the Agency petitioned for certiorari.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The Agency's approval of Georgia's variance provision was based on its interpretation of § 110(a)(3), [<a id="nf7" href="#fn7">Footnote 7</a>] which provides that the Agency shall approve any revision of an implementation plan which meets the § 110(a)(2) requirements applicable to an original plan. The Agency concluded that § 110(a)(3) permits a State to grant individual variances from generally applicable emission standards, both before and after the attainment date, so long as the variance does not cause the plan to fail to comply with the requirements of § 110(a)(2). Since that section requires, inter alia, that primary ambient air standards be attained by a particular date, it is of some consequence under this approach whether the period for which the variance is sought extends beyond that date. If it does not, the practical effect of treating such pre-attainment date variances as revisions is that they can be granted rather freely.</p>
     <p>This interpretation of § 110(a)(3) was incorporated in the Agency's original guidelines for implementation</p>
     <n id="p71">71</n>
@@ -80,7 +80,7 @@
     <n id="p75">75</n>
     <p>base our decision on its interpretation of § 110(a)(3), the decision would support the approval of implementation plans which provide for variances effective after the attainment date.</p>
     <p>The disparity among the Courts of Appeals rather strongly indicates that the question does not admit of an easy answer. Without going so far as to hold that the Agency's construction of the Act was the only one it permissibly could have adopted, we conclude that it was, at the very least, sufficiently reasonable that it should have been accepted by the reviewing courts.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Both of the sections in controversy are contained in § 110 of the amended Clean Air Act, which is entitled "Implementation Plans." Section 110(a)(3) provides in pertinent part:</p>
     <p>"(A) The Administrator shall approve any revision of an implementation plan applicable to an air quality control region if he determines that it meets the requirement of paragraph (2) and has been adopted by the State after reasonable notice and public hearings."</p>
     <p>Section 110(f) provides:</p>
@@ -126,7 +126,7 @@
     <p>We believe that the foregoing analysis of the structure and legislative history of the Clean Air Amendments shows that Congress intended to impose national ambient air standards to be attained within a specific period of time. It also shows that, in §§ 110(e) and (f), Congress carefully limited the circumstances in which timely attainment and subsequent maintenance of these standards could be compromised. We also believe that Congress, consistent with its declaration that "[e]ach State</p>
     <n id="p87">87</n>
     <p>shall have the primary responsibility for assuring air quality" within its boundaries, § 107(a), left to the States considerable latitude in determining specifically how the standards would be met. This discretion includes the continuing authority to revise choices about the mix of emission limitations. We therefore conclude that the Agency's interpretation of §§ 110(a)(3) and 110(f) was "correct," to the extent that it can be said with complete assurance that any particular interpretation of a complex statute such as this is the "correct" one. Given this conclusion, as well as the facts that the Agency is charged with administration of the Act, and that there has undoubtedly been reliance upon its interpretation by the States and other parties affected by the Act, we have no doubt whatever that its construction was sufficiently reasonable to preclude the Court of Appeals from substituting its judgment for that of the Agency. Udall v. Tallman, <a href="../us380/us380-0001.xml#p1">380 U. S. 1</a>, <a href="../us380/us380-0001.xml#p16">380 U. S. 16</a>-18 (1965); McLaren v. Fleischer, <a href="../us256/us256-0477.xml#p477">256 U. S. 477</a>, <a href="../us256/us256-0477.xml#p480">256 U. S. 480</a>-481 (1921). We are not persuaded to the contrary by any of the arguments advanced by respondents or by the Courts of Appeals which have rejected § 110(a)(3) as authority for granting variances. To these various arguments we now turn.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>The principal basis on which the Fifth Circuit rejected the Agency's view of the revision and postponement sections was its analysis of their language. The court focused first on the fact that § 110(f) speaks in terms of "any stationary source," and of the postponement of "any requirement of an applicable implementation plan." (Emphasis added.) This language, according to the Fifth Circuit, belies the Agency's contention that the postponement section is inapplicable to those variances which do not jeopardize the attainment or maintenance</p>
     <n id="p88">88</n>
     <p>of national standards. The court went on to state, without citation or supporting reasoning:</p>
@@ -152,7 +152,7 @@
     <p>We are further impressed that the Agency itself has displayed no concern for the purported administrative difficulty of treating variances as revisions. Ordinarily, an agency may be assumed capable of meeting the responsibilities which it contends are placed upon it. Were respondents able to make a contrary showing, that fact might have some weight in interpreting Congress' intent, although we would doubt its relevance unless Congress were also shown to have been aware of the problem when it drafted legislation which otherwise is consistent with the Agency's contentions. Respondents have made no such showings. The judgments which the Agency must make when passing on variances under § 110(a)(3) are whether the ambient air complies with national standards, and, if so, whether a proposed variance would cause a plan to fail to insure maintenance of those standards. These judgments are little different from those which the Agency had to make when it approved the initial plans into which respondents seek to have the States frozen. In each instance, the Agency must measure the existing level of pollution, compare it with the national standards, and determine the effect on this comparison of specified emission modifications. [<a id="nf28" href="#fn28">Footnote 28</a>] That Congress is of the opinion</p>
     <n id="p94">94</n>
     <p>that the Agency can feasibly and reliably perform these functions is manifest not only in its 1970 legislation, but also in a 1974 amendment designed to conserve energy. The amendment provides that the Agency should report to each State on whether its implementation plan could be revised in relation to fuel burning stationary sources, "without interfering with the attainment and maintenance of any national ambient air quality standard." § 110(a)(3)(b) of the Clean Air Act, as added, 88 Stat. 256, 42 U.S.C. § 1857c-5(a)(3)(B) (1970 ed., Supp. IV). (Emphasis added.)</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>Respondents have put forward several additional arguments which have not been specifically adopted by any court of appeals. The first is based on legislative history. Respondents focus on the fact that, while the Conference Committee accepted the Senate's concept of a three-year maximum deadline for attainment of national standards,</p>
     <n id="p95">95</n>
     <p>it also strengthened the Senate's provision by specifying that attainment should be achieved "as expeditiously as practicable, but . . . in no case later than three years." (Emphasis added.) Respondents further make the contention that the Conference Committee altered the Senate's version of the postponement provision to "provide that a source's attempt to delay compliance with any requirement' of a State Plan would be considered a `postponement.'" Brief for Respondents 36. According to respondents, the latter change "was necessary to conform" the postponement provision with the Conference Committee's "as expeditiously as practicable" requirement. [<a id="nf29" href="#fn29">Footnote 29</a>]</p>
@@ -166,7 +166,7 @@
     <n id="p98">98</n>
     <p>a State's plan must provide a mechanism for revision to take account of revised national standards, of more expeditious methods of achieving the standards, and of Agency determinations that a plan is substantially inadequate.</p>
     <p>The argument is specious. Section 110(a)(2)(H) does nothing more than impose a minimum requirement that state plans be capable of such modifications as are necessary to meet the basic goal of cleansing the ambient air to the extent necessary to protect public health, as expeditiously as practicable within a three-year period. The section in no way prevents the States from also permitting ameliorative revisions which do not compromise the basic goal. Nor does it, by requiring a particular type of revision, preclude those of a different type. As we have already noted, § 110(a)(3) requires the Agency to approve "any revision" which is consistent with § 110(a)(2)'s minimum standards for an initial plan, and which the State adopted after reasonable public notice and hearing; no other restrictions whatsoever are placed on the Agency's duty to approve revisions. [<a id="nf32" href="#fn32">Footnote 32</a>]</p>
-    <h>VI</h>
+    <h2>VI</h2>
     <p>For the foregoing reasons, the Court of Appeals for the Fifth Circuit was in error when it concluded that the postponement provision of § 110(f) is the sole method by which may be obtained specific ameliorative modifications</p>
     <n id="p99">99</n>
     <p>of state implementation plans. The Agency had properly concluded that the revision mechanism of § 110(a)(3) is available for the approval of those variances which do not compromise the basic statutory mandate that, with carefully circumscribed exceptions, the national primary ambient air standards be attained in not more than three years, and maintained thereafter. To the extent that the judgment of the Court of Appeals for the Fifth Circuit was to the contrary, it is reversed, and the cause is remanded for further proceedings consistent with this opinion.</p>

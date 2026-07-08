@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us124-0333.html" citation="124 U.S. 333" title="State National Bank of Springfield v. Dodge">
   <opinion type="Opinions &amp; Dissents">
     <n id="p333">333</n>
-    <h>U.S. Supreme Court</h>
-    <h>State National Bank of Springfield v. Dodge, <a href="./us124-0333.xml#p333">124 U.S. 333</a> (1888)</h>
-    <h>State National Bank of Springfield v. Dodge</h>
-    <h>Submitted January 9, 1888</h>
-    <h>Decided January 23, 1888</h>
-    <h><a href="./us124-0333.xml#p333">124 U.S. 333</a></h>
-    <h>ERROR TO THE CIRCUIT COURT OF THE UNITED</h>
-    <h>STATES FOR THE SOUTHERN DISTRICT OF ILLINOIS</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>State National Bank of Springfield v. Dodge, <a href="./us124-0333.xml#p333">124 U.S. 333</a> (1888)</h1>
+    <h2>State National Bank of Springfield v. Dodge</h2>
+    <h4>Submitted January 9, 1888</h4>
+    <h4>Decided January 23, 1888</h4>
+    <h2>ERROR TO THE CIRCUIT COURT OF THE UNITED</h2>
+    <h2>STATES FOR THE SOUTHERN DISTRICT OF ILLINOIS</h2>
+    <h2>Syllabus</h2>
     <p>A district court of the United States deposited in a national bank bankruptcy moneys which were entered by the bank to the credit of the court in an account with the court. Each entry of a deposit in the books of the bank and in the deposit book of the court had opposite to it a number consisting of four figures, which the bank understood to indicate a particular case in bankruptcy -- in the present instance, No. 2105. A check was drawn on the bank by the court to pay a dividend in case No. 2105. Payment of it was refused by the bank on the ground that it had no money on deposit to the credit of the court, it having paid out all money deposited by the court. Some of such money deposited with the number 2105 had been paid out by the bank on checks drawn bearing another number than 2105. There was enough money deposited with the number 2105, and not paid out on checks bearing the number 2105, to pay the check in question. In a suit against the bank by the payee in such check to recover the amount of the dividend, held that the bank was not liable.</p>
     <p>At law. The case is stated in the opinion of the Court.</p>
     <p>MR. JUSTICE BLATCHFORD delivered the opinion of the Court.</p>
@@ -55,10 +55,10 @@
     <p>"8. That the orders drawn by the court on the bank for funds in bankruptcy cases were in the following form, the blanks being filled out to suit each case:"</p>
     <p>"Check No. ___ Case ___"</p>
     <p>"</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>N THE DISTRICT COURT OF THE UNITED STATES" "FOR THE SOUTHERN DISTRICT OF ILLINOIS"</p>
     <p>"</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>n the Matter of _____ _____, Bankrupt" "SPRINGFIELD, ILLS., _____, 188_"</p>
     <p>"The State National Bank, U.S. Depository"</p>
     <p>"Pay to the order of _____ _____ _____ dollars, being in full for the dividend of ___ percent declared _____, 188_, on _____ claim for $_____, proven against said bankrupt estate."</p>

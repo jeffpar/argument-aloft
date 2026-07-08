@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us460-0073.html" citation="460 U.S. 73" title="Connecticut v. Johnson">
   <opinion type="Opinions &amp; Dissents">
     <n id="p73">73</n>
-    <h>U.S. Supreme Court</h>
-    <h>Connecticut v. Johnson, <a href="./us460-0073.xml#p73">460 U.S. 73</a> (1983)</h>
-    <h>Connecticut v. Johnson, <a href="./us460-0073.xml#p73">460 U.S. 73</a> (1983)</h>
-    <h>No. 81-927</h>
-    <h>Argued October 13, 1982</h>
-    <h>Decided February 23, 1983</h>
-    <h><a href="./us460-0073.xml#p73">460 U.S. 73</a></h>
-    <h>CERTIORARI TO THE SUPREME COURT OF CONNECTICUT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Connecticut v. Johnson, <a href="./us460-0073.xml#p73">460 U.S. 73</a> (1983)</h1>
+    <h1>Connecticut v. Johnson, <a href="./us460-0073.xml#p73">460 U.S. 73</a> (1983)</h1>
+    <h2>No. 81-927</h2>
+    <h4>Argued October 13, 1982</h4>
+    <h4>Decided February 23, 1983</h4>
+    <h2>CERTIORARI TO THE SUPREME COURT OF CONNECTICUT</h2>
+    <h2>Syllabus</h2>
     <p>Upon a jury trial in a Connecticut state court, respondent was convicted of all the charges under a multicount information, including charges of attempted murder and robbery. The trial court's general instructions to the jury included an instruction that</p>
     <p>"a person's intention may be inferred from his conduct and every person is conclusively presumed to intend the natural and necessary consequences of his act."</p>
     <p>In specific instructions on the elements of each crime, the charge as to attempted murder again referred to a conclusive presumption of intent, but the instructions on robbery did not contain any further discussion of intent. While respondent's appeal was pending, this Court decided Sandstrom v. Montana, <a href="../us442/us442-0510.xml#p510">442 U. S. 510</a>, which held that the Due Process Clause of the Fourteenth Amendment was violated by a jury instruction that "the law presumes that a person intends the ordinary consequences of his voluntary acts," because a reasonable juror might have viewed it as creating a conclusive presumption of intent or as shifting the burden of proof as to intent. Sandstrom left open the question whether, if a jury is so instructed, the error can ever be harmless. Thereafter, the Connecticut Supreme Court, while affirming respondent's convictions on other counts in the information, reversed his convictions for attempted murder and robbery. Without discussing the State's argument that the Sandstrom violation was harmless, the court concluded that the unconstitutional "conclusive presumption" language in the general instructions was not cured by the specific instructions on attempted murder and robbery.</p>
@@ -24,7 +24,7 @@
     <p>In Sandstrom v. Montana, <a href="../us442/us442-0510.xml#p510">442 U. S. 510</a> (1979), this Court held that the Due Process Clause of the Fourteenth Amendment was violated by a jury instruction that "the law presumes</p>
     <n id="p75">75</n>
     <p>that a person intends the ordinary consequences of his voluntary acts." Id. at <a href="../us442/us442-0510.xml#p512">442 U. S. 512</a>. We expressly left open in that case the question whether, if a jury is so instructed, the error can ever be harmless. Id. at <a href="../us442/us442-0510.xml#p526">442 U. S. 526</a>-527. Since Sandstrom, courts have taken different approaches to the harmless error problem. [<a id="nf1" href="#fn1">Footnote 1</a>] We therefore granted certiorari in this litigation to resolve the conflict. 455 U.S. 937 (1982).</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>A</p>
     <p>Respondent Lindsay B. Johnson was accused in a four-count information of attempted murder, kidnaping in the second degree, robbery in the first degree, and sexual assault in the first degree. His jury trial in Connecticut Superior Court concluded with a verdict of guilty on all counts.</p>
     <p>The evidence at trial revealed the following sequence of events: at approximately 11 p.m. on December 20, 1975, respondent and three male companions were in an automobile</p>
@@ -55,7 +55,7 @@
     <n id="p81">81</n>
     <p>court upheld respondent's conviction for sexual assault; it ruled that sexual assault was not a specific-intent crime, and thus that the jury was not influenced by the erroneous general instruction. Id. at 176, 440 A.2d at 865.</p>
     <p>The court did not discuss the State's argument that the Sandstrom violation was harmless, seemingly relying on its recent decision in State v. Truppi, 182 Conn. 449, 438 A.2d 712 (1980), cert. denied, 451 U.S. 941 (1981). [<a id="nf9" href="#fn9">Footnote 9</a>] In its petition for certiorari, the State claimed that the Sandstrom error should have been analyzed for harmlessness under Chapman v. California, <a href="../us386/us386-0018.xml#p18">386 U. S. 18</a> (1967). [<a id="nf10" href="#fn10">Footnote 10</a>]</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>A</p>
     <p>In Chapman, this Court noted that "there are some constitutional rights so basic to a fair trial that their infraction can never be treated as harmless error." Id. at <a href="../us386/us386-0018.xml#p23">386 U. S. 23</a>, and n. 8 (citing Gideon v. Wainwright, <a href="../us372/us372-0335.xml#p335">372 U. S. 335</a> (1963) (right to counsel); Payne v. Arkansas, <a href="../us356/us356-0560.xml#p560">356 U. S. 560</a> (1958) (coerced confession); Tumey v. Ohio, <a href="../us273/us273-0510.xml#p510">273 U. S. 510</a> (1927) (impartial judge)). Resolving the question reserved three years earlier in Fahy v. Connecticut, <a href="../us375/us375-0085.xml#p85">375 U. S. 85</a>, <a href="../us375/us375-0085.xml#p86">375 U. S. 86</a> (1963), the Court held that some constitutional errors may be considered harmless</p>
     <n id="p82">82</n>
@@ -179,7 +179,7 @@
       <p>I join JUSTICE POWELL's dissenting opinion, and write separately only to emphasize that the Court today does not adopt a rule of automatic reversal for Sandstrom error. Only four Justices would adopt a rule requiring reversal for Sandstrom error, whether harmless or not, in all cases. Such a rule is contrary to this Court's holding, with only one dissent, in Chapman v. California, <a href="../us386/us386-0018.xml#p18">386 U. S. 18</a>, <a href="../us386/us386-0018.xml#p21">386 U. S. 21</a>-22 (1967), which rejected a rule of automatic reversal for all constitutional errors.</p>
       <p>JUSTICE POWELL, with whom THE CHIEF JUSTICE, JUSTICE REHNQUIST, and JUSTICE O'CONNOR join, dissenting.</p>
       <p>Today a plurality of this Court finds that an instruction given in violation of Sandstrom v. Montana, <a href="../us442/us442-0510.xml#p510">442 U. S. 510</a> (1979), cannot be considered harmless except in certain "rare situations." The effect of the plurality's opinion, if it became a binding holding of the Court, would be to create an automatic reversal rule whenever a Sandstrom-type instruction is given, regardless of the conclusiveness of the evidence of intent. In my view, this is serious error.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>It is necessary to address the jurisdictional issue raised in JUSTICE STEVENS' concurrence before considering the plurality's disposition of the merits. JUSTICE STEVENS would not reach the merits, because the Connecticut Supreme Court, when requested to determine whether the Sandstrom error was harmless, declined to do so. Accordingly, he concludes that no federal question is presented. It is unclear whether he takes the view that a state court may apply the federal harmless error rule to provide a defendant with greater protection than Chapman v. California, <a href="../us386/us386-0018.xml#p18">386 U. S. 18</a></p>
       <n id="p91">91</n>
       <p>(1967), would require, or whether he finds that the State Supreme Court's refusal to consider this question rests on an independent and adequate state ground. In my opinion, each of these views is erroneous.</p>
@@ -196,14 +196,14 @@
       <n id="p93">93</n>
       <p>court. Ibid. (citing Bollenbach v. United States, <a href="../us326/us326-0607.xml#p607">326 U. S. 607</a>, <a href="../us326/us326-0607.xml#p614">326 U. S. 614</a> (1946)).</p>
       <p>Thus, the Connecticut court in Truppi appears to have adopted -- as the federal rule -- the view that today's plurality seems to favor: Sandstrom error falls within that class of federal errors that can never be harmless. [Footnote 3/1] If one is to read Truppi otherwise, it is necessary to assume that Connecticut undertook an unannounced departure from its longstanding practice of applying the Chapman rule to federal constitutional error. It also would require this Court to assume that, having prefaced its harmless error discussion with a reference to the less demanding state standard, the Truppi court then applied a more stringent state harmless error rule than that announced in Chapman. I decline to attribute such illogic to the Connecticut Supreme Court, and agree with the plurality that Connecticut was applying its perception of federal constitutional law. See ante at <a href="./us460-0073.xml#p81">460 U. S. 81</a>, n. 9. Accordingly, it is appropriate to consider the question presented -- whether Sandstrom error may be harmless.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>In Sandstrom, the trial court instructed the jury that "[t]he law presumes that a person intends the ordinary consequences of his voluntary acts." 442 U.S. at <a href="../us442/us442-0510.xml#p513">442 U. S. 513</a>. The Court held that, where intent is an essential element of the crime, the giving of such an instruction is constitutional error. As we noted, on finding only that Sandstrom had caused the victim's death and had acted voluntarily, the jurors</p>
       <n id="p94">94</n>
       <p>"could reasonably have concluded that they were directed to find against [the] defendant on the element of intent." Id. at <a href="../us442/us442-0510.xml#p523">442 U. S. 523</a>. Alternatively, an instruction that was viewed as shifting the burden of persuasion to the defendant could lead to a similar error. The jury</p>
       <p>"could have concluded that upon proof by the State of the slaying, and of additional facts not themselves establishing the element of intent, the burden was shifted to the defendant to prove that he lacked the requisite mental state. [Footnote 3/2]"</p>
       <p>Id. at <a href="../us442/us442-0510.xml#p524">442 U. S. 524</a>.</p>
       <p>The plurality today goes much further. It interprets Sandstrom as establishing that a conclusive presumption instruction on the issue of intent is the "functional equivalent" of a directed verdict on that issue. See ante at <a href="./us460-0073.xml#p84">460 U. S. 84</a>. The plurality qualifies this categorical statement where "a defendant himself has taken the issue away from the jury" -- i.e., it would view the error as harmless only where "the defendant concede[s] the issue of intent." Ante at <a href="./us460-0073.xml#p87">460 U. S. 87</a>. This is hardly an exception. Indeed, where intent to kill is conceded -- as where self-defense is pleaded -- there would be no occasion to give a Sandstrom instruction. The effect of the plurality's holding is that this type of instruction can never be harmless.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>In Chapman v. California, <a href="../us386/us386-0018.xml#p18">386 U. S. 18</a> (1967), the Court rejected the argument that "all federal constitutional errors, regardless of the facts and circumstances, must always be deemed harmful." Id. at <a href="../us386/us386-0018.xml#p21">386 U. S. 21</a>. It recognized that in the context of a particular case, some errors have little, if any, likelihood of affecting the jury's verdict. Accordingly, the proper inquiry is whether a court may say "beyond a reasonable</p>
       <n id="p95">95</n>
       <p>doubt that the error complained of did not contribute to the verdict obtained." Id. at <a href="../us386/us386-0018.xml#p24">386 U. S. 24</a>. In applying Chapman's test, a court must assess the effect of the error in light of the facts of each case. See Harrington v. California, <a href="../us395/us395-0250.xml#p250">395 U. S. 250</a>, <a href="../us395/us395-0250.xml#p254">395 U. S. 254</a> (1969). For it is only by assessing the weight of the evidence against the defendant that the effect of the error on the jury's verdict can be judged. Ibid.</p>
@@ -223,7 +223,7 @@
       <p>Chapman recognized that jury trials involve an infinite variety of "facts and circumstances." It therefore is hardly in the interest of a rational criminal justice system to adopt automatic and absolute rules that deprive courts of perhaps the single most important element of judging: the exercise of judicial discretion. Yet this is precisely what the plurality's opinion does. Its holding would require reversals of convictions</p>
       <n id="p99">99</n>
       <p>in many situations in which the defendant's actions establish intent as conclusively as if it were unequivocally conceded. If, for example, an execution-style slaying occurred, in which the defendant tied up his victim and shot him repeatedly in the head, it would be clear beyond a reasonable doubt that the presence of a conclusive presumption instruction would not have affected a jury's finding of intent. [Footnote 3/7] The point is not that an execution-style slaying equals a concession of intent. It is instead that the plurality's limitation on the harmless error doctrine fails to recognize that the impact of the presumption on the jury's verdict will vary with the facts and circumstances of each case.</p>
-      <h>IV</h>
+      <h2>IV</h2>
       <p>Neither the respondent nor any of the four other participants in these crimes testified at the trial. The State's evidence from the victim, the people who sheltered her after she escaped, the police, and the State's expert witnesses -- was uncontradicted. [Footnote 3/8] Reviewing this testimony, the Supreme</p>
       <n id="p100">100</n>
       <p>Court of Connecticut found that the jury "could reasonably have found the following facts":</p>
@@ -237,7 +237,7 @@
       <p>App. 17A. Indeed, it prefaced the conclusive presumption instruction by stating that intent is a question of fact solely within the province of the jury. [Footnote 3/10] See id. at</p>
       <n id="p102">102</n>
       <p>22A-23A. Although the instructions left the issue of intent to the jury, the plurality finds that neither we nor the state courts may assess the effect of the presumption on the jury's verdict. It imposes instead an automatic reversal rule that would be applicable even when proof of intent to murder is established beyond any doubt. See <a href="./us460-0073.xml#p73">460 U.S. 73</a>fn3/6|&gt;n. 6, supra. Such a rule is precisely what Chapman rejected.</p>
-      <h>V</h>
+      <h2>V</h2>
       <p>For the reasons stated, I think this Court properly could decide the question of harmless error. Normally, however, this is a question more appropriately left to the courts below. The Connecticut Supreme Court did not address the question, nor has it been briefed extensively here. There may be facts and circumstances not apparent from the record before us. I therefore would reverse the judgment and remand the case for consideration of whether the error was harmless beyond a reasonable doubt.</p>
       <p>[Footnote 3/1]</p>
       <p>In determining whether the Connecticut Supreme Court was applying federal or state law, it should be remembered that this Court has never held that a Sandstrom error inevitably requires reversal. See ante, p. <a href="./us460-0073.xml#p88">460 U. S. 88</a> (STEVENS, J., concurring in judgment). Indeed, rather than foreclosing consideration of this federal issue, the Sandstrom Court remanded to allow the state court to make this determination initially. See 442 U.S. at <a href="../us442/us442-0510.xml#p526">442 U. S. 526</a>-527. It would be consistent with our opinion in Sandstrom for the Connecticut Supreme Court to have undertaken this same federal inquiry.</p>

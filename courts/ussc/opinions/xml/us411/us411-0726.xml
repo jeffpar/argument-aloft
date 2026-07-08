@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us411-0726.html" citation="411 U.S. 726" title="FMC v. Seatrain Lines, Inc.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p726">726</n>
-    <h>U.S. Supreme Court</h>
-    <h>FMC v. Seatrain Lines, Inc., <a href="./us411-0726.xml#p726">411 U.S. 726</a> (1973)</h>
-    <h>Federal Maritime Commission v. Seatrain Lines, Inc.</h>
-    <h>No. 71-1647</h>
-    <h>Argued March 21, 1973</h>
-    <h>Decided May 14, 1973</h>
-    <h><a href="./us411-0726.xml#p726">411 U.S. 726</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE DISTRICT OF COLUMBIA CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>FMC v. Seatrain Lines, Inc., <a href="./us411-0726.xml#p726">411 U.S. 726</a> (1973)</h1>
+    <h2>Federal Maritime Commission v. Seatrain Lines, Inc.</h2>
+    <h4>No. 71-1647</h4>
+    <h4>Argued March 21, 1973</h4>
+    <h4>Decided May 14, 1973</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE DISTRICT OF COLUMBIA CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>In enacting § 15 of the Shipping Act, 1916, Congress conferred on the Federal Maritime Commission (FMC) the power to exempt from the antitrust laws agreements, or those portions of agreements, between carriers that create an ongoing arrangement in which both parties undertake continuing responsibilities, and which therefore necessitate continuous FMC supervision, but not one-time acquisition of assets agreements that result in one of the contracting parties ceasing to exist. Pp. <a href="./us411-0726.xml#p731">411 U. S. 731</a>-746.</p>
     <p>148 U.S.App.D.C. 424, 460 F.2d 932, affirmed.</p>
     <p>MARSHALL, J., delivered the opinion for a unanimous Court.</p>
@@ -24,7 +24,7 @@
     <n id="p729">729</n>
     <p>FMC v. Aktiebolaget Svenska Amerika Linien, <a href="../us390/us390-0238.xml#p238">390 U. S. 238</a>, <a href="../us390/us390-0238.xml#p244">390 U. S. 244</a>-246 (1968).</p>
     <p>In this case, the Court of Appeals for the District of Columbia Circuit concluded that § 15 did not confer jurisdiction upon the Commission to approve discrete acquisition of assets agreements. In so holding, it followed a prior District Court decision in United States v. R. J. Reynolds Tobacco Co., <a href="https://law.justia.com/cases/federal/district-courts/FSupp/325/656/2594193/">325 F. Supp. 656</a> (NJ 1971), but declined to follow a Ninth Circuit holding that the Commission had such jurisdiction. See Matson Navigation Co. v. FMC, 405 F.2d 796 (CA9 1968). We granted certiorari in order to resolve this conflict and because the case posed an important issue concerning the interface between the antitrust laws and the Commission's regulatory powers. We conclude that, in enacting § 15, Congress did not intend to invest the Commission with the power to shield from antitrust liability merger or acquisition of assets agreements which impose no ongoing responsibilities. Rather, Congress intended to invest the Commission with jurisdiction over only those agreements, or those portions of agreements, which created ongoing rights and responsibilities and which, therefore, necessitated continuous Commission supervision. We therefore affirm the judgment below.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>This case was initiated when respondent Seatrain Lines, Inc. (Seatrain) filed a protest with the Commission against an agreement reached between Pacific Far East Lines, Inc. (PFEL) and Oceanic Steamship Co. (Oceanic), both of which are also respondents here, whereby Oceanic agreed to sell all its assets to PFEL. Under the terms of the agreement, Oceanic promised to transfer its entire fleet and all the related equipment, together with Oceanic's interest in two container ships then being constructed and all of Oceanic's employees, to</p>
     <n id="p730">730</n>
     <p>PFEL. Although Oceanic did not formally merge with PFEL and retained its corporate existence, it was left as a shell corporation wholly without assets. However, Oceanic undertook no continuing obligation not to reenter the business and compete with PFEL. On October 6, 1970, Oceanic and PFEL notified the Commission of the agreement, but accompanied the notification with an express statement that, in their view, the agreement was not within the Commission's jurisdiction. The Commission published notice of the agreement, see 35 Fed.Reg. 16114, and allowed 10 days for interested parties to protest and request a hearing. Seatrain filed such a request on October 21, 1970, alleging that it was a potential competitor of PFEL and that the acquisition agreement would have anticompetitive consequences, and, hence, was contrary to the public interest standard of the statute.</p>
@@ -37,7 +37,7 @@
     <p>After Seatrain's petition to reopen was denied, it appealed the Commission's ruling to the Court of Appeals. [<a id="nf5" href="#fn5">Footnote 5</a>] Seatrain argued that the Commission was required to hold a hearing on its objection, while the United States, as statutory respondent, [<a id="nf6" href="#fn6">Footnote 6</a>] and Oceanic and PFEL, as intervenors, argued that the Commission lacked jurisdiction over the agreement. In a comprehensive opinion, the Court of Appeals found it unnecessary to reach the hearing issue, since it found that the Commission</p>
     <p>"lacks jurisdiction under Section 15 of the Shipping Act, 1916, to approve arrangements of the type involved here, which do not require the continued existence or participation of the parties in such arrangements."</p>
     <p>148 U.S.App.D.C. 424, 441, 460 F.2d 932, 949 (1972). The Court therefore vacated the Commission's decision and directed that the agreement be removed from its docket. The case then came here on the Commission's petition for certiorari. 409 U.S. 1058 (1972).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>At the outset, it must be recognized that the statutory language neither clearly embraces nor clearly excludes discrete merger or acquisition of assets agreements. The situation is therefore fundamentally different from that posed in Volkswagenwerk Aktiengesellschaft v. FMC, relied upon heavily by petitioner, where we held in the context of an ongoing agreement that the Commission's ruling that the agreement was without its § 15 jurisdiction "simply does not square with the structure of the statute." 390 U.S. at <a href="../us390/us390-0261.xml#p275">390 U. S. 275</a>. In this case, the statute is ambiguous in its scope, and must therefore be read in</p>
     <n id="p732">732</n>
     <p>light of its history and the governing statutory presumptions.</p>
@@ -70,7 +70,7 @@
     <p>In short, while the statute neither expressly includes nor expressly excludes one-time acquisition of assets arrangements, the words must be read in context, and the context makes undeniably clear the ongoing, supervisory role which the Commission was intended to perform. As the Court of Appeals concluded,</p>
     <p>"[t]he whole structure of Section 15, not only the first paragraph listing the type agreement covered, shows an intent to grant the Commission authority to deal with agreements of a continuing nature."</p>
     <p>148 U.S.App.D.C. at 427, 460 F.2d at 935.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>This construction of the Shipping Act is strongly supported by the legislative history of the Act and by Congress' treatment of other industries in contemporaneous and related statutes. As this Court recognized in FMB v. Isbrandtsen Co., 356 U.S. at <a href="../us356/us356-0481.xml#p490">356 U. S. 490</a>, most of the legislative history of the Act is contained in the so-called Alexander Report, which culminated a comprehensive investigation into the shipping industry by the House Committee on the Merchant Marine and Fisheries chaired by Congressman Alexander. See House Committee on the Merchant Marine and Fisheries, Report on Steamship Agreements and Affiliations in the American Foreign and Domestic Trade, H.R.Doc. No. 805, 63d Cong., 2d Sess. (1914) (hereinafter Alexander Report). Although legislation designed to carry out the Report's recommendations initially failed to pass, see H.R. 17328, 63d Cong., 2d Sess., a substantially similar bill was enacted in the next Congress, and was clearly intended to write the Alexander proposals into law. See H.R.Rep. No. 659, 64th Cong., 1st Sess., 27; S.Rep. No. 689, 64th Cong., 1st Sess., 7.</p>
     <n id="p737">737</n>
     <p>After examining some 80 steamship agreements and conference arrangements, the Alexander Committee concluded that</p>
@@ -113,7 +113,7 @@
     <p>"every contract or agreement . . . for pooling or apportioning earnings, losses, traffic, service, or equipment, or relating to the establishment of transportation rates, fares, charges, or classifications, . . . or otherwise eliminating destructive, oppressive, or wasteful competition, or for regulating stops, schedules, and character of service, or for other cooperative working arrangements."</p>
     <p>This provision closely parallels § 15 of the Shipping Act, and was obviously modeled after it. Yet Congress clearly thought the provision insufficient to bring discrete merger and acquisition agreements within the Civil Aeronautics Board's jurisdiction, since it enacted another, separate provision requiring Board approval when air carriers "consolidate or merge their properties." 49 U.S.C. § 1378(a)(1). [<a id="nf11" href="#fn11">Footnote 11</a>]</p>
     <n id="p744">744</n>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>In light of these specific grants of merger approval authority, we are unwilling to construe the ambiguous provisions of § 15 to serve this purpose a purpose for which it obviously was not intended. As the Court of Appeals found, the House Committee which wrote § 15 "neither sought information nor had discussion on ship sale agreements. They were neither part of the problem nor part of the solution." 148 U.S.App.D.C. at 432, 460 F.2d at 940. If, as petitioner contends, there is now a compelling need to fill the gap in the Commission's regulatory</p>
     <n id="p745">745</n>
     <p>authority, the need should be met in Congress where the competing policy questions can be thrashed out and a resolution found. We are not ready to meet that need by rewriting the statute and legislative history ourselves.</p>
@@ -170,7 +170,7 @@
       <p>The Commission would have us infer that the 1916 Act conferred jurisdiction upon it from an amendment added in 1950 to § 7 of the Clayton Act, 15 U.S.C. § 18, as amended by 64 Stat. 1125, 1126. As amended, the provision specifies that:</p>
       <p>"Nothing contained in this section shall apply to transactions duly consummated pursuant to authority given by the Civil Aeronautics Board, Federal Communications Commission, Federal Power Commission, Interstate Commerce Commission, the Securities and Exchange Commission . . . the United States Maritime Commission, or the Secretary of Agriculture."</p>
       <p>As is clear from the face of the statute, the Act confers no new jurisdiction on any of the listed agencies, but merely provides that mergers already exempt from Clayton Act coverage were to be unaffected by changes in the Act. As this Court held in California v. FPC, the amended § 7 was "plainly not a grant of power to adjudicate antitrust issues." <a href="../us369/us369-0482.xml#p482">369 U. S. 482</a>, <a href="../us369/us369-0482.xml#p486">369 U. S. 486</a> (1962). Hence, nothing about the Commission's jurisdiction can be inferred from the inclusion of its predecessor on the list. This view is confirmed by the legislative history of the 1950 amendment. Although acceding to the Commission's request that it be included in the list of agencies left unaffected by the Clayton Act, see Letter of Grenville Mellen, Vice Chairman, United States Maritime Commission, to Senator Herbert O'Conor, Chairman, Senate Subcommittee to consider H.R. 2734, Sept. 29, 1949, reprinted in Brief for Petitioner 52-54, the Committee made explicit that,</p>
-      <p>"[i]n making this addition . . . , it is not intended that the Maritime Commission, or, for that matter, any other agency included in this category, shall be granted any authority or powers which it does not already possess."</p>
+      <p>"[i]n making this addition . . ., it is not intended that the Maritime Commission, or, for that matter, any other agency included in this category, shall be granted any authority or powers which it does not already possess."</p>
       <p>S.Rep. No. 1775, 81st Cong., 2d Sess., 7 (1950).</p>
     </f>
   </opinion>

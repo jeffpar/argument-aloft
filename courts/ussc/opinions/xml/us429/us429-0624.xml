@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us429-0624.html" citation="429 U.S. 624" title="Codd v. Velger">
   <opinion type="Opinions &amp; Dissents">
     <n id="p624">624</n>
-    <h>U.S. Supreme Court</h>
-    <h>Codd v. Velger, <a href="./us429-0624.xml#p624">429 U.S. 624</a> (1977)</h>
-    <h>Codd v. Velger</h>
-    <h>No. 75-812</h>
-    <h>Argued December 1, 1976</h>
-    <h>Decided February 22, 1977</h>
-    <h><a href="./us429-0624.xml#p624">429 U.S. 624</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SECOND CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Codd v. Velger, <a href="./us429-0624.xml#p624">429 U.S. 624</a> (1977)</h1>
+    <h2>Codd v. Velger</h2>
+    <h2>No. 75-812</h2>
+    <h4>Argued December 1, 1976</h4>
+    <h4>Decided February 22, 1977</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SECOND CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondent's claim under the Due Process Clause of the Fourteenth Amendment that, before being dismissed from his nontenured position as a city policeman, he was entitled to a hearing due to the stigmatizing effect of certain information in his personnel file about a suicide attempt while he was a police trainee held to be defeated by the failure of respondent or the courts below to raise a question about the substantial accuracy of the report of the suicide attempt. Only if the employer is alleged to have created and disseminated a false and defamatory impression about the employee in connection with his termination, or a trial court so finds, is such a hearing required.</p>
     <p>525 F.2d 334, reversed.</p>
     <p>PER CURIAM.</p>
@@ -64,7 +64,7 @@
       <p>There are three aspects of the Court's disposition of this case with which I disagree. First, I am not persuaded that a person who claims to have been "stigmatized" by the State without being afforded due process need allege that the charge against him was false in order to state a cause of action under 42 U.S.C. § 1983. Second, in my opinion, the Court should not assume that this respondent was stigmatized, because the District Court's contrary finding was not</p>
       <n id="p632">632</n>
       <p>clearly erroneous. Third, I would remand the case to the Court of Appeals to consider the claim that respondent had a property interest in his job, since that court did not decide this issue.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>The Court holds that respondent's failure to allege falsity negates his right to damages for the State's failure to give him a hearing. This holding does not appear to rest on the view that a discharged employee has no right to a hearing unless the charge against him is false. [Footnote 3/1] If it did, it would represent a radical departure from a principle basic to our legal system -- the principle that the guilty as well as the innocent are entitled to a fair trial. [Footnote 3/2] It would also be a departure from Board of Regents v. Roth, <a href="../us408/us408-0564.xml#p564">408 U. S. 564</a>, <a href="../us408/us408-0564.xml#p572">408 U. S. 572</a>-575. In that case, the Court concluded that a person is deprived of liberty when the State's refusal to rehire him destroys his "good name" in the community or forecloses him from practicing his</p>
       <n id="p633">633</n>
       <p>profession. A hearing my establish that such a deprivation of liberty is warranted because the charges are correct. But Bishop v. Wood, <a href="../us426/us426-0341.xml#p341">426 U. S. 341</a>, <a href="../us426/us426-0341.xml#p349">426 U. S. 349</a>, makes it clear that the truth or falsity of the charge "neither enhances nor diminishes [the employee's] claim that his constitutionally protected interest in liberty has been impaired." If the charge, whether true or false, involves a deprivation of liberty, due process must accompany the deprivation. And normally, as Roth plainly states, the Constitution mandates "a full prior hearing." 408 U.S. at <a href="../us408/us408-0564.xml#p574">408 U. S. 574</a>. [Footnote 3/3]</p>
@@ -77,7 +77,7 @@
       <p>Today's. holding may have the unfortunate effect of encouraging public officials to deny hearings when they feel confident of the correctness of their decision. But, in Mr. Justice Frankfurter's oft-quoted words:</p>
       <p>"That a conclusion satisfies one's private conscience does not attest its reliability. The validity and moral authority of a conclusion largely depend on the mode by which it was reached. Secrecy is not congenial to truth-seeking, and self-righteousness gives too slender an assurance of rightness. No better instrument has been devised for arriving at truth than to give a person in jeopardy of serious loss notice of the case against him and opportunity to meet it. Nor has a better way been found for generating the feeling, so important to a popular government, that justice has been done."</p>
       <p>Anti-Fascist Committee v. McGrath, <a href="../us341/us341-0123.xml#p123">341 U. S. 123</a>, <a href="../us341/us341-0123.xml#p171">341 U. S. 171</a>-172 (concurring opinion). As the last sentence in this quotation demonstrates, if state action has consequences sufficiently grievous to constitute a deprivation of constitutionally protected liberty, it is essential that fair procedures be followed for reasons that have nothing to do with the merits of the individual case. Today's holding is only a minor impairment of this principle. But the principle is one that admits of no compromise.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>Although the plaintiff does not have the burden of proving that he was discharged for a false reason, if he claims that the discharge deprived him of liberty, he does have the burden of proving that he was stigmatized. The District Court found that respondent did not meet that burden in this case. Under the proper standard of appellate review, [Footnote 3/9] I cannot say that</p>
       <n id="p637">637</n>
       <p>finding was clearly erroneous, particularly when the record discloses that the respondent did not prove exactly what the unfavorable information in his file was, or exactly what information was disseminated to others.</p>
@@ -91,7 +91,7 @@
       <p>"[i]t is not enough that we might give the facts another construction, resolve the ambiguities differently, and find a more sinister cast to actions which the District Court apparently deemed innocent. . . . We are not given those choices, because our mandate is not to set aside findings of fact 'unless clearly erroneous.'"</p>
       <p>United States v. Real Estate Boards, <a href="../us339/us339-0485.xml#p485">339 U. S. 485</a>, <a href="../us339/us339-0485.xml#p495">339 U. S. 495</a>-496.</p>
       <p>I conclude that the Court of Appeals was incorrect in setting aside the District Court's findings of fact. Since those findings do not establish the existence of a stigma, the Court of Appeals erred in holding on this basis that a hearing was required.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>It is possible, however, that a hearing was required because the discharge deprived respondent of a property interest. The District Court rejected the claim that he had an entitlement to his job as a matter of state law, but the Court of Appeals found it unnecessary to reach this issue. I believe there is enough merit to the property claim to justify a remand to the Court of Appeals with directions to consider it.</p>
       <p>In Bishop v. Wood, the plaintiff's job was "terminable at the will of either party irrespective of the quality of performance by the other party." 426 U.S. at <a href="../us426/us426-0341.xml#p345">426 U. S. 345</a> n. 9, and accompanying text. There was no right to state judicial review. In this case, however, the state law may afford the employee some protection against arbitrary discharge. According to the state case cited by Judge Gurfein, App. 37a, the Police Commissioner may terminate only "unsatisfactory employee[s]," [Footnote 3/13] and his determination is reviewable in the</p>
       <n id="p640">640</n>
@@ -123,7 +123,7 @@
       <p>The Court's contrary approach would produce perverse results when the relief sought by the plaintiff includes an administrative hearing. To establish his right to such relief, the plaintiff would have to plead -- and presumably prove -- that the charges against him are false. But once it is established that the charges are false, there is no longer any reason to hold an administrative hearing on that subject.</p>
       <p>This problem is squarely presented by this case because respondent did request such a hearing. At trial, respondent's counsel made the following statement:</p>
       <p>"And therefore, he should be reinstated and he should be given a full hearing, an adversary hearing."</p>
-      <p>App. 93a. Under modern trial practice, no more formal request was necessary. The amended complaint had requested a declaratory judgment that "the action of defendants in terminating plaintiff's employment without charges and without a hearing [was] in violation of the Constitution . . . ," and had sought "such additional alternative relief as may seem to this Court to be just, proper and equitable." Id. at 55a-56a. And, of course, Fed.Rule Civ.Proc. 54(c) provides that "every final judgment shall grant the relief to which the party in whose favor it is rendered is entitled, even if the party has not demanded such relief in his pleading."</p>
+      <p>App. 93a. Under modern trial practice, no more formal request was necessary. The amended complaint had requested a declaratory judgment that "the action of defendants in terminating plaintiff's employment without charges and without a hearing [was] in violation of the Constitution . . .," and had sought "such additional alternative relief as may seem to this Court to be just, proper and equitable." Id. at 55a-56a. And, of course, Fed.Rule Civ.Proc. 54(c) provides that "every final judgment shall grant the relief to which the party in whose favor it is rendered is entitled, even if the party has not demanded such relief in his pleading."</p>
       <p>[Footnote 3/8]</p>
       <p>See Judge Tone's thoughtful discussion of this problem in Hostrop v. Board of Junior College Dist. 1, 523 F.2d 569, 578-580 (CA7 1975).</p>
       <p>[Footnote 3/9]</p>

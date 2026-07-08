@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us459-0375.html" citation="459 U.S. 375" title="Herman &amp;amp; MacLean &amp;amp; Huddleston">
   <opinion type="Opinions &amp; Dissents">
     <n id="p375">375</n>
-    <h>U.S. Supreme Court</h>
-    <h>Herman &amp; MacLean &amp; Huddleston, <a href="./us459-0375.xml#p375">459 U.S. 375</a> (1983)</h>
-    <h>Herman &amp; MacLean &amp; Huddleston</h>
-    <h>No. 81-680</h>
-    <h>Argued November 9, 1982</h>
-    <h>Decided January 24, 1983<a href="./us459-0375.xml#p375">459 U.S. 375</a>ast|&gt;*</h>
-    <h><a href="./us459-0375.xml#p375">459 U.S. 375</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE FIFTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Herman &amp; MacLean &amp; Huddleston, <a href="./us459-0375.xml#p375">459 U.S. 375</a> (1983)</h1>
+    <h2>Herman &amp; MacLean &amp; Huddleston</h2>
+    <h2>No. 81-680</h2>
+    <h4>Argued November 9, 1982</h4>
+    <h4>Decided January 24, 1983<a href="./us459-0375.xml#p375">459 U.S. 375</a>ast|&gt;*</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE FIFTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Alleging that they were defrauded by misrepresentations in a registration statement and prospectus for certain securities, purchasers of such securities brought a class action in Federal District Court against most of the participants in the offering, seeking recovery under § 10(b) of the Securities Exchange Act of 1934 (1934 Act), which makes it unlawful for "any" person to use "any" manipulative or deceptive device or contrivance in the purchase or sale of "any" security. The trial judge instructed the jury to determine whether the plaintiffs had proved their cause of action by a preponderance of the evidence, and judgment was entered on the basis of a jury verdict in plaintiffs' favor. The Court of Appeals held that a cause of action may be maintained under § 10(b) for fraudulent misrepresentations and omissions even when, as in this case, that conduct might also be actionable under § 11 of the Securities Act of 1933 (1933 Act), which expressly allows purchasers of a registered security to sue certain enumerated parties who play a direct role in a registered offering when false or misleading information is included in a registration statement. However, the Court of Appeals concluded that a plaintiff seeking recovery under § 10(b) of the 1934 Act must prove his case by "clear and convincing" evidence, and reversed and remanded on other grounds.</p>
     <p>Held:</p>
     <p>1. The availability of an express remedy under § 11 of the 1933 Act does not preclude defrauded purchasers of registered securities from maintaining an action under § 10(b) of the 1934 Act. Pp. <a href="./us459-0375.xml#p380">459 U. S. 380</a>-387.</p>
@@ -25,7 +25,7 @@
     <n id="p377">377</n>
     <p>JUSTICE MARSHALL delivered the opinion of the Court.</p>
     <p>These consolidated cases raise two unresolved questions concerning § 10(b) of the Securities Exchange Act of 1934 (1934 Act), 48 Stat. 891, 15 U.S.C. § 78j(b). The first is whether purchasers of registered securities who allege they were defrauded by misrepresentations in a registration statement may maintain an action under § 10(b) notwithstanding the express remedy for misstatements and omissions in registration statements provided by § 11 of the Securities Act of 1933 (1933 Act), 48 Stat. 82, as amended, 15 U.S.C. § 77k. The second question is whether persons seeking recovery under § 10(b) must prove their cause of action by clear and convincing evidence, rather than by a preponderance of the evidence.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In 1969, Texas International Speedway, Inc. (TIS), filed a registration statement and prospectus with the Securities and Exchange Commission offering a total of $4,398,900 in securities to the public. The proceeds of the sale were to be used to finance the construction of an automobile speedway. The entire issue was sold on the offering date, October 30, 1969. TIS did not meet with success, however, and the corporation filed a petition for bankruptcy on November 30, 1970.</p>
     <n id="p378">378</n>
     <p>In 1972, plaintiffs Huddleston and Bradley instituted a class action in the United States District Court for the Southern District of Texas [<a id="nf1" href="#fn1">Footnote 1</a>] on behalf of themselves and other purchasers of TIS securities. The complaint alleged violations of § 10(b) of the 1934 Act and SEC Rule 10b-5 promulgated thereunder, 17 CFR § 240.10b-5 (1982). [<a id="nf2" href="#fn2">Footnote 2</a>] Plaintiffs sued most of the participants in the offering, including the accounting firm, Herman &amp; MacLean, which had issued an opinion concerning certain financial statements and a pro forma balance sheet [<a id="nf3" href="#fn3">Footnote 3</a>] that were contained in the registration statement and prospectus. Plaintiffs claimed that the defendants had engaged in a fraudulent scheme to misrepresent or conceal material facts regarding the financial condition of TIS, including the costs incurred in building the speedway. After a 3-week trial, the District Judge submitted the case to the jury on special interrogatories relating to liability. The judge instructed the jury that liability could be found only if the defendants acted with scienter. [<a id="nf4" href="#fn4">Footnote 4</a>] The judge also instructed the jury to determine whether plaintiffs had proved their cause of action by a preponderance of the evidence.</p>
@@ -35,7 +35,7 @@
     <p>We granted certiorari to consider whether an implied cause of action under § 10(b) of the 1934 Act will lie for conduct subject to an express civil remedy under the 1933 Act, an issue we have previously reserved, [<a id="nf6" href="#fn6">Footnote 6</a>] and to decide the standard of proof applicable to actions under § 10(b). [<a id="nf7" href="#fn7">Footnote 7</a>] 456 U.S. 914</p>
     <n id="p380">380</n>
     <p>(1982). We now affirm the Court of Appeals' holding that plaintiffs could maintain an action under § 10(b) of the 1934 Act, but we reverse as to the applicable standard of proof.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The Securities Act of 1933 and the 1934 Act "constitute interrelated components of the federal regulatory scheme governing transactions in securities." Ernst &amp; Ernst v. Hochfelder, <a href="../us425/us425-0185.xml#p185">425 U. S. 185</a>, <a href="../us425/us425-0185.xml#p206">425 U. S. 206</a> (1976). The Acts created several express private rights of action, [<a id="nf8" href="#fn8">Footnote 8</a>] one of which is contained in § 11 of the 1933 Act. In addition to the private actions created explicitly by the 1933 and 1934 Acts, federal courts have implied private remedies under other provisions of the two laws. [<a id="nf9" href="#fn9">Footnote 9</a>] Most significantly for present purposes, a private right of action under § 10(b) of the 1934 Act and Rule 10b-5 has been consistently recognized for more than 35 years. [<a id="nf10" href="#fn10">Footnote 10</a>] The existence of this implied remedy is simply beyond peradventure.</p>
     <n id="p381">381</n>
     <p>The issue in this case is whether a party should be barred from invoking this established remedy for fraud because the allegedly fraudulent conduct would apparently also provide the basis for a damages action under § 11 of the 1933 Act. [<a id="nf11" href="#fn11">Footnote 11</a>] The resolution of this issue turns on the fact that the two provisions involve distinct causes of action, and were intended to address different types of wrongdoing.</p>
@@ -61,7 +61,7 @@
     <n id="p387">387</n>
     <p>restrictively, but flexibly to effectuate [their] remedial purposes." SEC v. Capital Gains Research Bureau, Inc., <a href="../us375/us375-0180.xml#p180">375 U. S. 180</a>, <a href="../us375/us375-0180.xml#p195">375 U. S. 195</a> (1963). Accord, Superintendent of Insurance v. Bankers Life &amp; Cas. Co., <a href="../us404/us404-0006.xml#p6">404 U. S. 6</a>, <a href="../us404/us404-0006.xml#p12">404 U. S. 12</a> (1971); Affiliated Ute Citizens v. United States, <a href="../us406/us406-0128.xml#p128">406 U. S. 128</a>, <a href="../us406/us406-0128.xml#p151">406 U. S. 151</a> (1972). We therefore reject an interpretation of the securities laws that displaces an action under § 10(b). [<a id="nf23" href="#fn23">Footnote 23</a>]</p>
     <p>Accordingly, we hold that the availability of an express remedy under § 11 of the 1933 Act does not preclude defrauded purchasers of registered securities from maintaining an action under § 10(b) of the 1934 Act. To this extent, the judgment of the Court of Appeals is affirmed.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>In a typical civil suit for money damages, plaintiffs must prove their case by a preponderance of the evidence. [<a id="nf24" href="#fn24">Footnote 24</a>] Similarly, in an action by the SEC to establish fraud under § 17(a) of the 1933 Act, 15 U.S.C. § 77q(a), we have held that proof by a preponderance of the evidence suffices to establish liability. SEC v. C. M. Joiner Leasing Corp., <a href="../us320/us320-0344.xml#p344">320 U. S. 344</a>, <a href="../us320/us320-0344.xml#p355">320 U. S. 355</a> (1943). "Where . . . proof is offered in a civil action, as here, a preponderance of the evidence will establish the case. . . ."</p>
     <n id="p388">388</n>
     <p>Ibid. The same standard applies in administrative proceedings before the SEC, [<a id="nf25" href="#fn25">Footnote 25</a>] and has been consistently employed by the lower courts in private actions under the securities laws. [<a id="nf26" href="#fn26">Footnote 26</a>]</p>
@@ -75,7 +75,7 @@
     <p>We therefore decline to depart from the preponderance of the evidence standard generally applicable in civil actions. [<a id="nf30" href="#fn30">Footnote 30</a>]</p>
     <n id="p391">391</n>
     <p>Accordingly, the Court of Appeals' decision as to the appropriate standard of proof is reversed.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>The judgment of the Court of Appeals is affirmed in part and reversed in part, and the cases are otherwise remanded for proceedings consistent with this opinion.</p>
     <p>It is so ordered.</p>
     <p>JUSTICE POWELL took no part in the decision of these cases.</p>

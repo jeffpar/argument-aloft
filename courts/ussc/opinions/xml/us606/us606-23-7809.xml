@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us606-23-7809.html" citation="606 U.S. 23-7809" title="Gutierrez v. Saenz">
   <opinion type="Opinion" author="Sotomayor">
     <p>NOTICE: This opinion is subject to formal revision before publication in the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, pio@supremecourt.gov, of any typographical or other formal errors.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 23–7809</p>
-    <p>_________________</p>
     <p>RUBEN GUTIERREZ, PETITIONER v. LUIS SAENZ, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the fifth circuit</p>
     <p>[June 26, 2025]</p>
@@ -53,9 +52,7 @@
   </opinion>
   <opinion type="Opinion" author="Barrett">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 23–7809</p>
-    <p>_________________</p>
     <p>RUBEN GUTIERREZ, PETITIONER v. LUIS SAENZ, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the fifth circuit</p>
     <p>[June 26, 2025]</p>
@@ -64,9 +61,7 @@
   </opinion>
   <opinion type="Dissent" author="Thomas">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 23–7809</p>
-    <p>_________________</p>
     <p>RUBEN GUTIERREZ, PETITIONER v. LUIS SAENZ, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the fifth circuit</p>
     <p>[June 26, 2025]</p>
@@ -91,7 +86,7 @@
     <p>Blackstone referred to Magna Carta’s “law of the land” provision as protecting the three “absolute rights of every Englishman”: the “right of personal security,” including “life”; “the right of personal liberty”; and “the right of private property.” 1 W. Blackstone, Commentaries on the Laws of England 123, 125 (1765) (Blackstone). This formulation “heavily” influenced the founding generation of America. Obergefell v. Hodges, <a href="../us576/us576-0644.xml#p644">576 U.S. 644</a>, 724 (2015) (Thomas, J., dissenting). Many early state constitutions contained provisions “that replicated Magna Carta’s language, but were modified to refer specifically to ‘life, liberty, or property.’ ” Ibid., and n. 3 (collecting examples). And, the Fifth Amendment similarly prohibited the Federal Government from depriving any person “of life, liberty, or property, without due process of law.”</p>
     <p>“Liberty” in the Fifth Amendment likely refers only to freedom from physical restraint. Blackstone defined “the right of personal liberty” as “the power of loco-motion, of changing situation, or removing one’s person to whatsoever place one’s own inclination may direct; without imprisonment or restraint, unless by due course of law.” 1 Blackstone 130. Following Blackstone, “[s]tate decisions interpreting [state due process] provisions between the founding and the ratification of the Fourteenth Amendment almost uniformly construed the word ‘liberty’ to refer only to freedom from physical restraint.” Obergefell, 576 U. S., at 724–725 (Thomas, J., dissenting) (citing C. Warren, The New “Liberty” Under the Fourteenth Amendment, 39 Harv. L. Rev. 431, 441–445 (1926) (Warren)). In light of this history, “it is hard to see how the ‘liberty’ protected by the [ Fifth Amendment] could be interpreted to include anything broader.” 576 U. S., at 725 (Thomas, J., dissenting).</p>
     <p>“If the Fifth Amendment uses ‘liberty’ in this narrow sense, then the Fourteenth Amendment likely does as well.” Ibid. When the language of a provision “is obviously transplanted from another legal source, it brings the old soil with it.” Taggart v. Lorenzen, 587 U.S. 554, 560 (2019) (internal quotation marks omitted). Applying that well-established principle, this Court has long recognized the Fourteenth Amendment’s due process protections as having “the same sense” as the Fifth Amendment’s. Hurtado v. California, <a href="../us110/us110-0516.xml#p516">110 U.S. 516</a>, 534–535 (1884); accord, Slaughter-House Cases, 16 Wall. 36, 80–81 (1873); Hibben v. Smith, <a href="../us191/us191-0310.xml#p310">191 U.S. 310</a>, 325 (1903); Malinski v. New York, <a href="../us324/us324-0401.xml#p401">324 U.S. 401</a>, 415 (1945) (opinion of Frankfurter, J.).[<a id="nf3-3" href="#fn3-3">3</a>]</p>
-    <p>It was not until the Lochner era that this Court adopted a broader understanding of “liberty.” During that period, stretching from 1897 to 1937, this Court relied on the “legal fiction” of “substantive” due process to invalidate disfavored social and economic legislation by States. McDonald v. Chicago, <a href="../us561/us561-0742.xml#p742">561 U.S. 742</a>, 811 (2010) (Thomas, J., concurring in part and concurring in judgment). Under that fiction, the Due Process Clauses forbade all government infringement on “certain ‘fundamental’ liberty interests . . . , no matter what process is provided.” Reno v. Flores, <a href="../us507/us507-0292.xml#p292">507 U.S. 292</a>, 302 (1993). To make the fiction work, the Court reinterpreted the Clauses’ guarantee of “ ‘process’ ” to encompass “substance,” a notion that “strains credulity for even the most casual user of words.” McDonald, 561 U. S., at 811 (opinion of Thomas, J.).</p>
+    <p>It was not until the Lochner era that this Court adopted a broader understanding of “liberty.” During that period, stretching from 1897 to 1937, this Court relied on the “legal fiction” of “substantive” due process to invalidate disfavored social and economic legislation by States. McDonald v. Chicago, <a href="../us561/us561-0742.xml#p742">561 U.S. 742</a>, 811 (2010) (Thomas, J., concurring in part and concurring in judgment). Under that fiction, the Due Process Clauses forbade all government infringement on “certain ‘fundamental’ liberty interests . . ., no matter what process is provided.” Reno v. Flores, <a href="../us507/us507-0292.xml#p292">507 U.S. 292</a>, 302 (1993). To make the fiction work, the Court reinterpreted the Clauses’ guarantee of “ ‘process’ ” to encompass “substance,” a notion that “strains credulity for even the most casual user of words.” McDonald, 561 U. S., at 811 (opinion of Thomas, J.).</p>
     <p>The Court’s embrace of substantive due process also required it to jettison the concept of “liberty” as only freedom from restraint, so that it could encompass other rights that the Court deemed “fundamental.” In Allgeyer v. Louisiana, <a href="../us165/us165-0578.xml#p578">165 U.S. 578</a> (1897), this Court’s first substantive due process decision under the Fourteenth Amendment, the Court for the first time broadened the definition of “liberty” to include the freedom of contract. Id., at 589; see Warren 445–449 (tracing the interpretation of “liberty” from the Fourteenth Amendment’s ratification to Allgeyer). By the height of the Lochner era, the Court had stretched the term to cover “those privileges long recognized at common law as essential to the orderly pursuit of happiness by free men.” Meyer v. Nebraska, <a href="../us262/us262-0390.xml#p390">262 U.S. 390</a>, 399 (1923). These privileges included “the right of the individual to contract, to engage in any of the common occupations of life, to acquire useful knowledge, to marry, establish a home and bring up children,” and “to worship God according to the dictates of his own conscience.” Ibid.</p>
     <p>This Court eventually repudiated Lochner’s muscular version of substantive due process—at least for economic rights. See Ferguson v. Skrupa, <a href="../us372/us372-0726.xml#p726">372 U.S. 726</a>, 730 (1963); West Coast Hotel Co. v. Parrish, <a href="../us300/us300-0379.xml#p379">300 U.S. 379</a> (1937). But, the Court continues to treat Meyer’s definition of “liberty” as authoritative. E.g., Roth, 408 U. S., at 572.</p>
     <p>B</p>
@@ -126,9 +121,7 @@
   </opinion>
   <opinion type="Dissent" author="Alito">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 23–7809</p>
-    <p>_________________</p>
     <p>RUBEN GUTIERREZ, PETITIONER v. LUIS SAENZ, et al.</p>
     <p>on writ of certiorari to the united states court of appeals for the fifth circuit</p>
     <p>[June 26, 2025]</p>

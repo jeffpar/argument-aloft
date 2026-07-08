@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us408-0204.html" citation="408 U.S. 204" title="Mancusi v. Stubbs">
   <opinion type="Opinions &amp; Dissents">
     <n id="p204">204</n>
-    <h>U.S. Supreme Court</h>
-    <h>Mancusi v. Stubbs, <a href="./us408-0204.xml#p204">408 U.S. 204</a> (1972)</h>
-    <h>Mancusi v. Stubbs</h>
-    <h>No. 71-237</h>
-    <h>Argued April 17, 1972</h>
-    <h>Decided June 26, 1972</h>
-    <h><a href="./us408-0204.xml#p204">408 U.S. 204</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SECOND CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Mancusi v. Stubbs, <a href="./us408-0204.xml#p204">408 U.S. 204</a> (1972)</h1>
+    <h2>Mancusi v. Stubbs</h2>
+    <h2>No. 71-237</h2>
+    <h4>Argued April 17, 1972</h4>
+    <h4>Decided June 26, 1972</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SECOND CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>New York State sentenced respondent as a second offender, based on his 1964 felony conviction in Tennessee. Respondent's petition for federal habeas corpus, denied by the District Court, was granted by the Court of Appeals, which concluded that the Tennessee conviction violated his Sixth and Fourteenth Amendment right to confront witnesses and thus was not available as the predicate for a "second offender" stiffer punishment. The State then resentenced respondent to the same sentence, based upon still another conviction in Texas.</p>
     <p>Held:</p>
     <p>1. New York State's resentencing of respondent did not moot the instant case, since the respondent's appeal involving the validity of the Texas conviction is still in the New York state courts, and therefore New York State has a present interest in the availability of the Tennessee conviction as a predicate for the stiffer punishment. Pp. <a href="./us408-0204.xml#p205">408 U. S. 205</a>-207.</p>
@@ -23,7 +23,7 @@
     <p>BURGER, C.J., and BRENNAN, STEWART, WHITE, BLACKMUN, and POWELL, JJ., joined. MARSHALL, J., filed a dissenting opinion, in Part II of which DOUGLAS, J., joined, post, p. <a href="./us408-0204.xml#p216">408 U. S. 216</a>.</p>
     <p>MR. JUSTICE REHNQUIST delivered the opinion of the Court.</p>
     <p>Respondent Stubbs was convicted of a felony in a New York State court and sentenced as a second offender under the laws of that State by reason of a prior Tennessee murder conviction obtained in 1964. He thereafter sought federal habeas corpus, claiming that the Tennessee conviction was had in violation of his Sixth and Fourteenth Amendment right to confront witnesses against him, and thus could not be used by New York as the predicate for a stiffer punishment. The District Court denied habeas corpus, but the Court of Appeals reversed, 442 F.2d 561 (CA2 1971). We granted certiorari, 404 U.S. 1014, and reverse for the reasons hereinafter stated.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Prior to our consideration of the merits, it is necessary to deal with a suggestion that, because petitioner did not seek a stay of the mandate of the Court of Appeals, but rather obeyed it and resentenced Stubbs, this case is therefore moot. The parties agreed at oral argument that Stubbs, upon resentencing in New York, had received</p>
     <n id="p206">206</n>
     <p>the same sentence, based upon still another conviction in Texas. However, he was appealing from that sentence on grounds that the Texas conviction was constitutionally infirm, and that appeal has not run its course even through the state courts.</p>
@@ -36,7 +36,7 @@
     <p>"There can be no question that a debtor against whom a judgment for money is recovered may pay it, and, if reversed, can recover back his money. And a defendant in an action of ejectment may bring a writ of error, and failing to give a supersedeas bond, may submit to the judgment by giving possession of the land, which he can recover if he reverses the judgment by means of a writ of restitution. In both these cases, the defendant has merely submitted to perform the judgment of the court, and has not thereby lost his right to seek a reversal of that judgment by writ of error or appeal."</p>
     <p>Dakota County v. Glidden, <a href="../us113/us113-0222.xml#p222">113 U. S. 222</a>, <a href="../us113/us113-0222.xml#p224">113 U. S. 224</a> (1885).</p>
     <p>Under these authorities, the case is not moot, and we turn to the merits.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>In July, 1954, respondent was convicted in the Tennessee trial court of murder in the first degree, assault with intent to murder, and two counts of kidnaping.</p>
     <n id="p208">208</n>
     <p>The jury impaneled for that trial could have concluded from the evidence presented to it that respondent, a few days after his release from a Texas penitentiary in June, 1954, kidnaped Mr. and Mrs. Alex Holm and forced them at gunpoint to accompany him in their car. Stubbs drove the car and sat in the front seat, while the Holms sat in the back seat. Mr. Holm testified that somewhere east of Blountville, Tennessee, Stubbs, without saying anything, shot him twice in the head and shot and killed Mrs. Holm. Stubbs then left the car, obtained a ride as a hitchhiker, and was ultimately arrested at a roadblock. At the time of his arrest, Stubbs explained the blood on his clothing as having resulted from his having fallen off a cliff while fishing.</p>
@@ -98,7 +98,7 @@
       <p>"Every murder . . . committed in the perpetration of, or attempt to perpetrate, any murder in the first degree, arson, rape, robbery, burglary, or larceny, is murder in the first degree."</p>
       <p>Tenn.Code Ann. § 39-2402.</p>
       <p>MR. JUSTICE MARSHALL, dissenting.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>I would dismiss the writ in this case as improvidently granted. The question presented to the courts below concerns the constitutional validity of a 1964 Tennessee conviction. The New York courts had relied on that conviction to sentence respondent as a multiple offender, after his conviction in 1966 for a New York offense. It was conceded at oral argument, however, that New York has no present interest whatever in</p>
       <n id="p217">217</n>
       <p>that Tennessee conviction. For, after the United States Court of Appeals held that it was constitutionally defective, New York substituted for the Tennessee conviction an earlier Texas conviction, and reinstated precisely the same enhanced sentence it had previously imposed. [Footnote 2/1]</p>
@@ -111,7 +111,7 @@
       <n id="p219">219</n>
       <p>rise to this litigation has a substantial probability of recurring. That analysis might, in my view, carry considerable weight if it were applied uniformly in all cases. But this Court has regularly refused to adjudicate the claims of litigants who argue that illegal action will probably harm them in the future. E.g., Sociaist Labor Party v. Gilligan, <a href="../us406/us406-0583.xml#p583">406 U. S. 583</a> (1972); SEC v. Medical Committee, <a href="../us404/us404-0403.xml#p403">404 U. S. 403</a> (1972). [Footnote 2/3] Moreover, in this case, the Court can find that the controversy will probably recur only by presuming that the Texas conviction is probably invalid. Such a presumption flies in the face of the principle that state convictions are ordinarily presumed valid. [Footnote 2/4] The Court betrays a surprising lack of confidence in the criminal processes of our States, for which there is no warrant in this record.</p>
       <p>In these circumstances, the possibility that this controversy will be revived is too remote and speculative to keep the case alive under established precedents. It is certainly too remote and speculative to warrant invoking the discretionary certiorari jurisdiction of this Court.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>Because the Court reaches out to decide the merits of this case, I think it appropriate to state my views on that subject as well.</p>
       <n id="p220">220</n>
       <p>Respondent was convicted of murder in Tennessee after a trial in which the principal prosecution witness, one Alex Holm, did not appear. Instead, Holm's testimony was introduced through a transcript of a previous trial on the same charge. The State made absolutely no effort to secure Holm's presence at the second trial, relying wholly on the claim that Holm was unavailable because he had become a resident of Sweden. The Court today concludes that the State did not thereby deny Stubbs his right "to be confronted with the witnesses against him," guaranteed by the Sixth and Fourteenth Amendments. To reach that result, the Court necessarily distinguishes our holding in Barber v. Page, <a href="../us390/us390-0719.xml#p719">390 U. S. 719</a> (1968), on untenable grounds, and utterly ignores its rationale.</p>

@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us593-18-1259.html" citation="593 U.S. 18-1259" title="Jones v. Mississippi">
   <opinion type="Opinion" author="Kavanaugh">
     <p>NOTICE: This opinion is subject to formal revision before publication in the preliminary print of the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, of any typographical or other formal errors, in order that corrections may be made before the preliminary print goes to press.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 18–1259</p>
-    <p>_________________</p>
     <p>BRETT JONES, PETITIONER v. MISSISSIPPI</p>
     <p>on writ of certiorari to the court of appeals of mississippi</p>
     <p>[April 22, 2021]</p>
@@ -95,9 +94,7 @@
   </opinion>
   <opinion type="Concurrence" author="Thomas">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 18–1259</p>
-    <p>_________________</p>
     <p>BRETT JONES, PETITIONER v. MISSISSIPPI</p>
     <p>on writ of certiorari to the court of appeals of mississippi</p>
     <p>[April 22, 2021]</p>
@@ -134,9 +131,7 @@
   </opinion>
   <opinion type="Dissent" author="Sotomayor">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>No. 18–1259</p>
-    <p>_________________</p>
     <p>BRETT JONES, PETITIONER v. MISSISSIPPI</p>
     <p>on writ of certiorari to the court of appeals of mississippi</p>
     <p>[April 22, 2021]</p>

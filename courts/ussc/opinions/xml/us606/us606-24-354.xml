@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us606-24-354.html" citation="606 U.S. 24-354" title="FCC v. Consumers' Research">
   <opinion type="Opinion" author="Kagan">
     <p>NOTICE: This opinion is subject to formal revision before publication in the United States Reports. Readers are requested to notify the Reporter of Decisions, Supreme Court of the United States, Washington, D. C. 20543, pio@supremecourt.gov, of any typographical or other formal errors.</p>
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 24–354 and 24–422</p>
-    <p>_________________</p>
     <p>FEDERAL COMMUNICATIONS COMMISSION, et al., PETITIONERS</p>
     <p>24–354v.</p>
     <p>CONSUMERS’ RESEARCH, et al.</p>
@@ -97,9 +96,7 @@
   </opinion>
   <opinion type="Concurrence" author="Kavanaugh">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 24–354 and 24–422</p>
-    <p>_________________</p>
     <p>FEDERAL COMMUNICATIONS COMMISSION, et al., PETITIONERS</p>
     <p>24–354v.</p>
     <p>CONSUMERS’ RESEARCH, et al.</p>
@@ -117,7 +114,7 @@
     <p>The Court has generally permitted such delegations. As to the text of the Constitution, the Court has rejected arguments that the President impermissibly wields legislative power when exercising discretion or policymaking authority delegated by Congress. Instead, the Court has reasoned that the President ordinarily exercises “executive Power” under Article II when implementing legislation—even if he employs discretion or policymaking authority when doing so and even if the Executive Branch issues legally binding regulations. See, e.g., Mistretta v. United States, <a href="../us488/us488-0361.xml#p361">488 U.S. 361</a>, 386, n. 14 (1989) (“[R]ulemaking power originates in the Legislative Branch and becomes an executive function only when delegated by the Legislature to the Executive Branch”); see also Loving v. United States, <a href="../us517/us517-0748.xml#p748">517 U.S. 748</a>, 777 (1996) (Scalia, J., concurring in part and concurring in judgment) (“What Congress does is to assign responsibilities to the Executive; and when the Executive undertakes those assigned responsibilities it acts, not as the ‘delegate’ of Congress, but as the agent of the People”); J. Manning, The Nondelegation Doctrine as a Canon of Avoidance, 2000 S. Ct. Rev. 223, 240, n. 90 (“The Court apparently believes that when a statute sets down an intelligible principle, the agency can be thought of as implementing legislative directions, rather than exercising legislative authority. . . . Under that view, the agency is engaged in law ‘execution,’ rather than receiving delegated legislative authority”).[<a id="nf2-3" href="#fn2-3">3</a>]</p>
     <p>The history of congressional delegations and the Court’s understanding of Article II’s text correspond to what the Court has described as the practicalities of legislative and executive action. Congress delegates at least in part because it must adapt legislation to “complex conditions involving a host of details with which the national legislature cannot deal directly.” A. L. A. Schechter Poultry Corp. v. United States, <a href="../us295/us295-0495.xml#p495">295 U.S. 495</a>, 530 (1935); Panama Refining Co. v. Ryan, <a href="../us293/us293-0388.xml#p388">293 U.S. 388</a>, 421 (1935). And the Constitution “has never been regarded as denying to Congress the necessary resources of flexibility and practicality.” Schechter Poultry, 295 U. S., at 530; Panama Refining, 293 U. S., at 421. That flexibility enables Congress “to perform its function in laying down policies and establishing standards, while leaving to selected instrumentalities the making of subordinate rules within prescribed limits and the determination of facts to which the policy as declared by the legislature is to apply.” Schechter Poultry, 295 U. S., at 530; Panama Refining, 293 U. S., at 421. Even when the legislature might want to legislate more specifically in certain circumstances, a “certain degree of discretion, and thus of lawmaking, inheres in most executive . . . action.” Whitman v. American Trucking Assns., Inc., <a href="../us531/us531-0457.xml#p457">531 U.S. 457</a>, 475 (2001) (quotation marks omitted).</p>
     <p>Although the Court has ruled that congressional delegations to the President are permissible as a matter of constitutional text and history, the Court has not said that “anything goes” with respect to those delegations. As Justice Gorsuch rightly says, Congress may not give “the President or an executive agency a blank check to legislate.” Post, at 12 (dissenting opinion). So “Members of Congress could not, even if they wished, vote all power to the President and adjourn sine die.” Mistretta, 488 U. S., at 415 (Scalia, J., dissenting). Congress likewise cannot merely assign the President to take over the legislative role as to a particular subject matter. See Schechter Poultry, 295 U. S., at 537–542; Panama Refining, 293 U. S., at 430. Rather, the Court has said, any congressional grant of authority must supply some guidance to the President—otherwise the President would no longer be exercising “executive Power” when implementing legislation.</p>
-    <p>But the question of where to draw that line can be difficult: At what point does a broad statutory delegation transform from (i) a permissible grant of discretion or policymaking authority for the President to exercise when implementing legislation into (ii) an impermissible delegation of legislative power? Justice Scalia phrased the issue this way: “Once it is conceded, as it must be, that no statute can be entirely precise, and that some judgments, even some judgments involving policy considerations, must be left to the officers executing the law . . . , the debate over unconstitutional delegation becomes a debate not over a point of principle but over a question of degree.” Mistretta, 488 U. S., at 415 (dissenting opinion).</p>
+    <p>But the question of where to draw that line can be difficult: At what point does a broad statutory delegation transform from (i) a permissible grant of discretion or policymaking authority for the President to exercise when implementing legislation into (ii) an impermissible delegation of legislative power? Justice Scalia phrased the issue this way: “Once it is conceded, as it must be, that no statute can be entirely precise, and that some judgments, even some judgments involving policy considerations, must be left to the officers executing the law . . ., the debate over unconstitutional delegation becomes a debate not over a point of principle but over a question of degree.” Mistretta, 488 U. S., at 415 (dissenting opinion).</p>
     <p>To address that question of degree and ensure that the President is exercising executive power when implementing legislation, the Court in 1928 adopted the “intelligible principle” test. In its unanimous opinion in J. W. Hampton, Jr., &amp; Co. v. United States, the Court speaking through Chief Justice (and former President) Taft stated: “If Congress shall lay down by legislative act an intelligible principle to which the person or body authorized to [act] is directed to conform, such legislative action is not a forbidden delegation of legislative power.” <a href="../us276/us276-0394.xml#p394">276 U.S. 394</a>, 409 (1928) (emphasis added). Rather, when implementing legislation that contains an intelligible principle, the President is exercising executive power. The inverse is also true: When Congress grants authority to the President without an intelligible principle to confine his action, Congress has impermissibly delegated legislative power, although the Court has found that to occur only “rarely.” Mistretta, 488 U. S., at 419 (Scalia, J., dissenting).</p>
     <p>The intelligible principle test recognizes that “[a]t some point the responsibilities assigned can become so extensive and so unconstrained that Congress has in effect delegated its legislative power.” Loving, 517 U. S., at 777 (Scalia, J., concurring in part and concurring in judgment). But “until that point of excess is reached there exists . . . no delegation” of legislative power “at all.” Ibid.</p>
     <p>For 97 years, the intelligible principle test set forth in J. W. Hampton has formed the foundation of the Court’s nondelegation doctrine. Under the test, as then-Justice Rehnquist succinctly framed it, Congress may “lay down the general policy and standards that animate the law, leaving the agency to refine those standards, ‘fill in the blanks,’ or apply the standards to particular cases.” Industrial Union Dept., AFL–CIO v. American Petroleum Institute, <a href="../us448/us448-0607.xml#p607">448 U.S. 607</a>, 675 (1980) (opinion concurring in judgment).</p>
@@ -149,9 +146,7 @@
   </opinion>
   <opinion type="Concurrence" author="Jackson">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 24–354 and 24–422</p>
-    <p>_________________</p>
     <p>FEDERAL COMMUNICATIONS COMMISSION, et al., PETITIONERS</p>
     <p>24–354v.</p>
     <p>CONSUMERS’ RESEARCH, et al.</p>
@@ -166,9 +161,7 @@
   </opinion>
   <opinion type="Dissent" author="Gorsuch">
     <p>SUPREME COURT OF THE UNITED STATES</p>
-    <p>_________________</p>
     <p>Nos. 24–354 and 24–422</p>
-    <p>_________________</p>
     <p>FEDERAL COMMUNICATIONS COMMISSION, et al., PETITIONERS</p>
     <p>24–354v.</p>
     <p>CONSUMERS’ RESEARCH, et al.</p>

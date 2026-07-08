@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us381-0311.html" citation="381 U.S. 311" title="Minnesota Mining v. New Jersey Wood Finishing">
   <opinion type="Opinions &amp; Dissents">
     <n id="p311">311</n>
-    <h>U.S. Supreme Court</h>
-    <h>Minnesota Mining v. New Jersey Wood Finishing, <a href="./us381-0311.xml#p311">381 U.S. 311</a> (1965)</h>
-    <h>Minnesota Mining &amp; Manufacturing Co. v.</h>
-    <h>New Jersey Wood Finishing Co.</h>
-    <h>No. 291</h>
-    <h>Argued April 29, 1965</h>
-    <h>Decided May 24, 1965</h>
-    <h><a href="./us381-0311.xml#p311">381 U.S. 311</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE THIRD CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Minnesota Mining v. New Jersey Wood Finishing, <a href="./us381-0311.xml#p311">381 U.S. 311</a> (1965)</h1>
+    <h2>Minnesota Mining &amp; Manufacturing Co. v.</h2>
+    <h2>New Jersey Wood Finishing Co.</h2>
+    <h2>No. 291</h2>
+    <h4>Argued April 29, 1965</h4>
+    <h4>Decided May 24, 1965</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE THIRD CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondent filed this private antitrust suit in 1961, alleging violations of § 7 of the Clayton Act and §§ 1 and 2 of the Sherman Act, arising out of petitioner's acquisition in 1956 of the assets of Insulation and Wires, Inc., which had been the primary distributor of electric insulation materials manufactured by respondent. Petitioner claimed that the action was barred by the four-year limitation provision of § 4B of the Clayton Act, but respondent asserted that the bar of the statute was tolled under § 5(b) by a proceeding timely filed in 1960 against petitioner pursuant to § 7 of the Clayton Act by the Federal Trade Commission (FTC). That proceeding resulted in a consent order under which petitioner was directed to divest itself of the acquired assets. Section 5(a) of the Clayton Act makes a final judgment or decree in any civil or criminal proceeding brought by or on behalf of the United States prima facie evidence in later private suits as to all matters respecting which that judgment or decree would be an estoppel as between the parties. Section 5(b) provides that a civil or criminal proceeding instituted by the United States to prevent, restrain, or punish violations of the antitrust laws tolls the statute of limitations during the pendency thereof and for one year thereafter for private actions arising under those laws and based on any matter complained of in the government suit. The District Court held that the statute had been tolled by § 5(b), and that the suit was timely filed, and the Court of Appeals affirmed.</p>
     <p>Held:</p>
     <p>1. Sections 5(a) and 5(b) of the Clayton Act are not wholly interdependent or coextensive. Pp. <a href="./us381-0311.xml#p316">381 U. S. 316</a>-318.</p>
@@ -28,7 +28,7 @@
     <p>Essex Wire Corporation. [<a id="nf1" href="#fn1">Footnote 1</a>] Respondent's original complaint was filed on November 20, 1961. [<a id="nf2" href="#fn2">Footnote 2</a>] It alleged violations of § 7 of the Clayton Act, [<a id="nf3" href="#fn3">Footnote 3</a>] a conspiracy to restrain commerce in electrical insulation products in violation of § 1 of the Sherman Act, and an attempt to monopolize the same as prohibited by § 2. [<a id="nf4" href="#fn4">Footnote 4</a>] The substance of the complaint concerned the acquisition in 1956 of all the assets of Insulation and Wires, Inc., a subsidiary of Essex, by Minnesota Mining, and an alleged conspiracy to restrain trade in electrical insulation products. The latter claimed that the suit was barred by the four-year limitation provision of the Clayton Act. [<a id="nf5" href="#fn5">Footnote 5</a>] However, New Jersey Wood asserted that the bar of the statute had been tolled by a proceeding filed in 1960 against Minnesota Mining by the Federal Trade Commission under § 7 of the Clayton Act. That action resulted in a consent order under which Minnesota Mining was directed to divest itself of the assets acquired. Section 5(b) of the Clayton Act [<a id="nf6" href="#fn6">Footnote 6</a>] provides</p>
     <n id="p314">314</n>
     <p>that a "civil or criminal proceeding . . . instituted by the United States to prevent, restrain, or punish violations of any of the antitrust laws" suspends the running of the statute of limitations during the pendency thereof and for one year thereafter with respect to private actions arising under those laws and based on any matter complained of in the government suit. The questions here are whether proceedings by the Federal Trade Commission toll the running of the § 4B statute of limitations to the same extent as to judicial proceedings, and, if they do, whether the claim of New Jersey Wood is based on "any matter complained of" in the Commission action. The District Court denied Minnesota Mining's motion to dismiss, holding that the four-year statute had been tolled by § 5(b) and that this suit was timely filed. <a href="https://law.justia.com/cases/federal/district-courts/FSupp/216/507/2339381/">216 F. Supp. 507</a>. The Court of Appeals affirmed. 332 F.2d 346. We granted certiorari because of a conflict between circuits [<a id="nf7" href="#fn7">Footnote 7</a>] and the importance of the question in the administration of the Clayton Act. 379 U.S. 877.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>New Jersey Wood is engaged in the manufacture of electrical insulation materials, some of which it sells to independent distributors who, in turn, sell to wire and</p>
     <n id="p315">315</n>
     <p>cable manufacturers and fabricators. Minnesota Mining is a diversified company, with one of its divisions producing electrical insulation materials. Essex is a substantial consumer of electrical insulation material. It owned Insulation Wires, which distributes that type of material.</p>
@@ -36,7 +36,7 @@
     <p>Thereafter, within a year, this suit was filed. We need not detail the allegations of the complaint. It is sufficient to say that the gist of it was that, prior to August, 1956, Insulation Wires was the primary distributor of New Jersey Wood products throughout the United States; that, in August, 1956, Minnesota Mining acquired all of the assets of Insulation Wires, and, during the next month, notified New Jersey Wood that, beginning in January, 1957, Insulation Wires would no longer distribute its products. The complaint also charged Minnesota Mining and Essex with conspiring to restrain trade and commerce in the manufacture, sale and distribution of electrical insulation products beginning with the acquisition of Insulation</p>
     <n id="p316">316</n>
     <p>Wires and continuing until the filing of this suit. There were numerous overt acts alleged as being in furtherance of the conspiracy, the first of which was that acquisition.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>At the outset, it is necessary to examine § 5(a) of the Clayton Act [<a id="nf8" href="#fn8">Footnote 8</a>] and its relationship to § 5(b). The former makes a final judgment or decree in any civil or criminal proceeding brought by or on behalf of the United States prima facie evidence in subsequent private suits "as to all matters respecting which said judgment or decree would be an estoppel as between the parties thereto." Several distinctions between these sections are apparent, and suggest that they are not wholly interdependent. First, the words "final judgment or decree" are used in § 5(a), and are of crucial significance in its application. However, § 5(b) tolls the statute of limitations set out in § 4B from the time suit is instituted by the United States regardless of whether a final judgment or decree is ultimately entered. Its applicability in no way turns on the success of the Government in prosecuting its case. Moreover, under § 5(a), the judgment or decree may be used only as to matters respecting which it would operate as an estoppel between the parties. No such limitation appears</p>
     <n id="p317">317</n>
     <p>in the tolling provision. It applies to every private right of action based in whole or in part on "any matter" complained of in the government suit.</p>
@@ -46,7 +46,7 @@
     <p>to vouchsafe the intended benefits of related government proceedings by suspending the running of the statute of limitations until the termination of the government proceedings, and allowing the private suitor one year thereafter in which to prepare and file his suit. The competency of a government judgment in a private suit is necessarily restricted to the requirements of due process. But the tolling of the statute during the pendency of the government litigation is not so limited."</p>
     <p>Id. at 569.</p>
     <p>In our view, therefore, the two sections are not necessarily coextensive; they are governed by different considerations as well as congressional policy objectives. This makes § 5(b) readily severable from § 5(a). Even if we assumed arguendo that § 5(a) is inapplicable to Commission proceedings -- a question upon which we venture no opinion -- that conclusion would be immaterial in our consideration of § 5(b) and § 4B. Congress has expressed its belief that private antitrust litigation is one of the surest weapons for effective enforcement of the antitrust laws. This construction will lend considerable impetus to that policy.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Section 5, later §§ 5(a) and 5(b), was passed in response to the plea of President Wilson. In a speech to the Congress on January 20, 1914, he urged that a law be enacted which would permit victims of antitrust violations to have "redress upon the facts and judgments proved and entered in suits by the Government" and that "the statute of limitations . . . be suffered to run against such litigants only from the date of the conclusion of the Government's action." 51 Cong.Rec. 1964. The broad aim of this enactment was to use "private self-interest as a means of enforcement" of the antitrust laws. Bruce's Juices, Inc. v. American Can Co., <a href="../us330/us330-0743.xml#p743">330 U. S. 743</a>, <a href="../us330/us330-0743.xml#p751">330 U. S. 751</a></p>
     <n id="p319">319</n>
     <p>(1947). The</p>
@@ -64,7 +64,7 @@
     <p>We hold, therefore, that the limitation provision of § 4B is tolled by Commission proceedings to the same extent</p>
     <n id="p322">322</n>
     <p>and in the same circumstances as it is by Justice Department actions. In so holding, we give effect to Congress' basic policy objectives in enacting § 5(b) -- objectives which would be frustrated should we reach a contrary conclusion, and thereby deprive large numbers of private litigants of the benefits of government antitrust suits simply because those suits were pursued by one governmental agency rather than the other.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>Minnesota Mining further contends that, even though § 5(b) tolls Commission proceedings, the suit here, insofar as it asserts Sherman Act claims, is not based in part on any matter complained of in the Commission's proceeding. We cannot agree.</p>
     <p>New Jersey Wood's Sherman Act claims rest on an alleged conspiracy to restrain and attempt to monopolize trade and commerce in the manufacture, sale and distribution of electrical insulation products. The purposes of the conspiracy were alleged to be: (1) to control Insulation Wires; (2) to prevent it from distributing New Jersey Wood products; (3) to insure that Insulation Wires' supplies were purchased from a Minnesota Mining subsidiary; (4) to effect tie-in sales of electrical insulation products with other Minnesota Mining products; and (5) to have Essex deal only with Insulation Wires in purchasing electrical insulation products to the exclusion of competitive distributors handling New Jersey Wood products. The effect of the conspiracy was alleged to be the complete disruption of the pattern of manufacture, sale, and distribution that New Jersey Wood had enjoyed with Insulation Wires and denial to it of access to substantial national markets for electrical insulation products.</p>
     <p>Certainly the allegations are based "in part" on the Commission action. It charged that the Insulation Wires acquisition, along with that of another distributor, placed</p>

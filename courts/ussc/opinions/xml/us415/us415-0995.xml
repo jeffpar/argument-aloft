@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us415-0995.html" citation="415 U.S. 995" title="FLAHERTY v. ARKANSAS">
   <opinion type="Opinions &amp; Dissents">
     <n id="p995">995</n>
-    <h>U.S. Supreme Court</h>
-    <h>FLAHERTY v. ARKANSAS , <a href="./us415-0995.xml#p995">415 U.S. 995</a> (1974)</h>
-    <h> <a href="./us415-0995.xml#p995">415 U.S. 995</a></h>
-    <h>Claude Earl FLAHERTY and Gene Whipple v. State of ARKANSAS. No. 73-1169.</h>
-    <h>Supreme Court of the United States</h>
-    <h>March 25, 1974</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>FLAHERTY v. ARKANSAS, <a href="./us415-0995.xml#p995">415 U.S. 995</a> (1974)</h1>
+    <h2>Claude Earl FLAHERTY and Gene Whipple v. State of ARKANSAS. No. 73-1169.</h2>
+    <h2>Supreme Court of the United States</h2>
+    <h4>March 25, 1974</h4>
     <p>On petition for writ of certiorari to the Supreme Court of Arkansas.</p>
     <p>The petition for a writ of certiorari is denied.</p>
     <p>Mr. Justice DOUGLAS, with whom Mr. Justice BRENNAN and Mr. Justice MARSHALL concur, dissenting.</p>
@@ -29,7 +29,7 @@
     <p>But these cases do not reach the instant case. The principle underlying them is that when one reveals information to an individual, one takes the risk that one's confidence in that individual is misplaced. [<a id="nf5" href="#fn5">Footnote 5</a>] The individual might be a government informer or agent, or might later reveal one's confidences to others. When he talks, it is only the trust placed in him that is breached. But here the callers were deceived as to the identities of the individuals with whom they were speaking. Trust was not misplaced in petitioner Flaherty, who then revealed information or allowed the police to listen in; trust was misplaced in the assumption that an individual identifying himself as Flaherty was in fact the person known to the callers as Flaherty.</p>
     <p>Allowing the government to practice deception in this case carries the seeds of destroying a substantial part of the congressional plan in Title III and its constitutional underpinnings. By impersonation, the police could engage in conversations with unsuspecting callers, becoming technical 'parties' to the conversations. In the instant case, a standard warrant to search a home for physical evidence was transmuted into the power to search and seize all incoming calls without any of the protections inherent in Title III's requirements. But the principle would seemingly extend beyond this situation, even to the situation where the police intercepted calls before they reached a recipient's telephone and mimicked the intended recipient's voice, inducing a conversation to which the police were 'parties.' It is unthinkable that a carefully drawn legislative plan can consistently with constitutional principles be frustrated in a manner leaving no legal protection for the privacy and security of telephone conversations as long as callers can be successfully deceived. We have not yet reached the point where the people must use secret passwords to establish their identities when communicating by telephone.</p>
     <p>I would grant certiorari and reverse the judgment below.</p>
-    <h>Footnotes</h>
+    <h2>Footnotes</h2>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>
       <p>Some callers asked to speak to Whipple and some asked to speak to Flaherty. The officer who monitored the phone admitted that on some occasions at least he 'posed as' and was 'impersonating' Flaherty. R. 235- 236.</p>
     </f>

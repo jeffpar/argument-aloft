@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us442-0510.html" citation="442 U.S. 510" title="Sandstrom v. Montana">
   <opinion type="Opinions &amp; Dissents">
     <n id="p510">510</n>
-    <h>U.S. Supreme Court</h>
-    <h>Sandstrom v. Montana, <a href="./us442-0510.xml#p510">442 U.S. 510</a> (1979)</h>
-    <h>Sandstrom v. Montana</h>
-    <h>No. 78-5384</h>
-    <h>Argued April 18, 1979</h>
-    <h>Decided June 18, 1979</h>
-    <h><a href="./us442-0510.xml#p510">442 U.S. 510</a></h>
-    <h>CERTIORARI TO THE SUPREME COURT OF MONTANA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Sandstrom v. Montana, <a href="./us442-0510.xml#p510">442 U.S. 510</a> (1979)</h1>
+    <h2>Sandstrom v. Montana</h2>
+    <h2>No. 78-5384</h2>
+    <h4>Argued April 18, 1979</h4>
+    <h4>Decided June 18, 1979</h4>
+    <h2>CERTIORARI TO THE SUPREME COURT OF MONTANA</h2>
+    <h2>Syllabus</h2>
     <p>Based upon a confession and other evidence, petitioner was charged under a Montana statute with "deliberate homicide," in that he "purposely or knowingly" caused the victim's death. At trial, petitioner argued that, although he killed the victim, he did not do so "purposely or knowingly," and therefore was not guilty of deliberate homicide. The trial court instructed the jury that "[t]he law presumes that a person intends the ordinary consequences of his voluntary acts," over petitioner's objection that such instruction had the effect of shifting the burden of proof on the issue of purpose or knowledge. The jury found petitioner guilty, and the Montana Supreme Court affirmed, holding that although shifting the burden of proof to the defendant by means of a presumption is prohibited, allocation of "some burden of proof" to a defendant is permissible. Finding that under the instruction in question petitioner's sole burden was to produce "some" evidence that he did not intend the ordinary consequences of his voluntary acts, and not to disprove that he acted "purposely or knowingly," the Montana court held that the instruction did not violate due process standards.</p>
     <p>Held: Because the jury may have interpreted the challenged presumption as conclusive, like the presumptions in Morissette v. United States, <a href="../us342/us342-0246.xml#p246">342 U. S. 246</a>, and United States v. United States Gypsum Co., <a href="../us438/us438-0422.xml#p422">438 U. S. 422</a>, or as shifting the burden of persuasion, like that in Mullaney v. Wilbur, <a href="../us421/us421-0684.xml#p684">421 U. S. 684</a>, and because either interpretation would have violated the Fourteenth Amendment's requirement that the State prove every element of a criminal offense beyond a reasonable doubt, the instruction is unconstitutional. Pp. <a href="./us442-0510.xml#p514">442 U. S. 514</a>-527.</p>
     <p>(a) The effect of a presumption in a jury instruction is determined by the way in which a reasonable juror could have interpreted it, not by a state court's interpretation of its legal import. Pp. <a href="./us442-0510.xml#p514">442 U. S. 514</a>, <a href="./us442-0510.xml#p517">442 U. S. 517</a>.</p>
@@ -27,7 +27,7 @@
     <n id="p512">512</n>
     <p>MR. JUSTICE BRENNAN delivered the opinion of the Court.</p>
     <p>The question presented is whether, in a case in which intent is an element of the crime charged; the jury instruction, "the law presumes that a person intends the ordinary consequences of his voluntary acts," violates the Fourteenth Amendment's requirement that the State prove every element of a criminal offense beyond a reasonable doubt.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>On November 22, 1976, 18-year-old David Sandstrom confessed to the slaying of Annie Jessen. Based upon the confession and corroborating evidence, petitioner was charged on December 2 with "deliberate homicide," Mont.Code Ann. § 45-5102 (1978), in that he "purposely or knowingly caused the death of Annie Jessen." App. 3. [<a id="nf1" href="#fn1">Footnote 1</a>] At trial, Sandstrom's attorney informed the jury that, although his client admitted killing Jessen, he did not do so "purposely or knowingly," and was therefore not guilty of "deliberate homicide," but of a lesser crime. Id. at 6-8. The basic support for this contention was the testimony of two court-appointed mental health experts, each of whom described for the jury petitioner's mental state at the time of the incident. Sandstrom's attorney argued that this testimony demonstrated that petitioner, due to a personality disorder aggravated by alcohol consumption, did not kill Annie Jessen "purposely or knowingly." [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
     <n id="p513">513</n>
     <p>The prosecution requested the trial judge to instruct the jury that "[t]he law presumes that a person intends the ordinary consequences of his voluntary acts." Petitioner's counsel objected, arguing that "the instruction has the effect of shifting the burden of proof on the issue of" purpose or knowledge to the defense, and that "that is impermissible under the Federal Constitution, due process of law." Id. at 34. He offered to provide a number of federal decisions in support of the objection, including this Court's holding in Mullaney v. Wilbur, <a href="../us421/us421-0684.xml#p684">421 U. S. 684</a> (1975), but was told by the judge: "You can give those to the Supreme Court. The objection is overruled." App. 34. The instruction was delivered, the jury found petitioner guilty of deliberate homicide, id. at 38, and petitioner was sentenced to 100 years in prison.</p>
@@ -37,7 +37,7 @@
     <p>standards as defined by the United States or Montana Constitution. . . ."</p>
     <p>Ibid. (emphasis added) .</p>
     <p>Both federal and state courts have held, under a variety of rationales, that the giving of an instruction similar to that challenged here is fatal to the validity of a criminal conviction. [<a id="nf3" href="#fn3">Footnote 3</a>] We granted certiorari, 439 U.S. 1067 (1979), to decide the important question of the instruction's constitutionality. We reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The threshold inquiry in ascertaining the constitutional analysis applicable to this kind of jury instruction is to determine the nature of the presumption it describes. See Ulster County Court v. Allen, ante at <a href="./us442-0140.xml#p157">442 U. S. 157</a>-163. That determination requires careful attention to the words actually spoken to the jury, see ante at <a href="./us442-0140.xml#p157">442 U. S. 157</a>-159, n. 16, for whether a defendant has been accorded his constitutional rights depends upon the way in which a reasonable juror could have interpreted the instruction.</p>
     <p>Respondent argues, first, that the instruction merely described a permissive inference -- that is, it allowed, but did not require, the jury to draw conclusions about defendant's intent from his actions -- and that such inferences are constitutional. Brief for Respondent 3, 15. These arguments need not detain us long, for even respondent admits that "it's possible" that</p>
     <n id="p515">515</n>
@@ -59,7 +59,7 @@
     <n id="p519">519</n>
     <p>We do not reject the possibility that some jurors may have interpreted the challenged instruction as permissive, or, if mandatory, as requiring only that the defendant come forward with "some" evidence in rebuttal. However, the fact that a reasonable juror could have given the presumption conclusive or persuasion-shifting effect means that we cannot discount the possibility that Sandstrom's jurors actually did proceed upon one or the other of these latter interpretations. And that means that, unless these kinds of presumptions are constitutional, the instruction cannot be adjudged valid. [<a id="nf8" href="#fn8">Footnote 8</a>] Ulster County Court v. Allen, ante at <a href="./us442-0140.xml#p159">442 U. S. 159</a>-160, n. 17, and at <a href="./us442-0140.xml#p175">442 U. S. 175</a>-176 (POWELL, J., dissenting); Bachellar v. Maryland, <a href="../us397/us397-0564.xml#p564">397 U. S. 564</a>, <a href="../us397/us397-0564.xml#p570">397 U. S. 570</a>-571 (1970); Leary v. United States, <a href="../us395/us395-0006.xml#p6">395 U. S. 6</a>, <a href="../us395/us395-0006.xml#p31">395 U. S. 31</a>-32 (1969); Carpenters v. United States, <a href="../us330/us330-0395.xml#p395">330 U. S. 395</a>, <a href="../us330/us330-0395.xml#p408">330 U. S. 408</a>-409 (1947); Bollenbach v. United States, <a href="../us326/us326-0607.xml#p607">326 U. S. 607</a>, <a href="../us326/us326-0607.xml#p611">326 U. S. 611</a>-614 (1946). It is the line of cases urged by petitioner, and exemplified by In re Winship, <a href="../us397/us397-0358.xml#p358">397 U. S. 358</a> (1970), that provides the appropriate mode of constitutional analysis for these kinds of presumptions. [<a id="nf9" href="#fn9">Footnote 9</a>]</p>
     <n id="p520">520</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>In Winship, this Court stated:</p>
     <p>"Lest there remain any doubt about the constitutional stature of the reasonable doubt standard, we explicitly hold that the Due Process Clause protects the accused against conviction except upon proof beyond a reasonable doubt of every fact necessary to constitute the crime with which he is charged."</p>
     <p>Id. at <a href="../us397/us397-0358.xml#p362">397 U. S. 364</a> (emphasis added). Accord, Patterson v. New York, 432 U.S. at <a href="../us432/us432-0197.xml#p210">432 U. S. 210</a>. The petitioner here was charged with and convicted of deliberate homicide, committed purposely or knowingly, under Mont.Code Ann. § 45-5-102(a) (1978). See App. 3, 42. It is clear that, under Montana law, whether the crime was committed purposely or knowingly is a fact necessary to constitute the crime of deliberate homicide. [<a id="nf10" href="#fn10">Footnote 10</a>] Indeed, it was</p>
@@ -89,7 +89,7 @@
     <p>by means of such a presumption. Id. at <a href="../us432/us432-0197.xml#p215">432 U. S. 215</a>.</p>
     <p>Because David Sandstrom's jury may have interpreted the judge's instruction as constituting either a burden-shifting presumption like that in Mullaney or a conclusive presumption like those in Morissette and United States Gypsum Co., and because either interpretation would have deprived defendant of his right to the due process of law, we hold the instruction given in this case unconstitutional.</p>
     <n id="p525">525</n>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>Respondent has proposed two alternative rationales for affirming petitioner's conviction even if the presumption at issue in this case is unconstitutional. First, the State notes that the jury was instructed that deliberate homicide may be committed "purposely or knowingly." [<a id="nf12" href="#fn12">Footnote 12</a>] App 35 (emphasis added). Since the jury was also instructed that a person "intends" the ordinary consequences of his voluntary acts, but was not provided with a definition of "intends," respondent argues that jurors could have interpreted the word as referring only to the defendant's "purpose." Thus, a jury which convicted Sandstrom solely for his "knowledge," and which interpreted "intends" as relevant only to "purpose", would not have needed to rely upon the tainted presumption at all.</p>
     <p>We cannot accept respondent's argument. As an initial matter, we are not at all certain that a jury would interpret the word "intends" as bearing solely upon purpose. As we said in United States v. United States Gypsum Co., 438 U.S. at <a href="../us438/us438-0422.xml#p445">438 U. S. 445</a>,</p>
     <p>"[t]he element of intent in the criminal law has traditionally</p>
@@ -154,10 +154,10 @@
     <f n="12"><a id="fn12" href="#nf12">Footnote 12</a>
       <p>The jurors were instructed:</p>
       <p>"</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>NSTRUCTION NO. 7" "'Knowingly' is defined as follows: A person acts knowingly with respect to conduct or to a circumstance described by a statute defining an offense when he is aware of his conduct or that the circumstance exists. A person acts knowingly with respect to the result of conduct described by a statute defining an offense when he is aware that it is highly probable that such result will be caused by his conduct. When knowledge of the existence of a particular fact is an element of an offense, such knowledge is established if a person is aware of a high probability of its existence. Equivalent terms such as 'knowing' or 'with knowledge' have the same meaning."</p>
       <p>"</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>NSTRUCTION NO. 8" "'Purposely' is defined as follows: A person acts purposely with respect to a result or to conduct described by a statute defining an offense if it is his conscious object to engage in that conduct or to cause that result."</p>
       <p>App. 35-36.</p>
     </f>

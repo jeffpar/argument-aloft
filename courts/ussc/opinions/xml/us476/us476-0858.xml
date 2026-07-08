@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us476-0858.html" citation="476 U.S. 858" title="East River S.S. Corp. v. Transamerica">
   <opinion type="Opinions &amp; Dissents">
     <n id="p858">858</n>
-    <h>U.S. Supreme Court</h>
-    <h>East River S.S. Corp. v. Transamerica, <a href="./us476-0858.xml#p858">476 U.S. 858</a> (1986)</h>
-    <h>East River Steamship Corp. v. Transamerica Delaval Inc.</h>
-    <h>No. 84-1726</h>
-    <h>Argued January 21, 1986</h>
-    <h>Decided June 16, 1986</h>
-    <h><a href="./us476-0858.xml#p858">476 U.S. 858</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE THIRD CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>East River S.S. Corp. v. Transamerica, <a href="./us476-0858.xml#p858">476 U.S. 858</a> (1986)</h1>
+    <h2>East River Steamship Corp. v. Transamerica Delaval Inc.</h2>
+    <h4>No. 84-1726</h4>
+    <h4>Argued January 21, 1986</h4>
+    <h4>Decided June 16, 1986</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE THIRD CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>A shipbuilder contracted with respondent to design, manufacture, and supervise the installation of turbines that would be the main propulsion units for four oil-transporting supertankers constructed by the shipbuilder. After each ship was completed, it was chartered to one of the petitioners. When the ships were put into service, the turbines on all four ships malfunctioned due to design and manufacturing defects. Only the products themselves were damaged. Petitioners filed a five-count admiralty complaint in Federal District Court against respondent, alleging tortious conduct based on a products liability theory and seeking damages for the cost of repairing the ships and for income lost while they were out of service. The District Court granted summary judgment for respondent. The Court of Appeals affirmed, holding that petitioners' dissatisfaction with product quality did not state a claim cognizable in tort.</p>
     <p>Held:</p>
     <p>1. The fourth count should have been dismissed on the ground that the petitioner who chartered the ship referred to in that count lacked standing to bring the claim. P. <a href="./us476-0858.xml#p863">476 U. S. 863</a>.</p>
@@ -23,7 +23,7 @@
     <n id="p859">859</n>
     <p>JUSTICE BLACKMUN delivered the opinion of the Court.</p>
     <p>In this admiralty case, we must decide whether a cause of action in tort is stated when a defective product purchased in a commercial transaction malfunctions, injuring only the product itself and causing purely economic loss. The case requires us to consider preliminarily whether admiralty law, which already recognizes a general theory of liability for negligence, also incorporates principles of products liability, including strict liability. Then, charting a course between products liability and contract law, we must determine whether injury to a product itself is the kind of harm that should be protected by products liability or left entirely to the law of contracts.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In 1969, Seatrain Shipbuilding Corp. (Shipbuilding), a wholly owned subsidiary of Seatrain Lines, Inc. (Seatrain), announced it would build the four oil-transporting supertankers in issue -- the T. T. Stuyvesant, T. T. Williamsburgh, T. T. Brooklyn, and T. T. Bay Ridge. Each tanker was constructed pursuant to a contract in which a separate wholly owned subsidiary of Seatrain engaged Shipbuilding. Shipbuilding in turn contracted with respondent, now known as Transamerica Delaval Inc. (Delaval), to design, manufacture, and supervise the installation of turbines (costing $1.4 million each, see App. 163) that would be the main propulsion units for the 225,000-ton, $125 million, ibid., supertankers. When each ship was completed, its title was transferred from the contracting subsidiary to a trust company (as trustee for</p>
     <n id="p860">860</n>
     <p>an owner), which in turn chartered the ship to one of the petitioners, also subsidiaries of Seatrain. Queensway Tankers, Inc., chartered the Stuyvesant; Kingsway Tankers, Inc., chartered the Williamsburgh; East River Steamship Corp. chartered the Brooklyn; and Richmond Tankers, Inc., chartered the Bay Ridge. Each petitioner operated under a bareboat charter, by which it took full control of the ship for 20 or 22 years as though it owned it, with the obligation afterwards to return the ship to the real owner. See G. Gilmore &amp; C. Black, Admiralty §§ 4-1, 4-22 (2d ed.1975). Each charterer assumed responsibility for the cost of any repairs to the ships. Tr. of Oral Arg. 11, 16-17, 35.</p>
@@ -31,7 +31,7 @@
     <p>The Brooklyn and the Williamsburgh were put into service in late 1973 and late 1974, respectively. In 1978, as a result of the Stuyvesant's problems, they were inspected while in port. Those inspections revealed similar turbine damage. Temporary repairs were made, and newly designed parts were installed as permanent repairs that summer.</p>
     <n id="p861">861</n>
     <p>When the Bay Ridge was completed in early 1979, it contained the newly designed parts, and thus never experienced the high-pressure turbine problems that plagued the other three ships. Nonetheless, the complaint appears to claim damages as a result of deterioration of the Bay Ridge's ring that was installed in the Stuyvesant while the Bay Ridge was under construction. In addition, the Bay Ridge experienced a unique problem. In 1980, when the ship was on its maiden voyage, the engine began to vibrate with a frequency that increased even after speed was reduced. It turned out that the astern guardian valve, located between the high-pressure and low-pressure turbines, had been installed backwards. Because of that error, steam entered the low-pressure turbine and damaged it. After repairs, the Bay Ridge resumed its travels.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The charterers' second amended complaint, filed in the United States District Court for the District of New Jersey, invokes admiralty jurisdiction. It contains five counts alleging tortious conduct on the part of respondent Delaval, and seeks an aggregate of more than $8 million in damages for the cost of repairing the ships and for income lost while the ships were out of service. The first four counts, read liberally, allege that Delaval is strictly liable for the design defects in the high-pressure turbines of the Stuyvesant, the Williamsburgh, the Brooklyn, and the Bay Ridge, respectively. The fifth count alleges that Delaval, as part of the manufacturing process, negligently supervised the installation of the astern guardian valve on the Bay Ridge. The initial complaint also had listed Seatrain and Shipbuilding as plaintiffs, and had alleged breach of contract and warranty, as well as tort claims. But after Delaval interposed a statute of limitations defense, the complaint was amended and the charterers alone brought the suit in tort. The nonrenewed claims were dismissed with prejudice by the District Court. Delaval then moved</p>
     <n id="p862">862</n>
     <p>for summary judgment, contending that the charterers' actions were not cognizable in tort.</p>
@@ -40,7 +40,7 @@
     <p>Judge Becker largely agreed with the majority's approach, but would permit recovery for a "near miss," where the risk existed but no calamity occurred. He felt that the first count, concerning the Stuyvesant, stated a cause of action in tort. The exposure of the ship to a severe storm when the ship was unable to operate at full power due to the defective part created an unreasonable risk of harm.</p>
     <n id="p863">863</n>
     <p>We granted certiorari to resolve a conflict among the Courts of Appeals sitting in admiralty. [<a id="nf1" href="#fn1">Footnote 1</a>] 474 U.S. 814 (1985).</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>A</p>
     <p>Initially, we conclude that the fourth count should have been dismissed because Richmond Tankers, Inc., the charterer of the Bay Ridge, lacks standing to bring a claim relating to the defective ring that was removed from the Bay Ridge when it was still under construction. The ring was installed in the Stuyvesant, where it remained until April, 1978, when it was removed due to disintegration. Richmond did not charter the Bay Ridge until May, 1979, after the ship was completed with a newly designed, nondefective, high-pressure turbine. See Plaintiffs' Answers to First Set of Interrogatories of Defendants, No. 42. Richmond therefore can allege no cognizable injury. Warth v. Seldin, <a href="../us422/us422-0490.xml#p490">422 U. S. 490</a>, <a href="../us422/us422-0490.xml#p501">422 U. S. 501</a> (1975). Richmond, of course, has standing to bring the claim raised in the fifth count, as the damage from the reverse installation of the astern guardian valve allegedly occurred after Richmond chartered the Bay Ridge.</p>
     <p>B</p>
@@ -56,7 +56,7 @@
     <p>We join the Courts of Appeals in recognizing products liability, including strict liability, as part of the general maritime law. This Court's precedents relating to injuries of maritime workers long have pointed in that direction. See Seas Shipping Co. v. Sieracki, <a href="../us328/us328-0085.xml#p85">328 U. S. 85</a>, <a href="../us328/us328-0085.xml#p94">328 U. S. 94</a> (1946) (strict liability for unseaworthiness); Italia Societa per Azioni di Navigazione v. Oregon Stevedoring Co., <a href="../us376/us376-0315.xml#p315">376 U. S. 315</a>, <a href="../us376/us376-0315.xml#p322">376 U. S. 322</a> (1964) (strict liability for breach of implied warranty of workmanlike</p>
     <n id="p866">866</n>
     <p>service). The Court's rationale in those cases -- that strict liability should be imposed on the party best able to protect persons from hazardous equipment -- is equally applicable when the claims are based on products liability. Compare Sieracki, 328 U.S. at <a href="../us328/us328-0085.xml#p93">328 U. S. 93</a>-94, with Escola v. Coca Cola Bottling Co. of Fresno, <a href="https://law.justia.com/cases/california/supreme-court/2d/24/453.html">24 Cal. 2d 453</a>, 462, 150 P.2d 436, 441 (1944) (concurring opinion). And to the extent that products actions are based on negligence, they are grounded in principles already incorporated into the general maritime law. See Kermarec v. Compagnie Generale Transatlantique, 358 U.S. at <a href="../us358/us358-0625.xml#p632">358 U. S. 632</a>. Our incorporation of products liability into maritime law, however, is only the threshold determination to the main issue in this case.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>Products liability grew out of a public policy judgment that people need more protection from dangerous products than is afforded by the law of warranty. See Seely v. White Motor Co., <a href="https://law.justia.com/cases/california/supreme-court/2d/63/9.html">63 Cal. 2d 9</a>, 15, 403 P.2d 145, 149 (1965). It is clear, however, that, if this development were allowed to progress too far, contract law would drown in a sea of tort. See G. Gilmore, The Death of Contract 87-94 (1974). We must determine whether a commercial product injuring itself is the kind of harm against which public policy requires manufacturers to protect, independent of any contractual obligation.</p>
     <p>A</p>
     <p>The paradigmatic products liability action is one where a product "reasonably certain to place life and limb in peril," distributed without reinspection, causes bodily injury. See, e.g., MacPherson v. Buick Motor Co., 217 N.Y. 382, 389, 111 N.E. 1051, 1053 (1916). The manufacturer is liable whether or not it is negligent, because</p>

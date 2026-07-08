@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us475-0260.html" citation="475 U.S. 260" title="Fisher v. City of Berkeley">
   <opinion type="Opinions &amp; Dissents">
     <n id="p260">260</n>
-    <h>U.S. Supreme Court</h>
-    <h>Fisher v. City of Berkeley, <a href="./us475-0260.xml#p260">475 U.S. 260</a> (1986)</h>
-    <h>Fisher v. City of Berkeley</h>
-    <h>No. 84-1538</h>
-    <h>Argued November 12, 1985</h>
-    <h>Decided February 26, 1986</h>
-    <h><a href="./us475-0260.xml#p260">475 U.S. 260</a></h>
-    <h>APPEAL FROM THE SUPREME COURT OF CALIFORNIA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Fisher v. City of Berkeley, <a href="./us475-0260.xml#p260">475 U.S. 260</a> (1986)</h1>
+    <h2>Fisher v. City of Berkeley</h2>
+    <h2>No. 84-1538</h2>
+    <h4>Argued November 12, 1985</h4>
+    <h4>Decided February 26, 1986</h4>
+    <h2>APPEAL FROM THE SUPREME COURT OF CALIFORNIA</h2>
+    <h2>Syllabus</h2>
     <p>A Berkeley, California, ordinance, enacted pursuant to popular initiative, imposes rent ceilings on residential real property in the city. The rent ceilings are under the control of a Rent Stabilization Board. Appellant landlords brought suit in California Superior Court challenging the constitutionality of the ordinance on Fourteenth Amendment grounds and seeking declaratory and injunctive relief. The Superior Court upheld the ordinance, but was reversed by the California Court of Appeal. In the meantime, based on the intervening decision in Community Communications Co. v. Boulder, <a href="../us455/us455-0040.xml#p40">455 U. S. 40</a>, the question arose as to whether the ordinance was unconstitutional because it was preempted by the Sherman Act. The California Supreme Court held that there was no conflict between the ordinance and the Sherman Act.</p>
     <p>Held: The ordinance is not unconstitutional as being preempted by the Sherman Act. Pp. <a href="./us475-0260.xml#p264">475 U. S. 264</a>-270.</p>
     <p>(a) The rent ceilings established by the ordinance and maintained by the Rent Stabilization Board were unilaterally imposed by the city upon landlords to the exclusion of private control. Thus, the rent ceilings lack the element of concerted action needed before they can be characterized as a per se violation of § 1 of the Sherman Act. A restraint imposed unilaterally by government does not become concerted action within the meaning of § 1 simply because it has a coercive effect upon parties who must obey the law. And the mere fact that all competing landlords must comply with the ordinance is not enough to establish a conspiracy among landlords. Pp. 475 U.S. 265-267.</p>
@@ -21,7 +21,7 @@
     <p>JJ., joined. POWELL, J., filed an opinion concurring in the judgment, post, p. <a href="./us475-0260.xml#p270">475 U. S. 270</a>. BRENNAN, J., filed a dissenting opinion, post, p. <a href="./us475-0260.xml#p274">475 U. S. 274</a>.</p>
     <p>JUSTICE MARSHALL delivered the opinion of the Court.</p>
     <p>The question presented here is whether a rent control ordinance enacted by a municipality pursuant to popular initiative is unconstitutional because preempted by the Sherman Act.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In June, 1980, the electorate of the city of Berkeley, California, enacted an initiative entitled "Ordinance 5261-N.S., Rent Stabilization and Eviction for Good Cause Ordinance"</p>
     <n id="p262">262</n>
     <p>(hereafter Ordinance). Section 3 of the Ordinance stated the measure's purposes: [<a id="nf1" href="#fn1">Footnote 1</a>]</p>
@@ -35,7 +35,7 @@
     <p>Page 475 U. S. 264</p>
     <p>National Society of Professional Engineers v. United States, <a href="../us435/us435-0679.xml#p679">435 U. S. 679</a>, <a href="../us435/us435-0679.xml#p692">435 U. S. 692</a> (1978) -- the court concluded that both standards, with their exclusive focus on competition and concern for the selfish motives of private actors, failed to give due deference to a municipality's legitimate interest in promoting public health, safety, and welfare. 37 Cal. 3d at 667-673, 693 P.2d at 280-285. The Supreme Court therefore found both standards inappropriate, and proceeded to apply a standard of its own devising, based upon this Court's Commerce Clause cases. Applying this test, the court found no conflict between the Ordinance and either § 1 or § 2 of the Sherman Act.</p>
     <p>We noted probable jurisdiction limited to the antitrust preemption question, 471 U.S. 1124 (1985), and now affirm, although on grounds different from those relied on by the California Supreme Court. While that court was correct in noting that consideration of state action is not necessary unless an actual conflict with the antitrust laws is established, we find traditional antitrust analysis adequate to resolve the issue presented here.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>We begin by noting that appellants make no claim under either § 4 or § 16 of the Clayton Act, 15 U.S.C. §§ 15 and 26, that the process by which the Rent Stabilization Ordinance was passed renders the Ordinance the product of an illegal "contract, combination . . . or conspiracy." Appellants instead claim that, regardless of the manner of its enactment, the regulatory scheme established by the Ordinance, on its face, conflicts with the Sherman Act, and therefore is preempted.</p>
     <p>Recognizing that the function of government may often be to tamper with free markets, correcting their failures and aiding their victims, this Court noted in Rice v. Norman Williams Co., supra, that a "state statute is not preempted by the federal antitrust laws simply because the state scheme may have an anticompetitive effect," id. at <a href="../us458/us458-0654.xml#p659">458 U. S. 659</a>. See <a href="../us437/us437-0117.xml#p117">Exxon</a></p>
     <p>Page 475 U. S. 265</p>
@@ -69,7 +69,7 @@
     <p>There may be cases in which what appears to be a state- or municipality-administered price stabilization scheme is really a private price-fixing conspiracy, concealed under a "gauzy cloak of state involvement," Midcal, supra, at <a href="../us445/us445-0097.xml#p106">445 U. S. 106</a>. This might occur even where prices are ostensibly under the absolute control of government officials. However, we have been given no indication that such corruption has tainted the rent controls imposed by Berkeley's Ordinance. Adopted by popular initiative, the Ordinance can hardly be viewed as a cloak for any conspiracy among landlords or between the landlords and the municipality. Berkeley's landlords have</p>
     <n id="p270">270</n>
     <p>simply been deprived of the power freely to raise their rents. That is why they are here. And that is why their role in the stabilization program does not alter the restraint's unilateral nature. [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Because, under settled principles of antitrust law, the rent controls established by Berkeley's Ordinance lack the element of concerted action needed before they can be characterized as a per se violation of § 1 of the Sherman Act, we cannot say that the Ordinance is facially inconsistent with the federal antitrust laws. See Rice v. Norman Williams Co., supra, at <a href="../us458/us458-0654.xml#p661">458 U. S. 661</a>. We therefore need not address whether, even if the controls were to mandate § 1 violations, they would be exempt under the state action doctrine from antitrust scrutiny. See Hallie v. Eau Claire, <a href="../us471/us471-0034.xml#p34">471 U. S. 34</a> (1985).</p>
     <p>The judgment of the California Supreme Court is</p>
     <p>Affirmed.</p>
@@ -104,7 +104,7 @@
       <p>The 1972 charter provision permitted individual adjustments of the across-the-board rent ceiling only on a unit-by-unit basis, and only after a hearing on the particular unit whose rent was to be raised. The California Supreme Court found that this limitation "put the [rent control board] in a procedural strait jacket," and "unnecessarily preclude[d] reasonably prompt action" on meritorious petitions by landlords. Birkenfeld, supra, at 171, 172, 550 P.2d at 1031, 1032.</p>
       <p>JUSTICE BRENNAN, dissenting.</p>
       <p>Since Parker v. Brown, <a href="../us317/us317-0341.xml#p341">317 U. S. 341</a> (1943), the Court has wrestled with the question of the degree to which federal antitrust laws prohibit state and local governments from imposing anticompetitive restraints on trade. Laws which impose such restraints have been held to be exempt from antitrust scrutiny if they constitute action of the State itself in its sovereign capacity, or state-authorized municipal action in furtherance or implementation of clearly articulated and affirmatively expressed state policy. See Community Communications Co. v. Boulder, <a href="../us455/us455-0040.xml#p40">455 U. S. 40</a>, <a href="../us455/us455-0040.xml#p52">455 U. S. 52</a> (1982). Today, the Court holds that a municipality's price-fixing scheme is not preempted by the federal antitrust laws whether or not the scheme is state-authorized or furthers or implements a clearly articulated and affirmatively expressed state policy. Because today's decision discards over 40 years of carefully considered precedent, I respectfully dissent.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>A</p>
       <p>Berkeley's Rent Stabilization Ordinance (hereafter Ordinance) effectively fixes prices for rental units in the city of Berkeley. In Rice v. Norman Williams Co., <a href="../us458/us458-0654.xml#p654">458 U. S. 654</a>, <a href="../us458/us458-0654.xml#p661">458 U. S. 661</a> (1982), we held that a state statute</p>
       <p>"may be condemned under the antitrust laws only if it mandates or authorizes conduct that necessarily constitutes a violation of the antitrust laws in all cases, or if it places irresistible pressure on a private party to violate the antitrust laws in order to comply with the statute. Such condemnation will follow under § 1 of the Sherman Act when the conduct contemplated by the statute is in all cases a per se violation.</p>
@@ -131,7 +131,7 @@
       <p>Section 1 of the Sherman Act declares illegal restraints of trade resulting from any "contract, combination . . or conspiracy." 15 U.S.C. § 1. Understandably, that wording has led the Court to draw a "basic distinction" between concerted and independent action, and to hold that "[i]ndependent action is not proscribed" by § 1. Monsanto Co. v. Spray-Rite Service Corp., <a href="../us465/us465-0752.xml#p752">465 U. S. 752</a>, <a href="../us465/us465-0752.xml#p761">465 U. S. 761</a> (1984). However, until today we have not held, or indeed even suggested, that government-imposed restraints on economic actions cannot constitute concerted action. Rather, both Schwegmann and Midcal held that state statutes which "had a coercive effect upon parties who must obey the law" violated § 1. [Footnote 3/2]</p>
       <n id="p278">278</n>
       <p>If the Ordinance allowed the individual landlords ultimately to set their own rental prices, I might understand the Court's conclusion that any resulting price restraints did not necessarily result from collective action. Cf. Monsanto Co. v. Spray-Rite Service Corp., supra, at <a href="../us465/us465-0752.xml#p761">465 U. S. 761</a>. However, because the Ordinance has the force of law, the city can compel landlords to do what the Sherman Act plainly forbids -- to fix prices for rental units in Berkeley. Regardless of whether the landlords "agree" to the prices charged, the circumstances here clearly "exclude the possibility that the [city and the landlords] were acting independently." 465 U.S. at <a href="../us465/us465-0752.xml#p764">465 U. S. 764</a>. The Ordinance eliminates price competition more effectively than any private "agreement" ever could, and is therefore preempted by the Sherman Act. The Court's contrary conclusion does not further, as it argues, but rather distorts, "traditional antitrust analysis." Ante at <a href="./us475-0260.xml#p264">475 U. S. 264</a>.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>Ultimately, the Court is holding that a municipality's authority to protect the public welfare should not be constrained by the Sherman Act. That holding excludes a broad range of local government anticompetitive activities from the reach of the antitrust laws. This flies in the face of the fact that Congress has not enacted such a broad antitrust exemption for municipalities. See Community Communications Co. v. Boulder, <a href="../us455/us455-0040.xml#p40">455 U. S. 40</a> (1982); Lafayette v. Louisiana Power &amp; Light Co., <a href="../us435/us435-0389.xml#p389">435 U. S. 389</a> (1978); cf. 15 U.S.C. § 35(a) (1982 ed., Supp. II) (immunizing local governments</p>
       <n id="p279">279</n>
       <p>only from liability for damages for violations of the antitrust laws).</p>
@@ -152,7 +152,7 @@
       <p>"See also Cal.Health &amp; Safety Code Ann. § 50202 (West Supp.1986) ('[N]othing in this division shall authorize the imposition of rent regulations or controls'). The requirement of"</p>
       <p>"clear articulation and affirmative expression" is not satisfied when the State's position is one of mere neutrality respecting the municipal actions challenged as anticompetitive.</p>
       <p>Community Communications Co., supra, at <a href="../us455/us455-0040.xml#p55">455 U. S. 55</a> (emphasis in original). Plainly, by that standard the Ordinance does not qualify for the Parker exemption from antitrust liability.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>Finally, appellees suggest that a finding of preemption in this case will severely restrict a municipality's authority to enact a variety of measures in the public interest.</p>
       <p>"But this argument is simply an attack upon the wisdom of the longstanding congressional commitment to the policy of free markets and open competition embodied in the antitrust laws."</p>
       <p>Community Communications Co., supra, at <a href="../us455/us455-0040.xml#p56">455 U. S. 56</a>. Congress may ultimately agree with appellees' argument, and may choose to amend the antitrust laws to grant municipalities broad discretion to enact anticompetitive measures in the public interest. Pending such amendment, however, only a clearly articulated and affirmatively expressed state policy will exempt ordinances like this from the reach of the Sherman Act.</p>

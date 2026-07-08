@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us459-0460.html" citation="459 U.S. 460" title="Hewitt v. Helms">
   <opinion type="Opinions &amp; Dissents">
     <n id="p460">460</n>
-    <h>U.S. Supreme Court</h>
-    <h>Hewitt v. Helms, <a href="./us459-0460.xml#p460">459 U.S. 460</a> (1983)</h>
-    <h>Hewitt v. Helms</h>
-    <h>No. 81-638</h>
-    <h>Argued November 8, 1982</h>
-    <h>Decided February 22, 1983</h>
-    <h><a href="./us459-0460.xml#p460">459 U.S. 460</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE THIRD CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Hewitt v. Helms, <a href="./us459-0460.xml#p460">459 U.S. 460</a> (1983)</h1>
+    <h2>Hewitt v. Helms</h2>
+    <h2>No. 81-638</h2>
+    <h4>Argued November 8, 1982</h4>
+    <h4>Decided February 22, 1983</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE THIRD CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Following a riot in the Pennsylvania State Prison where he was an inmate, respondent was removed from his cell and the general prison population and confined to administrative segregation within the prison pending an investigation into his role in the riot. The next day, respondent received notice of a misconduct charge against him. Five days after his transfer to administrative segregation, a Hearing Committee reviewed the evidence against respondent, and he acknowledged in writing that he had an opportunity to have his version of the events reported, but no finding of guilt was made. Subsequently, criminal charges based on the riot were filed against respondent, but were later dropped. In the meantime, a Review Committee concluded that respondent should remain in administrative segregation as posing a threat to the safety of other inmates and prison officials and to the security of the prison. Ultimately, the Hearing Committee, based on a second misconduct report and after hearing testimony from a prison guard and respondent, found respondent guilty of the second misconduct charge and ordered him confined to disciplinary segregation for six months, while dropping the earlier misconduct charge. Respondent sued in Federal District Court, claiming that petitioner prison officials' actions in confining him to administrative segregation violated his rights under the Due Process Clause of the Fourteenth Amendment. The District Court granted petitioners' motion for summary judgment. The Court of Appeals reversed, holding that, on the facts, respondent had a protected liberty interest in continuing to reside in the general prison population, which interest was created by the Pennsylvania regulations governing the administration of state prisons; that respondent could not be deprived of this interest without a hearing in compliance with the requirements of Wolff v. McDonnell, <a href="../us418/us418-0539.xml#p539">418 U. S. 539</a>; and that, since the court was uncertain whether the Hearing Committee's initial proceeding satisfied such requirements, the case would be remanded to the District Court for a hearing regarding the character of that proceeding.</p>
     <p>Held:</p>
     <p>1. Prison officials have broad administrative and discretionary authority over the institutions they manage, and lawfully incarcerated persons</p>
@@ -136,7 +136,7 @@
       <p>None of the three substantive charges against respondent Helms has ever been substantiated in a valid manner. [Footnote 2/3]</p>
       <n id="p481">481</n>
       <p>Nevertheless, he was held in "administrative segregation" for over seven weeks -- from the evening of December 3, 1978, until January 22, 1979 -- before he received an evidentiary hearing, and he was then sentenced to six months in "disciplinary custody." Despite the severity of conditions in solitary confinement, and the admitted differences between segregated custody and the general prison population, petitioners urge us to hold that the transfer of an inmate into administrative segregation does not deprive him of any interest in liberty protected by the Due Process Clause. The Court correctly rejects this contention today. It does so, however, for reasons that do not withstand analysis. It then concludes that the procedures afforded by prison authorities in this case "plainly satisfied the due process requirements for continued confinement of Helms pending the outcome of the investigation." Ante at <a href="./us459-0460.xml#p477">459 U. S. 477</a>. I cannot agree.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>The principal contention advanced by petitioners in this Court is that the Federal Constitution imposes no procedural limitations on the absolute discretion of prison officials to place any inmate in administrative segregation and to keep him there, if they choose, for the entire period of his confinement. [Footnote 2/4] Petitioners argue that a transfer into solitary confinement is merely one example of various routine decisions</p>
       <n id="p482">482</n>
       <p>made on a day-to-day basis by prison authorities, regarding</p>
@@ -171,7 +171,7 @@
       <n id="p488">488</n>
       <p>"When a prisoner is transferred from the general prison population to the grossly more onerous conditions of maximum security, be it for disciplinary or for administrative reasons, there is severe impairment of the residuum of liberty which he retains as a prisoner -- an impairment which triggers the requirement for due process safeguards. [Footnote 2/15]"</p>
       <p>In this case, the Court's exclusive focus on written regulations happens to lead it to the conclusion that there is a "liberty interest." I agree that the regulations are relevant: by limiting the substantive reasons for a transfer to administrative segregation, and by establishing prescribed procedures, these regulations indicate that the State recognizes the substantiality of the deprivation. They therefore provide evidentiary support for the conclusion that the transfer affects a constitutionally protected interest in liberty. But the regulations do not create that interest. Even in their absence, due process safeguards would be required when an inmate's liberty is further curtailed by a transfer into administrative custody that is the functional equivalent of punitive isolation.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>The "touchstone of due process," as we pointed out in Wolff v. McDonnell, is "protection of the individual against arbitrary action of government." 418 U.S. at <a href="../us418/us418-0539.xml#p558">418 U. S. 558</a>. Pennsylvania may not arbitrarily place a prisoner in administrative segregation. Hughes v. Rowe, <a href="../us449/us449-0005.xml#p5">449 U. S. 5</a>, <a href="../us449/us449-0005.xml#p9">449 U. S. 9</a> (1980). The majority agrees with this general proposition, but I believe its standards guarding against arbitrariness fall short of what the Constitution requires.</p>
       <n id="p489">489</n>
       <p>First, the majority declares that the Constitution is satisfied by an initial proceeding [Footnote 2/16] with minimal participation by the inmate who is being transferred into administrative custody. According to the Court:</p>
@@ -200,7 +200,7 @@
       <p>Neither a right to personal appearance by the prisoner nor a requirement of written reasons would impose an undue burden on prison officials. It is noteworthy that these procedural safeguards are provided in regulations governing both the Pennsylvania and federal prison systems. [Footnote 2/27] Given the</p>
       <n id="p496">496</n>
       <p>importance of the prisoner's interest in returning to the general prison population, the benefits of additional procedural safeguards, and the minimal burden on prison officials, I am convinced that the Due Process Clause requires more substantial periodic reviews than the majority acknowledges.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>Unfortunately, today's majority opinion locates the due process floor at a level below existing procedures in Pennsylvania. The Court reverses the judgment of the Court of Appeals, and thus endorses the District Court's summary judgment in favor of petitioners. In my view, summary judgment is inappropriate, because at least three issues of material fact remain unresolved. First, there has been no finding whether Helms had a constitutionally adequate opportunity to present his views at the initial proceeding on December 8, 1978. As the Court today acknowledges, it is not entirely clear from the record whether respondent appeared in person before the Hearing Committee on December 8. Ante at <a href="./us459-0460.xml#p464">459 U. S. 464</a>-465. Second, the record does not adequately</p>
       <n id="p497">497</n>
       <p>disclose the reasons for respondent's prolonged confinement. [Footnote 2/28] Finally, it is by no means clear that the subsequent review proceedings, including Helms' appearance before the Program Review Committee on January 2, 1979, satisfied the mandates of the Due Process Clause. I therefore respectfully dissent.</p>

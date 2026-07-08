@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us477-0597.html" citation="477 U.S. 597" title="DOT v. Paralyzed Veterans of America">
   <opinion type="Opinions &amp; Dissents">
     <n id="p597">597</n>
-    <h>U.S. Supreme Court</h>
-    <h>DOT v. Paralyzed Veterans of America, <a href="./us477-0597.xml#p597">477 U.S. 597</a> (1986)</h>
-    <h>United States Department of Transportation</h>
-    <h>v. Paralyzed Veterans of America</h>
-    <h>No. 85-289</h>
-    <h>Argued March 26, 1986</h>
-    <h>Decided June 27, 1986</h>
-    <h><a href="./us477-0597.xml#p597">477 U.S. 597</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE DISTRICT OF COLUMBIA CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>DOT v. Paralyzed Veterans of America, <a href="./us477-0597.xml#p597">477 U.S. 597</a> (1986)</h1>
+    <h2>United States Department of Transportation</h2>
+    <h2>v. Paralyzed Veterans of America</h2>
+    <h2>No. 85-289</h2>
+    <h4>Argued March 26, 1986</h4>
+    <h4>Decided June 27, 1986</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE DISTRICT OF COLUMBIA CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Section 504 of the Rehabilitation Act of 1973 prohibits discrimination against handicapped persons in "any program or activity receiving Federal financial assistance." The United States provides financial assistance to airport operators through grants from a Trust Fund under the Airport and Airway Development Act of 1970 and its successor statute, the Airport and Airway Improvement Act of 1982 (Trust Fund Acts). The Government also operates a nationwide air traffic control system. Respondent organizations representing handicapped individuals brought an action in the Court of Appeals challenging, inter alia, the conclusion of the Civil Aeronautics Board (CAB) that its regulatory authority under § 504 was limited to those few airlines that receive subsidies under the Federal Aviation Act. The Court of Appeals held that § 504 gave CAB jurisdiction over all air carriers by virtue of the extensive program of federal financial assistance to airports under the Trust Fund Acts, and that the air traffic control system was an additional source of financial assistance to airlines. The court then vacated the regulations to the extent that their application was limited to carriers receiving funds under the Federal Aviation Act, and instructed the Department of Transportation, CAB's successor, to issue new regulations that would apply to all commercial airlines.</p>
     <p>Held: Section 504 is not applicable to commercial airlines. Pp. <a href="./us477-0597.xml#p603">477 U. S. 603</a>-612.</p>
     <p>(a) Section 504's scope is limited to those who actually "receive" federal financial assistance. Congress sought to impose § 504 coverage as a condition or obligation tied to the recipient's agreement to accept the federal funds. By so limiting coverage to recipients, Congress imposed § 504's obligations upon those who are in a position to accept or reject those obligations as part of the decision whether or not to "receive" federal funds. In this case, the only parties in that position are the airport operators who are the recipients of federal funds under the Trust Fund Acts. Pp. <a href="./us477-0597.xml#p603">477 U. S. 603</a>-606.</p>
@@ -27,7 +27,7 @@
     <n id="p599">599</n>
     <p>JUSTICE POWELL delivered the opinion of the Court.</p>
     <p>Section 504 of the Rehabilitation Act of 1973 prohibits discrimination against handicapped persons in any program or activity receiving federal financial assistance. The United States provides financial assistance to airport operators through grants from a Trust Fund created by the Airport and Airway Development Act of 1970. The Government also operates a nationwide air traffic control system. This case presents the question whether, by virtue of such federal assistance, § 504 is applicable to commercial airlines. [<a id="nf1" href="#fn1">Footnote 1</a>]</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Respondents successfully challenged regulations promulgated by the Civil Aeronautics Board (CAB) to implement § 504 of the Rehabilitation Act of 1973, 87 Stat. 390, as amended; 29 U.S.C. § 790 et seq. (1982 ed. and Supp. II). To understand respondents' arguments, it is necessary to review the process by which the regulations were promulgated.</p>
     <p>A. The Rulemaking Process</p>
     <p>Section 504 provides:</p>
@@ -55,7 +55,7 @@
     <p>(collectively PVA) [<a id="nf8" href="#fn8">Footnote 8</a>] brought this action in the Court of Appeals for the District of Columbia Circuit. PVA challenged the substance of some of the regulations, as well as CAB's conclusion regarding its rulemaking authority under § 504. Only the latter claim is before us. On that issue, PVA contended that CAB's interpretation of the scope of its rulemaking authority under § 504 was inconsistent with congressional intent and controlling legal precedent.</p>
     <p>The Court of Appeals agreed with PVA's position. Paralyzed Veterans of America v. CAB, 243 U.S.App.D.C. 237, 752 F.2d 694 (1985). In the court's view, § 504 gave CAB jurisdiction over all air carriers by virtue of the extensive program of federal financial assistance to airports under the Airport and Airway Development Act of 1970, 49 U.S.C. § 1714, as amended (1976 ed., Supp. V). [<a id="nf9" href="#fn9">Footnote 9</a>] The Court of Appeals found an additional source of financial assistance to airlines in the form of the air traffic control system in place at all major airports. The court vacated the regulations to the extent that their application was limited to carriers receiving funds under § 406 or § 419. It instructed DOT -- CAB's successor agency after CAB was disbanded [<a id="nf10" href="#fn10">Footnote 10</a>] -- to issue new regulations that would apply to all commercial airlines.</p>
     <p>We granted certiorari to resolve the question of the scope of DOT's regulatory jurisdiction under § 504. 474 U.S. 918 (1985). We now reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>It may be helpful briefly to explain the limited nature of the question before us. This case does not present any challenge to CAB's interpretation of the scope of its regulatory jurisdiction under § 504. Nor is there any challenge to the application</p>
     <n id="p604">604</n>
     <p>of subpart A -- the general antidiscrimination regulation -- to all commercial airlines. The only issue before us is the Court of Appeals' conclusion that § 504 applies to commercial airlines as recipients of federal financial assistance.</p>
@@ -89,7 +89,7 @@
     <p>In almost any major federal program, Congress may intend to benefit a large class of persons, yet it may do so by funding</p>
     <n id="p610">610</n>
     <p>-- that is, extending federal financial assistance to -- a limited class of recipients. Section 504, like Title IX in Grove City, draws the line of federal regulatory coverage between the recipient and the beneficiary.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The Court of Appeals found that airports and airlines are "inextricably intertwined," and that the "indissoluble nexus between them is the provision of commercial air transportation." 243 U.S.App.D.C. at 257, 752 F.2d at 714. For these reasons, the Court of Appeals concluded that commercial airlines are part of a federally assisted program of "commercial air transportation" because they make use of airports that accept federal funds, and because airports are "indispensable" to air travel.</p>
     <p>We find this reasoning overbroad and unpersuasive. The Court of Appeals defined "program or activity" in part by reference to who is benefited by the financial assistance to airports. See id. at 257-258, 752 F.2d at 714-715. As shown above, regulatory coverage tied to the scope of the intended benefits of the Trust Fund Acts is inconsistent with congressional intent in passing § 504. We recognized in Alexander v. Choate, <a href="../us469/us469-0287.xml#p287">469 U. S. 287</a>, <a href="../us469/us469-0287.xml#p299">469 U. S. 299</a> (1985), that</p>
     <p>"[a]ny interpretation of § 504 must . . . be responsive to two powerful but countervailing considerations -- the need to give effect to the statutory objectives and the desire to keep § 504 within manageable bounds."</p>
@@ -97,14 +97,14 @@
     <n id="p611">611</n>
     <p>used a Trust Fund approach similar to the Airport and Airway Development Act of 1970. If we accepted the Court of Appeals' construction of "program or activity," we would also be compelled to conclude that industries that depend on the federally funded highways for their existence, such as trucking firms and delivery services, are part of a program or activity of national highway transportation. The same could be said of federally supported port facilities. This interpretation of § 504 would give it a scope broader than its language implies, and one never intended by Congress.</p>
     <p>The Court of Appeals' reliance on Grove City in support of its definition of the relevant program or activity is misplaced. In Grove City, despite the arguably "indissoluble nexus" among the various departments of a small college, we concluded that only the financial aid program could be subjected to Title IX. In any analogy between Grove City and this case, airport operators would be placed in the position of the college. It is readily apparent that our conclusion in Grove City that only a portion of the college was covered by Title IX cannot support the conclusion that commercial air transportation -- a concept much larger than the airports -- is the program or activity covered by § 504. The Court of Appeals' attempt to fuse airports and airlines into a single program or activity is unavailing. It is by reference to the grant statute, and not to hypothetical collective concepts like commercial aviation or interstate highway transportation, that the relevant program or activity is determined.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>The Court of Appeals also held that the federally provided air traffic control system is a form of federal financial assistance to airlines. [<a id="nf13" href="#fn13">Footnote 13</a>] The Federal Government spends some</p>
     <n id="p612">612</n>
     <p>$2 billion annually to run this system 24 hours a day nationwide and in various spots around the world. The air traffic controllers are federal employees, and the Federal Government finances operation of the terminal control facilities. In short, the air traffic control system is "owned and operated" by the United States. For that reason, the air traffic control system is not "federal financial assistance" at all. Rather, it is a federally conducted program that has many beneficiaries, but no recipients. The legislative history of Title VI makes clear that such programs do not constitute federal financial assistance to anyone. As then-Deputy Attorney General Katzenbach explained:</p>
     <p>"Activities wholly carried out by the United States with Federal funds, such as river and harbor improvements and other public works, defense installations, veterans' hospitals, mail service, etc., are not included in the list [of federally assisted programs]. Such activities, being wholly owned by, and operated by or for, the United States, cannot fairly be described as receiving Federal 'assistance.' While they may result in general economic benefit to neighboring communities, such benefit is not considered to be financial assistance to a program or activity within the meaning of title VI."</p>
     <p>110 Cong.Rec. 13380 (1964). That reasoning, of course, applies with equal force to § 504. The federal air traffic control system is a public program that does not involve "financial assistance" to anyone. [<a id="nf14" href="#fn14">Footnote 14</a>]</p>
     <n id="p613">613</n>
-    <h>V</h>
+    <h2>V</h2>
     <p>The judgment of the Court of Appeals is accordingly reversed, and the case is remanded for proceedings consistent with this opinion.</p>
     <p>It is so ordered.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>
@@ -160,7 +160,7 @@
       <p>Section 504 provides that</p>
       <p>"[n]o otherwise qualified handicapped individual . . . shall, solely by reason of his handicap, be excluded from the participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving Federal financial assistance or under any program or activity conducted by any Executive agency. . . ."</p>
       <p>29 U.S.C. § 794. The appropriate question is thus not whether commercial airlines "receive" federal financial assistance. Rather, it is whether commercial airlines are in a position to "exclud[e handicapped persons] from the participation in, . . . den[y them] the benefits of, or . . . subjec[t them] to discrimination under" a program or activity receiving federal financial assistance or conducted by an Executive agency. I believe that they are, and I therefore dissent.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>The Court begins its analysis at the proper place: the underlying grant statute. See Note, 83 Colum.L.Rev. 1210, 1227-1232 (1983). The Airport and Airway Improvement Act of 1982 (Act), which replaced the Airport and Airway Development Act of 1970, Pub.L. 91-258, 84 Stat. 219 et seq., is designed to ensure "the safe operation of the airport and airway system" and to ensure that system's more effective management and utilization. 49 U.S.C.App. §§ 2201(a)(1), (2). To that end, the Act authorizes the Secretary of Transportation to make grants to owners of public-use airports and to certain governmental units for airport development and airport planning. §§ 2204(a), 2208(a). It provides for certain other disbursements to airport owners, and to States for the same purposes. §§ 2206, 2207. It authorizes the Secretary to expend other funds for the purposes of acquiring, establishing,</p>
       <n id="p615">615</n>
       <p>and improving air navigation facilities, § 2205(a), and operating and maintaining those facilities, § 2205(c), for associated research and demonstration projects, § 2205(b), and for certain weather reporting services, § 2205(d). The Act finally directs the Secretary to fund the Explosive Detection K-9 Team Training Program for the purpose of detecting explosives at airports and aboard aircraft. § 2225.</p>
@@ -172,11 +172,11 @@
       <p>The Civil Aeronautics Board (CAB), in promulgating the rules at issue in this case, apparently relied on an understanding that § 504 gave it no authority whatsoever to regulate</p>
       <n id="p617">617</n>
       <p>the activities of commercial airlines not receiving direct subsidies under §§ 406 or 419 of the Federal Aviation Act, 49 U.S.C.App. §§ 1376, 1389 (1982 ed. and Supp. II). See App. 88a-89a. For the reasons stated above, I believe that that conclusion was in error. I therefore agree with the Court of Appeals that the regulations should be remanded to DOT to be reconsidered in the light of a proper understanding of the agency's authority under § 504.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>Were this case to be remanded, it would be appropriate for DOT to proceed upon an additional premise not available to the CAB in its original rulemaking proceeding: that DOT has power, through regulation of airport operators, to ensure that commercial airlines do not discriminatorily deprive handicapped persons of the benefits of federal programs supporting the airport and airway system. [Footnote 2/3] In order to serve an airport, an air carrier must enter into a lease with the airport operator for the use of airport facilities. DOT has power to direct each federally assisted airport, as part of that lease, to secure from all air carriers serving the airport an assurance of compliance with regulatory standards for service to handicapped persons. [Footnote 2/4]</p>
       <n id="p618">618</n>
       <p>Such a requirement would be a proper exercise of authority under § 504. For the reasons stated above, discrimination by commercial airlines against handicapped persons deprives those persons of equal access to the benefits provided by federally supported airport and airway programs. An airport can properly be considered in violation of § 504 when, through its contractual agreement with the airlines, it perpetuates discrimination against handicapped persons giving those persons unequal access to those programs. See 49 CFR § 27.7 (1985).</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>This case raises important and difficult issues regarding the extent of federal regulatory authority over entities, not themselves direct recipients of federal financial assistance, that nonetheless, in important respects, control the terms of public access to the benefits of such assistance. The majority ignores these issues because it believes that the single question whether commercial airlines are direct "recipients" of federal financial assistance disposes of this case. Because I find the matter more complicated than that, I dissent.</p>
       <p>[Footnote 2/1]</p>
       <p>The original rulemaking proceedings in this case were undertaken by the Civil Aeronautics Board (CAB). As the Court explains, ante at <a href="./us477-0597.xml#p600">477 U. S. 600</a>, n. 3, however, the relevant functions of the CAB were transferred to DOT under the Civil Aeronautics Board Sunset Act of 1984, Pub.L. 98-443, 98 Stat. 1703 et seq. See also Paralyzed Veterans of America v. CAB, 243 U.S.App.D.C. 237, 267, 752 F.2d 694, 724 (1985).</p>

@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us491-0299.html" citation="491 U.S. 299" title="Consol. Rail Corp. v. Ry. Labor Execs.' Ass'n">
   <opinion type="Opinions &amp; Dissents">
     <n id="p299">299</n>
-    <h>U.S. Supreme Court</h>
-    <h>Consol. Rail Corp. v. Ry. Labor Execs.' Ass'n, <a href="./us491-0299.xml#p299">491 U.S. 299</a> (1989)</h>
-    <h>cg:<a href="./us491-0299.xml#p299">491 U.S. 299</a>*collective bargaining*drug testing*labor relations*railroads*</h>
-    <h>ct:Consolidated Rail Corp. v. Railway Labor Executives' Ass'n, <a href="./us491-0299.xml#p299">491 U. S. 299</a> (1989)</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Consol. Rail Corp. v. Ry. Labor Execs.' Ass'n, <a href="./us491-0299.xml#p299">491 U.S. 299</a> (1989)</h1>
+    <h2>cg:<a href="./us491-0299.xml#p299">491 U.S. 299</a>*collective bargaining*drug testing*labor relations*railroads*</h2>
+    <h4>ct:Consolidated Rail Corp. v. Railway Labor Executives' Ass'n, <a href="./us491-0299.xml#p299">491 U. S. 299</a> (1989)</h4>
     <p>�Consolidated Rail Corporation v.</p>
     <p>�Railway Labor Executives' Association</p>
     <p>�No. 88-1</p>
@@ -25,7 +26,7 @@
     <n id="p300">300</n>
     <p>JUSTICE BLACKMUN delivered the opinion of the Court.</p>
     <p>In this case, we must examine the concepts of "major" and "minor" disputes in the area of railway labor relations, articulate a standard for differentiating between the two, and apply that standard to a drug testing dispute.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Since its formation in 1976, petitioner Consolidated Rail Corporation (Conrail), has required its employees to undergo physical examinations periodically and upon return from leave. These examinations include the testing of urine for blood sugar and albumin and, in some circumstances, for drugs. On February 20, 1987, Conrail announced unilaterally that urinalysis drug screening would be included henceforth as part of all periodic and return-from-leave physical examinations. Respondent Railway Labor Executives' Association (the Union), an unincorporated association of chief executive officers of 19 labor organizations which collectively represent Conrail's employees, opposes this unilateral drug testing addition. [<a id="nf1" href="#fn1">Footnote 1</a>]</p>
     <n id="p301">301</n>
     <p>The parties agree that Conrail's inclusion of drug testing in all physical examinations has created a labor dispute the resolution of which is governed by the Railway Labor Act (RLA), 44 Stat. 577, as amended, 45 U.S.C. § 151 et seq. [<a id="nf2" href="#fn2">Footnote 2</a>] The question presented by this case is what kind of labor dispute we have before us: whether Conrail's addition of a drug screen to the urinalysis component of its required periodic and return-to-duty medical examinations gives rise to a "major" or a "minor" dispute under the RLA.</p>
@@ -33,7 +34,7 @@
     <p>"the undisputed terms of the implied agreement governing medical examinations cannot be plausibly interpreted to justify the new testing program."</p>
     <p>845 F.2d 1187, 1193 (1988). Although we find the question to be a close one, we agree with the District Court, and with those Courts of Appeals that have held, on similar facts, that disputes concerning the addition of a drug testing component to routine physical examinations are minor disputes. See, e.g., Railway Labor Executives Assn. v. Norfolk &amp; Western R. Co., 833 F.2d 700, 705-706 (CA7 1987); Brotherhood of Maintenance of Way Employees, Lodge 16 v. Burlington Northern R. Co., 802 F.2d 1016, 1024 (CA8 1986).</p>
     <n id="p302">302</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>This Court has not articulated an explicit standard for differentiating between major and minor disputes. It adopted the major/minor terminology, drawn from the vocabulary of rail management and rail labor, as a shorthand method of describing two classes of controversy Congress had distinguished in the RLA: major disputes seek to create contractual rights, minor disputes to enforce them. Elgin, J. &amp;. E. R. Co. v. Burley, <a href="../us325/us325-0711.xml#p711">325 U. S. 711</a>, <a href="../us325/us325-0711.xml#p723">325 U. S. 723</a> (1945).</p>
     <p>The statutory bases for the major dispute category are § 2 Seventh and § 6 of the RLA, 48 Stat. 1188, 1197, 45 U.S.C. § 152 Seventh and § 156. The former states that no carrier</p>
     <p>"shall change the rates of pay, rules, or working conditions of its employees, as a class, as embodied in agreements except in the manner prescribed in such agreements"</p>
@@ -63,7 +64,7 @@
     <p>Engineers v. Burlington Northern R. Co., 838 F.2d 1087, 1091 (CA9 1988) (reviewing different formulations used in the Ninth Circuit), cert. pending, No. 87-1631. "These locutions are essentially the same in their result. They illustrate the relatively light burden which the railroad must bear" in establishing exclusive arbitral jurisdiction under the RLA. Brotherhood of Maintenance of Way Employees, Lodge 16 v. Burlington Northern R. Co., 802 F.2d 1016, 1022 (CA8 1986); see also Maine Central R. Co. v. United Transportation Union, 787 F.2d 780, 783 (CA1) ("The degree of scrutiny, while ill-defined, is clearly light"), cert. denied, 479 U.S. 848 (1986).</p>
     <p>"To the extent that abstract words can deal with concrete cases, we think that the concept embodied in the language adopted by these . . . Courts of Appeals is correct."</p>
     <p>Christiansburg Garment Co. v. EEOC, <a href="../us434/us434-0412.xml#p412">434 U. S. 412</a>, <a href="../us434/us434-0412.xml#p421">434 U. S. 421</a> (1978). Where an employer asserts a contractual right to take the contested action, the ensuing dispute is minor if the action is arguably justified by the terms of the parties' collective bargaining agreement. Where, in contrast, the employer's claims are frivolous or obviously insubstantial, the dispute is major.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>In this case, the Union appears to agree that the "arguably justified" standard generally is the appropriate one for distinguishing between major and minor disputes. Brief for Respondents 35, n. 29. But it argues that the dispute in this case, properly viewed, is neither a major dispute nor a minor dispute. According to the Union, where an employer has</p>
     <n id="p308">308</n>
     <p>made a clear "change [in] . . . working conditions . . . as embodied in agreements," but asserts that it has made the change "in the manner prescribed in such agreements," § 2 Seventh, because it has a contractual right to make the change, the ensuing dispute is a "hybrid case." Brief for Respondents 34-35, 40, n. 32.</p>
@@ -78,7 +79,7 @@
     <p>The effect of this ruling, of course, will be to delay collective bargaining in some cases until the arbitration process is exhausted. But we see no inconsistency between that result and the policies of the RLA. [<a id="nf8" href="#fn8">Footnote 8</a>] The core duties imposed upon employers and employees by the RLA, as set forth in § 2 First, are to "make and maintain agreements" and to "settle all disputes . . . in order to avoid any interruption to commerce." Referring arbitrable matters to the Board will help to "maintain agreements," by assuring that collective bargaining contracts are enforced by arbitrators who are experts in "the common law of [the] particular industry."</p>
     <n id="p311">311</n>
     <p>Steelworkers v. Warrior &amp; Gulf Navigation Co., 363 U.S. at <a href="../us363/us363-0574.xml#p579">363 U. S. 579</a>. Full utilization of the Board's procedures also will diminish the risk of interruptions in commerce. Failure of the "virtually endless" process of negotiation and mediation established by the RLA for major disputes, Burlington Northern R. Co. v. Maintenance of Way Employes, <a href="../us481/us481-0429.xml#p429">481 U. S. 429</a>, <a href="../us481/us481-0429.xml#p444">481 U. S. 444</a> (1987), frees the parties to employ a broad range of economic self-help, which may disturb transportation services throughout the industry and unsettle employer-employee relationships. See TWA, Inc. v. Flight Attendants, <a href="../us489/us489-0426.xml#p426">489 U. S. 426</a> (1989). Delaying the onset of that process until the Board determines on the merits that the employer's interpretation of the agreement is incorrect will assure that the risks of self-help are not needlessly undertaken, and will aid "[t]he peaceable settlement of labor controversies." Virginian R. Co. v. Railway Employees, <a href="../us300/us300-0515.xml#p515">300 U. S. 515</a>, <a href="../us300/us300-0515.xml#p552">300 U. S. 552</a> (1937).</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>This case, then, turns on whether the inclusion of drug testing in periodic and return-from-leave physical examinations is arguably justified by the parties' collective bargaining agreement. Neither party relies on any express provision of the agreement; indeed, the agreement is not part of the record before us. As the parties acknowledge, however, collective bargaining agreements may include implied, as well as express, terms. See, e.g., Northwest Airlines, Inc. v. Air Line Pilots Assn., Int'l, 442 F.2d 251, 253-254 (CAs), cert. denied, 404 U.S. 871 (1971). Furthermore, it is well established that the parties "practice, usage and custom" is of significance in interpreting their agreement. See Transportation Union v. Union Pacific R. Co., <a href="../us385/us385-0157.xml#p157">385 U. S. 157</a>, <a href="../us385/us385-0157.xml#p161">385 U. S. 161</a> (1966). This Court has observed:</p>
     <p>"A collective bargaining agreement is not an ordinary contract for the purchase of goods and services, nor is it governed by the same old common law concepts which control such private contracts. . . . "</p>
     <p>"[I]t is a generalized code to govern a myriad of cases</p>
@@ -126,7 +127,7 @@
     <p>The fact that, for drug problems, unlike other medical conditions, Conrail's standards include a fixed time period in which the employee's condition must improve does serve to distinguish Conrail's drug policy from its response to other medical problems. Conrail has argued that it needs, for</p>
     <n id="p320">320</n>
     <p>medical purposes, to require employees who deny that they are drug dependent to demonstrate that they are capable of producing a drug-free sample at will. Tr. of Oral Arg. 13. In our view, that argument has sufficient merit to satisfy Conrail's burden of demonstrating that its claim of contractual entitlement to set a time limit for successful recovery from drug problems is not frivolous.</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>Because we conclude that Conrail's contractual arguments are not obviously insubstantial, we hold that the case before us constitutes a minor dispute that is within the exclusive jurisdiction of the Board. We make clear, however, that we go no further than to hold that Conrail has met the light burden of persuading this Court that its drug testing practice is arguably justified by the implied terms of its collective bargaining agreement. We do not seek to minimize any force in the Union's arguments that the discretion afforded Conrail by the parties' implied agreement, as interpreted in light of past practice, cannot be understood to extend this far. Thus, in no way do we suggest that Conrail is or is not entitled to prevail before the Board on the merits of the dispute.</p>
     <p>The judgment is reversed.</p>
     <p>It is so ordered.</p>

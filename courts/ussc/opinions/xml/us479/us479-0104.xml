@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us479-0104.html" citation="479 U.S. 104" title="Cargill v. Monfort">
   <opinion type="Opinions &amp; Dissents">
     <n id="p104">104</n>
-    <h>U.S. Supreme Court</h>
-    <h>Cargill v. Monfort, <a href="./us479-0104.xml#p104">479 U.S. 104</a> (1986)</h>
-    <h>Cargill, Inc. v. Monfort of Colorado, Inc.</h>
-    <h>No. 85-473</h>
-    <h>Argued Oct. 6, 1986</h>
-    <h>Decided Dec. 9, 1986</h>
-    <h><a href="./us479-0104.xml#p104">479 U.S. 104</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE TENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Cargill v. Monfort, <a href="./us479-0104.xml#p104">479 U.S. 104</a> (1986)</h1>
+    <h2>Cargill, Inc. v. Monfort of Colorado, Inc.</h2>
+    <h2>No. 85-473</h2>
+    <h4>Argued Oct. 6, 1986</h4>
+    <h4>Decided Dec. 9, 1986</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE TENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Section 16 of the Clayton Act entitles a private party to sue for injunctive relief against "threatened loss or damage by a violation of the antitrust laws." Respondent, the country's fifth-largest beef packer, brought an action in Federal District Court under § 16 to enjoin the proposed merger of petitioner Excel Corporation, the second-largest packer, and Spencer Beef, the third-largest packer. Respondent alleged that it was threatened with a loss of profits by the possibility that Excel, after the merger, would lower its prices to a level at or above its costs in an attempt to increase its market share. During trial, Excel moved for dismissal on the ground that respondent had failed to allege or show that it would suffer antitrust injury, but the District Court denied the motion. After trial, the District Court held that respondent's allegation of a "price-cost squeeze" that would severely narrow its profit margins constituted an allegation of antitrust injury. The Court of Appeals affirmed, holding that respondent's allegation of a "price-cost squeeze" was not simply one of injury from competition, but was a claim of injury by a form of predatory pricing in which Excel would drive other companies out of the market.</p>
     <p>Held:</p>
     <p>1. A private plaintiff seeking injunctive relief under § 16 must show a threat of injury "of the type the antitrust laws were designed to prevent and that flows from that which makes defendants' acts unlawful." Brunswick Corp. v. Pueblo Bowl-O-Mat, Inc., <a href="../us429/us429-0477.xml#p477">429 U. S. 477</a>, <a href="../us429/us429-0477.xml#p489">429 U. S. 489</a>. Pp. <a href="./us479-0104.xml#p109">479 U. S. 109</a>-113.</p>
@@ -24,7 +24,7 @@
     <p>JUSTICE BRENNAN delivered the opinion of the Court.</p>
     <p>Under § 16 of the Clayton Act, 38 Stat. 737, as amended, 15 U.S.C. § 26, private parties "threatened [with] loss or damage by a violation of the antitrust laws" may seek injunctive relief. This case presents two questions: whether a plaintiff seeking relief under § 16 must prove a threat of antitrust injury, and, if so, whether loss or damage due to increased competition constitutes such injury.</p>
     <n id="p106">106</n>
-    <h>I</h>
+    <h2>I</h2>
     <p>Respondent Monfort of Colorado, Inc. (Monfort), the plaintiff below, owns and operates three integrated beef-packing plants, that is, plants for both the slaughter of cattle and the fabrication of beef. [<a id="nf1" href="#fn1">Footnote 1</a>] Monfort operates in both the market for fed cattle (the input market) and the market for fabricated beef (the output market). These markets are highly competitive, and the profit margins of the major beef packers are low. The current markets are a product of two decades of intense competition, during which time packers with modern integrated plants have gradually displaced packers with separate slaughter and fabrication plants.</p>
     <p>Monfort is the country's fifth-largest beef packer. Petitioner Excel Corporation (Excel), one of the two defendants below, is the second-largest packer. Excel operates five integrated plants and one fabrication plant. It is a wholly owned subsidiary of Cargill, Inc., the other defendant below, a large privately owned corporation with more than 150 subsidiaries in at least 35 countries.</p>
     <p>On June 17, 1983, Excel signed an agreement to acquire the third-largest packer in the market, Spencer Beef, a division of the Land O'Lakes agricultural cooperative. Spencer Beef owned two integrated plants and one slaughtering plant. After the acquisition, Excel would still be the second-largest packer, but would command a market share almost equal to that of the largest packer, IBP, Inc. (IBP). [<a id="nf2" href="#fn2">Footnote 2</a>]</p>
@@ -41,10 +41,10 @@
     <p>"consider[ed] to be a form of predatory pricing in which Excel will drive other companies out of the market by paying more to its cattle suppliers and charging less for boxed beef that it sells to institutional buyers and consumers."</p>
     <p>761 F.2d 570, 575 (CA10 1985). On the § 7 issue, the Court of Appeals held that the District Court's decision was not clearly erroneous. We granted certiorari, 474 U.S. 1049 (1985).</p>
     <n id="p109">109</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>This case requires us to decide, at the outset, a question we have not previously addressed: whether a private plaintiff seeking an injunction under § 16 of the Clayton Act must show a threat of antitrust injury. To decide the question, we must look first to the source of the antitrust injury requirement, which lies in a related provision of the Clayton Act, § 4, 15 U.S.C. § 15.</p>
     <p>Like § 16, § 4 provides a vehicle for private enforcement of the antitrust laws. Under § 4,</p>
-    <p>"any person who shall be injured in his business or property by reason of anything forbidden in the antitrust laws may sue therefor in any district court of the United States . . . , and shall recover threefold the damages by him sustained, and the cost of suit, including a reasonable attorney's fee."</p>
+    <p>"any person who shall be injured in his business or property by reason of anything forbidden in the antitrust laws may sue therefor in any district court of the United States . . ., and shall recover threefold the damages by him sustained, and the cost of suit, including a reasonable attorney's fee."</p>
     <p>15 U.S.C. § 15. In Brunswick Corp. v. Pueblo Bowl-O-Mat, Inc., supra, we held that plaintiffs seeking treble damages under § 4 must show more than simply an "injury causally linked" to a particular merger; instead,</p>
     <p>"plaintiffs must prove antitrust injury, which is to say injury of the type the antitrust laws were intended to prevent and that flows from that which makes the defendants' acts unlawful."</p>
     <p>Id. at <a href="../us429/us429-0477.xml#p489">429 U. S. 489</a> (emphasis in original). The plaintiffs in Brunswick did not prove such injury. The plaintiffs were 3 of the 10 bowling centers owned by a relatively small bowling chain. The defendant, one of the two largest bowling chains in the country, acquired several bowling centers located in the plaintiffs' market that would have gone out of business but for the acquisition. The plaintiffs sought treble damages under § 4, alleging as injury "the loss of income that would have accrued had the acquired centers gone bankrupt," and had competition in their markets consequently been reduced. Id. at <a href="../us429/us429-0477.xml#p487">429 U. S. 487</a>. We held that this injury, although causally related to a merger alleged to violate § 7, was not an antitrust injury, since "[i]t is inimical to [the antitrust] laws to award damages" for losses stemming</p>
@@ -67,7 +67,7 @@
     <p>H. R. Rep. No. 627, 63d Cong., 2d Sess., pt. 1, p. 21 (1914) (emphasis added). [<a id="nf8" href="#fn8">Footnote 8</a>]</p>
     <n id="p113">113</n>
     <p>Sections 4 and 16 are thus best understood as providing complementary remedies for a single set of injuries. Accordingly, we conclude that, in order to seek injunctive relief under § 16, a private plaintiff must allege threatened loss or damage "of the type the antitrust laws were designed to prevent and that flows from that which makes defendants' acts unlawful." Brunswick, 429 U.S. at <a href="../us429/us429-0477.xml#p489">429 U. S. 489</a>. We therefore turn to the question whether the proposed merger in this case threatened respondent with antitrust injury.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Initially, we confront the problem of determining what Monfort alleged the source of its injury to be. Monfort's complaint is of little assistance in this regard, since the injury</p>
     <n id="p114">114</n>
     <p>alleged therein -- "an impairment of plaintiff's ability to compete" -- is alleged to result from "a concentration of economic power." 1 App. 19. The pretrial order largely restates these general allegations. Record 37. At trial, however, Monfort did present testimony and other evidence that helped define the threatened loss. Monfort alleged that, after the merger, Excel would attempt to increase its market share at the expense of smaller rivals, such as Monfort. To that end, Monfort claimed, Excel would bid up the price it would pay for cattle, and reduce the price at which it sold boxed beef. Although such a strategy, which Monfort labeled a "price-cost squeeze," would reduce Excel's profits, Excel's parent corporation had the financial reserves to enable Excel to pursue such a strategy. Eventually, according to Monfort, smaller competitors lacking significant reserves and unable to match Excel's prices would be driven from the market; at this point, Excel would raise the price of its boxed beef to supracompetitive levels, and would more than recoup the profits it lost during the initial phase. 591 F. Supp., at 691-692.</p>
@@ -93,7 +93,7 @@
     <n id="p119">119</n>
     <p>did not allege injury from below-cost pricing before the District Court. The District Court twice noted that Monfort had made no assertion that Excel would engage in predatory pricing. See 591 F. Supp., at 691 ("Plaintiff does not contend that predatory practices would be engaged in by Excel or IBP"); id. at 710 ("Monfort does not allege that IBP and Excel will in fact engage in predatory activities as part of the cost-price squeeze"). [<a id="nf14" href="#fn14">Footnote 14</a>] Monfort argues that there is evidence in the record to support its view that it did raise a claim of predatory pricing below. This evidence, however, consists only of four passing references, three in deposition testimony, to the possibility that Excel's prices might dip below costs. See 1 App. 276; 2 App. 626, 666, 669. Such references fall far short of establishing an allegation of injury from predatory pricing. We conclude that Monfort neither raised nor proved any claim of predatory pricing before the District Court. [<a id="nf15" href="#fn15">Footnote 15</a>]</p>
     <n id="p120">120</n>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>In itsamicus brief, the United States argues that the</p>
     <p>"danger of allowing a competitor to challenge an acquisition</p>
     <n id="p121">121</n>
@@ -102,7 +102,7 @@
     <p>We decline the invitation. As the foregoing discussion makes plain, supra, at <a href="./us479-0104.xml#p117">479 U. S. 117</a>-118, predatory pricing is an anticompetitive practice forbidden by the antitrust laws. While firms may engage in the practice only infrequently, there is ample evidence suggesting that the practice does occur. [<a id="nf16" href="#fn16">Footnote 16</a>] It would be novel indeed for a court to deny standing to a party seeking an injunction against threatened injury merely because such injuries rarely occur. [<a id="nf17" href="#fn17">Footnote 17</a>] In any case, nothing in</p>
     <n id="p122">122</n>
     <p>the language or legislative history of the Clayton Act suggests that Congress intended this Court to ignore injuries caused by such anticompetitive practices as predatory pricing.</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>We hold that a plaintiff seeking injunctive relief under § 16 of the Clayton Act must show a threat of antitrust injury, and that a showing of loss or damage due merely to increased competition does not constitute such injury. The record below does not support a finding of antitrust injury, but only of threatened loss from increased competition. Because respondent has therefore failed to make the showing § 16 requires, we need not reach the question whether the proposed merger violates § 7. The judgment of the Court of Appeals is reversed, and the case is remanded for further proceedings consistent with this opinion.</p>
     <p>It is so ordered.</p>
     <p>JUSTICE BLACKMUN took no part in the consideration or decision of this case.</p>
@@ -181,7 +181,7 @@
       <p>In this case, one of the major firms in the beef-packing market has proved to the satisfaction of the District Court, <a href="https://law.justia.com/cases/federal/district-courts/FSupp/591/683/2388632/">591 F. Supp. 683</a>, 709-710 (Colo. 1983), and the Court of Appeals, 761 F.2d 570, 578-582 (CA10 1985), that the merger between Excel and Spencer Beef is illegal. This Court holds, however, that the merger should not be set aside because the adverse impact of the merger on respondent's profit margins does not constitute the kind of "antitrust injury" that the Court described in Brunswick Corp. v. Pueblo Bowl-O-Mat, Inc., <a href="../us429/us429-0477.xml#p477">429 U. S. 477</a> (1977). As I shall demonstrate, Brunswick merely rejected a "novel damages theory," id. at <a href="../us429/us429-0477.xml#p490">429 U. S. 490</a>; the Court's implicit determination that Brunswick forecloses the appropriate line of inquiry in this quite different case is therefore misguided. In my view, a</p>
       <n id="p124">124</n>
       <p>competitor in Monfort's position has standing to seek an injunction against the merger. Because Monfort must compete in the relevant market, proof establishing that the merger will have a sufficient probability of an adverse effect on competition to violate § 7 is also sufficient to authorize equitable relief.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>Section 7 of the Clayton Act was enacted in 1914, 38 Stat. 731, and expanded in 1950, 64 Stat. 1125, because Congress concluded that the Sherman Act's prohibition against mergers was not adequate. [Footnote 2/2] The Clayton Act, unlike the Sherman Act, proscribes certain combinations of competitors that do not produce any actual injury, either to competitors or to competition. An acquisition is prohibited by § 7 if "the effect of such acquisition may be substantially to lessen competition, or to tend to create a monopoly." 15 U.S.C. § 18. The legislative history teaches us that this delphic language was designed</p>
       <p>"to cope with monopolistic tendencies in their incipiency and well before they have attained such effects as would justify a Sherman Act proceeding."</p>
       <p>S. Rep. No. 1775, 81st Cong., 2d Sess., 4-5 (1950). [Footnote 2/3] In Brunswick,</p>
@@ -203,7 +203,7 @@
       <p>"Competition in the markets for the procurement of fed cattle and the sale of boxed beef will be substantially lessened and a monopoly may tend to be created in violation of Section 7 of the Clayton Act;"</p>
       <p>"Concentration in those lines of commerce will be increased and the tendency towards concentration will be accelerated."</p>
       <p>1 App. 21. More generally, given the statutory purposes to protect small businesses and to stem the rising tide of concentration in particular markets, a competitor trying to stay in business in a changing market must have standing to ask a court to set aside a merger that has changed the character of the market in an illegal way. Certainly the businesses -- small or large -- that must face competition in a market altered by an illegal merger are directly affected by that transaction. Their inability to prove exactly how or why they may be harmed does not place them outside the circle of interested parties whom the statute was enacted to protect.</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>Virtually ignoring the language and history of § 7 of the Clayton Act and the broad scope of the Act's provision for injunctive relief, the Court bases its decision entirely on a case construing the "private damages action provisions" of the Act. Brunswick, 429 U.S. at <a href="../us429/us429-0477.xml#p478">429 U. S. 478</a>. In Brunswick, we began our analysis by acknowledging the difficulty of meshing § 7, "a statutory prohibition against acts that have a potential to cause certain harms," with § 4, a "damages action intended to remedy those harms." Id. at <a href="../us429/us429-0477.xml#p486">429 U. S. 486</a>. We concluded that a plaintiff must prove more than a violation of § 7 to recover damages, "since such proof establishes only that injury may result." Ibid. Beyond the special nature of an action for treble damages, § 16 differs from § 4 because by its terms it requires only that the antitrust violation threaten</p>
       <n id="p128">128</n>
       <p>the plaintiff with loss or damage, not that the violation cause the plaintiff actual "injur[y] in his business or property." 15 U.S.C. § 15.</p>

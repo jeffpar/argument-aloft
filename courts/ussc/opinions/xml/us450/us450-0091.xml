@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us450-0091.html" citation="450 U.S. 91" title="Steadman v. SEC">
   <opinion type="Opinions &amp; Dissents">
     <n id="p91">91</n>
-    <h>U.S. Supreme Court</h>
-    <h>Steadman v. SEC, <a href="./us450-0091.xml#p91">450 U.S. 91</a> (1981)</h>
-    <h>Steadman v. Securities and Exchange Commission</h>
-    <h>No. 79-1266</h>
-    <h>Argued December 3, 1980</h>
-    <h>Decided February 25, 1981</h>
-    <h><a href="./us450-0091.xml#p91">450 U.S. 91</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE FIFTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Steadman v. SEC, <a href="./us450-0091.xml#p91">450 U.S. 91</a> (1981)</h1>
+    <h2>Steadman v. Securities and Exchange Commission</h2>
+    <h2>No. 79-1266</h2>
+    <h4>Argued December 3, 1980</h4>
+    <h4>Decided February 25, 1981</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE FIFTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>After an on-the-record hearing before an Administrative Law Judge and review by the Securities and Exchange Commission (SEC) in which the preponderance of the evidence standard of proof was employed, the SEC held that petitioner had violated various antifraud provisions of the federal securities laws, and sanctions were imposed. Petitioner sought review in the Court of Appeals on the alleged ground, inter alia, that the SEC's use of the preponderance of the evidence, rather than the clear and convincing, standard of proof in determining whether he had violated the securities laws, was improper. The Court of Appeals rejected the argument.</p>
     <p>Held:</p>
     <p>1. In adjudicatory proceedings before the SEC, § 7(c) of the Administrative Procedure Act applies. It provides in pertinent part that a sanction may not be imposed by an administrative agency except on consideration of the whole record or parts thereof cited by a party and supported by and "in accordance with the reliable, probative, and substantial evidence." Pp. <a href="./us450-0091.xml#p95">450 U. S. 95</a>-97.</p>
@@ -24,7 +24,7 @@
     <p>BRENNAN, J., delivered the opinion of the Court, in which BURGER, C.J., and WHITE, MARSHALL, BLACKMUN, REHNQUIST, and STEVENS, JJ., joined. POWELL, J., filed a dissenting opinion, in which STEWART, J., joined, post, p. <a href="./us450-0091.xml#p104">450 U. S. 104</a>.</p>
     <p>JUSTICE BRENNAN delivered the opinion of the Court.</p>
     <p>In administrative proceedings, the Securities and Exchange Commission applies a preponderance of the evidence standard of proof in determining whether the antifraud provisions of the federal securities laws have been violated. The question presented is whether such violations must be proved by clear and convincing evidence, rather than by a preponderance of the evidence.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In June, 1971, the Commission initiated a disciplinary proceeding against petitioner and certain of his wholly owned companies. The proceeding against petitioner was brought pursuant to § 9(b) of the Investment Company Act of 1940 [<a id="nf1" href="#fn1">Footnote 1</a>]</p>
     <n id="p93">93</n>
     <p>and § 203(f) of the Investment Advisers Act of 1940. [<a id="nf2" href="#fn2">Footnote 2</a>] The Commission alleged that petitioner had violated numerous provisions of the federal securities laws in his management of several mutual funds registered under the Investment Company Act.</p>
@@ -34,7 +34,7 @@
     <p>Petitioner sought review of the Commission's order in the</p>
     <n id="p95">95</n>
     <p>United States Court of Appeals for the Fifth Circuit on a number of grounds, only one of which is relevant for our purposes. Petitioner challenged the Commission's use of the preponderance of the evidence standard of proof in determining whether he had violated antifraud provisions of the securities laws. He contended that, because of the potentially severe sanctions that the Commission was empowered to impose and because of the circumstantial and inferential nature of the evidence that might be used to prove intent to defraud, the Commission was required to weigh the evidence against a clear and convincing standard of proof. The Court of Appeals rejected petitioner's argument, holding that, in a disciplinary proceeding before the Commission, violations of the antifraud provisions of the securities laws may be established by a preponderance of the evidence. 603 F.2d 1126, 1143 (1979). See <a id="nf8" href="#fn8">n</a> 8, supra. Because this was contrary to the position taken by the United States Court of Appeals for the District of Columbia Circuit, see Whitney v. SEC, 196 U.S.App.D.C. 12, 604 F.2d 676 (1979); Collins Securities Corp. v. SEC, 183 U.S.App.D.C. 301, 562 F.2d 820 (1977), we granted certiorari to resolve the conflict. 446 U.S. 917 (1980). We affirm.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Where Congress has not prescribed the degree of proof which must be adduced by the proponent of a rule or order to carry its burden of persuasion in an administrative proceeding, this Court has felt at liberty to prescribe the standard, for "[i]t is the kind of question which has traditionally been left to the judiciary to resolve." Woodby v. INS, <a href="../us385/us385-0276.xml#p276">385 U. S. 276</a>, <a href="../us385/us385-0276.xml#p284">385 U. S. 284</a> (1966). However, where Congress has spoken, we have deferred to "the traditional powers of Congress to prescribe rules of evidence and standards of proof in the federal courts" [<a id="nf9" href="#fn9">Footnote 9</a>] absent countervailing constitutional constraints.</p>
     <n id="p96">96</n>
     <p>Vance v. Terrazas, <a href="../us444/us444-0252.xml#p252">444 U. S. 252</a>, <a href="../us444/us444-0252.xml#p265">444 U. S. 265</a> (1980). For Commission disciplinary proceedings initiated pursuant to 15 U.S.C. § 80a-9(b) and § 80b-3(f), we conclude that Congress has spoken, and has said that the preponderance of the evidence standard should be applied. [<a id="nf10" href="#fn10">Footnote 10</a>]</p>
@@ -61,7 +61,7 @@
     <p>Nor is there any suggestion in the legislative history that a standard of proof higher than a preponderance of the evidence was ever contemplated, much less intended. Congress was primarily concerned with the elimination of agency decisionmaking premised on evidence which was of poor quality -- irrelevant, immaterial, unreliable, and nonprobative -- and of insufficient quantity -- less than a preponderance. See id. at 36 37 and 45; S. Doc. No. 248, 79th Cong., 2d Sess., 32322 and 376-378 (1946); <a id="nf21" href="#fn21">n</a> 21, supra.</p>
     <p>The language and legislative history of § 7(c) lead us to conclude, therefore, that § 7(c) was intended to establish a standard of proof, and that the standard adopted is the traditional preponderance of the evidence standard. [<a id="nf22" href="#fn22">Footnote 22</a>]</p>
     <n id="p103">103</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>Our view of congressional intent is buttressed by the Commission's longstanding practice of imposing sanctions according to the preponderance of the evidence. As early as 1938, the Commission rejected the argument that in a proceeding to determine whether to suspend, expel, or otherwise sanction a brokerage firm and its principals for, inter alia, manipulation of security prices in violation of § 9 of the Securities Exchange Act of 1934, 15 U.S.C. § 78i, a standard of proof greater than the preponderance of the evidence standard was required. In re White, 3 S.E.C. 466, 539-540 (1938). Use of the preponderance standard continued after passage of the APA, and persists today. E.g., In re Cea, 44 S.E.C. 8, 25</p>
     <n id="p104">104</n>
     <p>(1969); In re Pollisky, 43 S.E. C. 458, 459-460 (1967). The Commission's consistent practice, which is in harmony with § 7(c) and its legislative history, is persuasive authority that Congress intended that Commission disciplinary proceedings, subject to § 7 of the APA, be governed by a preponderance of the evidence standard. See Andrus v. Sierra Club, <a href="../us442/us442-0347.xml#p347">442 U. S. 347</a>, <a href="../us442/us442-0347.xml#p358">442 U. S. 358</a> (1979); United States v. National Association of Securities Dealers, Inc., <a href="../us422/us422-0694.xml#p694">422 U. S. 694</a>, <a href="../us422/us422-0694.xml#p719">422 U. S. 719</a> (1975); Skidmore v. Swift &amp; Co., <a href="../us323/us323-0134.xml#p134">323 U. S. 134</a>, <a href="../us323/us323-0134.xml#p140">323 U. S. 140</a> (1944).</p>

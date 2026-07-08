@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us458-0119.html" citation="458 U.S. 119" title="Union Labor Life Ins. Co. v. Pireno">
   <opinion type="Opinions &amp; Dissents">
     <n id="p119">119</n>
-    <h>U.S. Supreme Court</h>
-    <h>Union Labor Life Ins. Co. v. Pireno, <a href="./us458-0119.xml#p119">458 U.S. 119</a> (1982)</h>
-    <h>Union Labor Life Ins. Co. v. Pireno</h>
-    <h>No. 81-389</h>
-    <h>Argued April 27, 1982</h>
-    <h>Decided June 28, 1982<a href="./us458-0119.xml#p119">458 U.S. 119</a>ast|&gt;*</h>
-    <h><a href="./us458-0119.xml#p119">458 U.S. 119</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE SECOND CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Union Labor Life Ins. Co. v. Pireno, <a href="./us458-0119.xml#p119">458 U.S. 119</a> (1982)</h1>
+    <h2>Union Labor Life Ins. Co. v. Pireno</h2>
+    <h2>No. 81-389</h2>
+    <h4>Argued April 27, 1982</h4>
+    <h4>Decided June 28, 1982<a href="./us458-0119.xml#p119">458 U.S. 119</a>ast|&gt;*</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE SECOND CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>As required by New York law, petitioner Union Labor Life Insurance Co. (ULL) issues health insurance policies covering certain policyholder claims for chiropractic treatments. Some ULL policies limit the company's liability to "reasonable" charges for "necessary" medical care and services. In order to determine whether particular chiropractors' treatments and fees were necessary and reasonable, ULL arranged with petitioner New York State Chiropractic Association (NYSCA), a professional association of chiropractors, to use the advice of its Peer Review Committee, which was established primarily to aid insurers in evaluating claims for chiropractic treatments, and which is composed of 10 practicing New York chiropractors. Respondent is a licensed chiropractor practicing in New York. On a number of occasions ULL referred his treatments of ULL policyholders, and his charges for those treatments, to the Committee for review. The Committee sometimes concluded that respondent's treatments were unnecessary or his charges unreasonable. Respondent brought suit in Federal District Court, alleging that petitioners' peer review practices violated § 1 of the Sherman Act because petitioners had used the Committee as the vehicle for their conspiracy to fix the prices that chiropractors would be permitted to charge for their services. The District Court granted petitioners' motion for summary judgment, dismissing respondent's complaint on the ground that ULL's use of NYSCA's Peer Review Committee was exempted from antitrust scrutiny by § 2(b) of the McCarran-Ferguson Act, which applies to the "business of insurance." The Court of Appeals reversed and remanded the action for further proceedings.</p>
     <p>Held: ULL's use of NYSCA's Peer Review Committee does not constitute the "business of insurance" within the meaning of § 2(b) of the McCarran-Ferguson Act, and thus is not exempt from antitrust scrutiny. Group Life Health Ins. Co. v. Royal Drug Co., <a href="../us440/us440-0205.xml#p205">440 U. S. 205</a>, controlling. Pp. <a href="./us458-0119.xml#p126">458 U. S. 126</a>-134.</p>
     <n id="p120">120</n>
@@ -22,7 +22,7 @@
     <n id="p122">122</n>
     <p>JUSTICE BRENNAN delivered the opinion of the Court.</p>
     <p>In these cases, we consider an alleged conspiracy to eliminate price competition among chiropractors, by means of a "peer review committee" that advised an insurance company whether particular chiropractors' treatments and fees were "necessary" and "reasonable." The question presented is whether the alleged conspiracy is exempt from federal antitrust laws as part of the "business of insurance" within the meaning of the McCarran-Ferguson Act. [<a id="nf1" href="#fn1">Footnote 1</a>]</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Petitioners are the New York State Chiropractic Association (NYSCA), a professional association of chiropractors, and the Union Labor Life Insurance Co. (ULL), a Maryland insurer doing business in New York. As required by New York law, ULL's health insurance policies cover certain policyholder claims for chiropractic treatments. But certain ULL policies limit the company's liability to "the reasonable charges" for "necessary medical care and services."</p>
     <n id="p123">123</n>
     <p>App.19a, 22a (emphasis added). Accordingly, when presented with a policyholder claim for reimbursement for chiropractic treatments, ULL must determine whether the treatments were necessary and whether the charges for them were reasonable. In making some of these determinations, ULL has arranged with NYSCA to use the advice of NYSCA's Peer Review Committee.</p>
@@ -37,7 +37,7 @@
     <p>contractual obligations . . . under [its] policies." Id. at 29a-30a. Moreover, the court determined that the peer review practices "involve[d] the spreading of risk, an indispensable element of the business of insurance.'" Id. at 30a. [<a id="nf4" href="#fn4">Footnote 4</a>] Respondents' Sherman Act claim was accordingly dismissed with prejudice.</p>
     <p>The Court of Appeals for the Second Circuit reversed. 650 F.2d 387 (1981). Relying upon this Court's recent opinion in Group Life &amp; Health Ins. Co. v. Royal Drug Co., <a href="../us440/us440-0205.xml#p205">440 U. S. 205</a> (1979), the Court of Appeals concluded that the District Court had erred in holding that ULL's use of NYSCA's Peer Review Committee constituted the "business of insurance." [<a id="nf5" href="#fn5">Footnote 5</a>] Accordingly, the Court of Appeals remanded the action for further proceedings. We granted certiorari to resolve a conflict among the Courts of Appeals on the question presented. [<a id="nf6" href="#fn6">Footnote 6</a>] 454 U.S. 1052 (1981).</p>
     <n id="p126">126</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>The only issue before us is whether petitioners' peer review practices are exempt from antitrust scrutiny as part of the "business of insurance." "It is axiomatic that conduct which is not exempt from the antitrust laws may nevertheless be perfectly legal." Group Life &amp; Health Ins. Co. v. Royal Drug Co., supra at <a href="../us440/us440-0205.xml#p210">440 U. S. 210</a>, n. 5. Thus, in deciding these cases, we have no occasion to address the merits of respondent's Sherman Act claims. However, the Sherman Act does express a "longstanding congressional commitment to the policy of free markets and open competition." Community Communications Co. v. Boulder, <a href="../us455/us455-0040.xml#p40">455 U. S. 40</a>, <a href="../us455/us455-0040.xml#p56">455 U. S. 56</a> (1982); see also United States v. Topco Associates, Inc., <a href="../us405/us405-0596.xml#p596">405 U. S. 596</a>, <a href="../us405/us405-0596.xml#p610">405 U. S. 610</a> (1972). Accordingly, our precedents consistently hold that exemptions from the antitrust laws must be construed narrowly. FMC v. Seatrain Lines, Inc., <a href="../us411/us411-0726.xml#p726">411 U. S. 726</a>, <a href="../us411/us411-0726.xml#p733">411 U. S. 733</a> (1973). This principle applies not only to implicit exemptions, see Group Life &amp; Health Ins. Co. v. Royal Drug Co., supra, at <a href="../us440/us440-0205.xml#p231">440 U. S. 231</a>, but also to express statutory exemptions, see United States v. McKesson &amp; Robbins, Inc., <a href="../us351/us351-0305.xml#p305">351 U. S. 305</a>, <a href="../us351/us351-0305.xml#p316">351 U. S. 316</a> (1956). In Royal Drug, supra, this Court had occasion to reexamine the scope of the express antitrust exemption provided for the "business of insurance" by § 2(b) of the McCarran-Ferguson Act. We hold that decision of the question before us is controlled by Royal Drug.</p>
     <p>The principal petitioner in Royal Drug was a Texas insurance company, Blue Shield, that offered policies entitling insured persons to purchase prescription drugs for $2 each from any pharmacy participating in a "Pharmacy Agreement" with Blue Shield; policyholders were also allowed to purchase prescription drugs from a nonparticipating pharmacy, but in that event they would have to pay full price for the drugs, and would be reimbursed by Blue Shield for only a part of that price. Blue Shield offered Pharmacy Agreements to all licensed pharmacies in Texas, but participating pharmacies were required to sell prescription drugs to Blue</p>
     <n id="p127">127</n>
@@ -91,7 +91,7 @@
     <p>We may assume that the challenged peer review practices need not be denied the § 2(b) exemption solely because they involve parties outside the insurance industry. But the involvement of such parties, even if not dispositive, constitutes part of the inquiry mandated by the Royal Drug analysis. As the Court noted there, § 2(b) was intended primarily to protect "intra-industry cooperation" in the underwriting of risks. 440 U.S. at <a href="../us440/us440-0205.xml#p221">440 U. S. 221</a> (emphasis added). Arrangements between insurance companies and parties outside the insurance industry can hardly be said to lie at the center of that legislative concern. More importantly, such arrangements may prove contrary to the spirit, as well as the letter, of § 2(b), because they have the potential to restrain competition in noninsurance markets. Indeed, the peer review practices challenged in the present cases assertedly realize precisely this potential: respondent's claim is that the practices restrain competition in a provider market -- the market for chiropractic services -- rather than in an insurance market. App. 8a. Thus, we cannot join petitioners in depreciating the</p>
     <n id="p134">134</n>
     <p>fact that parties outside the insurance industry are intimately involved in the peer review practices at issue in these cases. [<a id="nf8" href="#fn8">Footnote 8</a>]</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>In sum, we conclude that ULL's use of NYSCA's Peer Review Committee does not constitute the "business of insurance" within the meaning of § 2(b) of the McCarran-Ferguson Act. [<a id="nf9" href="#fn9">Footnote 9</a>] The judgment of the Court of Appeals is accordingly</p>
     <p>Affirmed.</p>
     <p>* Together with No. 81-390, New York State Chiropractic Assn. v. Pireno, also on certiorari to the same court.</p>

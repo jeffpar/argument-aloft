@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us498-0411.html" citation="498 U.S. 411" title="Ford v. Georgia">
   <opinion type="Opinions &amp; Dissents">
     <n id="p411">411</n>
-    <h>U.S. Supreme Court</h>
-    <h>Ford v. Georgia, <a href="./us498-0411.xml#p411">498 U.S. 411</a> (1991)</h>
-    <h>Ford v. Georgia</h>
-    <h>No. 87-6796</h>
-    <h>Argued Nov. 6, 1990</h>
-    <h>Decided Feb. 19, 1991</h>
-    <h><a href="./us498-0411.xml#p411">498 U.S. 411</a></h>
-    <h>CERTIORARI TO THE SUPREME COURT OF GEORGIA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Ford v. Georgia, <a href="./us498-0411.xml#p411">498 U.S. 411</a> (1991)</h1>
+    <h2>Ford v. Georgia</h2>
+    <h2>No. 87-6796</h2>
+    <h4>Argued Nov. 6, 1990</h4>
+    <h4>Decided Feb. 19, 1991</h4>
+    <h2>CERTIORARI TO THE SUPREME COURT OF GEORGIA</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner Ford, a black man charged with, inter alia, the murder of a white woman, filed a pretrial "Motion to Restrict Racial Use of Peremptory Challenges," alleging that the county prosecutor had "over a long period of time" excluded black persons from juries where the issues to be tried involved members of the opposite race. In opposing the motion, the prosecution referred to Swain v. Alabama, <a href="../us380/us380-0202.xml#p202">380 U. S. 202</a>, in which this Court recognized that the purposeful exclusion of members of the defendant's race from his petit jury would work a denial of equal protection under the Fourteenth Amendment to the Federal Constitution, but held that the defendant would have to prove a pattern of racial discrimination in prior cases as well as his own to prevail. The trial judge denied the motion, declaring that in "numerous or several" cases he had seen the prosecutor strike prospective white jurors but leave prospective black jurors in trials of black defendants. During jury selection, the prosecution exercised 9 of its 10 peremptory challenges to strike black prospective jurors, leaving 1 black venire member on the jury. After the jury convicted Ford and he was sentenced to death, he moved for a new trial, claiming, among other things, that his Sixth Amendment right to an impartial jury was violated by the prosecutor's racially based exercise of peremptory challenges. The motion was denied, and the Supreme Court of Georgia affirmed the conviction. While Ford's first petition for certiorari was pending in this Court, the Court decided Batson v. Kentucky, <a href="../us476/us476-0079.xml#p79">476 U. S. 79</a>, which dropped the Swain requirement of proof of prior discrimination by holding it possible for a defendant to make out a prima facie equal protection violation entirely by reference to the prosecution's use of peremptory challenges in the defendant's own case. This Court ultimately vacated Ford's conviction and remanded in light of Griffith v. Kentucky, <a href="../us479/us479-0314.xml#p314">479 U. S. 314</a>, which decided that Batson's new evidentiary standard would apply retroactively in cases such as the present. On remand, the State Supreme Court concluded that before his trial Ford had raised a Swain claim that was decided adversely to him on appeal, and could not be reviewed again. The court then suggested that a Batson claim was never raised at trial, but held sua sponte that any equal protection claim that Ford might have was untimely under the rule the court had stated in State v. Sparks, 257 Ga. 97, 98, <a href="https://law.justia.com/cases/georgia/supreme-court/1987/44010-1.html">355 S.E.2d 658</a>, 659, which, as interpreted by the court,</p>
     <n id="p412">412</n>
     <p>requires that a contemporaneous objection to a jury be made under Batson in the period between the jurors' selection and the administration of their oaths. Although Sparks was decided long after Ford's trial, the court regarded the Sparks rule as a "valid state procedural bar" to federal review of Ford's claim under Wainwright v. Sykes, <a href="../us433/us433-0072.xml#p72">433 U. S. 72</a>.</p>
@@ -23,7 +23,7 @@
     <p>SOUTER, J., delivered the opinion for a unanimous Court.</p>
     <p>Justice SOUTER delivered the opinion of the Court.</p>
     <p>Petitioner alleges that the State of Georgia applied the impermissible criterion of race to exclude venire members from the petit jury that convicted him. The Supreme Court of Georgia held petitioner's equal protection claim procedurally barred as untimely under Georgia law, and we are now called upon to review the adequacy of the State's procedural rule to bar consideration of the constitutional issue raised. We reverse.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In September 1984, a grand jury in Coweta County, Georgia, indicted petitioner James A. Ford, a black man, for the kidnaping, rape, and murder of a white woman. [<a id="nf1" href="#fn1">Footnote 1</a>] The State notified petitioner of its intent to seek the death penalty and identified the statutory aggravating circumstances it would try to prove.</p>
     <p>Before trial, petitioner filed a "Motion to Restrict Racial Use of Peremptory Challenges," [<a id="nf2" href="#fn2">Footnote 2</a>] alleging that the prosecutor</p>
     <n id="p414">414</n>
@@ -59,7 +59,7 @@
     <n id="p418">418</n>
     <p>(emphasis omitted), but went on to consider whether any such claim raised either in petitioner's pretrial motion or during the chambers conference on the second day of the trial could be treated as timely. The court applied the state procedural rule announced in State v. Sparks, 257 Ga. 97, 98, <a href="https://law.justia.com/cases/georgia/supreme-court/1987/44010-1.html">355 S.E.2d 658</a>, 659 (1987), that a Batson claim must "be raised prior to the time the jurors selected to try the case are sworn." Reading Sparks as requiring a contemporaneous objection to a defendant's jury "after it was selected and before the trial commenced," the court concluded that petitioner had failed make such an objection, with the result that any Batson claim was barred by a valid state procedural rule. 257 Ga. at 663-664, 362 S.E.2d at 766. A dissenting opinion took issue with the court's conclusion that petitioner "never raised a Batson-type claim," and with the court's application of a state procedural rule that had not been announced when petitioner's motion was filed in 1984. Id. at 664, 362 S.E.2d at 767.</p>
     <p>We granted certiorari to decide whether the rule of procedure laid down by the Supreme Court of Georgia in Sparks was an adequate and independent state procedural ground that would bar review of petitioner's Batson claim. 495 U.S. 903 (1990).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>A</p>
     <p>The threshold issues are whether and, if so, when petitioner presented the trial court with a cognizable Batson claim that the State's exercise of its peremptory challenges rested on the impermissible ground of race in violation of the Equal Protection Clause of the Fourteenth Amendment. We think petitioner must be treated as having raised such a claim, although he certainly failed to do it with the clarity that appropriate citations would have promoted. The pretrial motion made no mention of the Equal Protection Clause, and the later motion for a new trial cited the Sixth Amendment, not the Fourteenth.</p>
     <n id="p419">419</n>
@@ -92,7 +92,7 @@
     <p>To apply Sparks retroactively to bar consideration of a claim not raised between the jurors' selection and oath would therefore apply a rule unannounced at the time of petitioner's trial and consequently inadequate to serve as an independent state ground within the meaning of James. Indeed, the Georgia court itself in Sparks disclaimed any such effect for</p>
     <n id="p425">425</n>
     <p>that decision. It was only as to cases tried "hereafter [that] any claim under Batson should be raised prior to the time the jurors selected to try the case are sworn." 257 Ga. at 98, 355 S.E.2d at 659 (emphasis added). This case was not tried "hereafter," and the rule announced prospectively in Sparks would not, even by its own terms, apply to petitioner's case. Since the rule was not firmly established at the time in question, there is no need to dwell on the further point that the state court's inconsistent application of the rule in the petitioner's case and Sparks would also fail the second James requirement that the state practice have been regularly followed. [<a id="nf7" href="#fn7">Footnote 7</a>]</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The Supreme Court of Georgia erred both in concluding that petitioner's allegation of an equal protection violation under Swain failed to raise a Batson claim and in apparently relying on Wainwright v. Sykes, <a href="../us433/us433-0072.xml#p72">433 U. S. 72</a> (1977). The Sparks rule, adopted long after petitioner's trial, cannot bar federal judicial review of petitioner's equal protection claim. The judgment below is reversed, and the case is remanded for further proceedings not inconsistent with this opinion.</p>
     <p>It is so ordered.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us411-0778.html" citation="411 U.S. 778" title="Gagnon v. Scarpelli">
   <opinion type="Opinions &amp; Dissents">
     <n id="p778">778</n>
-    <h>U.S. Supreme Court</h>
-    <h>Gagnon v. Scarpelli, <a href="./us411-0778.xml#p778">411 U.S. 778</a> (1973)</h>
-    <h>Gagnon v. Scarpelli</h>
-    <h>No. 71-1225</h>
-    <h>Argued January 9, 1973</h>
-    <h>Decided May 14, 1973</h>
-    <h><a href="./us411-0778.xml#p778">411 U.S. 778</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SEVENTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Gagnon v. Scarpelli, <a href="./us411-0778.xml#p778">411 U.S. 778</a> (1973)</h1>
+    <h2>Gagnon v. Scarpelli</h2>
+    <h2>No. 71-1225</h2>
+    <h4>Argued January 9, 1973</h4>
+    <h4>Decided May 14, 1973</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SEVENTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondent, a felony probationer, was arrested after committing a burglary. He admitted involvement in the crime, but later claimed that the admission was made under duress, and was false. The probation of respondent, who was not represented by an attorney, was revoked without a hearing. After filing a habeas corpus petition, he was paroled. The District Court concluded that revocation of probation without hearing and counsel was a denial of due process. The Court of Appeals affirmed.</p>
     <p>Held:</p>
     <p>1. Due process mandates preliminary and final revocation hearings in the case of a probationer under the same conditions as are specified in Morrissey v. Brewer, <a href="../us408/us408-0471.xml#p471">408 U. S. 471</a>, in the case of a parolee. Pp. <a href="./us411-0778.xml#p781">411 U. S. 781</a>-782.</p>
@@ -22,7 +22,7 @@
     <n id="p779">779</n>
     <p>MR. JUSTICE POWELL delivered the opinion of the Court.</p>
     <p>This case presents the related questions whether a previously sentenced probationer is entitled to a hearing when his probation is revoked and, if so, whether he is entitled to be represented by appointed counsel at such a hearing.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Respondent, Gerald Scarpelli, pleaded guilty in July, 1965, to a charge of armed robbery in Wisconsin. The trial judge sentenced him to 15 years' imprisonment, but suspended the sentence and placed him on probation for seven years in the custody of the Wisconsin Department of Public Welfare (the Department). [<a id="nf1" href="#fn1">Footnote 1</a>] At that time, he signed an agreement specifying the terms of his probation and a "Travel Permit and Agreement to Return" allowing him to reside in Illinois, with supervision there under an interstate compact. On August 5, 1965, he was accepted for supervision by the Adult Probation Department of Cook County, Illinois.</p>
     <p>On August 6, respondent was apprehended by Illinois police, who had surprised him and one Fred Kleckner,</p>
     <n id="p780">780</n>
@@ -33,7 +33,7 @@
     <p>Some three years later, on December 16, 1968, respondent applied for a writ of habeas corpus. After the petition had been filed, but before it had been acted upon, the Department placed respondent on parole. [<a id="nf2" href="#fn2">Footnote 2</a>] The District Court found that his status as parolee was sufficient custody to confer jurisdiction on the court, and that the petition was not moot, because the revocation carried "collateral consequences," presumably including the restraints imposed by his parole. On the merits, the District Court held that revocation without a hearing and counsel was a denial of due process. <a href="https://law.justia.com/cases/federal/district-courts/FSupp/317/72/1415582/">317 F. Supp. 72</a> (ED Wis. 1970). The Court of Appeals affirmed sub</p>
     <n id="p781">781</n>
     <p>nom. Gunsolus v. Gagnon, 454 F.2d 416 (CA7 1971), and we granted certiorari. 408 U.S. 921 (1972).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Two prior decisions set the bounds of our present inquiry. In Mempa v. Rhay, <a href="../us389/us389-0128.xml#p128">389 U. S. 128</a> (1967), the Court held that a probationer is entitled to be represented by appointed counsel at a combined revocation and sentencing hearing. Reasoning that counsel is required "at every stage of a criminal proceeding where substantial rights of a criminal accused may be affected," id. at <a href="../us389/us389-0128.xml#p134">389 U. S. 134</a>, and that sentencing is one such stage, the Court concluded that counsel must be provided an indigent at sentencing even when it is accomplished as part of a subsequent probation revocation proceeding. But this line of reasoning does not require a hearing or counsel at the time of probation revocation in a case such as the present one, where the probationer was sentenced at the time of trial.</p>
     <p>Of greater relevance is our decision last Term in Morrissey v. Brewer, <a href="../us408/us408-0471.xml#p471">408 U. S. 471</a> (1972). There we held that the revocation of parole is not a part of a criminal prosecution.</p>
     <p>"Parole arises after the end of the criminal prosecution, including imposition of sentence. . . . Revocation deprives an individual not of the absolute liberty to which every citizen is entitled, but only of the conditional liberty properly dependent on observance of special parole restrictions."</p>
@@ -42,7 +42,7 @@
     <n id="p782">782</n>
     <p>preliminary hearing at the time of his arrest and detention to determine whether there is probable cause to believe that he has committed a violation of his parole, and the other a somewhat more comprehensive hearing prior to the making of the final revocation decision. Petitioner does not contend that there is any difference relevant to the guarantee of due process between the revocation of parole and the revocation of probation, nor do we perceive one. [<a id="nf3" href="#fn3">Footnote 3</a>] Probation revocation, like parole revocation, is not a stage of a criminal prosecution, but does result in a loss of liberty. [<a id="nf4" href="#fn4">Footnote 4</a>] Accordingly, we hold that a probationer, like a parolee, is entitled to a preliminary and a final revocation hearing under the conditions specified in Morrissey v. Brewer, supra. [<a id="nf5" href="#fn5">Footnote 5</a>]</p>
     <n id="p783">783</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>The second, and more difficult, question posed by this case is whether an indigent probationer or parolee has a due process right to be represented by appointed counsel at these hearings. [<a id="nf6" href="#fn6">Footnote 6</a>] In answering that question, we draw heavily on the opinion in Morrissey. Our first point of reference is the character of probation or parole. As noted in Morrissey regarding parole, the "purpose is to help individuals reintegrate into society as constructive individuals as soon as they are able. . . ." 408 U.S. at <a href="../us408/us408-0471.xml#p477">408 U. S. 477</a>. The duty and attitude of the probation or parole officer reflect this purpose:</p>
     <p>"While the parole or probation officer recognizes his double duty to the welfare of his clients and to the safety of the general community, by and large, concern for the client dominates his professional attitude.</p>
     <n id="p784">784</n>
@@ -78,7 +78,7 @@
     <p>It is neither possible nor prudent to attempt to formulate a precise and detailed set of guidelines to be followed in determining when the providing of counsel is necessary to meet the applicable due process requirements. The facts and circumstances in preliminary and final hearings are susceptible of almost infinite variation, and a considerable discretion must be allowed the responsible agency in making the decision. Presumptively, it may be said that counsel should be provided in cases where, after being informed of his right to request counsel, the probationer or parolee makes such a request based on a timely and colorable claim (i) that he has not committed the alleged violation of the conditions upon which he is at liberty; or (ii) that, even if the violation is a matter of public record or is uncontested, there are substantial reasons which justified or mitigated the violation and make revocation inappropriate, and that the reasons are complex or otherwise difficult to develop or present. In passing on a request for the appointment of counsel, the responsible agency also should consider,</p>
     <n id="p791">791</n>
     <p>especially in doubtful cases, whether the probationer appears to be capable of speaking effectively for himself. In every case in which a request for counsel at a preliminary or final hearing is refused, the grounds for refusal should be stated succinctly in the record.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>We return to the facts of the present case. Because respondent was not afforded either a preliminary hearing or a final hearing, the revocation of his probation did not meet the standards of due process prescribed in Morrissey, which we have here held applicable to probation revocations. Accordingly, respondent was entitled to a writ of habeas corpus. On remand, the District Court should allow the State an opportunity to conduct such a hearing. As to whether the State must provide counsel, respondent's admission to having committed another serious crime creates the very sort of situation in which counsel need not ordinarily be provided. But because of respondent's subsequent assertions regarding that admission, see supra at <a href="./us411-0778.xml#p780">411 U. S. 780</a>, we conclude that the failure of the Department to provide respondent with the assistance of counsel should be reexamined in light of this opinion. The general guidelines outlined above should be applied in the first instance by those charged with conducting the revocation hearing.</p>
     <p>Affirmed in part, reversed in part, and remanded.</p>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>

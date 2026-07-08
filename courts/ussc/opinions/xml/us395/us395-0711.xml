@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us395-0711.html" citation="395 U.S. 711" title="North Carolina v. Pearce">
   <opinion type="Opinions &amp; Dissents">
     <n id="p711">711</n>
-    <h>U.S. Supreme Court</h>
-    <h>North Carolina v. Pearce, <a href="./us395-0711.xml#p711">395 U.S. 711</a> (1969)</h>
-    <h>North Carolina v. Pearce</h>
-    <h>No. 413</h>
-    <h>Argued February 24, 1969</h>
-    <h>Decided June 23, 1969<a href="./us395-0711.xml#p711">395 U.S. 711</a>ast|&gt;*</h>
-    <h><a href="./us395-0711.xml#p711">395 U.S. 711</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE FOURTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>North Carolina v. Pearce, <a href="./us395-0711.xml#p711">395 U.S. 711</a> (1969)</h1>
+    <h2>North Carolina v. Pearce</h2>
+    <h2>No. 413</h2>
+    <h4>Argued February 24, 1969</h4>
+    <h4>Decided June 23, 1969<a href="./us395-0711.xml#p711">395 U.S. 711</a>ast|&gt;*</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE FOURTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>In each of these cases, the respondent was convicted of a crime and sentenced to a prison term; the original conviction was set aside in a post-conviction proceeding for constitutional error several years later, and, on retrial, the respondent was again convicted and sentenced. In No. 413, the sentence, when added to the time respondent had served, amounted to a longer total sentence than that originally imposed, and in No. 418, respondent received a longer sentence, with no credit being given for the time already served. In neither case was any justification given for imposition of the longer sentence. Respondents sought habeas corpus relief in the District Courts, which, in each instance, held the longer sentence on retrial unconstitutional. The Courts of Appeals affirmed.</p>
     <p>Held:</p>
     <p>1. The basic Fifth Amendment guarantee against double jeopardy, which is enforceable against the States by the Fourteenth Amendment, Benton v. Maryland, post, p. <a href="./us395-0784.xml#p784">395 U. S. 784</a>, is violated when punishment already exacted for an offense is not fully "credited" in imposing a new sentence for the same offense. Pp. <a href="./us395-0711.xml#p717">395 U. S. 717</a>-719.</p>
@@ -40,7 +40,7 @@
     <p>We turn first to the more limited aspect of the question before us -- whether the Constitution requires that, in computing the sentence imposed after conviction upon</p>
     <n id="p717">717</n>
     <p>retrial, credit must be given for time served under the original sentence. We then consider the broader question of what constitutional limitations there may be upon the imposition of a more severe sentence after reconviction.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The Court has held today, in Benton v. Maryland, post, p. <a href="./us395-0784.xml#p784">395 U. S. 784</a>, that the Fifth Amendment guarantee against double jeopardy is enforceable against the States through the Fourteenth Amendment. That guarantee has been said to consist of three separate constitutional protections. [<a id="nf8" href="#fn8">Footnote 8</a>] It protects against a second prosecution for the same offense after acquittal. [<a id="nf9" href="#fn9">Footnote 9</a>] It protects against a second prosecution for the same offense after conviction. [<a id="nf10" href="#fn10">Footnote 10</a>] And it protects against multiple punishments for the same offense. [<a id="nf11" href="#fn11">Footnote 11</a>] This last protection is what is necessarily implicated in any consideration of the question whether, in the imposition of sentence for the same offense after retrial, the Constitution requires that credit must be given for punishment already endured. The Court stated the controlling constitutional principle almost 100 years ago, in the landmark case of <a href="../us085/us085-0163.xml#p163">Ex parte Lange</a>, 18 Wall. 163, <a href="../us085/us085-0163.xml#p168">85 U. S. 168</a>:</p>
     <p>"If there is anything settled in the jurisprudence of England and America, it is that no man can be twice lawfully punished for the same offence. And . . . there has never been any doubt of [this rule's] entire and complete protection of the party</p>
     <n id="p718">718</n>
@@ -52,7 +52,7 @@
     <p>We hold that the constitutional guarantee against multiple punishments for the same offense absolutely requires that punishment already exacted must be fully</p>
     <n id="p719">719</n>
     <p>"credited" [<a id="nf13" href="#fn13">Footnote 13</a>] in imposing sentence upon a new conviction for the same offense. If, upon a new trial, the defendant is acquitted, there is no way the years he spent in prison can be returned to him. But if he is reconvicted, those years can and must be returned -- by subtracting them from whatever new sentence is imposed.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>To hold that the second sentence must be reduced by the time served under the first is, however, to give but a partial answer to the question before us. [<a id="nf14" href="#fn14">Footnote 14</a>] We turn, therefore, to consideration of the broader problem of what constitutional limitations there may be upon the general power of a judge to impose upon reconviction a longer prison sentence than the defendant originally received.</p>
     <p>A</p>
     <p>Long-established constitutional doctrine makes clear that, beyond the requirement already discussed, the guarantee against double jeopardy imposes no restrictions upon the length of a sentence imposed upon reconviction. At least since 1896, when <a href="../us163/us163-0662.xml#p662">United States v. Ball</a>,</p>
@@ -222,7 +222,7 @@
       <n id="p737">737</n>
       <p>when it discovers new evidence warranting that result. But the individual has an interest in remaining free of double punishment. And, in weighing those interests against one another, the Constitution has decided the matter in favor of the individual. See United States v. Tateo, <a href="../us377/us377-0463.xml#p463">377 U. S. 463</a>, <a href="../us377/us377-0463.xml#p475">377 U. S. 475</a> (Goldberg, J., dissenting).</p>
       <p>[Footnote 2/1]</p>
-      <p>"With the benefit of Green v. United States . . . , there is support emerging in favor of a broad double jeopardy rule which would protect all federal and state convicts held in prison under erroneous convictions or sentences from harsher resentencing following retrial. . . . [T]he technical argument applying that rule would be as follows: when a particular penalty is selected from a range of penalties prescribed for a given offense, and when that penalty is imposed upon the defendant, the judge or jury is impliedly 'acquitting' the defendant of a greater penalty, just as the jury in Green impliedly acquitted . . . the accused of a greater degree of the same offense."</p>
+      <p>"With the benefit of Green v. United States . . ., there is support emerging in favor of a broad double jeopardy rule which would protect all federal and state convicts held in prison under erroneous convictions or sentences from harsher resentencing following retrial. . . . [T]he technical argument applying that rule would be as follows: when a particular penalty is selected from a range of penalties prescribed for a given offense, and when that penalty is imposed upon the defendant, the judge or jury is impliedly 'acquitting' the defendant of a greater penalty, just as the jury in Green impliedly acquitted . . . the accused of a greater degree of the same offense."</p>
       <p>Van Alstyne, In Gideon's Wake: Harsher Penalties and the "Successful" Criminal Appellant, 74 Yale L.J. 606, 634-635 (1965).</p>
       <p>[Footnote 2/2]</p>
       <p>"Our minds rebel against permitting the same sovereignty to punish an accused twice for the same offense." Francis v. Resweber, <a href="../us329/us329-0459.xml#p459">329 U. S. 459</a>, <a href="../us329/us329-0459.xml#p462">329 U. S. 462</a> (opinion by Reed, J.). See also Williams v. Oklahoma, <a href="../us358/us358-0576.xml#p576">358 U. S. 576</a>, <a href="../us358/us358-0576.xml#p584">358 U. S. 584</a>-586.</p>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us493-0006.html" citation="493 U.S. 6" title="Northbrook Nat'l Ins. Co. v. Brewer">
   <opinion type="Opinions &amp; Dissents">
     <n id="p6">6</n>
-    <h>U.S. Supreme Court</h>
-    <h>Northbrook Nat'l Ins. Co. v. Brewer, <a href="./us493-0006.xml#p6">493 U.S. 6</a> (1989)</h>
-    <h>Northbrook National Insurance Co. v. Brewer</h>
-    <h>No. 88-995</h>
-    <h>Argued October 4, 1989</h>
-    <h>Decided November 7, 1989</h>
-    <h><a href="./us493-0006.xml#p6">493 U.S. 6</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE FIFTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Northbrook Nat'l Ins. Co. v. Brewer, <a href="./us493-0006.xml#p6">493 U.S. 6</a> (1989)</h1>
+    <h2>Northbrook National Insurance Co. v. Brewer</h2>
+    <h2>No. 88-995</h2>
+    <h4>Argued October 4, 1989</h4>
+    <h4>Decided November 7, 1989</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE FIFTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Texas law provides that any party dissatisfied with a State Industrial Accident Board workers' compensation ruling may bring a civil suit to set the decision aside. The court determines such cases de novo, and the party seeking compensation bears the burden of proof regardless of which party prevailed before the board. Pursuant to Texas law, respondent Brewer, a Texas citizen employed by a Texas corporation, filed a workers' compensation claim with the board against the employer's insurer, petitioner here, an Illinois corporation with its principal place of business in that State. After the board awarded Brewer compensation, petitioner filed an action in Federal District Court, invoking the court's diversity jurisdiction under 28 U.S.C. § 1332. The court dismissed for lack of subject matter jurisdiction. Holding that Fifth Circuit precedent, Campbell v. Insurance Co. of North America, 552 F.2d 604, required it to apply the direct action proviso of § 1332(c) -- which states that,</p>
     <p>"in any direct action against the insurer of a policy . . . of liability insurance . . such insurer shall be deemed a citizen of the State of which the insured is a citizen. . . ."</p>
     <p>-- the court attributed the employer's Texas citizenship to petitioner, thus eliminating diversity between petitioner and Brewer. The Court of Appeals affirmed.</p>
@@ -22,7 +22,7 @@
     <p>MARSHALL, J., delivered the opinion of the Court, in which REHNQUIST, C.J., and BRENNAN, WHITE, BLACKMUN, O'CONNOR, SCALIA, and KENNEDY, JJ., joined. STEVENS, J., filed a dissenting opinion, post, p. <a href="./us493-0006.xml#p13">493 U. S. 13</a>.</p>
     <p>JUSTICE MARSHALL delivered the opinion of the Court.</p>
     <p>This case presents the question whether the "direct action" proviso of 28 U.S.C. § 1332(c) (1982 ed.) -- which provides that, in a direct action against a liability insurer, the insurer shall be deemed a citizen of the same State as the insured for purposes of diversity jurisdiction -- applies to a workers' compensation action brought in federal court by an insurer. The Fifth Circuit held that the proviso applied so as to bar a diversity action brought by an Illinois insurer of a Texas corporation against a Texas employee. 854 F.2d 742 (1988). Accordingly, it affirmed the District Court's dismissal for lack of subject matter jurisdiction. Because the language of the proviso is unambiguously limited to actions brought against insurers, we reverse.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Respondent Larry Brewer is a Texas citizen and an employee of Whitmire Line Clearance, Inc., a Texas corporation. Petitioner Northbrook National Insurance Company, an Illinois corporation with its principal place of business in that State, was Whitmire's workers' compensation insurer. Under the Texas Workers' Compensation Act, an employee</p>
     <n id="p8">8</n>
     <p>who suffers an injury in the course of employment "shall have no right of action against [the] employer . . . but . . . shall look for compensation solely to the [employer's insurer]." Tex.Rev.Civ.Stat.Ann., Art. 8306, § 3(a) (Vernon Supp.1989). An employee must file his claim for compensation with the Texas Industrial Accident Board. Art. 8307, § 4a. Brewer filed a workers' compensation claim against Northbrook after he allegedly suffered an injury during the course of his employment. The board processed his claim and awarded him compensation.</p>
@@ -32,7 +32,7 @@
     <p>28 U.S.C. § 1332(c) (1982 ed.) (emphasis added). The District Court therefore attributed Whitmire's Texas citizenship to Northbrook, eliminating diversity between</p>
     <n id="p9">9</n>
     <p>Northbrook and Brewer. The Court of Appeals affirmed on the basis of Campbell. It noted, however, that Campbell stood on "weak jurisprudential legs." 854 F.2d at 745.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>We hold that the direct action proviso is not applicable in this case, because Northbrook's suit was an action by, not against, an insurer. [<a id="nf1" href="#fn1">Footnote 1</a>]</p>
     <p>"[W]e must take the intent of Congress with regard to the filing of diversity cases in Federal District Courts to be that which its language clearly sets forth."</p>
     <p>Horton v. Liberty Mutual Ins. Co., <a href="../us367/us367-0348.xml#p348">367 U. S. 348</a>, <a href="../us367/us367-0348.xml#p352">367 U. S. 352</a> (1961) (holding that Congress' elimination of removal jurisdiction over workers' compensation suits did not withdraw original diversity jurisdiction over such suits). The language of the proviso could not be more clear. It applies only to actions against insurers; it does not mention actions by insurers.</p>

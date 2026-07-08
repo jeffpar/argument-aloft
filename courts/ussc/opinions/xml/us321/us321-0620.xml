@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us321-0620.html" citation="321 U.S. 620" title="Sartor v. Arkansas Nat. Gas Corp.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p620">620</n>
-    <h>U.S. Supreme Court</h>
-    <h>Sartor v. Arkansas Nat. Gas Corp., <a href="./us321-0620.xml#p620">321 U.S. 620</a> (1944)</h>
-    <h>Sartor v. Arkansas Natural Gas Corp.</h>
-    <h>No. 232</h>
-    <h>Argued February 3, 1944</h>
-    <h>Decided March 27, 1944</h>
-    <h><a href="./us321-0620.xml#p620">321 U.S. 620</a></h>
-    <h>CERTIORARI TO THE CIRCUIT COURT OF APPEALS</h>
-    <h>FOR THE FIFTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Sartor v. Arkansas Nat. Gas Corp., <a href="./us321-0620.xml#p620">321 U.S. 620</a> (1944)</h1>
+    <h2>Sartor v. Arkansas Natural Gas Corp.</h2>
+    <h2>No. 232</h2>
+    <h4>Argued February 3, 1944</h4>
+    <h4>Decided March 27, 1944</h4>
+    <h2>CERTIORARI TO THE CIRCUIT COURT OF APPEALS</h2>
+    <h2>FOR THE FIFTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Summary judgment under Rule 56 of the Rules of Civil Procedure should not have been granted defendant solely upon opinion affidavits of experts who either were officer of defendant or whose interests with respect to the subject matter of the litigation were similar to that of defendant, and who had given like testimony at a previous trial of the cause wherein a jury had found contrary to their testimony. P. <a href="./us321-0620.xml#p627">321 U. S. 627</a>.</p>
     <p>134 F.2d 433, reversed.</p>
     <p>Certiorari, 320 U.S. 727, to review the affirmance of a judgment (46 F.Supp. 111) for the defendant, upon a motion for summary judgment under Rule 56, in a suit to recover sums claimed to be due the plaintiffs under an oil and gas lease.</p>
@@ -27,7 +27,7 @@
     <n id="p622">622</n>
     <p>The controversy, both as to whether there is a cause of action and, if so, in what amount, turns on whether the "rate of market price" during this period before March 20, 1930 was above 3� per m.c.f., as it is conclusively adjudged in this case to have been thereafter. It is held in Louisiana that the market price under such leases is to be ascertained at the wellhead, if there is an established market price at that point. Unfortunately, this rule requires that the price for royalty purposes be ascertained at a place and time at which few commercial sales of gas occur. The lessees who market this royalty gas along with their own production do not customarily make their deliveries at the wellhead, but transmit gas from the several wells some distance in gathering lines, turning it over to large buyers at points somewhat removed, and under conditions of delivery different from wellhead deliveries. The price producers receive at these delivery stations often is substantially above the 3� price to the landowner. The practice of fixing the price of landowner's royalty gas at one time and place and of marketing his gas for a different price at another delivery point raises the dissatisfaction and problems which produce this case.</p>
     <p>The Court of Appeals, correctly, we think, followed the Louisiana substantive rule that the inquiry in a case of this kind shall determine (1) the market price at the well, or (2) if there is no market price at the well for the gas, what it is actually worth there, and,</p>
-    <p>"in determining this actual value . . . , every factor properly bearing upon its establishment should be taken into consideration. Included in these are the fixed royalties obtaining in the leases in the field considered in the light of their respective dates, the prices paid under the pipeline contracts, and what elements, besides the value as such of the gas, were included in those prices, the conditions existing when they were made, and any changes of conditions, the end and aim of the whole inquiry, where there was no market price</p>
+    <p>"in determining this actual value . . ., every factor properly bearing upon its establishment should be taken into consideration. Included in these are the fixed royalties obtaining in the leases in the field considered in the light of their respective dates, the prices paid under the pipeline contracts, and what elements, besides the value as such of the gas, were included in those prices, the conditions existing when they were made, and any changes of conditions, the end and aim of the whole inquiry, where there was no market price</p>
     <n id="p623">623</n>
     <p>at the well, being to ascertain, upon a fair consideration of all relevant factors, the fair value at the well of the gas produced and sold by defendant. [<a id="nf4" href="#fn4">Footnote 4</a>]"</p>
     <p>The defendant asked a summary judgment because it averred "there exists no reasonable basis for dispute" that, during the period in question there was a market price at the wells and that it did not exceed 3� per m.c.f. To sustain this position it filed affidavits, a stipulation of facts, and several exhibits. The plaintiffs resisted on the ground that the motion was inadequately supported on the face of defendant's papers. An affidavit by plaintiffs' counsel analyzed defendant's affidavits in the light of testimony given by the witnesses at prior trials; asserted that all were interested witnesses whose testimony was rejected on previous occasions; recited previous verdicts in the case, and, setting forth affiant's experience in ten trials of this character arising out of leases in this field, asserted his knowledge of the market prices there and declared it to be more than 5� per m.c.f. at the wellhead.</p>
@@ -61,7 +61,7 @@
     <p>". . . the mere fact that the witness is interested in the result of the suit is deemed sufficient to require the credibility of his testimony to be submitted to the jury as a question of fact."</p>
     <p>Sonnentheil v. Christian Moerlein Brewing Co., <a href="../us172/us172-0401.xml#p401">172 U. S. 401</a>, <a href="../us172/us172-0401.xml#p408">172 U. S. 408</a>.</p>
     <p>This Court has said:</p>
-    <p>"The jury were the judges of the credibility of the witnesses . . . , and, in weighing their testimony, had the right to determine how much dependence was to be placed upon it. There are many things, sometimes in the conduct of a witness upon the stand and sometimes in the mode in which his answers are drawn from him through the questioning of counsel, by which a jury are to be guided in determining the weight and credibility of his testimony. That part of every case, such as the one at bar, belongs to the jury, who are presumed to be fitted for it by their natural intelligence and their practical knowledge of men and the ways of men; and, so long as we have jury trials, they should not be disturbed in their possession of it except in a case of manifest and extreme abuse of their function."</p>
+    <p>"The jury were the judges of the credibility of the witnesses . . ., and, in weighing their testimony, had the right to determine how much dependence was to be placed upon it. There are many things, sometimes in the conduct of a witness upon the stand and sometimes in the mode in which his answers are drawn from him through the questioning of counsel, by which a jury are to be guided in determining the weight and credibility of his testimony. That part of every case, such as the one at bar, belongs to the jury, who are presumed to be fitted for it by their natural intelligence and their practical knowledge of men and the ways of men; and, so long as we have jury trials, they should not be disturbed in their possession of it except in a case of manifest and extreme abuse of their function."</p>
     <p>Aetna Life Insurance Co. v. Ward, <a href="../us140/us140-0076.xml#p76">140 U. S. 76</a>, <a href="../us140/us140-0076.xml#p88">140 U. S. 88</a>.</p>
     <p>We think the defendant failed to show that it is entitled to judgment as matter of law. In the stipulation, the bulletin, the affidavit of the plaintiffs' attorney, and the admission of its witnesses, there is some, although far from conclusive, evidence of a market price or a value, under the rules laid down by the Court of Appeals, that supports plaintiffs' case. It may well be that the weight of the evidence would be found on a trial to be with defendant. But it may not withdraw these witnesses from cross-examination, the best method yet devised for testing trustworthiness of testimony. And their credibility and the weight to be given to their opinions is to be determined,</p>
     <n id="p629">629</n>

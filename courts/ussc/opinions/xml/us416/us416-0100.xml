@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us416-0100.html" citation="416 U.S. 100" title="Mahon v. Stowers">
   <opinion type="Opinions &amp; Dissents">
     <n id="p100">100</n>
-    <h>U.S. Supreme Court</h>
-    <h>Mahon v. Stowers, <a href="./us416-0100.xml#p100">416 U.S. 100</a> (1974)</h>
-    <h>Mahon v. Stowers</h>
-    <h>No. 73-1131</h>
-    <h>Decided April 15, 1974</h>
-    <h><a href="./us416-0100.xml#p100">416 U.S. 100</a></h>
-    <h>ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES</h>
-    <h>COURT OF APPEAL FOR THE FIFTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Mahon v. Stowers, <a href="./us416-0100.xml#p100">416 U.S. 100</a> (1974)</h1>
+    <h2>Mahon v. Stowers</h2>
+    <h2>No. 73-1131</h2>
+    <h4>Decided April 15, 1974</h4>
+    <h2>ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES</h2>
+    <h2>COURT OF APPEAL FOR THE FIFTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondents sold cattle to a meat packer at its Texas plant and received checks in payment, but the packer was adjudged a bankrupt before the checks were paid. With the consent of all parties, the receiver and trustee in bankruptcy continued to sell meat of cattle slaughtered and packaged by the bankrupt and held the sale proceeds subject to disposition by the referee. Respondents then sought reclamation of the cattle sold to the bankrupt, and asserted a concomitant right to the sale proceeds. This claim was opposed by the trustee and C.I.T. Corporation, which held a perfected lien on the bankrupt's inventory and other property. The referee sustained the respondents' position, but the District Court reversed on the ground that, under the Texas Business and Commercial Code, the trustee's and C. I.T.'s claims were superior to that of respondents, who, by delivering the cattle to the bankrupt, retained only an unperfected security interest subject to reclamation. The Court of Appeals reversed on the ground that the Packers and Stockyards Act, along with the implementing regulations and trade usages, established the superiority of respondents' claim notwithstanding Texas law by making the bankrupt a trustee of the proceeds received from the sale of the cattle delivered by respondents.</p>
     <p>Held:</p>
     <p>(1) On the facts, nothing in either the specific sections of the Packers and Stockyards Act relating to packers or in the general sections of the Act applying to all persons subject to the Act, or in the implementing regulations ex propria vigore overrides the Texas Business and Commercial Code in determining the parties' respective rights to the funds held by the trustee or establishes a special priority in bankruptcy.</p>
@@ -25,7 +25,7 @@
     <p>The referee made findings of fact and conclusions of law which sustained the respondents' position. The District Court upheld the referee's findings of fact, but reversed the judgment on the grounds that, under the applicable provisions of the Texas Business and Commercial Code, the claims of the trustee and C.I.T. were</p>
     <n id="p102">102</n>
     <p>superior to that of respondents. The Court of Appeals for the Fifth Circuit, however, agreed with the referee and reversed the District Court judgment because it read the Packers and Stockyards Act, 42 Stat. 159, 7 U.S.C. § 181 et seq., and certain regulations issued by the Secretary of Agriculture thereunder, as establishing the superiority of respondents' claim notwithstanding Texas law. We disagree with this reading of the applicable provisions of the Packers and Stockyards Act, and therefore grant certiorari and reverse the judgment of the Court of Appeals.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The uncontested facts in this case are contained in the findings of the bankruptcy referee. The referee found that respondents, for a period of some ten days before Samuels filed a Chapter XI petition under the Bankruptcy Act, had been selling live cattle to Samuels for slaughter on a "grade and yield" basis, and that this was a recognized custom and usage in the trade. Under this usage, the contract price is left open at the time of delivery to the purchaser, who slaughters the livestock and allows the carcasses to chill for approximately 24 hours. At that time, they are graded by the United States Department of Agriculture and the price is determined. The purchaser then gives the seller a check for the established amount. The referee further found that Samuels was subject to the regulations of the Packers and Stockyards Act, and that all of the livestock in question had been delivered to Samuels at its plant in Mount Pleasant, Texas, where it was slaughtered and then graded by the Department of Agriculture.</p>
     <p>Until the livestock is actually graded and the yield determined, the sellers can identify their particular livestock, but once the carcasses are processed and the meat packaged, identification is no longer possible. When the</p>
     <n id="p103">103</n>
@@ -40,7 +40,7 @@
     <p>The District Court was, in turn, reversed by a divided Court of Appeals for the Fifth Circuit. Although that court conceded that C.I.T. would have a superior right to the sales proceeds were the transaction governed solely by the provision of the Texas Business and Commercial Code, it found that the Packers and Stockyards Act, 7 U.S.C. § 181 et seq., along with the regulations promulgated thereunder and the relevant usages of trade, made Samuels a trustee of the proceeds received from the sale of cattle delivered by respondents. The court stated:</p>
     <p>"The reasoning of these cases and the impact of the Packers and Stockyards Act convinces this court that more than an unperfected security interest subject to reclamation is reserved for the cattle seller. Not by contract, but by statute and regulation, a packer lacks full dominion over the carcasses until the seller has been paid. Where the packer defaults by the issuance of a bad check (and destroys the identity of the security by processing the carcasses into fungible meat products), the seller is the beneficiary of a trust imposed by remedial statute. [<a id="nf5" href="#fn5">Footnote 5</a>]"</p>
     <p>The right of the cattle sellers to funds thus found to be specifically held in trust for their benefit was deemed superior to the general perfected lien of C.I.T. on Samuels' inventory.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>This Court has previously held that an ordinary debtor-creditor relationship requires more than the post-bankruptcy disappointment of the creditor to convert it into a trust relationship. See McKee v. Paradise, <a href="../us299/us299-0119.xml#p119">299 U. S. 119</a> (1936). Examining a claim by employees that funds held for their general benefit by an employee association</p>
     <n id="p106">106</n>
     <p>were funds held in trust, the Court in McKee stated:</p>
@@ -73,7 +73,7 @@
     <p>The cases cited by the Court of Appeals to support its position require no different conclusion. The case most heavily relied on, Bowman v. Department of Agriculture, 363 F.2d 81 (CA5 1966), cited for the proposition that a packer's obligation to pay is that of a fiduciary, dealt not with packers at all, but rather with a person who was a stockyard owner, market agency, and dealer. The court in that case did discuss the duty of prompt payment by such a person, but the discussion occurred in the context of a discussion of the test for insolvency. The court there concluded that a definition of insolvency dealing with the relation of current assets and current liabilities was appropriate in this instance, since the ability to meet current obligations and to make prompt payment was necessary to effect the beneficial purposes</p>
     <n id="p113">113</n>
     <p>of the Act. The only specific discussion of trustee relationships, however, occurs in a separate discussion on the matter of custodial bank accounts. As discussed above, this discussion would be relevant to the obligation of market agencies under Regulation 201.42 to maintain custodial accounts and to refrain from commingling their own funds with the funds of the persons for whom they act. The other cases cited by the Court of Appeals do not deal with packers, [<a id="nf14" href="#fn14">Footnote 14</a>] or deal with them in a totally different situation from that presented here. [<a id="nf15" href="#fn15">Footnote 15</a>] None of the cases holds or even intimates that packers hold livestock and carcasses as trustees until cash proceeds are realized by the sellers.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>We hold that, on the undisputed facts of this case, nothing in the Packers and Stockyards Act or the regulations issued by the Secretary under the Act overrides the Texas Business and Commercial Code in determining the respective rights of the parties to the funds held by the trustee. We do note, however, that an isolated passage at the end of the Court of Appeals' opinion states that the</p>
     <p>"Packers and Stockyards Act and Regulations 201.42 and 201.99 thereunder comprise a course of dealing and usage of trade known to both the bankrupt packer and C.I.T., which had financed it for an extended period."</p>
     <p>483 F.2d 557, 563. While we hold that the Act and regulations do not ex proprio vigore override the provisions of Texas law determining priorities to the funds in question, we do not mean to say that a course of conduct</p>

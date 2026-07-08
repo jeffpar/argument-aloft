@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us390-0207.html" citation="390 U.S. 207" title="SEC v. New England Elec. Sys.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p207">207</n>
-    <h>U.S. Supreme Court</h>
-    <h>SEC v. New England Elec. Sys., <a href="./us390-0207.xml#p207">390 U.S. 207</a> (1968)</h>
-    <h>Securities and Exchange Commission v.</h>
-    <h>New England Electric System</h>
-    <h>No. 305</h>
-    <h>Argued January 18, 1968</h>
-    <h>Decided March 5, 1968</h>
-    <h><a href="./us390-0207.xml#p207">390 U.S. 207</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE FIRST CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>SEC v. New England Elec. Sys., <a href="./us390-0207.xml#p207">390 U.S. 207</a> (1968)</h1>
+    <h2>Securities and Exchange Commission v.</h2>
+    <h2>New England Electric System</h2>
+    <h2>No. 305</h2>
+    <h4>Argued January 18, 1968</h4>
+    <h4>Decided March 5, 1968</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE FIRST CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>This Court previously held (384 U.S. 176) that the SEC was warranted in ruling that § 11(b)(1)(A) of the Public Utility Holding Company Act of 1935 prohibits a public utility holding company from retaining an integrated gas utility system in addition to its integrated electric system unless the gas system could not be operated separately without a loss of economics causing a serious impairment of that system. After remand, the Court of Appeals reviewed the evidence and concluded that the SEC erred in finding that New England Electric System failed to prove a case for retention of its integrated gas system.</p>
     <p>Held: Since the SEC's determination that divestiture of the gas system would not entail a loss of economics likely to cause serious impairment of the system involved the application of expert judgment which had adequate support in the record, the Court of Appeals should have affirmed the SEC order and should not have indulged in an unwarranted incursion into the administrative domain. Pp. <a href="./us390-0207.xml#p211">390 U. S. 211</a>-221.</p>
     <p>376 F.2d 107, reversed and remanded.</p>
@@ -44,7 +44,7 @@
     <p>"it would not lead us to conclude that such a loss is so substantial, when compared with the loss of economics involved in prior divestment cases and viewed in light of the objectives of the Act, as to warrant retention of the gas properties. . . ."</p>
     <p>41 S.E.C. at 895, 897. Because we conclude that the record supports the Commission's decision on the latter ground, we have no occasion to consider whether the Commission's strictures on the reliability of the Ebasco study are well founded.</p>
     <p>The Commission's ultimate finding that the projected $1,100,000 loss of economics annually did not constitute a loss of "substantial" economics within Clause A of § 11(b)(1) was reached primarily upon the basis of its subsidiary findings upon three matters: (1) That NEES' estimated losses were not significantly out of line with those found insubstantial in previous cases; (2) that other nonaffiliated Massachusetts gas companies, [<a id="nf9" href="#fn9">Footnote 9</a>] all but one of them smaller than the NEES gas system, are apparently able to operate successfully without electric utility affiliations; (3) that NEES did not establish that independent management devoted solely to promoting gas sales would not result in benefits to offset some of the projected losses. The Court of Appeals held that none of the three subsidiary findings was supported by substantial evidence. We disagree.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The Commission, consistent with its practice in prior cases, [<a id="nf10" href="#fn10">Footnote 10</a>] weighed NEES' estimated $1,100,000 losses in</p>
     <n id="p214">214</n>
     <p>relative, rather than absolute, terms, calculating the losses as a percentage of NEES' 1958 revenues, expenses, and income. [<a id="nf11" href="#fn11">Footnote 11</a>] It found these loss ratios to be</p>
@@ -59,14 +59,14 @@
     <n id="p216">216</n>
     <p>by differences in capital structure, management, market position, and other factors. But it by no means follows that the Commission's comparisons are for that reason irrelevant to the determination whether a projected loss of economics is so important as to cause a serious impairment of the separated system. It was well within the range of the Commission's administrative discretion to use the loss ratios, as it did, "as a guide in adjudicating the pending case." Phildelphia Co., 28 S.E.C. 35, 50, n. 24. The Commission, in its expert judgment, may so employ evaluative factors it considers relevant. [<a id="nf14" href="#fn14">Footnote 14</a>]</p>
     <p>Indeed, NEES apparently recognized that its burden to establish that its situation comes within Clause A included the burden of showing that the projected loss of economics would be more serious for its separated system than the comparable level of losses in the other cases already decided by the Commission. Respondent attempted to prove that the gas system's distance from sources of supply gives it only a very narrow competitive advantage over oil as a fuel, and, further, that the system's growth potential is more limited by a lack of new housing expansion in the area serviced by the gas companies. As we shall see below, the Commission found that NEES had not made a case in either respect insofar as those matters bore on whether the projected loss of economics threatened serious impairment of the separated system.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The Commission's resort to data concerning the operations of the nonaffiliated Massachusetts gas companies was a response to NEES' argument, supported by the</p>
     <n id="p217">217</n>
     <p>Massachusetts Department of Public Utilities, that the projected loss of economics from separation of the gas system would require the gas companies to seek rate increases which might seriously impair or destroy any hope of a successful operation. Natural gas in 1959 enjoyed in New England the smallest price advantage over oil of any section of the country. The annual differential was $7 over oil for a typical New England house, compared with $27 to $118 in favor of gas in the rest of the country. [<a id="nf15" href="#fn15">Footnote 15</a>] NEES contended that the predicted rate increase would substantially or entirely eliminate the gas system's already narrow price advantage over oil competitors. The Commission's answer was to inquire about the economic health of the already nonaffiliated Massachusetts gas companies. The Commission found that these companies were apparently able to earn a fair return although not enjoying the supposed advantages of affiliation with electric utilities, and it could find no evidence that they did not face the same competitive conditions as NEES. [<a id="nf16" href="#fn16">Footnote 16</a>] The Commission found further that, despite NEES' insistence that its market conditions differed from the nonaffiliated companies because of relatively stagnant franchise areas offering less sales growtb, [<a id="nf17" href="#fn17">Footnote 17</a>] there was no evidence that this would prevent</p>
     <n id="p218">218</n>
     <p>the separated gas system -- which would emerge as the second largest independent in the State -- from competing as effectively as the smaller independents who had long held their own. Finally, the Commission noted that, after severance, the gas system's operating ratio would be more favorable or only slightly higher than the ratios of nine independents, and therefore concluded that it "would be entering the realm of speculation at this time to assume that rate increases would ensue from severance." 41 S.E.C. at 899. [<a id="nf18" href="#fn18">Footnote 18</a>]</p>
     <p>The Court of Appeals rejected the comparison of these operating ratios, again on the ground that such ratios fail to take account of special characteristics of individual companies. The court observed that, since all New England gas companies operated on a</p>
-    <p>"small cushion . . . ,</p>
+    <p>"small cushion . . .,</p>
     <n id="p219">219</n>
     <p>[t]he significance of this is not negated by observing that non-NEES companies in Massachusetts seem to be surviving, for the focus must be on the specific characteristics of the NEES companies, the only ones affected by the Commission's order."</p>
     <p>376 F.2d at 113. The court further held</p>
@@ -74,7 +74,7 @@
     <p>376 F.2d at 114, n. 6. For the reasons already stated for our disagreement with the Court of Appeals' view of the Commission's use of other ratios, we disagree that this comparison was either irrelevant or outside the limits of the Commission's administrative discretion. The dissection and evaluation of an economic projection is a function Congress committed to the Commission, not the courts. A court may believe it would have done the job differently and better; but judicial inquiry must be addressed to whether what the Commission did is fatal to its ultimate conclusion that the holding company failed to carry its burden of showing a loss of "substantial" economics within the meaning of Clause A. In assessing NEES' forecast of the need for rate increases because of the projected loss of economics, it was proper for the Commission to consider the performance of other Massachusetts gas companies which were already operating independently. NEES was afforded every opportunity to sustain its burden of showing that the separated gas system would wither into critical health despite the contrary inferences suggested by the comparison made by the Commission. It cannot be a basis for finding error that the Commission found the attempt unpersuasive, given the gas system's size, [<a id="nf19" href="#fn19">Footnote 19</a>] and the</p>
     <n id="p220">220</n>
     <p>prognosis of efficiencies comparable to those achieved by the independents. [<a id="nf20" href="#fn20">Footnote 20</a>]</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>. The Commission conceived that the projected loss of economics would in some measure be offset by advantages realized by the separated system under the direction of "a management solely interested in and devoted to the gas operations. . . ." 41 S.E.C. at 901. NEES, again supported by the Massachusetts Department of Public Utilities, took the position that its operation of the companies had already achieved all possible benefits of interservice competition. The Commission found the argument unpersuasive, relying again on a comparison with the nonaffiliated Massachusetts gas companies. This was a comparison of the sales performance of the gas companies under NEES management with the sales performances of the independents. All seven of the comparable independents showed substantially higher gas sales and revenues per customer and lower costs to customers. [<a id="nf21" href="#fn21">Footnote 21</a>] The Commission found unpersuasive</p>
     <n id="p221">221</n>
     <p>NEES' explanation that this was accounted for by the greater residential growth potential of the areas serviced by the independents. [<a id="nf22" href="#fn22">Footnote 22</a>]</p>

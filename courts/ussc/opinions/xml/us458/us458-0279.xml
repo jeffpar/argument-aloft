@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us458-0279.html" citation="458 U.S. 279" title="Williams v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p279">279</n>
-    <h>U.S. Supreme Court</h>
-    <h>Williams v. United States, <a href="./us458-0279.xml#p279">458 U.S. 279</a> (1982)</h>
-    <h>Williams v. United States</h>
-    <h>No. 80-2116</h>
-    <h>Argued April 20, 1982</h>
-    <h>Decided June 29, 1982</h>
-    <h><a href="./us458-0279.xml#p279">458 U.S. 279</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE FIFTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Williams v. United States, <a href="./us458-0279.xml#p279">458 U.S. 279</a> (1982)</h1>
+    <h2>Williams v. United States</h2>
+    <h2>No. 80-2116</h2>
+    <h4>Argued April 20, 1982</h4>
+    <h4>Decided June 29, 1982</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE FIFTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Title 18 U.S.C. § 1014 makes it a crime to "knowingly mak[e] any false statement or report," or "willfully overvalu[e] any land, property or security," for the purpose of influencing the action of described financial institutions (including federally insured banks) "upon any application, advance, . . . commitment, or loan." Petitioner engaged in a series of transactions seemingly amounting to a case of "check-kiting" between his accounts in federally insured banks, first drawing a check far in excess of his account balance in one bank and depositing it in his account in the other, and then reversing the process between his accounts. Petitioner was convicted in Federal District Court of violating § 1014, and the Court of Appeals affirmed.</p>
     <p>Held: Petitioner's conduct in depositing "bad checks" in federally insured banks is not proscribed by § 1014. Pp. <a href="./us458-0279.xml#p282">458 U. S. 282</a>-290.</p>
     <p>(a) Petitioner's actions did not involve the making of a "false statement." Technically speaking, a check is not a factual assertion at all, and therefore cannot be characterized as "true" or "false." Similarly, petitioner's conduct cannot be regarded as "overvalu[ing]" property or a security. In a literal sense, the face amounts of the checks were their "values." To interpret § 1014 as meaning that a drawer of a check has made a "false" statement whenever he has insufficient funds in his account at the moment the check is presented would "sligh[t] the wording of the statute," United States v. Enmons, <a href="../us410/us410-0396.xml#p396">410 U. S. 396</a>, <a href="../us410/us410-0396.xml#p399">410 U. S. 399</a>, and would render a wide range of unremarkable conduct violative of federal law. When § 1014 was enacted, federal action was not necessary to interdict the deposit of bad checks, for fraudulent checking activities already were addressed in comprehensive fashion by state law. Pp. <a href="./us458-0279.xml#p284">458 U. S. 284</a>-287.</p>
@@ -21,7 +21,7 @@
     <p>BLACKMUN, J., delivered the opinion of the Court, in which POWELL, REHNQUIST, STEVENS, and O'CONNOR, JJ., joined. WHITE, J., filed a dissenting opinion, in which BRENNAN, J., joined, post, p. <a href="./us458-0279.xml#p291">458 U. S. 291</a>. MARSHALL, J., filed a dissenting opinion, in which BURGER, C.J., and BRENNAN and WHITE, JJ., joined, post, p. 458 U.S. 292.</p>
     <p>JUSTICE BLACKMUN delivered the opinion of the Court.</p>
     <p>In this case, we must decide whether the deposit of a "bad check" in a federally insured bank is proscribed by 18 U.S.C. § 1014.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In 1975, petitioner William Archie Williams purchased a controlling interest in the Pelican State Bank in Pelican, La., and appointed himself president. The bank's deposits were insured by the Federal Deposit Insurance Corporation.</p>
     <p>Among the services the bank provided its customers at the time of petitioner's purchase was access to a "dummy account," used to cover checks drawn by depositors who had insufficient funds in their individual accounts. Any such check was processed through the dummy account and paid from the bank's general assets. The check was then held until the customer covered it by a deposit to his own account, at which time the held check was posted to the customer's account and the dummy account was credited accordingly. As president of the bank, petitioner enjoyed virtually unlimited use of the dummy account, and by May 2, 1978, his personal overdrafts amounted to $58,055.44, approximately half the total then covered by the account.</p>
     <p>On May 8, 1978, federal and state examiners arrived at the Pelican Bank to conduct an audit. That same day, petitioner</p>
@@ -46,7 +46,7 @@
     <n id="p284">284</n>
     <p>Among other things, petitioner argued on appeal that the indictment did not state a violation of § 1014. The Court of Appeals rejected this contention, however, concluding that petitioner's actions "constitute classic incidents of check-kiting." 639 F.2d 1311, 1319 (CA5 1981). In line with its earlier decision in United States v. Payne, 602 F.2d 1215 (CA5 1979), cert. denied, 445 U.S. 903 (1980), the court found such action proscribed by the statute.</p>
     <p>We granted certiorari, limited to Questions 3 and 4 presented by the petition, in order to resolve a conflict concerning the reach of § 1014. [<a id="nf5" href="#fn5">Footnote 5</a>] 454 U.S. 1030 and 1096 (1981).</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>To obtain a conviction under § 1014, the Government must establish two propositions: it must demonstrate (1) that the defendant made a "false statement or report," or "willfully overvalue[d] any land, property or security," and (2) that he did so "for the purpose of influencing in any way the action of [a described financial institution] upon any application, advance, . . . commitment, or loan." We conclude that petitioner's convictions under § 1014 cannot stand, because the Government has failed to meet the first of these burdens.</p>
     <p>A</p>
     <p>Although petitioner deposited several checks that were not supported by sufficient funds, that course of conduct did not involve the making of a "false statement," for a simple reason: technically speaking, a check is not a factual assertion at all, and therefore cannot be characterized as "true" or "false." Petitioner's bank checks served only to direct the drawee banks to pay the face amounts to the bearer, while committing petitioner to make good the obligations if the banks dishonored the drafts. Each check did not, in terms,</p>
@@ -138,7 +138,7 @@
       <p>If the majority really means what it says in <a href="./us458-0279.xml#p284">458 U. S.</a> S. 292� made a false statement or overvalued property or security -- it is unnecessary to explore the legislative history of § 1014 or to apply the rule of lenity. On the other hand, if the majority reverses the Court of Appeals because it cannot conceive that Congress intended § 1014 to reach the conduct at issue because the area has long been regulated by state law, it is not necessary to employ the fiction that a check does not entail a representation that it will be paid in the normal course of business by the drawee bank. Because the majority opinion appears to me to rest on that fiction, I respectfully dissent. I also join JUSTICE MARSHALL's dissenting opinion.</p>
       <p>JUSTICE MARSHALL, with whom THE CHIEF JUSTICE, JUSTICE BRENNAN, and JUSTICE WHITE join, dissenting.</p>
       <p>The majority, after developing an overly technical "definition" of the meaning of a check -- a definition which will come as quite a surprise to banks and businesses that accept checks in exchange for goods, services, or cash on the representation that the drawer has sufficient funds to cover the check -- concludes that the question whether petitioner Williams' check-kiting scheme is covered by 18 U.S.C. § 1014 is ambiguous. The majority then applies its version of the rule of lenity, and decides that Williams cannot be convicted for violating this statute. Because I believe that the majority misapplies the rule of lenity, and because Williams' conduct is clearly prohibited by the statute, I respectfully dissent.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>Before addressing the application of § 1014 to Williams' conduct, I think that it is helpful to set forth clearly what is not involved here. This is not a case in which a defendant, through careless bookkeeping, wrote checks on accounts with insufficient funds. Nor is this a case in which a defendant wrote a check on an account containing insufficient funds with the good faith intention to deposit in that account an amount that would cover the check before it cleared in the normal course of business. Rather, this case clearly involves</p>
       <n id="p293">293</n>
       <p>fraudulent conduct. Petitioner Williams engaged in an intentional check-kiting scheme. He misled the first bank into honoring his worthless, or virtually worthless, check and extending him immediate credit. This extension of credit enabled him to "play the float" and cover that check by misleading another bank into extending him credit on an equally worthless check. In effect, Williams was able to obtain interest-free extensions of credit. Williams, who was a bank president, does not, nor can he, make any credible argument that he was unaware that his conduct was wrongful. With this in mind, I turn to the question whether Williams' conduct constitutes a violation of 18 U.S.C. § 1014.</p>
@@ -192,7 +192,7 @@
       <p>The Court finds no indication that Congress intended to exclude check-kiting schemes from the scope of the statute. The Court's brief review of the legislative history to § 1014 does suggest that the primary purpose of the statute is to prohibit misrepresentations in connection with conventional loan applications. However, neither this fact, nor the fact that most convictions under the statute involve such transactions, compels the Court to ignore the broad language and</p>
       <n id="p302">302</n>
       <p>purposes of the statute by interpreting it to cover only these transactions. In the past, we have consistently rejected the argument that a criminal statute must be given its narrowest meaning by limiting its scope to effectuate only its primary purpose. See, e.g., United States v. Turkette, supra; United States v. Naftalin, <a href="../us441/us441-0768.xml#p768">441 U. S. 768</a> (1979); United States v. Moore, <a href="../us423/us423-0122.xml#p122">423 U. S. 122</a> (1975).</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>In light of the broad protection Congress intended to accord federally insured institutions against fraudulent or deceptive conduct intended to mislead these institutions into extending credit and the broad, unrestricted statutory language embodied in § 1014, I marvel at the Court's method of interpreting this statute. Indeed, today's decision is utterly incompatible with a number of prior decisions of this Court in which we addressed similar arguments raised by persons convicted under broad federal statutes. See, e.g., United States v. Turkette, supra; Rubin v. United States, <a href="../us449/us449-0424.xml#p424">449 U. S. 424</a> (1981); United States v. Naftalin, supra; United States v. Culbert, <a href="../us435/us435-0371.xml#p371">435 U. S. 371</a> (1978). In these decisions, we have consistently looked first to the statutory language to determine the scope and purpose of the statute. If it were evident from the face of the statute that the statute was written broadly in order to prohibit certain kinds of conduct which entail specific risks or dangers deemed by the legislators to be sufficiently unacceptable to warrant criminal sanction, we do not frustrate this purpose by distorting either the statutory language employed or the conduct of the accused in the name of the "rule of lenity." See, e.g., United States v. Turkette, supra; Rubin v. United States, supra.</p>
       <p>In contrast with this established approach, the majority today interprets § 1014 without acknowledging the broad statutory language chosen by Congress. This error is compounded by the Court's failure to address the fact that this broad language was intended to proscribe, in generic and disjunctive</p>
       <n id="p303">303</n>

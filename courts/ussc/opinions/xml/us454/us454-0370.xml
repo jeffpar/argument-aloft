@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us454-0370.html" citation="454 U.S. 370" title="Hutto v. Davis">
   <opinion type="Opinions &amp; Dissents">
     <n id="p370">370</n>
-    <h>U.S. Supreme Court</h>
-    <h>Hutto v. Davis, <a href="./us454-0370.xml#p370">454 U.S. 370</a> (1982)</h>
-    <h>Hutto v. Davis</h>
-    <h>No. 81-23</h>
-    <h>Decided January 11, 1982</h>
-    <h><a href="./us454-0370.xml#p370">454 U.S. 370</a></h>
-    <h>ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES</h>
-    <h>COURT OF APPEALS FOR THE FOURTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Hutto v. Davis, <a href="./us454-0370.xml#p370">454 U.S. 370</a> (1982)</h1>
+    <h2>Hutto v. Davis</h2>
+    <h2>No. 81-23</h2>
+    <h4>Decided January 11, 1982</h4>
+    <h2>ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES</h2>
+    <h2>COURT OF APPEALS FOR THE FOURTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondent was convicted in a Virginia state court of possessing with intent to distribute and distribution of nine ounces of marihuana, and was sentenced to 40 years in prison as authorized by Virginia law. After exhausting direct appeal, respondent brought an action in Federal District Court seeking a writ of habeas corpus on the ground that the 40-year sentence was so grossly disproportionate to the crime that it constituted cruel and unusual punishment in violation of the Eighth and Fourteenth Amendments. The District Court issued the writ, and, ultimately, the Court of Appeals affirmed, after its prior affirmance had been vacated by this Court and the case had been remanded for reconsideration in light of Rummel v. Estelle, <a href="../us445/us445-0263.xml#p263">445 U. S. 263</a>.</p>
     <p>Held: By affirming the District Court's decision after this Court's decision in Rummel, supra -- which stands for the proposition that federal courts should be reluctant to review legislatively mandated prison terms, and successful challenges to the proportionality of particular sentences should be exceedingly rare -- the Court of Appeals sanctioned an intrusion into the basic line-drawing process that is properly within the province of legislatures, not courts. More importantly, the Court of Appeals ignored the hierarchy of the federal court system created by the Constitution and Congress.</p>
     <p>Certiorari granted; 646 F.2d 123, reversed and remanded.</p>
@@ -48,14 +48,14 @@
       <p>We noted in Rummel that there could be situations in which the proportionality principle would come into play, such as "if a legislature made overtime parking a felony punishable by life imprisonment." Id. at <a href="../us445/us445-0263.xml#p274">445 U. S. 274</a>, n. 11.</p>
       <p>JUSTICE POWELL, concurring in the judgment.</p>
       <p>The Court holds that the Eighth Amendment countenances a prison term of 40 years and a fine of $20,000 for respondent's possession and distribution of approximately nine ounces of marihuana said to have a street value of about $200. I view the sentence as unjust and disproportionate to the offense. Nevertheless, for the reasons stated below, I reluctantly conclude that the Court's decision in Rummel v. Estelle, <a href="../us445/us445-0263.xml#p263">445 U. S. 263</a> (1980), is controlling on the facts before us. Accordingly, I join the judgment only.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>The respondent Davis met Eads in prison. During Eads' confinement, his wife had become a drug user. Concerned about this development and its effect on their 2-year-old child, Eads offered to cooperate with the police</p>
       <p>"to assist in the exposure and arrest of those supplying drugs to his wife and any illicit drug distributor in the area, including Davis, who Eads identified as an active drug dealer in Wythe County."</p>
       <p>Davis v. Davis, 585 F.2d 1226, 1228 (CA4 1978).</p>
       <n id="p376">376</n>
       <p>On furlough from prison, Eads told Davis he wished to buy drugs for himself and some mutual friends currently in prison. Shortly thereafter, the two went to Davis' home, where Davis sold Eads three ounces of marihuana for $74. Davis also gave Eads "drug pills which included L.S.D and another illicit controlled drug." Ibid. A police raid on Davis' home later uncovered about six ounces of marihuana, two scales, and other drug paraphernalia.</p>
       <p>Davis was found guilty of both distributing marihuana and of possessing marihuana with intent to distribute. On each count, he received a sentence of 20 years' imprisonment and a $10,000 fine. These sentences were imposed on a consecutive basis. The District Court granted his petition for a writ of habeas corpus because the sentences were "so grossly out of proportion to the severity of the crimes as to constitute cruel and unusual punishment. . . ." [Footnote 2/1] This judgment was reversed on appeal, Davis v. Davis, supra, but reinstated by the Court of Appeals on rehearing en banc. [Footnote 2/2] We remanded for reconsideration in light of our decision in Rummel v. Estelle, supra. [Footnote 2/3] By an equally divided vote en banc, the Court of Appeals again affirmed. [Footnote 2/4]</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>The sole authority upon which the Court today relies is its decision in Rummel v. Estelle. Rummel decided that the Eighth Amendment's proscription of cruel and unusual punishments [Footnote 2/5] was not transgressed by the imposition of life imprisonment for a recidivist's third felony, each a nonviolent fraud involving less than $125. The Court also observed, however:</p>
       <n id="p377">377</n>
       <p>"This is not to say that a proportionality principle [viz., that grossly disproportionate punishments are unconstitutional] would not come into play in the extreme example mentioned by the dissent, post at <a href="https://law.justia.com/us/445/263/#288">445 U. S. 288</a>, if a legislature made overtime parking a felony punishable by life imprisonment."</p>
@@ -66,7 +66,7 @@
       <p>solicited by Davis' lawyer some three years after Davis had commenced to serve his 40-year term. One can say, of course, that such a letter often can be obtained from a prosecutor who may have second thoughts as to the justness of a sentence he had sought at trial. I normally would give little weight to such a letter. But the prosecutor here, in a thoughtful letter, did advance a nonfrivolous reason for his conclusion that Davis' sentence was a "gross injustice." He referred to the "grave disparity in sentencing" in comparable drug offenses in the "Commonwealth [of Virginia] and the nation." [Footnote 2/8]</p>
       <n id="p379">379</n>
       <p>The second and more important factor that arguably distinguishes Rummel is the action of the Virginia State Legislature in 1979. It then reduced the maximum penalty for offenses of which Davis was convicted to 10 years on each count -- regardless of aggravating circumstances. See Va.Code § 18.248.1(a)(2) (Supp.1981) and § 18.10(e) (1975). This maximum is less than half the sentence Davis received. Because it sets a maximum, the legislative action takes all relevant aggravating circumstances into account. This reduction -- five years after Davis' conviction and two years after his prosecutor's letter -- evidences Virginia's present sentencing judgment that marihuana possession and distribution in small amounts no longer would justify Davis' sentence. [Footnote 2/9] Although this change in law was not made retroactive, it is evidence from the most authoritative state source that Davis' sentence was unjust, and no longer would be valid.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>Based on this evidence of comparative sentencing and the relatively minor degree of Davis' criminality, affirmance of the judgment of the Court of Appeals arguably could be justified. I conclude, however, that Rummel requires reversal. Davis was convicted of distributing marihuana, and had dealt in other drugs as well. He was willing to sell marihuana for</p>
       <n id="p380">380</n>
       <p>use by prison inmates and "probably as well to the wife of an inmate left alone with an infant child." 585 F.2d at 1233. He previously had been sentenced on a drug-related offense. [Footnote 2/10] By comparison, Rummel's offenses -- three minor frauds involving almost trifling sums of money -- were far less serious. Rummel's sentence, moreover, was more severe than Davis'. And Davis has been unable to show -- by means of statutory comparisons -- that his sentences suffer from a greater degree of disproportionality than Rummel's did. Compare Davis v. Zahradnick, <a href="https://law.justia.com/cases/federal/district-courts/FSupp/432/444/1367563/">432 F. Supp. 444</a>, 45253 (WD Va.1977), with 445 U.S. at <a href="../us445/us445-0263.xml#p296">445 U. S. 296</a>-302.</p>

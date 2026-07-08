@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us370-0076.html" citation="370 U.S. 76" title="Lehigh Valley Coop. v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p76">76</n>
-    <h>U.S. Supreme Court</h>
-    <h>Lehigh Valley Coop. v. United States, <a href="./us370-0076.xml#p76">370 U.S. 76</a> (1962)</h>
-    <h>Lehigh Valley Cooperative Farmers, Inc. v. United States</h>
-    <h>No. 7</h>
-    <h>Argued January 17-18, 1962</h>
-    <h>Decided .June 4, 1962</h>
-    <h><a href="./us370-0076.xml#p76">370 U.S. 76</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE THIRD CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Lehigh Valley Coop. v. United States, <a href="./us370-0076.xml#p76">370 U.S. 76</a> (1962)</h1>
+    <h2>Lehigh Valley Cooperative Farmers, Inc. v. United States</h2>
+    <h2>No. 7</h2>
+    <h4>Argued January 17-18, 1962</h4>
+    <h4>Decided .June 4, 1962</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE THIRD CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Under § 8c of the Agricultural Adjustment Act, as amended and reenacted by the Agricultural Marketing Agreement Act of 1937, the Secretary of Agriculture issued orders regulating the marketing of milk in the New York-New Jersey region. To protect the prices received by milk producers in that region, he included in the orders a provision in effect requiring those who buy milk elsewhere and bring it into the region for sale as fluid milk to pay to the producers who regularly supply the region a "compensatory payment" equal to the difference between the minimum price set by the Market Administrator for fluid milk and the minimum price for surplus milk in the region.</p>
     <p>Held: this requirement is invalid because it conflicts with § 8c(5)(G) of the Act, which, as shown by its legislative history, was intended by Congress to prevent the Secretary from setting up trade barriers to the importation of milk from other production areas in the United States. Pp. <a href="./us370-0076.xml#p77">370 U. S. 77</a>-100.</p>
     <p>287 F.2d 726 reversed.</p>
@@ -20,7 +20,7 @@
     <p>Petitioners, operating milk processing plants in Pennsylvania, challenge the validity of certain "compensatory payment" provisions included in milk marketing orders affecting the New York-New Jersey area, which were promulgated by the Secretary of Agriculture under the authority granted him by § 8c of the Agricultural Marketing Agreement Act of 1937, 7 U.S.C. § 608c. That section permits the Secretary to issue regional regulations governing, in various enumerated respects, the marketing of certain agricultural commodities, among which is milk. This provision in question requires those who buy milk elsewhere and bring it into the region for sale as fluid milk to pay to the farmers who supply the region a fixed amount as a "compensatory payment." This amount is measured by the difference between the minimum price set by the Market Administrator for fluid milk and the minimum price for surplus milk. The judgment of the Court of Appeals for the Third Circuit, 287 F.2d 726, upholding the validity of the "compensatory payment" provision here under attack, [<a id="nf1" href="#fn1">Footnote 1</a>] conflicted with an earlier</p>
     <n id="p78">78</n>
     <p>decision rendered by the Court of Appeals for the Second Circuit, Kass v. Brannan, 196 F.2d 791. To resolve this conflict, we granted certiorari. 366 U.S. 957.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The General Scheme of Milk Regulation</p>
     <p>The order around which the present controversy centers, now titled Milk Marketing Order No. 2, 7 CFR §§ 1002.1 et seq., [<a id="nf2" href="#fn2">Footnote 2</a>] though somewhat more complex than others, is in its general outline representative of the pattern of regulation established by the Secretary for the promotion of orderly marketing conditions in the milk industry and the preservation of minimum prices for farmers. Pursuant to the authority granted by § 8c(5)(A), [<a id="nf3" href="#fn3">Footnote 3</a>] the Order classifies milk that is sold within</p>
     <n id="p79">79</n>
@@ -31,7 +31,7 @@
     <p>Under the Marketing Order here in question, it is primarily the handlers whose plants are located within the marketing area and who regularly supply that area with fluid milk who are regulated. All handlers who receive or distribute milk within the area are required to submit monthly reports to the Market Administrator, listing the quantity of milk they have handled and the use for which it was sold. But only the handlers operating "pool plants" -- i.e., plants which meet certain standards set out in 7 CFR §§ 1002.25-1002.29 [<a id="nf4" href="#fn4">Footnote 4</a>] -- must pay the producers from whom they buy the uniform price set by the Administrator. This price is calculated each month on the basis of the reports that are submitted. After determining the minimum prices for each use classification pursuant to formulas set out in 7 CFR § 1002.40, the Administrator computes an average price for the "pool" milk handled during that month. This figure is reached by first multiplying the "pool" milk disposed of in each class by the established minimum price for that class, and then adding the products to the "compensatory payments" made for nonpool milk. After certain minor adjustments are made, this sum is divided by the total quantity of "pool" milk sold in the market during the month. The quotient is a "blend price." With some adjustments to reflect transportation expenses, this uniform price must be paid to producers by all handlers maintaining "pool" plants. 7 CFR § 1002.66.</p>
     <n id="p81">81</n>
     <p>Adjustments among handlers are made by way of a "Producer Settlement Fund," into which each handler contributes the excess of his "use value" [<a id="nf5" href="#fn5">Footnote 5</a>] over the uniform price paid by him to his producer. Handlers whose "use value" of the milk they purchase is less than the "blend price" they are required to pay may withdraw the difference from the fund. The net effect is that each handler pays for his milk at the price he would have paid had it been earmarked at the outset for the use to which it was ultimately put. But the farmer who produces the milk is protected from the effects of competition for premium outlets since he is automatically allotted a proportional share of each of the different "use" markets.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The Compensatory Payment Provision</p>
     <p>It will thus be seen that this system of regulation contemplates economic controls only over "pool-handler" plants, since only such handlers are required to pay the "blend price" to their producers and to account to the Producer Settlement Fund. If limited to the provisions recounted above, the regulatory scheme would not affect milk brought into the New York-New Jersey marketing area by handlers who are primarily engaged in supplying some other market and whose producers are not located within the New York-New Jersey area. Some of the regional orders now in effect do not undertake any economic regulation of "outside" or "other source" milk. [<a id="nf6" href="#fn6">Footnote 6</a>] But it is quite obvious that, under certain circumstances, some regulation of such milk may be necessary. Accordingly,</p>
     <n id="p82">82</n>
@@ -43,7 +43,7 @@
     <p>Of the 68 regional milk orders which establish marketwide pools, [<a id="nf8" href="#fn8">Footnote 8</a>] 64 contain "compensatory payment" provisions</p>
     <n id="p83">83</n>
     <p>of one kind or another. The Order now before us is typical of 23 of these orders. [<a id="nf9" href="#fn9">Footnote 9</a>] The Order provides that a handler who brings "outside" milk into the New York-New Jersey area and sells it for fluid use must pay to the pool's producers, through the Producer Settlement Fund, an amount equal to the difference between the minimum prices for the highest and for the lowest use classifications prevailing in that area. In other words, for each hundredweight of non-pool milk sold for Class I use in the New York-New Jersey area, a payment equal to the difference between Class I and Class III prices must be made by the seller to the Producer Settlement Fund.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The Purpose and Effect of the Compensatory Payment</p>
     <p>After the Court of Appeals for the Second Circuit had held that compensatory payment requirement in the New York-New Jersey Milk Marketing Order (then Order No. 27) to be a "penalty," Kass v. Brannan, 196 F.2d</p>
     <n id="p84">84</n>
@@ -68,7 +68,7 @@
     <p>forced to subsidize the pool milk and insulate the pool milk from the competitive impact caused by the entry of outside milk. This was recognized by the Court of Appeals, which held that such a compensatory payment</p>
     <n id="p91">91</n>
     <p>was "designed to compensate the pool for the loss of the Class I fluid milk utilization and . . . protect the uniform blend price in the marketing area." 287 F.2d at 730. It is only if the Secretary has been authorized by the statute to impose such economic trade barriers on the entry of milk into an area so as to protect the prices received by the pool producers that the present compensatory payment plan can be sustained as "necessary to effectuate" the expressly authorized provisions of this Order.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>. Section 8c(5)(G)</p>
     <p>Section 8c(5)(G) of the Act, however, taken in light of its legislative history, indicates that the regulation here imposed by the Secretary was of the sort that Congress intended to forbid. Section 8c(5)(G) provides:</p>
     <p>"No marketing agreement or order applicable to milk and its products in any marketing area shall prohibit or in any manner limit, in the case of the products of milk, the marketing in that area of any milk or product thereof produced in any production area in the United States."</p>
@@ -102,7 +102,7 @@
     <p>all regulations and requirements of that area. For the first 2 months he would be required to take the manufacturer's price."</p>
     <p>(Emphasis added.)</p>
     <p>This history discloses that, rather than being confined, as Judge Learned Hand suggested in Kass v. Brannan, 196 F.2d at 800, to practices aimed at the exclusion of cheese and other milk products from eastern markets, § 8c(5)(G) was compendiously intended to prevent the Secretary from setting up, under the guise of price-fixing regulation, any kind of economic trade barriers, whether relating to milk or its products. Whenever there was an attempt to broaden the language of subsection (G) to encompass "limitations," as well as "prohibitions," those opposing it pointed only to the fact that "limit" might be read as including the type of price-fixing covered by subsection (D) -- i.e., allowing new pool producers only manufacturing use prices for a limited period -- or other attempts to put outside milk on an equal footing with pool milk. Although the words of § 8c(5)(G), "in any manner limit," must be taken, in the context of their legislative history, as referring only to milk products, that history likewise makes it clear that as regards milk the word "prohibit" refers not merely to absolute or quota physical restrictions, but also encompasses economic trade barriers of the kind effected by the subsidies called for by this "compensatory payment" provision.</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>The Invalidity of the Present Compensatory Payment Provision.</p>
     <p>In light of the legislative history of § 8c(5)(G), we conclude that the compensatory payment provision of the New York-New Jersey Milk Marketing Order must fall as inconsistent with the policy expressed by Congress in</p>
     <n id="p98">98</n>

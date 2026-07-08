@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us004-0123.html" citation="4 U.S. 123" title="MASSEY v. LEAMING">
   <opinion type="Opinions &amp; Dissents">
     <n id="p123">123</n>
-    <h>U.S. Supreme Court</h>
-    <h>MASSEY v. LEAMING, <a href="./us004-0123.xml#p123">4 U.S. 123</a> (1792)</h>
-    <h> <a href="./us004-0123.xml#p123">4 U.S. 123</a> (Dall.)</h>
-    <h>Massey et al. Executors of Massey v. Leaming. [<a id="nf1" href="#fn1">Footnote 1</a>]</h>
-    <h>Supreme Court of Pennsylvania.</h>
-    <h>April Term, 1792</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>MASSEY v. LEAMING, <a href="./us004-0123.xml#p123">4 U.S. 123</a> (1792)</h1>
+    <h2>Massey et al. Executors of Massey v. Leaming. [<a id="nf1" href="#fn1">Footnote 1</a>]</h2>
+    <h2>Supreme Court of Pennsylvania.</h2>
+    <h4>April Term, 1792</h4>
     <p>DEBT. Plea, payment, with leave to give the will of testatrix in evidence.</p>
     <p>The case was, simply, this: Mrs. Massey, the testatrix, was in a low state of health for some time before her death; the defendant took the charge of her affairs, and had some accounts against her; but he borrowed 150l. from her, for which he gave a bond payable in one year, with interest. On the 5th of June 1784, she made her will, which was proved on the 21st of June, containing, among other things this bequest: 'I give to T. Leaming, in consideration of his many services to me, 200l. in real specie; provided he brings no account against me and my estate; and if he happen to bring any account against me, or my estate, then this bequest to be void;' with a devise over of the testatrix's estate. The legacy was paid to T. Leaming; the present action was brought upon his bond; and the question of law arose, whether the bequest operated as a release?</p>
     <p>The plaintiff's counsel suggested, that they were ready to prove, that there was a deficiency of assets to pay debts.</p>
@@ -15,7 +15,7 @@
     <p>After depending for a great period on the docket, the suit was, finally, market 'not to be brought forward.'</p>
     <p>Tilghman and Levy, for the plaintiff.</p>
     <p>Sergeant, for the defendant.</p>
-    <h>Footnotes</h>
+    <h2>Footnotes</h2>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>
       <p>Tried at Nisi Prius, Philadelphia county, in May 1792[ Massey v. Leaming</p>
     </f>

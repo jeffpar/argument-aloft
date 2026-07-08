@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us423-0232.html" citation="423 U.S. 232" title="Foremost-McKesson, Inc. v. Provident Securities Co.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p232">232</n>
-    <h>U.S. Supreme Court</h>
-    <h>Foremost-McKesson, Inc. v. Provident Securities Co., <a href="./us423-0232.xml#p232">423 U.S. 232</a> (1976)</h>
-    <h>Foremost-McKesson, Inc. v. Provident Securities Co.</h>
-    <h>No. 74-742</h>
-    <h>Argued October 7, 1975</h>
-    <h>Decided January 13, 1976</h>
-    <h><a href="./us423-0232.xml#p232">423 U.S. 232</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Foremost-McKesson, Inc. v. Provident Securities Co., <a href="./us423-0232.xml#p232">423 U.S. 232</a> (1976)</h1>
+    <h2>Foremost-McKesson, Inc. v. Provident Securities Co.</h2>
+    <h2>No. 74-742</h2>
+    <h4>Argued October 7, 1975</h4>
+    <h4>Decided January 13, 1976</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondent, a personal holding company contemplating liquidation, sold assets to petitioner corporation. Respondent received from petitioner as part of the purchase price convertible debentures which, if converted into petitioner's common stock, would make respondent a holder of more than 10% of petitioner's outstanding common stock. A few days later, pursuant to an underwriting agreement, one of the debentures was sold to a group of underwriters for cash in an amount exceeding its face value. After making debenture and cash distributions to its stockholders, respondent dissolved. Under § 16(b) of the Securities Exchange Act of 1934 (Act) a corporation may recover for itself the profits realized by an officer, director, or beneficial owner of more than 10% of its shares from a purchase and sale of its stock within a six-month period. An exemptive provision specifies, however, that § 16(b) shall not be construed to cover any transaction where the beneficial owner was not such both "at the time of" the purchase and sale of the securities involved. Since the amount of petitioner's debentures received by respondent was large enough to make respondent a beneficial owner of petitioner within the meaning of § 16, and its disposal of the securities within the six-month period exposed respondent to a suit by petitioner to recover profits realized by respondent on the sale to the underwriters, respondent sought a declaratory judgment of its nonliability under § 16(b). The District Court granted summary judgment to respondent, and the Court of Appeals affirmed, though for different reasons.</p>
     <p>Held: By virtue of the exemptive provision, a beneficial owner is accountable under § 16(b) in a purchase-sale sequence such as was involved here only if he was such an owner "before the purchase." Thus, the fact that respondent was not a beneficial owner before the purchase removed the transaction from the operation of § 16(b). Pp. <a href="./us423-0232.xml#p239">423 U. S. 239</a>-259.</p>
     <p>(a) The legislative history of the exemptive provision reveals a legislative intent to deter beneficial owners from making both</p>
@@ -31,7 +31,7 @@
     <p>however, provides that it</p>
     <p>"shall not be construed to cover any transaction where such beneficial owner was not such both at the time of the purchase and sale, or the sale and purchase, of the security involved. . . ."</p>
     <p>The question presented here is whether a person purchasing securities that put his holdings above the 10% level is a beneficial owner "at the time of the purchase" so that he must account for profits realized on a sale of those securities within six months. The United States Court of Appeals for the Ninth Circuit answered this question in the negative. 506 F.2d 601 (1974). We affirm.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Respondent, Provident Securities Co., was a personal holding company. In 1968, Provident decided tentatively to liquidate and dissolve, and it engaged an agent to find a purchaser for its assets. Petitioner, Foremost-McKesson, Inc., emerged as a potential purchaser, but extensive negotiations were required to resolve a disagreement over the nature of the consideration Foremost would pay. Provident wanted cash in order to facilitate its dissolution, while Foremost wanted to pay with its own securities.</p>
     <p>Eventually a compromise was reached, and Provident and Foremost executed a purchase agreement embodying their deal on September 25, 1969. The agreement provided that Foremost would buy two-thirds of Provident's assets for $4.25 million in cash and $49.75 million in Foremost convertible subordinated debentures. [<a id="nf3" href="#fn3">Footnote 3</a>] The agreement further provided that Foremost would register under the Securities Act of 1933 $25 million in</p>
     <n id="p236">236</n>
@@ -48,7 +48,7 @@
     <p>The first was Provident's argument that it was not a beneficial owner "at the time of . . . sale." After the October 24 distribution of some debentures to stockholders, the debentures held by Provident were convertible into less than 10% of Foremost's outstanding common stock. Provident contended that its sale to the underwriters did not occur until the underwriting agreement was closed on October 28. If this were the case, the sale would not have been covered by § 16(b), since Provident would not have been a beneficial owner "at the time of . . . sale." [<a id="nf6" href="#fn6">Footnote 6</a>] The Court of Appeals rejected this argument because it found that the sale occurred on October 21 upon execution of the underwriting agreement. [<a id="nf7" href="#fn7">Footnote 7</a>]</p>
     <n id="p239">239</n>
     <p>The Court of Appeals then turned to the theory of nonliability based on the exemptive provision that we consider here. [<a id="nf8" href="#fn8">Footnote 8</a>] It held that, in a purchase-sale sequence, the phrase "a the time of the purchase" "must be construed to mean prior to the time when the decision to purchase is made." 506 F.2d at 614. Thus, although Provident became a beneficial owner of Foremost by acquiring the debentures, it was not a beneficial owner "at the time of the purchase." Accordingly, the exemptive provision prevented any § 16(b) liability on Provident's part.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The meaning of the exemptive provision has been disputed since § 16(b) was first enacted. The discussion has focused on the application of the provision to</p>
     <n id="p240">240</n>
     <p>a purchase-sale sequence, the principal disagreement being whether "at the time of the purchase" means "before the purchase" or "immediately after the purchase." [<a id="nf9" href="#fn9">Footnote 9</a>] The difference in construction is determinative of a beneficial owner's liability in cases such as Provident's where such owner sells within six months of purchase the securities the acquisition of which made him a beneficial owner. The commentators divided immediately over which construction Congress intended, [<a id="nf10" href="#fn10">Footnote 10</a>] and they remain divided. [<a id="nf11" href="#fn11">Footnote 11</a>] The Courts of Appeals also are in disagreement over the issue.</p>
@@ -62,7 +62,7 @@
     <p>The Court of Appeals considered this case against the background, sketched above, of ambiguity in the pertinent statutory language, continued disagreement among the commentators, and a perceived absence in the relatively few decided cases of a full consideration of the purpose and legislative history of § 16(b). The court found unpersuasive the rationales offered in Stella and its progeny for the "immediately after the purchase" construction. It noted that construing the provision to require that beneficial ownership status exist before the purchase in a purchase-sale sequence would not foreclose an "immediately after the purchase" construction in a sale-repurchase sequence. [<a id="nf15" href="#fn15">Footnote 15</a>] 506 F.2d at 614-615. More significantly, the Court of Appeals challenged directly the premise of the earlier cases that a "before the purchase" construction in a purchase-sale sequence would allow abuses Congress intended to abate. The court reasoned that, in § 16(b), Congress intended to reach only those beneficial owners who both bought and sold on the basis of inside information, which was presumptively</p>
     <n id="p243">243</n>
     <p>available to them only after they became statutory "insiders." 506 F.2d at 608-614. [<a id="nf16" href="#fn16">Footnote 16</a>]</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>A</p>
     <p>The general purpose of Congress in enacting § 16(b) is well known. See Kern County Land Co., 411 U.S. at <a href="../us411/us411-0582.xml#p591">411 U. S. 591</a>-592; Reliance Electric Co., 404 U.S. at <a href="../us404/us404-0418.xml#p422">404 U. S. 422</a>, and the authorities cited therein. Congress recognized that insiders may have access to information about their corporations not available to the rest of the investing public. By trading on this information, these persons could reap profits at the expense of less well informed investors. In § 16(b), Congress sought to</p>
     <p>"curb the evils of insider trading [by] . . . taking the profits out of a class of transactions in which the possibility of abuse was believed to be intolerably great."</p>
@@ -104,7 +104,7 @@
     <n id="p250">250</n>
     <p>in a purchase-sale sequence, a beneficial owner must account for profits only if he was a beneficial owner "before the purchase." [<a id="nf25" href="#fn25">Footnote 25</a>]</p>
     <n id="p251">251</n>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>Additional considerations support our reading of the legislative history.</p>
     <p>A</p>
     <p>Section 16(b) imposes a strict prophylactic rule with respect to insider, short-swing trading. In Kern County Land Co., 411 U.S. at <a href="../us411/us411-0582.xml#p595">411 U. S. 595</a>, we noted:</p>
@@ -126,7 +126,7 @@
     <n id="p256">256</n>
     <p>would afford indirect protection against some potential misuses of inside information. [<a id="nf31" href="#fn31">Footnote 31</a>] See Hearings on H.R. 7852 and H.R. 8720, supra at 134-135; H.R.Rep. No. 1383, 73d Cong., 2d Sess., 13 (to accompany H.R. 9323, 73d Cong., 2d Sess., passed by the House, May 4, 1934, without the present § 16(b)).</p>
     <n id="p257">257</n>
-    <h>V</h>
+    <h2>V</h2>
     <p>We must still consider briefly Foremost's contention that the "before the purchase" construction renders other enactments of Congress unnecessary and conflicts with the interpretation of § 16(b) by the Securities and Exchange Commission.</p>
     <p>Foremost and amicus Allis-Chalmers Manufacturing Co. point to §§ 16(d) and (e) of the Act, 15 U.S.C. §§ 78p(d) and (e), as congressional actions that would not have been necessary unless one selling the securities the acquisition of which made him a beneficial owner is liable under § 16(b). Section 16(d), in part, exempts from § 16(b) certain transactions by a securities "dealer in the ordinary course of his business and incident to the establishment or maintenance by him of a primary or secondary market." [<a id="nf32" href="#fn32">Footnote 32</a>] Section 16(e) provides an exemption for certain "foreign or domestic arbitrage transactions." [<a id="nf33" href="#fn33">Footnote 33</a>] They argue similarly that the SEC's</p>
     <n id="p258">258</n>

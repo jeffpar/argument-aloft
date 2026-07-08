@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us474-0494.html" citation="474 U.S. 494" title="Midlantic Nat'l Bank v. NJDEP">
   <opinion type="Opinions &amp; Dissents">
     <n id="p494">494</n>
-    <h>U.S. Supreme Court</h>
-    <h>Midlantic Nat'l Bank v. NJDEP, <a href="./us474-0494.xml#p494">474 U.S. 494</a> (1986)</h>
-    <h>Midlantic National Bank v. New Jersey</h>
-    <h>Department of Environmental Protection</h>
-    <h>No. 84-801</h>
-    <h>Argued October 16, 1985</h>
-    <h>Decided January 27, 1986<a href="./us474-0494.xml#p494">474 U.S. 494</a>ast|&gt;*</h>
-    <h><a href="./us474-0494.xml#p494">474 U.S. 494</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h>
-    <h>THE THIRD CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Midlantic Nat'l Bank v. NJDEP, <a href="./us474-0494.xml#p494">474 U.S. 494</a> (1986)</h1>
+    <h2>Midlantic National Bank v. New Jersey</h2>
+    <h2>Department of Environmental Protection</h2>
+    <h2>No. 84-801</h2>
+    <h4>Argued October 16, 1985</h4>
+    <h4>Decided January 27, 1986<a href="./us474-0494.xml#p494">474 U.S. 494</a>ast|&gt;*</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR</h2>
+    <h2>THE THIRD CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Quanta Resources Corp. (Quanta) processed waste oil at facilities located in New York and New Jersey. The New Jersey Department of Environmental Protection (NJDEP) discovered that Quanta had violated a provision of the operating permit for the New Jersey facility by accepting oil contaminated with a toxic carcinogen. During negotiations with NJDEP for the cleanup of the New Jersey site, Quanta filed a petition for reorganization under Chapter 11 of the Bankruptcy Code, and after NJDEP had issued an order requiring cleanup, Quanta converted the action to a liquidation proceeding under Chapter 7. An investigation of the New York facility then revealed that Quanta had also accepted similarly contaminated oil at that site. The trustee notified the creditors and the Bankruptcy Court that he intended to abandon the property under § 554(a) of the Bankruptcy Code, which authorizes a trustee to "abandon any property of the estate that is burdensome to the estate or that is of inconsequential value to the estate." The City and the State of New York objected, contending that abandonment would threaten the public's health and safety, and would violate state and federal environmental law. The Bankruptcy Court approved the abandonment, and, after the District Court affirmed, an appeal was taken to the Court of Appeals for the Third Circuit. Meanwhile, the Bankruptcy Court also approved the trustee's proposed abandonment of the New Jersey facility over NJDEP's objection, and NJDEP took a direct appeal to the Court of Appeals. In separate judgments, the Court of Appeals reversed, holding that the Bankruptcy Court erred in permitting abandonment.</p>
     <p>Held: A trustee in bankruptcy may not abandon property in contravention of a state statute or regulation that is reasonably designed to protect the public health or safety from identified hazards. Congress did not intend for § 554(a) to preempt all state and local laws. A bankruptcy court does not have the power to authorize an abandonment without formulating</p>
     <n id="p495">495</n>
@@ -25,7 +25,7 @@
     <n id="p496">496</n>
     <p>JUSTICE POWELL delivered the opinion of the Court.</p>
     <p>These petitions for certiorari, arising out of the same bankruptcy proceeding, present the question whether § 554(a) of the Bankruptcy Code, 11 U.S.C. § 554(a), [<a id="nf1" href="#fn1">Footnote 1</a>] authorizes a trustee in bankruptcy to abandon property in contravention of state laws or regulations that are reasonably designed to protect the public's health or safety.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Quanta Resources Corporation (Quanta) processed waste oil at two facilities, one in Long Island City, New York, and</p>
     <n id="p497">497</n>
     <p>the other in Edgewater, New Jersey. At the Edgewater facility, Quanta handled the oil pursuant to a temporary operating permit issued by the New Jersey Department of Environmental Protection (NJDEP), respondent in No. 84-801. In June, 1981, Midlantic National Bank, petitioner in No. 84-801, provided Quanta with a $600,000 loan secured by Quanta's inventory, accounts receivable, and certain equipment. The same month, NJDEP discovered that Quanta had violated a specific prohibition in its operating permit by accepting more than 400,000 gallons of oil contaminated with PCB, a highly toxic carcinogen. NJDEP ordered Quanta to cease operations at Edgewater, and the two began negotiations concerning the cleanup of the Edgewater site. But on October 6, 1981, before the conclusion of negotiations, Quanta filed a petition for reorganization under Chapter 11 of the Bankruptcy Code. The next day, NJDEP issued an administrative order requiring Quanta to clean up the site. Quanta's financial condition remained perilous, however, and, the following month, it converted the action to a liquidation proceeding under Chapter 7. Thomas J. O'Neill, petitioner in No. 84-805, was appointed trustee in bankruptcy, and subsequently oversaw abandonment of both facilities.</p>
@@ -43,7 +43,7 @@
     <n id="p500">500</n>
     <p>Accordingly, the Court of Appeals held that the Bankruptcy Court erred in permitting abandonment, and remanded both cases for further proceedings. [<a id="nf4" href="#fn4">Footnote 4</a>]</p>
     <p>We granted certiorari and consolidated these cases to determine whether the Court of Appeals properly construed § 554, 469 U.S. 1207 (1985). We now affirm.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Before the 1978 revisions of the Bankruptcy Code, the trustee's abandonment power had been limited by a judicially developed doctrine intended to protect legitimate state or federal interests. This was made clear by the few relevant cases. In Ottenheimer v. Whitaker, 198 F.2d 289 (CA4 1952), the Court of Appeals concluded that a bankruptcy trustee, in liquidating the estate of a barge company, could not abandon several barges when the abandonment would have obstructed a navigable passage in violation of federal law. The court stated:</p>
     <p>"The judge-made [abandonment] rule must give way when it comes into conflict with a statute enacted in order to ensure the safety of navigation; for we are not dealing with a burden imposed upon the bankrupt or his property by contract, but a duty and a burden imposed upon an owner of vessels by an Act of Congress in the public interest."</p>
     <p>Id. at 290.</p>
@@ -54,7 +54,7 @@
     <p>"the intention would be clearly expressed, not left to be collected or inferred from disputable considerations of convenience in administering the estate of the bankrupt."</p>
     <p>Swarts v. Hammer, <a href="../us194/us194-0441.xml#p441">194 U. S. 441</a>, <a href="../us194/us194-0441.xml#p444">194 U. S. 444</a> (1904); see Palmer v. Massachusetts, <a href="../us308/us308-0079.xml#p79">308 U. S. 79</a>, <a href="../us308/us308-0079.xml#p85">308 U. S. 85</a> (1939) ("If this old and familiar power of the states [over local railroad service] was withdrawn when Congress gave district courts bankruptcy powers over railroads, we ought to find language fitting for so drastic a change"). Although these cases do not define for us the exact contours of the trustee's abandonment power, they do make clear that this power was subject to certain restrictions when Congress enacted § 554(a).</p>
     <n id="p502">502</n>
-    <h>III</h>
+    <h2>III</h2>
     <p>Neither the Court nor Congress has granted a trustee in bankruptcy powers that would lend support to a right to abandon property in contravention of state or local laws designed to protect public health or safety. As we held last Term when the State of Ohio sought compensation for cleaning the toxic waste site of a bankrupt corporation:</p>
     <p>"Finally, we do not question that anyone in possession of the site -- whether it is [the debtor] or another in the event the receivership is liquidated and the trustee abandons the property, or a vendee from the receiver or the bankruptcy trustee -- must comply with the environmental laws of the State of Ohio. Plainly, that person or firm may not maintain a nuisance, pollute the waters of the State, or refuse to remove the source of such conditions."</p>
     <p>Ohio v. Kovacs, <a href="../us469/us469-0274.xml#p274">469 U. S. 274</a>, <a href="../us469/us469-0274.xml#p285">469 U. S. 285</a> (1985) (emphasis added).</p>
@@ -67,13 +67,13 @@
     <p>Petitioners have suggested that the existence of an express exception to the automatic stay undermines the inference of a similar exception to the abandonment power: had Congress sought to restrict similarly the scope of § 554, it would have enacted similar limiting provisions. This argument, however, fails to acknowledge the differences between the predecessors of §§ 554 and 362. As we have noted, the exceptions to the judicially created abandonment power were firmly established. But in enacting § 362 in 1978, Congress significantly broadened the scope of the automatic stay, see 1 W. Norton, Bankruptcy Law and Practice § 20.03, pp. 5-6 (1981), an expansion that had begun only five years earlier with the adoption of the Bankruptcy Rules in 1973, see id. § 20.02, at 4-5. Between 1973 and 1978, some courts had stretched the expanded automatic stay to foreclose States' efforts to enforce their antipollution laws, [<a id="nf6" href="#fn6">Footnote 6</a>] and Congress wanted to overrule these interpretations in its 1978 revision. See H.R.Rep. No. 95-595, supra, at 174-175. In the face of the greatly increased scope of § 362, it was necessary for Congress to limit this new power expressly.</p>
     <n id="p505">505</n>
     <p>Title 28 U.S.C. § 959(b) [<a id="nf7" href="#fn7">Footnote 7</a>] provides additional evidence that Congress did not intend for the Bankruptcy Code to preempt all state laws. Section 959(b) commands the trustee to "manage and operate the property in his possession . . . according to the requirements of the valid laws of the State." Petitioners have contended that § 959(b) is relevant only when the trustee is actually operating the business of the debtor, and not when he is liquidating it. Even though § 959(b) does not directly apply to an abandonment under § 554(a) of the Bankruptcy Code -- and therefore does not delimit the precise conditions on an abandonment -- the section nevertheless supports our conclusion that Congress did not intend for the Bankruptcy Code to preempt all state laws that otherwise constrain the exercise of a trustee's powers.</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>Although the reasons elaborated above suffice for us to conclude that Congress did not intend for the abandonment power to abrogate certain state and local laws, we find additional support for restricting that power in repeated congressional emphasis on its "goal of protecting the environment against toxic pollution." Chemical Manufacturers Assn., Inc. v. Natural Resources Defense Council, Inc., <a href="../us470/us470-0116.xml#p116">470 U. S. 116</a>, <a href="../us470/us470-0116.xml#p143">470 U. S. 143</a> (1985). Congress has enacted a Resource Conservation and Recovery Act, 42 U.S.C. §§ 6901-6987, to regulate the treatment, storage, and disposal of hazardous wastes by monitoring wastes from their creation until after their permanent disposal. That Act authorizes the United States to seek judicial or administrative restraint of activities involving</p>
     <n id="p506">506</n>
     <p>hazardous wastes that "may present an imminent and substantial endangerment to health or the environment." 42 U.S.C. § 6973; see also S.Rep. No. 98-284, p. 58 (1983). Congress broadened the scope of the statute and tightened the regulatory restraints in 1984. [<a id="nf8" href="#fn8">Footnote 8</a>] In the Comprehensive Environmental Response, Compensation, and Liability Act, as amended by Pub.L. 98-80, § 2(c)(2)(B), Congress established a fund to finance cleanup of some sites, and required certain responsible parties to reimburse either the fund or the parties who paid for the cleanup. The Act also empowers the Federal Government to secure such relief as may be necessary to avert</p>
     <p>"imminent and substantial endangerment to the public health or welfare or the environment because of an actual or threatened release of a hazardous substance."</p>
     <p>42 U.S.C. § 9606. In the face of Congress' undisputed concern over the risks of the improper storage and disposal of hazardous and toxic substances, we are unwilling to presume that, by enactment of § 554(a), Congress implicitly overturned longstanding restrictions on the common law abandonment power.</p>
-    <h>V</h>
+    <h2>V</h2>
     <p>In the light of the Bankruptcy trustee's restricted pre-1978 abandonment power and the limited scope of other Bankruptcy Code provisions, we conclude that Congress did not intend for § 554(a) to preempt all state and local laws. The</p>
     <n id="p507">507</n>
     <p>Bankruptcy Court does not have the power to authorize an abandonment without formulating conditions that will adequately protect the public's health and safety. Accordingly, without reaching the question whether certain state laws imposing conditions on abandonment may be so onerous as to interfere with the bankruptcy adjudication itself, we hold that a trustee may not abandon property in contravention of a state statute or regulation that is reasonably designed to protect the public health or safety from identified hazards. [<a id="nf9" href="#fn9">Footnote 9</a>] Accordingly, we affirm the judgments of the Court of Appeals for the Third Circuit.</p>

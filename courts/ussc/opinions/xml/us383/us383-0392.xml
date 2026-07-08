@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us383-0392.html" citation="383 U.S. 392" title="Perry v. Commerce Loan Co.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p392">392</n>
-    <h>U.S. Supreme Court</h>
-    <h>Perry v. Commerce Loan Co., <a href="./us383-0392.xml#p392">383 U.S. 392</a> (1966)</h>
-    <h>Perry v. Commerce Loan Co.</h>
-    <h>No. 694</h>
-    <h>Argued January 26, 1966</h>
-    <h>Decided March 7, 1966</h>
-    <h><a href="./us383-0392.xml#p392">383 U.S. 392</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SIXTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Perry v. Commerce Loan Co., <a href="./us383-0392.xml#p392">383 U.S. 392</a> (1966)</h1>
+    <h2>Perry v. Commerce Loan Co.</h2>
+    <h2>No. 694</h2>
+    <h4>Argued January 26, 1966</h4>
+    <h4>Decided March 7, 1966</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SIXTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner sought confirmation of his plan for an extension of time to pay his debts out of future wages, pursuant to Chapter XIII of the Bankruptcy Act. On motion of respondent, a creditor, the referee dismissed the plan on the ground that petitioner's discharge in a straight bankruptcy proceeding within six years of this proceeding barred confirmation under § 14(c)(5) of the Act. That section provides for discharge unless the bankrupt has,</p>
     <p>"within six years prior to bankruptcy, been granted a discharge, or had a composition or an arrangement by way of composition or a wage earner's plan by way of composition confirmed under this Act. . . ."</p>
     <p>Section 656(a)(3) requires confirmation of a wage earner's extension plan if</p>
@@ -32,7 +32,7 @@
     <p>Perry, a furnace operator employed by Moore Lead Company, filed a petition in the District Court under Chapter XIII of the Bankruptcy Act, 52 Stat. 930 (1938), as amended, 11 U.S.C. §§ 1001-1086, [<a id="nf1" href="#fn1">Footnote 1</a>] requesting confirmation of his plan for an extension of time within which to pay his debts out of his future wages. In his plan, he proposed to pay his debts of $1,412 in 28 equal monthly installments of $60 from his wages of $265 a month. On the hearing for confirmation of the plan, however, it appeared that Perry had previously filed a petition in straight bankruptcy and obtained a discharge therein in 1959, within six years of the filing of this proceeding. On motion of the respondent, Commerce Loan Company, the referee dismissed the plan on the ground that the previous bankruptcy was a bar thereto under</p>
     <n id="p394">394</n>
     <p>the provisions of § 14(c)(5) of the Act. [<a id="nf2" href="#fn2">Footnote 2</a>] On review, the District Court upheld the dismissal. The Court of Appeals affirmed. 340 F.2d 588. We granted certiorari, 382 U.S. 889, in view of a conflict on the point among the courts of appeals. [<a id="nf3" href="#fn3">Footnote 3</a>] We conclude that confirmations of wage earner plans by way of extensions are not affected by § 14(c)(5), and therefore reverse the judgment below.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Although statutory relief for the financially distressed wage earner had been available to some extent as early as the Bankruptcy Act of 1867, 14 Stat. 517, Congress found in its study prior to the 1938 revision of the bankruptcy laws that there were no effective provisions for the complete repayment of the wage earner's debts suited to his problems. H.R.Rep.No.1409, 75th Cong., 1st Sess., 53 (1937). For example, compositions under § 12 of the 1898 Act, 30 Stat. 549, were available to the wage earner, but the relief afforded was unsatisfactory. Section 12 proceedings, which were primarily adaptable for use by business entities, were disproportionately expensive in view of the small sums ordinarily involved in wage earner cases; they lacked flexibility;</p>
     <n id="p395">395</n>
     <p>and they did not provide for jurisdiction of the court subsequent to confirmation. Other provisions of the Act had similar disadvantages. Faced with inadequate relief under the federal bankruptcy laws, and often with little protection from creditors under state law, the only course usually open to the wage-earning debtor was straight bankruptcy. In such proceedings, everyone lost -- the creditors by receiving a mere fraction of their claims, the debtor by bearing thereafter the stigma of having been adjudged a bankrupt. In designing a remedy for the dilemma facing a debtor seeking to repay, rather than avoid, his obligations, the Congress settled upon the wage earner extension of time procedures of Chapter XIII. The chapter gave -- and was intended to give -- to the wage earner a reasonable opportunity to arrange installment payments to be made out of his future earnings. Congress clearly intended to encourage wage earners to pay their debts in full, rather than to go into straight bankruptcy or composition, by offering two inducements: (1) avoidance of an adjudication of bankruptcy, with its attendant stigma, and, at the same time, (2) temporary freedom during the extension from garnishments, attachments and other harassment by creditors. H.R.Rep.No.1409, 75th Cong., 1st Sess., at 52-55.</p>
@@ -46,7 +46,7 @@
     <p>H.R.Rep.No.193, 86th Cong., 1st Sess., 2 (1959). And similarly, the Senate report states:</p>
     <p>"We think there can be no doubt . . . that a procedure by which a debtor who is financially involved and unable to meet his debts as they mature, over a period of time, works out of his involvement and pays his debts in full is good for his creditors and good for him."</p>
     <p>S.Rep.No.179, 86th Cong., 1st Sess., 2 (1959). It is with this underlying policy in mind that we turn to a consideration of the problem posed here, i.e., whether confirmation of an extension plan is barred by a discharge in bankruptcy obtained within the previous six years.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Chapter XIII requires the confirmation of a wage earner extension plan if</p>
     <p>"the debtor has not been guilty of any of the acts or failed to perform any of the duties which would be a bar to the discharge of the bankrupt. . . ."</p>
     <p>§ 656(a)(3). And Chapter III commands that a discharge of a bankrupt shall be granted unless the court is satisfied that the bankrupt has,</p>

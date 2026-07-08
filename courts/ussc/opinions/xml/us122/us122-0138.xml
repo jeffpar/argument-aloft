@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us122-0138.html" citation="122 U.S. 138" title="Davis v. Patrick">
   <opinion type="Opinions &amp; Dissents">
     <n id="p138">138</n>
-    <h>U.S. Supreme Court</h>
-    <h>Davis v. Patrick, <a href="./us122-0138.xml#p138">122 U.S. 138</a> (1887)</h>
-    <h>Davis v. Patrick</h>
-    <h>Argued April 14, 1887</h>
-    <h>Decided May 23, 1887</h>
-    <h><a href="./us122-0138.xml#p138">122 U.S. 138</a></h>
-    <h>ERROR TO THE CIRCUIT COURT OF THE UNITED</h>
-    <h>STATES FOR THE DISTRICT OF NEBRASKA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Davis v. Patrick, <a href="./us122-0138.xml#p138">122 U.S. 138</a> (1887)</h1>
+    <h2>Davis v. Patrick</h2>
+    <h4>Argued April 14, 1887</h4>
+    <h4>Decided May 23, 1887</h4>
+    <h2>ERROR TO THE CIRCUIT COURT OF THE UNITED</h2>
+    <h2>STATES FOR THE DISTRICT OF NEBRASKA</h2>
+    <h2>Syllabus</h2>
     <p>Where a bill of exceptions is signed after the beginning of the term of this Court when the writ of error is returnable, and during a term of the circuit court succeeding that at which the case was tried, but was seasonably submitted to the judge for signature, and the delay was caused by the judge, and not by the plaintiff in error, the bill of exceptions will not be stricken out.</p>
     <n id="p139">139</n>
     <p>A written instrument between A and B held to constitute A the creditor of B, and not the partner, and not to make A liable to third parties on contracts made by B.</p>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us379-0064.html" citation="379 U.S. 64" title="Garrison v. Louisiana">
   <opinion type="Opinions &amp; Dissents">
     <n id="p64">64</n>
-    <h>U.S. Supreme Court</h>
-    <h>Garrison v. Louisiana, <a href="./us379-0064.xml#p64">379 U.S. 64</a> (1964)</h>
-    <h>Garrison v. Louisiana</h>
-    <h>No. 4</h>
-    <h>Argued April 22,1964</h>
-    <h>Restored to the calendar for reargument June 22, 1964</h>
-    <h>Reargued October 19, 1964</h>
-    <h>Decided November 23, 1964</h>
-    <h><a href="./us379-0064.xml#p64">379 U.S. 64</a></h>
-    <h>APPEAL FROM THE SUPREME COURT OF LOUISIANA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Garrison v. Louisiana, <a href="./us379-0064.xml#p64">379 U.S. 64</a> (1964)</h1>
+    <h2>Garrison v. Louisiana</h2>
+    <h2>No. 4</h2>
+    <h4>Argued April 22,1964</h4>
+    <h4>Restored to the calendar for reargument June 22, 1964</h4>
+    <h4>Reargued October 19, 1964</h4>
+    <h4>Decided November 23, 1964</h4>
+    <h2>APPEAL FROM THE SUPREME COURT OF LOUISIANA</h2>
+    <h2>Syllabus</h2>
     <p>Appellant, a District Attorney in Louisiana, during a dispute with certain state court judges of his parish, accused them at a press conference of laziness and inefficiency and of hampering his efforts to enforce the vice laws. A state court convicted him of violating the Louisiana Criminal Defamation Statute, which, in the context of criticism of official conduct, includes punishment for true statements made with "actual malice" in the sense of ill-will, as well as false statements if made with ill-will or without reasonable belief that they were true. The state supreme court affirmed the conviction, holding that the statute did not unconstitutionally abridge appellant's rights of free expression.</p>
     <p>Held:</p>
     <p>1. The Constitution limits state power to impose sanctions for criticism of the official conduct of public officials, in criminal cases as in civil cases, to false statements concerning official conduct made with knowledge of their falsity or with reckless disregard of whether they were false or not. New York Times Co. v. Sullivan, <a href="../us376/us376-0254.xml#p254">376 U. S. 254</a>, followed. Pp. <a href="./us379-0064.xml#p67">379 U. S. 67</a>-75.</p>
@@ -28,7 +28,7 @@
     <p>". . . This raises interesting questions about the racketeer influences on our eight vacation-minded judges. [<a id="nf2" href="#fn2">Footnote 2</a>] "</p>
     <n id="p67">67</n>
     <p>The Supreme Court of Louisiana affirmed the conviction, 244 La. 787, <a href="https://law.justia.com/cases/louisiana/supreme-court/1963/244-la-787-0.html">154 So. 2d 400</a>. The trial court and the State Supreme Court both rejected appellant's contention that the statute unconstitutionally abridged his freedom of expression. We noted probable jurisdiction of the appeal. 375 U.S. 900. Argument was first heard in the 1963 Term, and the case was ordered restored to the calendar for reargument, 377 U.S. 986. We reverse.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>In New York Times Co. v. Sullivan, <a href="../us376/us376-0254.xml#p254">376 U. S. 254</a>, we held that the Constitution limits state power, in a civil action brought by a public official for criticism of his official conduct, to an award of damages for a false statement "made with "actual malice" -- that is, with knowledge that it was false or with reckless disregard of whether it was false or not." 376 U.S. at 279-280. At the outset, we must decide whether, in view of the differing history and purposes of criminal libel, the New York Times rule also limits state power to impose criminal sanctions for criticism of the official conduct of public officials. We hold that it does.</p>
     <p>Where criticism of public officials is concerned, we see no merit in the argument that criminal libel statutes serve interests distinct from those secured by civil libel laws, and therefore should not be subject to the same limitations. [<a id="nf3" href="#fn3">Footnote 3</a>] At common law, truth was no defense to criminal</p>
     <n id="p68">68</n>
@@ -60,11 +60,11 @@
     <p>Noel, Defamation</p>
     <n id="p74">74</n>
     <p>of Public Officers and Candidates, 49 Col.L.Rev. 875, 893 (1949). Moreover,</p>
-    <p>"[i]n the case of charges against a popular political figure . . . , it may be almost impossible to show freedom from ill-will or selfish political motives."</p>
+    <p>"[i]n the case of charges against a popular political figure . . ., it may be almost impossible to show freedom from ill-will or selfish political motives."</p>
     <p>Id. at 893, n. 90. Similar considerations supported our holdings that federal officers enjoy an absolute privilege for defamatory publication within the scope of official duty, regardless of the existence of malice in the sense of ill-will. Barr v. Matteo, <a href="../us360/us360-0564.xml#p564">360 U. S. 564</a>; Howard v. Lyons, <a href="../us360/us360-0593.xml#p593">360 U. S. 593</a>; cf. Gregoire v. Biddle, 177 F.2d 579 (C.A.2d Cir. 1949). What we said of Alabama's civil libel law in New York Times, 376 U.S. at <a href="../us376/us376-0254.xml#p282">376 U. S. 282</a>-283, applies equally to the Louisiana criminal libel rule:</p>
     <p>"It would give public servants an unjustified preference over the public they serve if critics of official conduct did not have a fair equivalent of the immunity granted to the officials themselves."</p>
     <p>We held in New York Times that a public official might be allowed the civil remedy only if he establishes that the utterance was false, and that it was made with knowledge of its falsity or in reckless disregard of whether it was false or true. The reasons which led us so to hold in New York Times, 376 U.S. at <a href="../us376/us376-0254.xml#p279">376 U. S. 279</a>-280, apply with no less force merely because the remedy is criminal. The constitutional guarantees of freedom of expression compel application of the same standard to the criminal remedy. Truth may not be the subject of either civil or criminal sanctions where discussion of public affairs is concerned. And since</p>
-    <p>". . . erroneous statement is inevitable in free debate, and . . . it must be protected if the freedoms of expression are to have the 'breathing space' that they 'need . . . to survive' . . . ,"</p>
+    <p>". . . erroneous statement is inevitable in free debate, and . . . it must be protected if the freedoms of expression are to have the 'breathing space' that they 'need . . . to survive' . . .,"</p>
     <p>376 U.S. at <a href="../us376/us376-0254.xml#p271">376 U. S. 271</a>-272, only those false statements made with the high degree of awareness of their probable falsity demanded by New York Times may be the subject of either civil or criminal sanctions. For speech concerning public affairs is</p>
     <n id="p75">75</n>
     <p>more than self-expression; it is the essence of self-government. The First and Fourteenth Amendments embody our</p>
@@ -74,7 +74,7 @@
     <p>"are no essential part of any exposition of ideas, and are of such slight social value as a step to truth that any benefit that may be derived from them is clearly outweighed by the social interest in order and morality. . . ."</p>
     <p>Chaplinsky v. New Hampshire, <a href="../us315/us315-0568.xml#p568">315 U. S. 568</a>, 572. Hence, the knowingly false statement and the false statement made with reckless disregard of the truth do not enjoy constitutional protection.</p>
     <n id="p76">76</n>
-    <h>II</h>
+    <h2>II</h2>
     <p>We find no difficulty in bringing the appellant's statement within the purview of criticism of the official conduct of public officials, entitled to the benefit of the New York Times rule. As the Louisiana Supreme Court viewed the statement, it constituted an attack upon the personal integrity of the judges, rather than on official conduct. In sustaining the finding of the trial court that the appellant's statement was defamatory, the Louisiana Supreme Court held that</p>
     <p>". . . the use of the words 'racketeer influences,' when applied to anyone, suggests and imputes that he has been influenced to practice fraud, deceit, trickery, cheating, and dishonesty;"</p>
     <p>that</p>
@@ -87,7 +87,7 @@
     <p>Of course, any criticism of the manner in which a public official performs his duties will tend to affect his private, as well as his public, reputation. The New York Times rule is not rendered inapplicable merely because an official's private reputation, as well as his public reputation, is harmed. The public official rule protects the paramount public interest in a free flow of information to the people concerning public officials, their servants. To this end, anything which might touch on an official's fitness for office is relevant. Few personal attributes are more germane to fitness for office than dishonesty, malfeasance, or improper motivation, even though these characteristics may also affect the official's private character. [<a id="nf11" href="#fn11">Footnote 11</a>] As the Kansas Supreme Court said in Coleman v. MacLennan, speaking of candidates:</p>
     <p>"Manifestly, a candidate must surrender to public scrutiny and discussion so much of his private character as affects his fitness for office, and the liberal rule requires no more. But, in measuring the extent of a candidate's profert of character, it should always be remembered that the people have good authority for believing that grapes do not grow on thorns, nor figs on thistles."</p>
     <p>78 Kan. 711, 739, 98 P. 281, 291 (1908).</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Applying the principles of the New York Times case, we hold that the Louisiana statute, as authoritatively interpreted by the Supreme Court of Louisiana, incorporates constitutionally invalid standards in the context of criticism of the official conduct of public officials.</p>
     <n id="p78">78</n>
     <p>For, contrary to the New York Times rule, which absolutely prohibits punishment of truthful criticism, the statute directs punishment for true statements made with "actual malice," see LSA-R.S. § 14:48; State v. Cox, 246 La. 748, 756, <a href="https://law.justia.com/cases/louisiana/supreme-court/1964/246-la-748-0.html">167 So. 2d 352</a>, 355 (1964), handed down after the New York Times decision; Bennett, The Louisiana Criminal Code, 5 La.L.Rev. 6, 34 (1942). And "actual malice" is defined in the decisions below to mean "hatred, ill will or enmity or a wanton desire to injure. . . ." 244 La. at 851, 154 So. 2d at 423. The statute is also unconstitutional as interpreted to cover false statements against public officials. The New York Times standard forbids the punishment of false statements, unless made with knowledge of their falsity or in reckless disregard of whether they are true or false. But the Louisiana statute punishes false statements without regard to that test if made with ill-will; even if ill-will is not established, a false statement concerning public officials can be punished if not made in the reasonable belief of its truth. The Louisiana Supreme Court affirmed the conviction solely on the ground that the evidence sufficed to support the trial court's finding of ill-will, enmity, or a wanton desire to injure. But the trial court also rested the conviction on additional findings that the statement was false, and not made in the reasonable belief of its truth. The judge said:</p>
@@ -179,7 +179,7 @@
       <p>I think little need be added to what Mr. Justice Holmes said nearly a half century ago:</p>
       <p>"I wholly disagree with the argument of the Government that the First Amendment left the common</p>
       <n id="p83">83</n>
-      <p>law as to seditious libel in force. History seems to me against the notion. I had conceived that the United States through many years had shown its repentance for the Sedition Act of 1798 . . . , [Footnote 2/3] by repaying fines that it imposed."</p>
+      <p>law as to seditious libel in force. History seems to me against the notion. I had conceived that the United States through many years had shown its repentance for the Sedition Act of 1798 . . ., [Footnote 2/3] by repaying fines that it imposed."</p>
       <p>Abrams v. United States, <a href="../us250/us250-0616.xml#p616">250 U. S. 616</a>, <a href="../us250/us250-0616.xml#p630">250 U. S. 630</a> (dissenting opinion).</p>
       <p>The philosophy of the Sedition Act of 1798, which punished "false, scandalous and malicious" writings (1 Stat. 596), is today allowed to be applied by the States. Yet Irving Brant has shown that seditious libel was "entirely the creation of the Star Chamber." [Footnote 2/4] It is disquieting to know that one of its instruments of destruction is abroad in the land today.</p>
       <p>[Footnote 2/1]</p>

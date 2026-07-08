@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us451-0504.html" citation="451 U.S. 504" title="Alessi v. Raybestos-Manhattan, Inc.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p504">504</n>
-    <h>U.S. Supreme Court</h>
-    <h>Alessi v. Raybestos-Manhattan, Inc., <a href="./us451-0504.xml#p504">451 U.S. 504</a> (1981)</h>
-    <h>Alessi v. Raybestos-Manhattan, Inc.</h>
-    <h>No 79-1943</h>
-    <h>Argued March 4, 1981</h>
-    <h>Decided May 18, 1981<a href="./us451-0504.xml#p504">451 U.S. 504</a>ast|&gt;*</h>
-    <h><a href="./us451-0504.xml#p504">451 U.S. 504</a></h>
-    <h>APPEAL FROM THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE THIRD CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Alessi v. Raybestos-Manhattan, Inc., <a href="./us451-0504.xml#p504">451 U.S. 504</a> (1981)</h1>
+    <h2>Alessi v. Raybestos-Manhattan, Inc.</h2>
+    <h4>No 79-1943</h4>
+    <h4>Argued March 4, 1981</h4>
+    <h4>Decided May 18, 1981<a href="./us451-0504.xml#p504">451 U.S. 504</a>ast|&gt;*</h4>
+    <h2>APPEAL FROM THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE THIRD CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>In two suits initiated in New Jersey state court, retired employees who had received workers' compensation awards subsequent to retirement challenged the validity of provisions in their employers' pension plans reducing a retiree's pension benefits by an amount equal to a workers' compensation award for which the retiree is eligible. These private pension plans are subject to federal regulation under the Employee Retirement Income Security Act of 1974 (ERISA). The employers independently removed the suits to Federal District Court, where the judges in each suit held that the pension offset provisions were invalid under a provision of the New Jersey Workers' Compensation Act prohibiting such offsets; that Congress had not intended ERISA to preempt such state laws; that the offsets were prohibited by ERISA's provision, 29 U.S.C. § 1053(a), prohibiting forfeitures of pension rights except under specified conditions inapplicable to these cases; and that a Treasury Regulation authorizing offsets based on workers' compensation awards was invalid. The Court of Appeals consolidated appeals from the two decisions, and reversed.</p>
     <p>Held:</p>
     <p>1. Congress contemplated and approved the kind of pension provisions challenged here. Pp. <a href="./us451-0504.xml#p509">451 U. S. 509</a>-521.</p>
@@ -27,7 +27,7 @@
     <n id="p507">507</n>
     <p>JUSTICE MARSHALL delivered the opinion of the Court.</p>
     <p>Some private pension plans reduce a retiree's pension benefits by the amount of workers' compensation awards received subsequent to retirement. In these cases, we consider whether two such offset provisions are lawful under the Employee Retirement Income Security Act of 1974 (ERISA), 88 Stat. 829, as amended, 29 U.S.C. § 1001 et seq. (1976 ed. and Supp. III), and whether they may be prohibited by state law.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>Raybestos-Manhattan, Inc., and General Motors Corp. maintain employee pension plans that are subject to federal regulation under ERISA. Both plans provide that an employee's retirement benefits shall be reduced, or offset, by an amount equal to workers' compensation awards for which the individual is eligible. [<a id="nf1" href="#fn1">Footnote 1</a>] In 1977, the New Jersey Legislature</p>
     <n id="p508">508</n>
     <p>amended its Workers' Compensation Act to expressly prohibit such offsets. The amendment states that</p>
@@ -37,7 +37,7 @@
     <n id="p509">509</n>
     <p>and struck down a contrary federal Treasury Regulation authorizing such offsets. [<a id="nf4" href="#fn4">Footnote 4</a>]</p>
     <p>The United States Court of Appeals for the Third Circuit consolidated the appeals from these two decisions, and reversed. 616 F.2d 1238 (1980). It rejected the District Court Judges' view that the offset provisions caused a forfeiture of vested pension rights forbidden by § 1053. Instead, the Court of Appeals reasoned, such offsets merely reduce pension benefits in a fashion expressly approved by ERISA for employees receiving Social Security benefits. Accordingly, the Court of Appeals found no conflict between ERISA and the Treasury Regulation approving reductions based on workers' compensation awards and ERISA. Finally, the court concluded that the New Jersey statute forbidding offsets of pension benefits by the amount of workers' compensation awards could not withstand ERISA's general preemption provision, 29 U.S.C. 1144(a). We noted probable jurisdiction of the appeal taken by the former employees of Raybestos-Manhattan, Inc., and granted certiorari on the petition of former employees of General Motors Corp., 449 U.S. 949 and 950 (1980). For convenience, we refer to the former employees in both cases as retirees. We affirm the judgment of the Court of Appeals.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>Retirees claim that the workers' compensation offset provisions of their pension plans contravene ERISA's nonforfeiture provisions and that the Treasury Regulation to the contrary is inconsistent with the Act. Both claims require examination of the relevant sections of ERISA.</p>
     <n id="p510">510</n>
     <p>A</p>
@@ -89,12 +89,12 @@
     <p>integration with reimbursement for medical expenses or with fixed sums made for bodily impairment, because such payments do not match up with any benefits available under a pension plan qualified under the Internal Revenue Code and ERISA. Rev.Rul. 78-178, 1978-1 Cum.Bull. 118. [<a id="nf17" href="#fn17">Footnote 17</a>] Similarly, the IRS has disapproved integration with unemployment compensation, for, as payment for temporary layoffs, it too is a kind of benefit not comparable to any permitted in a qualified pension plan. Id. at 117-118.</p>
     <p>Without speaking directly of its own rationale, Congress embraced such IRS rulings. See H.R.Conf.Rep. No. 93-1280, p. 277 (1974), 3 Leg.Hist. 4544 (approving existing antidiscrimination rules). Congress thereby permitted integration along the lines already approved by the IRS, which had specifically allowed pension benefit offsets based on workers' compensation. Our judicial function is not to second-guess the policy decisions of the legislature, no matter how appealing we may find contrary rationales.</p>
     <p>As a final argument, retirees claim that we should defer to the policy decisions of the state legislature. To this claim we now turn.</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>The New Jersey Legislature attempted to outlaw the offset clauses by providing that</p>
     <p>"[t]he right of compensation granted by [the New Jersey Workers' Compensation Act] may be set off against disability pension benefits or payments, but shall not be set off against employees' retirement pension benefits or payments."</p>
     <p>N.J.Stat.Ann. § 34:15-29 (West</p>
     <n id="p522">522</n>
-    <p>Supp. 1980) (emphasis added). [<a id="nf18" href="#fn18">Footnote 18</a>] To resolve retirees' claim that this state policy should govern, we must determine whether such state laws are preempted by ERISA. Our analysis of this problem must be guided by respect for the separate spheres of governmental authority preserved in our federalist system. Although the Supremacy Clause invalidates state laws that "interfere with, or are contrary to the laws of Congress . . . ," <a href="../us022/us022-0001.xml#p1">Gibbons v. Ogden</a>, 9 Wheat. 1, <a href="../us022/us022-0001.xml#p211">22 U. S. 211</a> (1824), the "exercise of federal supremacy is not lightly to be presumed,'" New York Dept. of Social Services v. Dublino, <a href="../us413/us413-0405.xml#p405">413 U. S. 405</a>, <a href="../us413/us413-0405.xml#p413">413 U. S. 413</a> (1973), quoting Schwartz v. Texas, <a href="../us344/us344-0199.xml#p199">344 U. S. 199</a>, <a href="../us344/us344-0199.xml#p203">344 U. S. 203</a> (1952). As we recently reiterated,</p>
+    <p>Supp. 1980) (emphasis added). [<a id="nf18" href="#fn18">Footnote 18</a>] To resolve retirees' claim that this state policy should govern, we must determine whether such state laws are preempted by ERISA. Our analysis of this problem must be guided by respect for the separate spheres of governmental authority preserved in our federalist system. Although the Supremacy Clause invalidates state laws that "interfere with, or are contrary to the laws of Congress . . .," <a href="../us022/us022-0001.xml#p1">Gibbons v. Ogden</a>, 9 Wheat. 1, <a href="../us022/us022-0001.xml#p211">22 U. S. 211</a> (1824), the "exercise of federal supremacy is not lightly to be presumed,'" New York Dept. of Social Services v. Dublino, <a href="../us413/us413-0405.xml#p405">413 U. S. 405</a>, <a href="../us413/us413-0405.xml#p413">413 U. S. 413</a> (1973), quoting Schwartz v. Texas, <a href="../us344/us344-0199.xml#p199">344 U. S. 199</a>, <a href="../us344/us344-0199.xml#p203">344 U. S. 203</a> (1952). As we recently reiterated,</p>
     <p>"[p]reemption of state law by federal statute or regulation is not favored 'in the absence of persuasive reasons -- either that the nature of the regulated subject matter permits no other conclusion, or that the Congress has unmistakably so ordained.'"</p>
     <p>Chicago &amp; North Western Transp. Co. v. Kalo Brick Tile Co., <a href="../us450/us450-0311.xml#p311">450 U. S. 311</a>, <a href="../us450/us450-0311.xml#p317">450 U. S. 317</a> (1981), quoting Florida Lime &amp; Avocado Growers v. Paul, <a href="../us373/us373-0132.xml#p132">373 U. S. 132</a>, <a href="../us373/us373-0132.xml#p142">373 U. S. 142</a> (1963). See Jones v. Rath Packing Co., <a href="../us430/us430-0519.xml#p519">430 U. S. 519</a>, <a href="../us430/us430-0519.xml#p525">430 U. S. 525</a>-526 (1977); Perez v. Campbell, <a href="../us402/us402-0637.xml#p637">402 U. S. 637</a>, <a href="../us402/us402-0637.xml#p649">402 U. S. 649</a> (1971); Rice v. Santa Fe Elevator Corp., <a href="../us331/us331-0218.xml#p218">331 U. S. 218</a>, <a href="../us331/us331-0218.xml#p230">331 U. S. 230</a> (1947); Hines v. Davidowitz, <a href="../us312/us312-0052.xml#p52">312 U. S. 52</a>, <a href="../us312/us312-0052.xml#p61">312 U. S. 61</a>-62 (1941).</p>
     <p>In this instance, we are assisted by an explicit congressional statement about the preemptive effect of its action. The same chapter of ERISA that defines the scope of federal protection of employee pension benefits provides that</p>
@@ -115,7 +115,7 @@
     <p>Another consideration bolsters our conclusion that the New Jersey provision is preempted insofar as it bears on pensions regulated by ERISA. ERISA leaves integration, along with other pension calculation techniques, subject to the discretion of pension plan designers. See supra at <a href="./us451-0504.xml#p514">451 U. S. 514</a>-516. Where, as here, the pension plans emerge from collective bargaining, the additional federal interest in precluding state interference with labor-management negotiations calls for preemption of state efforts to regulate pension terms. See Teamsters v. Oliver, <a href="../us358/us358-0283.xml#p283">358 U. S. 283</a>, <a href="../us358/us358-0283.xml#p296">358 U. S. 296</a> (1959); Railway Employees v. Hanson, <a href="../us351/us351-0225.xml#p225">351 U. S. 225</a>, <a href="../us351/us351-0225.xml#p232">351 U. S. 232</a> (1956). Cf. Motor Coach Employees v. Lockridge, <a href="../us403/us403-0274.xml#p274">403 U. S. 274</a> (1971); <a href="../us359/us359-0236.xml#p236">San</a></p>
     <n id="p526">526</n>
     <p>Diego Building Trades Council v. Garmon, <a href="../us359/us359-0236.xml#p236">359 U. S. 236</a> (1959). [<a id="nf22" href="#fn22">Footnote 22</a>] As a subject of collective bargaining, pension terms themselves become expressions of federal law, requiring preemption of intrusive state law. [<a id="nf23" href="#fn23">Footnote 23</a>]</p>
-    <h>IV</h>
+    <h2>IV</h2>
     <p>We conclude that N.J.Stat.Ann. § 34:15-29 (West Supp. 1980) is preempted by federal law insofar as it bears on pension plans governed by ERISA. We find further that Congress contemplated and approved the kind of pension provisions challenged here, which permit offsets of pension benefits based on workers' compensation awards. The decision of the Court of Appeals is</p>
     <p>Affirmed.</p>
     <p>JUSTICE BRENNAN took no part in the decision of these cases.</p>

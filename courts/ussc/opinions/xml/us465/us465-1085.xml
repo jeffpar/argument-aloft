@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us465-1085.html" citation="465 U.S. 1085" title="AUTRY v. MCKASKLE">
   <opinion type="Opinions &amp; Dissents">
     <n id="p1085">1085</n>
-    <h>U.S. Supreme Court</h>
-    <h>AUTRY v. MCKASKLE , <a href="./us465-1085.xml#p1085">465 U.S. 1085</a> (1984)</h>
-    <h> <a href="./us465-1085.xml#p1085">465 U.S. 1085</a></h>
-    <h>James David AUTRY v. Dan V. McKASKLE, Acting Director, Texas Department of Corrections No. 83-5720</h>
-    <h>Supreme Court of the United States</h>
-    <h>March 13, 1984</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>AUTRY v. MCKASKLE, <a href="./us465-1085.xml#p1085">465 U.S. 1085</a> (1984)</h1>
+    <h2>James David AUTRY v. Dan V. McKASKLE, Acting Director, Texas Department of Corrections No. 83-5720</h2>
+    <h2>Supreme Court of the United States</h2>
+    <h4>March 13, 1984</h4>
     <p>On petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit.</p>
     <p>The petition for writ of certiorari is denied.</p>
     <p>Justice MARSHALL, with whom Justice BRENNAN joins, dissenting.</p>
@@ -36,7 +36,7 @@
     <p>In habeas corpus proceedings, the federal District Court handled the trial court's failure to make factual findings by assuming all of petitioner's allegations to be true. Assuming that petitioner had been beaten into signing the written confession, the District Court found that his oral declarations were "voluntary and 'sufficiently an act of free will to purge the primary taint' of the physically coerced written confessions." App. B to Pet. for Cert. B-11. The Court of Appeals affirmed, emphasizing the following facts: six hours, during which petitioner was allowed to sleep in his cell, elapsed between the putative beatings and petitioner's call to his mother; petitioner himself requested to make the call; and the overheard statements were directed not to any agent of the state but rather to a private party of petitioner's own choosing. Autry v. Estelle, supra, at 1403.</p>
     <p>Assuming, as did the District Court and Court of Appeals, that petitioner's allegations were true, I cannot accept the lower courts' conclusion the overheard statements were voluntary. Petitioner made these statements in a telephone conversation conducted in the booking room of the jail while in close proximity to an officer who had recently participated in beating a confession out of him. To my mind, these circumstances raise sufficient doubt regarding the voluntariness of the statements to require suppression of the policeman's account of the conversation. I find it implausible that six hours of sleep could erase from petitioner's consciousness the fear that the earlier beatings must have engendered. Nor does the fact that he initiated the call negate the possibility that he wanted to make contact with a source of outside support and at the same time to avoid a new round of beatings for contradicting his earlier coerced confession. Assuming, as we must, that petitioner was subjected to beatings, the burden was upon the state to show that the telephone conversation was untainted by continued coercion. The state failed to sustain that burden.</p>
     <p>For these reasons, I dissent.</p>
-    <h>Footnotes</h>
+    <h2>Footnotes</h2>
     <f n="1"><a id="fn1" href="#nf1">Footnote 1</a>
       <p>In this case, for example, the Court voted to deny all of petitioner's requests for relief while this opinion was still being prepared.</p>
     </f>

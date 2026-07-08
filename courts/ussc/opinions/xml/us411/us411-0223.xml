@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us411-0223.html" citation="411 U.S. 223" title="Brown v. United States">
   <opinion type="Opinions &amp; Dissents">
     <n id="p223">223</n>
-    <h>U.S. Supreme Court</h>
-    <h>Brown v. United States, <a href="./us411-0223.xml#p223">411 U.S. 223</a> (1973)</h>
-    <h>Brown v. United States</h>
-    <h>No. 71-6193</h>
-    <h>Argued December 7, 1972</h>
-    <h>Decided April 17, 1973</h>
-    <h><a href="./us411-0223.xml#p223">411 U.S. 223</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SIXTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Brown v. United States, <a href="./us411-0223.xml#p223">411 U.S. 223</a> (1973)</h1>
+    <h2>Brown v. United States</h2>
+    <h2>No. 71-6193</h2>
+    <h4>Argued December 7, 1972</h4>
+    <h4>Decided April 17, 1973</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SIXTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Petitioners were convicted of transporting and conspiring to transport stolen goods in interstate commerce to their coconspirator, whose retail store was searched under a defective warrant while petitioners were in custody in another State. The charges against petitioners were limited to acts committed before the day of the search. At a pretrial hearing on petitioners' motion to suppress evidence seized at the store, petitioners alleged no proprietary or possessory interest in the store or the goods, and the District Court denied their motion for lack of standing. At petitioners' trial, the seized goods were introduced into evidence. In addition, police testimony as to statements by petitioners implicating each other were introduced into evidence in a manner contrary to Bruton v. United States, <a href="../us391/us391-0123.xml#p123">391 U. S. 123</a>. The Court of Appeals concluded that the Bruton error was harmless in view of overwhelming independent proof of guilt, and affirmed the District Court's ruling on standing.</p>
     <p>Held:</p>
     <p>1. Petitioners had no standing to contest the admission of the evidence seized under the defective warrant, since they alleged no legitimate expectation of privacy or interest of any kind in the premises searched or the goods seized; they had no "automatic" standing under Jones v. United States, <a href="../us362/us362-0257.xml#p257">362 U. S. 257</a>, as the case against them did not depend on possession of the seized evidence at the time of the contested search and seizure, and they could not vicariously assert the personal Fourth Amendment right of the store owner in contesting admission of the seized goods. Pp. <a href="./us411-0223.xml#p227">411 U. S. 227</a>-230.</p>
@@ -72,7 +72,7 @@
     </f>
     <f n="5"><a id="fn5" href="#nf5">Footnote 5</a>
       <p>An FBI agent, Whitley, testified as follows:</p>
-      <p>"[Smith stated that,] during June, 1970, another individual who was also employed at Central Jobbing Company, one Joe Brown, had approached him and asked him to help steal merchandise from Central Jobbing Company and help him transport this merchandise to Manchester, Kentucky. He advised me that, during June of 1970, he and Joe Brown made two trips to Manchester, Kentucky, with merchandise consisting of household goods and clothing which they had stolen from Central Jobbing Company. He recalled that, to the best of his knowledge . . . , these dates were June 5th and 29th, 1970. He said that he and Mr. Brown had received approximately one-half the value of the stolen merchandise from the owners of the Knuckles Discount Store in Manchester, Kentucky, and that the owners of the Discount Store knew that the merchandise was stolen. Mr. Smith stated further that he had received approximately $2,500.00 as his share of the money which they had received from the stolen merchandise."</p>
+      <p>"[Smith stated that,] during June, 1970, another individual who was also employed at Central Jobbing Company, one Joe Brown, had approached him and asked him to help steal merchandise from Central Jobbing Company and help him transport this merchandise to Manchester, Kentucky. He advised me that, during June of 1970, he and Joe Brown made two trips to Manchester, Kentucky, with merchandise consisting of household goods and clothing which they had stolen from Central Jobbing Company. He recalled that, to the best of his knowledge . . ., these dates were June 5th and 29th, 1970. He said that he and Mr. Brown had received approximately one-half the value of the stolen merchandise from the owners of the Knuckles Discount Store in Manchester, Kentucky, and that the owners of the Discount Store knew that the merchandise was stolen. Mr. Smith stated further that he had received approximately $2,500.00 as his share of the money which they had received from the stolen merchandise."</p>
       <p>Another witness, a Detective Hulgin from the County Sheriff's Patrol, had also testified to similar statements by Smith, adding that Smith had stated that the list, which was found by West at the warehouse, had been prepared and shown to him by Brown, and that the total price of $2,200 shown on the list was the amount of money that petitioners were to receive for that particular shipment to Knuckles. Hulgin also testified that he was told by Brown that Smith had accompanied Brown on two previous occasions when Brown delivered stolen goods to Knuckles.</p>
     </f>
   </opinion>

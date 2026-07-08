@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us355-0570.html" citation="355 U.S. 570" title="United States v. Hvass">
   <opinion type="Opinions &amp; Dissents">
     <n id="p570">570</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Hvass, <a href="./us355-0570.xml#p570">355 U.S. 570</a> (1958)</h>
-    <h>United States v. Hvass</h>
-    <h>No. 92</h>
-    <h>Argued January 27, 1958</h>
-    <h>Decided March 3, 1958</h>
-    <h><a href="./us355-0570.xml#p570">355 U.S. 570</a></h>
-    <h>APPEAL FROM THE UNITED STATES DISTRICT COURT</h>
-    <h>FOR THE NORTHERN DISTRICT OF IOWA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Hvass, <a href="./us355-0570.xml#p570">355 U.S. 570</a> (1958)</h1>
+    <h2>United States v. Hvass</h2>
+    <h2>No. 92</h2>
+    <h4>Argued January 27, 1958</h4>
+    <h4>Decided March 3, 1958</h4>
+    <h2>APPEAL FROM THE UNITED STATES DISTRICT COURT</h2>
+    <h2>FOR THE NORTHERN DISTRICT OF IOWA</h2>
+    <h2>Syllabus</h2>
     <p>1. When a Federal District Court dismisses an indictment on the ground that it does not allege a violation of the statute upon which it was founded, not merely because of some deficiency in pleading, but with respect to the substance of the charge, that is necessarily a construction of the statute, and a direct appeal to this Court lies under 18 U.S.C. § 3731. Pp. <a href="./us355-0570.xml#p573">355 U. S. 573</a>-574.</p>
     <p>2. A willfully false statement of a material fact, made by an attorney under oath during a Federal District Court's examination into his fitness to practice before it, constitutes perjury within the meaning of 18 U.S.C. § 1621 when the examination was made under a local rule of the District Court specifically authorizing such examination under oath, since such an examination is a "case in which a law of the United States authorizes an oath to be administered" within the meaning of the statute. Pp. <a href="./us355-0570.xml#p574">355 U. S. 574</a>-577.</p>
     <p>(a) The phrase "a law of the United States," as used in the perjury statute, is not limited to statutes, but includes as well rules and regulations which have been lawfully authorized and have a clear legislative base, and also decisional law. P. <a href="./us355-0570.xml#p575">355 U. S. 575</a>.</p>
@@ -22,7 +22,7 @@
     <p>The question for decision is whether a willfully false statement of a material fact, made by an attorney under oath during the District Court's examination, under its local rule, into his fitness to practice before it, constitutes perjury within the meaning of 18 U.S.C. § 1621. [<a id="nf1" href="#fn1">Footnote 1</a>]</p>
     <p>Acting under 28 U.S.C. §§ 1654, 2071, and Rule 83 of Federal Rules of Civil Procedure, authorizing federal courts to prescribe rules for the conduct of their business, the District Courts for the Northern and Southern Districts of Iowa promulgated local rules governing practice in those courts. Their Rule 3, in pertinent part, provides:</p>
     <p>"All attorneys residing outside of the State of Iowa and having civil matters in the court shall associate with them a resident attorney on whom notice may be served and who shall have the authority to act for and on behalf of the client in all matters. . . . Nonresident attorneys who have so associated with them a resident attorney shall be permitted to participate in a particular case upon satisfactory showing of good moral character."</p>
-    <p>"Provided further that, where the action is one to recover damages for personal injuries sustained in Iowa by one who at the time was a resident of Iowa . . . , the Court may, on its own motion or on motion of a member of the bar of either District,</p>
+    <p>"Provided further that, where the action is one to recover damages for personal injuries sustained in Iowa by one who at the time was a resident of Iowa . . ., the Court may, on its own motion or on motion of a member of the bar of either District,</p>
     <n id="p572">572</n>
     <p>before permitting a nonresident attorney to participate in the case, require a satisfactory showing that the connection of the said attorney [with the case] was not occasioned or brought about in violation of the standards of conduct specified in Rule 8 hereof. [<a id="nf2" href="#fn2">Footnote 2</a>] The court, as a part of said showing, may require the plaintiff and the said attorney to appear and be examined under oath."</p>
     <p>Appellee, an attorney residing and maintaining his office in Minneapolis, Minnesota, had instituted two actions in the District Court for the Northern District of Iowa, as counsel for citizens of Iowa, seeking damages for bodily injuries which they had sustained in that State. On October 3, 1955, the court, acting under its Rule 3, entered an order scheduling a hearing to be held by the court on October 12, 1955, for the purpose of affording an opportunity to appellee to show that his connection with the two damage suits was not brought about in violation of the standards of conduct specified in its Rule 8, and directing appellee to appear at that time and to submit to an examination under oath if he wished further to participate as counsel in those actions. Appellee appeared at the hearing and, after being sworn by the Clerk, was examined by the District Attorney on matters deemed relevant to the hearing. On November 1, 1955, the court entered an order finding that "the applicant [had] not made satisfactory showing of the matters which must be satisfactorily shown under said Local Rule 3," and it struck his appearance as counsel in the two damage actions from the record.</p>
@@ -58,7 +58,7 @@
     <p>Rule 3 had at least as clear a legislative base as did the Regulations involved in Caha v. United States, supra, and United States v. Smull, supra. In the Caha case, defendant was indicted under the federal perjury statute -- then in precisely the same terms as it is now -- and charged with perjury through the making of a false affidavit to officials of the Land Office of the Department of the Interior in respect of a contest, then pending in the Land Office, over the validity of a homestead entry. The defendant was convicted, and, on appeal, contended that no statute authorized such a contest, and that therefore it could not "be said that the oath was taken in a case in which a law of the United States authorizes an oath to be administered.'" By statute, Congress had authorized the Commissioner of the General Land Office, under the direction of the Secretary of the Interior, "to enforce and carry into execution, by appropriate regulations, every part of the [laws relating to public lands]." Pursuant to that authority, the Commissioner adopted rules of practice including an express provision</p>
     <p>"for a contest before the local and officers in respect to homestead as well as preemption entries, and for the taking of testimony before such officers. . . ."</p>
     <p>This Court, in denying defendant's contention and in sustaining the conviction, said:</p>
-    <p>"We have, therefore, a general grant of authority to the land department to prescribe appropriate regulations for the disposition of the public land. . . . Clearly, then . . . , the local land officers in hearing and deciding upon a contest with respect</p>
+    <p>"We have, therefore, a general grant of authority to the land department to prescribe appropriate regulations for the disposition of the public land. . . . Clearly, then . . ., the local land officers in hearing and deciding upon a contest with respect</p>
     <n id="p577">577</n>
     <p>to a homestead entry, constituted a competent tribunal, and the contest so pending before them was a case in which the laws of the United States authorized an oath to be administered."</p>
     <p>Id. at <a href="../us152/us152-0211.xml#p218">152 U. S. 218</a>. (Emphasis supplied.)</p>

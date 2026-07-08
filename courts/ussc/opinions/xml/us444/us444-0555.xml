@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us444-0555.html" citation="444 U.S. 555" title="Ford Motor Credit Co. v. Milhollin">
   <opinion type="Opinions &amp; Dissents">
     <n id="p555">555</n>
-    <h>U.S. Supreme Court</h>
-    <h>Ford Motor Credit Co. v. Milhollin, <a href="./us444-0555.xml#p555">444 U.S. 555</a> (1980)</h>
-    <h>Ford Motor Credit Co. v. Milhollin</h>
-    <h>No. 78-1487</h>
-    <h>Argued December 4, 1979</h>
-    <h>Decided February 20, 1980 <a href="./us444-0555.xml#p555">444 U.S. 555</a>ast|&gt;*</h>
-    <h><a href="./us444-0555.xml#p555">444 U.S. 555</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE NINTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Ford Motor Credit Co. v. Milhollin, <a href="./us444-0555.xml#p555">444 U.S. 555</a> (1980)</h1>
+    <h2>Ford Motor Credit Co. v. Milhollin</h2>
+    <h2>No. 78-1487</h2>
+    <h4>Argued December 4, 1979</h4>
+    <h4>Decided February 20, 1980 <a href="./us444-0555.xml#p555">444 U.S. 555</a>ast|&gt;*</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE NINTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>Respondents financed their purchases of automobiles through standard retail installment contracts that were assigned to petitioner finance company. Each contract provided that respondents were to pay a precomputed finance charge, and, as required by the Truth in Lending Act (TILA) and implementing Federal Reserve Board (FRB) Regulation Z, the front page of each contract disclosed and explained certain features of the contract, including a disclosure that the buyer could prepay his obligations under the contract in full at any time prior to maturity of the final installment and that, if he did so, he would receive a rebate of the unearned portion of the finance charge. The face of the contract also stated that temporary default on a particular installment would result in a delinquency charge, but no mention was made of a clause in the contract giving the creditor a right to accelerate payment of the entire debt upon the buyer's default. Respondents thereafter brought separate suits in District Court, alleging, inter alia, that petitioner finance company had violated TILA and Regulation Z by failing to disclose on the front page of the contract that the creditor retained the right to accelerate payment of the debt. The District Court, in two of the suits, held that facial disclosure of the acceleration clauses was mandated by the provisions of TILA, 15 U.S.C. §§ 1638(a)(9), 1639(a) (7), that compel publication of "default, delinquency, or similar charges payable in the event of late payments." On a consolidated appeal, the Court of Appeals agreed that TILA imposes a general acceleration clause disclosure requirement, but rather than holding that acceleration is a default charge, the Court of Appeals based its decision on the principle that, under Regulation Z, the creditor must disclose whether a rebate of unearned interest will be made upon acceleration, and also must disclose the method by which the amount of unearned interest will be computed if the debt is accelerated. In so</p>
     <n id="p556">556</n>
     <p>holding, the court rejected the FRB staff's contrary interpretation of the pertinent statutory and regulatory provisions that specific disclosure of an acceleration rebate policy is only necessary when that policy varies from the custom with respect to voluntary prepayment rebates.</p>
@@ -23,7 +23,7 @@
     <n id="p557">557</n>
     <p>MR. JUSTICE BRENNAN delivered the opinion of the Court.</p>
     <p>The issue for decision in this case is whether the Truth in Lending Act (TILA), 82 Stat. 146, as amended, 15 U.S.C. § 1601 et seq., requires that the existence of an acceleration clause always be disclosed on the face of a credit agreement. The Federal Reserve Board staff has consistently construed the statute and regulations as imposing no such uniform requirement. Because we believe that a high degree of deference to this administrative interpretation is warranted, we hold that TILA does not mandate a general rule of disclosure for acceleration clauses.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>The several respondents in this case purchased automobiles from various dealers, financing their purchases through standard retail installment contracts that were assigned to petitioner Ford Motor Credit Co. (FMCC), a finance company. Each contract provided that respondents were to pay a precomputed finance charge. As required by TILA and Federal Reserve Board Regulation Z, which implements the Act, the front page of each contract disclosed and explained certain features of the agreement. See 15 U.S.C. § 1631; 12 CFR § 226.6(a) (1979). Among these disclosures was a paragraph informing the buyer that he</p>
     <p>"may prepay his obligations under this contract in full at any time prior to maturity of the final instalment hereunder, and, if he does so, shall receive a rebate of the unearned portion of the Finance Charge computed under the sum of the digits method. . . ."</p>
     <p>The face of the contract also stated that temporary default on a particular installment would result in a predetermined</p>
@@ -35,7 +35,7 @@
     <n id="p559">559</n>
     <p>and also disclose the method by which the amount of unearned interest will be computed if the debt is accelerated."</p>
     <p>588 F.2d 753, 757 (1978), quoting St. Germain v. Bank of Hawaii, 573 F.2d 572, 577 (CA9 1977). See 12 CFR § 226.8(b)(7) (1979). Implicit in the conclusion of the Court of Appeals -- and explicit in its preceding St. Germain decision -- was the rejection of a contrary administrative interpretation of the pertinent statutory and regulatory provisions. In adopting its particular approach, the Court of Appeals mapped a path through the disclosure thicket that diverges from the routes traveled by the Courts of Appeals for several other Circuits. [<a id="nf6" href="#fn6">Footnote 6</a>] We granted certiorari, 442 U.S. 940 (1979), to resolve the conflict. We reverse.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The Truth in Lending Act has the broad purpose of promoting "the informed use of credit" by assuring "meaningful disclosure of credit terms" to consumers. 15 U.S.C. § 1601. Because of their complexity and variety, however, credit transactions defy exhaustive regulation by a single statute. Congress therefore delegated expansive authority to</p>
     <n id="p560">560</n>
     <p>the Federal Reserve Board to elaborate and expand the legal framework governing commerce in credit. 15 U.S.C. § 1604; Mourning v. Family Publications Service, Inc., <a href="../us411/us411-0356.xml#p356">411 U. S. 356</a> (1973). The Board executed its responsibility by promulgating Regulation Z, 12 CFR Part 226 (1979), which at least partly fills the statutory gaps. Even Regulation Z, however, cannot speak explicitly to every credit disclosure issue. At the threshold, therefore, interpretation of TILA and Regulation Z demands an examination of their express language; absent a clear expression, it becomes necessary to consider the implicit character of the statutory scheme. For the reasons following, we conclude that the issue of acceleration disclosure is not governed by clear expression in the statute or regulation, and that it is appropriate to defer to the Federal Reserve Board and staff in determining what resolution of that issue is implied by the truth in lending enactments.</p>
@@ -49,7 +49,7 @@
     <n id="p562">562</n>
     <p>that burden as "payable" to the creditor. Similarly Regulation Z orders disclosure of the "amount, or method of computing the amount, of any default, delinquency, or similar charges. . . ." (Emphasis added.) That command has no sensible application to the remedy of acceleration. In short, we would have to stretch these provisions beyond their obvious limits to construe them as a mandate for the disclosure of acceleration clauses. [<a id="nf7" href="#fn7">Footnote 7</a>]</p>
     <p>The prepayment rebate disclosure regulation, 12 CFR § 226.8(b)(7) (1979), also fails to afford direct support for an invariable specific acceleration disclosure rule. To be sure, payment by the debtor in response to acceleration might be deemed a prepayment within the ambit of that regulation. But so long as the creditor's rebate practice under acceleration is identical to its policy with respect to voluntary prepayments, separate disclosure of the acceleration policy does not seem obligatory under a literal reading of the regulation. Section 226.8(b)(7), therefore, squares with the position of the Federal Reserve Board staff that specific disclosure of acceleration rebate policy is only necessary when that policy varies from the custom with respect to voluntary prepayment rebates. FRB Official Staff Interpretation No. F0054, 12 CFR Part 226 Appendix, p. 627 (1979).</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>Notwithstanding the absence of an express statutory mandate that acceleration procedures be invariably disclosed, the</p>
     <n id="p563">563</n>
     <p>Court of Appeals has held that the</p>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us353-0180.html" citation="353 U.S. 180" title="Automobile Club of Michigan v. Commissioner">
   <opinion type="Opinions &amp; Dissents">
     <n id="p180">180</n>
-    <h>U.S. Supreme Court</h>
-    <h>Automobile Club of Michigan v. Commissioner, <a href="./us353-0180.xml#p180">353 U.S. 180</a> (1957)</h>
-    <h>Automobile Club of Michigan v. Commissioner of Internal Revenue</h>
-    <h>No. 89</h>
-    <h>Argued March 6-7, 1957</h>
-    <h>Decided April 22, 1957</h>
-    <h><a href="./us353-0180.xml#p180">353 U.S. 180</a></h>
-    <h>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h>
-    <h>FOR THE SIXTH CIRCUIT</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Automobile Club of Michigan v. Commissioner, <a href="./us353-0180.xml#p180">353 U.S. 180</a> (1957)</h1>
+    <h2>Automobile Club of Michigan v. Commissioner of Internal Revenue</h2>
+    <h2>No. 89</h2>
+    <h4>Argued March 6-7, 1957</h4>
+    <h4>Decided April 22, 1957</h4>
+    <h2>CERTIORARI TO THE UNITED STATES COURT OF APPEALS</h2>
+    <h2>FOR THE SIXTH CIRCUIT</h2>
+    <h2>Syllabus</h2>
     <p>The Commissioner of Internal Revenue, by rulings in 1934 and 1938, exempted petitioner automobile club from income taxes as a "club" within the meaning of provisions corresponding to § 101(9) of the Internal Revenue Code of 1939. In 1945, the Commissioner revoked his 1934 and 1938 rulings, which were based upon a mistake of law, and directed petitioner to file returns for 1943 and subsequent years. The Commissioner also determined that prepaid membership dues received by petitioner should be treated as income in the year received. The Tax Court sustained the Commissioner's determinations, and the Court of Appeals affirmed.</p>
     <p>Held: the judgment is affirmed. Pp. <a href="./us353-0180.xml#p181">353 U. S. 181</a>-190.</p>
     <p>1. The Commissioner had power to apply the revocation retroactively to 1943 and 1944. Pp. <a href="./us353-0180.xml#p183">353 U. S. 183</a>-185.</p>
@@ -50,7 +50,7 @@
     <n id="p185">185</n>
     <p>§ 3791(b) was precluded in this case because the repeated reenactments of § 101(9) gave the force of law to the provision of the Treasury regulations relating to that section. These regulations provided that, when an organization had established its right to exemption, it need not thereafter make a return of income or any further showing with respect to its status unless it changed the character of its operations or the purpose for which it was originally created. [<a id="nf10" href="#fn10">Footnote 10</a>] Helvering v. R. J. Reynolds Tobacco Co. is inapplicable to this case. As stated by the Tax Court:</p>
     <p>"The regulations involved there [Helvering v. R. J. Reynolds Tobacco Co.] . . . purported to determine what did or did not constitute gain or loss. The regulations here . . . in nowise purported to determine whether any organization was or was not exempt. [<a id="nf11" href="#fn11">Footnote 11</a>]"</p>
-    <p>These regulations did not provide the exemption or interpret § 101(9), but merely specified the necessary information required to be filed in order that the Commissioner might rule whether or not the taxpayer was entitled to exemption. This is thus not a case of " . . . administrative construction embodied in the regulation[s] . . . " which, by repeated reenactment of § 101(9), " . . . Congress must be taken to have approved . . . , and thereby to have given . . . the force of law." Helvering v. R. J. Reynolds Tobacco Co., 306 U.S. at <a href="../us306/us306-0110.xml#p114">306 U. S. 114</a>-115.</p>
+    <p>These regulations did not provide the exemption or interpret § 101(9), but merely specified the necessary information required to be filed in order that the Commissioner might rule whether or not the taxpayer was entitled to exemption. This is thus not a case of " . . . administrative construction embodied in the regulation[s] . . . " which, by repeated reenactment of § 101(9), " . . . Congress must be taken to have approved . . ., and thereby to have given . . . the force of law." Helvering v. R. J. Reynolds Tobacco Co., 306 U.S. at <a href="../us306/us306-0110.xml#p114">306 U. S. 114</a>-115.</p>
     <p>We must, then, determine whether the retroactive action of the Commissioner was an abuse of discretion in the circumstances of this case. The action was the consequence of the reconsideration by the Commissioner, in 1943, of the correctness of the prior rulings exempting automobile clubs, initiated by a General Counsel Memorandum interpreting § 101(9) to be inapplicable to such organizations. [<a id="nf12" href="#fn12">Footnote 12</a>] The Commissioner adopted the General</p>
     <n id="p186">186</n>
     <p>Counsel's interpretation and proceeded to apply it, effective from 1943, indiscriminately to automobile clubs. [<a id="nf13" href="#fn13">Footnote 13</a>] We thus find no basis for disagreeing with the conclusion, reached by both the Tax Court and the Court of Appeals, that the Commissioner, having dealt with petitioner upon the same basis as other automobile clubs, did not abuse his discretion. Nor did the two-year delay in proceeding with the petitioner's case, in these circumstances, vitiate the Commissioner's action.</p>
@@ -66,7 +66,7 @@
     <n id="p189">189</n>
     <p>and without restriction as to its disposition, . . . [it] has received income which [it] is required to return. . . ."</p>
     <p>The petitioner does not deny that it has the unrestricted use of the dues income in the year of receipt, but contends that its accrual method of accounting clearly reflects its income, and that the Commissioner is therefore bound to accept its method of reporting membership dues. We do not agree. Section 41 of the Internal Revenue Code of 1939 required that</p>
-    <p>"[t]he net income shall be computed . . . in accordance with such method of accounting regularly employed in keeping the books . . . , but . . . , if the method employed does not clearly reflect the income, the computation shall be made in accordance with such method as, in the opinion of the Commissioner, does clearly reflect the income. . . . [<a id="nf19" href="#fn19">Footnote 19</a>]"</p>
+    <p>"[t]he net income shall be computed . . . in accordance with such method of accounting regularly employed in keeping the books . . ., but . . ., if the method employed does not clearly reflect the income, the computation shall be made in accordance with such method as, in the opinion of the Commissioner, does clearly reflect the income. . . . [<a id="nf19" href="#fn19">Footnote 19</a>]"</p>
     <p>The pro rata allocation of the membership dues in monthly amounts is purely artificial, and bears no relation to the services which petitioner may in fact be called upon to render for the member. [<a id="nf20" href="#fn20">Footnote 20</a>] Section 41 vests the Commissioner with discretion to determine whether the petitioner's method of accounting clearly reflects income. We cannot say, in the circumstances here, that the discretionary</p>
     <n id="p190">190</n>
     <p>action of the Commissioner, sustained by both the Tax Court and the Court of Appeals, exceeded permissible limits. See Brown v. Helvering, <a href="../us291/us291-0193.xml#p193">291 U. S. 193</a>, <a href="../us291/us291-0193.xml#p204">291 U. S. 204</a>-205.</p>

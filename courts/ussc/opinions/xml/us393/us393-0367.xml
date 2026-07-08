@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us393-0367.html" citation="393 U.S. 367" title="Gardner v. California">
   <opinion type="Opinions &amp; Dissents">
     <n id="p367">367</n>
-    <h>U.S. Supreme Court</h>
-    <h>Gardner v. California, <a href="./us393-0367.xml#p367">393 U.S. 367</a> (1969)</h>
-    <h>Gardner v. California</h>
-    <h>No. 73</h>
-    <h>Argued November 20, 1968</h>
-    <h>Decided January 20, 1969</h>
-    <h><a href="./us393-0367.xml#p367">393 U.S. 367</a></h>
-    <h>CERTIORARI TO THE SUPERIOR COURT OF CALIFORNIA</h>
-    <h>COUNTY OF SAN LUIS OBISPO</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Gardner v. California, <a href="./us393-0367.xml#p367">393 U.S. 367</a> (1969)</h1>
+    <h2>Gardner v. California</h2>
+    <h2>No. 73</h2>
+    <h4>Argued November 20, 1968</h4>
+    <h4>Decided January 20, 1969</h4>
+    <h2>CERTIORARI TO THE SUPERIOR COURT OF CALIFORNIA</h2>
+    <h2>COUNTY OF SAN LUIS OBISPO</h2>
+    <h2>Syllabus</h2>
     <p>Petitioner, a California state prisoner, filed a request for habeas corpus relief, which the Superior Court denied. Under California law, he has no right of appeal, but may file a new petition for habeas corpus in the intermediate Court of Appeal or the Supreme Court. Petitioner desired to file a new petition, and asked for a free transcript of the evidentiary hearing before the Superior Court, which was denied.</p>
     <p>Held: Under this system of repeated hearings, where transcripts are readily available to judicial and prosecuting officials of the State, and where no suggestion is made that there is any adequate substitute therefor, they may not be furnished to those who can afford them and denied to those who are paupers. Griffin v. Illinois, <a href="../us351/us351-0012.xml#p12">351 U. S. 12</a>; Long v. District Court, <a href="../us385/us385-0192.xml#p192">385 U. S. 192</a>. Pp. <a href="./us393-0367.xml#p368">393 U. S. 368</a>-371.</p>
     <p>Reversed.</p>
     <p>MR. JUSTICE DOUGLAS delivered the opinion of the Court.</p>
-    <p>Petitioner is a California state prisoner who filed , various papers with the State Superior Court alleging state action that interfered with his access to the courts for determination of his claims. The Superior Court, which granted a hearing and designated the Public Defender's office to represent petitioner at that hearing, treated the papers as requests for habeas corpus relief. After hearing, it made findings and held that the State</p>
+    <p>Petitioner is a California state prisoner who filed, various papers with the State Superior Court alleging state action that interfered with his access to the courts for determination of his claims. The Superior Court, which granted a hearing and designated the Public Defender's office to represent petitioner at that hearing, treated the papers as requests for habeas corpus relief. After hearing, it made findings and held that the State</p>
     <n id="p368">368</n>
     <p>had not impaired petitioner's rights of access to the courts.</p>
     <p>Under California law, while the State has an appeal from an order discharging a prisoner in a habeas corpus proceeding, [<a id="nf1" href="#fn1">Footnote 1</a>] the prisoner has no appeal where his petition is denied. See Loustalot v. Superior Court, <a href="https://law.justia.com/cases/california/supreme-court/2d/30/905.html">30 Cal. 2d 905</a>, 913, 186 P.2d 673, 677-678. But he may file a petition for habeas corpus either in the intermediate Court of Appeal or in the Supreme Court. [<a id="nf2" href="#fn2">Footnote 2</a>] As petitioner in the instant case desired to pursue his remedy in the higher courts, he asked for a free transcript of the evidentiary hearing before the Superior Court. His motion was denied, and he sought review of that denial by certiorari to the District Court of Appeal. It was denied, as was a timely petition for a hearing in the Supreme Court. We granted the petition for a writ of certiorari, 391 U.S. 902, to consider whether the rulings below squared with our decisions in Griffin v. Illinois, <a href="../us351/us351-0012.xml#p12">351 U. S. 12</a>, and Long v. District Court, <a href="../us385/us385-0192.xml#p192">385 U. S. 192</a>.</p>
@@ -59,7 +59,7 @@
       <p>as the court in which it was held, the disposition, etc. [Footnote 2/1] The initial question for the second court -- as it is for any court examining an application for post-conviction relief -- is whether, taking the factual allegations as proved, the application states a claim upon which relief can be granted. If the court determines that a claim is stated, it will order a referee to conduct an independent evidentiary hearing. [Footnote 2/2]</p>
       <p>Certainly there can be no constitutional requirement that a court hear, or review the transcript of, testimony in support of factual allegations which, even if proved, would not constitute grounds for relief. [Footnote 2/3] Cf. Draper v. Washington, <a href="../us372/us372-0487.xml#p487">372 U. S. 487</a>, <a href="../us372/us372-0487.xml#p495">372 U. S. 495</a>-496 (1963). Nor will a transcript of a prior habeas corpus hearing materially aid the applicant in framing the allegations in a subsequent petition. To be sure, a transcript of the prior hearing may be an incidental convenience -- so, too, would a daily transcript at a criminal trial -- but the Fourteenth Amendment does not require a State to furnish an indigent with every luxury that a wealthy litigant might conceivably choose to purchase. Cf. id. at <a href="../us372/us372-0487.xml#p496">372 U. S. 496</a>.</p>
       <n id="p373">373</n>
-      <p>Neither Long v. District Court, <a href="../us385/us385-0192.xml#p192">385 U. S. 192</a> (1966), nor any other decision of this Court, suggests that California's procedure is constitutionally defective. The State in Long simply made "no provision [on an appeal from the denial of habeas corpus] . . . for the furnishing of a transcript without the payment of fee . . . ," or for an independent evidentiary hearing at the appellate level. For all practical purposes, an indigent could not effectively obtain review. [Footnote 2/4] In contradistinction, the California indigent who alleges facts which entitle him to relief is afforded the same opportunity as any other applicant to prove those facts.</p>
+      <p>Neither Long v. District Court, <a href="../us385/us385-0192.xml#p192">385 U. S. 192</a> (1966), nor any other decision of this Court, suggests that California's procedure is constitutionally defective. The State in Long simply made "no provision [on an appeal from the denial of habeas corpus] . . . for the furnishing of a transcript without the payment of fee . . .," or for an independent evidentiary hearing at the appellate level. For all practical purposes, an indigent could not effectively obtain review. [Footnote 2/4] In contradistinction, the California indigent who alleges facts which entitle him to relief is afforded the same opportunity as any other applicant to prove those facts.</p>
       <p>In purpose and effect, California's procedure is not dissimilar to the federal rule whereby an indigent appealing the denial of an application for collateral relief is provided a transcript only if</p>
       <p>"the trial judge or a circuit judge certifies that the . . . appeal is not frivolous and that the transcript is needed to decide the issue presented by the . . . appeal."</p>
       <p>28 U.S.C. § 753(f) (1964 ed., Supp. III). Both the state and federal procedures are responsive to the immense volume of frivolous habeas corpus applications and appeals filed in the respective systems. Both procedures are sensible and practical. Both are equitable and fair.</p>

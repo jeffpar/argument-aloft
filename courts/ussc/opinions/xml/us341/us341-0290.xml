@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us341-0290.html" citation="341 U.S. 290" title="United States v. Champlin Refining Co.">
   <opinion type="Opinions &amp; Dissents">
     <n id="p290">290</n>
-    <h>U.S. Supreme Court</h>
-    <h>United States v. Champlin Refining Co., <a href="./us341-0290.xml#p290">341 U.S. 290</a> (1951)</h>
-    <h>United States v. Champlin Refining Co.</h>
-    <h>No. 433</h>
-    <h>Argued March 8-9, 1951</h>
-    <h>Decided May 7, 1951</h>
-    <h><a href="./us341-0290.xml#p290">341 U.S. 290</a></h>
-    <h>APPEAL FROM THE UNITED STATES DISTRICT COURT</h>
-    <h>FOR THE WESTERN DISTRICT OF OKLAHOMA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>United States v. Champlin Refining Co., <a href="./us341-0290.xml#p290">341 U.S. 290</a> (1951)</h1>
+    <h2>United States v. Champlin Refining Co.</h2>
+    <h2>No. 433</h2>
+    <h4>Argued March 8-9, 1951</h4>
+    <h4>Decided May 7, 1951</h4>
+    <h2>APPEAL FROM THE UNITED STATES DISTRICT COURT</h2>
+    <h2>FOR THE WESTERN DISTRICT OF OKLAHOMA</h2>
+    <h2>Syllabus</h2>
     <p>Appellee owns and operates a pipeline from its refinery in Oklahoma to its terminals in other States. It uses the pipeline solely to carry its own refined petroleum products. No other pipeline or refiner has connections with appellee's line, and no other refiner has ever shipped products through it. At each of its terminals, appellee has storage facilities from which it makes deliveries to jobber purchasers, who supply their own transportation therefrom. At two of its terminals, it has ethyl plants where it processes 20% of its products. Appellee presently handles 1.98% of the total products consumed in its marketing area. There are ample common carrier pipeline facilities available to these markets, and no refinery or other pipeline company has requested a connection with appellee. In an earlier proceeding, Champlin Refining Co. v. United States, <a href="../us329/us329-0029.xml#p29">329 U. S. 29</a>, this Court found that appellee was a "common carrier" within the meaning of § 1 of the Interstate Commerce Act, and sustained a Commission order under § 19a requiring appellee to file valuation data, maps, charts, etc. pertaining to its operations.</p>
     <p>Held:</p>
     <p>1. A subsequent order of the Commission is sustained insofar as it requires appellee, under § 20 of the Act, to file annual, periodic and special reports, and to institute and maintain a uniform system of accounts applicable to pipelines. Pp. <a href="./us341-0290.xml#p294">341 U. S. 294</a>-297.</p>
@@ -121,7 +121,7 @@
       <p>From whatever angle this case is approached, it seems to me that the holding of the Court is wrong. The decision rides roughshod over clear statutory language making the Hepburn Act [Footnote 2/1] applicable to interstate oil-carrying pipelines, and makes impossible enforcement of the Act as Congress intended. The decision undercuts and I think overrules several prior cases without mentioning</p>
       <n id="p303">303</n>
       <p>this fact. And this appellant, Champlin, is even given a second trial and victorious relitigation of the same issues we had previously determined against it. Finally, the opinion suggests to me that the Court accepts what I deem to be a frivolous constitutional challenge to the Act, namely that Congress is without power to force oil-carrying interstate pipelines to serve as common carriers for hire.</p>
-      <h>I</h>
+      <h2>I</h2>
       <p>The Court's holding that Champlin must comply with § 20 of the Hepburn Act, but need not comply with § 6, cannot be reconciled with clear language in those sections or with our previous decisions construing the same language. Section 20 authorizes the Interstate Commerce Commission to require that "all common carriers subject to the provisions of this Act" [Footnote 2/2] file, among other things, certain annual reports; § 6 commands that "Every common carrier subject to the provisions of this Act" [Footnote 2/3] shall file schedules of rates with the Commission. I do not understand why it should be necessary to labor the obvious -- this language requires Champlin (if it is a "common carrier subject to the . . . Act") to comply with § 6 if it is required to comply with § 20, or to comply with § 20 if it is required to comply with § 6. The Court holds that Champlin is a "common carrier subject to" the Act, and accordingly sustains the Commission's order to file reports under § 20. Paradoxically, however, it then proceeds to hold that the same Champlin, though "subject to" the Act, need not comply with § 6. How the Court</p>
       <n id="p304">304</n>
       <p>gives the identical language in the two sections such different meanings is left a mystery. [Footnote 2/4]</p>
@@ -130,7 +130,7 @@
       <p>or that Champlin enjoyed a "monopoly" position in its area. Certainly nothing in the Hepburn Act should encourage such judicial creativeness, for § 6 applies to "Every common carrier subject to the . . . Act" in language which does not logically admit of limiting the section's coverage to carriers that have refused "to deal with independent producers" or achieved "monopoly" status. That § 6 would or could be thus restricted was not hinted at in the Pipe Line Cases, <a href="../us234/us234-0548.xml#p548">234 U. S. 548</a> (where this section was involved), nor in Valvoline Oil Co. v. United States, <a href="../us308/us308-0141.xml#p141">308 U. S. 141</a>, [Footnote 2/6] nor in our decision in the first Champlin case, <a href="../us329/us329-0029.xml#p29">Champlin Rfg. Co. v. United States</a>,</p>
       <n id="p305">305</n>
       <p><a href="../us329/us329-0029.xml#p29">329 U. S. 29</a>. [Footnote 2/7] It should be noted that the dissenting justices in Champlin I thought that an additional "something" was necessary before the Hepburn Act was applicable; they believed that none of the Act's provisions should apply to pipeline companies unless they were "common carriers in substance." But neither those justices nor anyone else, so far as I know, have ever before suggested that the Court can pick and choose sections into which additional requirements can be imported. This possibility remained for today's majority to discover, 46 years after passage of the Hepburn Act. [Footnote 2/8]</p>
-      <h>II</h>
+      <h2>II</h2>
       <p>Far more important than the judicial exemption of Champlin from filing papers under § 6, however, is the Court's holding that pipeline companies engaged in interstate</p>
       <n id="p306">306</n>
       <p>transportation of their own petroleum products need not act as public carriers for hire unless they have already voluntarily become "something more" than interstate oil-carrying pipelines. The proper answer to this basic question in the case turns on § 1 of the Hepburn Act:</p>
@@ -143,7 +143,7 @@
       <p>doubt that the purpose of the Amendment, as its language clearly showed, was to deprive any oil company, not merely Standard, [Footnote 2/14] of power to utilize pipeline control to crush competition. To this end, as is shown by an <a href="./us341-0290.xml#p290">341 U.S. 290</a>app|&gt;Appendix following this opinion, the Amendment was designed to make public or common carriers for hire out of every private pipeline company transporting petroleum products in interstate commerce. Senators who were opposed charged that the passage of the Amendment would do exactly this against the will of "private" carriers. Lodge and other proponents freely admitted it, explaining that anything less would be ineffective. All congressional efforts to narrow the Amendment to cover only companies already acting like common carriers were defeated.</p>
       <n id="p309">309</n>
       <p>Therefore it is strange to say, as the Court does, that applying the pipeline provisions so as to make Champlin a common carrier for hire would "subvert the chief purpose of the Act." Stranger still is the Court's unexplained apprehension that requiring all interstate pipeline companies to serve as public carriers for hire would somehow "foster" monopoly.</p>
-      <h>III</h>
+      <h2>III</h2>
       <p>The Court, without mentioning it, necessarily overrules one or more of our previous decisions construing the Hepburn Act. In the Pipe Line Cases, supra, it was held that the Hepburn Act converted into common carriers for hire all private pipeline companies "engaged in the transportation of oil or other commodity" across state lines, a decision which meant that all such companies are by law required to offer their services to the public. [Footnote 2/15]</p>
       <n id="p310">310</n>
       <p>In the first Champlin case, supra, we determined that this appellant was so "engaged." [Footnote 2/16] Consequently, today's decision allowing Champlin to refrain from filing tariffs under § 6 necessarily overrules either the Pipe Line Cases or Champlin I, or both. If they are to be overruled, the Court should say so. I would not overrule either.</p>
@@ -154,14 +154,14 @@
       <p>The Court nevertheless seeks to distinguish the Valvoline case on the ground that Valvoline "carried the products of over 3,800 independent owners and operators." The quoted language correctly states a fact only if it is understood to mean that Valvoline made purchases from 3,800 independents and then carried the purchased oil in its pipeline. This fact, however, certainly does not distinguish the two cases. Like Valvoline, Champlin carries the "oil of others" all the way from the well to the market area: over half of the oil and gasoline carried by Champlin is originally purchased as crude oil from independent producers in the field before transportation begins. [Footnote 2/19] As noted above, Champlin does make these purchases through a wholly owned subsidiary, rather than in its own corporate name, but this fact is unimportant. [Footnote 2/20]</p>
       <n id="p312">312</n>
       <p>Since there is no substantial difference between the operations of Champlin and Valvoline, and between the legal arguments made in the two cases, I conclude that, verbalisms aside, the effect of today's decision is to undermine the Valvoline holding. In this situation, I think Valvoline should be expressly overruled. Why, in fairness, should Valvoline and others similarly situated be required to serve as common carriers for hire, while Champlin is left free to conduct its pipelines as it chooses?</p>
-      <h>IV</h>
+      <h2>IV</h2>
       <p>In the first Champlin case, we upheld findings of fact made by the I.C.C., 49 Val.Rep.(I.C.C.) 463, 470, that appellant was "engaged in the transportation" and was "a common carrier subject to the provisions of" the Act. Since these questions were "distinctly put in issue and directly determined," Champlin may not dispute them in this second proceeding between the same parties unless there is a departure from the principles most recently announced in United States v. Munsingwear, <a href="../us340/us340-0036.xml#p36">340 U. S. 36</a>,</p>
       <n id="p313">313</n>
       <p><a href="../us340/us340-0036.xml#p38">340 U. S. 38</a>. Yet three concurring justices today appear to take the position that Champlin is not "engaged in transportation," and is therefore not a common carrier subject to the Act, a position which this Court emphatically rejected in Champlin I. I also believe that the majority's position is unjustified under the Munsingwear principle when the effect (as distinguished from the language) of their decision is considered.</p>
-      <h>V</h>
+      <h2>V</h2>
       <p>Why should the Court interpret the Hepburn Act in a way which nullifies its purpose? I am forced by process of elimination to consider whether the decision reflects either a hostility to the policy of the Act or an unarticulated belief that it is unconstitutional if enforced as written. Neither this Court nor any other should strangle an Act because of judicial disagreement with congressional policy. If destruction of the Act results from a feeling that the Constitution forbids Congress to convert private companies into public servants, I think that this view should be announced here, as it was by a majority of the court below. Pipeline companies, administrators of the law, the bench, the bar, and the Congress are entitled to no less. Of course, the same constitutional contention was expressly rejected in 1914 in the Pipe Line Cases, supra: as to companies which, like Champlin, built their lines after passage of the Act, Justice Holmes, speaking for the Court, dismissed the challenge brusquely with less than a sentence, stating merely that "there can be no doubt that it [the pipeline provision] is valid." 234 U.S. at <a href="../us234/us234-0548.xml#p561">234 U. S. 561</a>. Again, in 1922, the Court, relying on the Pipe Line Cases, supra, rejected a somewhat similar constitutional argument as "futile to the point almost of being frivolous." Pierce Oil Corp. v. Phoenix Rfg. Co., <a href="../us259/us259-0125.xml#p125">259 U. S. 125</a>, <a href="../us259/us259-0125.xml#p128">259 U. S. 128</a>. Surely a contention deemed "almost frivolous" twenty-nine years ago should not now be reinvigorated by implication.</p>
       <n id="p314">314</n>
-      <h>VI</h>
+      <h2>VI</h2>
       <p>No one can be sure that, under the Act as now rewritten by the Court, the Commission can or should succeed in forcing any oil company -- even those now complying with the Act -- to carry gasoline or oil for others as a common carrier. Even without the newly engrafted, Court-created hurdles, the pipeline provisions, for one reason or another, have never been enforced as effectively as might be desired. [Footnote 2/21] Perhaps, therefore, no great harm will result from the Court's polite but sure frustration of the Hepburn Act's purpose. Some people in and familiar with the oil industry, however, believe that this Act should be strengthened, not weakened. [Footnote 2/22] Be that as it may, I deem it my duty to vote to enforce the Act as Congress has passed it.</p>
       <p>I would reverse.</p>
       <n id="p315">315</n>

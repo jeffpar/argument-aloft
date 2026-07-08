@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us444-0320.html" citation="444 U.S. 320" title="Rush v. Savchuk">
   <opinion type="Opinions &amp; Dissents">
     <n id="p320">320</n>
-    <h>U.S. Supreme Court</h>
-    <h>Rush v. Savchuk, <a href="./us444-0320.xml#p320">444 U.S. 320</a> (1980)</h>
-    <h>Rush v. Savchuk</h>
-    <h>No. 78-952</h>
-    <h>Argued October 3, 1979</h>
-    <h>Decided January 21, 1980</h>
-    <h><a href="./us444-0320.xml#p320">444 U.S. 320</a></h>
-    <h>APPEAL FROM THE SUPREME COURT OF MINNESOTA</h>
-    <h>Syllabus</h>
+    <h2>U.S. Supreme Court</h2>
+    <h1>Rush v. Savchuk, <a href="./us444-0320.xml#p320">444 U.S. 320</a> (1980)</h1>
+    <h2>Rush v. Savchuk</h2>
+    <h2>No. 78-952</h2>
+    <h4>Argued October 3, 1979</h4>
+    <h4>Decided January 21, 1980</h4>
+    <h2>APPEAL FROM THE SUPREME COURT OF MINNESOTA</h2>
+    <h2>Syllabus</h2>
     <p>While a resident of Indiana, appellee was injured in an accident in Indiana while riding as a passenger in a car driven by appellant Rush, also an Indiana resident. After moving to Minnesota, appellee commenced this action against Rush in a Minnesota state court, alleging negligence and seeking damages. As Rush had no contacts with Minnesota that would support in personam jurisdiction, appellee attempted to obtain quasi in rem jurisdiction by garnishing the contractual obligation of State Farm Mutual Automobile Insurance Co. (State Farm) to defend and indemnify Rush in connection with such a suit. State Farm, which does business in Minnesota, had insured the car, owned by Rush's father, under a liability insurance policy issued in Indiana. Rush was personally served in Indiana, and after State Farm's response to the garnishment summons asserted that it owed the defendant nothing, appellee moved the trial court for permission to file a supplemental complaint making the garnishee, State Farm, a party to the action. Rush and State Farm moved to dismiss the complaint for lack of jurisdiction over the defendant. The trial court denied the motion to dismiss and granted the motion for leave to file the supplemental complaint. The Minnesota Supreme Court affirmed, ultimately holding that the assertion of quasi in rem jurisdiction under the Minnesota garnishment statute complied with the due process standards enunciated in Shaffer v. Heitner, <a href="../us433/us433-0186.xml#p186">433 U. S. 186</a>.</p>
     <p>Held: A State may not constitutionally exercise quasi in rem jurisdiction over a defendant who has no forum contacts by attaching the contractual obligation of an insurer licensed to do business in the State to defend and indemnify him in connection with the suit. Pp. <a href="./us444-0320.xml#p327">444 U. S. 327</a>-333.</p>
     <p>(a) A State may exercise jurisdiction over an absent defendant only if the defendant has certain minimum contacts with the forum such that the maintenance of the suit does not offend traditional notions of fair play and substantial justice. International Shoe Co. v. Washington, <a href="../us326/us326-0310.xml#p310">326 U. S. 310</a>. In determining whether a particular exercise of state court jurisdiction is consistent with due process, the inquiry must focus on "the relationship among the defendant, the forum, and the litigation." Shaffer v. Heitner, supra at <a href="../us433/us433-0186.xml#p204">433 U. S. 204</a>. P. 327.</p>
@@ -23,7 +23,7 @@
     <n id="p322">322</n>
     <p>MR. JUSTICE MARSHALL delivered the opinion of the Court.</p>
     <p>This appeal presents the question whether a State may constitutionally exercise quasi in rem jurisdiction over a defendant who has no forum contacts by attaching the contractual obligation of an insurer licensed to do business in the State to defend and indemnify him in connection with the suit.</p>
-    <h>I</h>
+    <h2>I</h2>
     <p>On January 13, 1972, two Indiana residents were involved in a single-car accident in Elkhart, Ind. Appellee Savchuk, who was a passenger in the car driven by appellant Rush, was injured. The car, owned by Rush's father, was insured by appellant State Farm Mutual Automobile Insurance Co. (State Farm) under a liability insurance policy issued in Indiana. Indiana's guest statute would have barred a claim by Savchuk. Ind.Code § 9-3-3-1 (1976).</p>
     <p>Savchuk moved with his parents to Minnesota in June, 1973. [<a id="nf1" href="#fn1">Footnote 1</a>] On May 28, 1974, he commenced an action against Rush in the Minnesota state courts. [<a id="nf2" href="#fn2">Footnote 2</a>] As Rush had no contacts with Minnesota that would support in personam jurisdiction, Savchuk attempted to obtain quasi in rem jurisdiction by garnishing State Farm's obligation under the insurance policy to defend and indemnify Rush in connection with such a suit. [<a id="nf3" href="#fn3">Footnote 3</a>] State Farm does business in Minnesota. [<a id="nf4" href="#fn4">Footnote 4</a>] Rush was</p>
     <n id="p323">323</n>
@@ -36,7 +36,7 @@
     <n id="p325">325</n>
     <p>Shaffer v. Heitner, <a href="../us433/us433-0186.xml#p186">433 U. S. 186</a> (1977). 433 U.S. 902 (1977).</p>
     <p>On remand, the Minnesota Supreme Court held that the assertion of quasi in rem jurisdiction through garnishment of an insurer's obligation to an insured complied with the due process standards enunciated in Shaffer. <a href="https://law.justia.com/cases/minnesota/supreme-court/1978/45556-1.html">272 N.W.2d 888</a> (1978) (Savchuk II). The court found that the garnishment statute differed from the Delaware stock sequestration procedure held unconstitutional in Shaffer because the garnished property was intimately related to the litigation and the garnishment procedure paralleled the asserted state interest in "facilitating recoveries for resident plaintiffs." 272 N.W.2d at 891. [<a id="nf8" href="#fn8">Footnote 8</a>] This appeal followed.</p>
-    <h>II</h>
+    <h2>II</h2>
     <p>The Minnesota Supreme Court held that the Minnesota garnishment statute embodies the rule stated in Seider v. Roth, 17 N.Y.2d 111, 216 N.E.2d 312 (1966), that the contractual obligation of an insurance company to its insured under a liability insurance policy is a debt subject to attachment under state law if the insurer does business in the State. [<a id="nf9" href="#fn9">Footnote 9</a>] Seider jurisdiction was upheld against a due process challenge in Simpson v. Loehmann, 21 N.Y.2d 305, 234 N.E.2d 669 (1967), reargument denied, 21 N.Y.2d 990, 238 N.E.2d 319 (1968). The New York court relied on Harris v. Balk, <a href="../us198/us198-0215.xml#p215">198 U. S. 215</a> (1905), in holding that the presence of the debt</p>
     <n id="p326">326</n>
     <p>in the State was sufficient to permit quasi in rem jurisdiction over the absent defendant. The court also concluded that the exercise of jurisdiction was permissible under the Due Process Clause because, "[v]iewed realistically, the insurer in a case such as the present is in full control of the litigation" and,</p>
@@ -48,7 +48,7 @@
     <p>New York has continued to adhere to Seider. [<a id="nf10" href="#fn10">Footnote 10</a>] New Hampshire has followed Seider if the defendant resides in a Seider jurisdiction, [<a id="nf11" href="#fn11">Footnote 11</a>] but not in other cases. [<a id="nf12" href="#fn12">Footnote 12</a>] Minnesota is the only</p>
     <n id="p327">327</n>
     <p>other State that has adopted Seider-type jurisdiction. [<a id="nf13" href="#fn13">Footnote 13</a>] The Second Circuit recently reaffirmed its conclusion that Seider does not violate due process after reconsidering the doctrine in light of Shaffer v. Heitner. O'Conner v. Lee-Hy Paving Corp., 579 F.2d 194, cert. denied, <a href="../us439/us439-1034.xml#p1034">439 U. S. 1034</a> (1978).</p>
-    <h>III</h>
+    <h2>III</h2>
     <p>In Shaffer v. Heitner, we held that "all assertions of state court jurisdiction must be evaluated according to the standards set forth in International Shoe and its progeny." 433 U.S. at <a href="../us433/us433-0186.xml#p212">433 U. S. 212</a>. That is, a State may exercise jurisdiction over an absent defendant only if the defendant has</p>
     <p>"certain minimum contacts with [the forum] such that the maintenance of the suit does not offend 'traditional notions' of fair play and substantial justice."</p>
     <p>International Shoe Co. v. Washington, <a href="../us326/us326-0310.xml#p310">326 U. S. 310</a>, <a href="../us326/us326-0310.xml#p316">326 U. S. 316</a> (1945). In determining whether a particular exercise of state court jurisdiction is consistent with due process, the inquiry must focus on "the relationship among the defendant, the forum, and the litigation." Shaffer v. Heitner, supra, at <a href="../us433/us433-0186.xml#p204">433 U. S. 204</a>.</p>
