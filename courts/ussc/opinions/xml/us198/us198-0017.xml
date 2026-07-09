@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us198-0017.html" citation="198 U.S. 17" title="Pabst Brewing Co. v. Crenshaw">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinions &amp; Dissents">
     <n id="p17">17</n>
     <h2>U.S. Supreme Court</h2>

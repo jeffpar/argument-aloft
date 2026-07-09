@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us543-0551.html" citation="543 U.S. 551" title="Roper v. Simmons">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Kennedy">
     <n id="p551">551</n>
     <p>OPINION OF THE COURT ROPER V. SIMMONS 543 U. S. ____ (2005) SUPREME COURT OF THE UNITED STATES NO. 03-633 DONALD P. ROPER, SUPERINTENDENT, POTOSI CORRECTIONAL CENTER, PETITIONER v. CHRISTOPHER SIMMONS</p>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us022-0354.html" citation="22 U.S. 354" title="McCreery's Lessee v. Somerville">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinions &amp; Dissents">
     <n id="p354">354</n>
     <h2>U.S. Supreme Court</h2>

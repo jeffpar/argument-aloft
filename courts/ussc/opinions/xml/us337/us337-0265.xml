@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us337-0265.html" citation="337 U.S. 265" title="FCC v. WJR, The Goodwill Station, Inc.">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinions &amp; Dissents">
     <n id="p265">265</n>
     <h2>U.S. Supreme Court</h2>

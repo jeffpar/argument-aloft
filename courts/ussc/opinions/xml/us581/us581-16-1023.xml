@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us581-16-1023.html" citation="581 U.S. 16-1023" title="North Carolina v. Covington">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Per Curiam">
     <p>SUPREME COURT OF THE UNITED STATES</p>
     <p>NORTH CAROLINA, et al. v. SANDRA LITTLE COVINGTON, et al.</p>

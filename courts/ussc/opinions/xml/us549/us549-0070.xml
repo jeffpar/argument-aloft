@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us549-0070.html" citation="549 U.S. 70" title="Carey v. Musladin">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Thomas">
     <n id="p70">70</n>
     <p>OPINION OF THE COURT CAREY V. MUSLADIN 549 U. S. ____ (2006) SUPREME COURT OF THE UNITED STATES NO. 05-785 THOMAS L. CAREY, Warden, PETITIONER v. MATHEW MUSLADIN</p>

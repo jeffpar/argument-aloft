@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us549-0497.html" citation="549 U.S. 497" title="Massachusetts v. EPA">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Stevens">
     <n id="p497">497</n>
     <p>OPINION OF THE COURT MASSACHUSETTS V. EPA 549 U. S. ____ (2007) SUPREME COURT OF THE UNITED STATES NO. 05-1120 MASSACHUSETTS, et al., PETITIONERS v. ENVIRON- MENTAL PROTECTION AGENCY et al.</p>

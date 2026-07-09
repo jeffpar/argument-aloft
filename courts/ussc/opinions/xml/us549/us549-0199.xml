@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us549-0199.html" citation="549 U.S. 199" title="Jones v. Bock">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Roberts">
     <n id="p199">199</n>
     <p>OPINION OF THE COURT JONES V. BOCK 549 U. S. ____ (2007) SUPREME COURT OF THE UNITED STATES NOS. 05-7058 AND 05-7142 LORENZO L. JONES, PETITIONER</p>

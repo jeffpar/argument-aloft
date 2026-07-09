@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us526-0160.html" citation="526 U.S. 160" title="South Central Bell Telephone Co. v. Alabama">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinions &amp; Dissents">
     <n id="p160">160</n>
     <p>OCTOBER TERM, 1998</p>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us545-0440.html" citation="545 U.S. 440" title="Mid-Con Freight Systems, Inc. v. Michigan Pub. Serv. Comm'n">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Breyer">
     <n id="p440">440</n>
     <p>OPINION OF THE COURT MID-CON FREIGHT SYSTEMS, INC. V. MICHIGAN PUB.SERV. COMM'N 545 U. S. ____ (2005) SUPREME COURT OF THE UNITED STATES NO. 03-1234 MID-CON FREIGHT SYSTEMS, INC., et al., PETITIONERS v. MICHIGAN PUBLIC SERVICE COMMISSION et al.</p>

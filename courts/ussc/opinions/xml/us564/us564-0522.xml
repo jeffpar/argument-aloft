@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us564-0522.html" citation="564 U.S. 522" title="Freeman v. United States">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Kennedy">
     <n id="p522">522</n>
     <p>OPINION OF KENNEDY, J. FREEMAN V. UNITED STATES 564 U. S. ____ (2011) SUPREME COURT OF THE UNITED STATES NO. 09-10245 WILLIAM FREEMAN, PETITIONER v. UNITED STATES</p>

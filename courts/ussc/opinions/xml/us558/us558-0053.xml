@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us558-0053.html" citation="558 U.S. 53" title="Beard v. Kindler">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Roberts">
     <n id="p53">53</n>
     <p>OPINION OF THE COURT BEARD V. KINDLER 558 U. S. ____ (2009) SUPREME COURT OF THE UNITED STATES NO. 08-992 JEFFREY A. BEARD, SECRETARY, PENNSYLVANIA DEPARTMENT OF CORRECTIONS, et al., PETITIONERS v. JOSEPH J. KINDLER</p>

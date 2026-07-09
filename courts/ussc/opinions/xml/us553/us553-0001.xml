@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us553-0001.html" citation="553 U.S. 1" title="United States v. Clintwood Elkhorn Mining Co.">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Roberts">
     <n id="p1">1</n>
     <p>OPINION OF THE COURT UNITED STATES V. CLINTWOOD ELKHORN MINING CO. 553 U. S. ____ (2008) SUPREME COURT OF THE UNITED STATES NO. 07-308 UNITED STATES, PETITIONER v. CLINTWOOD ELKHORN MINING COMPANY et al.</p>

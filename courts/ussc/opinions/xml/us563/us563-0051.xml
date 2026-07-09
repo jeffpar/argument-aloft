@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us563-0051.html" citation="563 U.S. 51" title="Connick v. Thompson">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Thomas">
     <n id="p51">51</n>
     <p>OPINION OF THE COURT CONNICK V. THOMPSON 563 U. S. ____ (2011) SUPREME COURT OF THE UNITED STATES NO. 09-571 HARRY F. CONNICK, DISTRICT ATTORNEY, et al., PETITIONERS v. JOHN THOMPSON</p>

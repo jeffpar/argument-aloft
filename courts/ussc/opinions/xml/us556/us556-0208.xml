@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us556-0208.html" citation="556 U.S. 208" title="Entergy Corp. v. Riverkeeper, Inc.">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Scalia">
     <n id="p208">208</n>
     <p>OPINION OF THE COURT ENTERGY CORP. V. RIVERKEEPER, INC. 556 U. S. ____ (2009) SUPREME COURT OF THE UNITED STATES NOS. 07-588, 07-589 AND 07-597 ENTERGY CORPORATION, PETITIONER</p>

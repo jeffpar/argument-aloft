@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us554-0135.html" citation="554 U.S. 135" title="Kentucky Retirement Systems v. EEOC">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Breyer">
     <n id="p135">135</n>
     <p>OPINION OF THE COURT KENTUCKY RETIREMENT SYSTEMS V. EEOC 554 U. S. ____ (2008) SUPREME COURT OF THE UNITED STATES NO. 06-1037 KENTUCKY RETIREMENT SYSTEMS, et al., PETITIONERS v. EQUAL EMPLOYMENT OPPORTUNITY COMMISSION</p>

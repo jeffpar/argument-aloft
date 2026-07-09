@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us592-19-1108.html" citation="592 U.S. 19-1108" title="Mckesson v. Doe">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Per Curiam">
     <p>SUPREME COURT OF THE UNITED STATES</p>
     <p>DeRAY MCKESSON v. JOHN DOE</p>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us121-0421.html" citation="121 U.S. 421" title="Carson v. Dunham">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinions &amp; Dissents">
     <n id="p421">421</n>
     <h2>U.S. Supreme Court</h2>

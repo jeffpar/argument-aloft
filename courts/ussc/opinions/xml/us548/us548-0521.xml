@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us548-0521.html" citation="548 U.S. 521" title="Beard v. Banks">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Breyer">
     <n id="p521">521</n>
     <p>OPINION OF BREYER, J. BEARD V. BANKS 548 U. S. ____ (2006) SUPREME COURT OF THE UNITED STATES NO. 04-1739 JEFFREY A. BEARD, SECRETARY, PENNSYLVANIA DEPARTMENT OF CORRECTIONS, PETITIONER v. RONALD BANKS, individually and on behalf of all others similarly situated</p>

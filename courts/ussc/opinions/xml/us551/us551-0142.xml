@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us551-0142.html" citation="551 U.S. 142" title="Watson v. Philip Morris Cos.">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Breyer">
     <n id="p142">142</n>
     <p>OPINION OF THE COURT WATSON V. PHILIP MORRIS COS. 551 U. S. ____ (2007) SUPREME COURT OF THE UNITED STATES NO. 05-1284 LISA WATSON, et al., PETITIONERS v. PHILIP MORRIS COMPANIES, INC., et al.</p>

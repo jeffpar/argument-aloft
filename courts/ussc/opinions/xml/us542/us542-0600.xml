@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us542-0600.html" citation="542 U.S. 600" title="Missouri v. Seibert">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Souter">
     <n id="p600">600</n>
     <p>OPINION OF SOUTER, J. MISSOURI V. SEIBERT 542 U. S. ____ (2004) SUPREME COURT OF THE UNITED STATES NO. 02-1371 MISSOURI, PETITIONER v. PATRICE SEIBERT</p>

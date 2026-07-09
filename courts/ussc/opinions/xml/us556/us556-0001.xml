@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us556-0001.html" citation="556 U.S. 1" title="Bartlett v. Strickland">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Kennedy">
     <n id="p1">1</n>
     <p>OPINION OF KENNEDY, J. BARTLETT V. STRICKLAND 556 U. S. ____ (2009) SUPREME COURT OF THE UNITED STATES NO. 07-689 GARY BARTLETT, EXECUTIVE DIRECTOR OF THE NORTH CAROLINA STATE BOARD OF ELECTIONS, et al., PETITIONERS v. DWIGHT STRICKLAND et al.</p>

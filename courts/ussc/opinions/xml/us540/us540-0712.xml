@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us540-0712.html" citation="540 U.S. 712" title="Locke v. Davey">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Rehnquist">
     <n id="p712">712</n>
     <p>OPINION OF THE COURT LOCKE V. DAVEY 540 U. S. ____ (2004) SUPREME COURT OF THE UNITED STATES NO. 02-1315 GARY LOCKE, GOVERNOR OF WASHINGTON, et al., PETITIONERS v. JOSHUA DAVEY</p>

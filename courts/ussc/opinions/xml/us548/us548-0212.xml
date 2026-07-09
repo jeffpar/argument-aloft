@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us548-0212.html" citation="548 U.S. 212" title="Washington v. Recuenco">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Thomas">
     <n id="p212">212</n>
     <p>OPINION OF THE COURT WASHINGTON V. RECUENCO 548 U. S. ____ (2006) SUPREME COURT OF THE UNITED STATES NO. 05-83 WASHINGTON, PETITIONER v. ARTURO R. RECUENCO</p>

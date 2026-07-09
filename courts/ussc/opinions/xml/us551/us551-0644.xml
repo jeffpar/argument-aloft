@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us551-0644.html" citation="551 U.S. 644" title="National Assn. of Home Builders v. Defenders of Wildlife">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Alito">
     <n id="p644">644</n>
     <p>OPINION OF THE COURT NATIONAL ASSN. OF HOME BUILDERS V. DEFENDERSOF WILDLIFE 551 U. S. ____ (2007) SUPREME COURT OF THE UNITED STATES NOS. 06-340 AND 06-549 NATIONAL ASSOCIATION OF HOME BUILDERS, et al., PETITIONERS</p>

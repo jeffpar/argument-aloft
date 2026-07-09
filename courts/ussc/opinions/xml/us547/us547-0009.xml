@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us547-0009.html" citation="547 U.S. 9" title="Scheidler v. National Organization for Women, Inc.">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Breyer">
     <n id="p9">9</n>
     <p>OPINION OF THE COURT SCHEIDLER V. NATIONAL ORGANIZATION FOR WOMEN,INC. 547 U. S. ____ (2006) SUPREME COURT OF THE UNITED STATES NOS. 04-1244 AND 04-1352 JOSEPH SCHEIDLER, et al., PETITIONERS</p>

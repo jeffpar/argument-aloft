@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us543-0220.html" citation="543 U.S. 220" title="United States v. Booker">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Stevens">
     <n id="p220">220</n>
     <p>OPINION OF THE COURT UNITED STATES V. BOOKER 543 U. S. ____ (2005) SUPREME COURT OF THE UNITED STATES NOS. 04-104 AND 04-105 UNITED STATES, PETITIONER</p>

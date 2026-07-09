@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us505-0763.html" citation="505 U.S. 763" title="Two Pesos, Inc. v. Taco Cabana, Inc.">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinions &amp; Dissents">
     <n id="p763">763</n>
     <p>OCTOBER TERM, 1991</p>

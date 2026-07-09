@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us370-0940.html" citation="370 U.S. 940" title="N. v. HANDELSBUREAU LA MOLA V. KENNEDY">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinions &amp; Dissents">
     <n id="p940">940</n>
     <h2>U.S. Supreme Court</h2>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us561-0001.html" citation="561 U.S. 1" title="Holder v. Humanitarian Law Project">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Roberts">
     <n id="p1">1</n>
     <p>561 U. S. ____ (2010) 561 U. S. ____ (2010) 561 U. S. ____ (2010) SUPREME COURT OF THE UNITED STATES NOS. 08-1498 AND 09-89 ERIC H. HOLDER, Jr., ATTORNEY GENERAL, et al., PETITIONERS</p>

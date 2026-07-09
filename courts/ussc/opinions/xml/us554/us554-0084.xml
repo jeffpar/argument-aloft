@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us554-0084.html" citation="554 U.S. 84" title="Meacham v. Knolls Atomic Power Laboratory">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Souter">
     <n id="p84">84</n>
     <p>OPINION OF THE COURT MEACHAM V. KNOLLS ATOMIC POWER LABORATORY 554 U. S. ____ (2008) SUPREME COURT OF THE UNITED STATES NO. 06-1505 CLIFFORD B. MEACHAM, et al., PETITIONERS v. KNOLLS ATOMIC POWER LABORATORY, aka KAPL, INC., et al.</p>

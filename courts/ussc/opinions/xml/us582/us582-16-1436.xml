@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us582-16-1436.html" citation="582 U.S. 16-1436" title="Trump. v. International Refugee Assistance Project">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Per Curiam">
     <p>SUPREME COURT OF THE UNITED STATES</p>
     <p>Nos. 16–1436 (16A1190) and 16–1540 (16A1191)</p>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us563-0170.html" citation="563 U.S. 170" title="Cullen v. Pinholster">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Thomas">
     <n id="p170">170</n>
     <p>OPINION OF THE COURT CULLEN V. PINHOLSTER 563 U. S. ____ (2011) SUPREME COURT OF THE UNITED STATES NO. 09-1088 VINCENT CULLEN, ACTING WARDEN, PETITIONER v. SCOTT LYNN PINHOLSTER</p>

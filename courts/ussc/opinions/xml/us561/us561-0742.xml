@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us561-0742.html" citation="561 U.S. 742" title="McDonald v. City of Chicago">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Alito">
     <n id="p742">742</n>
     <p>OPINION OF THE COURT MCDONALD V. CHICAGO 561 U. S. ____ (2010) SUPREME COURT OF THE UNITED STATES NO. 08-1521 OTIS McDONALD, et al., PETITIONERS v. CITY OF CHICAGO, ILLINOIS, et al.</p>

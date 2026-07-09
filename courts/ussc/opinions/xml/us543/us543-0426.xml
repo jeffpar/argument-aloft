@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us543-0426.html" citation="543 U.S. 426" title="Commissioner v. Banks">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Kennedy">
     <n id="p426">426</n>
     <p>OPINION OF THE COURT COMMISSIONER V. BANKS 543 U. S. ____ (2005) SUPREME COURT OF THE UNITED STATES NOS. 03-892 AND 03-907 COMMISSIONER OF INTERNAL REVENUE, PETITIONER</p>

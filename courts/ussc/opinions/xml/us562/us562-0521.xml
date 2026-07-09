@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us562-0521.html" citation="562 U.S. 521" title="Skinner v. Switzer">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Ginsburg">
     <n id="p521">521</n>
     <p>OPINION OF THE COURT SKINNER V. SWITZER 562 U. S. ____ (2011) SUPREME COURT OF THE UNITED STATES NO. 09-9000 HENRY W. SKINNER, PETITIONER v. LYNN SWITZER, DISTRICT ATTORNEY FOR THE 31st JUDICIAL DISTRICT OF TEXAS</p>

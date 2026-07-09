@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us470-0903.html" citation="470 U.S. 903" title="BOARD OF ED. v. NATIONAL GAY TASK FORCE">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinions &amp; Dissents">
     <n id="p903">903</n>
     <h2>U.S. Supreme Court</h2>

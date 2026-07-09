@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us546-0470.html" citation="546 U.S. 470" title="Domino's Pizza, Inc. v. McDonald">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Scalia">
     <n id="p470">470</n>
     <p>OPINION OF THE COURT DOMINO'S PIZZA, INC. V. MCDONALD 546 U. S. ____ (2006) SUPREME COURT OF THE UNITED STATES NO. 04-593 DOMINO’S PIZZA, INC., et al., PETITIONERS v. JOHN McDONALD</p>

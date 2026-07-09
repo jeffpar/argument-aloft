@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us556-0303.html" citation="556 U.S. 303" title="Corley v. United States">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Souter">
     <n id="p303">303</n>
     <p>OPINION OF THE COURT CORLEY V. UNITED STATES 556 U. S. ____ (2009) SUPREME COURT OF THE UNITED STATES NO. 07-10441 JOHNNIE CORLEY, PETITIONER v. UNITED STATES</p>

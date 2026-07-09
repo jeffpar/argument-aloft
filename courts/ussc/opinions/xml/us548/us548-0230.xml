@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us548-0230.html" citation="548 U.S. 230" title="Randall v. Sorrell">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Breyer">
     <n id="p230">230</n>
     <p>OPINION OF BREYER, J. RANDALL V. SORRELL 548 U. S. ____ (2006) SUPREME COURT OF THE UNITED STATES NOS. 04-1528, 04-1530 AND 04-1697 NEIL RANDALL, et al., PETITIONERS</p>

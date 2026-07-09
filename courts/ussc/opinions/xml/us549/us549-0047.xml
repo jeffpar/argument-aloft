@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us549-0047.html" citation="549 U.S. 47" title="Lopez v. Gonzales">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Souter">
     <n id="p47">47</n>
     <p>OPINION OF THE COURT LOPEZ V. GONZALES 549 U. S. ____ (2006) SUPREME COURT OF THE UNITED STATES NO. 05-547 JOSE ANTONIO LOPEZ, PETITIONER v. ALBERTO R. GONZALES, Attorney General</p>

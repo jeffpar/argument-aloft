@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us036-0420.html" citation="36 U.S. 420" title="Proprietors of Charles River Bridge v. Proprietors of Warren Bridge">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinions &amp; Dissents">
     <n id="p420">420</n>
     <p>U.S. Supreme Court</p>

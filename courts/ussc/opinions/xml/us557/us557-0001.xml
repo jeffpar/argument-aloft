@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us557-0001.html" citation="557 U.S. 1" title="Polar Tankers, Inc. v. City of Valdez">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Breyer">
     <n id="p1">1</n>
     <p>OPINION OF THE COURT POLAR TANKERS, INC. V. CITY OF VALDEZ 557 U. S. ____ (2009) SUPREME COURT OF THE UNITED STATES NO. 08-310 POLAR TANKERS, INC., PETITIONER v. CITY OF VALDEZ, ALASKA</p>

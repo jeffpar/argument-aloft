@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us549-0183.html" citation="549 U.S. 183" title="Gonzales v. Duenas-Alvare">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Breyer">
     <n id="p183">183</n>
     <p>OPINION OF THE COURT GONZALES V. DUENAS-ALVAREZ 549 U. S. ____ (2007) SUPREME COURT OF THE UNITED STATES NO. 05-1629 ALBERTO R. GONZALES, ATTORNEY GENERAL, PETITIONER v. LUIS ALEXANDER DUENAS- ALVAREZ</p>

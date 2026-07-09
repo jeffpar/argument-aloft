@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us541-0509.html" citation="541 U.S. 509" title="Tennessee v. Lane">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Stevens">
     <n id="p509">509</n>
     <p>OPINION OF THE COURT TENNESSEE V. LANE 541 U. S. ____ (2004) SUPREME COURT OF THE UNITED STATES NO. 02-1667 TENNESSEE, PETITIONER v. GEORGE LANE et al.</p>

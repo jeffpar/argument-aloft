@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us544-0133.html" citation="544 U.S. 133" title="Brown v. Payton">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Kennedy">
     <n id="p133">133</n>
     <p>OPINION OF THE COURT BROWN V. PAYTON 544 U. S. ____ (2005) SUPREME COURT OF THE UNITED STATES NO. 03-1039 JILL L. BROWN, WARDEN, PETITIONER v. WILLIAM CHARLES PAYTON</p>

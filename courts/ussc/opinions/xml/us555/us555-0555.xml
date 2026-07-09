@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us555-0555.html" citation="555 U.S. 555" title="Wyeth v. Levine">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Stevens">
     <n id="p555">555</n>
     <p>OPINION OF THE COURT WYETH V. LEVINE 555 U. S. ____ (2009) SUPREME COURT OF THE UNITED STATES NO. 06-1249 WYETH, PETITIONER v. DIANA LEVINE</p>

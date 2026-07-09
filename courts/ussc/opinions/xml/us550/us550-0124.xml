@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us550-0124.html" citation="550 U.S. 124" title="Gonzales v. Carhart">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Kennedy">
     <n id="p124">124</n>
     <p>OPINION OF THE COURT GONZALES V. CARHART 550 U. S. ____ (2007) SUPREME COURT OF THE UNITED STATES NOS. 05-380 AND 05-1382 ALBERTO R. GONZALES, ATTORNEY GENERAL, PETITIONER</p>

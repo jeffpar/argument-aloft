@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us548-0030.html" citation="548 U.S. 30" title="Fernandez-Vargas v. Gonzales">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Souter">
     <n id="p30">30</n>
     <p>OPINION OF THE COURT FERNANDEZ-VARGAS V. GONZALES 548 U. S. ____ (2006) SUPREME COURT OF THE UNITED STATES NO. 04-1376 HUMBERTO FERNANDEZ-VARGAS, PETITIONER v. ALBERTO R. GONZALES, ATTORNEY GENERAL</p>

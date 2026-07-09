@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us555-0179.html" citation="555 U.S. 179" title="Waddington v. Sarausad">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Thomas">
     <n id="p179">179</n>
     <p>OPINION OF THE COURT WADDINGTON V. SARAUSAD 555 U. S. ____ (2009) SUPREME COURT OF THE UNITED STATES NO. 07-772 DOUG WADDINGTON, SUPERINTENDENT, WASHINGTON CORRECTIONS CENTER, PETITIONER v. CESAR SARAUSAD</p>

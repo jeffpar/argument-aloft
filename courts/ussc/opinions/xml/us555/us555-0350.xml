@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us555-0350.html" citation="555 U.S. 350" title="Nelson v. United States">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Per Curiam">
     <n id="p350">350</n>
     <p>PER CURIAM NELSON V. UNITED STATES 555 U. S. ____ (2009) SUPREME COURT OF THE UNITED STATES LAWRENCE W. NELSON, aka ZIKEE v. UNITED STATES</p>

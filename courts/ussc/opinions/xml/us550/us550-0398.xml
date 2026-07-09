@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us550-0398.html" citation="550 U.S. 398" title="KSR Int'l Co. v. Teleflex Inc.">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Kennedy">
     <n id="p398">398</n>
     <p>OPINION OF THE COURT KSR INT'L CO. V. TELEFLEX INC. 550 U. S. ____ (2007) SUPREME COURT OF THE UNITED STATES NO. 04-1350 KSR INTERNATIONAL CO., PETITIONER v. TELEFLEX INC. et al.</p>

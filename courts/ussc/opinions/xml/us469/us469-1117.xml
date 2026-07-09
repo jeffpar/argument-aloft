@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us469-1117.html" citation="469 U.S. 1117" title="BUSHEY v. NEW YORK STATE CIVIL SERVICE COM'N">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinions &amp; Dissents">
     <n id="p1117">1117</n>
     <p>U.S. Supreme Court</p>

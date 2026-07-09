@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us552-0038.html" citation="552 U.S. 38" title="Gall v. United States">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Stevens">
     <n id="p38">38</n>
     <p>OPINION OF THE COURT GALL V. UNITED STATES 552 U. S. ____ (2007) SUPREME COURT OF THE UNITED STATES NO. 06-7949 BRIAN MICHAEL GALL, PETITIONER v. UNITED STATES</p>

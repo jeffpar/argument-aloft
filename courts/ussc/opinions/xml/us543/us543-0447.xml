@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us543-0447.html" citation="543 U.S. 447" title="Bell v. Cone">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Per Curiam">
     <n id="p447">447</n>
     <p>PER CURIAM BELL V. CONE 543 U. S. ____ (2005) SUPREME COURT OF THE UNITED STATES RICKY BELL, WARDEN v. GARY BRADFORD CONE</p>

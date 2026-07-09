@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us544-0431.html" citation="544 U.S. 431" title="Bates v. Dow Agrosciences LLC">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Stevens">
     <n id="p431">431</n>
     <p>OPINION OF THE COURT BATES V. DOW AGROSCIENCES LLC 544 U. S. ____ (2005) SUPREME COURT OF THE UNITED STATES NO. 03-388 DENNIS BATES, et al., PETITIONERS v. DOW AGROSCIENCES LLC</p>

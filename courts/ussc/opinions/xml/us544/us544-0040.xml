@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us544-0040.html" citation="544 U.S. 40" title="Ballard v. Commissioner">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Ginsburg">
     <n id="p40">40</n>
     <p>OPINION OF THE COURT BALLARD V. COMMISSIONER 544 U. S. ____ (2005) SUPREME COURT OF THE UNITED STATES NOS. 03-184 AND 03-1034 CLAUDE M. BALLARD, et ux., PETITIONERS</p>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us557-0404.html" citation="557 U.S. 404" title="Atlantic Sounding Co. v. Townsend">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Thomas">
     <n id="p404">404</n>
     <p>557 U. S. ____ (2009) ATLANTIC SOUNDING CO. V. TOWNSEND 557 U. S. ____ (2009) SUPREME COURT OF THE UNITED STATES NO. 08-214 ATLANTIC SOUNDING CO., INC., et al., PETITIONERS v. EDGAR L. TOWNSEND</p>

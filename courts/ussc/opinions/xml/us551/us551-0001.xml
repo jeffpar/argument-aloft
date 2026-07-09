@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us551-0001.html" citation="551 U.S. 1" title="Uttecht v. Brown">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Kennedy">
     <n id="p1">1</n>
     <p>OPINION OF THE COURT UTTECHT V. BROWN 551 U. S. ____ (2007) SUPREME COURT OF THE UNITED STATES NO. 06-413 JEFFREY UTTECHT, SUPERINTENDENT, WASH- INGTON STATE PENITENTIARY, PETITIONER v. CAL COBURN BROWN</p>

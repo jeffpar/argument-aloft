@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us553-0550.html" citation="553 U.S. 550" title="Regalado Cuellar v. United States">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Thomas">
     <n id="p550">550</n>
     <p>OPINION OF THE COURT REGALADO CUELLAR V. UNITED STATES 553 U. S. ____ (2008) SUPREME COURT OF THE UNITED STATES NO. 06-1456 HUMBERTO FIDEL REGALADO CUELLAR, PETITIONER v. UNITED STATES</p>

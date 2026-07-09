@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us541-0774.html" citation="541 U.S. 774" title="City of Littleton v. Z. J. Gifts D-4, L. L. C.">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Breyer">
     <n id="p774">774</n>
     <p>OPINION OF THE COURT CITY OF LITTLETON V. Z. J. GIFTS D-4, L. L. C. 541 U. S. ____ (2004) SUPREME COURT OF THE UNITED STATES NO. 02-1609 CITY OF LITTLETON, COLORADO, PETITIONER v. Z. J. GIFTS D–4, L. L. C., a limited liability company, dba CHRISTAL’S</p>

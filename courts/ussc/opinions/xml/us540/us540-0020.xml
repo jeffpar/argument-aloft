@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us540-0020.html" citation="540 U.S. 20" title="Barnhart v. Thomas">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Scalia">
     <n id="p20">20</n>
     <p>OPINION OF THE COURT BARNHART V. THOMAS 540 U. S. ____ (2003) SUPREME COURT OF THE UNITED STATES NO. 02-763 JO ANNE B. BARNHART, COMMISSIONER OF SOCIAL SECURITY, PETITIONER v. PAULINE THOMAS</p>

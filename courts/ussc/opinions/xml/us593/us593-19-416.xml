@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us593-19-416.html" citation="593 U.S. 19-416" title="Nestlé USA, Inc. v. Doe">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Sotomayor">
     <p>SUPREME COURT OF THE UNITED STATES</p>
     <p>Nos. 19–416 and 19–453</p>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us554-0164.html" citation="554 U.S. 164" title="Indiana v. Edwards">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Breyer">
     <n id="p164">164</n>
     <p>OPINION OF THE COURT INDIANA V. EDWARDS 554 U. S. ____ (2008) SUPREME COURT OF THE UNITED STATES NO. 07-208 INDIANA, PETITIONER v. AHMAD EDWARDS</p>

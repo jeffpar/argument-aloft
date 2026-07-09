@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us559-0356.html" citation="559 U.S. 356" title="Padilla v. Kentucky">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Stevens">
     <n id="p356">356</n>
     <p>OPINION OF THE COURT PADILLA V. KENTUCKY 559 U. S. ____ (2010) SUPREME COURT OF THE UNITED STATES NO. 08-651 JOSE PADILLA, PETITIONER v. KENTUCKY</p>

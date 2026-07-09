@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us540-0093.html" citation="540 U.S. 93" title="McConnell v. FEC">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Rehnquist">
     <n id="p93">93</n>
     <p>OPINION OF THE COURT MCCONNELL V. FEDERAL ELECTION COMM'N 540 U. S. ____ (2003) SUPREME COURT OF THE UNITED STATES NOS. 02-1674, 02-1675, 02-1676, 02-1702, 02-1727, 02-1733, 02-1734;02-1740, 02-1747, 02-1753, 02-1755, AND 02-1756 MITCH McCONNELL, UNITED STATES SENATOR, et al., APPELLANTS</p>

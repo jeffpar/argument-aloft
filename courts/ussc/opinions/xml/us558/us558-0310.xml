@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us558-0310.html" citation="558 U.S. 310" title="Citizens United v. FEC">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Kennedy">
     <n id="p310">310</n>
     <p>OPINION OF THE COURT CITIZENS UNITED V. FEDERAL ELECTION COMM'N 558 U. S. ____ (2010) SUPREME COURT OF THE UNITED STATES NO. 08-205 CITIZENS UNITED, APPELLANT v. FEDERAL ELECTION COMMISSION</p>

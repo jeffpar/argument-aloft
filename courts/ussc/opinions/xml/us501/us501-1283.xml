@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us501-1283.html" citation="501 U.S. 1283" title="EDAP, S.A. v. RICHARD WOLD GMBH">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinions &amp; Dissents">
     <n id="p1283">1283</n>
     <h2>U.S. Supreme Court</h2>

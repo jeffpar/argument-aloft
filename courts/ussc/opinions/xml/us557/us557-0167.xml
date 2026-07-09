@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us557-0167.html" citation="557 U.S. 167" title="Gross v. FBL Financial Services, Inc.">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Thomas">
     <n id="p167">167</n>
     <p>OPINION OF THE COURT GROSS V. FBL FINANCIAL SERVICES, INC. 557 U. S. ____ (2009) SUPREME COURT OF THE UNITED STATES NO. 08-441 JACK GROSS, PETITIONER v. FBL FINANCIAL SERVICES, INC.</p>

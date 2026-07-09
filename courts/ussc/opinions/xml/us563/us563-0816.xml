@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us563-0816.html" citation="563 U.S. 816" title="McNeill v. United States">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Thomas">
     <n id="p816">816</n>
     <p>OPINION OF THE COURT MCNEILL V. UNITED STATES 563 U. S. ____ (2011) SUPREME COURT OF THE UNITED STATES NO. 10-5258 CLIFTON TERELLE McNEILL, PETITIONER v. UNITED STATES</p>

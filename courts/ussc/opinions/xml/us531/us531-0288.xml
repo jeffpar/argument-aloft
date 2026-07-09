@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us531-0288.html" citation="531 U.S. 288" title="Brentwood Academy v. Tennessee Secondary School Athletic Assn.">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinions &amp; Dissents">
     <n id="p288">288</n>
     <p>OCTOBER TERM, 2000</p>

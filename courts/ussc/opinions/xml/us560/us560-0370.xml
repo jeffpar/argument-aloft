@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us560-0370.html" citation="560 U.S. 370" title="Berghuis v. Thompkins">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Kennedy">
     <n id="p370">370</n>
     <p>OPINION OF THE COURT BERGHUIS V. THOMPKINS 560 U. S. ____ (2010) SUPREME COURT OF THE UNITED STATES NO. 08-1470 MARY BERGHUIS, WARDEN, PETITIONER v. VAN CHESTER THOMPKINS</p>

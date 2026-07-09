@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us540-0389.html" citation="540 U.S. 389" title="SEC v. Edwards">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="O’Connor">
     <n id="p389">389</n>
     <p>OPINION OF THE COURT SEC V. EDWARDS 540 U. S. ____ (2004) SUPREME COURT OF THE UNITED STATES NO. 02-1196 SECURITIES AND EXCHANGE COMMISSION, PETITIONER v. CHARLES E. EDWARDS</p>

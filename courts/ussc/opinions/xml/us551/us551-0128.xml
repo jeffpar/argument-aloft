@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us551-0128.html" citation="551 U.S. 128" title="United States v. Atlantic Research Corp.">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Thomas">
     <n id="p128">128</n>
     <p>OPINION OF THE COURT UNITED STATES V. ATLANTIC RESEARCH CORP. 551 U. S. ____ (2007) SUPREME COURT OF THE UNITED STATES NO. 06-562 UNITED STATES, PETITIONER v. ATLANTIC RESEARCH CORPORATION</p>

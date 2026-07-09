@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us552-0346.html" citation="552 U.S. 346" title="Preston v. Ferrer">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Ginsburg">
     <n id="p346">346</n>
     <p>OPINION OF THE COURT PRESTON V. FERRER 552 U. S. ____ (2008) SUPREME COURT OF THE UNITED STATES NO. 06-1463 ARNOLD M. PRESTON, PETITIONER v. ALEX E. FERRER</p>

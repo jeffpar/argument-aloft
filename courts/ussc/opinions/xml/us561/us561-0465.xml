@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us561-0465.html" citation="561 U.S. 465" title="Black v. United States">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Ginsburg">
     <n id="p465">465</n>
     <p>OPINION OF THE COURT BLACK V. UNITED STATES 561 U. S. ____ (2010) SUPREME COURT OF THE UNITED STATES NO. 08-876 CONRAD M. BLACK, JOHN A. BOULTBEE, and MARK S. KIPNIS, PETITIONERS v. UNITED STATES</p>

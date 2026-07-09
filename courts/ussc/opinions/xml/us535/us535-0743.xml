@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us535-0743.html" citation="535 U.S. 743" title="Federal Maritime Comm'n v. South Carolina Ports Authority">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinions &amp; Dissents">
     <n id="p743">743</n>
     <p>OCTOBER TERM, 2001</p>

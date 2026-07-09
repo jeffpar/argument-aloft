@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us555-0305.html" citation="555 U.S. 305" title="United States v. Eurodif S. A.">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Souter">
     <n id="p305">305</n>
     <p>OPINION OF THE COURT UNITED STATES V. EURODIF S.&amp;NBSP;A. 555 U. S. ____ (2009) SUPREME COURT OF THE UNITED STATES NOS. 07-1059 AND 07-1078 UNITED STATES, PETITIONER</p>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us555-0353.html" citation="555 U.S. 353" title="Ysursa v. Pocatello Ed. Assn.">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Roberts">
     <n id="p353">353</n>
     <p>OPINION OF THE COURT YSURSA V. POCATELLO ED. ASSN. 555 U. S. ____ (2009) SUPREME COURT OF THE UNITED STATES NO. 07-869 BEN YSURSA, IDAHO SECRETARY OF STATE, et al., PETITIONERS v. POCATELLO EDUCATION ASSOCIATION et al.</p>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us549-0118.html" citation="549 U.S. 118" title="MedImmune, Inc. v. Genentech, Inc.">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Scalia">
     <n id="p118">118</n>
     <p>OPINION OF THE COURT MEDIMMUNE, INC. V. GENENTECH, INC. 549 U. S. ____ (2007) SUPREME COURT OF THE UNITED STATES NO. 05-608 MEDIMMUNE, INC., PETITIONER v. GENENTECH, INC., et al.</p>

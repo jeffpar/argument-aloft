@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us564-0135.html" citation="564 U.S. 135" title="Janus Capital Group, Inc. v. First Derivative Traders">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Thomas">
     <n id="p135">135</n>
     <p>OPINION OF THE COURT JANUS CAPITAL GROUP, INC. V. FIRST DERIVATIVE TRADERS 564 U. S. ____ (2011) SUPREME COURT OF THE UNITED STATES NO. 09-525 JANUS CAPITAL GROUP, INC., et al., PETITIONERS v. FIRST DERIVATIVE TRADERS</p>

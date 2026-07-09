@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us550-0001.html" citation="550 U.S. 1" title="Watters v. Wachovia Bank, N. A.">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Ginsburg">
     <n id="p1">1</n>
     <p>OPINION OF THE COURT WATTERS V. WACHOVIA BANK, N.&amp;NBSP;A. 550 U. S. ____ (2007) SUPREME COURT OF THE UNITED STATES NO. 05-1342 LINDA A. WATTERS, COMMISSIONER, MICHIGAN OFFICE OF INSURANCE AND FINANCIAL SERVICES, PETITIONER v. WACHOVIA BANK, N. A., et al.</p>

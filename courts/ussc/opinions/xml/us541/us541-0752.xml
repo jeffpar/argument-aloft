@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us541-0752.html" citation="541 U.S. 752" title="Department of Transportation v. Public Citizen">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Thomas">
     <n id="p752">752</n>
     <p>OPINION OF THE COURT DEPARTMENT OF TRANSPORTATION V. PUBLICCITIZEN 541 U. S. ____ (2004) SUPREME COURT OF THE UNITED STATES NO. 03-358 DEPARTMENT OF TRANSPORTATION, et al., PETITIONERS v. PUBLIC CITIZEN et al.</p>

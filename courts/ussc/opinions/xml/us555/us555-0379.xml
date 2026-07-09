@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us555-0379.html" citation="555 U.S. 379" title="Carcieri v. Salazar">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Thomas">
     <n id="p379">379</n>
     <p>OPINION OF THE COURT CARCIERI V. SALAZAR 555 U. S. ____ (2009) SUPREME COURT OF THE UNITED STATES NO. 07-526 DONALD L. CARCIERI, GOVERNOR OF RHODE ISLAND, et al., PETITIONERS v. KEN L. SALAZAR, SECRETARY OF THE INTERIOR, et al.</p>

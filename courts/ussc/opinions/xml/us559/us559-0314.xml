@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us559-0314.html" citation="559 U.S. 314" title="Berghuis v. Smith">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Ginsburg">
     <n id="p314">314</n>
     <p>OPINION OF THE COURT BERGHUIS V. SMITH 559 U. S. ____ (2010) SUPREME COURT OF THE UNITED STATES NO. 08-1402 MARY BERGHUIS, WARDEN, PETITIONER v. DIAPOLIS SMITH</p>

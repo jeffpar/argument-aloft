@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us558-0290.html" citation="558 U.S. 290" title="Wood v. Allen">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Sotomayor">
     <n id="p290">290</n>
     <p>OPINION OF THE COURT WOOD V. ALLEN 558 U. S. ____ (2010) SUPREME COURT OF THE UNITED STATES NO. 08-9156 HOLLY WOOD, PETITIONER v. RICHARD F. ALLEN, COMMISSIONER, ALABAMA DEPARTMENT OF CORRECTIONS, et al.</p>

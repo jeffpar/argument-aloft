@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us547-0512.html" citation="547 U.S. 512" title="Whitman v. Department of Transportation">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Per Curiam">
     <n id="p512">512</n>
     <p>PER CURIAM WHITMAN V. DEPARTMENT OF TRANSPORTATION 547 U. S. ____ (2006) SUPREME COURT OF THE UNITED STATES NO. 04-1131 TERRY L. WHITMAN, PETITIONER v. DEPARTMENT OF TRANSPORTATION et al.</p>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us544-0001.html" citation="544 U.S. 1" title="Tenet v. Doe">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Rehnquist">
     <n id="p1">1</n>
     <p>OPINION OF THE COURT TENET V. DOE 544 U. S. ____ (2005) SUPREME COURT OF THE UNITED STATES NO. 03-1395 GEORGE J. TENET, INDIVIDUALLY, PORTER J. GOSS, DIRECTOR OF CENTRAL INTELLI- GENCE AND DIRECTOR OF THE CEN- TRAL INTELLIGENCE AGENCY, AND UNITED STATES, PETITIONERS v. JOHN DOE et ux.</p>

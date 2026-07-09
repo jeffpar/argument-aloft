@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us563-0731.html" citation="563 U.S. 731" title="Ashcroft v. al-Kidd">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Scalia">
     <n id="p731">731</n>
     <p>OPINION OF THE COURT ASHCROFT V. AL-KIDD 563 U. S. ____ (2011) SUPREME COURT OF THE UNITED STATES NO. 10-98 JOHN D. ASHCROFT, PETITIONER v. ABDULLAH al-KIDD</p>

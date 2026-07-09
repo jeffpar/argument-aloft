@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us562-0086.html" citation="562 U.S. 86" title="Harrington v. Richter">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Kennedy">
     <n id="p86">86</n>
     <p>OPINION OF THE COURT HARRINGTON V. RICHTER 562 U. S. ____ (2011) SUPREME COURT OF THE UNITED STATES NO. 09-587 KELLY HARRINGTON, WARDEN, PETITIONER v. JOSHUA RICHTER</p>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us232-0318.html" citation="232 U.S. 318" title="Harrison v. St. Louis &amp;amp; San Francisco R. Co.">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinions &amp; Dissents">
     <n id="p318">318</n>
     <h2>U.S. Supreme Court</h2>

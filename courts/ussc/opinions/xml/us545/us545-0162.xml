@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us545-0162.html" citation="545 U.S. 162" title="Johnson v. California">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Stevens">
     <n id="p162">162</n>
     <p>OPINION OF THE COURT JOHNSON V. CALIFORNIA 545 U. S. ____ (2005) SUPREME COURT OF THE UNITED STATES NO. 04-6964 JAY SHAWN JOHNSON, PETITIONER v. CALIFORNIA</p>

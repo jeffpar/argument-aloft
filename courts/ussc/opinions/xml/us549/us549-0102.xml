@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us549-0102.html" citation="549 U.S. 102" title="United States v. Resendiz-Ponce">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Stevens">
     <n id="p102">102</n>
     <p>OPINION OF THE COURT UNITED STATES V. RESENDIZ-PONCE 549 U. S. ____ (2007) SUPREME COURT OF THE UNITED STATES NO. 05-998 UNITED STATES, PETITIONER v. JUAN RESENDIZ- PONCE</p>

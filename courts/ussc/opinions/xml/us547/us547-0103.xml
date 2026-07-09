@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us547-0103.html" citation="547 U.S. 103" title="Georgia v. Randolph">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Souter">
     <n id="p103">103</n>
     <p>OPINION OF THE COURT GEORGIA V. RANDOLPH 547 U. S. ____ (2006) SUPREME COURT OF THE UNITED STATES NO. 04-1067 GEORGIA, PETITIONER v. SCOTT FITZ RANDOLPH</p>

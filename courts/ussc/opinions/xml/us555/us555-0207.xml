@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us555-0207.html" citation="555 U.S. 207" title="Locke v. Karass">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Breyer">
     <n id="p207">207</n>
     <p>OPINION OF THE COURT LOCKE V. KARASS 555 U. S. ____ (2009) SUPREME COURT OF THE UNITED STATES NO. 07-610 DANIEL B. LOCKE, et al., PETITIONERS v. EDWARD A. KARASS, STATE CONTROLLER, et al.</p>

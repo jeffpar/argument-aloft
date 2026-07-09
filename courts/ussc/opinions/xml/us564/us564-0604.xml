@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us564-0604.html" citation="564 U.S. 604" title="PLIVA, Inc. v. Mensing">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Thomas">
     <n id="p604">604</n>
     <p>OPINION OF THE COURT PLIVA, INC. V. MENSING 564 U. S. ____ (2011) SUPREME COURT OF THE UNITED STATES NOS. 09-993, 09-1039, AND 09-1501 PLIVA, INC., et al., PETITIONERS</p>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us557-0110.html" citation="557 U.S. 110" title="Yeager v. United States">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Stevens">
     <n id="p110">110</n>
     <p>OPINION OF THE COURT YEAGER V. UNITED STATES 557 U. S. ____ (2009) SUPREME COURT OF THE UNITED STATES NO. 08-67 F. SCOTT YEAGER, PETITIONER v. UNITED STATES</p>

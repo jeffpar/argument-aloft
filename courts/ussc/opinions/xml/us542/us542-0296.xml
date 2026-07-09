@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us542-0296.html" citation="542 U.S. 296" title="Blakely v. Washington">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Scalia">
     <n id="p296">296</n>
     <p>OPINION OF THE COURT BLAKELY V. WASHINGTON 542 U. S. ____ (2004) SUPREME COURT OF THE UNITED STATES NO. 02-1632 RALPH HOWARD BLAKELY, Jr., PETITIONER v. WASHINGTON</p>

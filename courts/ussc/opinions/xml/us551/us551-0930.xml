@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us551-0930.html" citation="551 U.S. 930" title="Panetti v. Quarterman">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Kennedy">
     <n id="p930">930</n>
     <p>OPINION OF THE COURT PANETTI V. QUARTERMAN 551 U. S. ____ (2007) SUPREME COURT OF THE UNITED STATES NO. 06-6407 SCOTT LOUIS PANETTI, PETITIONER v. NATHANIEL QUARTERMAN, DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, CORRECTIONAL INSTITUTIONS DIVISION</p>

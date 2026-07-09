@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us555-0488.html" citation="555 U.S. 488" title="Summers v. Earth Island Institute">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Scalia">
     <n id="p488">488</n>
     <p>OPINION OF THE COURT SUMMERS V. EARTH ISLAND INSTITUTE 555 U. S. ____ (2009) SUPREME COURT OF THE UNITED STATES NO. 07-463 PRISCILLA SUMMERS, et al., PETITIONERS v. EARTH ISLAND INSTITUTE et al.</p>

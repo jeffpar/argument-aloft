@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us540-0375.html" citation="540 U.S. 375" title="Castro v. United States">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Breyer">
     <n id="p375">375</n>
     <p>OPINION OF THE COURT CASTRO V. UNITED STATES 540 U. S. ____ (2003) SUPREME COURT OF THE UNITED STATES NO. 02-6683 HERNAN O’RYAN CASTRO, PETITIONER v. UNITED STATES</p>

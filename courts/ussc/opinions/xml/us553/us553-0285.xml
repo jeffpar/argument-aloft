@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us553-0285.html" citation="553 U.S. 285" title="United States v. Williams">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Scalia">
     <n id="p285">285</n>
     <p>OPINION OF THE COURT UNITED STATES V. WILLIAMS 553 U. S. ____ (2008) SUPREME COURT OF THE UNITED STATES NO. 06-694 UNITED STATES, PETITIONER v. MICHAEL WILLIAMS</p>

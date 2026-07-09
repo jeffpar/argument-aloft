@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us538-0488.html" citation="538 U.S. 488" title="Franchise Tax Bd. of Cal. v. Hyatt">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinions &amp; Dissents">
     <n id="p488">488</n>
     <p>OCTOBER TERM, 2002</p>

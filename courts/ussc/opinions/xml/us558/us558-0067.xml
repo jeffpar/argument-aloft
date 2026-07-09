@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us558-0067.html" citation="558 U.S. 67" title="Union Pacific R. Co. v. Locomotive Engineers and Trainmen Gen. Comm. of Adjustment, Central Region">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Ginsburg">
     <n id="p67">67</n>
     <p>OPINION OF THE COURT 558 U. S. ____ (2009) 558 U. S. ____ (2009) SUPREME COURT OF THE UNITED STATES NO. 08-604 UNION PACIFIC RAILROAD COMPANY, PETITIONER v. BROTHERHOOD OF LOCOMOTIVE ENGINEERS AND TRAINMEN GENERAL COMMITTEE OF ADJUSTMENT, CENTRAL REGION</p>

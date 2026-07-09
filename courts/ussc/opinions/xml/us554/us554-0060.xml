@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us554-0060.html" citation="554 U.S. 60" title="Chamber of Commerce of United States v. Brown">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Stevens">
     <n id="p60">60</n>
     <p>OPINION OF THE COURT CHAMBER OF COMMERCE OF UNITED STATESV. BROWN 554 U. S. ____ (2008) SUPREME COURT OF THE UNITED STATES NO. 06-939 CHAMBER OF COMMERCE OF THE UNITED STATES OF AMERICA, et al., PETITIONERS v. EDMUND G. BROWN, Jr., ATTORNEY GENERAL OF CALIFORNIA, et al.</p>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us547-0332.html" citation="547 U.S. 332" title="DaimlerChrysler Corp. v. Cuno">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Roberts">
     <n id="p332">332</n>
     <p>OPINION OF THE COURT DAIMLERCHRYSLER CORP. V. CUNO 547 U. S. ____ (2006) SUPREME COURT OF THE UNITED STATES NOS. 04-1704 AND 04-1724 DAIMLERCHRYSLER CORPORATION, et al., PETITIONERS</p>

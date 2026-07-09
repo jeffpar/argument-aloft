@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us555-0113.html" citation="555 U.S. 113" title="Jimenez v. Quarterman">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Thomas">
     <n id="p113">113</n>
     <p>OPINION OF THE COURT JIMENEZ V. QUARTERMAN 555 U. S. ____ (2009) SUPREME COURT OF THE UNITED STATES NO. 07-6984 CARLOS JIMENEZ, PETITIONER v. NATHANIEL QUARTERMAN, DIRECTOR, TEXAS DEPART- MENT OF CRIMINAL JUSTICE, CORREC- TIONAL INSTITUTIONS DIVISION</p>

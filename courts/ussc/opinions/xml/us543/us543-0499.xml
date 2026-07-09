@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us543-0499.html" citation="543 U.S. 499" title="Johnson v. California">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="O’Connor">
     <n id="p499">499</n>
     <p>OPINION OF THE COURT JOHNSON V. CALIFORNIA 543 U. S. ____ (2005) SUPREME COURT OF THE UNITED STATES NO. 03-636 GARRISON S. JOHNSON, PETITIONER v. CALIFORNIA et al.</p>

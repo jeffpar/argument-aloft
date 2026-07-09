@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us510-1309.html" citation="510 U.S. 1309" title="Planned Parenthood of Southeastern Pa. v. Casey">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinions &amp; Dissents">
     <n id="p1309">1309</n>
     <p>OCTOBER TERM, 1993</p>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us564-0552.html" citation="564 U.S. 552" title="Sorrell v. IMS Health, Inc.">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Kennedy">
     <n id="p552">552</n>
     <p>OPINION OF THE COURT SORRELL V. IMS HEALTH INC. 564 U. S. ____ (2011) SUPREME COURT OF THE UNITED STATES NO. 10-779 WILLIAM H. SORRELL, ATTORNEY GENERAL OF VERMONT, et al., PETITIONERS v. IMS HEALTH INC. et al.</p>

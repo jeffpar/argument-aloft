@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us553-0164.html" citation="553 U.S. 164" title="Virginia v. Moore">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Scalia">
     <n id="p164">164</n>
     <p>OPINION OF THE COURT VIRGINIA V. MOORE 553 U. S. ____ (2008) SUPREME COURT OF THE UNITED STATES NO. 06-1082 VIRGINIA, PETITIONER v. DAVID LEE MOORE</p>

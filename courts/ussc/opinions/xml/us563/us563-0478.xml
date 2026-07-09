@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us563-0478.html" citation="563 U.S. 478" title="General Dynamics Corp. v. United States; The Boeing Co. v. United States">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Scalia">
     <n id="p478">478</n>
     <p>OPINION OF THE COURT GENERAL DYNAMICS CORP. V. UNITED STATES 563 U. S. ____ (2011) SUPREME COURT OF THE UNITED STATES NOS. 09-1298 AND 09-1302 GENERAL DYNAMICS CORPORATION, PETITIONER</p>

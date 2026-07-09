@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us559-0335.html" citation="559 U.S. 335" title="Jones v. Harris Associates L. P.">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Alito">
     <n id="p335">335</n>
     <p>OPINION OF THE COURT JONES V. HARRIS ASSOCIATES L. P. 559 U. S. ____ (2010) SUPREME COURT OF THE UNITED STATES NO. 08-586 JERRY N. JONES, et al., PETITIONERS v. HARRIS ASSOCIATES L. P.</p>

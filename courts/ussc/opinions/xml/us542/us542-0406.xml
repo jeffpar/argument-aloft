@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us542-0406.html" citation="542 U.S. 406" title="Beard v. Banks">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Thomas">
     <n id="p406">406</n>
     <p>OPINION OF THE COURT BEARD V. BANKS 542 U. S. ____ (2004) SUPREME COURT OF THE UNITED STATES NO. 02-1603 JEFFREY A. BEARD, SECRETARY, PENNSYLVANIA DEPARTMENT OF CORRECTIONS, et al., PETITIONERS v. GEORGE E. BANKS</p>

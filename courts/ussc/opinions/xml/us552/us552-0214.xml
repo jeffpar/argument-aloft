@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us552-0214.html" citation="552 U.S. 214" title="Ali v. Federal Bureau of Prisons">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Thomas">
     <n id="p214">214</n>
     <p>OPINION OF THE COURT ALI V. FEDERAL BUREAU OF PRISONS 552 U. S. ____ (2008) SUPREME COURT OF THE UNITED STATES NO. 06-9130 ABDUS-SHAHID M. S. ALI, PETITIONER v. FEDERAL BUREAU OF PRISONS et al.</p>

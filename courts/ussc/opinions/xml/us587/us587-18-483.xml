@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us587-18-483.html" citation="587 U.S. 18-483" title="Box v. Planned Parenthood of Indiana and Kentucky, Inc.">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Per Curiam">
     <p>SUPREME COURT OF THE UNITED STATES</p>
     <p>KRISTINA BOX, COMMISSIONER, INDIANA DEPART- MENT OF HEALTH, et al. v. PLANNED PARENTHOOD OF INDIANA AND KENTUCKY, INC., et al.</p>

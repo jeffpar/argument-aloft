@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us540-0614.html" citation="540 U.S. 614" title="Doe v. Chao">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Souter">
     <n id="p614">614</n>
     <p>OPINION OF THE COURT DOE V. CHAO 540 U. S. ____ (2004) SUPREME COURT OF THE UNITED STATES NO. 02-1377 BUCK DOE, PETITIONER v. ELAINE L. CHAO, SECRETARY OF LABOR</p>

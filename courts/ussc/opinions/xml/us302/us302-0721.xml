@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us302-0721.html" citation="302 U.S. 721" title="U S EX REL SOCIETE DE CONDENSATION ET D'APPLICATIONS">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinions &amp; Dissents">
     <n id="p721">721</n>
     <h2>U.S. Supreme Court</h2>

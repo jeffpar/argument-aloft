@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us551-0449.html" citation="551 U.S. 449" title="FEC v. Wisconsin Right to Life, Inc.">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Roberts">
     <n id="p449">449</n>
     <p>OPINION OF THE COURT FEDERAL ELECTION COMM'N V. WISCONSIN RIGHT TOLIFE, INC. 551 U. S. ____ (2007) SUPREME COURT OF THE UNITED STATES NOS. 06-969 AND 06-970 FEDERAL ELECTION COMMISSION, APPELLANT</p>

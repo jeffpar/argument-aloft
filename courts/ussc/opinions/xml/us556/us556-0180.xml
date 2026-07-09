@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us556-0180.html" citation="556 U.S. 180" title="Harbison v. Bell">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Stevens">
     <n id="p180">180</n>
     <p>OPINION OF THE COURT HARBISON V. BELL 556 U. S. ____ (2009) SUPREME COURT OF THE UNITED STATES NO. 07-8521 EDWARD JEROME HARBISON, PETITIONER v. RICKY BELL, WARDEN</p>

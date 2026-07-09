@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us560-0505.html" citation="560 U.S. 505" title="Hamilton v. Lanning">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Alito">
     <n id="p505">505</n>
     <p>OPINION OF THE COURT HAMILTON V. LANNING 560 U. S. ____ (2010) SUPREME COURT OF THE UNITED STATES NO. 08-998 JAN HAMILTON, CHAPTER 13 TRUSTEE, PETITIONER v. STEPHANIE KAY LANNING</p>

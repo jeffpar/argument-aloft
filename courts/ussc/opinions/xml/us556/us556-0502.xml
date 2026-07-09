@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us556-0502.html" citation="556 U.S. 502" title="FCC v. Fox Television Stations, Inc.">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Scalia">
     <n id="p502">502</n>
     <p>OPINION OF THE COURT FCC V. FOX TELEVISION STATIONS, INC. 556 U. S. ____ (2009) SUPREME COURT OF THE UNITED STATES NO. 07-582 FEDERAL COMMUNICATIONS COMMISSION, et al., PETITIONERS v. FOX TELEVISION STATIONS, INC., et al.</p>

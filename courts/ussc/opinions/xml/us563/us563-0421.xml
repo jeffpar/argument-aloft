@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us563-0421.html" citation="563 U.S. 421" title="CIGNA Corp. v. Amara et al.">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Breyer">
     <n id="p421">421</n>
     <p>OPINION OF THE COURT CIGNA CORP. V. AMARA 563 U. S. ____ (2011) SUPREME COURT OF THE UNITED STATES NO. 09-804 CIGNA CORPORATION, et al., PETITIONERS v. JANICE C. AMARA, et al., individually and on behalf of all others similarly situated</p>

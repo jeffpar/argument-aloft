@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us393-1077.html" citation="393 U.S. 1077" title="U.S. v. INTERSTATE COMMERCE COMMISSION">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinions &amp; Dissents">
     <n id="p1077">1077</n>
     <h2>U.S. Supreme Court</h2>

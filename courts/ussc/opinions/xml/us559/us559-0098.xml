@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us559-0098.html" citation="559 U.S. 98" title="Maryland v. Shatzer">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Scalia">
     <n id="p98">98</n>
     <p>OPINION OF THE COURT MARYLAND V. SHATZER 559 U. S. ____ (2010) SUPREME COURT OF THE UNITED STATES NO. 08-680 MARYLAND, PETITIONER v. MICHAEL BLAINE SHATZER, Sr.</p>

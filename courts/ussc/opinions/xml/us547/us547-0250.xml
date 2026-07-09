@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us547-0250.html" citation="547 U.S. 250" title="Hartman v. Moore">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Souter">
     <n id="p250">250</n>
     <p>OPINION OF THE COURT HARTMAN V. MOORE 547 U. S. ____ (2006) SUPREME COURT OF THE UNITED STATES NO. 04-1495 MICHAEL HARTMAN, FRANK KORMANN, PIERCE McINTOSH, NORMAN ROBBINS, and ROBERT EDWARDS, PETITIONERS v. WILLIAM G. MOORE, Jr.</p>

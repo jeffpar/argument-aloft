@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us421-0240.html" citation="421 U.S. 240" title="Alyeska Pipeline Svc. Co. v. Wilderness Soc'y">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinions &amp; Dissents">
     <n id="p240">240</n>
     <h2>U.S. Supreme Court</h2>

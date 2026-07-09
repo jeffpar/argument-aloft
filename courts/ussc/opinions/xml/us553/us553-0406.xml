@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us553-0406.html" citation="553 U.S. 406" title="Riley v. Kennedy">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Opinion" author="Ginsburg">
     <n id="p406">406</n>
     <p>OPINION OF THE COURT RILEY V. KENNEDY 553 U. S. ____ (2008) SUPREME COURT OF THE UNITED STATES NO. 07-77 BOB RILEY, GOVERNOR OF ALABAMA, APPELLANT v. YVONNE KENNEDY et al.</p>

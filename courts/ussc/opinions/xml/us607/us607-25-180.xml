@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us607-25-180.html" citation="607 U.S. 25-180" title="Doe v. Dynamic Physical Therapy, LLC">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Per Curiam">
     <p>SUPREME COURT OF THE UNITED STATES</p>
     <p>JOHN DOE v. DYNAMIC PHYSICAL THERAPY, LLC, et al.</p>

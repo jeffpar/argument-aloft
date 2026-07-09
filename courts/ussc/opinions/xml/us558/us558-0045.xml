@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="/assets/xsl/opinion.xsl"?>
 <case source="us558-0045.html" citation="558 U.S. 45" title="Michigan v. Fisher">
+  <script src="/assets/js/xslt-polyfill.min.js" xmlns="http://www.w3.org/1999/xhtml"></script>
   <opinion type="Per Curiam">
     <n id="p45">45</n>
     <p>PER CURIAM MICHIGAN V. FISHER 558 U. S. ____ (2009) SUPREME COURT OF THE UNITED STATES MICHIGAN v. JEREMY FISHER</p>
