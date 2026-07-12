@@ -2,9 +2,9 @@
   "version": "2.0.0",
   "tasks": [
     {
-      "label": "webserver (4010)",
+      "label": "webserver (4012)",
       "type": "shell",
-      "command": "bundle exec jekyll serve --host 0.0.0.0 --port 4010",
+      "command": "bundle exec jekyll serve --host 0.0.0.0 --port 4012",
       "isBackground": true,
       "runOptions": {
         "runOn": "folderOpen"
